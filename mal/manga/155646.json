@@ -5,6 +5,18 @@
     "url": "https://myanimelist.net/manga/155646/Ato_Ippo_Soba_ni_Kite",
     "image": "https://cdn.myanimelist.net/images/manga/1/279675.jpg",
     "Sites": {
+        "Mangadex": {
+            "3c958b3f-9074-4350-99c7-340094e7e837": {
+                "identifier": "3c958b3f-9074-4350-99c7-340094e7e837",
+                "image": "https://uploads.mangadex.org/covers/3c958b3f-9074-4350-99c7-340094e7e837/65f168e0-f3f6-4fce-8359-2d6ba88060ee.jpg",
+                "malId": 155646,
+                "aniId": 141246,
+                "page": "Mangadex",
+                "title": "One More Step, Come Stand by My Side",
+                "type": "manga",
+                "url": "https://mangadex.org/title/3c958b3f-9074-4350-99c7-340094e7e837"
+            }
+        },
         "Comick": {
             "6GhaAczN": {
                 "identifier": "6GhaAczN",
@@ -12,7 +24,8 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "One More Step, Come Stand by My Side",
-                "url": "https://comick.app/comic/one-more-step-come-stand-by-my-side"
+                "url": "https://comick.app/comic/one-more-step-come-stand-by-my-side",
+                "aniId": 141246
             },
             "iu1VsVYT": {
                 "identifier": "iu1VsVYT",
@@ -20,7 +33,8 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Rakuen",
-                "url": "https://comick.app/comic/rakuen6IMQ"
+                "url": "https://comick.app/comic/rakuen6IMQ",
+                "aniId": 141246
             },
             "KonBlWRu": {
                 "identifier": "KonBlWRu",
@@ -28,8 +42,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Shoya ga Tsutsuganaku",
-                "url": "https://comick.app/comic/shoya-ga-tsutsuganaku"
+                "url": "https://comick.app/comic/shoya-ga-tsutsuganaku",
+                "aniId": 141246
             }
         }
-    }
+    },
+    "aniId": 141246
 }
