@@ -6,6 +6,18 @@
     "image": "https://cdn.myanimelist.net/images/anime/1228/139235.jpg",
     "anidbId": null,
     "Sites": {
+        "9anime": {
+            "4qxxo": {
+                "identifier": "4qxxo",
+                "image": "https://img.aniwave.to/i/cache/images/4/4e/4e40e84b1b5ce5ed176b4caaf57742b6.jpg",
+                "malId": 56963,
+                "aniId": 137660,
+                "page": "9anime",
+                "title": "Jin Zhan Fashi",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/jin-zhan-fashi.4qxxo"
+            }
+        },
         "YugenAnime": {
             "18608": {
                 "identifier": "18608",
@@ -13,8 +25,10 @@
                 "type": "anime",
                 "page": "YugenAnime",
                 "title": "Jin Zhan Fashi",
-                "url": "https://yugenanime.tv/anime/18608/jin-zhan-fashi/"
+                "url": "https://yugenanime.tv/anime/18608/jin-zhan-fashi/",
+                "aniId": 137660
             }
         }
-    }
+    },
+    "aniId": 137660
 }

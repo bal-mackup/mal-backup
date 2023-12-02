@@ -5,6 +5,18 @@
     "url": "https://myanimelist.net/manga/150167/Dazzled_By_You",
     "image": "https://cdn.myanimelist.net/images/manga/1/266211.jpg",
     "Sites": {
+        "Mangadex": {
+            "0eebbfe0-4773-469e-aef5-8b3d9b5cfee3": {
+                "identifier": "0eebbfe0-4773-469e-aef5-8b3d9b5cfee3",
+                "image": "https://uploads.mangadex.org/covers/0eebbfe0-4773-469e-aef5-8b3d9b5cfee3/ba151246-40b6-4b4e-b8fc-aea872849d1f.png",
+                "malId": 150167,
+                "aniId": 117310,
+                "page": "Mangadex",
+                "title": "Dazzlingly Bright",
+                "type": "manga",
+                "url": "https://mangadex.org/title/0eebbfe0-4773-469e-aef5-8b3d9b5cfee3"
+            }
+        },
         "Comick": {
             "wBcyZ9ys": {
                 "identifier": "wBcyZ9ys",
@@ -12,8 +24,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Dazzlingly Bright",
-                "url": "https://comick.app/comic/00-dazzlingly-bright"
+                "url": "https://comick.app/comic/00-dazzlingly-bright",
+                "aniId": 117310
             }
         }
-    }
+    },
+    "aniId": 117310
 }
