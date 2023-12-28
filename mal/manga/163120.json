@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/163120/Regressors_Life_After_Retirement",
     "image": "https://cdn.myanimelist.net/images/manga/2/289399.jpg",
     "Sites": {
+        "Mangadex": {
+            "afe24df9-ba17-4f93-93ff-02e94cefd71f": {
+                "identifier": "afe24df9-ba17-4f93-93ff-02e94cefd71f",
+                "image": "https://uploads.mangadex.org/covers/afe24df9-ba17-4f93-93ff-02e94cefd71f/4d900a65-762a-4018-9614-f6ff28113f92.jpg",
+                "malId": 163120,
+                "aniId": 170745,
+                "page": "Mangadex",
+                "title": "Regressor’s Life After Retirement",
+                "type": "manga",
+                "url": "https://mangadex.org/title/afe24df9-ba17-4f93-93ff-02e94cefd71f"
+            }
+        },
+        "MangaNato": {
+            "manga-ug998189": {
+                "identifier": "manga-ug998189",
+                "image": "https://avt.mkklcdnv6temp.com/36/n/31-1695624651.jpg",
+                "malId": 163120,
+                "aniId": 170745,
+                "page": "MangaNato",
+                "title": "Regressor’S Life After Retirement",
+                "type": "manga",
+                "url": "https://manganato.com/manga-ug998189"
+            }
+        },
         "Comick": {
             "ntnsm1zu": {
                 "identifier": "ntnsm1zu",
@@ -12,8 +36,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Regressor’s Life After Retirement",
-                "url": "https://comick.app/comic/retirement-life-of-a-returner"
+                "url": "https://comick.cc/comic/retirement-life-of-a-returner",
+                "aniId": 170745
             }
         }
-    }
+    },
+    "aniId": 170745
 }

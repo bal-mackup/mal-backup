@@ -5,17 +5,41 @@
     "url": "https://myanimelist.net/manga/162498/Kouun_na_Kimi_to_Boku_no_Mirai",
     "image": "https://cdn.myanimelist.net/images/manga/3/288222.jpg",
     "Sites": {
+        "Mangadex": {
+            "fd0417f3-5532-4729-aa59-fdb32c99c93d": {
+                "identifier": "fd0417f3-5532-4729-aa59-fdb32c99c93d",
+                "image": "https://uploads.mangadex.org/covers/fd0417f3-5532-4729-aa59-fdb32c99c93d/f75d04e6-f025-41b4-98bd-83c7820341a6.jpg",
+                "malId": 162498,
+                "aniId": 168969,
+                "page": "Mangadex",
+                "title": "Kouun na Kimi to Boku no Mirai",
+                "type": "manga",
+                "url": "https://mangadex.org/title/fd0417f3-5532-4729-aa59-fdb32c99c93d"
+            }
+        },
         "MangaNato": {
             "manga-uf997914": {
                 "identifier": "manga-uf997914",
                 "image": "https://avt.mkklcdnv6temp.com/25/r/31-1693883358.jpg",
                 "malId": 162498,
-                "aniId": null,
+                "aniId": 168969,
                 "page": "MangaNato",
                 "title": "Kouun Na Kimi To Boku No Mirai",
                 "type": "manga",
                 "url": "https://manganato.com/manga-uf997914"
             }
+        },
+        "Comick": {
+            "uPh8yowC": {
+                "identifier": "uPh8yowC",
+                "malId": 162498,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Kouun na Kimi to Boku no Mirai",
+                "url": "https://comick.cc/comic/kouun-na-kimi-to-boku-no-mirai",
+                "aniId": 168969
+            }
         }
-    }
+    },
+    "aniId": 168969
 }
