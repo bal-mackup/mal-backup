@@ -5,12 +5,24 @@
     "url": "https://myanimelist.net/manga/164316/Es_no_Kaihou",
     "image": "https://cdn.myanimelist.net/images/manga/3/291830.jpg",
     "Sites": {
+        "Mangadex": {
+            "18033058-6746-42cb-a4c3-2d79b02b9676": {
+                "identifier": "18033058-6746-42cb-a4c3-2d79b02b9676",
+                "image": "https://uploads.mangadex.org/covers/18033058-6746-42cb-a4c3-2d79b02b9676/e6101c15-0aeb-40fe-848e-acfc942a8ccd.png",
+                "malId": 164316,
+                "aniId": 168953,
+                "page": "Mangadex",
+                "title": "Id Unchained",
+                "type": "manga",
+                "url": "https://mangadex.org/title/18033058-6746-42cb-a4c3-2d79b02b9676"
+            }
+        },
         "MangaNato": {
             "manga-vr999100": {
                 "identifier": "manga-vr999100",
                 "image": "https://avt.mkklcdnv6temp.com/23/h/32-1699241506.jpg",
                 "malId": 164316,
-                "aniId": null,
+                "aniId": 168953,
                 "page": "MangaNato",
                 "title": "Es No Kaihou",
                 "type": "manga",
@@ -24,8 +36,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Id Unchained",
-                "url": "https://comick.cc/comic/es-no-kaihou"
+                "url": "https://comick.cc/comic/es-no-kaihou",
+                "aniId": 168953
             }
         }
-    }
+    },
+    "aniId": 168953
 }
