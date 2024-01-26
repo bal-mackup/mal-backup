@@ -3,8 +3,21 @@
     "type": "manga",
     "title": "Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san",
     "url": "https://myanimelist.net/manga/165121/Boroboro_no_Elf-san_wo_Shiawase_ni_Suru_Kusuriuri-san",
+    "total": 9,
     "image": "https://cdn.myanimelist.net/images/manga/2/293657.jpg",
     "Sites": {
+        "Mangadex": {
+            "1d0a66fb-a6cb-4d62-aef9-5ddd2e672b4b": {
+                "identifier": "1d0a66fb-a6cb-4d62-aef9-5ddd2e672b4b",
+                "image": "https://uploads.mangadex.org/covers/1d0a66fb-a6cb-4d62-aef9-5ddd2e672b4b/e3083cda-e428-4e42-9a25-370d66758ae9.jpg",
+                "malId": 165121,
+                "aniId": 139465,
+                "page": "Mangadex",
+                "title": "The Apothecary Is Gonna Make This Ragged Elf Happy (Fan Colored)",
+                "type": "manga",
+                "url": "https://mangadex.org/title/1d0a66fb-a6cb-4d62-aef9-5ddd2e672b4b"
+            }
+        },
         "Comick": {
             "F5oAyZng": {
                 "identifier": "F5oAyZng",
@@ -12,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "The Apothecary Is Gonna Make This Ragged Elf Happy",
-                "url": "https://comick.cc/comic/the-apothecary-is-gonna-make-this-ragged-elf-happy"
+                "url": "https://comick.cc/comic/the-apothecary-is-gonna-make-this-ragged-elf-happy",
+                "aniId": 139465
             }
         }
-    }
+    },
+    "aniId": 139465
 }
