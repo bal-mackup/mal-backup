@@ -7,11 +7,21 @@
     "image": "https://cdn.myanimelist.net/images/manga/2/282625.jpg",
     "Sites": {
         "Mangadex": {
+            "be35df55-adc2-46e6-83cf-0e9f0356ea39": {
+                "identifier": "be35df55-adc2-46e6-83cf-0e9f0356ea39",
+                "image": "https://uploads.mangadex.org/covers/be35df55-adc2-46e6-83cf-0e9f0356ea39/72e5ae8f-7181-484f-a875-dec788c6fcb5.jpg",
+                "malId": 159277,
+                "aniId": 159025,
+                "page": "Mangadex",
+                "title": "Catenaccio",
+                "type": "manga",
+                "url": "https://mangadex.org/title/be35df55-adc2-46e6-83cf-0e9f0356ea39"
+            },
             "561b2ced-8dfc-4577-ab2d-21c9a834a9e8": {
                 "identifier": "561b2ced-8dfc-4577-ab2d-21c9a834a9e8",
                 "image": "https://uploads.mangadex.org/covers/561b2ced-8dfc-4577-ab2d-21c9a834a9e8/364c9c11-798c-432a-9335-1039835e7f33.jpg",
                 "malId": 159277,
-                "aniId": null,
+                "aniId": 159025,
                 "page": "Mangadex",
                 "title": "Catenaccio (Oneshot)",
                 "type": "manga",
@@ -25,8 +35,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Catenaccio",
-                "url": "https://comick.cc/comic/catenaccio"
+                "url": "https://comick.cc/comic/catenaccio",
+                "aniId": 159025
             }
         }
-    }
+    },
+    "aniId": 159025
 }

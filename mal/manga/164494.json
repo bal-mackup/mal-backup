@@ -6,6 +6,18 @@
     "total": 66,
     "image": "https://cdn.myanimelist.net/images/manga/3/292148.jpg",
     "Sites": {
+        "Mangadex": {
+            "a9da9d1e-02fa-4971-b06b-462865115048": {
+                "identifier": "a9da9d1e-02fa-4971-b06b-462865115048",
+                "image": "https://uploads.mangadex.org/covers/a9da9d1e-02fa-4971-b06b-462865115048/76780a96-2363-4c59-9769-14b8bfd50577.jpg",
+                "malId": 164494,
+                "aniId": 164421,
+                "page": "Mangadex",
+                "title": "Viola Tames the Duke",
+                "type": "manga",
+                "url": "https://mangadex.org/title/a9da9d1e-02fa-4971-b06b-462865115048"
+            }
+        },
         "Comick": {
             "B9BbRhft": {
                 "identifier": "B9BbRhft",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Viola Tames the Duke",
-                "url": "https://comick.cc/comic/01-i-tamed-the-duke"
+                "url": "https://comick.cc/comic/01-i-tamed-the-duke",
+                "aniId": 164421
             }
         }
-    }
+    },
+    "aniId": 164421
 }
