@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/289462.jpg",
     "Sites": {
+        "Mangadex": {
+            "bf34988a-06ba-429b-b52d-c0862d14008d": {
+                "identifier": "bf34988a-06ba-429b-b52d-c0862d14008d",
+                "image": "https://uploads.mangadex.org/covers/bf34988a-06ba-429b-b52d-c0862d14008d/f3dc32c3-d582-411a-a943-7ea6312abbec.jpg",
+                "malId": 163082,
+                "aniId": 170153,
+                "page": "Mangadex",
+                "title": "You've Got the Wrong House, Villain",
+                "type": "manga",
+                "url": "https://mangadex.org/title/bf34988a-06ba-429b-b52d-c0862d14008d"
+            }
+        },
         "Comick": {
             "OUfvoRdS": {
                 "identifier": "OUfvoRdS",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "You've Got the Wrong House, Villain",
-                "url": "https://comick.cc/comic/you-ve-got-the-wrong-house-villain"
+                "url": "https://comick.cc/comic/you-ve-got-the-wrong-house-villain",
+                "aniId": 170153
             }
         }
-    }
+    },
+    "aniId": 170153
 }
