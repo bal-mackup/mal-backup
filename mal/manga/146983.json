@@ -6,6 +6,18 @@
     "total": 24,
     "image": "https://cdn.myanimelist.net/images/manga/3/279997.jpg",
     "Sites": {
+        "Mangadex": {
+            "5707c6c2-6b17-4866-a22f-b87d00c2e350": {
+                "identifier": "5707c6c2-6b17-4866-a22f-b87d00c2e350",
+                "image": "https://uploads.mangadex.org/covers/5707c6c2-6b17-4866-a22f-b87d00c2e350/a9eed228-f136-4c05-9910-354273bf022d.jpg",
+                "malId": 146983,
+                "aniId": 168721,
+                "page": "Mangadex",
+                "title": "Miriya & Marie",
+                "type": "manga",
+                "url": "https://mangadex.org/title/5707c6c2-6b17-4866-a22f-b87d00c2e350"
+            }
+        },
         "Comick": {
             "mjBBziR0": {
                 "identifier": "mjBBziR0",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Miriya & Marie",
-                "url": "https://comick.cc/comic/miriya-and-marie9PnM"
+                "url": "https://comick.cc/comic/miriya-and-marie9PnM",
+                "aniId": 168721
             }
         }
-    }
+    },
+    "aniId": 168721
 }

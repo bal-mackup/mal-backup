@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/293658.jpg",
     "Sites": {
+        "Mangadex": {
+            "c9bc75fb-c01a-4659-87a1-bf8c5b9816b4": {
+                "identifier": "c9bc75fb-c01a-4659-87a1-bf8c5b9816b4",
+                "image": "https://uploads.mangadex.org/covers/c9bc75fb-c01a-4659-87a1-bf8c5b9816b4/27e5507a-e36d-496f-987d-715ecf0aba35.jpg",
+                "malId": 165362,
+                "aniId": 169127,
+                "page": "Mangadex",
+                "title": "Isekai Cheat Breakers",
+                "type": "manga",
+                "url": "https://mangadex.org/title/c9bc75fb-c01a-4659-87a1-bf8c5b9816b4"
+            }
+        },
         "Comick": {
             "cJnMW7Io": {
                 "identifier": "cJnMW7Io",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Isekai Cheat Breakers",
-                "url": "https://comick.cc/comic/isekai-cheat-breakers"
+                "url": "https://comick.cc/comic/isekai-cheat-breakers",
+                "aniId": 169127
             }
         }
-    }
+    },
+    "aniId": 169127
 }
