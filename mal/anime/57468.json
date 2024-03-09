@@ -7,12 +7,24 @@
     "image": "https://cdn.myanimelist.net/images/anime/1623/140195.jpg",
     "anidbId": null,
     "Sites": {
+        "9anime": {
+            "n3pxj": {
+                "identifier": "n3pxj",
+                "image": "https://static.bunnycdn.ru/i/cache/images/9/94/943e77a5db43c06d0d7f626caec32ade.jpg",
+                "malId": 57468,
+                "aniId": 137747,
+                "page": "9anime",
+                "title": "Zhen Dao Ge 2",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/zhen-dao-ge-2.n3pxj"
+            }
+        },
         "Zoro": {
             "18700": {
                 "identifier": "18700",
                 "image": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00d32ca67adc852ca1e622f258a7315c.jpg",
                 "malId": 57468,
-                "aniId": null,
+                "aniId": 137747,
                 "page": "Zoro",
                 "title": "Zhen Dao Ge 2nd Season",
                 "type": "anime",
@@ -26,8 +38,10 @@
                 "type": "anime",
                 "page": "YugenAnime",
                 "title": "Zhen Dao Ge 2nd Season",
-                "url": "https://yugenanime.tv/anime/18815/zhen-dao-ge-2nd-season/"
+                "url": "https://yugenanime.tv/anime/18815/zhen-dao-ge-2nd-season/",
+                "aniId": 137747
             }
         }
-    }
+    },
+    "aniId": 137747
 }

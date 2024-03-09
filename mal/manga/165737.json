@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/294310.jpg",
     "Sites": {
+        "Mangadex": {
+            "40e229d8-e1cd-40a9-b19e-2162ebaf3c45": {
+                "identifier": "40e229d8-e1cd-40a9-b19e-2162ebaf3c45",
+                "image": "https://uploads.mangadex.org/covers/40e229d8-e1cd-40a9-b19e-2162ebaf3c45/ef56bd9b-174a-48b2-8b41-a611429cbe2d.jpg",
+                "malId": 165737,
+                "aniId": 166585,
+                "page": "Mangadex",
+                "title": "Slime Musume wa Shinshoku shitai!",
+                "type": "manga",
+                "url": "https://mangadex.org/title/40e229d8-e1cd-40a9-b19e-2162ebaf3c45"
+            }
+        },
         "Comick": {
             "g8o0KK7t": {
                 "identifier": "g8o0KK7t",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Slime Musume wa Shinshoku shitai!",
-                "url": "https://comick.io/comic/slime-musume-wa-shinshoku-shitai"
+                "url": "https://comick.io/comic/slime-musume-wa-shinshoku-shitai",
+                "aniId": 166585
             }
         }
-    }
+    },
+    "aniId": 166585
 }
