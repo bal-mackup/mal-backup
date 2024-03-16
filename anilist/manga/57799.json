@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/27799/My_Sisters",
     "total": 14,
     "image": "https://cdn.myanimelist.net/images/manga/2/49843.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "d4e99564-2c47-4caf-af42-b101fdbdd5bd": {
+                "identifier": "d4e99564-2c47-4caf-af42-b101fdbdd5bd",
+                "image": "https://uploads.mangadex.org/covers/d4e99564-2c47-4caf-af42-b101fdbdd5bd/c12fabc9-548b-471c-8797-a8a666ac872f.jpg",
+                "malId": 27799,
+                "aniId": 57799,
+                "page": "Mangadex",
+                "title": "My Sisters",
+                "type": "manga",
+                "url": "https://mangadex.org/title/d4e99564-2c47-4caf-af42-b101fdbdd5bd"
+            }
+        },
+        "Comick": {
+            "2H1g9vfv": {
+                "identifier": "2H1g9vfv",
+                "malId": 27799,
+                "type": "manga",
+                "page": "Comick",
+                "title": "My Sisters",
+                "url": "https://comick.io/comic/my-sisters",
+                "aniId": 57799
+            }
+        }
+    },
     "malId": 27799
 }

@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/286940.jpg",
     "Sites": {
+        "Mangadex": {
+            "416e63e0-a641-4338-b9e8-2461e81ff152": {
+                "identifier": "416e63e0-a641-4338-b9e8-2461e81ff152",
+                "image": "https://uploads.mangadex.org/covers/416e63e0-a641-4338-b9e8-2461e81ff152/29d67fe8-47e2-4242-8793-eca46049c117.png",
+                "malId": 161762,
+                "aniId": 169392,
+                "page": "Mangadex",
+                "title": "How to Survive as a Maid in a Horror Game",
+                "type": "manga",
+                "url": "https://mangadex.org/title/416e63e0-a641-4338-b9e8-2461e81ff152"
+            }
+        },
         "MangaNato": {
             "manga-ux997606": {
                 "identifier": "manga-ux997606",
                 "image": "https://avt.mkklcdnv6temp.com/13/o/31-1692164060.jpg",
                 "malId": 161762,
-                "aniId": null,
+                "aniId": 169392,
                 "page": "MangaNato",
                 "title": "Surviving As A Maid In A Horror Game",
                 "type": "manga",
@@ -23,12 +35,13 @@
                 "identifier": "no_exit_horror",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45297/cover.jpg",
                 "malId": 161762,
-                "aniId": null,
+                "aniId": 169392,
                 "page": "MangaFox",
                 "title": "No Exit Horror",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/no_exit_horror/"
             }
         }
-    }
+    },
+    "aniId": 169392
 }

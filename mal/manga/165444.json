@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/294084.jpg",
     "Sites": {
+        "Mangadex": {
+            "3148c0b5-807d-4ee8-8298-9ee0ef7dfbf2": {
+                "identifier": "3148c0b5-807d-4ee8-8298-9ee0ef7dfbf2",
+                "image": "https://uploads.mangadex.org/covers/3148c0b5-807d-4ee8-8298-9ee0ef7dfbf2/377bdf60-e934-4b23-832c-186fa8dc6f6e.jpg",
+                "malId": 165444,
+                "aniId": 174311,
+                "page": "Mangadex",
+                "title": "Chirizokonai no Hiraeth",
+                "type": "manga",
+                "url": "https://mangadex.org/title/3148c0b5-807d-4ee8-8298-9ee0ef7dfbf2"
+            }
+        },
         "Comick": {
             "i2Cz8V3L": {
                 "identifier": "i2Cz8V3L",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Chirizokonai no Hiraeth",
-                "url": "https://comick.io/comic/chiri-sokonai-no-hiraeth"
+                "url": "https://comick.io/comic/chiri-sokonai-no-hiraeth",
+                "aniId": 174311
             }
         }
-    }
+    },
+    "aniId": 174311
 }
