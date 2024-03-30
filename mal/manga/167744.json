@@ -6,6 +6,18 @@
     "total": 54,
     "image": "https://cdn.myanimelist.net/images/manga/3/297807.jpg",
     "Sites": {
+        "Mangadex": {
+            "bf4a285b-636d-4760-9a90-e538514bf024": {
+                "identifier": "bf4a285b-636d-4760-9a90-e538514bf024",
+                "image": "https://uploads.mangadex.org/covers/bf4a285b-636d-4760-9a90-e538514bf024/95fcc682-a092-44de-829f-abe1c0293bb4.jpg",
+                "malId": 167744,
+                "aniId": 81917,
+                "page": "Mangadex",
+                "title": "Kirby of the Stars: Pupupu Hero",
+                "type": "manga",
+                "url": "https://mangadex.org/title/bf4a285b-636d-4760-9a90-e538514bf024"
+            }
+        },
         "Comick": {
             "DHxylxTw": {
                 "identifier": "DHxylxTw",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Kirby of the Stars: Pupupu Hero",
-                "url": "https://comick.io/comic/hoshi-no-kirby-pupupu-hero"
+                "url": "https://comick.io/comic/hoshi-no-kirby-pupupu-hero",
+                "aniId": 81917
             }
         }
-    }
+    },
+    "aniId": 81917
 }

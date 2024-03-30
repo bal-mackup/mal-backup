@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/295870.jpg",
     "Sites": {
+        "Mangadex": {
+            "89541e20-7362-40d4-881d-deb471e39c60": {
+                "identifier": "89541e20-7362-40d4-881d-deb471e39c60",
+                "image": "https://uploads.mangadex.org/covers/89541e20-7362-40d4-881d-deb471e39c60/5c382381-3607-4dd9-a0b3-7c01276ca6ab.png",
+                "malId": 166539,
+                "aniId": 174039,
+                "page": "Mangadex",
+                "title": "Ore no Kareshi ga Ichiban Kawaii",
+                "type": "manga",
+                "url": "https://mangadex.org/title/89541e20-7362-40d4-881d-deb471e39c60"
+            }
+        },
         "MangaNato": {
             "manga-xz1000534": {
                 "identifier": "manga-xz1000534",
                 "image": "https://avt.mkklcdnv6temp.com/30/z/33-1706504969.jpg",
                 "malId": 166539,
-                "aniId": null,
+                "aniId": 174039,
                 "page": "MangaNato",
                 "title": "Ore No Kareshi Ga Ichiban Kawaii",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "ore-no-kareshi-ga-ichiban-kawaii.7285j",
                 "image": "https://static.mangafire.to/i/4/47/4732638b8375ea2a2eb9153b55167d47.jpg",
                 "malId": 166539,
-                "aniId": null,
+                "aniId": 174039,
                 "page": "MangaFire",
                 "title": "Ore no Kareshi ga Ichiban Kawaii",
                 "type": "manga",
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Ore no Kareshi ga Ichiban Kawaii",
-                "url": "https://comick.io/comic/ore-no-kareshi-ga-ichiban-kawaii"
+                "url": "https://comick.io/comic/ore-no-kareshi-ga-ichiban-kawaii",
+                "aniId": 174039
             }
         }
-    }
+    },
+    "aniId": 174039
 }

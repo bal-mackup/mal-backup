@@ -6,6 +6,18 @@
     "total": 5,
     "image": "https://cdn.myanimelist.net/images/manga/3/283587.jpg",
     "Sites": {
+        "Mangadex": {
+            "77b4e526-0871-48e8-89a2-49708136cffc": {
+                "identifier": "77b4e526-0871-48e8-89a2-49708136cffc",
+                "image": "https://uploads.mangadex.org/covers/77b4e526-0871-48e8-89a2-49708136cffc/18e77b26-3e99-42fc-98c0-e1c9e09d38f3.jpg",
+                "malId": 159103,
+                "aniId": 148494,
+                "page": "Mangadex",
+                "title": "Deemo -Sakura Note-",
+                "type": "manga",
+                "url": "https://mangadex.org/title/77b4e526-0871-48e8-89a2-49708136cffc"
+            }
+        },
         "Comick": {
             "qJefHGy6": {
                 "identifier": "qJefHGy6",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Deemo -Sakura Note-",
-                "url": "https://comick.io/comic/deemo-sakura-note"
+                "url": "https://comick.io/comic/deemo-sakura-note",
+                "aniId": 148494
             }
         }
-    }
+    },
+    "aniId": 148494
 }

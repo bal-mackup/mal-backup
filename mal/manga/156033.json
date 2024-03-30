@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/277606.jpg",
     "Sites": {
+        "Mangadex": {
+            "645c8c58-b02b-4e13-b9f7-6eb64b05a06c": {
+                "identifier": "645c8c58-b02b-4e13-b9f7-6eb64b05a06c",
+                "image": "https://uploads.mangadex.org/covers/645c8c58-b02b-4e13-b9f7-6eb64b05a06c/740f1524-01fc-4a5d-94c8-37a451f7edc7.png",
+                "malId": 156033,
+                "aniId": 155210,
+                "page": "Mangadex",
+                "title": "King of the Octagon",
+                "type": "manga",
+                "url": "https://mangadex.org/title/645c8c58-b02b-4e13-b9f7-6eb64b05a06c"
+            }
+        },
         "MangaNato": {
             "manga-pf992440": {
                 "identifier": "manga-pf992440",
                 "image": "https://avt.mkklcdnv6temp.com/7/q/27-1663517822.jpg",
                 "malId": 156033,
-                "aniId": null,
+                "aniId": 155210,
                 "page": "MangaNato",
                 "title": "King Of Octagon",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "king-of-the-octagon.371p8",
                 "image": "https://static.bunnycdn.ru/i/cache/images/9/9f/9f4a7f5cb589cbf84310cd0e704c5e12.jpg",
                 "malId": 156033,
-                "aniId": null,
+                "aniId": 155210,
                 "page": "MangaFire",
                 "title": "King of the Octagon",
                 "type": "manga",
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "King of the Octagon",
-                "url": "https://comick.io/comic/01-king-of-the-octagon"
+                "url": "https://comick.io/comic/01-king-of-the-octagon",
+                "aniId": 155210
             }
         }
-    }
+    },
+    "aniId": 155210
 }

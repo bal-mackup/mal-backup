@@ -6,12 +6,24 @@
     "total": 53,
     "image": "https://cdn.myanimelist.net/images/manga/2/263603.jpg",
     "Sites": {
+        "Mangadex": {
+            "7901b983-f223-4fd9-bb1f-a42584b4d6ed": {
+                "identifier": "7901b983-f223-4fd9-bb1f-a42584b4d6ed",
+                "image": "https://uploads.mangadex.org/covers/7901b983-f223-4fd9-bb1f-a42584b4d6ed/7888b953-d4d7-40c4-ad9d-36aca8723946.jpg",
+                "malId": 148578,
+                "aniId": 159633,
+                "page": "Mangadex",
+                "title": "Machine Uprising",
+                "type": "manga",
+                "url": "https://mangadex.org/title/7901b983-f223-4fd9-bb1f-a42584b4d6ed"
+            }
+        },
         "MangaNato": {
             "manga-pg992589": {
                 "identifier": "manga-pg992589",
                 "image": "https://avt.mkklcdnv6temp.com/13/r/27-1664254876.jpg",
                 "malId": 148578,
-                "aniId": null,
+                "aniId": 159633,
                 "page": "MangaNato",
                 "title": "Machine Uprising",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Machine Uprising",
-                "url": "https://comick.io/comic/01-machine-era"
+                "url": "https://comick.io/comic/01-machine-era",
+                "aniId": 159633
             }
         }
-    }
+    },
+    "aniId": 159633
 }

@@ -6,6 +6,18 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/1/296754.jpg",
     "Sites": {
+        "Mangadex": {
+            "7a4c489d-4838-4b84-98e4-da054481a09a": {
+                "identifier": "7a4c489d-4838-4b84-98e4-da054481a09a",
+                "image": "https://uploads.mangadex.org/covers/7a4c489d-4838-4b84-98e4-da054481a09a/a9c9585c-854e-4cf8-ab96-279adc42d194.png",
+                "malId": 167077,
+                "aniId": 108908,
+                "page": "Mangadex",
+                "title": "Devils × Devil - Kiryu in Paris",
+                "type": "manga",
+                "url": "https://mangadex.org/title/7a4c489d-4838-4b84-98e4-da054481a09a"
+            }
+        },
         "Comick": {
             "FxGt9iGw": {
                 "identifier": "FxGt9iGw",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Devils × Devil - Kiryu in Paris",
-                "url": "https://comick.io/comic/devils-devil-kiryu-in-paris"
+                "url": "https://comick.io/comic/devils-devil-kiryu-in-paris",
+                "aniId": 108908
             }
         }
-    }
+    },
+    "aniId": 108908
 }

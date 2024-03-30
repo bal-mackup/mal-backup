@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/298439.jpg",
     "Sites": {
+        "Mangadex": {
+            "97d2b29c-2c73-48ef-9c41-2faf8b5cf9f4": {
+                "identifier": "97d2b29c-2c73-48ef-9c41-2faf8b5cf9f4",
+                "image": "https://uploads.mangadex.org/covers/97d2b29c-2c73-48ef-9c41-2faf8b5cf9f4/ca6cfd4a-500c-4a32-967c-ba8cbb95217e.jpg",
+                "malId": 167900,
+                "aniId": 152468,
+                "page": "Mangadex",
+                "title": "Rettoushoku no Saikyou Kenja - Teihen no \"Murabito\" kara Yoyuu de Sekai Saikyou",
+                "type": "manga",
+                "url": "https://mangadex.org/title/97d2b29c-2c73-48ef-9c41-2faf8b5cf9f4"
+            }
+        },
         "Comick": {
             "_q61HKQ_": {
                 "identifier": "_q61HKQ_",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Rettoushoku no Saikyou Kenja - Teihen no \"Murabito\" kara Yoyuu de Sekai Saikyou",
-                "url": "https://comick.io/comic/the-inferior-grade-strongest-sage-from-the-lowest-villager-to-the-world-s-strongest-with-ease"
+                "url": "https://comick.io/comic/the-inferior-grade-strongest-sage-from-the-lowest-villager-to-the-world-s-strongest-with-ease",
+                "aniId": 152468
             }
         }
-    }
+    },
+    "aniId": 152468
 }
