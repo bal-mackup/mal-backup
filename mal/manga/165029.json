@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/293273.jpg",
     "Sites": {
+        "MangaNato": {
+            "manga-ww999705": {
+                "identifier": "manga-ww999705",
+                "image": "https://avt.mkklcdnv6temp.com/48/a/32-1701920944.jpg",
+                "malId": 165029,
+                "aniId": 173180,
+                "page": "MangaNato",
+                "title": "Genius Corpse-Collecting Warrior",
+                "type": "manga",
+                "url": "https://manganato.com/manga-ww999705"
+            }
+        },
         "MangaFire": {
             "the-corpse-picking-genius-warrior-in-the-broken-game.ppo4j": {
                 "identifier": "the-corpse-picking-genius-warrior-in-the-broken-game.ppo4j",
                 "image": "https://static.bunnycdn.ru/i/cache/images/1/13/13ee9178e87972d5f51becca5a2b4197.jpg",
                 "malId": 165029,
-                "aniId": null,
+                "aniId": 173180,
                 "page": "MangaFire",
                 "title": "The Corpse-Picking Genius Warrior in the Broken Game",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "6aff6877-6a29-46d1-b391-59f7a9cfcec5",
                 "image": "https://uploads.mangadex.org/covers/6aff6877-6a29-46d1-b391-59f7a9cfcec5/4f7b519e-7399-4ecc-8514-174d505e9476.jpg",
                 "malId": 165029,
-                "aniId": null,
+                "aniId": 173180,
                 "page": "Mangadex",
                 "title": "Genius Corpse-Collecting Warrior",
                 "type": "manga",
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Genius Corpse-Collecting Warrior",
-                "url": "https://comick.io/comic/genius-corpse-collecting-warrior"
+                "url": "https://comick.io/comic/genius-corpse-collecting-warrior",
+                "aniId": 173180
             }
         }
-    }
+    },
+    "aniId": 173180
 }

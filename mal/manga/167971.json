@@ -6,6 +6,30 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/298281.jpg",
     "Sites": {
+        "Mangadex": {
+            "5665969c-d6d9-49e5-a602-ad8a7fc6eddb": {
+                "identifier": "5665969c-d6d9-49e5-a602-ad8a7fc6eddb",
+                "image": "https://uploads.mangadex.org/covers/5665969c-d6d9-49e5-a602-ad8a7fc6eddb/aa0f473e-ab12-4303-8779-896fc797bff3.jpg",
+                "malId": 167971,
+                "aniId": 163249,
+                "page": "Mangadex",
+                "title": "Haidou!",
+                "type": "manga",
+                "url": "https://mangadex.org/title/5665969c-d6d9-49e5-a602-ad8a7fc6eddb"
+            }
+        },
+        "MangaNato": {
+            "manga-xt1001154": {
+                "identifier": "manga-xt1001154",
+                "image": "https://avt.mkklcdnv6temp.com/5/u/34-1709786735.jpg",
+                "malId": 167971,
+                "aniId": 163249,
+                "page": "MangaNato",
+                "title": "Haidou!",
+                "type": "manga",
+                "url": "https://chapmanganato.to/manga-xt1001154"
+            }
+        },
         "Comick": {
             "1rNPhJMA": {
                 "identifier": "1rNPhJMA",
@@ -13,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Haidou!",
-                "url": "https://comick.io/comic/haidou"
+                "url": "https://comick.io/comic/haidou",
+                "aniId": 163249
             }
         }
-    }
+    },
+    "aniId": 163249
 }
