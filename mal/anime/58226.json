@@ -7,6 +7,18 @@
     "image": "https://cdn.myanimelist.net/images/anime/1607/141611.jpg",
     "anidbId": 18040,
     "Sites": {
+        "9anime": {
+            "80yj3": {
+                "identifier": "80yj3",
+                "image": "https://static.bunnycdn.ru/i/cache/images/9/97/9754a8c6342f88e802548899fd5af51e.jpg",
+                "malId": 58226,
+                "aniId": 165254,
+                "page": "9anime",
+                "title": "BUCCHIGIRI?!",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/bucchigiri-recap.80yj3"
+            }
+        },
         "animepahe": {
             "5505": {
                 "identifier": "5505",
@@ -14,8 +26,10 @@
                 "type": "anime",
                 "page": "animepahe",
                 "title": "Bucchigiri?! Yomigaeru! Konya wa Bucchii Back to the Chuuka!",
-                "url": "https://animepahe.ru/a/5505"
+                "url": "https://animepahe.ru/a/5505",
+                "aniId": 165254
             }
         }
-    }
+    },
+    "aniId": 165254
 }

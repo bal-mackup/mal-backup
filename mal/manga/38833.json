@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/38833/Gaman_Dekinai",
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/2/69219.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "09708ba7-07f4-4fde-bea3-4610385c834b": {
+                "identifier": "09708ba7-07f4-4fde-bea3-4610385c834b",
+                "image": "https://uploads.mangadex.org/covers/09708ba7-07f4-4fde-bea3-4610385c834b/0ed57579-8c3a-421a-929a-1f61504cba2c.jpg",
+                "malId": 38833,
+                "aniId": 68833,
+                "page": "Mangadex",
+                "title": "Gaman Dekinai!",
+                "type": "manga",
+                "url": "https://mangadex.org/title/09708ba7-07f4-4fde-bea3-4610385c834b"
+            }
+        },
+        "Comick": {
+            "AYRLw_0A": {
+                "identifier": "AYRLw_0A",
+                "malId": 38833,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Gaman Dekinai!",
+                "url": "https://comick.io/comic/gaman-dekinai",
+                "aniId": 68833
+            }
+        }
+    },
     "aniId": 68833
 }

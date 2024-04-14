@@ -11,7 +11,7 @@
                 "identifier": "fddba606-d598-40b8-9ba5-f69a129305eb",
                 "image": "https://uploads.mangadex.org/covers/fddba606-d598-40b8-9ba5-f69a129305eb/93f687be-db56-4ee2-a319-1e1ff344e1bc.jpg",
                 "malId": 167424,
-                "aniId": null,
+                "aniId": 174545,
                 "page": "Mangadex",
                 "title": "Dear Anemone",
                 "type": "manga",
@@ -23,7 +23,7 @@
                 "identifier": "dear-anemone.xv4zz",
                 "image": "https://static.bunnycdn.ru/i/cache/images/2/25/256ec68750599d024d59c6aa8a5fb392.jpg",
                 "malId": 167424,
-                "aniId": null,
+                "aniId": 174545,
                 "page": "MangaFire",
                 "title": "Dear Anemone",
                 "type": "manga",
@@ -35,11 +35,23 @@
                 "identifier": "manga-xs1001001",
                 "image": "https://avt.mkklcdnv6temp.com/49/p/33-1709002983.jpg",
                 "malId": 167424,
-                "aniId": null,
+                "aniId": 174545,
                 "page": "MangaNato",
                 "title": "Dear Anemone",
                 "type": "manga",
                 "url": "https://manganato.com/manga-xs1001001"
+            }
+        },
+        "MangaSee": {
+            "dear-anemone": {
+                "identifier": "dear-anemone",
+                "image": "https://temp.compsci88.com/cover/Dear-Anemone.jpg",
+                "malId": 167424,
+                "aniId": 174545,
+                "page": "MangaSee",
+                "title": "Dear Anemone",
+                "type": "manga",
+                "url": "https://mangasee123.com/manga/Dear-Anemone"
             }
         },
         "Comick": {
@@ -49,8 +61,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Dear Anemone",
-                "url": "https://comick.io/comic/dear-anemone"
+                "url": "https://comick.io/comic/dear-anemone",
+                "aniId": 174545
             }
         }
-    }
+    },
+    "aniId": 174545
 }
