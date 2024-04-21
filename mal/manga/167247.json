@@ -6,6 +6,18 @@
     "total": 2,
     "image": "https://cdn.myanimelist.net/images/manga/1/298351.jpg",
     "Sites": {
+        "Mangadex": {
+            "68315e33-82ac-40e7-8f17-f3a173fd68d6": {
+                "identifier": "68315e33-82ac-40e7-8f17-f3a173fd68d6",
+                "image": "https://uploads.mangadex.org/covers/68315e33-82ac-40e7-8f17-f3a173fd68d6/6c5da00e-b9e4-446f-bb65-fd3cf070c91b.png",
+                "malId": 167247,
+                "aniId": 174838,
+                "page": "Mangadex",
+                "title": "Koi Wataru, Hanatachibana no Koro",
+                "type": "manga",
+                "url": "https://mangadex.org/title/68315e33-82ac-40e7-8f17-f3a173fd68d6"
+            }
+        },
         "Comick": {
             "DPN_lN0M": {
                 "identifier": "DPN_lN0M",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Koi Wataru, Hanatachibana no Koro",
-                "url": "https://comick.io/comic/koi-wataru-kakitsu-no-koro"
+                "url": "https://comick.io/comic/koi-wataru-kakitsu-no-koro",
+                "aniId": 174838
             }
         }
-    }
+    },
+    "aniId": 174838
 }

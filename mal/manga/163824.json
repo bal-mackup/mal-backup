@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/294128.jpg",
     "Sites": {
+        "Mangadex": {
+            "7a7d7b79-a0a0-4b60-afac-9c20fc8641d0": {
+                "identifier": "7a7d7b79-a0a0-4b60-afac-9c20fc8641d0",
+                "image": "https://uploads.mangadex.org/covers/7a7d7b79-a0a0-4b60-afac-9c20fc8641d0/51737970-8c03-4468-ad32-4c404536f50b.jpg",
+                "malId": 163824,
+                "aniId": 170499,
+                "page": "Mangadex",
+                "title": "Kimi ni Furu Kotonoha wa",
+                "type": "manga",
+                "url": "https://mangadex.org/title/7a7d7b79-a0a0-4b60-afac-9c20fc8641d0"
+            }
+        },
         "MangaNato": {
             "manga-vu998877": {
                 "identifier": "manga-vu998877",
                 "image": "https://avt.mkklcdnv6temp.com/14/h/32-1698121283.jpg",
                 "malId": 163824,
-                "aniId": null,
+                "aniId": 170499,
                 "page": "MangaNato",
                 "title": "Kimi Ni Furu Kotonoha Wa",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Kimi ni Furu Kotonoha wa",
-                "url": "https://comick.io/comic/kimini-furu-kotonoha-ha"
+                "url": "https://comick.io/comic/kimini-furu-kotonoha-ha",
+                "aniId": 170499
             }
         }
-    }
+    },
+    "aniId": 170499
 }

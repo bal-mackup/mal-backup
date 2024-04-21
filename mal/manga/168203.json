@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/298669.jpg",
     "Sites": {
+        "Mangadex": {
+            "16217f0f-69c0-4551-ab08-7b6dd11e042e": {
+                "identifier": "16217f0f-69c0-4551-ab08-7b6dd11e042e",
+                "image": "https://uploads.mangadex.org/covers/16217f0f-69c0-4551-ab08-7b6dd11e042e/b9a73c38-6e1b-42be-9cce-5bd9c9072420.jpg",
+                "malId": 168203,
+                "aniId": 106083,
+                "page": "Mangadex",
+                "title": "Uma Himesama to Shika Ouji",
+                "type": "manga",
+                "url": "https://mangadex.org/title/16217f0f-69c0-4551-ab08-7b6dd11e042e"
+            }
+        },
         "Comick": {
             "uYjzqpUM": {
                 "identifier": "uYjzqpUM",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Uma Himesama to Shika Ouji",
-                "url": "https://comick.io/comic/the-horse-princess-and-the-deer-prince"
+                "url": "https://comick.io/comic/the-horse-princess-and-the-deer-prince",
+                "aniId": 106083
             }
         }
-    }
+    },
+    "aniId": 106083
 }

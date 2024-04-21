@@ -6,12 +6,24 @@
     "total": 90,
     "image": "https://cdn.myanimelist.net/images/manga/3/297601.jpg",
     "Sites": {
+        "Mangadex": {
+            "834b10bb-30d4-4a4f-ba69-eb4b91677b79": {
+                "identifier": "834b10bb-30d4-4a4f-ba69-eb4b91677b79",
+                "image": "https://uploads.mangadex.org/covers/834b10bb-30d4-4a4f-ba69-eb4b91677b79/cedbdbdc-47ee-41b2-a194-7911fac3e634.jpg",
+                "malId": 167599,
+                "aniId": 177055,
+                "page": "Mangadex",
+                "title": "Hime-chan wa Omoi Onna",
+                "type": "manga",
+                "url": "https://mangadex.org/title/834b10bb-30d4-4a4f-ba69-eb4b91677b79"
+            }
+        },
         "MangaNato": {
             "manga-xh1000990": {
                 "identifier": "manga-xh1000990",
                 "image": "https://avt.mkklcdnv6temp.com/49/e/33-1708920653.jpg",
                 "malId": 167599,
-                "aniId": null,
+                "aniId": 177055,
                 "page": "MangaNato",
                 "title": "Hime-Chan Wa Omoi Onna",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Hime-chan wa Omoi Onna",
-                "url": "https://comick.io/comic/hime-chan-wa-omoi-onna"
+                "url": "https://comick.io/comic/hime-chan-wa-omoi-onna",
+                "aniId": 177055
             }
         }
-    }
+    },
+    "aniId": 177055
 }
