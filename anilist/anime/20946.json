@@ -78,7 +78,7 @@
         "Crunchyroll": {
             "0": {
                 "title": "Ore Monogatari!!",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-qklyd4Pg0uzi.png",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-AC3RxlUqZB0M.png",
                 "identifier": 0,
                 "url": "http://www.crunchyroll.com/my-love-story",
                 "type": "anime",
@@ -90,7 +90,7 @@
         "Hulu": {
             "1": {
                 "title": "Ore Monogatari!!",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-qklyd4Pg0uzi.png",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-AC3RxlUqZB0M.png",
                 "identifier": 1,
                 "url": "http://www.hulu.com/my-love-story",
                 "type": "anime",
@@ -102,11 +102,23 @@
         "Hidive": {
             "2": {
                 "title": "Ore Monogatari!!",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-qklyd4Pg0uzi.png",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-AC3RxlUqZB0M.png",
                 "identifier": 2,
                 "url": "https://www.hidive.com/tv/my-love-story",
                 "type": "anime",
                 "page": "Hidive",
+                "external": true,
+                "aniId": 20946
+            }
+        },
+        "Netflix": {
+            "3": {
+                "title": "Ore Monogatari!!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20946-AC3RxlUqZB0M.png",
+                "identifier": 3,
+                "url": "https://www.netflix.com/title/81409988",
+                "type": "anime",
+                "page": "Netflix",
                 "external": true,
                 "aniId": 20946
             }

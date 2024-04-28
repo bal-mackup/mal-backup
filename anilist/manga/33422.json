@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/3422/Patriot",
     "total": 9,
     "image": "https://cdn.myanimelist.net/images/manga/3/164929.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "14dffe31-7f17-4457-9c87-3fa266e281e9": {
+                "identifier": "14dffe31-7f17-4457-9c87-3fa266e281e9",
+                "image": "https://uploads.mangadex.org/covers/14dffe31-7f17-4457-9c87-3fa266e281e9/96eb4ca7-e5d8-4a38-8657-db046e6c7a93.jpg",
+                "malId": 3422,
+                "aniId": 33422,
+                "page": "Mangadex",
+                "title": "Patriot",
+                "type": "manga",
+                "url": "https://mangadex.org/title/14dffe31-7f17-4457-9c87-3fa266e281e9"
+            }
+        },
+        "Comick": {
+            "5kG3B853": {
+                "identifier": "5kG3B853",
+                "malId": 3422,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Patriot",
+                "url": "https://comick.io/comic/patriot",
+                "aniId": 33422
+            }
+        }
+    },
     "malId": 3422
 }
