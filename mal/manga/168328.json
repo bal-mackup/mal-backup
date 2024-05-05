@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/298915.jpg",
     "Sites": {
+        "Mangadex": {
+            "cd9f1dfd-dcb3-4dc2-a41c-35eff1c1beb5": {
+                "identifier": "cd9f1dfd-dcb3-4dc2-a41c-35eff1c1beb5",
+                "image": "https://uploads.mangadex.org/covers/cd9f1dfd-dcb3-4dc2-a41c-35eff1c1beb5/41cf18c1-497e-47cb-ac11-53fc1b0daf34.png",
+                "malId": 168328,
+                "aniId": 175608,
+                "page": "Mangadex",
+                "title": "Being a Maid Is Better Than Being a Princess",
+                "type": "manga",
+                "url": "https://mangadex.org/title/cd9f1dfd-dcb3-4dc2-a41c-35eff1c1beb5"
+            }
+        },
         "Comick": {
             "fXOBKFYR": {
                 "identifier": "fXOBKFYR",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Being a Maid Is Better Than Being a Princess",
-                "url": "https://comick.io/comic/being-a-maid-is-better-than-being-a-princess"
+                "url": "https://comick.io/comic/being-a-maid-is-better-than-being-a-princess",
+                "aniId": 175608
             }
         }
-    }
+    },
+    "aniId": 175608
 }

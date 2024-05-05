@@ -9,65 +9,48 @@
     "Sites": {
         "Gogoanime": {
             "date-a-live-v": {
-                "createdAt": "2024-03-29T23:01:27.407Z",
-                "updatedAt": "2024-03-30T17:20:00.000Z",
-                "checkedAt": "2024-03-29T23:01:27.000Z",
-                "id": 54909,
                 "identifier": "date-a-live-v",
-                "type": "anime",
-                "page": "Gogoanime",
-                "title": "Date A Live V",
-                "url": "https://anitaku.to/category/date-a-live-v",
                 "image": "https://gogocdn.net/cover/date-a-live-v.png",
-                "hentai": false,
-                "sticky": false,
-                "active": true,
-                "actorId": null,
                 "malId": 52196,
                 "aniId": 151380,
-                "deletedAt": null
+                "page": "Gogoanime",
+                "title": "Date A Live V",
+                "type": "anime",
+                "url": "https://anitaku.to/category/date-a-live-v"
+            },
+            "date-a-live-v-dub": {
+                "identifier": "date-a-live-v-dub",
+                "image": "https://gogocdn.net/cover/date-a-live-v-dub.png",
+                "malId": 52196,
+                "aniId": 151380,
+                "page": "Gogoanime",
+                "title": "Date A Live V (Dub)",
+                "type": "anime",
+                "url": "https://anitaku.so/category/date-a-live-v-dub"
             }
         },
         "Zoro": {
             "19144": {
-                "createdAt": "2024-03-30T17:00:48.135Z",
-                "updatedAt": "2024-03-30T17:00:48.000Z",
-                "checkedAt": "2024-03-30T17:00:48.000Z",
-                "id": 54930,
                 "identifier": "19144",
-                "type": "anime",
-                "page": "Zoro",
-                "title": "Date A Live V",
-                "url": "https://hianime.to/date-a-live-v-19144",
                 "image": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/987156345df524528ff0001d350c407e.jpg",
-                "hentai": false,
-                "sticky": false,
-                "active": true,
-                "actorId": null,
                 "malId": 52196,
                 "aniId": 151380,
-                "deletedAt": null
+                "page": "Zoro",
+                "title": "Date A Live V",
+                "type": "anime",
+                "url": "https://hianime.to/date-a-live-v-19144"
             }
         },
         "9anime": {
             "llrnn": {
-                "createdAt": "2024-04-10T15:00:01.058Z",
-                "updatedAt": "2024-04-10T15:20:00.000Z",
-                "checkedAt": "2024-04-10T15:00:01.000Z",
-                "id": 55098,
                 "identifier": "llrnn",
-                "type": "anime",
-                "page": "9anime",
-                "title": "Date A Live V",
-                "url": "https://aniwave.to/watch/date-a-live-v.llrnn",
                 "image": "https://static.aniwave.to/i/d/df/f6da181bcf793e0e5ac55b9386de07a8.jpg",
-                "hentai": false,
-                "sticky": false,
-                "active": true,
-                "actorId": null,
                 "malId": 52196,
                 "aniId": 151380,
-                "deletedAt": null
+                "page": "9anime",
+                "title": "Date A Live V",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/date-a-live-v.llrnn"
             }
         },
         "animepahe": {
@@ -89,6 +72,18 @@
                 "page": "YugenAnime",
                 "title": "Date A Live V",
                 "url": "https://yugenanime.tv/anime/19009/date-a-live-v/",
+                "aniId": 151380
+            }
+        },
+        "Crunchyroll": {
+            "0": {
+                "title": "Date A Live V",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151380-gvN5PjrybTw2.jpg",
+                "identifier": 0,
+                "url": "https://www.crunchyroll.com/series/GYEX5E1G6/date-a-live",
+                "type": "anime",
+                "page": "Crunchyroll",
+                "external": true,
                 "aniId": 151380
             }
         }

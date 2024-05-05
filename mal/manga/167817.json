@@ -6,12 +6,24 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/1/297955.jpg",
     "Sites": {
+        "Mangadex": {
+            "6523f694-90b5-4698-811c-ec182eec1685": {
+                "identifier": "6523f694-90b5-4698-811c-ec182eec1685",
+                "image": "https://uploads.mangadex.org/covers/6523f694-90b5-4698-811c-ec182eec1685/7afe46f7-fc3b-419c-9902-601ff0f40277.jpg",
+                "malId": 167817,
+                "aniId": 155761,
+                "page": "Mangadex",
+                "title": "Hisame Furaba Koi Chigiri",
+                "type": "manga",
+                "url": "https://mangadex.org/title/6523f694-90b5-4698-811c-ec182eec1685"
+            }
+        },
         "MangaNato": {
             "manga-xr1001100": {
                 "identifier": "manga-xr1001100",
                 "image": "https://avt.mkklcdnv6temp.com/3/o/34-1709522405.jpg",
                 "malId": 167817,
-                "aniId": null,
+                "aniId": 155761,
                 "page": "MangaNato",
                 "title": "Hisame Furaba Koi Chigiri",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Hisame Furaba Koi Chigiri",
-                "url": "https://comick.io/comic/hisame-furaba-koi-chigiri"
+                "url": "https://comick.io/comic/hisame-furaba-koi-chigiri",
+                "aniId": 155761
             }
         }
-    }
+    },
+    "aniId": 155761
 }
