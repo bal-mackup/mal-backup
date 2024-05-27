@@ -6,6 +6,18 @@
     "total": 115,
     "image": "https://cdn.myanimelist.net/images/manga/1/252437.jpg",
     "Sites": {
+        "Mangadex": {
+            "2c3dfd45-b67d-4cbe-a20a-a884a4d04440": {
+                "identifier": "2c3dfd45-b67d-4cbe-a20a-a884a4d04440",
+                "image": "https://uploads.mangadex.org/covers/2c3dfd45-b67d-4cbe-a20a-a884a4d04440/55a858ae-34d8-4af7-a88d-bf770f7a4dfc.jpg",
+                "malId": 141790,
+                "aniId": 114599,
+                "page": "Mangadex",
+                "title": "Back to You",
+                "type": "manga",
+                "url": "https://mangadex.org/title/2c3dfd45-b67d-4cbe-a20a-a884a4d04440"
+            }
+        },
         "MangaFox": {
             "back_to_you": {
                 "identifier": "back_to_you",
@@ -28,6 +40,17 @@
                 "title": "Back to You",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/back-to-you.oj574/"
+            }
+        },
+        "Comick": {
+            "AHRANLln": {
+                "identifier": "AHRANLln",
+                "malId": 141790,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Back to You",
+                "url": "https://comick.io/comic/00-just-a-girl-he-knows",
+                "aniId": 114599
             }
         }
     },

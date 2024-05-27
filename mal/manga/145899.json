@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/145899/Nnekon",
     "total": 10,
     "image": "https://cdn.myanimelist.net/images/manga/2/280179.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "319ac4d3-d9f7-4d2c-9b11-f7ff7091300d": {
+                "identifier": "319ac4d3-d9f7-4d2c-9b11-f7ff7091300d",
+                "image": "https://uploads.mangadex.org/covers/319ac4d3-d9f7-4d2c-9b11-f7ff7091300d/7539ddbf-09f5-43f3-897b-02b358e9945f.jpg",
+                "malId": 145899,
+                "aniId": 129552,
+                "page": "Mangadex",
+                "title": "Nnekon - Kouhei Shibata Sketchbook",
+                "type": "manga",
+                "url": "https://mangadex.org/title/319ac4d3-d9f7-4d2c-9b11-f7ff7091300d"
+            }
+        },
+        "Comick": {
+            "IXexWpFe": {
+                "identifier": "IXexWpFe",
+                "malId": 145899,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Nnekon - Kouhei Shibata Sketchbook",
+                "url": "https://comick.io/comic/nnekon-kouhei-shibata-sketchbook",
+                "aniId": 129552
+            }
+        }
+    },
     "aniId": 129552
 }

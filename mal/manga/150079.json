@@ -6,12 +6,24 @@
     "total": 48,
     "image": "https://cdn.myanimelist.net/images/manga/1/271165.jpg",
     "Sites": {
+        "Mangadex": {
+            "089eb68d-1519-4b27-93c7-67c65a13d486": {
+                "identifier": "089eb68d-1519-4b27-93c7-67c65a13d486",
+                "image": "https://uploads.mangadex.org/covers/089eb68d-1519-4b27-93c7-67c65a13d486/bedafe4a-ad3f-4c3a-b804-115f9f01d2f2.png",
+                "malId": 150079,
+                "aniId": 122011,
+                "page": "Mangadex",
+                "title": "Enoch",
+                "type": "manga",
+                "url": "https://mangadex.org/title/089eb68d-1519-4b27-93c7-67c65a13d486"
+            }
+        },
         "MangaNato": {
             "manga-ix986080": {
                 "identifier": "manga-ix986080",
                 "image": "https://avt.mkklcdnv6temp.com/42/n/21-1596271259.jpg",
                 "malId": 150079,
-                "aniId": null,
+                "aniId": 122011,
                 "page": "MangaNato",
                 "title": "Enoch (Modak)",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Enoch",
-                "url": "https://comick.io/comic/01-enoch"
+                "url": "https://comick.io/comic/01-enoch",
+                "aniId": 122011
             }
         }
-    }
+    },
+    "aniId": 122011
 }

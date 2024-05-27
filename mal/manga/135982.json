@@ -6,6 +6,18 @@
     "total": 160,
     "image": "https://cdn.myanimelist.net/images/manga/3/245523.jpg",
     "Sites": {
+        "Mangadex": {
+            "976f57b5-418f-4de6-8a11-0759355ab9a7": {
+                "identifier": "976f57b5-418f-4de6-8a11-0759355ab9a7",
+                "image": "https://uploads.mangadex.org/covers/976f57b5-418f-4de6-8a11-0759355ab9a7/2fff09c7-5b41-4915-acf0-3fc94b616b24.jpg",
+                "malId": 135982,
+                "aniId": 115607,
+                "page": "Mangadex",
+                "title": "One-of-a-Kind Romance",
+                "type": "manga",
+                "url": "https://mangadex.org/title/976f57b5-418f-4de6-8a11-0759355ab9a7"
+            }
+        },
         "MangaReader": {
             "50323": {
                 "identifier": "50323",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "MangaReader",
                 "title": "One of a Kind Romance",
-                "url": "https://mangareader.to/one-of-a-kind-romance-50323"
+                "url": "https://mangareader.to/one-of-a-kind-romance-50323",
+                "aniId": 115607
             }
         }
-    }
+    },
+    "aniId": 115607
 }
