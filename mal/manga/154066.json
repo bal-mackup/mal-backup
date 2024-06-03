@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/273606.jpg",
     "Sites": {
+        "Mangadex": {
+            "ee7b5c7e-a8eb-4c7a-93aa-17cae960acdf": {
+                "identifier": "ee7b5c7e-a8eb-4c7a-93aa-17cae960acdf",
+                "image": "https://uploads.mangadex.org/covers/ee7b5c7e-a8eb-4c7a-93aa-17cae960acdf/ae8f2d38-316d-4ce7-8ceb-7d7d2edd8ce3.png",
+                "malId": 154066,
+                "aniId": 156478,
+                "page": "Mangadex",
+                "title": "‏I Will Fall With the Emperor",
+                "type": "manga",
+                "url": "https://mangadex.org/title/ee7b5c7e-a8eb-4c7a-93aa-17cae960acdf"
+            }
+        },
         "MangaNato": {
             "manga-ps992853": {
                 "identifier": "manga-ps992853",
                 "image": "https://avt.mkklcdnv6temp.com/24/f/27-1666583477.jpg",
                 "malId": 154066,
-                "aniId": null,
+                "aniId": 156478,
                 "page": "MangaNato",
                 "title": "I Will Fall With The Emperor",
                 "type": "manga",
@@ -23,12 +35,13 @@
                 "identifier": "i-will-fall-with-the-emperor.37jvr",
                 "image": "https://static.mangafire.to/i/4/4b/4b73b555d357a1c07f6e4b1461459467.jpg",
                 "malId": 154066,
-                "aniId": null,
+                "aniId": 156478,
                 "page": "MangaFire",
                 "title": "‏I Will Fall With the Emperor",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/i-will-fall-with-the-emperor.37jvr/"
             }
         }
-    }
+    },
+    "aniId": 156478
 }

@@ -6,6 +6,18 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/3/301926.jpg",
     "Sites": {
+        "Mangadex": {
+            "a9a659b1-af94-4169-be61-98030273fc1f": {
+                "identifier": "a9a659b1-af94-4169-be61-98030273fc1f",
+                "image": "https://uploads.mangadex.org/covers/a9a659b1-af94-4169-be61-98030273fc1f/e3730ff1-c332-4994-9d58-0aab53168bdf.jpg",
+                "malId": 169963,
+                "aniId": 130766,
+                "page": "Mangadex",
+                "title": "What Lives Within Your Eyes",
+                "type": "manga",
+                "url": "https://mangadex.org/title/a9a659b1-af94-4169-be61-98030273fc1f"
+            }
+        },
         "Comick": {
             "hGgoz7ig": {
                 "identifier": "hGgoz7ig",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "What Lives Within Your Eyes",
-                "url": "https://comick.io/comic/what-lives-within-your-eyes"
+                "url": "https://comick.io/comic/what-lives-within-your-eyes",
+                "aniId": 130766
             }
         }
-    }
+    },
+    "aniId": 130766
 }
