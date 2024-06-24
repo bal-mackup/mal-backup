@@ -6,6 +6,18 @@
     "total": 22,
     "image": "https://cdn.myanimelist.net/images/manga/3/300958.jpg",
     "Sites": {
+        "Mangadex": {
+            "96e521e5-b19e-4299-b1ad-6b0eeb73e7a0": {
+                "identifier": "96e521e5-b19e-4299-b1ad-6b0eeb73e7a0",
+                "image": "https://uploads.mangadex.org/covers/96e521e5-b19e-4299-b1ad-6b0eeb73e7a0/307e27e9-2047-49a5-af4e-4df79c3d227b.jpg",
+                "malId": 169508,
+                "aniId": 123950,
+                "page": "Mangadex",
+                "title": "Mizu no Tomodachi Kappaman",
+                "type": "manga",
+                "url": "https://mangadex.org/title/96e521e5-b19e-4299-b1ad-6b0eeb73e7a0"
+            }
+        },
         "Comick": {
             "_oLPLVEN": {
                 "identifier": "_oLPLVEN",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Mizu no Tomodachi Kappaman",
-                "url": "https://comick.io/comic/mizu-no-tomodachi-kappaman"
+                "url": "https://comick.io/comic/mizu-no-tomodachi-kappaman",
+                "aniId": 123950
             }
         }
-    }
+    },
+    "aniId": 123950
 }

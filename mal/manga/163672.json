@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/290478.jpg",
     "Sites": {
+        "Mangadex": {
+            "0d18b471-d710-4b33-88bf-c13df82d7923": {
+                "identifier": "0d18b471-d710-4b33-88bf-c13df82d7923",
+                "image": "https://uploads.mangadex.org/covers/0d18b471-d710-4b33-88bf-c13df82d7923/2d6e3924-8657-44fc-a568-6b084cd577eb.jpg",
+                "malId": 163672,
+                "aniId": 169882,
+                "page": "Mangadex",
+                "title": "Iseop’s Romance",
+                "type": "manga",
+                "url": "https://mangadex.org/title/0d18b471-d710-4b33-88bf-c13df82d7923"
+            }
+        },
         "MangaNato": {
             "manga-vf998914": {
                 "identifier": "manga-vf998914",
                 "image": "https://avt.mkklcdnv6temp.com/15/v/32-1698311074.jpg",
                 "malId": 163672,
-                "aniId": null,
+                "aniId": 169882,
                 "page": "MangaNato",
                 "title": "Lee Seob’S Love",
                 "type": "manga",
@@ -23,12 +35,24 @@
                 "identifier": "iseops-romance",
                 "image": "https://temp.compsci88.com/cover/Iseops-Romance.jpg",
                 "malId": 163672,
-                "aniId": null,
+                "aniId": 169882,
                 "page": "MangaSee",
                 "title": "Iseop's Romance",
                 "type": "manga",
                 "url": "https://mangasee123.com/manga/Iseops-Romance"
             }
+        },
+        "Comick": {
+            "0EIXQhLu": {
+                "identifier": "0EIXQhLu",
+                "malId": 163672,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Iseop’s Romance",
+                "url": "https://comick.io/comic/lee-seop-s-love",
+                "aniId": 169882
+            }
         }
-    }
+    },
+    "aniId": 169882
 }

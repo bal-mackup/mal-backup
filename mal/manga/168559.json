@@ -6,6 +6,18 @@
     "total": 38,
     "image": "https://cdn.myanimelist.net/images/manga/3/299288.jpg",
     "Sites": {
+        "Mangadex": {
+            "6f35b5b8-abb5-4715-bbe7-05d5d9e74ee0": {
+                "identifier": "6f35b5b8-abb5-4715-bbe7-05d5d9e74ee0",
+                "image": "https://uploads.mangadex.org/covers/6f35b5b8-abb5-4715-bbe7-05d5d9e74ee0/a12739bc-eefe-4250-84ee-10f0484ba341.jpg",
+                "malId": 168559,
+                "aniId": 172147,
+                "page": "Mangadex",
+                "title": "Dark Hunter - Houkago no Futari",
+                "type": "manga",
+                "url": "https://mangadex.org/title/6f35b5b8-abb5-4715-bbe7-05d5d9e74ee0"
+            }
+        },
         "Comick": {
             "atSlWS3n": {
                 "identifier": "atSlWS3n",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Dark Hunter - Houkago no Futari",
-                "url": "https://comick.io/comic/dark-hunter-houkago-no-futari"
+                "url": "https://comick.io/comic/dark-hunter-houkago-no-futari",
+                "aniId": 172147
             }
         }
-    }
+    },
+    "aniId": 172147
 }

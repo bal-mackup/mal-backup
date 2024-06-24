@@ -6,12 +6,24 @@
     "total": 38,
     "image": "https://cdn.myanimelist.net/images/manga/1/291274.jpg",
     "Sites": {
+        "Mangadex": {
+            "f744d61a-b3b3-4818-a4f3-69816549d32c": {
+                "identifier": "f744d61a-b3b3-4818-a4f3-69816549d32c",
+                "image": "https://uploads.mangadex.org/covers/f744d61a-b3b3-4818-a4f3-69816549d32c/13f9ac2a-4241-4c98-93a9-8d4464be1d2f.jpg",
+                "malId": 162187,
+                "aniId": 159853,
+                "page": "Mangadex",
+                "title": "Drunk Invader",
+                "type": "manga",
+                "url": "https://mangadex.org/title/f744d61a-b3b3-4818-a4f3-69816549d32c"
+            }
+        },
         "MangaFire": {
             "drunk-invader.lrxyn": {
                 "identifier": "drunk-invader.lrxyn",
                 "image": "https://static.mangafire.to/i/6/6c/6cf4f72772c3f3437e4872b109a1a2b6.jpg",
                 "malId": 162187,
-                "aniId": null,
+                "aniId": 159853,
                 "page": "MangaFire",
                 "title": "Drunk Invader",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Drunk Invader",
-                "url": "https://comick.io/comic/drunk-invader"
+                "url": "https://comick.io/comic/drunk-invader",
+                "aniId": 159853
             }
         }
-    }
+    },
+    "aniId": 159853
 }
