@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/303650.jpg",
     "Sites": {
+        "Mangadex": {
+            "18ee604d-3030-4285-bceb-aae505783337": {
+                "identifier": "18ee604d-3030-4285-bceb-aae505783337",
+                "image": "https://uploads.mangadex.org/covers/18ee604d-3030-4285-bceb-aae505783337/c3762ba7-2740-47e7-944a-3d6fbf9db110.jpg",
+                "malId": 170837,
+                "aniId": 162809,
+                "page": "Mangadex",
+                "title": "I Decide My Husband",
+                "type": "manga",
+                "url": "https://mangadex.org/title/18ee604d-3030-4285-bceb-aae505783337"
+            }
+        },
         "Comick": {
             "ar4tEesz": {
                 "identifier": "ar4tEesz",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "I Decide My Husband",
-                "url": "https://comick.io/comic/02-i-decide-my-husband"
+                "url": "https://comick.io/comic/02-i-decide-my-husband",
+                "aniId": 162809
             }
         }
-    }
+    },
+    "aniId": 162809
 }

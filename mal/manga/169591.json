@@ -11,7 +11,7 @@
                 "identifier": "fadf7ddd-b6aa-4902-b4f2-65bc5f3342b0",
                 "image": "https://uploads.mangadex.org/covers/fadf7ddd-b6aa-4902-b4f2-65bc5f3342b0/5b177c15-c240-4ba3-a641-9c02600ebb76.jpg",
                 "malId": 169591,
-                "aniId": null,
+                "aniId": 178204,
                 "page": "Mangadex",
                 "title": "Fool",
                 "type": "manga",
@@ -23,7 +23,7 @@
                 "identifier": "sarashimono.8x5zq",
                 "image": "https://static.mangafire.to/i/f/f8/bb219373e727931d8534c555849a332f.jpg",
                 "malId": 169591,
-                "aniId": null,
+                "aniId": 178204,
                 "page": "MangaFire",
                 "title": "Fool",
                 "type": "manga",
@@ -37,8 +37,22 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Fool",
-                "url": "https://comick.io/comic/sarashimono"
+                "url": "https://comick.io/comic/sarashimono",
+                "aniId": 178204
+            }
+        },
+        "MangaPlus": {
+            "0": {
+                "title": "Sarashimono ",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b178204-wcYkV2hilTDe.jpg",
+                "identifier": 0,
+                "url": "https://mangaplus.shueisha.co.jp/titles/100319",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 178204
             }
         }
-    }
+    },
+    "aniId": 178204
 }

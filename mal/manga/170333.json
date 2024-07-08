@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/302795.jpg",
     "Sites": {
+        "Mangadex": {
+            "3683f667-c23d-4688-b872-0ade276aaafa": {
+                "identifier": "3683f667-c23d-4688-b872-0ade276aaafa",
+                "image": "https://uploads.mangadex.org/covers/3683f667-c23d-4688-b872-0ade276aaafa/bf2e30fb-fd3a-453f-9efc-46a7164d9e9e.jpg",
+                "malId": 170333,
+                "aniId": 174266,
+                "page": "Mangadex",
+                "title": "Rekkyou Sensen",
+                "type": "manga",
+                "url": "https://mangadex.org/title/3683f667-c23d-4688-b872-0ade276aaafa"
+            }
+        },
         "Comick": {
             "r8TgoSSD": {
                 "identifier": "r8TgoSSD",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Rekkyou Sensen",
-                "url": "https://comick.io/comic/rekkyo-sensen"
+                "url": "https://comick.io/comic/rekkyo-sensen",
+                "aniId": 174266
             }
         }
-    }
+    },
+    "aniId": 174266
 }
