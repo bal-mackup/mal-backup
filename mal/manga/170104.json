@@ -9,9 +9,9 @@
         "Mangadex": {
             "112d0d9e-b812-4cea-a3f0-b1c5b640583e": {
                 "identifier": "112d0d9e-b812-4cea-a3f0-b1c5b640583e",
-                "image": "https://uploads.mangadex.org/covers/112d0d9e-b812-4cea-a3f0-b1c5b640583e/ab49bc8d-36c9-4e52-ab9f-ecbe0980e6c2.jpg",
+                "image": "https://uploads.mangadex.org/covers/112d0d9e-b812-4cea-a3f0-b1c5b640583e/6d5c8d77-53c2-422d-a406-bb5055b4fbd8.jpg",
                 "malId": 170104,
-                "aniId": null,
+                "aniId": 177817,
                 "page": "Mangadex",
                 "title": "Deep Raputa",
                 "type": "manga",
@@ -21,11 +21,11 @@
         "MangaFire": {
             "deep-raputa.3p5n2": {
                 "identifier": "deep-raputa.3p5n2",
-                "image": "https://static.mangafire.to/i/b/bd/b7499726ed23a6ccafa79766bd61dbf7.jpg",
+                "image": "https://static.mangafire.to/i/9/9b/58c726097528ea770a8b0046b23e94f3.jpg",
                 "malId": 170104,
-                "aniId": null,
+                "aniId": 177817,
                 "page": "MangaFire",
-                "title": "DEEP RAPUTA",
+                "title": "Deep Raputa",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/deep-raputa.3p5n2/"
             }
@@ -35,7 +35,7 @@
                 "identifier": "deep-raputa",
                 "image": "https://temp.compsci88.com/cover/DEEP-RAPUTA.jpg",
                 "malId": 170104,
-                "aniId": null,
+                "aniId": 177817,
                 "page": "MangaSee",
                 "title": "DEEP RAPUTA",
                 "type": "manga",
@@ -49,8 +49,22 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Deep Raputa",
-                "url": "https://comick.io/comic/deep-raputa"
+                "url": "https://comick.io/comic/deep-raputa",
+                "aniId": 177817
+            }
+        },
+        "MangaPlus": {
+            "0": {
+                "title": "Shinsou no Raputa",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b177817-EDx4CsW2iio6.png",
+                "identifier": 0,
+                "url": "https://mangaplus.shueisha.co.jp/titles/100321",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 177817
             }
         }
-    }
+    },
+    "aniId": 177817
 }

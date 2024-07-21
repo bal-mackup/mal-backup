@@ -6,6 +6,18 @@
     "total": 32,
     "image": "https://cdn.myanimelist.net/images/manga/2/303072.jpg",
     "Sites": {
+        "Mangadex": {
+            "35c15c68-5268-4bc9-a6e2-b189e1882604": {
+                "identifier": "35c15c68-5268-4bc9-a6e2-b189e1882604",
+                "image": "https://uploads.mangadex.org/covers/35c15c68-5268-4bc9-a6e2-b189e1882604/4aba7226-e47f-4806-bd56-bef74c9ddd49.jpg",
+                "malId": 170495,
+                "aniId": 86491,
+                "page": "Mangadex",
+                "title": "Gyon-Woo & Jik-Nyu",
+                "type": "manga",
+                "url": "https://mangadex.org/title/35c15c68-5268-4bc9-a6e2-b189e1882604"
+            }
+        },
         "Comick": {
             "BpCEm5DQ": {
                 "identifier": "BpCEm5DQ",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Gyon-Woo & Jik-Nyu",
-                "url": "https://comick.io/comic/01-gyon-woo-and-jik-nyu"
+                "url": "https://comick.io/comic/01-gyon-woo-and-jik-nyu",
+                "aniId": 86491
             }
         }
-    }
+    },
+    "aniId": 86491
 }

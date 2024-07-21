@@ -11,11 +11,23 @@
                 "identifier": "242fb179-0fc3-475e-8e59-35ea05cf6212",
                 "image": "https://uploads.mangadex.org/covers/242fb179-0fc3-475e-8e59-35ea05cf6212/c27494d9-5610-4145-ad8b-a3c314c4a85b.jpg",
                 "malId": 169689,
-                "aniId": null,
+                "aniId": 159481,
                 "page": "Mangadex",
                 "title": "Synonym",
                 "type": "manga",
                 "url": "https://mangadex.org/title/242fb179-0fc3-475e-8e59-35ea05cf6212"
+            }
+        },
+        "MangaFire": {
+            "synonym.8xv3q": {
+                "identifier": "synonym.8xv3q",
+                "image": "https://static.mangafire.to/i/5/56/60d6c4671999a8fb145f2d77a3e764be.jpg",
+                "malId": 169689,
+                "aniId": 159481,
+                "page": "MangaFire",
+                "title": "Synonym",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/synonym.8xv3q/"
             }
         },
         "Comick": {
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Synonym",
-                "url": "https://comick.io/comic/synonym"
+                "url": "https://comick.io/comic/synonym",
+                "aniId": 159481
             }
         }
-    }
+    },
+    "aniId": 159481
 }
