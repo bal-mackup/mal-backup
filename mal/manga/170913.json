@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/303775.jpg",
     "Sites": {
+        "Mangadex": {
+            "297610ed-9e11-4317-9af0-100c8797447a": {
+                "identifier": "297610ed-9e11-4317-9af0-100c8797447a",
+                "image": "https://uploads.mangadex.org/covers/297610ed-9e11-4317-9af0-100c8797447a/0b130509-b866-4535-897d-fcbe09e4c1d2.jpg",
+                "malId": 170913,
+                "aniId": 103825,
+                "page": "Mangadex",
+                "title": "X - Epoch of the Dragon",
+                "type": "manga",
+                "url": "https://mangadex.org/title/297610ed-9e11-4317-9af0-100c8797447a"
+            }
+        },
         "Comick": {
             "beZhmZ6Q": {
                 "identifier": "beZhmZ6Q",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "X - Epoch of the Dragon",
-                "url": "https://comick.io/comic/00-x-epoch-of-the-dragon"
+                "url": "https://comick.io/comic/00-x-epoch-of-the-dragon",
+                "aniId": 103825
             }
         }
-    }
+    },
+    "aniId": 103825
 }

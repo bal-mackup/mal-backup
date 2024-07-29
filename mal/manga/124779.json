@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/124779/Sazanka",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/274327.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "6bc459ba-9c12-4841-8431-24a4615f08a1": {
+                "identifier": "6bc459ba-9c12-4841-8431-24a4615f08a1",
+                "image": "https://uploads.mangadex.org/covers/6bc459ba-9c12-4841-8431-24a4615f08a1/1ffea3df-561f-486b-bff8-03ae1b0b70c9.jpg",
+                "malId": 124779,
+                "aniId": 120601,
+                "page": "Mangadex",
+                "title": "Sazanka",
+                "type": "manga",
+                "url": "https://mangadex.org/title/6bc459ba-9c12-4841-8431-24a4615f08a1"
+            }
+        },
+        "Comick": {
+            "4k13Nz1t": {
+                "identifier": "4k13Nz1t",
+                "malId": 124779,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Sazanka",
+                "url": "https://comick.io/comic/sazanka",
+                "aniId": 120601
+            }
+        }
+    },
     "aniId": 120601
 }

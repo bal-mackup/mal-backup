@@ -6,17 +6,41 @@
     "total": 9,
     "image": "https://cdn.myanimelist.net/images/manga/2/256854.jpg",
     "Sites": {
+        "Mangadex": {
+            "94ececa2-8bf3-462f-9e83-4affb8e96217": {
+                "identifier": "94ececa2-8bf3-462f-9e83-4affb8e96217",
+                "image": "https://uploads.mangadex.org/covers/94ececa2-8bf3-462f-9e83-4affb8e96217/2f861547-6876-4cc5-8ddf-de1ff8ab01d4.jpg",
+                "malId": 144673,
+                "aniId": 127898,
+                "page": "Mangadex",
+                "title": "Cats and Sugar Bowls",
+                "type": "manga",
+                "url": "https://mangadex.org/title/94ececa2-8bf3-462f-9e83-4affb8e96217"
+            }
+        },
         "MangaNato": {
             "manga-qg993515": {
                 "identifier": "manga-qg993515",
                 "image": "https://avt.mkklcdnv6temp.com/1/a/27-1673665498.jpg",
                 "malId": 144673,
-                "aniId": null,
+                "aniId": 127898,
                 "page": "MangaNato",
                 "title": "Cats And Sugar Bowls",
                 "type": "manga",
                 "url": "https://manganato.com/manga-qg993515"
             }
+        },
+        "Comick": {
+            "ZLbb6ALh": {
+                "identifier": "ZLbb6ALh",
+                "malId": 144673,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Cats and Sugar Bowls",
+                "url": "https://comick.io/comic/cats-and-sugar-bowls",
+                "aniId": 127898
+            }
         }
-    }
+    },
+    "aniId": 127898
 }

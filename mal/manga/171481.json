@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/305023.jpg",
     "Sites": {
+        "MangaSee": {
+            "shiba-inu-rooms": {
+                "identifier": "shiba-inu-rooms",
+                "image": "https://temp.compsci88.com/cover/Shiba-Inu-Rooms.jpg",
+                "malId": 171481,
+                "aniId": 178641,
+                "page": "MangaSee",
+                "title": "Shiba Inu Rooms",
+                "type": "manga",
+                "url": "https://mangasee123.com/manga/Shiba-Inu-Rooms"
+            }
+        },
         "Comick": {
             "alV_EbK3": {
                 "identifier": "alV_EbK3",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Shiba Inu Rooms",
-                "url": "https://comick.io/comic/shiba-inu-rooms"
+                "url": "https://comick.io/comic/shiba-inu-rooms",
+                "aniId": 178641
             }
         }
-    }
+    },
+    "aniId": 178641
 }
