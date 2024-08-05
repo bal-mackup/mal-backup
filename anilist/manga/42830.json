@@ -5,6 +5,19 @@
     "url": "https://myanimelist.net/manga/12830/Toto",
     "total": 9,
     "image": "https://cdn.myanimelist.net/images/manga/1/126777.jpg",
-    "Sites": {},
+    "Sites": {
+        "MangaFox": {
+            "toto": {
+                "identifier": "toto",
+                "image": "https://fmcdn.mfcdn.net/store/manga/7962/cover.jpg",
+                "malId": 12830,
+                "aniId": 42830,
+                "page": "MangaFox",
+                "title": "Toto!",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/toto/"
+            }
+        }
+    },
     "malId": 12830
 }

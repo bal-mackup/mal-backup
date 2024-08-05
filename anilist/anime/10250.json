@@ -7,18 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1704/120949.jpg",
     "anidbId": 3160,
     "Sites": {
-        "9anime": {
-            "9prn": {
-                "identifier": "9prn",
-                "image": "https://static.aniwave.to/i/5/57/57b6e89ade0360f2c98b7a371363c7fd.jpg",
-                "malId": 10250,
-                "aniId": 10250,
-                "page": "9anime",
-                "title": "Ultra B",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/ultra-b.9prn"
-            }
-        },
         "Zoro": {
             "7829": {
                 "identifier": "7829",
@@ -29,6 +17,41 @@
                 "title": "[RAW] Ultra B",
                 "type": "anime",
                 "url": "https://hianime.to/ultra-b-7829"
+            }
+        },
+        "Gogoanime": {
+            "ultra-b": {
+                "identifier": "ultra-b",
+                "image": "https://gogocdn.net/cover/ultra-b.png",
+                "malId": 10250,
+                "aniId": 10250,
+                "page": "Gogoanime",
+                "title": "Ultra B",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/ultra-b"
+            }
+        },
+        "9anime": {
+            "z1g7": {
+                "identifier": "z1g7",
+                "image": "https://static.aniwave.to/71/i/5/57/57b6e89ade0360f2c98b7a371363c7fd.jpg",
+                "malId": 10250,
+                "aniId": 10250,
+                "page": "9anime",
+                "title": "Ultra B",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/ultra-b.z1g7"
+            }
+        },
+        "YugenAnime": {
+            "19252": {
+                "identifier": "19252",
+                "malId": 10250,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Ultra B",
+                "url": "https://yugenanime.tv/anime/19252/ultra-b/",
+                "aniId": 10250
             }
         }
     },

@@ -7,28 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1480/132791.jpg",
     "anidbId": 1217,
     "Sites": {
-        "9anime": {
-            "jpzn": {
-                "identifier": "jpzn",
-                "image": "https://static.aniwave.to/i/2018/04/01b4658df5233f7949d8fc5e2207c72e.jpg",
-                "malId": 759,
-                "aniId": 759,
-                "page": "9anime",
-                "title": "Tokyo Godfathers",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/tokyo-godfathers.jpzn"
-            },
-            "p0vj": {
-                "identifier": "p0vj",
-                "image": "https://static.aniwave.to/i/3/33/3339ce07781a14f6b6f212ca6da66db8.jpg",
-                "malId": 759,
-                "aniId": 759,
-                "page": "9anime",
-                "title": "Tokyo Godfathers Remastered",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/tokyo-godfathers-remastered.p0vj"
-            }
-        },
         "Gogoanime": {
             "tokyo-godfathers": {
                 "identifier": "tokyo-godfathers",
@@ -61,6 +39,18 @@
                 "title": "Tokyo Godfathers",
                 "type": "anime",
                 "url": "https://hianime.to/tokyo-godfathers-228"
+            }
+        },
+        "9anime": {
+            "wdmr": {
+                "identifier": "wdmr",
+                "image": "https://static.aniwave.to/71/i/3/33/3339ce07781a14f6b6f212ca6da66db8.jpg",
+                "malId": 759,
+                "aniId": 759,
+                "page": "9anime",
+                "title": "Tokyo Godfathers Remastered",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/tokyo-godfathers-remastered.wdmr"
             }
         },
         "animepahe": {

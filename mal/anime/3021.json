@@ -7,18 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75183.jpg",
     "anidbId": 1578,
     "Sites": {
-        "9anime": {
-            "mlrz": {
-                "identifier": "mlrz",
-                "image": "https://static.aniwave.to/i/2018/04/26b6f7289ae97de5b0c2e4b84f6c7213.jpg",
-                "malId": 3021,
-                "aniId": 3021,
-                "page": "9anime",
-                "title": "Yume Senshi Wingman",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/wingman.mlrz"
-            }
-        },
         "Gogoanime": {
             "yume-senshi-wingman": {
                 "identifier": "yume-senshi-wingman",
@@ -41,6 +29,18 @@
                 "title": "Wingman",
                 "type": "anime",
                 "url": "https://hianime.to/wingman-5550"
+            }
+        },
+        "9anime": {
+            "y3dl": {
+                "identifier": "y3dl",
+                "image": "https://static.aniwave.to/71/i/2018/04/26b6f7289ae97de5b0c2e4b84f6c7213.jpg",
+                "malId": 3021,
+                "aniId": 3021,
+                "page": "9anime",
+                "title": "Yume Senshi Wingman",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/wingman.y3dl"
             }
         },
         "YugenAnime": {

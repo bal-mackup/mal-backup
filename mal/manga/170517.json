@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/303124.jpg",
     "Sites": {
+        "Mangadex": {
+            "a6612b6b-8a6e-424b-8997-6fa70ef72f40": {
+                "identifier": "a6612b6b-8a6e-424b-8997-6fa70ef72f40",
+                "image": "https://uploads.mangadex.org/covers/a6612b6b-8a6e-424b-8997-6fa70ef72f40/4373c2a3-fc35-43dc-aec2-ffd36713a1e7.jpg",
+                "malId": 170517,
+                "aniId": 177453,
+                "page": "Mangadex",
+                "title": "Kunigei - Okuni University Art Department Film Program",
+                "type": "manga",
+                "url": "https://mangadex.org/title/a6612b6b-8a6e-424b-8997-6fa70ef72f40"
+            }
+        },
         "MangaFire": {
             "kunigei-ookuni-daigaku-geijutsu-gakubu-eiga-gakka.jpqp8": {
                 "identifier": "kunigei-ookuni-daigaku-geijutsu-gakubu-eiga-gakka.jpqp8",
                 "image": "https://static.mangafire.to/i/b/bc/e39f285418bd12fa29b38ee6dcd9a69d.jpg",
                 "malId": 170517,
-                "aniId": null,
+                "aniId": 177453,
                 "page": "MangaFire",
                 "title": "Kunigei: Okuni University Art Department Film Program",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "kunigei-okuni-university-art-department-film-program",
                 "image": "https://temp.compsci88.com/cover/Kunigei-Okuni-University-Art-Department-Film-Program.jpg",
                 "malId": 170517,
-                "aniId": null,
+                "aniId": 177453,
                 "page": "MangaSee",
                 "title": "Kunigei - Okuni University Art Department Film Program",
                 "type": "manga",
@@ -35,7 +47,7 @@
                 "identifier": "manga-yn1002270",
                 "image": "https://avt.mkklcdnv6temp.com/50/d/34-1717822658.jpg",
                 "malId": 170517,
-                "aniId": null,
+                "aniId": 177453,
                 "page": "MangaNato",
                 "title": "Kunigei - Okuni University Art Department Film Program",
                 "type": "manga",
@@ -49,8 +61,22 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Kunigei - Okuni University Art Department Film Program",
-                "url": "https://comick.io/comic/wanigei-daikoku-university-arts-faculty-film-department"
+                "url": "https://comick.io/comic/wanigei-daikoku-university-arts-faculty-film-department",
+                "aniId": 177453
+            }
+        },
+        "MangaPlus": {
+            "0": {
+                "title": "Kunigei: Oukuni Daigaku Geijutsu Gakubu Eiga Gakka",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx177453-w3FZzG1tQ5gN.jpg",
+                "identifier": 0,
+                "url": "https://mangaplus.shueisha.co.jp/titles/100324",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 177453
             }
         }
-    }
+    },
+    "aniId": 177453
 }

@@ -7,18 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75298.jpg",
     "anidbId": 10946,
     "Sites": {
-        "9anime": {
-            "3mxr": {
-                "identifier": "3mxr",
-                "image": "https://static.aniwave.to/i/2019/06/5ebdc8114ebc2c0ca32ac1219ce249f1.jpg",
-                "malId": 28595,
-                "aniId": 110364,
-                "page": "9anime",
-                "title": "Pac-World",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/pac-man-and-the-ghostly-adventures.3mxr"
-            }
-        },
         "Gogoanime": {
             "pac-world": {
                 "identifier": "pac-world",
@@ -41,6 +29,18 @@
                 "url": "https://anitaku.pe/category/pac-world-dub"
             }
         },
+        "9anime": {
+            "1m0o": {
+                "identifier": "1m0o",
+                "image": "https://static.aniwave.to/71/i/2019/06/5ebdc8114ebc2c0ca32ac1219ce249f1.jpg",
+                "malId": 28595,
+                "aniId": 110364,
+                "page": "9anime",
+                "title": "Pac-World",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/pac-man-and-the-ghostly-adventures.1m0o"
+            }
+        },
         "animepahe": {
             "4588": {
                 "identifier": "4588",
@@ -60,6 +60,18 @@
                 "page": "YugenAnime",
                 "title": "Pac-World",
                 "url": "https://yugenanime.tv/anime/60/pac-world/",
+                "aniId": 110364
+            }
+        },
+        "Netflix": {
+            "0": {
+                "title": "Pac-World",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110364-euESOSlwxSyg.jpg",
+                "identifier": 0,
+                "url": "https://www.netflix.com/title/80000139",
+                "type": "anime",
+                "page": "Netflix",
+                "external": true,
                 "aniId": 110364
             }
         }

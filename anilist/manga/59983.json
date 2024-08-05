@@ -1,34 +1,93 @@
 {
     "id": 59983,
     "type": "manga",
-    "title": "Bless",
-    "url": "https://myanimelist.net/manga/170909/Bless",
-    "total": 30,
-    "image": "https://cdn.myanimelist.net/images/manga/2/303771.jpg",
+    "title": "Noblesse",
+    "url": "https://myanimelist.net/manga/29983/Noblesse",
+    "total": 544,
+    "image": "https://cdn.myanimelist.net/images/manga/2/266261.jpg",
     "Sites": {
         "Mangadex": {
-            "1e940efb-640b-4f0a-805b-3dd1b61e0748": {
-                "identifier": "1e940efb-640b-4f0a-805b-3dd1b61e0748",
-                "image": "https://uploads.mangadex.org/covers/1e940efb-640b-4f0a-805b-3dd1b61e0748/aa519bda-698d-4732-85a0-69b4165152ea.jpg",
-                "malId": 170909,
+            "f61952ad-63bb-4e81-a03e-9e50b9e23037": {
+                "identifier": "f61952ad-63bb-4e81-a03e-9e50b9e23037",
+                "image": "https://uploads.mangadex.org/covers/f61952ad-63bb-4e81-a03e-9e50b9e23037/672b802b-92a5-400b-98f8-c0b18bb7b94a.jpg",
+                "malId": 29983,
                 "aniId": 59983,
                 "page": "Mangadex",
-                "title": "Bless",
+                "title": "Noblesse",
                 "type": "manga",
-                "url": "https://mangadex.org/title/1e940efb-640b-4f0a-805b-3dd1b61e0748"
+                "url": "https://mangadex.org/title/f61952ad-63bb-4e81-a03e-9e50b9e23037"
+            }
+        },
+        "MangaSee": {
+            "noblesse": {
+                "identifier": "noblesse",
+                "image": "https://temp.compsci88.com/cover/Noblesse.jpg",
+                "malId": 29983,
+                "aniId": 59983,
+                "page": "MangaSee",
+                "title": "Noblesse",
+                "type": "manga",
+                "url": "https://mangasee123.com/manga/Noblesse"
+            }
+        },
+        "MangaFox": {
+            "noblesse": {
+                "identifier": "noblesse",
+                "image": "https://fmcdn.mfcdn.net/store/manga/6770/cover.jpg",
+                "malId": 29983,
+                "aniId": 59983,
+                "page": "MangaFox",
+                "title": "Noblesse",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/noblesse/"
+            }
+        },
+        "MangaNato": {
+            "manga-sp951798": {
+                "identifier": "manga-sp951798",
+                "image": "https://avt.mkklcdnv6temp.com/17/b/1-1583464359.jpg",
+                "malId": 29983,
+                "aniId": 59983,
+                "page": "MangaNato",
+                "title": "Noblesse",
+                "type": "manga",
+                "url": "https://chapmanganato.com/manga-sp951798"
+            }
+        },
+        "MangaFire": {
+            "noblesse.2p5": {
+                "identifier": "noblesse.2p5",
+                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6a84b20509e85e0e930d174a1abe3916.jpg",
+                "malId": 29983,
+                "aniId": 59983,
+                "page": "MangaFire",
+                "title": "Noblesse",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/noblesse.2p5/"
             }
         },
         "Comick": {
-            "OAqF1MgX": {
-                "identifier": "OAqF1MgX",
-                "malId": 170909,
+            "Q4APGjG4": {
+                "identifier": "Q4APGjG4",
+                "malId": 29983,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Bless",
-                "url": "https://comick.io/comic/00-bless",
+                "title": "Noblesse",
+                "url": "https://comick.io/comic/01-noblesse",
+                "aniId": 59983
+            }
+        },
+        "MangaReader": {
+            "318": {
+                "identifier": "318",
+                "malId": 29983,
+                "type": "manga",
+                "page": "MangaReader",
+                "title": "Noblesse",
+                "url": "https://mangareader.to/noblesse-318",
                 "aniId": 59983
             }
         }
     },
-    "malId": 170909
+    "malId": 29983
 }

@@ -7,18 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1207/127832.jpg",
     "anidbId": 17027,
     "Sites": {
-        "9anime": {
-            "vvvlv": {
-                "identifier": "vvvlv",
-                "image": "https://static.aniwave.to/i/0/0a/0af320aac96f501d60f7aaacfe9dfe1e.jpg",
-                "malId": 50559,
-                "aniId": 142541,
-                "page": "9anime",
-                "title": "Megaton-kyuu Musashi Season 2",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/megaton-kyuu-musashi-2nd-season.vvvlv"
-            }
-        },
         "Gogoanime": {
             "megaton-kyuu-musashi-2nd-season": {
                 "identifier": "megaton-kyuu-musashi-2nd-season",
@@ -62,6 +50,18 @@
                 "page": "YugenAnime",
                 "title": "Megaton-kyuu Musashi 2nd Season",
                 "url": "https://yugenanime.tv/anime/15980/megaton-kyuu-musashi-2nd-season/",
+                "aniId": 142541
+            }
+        },
+        "Crunchyroll": {
+            "0": {
+                "title": "Megaton-kyuu Musashi Season 2",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142541-TNfMHUf8kcdV.jpg",
+                "identifier": 0,
+                "url": "https://www.crunchyroll.com/series/GP5HJ840X/megaton-musashi",
+                "type": "anime",
+                "page": "Crunchyroll",
+                "external": true,
                 "aniId": 142541
             }
         }

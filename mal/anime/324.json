@@ -7,24 +7,12 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/59293.jpg",
     "anidbId": 778,
     "Sites": {
-        "9anime": {
-            "n9nl": {
-                "identifier": "n9nl",
-                "image": "https://static.aniwave.to/i/2018/04/c47ebe213a85eae0d69b02fccbedf0fb.jpg",
-                "malId": 324,
-                "aniId": 324,
-                "page": "9anime",
-                "title": "Kidou Keisatsu Patlabor ON TELEVISION",
-                "type": "anime",
-                "url": "https://aniwave.to/watch/patlabor-the-mobile-police.n9nl"
-            }
-        },
         "Gogoanime": {
             "kidou-keisatsu-patlabor-on-television-dub": {
                 "identifier": "kidou-keisatsu-patlabor-on-television-dub",
                 "image": "https://gogocdn.net/cover/kidou-keisatsu-patlabor-on-television-dub.png",
                 "malId": 324,
-                "aniId": 324,
+                "aniId": 1288,
                 "page": "Gogoanime",
                 "title": "Kidou Keisatsu Patlabor: On Television (Dub)",
                 "type": "anime",
@@ -36,11 +24,23 @@
                 "identifier": "1125",
                 "image": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de539b2d55cfb7b7c6c0b575de178065.jpg",
                 "malId": 324,
-                "aniId": 324,
+                "aniId": 1288,
                 "page": "Zoro",
                 "title": "Patlabor: The Mobile Police - The TV Series",
                 "type": "anime",
                 "url": "https://hianime.to/patlabor-the-mobile-police-the-tv-series-1125"
+            }
+        },
+        "9anime": {
+            "dk96": {
+                "identifier": "dk96",
+                "image": "https://static.aniwave.to/71/i/2018/04/c47ebe213a85eae0d69b02fccbedf0fb.jpg",
+                "malId": 324,
+                "aniId": 1288,
+                "page": "9anime",
+                "title": "Kidou Keisatsu Patlabor ON TELEVISION",
+                "type": "anime",
+                "url": "https://aniwave.to/watch/patlabor-the-mobile-police.dk96"
             }
         },
         "animepahe": {
@@ -51,7 +51,7 @@
                 "page": "animepahe",
                 "title": "Kidou Keisatsu Patlabor: On Television",
                 "url": "https://animepahe.ru/a/977",
-                "aniId": 324
+                "aniId": 1288
             }
         },
         "YugenAnime": {
@@ -62,7 +62,7 @@
                 "page": "YugenAnime",
                 "title": "Kidou Keisatsu Patlabor: On Television",
                 "url": "https://yugenanime.tv/anime/4739/kidou-keisatsu-patlabor-on-television/",
-                "aniId": 324
+                "aniId": 1288
             }
         },
         "Hidive": {
@@ -74,9 +74,9 @@
                 "type": "anime",
                 "page": "Hidive",
                 "external": true,
-                "aniId": 324
+                "aniId": 1288
             }
         }
     },
-    "aniId": 324
+    "aniId": 1288
 }

@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/149673/Chiller",
     "total": 39,
     "image": "https://cdn.myanimelist.net/images/manga/1/282119.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "dc09d324-5b69-4149-b304-d0ae3319bd02": {
+                "identifier": "dc09d324-5b69-4149-b304-d0ae3319bd02",
+                "image": "https://uploads.mangadex.org/covers/dc09d324-5b69-4149-b304-d0ae3319bd02/41b4dedb-540c-4965-89ee-ee3a5267b107.png",
+                "malId": 149673,
+                "aniId": 100171,
+                "page": "Mangadex",
+                "title": "Chiller",
+                "type": "manga",
+                "url": "https://mangadex.org/title/dc09d324-5b69-4149-b304-d0ae3319bd02"
+            }
+        },
+        "Comick": {
+            "9u53hVhb": {
+                "identifier": "9u53hVhb",
+                "malId": 149673,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Chiller",
+                "url": "https://comick.io/comic/00-chiller",
+                "aniId": 100171
+            }
+        }
+    },
     "aniId": 100171
 }

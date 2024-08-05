@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/306015.jpg",
     "Sites": {
+        "Mangadex": {
+            "16cca793-cda3-4f9f-a179-12c75b168242": {
+                "identifier": "16cca793-cda3-4f9f-a179-12c75b168242",
+                "image": "https://uploads.mangadex.org/covers/16cca793-cda3-4f9f-a179-12c75b168242/45efb9ac-287f-4d6b-978f-150340ce7a37.png",
+                "malId": 171804,
+                "aniId": 141714,
+                "page": "Mangadex",
+                "title": "Revenge of Young Master Peng",
+                "type": "manga",
+                "url": "https://mangadex.org/title/16cca793-cda3-4f9f-a179-12c75b168242"
+            }
+        },
         "Comick": {
             "Yl6klAaJ": {
                 "identifier": "Yl6klAaJ",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Revenge of Young Master Peng",
-                "url": "https://comick.io/comic/01-revenge-of-younger-master-peng"
+                "url": "https://comick.io/comic/01-revenge-of-younger-master-peng",
+                "aniId": 141714
             }
         }
-    }
+    },
+    "aniId": 141714
 }
