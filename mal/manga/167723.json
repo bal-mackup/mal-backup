@@ -6,6 +6,30 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/297793.jpg",
     "Sites": {
+        "Mangadex": {
+            "16fa59cd-f198-4fd0-801c-8d5c5ee53070": {
+                "identifier": "16fa59cd-f198-4fd0-801c-8d5c5ee53070",
+                "image": "https://uploads.mangadex.org/covers/16fa59cd-f198-4fd0-801c-8d5c5ee53070/fb03bbea-dc6b-4805-b138-43d0397e9e23.jpg",
+                "malId": 167723,
+                "aniId": 154766,
+                "page": "Mangadex",
+                "title": "Watashi wo Suki Sugiru Yuusha-sama wo Riyou shite, Konse koso Nagaiki suru Tsumoridattanoni (Tabun, Mata Shippaishita)",
+                "type": "manga",
+                "url": "https://mangadex.org/title/16fa59cd-f198-4fd0-801c-8d5c5ee53070"
+            }
+        },
+        "MangaNato": {
+            "manga-zq1002951": {
+                "identifier": "manga-zq1002951",
+                "image": "https://avt.mkklcdnv6temp.com/28/c/35-1722867840.jpg",
+                "malId": 167723,
+                "aniId": 154766,
+                "page": "MangaNato",
+                "title": "Watashi Wo Suki Sugiru Yuusha-Sama Wo Riyou Shite, Konse Koso Nagaiki Suru Tsumoridattanoni (Tabun, Mata Shippaishita)",
+                "type": "manga",
+                "url": "https://manganato.com/manga-zq1002951"
+            }
+        },
         "Comick": {
             "igJ_L8E1": {
                 "identifier": "igJ_L8E1",
@@ -13,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Watashi wo Suki Sugiru Yuusha-sama wo Riyou shite, Konse koso Nagaiki suru Tsumoridattanoni (Tabun, Mata Shippaishita)",
-                "url": "https://comick.io/comic/i-m-using-the-hero-who-loves-me-too-much-because-i-planned-to-live-a-long-life-in-this-world-i-probably-failed-again"
+                "url": "https://comick.io/comic/i-m-using-the-hero-who-loves-me-too-much-because-i-planned-to-live-a-long-life-in-this-world-i-probably-failed-again",
+                "aniId": 154766
             }
         }
-    }
+    },
+    "aniId": 154766
 }

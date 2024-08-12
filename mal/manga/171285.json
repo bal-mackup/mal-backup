@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/304419.jpg",
     "Sites": {
+        "Mangadex": {
+            "29da370d-16a8-49ad-8b59-d8a98c0d0e0b": {
+                "identifier": "29da370d-16a8-49ad-8b59-d8a98c0d0e0b",
+                "image": "https://uploads.mangadex.org/covers/29da370d-16a8-49ad-8b59-d8a98c0d0e0b/584cf898-9e74-46bf-a120-ec926decbd96.jpg",
+                "malId": 171285,
+                "aniId": 158981,
+                "page": "Mangadex",
+                "title": "Gakuen Kishi no Level up!",
+                "type": "manga",
+                "url": "https://mangadex.org/title/29da370d-16a8-49ad-8b59-d8a98c0d0e0b"
+            }
+        },
         "Comick": {
             "SOxI8OS5": {
                 "identifier": "SOxI8OS5",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Gakuen Kishi no Level up!",
-                "url": "https://comick.io/comic/gakuen-kishi-no-level-up"
+                "url": "https://comick.io/comic/gakuen-kishi-no-level-up",
+                "aniId": 158981
             }
         }
-    }
+    },
+    "aniId": 158981
 }

@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/305590.jpg",
     "Sites": {
+        "Mangadex": {
+            "1e7a444d-6f33-410d-97bc-92c01906bde1": {
+                "identifier": "1e7a444d-6f33-410d-97bc-92c01906bde1",
+                "image": "https://uploads.mangadex.org/covers/1e7a444d-6f33-410d-97bc-92c01906bde1/30eaa61a-a284-4648-b8e2-4e34d23bc722.jpg",
+                "malId": 171404,
+                "aniId": 170792,
+                "page": "Mangadex",
+                "title": "Warrior Grandpa and Supreme Granddaughter",
+                "type": "manga",
+                "url": "https://mangadex.org/title/1e7a444d-6f33-410d-97bc-92c01906bde1"
+            }
+        },
         "Comick": {
             "M3rhPSOF": {
                 "identifier": "M3rhPSOF",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Warrior Grandpa and Supreme Granddaughter",
-                "url": "https://comick.io/comic/00-warrior-grandpa-and-supreme-granddaughter"
+                "url": "https://comick.io/comic/00-warrior-grandpa-and-supreme-granddaughter",
+                "aniId": 170792
             }
         }
-    }
+    },
+    "aniId": 170792
 }
