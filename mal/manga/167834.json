@@ -9,13 +9,25 @@
         "Mangadex": {
             "73a46c78-f4f7-452e-b4ed-e3a5c8da1032": {
                 "identifier": "73a46c78-f4f7-452e-b4ed-e3a5c8da1032",
-                "image": "https://uploads.mangadex.org/covers/73a46c78-f4f7-452e-b4ed-e3a5c8da1032/221a8546-b888-4e10-b23b-9b7d87356262.jpg",
+                "image": "https://uploads.mangadex.org/covers/73a46c78-f4f7-452e-b4ed-e3a5c8da1032/3f5c7885-a9eb-4d03-8ca1-8ec8d190a052.jpg",
                 "malId": 167834,
-                "aniId": null,
+                "aniId": 175501,
                 "page": "Mangadex",
-                "title": "Pole Star",
+                "title": "POLE STAR",
                 "type": "manga",
                 "url": "https://mangadex.org/title/73a46c78-f4f7-452e-b4ed-e3a5c8da1032"
+            }
+        },
+        "MangaNato": {
+            "manga-av1003756": {
+                "identifier": "manga-av1003756",
+                "image": "https://avt.mkklcdnv6temp.com/11/u/36-1725077438.jpg",
+                "malId": 167834,
+                "aniId": 175501,
+                "page": "MangaNato",
+                "title": "Pole Star",
+                "type": "manga",
+                "url": "https://manganato.com/manga-av1003756"
             }
         },
         "Comick": {
@@ -24,9 +36,11 @@
                 "malId": 167834,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Pole Star",
-                "url": "https://comick.io/comic/pole-star"
+                "title": "POLE STAR",
+                "url": "https://comick.io/comic/pole-star",
+                "aniId": 175501
             }
         }
-    }
+    },
+    "aniId": 175501
 }
