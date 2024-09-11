@@ -6,12 +6,24 @@
     "total": 128,
     "image": "https://cdn.myanimelist.net/images/manga/3/306411.jpg",
     "Sites": {
+        "Mangadex": {
+            "cdf76855-b9df-4412-83ce-0c511c6bec2f": {
+                "identifier": "cdf76855-b9df-4412-83ce-0c511c6bec2f",
+                "image": "https://uploads.mangadex.org/covers/cdf76855-b9df-4412-83ce-0c511c6bec2f/1cca61e0-f50b-488d-95cc-fb37cc16f499.jpg",
+                "malId": 172122,
+                "aniId": 158812,
+                "page": "Mangadex",
+                "title": "Hajimete no Satsujin",
+                "type": "manga",
+                "url": "https://mangadex.org/title/cdf76855-b9df-4412-83ce-0c511c6bec2f"
+            }
+        },
         "MangaFire": {
             "hajimete-no-satsujin.8xv7q": {
                 "identifier": "hajimete-no-satsujin.8xv7q",
                 "image": "https://static.mangafire.to/i/4/4d/247f3a9d561e2f7033572533ed05cb4d.jpg",
                 "malId": 172122,
-                "aniId": null,
+                "aniId": 158812,
                 "page": "MangaFire",
                 "title": "Hajimete no Satsujin",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "manga-zw1002631",
                 "image": "https://avt.mkklcdnv6temp.com/14/z/35-1722051499.jpg",
                 "malId": 172122,
-                "aniId": null,
+                "aniId": 158812,
                 "page": "MangaNato",
                 "title": "Hajimete No Satsujin",
                 "type": "manga",
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Hajimete no Satsujin",
-                "url": "https://comick.io/comic/hajimete-no-satsujin"
+                "url": "https://comick.io/comic/hajimete-no-satsujin",
+                "aniId": 158812
             }
         }
-    }
+    },
+    "aniId": 158812
 }
