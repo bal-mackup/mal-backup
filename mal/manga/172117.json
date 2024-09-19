@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/307094.jpg",
     "Sites": {
+        "Mangadex": {
+            "73d7cc00-44f1-424c-a35d-972d667b6f4e": {
+                "identifier": "73d7cc00-44f1-424c-a35d-972d667b6f4e",
+                "image": "https://uploads.mangadex.org/covers/73d7cc00-44f1-424c-a35d-972d667b6f4e/f9a80d4f-9df8-4176-a85f-41d81850ee51.jpg",
+                "malId": 172117,
+                "aniId": 180840,
+                "page": "Mangadex",
+                "title": "Chin Chin Devil wo Oe!",
+                "type": "manga",
+                "url": "https://mangadex.org/title/73d7cc00-44f1-424c-a35d-972d667b6f4e"
+            }
+        },
         "Comick": {
             "1_mWK7wa": {
                 "identifier": "1_mWK7wa",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Chin Chin Devil wo Oe!",
-                "url": "https://comick.io/comic/chin-chin-devil-wo-oe"
+                "url": "https://comick.io/comic/chin-chin-devil-wo-oe",
+                "aniId": 180840
             }
         }
-    }
+    },
+    "aniId": 180840
 }

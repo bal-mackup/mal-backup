@@ -6,6 +6,30 @@
     "total": 27,
     "image": "https://cdn.myanimelist.net/images/anime/2/47151.jpg",
     "anidbId": 3080,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "animal-1": {
+                "identifier": "animal-1",
+                "image": "https://gogocdn.net/cover/animal-1.png",
+                "malId": 17671,
+                "aniId": 17671,
+                "page": "Gogoanime",
+                "title": "Animal 1",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/animal-1"
+            }
+        },
+        "YugenAnime": {
+            "19364": {
+                "identifier": "19364",
+                "malId": 17671,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Animal 1",
+                "url": "https://yugenanime.tv/anime/19364/animal-1/",
+                "aniId": 17671
+            }
+        }
+    },
     "aniId": 17671
 }

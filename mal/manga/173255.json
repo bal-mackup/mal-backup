@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/309550.jpg",
     "Sites": {
+        "MangaFire": {
+            "hunter-academys-strongest-battle-god2.lr7v6": {
+                "identifier": "hunter-academys-strongest-battle-god2.lr7v6",
+                "image": "https://static.mangafire.to/3b2d5/i/6/61/6b98947e8c8db9e677ff0a7062d7e2d5.jpg",
+                "malId": 173255,
+                "aniId": 177058,
+                "page": "MangaFire",
+                "title": "Hunter Academy's Strongest Battle God",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hunter-academys-strongest-battle-god2.lr7v6/"
+            }
+        },
         "Comick": {
             "531DmNZI": {
                 "identifier": "531DmNZI",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Hunter Academy’s Strongest Battle God",
-                "url": "https://comick.io/comic/hunter-academy-s-greatest-war-god"
+                "url": "https://comick.io/comic/hunter-academy-s-greatest-war-god",
+                "aniId": 177058
             }
         }
-    }
+    },
+    "aniId": 177058
 }
