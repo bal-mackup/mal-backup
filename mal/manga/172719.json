@@ -6,12 +6,24 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/3/308140.jpg",
     "Sites": {
+        "Mangadex": {
+            "2f24a461-d59d-45ec-9fa3-4a696b648df7": {
+                "identifier": "2f24a461-d59d-45ec-9fa3-4a696b648df7",
+                "image": "https://uploads.mangadex.org/covers/2f24a461-d59d-45ec-9fa3-4a696b648df7/65981077-40ee-48f8-a53e-aa4efebe532b.png",
+                "malId": 172719,
+                "aniId": 130151,
+                "page": "Mangadex",
+                "title": "Chiisana Ai to Suteki na Hibi o",
+                "type": "manga",
+                "url": "https://mangadex.org/title/2f24a461-d59d-45ec-9fa3-4a696b648df7"
+            }
+        },
         "MangaFire": {
             "wonderful-days-and-a-little-love.90w58": {
                 "identifier": "wonderful-days-and-a-little-love.90w58",
                 "image": "https://static.mangafire.to/3b2d5/i/b/b7/24613e088eb89f5d2ae63b31f3632044.jpg",
                 "malId": 172719,
-                "aniId": null,
+                "aniId": 130151,
                 "page": "MangaFire",
                 "title": "Wonderful Days and a Little Love",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Chiisana Ai to Suteki na Hibi o",
-                "url": "https://comick.io/comic/wonderful-days-and-a-little-love"
+                "url": "https://comick.io/comic/wonderful-days-and-a-little-love",
+                "aniId": 130151
             }
         }
-    }
+    },
+    "aniId": 130151
 }

@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/81575/Nanatsu_no_Tanpen",
     "total": 8,
     "image": "https://cdn.myanimelist.net/images/manga/3/141177.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "117149ef-b355-4e4f-855a-e8060c734497": {
+                "identifier": "117149ef-b355-4e4f-855a-e8060c734497",
+                "image": "https://uploads.mangadex.org/covers/117149ef-b355-4e4f-855a-e8060c734497/9117cc2b-5ff8-46c6-a9e0-4291bf414df4.jpg",
+                "malId": 81575,
+                "aniId": 86060,
+                "page": "Mangadex",
+                "title": "Nanatsu no Tanpen: Suzuki Nakaba Tanpenshuu",
+                "type": "manga",
+                "url": "https://mangadex.org/title/117149ef-b355-4e4f-855a-e8060c734497"
+            }
+        },
+        "Comick": {
+            "AZQGSGSL": {
+                "identifier": "AZQGSGSL",
+                "malId": 81575,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Nanatsu no Tanpen: Suzuki Nakaba Tanpenshuu",
+                "url": "https://comick.io/comic/nanatsu-no-tanpen-suzuki-nakaba-tanpenshuu",
+                "aniId": 86060
+            }
+        }
+    },
     "aniId": 86060
 }

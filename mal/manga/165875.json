@@ -6,17 +6,53 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/294545.jpg",
     "Sites": {
+        "Mangadex": {
+            "06f474cb-ae4a-4767-8895-99477c7e8cd7": {
+                "identifier": "06f474cb-ae4a-4767-8895-99477c7e8cd7",
+                "image": "https://uploads.mangadex.org/covers/06f474cb-ae4a-4767-8895-99477c7e8cd7/4fa3d541-4e39-4dfd-b178-b3b4c1bd3ca9.jpg",
+                "malId": 165875,
+                "aniId": 170895,
+                "page": "Mangadex",
+                "title": "Obsidian Bride",
+                "type": "manga",
+                "url": "https://mangadex.org/title/06f474cb-ae4a-4767-8895-99477c7e8cd7"
+            }
+        },
         "MangaNato": {
             "manga-uc997911": {
                 "identifier": "manga-uc997911",
                 "image": "https://avt.mkklcdnv6temp.com/25/o/31-1693883173.jpg",
                 "malId": 165875,
-                "aniId": null,
+                "aniId": 170895,
                 "page": "MangaNato",
                 "title": "Bride Of Obsidian",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-uc997911"
             }
+        },
+        "MangaFire": {
+            "bride-of-obsidian.2pqx5": {
+                "identifier": "bride-of-obsidian.2pqx5",
+                "image": "https://static.mangafire.to/3b2d5/i/9/97/97ba7624632ccc2c2daa874c9f5e8865.jpg",
+                "malId": 165875,
+                "aniId": 170895,
+                "page": "MangaFire",
+                "title": "Bride of Obsidian",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bride-of-obsidian.2pqx5/"
+            }
+        },
+        "Comick": {
+            "PAGVBddQ": {
+                "identifier": "PAGVBddQ",
+                "malId": 165875,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Obsidian Bride",
+                "url": "https://comick.io/comic/00-obsidian-bride",
+                "aniId": 170895
+            }
         }
-    }
+    },
+    "aniId": 170895
 }

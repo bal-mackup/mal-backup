@@ -6,12 +6,24 @@
     "total": 37,
     "image": "https://cdn.myanimelist.net/images/manga/2/309046.jpg",
     "Sites": {
+        "Mangadex": {
+            "f9652981-8c4e-4b03-a379-2ee9f02627d8": {
+                "identifier": "f9652981-8c4e-4b03-a379-2ee9f02627d8",
+                "image": "https://uploads.mangadex.org/covers/f9652981-8c4e-4b03-a379-2ee9f02627d8/258304c7-f1a4-4d03-93a3-19fb422e14ca.jpg",
+                "malId": 173029,
+                "aniId": 123791,
+                "page": "Mangadex",
+                "title": "I'm in Trouble With My Best Friend's Daughter",
+                "type": "manga",
+                "url": "https://mangadex.org/title/f9652981-8c4e-4b03-a379-2ee9f02627d8"
+            }
+        },
         "MangaNato": {
             "manga-an1003796": {
                 "identifier": "manga-an1003796",
                 "image": "https://avt.mkklcdnv6temp.com/13/o/36-1725355581.jpg",
                 "malId": 173029,
-                "aniId": null,
+                "aniId": 123791,
                 "page": "MangaNato",
                 "title": "I'm In Trouble With My Best Friend's Daughter",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "I'm in Trouble With My Best Friend's Daughter",
-                "url": "https://comick.io/comic/i-m-in-trouble-with-my-best-friend-s-daughter"
+                "url": "https://comick.io/comic/i-m-in-trouble-with-my-best-friend-s-daughter",
+                "aniId": 123791
             }
         }
-    }
+    },
+    "aniId": 123791
 }
