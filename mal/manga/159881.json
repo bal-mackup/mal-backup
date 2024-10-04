@@ -6,6 +6,18 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/3/286227.jpg",
     "Sites": {
+        "Mangadex": {
+            "ed85d66e-cfc3-477c-97c9-343af7f42702": {
+                "identifier": "ed85d66e-cfc3-477c-97c9-343af7f42702",
+                "image": "https://uploads.mangadex.org/covers/ed85d66e-cfc3-477c-97c9-343af7f42702/41a097af-660f-4fbb-baec-126d90309bdf.jpg",
+                "malId": 159881,
+                "aniId": 152319,
+                "page": "Mangadex",
+                "title": "Kurasu no Inkya Busu? ...Jitsu wa Chou Bijin Cosplayer Datta. Minna Shirazu ni Baka ni Shiterukedo",
+                "type": "manga",
+                "url": "https://mangadex.org/title/ed85d66e-cfc3-477c-97c9-343af7f42702"
+            }
+        },
         "Comick": {
             "VnNz3UGR": {
                 "identifier": "VnNz3UGR",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Kurasu no Inkya Busu? ...Jitsu wa Chou Bijin Cosplayer Datta. Minna Shirazu ni Baka ni Shiterukedo",
-                "url": "https://comick.io/comic/kurasu-no-inkya-busu-jitsu-wa-chou-bijin-cosplayer-datta-minna-shirazu-ni-baka-ni-shiterukedo"
+                "url": "https://comick.io/comic/kurasu-no-inkya-busu-jitsu-wa-chou-bijin-cosplayer-datta-minna-shirazu-ni-baka-ni-shiterukedo",
+                "aniId": 152319
             }
         }
-    }
+    },
+    "aniId": 152319
 }

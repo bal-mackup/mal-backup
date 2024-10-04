@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/307916.jpg",
     "Sites": {
+        "Mangadex": {
+            "debdff88-8291-45b6-ac46-4055924926cf": {
+                "identifier": "debdff88-8291-45b6-ac46-4055924926cf",
+                "image": "https://uploads.mangadex.org/covers/debdff88-8291-45b6-ac46-4055924926cf/be1291ed-e0fa-412a-a0d6-2edb899c3416.jpg",
+                "malId": 172673,
+                "aniId": 169805,
+                "page": "Mangadex",
+                "title": "Who Killed The Hero?",
+                "type": "manga",
+                "url": "https://mangadex.org/title/debdff88-8291-45b6-ac46-4055924926cf"
+            }
+        },
         "MangaNato": {
             "manga-zq1002873": {
                 "identifier": "manga-zq1002873",
                 "image": "https://avt.mkklcdnv6temp.com/24/r/35-1722587949.jpg",
                 "malId": 172673,
-                "aniId": null,
+                "aniId": 169805,
                 "page": "MangaNato",
                 "title": "Who Killed The Hero?",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "dare-ga-yuusha-wo-koroshita-ka.mvr0z",
                 "image": "https://static.mangafire.to/3b2d5/i/0/05/4f85c3cb7050b2bde2162bcba6ce67cf.jpg",
                 "malId": 172673,
-                "aniId": null,
+                "aniId": 169805,
                 "page": "MangaFire",
                 "title": "Who Killed The Hero?",
                 "type": "manga",
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Who Killed The Hero?",
-                "url": "https://comick.io/comic/who-killed-the-heroUSx2"
+                "url": "https://comick.io/comic/who-killed-the-heroUSx2",
+                "aniId": 169805
             }
         }
-    }
+    },
+    "aniId": 169805
 }

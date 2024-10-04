@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/297627.jpg",
     "Sites": {
+        "Mangadex": {
+            "bd7fc050-7cc5-4fc7-98d9-69677e2362b9": {
+                "identifier": "bd7fc050-7cc5-4fc7-98d9-69677e2362b9",
+                "image": "https://uploads.mangadex.org/covers/bd7fc050-7cc5-4fc7-98d9-69677e2362b9/091bcd59-d648-4dbb-9d53-5c74d2a9e926.jpg",
+                "malId": 167616,
+                "aniId": 141283,
+                "page": "Mangadex",
+                "title": "Tokimeke Mahou Youjo Kokopure",
+                "type": "manga",
+                "url": "https://mangadex.org/title/bd7fc050-7cc5-4fc7-98d9-69677e2362b9"
+            }
+        },
         "Comick": {
             "Lh4eoltr": {
                 "identifier": "Lh4eoltr",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Tokimeke Mahou Youjo Kokopure",
-                "url": "https://comick.io/comic/tokimeke-mahou-youjo-kokopure"
+                "url": "https://comick.io/comic/tokimeke-mahou-youjo-kokopure",
+                "aniId": 141283
             }
         }
-    }
+    },
+    "aniId": 141283
 }

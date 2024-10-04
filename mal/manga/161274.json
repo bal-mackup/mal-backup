@@ -6,6 +6,18 @@
     "total": 8,
     "image": "https://cdn.myanimelist.net/images/manga/2/294056.jpg",
     "Sites": {
+        "Mangadex": {
+            "f78d88f0-d043-4c77-b449-2172c55b0351": {
+                "identifier": "f78d88f0-d043-4c77-b449-2172c55b0351",
+                "image": "https://uploads.mangadex.org/covers/f78d88f0-d043-4c77-b449-2172c55b0351/673c4722-1098-4ea8-a639-7c4eb776e4bd.jpg",
+                "malId": 161274,
+                "aniId": 152224,
+                "page": "Mangadex",
+                "title": "Tawawa Melt",
+                "type": "manga",
+                "url": "https://mangadex.org/title/f78d88f0-d043-4c77-b449-2172c55b0351"
+            }
+        },
         "Comick": {
             "TQqJOZC4": {
                 "identifier": "TQqJOZC4",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Tawawa Melt",
-                "url": "https://comick.io/comic/tawawa-melt"
+                "url": "https://comick.io/comic/tawawa-melt",
+                "aniId": 152224
             }
         }
-    }
+    },
+    "aniId": 152224
 }
