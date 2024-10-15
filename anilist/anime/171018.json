@@ -3,7 +3,7 @@
     "type": "anime",
     "title": "Dandadan",
     "url": "https://myanimelist.net/anime/57334/Dandadan",
-    "total": null,
+    "total": 12,
     "image": "https://cdn.myanimelist.net/images/anime/1584/143719.jpg",
     "anidbId": 18290,
     "Sites": {
@@ -41,6 +41,16 @@
                 "title": "Dandadan",
                 "type": "anime",
                 "url": "https://anitaku.pe/category/dandadan"
+            },
+            "dandadan-dub": {
+                "identifier": "dandadan-dub",
+                "image": "https://gogocdn.net/cover/dandadan-dub.png",
+                "malId": 57334,
+                "aniId": 171018,
+                "page": "Gogoanime",
+                "title": "Dandadan (Dub)",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/dandadan-dub"
             }
         },
         "animepahe": {
@@ -51,6 +61,17 @@
                 "page": "animepahe",
                 "title": "Dandadan",
                 "url": "https://animepahe.ru/a/5649",
+                "aniId": 171018
+            }
+        },
+        "YugenAnime": {
+            "19459": {
+                "identifier": "19459",
+                "malId": 57334,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Dandadan",
+                "url": "https://yugenanime.tv/anime/19459/dandadan/",
                 "aniId": 171018
             }
         }

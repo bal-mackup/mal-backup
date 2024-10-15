@@ -11,7 +11,7 @@
                 "identifier": "549b8630-ee34-42f6-9219-2bcbbf1fdffe",
                 "image": "https://uploads.mangadex.org/covers/549b8630-ee34-42f6-9219-2bcbbf1fdffe/1d2b4db2-37d4-408d-8a1c-67537b916e75.jpg",
                 "malId": 157264,
-                "aniId": null,
+                "aniId": 164380,
                 "page": "Mangadex",
                 "title": "Otogi no Hako no Reto",
                 "type": "manga",
@@ -23,7 +23,7 @@
                 "identifier": "reto-the-protector",
                 "image": "https://temp.compsci88.com/cover/Reto-the-Protector.jpg",
                 "malId": 157264,
-                "aniId": null,
+                "aniId": 164380,
                 "page": "MangaSee",
                 "title": "Reto the Protector",
                 "type": "manga",
@@ -35,11 +35,23 @@
                 "identifier": "manga-wx999606",
                 "image": "https://avt.mkklcdnv6temp.com/43/w/32-1701398179.jpg",
                 "malId": 157264,
-                "aniId": null,
+                "aniId": 164380,
                 "page": "MangaNato",
                 "title": "Reto The Protector",
                 "type": "manga",
                 "url": "https://manganato.com/manga-wx999606"
+            }
+        },
+        "MangaFire": {
+            "otogi-no-hako-no-reto.k31mv": {
+                "identifier": "otogi-no-hako-no-reto.k31mv",
+                "image": "https://static.mangafire.to/3b2d5/i/2/21/2194044b915483d99beb5791c7faef77.jpg",
+                "malId": 157264,
+                "aniId": 164380,
+                "page": "MangaFire",
+                "title": "Reto the Protector",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otogi-no-hako-no-reto.k31mv/"
             }
         },
         "Comick": {
@@ -49,8 +61,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Otogi no Hako no Reto",
-                "url": "https://comick.io/comic/otogi-no-hako-no-reto"
+                "url": "https://comick.io/comic/otogi-no-hako-no-reto",
+                "aniId": 164380
             }
         }
-    }
+    },
+    "aniId": 164380
 }

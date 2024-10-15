@@ -5,5 +5,40 @@
     "url": "https://myanimelist.net/manga/143963/Last_Continent",
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/1/269472.jpg",
-    "Sites": {}
+    "Sites": {
+        "Mangadex": {
+            "5dcfba57-7aed-4351-a119-6d17f44204f4": {
+                "identifier": "5dcfba57-7aed-4351-a119-6d17f44204f4",
+                "image": "https://uploads.mangadex.org/covers/5dcfba57-7aed-4351-a119-6d17f44204f4/a3e40629-0b2b-4f9e-8e44-709c40251d9c.jpg",
+                "malId": 143963,
+                "aniId": null,
+                "page": "Mangadex",
+                "title": "Last Continent",
+                "type": "manga",
+                "url": "https://mangadex.org/title/5dcfba57-7aed-4351-a119-6d17f44204f4"
+            }
+        },
+        "MangaFire": {
+            "last-continent.ppn96": {
+                "identifier": "last-continent.ppn96",
+                "image": "https://static.mangafire.to/3b2d5/i/5/5c/9a4c9d5b510849581e3eac7efb901ecd.jpg",
+                "malId": 143963,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Last Continent",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/last-continent.ppn96/"
+            }
+        },
+        "Comick": {
+            "tOaZ3g9d": {
+                "identifier": "tOaZ3g9d",
+                "malId": 143963,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Last Continent",
+                "url": "https://comick.io/comic/last-continent"
+            }
+        }
+    }
 }

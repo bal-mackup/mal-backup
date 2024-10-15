@@ -6,6 +6,18 @@
     "total": 60,
     "image": "https://cdn.myanimelist.net/images/manga/1/267516.jpg",
     "Sites": {
+        "Mangadex": {
+            "28633894-b5ab-444a-8862-e1dc0b774c38": {
+                "identifier": "28633894-b5ab-444a-8862-e1dc0b774c38",
+                "image": "https://uploads.mangadex.org/covers/28633894-b5ab-444a-8862-e1dc0b774c38/4cefa81d-5197-4e65-984c-b4fd37ac8abf.jpg",
+                "malId": 150199,
+                "aniId": 141105,
+                "page": "Mangadex",
+                "title": "Substitute Boyfriend",
+                "type": "manga",
+                "url": "https://mangadex.org/title/28633894-b5ab-444a-8862-e1dc0b774c38"
+            }
+        },
         "Comick": {
             "UGd7Zeku": {
                 "identifier": "UGd7Zeku",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Substitute Boyfriend",
-                "url": "https://comick.io/comic/00-substitute-boyfriend"
+                "url": "https://comick.io/comic/00-substitute-boyfriend",
+                "aniId": 141105
             }
         }
-    }
+    },
+    "aniId": 141105
 }

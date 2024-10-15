@@ -68,11 +68,23 @@
         "MangaPlus": {
             "0": {
                 "title": "Himaten!",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx178202-grFbr7mqthjh.jpg",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx178202-0h4VgQIWBUPz.png",
                 "identifier": 0,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100333",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 178202
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Himaten!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx178202-0h4VgQIWBUPz.png",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/hima-ten",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 178202
             }
