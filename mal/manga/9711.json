@@ -74,6 +74,16 @@
                 "title": "Bakuman。",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/bakuman.ywx/"
+            },
+            "bakumann.ywx": {
+                "identifier": "bakumann.ywx",
+                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f6312d5d5c5c1fb7b508ab47ce2be16.jpg",
+                "malId": 9711,
+                "aniId": 39711,
+                "page": "MangaFire",
+                "title": "Bakuman。",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bakumann.ywx/"
             }
         },
         "Comick": {
@@ -107,21 +117,33 @@
                 "aniId": 39711
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "Bakuman.",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39711-tjPWXT1AW321.jpg",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/bakuman",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 39711
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "Bakuman.",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39711-tjPWXT1AW321.jpg",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100002",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 39711
             },
-            "1": {
+            "2": {
                 "title": "Bakuman.",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39711-tjPWXT1AW321.jpg",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200002",
                 "type": "manga",
                 "page": "MangaPlus",

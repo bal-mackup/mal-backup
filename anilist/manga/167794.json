@@ -9,7 +9,7 @@
         "Mangadex": {
             "cb114652-dbaa-49bc-b49a-ac9483967a78": {
                 "identifier": "cb114652-dbaa-49bc-b49a-ac9483967a78",
-                "image": "https://uploads.mangadex.org/covers/cb114652-dbaa-49bc-b49a-ac9483967a78/ca107776-882c-48f6-a547-2c26fb6b2652.jpg",
+                "image": "https://uploads.mangadex.org/covers/cb114652-dbaa-49bc-b49a-ac9483967a78/1e612903-bd6d-4597-99d5-bbfc19164d14.jpg",
                 "malId": 161497,
                 "aniId": 167794,
                 "page": "Mangadex",
@@ -54,6 +54,18 @@
                 "url": "https://fanfox.net/manga/shoujo_null/"
             }
         },
+        "MangaFire": {
+            "shoujo-nulll.pp826": {
+                "identifier": "shoujo-nulll.pp826",
+                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b943df204ed46df7a32cbf42f8d887f5.jpg",
+                "malId": 161497,
+                "aniId": 167794,
+                "page": "MangaFire",
+                "title": "Shoujo Null",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shoujo-nulll.pp826/"
+            }
+        },
         "Comick": {
             "NcGtZwlv": {
                 "identifier": "NcGtZwlv",
@@ -73,6 +85,18 @@
                 "url": "https://mangaplus.shueisha.co.jp/titles/100263",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 167794
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Shoujo Null",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167794-bAWWtlH7WZ3m.jpg",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/shojo-null",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 167794
             }

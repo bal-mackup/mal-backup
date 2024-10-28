@@ -11,7 +11,7 @@
                 "identifier": "ce32eaf7-22ff-48c3-b2b7-48d763ecbbd5",
                 "image": "https://uploads.mangadex.org/covers/ce32eaf7-22ff-48c3-b2b7-48d763ecbbd5/04d4b321-cbd9-4f26-9842-741132512e32.jpg",
                 "malId": 168403,
-                "aniId": null,
+                "aniId": 180363,
                 "page": "Mangadex",
                 "title": "Welcome to the Wizard's Bistro",
                 "type": "manga",
@@ -23,11 +23,23 @@
                 "identifier": "mahoutsukai_no_oshokujidokoro",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46002/cover.jpg",
                 "malId": 168403,
-                "aniId": null,
+                "aniId": 180363,
                 "page": "MangaFox",
                 "title": "Mahoutsukai no Oshokujidokoro",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mahoutsukai_no_oshokujidokoro/"
+            }
+        },
+        "MangaFire": {
+            "mahoutsukai-no-oshokujidokoroo.2p85l": {
+                "identifier": "mahoutsukai-no-oshokujidokoroo.2p85l",
+                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d85eea80e30a5d0ac71512a75804371b.jpg",
+                "malId": 168403,
+                "aniId": 180363,
+                "page": "MangaFire",
+                "title": "Mahoutsukai no Oshokujidokoro",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahoutsukai-no-oshokujidokoroo.2p85l/"
             }
         },
         "Comick": {
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Welcome to the Wizard's Bistro",
-                "url": "https://comick.io/comic/mahoutsukai-no-oshokujidokoro"
+                "url": "https://comick.io/comic/mahoutsukai-no-oshokujidokoro",
+                "aniId": 180363
             }
         }
-    }
+    },
+    "aniId": 180363
 }

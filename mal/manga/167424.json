@@ -9,7 +9,7 @@
         "Mangadex": {
             "fddba606-d598-40b8-9ba5-f69a129305eb": {
                 "identifier": "fddba606-d598-40b8-9ba5-f69a129305eb",
-                "image": "https://uploads.mangadex.org/covers/fddba606-d598-40b8-9ba5-f69a129305eb/12ef68b9-e010-4817-9278-81df3718689e.jpg",
+                "image": "https://uploads.mangadex.org/covers/fddba606-d598-40b8-9ba5-f69a129305eb/6d3a4aed-bf51-4973-b0c0-6cb3edda08b3.jpg",
                 "malId": 167424,
                 "aniId": 174545,
                 "page": "Mangadex",
@@ -39,7 +39,7 @@
                 "page": "MangaNato",
                 "title": "Dear Anemone",
                 "type": "manga",
-                "url": "https://manganato.com/manga-xs1001001"
+                "url": "https://chapmanganato.com/manga-xs1001001"
             }
         },
         "MangaSee": {
@@ -73,6 +73,18 @@
                 "url": "https://mangaplus.shueisha.co.jp/titles/100299",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 174545
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Dear Anemone",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174545-7bR3RoScTB7O.jpg",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/dear-anemone",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 174545
             }

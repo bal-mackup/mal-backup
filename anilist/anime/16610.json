@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/6/44760.jpg",
     "anidbId": 10645,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "no-littering": {
+                "identifier": "no-littering",
+                "image": "https://gogocdn.net/cover/no-littering.png",
+                "malId": 16610,
+                "aniId": 16610,
+                "page": "Gogoanime",
+                "title": "No Littering",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/no-littering"
+            }
+        },
+        "YugenAnime": {
+            "19562": {
+                "identifier": "19562",
+                "malId": 16610,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "No Littering",
+                "url": "https://yugenanime.tv/anime/19562/no-littering/",
+                "aniId": 16610
+            }
+        }
+    },
     "malId": 16610
 }

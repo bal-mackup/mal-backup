@@ -64,6 +64,16 @@
                 "title": "Claymore",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/claymore.6kz/"
+            },
+            "claymoree.6kz": {
+                "identifier": "claymoree.6kz",
+                "image": "https://static.mangafire.to/3b2d5/i/3/32/321832d4c29cbb69db51352f1c32d60c.jpg",
+                "malId": 583,
+                "aniId": 30583,
+                "page": "MangaFire",
+                "title": "Claymore",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/claymoree.6kz/"
             }
         },
         "Comick": {
@@ -88,21 +98,33 @@
                 "aniId": 30583
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "CLAYMORE",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30583-Ysqwu8uryIUX.png",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/claymore",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 30583
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "CLAYMORE",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30583-Ysqwu8uryIUX.png",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100007",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 30583
             },
-            "1": {
+            "2": {
                 "title": "CLAYMORE",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30583-Ysqwu8uryIUX.png",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200005",
                 "type": "manga",
                 "page": "MangaPlus",

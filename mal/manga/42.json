@@ -154,6 +154,36 @@
                 "title": "Dragon Ball Z",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/dragon-ball-z.3r6/"
+            },
+            "dragon-ball-zz.3r6": {
+                "identifier": "dragon-ball-zz.3r6",
+                "image": "https://static.mangafire.to/3b2d5/i/5/57/57d93191aa22e4e13939638fb0e592a8.jpg",
+                "malId": 42,
+                "aniId": 30042,
+                "page": "MangaFire",
+                "title": "Dragon Ball Z",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dragon-ball-zz.3r6/"
+            },
+            "dragon-balll.2o5": {
+                "identifier": "dragon-balll.2o5",
+                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0afe30354fa01dd58ff5f1ad9ad3eed.jpg",
+                "malId": 42,
+                "aniId": 30042,
+                "page": "MangaFire",
+                "title": "Dragon Ball",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dragon-balll.2o5/"
+            },
+            "dragon-ball22.kkvyw": {
+                "identifier": "dragon-ball22.kkvyw",
+                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9fb4de20956bc7aa6f7c6282460c231.jpg",
+                "malId": 42,
+                "aniId": 30042,
+                "page": "MangaFire",
+                "title": "Dragon Ball",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dragon-ball22.kkvyw/"
             }
         },
         "Comick": {
@@ -198,13 +228,35 @@
                 "external": true,
                 "aniId": 30042
             },
+            "3": {
+                "title": "Dragon Ball",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg",
+                "identifier": 3,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200010",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 30042
+            }
+        },
+        "VIZ": {
             "1": {
                 "title": "Dragon Ball",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200010",
+                "url": "https://www.viz.com/shonenjump/chapters/dragon-ball-z",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 30042
+            },
+            "2": {
+                "title": "Dragon Ball",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg",
+                "identifier": 2,
+                "url": "https://www.viz.com/shonenjump/chapters/dragon-ball",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 30042
             }

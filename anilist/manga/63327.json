@@ -114,6 +114,16 @@
                 "title": "Tokyo Ghoul",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/511q/"
+            },
+            "tokyo-ghoull.511q": {
+                "identifier": "tokyo-ghoull.511q",
+                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe024f22fa6f89a4b7115bd845412482.jpg",
+                "malId": 33327,
+                "aniId": 63327,
+                "page": "MangaFire",
+                "title": "Tokyo Ghoul",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-ghoull.511q/"
             }
         },
         "Comick": {
@@ -158,13 +168,25 @@
                 "external": true,
                 "aniId": 63327
             },
+            "2": {
+                "title": "Tokyo Ghoul",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63327-4KfhQ64AklrK.png",
+                "identifier": 2,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200006",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 63327
+            }
+        },
+        "VIZ": {
             "1": {
                 "title": "Tokyo Ghoul",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63327-4KfhQ64AklrK.png",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200006",
+                "url": "https://www.viz.com/shonenjump/chapters/tokyo-ghoul",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 63327
             }

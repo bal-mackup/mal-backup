@@ -7,16 +7,27 @@
     "image": "https://cdn.myanimelist.net/images/anime/1115/109237.jpg",
     "anidbId": null,
     "Sites": {
-        "9anime": {
-            "484k": {
-                "identifier": "484k",
-                "image": "https://static.aniwave.to/71/i/2/23/23807f08a86ddcff76bb16719c08f0ea.jpg",
+        "Gogoanime": {
+            "my-little-goat": {
+                "identifier": "my-little-goat",
+                "image": "https://gogocdn.net/cover/my-little-goat.png",
                 "malId": 42899,
                 "aniId": 131486,
-                "page": "9anime",
+                "page": "Gogoanime",
                 "title": "My Little Goat",
                 "type": "anime",
-                "url": "https://aniwave.to/watch/my-little-goat.484k"
+                "url": "https://anitaku.pe/category/my-little-goat"
+            }
+        },
+        "YugenAnime": {
+            "19557": {
+                "identifier": "19557",
+                "malId": 42899,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "My Little Goat",
+                "url": "https://yugenanime.tv/anime/19557/my-little-goat/",
+                "aniId": 131486
             }
         }
     },

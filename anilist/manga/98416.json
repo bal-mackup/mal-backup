@@ -74,6 +74,16 @@
                 "title": "Dr. STONE",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/qkm13/"
+            },
+            "dr-stonee.qkm13": {
+                "identifier": "dr-stonee.qkm13",
+                "image": "https://static.mangafire.to/3b2d5/i/9/94/94d31a590ed6327cfe4cbc90ae295d5f.jpg",
+                "malId": 103897,
+                "aniId": 98416,
+                "page": "MangaFire",
+                "title": "Dr. STONE",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dr-stonee.qkm13/"
             }
         },
         "Comick": {
@@ -109,13 +119,25 @@
                 "external": true,
                 "aniId": 98416
             },
+            "2": {
+                "title": "Dr. STONE",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98416-BtFDPRVQHHZe.jpg",
+                "identifier": 2,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200022",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 98416
+            }
+        },
+        "VIZ": {
             "1": {
                 "title": "Dr. STONE",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98416-BtFDPRVQHHZe.jpg",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200022",
+                "url": "https://www.viz.com/shonenjump/chapters/dr-stone",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 98416
             }

@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/306291.jpg",
     "Sites": {
+        "Mangadex": {
+            "9d4de066-d4ef-46e6-82e4-0ed25143421a": {
+                "identifier": "9d4de066-d4ef-46e6-82e4-0ed25143421a",
+                "image": "https://uploads.mangadex.org/covers/9d4de066-d4ef-46e6-82e4-0ed25143421a/6f992c0b-ae4b-4385-bc60-6aaef0bd2a32.jpg",
+                "malId": 171957,
+                "aniId": 180755,
+                "page": "Mangadex",
+                "title": "The Suspects of Necromancy",
+                "type": "manga",
+                "url": "https://mangadex.org/title/9d4de066-d4ef-46e6-82e4-0ed25143421a"
+            }
+        },
         "MangaNato": {
             "manga-az1003908": {
                 "identifier": "manga-az1003908",
                 "image": "https://avt.mkklcdnv6temp.com/18/e/36-1725463177.jpg",
                 "malId": 171957,
-                "aniId": null,
+                "aniId": 180755,
                 "page": "MangaNato",
                 "title": "The Suspects Of Necromancy",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "The Suspects of Necromancy",
-                "url": "https://comick.io/comic/the-suspects-of-necromancy"
+                "url": "https://comick.io/comic/the-suspects-of-necromancy",
+                "aniId": 180755
             }
         }
-    }
+    },
+    "aniId": 180755
 }

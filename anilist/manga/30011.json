@@ -114,6 +114,26 @@
                 "title": "Naruto",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/l33/"
+            },
+            "narutoo.l33": {
+                "identifier": "narutoo.l33",
+                "image": "https://static.mangafire.to/3b2d5/i/5/51/51360d75d5ffa0cc3234dc79d9c36d26.jpg",
+                "malId": 11,
+                "aniId": 30011,
+                "page": "MangaFire",
+                "title": "Naruto",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/narutoo.l33/"
+            },
+            "naruto44.92kk8": {
+                "identifier": "naruto44.92kk8",
+                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b295b9556ab5088b504e33bcc0f1d339.jpg",
+                "malId": 11,
+                "aniId": 30011,
+                "page": "MangaFire",
+                "title": "Naruto",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/naruto44.92kk8/"
             }
         },
         "Comick": {
@@ -158,13 +178,25 @@
                 "external": true,
                 "aniId": 30011
             },
+            "2": {
+                "title": "NARUTO",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30011-9yUF1dXWgDOx.jpg",
+                "identifier": 2,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200001",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 30011
+            }
+        },
+        "VIZ": {
             "1": {
                 "title": "NARUTO",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30011-9yUF1dXWgDOx.jpg",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200001",
+                "url": "https://www.viz.com/shonenjump/chapters/naruto",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 30011
             }

@@ -3,7 +3,7 @@
     "type": "manga",
     "title": "Jujutsu Kaisen",
     "url": "https://myanimelist.net/manga/113138/Jujutsu_Kaisen",
-    "total": null,
+    "total": 271,
     "image": "https://cdn.myanimelist.net/images/manga/3/210341.jpg",
     "Sites": {
         "Mangadex": {
@@ -87,13 +87,23 @@
             },
             "rl2vm": {
                 "identifier": "rl2vm",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/4b8bbc4d9998989d7b55aadefcf3902f.jpg",
+                "image": "https://static.mangafire.to/3b2d5/i/3/30/40825b829a241fd494d765e2baa4f227.jpg",
                 "malId": 113138,
                 "aniId": 101517,
                 "page": "MangaFire",
                 "title": "Jujutsu Kaisen",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/rl2vm/"
+            },
+            "jujutsu-kaisenn.rl2vm": {
+                "identifier": "jujutsu-kaisenn.rl2vm",
+                "image": "https://static.mangafire.to/3b2d5/i/3/30/40825b829a241fd494d765e2baa4f227.jpg",
+                "malId": 113138,
+                "aniId": 101517,
+                "page": "MangaFire",
+                "title": "Jujutsu Kaisen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jujutsu-kaisenn.rl2vm/"
             }
         },
         "Comick": {
@@ -127,22 +137,24 @@
                 "aniId": 101517
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "Jujutsu Kaisen",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101517-H3TdM3g5ZUe9.jpg",
                 "identifier": 0,
-                "url": "https://mangaplus.shueisha.co.jp/titles/100034",
+                "url": "https://www.viz.com/shonenjump/chapters/jujutsu-kaisen",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 101517
-            },
+            }
+        },
+        "MangaPlus": {
             "1": {
                 "title": "Jujutsu Kaisen",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101517-H3TdM3g5ZUe9.jpg",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200018",
+                "url": "https://mangaplus.shueisha.co.jp/titles/100034",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
@@ -152,6 +164,16 @@
                 "title": "Jujutsu Kaisen",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101517-H3TdM3g5ZUe9.jpg",
                 "identifier": 2,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200018",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 101517
+            },
+            "3": {
+                "title": "Jujutsu Kaisen",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101517-H3TdM3g5ZUe9.jpg",
+                "identifier": 3,
                 "url": "https://mangaplus.shueisha.co.jp/titles/700004",
                 "type": "manga",
                 "page": "MangaPlus",

@@ -74,6 +74,16 @@
                 "title": "Blue Box",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/ao-no-hako.mqm7p/"
+            },
+            "ao-no-hakoo.mqm7p": {
+                "identifier": "ao-no-hakoo.mqm7p",
+                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d264750a4e86f15a6bc373a4cec0b658.jpg",
+                "malId": 135545,
+                "aniId": 132182,
+                "page": "MangaFire",
+                "title": "Blue Box",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ao-no-hakoo.mqm7p/"
             }
         },
         "Comick": {
@@ -109,23 +119,35 @@
                 "external": true,
                 "aniId": 132182
             },
-            "1": {
+            "2": {
                 "title": "Ao no Hako",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132182-QWwhGEBUV7DG.jpg",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200083",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 132182
             },
-            "2": {
+            "3": {
                 "title": "Ao no Hako",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132182-QWwhGEBUV7DG.jpg",
-                "identifier": 2,
+                "identifier": 3,
                 "url": "https://mangaplus.shueisha.co.jp/titles/300004",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 132182
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Ao no Hako",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132182-QWwhGEBUV7DG.jpg",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/blue-box",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 132182
             }

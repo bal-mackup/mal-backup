@@ -64,6 +64,16 @@
                 "title": "Nisekoi: False Love",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/nisekoi.l326/"
+            },
+            "nisekoii.l326": {
+                "identifier": "nisekoii.l326",
+                "image": "https://static.mangafire.to/3b2d5/i/8/83/8354fe0ab6288c4b1590512a959934d9.jpg",
+                "malId": 31499,
+                "aniId": 61499,
+                "page": "MangaFire",
+                "title": "Nisekoi: False Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nisekoii.l326/"
             }
         },
         "Comick": {
@@ -88,21 +98,33 @@
                 "aniId": 61499
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "Nisekoi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61499-aXInaLRa6xv5.jpg",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/nisekoi",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 61499
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "Nisekoi",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61499-aXInaLRa6xv5.jpg",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100019",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 61499
             },
-            "1": {
+            "2": {
                 "title": "Nisekoi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61499-aXInaLRa6xv5.jpg",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200004",
                 "type": "manga",
                 "page": "MangaPlus",

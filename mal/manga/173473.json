@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/310065.jpg",
     "Sites": {
+        "Mangadex": {
+            "9f3ae387-d456-477a-a526-2129d483c69c": {
+                "identifier": "9f3ae387-d456-477a-a526-2129d483c69c",
+                "image": "https://uploads.mangadex.org/covers/9f3ae387-d456-477a-a526-2129d483c69c/70afeac7-f2e4-4a02-a872-7cf0eab923f7.jpg",
+                "malId": 173473,
+                "aniId": 152608,
+                "page": "Mangadex",
+                "title": "Subscribed To The Transcendental Channels",
+                "type": "manga",
+                "url": "https://mangadex.org/title/9f3ae387-d456-477a-a526-2129d483c69c"
+            }
+        },
         "MangaFire": {
             "subscribing-to-the-transcendents-channel.oxy74": {
                 "identifier": "subscribing-to-the-transcendents-channel.oxy74",
                 "image": "https://static.mangafire.to/3b2d5/i/7/70/7ffdf39e0bdedc4ff3bdcc4e97fcd780.jpg",
                 "malId": 173473,
-                "aniId": null,
+                "aniId": 152608,
                 "page": "MangaFire",
                 "title": "Subscribing to the Transcendent's Channel",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Subscribed To The Transcendental Channels",
-                "url": "https://comick.io/comic/subscribed-to-the-transcendental-channels"
+                "url": "https://comick.io/comic/subscribed-to-the-transcendental-channels",
+                "aniId": 152608
             }
         }
-    }
+    },
+    "aniId": 152608
 }

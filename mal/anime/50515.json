@@ -6,6 +6,30 @@
     "total": 5,
     "image": "https://cdn.myanimelist.net/images/anime/1457/119884.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "artiswitch-picture-drama": {
+                "identifier": "artiswitch-picture-drama",
+                "image": "https://gogocdn.net/cover/artiswitch-picture-drama.png",
+                "malId": 50515,
+                "aniId": 145709,
+                "page": "Gogoanime",
+                "title": "Artiswitch Picture Drama",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/artiswitch-picture-drama"
+            }
+        },
+        "YugenAnime": {
+            "19595": {
+                "identifier": "19595",
+                "malId": 50515,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Artiswitch Picture Drama",
+                "url": "https://yugenanime.tv/anime/19595/artiswitch-picture-drama/",
+                "aniId": 145709
+            }
+        }
+    },
     "aniId": 145709
 }

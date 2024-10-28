@@ -6,6 +6,30 @@
     "total": 12,
     "image": "https://cdn.myanimelist.net/images/anime/1084/124654.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "5-okunen-button": {
+                "identifier": "5-okunen-button",
+                "image": "https://gogocdn.net/cover/5-okunen-button.png",
+                "malId": 52162,
+                "aniId": 150909,
+                "page": "Gogoanime",
+                "title": "5-Okunen Button",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/5-okunen-button"
+            }
+        },
+        "YugenAnime": {
+            "19605": {
+                "identifier": "19605",
+                "malId": 52162,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "5-Okunen Button",
+                "url": "https://yugenanime.tv/anime/19605/5-okunen-button/",
+                "aniId": 150909
+            }
+        }
+    },
     "malId": 52162
 }

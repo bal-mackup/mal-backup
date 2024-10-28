@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/306006.jpg",
     "Sites": {
+        "Mangadex": {
+            "c28cbd9f-5db8-4457-b189-a79dfc68dd95": {
+                "identifier": "c28cbd9f-5db8-4457-b189-a79dfc68dd95",
+                "image": "https://uploads.mangadex.org/covers/c28cbd9f-5db8-4457-b189-a79dfc68dd95/38fb5eb6-561a-4a13-a3f2-b6787978a77a.jpg",
+                "malId": 171742,
+                "aniId": 178823,
+                "page": "Mangadex",
+                "title": "Batchiri Scratch",
+                "type": "manga",
+                "url": "https://mangadex.org/title/c28cbd9f-5db8-4457-b189-a79dfc68dd95"
+            }
+        },
         "Comick": {
             "Zr74V1Tv": {
                 "identifier": "Zr74V1Tv",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Batchiri Scratch",
-                "url": "https://comick.io/comic/batchiri-scratch"
+                "url": "https://comick.io/comic/batchiri-scratch",
+                "aniId": 178823
             }
         }
-    }
+    },
+    "aniId": 178823
 }

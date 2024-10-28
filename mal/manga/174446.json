@@ -1,19 +1,19 @@
 {
     "id": 174446,
     "type": "manga",
-    "title": "Bokusatsu Pink: Seihanzai Shokeinin",
-    "url": "https://myanimelist.net/manga/174446/Bokusatsu_Pink__Seihanzai_Shokeinin",
+    "title": "Bokusatsu Pink: Seihanzaisha Shokeinin",
+    "url": "https://myanimelist.net/manga/174446/Bokusatsu_Pink__Seihanzaisha_Shokeinin",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/311753.jpg",
     "Sites": {
         "Mangadex": {
             "eb7d4b3c-1487-45a3-a47f-384987895fc4": {
                 "identifier": "eb7d4b3c-1487-45a3-a47f-384987895fc4",
-                "image": "https://uploads.mangadex.org/covers/eb7d4b3c-1487-45a3-a47f-384987895fc4/31cfe61d-7bd5-4283-a690-58c8650c3121.jpg",
+                "image": "https://uploads.mangadex.org/covers/eb7d4b3c-1487-45a3-a47f-384987895fc4/6f857ab1-e06e-43ce-a2d8-069eb092e02d.jpg",
                 "malId": 174446,
-                "aniId": null,
+                "aniId": 176847,
                 "page": "Mangadex",
-                "title": "Bokusatsu Pinku",
+                "title": "Bokusatsu Pinku ~Sei Hanzai-sha Shokei Hito~",
                 "type": "manga",
                 "url": "https://mangadex.org/title/eb7d4b3c-1487-45a3-a47f-384987895fc4"
             }
@@ -23,11 +23,23 @@
                 "identifier": "manga-bu1005103",
                 "image": "https://avt.mkklcdnv6temp.com/17/g/37-1727712310.jpg",
                 "malId": 174446,
-                "aniId": null,
+                "aniId": 176847,
                 "page": "MangaNato",
                 "title": "Bokusatsu Pinku",
                 "type": "manga",
                 "url": "https://manganato.com/manga-bu1005103"
+            }
+        },
+        "MangaFire": {
+            "bokusatsu-pinku-sei-hanzai-sha-shokei-hitoo.0q045": {
+                "identifier": "bokusatsu-pinku-sei-hanzai-sha-shokei-hitoo.0q045",
+                "image": "https://static.mangafire.to/3b2d5/i/a/a3/f160296c7421e5d20aae8d8fbf7dc719.jpg",
+                "malId": 174446,
+                "aniId": 176847,
+                "page": "MangaFire",
+                "title": "Beat to Pink",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokusatsu-pinku-sei-hanzai-sha-shokei-hitoo.0q045/"
             }
         },
         "Comick": {
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Bokusatsu Pinku ~Sei Hanzai-sha Shokei Hito~",
-                "url": "https://comick.io/comic/bokusatsu-pink"
+                "url": "https://comick.io/comic/bokusatsu-pink",
+                "aniId": 176847
             }
         }
-    }
+    },
+    "aniId": 176847
 }

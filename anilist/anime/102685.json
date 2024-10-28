@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/1489/128982.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "yume-10-yoru": {
+                "identifier": "yume-10-yoru",
+                "image": "https://gogocdn.net/cover/yume-10-yoru.png",
+                "malId": 22173,
+                "aniId": 102685,
+                "page": "Gogoanime",
+                "title": "Yume 10 Yoru",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/yume-10-yoru"
+            }
+        },
+        "YugenAnime": {
+            "19563": {
+                "identifier": "19563",
+                "malId": 22173,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Yume 10 Yoru",
+                "url": "https://yugenanime.tv/anime/19563/yume-10-yoru/",
+                "aniId": 102685
+            }
+        }
+    },
     "malId": 22173
 }

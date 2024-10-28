@@ -124,6 +124,26 @@
                 "title": "Bleach",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/jjrxn/"
+            },
+            "bleach22.jjrxn": {
+                "identifier": "bleach22.jjrxn",
+                "image": "https://static.mangafire.to/3b2d5/i/1/15/1534b838a5f09bf8ef4fff6825156ad8.jpg",
+                "malId": 12,
+                "aniId": 30012,
+                "page": "MangaFire",
+                "title": "Bleach",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bleach22.jjrxn/"
+            },
+            "bleachh.027": {
+                "identifier": "bleachh.027",
+                "image": "https://static.mangafire.to/3b2d5/i/3/37/37a6c4cbd66373e69260e9bae3a91720.jpg",
+                "malId": 12,
+                "aniId": 30012,
+                "page": "MangaFire",
+                "title": "Bleach",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bleachh.027/"
             }
         },
         "Comick": {
@@ -141,7 +161,7 @@
                 "malId": 12,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Bleach",
+                "title": "Bleach (Official Colored)",
                 "url": "https://comick.io/comic/00-bleach-digital-colored-comics",
                 "aniId": 30012
             }
@@ -157,21 +177,33 @@
                 "aniId": 30012
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "BLEACH",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30012-z7U138mUaPdN.png",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/bleach",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 30012
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "BLEACH",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30012-z7U138mUaPdN.png",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100004",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 30012
             },
-            "1": {
+            "2": {
                 "title": "BLEACH",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30012-z7U138mUaPdN.png",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200012",
                 "type": "manga",
                 "page": "MangaPlus",

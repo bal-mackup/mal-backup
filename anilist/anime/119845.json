@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/1557/131550.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "ano-chi": {
+                "identifier": "ano-chi",
+                "image": "https://gogocdn.net/cover/ano-chi.png",
+                "malId": 53721,
+                "aniId": 119845,
+                "page": "Gogoanime",
+                "title": "Ano Chi",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/ano-chi"
+            }
+        },
+        "YugenAnime": {
+            "19584": {
+                "identifier": "19584",
+                "malId": 53721,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Ano Chi",
+                "url": "https://yugenanime.tv/anime/19584/ano-chi/",
+                "aniId": 119845
+            }
+        }
+    },
     "malId": 53721
 }

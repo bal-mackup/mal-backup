@@ -7,16 +7,27 @@
     "image": "https://cdn.myanimelist.net/images/anime/1498/120874.jpg",
     "anidbId": null,
     "Sites": {
-        "9anime": {
-            "wew33": {
-                "identifier": "wew33",
-                "image": "https://static.aniwave.to/71/i/8/82/9e87a1855b8088953bcf801506efa8ac.jpg",
+        "Gogoanime": {
+            "pupa-movie": {
+                "identifier": "pupa-movie",
+                "image": "https://gogocdn.net/cover/pupa-movie.png",
                 "malId": 50302,
                 "aniId": 140361,
-                "page": "9anime",
-                "title": "Pupa (2019)",
+                "page": "Gogoanime",
+                "title": "Pupa (Movie)",
                 "type": "anime",
-                "url": "https://aniwave.to/watch/pupa-2019.wew33"
+                "url": "https://anitaku.pe/category/pupa-movie"
+            }
+        },
+        "YugenAnime": {
+            "19590": {
+                "identifier": "19590",
+                "malId": 50302,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Pupa (Movie)",
+                "url": "https://yugenanime.tv/anime/19590/pupa-movie/",
+                "aniId": 140361
             }
         }
     },

@@ -9,7 +9,7 @@
         "Mangadex": {
             "d65c0332-3764-4c89-84bd-b1a4e7278ad7": {
                 "identifier": "d65c0332-3764-4c89-84bd-b1a4e7278ad7",
-                "image": "https://uploads.mangadex.org/covers/d65c0332-3764-4c89-84bd-b1a4e7278ad7/b1eb44d4-2286-4a0a-89d0-0b4311de846c.jpg",
+                "image": "https://uploads.mangadex.org/covers/d65c0332-3764-4c89-84bd-b1a4e7278ad7/5cdba8da-c46e-4ead-ab79-ff9e416b0a15.jpg",
                 "malId": 162479,
                 "aniId": 169355,
                 "page": "Mangadex",
@@ -38,6 +38,16 @@
                 "title": "Kagurabachi",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/kagurabachi.v92q7/"
+            },
+            "kagurabachii.v92q7": {
+                "identifier": "kagurabachii.v92q7",
+                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f810119c0f9d8acdb43257a2888036b9.jpg",
+                "malId": 162479,
+                "aniId": 169355,
+                "page": "MangaFire",
+                "title": "Kagurabachi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kagurabachii.v92q7/"
             }
         },
         "MangaFox": {
@@ -96,21 +106,33 @@
                 "aniId": 169355
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "Kagurabachi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-0MQ2NLOj1mL3.jpg",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/kagurabachi",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 169355
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "Kagurabachi",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-0MQ2NLOj1mL3.jpg",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100274",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 169355
             },
-            "1": {
+            "2": {
                 "title": "Kagurabachi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-0MQ2NLOj1mL3.jpg",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/300028",
                 "type": "manga",
                 "page": "MangaPlus",

@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/286399.jpg",
     "Sites": {
+        "Mangadex": {
+            "4f5d6b7e-3773-4aa3-a5b6-29800a16470e": {
+                "identifier": "4f5d6b7e-3773-4aa3-a5b6-29800a16470e",
+                "image": "https://uploads.mangadex.org/covers/4f5d6b7e-3773-4aa3-a5b6-29800a16470e/7f2e1e9d-8752-477f-bad5-c478547a95dc.jpg",
+                "malId": 161420,
+                "aniId": 171168,
+                "page": "Mangadex",
+                "title": "Why Are You Obsessed With Your Fake Wife?",
+                "type": "manga",
+                "url": "https://mangadex.org/title/4f5d6b7e-3773-4aa3-a5b6-29800a16470e"
+            }
+        },
         "MangaNato": {
             "manga-uo997371": {
                 "identifier": "manga-uo997371",
                 "image": "https://avt.mkklcdnv6temp.com/4/c/31-1690959351.jpg",
                 "malId": 161420,
-                "aniId": null,
+                "aniId": 171168,
                 "page": "MangaNato",
                 "title": "Why Are You Obsessed With Your Fake Wife?",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "why-are-you-obsessed-with-your-fake-wife.xvowv",
                 "image": "https://static.mangafire.to/3b2d5/i/b/b1/b15c89f8326006e0d29d859809eae785.jpg",
                 "malId": 161420,
-                "aniId": null,
+                "aniId": 171168,
                 "page": "MangaFire",
                 "title": "Why Are You Obsessed With Your Fake Wife?",
                 "type": "manga",
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Why Are You Obsessed With Your Fake Wife?",
-                "url": "https://comick.io/comic/00-why-are-you-obsessed-with-your-fake-wife"
+                "url": "https://comick.io/comic/00-why-are-you-obsessed-with-your-fake-wife",
+                "aniId": 171168
             }
         }
-    }
+    },
+    "aniId": 171168
 }

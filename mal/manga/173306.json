@@ -9,7 +9,7 @@
         "Mangadex": {
             "663ada19-032e-4d5b-a1ab-8d2ea95563fd": {
                 "identifier": "663ada19-032e-4d5b-a1ab-8d2ea95563fd",
-                "image": "https://uploads.mangadex.org/covers/663ada19-032e-4d5b-a1ab-8d2ea95563fd/3a15f4b6-a59a-4b42-b566-ba987b3ec795.jpg",
+                "image": "https://uploads.mangadex.org/covers/663ada19-032e-4d5b-a1ab-8d2ea95563fd/a60d3a78-d41d-4a56-ab4e-ddcad4b80435.png",
                 "malId": 173306,
                 "aniId": 180335,
                 "page": "Mangadex",
@@ -30,6 +30,18 @@
                 "url": "https://manganato.com/manga-as1003927"
             }
         },
+        "MangaFire": {
+            "mahou-shoujo-dandelionn.1qm5x": {
+                "identifier": "mahou-shoujo-dandelionn.1qm5x",
+                "image": "https://static.mangafire.to/3b2d5/i/f/f6/b242d18ea8d7621b5323d03f3f692939.jpg",
+                "malId": 173306,
+                "aniId": 180335,
+                "page": "MangaFire",
+                "title": "Mahou Shoujo Dandelion",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahou-shoujo-dandelionn.1qm5x/"
+            }
+        },
         "Comick": {
             "9wG8ih_M": {
                 "identifier": "9wG8ih_M",
@@ -38,6 +50,18 @@
                 "page": "Comick",
                 "title": "Mahou Shoujo Dandelion",
                 "url": "https://comick.io/comic/mahou-shoujo-dandelion",
+                "aniId": 180335
+            }
+        },
+        "VIZ": {
+            "0": {
+                "title": "Mahou Shoujo Dandelion",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180335-w6bmlAEOdnwl.jpg",
+                "identifier": 0,
+                "url": "https://www.viz.com/vizmanga/chapters/magical-girl-dandelion",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
                 "aniId": 180335
             }
         }

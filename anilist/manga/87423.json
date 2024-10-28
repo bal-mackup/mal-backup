@@ -74,6 +74,16 @@
                 "title": "The Promised Neverland",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/ev2/"
+            },
+            "the-promised-neverlandd.ev2": {
+                "identifier": "the-promised-neverlandd.ev2",
+                "image": "https://static.mangafire.to/3b2d5/i/5/55/555181bdbd032a7d2cf06893e99afdc6.jpg",
+                "malId": 100128,
+                "aniId": 87423,
+                "page": "MangaFire",
+                "title": "The Promised Neverland",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-promised-neverlandd.ev2/"
             }
         },
         "Comick": {
@@ -109,13 +119,25 @@
                 "external": true,
                 "aniId": 87423
             },
+            "2": {
+                "title": "Yakusoku no Neverland",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87423-gPNtu8QbGped.jpg",
+                "identifier": 2,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200017",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 87423
+            }
+        },
+        "VIZ": {
             "1": {
                 "title": "Yakusoku no Neverland",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87423-gPNtu8QbGped.jpg",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200017",
+                "url": "https://www.viz.com/shonenjump/chapters/the-promised-neverland",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 87423
             }
