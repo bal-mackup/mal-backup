@@ -7,16 +7,37 @@
     "image": "https://cdn.myanimelist.net/images/anime/1409/97288.jpg",
     "anidbId": 1655,
     "Sites": {
-        "9anime": {
-            "r9gn": {
-                "identifier": "r9gn",
-                "image": "https://static.aniwave.to/71/i/2018/04/83db9916dad6c00c7c4b45b7f0e287b2.jpg",
+        "Gogoanime": {
+            "kishin-heidan": {
+                "identifier": "kishin-heidan",
+                "image": "https://gogocdn.net/cover/kishin-heidan.png",
                 "malId": 3061,
                 "aniId": 3061,
-                "page": "9anime",
+                "page": "Gogoanime",
                 "title": "Kishin Heidan",
                 "type": "anime",
-                "url": "https://aniwave.to/watch/kishin-corps.r9gn"
+                "url": "https://anitaku.pe/category/kishin-heidan"
+            },
+            "kishin-heidan-dub": {
+                "identifier": "kishin-heidan-dub",
+                "image": "https://gogocdn.net/cover/kishin-heidan-dub.png",
+                "malId": 3061,
+                "aniId": 3061,
+                "page": "Gogoanime",
+                "title": "Kishin Heidan (Dub)",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/kishin-heidan-dub"
+            }
+        },
+        "YugenAnime": {
+            "19647": {
+                "identifier": "19647",
+                "malId": 3061,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Kishin Heidan",
+                "url": "https://yugenanime.tv/anime/19647/kishin-heidan/",
+                "aniId": 3061
             }
         }
     },

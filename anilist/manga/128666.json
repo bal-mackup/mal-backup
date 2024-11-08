@@ -86,6 +86,18 @@
                 "url": "https://mangafire.to/manga/the-elusive-samuraii.8ylo/"
             }
         },
+        "Weebcentral": {
+            "01j76xyec1824v7w4r3xx5c4vx": {
+                "identifier": "01j76xyec1824v7w4r3xx5c4vx",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYEC1824V7W4R3XX5C4VX.jpg",
+                "malId": 132845,
+                "aniId": 128666,
+                "page": "Weebcentral",
+                "title": "The Elusive Samurai",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYEC1824V7W4R3XX5C4VX"
+            }
+        },
         "Comick": {
             "hbyDQz_s": {
                 "identifier": "hbyDQz_s",
@@ -119,23 +131,35 @@
                 "external": true,
                 "aniId": 128666
             },
-            "1": {
+            "2": {
                 "title": "Nige Jouzu no Wakagimi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128666-Yueia5QuuSOB.jpg",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200061",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 128666
             },
-            "2": {
+            "3": {
                 "title": "Nige Jouzu no Wakagimi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128666-Yueia5QuuSOB.jpg",
-                "identifier": 2,
+                "identifier": 3,
                 "url": "https://mangaplus.shueisha.co.jp/titles/700009",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 128666
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Nige Jouzu no Wakagimi",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128666-Yueia5QuuSOB.jpg",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/the-elusive-samurai",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 128666
             }

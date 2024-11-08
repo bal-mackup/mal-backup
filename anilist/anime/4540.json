@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/6/8685.jpg",
     "anidbId": 4741,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "gundam-mission-to-the-rise-dub": {
+                "identifier": "gundam-mission-to-the-rise-dub",
+                "image": "https://gogocdn.net/cover/gundam-mission-to-the-rise-dub.png",
+                "malId": 4540,
+                "aniId": 4540,
+                "page": "Gogoanime",
+                "title": "Gundam: Mission to the Rise (Dub)",
+                "type": "anime",
+                "url": "https://anitaku.pe/category/gundam-mission-to-the-rise-dub"
+            }
+        },
+        "YugenAnime": {
+            "19667": {
+                "identifier": "19667",
+                "malId": 4540,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Gundam: Mission to the Rise",
+                "url": "https://yugenanime.tv/anime/19667/gundam-mission-to-the-rise/",
+                "aniId": 4540
+            }
+        }
+    },
     "malId": 4540
 }

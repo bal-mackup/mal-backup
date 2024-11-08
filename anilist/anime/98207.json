@@ -7,16 +7,27 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/75512.jpg",
     "anidbId": 10771,
     "Sites": {
-        "9anime": {
-            "75ld": {
-                "identifier": "75ld",
-                "image": "https://static.aniwave.to/71/i/2018/07/85d919ac8615233dbf0d930c219c0cd4.jpg",
+        "Gogoanime": {
+            "sakura-capsule": {
+                "identifier": "sakura-capsule",
+                "image": "https://gogocdn.net/cover/sakura-capsule.png",
                 "malId": 25915,
                 "aniId": 98207,
-                "page": "9anime",
+                "page": "Gogoanime",
                 "title": "Sakura Capsule",
                 "type": "anime",
-                "url": "https://aniwave.to/watch/sakura-capsule.75ld"
+                "url": "https://anitaku.pe/category/sakura-capsule"
+            }
+        },
+        "YugenAnime": {
+            "19655": {
+                "identifier": "19655",
+                "malId": 25915,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Sakura Capsule",
+                "url": "https://yugenanime.tv/anime/19655/sakura-capsule/",
+                "aniId": 98207
             }
         }
     },

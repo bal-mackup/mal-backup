@@ -75,16 +75,6 @@
                 "type": "manga",
                 "url": "https://mangafire.to/manga/gokurakugai.2ow3l/"
             },
-            "2ow3l": {
-                "identifier": "2ow3l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29624e4de1725075f6a8112221f173a5.jpg",
-                "malId": 147874,
-                "aniId": 150378,
-                "page": "MangaFire",
-                "title": "Gokurakugai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/2ow3l/"
-            },
             "gokurakugaii.2ow3l": {
                 "identifier": "gokurakugaii.2ow3l",
                 "image": "https://static.mangafire.to/3b2d5/i/2/29/29624e4de1725075f6a8112221f173a5.jpg",
@@ -94,6 +84,18 @@
                 "title": "Gokurakugai",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/gokurakugaii.2ow3l/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xyfnqgkhprgejynzf3a6e": {
+                "identifier": "01j76xyfnqgkhprgejynzf3a6e",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNQGKHPRGEJYNZF3A6E.jpg",
+                "malId": 147874,
+                "aniId": 150378,
+                "page": "Weebcentral",
+                "title": "Gokurakugai",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYFNQGKHPRGEJYNZF3A6E"
             }
         },
         "Comick": {
@@ -107,11 +109,23 @@
                 "aniId": 150378
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "Gokurakugai",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150378-cClKErwmvgsv.jpg",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/gokurakugai",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 150378
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "Gokurakugai",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150378-cClKErwmvgsv.jpg",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100230",
                 "type": "manga",
                 "page": "MangaPlus",

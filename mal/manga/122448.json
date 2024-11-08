@@ -65,16 +65,6 @@
                 "type": "manga",
                 "url": "https://mangafire.to/manga/kubo-wont-let-me-be-invisible.1rk3v/"
             },
-            "1rk3v": {
-                "identifier": "1rk3v",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/367a7d321d0cd403b0db142d0794ab59.jpg",
-                "malId": 122448,
-                "aniId": 112981,
-                "page": "MangaFire",
-                "title": "Kubo Won't Let Me Be Invisible",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/1rk3v/"
-            },
             "kubo-wont-let-me-be-invisiblee.1rk3v": {
                 "identifier": "kubo-wont-let-me-be-invisiblee.1rk3v",
                 "image": "https://static.mangafire.to/3b2d5/i/3/36/367a7d321d0cd403b0db142d0794ab59.jpg",
@@ -84,6 +74,18 @@
                 "title": "Kubo Won't Let Me Be Invisible",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/kubo-wont-let-me-be-invisiblee.1rk3v/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xyda1ppc5s9kawq4hbm9k": {
+                "identifier": "01j76xyda1ppc5s9kawq4hbm9k",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYDA1PPC5S9KAWQ4HBM9K.jpg",
+                "malId": 122448,
+                "aniId": 112981,
+                "page": "Weebcentral",
+                "title": "Kubo Won't Let Me Be Invisible",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYDA1PPC5S9KAWQ4HBM9K"
             }
         },
         "Comick": {
@@ -119,13 +121,25 @@
                 "external": true,
                 "aniId": 112981
             },
+            "2": {
+                "title": "Kubo-san wa Mob wo Yurusanai",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112981-lI95vW7wk8Nv.jpg",
+                "identifier": 2,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200089",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 112981
+            }
+        },
+        "VIZ": {
             "1": {
                 "title": "Kubo-san wa Mob wo Yurusanai",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112981-lI95vW7wk8Nv.jpg",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200089",
+                "url": "https://www.viz.com/shonenjump/chapters/kubo-wont-let-me-be-invisible",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 112981
             }
