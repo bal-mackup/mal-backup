@@ -1,34 +1,105 @@
 {
     "id": 72005,
     "type": "manga",
-    "title": "Hitori Kagome",
-    "url": "https://myanimelist.net/manga/174914/Hitori_Kagome",
-    "total": 12,
-    "image": "https://cdn.myanimelist.net/images/manga/1/312665.jpg",
+    "title": "Torikago no Tsugai",
+    "url": "https://myanimelist.net/manga/42005/Torikago_no_Tsugai",
+    "total": 21,
+    "image": "https://cdn.myanimelist.net/images/manga/2/119177.jpg",
     "Sites": {
         "Mangadex": {
-            "6e96113a-8b19-4f1a-8a6e-f485f90b3f52": {
-                "identifier": "6e96113a-8b19-4f1a-8a6e-f485f90b3f52",
-                "image": "https://uploads.mangadex.org/covers/6e96113a-8b19-4f1a-8a6e-f485f90b3f52/f809b581-b049-4853-a23b-7f231430d182.jpg",
-                "malId": 174914,
+            "c48e5173-7e70-4791-b35a-008077c99645": {
+                "identifier": "c48e5173-7e70-4791-b35a-008077c99645",
+                "image": "https://uploads.mangadex.org/covers/c48e5173-7e70-4791-b35a-008077c99645/f8c41b34-6371-47f2-83f5-481f9d881b92.jpg",
+                "malId": 42005,
                 "aniId": 72005,
                 "page": "Mangadex",
-                "title": "hitorikagome",
+                "title": "Torikago no Tsugai",
                 "type": "manga",
-                "url": "https://mangadex.org/title/6e96113a-8b19-4f1a-8a6e-f485f90b3f52"
+                "url": "https://mangadex.org/title/c48e5173-7e70-4791-b35a-008077c99645"
+            }
+        },
+        "MangaFox": {
+            "torikago_no_tsugai": {
+                "identifier": "torikago_no_tsugai",
+                "image": "https://fmcdn.mfcdn.net/store/manga/11041/cover.jpg",
+                "malId": 42005,
+                "aniId": 72005,
+                "page": "MangaFox",
+                "title": "Torikago no Tsugai",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/torikago_no_tsugai/"
+            }
+        },
+        "MangaSee": {
+            "torikago-no-tsugai": {
+                "identifier": "torikago-no-tsugai",
+                "image": "https://temp.compsci88.com/cover/Torikago-No-Tsugai.jpg",
+                "malId": 42005,
+                "aniId": 72005,
+                "page": "MangaSee",
+                "title": "Birdcage Castle",
+                "type": "manga",
+                "url": "https://mangasee123.com/manga/Torikago-No-Tsugai"
+            }
+        },
+        "MangaNato": {
+            "manga-zm953947": {
+                "identifier": "manga-zm953947",
+                "image": "https://avt.mkklcdnv6temp.com/fld/93/k/1-1732720198-nw.webp",
+                "malId": 42005,
+                "aniId": 72005,
+                "page": "MangaNato",
+                "title": "Torikago No Tsugai",
+                "type": "manga",
+                "url": "https://manganato.com/manga-zm953947"
+            }
+        },
+        "MangaFire": {
+            "torikago-no-tsugai.y6mp": {
+                "identifier": "torikago-no-tsugai.y6mp",
+                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fb232fd8932e13bd7cfc5e2535b4bc60.jpg",
+                "malId": 42005,
+                "aniId": 72005,
+                "page": "MangaFire",
+                "title": "Birdcage Castle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/torikago-no-tsugai.y6mp/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xy9e1dt75dxecyfz58c4z": {
+                "identifier": "01j76xy9e1dt75dxecyfz58c4z",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XY9E1DT75DXECYFZ58C4Z.jpg",
+                "malId": 42005,
+                "aniId": 72005,
+                "page": "Weebcentral",
+                "title": "Birdcage Castle",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XY9E1DT75DXECYFZ58C4Z"
             }
         },
         "Comick": {
-            "FAfwKQEd": {
-                "identifier": "FAfwKQEd",
-                "malId": 174914,
+            "HXvr1jnc": {
+                "identifier": "HXvr1jnc",
+                "malId": 42005,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Lonely Kagome",
-                "url": "https://comick.io/comic/hitorikagome-jyh9k5k7",
+                "title": "Torikago no Tsugai",
+                "url": "https://comick.io/comic/torikago-no-tsugai",
+                "aniId": 72005
+            }
+        },
+        "MangaReader": {
+            "7813": {
+                "identifier": "7813",
+                "malId": 42005,
+                "type": "manga",
+                "page": "MangaReader",
+                "title": "Torikago no Tsugai",
+                "url": "https://mangareader.to/torikago-no-tsugai-7813",
                 "aniId": 72005
             }
         }
     },
-    "malId": 174914
+    "malId": 42005
 }

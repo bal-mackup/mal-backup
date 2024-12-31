@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/1380/119472.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "chicken-papa": {
+                "identifier": "chicken-papa",
+                "image": "https://gogocdn.net/cover/chicken-papa.png",
+                "malId": 33859,
+                "aniId": 102724,
+                "page": "Gogoanime",
+                "title": "Chicken Papa",
+                "type": "anime",
+                "url": "https://anitaku.bz/category/chicken-papa"
+            }
+        },
+        "YugenAnime": {
+            "19700": {
+                "identifier": "19700",
+                "malId": 33859,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Chicken Papa",
+                "url": "https://yugenanime.tv/anime/19700/chicken-papa/",
+                "aniId": 102724
+            }
+        }
+    },
     "aniId": 102724
 }

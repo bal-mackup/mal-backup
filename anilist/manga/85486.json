@@ -3,7 +3,7 @@
     "type": "manga",
     "title": "Boku no Hero Academia",
     "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia",
-    "total": null,
+    "total": 432,
     "image": "https://cdn.myanimelist.net/images/manga/1/209370.jpg",
     "Sites": {
         "Mangadex": {
@@ -13,7 +13,7 @@
                 "malId": 75989,
                 "aniId": 85486,
                 "page": "Mangadex",
-                "title": "My Hero Academia",
+                "title": "Boku no Hero Academia",
                 "type": "manga",
                 "url": "https://mangadex.org/title/4f3bcae4-2d96-4c9d-932c-90181d9c873e"
             },
@@ -105,26 +105,6 @@
                 "type": "manga",
                 "url": "https://mangafire.to/manga/my-hero-academia-ultra-analysis-the-official-character-guide.4j347/"
             },
-            "kkvk9": {
-                "identifier": "kkvk9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6b/4c1cc8f00f2a047ce4f452e055c2cad4.jpg",
-                "malId": 75989,
-                "aniId": 85486,
-                "page": "MangaFire",
-                "title": "My Hero Academia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kkvk9/"
-            },
-            "np3ln": {
-                "identifier": "np3ln",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/901d1835bdd6c4bfbf3ae2fa56f97430.jpg",
-                "malId": 75989,
-                "aniId": 85486,
-                "page": "MangaFire",
-                "title": "My Hero Academia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/np3ln/"
-            },
             "my-hero-academiaa.kkvk9": {
                 "identifier": "my-hero-academiaa.kkvk9",
                 "image": "https://static.mangafire.to/3b2d5/i/6/6b/4c1cc8f00f2a047ce4f452e055c2cad4.jpg",
@@ -144,6 +124,18 @@
                 "title": "My Hero Academia",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/boku-no-hero-academiaa.np3ln/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xyae4s59rvpjetn0mfrx5": {
+                "identifier": "01j76xyae4s59rvpjetn0mfrx5",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYAE4S59RVPJETN0MFRX5.jpg",
+                "malId": 75989,
+                "aniId": 85486,
+                "page": "Weebcentral",
+                "title": "My Hero Academia",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYAE4S59RVPJETN0MFRX5"
             }
         },
         "Comick": {
@@ -188,11 +180,21 @@
                 "external": true,
                 "aniId": 85486
             },
+            "1": {
+                "title": "Boku no Hero Academia",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85486-INqnYx8gL3eX.jpg",
+                "identifier": 1,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200019",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 85486
+            },
             "2": {
                 "title": "Boku no Hero Academia",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85486-INqnYx8gL3eX.jpg",
                 "identifier": 2,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200019",
+                "url": "https://mangaplus.shueisha.co.jp/titles/100080",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
@@ -202,7 +204,7 @@
                 "title": "Boku no Hero Academia",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85486-INqnYx8gL3eX.jpg",
                 "identifier": 3,
-                "url": "https://mangaplus.shueisha.co.jp/titles/100080",
+                "url": "https://mangaplus.shueisha.co.jp/titles/700003",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
@@ -212,16 +214,6 @@
                 "title": "Boku no Hero Academia",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85486-INqnYx8gL3eX.jpg",
                 "identifier": 4,
-                "url": "https://mangaplus.shueisha.co.jp/titles/700003",
-                "type": "manga",
-                "page": "MangaPlus",
-                "external": true,
-                "aniId": 85486
-            },
-            "5": {
-                "title": "Boku no Hero Academia",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85486-INqnYx8gL3eX.jpg",
-                "identifier": 5,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100080",
                 "type": "manga",
                 "page": "MangaPlus",
@@ -230,10 +222,10 @@
             }
         },
         "VIZ": {
-            "1": {
+            "5": {
                 "title": "Boku no Hero Academia",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85486-INqnYx8gL3eX.jpg",
-                "identifier": 1,
+                "identifier": 5,
                 "url": "https://www.viz.com/shonenjump/chapters/my-hero-academia",
                 "type": "manga",
                 "page": "VIZ",

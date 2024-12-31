@@ -85,26 +85,6 @@
                 "type": "manga",
                 "url": "https://mangafire.to/manga/rosario-to-vampire2.zxrqm/"
             },
-            "zxrqm": {
-                "identifier": "zxrqm",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/177362a39072a1714f8a6b5ce6eb437d.jpg",
-                "malId": 894,
-                "aniId": 30894,
-                "page": "MangaFire",
-                "title": "Rosario+Vampire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zxrqm/"
-            },
-            "nyn": {
-                "identifier": "nyn",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/25f9d153346f7ed4bc8a0f18163d4b1c.jpg",
-                "malId": 894,
-                "aniId": 30894,
-                "page": "MangaFire",
-                "title": "Rosario+Vampire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nyn/"
-            },
             "rosario-to-vampiree.nyn": {
                 "identifier": "rosario-to-vampiree.nyn",
                 "image": "https://static.mangafire.to/3b2d5/i/2/25/25f9d153346f7ed4bc8a0f18163d4b1c.jpg",
@@ -124,6 +104,18 @@
                 "title": "Rosario+Vampire",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/rosario-to-vampire22.zxrqm/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xy7ghvsxw71s5472acmbt": {
+                "identifier": "01j76xy7ghvsxw71s5472acmbt",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XY7GHVSXW71S5472ACMBT.jpg",
+                "malId": 894,
+                "aniId": 30894,
+                "page": "Weebcentral",
+                "title": "Rosario + Vampire",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XY7GHVSXW71S5472ACMBT"
             }
         },
         "Comick": {
@@ -157,36 +149,36 @@
                 "aniId": 30894
             }
         },
-        "VIZ": {
+        "MangaPlus": {
             "0": {
                 "title": "Rosario to Vampire",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30894-brvhN8LsZ0lP.png",
                 "identifier": 0,
-                "url": "https://www.viz.com/shonenjump/chapters/rosario-vampire",
-                "type": "manga",
-                "page": "VIZ",
-                "external": true,
-                "aniId": 30894
-            }
-        },
-        "MangaPlus": {
-            "1": {
-                "title": "Rosario to Vampire",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30894-brvhN8LsZ0lP.png",
-                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100022",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 30894
             },
+            "1": {
+                "title": "Rosario to Vampire",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30894-brvhN8LsZ0lP.png",
+                "identifier": 1,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200003",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 30894
+            }
+        },
+        "VIZ": {
             "2": {
                 "title": "Rosario to Vampire",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30894-brvhN8LsZ0lP.png",
                 "identifier": 2,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200003",
+                "url": "https://www.viz.com/shonenjump/chapters/rosario-vampire",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 30894
             }

@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/13699/Gordias",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/19525.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "768b47f2-63e9-4f41-a464-14919c6cad66": {
+                "identifier": "768b47f2-63e9-4f41-a464-14919c6cad66",
+                "image": "https://uploads.mangadex.org/covers/768b47f2-63e9-4f41-a464-14919c6cad66/95771160-46d6-43e2-ae4f-dce14377c412.jpg",
+                "malId": 13699,
+                "aniId": 43699,
+                "page": "Mangadex",
+                "title": "Gordias",
+                "type": "manga",
+                "url": "https://mangadex.org/title/768b47f2-63e9-4f41-a464-14919c6cad66"
+            }
+        },
+        "Comick": {
+            "CBRgR3QO": {
+                "identifier": "CBRgR3QO",
+                "malId": 13699,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Gordias",
+                "url": "https://comick.io/comic/the-gordian-knot",
+                "aniId": 43699
+            }
+        }
+    },
     "malId": 13699
 }

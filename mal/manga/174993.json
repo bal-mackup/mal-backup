@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/312828.jpg",
     "Sites": {
+        "Mangadex": {
+            "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5": {
+                "identifier": "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+                "image": "https://uploads.mangadex.org/covers/d1aefdeb-09d1-4e70-8edc-9ae611ce0da5/a11a2e08-4421-435f-b461-e70f7a30f62d.jpg",
+                "malId": 174993,
+                "aniId": 183015,
+                "page": "Mangadex",
+                "title": "N",
+                "type": "manga",
+                "url": "https://mangadex.org/title/d1aefdeb-09d1-4e70-8edc-9ae611ce0da5"
+            }
+        },
         "Comick": {
             "a2GP63n3": {
                 "identifier": "a2GP63n3",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "N",
-                "url": "https://comick.io/comic/n"
+                "url": "https://comick.io/comic/n",
+                "aniId": 183015
             }
         }
-    }
+    },
+    "aniId": 183015
 }

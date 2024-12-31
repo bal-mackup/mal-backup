@@ -106,6 +106,18 @@
                 "url": "https://mangafire.to/manga/tokyo-ghoulree.jq0y/"
             }
         },
+        "Weebcentral": {
+            "01j76xyadk6g728v2mrk0c5geb": {
+                "identifier": "01j76xyadk6g728v2mrk0c5geb",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYADK6G728V2MRK0C5GEB.jpg",
+                "malId": 81117,
+                "aniId": 85611,
+                "page": "Weebcentral",
+                "title": "Tokyo Ghoul:re",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYADK6G728V2MRK0C5GEB"
+            }
+        },
         "Comick": {
             "9IvxMFYp": {
                 "identifier": "9IvxMFYp",
@@ -128,36 +140,36 @@
                 "aniId": 85611
             }
         },
-        "VIZ": {
+        "MangaPlus": {
             "0": {
                 "title": "Tokyo Ghoul:re",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85611-Asb0BNP23NsJ.png",
                 "identifier": 0,
-                "url": "https://www.viz.com/shonenjump/chapters/tokyo-ghoul-re",
-                "type": "manga",
-                "page": "VIZ",
-                "external": true,
-                "aniId": 85611
-            }
-        },
-        "MangaPlus": {
-            "1": {
-                "title": "Tokyo Ghoul:re",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85611-Asb0BNP23NsJ.png",
-                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100177",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 85611
             },
+            "1": {
+                "title": "Tokyo Ghoul:re",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85611-Asb0BNP23NsJ.png",
+                "identifier": 1,
+                "url": "https://mangaplus.shueisha.co.jp/titles/200079",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 85611
+            }
+        },
+        "VIZ": {
             "2": {
                 "title": "Tokyo Ghoul:re",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85611-Asb0BNP23NsJ.png",
                 "identifier": 2,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200079",
+                "url": "https://www.viz.com/shonenjump/chapters/tokyo-ghoul-re",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 85611
             }

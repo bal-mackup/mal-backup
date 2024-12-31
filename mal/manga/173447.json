@@ -5,5 +5,30 @@
     "url": "https://myanimelist.net/manga/173447/The_Ki_Sisters",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/310053.jpg",
-    "Sites": {}
+    "Sites": {
+        "Mangadex": {
+            "f4410fe6-a85e-45a7-b02c-3d1b9daa5010": {
+                "identifier": "f4410fe6-a85e-45a7-b02c-3d1b9daa5010",
+                "image": "https://uploads.mangadex.org/covers/f4410fe6-a85e-45a7-b02c-3d1b9daa5010/942ec435-2c29-48a9-98f0-fd56710774e2.jpg",
+                "malId": 173447,
+                "aniId": 180396,
+                "page": "Mangadex",
+                "title": "The Ki Sisters",
+                "type": "manga",
+                "url": "https://mangadex.org/title/f4410fe6-a85e-45a7-b02c-3d1b9daa5010"
+            }
+        },
+        "Comick": {
+            "YpbyhSUo": {
+                "identifier": "YpbyhSUo",
+                "malId": 173447,
+                "type": "manga",
+                "page": "Comick",
+                "title": "The Ki Sisters",
+                "url": "https://comick.io/comic/the-ki-sisters",
+                "aniId": 180396
+            }
+        }
+    },
+    "aniId": 180396
 }

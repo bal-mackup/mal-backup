@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/313203.jpg",
     "Sites": {
+        "Mangadex": {
+            "02ecca56-3f78-4ae1-9d57-da17e0bb1429": {
+                "identifier": "02ecca56-3f78-4ae1-9d57-da17e0bb1429",
+                "image": "https://uploads.mangadex.org/covers/02ecca56-3f78-4ae1-9d57-da17e0bb1429/93357472-750b-4642-9ca1-12e3a4dfc0f0.jpg",
+                "malId": 175317,
+                "aniId": 184264,
+                "page": "Mangadex",
+                "title": "Tenkuu no Isekai Bistro-Ten ~Kanban Musume Sorano ga Oishii Shiawase Todokemasu~",
+                "type": "manga",
+                "url": "https://mangadex.org/title/02ecca56-3f78-4ae1-9d57-da17e0bb1429"
+            }
+        },
         "MangaNato": {
             "manga-cw1005405": {
                 "identifier": "manga-cw1005405",
-                "image": "https://avt.mkklcdnv6temp.com/29/r/37-1729093593.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/60/f/18-1733380704-nw.webp",
                 "malId": 175317,
-                "aniId": null,
+                "aniId": 184264,
                 "page": "MangaNato",
                 "title": "Tenkuu No Isekai Bistro-Ten: Kanban Musume Sorano Ga Oishii Shiawase Todokemasu",
                 "type": "manga",
@@ -24,9 +36,11 @@
                 "malId": 175317,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Tenkuu no Isekai Bistro-Ten - Kanban Musume Sorano ga Oishii Shiawase Todokemasu",
-                "url": "https://comick.io/comic/tenkuu-no-isekai-bistro-ten-kanban-musume-sorano-ga-oishii-shiawase-todokemasu"
+                "title": "Tenkuu no Isekai Bistro-Ten ~Kanban Musume Sorano ga Oishii Shiawase Todokemasu~",
+                "url": "https://comick.io/comic/tenkuu-no-isekai-bistro-ten-kanban-musume-sorano-ga-oishii-shiawase-todokemasu",
+                "aniId": 184264
             }
         }
-    }
+    },
+    "aniId": 184264
 }

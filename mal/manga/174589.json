@@ -6,12 +6,24 @@
     "total": 8,
     "image": "https://cdn.myanimelist.net/images/manga/1/312080.jpg",
     "Sites": {
+        "Mangadex": {
+            "7636dc48-b80d-4a85-85b8-440e7025d575": {
+                "identifier": "7636dc48-b80d-4a85-85b8-440e7025d575",
+                "image": "https://uploads.mangadex.org/covers/7636dc48-b80d-4a85-85b8-440e7025d575/1d805211-d0f5-4856-b48e-1471954162f6.jpg",
+                "malId": 174589,
+                "aniId": 182195,
+                "page": "Mangadex",
+                "title": "Danky Night",
+                "type": "manga",
+                "url": "https://mangadex.org/title/7636dc48-b80d-4a85-85b8-440e7025d575"
+            }
+        },
         "MangaNato": {
             "manga-bs1005275": {
                 "identifier": "manga-bs1005275",
-                "image": "https://avt.mkklcdnv6temp.com/24/n/37-1728401392.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/55/g/18-1733380431-nw.webp",
                 "malId": 174589,
-                "aniId": null,
+                "aniId": 182195,
                 "page": "MangaNato",
                 "title": "Danky Night",
                 "type": "manga",
@@ -25,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Danky Night",
-                "url": "https://comick.io/comic/danky-night"
+                "url": "https://comick.io/comic/danky-night",
+                "aniId": 182195
             }
         }
-    }
+    },
+    "aniId": 182195
 }

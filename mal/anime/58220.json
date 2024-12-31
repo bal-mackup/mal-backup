@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/1902/141600.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "tsui-no-hane": {
+                "identifier": "tsui-no-hane",
+                "image": "https://gogocdn.net/cover/tsui-no-hane.png",
+                "malId": 58220,
+                "aniId": 140344,
+                "page": "Gogoanime",
+                "title": "Tsui no Hane",
+                "type": "anime",
+                "url": "https://anitaku.bz/category/tsui-no-hane"
+            }
+        },
+        "YugenAnime": {
+            "19733": {
+                "identifier": "19733",
+                "malId": 58220,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Tsui no Hane",
+                "url": "https://yugenanime.tv/anime/19733/tsui-no-hane/",
+                "aniId": 140344
+            }
+        }
+    },
     "aniId": 140344
 }

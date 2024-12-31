@@ -6,6 +6,18 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/312273.jpg",
     "Sites": {
+        "Mangadex": {
+            "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106": {
+                "identifier": "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106",
+                "image": "https://uploads.mangadex.org/covers/c8b5a61e-81d0-4a8d-a2d3-22ba8c409106/4d421a38-42b1-40db-99d6-d1d03ef0341c.jpg",
+                "malId": 174456,
+                "aniId": 181767,
+                "page": "Mangadex",
+                "title": "siSTAR regiSTAR",
+                "type": "manga",
+                "url": "https://mangadex.org/title/c8b5a61e-81d0-4a8d-a2d3-22ba8c409106"
+            }
+        },
         "Comick": {
             "NA1Y7Cxu": {
                 "identifier": "NA1Y7Cxu",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "siSTAR regiSTAR",
-                "url": "https://comick.io/comic/si-star-resi-star"
+                "url": "https://comick.io/comic/si-star-resi-star",
+                "aniId": 181767
             }
         }
-    }
+    },
+    "aniId": 181767
 }

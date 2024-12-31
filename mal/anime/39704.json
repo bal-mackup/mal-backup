@@ -6,6 +6,30 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/anime/1536/100524.jpg",
     "anidbId": null,
-    "Sites": {},
+    "Sites": {
+        "Gogoanime": {
+            "shiroi-unabara": {
+                "identifier": "shiroi-unabara",
+                "image": "https://gogocdn.net/cover/shiroi-unabara.png",
+                "malId": 39704,
+                "aniId": 106545,
+                "page": "Gogoanime",
+                "title": "Shiroi Unabara",
+                "type": "anime",
+                "url": "https://anitaku.bz/category/shiroi-unabara"
+            }
+        },
+        "YugenAnime": {
+            "19708": {
+                "identifier": "19708",
+                "malId": 39704,
+                "type": "anime",
+                "page": "YugenAnime",
+                "title": "Shiroi Unabara",
+                "url": "https://yugenanime.tv/anime/19708/shiroi-unabara/",
+                "aniId": 106545
+            }
+        }
+    },
     "aniId": 106545
 }

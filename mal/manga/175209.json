@@ -6,12 +6,24 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/313046.jpg",
     "Sites": {
+        "Mangadex": {
+            "274827f3-99da-4f73-b324-b740a828d422": {
+                "identifier": "274827f3-99da-4f73-b324-b740a828d422",
+                "image": "https://uploads.mangadex.org/covers/274827f3-99da-4f73-b324-b740a828d422/f19a1bdb-f068-44a7-96a5-931d0fb46894.jpg",
+                "malId": 175209,
+                "aniId": 183855,
+                "page": "Mangadex",
+                "title": "Regressing As The Bastard Of The Sword Clan",
+                "type": "manga",
+                "url": "https://mangadex.org/title/274827f3-99da-4f73-b324-b740a828d422"
+            }
+        },
         "MangaNato": {
             "manga-bv1005330": {
                 "identifier": "manga-bv1005330",
-                "image": "https://avt.mkklcdnv6temp.com/26/t/37-1728867771.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/57/j/18-1733380548-nw.webp",
                 "malId": 175209,
-                "aniId": null,
+                "aniId": 183855,
                 "page": "MangaNato",
                 "title": "Regressing As The Reincarnated Bastard Of The Sword Clan",
                 "type": "manga",
@@ -23,7 +35,7 @@
                 "identifier": "regressing-as-the-reincarnated-bastard-of-the-sword-clann.90vp0",
                 "image": "https://static.mangafire.to/3b2d5/i/f/fd/de53985a6ffa2e06d0032d3abc00e87c.jpg",
                 "malId": 175209,
-                "aniId": null,
+                "aniId": 183855,
                 "page": "MangaFire",
                 "title": "Regressed life of the Sword Clan’s Ignoble Reincarnator",
                 "type": "manga",
@@ -35,7 +47,7 @@
                 "identifier": "regressing_as_the_reincarnated_bastard_of_the_sword_clan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46652/cover.jpg",
                 "malId": 175209,
-                "aniId": null,
+                "aniId": 183855,
                 "page": "MangaFox",
                 "title": "Regressing As The Reincarnated Bastard Of The Sword Clan",
                 "type": "manga",
@@ -49,8 +61,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Regressing As The Reincarnated Bastard Of The Sword Clan",
-                "url": "https://comick.io/comic/regressing-as-the-reincarnated-bastard-of-the-sword-clan"
+                "url": "https://comick.io/comic/regressing-as-the-reincarnated-bastard-of-the-sword-clan",
+                "aniId": 183855
             }
         }
-    }
+    },
+    "aniId": 183855
 }

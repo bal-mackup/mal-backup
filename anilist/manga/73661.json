@@ -9,7 +9,7 @@
         "Mangadex": {
             "17ce37ea-1cda-4429-b062-c4b627814225": {
                 "identifier": "17ce37ea-1cda-4429-b062-c4b627814225",
-                "image": "https://uploads.mangadex.org/covers/17ce37ea-1cda-4429-b062-c4b627814225/921b300c-9905-439e-ba0e-73b434215ac8.jpg",
+                "image": "https://uploads.mangadex.org/covers/17ce37ea-1cda-4429-b062-c4b627814225/c1423f5e-3f09-4f3d-ae37-ea77cd317266.jpg",
                 "malId": 43661,
                 "aniId": 73661,
                 "page": "Mangadex",
@@ -86,6 +86,18 @@
                 "url": "https://mangafire.to/manga/seraph-of-the-endd.xjl3/"
             }
         },
+        "Weebcentral": {
+            "01j76xy95rchhyxw083zcr7jad": {
+                "identifier": "01j76xy95rchhyxw083zcr7jad",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XY95RCHHYXW083ZCR7JAD.jpg",
+                "malId": 43661,
+                "aniId": 73661,
+                "page": "Weebcentral",
+                "title": "Seraph of the End - Vampire Reign",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XY95RCHHYXW083ZCR7JAD"
+            }
+        },
         "Comick": {
             "kSBjyVQn": {
                 "identifier": "kSBjyVQn",
@@ -108,26 +120,26 @@
                 "aniId": 73661
             }
         },
-        "VIZ": {
+        "MangaPlus": {
             "0": {
                 "title": "Owari no Seraph",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx73661-PJX2JcBAUYCx.png",
                 "identifier": 0,
-                "url": "https://www.viz.com/seraph-of-the-end",
+                "url": "https://mangaplus.shueisha.co.jp/titles/100024",
                 "type": "manga",
-                "page": "VIZ",
+                "page": "MangaPlus",
                 "external": true,
                 "aniId": 73661
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "1": {
                 "title": "Owari no Seraph",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx73661-PJX2JcBAUYCx.png",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/100024",
+                "url": "https://www.viz.com/shonenjump/chapters/seraph-of-the-end",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 73661
             }

@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/11777/Clannad__Tomoyo_Dearest",
     "total": 4,
     "image": "https://cdn.myanimelist.net/images/manga/2/34937.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "b7fe5071-da19-4dd3-aead-49193d150ccf": {
+                "identifier": "b7fe5071-da19-4dd3-aead-49193d150ccf",
+                "image": "https://uploads.mangadex.org/covers/b7fe5071-da19-4dd3-aead-49193d150ccf/83ed95f1-9bc2-4738-95d6-39ce3ac0c234.jpg",
+                "malId": 11777,
+                "aniId": 41777,
+                "page": "Mangadex",
+                "title": "CLANNAD: Tomoyo Dearest",
+                "type": "manga",
+                "url": "https://mangadex.org/title/b7fe5071-da19-4dd3-aead-49193d150ccf"
+            }
+        },
+        "Comick": {
+            "NQ_2raGX": {
+                "identifier": "NQ_2raGX",
+                "malId": 11777,
+                "type": "manga",
+                "page": "Comick",
+                "title": "CLANNAD: Tomoyo Dearest",
+                "url": "https://comick.io/comic/clannad-tomoyo-dearest",
+                "aniId": 41777
+            }
+        }
+    },
     "aniId": 41777
 }

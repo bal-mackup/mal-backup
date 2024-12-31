@@ -55,16 +55,6 @@
             }
         },
         "MangaFire": {
-            "dorohedoro.lxpz": {
-                "identifier": "dorohedoro.lxpz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb163e336ab6d19201abd66ad7b7f8fd.jpg",
-                "malId": 1133,
-                "aniId": 31133,
-                "page": "MangaFire",
-                "title": "Dorohedoro",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorohedoro.lxpz/"
-            },
             "dorohedoroo.lxpz": {
                 "identifier": "dorohedoroo.lxpz",
                 "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb163e336ab6d19201abd66ad7b7f8fd.jpg",
@@ -74,6 +64,18 @@
                 "title": "Dorohedoro",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/dorohedoroo.lxpz/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xy7wmz8ssqq38ysxjy055": {
+                "identifier": "01j76xy7wmz8ssqq38ysxjy055",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XY7WMZ8SSQQ38YSXJY055.jpg",
+                "malId": 1133,
+                "aniId": 31133,
+                "page": "Weebcentral",
+                "title": "Dorohedoro",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XY7WMZ8SSQQ38YSXJY055"
             }
         },
         "Comick": {
@@ -95,6 +97,18 @@
                 "page": "MangaReader",
                 "title": "Dorohedoro",
                 "url": "https://mangareader.to/dorohedoro-57",
+                "aniId": 31133
+            }
+        },
+        "VIZ": {
+            "0": {
+                "title": "Dorohedoro",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31133-xhUafoJkW2AZ.png",
+                "identifier": 0,
+                "url": "https://www.viz.com/vizmanga/chapters/dorohedoro",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
                 "aniId": 31133
             }
         }

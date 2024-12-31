@@ -6,6 +6,30 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/312385.jpg",
     "Sites": {
+        "Mangadex": {
+            "624e2b30-55c1-4de9-8dc9-991abf0241ea": {
+                "identifier": "624e2b30-55c1-4de9-8dc9-991abf0241ea",
+                "image": "https://uploads.mangadex.org/covers/624e2b30-55c1-4de9-8dc9-991abf0241ea/c3ba2202-f044-42c9-9934-662ab486faee.png",
+                "malId": 174742,
+                "aniId": 176379,
+                "page": "Mangadex",
+                "title": "Tonari no Jii-san",
+                "type": "manga",
+                "url": "https://mangadex.org/title/624e2b30-55c1-4de9-8dc9-991abf0241ea"
+            }
+        },
+        "MangaNato": {
+            "manga-bz1005234": {
+                "identifier": "manga-bz1005234",
+                "image": "https://avt.mkklcdnv6temp.com/fld/53/r/18-1733380340-nw.webp",
+                "malId": 174742,
+                "aniId": 176379,
+                "page": "MangaNato",
+                "title": "Tonari No Jii-San",
+                "type": "manga",
+                "url": "https://manganato.com/manga-bz1005234"
+            }
+        },
         "Comick": {
             "xLzBHgVa": {
                 "identifier": "xLzBHgVa",
@@ -13,8 +37,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Tonari no Jii-san",
-                "url": "https://comick.io/comic/tonari-no-jii-san"
+                "url": "https://comick.io/comic/tonari-no-jii-san",
+                "aniId": 176379
             }
         }
-    }
+    },
+    "aniId": 176379
 }

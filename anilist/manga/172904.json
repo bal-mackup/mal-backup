@@ -31,7 +31,7 @@
         "Mangadex": {
             "78e3cb6e-8673-4623-84b3-c5e459200ce5": {
                 "identifier": "78e3cb6e-8673-4623-84b3-c5e459200ce5",
-                "image": "https://uploads.mangadex.org/covers/78e3cb6e-8673-4623-84b3-c5e459200ce5/0e38cdd4-4e56-4958-833d-226e17c7f2de.jpg",
+                "image": "https://uploads.mangadex.org/covers/78e3cb6e-8673-4623-84b3-c5e459200ce5/fdc22226-3a8a-4e34-9543-c0779d2ba6ad.jpg",
                 "malId": 165811,
                 "aniId": 172904,
                 "page": "Mangadex",
@@ -55,13 +55,25 @@
         "MangaNato": {
             "manga-wj1000266": {
                 "identifier": "manga-wj1000266",
-                "image": "https://avt.mkklcdnv6temp.com/20/h/33-1704943684.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/62/n/16-1733317634-nw.webp",
                 "malId": 165811,
                 "aniId": 172904,
                 "page": "MangaNato",
                 "title": "Kaiju No. 8: B-Side",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-wj1000266"
+            }
+        },
+        "Weebcentral": {
+            "01j76xygvp1t3grvq0ckzytpfp": {
+                "identifier": "01j76xygvp1t3grvq0ckzytpfp",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYGVP1T3GRVQ0CKZYTPFP.jpg",
+                "malId": 165811,
+                "aniId": 172904,
+                "page": "Weebcentral",
+                "title": "Kaiju No. 8: B-Side",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYGVP1T3GRVQ0CKZYTPFP"
             }
         },
         "Comick": {
@@ -83,6 +95,18 @@
                 "url": "https://mangaplus.shueisha.co.jp/titles/100290",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 172904
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Kaijuu 8-gou: Side B",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172904-Z9CA8J5iN1Et.jpg",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/kaiju-no-8-b-side",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 172904
             }

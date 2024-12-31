@@ -85,15 +85,27 @@
                 "type": "manga",
                 "url": "https://mangafire.to/manga/rosario-to-vampire-season-ii.ymz/"
             },
-            "ymz": {
-                "identifier": "ymz",
+            "rosario-to-vampire-season-iii.ymz": {
+                "identifier": "rosario-to-vampire-season-iii.ymz",
                 "image": "https://static.mangafire.to/3b2d5/i/3/38/38dc35fef0a928fc50647e92bb753282.jpg",
                 "malId": 3403,
                 "aniId": 33403,
                 "page": "MangaFire",
                 "title": "Rosario+Vampire: Season II",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/ymz/"
+                "url": "https://mangafire.to/manga/rosario-to-vampire-season-iii.ymz/"
+            }
+        },
+        "Weebcentral": {
+            "01j76xy7fca6p5760715r26dbd": {
+                "identifier": "01j76xy7fca6p5760715r26dbd",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XY7FCA6P5760715R26DBD.jpg",
+                "malId": 3403,
+                "aniId": 33403,
+                "page": "Weebcentral",
+                "title": "Rosario + Vampire Season 2",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XY7FCA6P5760715R26DBD"
             }
         },
         "Comick": {
@@ -136,6 +148,18 @@
                 "url": "https://mangaplus.shueisha.co.jp/titles/200044",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 33403
+            }
+        },
+        "VIZ": {
+            "2": {
+                "title": "Rosario to Vampire: Season II",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33403-3LuzOHj6nW3q.png",
+                "identifier": 2,
+                "url": "https://www.viz.com/shonenjump/chapters/rosario-vampire-season-ii",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 33403
             }

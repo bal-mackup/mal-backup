@@ -6,6 +6,18 @@
     "total": 50,
     "image": "https://cdn.myanimelist.net/images/manga/3/284158.jpg",
     "Sites": {
+        "Mangadex": {
+            "cde02dbc-9e69-4014-86e1-54816c5d0797": {
+                "identifier": "cde02dbc-9e69-4014-86e1-54816c5d0797",
+                "image": "https://uploads.mangadex.org/covers/cde02dbc-9e69-4014-86e1-54816c5d0797/f0e5abd8-9f2f-434c-b8f9-57bd46a6e4b5.jpg",
+                "malId": 150252,
+                "aniId": 159495,
+                "page": "Mangadex",
+                "title": "Kininaru Seina no Atama no Naka wa",
+                "type": "manga",
+                "url": "https://mangadex.org/title/cde02dbc-9e69-4014-86e1-54816c5d0797"
+            }
+        },
         "Comick": {
             "oKrYW0rM": {
                 "identifier": "oKrYW0rM",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Kininaru Seina no Atama no Naka wa",
-                "url": "https://comick.io/comic/kininaru-seina-no-atama-no-naka-wa"
+                "url": "https://comick.io/comic/kininaru-seina-no-atama-no-naka-wa",
+                "aniId": 159495
             }
         }
-    }
+    },
+    "aniId": 159495
 }

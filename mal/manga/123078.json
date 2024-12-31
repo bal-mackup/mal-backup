@@ -98,21 +98,33 @@
                 "aniId": 113512
             }
         },
-        "MangaPlus": {
+        "VIZ": {
             "0": {
                 "title": "ZIPMAN!!",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113512-dDt9c7q6Z94r.jpg",
                 "identifier": 0,
+                "url": "https://www.viz.com/shonenjump/chapters/zipman",
+                "type": "manga",
+                "page": "VIZ",
+                "external": true,
+                "aniId": 113512
+            }
+        },
+        "MangaPlus": {
+            "1": {
+                "title": "ZIPMAN!!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113512-dDt9c7q6Z94r.jpg",
+                "identifier": 1,
                 "url": "https://mangaplus.shueisha.co.jp/titles/100076",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 113512
             },
-            "1": {
+            "2": {
                 "title": "ZIPMAN!!",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113512-dDt9c7q6Z94r.jpg",
-                "identifier": 1,
+                "identifier": 2,
                 "url": "https://mangaplus.shueisha.co.jp/titles/200032",
                 "type": "manga",
                 "page": "MangaPlus",

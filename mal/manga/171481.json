@@ -9,7 +9,7 @@
         "Mangadex": {
             "c0defdaa-e9eb-4c7d-ae27-db989fcf0105": {
                 "identifier": "c0defdaa-e9eb-4c7d-ae27-db989fcf0105",
-                "image": "https://uploads.mangadex.org/covers/c0defdaa-e9eb-4c7d-ae27-db989fcf0105/32738a6d-2a7b-4139-ba81-a94a7f3a11a8.jpg",
+                "image": "https://uploads.mangadex.org/covers/c0defdaa-e9eb-4c7d-ae27-db989fcf0105/9235d886-5e3f-4f80-88c9-aca7555cabdc.jpg",
                 "malId": 171481,
                 "aniId": 178641,
                 "page": "Mangadex",
@@ -33,7 +33,7 @@
         "MangaNato": {
             "manga-zg1002563": {
                 "identifier": "manga-zg1002563",
-                "image": "https://avt.mkklcdnv6temp.com/12/d/35-1721469465.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/50/o/17-1733324239-nw.webp",
                 "malId": 171481,
                 "aniId": 178641,
                 "page": "MangaNato",
@@ -76,6 +76,18 @@
                 "url": "https://fanfox.net/manga/shiba_tsuki_bukken/"
             }
         },
+        "Weebcentral": {
+            "01j76xyhe1w3bczs8eqrb4xt4x": {
+                "identifier": "01j76xyhe1w3bczs8eqrb4xt4x",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYHE1W3BCZS8EQRB4XT4X.jpg",
+                "malId": 171481,
+                "aniId": 178641,
+                "page": "Weebcentral",
+                "title": "Shiba Inu Rooms",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYHE1W3BCZS8EQRB4XT4X"
+            }
+        },
         "Comick": {
             "alV_EbK3": {
                 "identifier": "alV_EbK3",
@@ -95,6 +107,18 @@
                 "url": "https://mangaplus.shueisha.co.jp/titles/100331",
                 "type": "manga",
                 "page": "MangaPlus",
+                "external": true,
+                "aniId": 178641
+            }
+        },
+        "VIZ": {
+            "1": {
+                "title": "Shibatsuki Bukken",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx178641-2lPYtUXvgVUw.jpg",
+                "identifier": 1,
+                "url": "https://www.viz.com/shonenjump/chapters/shiba-inu-rooms",
+                "type": "manga",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 178641
             }
