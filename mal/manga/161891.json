@@ -11,23 +11,35 @@
                 "identifier": "c0bc7e39-fac3-44b9-8813-9d3cbf78ff1f",
                 "image": "https://uploads.mangadex.org/covers/c0bc7e39-fac3-44b9-8813-9d3cbf78ff1f/8d880927-b878-4409-afbd-d31bce471225.png",
                 "malId": 161891,
-                "aniId": null,
+                "aniId": 168387,
                 "page": "Mangadex",
                 "title": "The Invincible Deadbeat",
                 "type": "manga",
                 "url": "https://mangadex.org/title/c0bc7e39-fac3-44b9-8813-9d3cbf78ff1f"
             }
         },
-        "MangaFire": {
-            "jobless-yet-invincible.42rxj": {
-                "identifier": "jobless-yet-invincible.42rxj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6fd15ac6f3d715ca09cdc2dd3b958f35.jpg",
+        "MangaNato": {
+            "manga-px993032": {
+                "identifier": "manga-px993032",
+                "image": "https://avt.mkklcdnv6temp.com/31/l/27-1668569222.jpg",
                 "malId": 161891,
-                "aniId": null,
+                "aniId": 168387,
+                "page": "MangaNato",
+                "title": "The Strongest Unemployed Hero",
+                "type": "manga",
+                "url": "https://manganato.com/manga-px993032"
+            }
+        },
+        "MangaFire": {
+            "42rxj": {
+                "identifier": "42rxj",
+                "image": "https://static.mangafire.to/1a01/i/6/6f/6fd15ac6f3d715ca09cdc2dd3b958f35.jpg",
+                "malId": 161891,
+                "aniId": 168387,
                 "page": "MangaFire",
                 "title": "The Strongest Unemployed Hero",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/jobless-yet-invincible.42rxj/"
+                "url": "https://mangafire.to/manga/jobless-yet-invinciblee.42rxj"
             }
         },
         "Comick": {
@@ -37,8 +49,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "The Invincible Deadbeat",
-                "url": "https://comick.io/comic/01-jobless-yet-invincible"
+                "url": "https://comick.io/comic/01-jobless-yet-invincible",
+                "aniId": 168387
             }
         }
-    }
+    },
+    "aniId": 168387
 }

@@ -6,18 +6,6 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/2/90687.jpg",
     "Sites": {
-        "MangaFire": {
-            "my-steady.vv1r7": {
-                "identifier": "my-steady.vv1r7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0df5569b0126bcb4a64ab58e5acf5722.jpg",
-                "malId": 51365,
-                "aniId": 81365,
-                "page": "MangaFire",
-                "title": "My Steady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-steady.vv1r7/"
-            }
-        },
         "Mangadex": {
             "a5bc4775-f7d3-47b5-a6d3-dd06ff573253": {
                 "identifier": "a5bc4775-f7d3-47b5-a6d3-dd06ff573253",
@@ -28,6 +16,18 @@
                 "title": "My Steady",
                 "type": "manga",
                 "url": "https://mangadex.org/title/a5bc4775-f7d3-47b5-a6d3-dd06ff573253"
+            }
+        },
+        "MangaFire": {
+            "vv1r7": {
+                "identifier": "vv1r7",
+                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0df5569b0126bcb4a64ab58e5acf5722.jpg",
+                "malId": 51365,
+                "aniId": 81365,
+                "page": "MangaFire",
+                "title": "My Steady",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-steady.vv1r7/"
             }
         }
     },

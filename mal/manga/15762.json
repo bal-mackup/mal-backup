@@ -6,18 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/22977.jpg",
     "Sites": {
-        "MangaFire": {
-            "boku-wa-subete-wo-shitteiru.r1qm": {
-                "identifier": "boku-wa-subete-wo-shitteiru.r1qm",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/23ed816fb24d43ccccab6eb58b46a90c.jpg",
-                "malId": 15762,
-                "aniId": 45762,
-                "page": "MangaFire",
-                "title": "I've Seen It All",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-subete-wo-shitteiru.r1qm/"
-            }
-        },
         "Mangadex": {
             "f855ee2a-5e61-4127-839b-e266a583efd5": {
                 "identifier": "f855ee2a-5e61-4127-839b-e266a583efd5",
@@ -28,6 +16,18 @@
                 "title": "Boku wa Subete wo Shitteiru",
                 "type": "manga",
                 "url": "https://mangadex.org/title/f855ee2a-5e61-4127-839b-e266a583efd5"
+            }
+        },
+        "MangaFire": {
+            "r1qm": {
+                "identifier": "r1qm",
+                "image": "https://static.mangafire.to/3b2d5/i/2/23/23ed816fb24d43ccccab6eb58b46a90c.jpg",
+                "malId": 15762,
+                "aniId": 45762,
+                "page": "MangaFire",
+                "title": "I've Seen It All",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-wa-subete-wo-shitteiru.r1qm/"
             }
         },
         "Comick": {

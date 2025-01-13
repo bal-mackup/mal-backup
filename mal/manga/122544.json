@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/122544/Deshi_ga_Kawaisugite_Tsurai",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/247819.jpg",
-    "Sites": {},
-    "aniId": 108046
+    "Sites": {
+        "Mangadex": {
+            "afac90b7-6e2d-4e07-9a5c-d4984f6ac70c": {
+                "identifier": "afac90b7-6e2d-4e07-9a5c-d4984f6ac70c",
+                "image": "https://uploads.mangadex.org/covers/afac90b7-6e2d-4e07-9a5c-d4984f6ac70c/e4b30172-e49f-4549-96ef-f647f750e162.jpg",
+                "malId": 122544,
+                "aniId": 122865,
+                "page": "Mangadex",
+                "title": "Deshi ga Kawai Sugite Tsurai",
+                "type": "manga",
+                "url": "https://mangadex.org/title/afac90b7-6e2d-4e07-9a5c-d4984f6ac70c"
+            }
+        },
+        "Comick": {
+            "0jqXCCOQ": {
+                "identifier": "0jqXCCOQ",
+                "malId": 122544,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Deshi ga Kawai Sugite Tsurai",
+                "url": "https://comick.io/comic/deshi-ga-kawai-sugite-tsurai",
+                "aniId": 122865
+            }
+        }
+    },
+    "aniId": 122865
 }

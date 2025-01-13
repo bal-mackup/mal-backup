@@ -6,28 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/302450.jpg",
     "Sites": {
-        "MangaFire": {
-            "sincerely-vanessa.jpym2": {
-                "identifier": "sincerely-vanessa.jpym2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/3a7622b86e6ec691bd27e48d58d5fdf5.jpg",
-                "malId": 170155,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Sincerely, Vanessa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sincerely-vanessa.jpym2/"
-            },
-            "sincerely-vanessaa.jpym2": {
-                "identifier": "sincerely-vanessaa.jpym2",
-                "image": "https://static.mangafire.to/9948/i/2/28/3a7622b86e6ec691bd27e48d58d5fdf5.jpg",
-                "malId": 170155,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Sincerely, Vanessa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sincerely-vanessaa.jpym2/"
-            }
-        },
         "MangaNato": {
             "manga-zq1003151": {
                 "identifier": "manga-zq1003151",
@@ -38,6 +16,18 @@
                 "title": "Sincerely, Vanessa",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-zq1003151"
+            }
+        },
+        "MangaFire": {
+            "jpym2": {
+                "identifier": "jpym2",
+                "image": "https://static.mangafire.to/9948/i/2/28/3a7622b86e6ec691bd27e48d58d5fdf5.jpg",
+                "malId": 170155,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Sincerely, Vanessa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sincerely-vanessaa.jpym2"
             }
         }
     }

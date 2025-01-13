@@ -6,18 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/64101.jpg",
     "Sites": {
-        "MangaFire": {
-            "shoukei.vvpyl": {
-                "identifier": "shoukei.vvpyl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b631bbb8663a23a494e0ec3cf066bc3.jpg",
-                "malId": 35305,
-                "aniId": 65305,
-                "page": "MangaFire",
-                "title": "Shoukei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shoukei.vvpyl/"
-            }
-        },
         "Mangadex": {
             "db46aeb7-fb88-4a0c-8145-bd4911ed5ccc": {
                 "identifier": "db46aeb7-fb88-4a0c-8145-bd4911ed5ccc",
@@ -28,6 +16,18 @@
                 "title": "Shoukei",
                 "type": "manga",
                 "url": "https://mangadex.org/title/db46aeb7-fb88-4a0c-8145-bd4911ed5ccc"
+            }
+        },
+        "MangaFire": {
+            "vvpyl": {
+                "identifier": "vvpyl",
+                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b631bbb8663a23a494e0ec3cf066bc3.jpg",
+                "malId": 35305,
+                "aniId": 65305,
+                "page": "MangaFire",
+                "title": "Shoukei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shoukei.vvpyl/"
             }
         },
         "Comick": {

@@ -6,28 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/285574.jpg",
     "Sites": {
-        "MangaFire": {
-            "the-gangster-baby-of-the-dukes-family.k32ov": {
-                "identifier": "the-gangster-baby-of-the-dukes-family.k32ov",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ec/ec9e2bc3309eb656f4190a73cfd051c3.jpg",
-                "malId": 160953,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Gangster Baby of the Duke's Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-gangster-baby-of-the-dukes-family.k32ov/"
-            },
-            "the-gangster-baby-of-the-dukes-familyy.k32ov": {
-                "identifier": "the-gangster-baby-of-the-dukes-familyy.k32ov",
-                "image": "https://static.mangafire.to/96bc/i/e/ec/ec9e2bc3309eb656f4190a73cfd051c3.jpg",
-                "malId": 160953,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Gangster Baby of the Duke's Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-gangster-baby-of-the-dukes-familyy.k32ov/"
-            }
-        },
         "Mangadex": {
             "fe6a3291-543f-40be-b22f-576f6b561a3c": {
                 "identifier": "fe6a3291-543f-40be-b22f-576f6b561a3c",
@@ -62,6 +40,18 @@
                 "title": "The Gangster Daughter of the Henchman Duke's Family",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_gangster_daughter_of_the_henchman_duke_s_family/"
+            }
+        },
+        "MangaFire": {
+            "k32ov": {
+                "identifier": "k32ov",
+                "image": "https://static.mangafire.to/96bc/i/e/ec/ec9e2bc3309eb656f4190a73cfd051c3.jpg",
+                "malId": 160953,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Gangster Baby of the Duke's Family",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-gangster-baby-of-the-dukes-familyy.k32ov"
             }
         }
     }

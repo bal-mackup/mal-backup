@@ -6,6 +6,18 @@
     "total": 26,
     "image": "https://cdn.myanimelist.net/images/manga/2/245901.jpg",
     "Sites": {
+        "MangaFire": {
+            "green-apple-paradisee.0r2y5": {
+                "identifier": "green-apple-paradisee.0r2y5",
+                "image": "https://static.mangafire.to/3b2d5/i/3/33/334198b62f9649c33f50138d00068f39.jpg",
+                "malId": 134729,
+                "aniId": 124579,
+                "page": "MangaFire",
+                "title": "Our Paradise",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/green-apple-paradisee.0r2y5/"
+            }
+        },
         "MangaReader": {
             "50280": {
                 "identifier": "50280",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "MangaReader",
                 "title": "Green Apple Paradise",
-                "url": "https://mangareader.to/green-apple-paradise-50280"
+                "url": "https://mangareader.to/green-apple-paradise-50280",
+                "aniId": 124579
             }
         }
-    }
+    },
+    "aniId": 124579
 }

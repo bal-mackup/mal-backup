@@ -6,18 +6,6 @@
     "total": 5,
     "image": "https://cdn.myanimelist.net/images/manga/2/7392.jpg",
     "Sites": {
-        "MangaFire": {
-            "boku-no-koi-no-hanashi-himegoto.qxvow": {
-                "identifier": "boku-no-koi-no-hanashi-himegoto.qxvow",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/ef8f4db0e1f83e41d2571cef3438616b.jpg",
-                "malId": 5772,
-                "aniId": 35772,
-                "page": "MangaFire",
-                "title": "Intriguing Secrets",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-koi-no-hanashi-himegoto.qxvow/"
-            }
-        },
         "MangaFox": {
             "boku_no_koi_no_hanashi_himegoto": {
                 "identifier": "boku_no_koi_no_hanashi_himegoto",
@@ -28,6 +16,18 @@
                 "title": "Boku no Koi no Hanashi Himegoto",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/boku_no_koi_no_hanashi_himegoto/"
+            }
+        },
+        "MangaFire": {
+            "qxvow": {
+                "identifier": "qxvow",
+                "image": "https://static.mangafire.to/3b2d5/i/e/ef/ef8f4db0e1f83e41d2571cef3438616b.jpg",
+                "malId": 5772,
+                "aniId": 35772,
+                "page": "MangaFire",
+                "title": "Intriguing Secrets",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-koi-no-hanashi-himegoto.qxvow/"
             }
         },
         "Comick": {

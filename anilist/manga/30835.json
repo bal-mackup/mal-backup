@@ -6,18 +6,6 @@
     "total": 41,
     "image": "https://cdn.myanimelist.net/images/manga/3/191590.jpg",
     "Sites": {
-        "MangaFire": {
-            "juuoku-shoujo.w0pk": {
-                "identifier": "juuoku-shoujo.w0pk",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/362c984828b36f002e6775a1827e0f6b.jpg",
-                "malId": 835,
-                "aniId": 30835,
-                "page": "MangaFire",
-                "title": "Billion Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/juuoku-shoujo.w0pk/"
-            }
-        },
         "Mangadex": {
             "1ea1c04f-3dbd-46a7-822e-82519ca301a3": {
                 "identifier": "1ea1c04f-3dbd-46a7-822e-82519ca301a3",
@@ -28,6 +16,18 @@
                 "title": "Juuoku Shoujo",
                 "type": "manga",
                 "url": "https://mangadex.org/title/1ea1c04f-3dbd-46a7-822e-82519ca301a3"
+            }
+        },
+        "MangaFire": {
+            "w0pk": {
+                "identifier": "w0pk",
+                "image": "https://static.mangafire.to/3b2d5/i/3/36/362c984828b36f002e6775a1827e0f6b.jpg",
+                "malId": 835,
+                "aniId": 30835,
+                "page": "MangaFire",
+                "title": "Billion Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/juuoku-shoujo.w0pk/"
             }
         },
         "Comick": {

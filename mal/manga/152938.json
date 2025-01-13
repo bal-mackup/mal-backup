@@ -6,6 +6,18 @@
     "total": 23,
     "image": "https://cdn.myanimelist.net/images/manga/1/270881.jpg",
     "Sites": {
+        "Mangadex": {
+            "c270706b-fdfb-44c5-b811-7fce5f779f6e": {
+                "identifier": "c270706b-fdfb-44c5-b811-7fce5f779f6e",
+                "image": "https://uploads.mangadex.org/covers/c270706b-fdfb-44c5-b811-7fce5f779f6e/2f0b3a49-0a19-4e15-9a60-51f71513b576.jpg",
+                "malId": 152938,
+                "aniId": 128565,
+                "page": "Mangadex",
+                "title": "Sora no Grifters: Ichi Chouen no Sagishitachi",
+                "type": "manga",
+                "url": "https://mangadex.org/title/c270706b-fdfb-44c5-b811-7fce5f779f6e"
+            }
+        },
         "Comick": {
             "ZmZd_j4Q": {
                 "identifier": "ZmZd_j4Q",
@@ -13,8 +25,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Sora no Grifters: Ichi Chouen no Sagishitachi",
-                "url": "https://comick.io/comic/sora-no-grifters-ichi-chouen-no-sagishitachi"
+                "url": "https://comick.io/comic/sora-no-grifters-ichi-chouen-no-sagishitachi",
+                "aniId": 128565
             }
         }
-    }
+    },
+    "aniId": 128565
 }

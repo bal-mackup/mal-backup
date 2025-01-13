@@ -6,18 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/298740.jpg",
     "Sites": {
-        "MangaFire": {
-            "id-rather-be-the-king.ox058": {
-                "identifier": "id-rather-be-the-king.ox058",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/9430b04531ab3087f0d6cc1d6ecd97fe.jpg",
-                "malId": 168233,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "I'd Rather Be the King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/id-rather-be-the-king.ox058/"
-            }
-        },
         "Mangadex": {
             "89b00f05-1512-43f0-8779-976a400cacf1": {
                 "identifier": "89b00f05-1512-43f0-8779-976a400cacf1",
@@ -30,6 +18,18 @@
                 "url": "https://mangadex.org/title/89b00f05-1512-43f0-8779-976a400cacf1"
             }
         },
+        "MangaFire": {
+            "ox058": {
+                "identifier": "ox058",
+                "image": "https://static.mangafire.to/9b74/i/9/94/9430b04531ab3087f0d6cc1d6ecd97fe.jpg",
+                "malId": 168233,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "I'd Rather Be the King",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/id-rather-be-the-kingg.ox058"
+            }
+        },
         "Comick": {
             "W3H6iKyt": {
                 "identifier": "W3H6iKyt",
@@ -37,7 +37,7 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "I'd Rather Be the King",
-                "url": "https://comick.io/comic/i-d-rather-be-the-kingYg9R"
+                "url": "https://comick.io/comic/i-d-rather-be-the-king"
             }
         }
     }

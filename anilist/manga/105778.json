@@ -9,7 +9,7 @@
         "Mangadex": {
             "a77742b1-befd-49a4-bff5-1ad4e6b0ef7b": {
                 "identifier": "a77742b1-befd-49a4-bff5-1ad4e6b0ef7b",
-                "image": "https://uploads.mangadex.org/covers/a77742b1-befd-49a4-bff5-1ad4e6b0ef7b/bdd44bcd-c0dc-4f83-ba15-fc99e8790ed4.jpg",
+                "image": "https://uploads.mangadex.org/covers/a77742b1-befd-49a4-bff5-1ad4e6b0ef7b/c445d559-be59-4087-b985-a29f294aafb9.jpg",
                 "malId": 116778,
                 "aniId": 105778,
                 "page": "Mangadex",
@@ -75,16 +75,6 @@
             }
         },
         "MangaFire": {
-            "chainsaw-man.0w5k": {
-                "identifier": "chainsaw-man.0w5k",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
-                "malId": 116778,
-                "aniId": 105778,
-                "page": "MangaFire",
-                "title": "Chainsaw Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chainsaw-man.0w5k/"
-            },
             "chainsaw-man2.kkyzv": {
                 "identifier": "chainsaw-man2.kkyzv",
                 "image": "https://static.mangafire.to/3b2d5/i/b/ba/ba0c0c3058b7befd103265143f7fca23.jpg",
@@ -169,24 +159,22 @@
                 "aniId": 105778
             }
         },
-        "VIZ": {
+        "MangaPlus": {
             "0": {
                 "title": "Chainsaw Man",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105778-74YTFlQzcFPg.png",
                 "identifier": 0,
-                "url": "https://www.viz.com/shonenjump/chapters/chainsaw-man",
+                "url": "https://mangaplus.shueisha.co.jp/titles/100037",
                 "type": "manga",
-                "page": "VIZ",
+                "page": "MangaPlus",
                 "external": true,
                 "aniId": 105778
-            }
-        },
-        "MangaPlus": {
+            },
             "1": {
                 "title": "Chainsaw Man",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105778-74YTFlQzcFPg.png",
                 "identifier": 1,
-                "url": "https://mangaplus.shueisha.co.jp/titles/100037",
+                "url": "https://mangaplus.shueisha.co.jp/titles/300002",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
@@ -196,7 +184,7 @@
                 "title": "Chainsaw Man",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105778-74YTFlQzcFPg.png",
                 "identifier": 2,
-                "url": "https://mangaplus.shueisha.co.jp/titles/300002",
+                "url": "https://mangaplus.shueisha.co.jp/titles/700011",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
@@ -206,19 +194,21 @@
                 "title": "Chainsaw Man",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105778-74YTFlQzcFPg.png",
                 "identifier": 3,
-                "url": "https://mangaplus.shueisha.co.jp/titles/700011",
+                "url": "https://mangaplus.shueisha.co.jp/titles/200098",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
                 "aniId": 105778
-            },
+            }
+        },
+        "VIZ": {
             "4": {
                 "title": "Chainsaw Man",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105778-74YTFlQzcFPg.png",
                 "identifier": 4,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200098",
+                "url": "https://www.viz.com/shonenjump/chapters/chainsaw-man",
                 "type": "manga",
-                "page": "MangaPlus",
+                "page": "VIZ",
                 "external": true,
                 "aniId": 105778
             }

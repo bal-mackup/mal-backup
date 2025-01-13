@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/97973/Mikubon",
     "total": 22,
     "image": "https://cdn.myanimelist.net/images/manga/1/175480.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "0f6e21c6-4210-4b2a-9de8-0cc47b4b0f36": {
+                "identifier": "0f6e21c6-4210-4b2a-9de8-0cc47b4b0f36",
+                "image": "https://uploads.mangadex.org/covers/0f6e21c6-4210-4b2a-9de8-0cc47b4b0f36/75dfe98b-1962-4c0f-9d9a-dfab28514b56.jpg",
+                "malId": 97973,
+                "aniId": 99025,
+                "page": "Mangadex",
+                "title": "Hatsune Miku: Mikubon",
+                "type": "manga",
+                "url": "https://mangadex.org/title/0f6e21c6-4210-4b2a-9de8-0cc47b4b0f36"
+            }
+        },
+        "Comick": {
+            "SaZTG9JP": {
+                "identifier": "SaZTG9JP",
+                "malId": 97973,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Hatsune Miku: Mikubon",
+                "url": "https://comick.io/comic/hatsune-miku-mikubon",
+                "aniId": 99025
+            }
+        }
+    },
     "aniId": 99025
 }

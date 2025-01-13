@@ -45,7 +45,7 @@
         "Mangadex": {
             "68112dc1-2b80-4f20-beb8-2f2a8716a430": {
                 "identifier": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
-                "image": "https://uploads.mangadex.org/covers/68112dc1-2b80-4f20-beb8-2f2a8716a430/697ebc60-c17b-4f9a-90c8-2cbb01aeba3f.jpg",
+                "image": "https://uploads.mangadex.org/covers/68112dc1-2b80-4f20-beb8-2f2a8716a430/8abb8476-b6a7-4eb0-b3a6-b479cba583e5.jpg",
                 "malId": 135496,
                 "aniId": 132029,
                 "page": "Mangadex",
@@ -121,11 +121,21 @@
                 "external": true,
                 "aniId": 132029
             },
+            "1": {
+                "title": "Dandadan",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-jIm1KsPcIwIl.jpg",
+                "identifier": 1,
+                "url": "https://mangaplus.shueisha.co.jp/titles/300001",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
+                "aniId": 132029
+            },
             "2": {
                 "title": "Dandadan",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-jIm1KsPcIwIl.jpg",
                 "identifier": 2,
-                "url": "https://mangaplus.shueisha.co.jp/titles/300001",
+                "url": "https://mangaplus.shueisha.co.jp/titles/200084",
                 "type": "manga",
                 "page": "MangaPlus",
                 "external": true,
@@ -135,16 +145,6 @@
                 "title": "Dandadan",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-jIm1KsPcIwIl.jpg",
                 "identifier": 3,
-                "url": "https://mangaplus.shueisha.co.jp/titles/200084",
-                "type": "manga",
-                "page": "MangaPlus",
-                "external": true,
-                "aniId": 132029
-            },
-            "4": {
-                "title": "Dandadan",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-jIm1KsPcIwIl.jpg",
-                "identifier": 4,
                 "url": "https://mangaplus.shueisha.co.jp/titles/700015",
                 "type": "manga",
                 "page": "MangaPlus",
@@ -153,11 +153,11 @@
             }
         },
         "VIZ": {
-            "1": {
+            "4": {
                 "title": "Dandadan",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-jIm1KsPcIwIl.jpg",
-                "identifier": 1,
-                "url": "https://www.viz.com/shonenjump/chapters/dandadan?locale=en",
+                "identifier": 4,
+                "url": "https://www.viz.com/shonenjump/chapters/dandadan",
                 "type": "manga",
                 "page": "VIZ",
                 "external": true,

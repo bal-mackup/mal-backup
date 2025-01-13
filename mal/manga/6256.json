@@ -6,18 +6,6 @@
     "total": 5,
     "image": "https://cdn.myanimelist.net/images/manga/3/8010.jpg",
     "Sites": {
-        "MangaFire": {
-            "cat-dogs.vv9q2": {
-                "identifier": "cat-dogs.vv9q2",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a7/a7d3542abd6382596cc1adea054cafff.jpg",
-                "malId": 6256,
-                "aniId": 36256,
-                "page": "MangaFire",
-                "title": "Cat & Dogs!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cat-dogs.vv9q2/"
-            }
-        },
         "Mangadex": {
             "fbfa3677-862f-4ede-b4c6-8517945b71a6": {
                 "identifier": "fbfa3677-862f-4ede-b4c6-8517945b71a6",
@@ -28,6 +16,18 @@
                 "title": "Cat & Dogs!",
                 "type": "manga",
                 "url": "https://mangadex.org/title/fbfa3677-862f-4ede-b4c6-8517945b71a6"
+            }
+        },
+        "MangaFire": {
+            "vv9q2": {
+                "identifier": "vv9q2",
+                "image": "https://static.mangafire.to/3b2d5/i/a/a7/a7d3542abd6382596cc1adea054cafff.jpg",
+                "malId": 6256,
+                "aniId": 36256,
+                "page": "MangaFire",
+                "title": "Cat & Dogs!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cat-dogs.vv9q2/"
             }
         },
         "Comick": {

@@ -6,18 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/15817.jpg",
     "Sites": {
-        "MangaFire": {
-            "tooku-e-ikitai.l143": {
-                "identifier": "tooku-e-ikitai.l143",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/87905a21f135937cac44c13521710663.jpg",
-                "malId": 11495,
-                "aniId": 41495,
-                "page": "MangaFire",
-                "title": "Anywhere But Here",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tooku-e-ikitai.l143/"
-            }
-        },
         "Mangadex": {
             "f637f9c2-f54c-4636-b7f2-e6c8abd57212": {
                 "identifier": "f637f9c2-f54c-4636-b7f2-e6c8abd57212",
@@ -28,6 +16,18 @@
                 "title": "Tooku e ikitai",
                 "type": "manga",
                 "url": "https://mangadex.org/title/f637f9c2-f54c-4636-b7f2-e6c8abd57212"
+            }
+        },
+        "MangaFire": {
+            "l143": {
+                "identifier": "l143",
+                "image": "https://static.mangafire.to/3b2d5/i/8/87/87905a21f135937cac44c13521710663.jpg",
+                "malId": 11495,
+                "aniId": 41495,
+                "page": "MangaFire",
+                "title": "Anywhere But Here",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tooku-e-ikitai.l143/"
             }
         },
         "Comick": {

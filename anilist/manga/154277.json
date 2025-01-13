@@ -5,6 +5,30 @@
     "url": "https://myanimelist.net/manga/159863/Kaibutsu_Chuudoku_comic",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/288339.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "99024025-e988-42cf-84b3-aa68afaab322": {
+                "identifier": "99024025-e988-42cf-84b3-aa68afaab322",
+                "image": "https://uploads.mangadex.org/covers/99024025-e988-42cf-84b3-aa68afaab322/b3642581-3274-40c1-b0a0-66bf55989927.jpg",
+                "malId": 159863,
+                "aniId": 154277,
+                "page": "Mangadex",
+                "title": "Monster Holic",
+                "type": "manga",
+                "url": "https://mangadex.org/title/99024025-e988-42cf-84b3-aa68afaab322"
+            }
+        },
+        "Comick": {
+            "DAQ_F782": {
+                "identifier": "DAQ_F782",
+                "malId": 159863,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Monster Holic",
+                "url": "https://comick.io/comic/monster-holic",
+                "aniId": 154277
+            }
+        }
+    },
     "malId": 159863
 }

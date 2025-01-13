@@ -6,28 +6,6 @@
     "total": 2,
     "image": "https://cdn.myanimelist.net/images/manga/3/275375.jpg",
     "Sites": {
-        "MangaFire": {
-            "bleach-unmasked.mqv": {
-                "identifier": "bleach-unmasked.mqv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40d73ea7e1d88719bf9e2f03ded61c70.jpg",
-                "malId": 26133,
-                "aniId": 56133,
-                "page": "MangaFire",
-                "title": "Bleach Unmasked",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bleach-unmasked.mqv/"
-            },
-            "bleach-unmaskedd.mqv": {
-                "identifier": "bleach-unmaskedd.mqv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40d73ea7e1d88719bf9e2f03ded61c70.jpg",
-                "malId": 26133,
-                "aniId": 56133,
-                "page": "MangaFire",
-                "title": "Bleach Unmasked",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bleach-unmaskedd.mqv/"
-            }
-        },
         "Mangadex": {
             "0033cf32-ed14-41fc-9aba-a2bb5946f310": {
                 "identifier": "0033cf32-ed14-41fc-9aba-a2bb5946f310",
@@ -38,6 +16,18 @@
                 "title": "Bleach Unmasked",
                 "type": "manga",
                 "url": "https://mangadex.org/title/0033cf32-ed14-41fc-9aba-a2bb5946f310"
+            }
+        },
+        "MangaFire": {
+            "mqv": {
+                "identifier": "mqv",
+                "image": "https://static.mangafire.to/3b2d5/i/4/40/40d73ea7e1d88719bf9e2f03ded61c70.jpg",
+                "malId": 26133,
+                "aniId": 56133,
+                "page": "MangaFire",
+                "title": "Bleach Unmasked",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bleach-unmaskedd.mqv/"
             }
         },
         "Comick": {

@@ -28,7 +28,7 @@
                 "page": "Gogoanime",
                 "title": "Beyblade X",
                 "type": "anime",
-                "url": "https://anitaku.pe/category/beyblade-x"
+                "url": "https://anitaku.bz/category/beyblade-x"
             },
             "beyblade-x-dub": {
                 "identifier": "beyblade-x-dub",
@@ -38,7 +38,7 @@
                 "page": "Gogoanime",
                 "title": "Beyblade X (Dub)",
                 "type": "anime",
-                "url": "https://anitaku.pe/category/beyblade-x-dub"
+                "url": "https://anitaku.bz/category/beyblade-x-dub"
             }
         },
         "animepahe": {
@@ -52,14 +52,15 @@
                 "aniId": 165159
             }
         },
-        "YugenAnime": {
-            "18516": {
-                "identifier": "18516",
-                "malId": 56566,
+        "Netflix": {
+            "0": {
+                "title": "BEYBLADE X",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
+                "identifier": 0,
+                "url": "https://www.netflix.com/title/81924739",
                 "type": "anime",
-                "page": "YugenAnime",
-                "title": "Beyblade X",
-                "url": "https://yugenanime.tv/anime/18516/beyblade-x/",
+                "page": "Netflix",
+                "external": true,
                 "aniId": 165159
             }
         }

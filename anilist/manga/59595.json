@@ -6,18 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/48461.jpg",
     "Sites": {
-        "MangaFire": {
-            "onihei-hankachou.zlryw": {
-                "identifier": "onihei-hankachou.zlryw",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d489fd996ea033047bdd383ba92e1434.jpg",
-                "malId": 29595,
-                "aniId": 59595,
-                "page": "MangaFire",
-                "title": "Onihei Hankachou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onihei-hankachou.zlryw/"
-            }
-        },
         "Mangadex": {
             "197a27f5-835f-49eb-a91a-9751fe73335e": {
                 "identifier": "197a27f5-835f-49eb-a91a-9751fe73335e",
@@ -28,6 +16,18 @@
                 "title": "Onihei Hankachou",
                 "type": "manga",
                 "url": "https://mangadex.org/title/197a27f5-835f-49eb-a91a-9751fe73335e"
+            }
+        },
+        "MangaFire": {
+            "zlryw": {
+                "identifier": "zlryw",
+                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d489fd996ea033047bdd383ba92e1434.jpg",
+                "malId": 29595,
+                "aniId": 59595,
+                "page": "MangaFire",
+                "title": "Onihei Hankachou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/onihei-hankachou.zlryw/"
             }
         },
         "Comick": {

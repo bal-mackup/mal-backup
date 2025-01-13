@@ -6,6 +6,42 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/anime/1026/146459.jpg",
     "anidbId": 18654,
-    "Sites": {},
+    "Sites": {
+        "Zoro": {
+            "19431": {
+                "identifier": "19431",
+                "image": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bbe7ece956bbefc6f385a7a447c182c.jpg",
+                "malId": 58939,
+                "aniId": 177709,
+                "page": "Zoro",
+                "title": "Sakamoto Days",
+                "type": "anime",
+                "url": "https://hianime.to/sakamoto-days-19431"
+            }
+        },
+        "animepahe": {
+            "5857": {
+                "identifier": "5857",
+                "malId": 58939,
+                "type": "anime",
+                "page": "animepahe",
+                "title": "Sakamoto Days",
+                "url": "https://animepahe.ru/a/5857",
+                "aniId": 177709
+            }
+        },
+        "Netflix": {
+            "0": {
+                "title": "SAKAMOTO DAYS",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-jBQ965JZG0l8.png",
+                "identifier": 0,
+                "url": "https://www.netflix.com/title/81663325",
+                "type": "anime",
+                "page": "Netflix",
+                "external": true,
+                "aniId": 177709
+            }
+        }
+    },
     "aniId": 177709
 }

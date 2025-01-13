@@ -6,28 +6,6 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/289580.jpg",
     "Sites": {
-        "MangaFire": {
-            "blacksmith-zig.6wy70": {
-                "identifier": "blacksmith-zig.6wy70",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/ce03040ce94ad65e498d2b4f893fa8af.jpg",
-                "malId": 163180,
-                "aniId": 171415,
-                "page": "MangaFire",
-                "title": "Blacksmith Zig",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blacksmith-zig.6wy70/"
-            },
-            "blacksmith-zigg.6wy70": {
-                "identifier": "blacksmith-zigg.6wy70",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/ce03040ce94ad65e498d2b4f893fa8af.jpg",
-                "malId": 163180,
-                "aniId": 171415,
-                "page": "MangaFire",
-                "title": "Blacksmith Zig",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blacksmith-zigg.6wy70/"
-            }
-        },
         "Mangadex": {
             "eee27a2a-82ce-49bf-8d1a-80d8c1595db2": {
                 "identifier": "eee27a2a-82ce-49bf-8d1a-80d8c1595db2",
@@ -64,13 +42,25 @@
                 "url": "https://fanfox.net/manga/blacksmith_zig/"
             }
         },
+        "MangaFire": {
+            "6wy70": {
+                "identifier": "6wy70",
+                "image": "https://static.mangafire.to/b361/i/c/ce/ce03040ce94ad65e498d2b4f893fa8af.jpg",
+                "malId": 163180,
+                "aniId": 171415,
+                "page": "MangaFire",
+                "title": "Blacksmith Zig",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/blacksmith-zigg.6wy70"
+            }
+        },
         "Comick": {
             "M0f7bspu": {
                 "identifier": "M0f7bspu",
                 "malId": 163180,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Blacksmith Zig",
+                "title": "Zig the Blacksmith",
                 "url": "https://comick.io/comic/00-blacksmith-zig",
                 "aniId": 171415
             }
