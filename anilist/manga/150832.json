@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "oh_dear_nemesis": {
+                "id": 109438,
                 "identifier": "oh_dear_nemesis",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42525/cover.jpg",
                 "malId": 149193,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "5e56feef-0277-4af9-8a3e-ce7ecc3bcdce": {
+                "id": 109442,
                 "identifier": "5e56feef-0277-4af9-8a3e-ce7ecc3bcdce",
                 "image": "https://uploads.mangadex.org/covers/5e56feef-0277-4af9-8a3e-ce7ecc3bcdce/5dc00cf9-cce6-4d4d-bbd3-e0180f313e69.jpg",
                 "malId": 149193,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-rv994978": {
+                "id": 153774,
                 "identifier": "manga-rv994978",
                 "image": "https://avt.mkklcdnv6temp.com/fld/60/t/14-1733304249-nw.webp",
                 "malId": 149193,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-rv994978"
             }
         },
-        "MangaFire": {
-            "dear-nemesis.29kq4": {
-                "identifier": "dear-nemesis.29kq4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38c4f66607e7f5f2250abc060b10a0ff.jpg",
-                "malId": 149193,
-                "aniId": 150832,
-                "page": "MangaFire",
-                "title": "Dear Nemesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dear-nemesis.29kq4/"
-            },
-            "dear-nemesiss.29kq4": {
-                "identifier": "dear-nemesiss.29kq4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38c4f66607e7f5f2250abc060b10a0ff.jpg",
-                "malId": 149193,
-                "aniId": 150832,
-                "page": "MangaFire",
-                "title": "Dear Nemesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dear-nemesiss.29kq4/"
-            }
-        },
         "MangaSee": {
             "dear-nemesis": {
+                "id": 178991,
                 "identifier": "dear-nemesis",
                 "image": "https://temp.compsci88.com/cover/Dear-Nemesis.jpg",
                 "malId": 149193,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygtsv5h586382mx7pb6h": {
+                "id": 207695,
                 "identifier": "01j76xygtsv5h586382mx7pb6h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGTSV5H586382MX7PB6H.jpg",
                 "malId": 149193,
@@ -86,6 +69,19 @@
                 "title": "Dear Nemesis",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGTSV5H586382MX7PB6H"
+            }
+        },
+        "MangaFire": {
+            "29kq4": {
+                "id": 223883,
+                "identifier": "29kq4",
+                "image": "https://static.mangafire.to/c73d/i/3/38/38c4f66607e7f5f2250abc060b10a0ff.jpg",
+                "malId": 149193,
+                "aniId": 150832,
+                "page": "MangaFire",
+                "title": "Dear Nemesis",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dear-nemesiss.29kq4"
             }
         }
     },

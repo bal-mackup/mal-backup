@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38da00b9-ed5d-4bc5-b52b-a393a660cc72": {
+                "id": 104040,
                 "identifier": "38da00b9-ed5d-4bc5-b52b-a393a660cc72",
                 "image": "https://uploads.mangadex.org/covers/38da00b9-ed5d-4bc5-b52b-a393a660cc72/4b538c25-10b9-49a4-9080-eef94211c99f.jpg",
                 "malId": 146594,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ow991805": {
+                "id": 111042,
                 "identifier": "manga-ow991805",
                 "image": "https://avt.mkklcdnv6temp.com/32/a/26-1658462651.jpg",
                 "malId": 146594,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-ow991805"
             }
         },
-        "MangaFire": {
-            "fundari-kettari-aishitari.n3o3j": {
-                "identifier": "fundari-kettari-aishitari.n3o3j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38f458037650389995c4b7bc2dd5e524.jpg",
-                "malId": 146594,
-                "aniId": 139654,
-                "page": "MangaFire",
-                "title": "Fundari, Kettari, Aishitari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fundari-kettari-aishitari.n3o3j/"
-            }
-        },
         "MangaFox": {
             "fundari_kettari_aishitari": {
+                "id": 181456,
                 "identifier": "fundari_kettari_aishitari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41926/cover.jpg",
                 "malId": 146594,
@@ -52,6 +43,19 @@
                 "title": "Fundari, Kettari, Aishitari",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/fundari_kettari_aishitari/"
+            }
+        },
+        "MangaFire": {
+            "n3o3j": {
+                "id": 253112,
+                "identifier": "n3o3j",
+                "image": "https://static.mangafire.to/9090/i/3/38/38f458037650389995c4b7bc2dd5e524.jpg",
+                "malId": 146594,
+                "aniId": 139654,
+                "page": "MangaFire",
+                "title": "Fundari, Kettari, Aishitari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fundari-kettari-aishitarii.n3o3j"
             }
         },
         "Comick": {

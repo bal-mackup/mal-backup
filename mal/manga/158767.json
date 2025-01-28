@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1843a73d-9e67-4166-baec-582ce674d07e": {
+                "id": 123536,
                 "identifier": "1843a73d-9e67-4166-baec-582ce674d07e",
                 "image": "https://uploads.mangadex.org/covers/1843a73d-9e67-4166-baec-582ce674d07e/c100442c-1794-4e0f-8f02-ef0f4f4610c1.jpg",
                 "malId": 158767,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/1843a73d-9e67-4166-baec-582ce674d07e"
             }
         },
-        "MangaFire": {
-            "quartz-no-oukoku.3plpy": {
-                "identifier": "quartz-no-oukoku.3plpy",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95cbfff0ead18643040289ebec7ec152.jpg",
-                "malId": 158767,
-                "aniId": 161718,
-                "page": "MangaFire",
-                "title": "Quartz no Oukoku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/quartz-no-oukoku.3plpy/"
-            },
-            "quartz-no-oukokuu.3plpy": {
-                "identifier": "quartz-no-oukokuu.3plpy",
-                "image": "https://static.mangafire.to/bb91/i/9/95/95cbfff0ead18643040289ebec7ec152.jpg",
-                "malId": 158767,
-                "aniId": 161718,
-                "page": "MangaFire",
-                "title": "Quartz no Oukoku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/quartz-no-oukokuu.3plpy/"
-            }
-        },
         "MangaSee": {
             "a-kingdom-of-quartz": {
+                "id": 182763,
                 "identifier": "a-kingdom-of-quartz",
                 "image": "https://temp.compsci88.com/cover/A-Kingdom-of-Quartz.jpg",
                 "malId": 158767,
@@ -54,6 +34,7 @@
         },
         "MangaNato": {
             "manga-xe1000939": {
+                "id": 184249,
                 "identifier": "manga-xe1000939",
                 "image": "https://avt.mkklcdnv6temp.com/fld/88/h/16-1733319776-nw.webp",
                 "malId": 158767,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygyqkq7vr1vj5x7qa1ww": {
+                "id": 213841,
                 "identifier": "01j76xygyqkq7vr1vj5x7qa1ww",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGYQKQ7VR1VJ5X7QA1WW.jpg",
                 "malId": 158767,
@@ -74,6 +56,19 @@
                 "title": "A Kingdom of Quartz",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGYQKQ7VR1VJ5X7QA1WW"
+            }
+        },
+        "MangaFire": {
+            "3plpy": {
+                "id": 223329,
+                "identifier": "3plpy",
+                "image": "https://static.mangafire.to/bb91/i/9/95/95cbfff0ead18643040289ebec7ec152.jpg",
+                "malId": 158767,
+                "aniId": 161718,
+                "page": "MangaFire",
+                "title": "Quartz no Oukoku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/quartz-no-oukokuu.3plpy"
             }
         },
         "Comick": {

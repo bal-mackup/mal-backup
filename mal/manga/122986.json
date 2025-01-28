@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "737c292b-5b97-41bb-8b04-51bcc945f7a7": {
+                "id": 31803,
                 "identifier": "737c292b-5b97-41bb-8b04-51bcc945f7a7",
                 "image": "https://uploads.mangadex.org/covers/737c292b-5b97-41bb-8b04-51bcc945f7a7/b7279ed6-7c3b-4d82-a42d-5c5eb2ff0eb5.jpg",
                 "malId": 122986,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "garbage-brave": {
+                "id": 58191,
                 "identifier": "garbage-brave",
                 "image": "https://temp.compsci88.com/cover/Garbage-Brave.jpg",
                 "malId": 122986,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "garbage_brave_isekai_ni_shoukan_sare_suterareta_yuusha_no_fukushuu_monogatari": {
+                "id": 61440,
                 "identifier": "garbage_brave_isekai_ni_shoukan_sare_suterareta_yuusha_no_fukushuu_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32812/cover.jpg",
                 "malId": 122986,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gg984163": {
+                "id": 73736,
                 "identifier": "manga-gg984163",
                 "image": "https://avt.mkklcdnv6temp.com/15/v/20-1583501638.jpg",
                 "malId": 122986,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-gg984163"
             }
         },
-        "MangaFire": {
-            "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari.rj2rp": {
-                "identifier": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari.rj2rp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14a3da25dadfe577900db760a5c332a4.jpg",
-                "malId": 122986,
-                "aniId": 117964,
-                "page": "MangaFire",
-                "title": "Garbage Brave: Isekai ni Shoukan Sare Suterareta Yuusha no Fukushuu Monogatari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari.rj2rp/"
-            },
-            "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatarii.rj2rp": {
-                "identifier": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatarii.rj2rp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14a3da25dadfe577900db760a5c332a4.jpg",
-                "malId": 122986,
-                "aniId": 117964,
-                "page": "MangaFire",
-                "title": "Garbage Brave: Isekai ni Shoukan Sare Suterareta Yuusha no Fukushuu Monogatari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatarii.rj2rp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd7p7gq22v9nc45qah1n": {
+                "id": 208730,
                 "identifier": "01j76xyd7p7gq22v9nc45qah1n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD7P7GQ22V9NC45QAH1N.jpg",
                 "malId": 122986,
@@ -86,6 +69,19 @@
                 "title": "Garbage Brave",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD7P7GQ22V9NC45QAH1N"
+            }
+        },
+        "MangaFire": {
+            "rj2rp": {
+                "id": 226370,
+                "identifier": "rj2rp",
+                "image": "https://static.mangafire.to/f165/i/1/14/14a3da25dadfe577900db760a5c332a4.jpg",
+                "malId": 122986,
+                "aniId": 117964,
+                "page": "MangaFire",
+                "title": "Garbage Brave: Isekai ni Shoukan Sare Suterareta Yuusha no Fukushuu Monogatari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatarii.rj2rp"
             }
         },
         "Comick": {

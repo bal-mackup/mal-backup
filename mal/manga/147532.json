@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1a008e7e-0885-4830-92c6-16b3bbe4f5d4": {
+                "id": 34517,
                 "identifier": "1a008e7e-0885-4830-92c6-16b3bbe4f5d4",
                 "image": "https://uploads.mangadex.org/covers/1a008e7e-0885-4830-92c6-16b3bbe4f5d4/d7223fc4-c05d-4a95-bfbe-ab6d08836d5e.png",
                 "malId": 147532,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "god-of-blackfield": {
+                "id": 55814,
                 "identifier": "god-of-blackfield",
                 "image": "https://temp.compsci88.com/cover/God-of-Blackfield.jpg",
                 "malId": 147532,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "god_of_blackfield": {
+                "id": 60185,
                 "identifier": "god_of_blackfield",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33513/cover.jpg",
                 "malId": 147532,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hf985162": {
+                "id": 74678,
                 "identifier": "manga-hf985162",
                 "image": "https://avt.mkklcdnv6temp.com/3/y/21-1587115897.jpg",
                 "malId": 147532,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-hf985162"
             }
         },
-        "MangaFire": {
-            "god-of-blackfield.02p69": {
-                "identifier": "god-of-blackfield.02p69",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45e6e25ac2b77200054d131cf8c342e4.jpg",
-                "malId": 147532,
-                "aniId": 118267,
-                "page": "MangaFire",
-                "title": "God of Blackfield",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/god-of-blackfield.02p69/"
-            },
-            "god-of-blackfieldd.02p69": {
-                "identifier": "god-of-blackfieldd.02p69",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45e6e25ac2b77200054d131cf8c342e4.jpg",
-                "malId": 147532,
-                "aniId": 118267,
-                "page": "MangaFire",
-                "title": "God of Blackfield",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/god-of-blackfieldd.02p69/"
-            }
-        },
         "Weebcentral": {
             "01j76xydsx2dkcaw80sxkqxqe0": {
+                "id": 206273,
                 "identifier": "01j76xydsx2dkcaw80sxkqxqe0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDSX2DKCAW80SXKQXQE0.jpg",
                 "malId": 147532,
@@ -86,6 +69,19 @@
                 "title": "God of Blackfield",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDSX2DKCAW80SXKQXQE0"
+            }
+        },
+        "MangaFire": {
+            "02p69": {
+                "id": 223868,
+                "identifier": "02p69",
+                "image": "https://static.mangafire.to/a4ed/i/4/45/45e6e25ac2b77200054d131cf8c342e4.jpg",
+                "malId": 147532,
+                "aniId": 118267,
+                "page": "MangaFire",
+                "title": "God of Blackfield",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/god-of-blackfieldd.02p69"
             }
         },
         "Comick": {

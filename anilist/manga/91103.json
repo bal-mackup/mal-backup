@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e71f2fa1-8047-4ac1-81af-ad37387af38f": {
+                "id": 19659,
                 "identifier": "e71f2fa1-8047-4ac1-81af-ad37387af38f",
                 "image": "https://uploads.mangadex.org/covers/e71f2fa1-8047-4ac1-81af-ad37387af38f/94207dc3-98e1-4197-80a4-a324d9fba052.jpg",
                 "malId": 70035,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "haratama-kiyotama": {
+                "id": 93357,
                 "identifier": "haratama-kiyotama",
                 "image": "https://temp.compsci88.com/cover/Haratama-Kiyotama.jpg",
                 "malId": 70035,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Haratama-Kiyotama"
             }
         },
-        "MangaFire": {
-            "haratama-kiyotama.yk1wx": {
-                "identifier": "haratama-kiyotama.yk1wx",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d751a8521aa12cc1318c822bb179b8fd.jpg",
-                "malId": 70035,
-                "aniId": 91103,
-                "page": "MangaFire",
-                "title": "Oh God! Dear God!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/haratama-kiyotama.yk1wx/"
-            },
-            "yk1wx": {
-                "identifier": "yk1wx",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d751a8521aa12cc1318c822bb179b8fd.jpg",
-                "malId": 70035,
-                "aniId": 91103,
-                "page": "MangaFire",
-                "title": "Oh God! Dear God!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/haratama-kiyotama.yk1wx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb7vj469f394nrd4ahbb": {
+                "id": 211731,
                 "identifier": "01j76xyb7vj469f394nrd4ahbb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB7VJ469F394NRD4AHBB.jpg",
                 "malId": 70035,
@@ -62,6 +43,19 @@
                 "title": "Haratama Kiyotama",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB7VJ469F394NRD4AHBB"
+            }
+        },
+        "MangaFire": {
+            "yk1wx": {
+                "id": 254916,
+                "identifier": "yk1wx",
+                "image": "https://static.mangafire.to/212e/i/d/d7/d751a8521aa12cc1318c822bb179b8fd.jpg",
+                "malId": 70035,
+                "aniId": 91103,
+                "page": "MangaFire",
+                "title": "Oh God! Dear God!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/haratama-kiyotamaa.yk1wx"
             }
         },
         "Comick": {

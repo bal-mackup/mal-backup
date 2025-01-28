@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1e998205-8c48-4e27-b82b-a01b2d3b1f52": {
+                "id": 53315,
                 "identifier": "1e998205-8c48-4e27-b82b-a01b2d3b1f52",
                 "image": "https://uploads.mangadex.org/covers/1e998205-8c48-4e27-b82b-a01b2d3b1f52/16b5f667-80c8-4dda-9302-7e13bfbb495a.jpg",
                 "malId": 147843,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "worn-and-torn-newbie": {
+                "id": 59326,
                 "identifier": "worn-and-torn-newbie",
                 "image": "https://temp.compsci88.com/cover/Worn-and-Torn-Newbie.jpg",
                 "malId": 147843,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ki987365": {
+                "id": 73492,
                 "identifier": "manga-ki987365",
                 "image": "https://avt.mkklcdnv6temp.com/44/v/22-1607602594.jpg",
                 "malId": 147843,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ki987365"
             }
         },
-        "MangaFire": {
-            "worn-and-torn-newbie.orx5": {
-                "identifier": "worn-and-torn-newbie.orx5",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e730a274f16e9d0b314786fb847c556.jpg",
-                "malId": 147843,
-                "aniId": 127102,
-                "page": "MangaFire",
-                "title": "The Worn and Torn Newbie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/worn-and-torn-newbie.orx5/"
-            },
-            "worn-and-torn-newbiee.orx5": {
-                "identifier": "worn-and-torn-newbiee.orx5",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e730a274f16e9d0b314786fb847c556.jpg",
-                "malId": 147843,
-                "aniId": 127102,
-                "page": "MangaFire",
-                "title": "The Worn and Torn Newbie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/worn-and-torn-newbiee.orx5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeatp40dkm6c5a59v2ft": {
+                "id": 212291,
                 "identifier": "01j76xyeatp40dkm6c5a59v2ft",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEATP40DKM6C5A59V2FT.jpg",
                 "malId": 147843,
@@ -74,6 +56,19 @@
                 "title": "The Worn and Torn Newbie",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEATP40DKM6C5A59V2FT"
+            }
+        },
+        "MangaFire": {
+            "orx5": {
+                "id": 225146,
+                "identifier": "orx5",
+                "image": "https://static.mangafire.to/af32/i/4/4e/4e730a274f16e9d0b314786fb847c556.jpg",
+                "malId": 147843,
+                "aniId": 127102,
+                "page": "MangaFire",
+                "title": "The Worn and Torn Newbie",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/worn-and-torn-newbiee.orx5"
             }
         },
         "Comick": {

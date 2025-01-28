@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b3bdcdbb-d920-4f59-bdc1-cf9240fc1c56": {
+                "id": 90335,
                 "identifier": "b3bdcdbb-d920-4f59-bdc1-cf9240fc1c56",
                 "image": "https://uploads.mangadex.org/covers/b3bdcdbb-d920-4f59-bdc1-cf9240fc1c56/08540cee-2f69-4ab2-b04b-eec4696fc0d8.jpg",
                 "malId": 145365,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bonkotsu-shinpei-no-monster-life": {
+                "id": 114363,
                 "identifier": "bonkotsu-shinpei-no-monster-life",
                 "image": "https://temp.compsci88.com/cover/Bonkotsu-Shinpei-No-Monster-Life.jpg",
                 "malId": 145365,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zi1002617": {
+                "id": 193114,
                 "identifier": "manga-zi1002617",
                 "image": "https://avt.mkklcdnv6temp.com/14/k/35-1721903335.jpg",
                 "malId": 145365,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "bonkotsu_shinpei_no_monster_life": {
+                "id": 195203,
                 "identifier": "bonkotsu_shinpei_no_monster_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46369/cover.jpg",
                 "malId": 145365,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/bonkotsu_shinpei_no_monster_life/"
             }
         },
-        "MangaFire": {
-            "bonkotsu-shinpei-no-monster-life-at-comic.qnolj": {
-                "identifier": "bonkotsu-shinpei-no-monster-life-at-comic.qnolj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/b41c4abbc3ea1493f971b3423a977afe.jpg",
-                "malId": 145365,
-                "aniId": 151534,
-                "page": "MangaFire",
-                "title": "Bonkotsu Shinpei no Monster Life@COMIC",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bonkotsu-shinpei-no-monster-life-at-comic.qnolj/"
-            },
-            "bonkotsu-shinpei-no-monster-life-at-comicc.qnolj": {
-                "identifier": "bonkotsu-shinpei-no-monster-life-at-comicc.qnolj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/b41c4abbc3ea1493f971b3423a977afe.jpg",
-                "malId": 145365,
-                "aniId": 151534,
-                "page": "MangaFire",
-                "title": "Bonkotsu Shinpei no Monster Life@COMIC",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bonkotsu-shinpei-no-monster-life-at-comicc.qnolj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnjf3abnc0f29bpxhp9": {
+                "id": 212191,
                 "identifier": "01j76xyfnjf3abnc0f29bpxhp9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNJF3ABNC0F29BPXHP9.jpg",
                 "malId": 145365,
@@ -86,6 +69,19 @@
                 "title": "Bonkotsu Shinpei No Monster Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNJF3ABNC0F29BPXHP9"
+            }
+        },
+        "MangaFire": {
+            "qnolj": {
+                "id": 225009,
+                "identifier": "qnolj",
+                "image": "https://static.mangafire.to/5ba0/i/5/5d/b41c4abbc3ea1493f971b3423a977afe.jpg",
+                "malId": 145365,
+                "aniId": 151534,
+                "page": "MangaFire",
+                "title": "Bonkotsu Shinpei no Monster Life@COMIC",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bonkotsu-shinpei-no-monster-life-at-comicc.qnolj"
             }
         },
         "Comick": {

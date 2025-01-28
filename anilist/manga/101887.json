@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a1806621-3208-4634-92b6-72fcb198814e": {
+                "id": 12743,
                 "identifier": "a1806621-3208-4634-92b6-72fcb198814e",
                 "image": "https://uploads.mangadex.org/covers/a1806621-3208-4634-92b6-72fcb198814e/15ccacc2-fba1-4464-9256-6171c5a26ac1.jpg",
                 "malId": 111720,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "lan_chi": {
+                "id": 65203,
                 "identifier": "lan_chi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15386/cover.jpg",
                 "malId": 111720,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "lan-chi": {
+                "id": 69880,
                 "identifier": "lan-chi",
                 "image": "https://temp.compsci88.com/cover/Lan-Chi.jpg",
                 "malId": 111720,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-oo951397": {
+                "id": 75855,
                 "identifier": "manga-oo951397",
                 "image": "https://avt.mkklcdnv6temp.com/3/j/1-1583463798.jpg",
                 "malId": 111720,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-oo951397"
             },
             "manga-ln988448": {
+                "id": 80882,
                 "identifier": "manga-ln988448",
                 "image": "https://avt.mkklcdnv6temp.com/39/d/23-1615179678.jpg",
                 "malId": 111720,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ln988448"
             }
         },
-        "MangaFire": {
-            "lan-chi.6l3q0": {
-                "identifier": "lan-chi.6l3q0",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c9/c95ff42fc09175361c6df2774417a32f.jpg",
-                "malId": 111720,
-                "aniId": 101887,
-                "page": "MangaFire",
-                "title": "Blue Wings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lan-chi.6l3q0/"
-            },
-            "6l3q0": {
-                "identifier": "6l3q0",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c9/c95ff42fc09175361c6df2774417a32f.jpg",
-                "malId": 111720,
-                "aniId": 101887,
-                "page": "MangaFire",
-                "title": "Blue Wings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lan-chi.6l3q0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybbcnnkqnwcyn80hr51m": {
+                "id": 214200,
                 "identifier": "01j76xybbcnnkqnwcyn80hr51m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBBCNNKQNWCYN80HR51M.jpg",
                 "malId": 111720,
@@ -96,6 +80,19 @@
                 "title": "Blue Wings",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBBCNNKQNWCYN80HR51M"
+            }
+        },
+        "MangaFire": {
+            "6l3q0": {
+                "id": 261432,
+                "identifier": "6l3q0",
+                "image": "https://static.mangafire.to/0e18/i/c/c9/c95ff42fc09175361c6df2774417a32f.jpg",
+                "malId": 111720,
+                "aniId": 101887,
+                "page": "MangaFire",
+                "title": "Blue Wings",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lan-chii.6l3q0"
             }
         },
         "Comick": {

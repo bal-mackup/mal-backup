@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "88b56b5c-5693-4f3e-b36c-557184850917": {
+                "id": 54900,
                 "identifier": "88b56b5c-5693-4f3e-b36c-557184850917",
                 "image": "https://uploads.mangadex.org/covers/88b56b5c-5693-4f3e-b36c-557184850917/907ac6b1-8a89-4213-b9f9-a060bb542c0e.jpg",
                 "malId": 139238,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kh987842": {
+                "id": 92298,
                 "identifier": "manga-kh987842",
                 "image": "https://avt.mkklcdnv6temp.com/14/d/23-1612061496.jpg",
                 "malId": 139238,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-kh987842"
             }
         },
-        "MangaFire": {
-            "hamuko-to-gao-kun.8079y": {
-                "identifier": "hamuko-to-gao-kun.8079y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24875ed624dbb27f965cafab258d1f9e.jpg",
-                "malId": 139238,
-                "aniId": 125031,
-                "page": "MangaFire",
-                "title": "Hamuko and Gao-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hamuko-to-gao-kun.8079y/"
-            }
-        },
         "MangaFox": {
             "hamuko_to_gao_kun": {
+                "id": 188819,
                 "identifier": "hamuko_to_gao_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36921/cover.jpg",
                 "malId": 139238,
@@ -52,6 +43,19 @@
                 "title": "Hamuko to Gao-kun",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/hamuko_to_gao_kun/"
+            }
+        },
+        "MangaFire": {
+            "8079y": {
+                "id": 259552,
+                "identifier": "8079y",
+                "image": "https://static.mangafire.to/db28/i/2/24/24875ed624dbb27f965cafab258d1f9e.jpg",
+                "malId": 139238,
+                "aniId": 125031,
+                "page": "MangaFire",
+                "title": "Hamuko and Gao-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hamuko-to-gao-kunn.8079y"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c288b108-5162-4065-aa3a-5857ec38c8d9": {
+                "id": 94960,
                 "identifier": "c288b108-5162-4065-aa3a-5857ec38c8d9",
                 "image": "https://uploads.mangadex.org/covers/c288b108-5162-4065-aa3a-5857ec38c8d9/c52c1a23-4404-4dee-bb02-6fc6ed2ee380.jpg",
                 "malId": 143425,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hikikomari_kyuuketsuki_no_monmon_novel": {
+                "id": 121814,
                 "identifier": "hikikomari_kyuuketsuki_no_monmon_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40943/cover.jpg",
                 "malId": 143425,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/hikikomari_kyuuketsuki_no_monmon_novel/"
             },
             "hikikomari_kyuuketsuki_no_monmon": {
+                "id": 187643,
                 "identifier": "hikikomari_kyuuketsuki_no_monmon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40943/cover.jpg",
                 "malId": 143425,
@@ -40,30 +43,9 @@
                 "url": "https://fanfox.net/manga/hikikomari_kyuuketsuki_no_monmon/"
             }
         },
-        "MangaFire": {
-            "hikikomari-kyuuketsuki-no-monmon.m29z8": {
-                "identifier": "hikikomari-kyuuketsuki-no-monmon.m29z8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3be1fd2f7b496c689d264839cb97de17.jpg",
-                "malId": 143425,
-                "aniId": 139418,
-                "page": "MangaFire",
-                "title": "Hikikomari Kyuuketsuki no Monmon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hikikomari-kyuuketsuki-no-monmon.m29z8/"
-            },
-            "hikikomari-kyuuketsuki-no-monmonn.m29z8": {
-                "identifier": "hikikomari-kyuuketsuki-no-monmonn.m29z8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3be1fd2f7b496c689d264839cb97de17.jpg",
-                "malId": 143425,
-                "aniId": 139418,
-                "page": "MangaFire",
-                "title": "Hikikomari Kyuuketsuki no Monmon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hikikomari-kyuuketsuki-no-monmonn.m29z8/"
-            }
-        },
         "MangaSee": {
             "hikikomari-kyuuketsuki-no-monmon": {
+                "id": 161905,
                 "identifier": "hikikomari-kyuuketsuki-no-monmon",
                 "image": "https://temp.compsci88.com/cover/Hikikomari-Kyuuketsuki-no-Monmon.jpg",
                 "malId": 143425,
@@ -76,6 +58,7 @@
         },
         "Weebcentral": {
             "01j76xyg9satreqp2jh86vwqb3": {
+                "id": 209839,
                 "identifier": "01j76xyg9satreqp2jh86vwqb3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG9SATREQP2JH86VWQB3.jpg",
                 "malId": 143425,
@@ -84,6 +67,19 @@
                 "title": "The Vexations of a Shut-in Vampire Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG9SATREQP2JH86VWQB3"
+            }
+        },
+        "MangaFire": {
+            "m29z8": {
+                "id": 233390,
+                "identifier": "m29z8",
+                "image": "https://static.mangafire.to/054e/i/3/3b/3be1fd2f7b496c689d264839cb97de17.jpg",
+                "malId": 143425,
+                "aniId": 139418,
+                "page": "MangaFire",
+                "title": "Hikikomari Kyuuketsuki no Monmon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hikikomari-kyuuketsuki-no-monmonn.m29z8"
             }
         },
         "Comick": {

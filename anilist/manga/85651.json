@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "39b511ae-4f31-4605-a7b5-9b9b857ce917": {
+                "id": 11703,
                 "identifier": "39b511ae-4f31-4605-a7b5-9b9b857ce917",
                 "image": "https://uploads.mangadex.org/covers/39b511ae-4f31-4605-a7b5-9b9b857ce917/027c3f40-5812-4ec0-b002-66cf3a280cab.png",
                 "malId": 80493,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mongrel": {
+                "id": 67425,
                 "identifier": "mongrel",
                 "image": "https://temp.compsci88.com/cover/Mongrel.jpg",
                 "malId": 80493,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Mongrel"
             }
         },
-        "MangaFire": {
-            "mongrel.1no6v": {
-                "identifier": "mongrel.1no6v",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74bf32dec2abd6de2c74919f84be27b4.jpg",
-                "malId": 80493,
-                "aniId": 85651,
-                "page": "MangaFire",
-                "title": "MONGREL",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mongrel.1no6v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyafqctp6sm3150c5cxh5": {
+                "id": 209283,
                 "identifier": "01j76xyafqctp6sm3150c5cxh5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAFQCTP6SM3150C5CXH5.jpg",
                 "malId": 80493,
@@ -56,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gr954652": {
+                "id": 221022,
                 "identifier": "manga-gr954652",
                 "image": "https://avt.mkklcdnv6temp.com/fld/15/z/2-1732721240-nw.webp",
                 "malId": 80493,
@@ -64,6 +56,19 @@
                 "title": "Mongrel",
                 "type": "manga",
                 "url": "https://manganato.com/manga-gr954652"
+            }
+        },
+        "MangaFire": {
+            "1no6v": {
+                "id": 255366,
+                "identifier": "1no6v",
+                "image": "https://static.mangafire.to/57bc/i/7/74/74bf32dec2abd6de2c74919f84be27b4.jpg",
+                "malId": 80493,
+                "aniId": 85651,
+                "page": "MangaFire",
+                "title": "MONGREL",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mongrell.1no6v"
             }
         },
         "Comick": {

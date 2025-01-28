@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "837e01d6-f59b-4c2a-b9f7-68469215d0c6": {
+                "id": 24220,
                 "identifier": "837e01d6-f59b-4c2a-b9f7-68469215d0c6",
                 "image": "https://uploads.mangadex.org/covers/837e01d6-f59b-4c2a-b9f7-68469215d0c6/cbcb02c1-bab9-499e-a840-2e1715555f56.jpg",
                 "malId": 116301,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "handyman-saitou-in-another-world": {
+                "id": 56250,
                 "identifier": "handyman-saitou-in-another-world",
                 "image": "https://temp.compsci88.com/cover/Handyman-Saitou-In-Another-World.jpg",
                 "malId": 116301,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "handyman_saitou_in_another_world": {
+                "id": 64434,
                 "identifier": "handyman_saitou_in_another_world",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28853/cover.jpg",
                 "malId": 116301,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-co980071": {
+                "id": 72941,
                 "identifier": "manga-co980071",
                 "image": "https://avt.mkklcdnv6temp.com/14/z/17-1583495803.jpg",
                 "malId": 116301,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-co980071"
             }
         },
-        "MangaFire": {
-            "handyman-saitou-in-another-world.rl12q": {
-                "identifier": "handyman-saitou-in-another-world.rl12q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17a85a47f95fc827baf25bc18fdf86ad.jpg",
-                "malId": 116301,
-                "aniId": 104730,
-                "page": "MangaFire",
-                "title": "Handyman Saito in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/handyman-saitou-in-another-world.rl12q/"
-            },
-            "handyman-saitou-in-another-worldd.rl12q": {
-                "identifier": "handyman-saitou-in-another-worldd.rl12q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17a85a47f95fc827baf25bc18fdf86ad.jpg",
-                "malId": 116301,
-                "aniId": 104730,
-                "page": "MangaFire",
-                "title": "Handyman Saito in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/handyman-saitou-in-another-worldd.rl12q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd9mhttqyqjvrs1g7e2y": {
+                "id": 212168,
                 "identifier": "01j76xyd9mhttqyqjvrs1g7e2y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD9MHTTQYQJVRS1G7E2Y.jpg",
                 "malId": 116301,
@@ -86,6 +69,19 @@
                 "title": "Handyman Saitou In Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD9MHTTQYQJVRS1G7E2Y"
+            }
+        },
+        "MangaFire": {
+            "rl12q": {
+                "id": 225168,
+                "identifier": "rl12q",
+                "image": "https://static.mangafire.to/bce3/i/1/17/17a85a47f95fc827baf25bc18fdf86ad.jpg",
+                "malId": 116301,
+                "aniId": 104730,
+                "page": "MangaFire",
+                "title": "Handyman Saito in Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/handyman-saitou-in-another-worldd.rl12q"
             }
         },
         "Comick": {

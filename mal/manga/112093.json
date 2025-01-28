@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3397fcf6-18bb-4983-8daa-2b0ccd79487e": {
+                "id": 12540,
                 "identifier": "3397fcf6-18bb-4983-8daa-2b0ccd79487e",
                 "image": "https://uploads.mangadex.org/covers/3397fcf6-18bb-4983-8daa-2b0ccd79487e/65b1d7d9-a776-4590-8fa0-7264de7dda68.jpg",
                 "malId": 112093,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/3397fcf6-18bb-4983-8daa-2b0ccd79487e"
             },
             "79d86067-98db-4459-9256-f2b1ffc51457": {
+                "id": 24260,
                 "identifier": "79d86067-98db-4459-9256-f2b1ffc51457",
                 "image": "https://uploads.mangadex.org/covers/79d86067-98db-4459-9256-f2b1ffc51457/02d2b21b-d7a9-4aac-9d68-8f40206a4017.jpg",
                 "malId": 112093,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "sealed_divine_throne": {
+                "id": 59436,
                 "identifier": "sealed_divine_throne",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15100/cover.jpg",
                 "malId": 112093,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "shen-yin-wang-zuo": {
+                "id": 59620,
                 "identifier": "shen-yin-wang-zuo",
                 "image": "https://temp.compsci88.com/cover/Shen-Yin-Wang-Zuo.jpg",
                 "malId": 112093,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-oe951761": {
+                "id": 75171,
                 "identifier": "manga-oe951761",
                 "image": "https://avt.mkklcdnv6temp.com/15/x/1-1583464299.jpg",
                 "malId": 112093,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-oe951761"
             }
         },
-        "MangaFire": {
-            "shen-yin-wang-zuo.prmn9": {
-                "identifier": "shen-yin-wang-zuo.prmn9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68f2d4d2050ebbe62cf4f11cad66015b.jpg",
-                "malId": 112093,
-                "aniId": 85979,
-                "page": "MangaFire",
-                "title": "Shen Yin Wang Zuo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shen-yin-wang-zuo.prmn9/"
-            },
-            "shen-yin-wang-zuoo.prmn9": {
-                "identifier": "shen-yin-wang-zuoo.prmn9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68f2d4d2050ebbe62cf4f11cad66015b.jpg",
-                "malId": 112093,
-                "aniId": 85979,
-                "page": "MangaFire",
-                "title": "Shen Yin Wang Zuo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shen-yin-wang-zuoo.prmn9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6p6beetbg0dgrh8f7e": {
+                "id": 213609,
                 "identifier": "01j76xyb6p6beetbg0dgrh8f7e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6P6BEETBG0DGRH8F7E.jpg",
                 "malId": 112093,
@@ -96,6 +80,19 @@
                 "title": "Shen Yin Wang Zuo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6P6BEETBG0DGRH8F7E"
+            }
+        },
+        "MangaFire": {
+            "prmn9": {
+                "id": 228028,
+                "identifier": "prmn9",
+                "image": "https://static.mangafire.to/38eb/i/6/68/68f2d4d2050ebbe62cf4f11cad66015b.jpg",
+                "malId": 112093,
+                "aniId": 85979,
+                "page": "MangaFire",
+                "title": "Shen Yin Wang Zuo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shen-yin-wang-zuoo.prmn9"
             }
         },
         "Comick": {

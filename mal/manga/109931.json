@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e2271042-a6c5-4d1d-8212-0c99c3b6e9ab": {
+                "id": 18401,
                 "identifier": "e2271042-a6c5-4d1d-8212-0c99c3b6e9ab",
                 "image": "https://uploads.mangadex.org/covers/e2271042-a6c5-4d1d-8212-0c99c3b6e9ab/29ef8ba7-ffc5-450d-914b-701ac70aee22.jpg",
                 "malId": 109931,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shingan-no-yuusha": {
+                "id": 58188,
                 "identifier": "shingan-no-yuusha",
                 "image": "https://temp.compsci88.com/cover/Shingan-No-Yuusha.jpg",
                 "malId": 109931,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shingan_no_yuusha": {
+                "id": 61125,
                 "identifier": "shingan_no_yuusha",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26545/cover.jpg",
                 "malId": 109931,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-at977702": {
+                "id": 73928,
                 "identifier": "manga-at977702",
                 "image": "https://avt.mkklcdnv6temp.com/48/b/15-1583493395.jpg",
                 "malId": 109931,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-at977702"
             }
         },
-        "MangaFire": {
-            "shingan-no-yuusha.rl71m": {
-                "identifier": "shingan-no-yuusha.rl71m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/5726421f5636e14f86df15c556357e98.jpg",
-                "malId": 109931,
-                "aniId": 100214,
-                "page": "MangaFire",
-                "title": "The brave with God's eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shingan-no-yuusha.rl71m/"
-            },
-            "shingan-no-yuushaa.rl71m": {
-                "identifier": "shingan-no-yuushaa.rl71m",
-                "image": "https://static.mangafire.to/5d28/i/5/57/5726421f5636e14f86df15c556357e98.jpg",
-                "malId": 109931,
-                "aniId": 100214,
-                "page": "MangaFire",
-                "title": "The brave with God's eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shingan-no-yuushaa.rl71m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycbb25b3yc5w16j8080c": {
+                "id": 208642,
                 "identifier": "01j76xycbb25b3yc5w16j8080c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCBB25B3YC5W16J8080C.jpg",
                 "malId": 109931,
@@ -86,6 +69,19 @@
                 "title": "Shingan no Yuusha",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCBB25B3YC5W16J8080C"
+            }
+        },
+        "MangaFire": {
+            "rl71m": {
+                "id": 223529,
+                "identifier": "rl71m",
+                "image": "https://static.mangafire.to/5d28/i/5/57/5726421f5636e14f86df15c556357e98.jpg",
+                "malId": 109931,
+                "aniId": 100214,
+                "page": "MangaFire",
+                "title": "The brave with God's eyes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shingan-no-yuushaa.rl71m"
             }
         },
         "Comick": {

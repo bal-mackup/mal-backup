@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2f0b52dd-ab04-4ea7-b8e4-c21ff3997e9c": {
+                "id": 20510,
                 "identifier": "2f0b52dd-ab04-4ea7-b8e4-c21ff3997e9c",
                 "image": "https://uploads.mangadex.org/covers/2f0b52dd-ab04-4ea7-b8e4-c21ff3997e9c/e3c694d0-e41e-4331-91ee-e066df4146e3.jpg",
                 "malId": 113289,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bl-metamorphosis": {
+                "id": 57879,
                 "identifier": "bl-metamorphosis",
                 "image": "https://temp.compsci88.com/cover/BL-Metamorphosis.jpg",
                 "malId": 113289,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bs978827": {
+                "id": 95282,
                 "identifier": "manga-bs978827",
                 "image": "https://avt.mkklcdnv6temp.com/fld/65/z/8-1732790845-nw.webp",
                 "malId": 113289,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-bs978827"
             }
         },
-        "MangaFire": {
-            "metamorphose-no-engawa.3o26": {
-                "identifier": "metamorphose-no-engawa.3o26",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da9b9133b9992ea73d00fc1bcaee1a25.jpg",
-                "malId": 113289,
-                "aniId": 102043,
-                "page": "MangaFire",
-                "title": "BL Metamorphosis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/metamorphose-no-engawa.3o26/"
-            },
-            "3o26": {
-                "identifier": "3o26",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da9b9133b9992ea73d00fc1bcaee1a25.jpg",
-                "malId": 113289,
-                "aniId": 102043,
-                "page": "MangaFire",
-                "title": "BL Metamorphosis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/metamorphose-no-engawa.3o26/"
-            }
-        },
         "Weebcentral": {
             "01j76xydnjhkf2fmcj91s0vj2a": {
+                "id": 206869,
                 "identifier": "01j76xydnjhkf2fmcj91s0vj2a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDNJHKF2FMCJ91S0VJ2A.jpg",
                 "malId": 113289,
@@ -74,6 +56,19 @@
                 "title": "BL Metamorphosis",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDNJHKF2FMCJ91S0VJ2A"
+            }
+        },
+        "MangaFire": {
+            "3o26": {
+                "id": 262411,
+                "identifier": "3o26",
+                "image": "https://static.mangafire.to/70db/i/d/da/da9b9133b9992ea73d00fc1bcaee1a25.jpg",
+                "malId": 113289,
+                "aniId": 102043,
+                "page": "MangaFire",
+                "title": "BL Metamorphosis",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/metamorphose-no-engawaa.3o26"
             }
         },
         "Comick": {

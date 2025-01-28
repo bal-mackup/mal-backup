@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9b4b3140-7c1c-4583-aa1c-1bbbe240a8fa": {
+                "id": 19504,
                 "identifier": "9b4b3140-7c1c-4583-aa1c-1bbbe240a8fa",
                 "image": "https://uploads.mangadex.org/covers/9b4b3140-7c1c-4583-aa1c-1bbbe240a8fa/6f56c17e-3b06-48be-831a-49b9b2dec59f.jpg",
                 "malId": 103710,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sounan-desu-ka": {
+                "id": 55342,
                 "identifier": "sounan-desu-ka",
                 "image": "https://temp.compsci88.com/cover/Sounan-Desu-Ka.jpg",
                 "malId": 103710,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sounan_desu_ka": {
+                "id": 64304,
                 "identifier": "sounan_desu_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27749/cover.jpg",
                 "malId": 103710,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bm978847": {
+                "id": 79926,
                 "identifier": "manga-bm978847",
                 "image": "https://avt.mkklcdnv6temp.com/19/g/16-1583494165.jpg",
                 "malId": 103710,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bm978847"
             }
         },
-        "MangaFire": {
-            "sounan-desu-ka.llo36": {
-                "identifier": "sounan-desu-ka.llo36",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e59a0333a263d1bf5f20fb313adfa7d.jpg",
-                "malId": 103710,
-                "aniId": 99738,
-                "page": "MangaFire",
-                "title": "Are You Lost?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sounan-desu-ka.llo36/"
-            },
-            "sounan-desu-kaa.llo36": {
-                "identifier": "sounan-desu-kaa.llo36",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e59a0333a263d1bf5f20fb313adfa7d.jpg",
-                "malId": 103710,
-                "aniId": 99738,
-                "page": "MangaFire",
-                "title": "Are You Lost?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sounan-desu-kaa.llo36/"
-            },
-            "llo36": {
-                "identifier": "llo36",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e59a0333a263d1bf5f20fb313adfa7d.jpg",
-                "malId": 103710,
-                "aniId": 99738,
-                "page": "MangaFire",
-                "title": "Are You Lost?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sounan-desu-kaa.llo36/"
-            }
-        },
         "Weebcentral": {
             "01j76xycjwbctkq6k7ftbhp2g6": {
+                "id": 207659,
                 "identifier": "01j76xycjwbctkq6k7ftbhp2g6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJWBCTKQ6K7FTBHP2G6.jpg",
                 "malId": 103710,
@@ -96,6 +69,19 @@
                 "title": "Are You Lost?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJWBCTKQ6K7FTBHP2G6"
+            }
+        },
+        "MangaFire": {
+            "llo36": {
+                "id": 237976,
+                "identifier": "llo36",
+                "image": "https://static.mangafire.to/8d93/i/6/6e/6e59a0333a263d1bf5f20fb313adfa7d.jpg",
+                "malId": 103710,
+                "aniId": 99738,
+                "page": "MangaFire",
+                "title": "Are You Lost?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sounan-desu-kaa.llo36"
             }
         },
         "Comick": {

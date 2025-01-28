@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee376522-c8b1-45cc-ad08-f94c593b22d1": {
+                "id": 127004,
                 "identifier": "ee376522-c8b1-45cc-ad08-f94c593b22d1",
                 "image": "https://uploads.mangadex.org/covers/ee376522-c8b1-45cc-ad08-f94c593b22d1/1331fdff-4625-44ca-94e8-d478f1901e0e.jpg",
                 "malId": 154890,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/ee376522-c8b1-45cc-ad08-f94c593b22d1"
             }
         },
-        "MangaFire": {
-            "batsuichi-2-ri-wa-mitei-na-kankei.k3zp9": {
-                "identifier": "batsuichi-2-ri-wa-mitei-na-kankei.k3zp9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/bc4f170f79a90647c309962b383ddf63.jpg",
-                "malId": 154890,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Batsuichi 2-ri wa Mitei na Kankei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/batsuichi-2-ri-wa-mitei-na-kankei.k3zp9/"
-            }
-        },
         "MangaNato": {
             "manga-ad1003360": {
+                "id": 194960,
                 "identifier": "manga-ad1003360",
                 "image": "https://avt.mkklcdnv6temp.com/fld/80/x/17-1733326083-nw.webp",
                 "malId": 154890,
@@ -40,6 +30,19 @@
                 "title": "We've Got Two Divorces And No Labels Between Us",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ad1003360"
+            }
+        },
+        "MangaFire": {
+            "k3zp9": {
+                "id": 233798,
+                "identifier": "k3zp9",
+                "image": "https://static.mangafire.to/71a9/i/d/d9/bc4f170f79a90647c309962b383ddf63.jpg",
+                "malId": 154890,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Batsuichi 2-ri wa Mitei na Kankei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/batsuichi-2-ri-wa-mitei-na-kankeii.k3zp9"
             }
         }
     }

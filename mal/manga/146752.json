@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "24c8e2f3-f515-4e58-bfdd-c423ab00499a": {
+                "id": 28173,
                 "identifier": "24c8e2f3-f515-4e58-bfdd-c423ab00499a",
                 "image": "https://uploads.mangadex.org/covers/24c8e2f3-f515-4e58-bfdd-c423ab00499a/133f7d99-a535-43a3-b125-1783166766e6.jpg",
                 "malId": 146752,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "study-group": {
+                "id": 60196,
                 "identifier": "study-group",
                 "image": "https://temp.compsci88.com/cover/Study-Group.jpg",
                 "malId": 146752,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-eh981990": {
+                "id": 73776,
                 "identifier": "manga-eh981990",
                 "image": "https://avt.mkklcdnv6temp.com/35/a/18-1583498454.jpg",
                 "malId": 146752,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-eh981990"
             }
         },
-        "MangaFire": {
-            "study-group.522x0": {
-                "identifier": "study-group.522x0",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/08a8f9ff09fe0862acb1d267ce4b00fe.jpg",
-                "malId": 146752,
-                "aniId": 110472,
-                "page": "MangaFire",
-                "title": "Study Group",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/study-group.522x0/"
-            },
-            "study-groupp.522x0": {
-                "identifier": "study-groupp.522x0",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/08a8f9ff09fe0862acb1d267ce4b00fe.jpg",
-                "malId": 146752,
-                "aniId": 110472,
-                "page": "MangaFire",
-                "title": "Study Group",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/study-groupp.522x0/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeaev8agb1htg3htyh1w": {
+                "id": 207334,
                 "identifier": "01j76xyeaev8agb1htg3htyh1w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEAEV8AGB1HTG3HTYH1W.jpg",
                 "malId": 146752,
@@ -74,6 +56,19 @@
                 "title": "Study Group",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEAEV8AGB1HTG3HTYH1W"
+            }
+        },
+        "MangaFire": {
+            "522x0": {
+                "id": 224957,
+                "identifier": "522x0",
+                "image": "https://static.mangafire.to/3cb4/i/0/08/08a8f9ff09fe0862acb1d267ce4b00fe.jpg",
+                "malId": 146752,
+                "aniId": 110472,
+                "page": "MangaFire",
+                "title": "Study Group",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/study-groupp.522x0"
             }
         },
         "Comick": {

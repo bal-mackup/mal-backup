@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8483f361-a149-463d-aada-61fa1d94ff7d": {
+                "id": 18347,
                 "identifier": "8483f361-a149-463d-aada-61fa1d94ff7d",
                 "image": "https://uploads.mangadex.org/covers/8483f361-a149-463d-aada-61fa1d94ff7d/a55726f3-9526-41f1-b18c-05ef3d5b6a08.jpg",
                 "malId": 104829,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sachi-iro-no-one-room": {
+                "id": 58110,
                 "identifier": "sachi-iro-no-one-room",
                 "image": "https://temp.compsci88.com/cover/Sachi-iro-No-One-Room.jpg",
                 "malId": 104829,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sachi_iro_no_one_room": {
+                "id": 66284,
                 "identifier": "sachi_iro_no_one_room",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26781/cover.jpg",
                 "malId": 104829,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ah977890": {
+                "id": 74533,
                 "identifier": "manga-ah977890",
                 "image": "https://avt.mkklcdnv6temp.com/2/s/16-1583493561.jpg",
                 "malId": 104829,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ah977890"
             }
         },
-        "MangaFire": {
-            "sachiiro-no-one-room.5kj1m": {
-                "identifier": "sachiiro-no-one-room.5kj1m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a815f575cc0bdb69ef8048de5c19df0.jpg",
-                "malId": 104829,
-                "aniId": 100557,
-                "page": "MangaFire",
-                "title": "One Room of Happiness",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sachiiro-no-one-room.5kj1m/"
-            },
-            "sachiiro-no-one-roomm.5kj1m": {
-                "identifier": "sachiiro-no-one-roomm.5kj1m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a815f575cc0bdb69ef8048de5c19df0.jpg",
-                "malId": 104829,
-                "aniId": 100557,
-                "page": "MangaFire",
-                "title": "One Room of Happiness",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sachiiro-no-one-roomm.5kj1m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycb3vtzxkpwz8d6d1rk0": {
+                "id": 214429,
                 "identifier": "01j76xycb3vtzxkpwz8d6d1rk0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCB3VTZXKPWZ8D6D1RK0.jpg",
                 "malId": 104829,
@@ -86,6 +69,19 @@
                 "title": "One Room of Happiness",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCB3VTZXKPWZ8D6D1RK0"
+            }
+        },
+        "MangaFire": {
+            "5kj1m": {
+                "id": 226036,
+                "identifier": "5kj1m",
+                "image": "https://static.mangafire.to/e579/i/5/5a/5a815f575cc0bdb69ef8048de5c19df0.jpg",
+                "malId": 104829,
+                "aniId": 100557,
+                "page": "MangaFire",
+                "title": "One Room of Happiness",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sachiiro-no-one-roomm.5kj1m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b5ba4db3-1bac-491e-8ce0-ce133ea780ed": {
+                "id": 13457,
                 "identifier": "b5ba4db3-1bac-491e-8ce0-ce133ea780ed",
                 "image": "https://uploads.mangadex.org/covers/b5ba4db3-1bac-491e-8ce0-ce133ea780ed/2530fadc-3525-4623-a6fb-29cfed79a826.jpg",
                 "malId": 68977,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tawara-cat": {
+                "id": 68589,
                 "identifier": "tawara-cat",
                 "image": "https://temp.compsci88.com/cover/Tawara-Cat.jpg",
                 "malId": 68977,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tawara-Cat"
             }
         },
-        "MangaFire": {
-            "tawara-neko-to-machigai-jinsei.rl00y": {
-                "identifier": "tawara-neko-to-machigai-jinsei.rl00y",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/3561ae8552304f97c854824b40c5ce6e.jpg",
-                "malId": 68977,
-                "aniId": 90919,
-                "page": "MangaFire",
-                "title": "Tawara Cat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tawara-neko-to-machigai-jinsei.rl00y/"
-            },
-            "rl00y": {
-                "identifier": "rl00y",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/3561ae8552304f97c854824b40c5ce6e.jpg",
-                "malId": 68977,
-                "aniId": 90919,
-                "page": "MangaFire",
-                "title": "Tawara Cat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tawara-neko-to-machigai-jinsei.rl00y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb70z3aat99qc4ay77kv": {
+                "id": 213882,
                 "identifier": "01j76xyb70z3aat99qc4ay77kv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB70Z3AAT99QC4AY77KV.jpg",
                 "malId": 68977,
@@ -62,6 +43,19 @@
                 "title": "Tawara Cat",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB70Z3AAT99QC4AY77KV"
+            }
+        },
+        "MangaFire": {
+            "rl00y": {
+                "id": 246486,
+                "identifier": "rl00y",
+                "image": "https://static.mangafire.to/5a4f/i/3/35/3561ae8552304f97c854824b40c5ce6e.jpg",
+                "malId": 68977,
+                "aniId": 90919,
+                "page": "MangaFire",
+                "title": "Tawara Cat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tawara-neko-to-machigai-jinseii.rl00y"
             }
         },
         "Comick": {

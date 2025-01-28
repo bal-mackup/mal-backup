@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "91b3858f-4055-464d-9721-5d59b7814670": {
+                "id": 23876,
                 "identifier": "91b3858f-4055-464d-9721-5d59b7814670",
                 "image": "https://uploads.mangadex.org/covers/91b3858f-4055-464d-9721-5d59b7814670/86c9c7b8-6b9c-41e3-9676-eea3549df7e2.jpg",
                 "malId": 114660,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "desuraba": {
+                "id": 54673,
                 "identifier": "desuraba",
                 "image": "https://temp.compsci88.com/cover/Desuraba.jpg",
                 "malId": 114660,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dq980799": {
+                "id": 74021,
                 "identifier": "manga-dq980799",
                 "image": "https://avt.mkklcdnv6temp.com/42/d/17-1583496779.jpg",
                 "malId": 114660,
@@ -42,6 +45,7 @@
                 "url": "https://manganato.com/manga-dq980799"
             },
             "manga-pa993257": {
+                "id": 119706,
                 "identifier": "manga-pa993257",
                 "image": "https://avt.mkklcdnv6temp.com/40/r/27-1670863595.jpg",
                 "malId": 114660,
@@ -52,6 +56,7 @@
                 "url": "https://chapmanganato.com/manga-pa993257"
             },
             "manga-pc993285": {
+                "id": 119865,
                 "identifier": "manga-pc993285",
                 "image": "https://avt.mkklcdnv6temp.com/41/t/27-1671162777.jpg",
                 "malId": 114660,
@@ -62,30 +67,9 @@
                 "url": "https://chapmanganato.com/manga-pc993285"
             }
         },
-        "MangaFire": {
-            "desuraba.n321j": {
-                "identifier": "desuraba.n321j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71484cc9727b719c5795f1e70908a915.jpg",
-                "malId": 114660,
-                "aniId": 104686,
-                "page": "MangaFire",
-                "title": "Destiny Lovers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/desuraba.n321j/"
-            },
-            "desurabaa.n321j": {
-                "identifier": "desurabaa.n321j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71484cc9727b719c5795f1e70908a915.jpg",
-                "malId": 114660,
-                "aniId": 104686,
-                "page": "MangaFire",
-                "title": "Destiny Lovers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/desurabaa.n321j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyctrqsqqj5yf49726t3c": {
+                "id": 210873,
                 "identifier": "01j76xyctrqsqqj5yf49726t3c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCTRQSQQJ5YF49726T3C.jpg",
                 "malId": 114660,
@@ -94,6 +78,19 @@
                 "title": "Destiny Lovers",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCTRQSQQJ5YF49726T3C"
+            }
+        },
+        "MangaFire": {
+            "n321j": {
+                "id": 225915,
+                "identifier": "n321j",
+                "image": "https://static.mangafire.to/fbc0/i/7/71/71484cc9727b719c5795f1e70908a915.jpg",
+                "malId": 114660,
+                "aniId": 104686,
+                "page": "MangaFire",
+                "title": "Destiny Lovers",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/desurabaa.n321j"
             }
         },
         "Comick": {

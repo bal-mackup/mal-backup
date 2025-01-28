@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab1d50c6-0eeb-4bdf-86e7-1a2c65031be6": {
+                "id": 33608,
                 "identifier": "ab1d50c6-0eeb-4bdf-86e7-1a2c65031be6",
                 "image": "https://uploads.mangadex.org/covers/ab1d50c6-0eeb-4bdf-86e7-1a2c65031be6/668500fd-9f37-4551-b305-b841cc65712d.jpg",
                 "malId": 147073,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lm988695": {
+                "id": 74757,
                 "identifier": "manga-lm988695",
                 "image": "https://avt.mkklcdnv6temp.com/49/p/23-1617329442.jpg",
                 "malId": 147073,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-lm988695"
             }
         },
-        "MangaFire": {
-            "my-life-as-a-loser.kw0o6": {
-                "identifier": "my-life-as-a-loser.kw0o6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/49877dd7039c3d4b7bd0caa0108bed49.jpg",
-                "malId": 147073,
-                "aniId": 123646,
-                "page": "MangaFire",
-                "title": "My Life as a Loser",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-life-as-a-loser.kw0o6/"
-            },
-            "my-life-as-a-loserr.kw0o6": {
-                "identifier": "my-life-as-a-loserr.kw0o6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/49877dd7039c3d4b7bd0caa0108bed49.jpg",
-                "malId": 147073,
-                "aniId": 123646,
-                "page": "MangaFire",
-                "title": "My Life as a Loser",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-life-as-a-loserr.kw0o6/"
-            }
-        },
         "MangaSee": {
             "my-life-as-a-loser": {
+                "id": 182806,
                 "identifier": "my-life-as-a-loser",
                 "image": "https://temp.compsci88.com/cover/My-Life-as-a-Loser.jpg",
                 "malId": 147073,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygzr8ctmz9c96tddtnp8": {
+                "id": 206826,
                 "identifier": "01j76xygzr8ctmz9c96tddtnp8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGZR8CTMZ9C96TDDTNP8.jpg",
                 "malId": 147073,
@@ -74,6 +56,19 @@
                 "title": "My Life as a Loser",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGZR8CTMZ9C96TDDTNP8"
+            }
+        },
+        "MangaFire": {
+            "kw0o6": {
+                "id": 239742,
+                "identifier": "kw0o6",
+                "image": "https://static.mangafire.to/3f2c/i/4/49/49877dd7039c3d4b7bd0caa0108bed49.jpg",
+                "malId": 147073,
+                "aniId": 123646,
+                "page": "MangaFire",
+                "title": "My Life as a Loser",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-life-as-a-loserr.kw0o6"
             }
         },
         "Comick": {

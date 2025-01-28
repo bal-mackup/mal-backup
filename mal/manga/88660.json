@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "69060a67-1d4e-4110-9d29-838bfd99917f": {
+                "id": 13083,
                 "identifier": "69060a67-1d4e-4110-9d29-838bfd99917f",
                 "image": "https://uploads.mangadex.org/covers/69060a67-1d4e-4110-9d29-838bfd99917f/7b53c1c8-c826-40e8-95cc-502c0b0becce.jpg",
                 "malId": 88660,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/69060a67-1d4e-4110-9d29-838bfd99917f"
             },
             "477292ce-df1b-453f-a545-8a3742637192": {
+                "id": 35204,
                 "identifier": "477292ce-df1b-453f-a545-8a3742637192",
                 "image": "https://uploads.mangadex.org/covers/477292ce-df1b-453f-a545-8a3742637192/d91373da-ba15-400e-87a8-2a704000e913.jpg",
                 "malId": 88660,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/477292ce-df1b-453f-a545-8a3742637192"
             },
             "3c9e93bf-9108-4030-ae61-72bd5397fb00": {
+                "id": 109110,
                 "identifier": "3c9e93bf-9108-4030-ae61-72bd5397fb00",
                 "image": "https://uploads.mangadex.org/covers/3c9e93bf-9108-4030-ae61-72bd5397fb00/4992973c-8504-40b3-a7b2-d5a6418a9b28.png",
                 "malId": 88660,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "yagate-kimi-ni-naru": {
+                "id": 55554,
                 "identifier": "yagate-kimi-ni-naru",
                 "image": "https://temp.compsci88.com/cover/Yagate-Kimi-Ni-Naru.jpg",
                 "malId": 88660,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "yagate_kimi_ni_naru": {
+                "id": 56863,
                 "identifier": "yagate_kimi_ni_naru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15767/cover.jpg",
                 "malId": 88660,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-tc970511": {
+                "id": 74768,
                 "identifier": "manga-tc970511",
                 "image": "https://avt.mkklcdnv6temp.com/29/b/13-1583488781.jpg",
                 "malId": 88660,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-tc970511"
             }
         },
-        "MangaFire": {
-            "bloom-into-you.krlv": {
-                "identifier": "bloom-into-you.krlv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/881f7c64cb3cbe43afc767d1c6127627.jpg",
-                "malId": 88660,
-                "aniId": 86218,
-                "page": "MangaFire",
-                "title": "Bloom Into You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bloom-into-you.krlv/"
-            },
-            "bloom-into-youu.krlv": {
-                "identifier": "bloom-into-youu.krlv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/881f7c64cb3cbe43afc767d1c6127627.jpg",
-                "malId": 88660,
-                "aniId": 86218,
-                "page": "MangaFire",
-                "title": "Bloom Into You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bloom-into-youu.krlv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8cp89dcbtg34hz8wcn": {
+                "id": 206150,
                 "identifier": "01j76xyc8cp89dcbtg34hz8wcn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8CP89DCBTG34HZ8WCN.jpg",
                 "malId": 88660,
@@ -106,6 +91,19 @@
                 "title": "Bloom Into You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8CP89DCBTG34HZ8WCN"
+            }
+        },
+        "MangaFire": {
+            "krlv": {
+                "id": 223474,
+                "identifier": "krlv",
+                "image": "https://static.mangafire.to/6c79/i/8/88/881f7c64cb3cbe43afc767d1c6127627.jpg",
+                "malId": 88660,
+                "aniId": 86218,
+                "page": "MangaFire",
+                "title": "Bloom Into You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bloom-into-youu.krlv"
             }
         },
         "Comick": {

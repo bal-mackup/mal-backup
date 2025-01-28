@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1bb7932c-ca3f-4827-9513-44bd9f0a75e9": {
+                "id": 157631,
                 "identifier": "1bb7932c-ca3f-4827-9513-44bd9f0a75e9",
                 "image": "https://uploads.mangadex.org/covers/1bb7932c-ca3f-4827-9513-44bd9f0a75e9/90724bf3-02d6-4cb8-a30f-ea9f0d50e1f1.jpg",
                 "malId": 158884,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-va998983": {
+                "id": 173958,
                 "identifier": "manga-va998983",
                 "image": "https://avt.mkklcdnv6temp.com/fld/13/l/16-1733313890-nw.webp",
                 "malId": 158884,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-va998983"
             }
         },
-        "MangaFire": {
-            "darashinai-desu-hotta-sensei.59mkm": {
-                "identifier": "darashinai-desu-hotta-sensei.59mkm",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/89f8a9cbbbfc8e8261283e7c6c2ec929.jpg",
-                "malId": 158884,
-                "aniId": 152327,
-                "page": "MangaFire",
-                "title": "Darashinai desu, Hotta-sensei!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/darashinai-desu-hotta-sensei.59mkm/"
-            },
-            "darashinai-desu-hotta-senseii.59mkm": {
-                "identifier": "darashinai-desu-hotta-senseii.59mkm",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/89f8a9cbbbfc8e8261283e7c6c2ec929.jpg",
-                "malId": 158884,
-                "aniId": 152327,
-                "page": "MangaFire",
-                "title": "Darashinai desu, Hotta-sensei!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/darashinai-desu-hotta-senseii.59mkm/"
-            }
-        },
         "MangaFox": {
             "darashinai_desu_hotta_sensei": {
+                "id": 192594,
                 "identifier": "darashinai_desu_hotta_sensei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46283/cover.jpg",
                 "malId": 158884,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "youre-so-sloppy-hotta-sensei": {
+                "id": 195328,
                 "identifier": "youre-so-sloppy-hotta-sensei",
                 "image": "https://temp.compsci88.com/cover/Youre-So-Sloppy-Hotta-sensei.jpg",
                 "malId": 158884,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhfrfrd5y0efd05z3v0n": {
+                "id": 206103,
                 "identifier": "01j76xyhfrfrd5y0efd05z3v0n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHFRFRD5Y0EFD05Z3V0N.jpg",
                 "malId": 158884,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYHFRFRD5Y0EFD05Z3V0N"
             }
         },
+        "MangaFire": {
+            "59mkm": {
+                "id": 224140,
+                "identifier": "59mkm",
+                "image": "https://static.mangafire.to/6ef6/i/a/10/bf1dc144528f01adf7e8d0c823003495.jpg",
+                "malId": 158884,
+                "aniId": 152327,
+                "page": "MangaFire",
+                "title": "You're So Sloppy, Hotta-sensei!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/darashinai-desu-hotta-senseii.59mkm"
+            }
+        },
         "Comick": {
             "PVei5SNC": {
                 "identifier": "PVei5SNC",
                 "malId": 158884,
                 "type": "manga",
                 "page": "Comick",
-                "title": "You're So Sloppy, Hotta-sensei!",
+                "title": "You’re So Sloppy, Hotta-sensei",
                 "url": "https://comick.io/comic/darashinai-desu-hotta-sensei",
                 "aniId": 152327
             }

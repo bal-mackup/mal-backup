@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1233042e-6008-43fe-addf-0238a800e64c": {
+                "id": 164311,
                 "identifier": "1233042e-6008-43fe-addf-0238a800e64c",
                 "image": "https://uploads.mangadex.org/covers/1233042e-6008-43fe-addf-0238a800e64c/7e1dcaff-be74-4d2e-9c20-f14c58e88d6a.jpg",
                 "malId": 156155,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/1233042e-6008-43fe-addf-0238a800e64c"
             }
         },
-        "MangaFire": {
-            "soshite-akuma-wa-seigi-wo-kataru.72x68": {
-                "identifier": "soshite-akuma-wa-seigi-wo-kataru.72x68",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ae/aea5fdf97f4484031ca08f75fb475dcb.jpg",
-                "malId": 156155,
-                "aniId": 161859,
-                "page": "MangaFire",
-                "title": "Soshite Akuma wa Seigi wo Kataru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soshite-akuma-wa-seigi-wo-kataru.72x68/"
-            }
-        },
         "MangaNato": {
             "manga-ug997789": {
+                "id": 167350,
                 "identifier": "manga-ug997789",
                 "image": "https://avt.mkklcdnv6temp.com/fld/67/w/15-1733310771-nw.webp",
                 "malId": 156155,
@@ -42,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-ug997789"
             },
             "manga-uv998256": {
+                "id": 182486,
                 "identifier": "manga-uv998256",
                 "image": "https://avt.mkklcdnv6temp.com/fld/85/s/15-1733311984-nw.webp",
                 "malId": 156155,
@@ -50,6 +41,19 @@
                 "title": "Soshiste Akuma Wa Seigi Wo Kataru",
                 "type": "manga",
                 "url": "https://manganato.com/manga-uv998256"
+            }
+        },
+        "MangaFire": {
+            "72x68": {
+                "id": 240999,
+                "identifier": "72x68",
+                "image": "https://static.mangafire.to/e0f4/i/a/ae/aea5fdf97f4484031ca08f75fb475dcb.jpg",
+                "malId": 156155,
+                "aniId": 161859,
+                "page": "MangaFire",
+                "title": "Soshite Akuma wa Seigi wo Kataru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soshite-akuma-wa-seigi-wo-kataruu.72x68"
             }
         },
         "Comick": {

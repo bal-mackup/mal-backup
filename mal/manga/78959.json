@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b3b05fe3-2684-406f-9c32-f3b32ce49cf7": {
+                "id": 11964,
                 "identifier": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
                 "image": "https://uploads.mangadex.org/covers/b3b05fe3-2684-406f-9c32-f3b32ce49cf7/4dda561f-6dc5-4bc7-948c-a8a5e05ce7b3.jpg",
                 "malId": 78959,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "online-the-comic": {
+                "id": 58876,
                 "identifier": "online-the-comic",
                 "image": "https://temp.compsci88.com/cover/Online-The-Comic.jpg",
                 "malId": 78959,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-mb952636": {
+                "id": 76364,
                 "identifier": "manga-mb952636",
                 "image": "https://avt.mkklcdnv6temp.com/46/k/1-1583465534.jpg",
                 "malId": 78959,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-mb952636"
             }
         },
-        "MangaFire": {
-            "online-the-comic.jv0l4": {
-                "identifier": "online-the-comic.jv0l4",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c0eb85502b8cc721d65876d145dbdeb.jpg",
-                "malId": 78959,
-                "aniId": 85904,
-                "page": "MangaFire",
-                "title": "Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/online-the-comic.jv0l4/"
-            },
-            "online-the-comicc.jv0l4": {
-                "identifier": "online-the-comicc.jv0l4",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c0eb85502b8cc721d65876d145dbdeb.jpg",
-                "malId": 78959,
-                "aniId": 85904,
-                "page": "MangaFire",
-                "title": "Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/online-the-comicc.jv0l4/"
-            },
-            "jv0l4": {
-                "identifier": "jv0l4",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c0eb85502b8cc721d65876d145dbdeb.jpg",
-                "malId": 78959,
-                "aniId": 85904,
-                "page": "MangaFire",
-                "title": "Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/online-the-comicc.jv0l4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyar9ay6qjb6tr6x8a2wp": {
+                "id": 214363,
                 "identifier": "01j76xyar9ay6qjb6tr6x8a2wp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAR9AY6QJB6TR6X8A2WP.jpg",
                 "malId": 78959,
@@ -84,6 +56,19 @@
                 "title": "Online - The Comic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAR9AY6QJB6TR6X8A2WP"
+            }
+        },
+        "MangaFire": {
+            "jv0l4": {
+                "id": 243411,
+                "identifier": "jv0l4",
+                "image": "https://static.mangafire.to/d7ee/i/9/9c/9c0eb85502b8cc721d65876d145dbdeb.jpg",
+                "malId": 78959,
+                "aniId": 85904,
+                "page": "MangaFire",
+                "title": "Online",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/online-the-comicc.jv0l4"
             }
         },
         "Comick": {

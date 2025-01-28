@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c431712b-231c-4d25-85fa-7ca6bf460f15": {
+                "id": 27579,
                 "identifier": "c431712b-231c-4d25-85fa-7ca6bf460f15",
                 "image": "https://uploads.mangadex.org/covers/c431712b-231c-4d25-85fa-7ca6bf460f15/afe3e6b0-344c-4952-948e-7f16fa329730.jpg",
                 "malId": 121226,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fv982756": {
+                "id": 76827,
                 "identifier": "manga-fv982756",
                 "image": "https://avt.mkklcdnv6temp.com/13/j/19-1583499600.jpg",
                 "malId": 121226,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "vampeerz": {
+                "id": 112549,
                 "identifier": "vampeerz",
                 "image": "https://temp.compsci88.com/cover/Vampeerz.jpg",
                 "malId": 121226,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Vampeerz"
             }
         },
-        "MangaFire": {
-            "vampeerz.kwv0r": {
-                "identifier": "vampeerz.kwv0r",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b971bbc0a8c9814e5ce8d19fa5826f35.jpg",
-                "malId": 121226,
-                "aniId": 108440,
-                "page": "MangaFire",
-                "title": "Vampeerz",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampeerz.kwv0r/"
-            },
-            "vampeerzz.kwv0r": {
-                "identifier": "vampeerzz.kwv0r",
-                "image": "https://static.mangafire.to/aa83/i/b/b9/b971bbc0a8c9814e5ce8d19fa5826f35.jpg",
-                "malId": 121226,
-                "aniId": 108440,
-                "page": "MangaFire",
-                "title": "Vampeerz",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampeerzz.kwv0r/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfjzzckjhh4asdy6b328": {
+                "id": 211490,
                 "identifier": "01j76xyfjzzckjhh4asdy6b328",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFJZZCKJHH4ASDY6B328.jpg",
                 "malId": 121226,
@@ -74,6 +56,19 @@
                 "title": "Vampeerz",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFJZZCKJHH4ASDY6B328"
+            }
+        },
+        "MangaFire": {
+            "kwv0r": {
+                "id": 223567,
+                "identifier": "kwv0r",
+                "image": "https://static.mangafire.to/aa83/i/b/b9/b971bbc0a8c9814e5ce8d19fa5826f35.jpg",
+                "malId": 121226,
+                "aniId": 108440,
+                "page": "MangaFire",
+                "title": "Vampeerz",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/vampeerzz.kwv0r"
             }
         },
         "Comick": {

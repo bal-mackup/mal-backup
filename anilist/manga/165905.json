@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "28bcb966-313a-40ad-8d52-fcd2a9089436": {
+                "id": 150411,
                 "identifier": "28bcb966-313a-40ad-8d52-fcd2a9089436",
                 "image": "https://uploads.mangadex.org/covers/28bcb966-313a-40ad-8d52-fcd2a9089436/a3b212f2-61ee-4d03-ad8b-e0ab6ee1c667.jpg",
                 "malId": 158010,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-st995754": {
+                "id": 155889,
                 "identifier": "manga-st995754",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/f/14-1733305992-nw.webp",
                 "malId": 158010,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-st995754"
             }
         },
-        "MangaFire": {
-            "return-of-the-bloodthirsty-police.2po14": {
-                "identifier": "return-of-the-bloodthirsty-police.2po14",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e557c80143c6400e7b142d8bb2be03df.jpg",
-                "malId": 158010,
-                "aniId": 165905,
-                "page": "MangaFire",
-                "title": "Return of the Bloodthirsty Police",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/return-of-the-bloodthirsty-police.2po14/"
-            },
-            "return-of-the-bloodthirsty-policee.2po14": {
-                "identifier": "return-of-the-bloodthirsty-policee.2po14",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e557c80143c6400e7b142d8bb2be03df.jpg",
-                "malId": 158010,
-                "aniId": 165905,
-                "page": "MangaFire",
-                "title": "Return of the Bloodthirsty Police",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/return-of-the-bloodthirsty-policee.2po14/"
-            }
-        },
         "MangaFox": {
             "return_of_the_bloodthirsty_police": {
+                "id": 162502,
                 "identifier": "return_of_the_bloodthirsty_police",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44796/cover.jpg",
                 "malId": 158010,
@@ -62,6 +43,19 @@
                 "title": "Return of the Bloodthirsty Police",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/return_of_the_bloodthirsty_police/"
+            }
+        },
+        "MangaFire": {
+            "2po14": {
+                "id": 223778,
+                "identifier": "2po14",
+                "image": "https://static.mangafire.to/804d/i/e/e5/e557c80143c6400e7b142d8bb2be03df.jpg",
+                "malId": 158010,
+                "aniId": 165905,
+                "page": "MangaFire",
+                "title": "Return of the Bloodthirsty Police",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/return-of-the-bloodthirsty-policee.2po14"
             }
         },
         "Comick": {

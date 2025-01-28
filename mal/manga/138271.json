@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a481c2f1-3774-44f1-b797-73ffebca1bfe": {
+                "id": 118234,
                 "identifier": "a481c2f1-3774-44f1-b797-73ffebca1bfe",
                 "image": "https://uploads.mangadex.org/covers/a481c2f1-3774-44f1-b797-73ffebca1bfe/e5b4502b-586e-4d95-8426-7e153d23dba2.png",
                 "malId": 138271,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/a481c2f1-3774-44f1-b797-73ffebca1bfe"
             }
         },
-        "MangaFire": {
-            "space-ape-gori-vs-spectreman.ojrnz": {
-                "identifier": "space-ape-gori-vs-spectreman.ojrnz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d030d8d757c0d9422b544fe2ac86b1a8.jpg",
-                "malId": 138271,
-                "aniId": 151472,
-                "page": "MangaFire",
-                "title": "Space Ape Gori vs. Spectreman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/space-ape-gori-vs-spectreman.ojrnz/"
-            }
-        },
         "MangaNato": {
             "manga-rw994479": {
+                "id": 170013,
                 "identifier": "manga-rw994479",
                 "image": "https://avt.mkklcdnv6temp.com/fld/41/v/14-1733303102-nw.webp",
                 "malId": 138271,
@@ -40,6 +30,19 @@
                 "title": "Space Ape Gori Vs. Spectreman",
                 "type": "manga",
                 "url": "https://manganato.com/manga-rw994479"
+            }
+        },
+        "MangaFire": {
+            "ojrnz": {
+                "id": 249416,
+                "identifier": "ojrnz",
+                "image": "https://static.mangafire.to/29c8/i/d/d0/d030d8d757c0d9422b544fe2ac86b1a8.jpg",
+                "malId": 138271,
+                "aniId": 151472,
+                "page": "MangaFire",
+                "title": "Space Ape Gori vs. Spectreman",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/space-ape-gori-vs-spectremann.ojrnz"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5da228de-611e-4a18-aad9-49ec11e3d2d4": {
+                "id": 17916,
                 "identifier": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
                 "image": "https://uploads.mangadex.org/covers/5da228de-611e-4a18-aad9-49ec11e3d2d4/5a4d3f6c-907e-432e-ab43-9fba65a3bc90.jpg",
                 "malId": 105402,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/5da228de-611e-4a18-aad9-49ec11e3d2d4"
             }
         },
-        "MangaFire": {
-            "oukoku-monogatari.2oy65": {
-                "identifier": "oukoku-monogatari.2oy65",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/33670ff09e3379fced826ee9ad9dc028.jpg",
-                "malId": 105402,
-                "aniId": 99380,
-                "page": "MangaFire",
-                "title": "Tales of the Kingdom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oukoku-monogatari.2oy65/"
-            },
-            "2oy65": {
-                "identifier": "2oy65",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/33670ff09e3379fced826ee9ad9dc028.jpg",
-                "malId": 105402,
-                "aniId": 99380,
-                "page": "MangaFire",
-                "title": "Tales of the Kingdom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oukoku-monogatari.2oy65/"
-            }
-        },
         "MangaFox": {
             "oukoku_monogatari": {
+                "id": 156508,
                 "identifier": "oukoku_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28246/cover.jpg",
                 "malId": 105402,
@@ -50,6 +30,19 @@
                 "title": "Oukoku Monogatari",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/oukoku_monogatari/"
+            }
+        },
+        "MangaFire": {
+            "2oy65": {
+                "id": 246433,
+                "identifier": "2oy65",
+                "image": "https://static.mangafire.to/5815/i/3/33/33670ff09e3379fced826ee9ad9dc028.jpg",
+                "malId": 105402,
+                "aniId": 99380,
+                "page": "MangaFire",
+                "title": "Tales of the Kingdom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oukoku-monogatarii.2oy65"
             }
         },
         "Comick": {

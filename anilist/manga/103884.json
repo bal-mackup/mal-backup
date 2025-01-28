@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4a30061a-bc66-4efd-9c4b-87daf8313381": {
+                "id": 25240,
                 "identifier": "4a30061a-bc66-4efd-9c4b-87daf8313381",
                 "image": "https://uploads.mangadex.org/covers/4a30061a-bc66-4efd-9c4b-87daf8313381/81684dc8-4068-496f-9988-31a5a12ccf5c.jpg",
                 "malId": 117083,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "citrusplus": {
+                "id": 55192,
                 "identifier": "citrusplus",
                 "image": "https://temp.compsci88.com/cover/CitrusPlus.jpg",
                 "malId": 117083,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "citrus_plus": {
+                "id": 66125,
                 "identifier": "citrus_plus",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29451/cover.jpg",
                 "malId": 117083,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-df980688": {
+                "id": 76498,
                 "identifier": "manga-df980688",
                 "image": "https://avt.mkklcdnv6temp.com/38/c/17-1583496638.jpg",
                 "malId": 117083,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-df980688"
             }
         },
-        "MangaFire": {
-            "citrus2.3r9n9": {
-                "identifier": "citrus2.3r9n9",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a073a0805148c86ab7e6f81b75c0789e.jpg",
-                "malId": 117083,
-                "aniId": 103884,
-                "page": "MangaFire",
-                "title": "Citrus+",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/citrus2.3r9n9/"
-            },
-            "citrus22.3r9n9": {
-                "identifier": "citrus22.3r9n9",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a073a0805148c86ab7e6f81b75c0789e.jpg",
-                "malId": 117083,
-                "aniId": 103884,
-                "page": "MangaFire",
-                "title": "Citrus+",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/citrus22.3r9n9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd1vg5grynxgw7mebr0k": {
+                "id": 211095,
                 "identifier": "01j76xyd1vg5grynxgw7mebr0k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD1VG5GRYNXGW7MEBR0K.jpg",
                 "malId": 117083,
@@ -86,6 +69,19 @@
                 "title": "Citrus+",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD1VG5GRYNXGW7MEBR0K"
+            }
+        },
+        "MangaFire": {
+            "3r9n9": {
+                "id": 243497,
+                "identifier": "3r9n9",
+                "image": "https://static.mangafire.to/318e/i/a/a0/a073a0805148c86ab7e6f81b75c0789e.jpg",
+                "malId": 117083,
+                "aniId": 103884,
+                "page": "MangaFire",
+                "title": "Citrus+",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/citrus22.3r9n9"
             }
         },
         "Comick": {

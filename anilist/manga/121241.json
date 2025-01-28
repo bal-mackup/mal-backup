@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a": {
+                "id": 37664,
                 "identifier": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
                 "image": "https://uploads.mangadex.org/covers/ee845b1a-b1cd-4fb3-ade2-0030890f7c2a/c0e604e1-903a-4f94-af7d-d4668b931edf.jpg",
                 "malId": 132333,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mizuki_senpai_no_koi_uranai": {
+                "id": 70785,
                 "identifier": "mizuki_senpai_no_koi_uranai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34791/cover.jpg",
                 "malId": 132333,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jq986751": {
+                "id": 76801,
                 "identifier": "manga-jq986751",
                 "image": "https://avt.mkklcdnv6temp.com/19/j/22-1600664450.jpg",
                 "malId": 132333,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "mizuki-senpais-love-fortunetelling": {
+                "id": 118873,
                 "identifier": "mizuki-senpais-love-fortunetelling",
                 "image": "https://temp.compsci88.com/cover/Mizuki-senpais-Love-FortuneTelling.jpg",
                 "malId": 132333,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Mizuki-senpais-Love-FortuneTelling"
             }
         },
-        "MangaFire": {
-            "mizuki-senpais-love-fortune-telling.4p7x": {
-                "identifier": "mizuki-senpais-love-fortune-telling.4p7x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eed1267764846e9c4241265a530bc706.jpg",
-                "malId": 132333,
-                "aniId": 121241,
-                "page": "MangaFire",
-                "title": "Mizuki-senpai’s Love Fortune-Telling",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mizuki-senpais-love-fortune-telling.4p7x/"
-            },
-            "mizuki-senpais-love-fortune-tellingg.4p7x": {
-                "identifier": "mizuki-senpais-love-fortune-tellingg.4p7x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eed1267764846e9c4241265a530bc706.jpg",
-                "malId": 132333,
-                "aniId": 121241,
-                "page": "MangaFire",
-                "title": "Mizuki-senpai’s Love Fortune-Telling",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mizuki-senpais-love-fortune-tellingg.4p7x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfsyf1ttrp0687v8kyvg": {
+                "id": 209035,
                 "identifier": "01j76xyfsyf1ttrp0687v8kyvg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFSYF1TTRP0687V8KYVG.jpg",
                 "malId": 132333,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYFSYF1TTRP0687V8KYVG"
             }
         },
+        "MangaFire": {
+            "4p7x": {
+                "id": 225389,
+                "identifier": "4p7x",
+                "image": "https://static.mangafire.to/67d6/i/e/ee/eed1267764846e9c4241265a530bc706.jpg",
+                "malId": 132333,
+                "aniId": 121241,
+                "page": "MangaFire",
+                "title": "Mizuki-senpai’s Love Fortune-Telling",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mizuki-senpais-love-fortune-tellingg.4p7x"
+            }
+        },
         "Comick": {
             "dTqkuWKs": {
                 "identifier": "dTqkuWKs",
                 "malId": 132333,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Mizuki-senpai's Love Fortune-Telling",
+                "title": "Mizuki-senpai’s Love Fortune-Telling",
                 "url": "https://comick.io/comic/01-mizuki-senpai-s-love-fortune-telling",
                 "aniId": 121241
             }

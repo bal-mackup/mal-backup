@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "41490f9b-a57a-481f-8716-3199ee638164": {
+                "id": 104352,
                 "identifier": "41490f9b-a57a-481f-8716-3199ee638164",
                 "image": "https://uploads.mangadex.org/covers/41490f9b-a57a-481f-8716-3199ee638164/dbd539d6-c328-4e4d-bca8-f2bd59f476ef.jpg",
                 "malId": 149940,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pl992946": {
+                "id": 117161,
                 "identifier": "manga-pl992946",
                 "image": "https://avt.mkklcdnv6temp.com/27/w/27-1667275487.jpg",
                 "malId": 149940,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-pl992946"
             }
         },
-        "MangaFire": {
-            "i-have-an-sss-rank-trait-but-i-want-a-normal-life.m23lz": {
-                "identifier": "i-have-an-sss-rank-trait-but-i-want-a-normal-life.m23lz",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a4cb88bcbe00e3939fd369d54c7d648.jpg",
-                "malId": 149940,
-                "aniId": 150165,
-                "page": "MangaFire",
-                "title": "The Carefree Life of an SSS-Class Knight",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-have-an-sss-rank-trait-but-i-want-a-normal-life.m23lz/"
-            },
-            "i-have-an-sss-rank-trait-but-i-want-a-normal-lifee.m23lz": {
-                "identifier": "i-have-an-sss-rank-trait-but-i-want-a-normal-lifee.m23lz",
-                "image": "https://static.mangafire.to/a52b/i/2/2a/2a4cb88bcbe00e3939fd369d54c7d648.jpg",
-                "malId": 149940,
-                "aniId": 150165,
-                "page": "MangaFire",
-                "title": "The Carefree Life of an SSS-Class Knight",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-have-an-sss-rank-trait-but-i-want-a-normal-lifee.m23lz/"
-            }
-        },
         "MangaFox": {
             "the_carefree_life_of_an_sss_class_knight": {
+                "id": 189828,
                 "identifier": "the_carefree_life_of_an_sss_class_knight",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46150/cover.jpg",
                 "malId": 149940,
@@ -62,6 +43,19 @@
                 "title": "The Carefree Life of an SSS-Class Knight",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_carefree_life_of_an_sss_class_knight/"
+            }
+        },
+        "MangaFire": {
+            "m23lz": {
+                "id": 223522,
+                "identifier": "m23lz",
+                "image": "https://static.mangafire.to/a52b/i/2/2a/2a4cb88bcbe00e3939fd369d54c7d648.jpg",
+                "malId": 149940,
+                "aniId": 150165,
+                "page": "MangaFire",
+                "title": "The Carefree Life of an SSS-Class Knight",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-have-an-sss-rank-trait-but-i-want-a-normal-lifee.m23lz"
             }
         },
         "Comick": {

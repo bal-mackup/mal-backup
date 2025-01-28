@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f8e764b1-88ed-43c6-bee7-39eff5a68e94": {
+                "id": 12489,
                 "identifier": "f8e764b1-88ed-43c6-bee7-39eff5a68e94",
                 "image": "https://uploads.mangadex.org/covers/f8e764b1-88ed-43c6-bee7-39eff5a68e94/be74a987-6377-48ef-9c25-1adfd30cdc60.png",
                 "malId": 87011,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/f8e764b1-88ed-43c6-bee7-39eff5a68e94"
             }
         },
-        "MangaFire": {
-            "koi-to-kemono-to-seitokai.7j268": {
-                "identifier": "koi-to-kemono-to-seitokai.7j268",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc1e65632dc0bf7a46c6362c60c8e414.jpg",
-                "malId": 87011,
-                "aniId": 86068,
-                "page": "MangaFire",
-                "title": "Koi to Kemono to Seitokai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-to-kemono-to-seitokai.7j268/"
-            }
-        },
         "MangaFox": {
             "koi_to_kemono_to_seitokai": {
+                "id": 181697,
                 "identifier": "koi_to_kemono_to_seitokai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15297/cover.jpg",
                 "malId": 87011,
@@ -40,6 +30,19 @@
                 "title": "Koi to Kemono to Seitokai",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/koi_to_kemono_to_seitokai/"
+            }
+        },
+        "MangaFire": {
+            "7j268": {
+                "id": 242955,
+                "identifier": "7j268",
+                "image": "https://static.mangafire.to/700b/i/d/dc/dc1e65632dc0bf7a46c6362c60c8e414.jpg",
+                "malId": 87011,
+                "aniId": 86068,
+                "page": "MangaFire",
+                "title": "Koi to Kemono to Seitokai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koi-to-kemono-to-seitokaii.7j268"
             }
         },
         "Comick": {

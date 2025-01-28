@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "740471f5-4f75-457a-8c0c-cb4e0a5a999f": {
+                "id": 19190,
                 "identifier": "740471f5-4f75-457a-8c0c-cb4e0a5a999f",
-                "image": "https://uploads.mangadex.org/covers/740471f5-4f75-457a-8c0c-cb4e0a5a999f/bc52750c-4a5b-4e38-a816-0d6edcd844a7.jpg",
+                "image": "https://uploads.mangadex.org/covers/740471f5-4f75-457a-8c0c-cb4e0a5a999f/6c227803-36a4-498c-ba6e-7368ebd91456.jpg",
                 "malId": 90153,
                 "aniId": 98210,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fushigi-no-kuni-no-bird": {
+                "id": 57277,
                 "identifier": "fushigi-no-kuni-no-bird",
                 "image": "https://temp.compsci88.com/cover/Fushigi-no-Kuni-no-Bird.jpg",
                 "malId": 90153,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vn972596": {
+                "id": 81235,
                 "identifier": "manga-vn972596",
                 "image": "https://avt.mkklcdnv6temp.com/16/w/14-1583490354.jpg",
                 "malId": 90153,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "fushigi_no_kuni_no_bird": {
+                "id": 87892,
                 "identifier": "fushigi_no_kuni_no_bird",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21429/cover.jpg",
                 "malId": 90153,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/fushigi_no_kuni_no_bird/"
             }
         },
-        "MangaFire": {
-            "fushigi-no-kuni-no-bird.8059o": {
-                "identifier": "fushigi-no-kuni-no-bird.8059o",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45ef9c79cbde4ee81ad7d759c40fbc47.jpg",
-                "malId": 90153,
-                "aniId": 98210,
-                "page": "MangaFire",
-                "title": "Isabella Bird in Wonderland: Unbeaten Tracks in Japan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fushigi-no-kuni-no-bird.8059o/"
-            },
-            "8059o": {
-                "identifier": "8059o",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45ef9c79cbde4ee81ad7d759c40fbc47.jpg",
-                "malId": 90153,
-                "aniId": 98210,
-                "page": "MangaFire",
-                "title": "Isabella Bird in Wonderland: Unbeaten Tracks in Japan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fushigi-no-kuni-no-bird.8059o/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd7nq8qqg5wezdmb2hfs": {
+                "id": 212259,
                 "identifier": "01j76xyd7nq8qqg5wezdmb2hfs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD7NQ8QQG5WEZDMB2HFS.jpg",
                 "malId": 90153,
@@ -86,6 +69,19 @@
                 "title": "Fushigi no Kuni no Bird",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD7NQ8QQG5WEZDMB2HFS"
+            }
+        },
+        "MangaFire": {
+            "8059o": {
+                "id": 251793,
+                "identifier": "8059o",
+                "image": "https://static.mangafire.to/7586/i/4/45/45ef9c79cbde4ee81ad7d759c40fbc47.jpg",
+                "malId": 90153,
+                "aniId": 98210,
+                "page": "MangaFire",
+                "title": "Isabella Bird in Wonderland: Unbeaten Tracks in Japan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fushigi-no-kuni-no-birdd.8059o"
             }
         },
         "Comick": {

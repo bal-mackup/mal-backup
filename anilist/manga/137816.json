@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aa1beaf2-ef04-4216-a6d8-edacb3e717fe": {
+                "id": 109143,
                 "identifier": "aa1beaf2-ef04-4216-a6d8-edacb3e717fe",
                 "image": "https://uploads.mangadex.org/covers/aa1beaf2-ef04-4216-a6d8-edacb3e717fe/24783fb2-d201-4f31-ae7d-73319657f836.jpg",
                 "malId": 149674,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/aa1beaf2-ef04-4216-a6d8-edacb3e717fe"
             }
         },
-        "MangaFire": {
-            "shujinkou-nikki.1r6rm": {
-                "identifier": "shujinkou-nikki.1r6rm",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/91d9793520ab41631d7f51fbd38d5982.jpg",
-                "malId": 149674,
-                "aniId": 137816,
-                "page": "MangaFire",
-                "title": "Shujinkou Nikki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shujinkou-nikki.1r6rm/"
-            },
-            "shujinkou-nikkii.1r6rm": {
-                "identifier": "shujinkou-nikkii.1r6rm",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/91d9793520ab41631d7f51fbd38d5982.jpg",
-                "malId": 149674,
-                "aniId": 137816,
-                "page": "MangaFire",
-                "title": "Shujinkou Nikki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shujinkou-nikkii.1r6rm/"
-            }
-        },
         "MangaNato": {
             "manga-sw995531": {
+                "id": 152627,
                 "identifier": "manga-sw995531",
                 "image": "https://avt.mkklcdnv6temp.com/fld/81/s/14-1733305482-nw.webp",
                 "malId": 149674,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01jbfvv21hv2r5dmr1fkk6ez5c": {
+                "id": 215436,
                 "identifier": "01jbfvv21hv2r5dmr1fkk6ez5c",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBFVV21HV2R5DMR1FKK6EZ5C.jpg",
                 "malId": 149674,
@@ -62,6 +43,19 @@
                 "title": "Diary of a Female Lead - Shujinkou Nikki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBFVV21HV2R5DMR1FKK6EZ5C"
+            }
+        },
+        "MangaFire": {
+            "1r6rm": {
+                "id": 223874,
+                "identifier": "1r6rm",
+                "image": "https://static.mangafire.to/68bb/i/9/91/91d9793520ab41631d7f51fbd38d5982.jpg",
+                "malId": 149674,
+                "aniId": 137816,
+                "page": "MangaFire",
+                "title": "Shujinkou Nikki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shujinkou-nikkii.1r6rm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03": {
+                "id": 89162,
                 "identifier": "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03",
                 "image": "https://uploads.mangadex.org/covers/a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03/e69c9ff2-ae1d-435f-84c3-03b3e69b114c.jpg",
                 "malId": 140551,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mc989959": {
+                "id": 90208,
                 "identifier": "manga-mc989959",
                 "image": "https://avt.mkklcdnv6temp.com/3/u/25-1636000557.jpg",
                 "malId": 140551,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "to_a_new_you": {
+                "id": 90221,
                 "identifier": "to_a_new_you",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39856/cover.jpg",
                 "malId": 140551,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "to-a-new-you": {
+                "id": 91102,
                 "identifier": "to-a-new-you",
                 "image": "https://temp.compsci88.com/cover/To-a-New-You.jpg",
                 "malId": 140551,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/To-a-New-You"
             }
         },
-        "MangaFire": {
-            "to-a-new-you.llo5z": {
-                "identifier": "to-a-new-you.llo5z",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/023a3cc0e041617e264367f6a8bdec0f.jpg",
-                "malId": 140551,
-                "aniId": 139411,
-                "page": "MangaFire",
-                "title": "To a New You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/to-a-new-you.llo5z/"
-            },
-            "to-a-new-youu.llo5z": {
-                "identifier": "to-a-new-youu.llo5z",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/023a3cc0e041617e264367f6a8bdec0f.jpg",
-                "malId": 140551,
-                "aniId": 139411,
-                "page": "MangaFire",
-                "title": "To a New You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/to-a-new-youu.llo5z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5t7hjx7n06m4ggaxzx": {
+                "id": 213383,
                 "identifier": "01j76xyf5t7hjx7n06m4ggaxzx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5T7HJX7N06M4GGAXZX.jpg",
                 "malId": 140551,
@@ -86,6 +69,19 @@
                 "title": "To a New You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF5T7HJX7N06M4GGAXZX"
+            }
+        },
+        "MangaFire": {
+            "llo5z": {
+                "id": 225952,
+                "identifier": "llo5z",
+                "image": "https://static.mangafire.to/10b1/i/0/02/023a3cc0e041617e264367f6a8bdec0f.jpg",
+                "malId": 140551,
+                "aniId": 139411,
+                "page": "MangaFire",
+                "title": "To a New You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/to-a-new-youu.llo5z"
             }
         },
         "Comick": {

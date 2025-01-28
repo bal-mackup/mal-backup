@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "03b16158-e216-4385-8796-27ea645d74bb": {
+                "id": 21361,
                 "identifier": "03b16158-e216-4385-8796-27ea645d74bb",
                 "image": "https://uploads.mangadex.org/covers/03b16158-e216-4385-8796-27ea645d74bb/4160438a-58dd-43b7-899b-94a0834dfab9.jpg",
                 "malId": 104585,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "uchi-no-tsukaima-ga-sumimasen": {
+                "id": 54942,
                 "identifier": "uchi-no-tsukaima-ga-sumimasen",
                 "image": "https://temp.compsci88.com/cover/Uchi-No-Tsukaima-Ga-Sumimasen.jpg",
                 "malId": 104585,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "uchi_no_tsukaima_ga_sumimasen": {
+                "id": 65841,
                 "identifier": "uchi_no_tsukaima_ga_sumimasen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27458/cover.jpg",
                 "malId": 104585,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cn979570": {
+                "id": 77101,
                 "identifier": "manga-cn979570",
                 "image": "https://avt.mkklcdnv6temp.com/46/l/16-1583495138.jpg",
                 "malId": 104585,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-cn979570"
             }
         },
-        "MangaFire": {
-            "uchi-no-tsukaima-ga-sumimasen.llnqm": {
-                "identifier": "uchi-no-tsukaima-ga-sumimasen.llnqm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af3771b9a6fa7596609087e06379dc44.jpg",
-                "malId": 104585,
-                "aniId": 98994,
-                "page": "MangaFire",
-                "title": "Sorry for My Familiar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-tsukaima-ga-sumimasen.llnqm/"
-            },
-            "uchi-no-tsukaima-ga-sumimasenn.llnqm": {
-                "identifier": "uchi-no-tsukaima-ga-sumimasenn.llnqm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af3771b9a6fa7596609087e06379dc44.jpg",
-                "malId": 104585,
-                "aniId": 98994,
-                "page": "MangaFire",
-                "title": "Sorry for My Familiar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-tsukaima-ga-sumimasenn.llnqm/"
-            },
-            "llnqm": {
-                "identifier": "llnqm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af3771b9a6fa7596609087e06379dc44.jpg",
-                "malId": 104585,
-                "aniId": 98994,
-                "page": "MangaFire",
-                "title": "Sorry for My Familiar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-tsukaima-ga-sumimasenn.llnqm/"
-            }
-        },
         "Weebcentral": {
             "01j76xycdnj20pn1mpv3ecmasj": {
+                "id": 211265,
                 "identifier": "01j76xycdnj20pn1mpv3ecmasj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCDNJ20PN1MPV3ECMASJ.jpg",
                 "malId": 104585,
@@ -96,6 +69,19 @@
                 "title": "Sorry For My Familiar",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCDNJ20PN1MPV3ECMASJ"
+            }
+        },
+        "MangaFire": {
+            "llnqm": {
+                "id": 224647,
+                "identifier": "llnqm",
+                "image": "https://static.mangafire.to/bc32/i/a/af/af3771b9a6fa7596609087e06379dc44.jpg",
+                "malId": 104585,
+                "aniId": 98994,
+                "page": "MangaFire",
+                "title": "Sorry for My Familiar",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uchi-no-tsukaima-ga-sumimasenn.llnqm"
             }
         },
         "Comick": {

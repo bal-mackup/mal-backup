@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e": {
+                "id": 99876,
                 "identifier": "6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e",
                 "image": "https://uploads.mangadex.org/covers/6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e/671a8557-ca5d-4017-ae24-e59e83693fcb.jpg",
                 "malId": 152572,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nk990667": {
+                "id": 100105,
                 "identifier": "manga-nk990667",
                 "image": "https://avt.mkklcdnv6temp.com/34/a/25-1648437011.jpg",
                 "malId": 152572,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "yuiitsu-muni-no-saikyou-tamer": {
+                "id": 116144,
                 "identifier": "yuiitsu-muni-no-saikyou-tamer",
                 "image": "https://temp.compsci88.com/cover/Yuiitsu-Muni-No-Saikyou-Tamer.jpg",
                 "malId": 152572,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Yuiitsu-Muni-No-Saikyou-Tamer"
             }
         },
-        "MangaFire": {
-            "yuiitsu-muni-no-saikyou-tamer.rly8q": {
-                "identifier": "yuiitsu-muni-no-saikyou-tamer.rly8q",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70d30e1be920aeffd45bf407c3ac4a81.jpg",
-                "malId": 152572,
-                "aniId": 153996,
-                "page": "MangaFire",
-                "title": "Yuiitsu Muni No Saikyou Tamer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuiitsu-muni-no-saikyou-tamer.rly8q/"
-            },
-            "yuiitsu-muni-no-saikyou-tamerr.rly8q": {
-                "identifier": "yuiitsu-muni-no-saikyou-tamerr.rly8q",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70d30e1be920aeffd45bf407c3ac4a81.jpg",
-                "malId": 152572,
-                "aniId": 153996,
-                "page": "MangaFire",
-                "title": "Yuiitsu Muni No Saikyou Tamer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuiitsu-muni-no-saikyou-tamerr.rly8q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfr6dbx3g7qmgwtv98f4": {
+                "id": 211843,
                 "identifier": "01j76xyfr6dbx3g7qmgwtv98f4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFR6DBX3G7QMGWTV98F4.jpg",
                 "malId": 152572,
@@ -74,6 +56,19 @@
                 "title": "Yuiitsu Muni no Saikyou Tamer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFR6DBX3G7QMGWTV98F4"
+            }
+        },
+        "MangaFire": {
+            "rly8q": {
+                "id": 226813,
+                "identifier": "rly8q",
+                "image": "https://static.mangafire.to/30ed/i/7/70/70d30e1be920aeffd45bf407c3ac4a81.jpg",
+                "malId": 152572,
+                "aniId": 153996,
+                "page": "MangaFire",
+                "title": "Yuiitsu Muni No Saikyou Tamer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuiitsu-muni-no-saikyou-tamerr.rly8q"
             }
         },
         "Comick": {

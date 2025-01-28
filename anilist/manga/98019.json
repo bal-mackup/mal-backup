@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9ff36bf4-03e2-4b30-937c-71a195e3aca1": {
+                "id": 17417,
                 "identifier": "9ff36bf4-03e2-4b30-937c-71a195e3aca1",
                 "image": "https://uploads.mangadex.org/covers/9ff36bf4-03e2-4b30-937c-71a195e3aca1/f4b4099d-cddb-4c85-82a5-9c53838708f7.png",
                 "malId": 103009,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fulldrum": {
+                "id": 63042,
                 "identifier": "fulldrum",
                 "image": "https://temp.compsci88.com/cover/Fulldrum.jpg",
                 "malId": 103009,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yb975636": {
+                "id": 80832,
                 "identifier": "manga-yb975636",
                 "image": "https://avt.mkklcdnv6temp.com/13/y/15-1583491963.jpg",
                 "malId": 103009,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-yb975636"
             }
         },
-        "MangaFire": {
-            "fulldrum.2o3kl": {
-                "identifier": "fulldrum.2o3kl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/32d790336bc31d85cfb8f71e4e73045b.jpg",
-                "malId": 103009,
-                "aniId": 98019,
-                "page": "MangaFire",
-                "title": "Full Drum",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fulldrum.2o3kl/"
-            },
-            "2o3kl": {
-                "identifier": "2o3kl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/32d790336bc31d85cfb8f71e4e73045b.jpg",
-                "malId": 103009,
-                "aniId": 98019,
-                "page": "MangaFire",
-                "title": "Full Drum",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fulldrum.2o3kl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc54e57pj703qvp8bw24": {
+                "id": 208309,
                 "identifier": "01j76xyc54e57pj703qvp8bw24",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC54E57PJ703QVP8BW24.jpg",
                 "malId": 103009,
@@ -74,6 +56,19 @@
                 "title": "Fulldrum",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC54E57PJ703QVP8BW24"
+            }
+        },
+        "MangaFire": {
+            "2o3kl": {
+                "id": 258909,
+                "identifier": "2o3kl",
+                "image": "https://static.mangafire.to/c050/i/3/32/32d790336bc31d85cfb8f71e4e73045b.jpg",
+                "malId": 103009,
+                "aniId": 98019,
+                "page": "MangaFire",
+                "title": "Full Drum",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fulldrumm.2o3kl"
             }
         },
         "Comick": {

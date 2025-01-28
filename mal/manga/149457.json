@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mx989606": {
+                "id": 86364,
                 "identifier": "manga-mx989606",
                 "image": "https://avt.mkklcdnv6temp.com/6/x/26-1655460259.jpg",
                 "malId": 149457,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "earth-savior-selection": {
+                "id": 88318,
                 "identifier": "earth-savior-selection",
                 "image": "https://temp.compsci88.com/cover/Earth-Savior-Selection.jpg",
                 "malId": 149457,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "b4c7490b-f00b-4660-af8e-20b2d58b83ef": {
+                "id": 105672,
                 "identifier": "b4c7490b-f00b-4660-af8e-20b2d58b83ef",
                 "image": "https://uploads.mangadex.org/covers/b4c7490b-f00b-4660-af8e-20b2d58b83ef/81d40f5d-db9d-434d-8a24-7db46d0cb3ac.jpg",
                 "malId": 149457,
@@ -42,20 +45,9 @@
                 "url": "https://mangadex.org/title/b4c7490b-f00b-4660-af8e-20b2d58b83ef"
             }
         },
-        "MangaFire": {
-            "the-earths-chosen-savior.pr12j": {
-                "identifier": "the-earths-chosen-savior.pr12j",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e797ae771e345047736d49016b617a4.jpg",
-                "malId": 149457,
-                "aniId": 138917,
-                "page": "MangaFire",
-                "title": "The Earth's Chosen Savior",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-earths-chosen-savior.pr12j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf3sj7q4mzkqjmp3nha5": {
+                "id": 214415,
                 "identifier": "01j76xyf3sj7q4mzkqjmp3nha5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF3SJ7Q4MZKQJMP3NHA5.jpg",
                 "malId": 149457,
@@ -64,6 +56,19 @@
                 "title": "The Earth's Chosen Savior",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF3SJ7Q4MZKQJMP3NHA5"
+            }
+        },
+        "MangaFire": {
+            "pr12j": {
+                "id": 248213,
+                "identifier": "pr12j",
+                "image": "https://static.mangafire.to/9205/i/6/6e/6e797ae771e345047736d49016b617a4.jpg",
+                "malId": 149457,
+                "aniId": 138917,
+                "page": "MangaFire",
+                "title": "The Earth's Chosen Savior",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-earths-chosen-saviorr.pr12j"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5b93fa0f-0640-49b8-974e-954b9959929b": {
+                "id": 10717,
                 "identifier": "5b93fa0f-0640-49b8-974e-954b9959929b",
                 "image": "https://uploads.mangadex.org/covers/5b93fa0f-0640-49b8-974e-954b9959929b/760a82b6-ff87-4da2-971b-29a11ad535bc.jpg",
                 "malId": 72467,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/5b93fa0f-0640-49b8-974e-954b9959929b"
             },
             "e61cd24e-d08b-4752-8c19-226c8a9fce4e": {
+                "id": 187079,
                 "identifier": "e61cd24e-d08b-4752-8c19-226c8a9fce4e",
                 "image": "https://uploads.mangadex.org/covers/e61cd24e-d08b-4752-8c19-226c8a9fce4e/7f069aba-f610-47b4-bc29-751273ac96f6.png",
                 "malId": 72467,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "shoujo-apocalypse-adventure": {
+                "id": 57362,
                 "identifier": "shoujo-apocalypse-adventure",
                 "image": "https://temp.compsci88.com/cover/Shoujo-Apocalypse-Adventure.jpg",
                 "malId": 72467,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "shoujo_shuumatsu_ryokou": {
+                "id": 68363,
                 "identifier": "shoujo_shuumatsu_ryokou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13863/cover.jpg",
                 "malId": 72467,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-sn953170": {
+                "id": 74820,
                 "identifier": "manga-sn953170",
                 "image": "https://avt.mkklcdnv6temp.com/14/c/2-1583466243.jpg",
                 "malId": 72467,
@@ -64,6 +69,7 @@
                 "url": "https://manganato.com/manga-sn953170"
             },
             "manga-yx1001906": {
+                "id": 187699,
                 "identifier": "manga-yx1001906",
                 "image": "https://avt.mkklcdnv6temp.com/fld/25/j/17-1733322709-nw.webp",
                 "malId": 72467,
@@ -74,48 +80,22 @@
                 "url": "https://chapmanganato.to/manga-yx1001906"
             }
         },
+        "Weebcentral": {
+            "01j76xya977ppb6f2pxrv178nz": {
+                "id": 206690,
+                "identifier": "01j76xya977ppb6f2pxrv178nz",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYA977PPB6F2PXRV178NZ.jpg",
+                "malId": 72467,
+                "aniId": 85412,
+                "page": "Weebcentral",
+                "title": "Girls' Last Tour",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYA977PPB6F2PXRV178NZ"
+            }
+        },
         "MangaFire": {
-            "girls-last-tour.lwmq": {
-                "identifier": "girls-last-tour.lwmq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b6/b63f951c1b68b648d8be89d7e9b9fd34.jpg",
-                "malId": 72467,
-                "aniId": 85412,
-                "page": "MangaFire",
-                "title": "Girls' Last Tour",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/girls-last-tour.lwmq/"
-            },
-            "shoujo-shuumatsu-ryokou-matome-bon.jpy34": {
-                "identifier": "shoujo-shuumatsu-ryokou-matome-bon.jpy34",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/f8785e0213a1c42964b9798ad31a0f7d.jpg",
-                "malId": 72467,
-                "aniId": 85412,
-                "page": "MangaFire",
-                "title": "Shoujo Shuumatsu Ryokou - Matome Bon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shoujo-shuumatsu-ryokou-matome-bon.jpy34/"
-            },
-            "girls-last-tourr.lwmq": {
-                "identifier": "girls-last-tourr.lwmq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b6/b63f951c1b68b648d8be89d7e9b9fd34.jpg",
-                "malId": 72467,
-                "aniId": 85412,
-                "page": "MangaFire",
-                "title": "Girls' Last Tour",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/girls-last-tourr.lwmq/"
-            },
-            "shoujo-shuumatsu-ryokou-matome-bonn.jpy34": {
-                "identifier": "shoujo-shuumatsu-ryokou-matome-bonn.jpy34",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/f8785e0213a1c42964b9798ad31a0f7d.jpg",
-                "malId": 72467,
-                "aniId": 85412,
-                "page": "MangaFire",
-                "title": "Shoujo Shuumatsu Ryokou - Matome Bon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shoujo-shuumatsu-ryokou-matome-bonn.jpy34/"
-            },
             "lwmq": {
+                "id": 226071,
                 "identifier": "lwmq",
                 "image": "https://static.mangafire.to/7c2b/i/b/b6/b63f951c1b68b648d8be89d7e9b9fd34.jpg",
                 "malId": 72467,
@@ -126,26 +106,15 @@
                 "url": "https://mangafire.to/manga/girls-last-tourr.lwmq"
             },
             "jpy34": {
+                "id": 230624,
                 "identifier": "jpy34",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/f8785e0213a1c42964b9798ad31a0f7d.jpg",
+                "image": "https://static.mangafire.to/4e10/i/3/3d/f8785e0213a1c42964b9798ad31a0f7d.jpg",
                 "malId": 72467,
                 "aniId": 85412,
                 "page": "MangaFire",
                 "title": "Shoujo Shuumatsu Ryokou - Matome Bon",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/shoujo-shuumatsu-ryokou-matome-bonn.jpy34/"
-            }
-        },
-        "Weebcentral": {
-            "01j76xya977ppb6f2pxrv178nz": {
-                "identifier": "01j76xya977ppb6f2pxrv178nz",
-                "image": "https://temp.compsci88.com/cover/fallback/01J76XYA977PPB6F2PXRV178NZ.jpg",
-                "malId": 72467,
-                "aniId": 85412,
-                "page": "Weebcentral",
-                "title": "Girls' Last Tour",
-                "type": "manga",
-                "url": "https://weebcentral.com/series/01J76XYA977PPB6F2PXRV178NZ"
+                "url": "https://mangafire.to/manga/shoujo-shuumatsu-ryokou-matome-bonn.jpy34"
             }
         },
         "Comick": {

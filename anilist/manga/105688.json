@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a711f7e2-d42e-4026-a2ff-03657d5bc6d2": {
+                "id": 25600,
                 "identifier": "a711f7e2-d42e-4026-a2ff-03657d5bc6d2",
                 "image": "https://uploads.mangadex.org/covers/a711f7e2-d42e-4026-a2ff-03657d5bc6d2/bb1a231e-9bed-4172-8e7e-2e7b5fb6f7f0.jpg",
                 "malId": 120481,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-cannot-reach-you": {
+                "id": 71832,
                 "identifier": "i-cannot-reach-you",
                 "image": "https://temp.compsci88.com/cover/I-Cannot-Reach-You.jpg",
                 "malId": 120481,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ff982588": {
+                "id": 95820,
                 "identifier": "manga-ff982588",
                 "image": "https://avt.mkklcdnv6temp.com/fld/1/t/9-1732798070-nw.webp",
                 "malId": 120481,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kimi_ni_wa_todokanai": {
+                "id": 128423,
                 "identifier": "kimi_ni_wa_todokanai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38370/cover.jpg",
                 "malId": 120481,
@@ -54,6 +58,7 @@
                 "url": "https://fanfox.net/manga/kimi_ni_wa_todokanai/"
             },
             "kimi_niwa_todokanai": {
+                "id": 128424,
                 "identifier": "kimi_niwa_todokanai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31132/cover.jpg",
                 "malId": 120481,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/kimi_niwa_todokanai/"
             }
         },
-        "MangaFire": {
-            "kimi-ni-wa-todokanai.92n58": {
-                "identifier": "kimi-ni-wa-todokanai.92n58",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/79a131ba53145eceda54dc3a3b600d4a.jpg",
-                "malId": 120481,
-                "aniId": 105688,
-                "page": "MangaFire",
-                "title": "I Cannot Reach You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-wa-todokanai.92n58/"
-            },
-            "kimi-ni-wa-todokanaii.92n58": {
-                "identifier": "kimi-ni-wa-todokanaii.92n58",
-                "image": "https://static.mangafire.to/6ce9/i/7/79/79a131ba53145eceda54dc3a3b600d4a.jpg",
-                "malId": 120481,
-                "aniId": 105688,
-                "page": "MangaFire",
-                "title": "I Cannot Reach You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-wa-todokanaii.92n58/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeqccjs321ybsfb6pzd3": {
+                "id": 211078,
                 "identifier": "01j76xyeqccjs321ybsfb6pzd3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEQCCJS321YBSFB6PZD3.jpg",
                 "malId": 120481,
@@ -96,6 +80,19 @@
                 "title": "I Cannot Reach You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEQCCJS321YBSFB6PZD3"
+            }
+        },
+        "MangaFire": {
+            "92n58": {
+                "id": 223195,
+                "identifier": "92n58",
+                "image": "https://static.mangafire.to/6ce9/i/7/79/79a131ba53145eceda54dc3a3b600d4a.jpg",
+                "malId": 120481,
+                "aniId": 105688,
+                "page": "MangaFire",
+                "title": "I Cannot Reach You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ni-wa-todokanaii.92n58"
             }
         },
         "Comick": {

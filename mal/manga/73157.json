@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e69a40d-06b4-4c34-9457-00524d075963": {
+                "id": 10825,
                 "identifier": "7e69a40d-06b4-4c34-9457-00524d075963",
                 "image": "https://uploads.mangadex.org/covers/7e69a40d-06b4-4c34-9457-00524d075963/b9fdf228-df05-43b1-a894-5f77cc0d913b.jpg",
                 "malId": 73157,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ark-romancer": {
+                "id": 66481,
                 "identifier": "ark-romancer",
                 "image": "https://temp.compsci88.com/cover/Ark-Romancer.jpg",
                 "malId": 73157,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Ark-Romancer"
             }
         },
-        "MangaFire": {
-            "arkromancer.zm03": {
-                "identifier": "arkromancer.zm03",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81a4c71ea49bb189854afdd4c092e78f.jpg",
-                "malId": 73157,
-                "aniId": 85665,
-                "page": "MangaFire",
-                "title": "Ark:Romancer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arkromancer.zm03/"
-            },
-            "zm03": {
-                "identifier": "zm03",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81a4c71ea49bb189854afdd4c092e78f.jpg",
-                "malId": 73157,
-                "aniId": 85665,
-                "page": "MangaFire",
-                "title": "Ark:Romancer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arkromancer.zm03/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaahkvtzbp4vbsk5pj06": {
+                "id": 211858,
                 "identifier": "01j76xyaahkvtzbp4vbsk5pj06",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAAHKVTZBP4VBSK5PJ06.jpg",
                 "malId": 73157,
@@ -62,6 +43,19 @@
                 "title": "ARK:Romancer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAAHKVTZBP4VBSK5PJ06"
+            }
+        },
+        "MangaFire": {
+            "zm03": {
+                "id": 247437,
+                "identifier": "zm03",
+                "image": "https://static.mangafire.to/5cb3/i/8/81/81a4c71ea49bb189854afdd4c092e78f.jpg",
+                "malId": 73157,
+                "aniId": 85665,
+                "page": "MangaFire",
+                "title": "Ark:Romancer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/arkromancerr.zm03"
             }
         },
         "Comick": {

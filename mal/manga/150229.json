@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-pp992498": {
+                "id": 122251,
                 "identifier": "manga-pp992498",
                 "image": "https://avt.mkklcdnv6temp.com/10/c/27-1663656965.jpg",
                 "malId": 150229,
@@ -18,20 +19,9 @@
                 "url": "https://chapmanganato.com/manga-pp992498"
             }
         },
-        "MangaFire": {
-            "the-wicked-wife-of-a-scheming-ceo.kkyyw": {
-                "identifier": "the-wicked-wife-of-a-scheming-ceo.kkyyw",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19088312f5b129399e0b9448c3b8606a.jpg",
-                "malId": 150229,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Wicked Wife of a Scheming CEO",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-wicked-wife-of-a-scheming-ceo.kkyyw/"
-            }
-        },
         "MangaFox": {
             "the_wicked_wife_of_a_scheming_ceo": {
+                "id": 197916,
                 "identifier": "the_wicked_wife_of_a_scheming_ceo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43441/cover.jpg",
                 "malId": 150229,
@@ -40,6 +30,19 @@
                 "title": "The Wicked Wife of a Scheming CEO",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_wicked_wife_of_a_scheming_ceo/"
+            }
+        },
+        "MangaFire": {
+            "kkyyw": {
+                "id": 234962,
+                "identifier": "kkyyw",
+                "image": "https://static.mangafire.to/547e/i/1/19/19088312f5b129399e0b9448c3b8606a.jpg",
+                "malId": 150229,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Wicked Wife of a Scheming CEO",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-wicked-wife-of-a-scheming-ceoo.kkyyw"
             }
         }
     }

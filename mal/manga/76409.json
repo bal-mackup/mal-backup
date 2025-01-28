@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b34fe0fa-a8f0-4ee3-a78b-4a7f7240b59f": {
+                "id": 12553,
                 "identifier": "b34fe0fa-a8f0-4ee3-a78b-4a7f7240b59f",
                 "image": "https://uploads.mangadex.org/covers/b34fe0fa-a8f0-4ee3-a78b-4a7f7240b59f/c06f9ee7-5450-4331-a6dc-1dca3ff3df28.jpg",
                 "malId": 76409,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ou_sama_ni_sasagu_kusuriyubi": {
+                "id": 68030,
                 "identifier": "ou_sama_ni_sasagu_kusuriyubi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21051/cover.jpg",
                 "malId": 76409,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ousama-ni-sasagu-kusuriyubi": {
+                "id": 69828,
                 "identifier": "ousama-ni-sasagu-kusuriyubi",
                 "image": "https://temp.compsci88.com/cover/Ousama-Ni-Sasagu-Kusuriyubi.jpg",
                 "malId": 76409,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ub972210": {
+                "id": 76359,
                 "identifier": "manga-ub972210",
                 "image": "https://avt.mkklcdnv6temp.com/10/o/14-1583490119.jpg",
                 "malId": 76409,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-ub972210"
             }
         },
-        "MangaFire": {
-            "ousama-ni-sasagu-kusuriyubi.4jlvm": {
-                "identifier": "ousama-ni-sasagu-kusuriyubi.4jlvm",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d50ea12b34882c4729760f5d9363cec.jpg",
-                "malId": 76409,
-                "aniId": 92355,
-                "page": "MangaFire",
-                "title": "The Third Finger offered to a King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ousama-ni-sasagu-kusuriyubi.4jlvm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd1hyhp8r97wphehgcya": {
+                "id": 212458,
                 "identifier": "01j76xyd1hyhp8r97wphehgcya",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD1HYHP8R97WPHEHGCYA.jpg",
                 "malId": 76409,
@@ -76,6 +69,19 @@
                 "title": "Ou-sama ni Sasagu Kusuriyubi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD1HYHP8R97WPHEHGCYA"
+            }
+        },
+        "MangaFire": {
+            "4jlvm": {
+                "id": 244996,
+                "identifier": "4jlvm",
+                "image": "https://static.mangafire.to/e6cd/i/7/7d/7d50ea12b34882c4729760f5d9363cec.jpg",
+                "malId": 76409,
+                "aniId": 92355,
+                "page": "MangaFire",
+                "title": "The Third Finger offered to a King",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ousama-ni-sasagu-kusuriyubii.4jlvm"
             }
         },
         "Comick": {

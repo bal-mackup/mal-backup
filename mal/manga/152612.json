@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5bad4a36-31a3-491d-a63c-2640f08f0cba": {
+                "id": 101982,
                 "identifier": "5bad4a36-31a3-491d-a63c-2640f08f0cba",
                 "image": "https://uploads.mangadex.org/covers/5bad4a36-31a3-491d-a63c-2640f08f0cba/e10fb7ca-1839-46b4-abf1-ea244bb680db.jpg",
                 "malId": 152612,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "jwippuldo_eobsneun_hoegwi": {
+                "id": 105222,
                 "identifier": "jwippuldo_eobsneun_hoegwi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42020/cover.jpg",
                 "malId": 152612,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/jwippuldo_eobsneun_hoegwi/"
             },
             "worthless_regression": {
+                "id": 107386,
                 "identifier": "worthless_regression",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42020/cover.jpg",
                 "malId": 152612,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-nu990903": {
+                "id": 105879,
                 "identifier": "manga-nu990903",
                 "image": "https://avt.mkklcdnv6temp.com/43/o/25-1653915991.jpg",
                 "malId": 152612,
@@ -52,30 +56,9 @@
                 "url": "https://chapmanganato.com/manga-nu990903"
             }
         },
-        "MangaFire": {
-            "worthless-regression.xjmrq": {
-                "identifier": "worthless-regression.xjmrq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/393d6b387b196ca1dfe0d2ccb71e9a22.jpg",
-                "malId": 152612,
-                "aniId": 147027,
-                "page": "MangaFire",
-                "title": "Returning With Absolutely Nothing",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/worthless-regression.xjmrq/"
-            },
-            "worthless-regressionn.xjmrq": {
-                "identifier": "worthless-regressionn.xjmrq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/393d6b387b196ca1dfe0d2ccb71e9a22.jpg",
-                "malId": 152612,
-                "aniId": 147027,
-                "page": "MangaFire",
-                "title": "Returning With Absolutely Nothing",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/worthless-regressionn.xjmrq/"
-            }
-        },
         "MangaSee": {
             "returning-with-absolutely-nothing": {
+                "id": 185818,
                 "identifier": "returning-with-absolutely-nothing",
                 "image": "https://temp.compsci88.com/cover/Returning-With-Absolutely-Nothing.jpg",
                 "malId": 152612,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xyh3ghgqf7dfkyadaf7a2": {
+                "id": 213240,
                 "identifier": "01j76xyh3ghgqf7dfkyadaf7a2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH3GHGQF7DFKYADAF7A2.jpg",
                 "malId": 152612,
@@ -96,6 +80,19 @@
                 "title": "Returning With Absolutely Nothing",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH3GHGQF7DFKYADAF7A2"
+            }
+        },
+        "MangaFire": {
+            "xjmrq": {
+                "id": 224032,
+                "identifier": "xjmrq",
+                "image": "https://static.mangafire.to/9ca6/i/3/39/393d6b387b196ca1dfe0d2ccb71e9a22.jpg",
+                "malId": 152612,
+                "aniId": 147027,
+                "page": "MangaFire",
+                "title": "Returning With Absolutely Nothing",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/worthless-regressionn.xjmrq"
             }
         },
         "Comick": {

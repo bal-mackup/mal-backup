@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cc121572-858e-4bd2-b5f3-ef505eca0081": {
+                "id": 29544,
                 "identifier": "cc121572-858e-4bd2-b5f3-ef505eca0081",
                 "image": "https://uploads.mangadex.org/covers/cc121572-858e-4bd2-b5f3-ef505eca0081/bf27aa1f-815c-45e9-8a69-b5e8b7427717.jpg",
                 "malId": 122777,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga": {
+                "id": 54188,
                 "identifier": "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga",
                 "image": "https://temp.compsci88.com/cover/Hazure-Skill-Kage-ga-Usui-o-Motsu-Guild-Shokuin-ga.jpg",
                 "malId": 122777,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hazure_skill_kage_ga_usui_o_motsu_guild_shokuin_ga_jitsu_wa_densetsu_no_ansatsusha": {
+                "id": 60708,
                 "identifier": "hazure_skill_kage_ga_usui_o_motsu_guild_shokuin_ga_jitsu_wa_densetsu_no_ansatsusha",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31957/cover.jpg",
                 "malId": 122777,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ff982414": {
+                "id": 72824,
                 "identifier": "manga-ff982414",
                 "image": "https://avt.mkklcdnv6temp.com/50/x/18-1583499094.jpg",
                 "malId": 122777,
@@ -53,9 +57,21 @@
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-ff982414"
             },
+            "manga-nq990973": {
+                "id": 106309,
+                "identifier": "manga-nq990973",
+                "image": "https://avt.mkklcdnv6temp.com/46/h/25-1654304239.jpg",
+                "malId": 122777,
+                "aniId": 111101,
+                "page": "MangaNato",
+                "title": "Hazure Skill ",
+                "type": "manga",
+                "url": "https://chapmanganato.com/manga-nq990973"
+            },
             "manga-xh1000364": {
+                "id": 179742,
                 "identifier": "manga-xh1000364",
-                "image": "https://avt.mkklcdnv6temp.com/24/h/33-1705460160.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/66/g/16-1733317936-nw.webp",
                 "malId": 122777,
                 "aniId": 111101,
                 "page": "MangaNato",
@@ -64,30 +80,9 @@
                 "url": "https://chapmanganato.to/manga-xh1000364"
             }
         },
-        "MangaFire": {
-            "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha.295zq": {
-                "identifier": "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha.295zq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8a/8adcdc5bbc5d616e191f2f65d369345b.jpg",
-                "malId": 122777,
-                "aniId": 111101,
-                "page": "MangaFire",
-                "title": "Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha.295zq/"
-            },
-            "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsushaa.295zq": {
-                "identifier": "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsushaa.295zq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8a/8adcdc5bbc5d616e191f2f65d369345b.jpg",
-                "malId": 122777,
-                "aniId": 111101,
-                "page": "MangaFire",
-                "title": "Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsushaa.295zq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd2mcjn16rs8vsakrej2": {
+                "id": 211704,
                 "identifier": "01j76xyd2mcjn16rs8vsakrej2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD2MCJN16RS8VSAKREJ2.jpg",
                 "malId": 122777,
@@ -96,6 +91,19 @@
                 "title": "Hazure Skill - The Guild Member with a Worthless Skill Is Actually a Legendary Assassin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD2MCJN16RS8VSAKREJ2"
+            }
+        },
+        "MangaFire": {
+            "295zq": {
+                "id": 256790,
+                "identifier": "295zq",
+                "image": "https://static.mangafire.to/0aef/i/8/8a/8adcdc5bbc5d616e191f2f65d369345b.jpg",
+                "malId": 122777,
+                "aniId": 111101,
+                "page": "MangaFire",
+                "title": "Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsushaa.295zq"
             }
         },
         "Comick": {

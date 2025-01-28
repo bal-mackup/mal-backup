@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8244d680-a564-4d55-8d00-ebac607e6c93": {
+                "id": 10753,
                 "identifier": "8244d680-a564-4d55-8d00-ebac607e6c93",
                 "image": "https://uploads.mangadex.org/covers/8244d680-a564-4d55-8d00-ebac607e6c93/42b61105-6c50-49b6-ab46-c3f1148d3bfc.jpg",
                 "malId": 72717,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tendou-no-singularity": {
+                "id": 60453,
                 "identifier": "tendou-no-singularity",
                 "image": "https://temp.compsci88.com/cover/Tendou-No-Singularity.jpg",
                 "malId": 72717,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tendou-No-Singularity"
             }
         },
-        "MangaFire": {
-            "tendou-no-singularity.m91p": {
-                "identifier": "tendou-no-singularity.m91p",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6de0edb1602fff8e69e98d52ceb8331a.jpg",
-                "malId": 72717,
-                "aniId": 91680,
-                "page": "MangaFire",
-                "title": "Ptolemy's Singularity",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tendou-no-singularity.m91p/"
-            },
-            "m91p": {
-                "identifier": "m91p",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6de0edb1602fff8e69e98d52ceb8331a.jpg",
-                "malId": 72717,
-                "aniId": 91680,
-                "page": "MangaFire",
-                "title": "Ptolemy's Singularity",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tendou-no-singularity.m91p/"
-            }
-        },
         "Weebcentral": {
             "01j76xybbtcqw3bee2yb99ehb3": {
+                "id": 207374,
                 "identifier": "01j76xybbtcqw3bee2yb99ehb3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBBTCQW3BEE2YB99EHB3.jpg",
                 "malId": 72717,
@@ -62,6 +43,19 @@
                 "title": "Tendou no Singularity",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBBTCQW3BEE2YB99EHB3"
+            }
+        },
+        "MangaFire": {
+            "m91p": {
+                "id": 249784,
+                "identifier": "m91p",
+                "image": "https://static.mangafire.to/fb85/i/6/6d/6de0edb1602fff8e69e98d52ceb8331a.jpg",
+                "malId": 72717,
+                "aniId": 91680,
+                "page": "MangaFire",
+                "title": "Ptolemy's Singularity",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tendou-no-singularityy.m91p"
             }
         },
         "Comick": {

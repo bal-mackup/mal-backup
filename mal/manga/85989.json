@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "16534b97-57a5-4542-83c1-ecf0aaa86a07": {
+                "id": 12493,
                 "identifier": "16534b97-57a5-4542-83c1-ecf0aaa86a07",
                 "image": "https://uploads.mangadex.org/covers/16534b97-57a5-4542-83c1-ecf0aaa86a07/5be9a254-98dc-43ac-bd25-4ae1ac7bf774.jpg",
                 "malId": 85989,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenshi-to-akuto": {
+                "id": 82751,
                 "identifier": "tenshi-to-akuto",
                 "image": "https://temp.compsci88.com/cover/Tenshi-To-Akuto.jpg",
                 "malId": 85989,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kw962031": {
+                "id": 83014,
                 "identifier": "manga-kw962031",
                 "image": "https://avt.mkklcdnv6temp.com/6/z/8-1583478444.jpg",
                 "malId": 85989,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tenshi_to_akuto": {
+                "id": 83018,
                 "identifier": "tenshi_to_akuto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15032/cover.jpg",
                 "malId": 85989,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tenshi_to_akuto/"
             }
         },
-        "MangaFire": {
-            "tenshi-to-akuto.zllvl": {
-                "identifier": "tenshi-to-akuto.zllvl",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93c2c1783f9c111a3781615e7aa7e8a7.jpg",
-                "malId": 85989,
-                "aniId": 93818,
-                "page": "MangaFire",
-                "title": "Tenshi to Akuto!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenshi-to-akuto.zllvl/"
-            },
-            "tenshi-to-akutoo.zllvl": {
-                "identifier": "tenshi-to-akutoo.zllvl",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93c2c1783f9c111a3781615e7aa7e8a7.jpg",
-                "malId": 85989,
-                "aniId": 93818,
-                "page": "MangaFire",
-                "title": "Tenshi to Akuto!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenshi-to-akutoo.zllvl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc0tg9ycjknfcmemsk72": {
+                "id": 208201,
                 "identifier": "01j76xyc0tg9ycjknfcmemsk72",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC0TG9YCJKNFCMEMSK72.jpg",
                 "malId": 85989,
@@ -86,6 +69,19 @@
                 "title": "Tenshi to Akuto!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC0TG9YCJKNFCMEMSK72"
+            }
+        },
+        "MangaFire": {
+            "zllvl": {
+                "id": 226011,
+                "identifier": "zllvl",
+                "image": "https://static.mangafire.to/dd9b/i/9/93/93c2c1783f9c111a3781615e7aa7e8a7.jpg",
+                "malId": 85989,
+                "aniId": 93818,
+                "page": "MangaFire",
+                "title": "Tenshi to Akuto!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenshi-to-akutoo.zllvl"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1f7c5511-b6f9-4b77-bf3f-2053e5f9ae1b": {
+                "id": 22602,
                 "identifier": "1f7c5511-b6f9-4b77-bf3f-2053e5f9ae1b",
                 "image": "https://uploads.mangadex.org/covers/1f7c5511-b6f9-4b77-bf3f-2053e5f9ae1b/2d3637d8-402e-4acd-b9a5-6e1a4ed5171d.jpg",
                 "malId": 97635,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kiznaiver": {
+                "id": 68499,
                 "identifier": "kiznaiver",
                 "image": "https://temp.compsci88.com/cover/Kiznaiver.jpg",
                 "malId": 97635,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tv970856": {
+                "id": 85116,
                 "identifier": "manga-tv970856",
                 "image": "https://avt.mkklcdnv6temp.com/34/e/13-1583488964.jpg",
                 "malId": 97635,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kiznaiver": {
+                "id": 94250,
                 "identifier": "kiznaiver",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19491/cover.jpg",
                 "malId": 97635,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/kiznaiver/"
             }
         },
-        "MangaFire": {
-            "kiznaiver.4j15x": {
-                "identifier": "kiznaiver.4j15x",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3fe9b2ab5ea2f5c98a7269cfe371142.jpg",
-                "malId": 97635,
-                "aniId": 87447,
-                "page": "MangaFire",
-                "title": "KIZNAIVER",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiznaiver.4j15x/"
-            },
-            "kiznaiverr.4j15x": {
-                "identifier": "kiznaiverr.4j15x",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3fe9b2ab5ea2f5c98a7269cfe371142.jpg",
-                "malId": 97635,
-                "aniId": 87447,
-                "page": "MangaFire",
-                "title": "KIZNAIVER",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiznaiverr.4j15x/"
-            },
-            "4j15x": {
-                "identifier": "4j15x",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3fe9b2ab5ea2f5c98a7269cfe371142.jpg",
-                "malId": 97635,
-                "aniId": 87447,
-                "page": "MangaFire",
-                "title": "KIZNAIVER",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiznaiverr.4j15x/"
-            }
-        },
         "Weebcentral": {
             "01j76xybprfcz8hfzn2ny13qad": {
+                "id": 210915,
                 "identifier": "01j76xybprfcz8hfzn2ny13qad",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBPRFCZ8HFZN2NY13QAD.jpg",
                 "malId": 97635,
@@ -96,6 +69,19 @@
                 "title": "Kiznaiver",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBPRFCZ8HFZN2NY13QAD"
+            }
+        },
+        "MangaFire": {
+            "4j15x": {
+                "id": 258217,
+                "identifier": "4j15x",
+                "image": "https://static.mangafire.to/b75a/i/f/f3/f3fe9b2ab5ea2f5c98a7269cfe371142.jpg",
+                "malId": 97635,
+                "aniId": 87447,
+                "page": "MangaFire",
+                "title": "KIZNAIVER",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kiznaiverr.4j15x"
             }
         },
         "Comick": {

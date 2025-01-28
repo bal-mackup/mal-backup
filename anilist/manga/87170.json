@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6fef1f74-a0ad-4f0d-99db-d32a7cd24098": {
+                "id": 15596,
                 "identifier": "6fef1f74-a0ad-4f0d-99db-d32a7cd24098",
                 "image": "https://uploads.mangadex.org/covers/6fef1f74-a0ad-4f0d-99db-d32a7cd24098/b437f317-6f1e-48ae-a8a0-54cdd2abfd2f.jpg",
                 "malId": 98270,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "fire_punch": {
+                "id": 54423,
                 "identifier": "fire_punch",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19817/cover.jpg",
                 "malId": 98270,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "fire-punch": {
+                "id": 54425,
                 "identifier": "fire-punch",
                 "image": "https://temp.compsci88.com/cover/Fire-Punch.jpg",
                 "malId": 98270,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-tf971140": {
+                "id": 72883,
                 "identifier": "manga-tf971140",
                 "image": "https://avt.mkklcdnv6temp.com/40/a/13-1583489236.jpg",
                 "malId": 98270,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-tf971140"
             }
         },
-        "MangaFire": {
-            "one-punch-man.pj4": {
-                "identifier": "one-punch-man.pj4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3032a0927f55bb08d01ca122eb90243c.jpg",
-                "malId": 98270,
-                "aniId": 87170,
-                "page": "MangaFire",
-                "title": "Fire Punch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-punch-man.pj4/"
-            },
-            "fire-punchh.pj4": {
-                "identifier": "fire-punchh.pj4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3032a0927f55bb08d01ca122eb90243c.jpg",
-                "malId": 98270,
-                "aniId": 87170,
-                "page": "MangaFire",
-                "title": "Fire Punch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fire-punchh.pj4/"
-            }
-        },
         "Weebcentral": {
             "01j76xybr7jhfw7q80mhjp5vyw": {
+                "id": 211123,
                 "identifier": "01j76xybr7jhfw7q80mhjp5vyw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBR7JHFW7Q80MHJP5VYW.jpg",
                 "malId": 98270,
@@ -86,6 +69,19 @@
                 "title": "Fire Punch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBR7JHFW7Q80MHJP5VYW"
+            }
+        },
+        "MangaFire": {
+            "pj4": {
+                "id": 228623,
+                "identifier": "pj4",
+                "image": "https://static.mangafire.to/ba49/i/3/30/3032a0927f55bb08d01ca122eb90243c.jpg",
+                "malId": 98270,
+                "aniId": 87170,
+                "page": "MangaFire",
+                "title": "Fire Punch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fire-punchh.pj4"
             }
         },
         "Comick": {

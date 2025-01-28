@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "26267a8c-b023-4f08-ad0f-382b590dbbe2": {
+                "id": 89499,
                 "identifier": "26267a8c-b023-4f08-ad0f-382b590dbbe2",
                 "image": "https://uploads.mangadex.org/covers/26267a8c-b023-4f08-ad0f-382b590dbbe2/13783566-3b8a-4494-af93-b1024f61aa4f.jpg",
                 "malId": 149311,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mq990173": {
+                "id": 92712,
                 "identifier": "manga-mq990173",
                 "image": "https://avt.mkklcdnv6temp.com/13/f/25-1638891071.jpg",
                 "malId": 149311,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "burnout_shock": {
+                "id": 92959,
                 "identifier": "burnout_shock",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40390/cover.jpg",
                 "malId": 149311,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/burnout_shock/"
             }
         },
-        "MangaFire": {
-            "burnout-shock.z1mp2": {
-                "identifier": "burnout-shock.z1mp2",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1da555a51b2ea90fe7fa788016a65737.jpg",
-                "malId": 149311,
-                "aniId": 151047,
-                "page": "MangaFire",
-                "title": "Burnout Shock",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/burnout-shock.z1mp2/"
-            }
-        },
         "MangaSee": {
             "burnout-shock": {
+                "id": 189550,
                 "identifier": "burnout-shock",
                 "image": "https://temp.compsci88.com/cover/Burnout-Shock.jpg",
                 "malId": 149311,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh87my9r8jzvd7gn2mxa": {
+                "id": 209739,
                 "identifier": "01j76xyh87my9r8jzvd7gn2mxa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH87MY9R8JZVD7GN2MXA.jpg",
                 "malId": 149311,
@@ -76,6 +69,19 @@
                 "title": "Burnout Shock",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH87MY9R8JZVD7GN2MXA"
+            }
+        },
+        "MangaFire": {
+            "z1mp2": {
+                "id": 241026,
+                "identifier": "z1mp2",
+                "image": "https://static.mangafire.to/8eb3/i/1/1d/1da555a51b2ea90fe7fa788016a65737.jpg",
+                "malId": 149311,
+                "aniId": 151047,
+                "page": "MangaFire",
+                "title": "Burnout Shock",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/burnout-shockk.z1mp2"
             }
         }
     },

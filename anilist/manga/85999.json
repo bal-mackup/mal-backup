@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "44740749-4e18-42a3-9f24-0410c3fa213a": {
+                "id": 11660,
                 "identifier": "44740749-4e18-42a3-9f24-0410c3fa213a",
                 "image": "https://uploads.mangadex.org/covers/44740749-4e18-42a3-9f24-0410c3fa213a/5e8dfeaf-dbd1-44d4-a86b-a6f3c03fccf9.jpg",
                 "malId": 77779,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kanata-no-togabito-ga-tatakau-riyuu": {
+                "id": 66069,
                 "identifier": "kanata-no-togabito-ga-tatakau-riyuu",
                 "image": "https://temp.compsci88.com/cover/Kanata-No-Togabito-Ga-Tatakau-Riyuu.jpg",
                 "malId": 77779,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kanata-No-Togabito-Ga-Tatakau-Riyuu"
             }
         },
-        "MangaFire": {
-            "kanata-no-togabito-ga-tatakau-riyuu.mqo9p": {
-                "identifier": "kanata-no-togabito-ga-tatakau-riyuu.mqo9p",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0727d10419866002b35c698db730e3f6.jpg",
-                "malId": 77779,
-                "aniId": 85999,
-                "page": "MangaFire",
-                "title": "Kanata no Togabito ga Tatakau Riyuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanata-no-togabito-ga-tatakau-riyuu.mqo9p/"
-            },
-            "mqo9p": {
-                "identifier": "mqo9p",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0727d10419866002b35c698db730e3f6.jpg",
-                "malId": 77779,
-                "aniId": 85999,
-                "page": "MangaFire",
-                "title": "Kanata no Togabito ga Tatakau Riyuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanata-no-togabito-ga-tatakau-riyuu.mqo9p/"
-            }
-        },
         "Weebcentral": {
             "01j76xyapsez93ewzz5np5wz9p": {
+                "id": 206771,
                 "identifier": "01j76xyapsez93ewzz5np5wz9p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAPSEZ93EWZZ5NP5WZ9P.jpg",
                 "malId": 77779,
@@ -62,6 +43,19 @@
                 "title": "Kanata no Togabito ga Tatakau Riyuu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAPSEZ93EWZZ5NP5WZ9P"
+            }
+        },
+        "MangaFire": {
+            "mqo9p": {
+                "id": 256419,
+                "identifier": "mqo9p",
+                "image": "https://static.mangafire.to/21b6/i/0/07/0727d10419866002b35c698db730e3f6.jpg",
+                "malId": 77779,
+                "aniId": 85999,
+                "page": "MangaFire",
+                "title": "Kanata no Togabito ga Tatakau Riyuu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanata-no-togabito-ga-tatakau-riyuuu.mqo9p"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1a1730ff-323e-4b3d-a133-3025b82dc000": {
+                "id": 106862,
                 "identifier": "1a1730ff-323e-4b3d-a133-3025b82dc000",
                 "image": "https://uploads.mangadex.org/covers/1a1730ff-323e-4b3d-a133-3025b82dc000/f91e0ab5-a0d4-4680-9266-60170c9ee1d4.png",
                 "malId": 149983,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/1a1730ff-323e-4b3d-a133-3025b82dc000"
             }
         },
-        "MangaFire": {
-            "judge-and-executioner.kkx9w": {
-                "identifier": "judge-and-executioner.kkx9w",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0cf93fcf3cbd34ce13e3b10bda9f4b0a.jpg",
-                "malId": 149983,
-                "aniId": 155458,
-                "page": "MangaFire",
-                "title": "Judge and Executioner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/judge-and-executioner.kkx9w/"
-            }
-        },
         "MangaSee": {
             "judge-and-executioner": {
+                "id": 191003,
                 "identifier": "judge-and-executioner",
                 "image": "https://temp.compsci88.com/cover/Judge-and-Executioner.jpg",
                 "malId": 149983,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhapc1mm1gw3zs8zkhzy": {
+                "id": 207028,
                 "identifier": "01j76xyhapc1mm1gw3zs8zkhzy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAPC1MM1GW3ZS8ZKHZY.jpg",
                 "malId": 149983,
@@ -52,6 +43,19 @@
                 "title": "Judge and Executioner",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAPC1MM1GW3ZS8ZKHZY"
+            }
+        },
+        "MangaFire": {
+            "kkx9w": {
+                "id": 241630,
+                "identifier": "kkx9w",
+                "image": "https://static.mangafire.to/e32f/i/0/0c/0cf93fcf3cbd34ce13e3b10bda9f4b0a.jpg",
+                "malId": 149983,
+                "aniId": 155458,
+                "page": "MangaFire",
+                "title": "Judge and Executioner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/judge-and-executionerr.kkx9w"
             }
         },
         "Comick": {

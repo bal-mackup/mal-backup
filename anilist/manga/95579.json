@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1c2716c8-d87f-480f-891e-9285e2183c48": {
+                "id": 14752,
                 "identifier": "1c2716c8-d87f-480f-891e-9285e2183c48",
                 "image": "https://uploads.mangadex.org/covers/1c2716c8-d87f-480f-891e-9285e2183c48/c3be506c-7c1a-4442-afb8-c33328c46b46.jpg",
                 "malId": 91486,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nekogahara": {
+                "id": 68347,
                 "identifier": "nekogahara",
                 "image": "https://temp.compsci88.com/cover/Nekogahara.jpg",
                 "malId": 91486,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Nekogahara"
             }
         },
-        "MangaFire": {
-            "nekogahara.yq1lp": {
-                "identifier": "nekogahara.yq1lp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74272cc86bda92d1bab912a43b668ad9.jpg",
-                "malId": 91486,
-                "aniId": 95579,
-                "page": "MangaFire",
-                "title": "Nekogahara: Stray Cat Samurai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nekogahara.yq1lp/"
-            },
-            "yq1lp": {
-                "identifier": "yq1lp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74272cc86bda92d1bab912a43b668ad9.jpg",
-                "malId": 91486,
-                "aniId": 95579,
-                "page": "MangaFire",
-                "title": "Nekogahara: Stray Cat Samurai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nekogahara.yq1lp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc25zrvyje01b7tgdevj": {
+                "id": 214303,
                 "identifier": "01j76xyc25zrvyje01b7tgdevj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC25ZRVYJE01B7TGDEVJ.jpg",
                 "malId": 91486,
@@ -62,6 +43,19 @@
                 "title": "Nekogahara",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC25ZRVYJE01B7TGDEVJ"
+            }
+        },
+        "MangaFire": {
+            "yq1lp": {
+                "id": 255032,
+                "identifier": "yq1lp",
+                "image": "https://static.mangafire.to/96cc/i/7/74/74272cc86bda92d1bab912a43b668ad9.jpg",
+                "malId": 91486,
+                "aniId": 95579,
+                "page": "MangaFire",
+                "title": "Nekogahara: Stray Cat Samurai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nekogaharaa.yq1lp"
             }
         },
         "Comick": {

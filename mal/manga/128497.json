@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b65602ff-2b3a-4802-9d9f-67717e06e06d": {
+                "id": 28242,
                 "identifier": "b65602ff-2b3a-4802-9d9f-67717e06e06d",
                 "image": "https://uploads.mangadex.org/covers/b65602ff-2b3a-4802-9d9f-67717e06e06d/b32777e8-d2f3-4478-aa9a-f1ac4df42f40.jpg",
                 "malId": 128497,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "arafoo-shachiku-no-golem-master": {
+                "id": 59189,
                 "identifier": "arafoo-shachiku-no-golem-master",
                 "image": "https://temp.compsci88.com/cover/Arafoo-Shachiku-no-Golem-Master.jpg",
                 "malId": 128497,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "arafoo_shachiku_no_golem_master": {
+                "id": 62624,
                 "identifier": "arafoo_shachiku_no_golem_master",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30499/cover.jpg",
                 "malId": 128497,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ed981838": {
+                "id": 75404,
                 "identifier": "manga-ed981838",
                 "image": "https://avt.mkklcdnv6temp.com/29/s/18-1583498229.jpg",
                 "malId": 128497,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-ed981838"
             },
             "manga-ez981808": {
+                "id": 80384,
                 "identifier": "manga-ez981808",
                 "image": "https://avt.mkklcdnv6temp.com/28/r/18-1583498193.jpg",
                 "malId": 128497,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-ez981808"
             }
         },
-        "MangaFire": {
-            "arafoo-shachiku-no-golem-master.m285v": {
-                "identifier": "arafoo-shachiku-no-golem-master.m285v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9b/9b7052380cfb07ba5f8754d3e3b5e47b.jpg",
-                "malId": 128497,
-                "aniId": 109760,
-                "page": "MangaFire",
-                "title": "Around Forty \"Shachiku\" is Golem Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arafoo-shachiku-no-golem-master.m285v/"
-            },
-            "arafoo-shachiku-no-golem-masterr.m285v": {
-                "identifier": "arafoo-shachiku-no-golem-masterr.m285v",
-                "image": "https://static.mangafire.to/8323/i/9/9b/9b7052380cfb07ba5f8754d3e3b5e47b.jpg",
-                "malId": 128497,
-                "aniId": 109760,
-                "page": "MangaFire",
-                "title": "Around Forty \"Shachiku\" is Golem Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arafoo-shachiku-no-golem-masterr.m285v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydr2j6mw54f1r5yv7st8": {
+                "id": 207883,
                 "identifier": "01j76xydr2j6mw54f1r5yv7st8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDR2J6MW54F1R5YV7ST8.jpg",
                 "malId": 128497,
@@ -96,6 +80,19 @@
                 "title": "Arafoo Shachiku no Golem Master",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDR2J6MW54F1R5YV7ST8"
+            }
+        },
+        "MangaFire": {
+            "m285v": {
+                "id": 223204,
+                "identifier": "m285v",
+                "image": "https://static.mangafire.to/8323/i/9/9b/9b7052380cfb07ba5f8754d3e3b5e47b.jpg",
+                "malId": 128497,
+                "aniId": 109760,
+                "page": "MangaFire",
+                "title": "Around Forty \"Shachiku\" is Golem Master",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/arafoo-shachiku-no-golem-masterr.m285v"
             }
         },
         "Comick": {

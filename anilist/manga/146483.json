@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f1c037ff-e63a-4f5c-8977-9af506347fbe": {
+                "id": 88994,
                 "identifier": "f1c037ff-e63a-4f5c-8977-9af506347fbe",
                 "image": "https://uploads.mangadex.org/covers/f1c037ff-e63a-4f5c-8977-9af506347fbe/edd2d5a1-7686-4608-8191-c1c3e550ed01.jpg",
                 "malId": 153183,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pe992361": {
+                "id": 114566,
                 "identifier": "manga-pe992361",
                 "image": "https://avt.mkklcdnv6temp.com/4/k/27-1663377118.jpg",
                 "malId": 153183,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-pe992361"
             }
         },
-        "MangaFire": {
-            "zaako-zako-zako-zako-sensei.l3jl6": {
-                "identifier": "zaako-zako-zako-zako-sensei.l3jl6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bcec4502fcf73e9e5763a9f9c122e4a0.jpg",
-                "malId": 153183,
-                "aniId": 146483,
-                "page": "MangaFire",
-                "title": "Zaako Zako Zako Zako Sensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zaako-zako-zako-zako-sensei.l3jl6/"
-            },
-            "zaako-zako-zako-zako-senseii.l3jl6": {
-                "identifier": "zaako-zako-zako-zako-senseii.l3jl6",
-                "image": "https://static.mangafire.to/3c88/i/b/bc/bcec4502fcf73e9e5763a9f9c122e4a0.jpg",
-                "malId": 153183,
-                "aniId": 146483,
-                "page": "MangaFire",
-                "title": "Zaako Zako Zako Zako Sensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zaako-zako-zako-zako-senseii.l3jl6/"
-            }
-        },
         "MangaSee": {
             "zaako-zako-zako-zako-sensei": {
+                "id": 172923,
                 "identifier": "zaako-zako-zako-zako-sensei",
                 "image": "https://temp.compsci88.com/cover/Zaako-Zako-Zako-Zako-Sensei.jpg",
                 "malId": 153183,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygmec4knzx1kjfw39xxn": {
+                "id": 210181,
                 "identifier": "01j76xygmec4knzx1kjfw39xxn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGMEC4KNZX1KJFW39XXN.jpg",
                 "malId": 153183,
@@ -74,6 +56,19 @@
                 "title": "Zaako Zako Zako Zako Sensei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGMEC4KNZX1KJFW39XXN"
+            }
+        },
+        "MangaFire": {
+            "l3jl6": {
+                "id": 222993,
+                "identifier": "l3jl6",
+                "image": "https://static.mangafire.to/3c88/i/b/bc/bcec4502fcf73e9e5763a9f9c122e4a0.jpg",
+                "malId": 153183,
+                "aniId": 146483,
+                "page": "MangaFire",
+                "title": "Zaako Zako Zako Zako Sensei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zaako-zako-zako-zako-senseii.l3jl6"
             }
         },
         "Comick": {

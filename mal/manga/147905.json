@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8415b15e-0ed5-414a-ac5a-f4f2371e8bf1": {
+                "id": 30503,
                 "identifier": "8415b15e-0ed5-414a-ac5a-f4f2371e8bf1",
                 "image": "https://uploads.mangadex.org/covers/8415b15e-0ed5-414a-ac5a-f4f2371e8bf1/1fcf540d-ba29-42cd-b3c5-7c010f2f0c60.jpg",
                 "malId": 147905,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "beast-with-flowers": {
+                "id": 65993,
                 "identifier": "beast-with-flowers",
                 "image": "https://temp.compsci88.com/cover/Beast-with-Flowers.jpg",
                 "malId": 147905,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ft982902": {
+                "id": 73303,
                 "identifier": "manga-ft982902",
                 "image": "https://avt.mkklcdnv6temp.com/18/q/19-1583499830.jpg",
                 "malId": 147905,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "beast_with_flowers": {
+                "id": 90927,
                 "identifier": "beast_with_flowers",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31715/cover.jpg",
                 "malId": 147905,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/beast_with_flowers/"
             }
         },
-        "MangaFire": {
-            "beast-with-flowerss.kw42v": {
-                "identifier": "beast-with-flowerss.kw42v",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b07ab81e3398778f9b0b30166c3aa5ef.jpg",
-                "malId": 147905,
-                "aniId": 111412,
-                "page": "MangaFire",
-                "title": "Flower and the Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beast-with-flowerss.kw42v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyefm6a159r12chjt2j7r": {
+                "id": 212617,
                 "identifier": "01j76xyefm6a159r12chjt2j7r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEFM6A159R12CHJT2J7R.jpg",
                 "malId": 147905,
@@ -76,6 +69,19 @@
                 "title": "Beast with Flowers",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEFM6A159R12CHJT2J7R"
+            }
+        },
+        "MangaFire": {
+            "kw42v": {
+                "id": 225420,
+                "identifier": "kw42v",
+                "image": "https://static.mangafire.to/8417/i/b/b0/b07ab81e3398778f9b0b30166c3aa5ef.jpg",
+                "malId": 147905,
+                "aniId": 111412,
+                "page": "MangaFire",
+                "title": "Flower and the Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beast-with-flowerss.kw42v"
             }
         },
         "Comick": {

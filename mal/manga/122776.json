@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e3ff8444-5154-4f93-a4a9-2e2712f46e8e": {
+                "id": 27412,
                 "identifier": "e3ff8444-5154-4f93-a4a9-2e2712f46e8e",
                 "image": "https://uploads.mangadex.org/covers/e3ff8444-5154-4f93-a4a9-2e2712f46e8e/23d5f1f0-91f8-46e1-8a5c-a13a90c2b874.jpg",
                 "malId": 122776,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sadako-san-and-sadakochan": {
+                "id": 79837,
                 "identifier": "sadako-san-and-sadakochan",
                 "image": "https://temp.compsci88.com/cover/Sadako-san-and-Sadakochan.jpg",
                 "malId": 122776,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sadako_san_and_sadako_chan": {
+                "id": 80528,
                 "identifier": "sadako_san_and_sadako_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30355/cover.jpg",
                 "malId": 122776,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ge983539": {
+                "id": 100978,
                 "identifier": "manga-ge983539",
                 "image": "https://avt.mkklcdnv6temp.com/fld/36/g/10-1732800160-nw.webp",
                 "malId": 122776,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ge983539"
             }
         },
-        "MangaFire": {
-            "sadako-san-and-sadako-chan.jvor4": {
-                "identifier": "sadako-san-and-sadako-chan.jvor4",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e86af383ac16d20d1705ac0dd220a2b.jpg",
-                "malId": 122776,
-                "aniId": 108976,
-                "page": "MangaFire",
-                "title": "Sadako-san and Sadako-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sadako-san-and-sadako-chan.jvor4/"
-            },
-            "sadako-san-and-sadako-chann.jvor4": {
-                "identifier": "sadako-san-and-sadako-chann.jvor4",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e86af383ac16d20d1705ac0dd220a2b.jpg",
-                "malId": 122776,
-                "aniId": 108976,
-                "page": "MangaFire",
-                "title": "Sadako-san and Sadako-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sadako-san-and-sadako-chann.jvor4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyev06t81yhzby5s5rtpw": {
+                "id": 213348,
                 "identifier": "01j76xyev06t81yhzby5s5rtpw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEV06T81YHZBY5S5RTPW.jpg",
                 "malId": 122776,
@@ -86,6 +69,19 @@
                 "title": "Sadako-san and Sadako-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEV06T81YHZBY5S5RTPW"
+            }
+        },
+        "MangaFire": {
+            "jvor4": {
+                "id": 227587,
+                "identifier": "jvor4",
+                "image": "https://static.mangafire.to/fb7c/i/6/6e/6e86af383ac16d20d1705ac0dd220a2b.jpg",
+                "malId": 122776,
+                "aniId": 108976,
+                "page": "MangaFire",
+                "title": "Sadako-san and Sadako-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sadako-san-and-sadako-chann.jvor4"
             }
         },
         "Comick": {

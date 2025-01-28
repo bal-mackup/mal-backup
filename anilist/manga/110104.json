@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c7b6d9ca-dce7-4dab-8ed0-b246d808ec2a": {
+                "id": 28887,
                 "identifier": "c7b6d9ca-dce7-4dab-8ed0-b246d808ec2a",
                 "image": "https://uploads.mangadex.org/covers/c7b6d9ca-dce7-4dab-8ed0-b246d808ec2a/72ae3408-f575-4313-b160-95f54b3924b3.jpg",
                 "malId": 120465,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ej982144": {
+                "id": 81745,
                 "identifier": "manga-ej982144",
                 "image": "https://avt.mkklcdnv6temp.com/40/v/18-1583498683.jpg",
                 "malId": 120465,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-lines-that-define-me": {
+                "id": 100782,
                 "identifier": "the-lines-that-define-me",
                 "image": "https://temp.compsci88.com/cover/The-Lines-that-Define-Me.jpg",
                 "malId": 120465,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Lines-that-Define-Me"
             }
         },
-        "MangaFire": {
-            "sen-wa-boku-o-egaku.n3yol": {
-                "identifier": "sen-wa-boku-o-egaku.n3yol",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b255bdfd9c66c397e22f36c78720d821.jpg",
-                "malId": 120465,
-                "aniId": 110104,
-                "page": "MangaFire",
-                "title": "The Lines that Define Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sen-wa-boku-o-egaku.n3yol/"
-            },
-            "sen-wa-boku-o-egakuu.n3yol": {
-                "identifier": "sen-wa-boku-o-egakuu.n3yol",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b255bdfd9c66c397e22f36c78720d821.jpg",
-                "malId": 120465,
-                "aniId": 110104,
-                "page": "MangaFire",
-                "title": "The Lines that Define Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sen-wa-boku-o-egakuu.n3yol/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfce0gnj7axp5qawjjgr": {
+                "id": 211776,
                 "identifier": "01j76xyfce0gnj7axp5qawjjgr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCE0GNJ7AXP5QAWJJGR.jpg",
                 "malId": 120465,
@@ -74,6 +56,19 @@
                 "title": "The Lines that Define Me",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCE0GNJ7AXP5QAWJJGR"
+            }
+        },
+        "MangaFire": {
+            "n3yol": {
+                "id": 228131,
+                "identifier": "n3yol",
+                "image": "https://static.mangafire.to/403e/i/b/b2/b255bdfd9c66c397e22f36c78720d821.jpg",
+                "malId": 120465,
+                "aniId": 110104,
+                "page": "MangaFire",
+                "title": "The Lines that Define Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sen-wa-boku-o-egakuu.n3yol"
             }
         },
         "Comick": {

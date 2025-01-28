@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "30f3ac69-21b6-45ad-a110-d011b7aaadaa": {
+                "id": 19155,
                 "identifier": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
-                "image": "https://uploads.mangadex.org/covers/30f3ac69-21b6-45ad-a110-d011b7aaadaa/10a3e590-180f-414a-bbab-eb487af42926.jpg",
+                "image": "https://uploads.mangadex.org/covers/30f3ac69-21b6-45ad-a110-d011b7aaadaa/f7e5002d-3f09-4266-ad72-0a35bef8ee89.jpg",
                 "malId": 112589,
                 "aniId": 101177,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tonikaku_cawaii": {
+                "id": 54772,
                 "identifier": "tonikaku_cawaii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27247/cover.jpg",
                 "malId": 112589,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tonikaku-kawaii": {
+                "id": 54920,
                 "identifier": "tonikaku-kawaii",
                 "image": "https://temp.compsci88.com/cover/Tonikaku-Kawaii.jpg",
                 "malId": 112589,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bf978740": {
+                "id": 73152,
                 "identifier": "manga-bf978740",
                 "image": "https://avt.mkklcdnv6temp.com/15/h/16-1583494022.jpg",
                 "malId": 112589,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bf978740"
             }
         },
-        "MangaFire": {
-            "tonikaku-kawaii.zl113": {
-                "identifier": "tonikaku-kawaii.zl113",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/73cf46e3adbe276910c485a0c5da6e3e.jpg",
-                "malId": 112589,
-                "aniId": 101177,
-                "page": "MangaFire",
-                "title": "Fly Me to the Moon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonikaku-kawaii.zl113/"
-            },
-            "tonikaku-kawaiii.zl113": {
-                "identifier": "tonikaku-kawaiii.zl113",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/73cf46e3adbe276910c485a0c5da6e3e.jpg",
-                "malId": 112589,
-                "aniId": 101177,
-                "page": "MangaFire",
-                "title": "Fly Me to the Moon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonikaku-kawaiii.zl113/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfk6gnrf6h17bztkh2k": {
+                "id": 210622,
                 "identifier": "01j76xycfk6gnrf6h17bztkh2k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFK6GNRF6H17BZTKH2K.jpg",
                 "malId": 112589,
@@ -86,6 +69,19 @@
                 "title": "Fly Me to the Moon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFK6GNRF6H17BZTKH2K"
+            }
+        },
+        "MangaFire": {
+            "zl113": {
+                "id": 226606,
+                "identifier": "zl113",
+                "image": "https://static.mangafire.to/7693/i/9/5e/1c6c5b11ee1471f6776adc8969b0677b.jpg",
+                "malId": 112589,
+                "aniId": 101177,
+                "page": "MangaFire",
+                "title": "Fly Me to the Moon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tonikaku-kawaiii.zl113"
             }
         },
         "Comick": {

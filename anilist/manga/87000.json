@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "04afa419-196a-4ba1-8b0d-7dfc48b2ba71": {
+                "id": 14071,
                 "identifier": "04afa419-196a-4ba1-8b0d-7dfc48b2ba71",
                 "image": "https://uploads.mangadex.org/covers/04afa419-196a-4ba1-8b0d-7dfc48b2ba71/fc593d66-2fb3-4c53-ac85-fed97c491606.jpg",
                 "malId": 93602,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "choujin-sensen": {
+                "id": 76229,
                 "identifier": "choujin-sensen",
                 "image": "https://temp.compsci88.com/cover/Choujin-Sensen.jpg",
                 "malId": 93602,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-qq952999": {
+                "id": 120422,
                 "identifier": "manga-qq952999",
                 "image": "https://avt.mkklcdnv6temp.com/fld/60/x/1-1732718815-nw.webp",
                 "malId": 93602,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-qq952999"
             }
         },
-        "MangaFire": {
-            "choujin-sensen.p3q9": {
-                "identifier": "choujin-sensen.p3q9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15cea7fe071bbfc0262e71d4bee7440b.jpg",
-                "malId": 93602,
-                "aniId": 87000,
-                "page": "MangaFire",
-                "title": "The Throne of Superman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choujin-sensen.p3q9/"
-            },
-            "p3q9": {
-                "identifier": "p3q9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15cea7fe071bbfc0262e71d4bee7440b.jpg",
-                "malId": 93602,
-                "aniId": 87000,
-                "page": "MangaFire",
-                "title": "The Throne of Superman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choujin-sensen.p3q9/"
-            }
-        },
         "Weebcentral": {
             "01j76xybm5248068gj81xceyfd": {
+                "id": 212507,
                 "identifier": "01j76xybm5248068gj81xceyfd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBM5248068GJ81XCEYFD.jpg",
                 "malId": 93602,
@@ -74,6 +56,19 @@
                 "title": "Choujin Sensen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBM5248068GJ81XCEYFD"
+            }
+        },
+        "MangaFire": {
+            "p3q9": {
+                "id": 243207,
+                "identifier": "p3q9",
+                "image": "https://static.mangafire.to/a5b3/i/1/15/15cea7fe071bbfc0262e71d4bee7440b.jpg",
+                "malId": 93602,
+                "aniId": 87000,
+                "page": "MangaFire",
+                "title": "The Throne of Superman",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/choujin-sensenn.p3q9"
             }
         },
         "Comick": {

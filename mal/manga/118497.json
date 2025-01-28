@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c05e0f87-160d-4e4b-a68e-ae3fb91c837a": {
+                "id": 24705,
                 "identifier": "c05e0f87-160d-4e4b-a68e-ae3fb91c837a",
                 "image": "https://uploads.mangadex.org/covers/c05e0f87-160d-4e4b-a68e-ae3fb91c837a/dd0dd875-0517-4092-952f-b234d81834f4.jpg",
                 "malId": 118497,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "killing-me--killing-you": {
+                "id": 56274,
                 "identifier": "killing-me--killing-you",
                 "image": "https://temp.compsci88.com/cover/Killing-Me--Killing-You.jpg",
                 "malId": 118497,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "killing_me_killing_you": {
+                "id": 60150,
                 "identifier": "killing_me_killing_you",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29173/cover.jpg",
                 "malId": 118497,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dq980573": {
+                "id": 80202,
                 "identifier": "manga-dq980573",
                 "image": "https://avt.mkklcdnv6temp.com/33/u/17-1583496470.jpg",
                 "malId": 118497,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-dq980573"
             }
         },
-        "MangaFire": {
-            "killing-me-killing-you.jvr23": {
-                "identifier": "killing-me-killing-you.jvr23",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e9f450a732483bc9d0cd9c5295754af.jpg",
-                "malId": 118497,
-                "aniId": 104690,
-                "page": "MangaFire",
-                "title": "Killing Me / Killing You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/killing-me-killing-you.jvr23/"
-            },
-            "killing-me-killing-youu.jvr23": {
-                "identifier": "killing-me-killing-youu.jvr23",
-                "image": "https://static.mangafire.to/ed0b/i/0/0e/0e9f450a732483bc9d0cd9c5295754af.jpg",
-                "malId": 118497,
-                "aniId": 104690,
-                "page": "MangaFire",
-                "title": "Killing Me / Killing You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/killing-me-killing-youu.jvr23/"
-            }
-        },
         "Weebcentral": {
             "01j76xycp5jpw4mmy0fpk8j2cb": {
+                "id": 212957,
                 "identifier": "01j76xycp5jpw4mmy0fpk8j2cb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCP5JPW4MMY0FPK8J2CB.jpg",
                 "malId": 118497,
@@ -86,6 +69,19 @@
                 "title": "Killing Me / Killing You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCP5JPW4MMY0FPK8J2CB"
+            }
+        },
+        "MangaFire": {
+            "jvr23": {
+                "id": 223356,
+                "identifier": "jvr23",
+                "image": "https://static.mangafire.to/ed0b/i/0/0e/0e9f450a732483bc9d0cd9c5295754af.jpg",
+                "malId": 118497,
+                "aniId": 104690,
+                "page": "MangaFire",
+                "title": "Killing Me / Killing You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/killing-me-killing-youu.jvr23"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "835264f4-08e5-47b8-aba9-1556429e34dd": {
+                "id": 10610,
                 "identifier": "835264f4-08e5-47b8-aba9-1556429e34dd",
                 "image": "https://uploads.mangadex.org/covers/835264f4-08e5-47b8-aba9-1556429e34dd/240557ad-1d87-454a-8797-6e818c900319.jpg",
                 "malId": 72523,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eurasia1274": {
+                "id": 93337,
                 "identifier": "eurasia1274",
                 "image": "https://temp.compsci88.com/cover/Eurasia1274.jpg",
                 "malId": 72523,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lh963264": {
+                "id": 107020,
                 "identifier": "manga-lh963264",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/x/4-1732765039-nw.webp",
                 "malId": 72523,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-lh963264"
             }
         },
-        "MangaFire": {
-            "eurasia-1274.m9o8": {
-                "identifier": "eurasia-1274.m9o8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/634f18e573c596bbdcddc64627039ad1.jpg",
-                "malId": 72523,
-                "aniId": 85423,
-                "page": "MangaFire",
-                "title": "Eurasia 1274",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eurasia-1274.m9o8/"
-            },
-            "m9o8": {
-                "identifier": "m9o8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/634f18e573c596bbdcddc64627039ad1.jpg",
-                "malId": 72523,
-                "aniId": 85423,
-                "page": "MangaFire",
-                "title": "Eurasia 1274",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eurasia-1274.m9o8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb1j3wkkwqnsetw835ww": {
+                "id": 211114,
                 "identifier": "01j76xyb1j3wkkwqnsetw835ww",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB1J3WKKWQNSETW835WW.jpg",
                 "malId": 72523,
@@ -74,6 +56,19 @@
                 "title": "Eurasia 1274",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB1J3WKKWQNSETW835WW"
+            }
+        },
+        "MangaFire": {
+            "m9o8": {
+                "id": 255924,
+                "identifier": "m9o8",
+                "image": "https://static.mangafire.to/c7fb/i/6/63/634f18e573c596bbdcddc64627039ad1.jpg",
+                "malId": 72523,
+                "aniId": 85423,
+                "page": "MangaFire",
+                "title": "Eurasia 1274",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eurasia-12744.m9o8"
             }
         },
         "Comick": {

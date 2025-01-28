@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3ae70236-b9bb-4f97-afaf-1b852e66fb06": {
+                "id": 110627,
                 "identifier": "3ae70236-b9bb-4f97-afaf-1b852e66fb06",
                 "image": "https://uploads.mangadex.org/covers/3ae70236-b9bb-4f97-afaf-1b852e66fb06/b911c769-533d-4020-8b6b-c96c58c2dbb7.jpg",
                 "malId": 133797,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dualing-fighters": {
+                "id": 172331,
                 "identifier": "dualing-fighters",
                 "image": "https://temp.compsci88.com/cover/Dualing-Fighters.jpg",
                 "malId": 133797,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yc1001559": {
+                "id": 185338,
                 "identifier": "manga-yc1001559",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/a/17-1733321895-nw.webp",
                 "malId": 133797,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-yc1001559"
             }
         },
-        "MangaFire": {
-            "souyoku-no-busoutsukai.905lm": {
-                "identifier": "souyoku-no-busoutsukai.905lm",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/d55c4c74c1ef64a04ca18f4f3764c4d0.jpg",
-                "malId": 133797,
-                "aniId": 139486,
-                "page": "MangaFire",
-                "title": "Dualing Fighters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/souyoku-no-busoutsukai.905lm/"
-            }
-        },
         "Weebcentral": {
             "01j76xygk9rfsswpz2ssszpt2q": {
+                "id": 207556,
                 "identifier": "01j76xygk9rfsswpz2ssszpt2q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGK9RFSSWPZ2SSSZPT2Q.jpg",
                 "malId": 133797,
@@ -64,6 +56,19 @@
                 "title": "Dualing Fighters",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGK9RFSSWPZ2SSSZPT2Q"
+            }
+        },
+        "MangaFire": {
+            "905lm": {
+                "id": 236146,
+                "identifier": "905lm",
+                "image": "https://static.mangafire.to/9aee/i/7/7f/d55c4c74c1ef64a04ca18f4f3764c4d0.jpg",
+                "malId": 133797,
+                "aniId": 139486,
+                "page": "MangaFire",
+                "title": "Dualing Fighters",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/souyoku-no-busoutsukaii.905lm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f922f8d4-dee5-40d8-a726-792f93e7f435": {
+                "id": 27104,
                 "identifier": "f922f8d4-dee5-40d8-a726-792f93e7f435",
                 "image": "https://uploads.mangadex.org/covers/f922f8d4-dee5-40d8-a726-792f93e7f435/c903a867-5389-451b-a99a-ecd26bbdf62f.jpg",
                 "malId": 111602,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dungeon-toilet": {
+                "id": 77084,
                 "identifier": "dungeon-toilet",
                 "image": "https://temp.compsci88.com/cover/Dungeon-Toilet.jpg",
                 "malId": 111602,
@@ -30,40 +32,9 @@
                 "url": "https://mangasee123.com/manga/Dungeon-Toilet"
             }
         },
-        "MangaFire": {
-            "isekai-no-toilet-de-dai-wo-suru.vvql6": {
-                "identifier": "isekai-no-toilet-de-dai-wo-suru.vvql6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71777c8dd55cef9ffdfd2c9d96c0ab5c.jpg",
-                "malId": 111602,
-                "aniId": 108762,
-                "page": "MangaFire",
-                "title": "Dungeon Toilet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-no-toilet-de-dai-wo-suru.vvql6/"
-            },
-            "isekai-no-toilet-de-dai-wo-suruu.vvql6": {
-                "identifier": "isekai-no-toilet-de-dai-wo-suruu.vvql6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71777c8dd55cef9ffdfd2c9d96c0ab5c.jpg",
-                "malId": 111602,
-                "aniId": 108762,
-                "page": "MangaFire",
-                "title": "Dungeon Toilet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-no-toilet-de-dai-wo-suruu.vvql6/"
-            },
-            "vvql6": {
-                "identifier": "vvql6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71777c8dd55cef9ffdfd2c9d96c0ab5c.jpg",
-                "malId": 111602,
-                "aniId": 108762,
-                "page": "MangaFire",
-                "title": "Dungeon Toilet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-no-toilet-de-dai-wo-suruu.vvql6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyervhswh2yw6tqjegx9k": {
+                "id": 207046,
                 "identifier": "01j76xyervhswh2yw6tqjegx9k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYERVHSWH2YW6TQJEGX9K.jpg",
                 "malId": 111602,
@@ -72,6 +43,19 @@
                 "title": "Dungeon Toilet",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYERVHSWH2YW6TQJEGX9K"
+            }
+        },
+        "MangaFire": {
+            "vvql6": {
+                "id": 224126,
+                "identifier": "vvql6",
+                "image": "https://static.mangafire.to/0bef/i/7/71/71777c8dd55cef9ffdfd2c9d96c0ab5c.jpg",
+                "malId": 111602,
+                "aniId": 108762,
+                "page": "MangaFire",
+                "title": "Dungeon Toilet",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-no-toilet-de-dai-wo-suruu.vvql6"
             }
         },
         "Comick": {

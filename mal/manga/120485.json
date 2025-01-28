@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2750ed89-ea66-4c0c-ab05-7417a9e0de3e": {
+                "id": 27997,
                 "identifier": "2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
                 "image": "https://uploads.mangadex.org/covers/2750ed89-ea66-4c0c-ab05-7417a9e0de3e/800a9ba9-cf1c-4f40-afeb-90b530db6e1a.jpg",
                 "malId": 120485,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hametsu-no-oukoku": {
+                "id": 57519,
                 "identifier": "hametsu-no-oukoku",
                 "image": "https://temp.compsci88.com/cover/Hametsu-no-Oukoku.jpg",
                 "malId": 120485,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-er981774": {
+                "id": 73718,
                 "identifier": "manga-er981774",
                 "image": "https://avt.mkklcdnv6temp.com/27/j/18-1583498147.jpg",
                 "malId": 120485,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-er981774"
             }
         },
-        "MangaFire": {
-            "the-kingdoms-of-ruin.jv58n": {
-                "identifier": "the-kingdoms-of-ruin.jv58n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8dbd764e6f9da40ee745f13ec5a6b261.jpg",
-                "malId": 120485,
-                "aniId": 112203,
-                "page": "MangaFire",
-                "title": "The Kingdoms of Ruin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-kingdoms-of-ruin.jv58n/"
-            },
-            "the-kingdoms-of-ruinn.jv58n": {
-                "identifier": "the-kingdoms-of-ruinn.jv58n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8dbd764e6f9da40ee745f13ec5a6b261.jpg",
-                "malId": 120485,
-                "aniId": 112203,
-                "page": "MangaFire",
-                "title": "The Kingdoms of Ruin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-kingdoms-of-ruinn.jv58n/"
-            }
-        },
         "MangaFox": {
             "hametsu_no_oukoku": {
+                "id": 170380,
                 "identifier": "hametsu_no_oukoku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30460/cover.jpg",
                 "malId": 120485,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xydbq9ypy66wkvhzcjgd0": {
+                "id": 211819,
                 "identifier": "01j76xydbq9ypy66wkvhzcjgd0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDBQ9YPY66WKVHZCJGD0.jpg",
                 "malId": 120485,
@@ -86,6 +69,19 @@
                 "title": "The Kingdoms of Ruin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDBQ9YPY66WKVHZCJGD0"
+            }
+        },
+        "MangaFire": {
+            "jv58n": {
+                "id": 224650,
+                "identifier": "jv58n",
+                "image": "https://static.mangafire.to/88d0/i/8/8d/8dbd764e6f9da40ee745f13ec5a6b261.jpg",
+                "malId": 120485,
+                "aniId": 112203,
+                "page": "MangaFire",
+                "title": "The Kingdoms of Ruin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-kingdoms-of-ruinn.jv58n"
             }
         },
         "Comick": {

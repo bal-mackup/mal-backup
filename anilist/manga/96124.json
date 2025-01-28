@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "33fcf28c-9282-43ed-b01d-17113fbbb092": {
+                "id": 16051,
                 "identifier": "33fcf28c-9282-43ed-b01d-17113fbbb092",
                 "image": "https://uploads.mangadex.org/covers/33fcf28c-9282-43ed-b01d-17113fbbb092/630990b4-6042-451b-bbbc-0cdc2912a3e8.png",
                 "malId": 93432,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/33fcf28c-9282-43ed-b01d-17113fbbb092"
             }
         },
-        "MangaFire": {
-            "adam-and-eve.ojlzz": {
-                "identifier": "adam-and-eve.ojlzz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db5bbf5a8ccf47dab44a57abbca703f3.jpg",
-                "malId": 93432,
-                "aniId": 96124,
-                "page": "MangaFire",
-                "title": "Adam and Eve",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/adam-and-eve.ojlzz/"
-            }
-        },
         "MangaNato": {
             "manga-uv971904": {
+                "id": 171735,
                 "identifier": "manga-uv971904",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/n/7-1732785677-nw.webp",
                 "malId": 93432,
@@ -40,6 +30,19 @@
                 "title": "Adam & Eve",
                 "type": "manga",
                 "url": "https://manganato.com/manga-uv971904"
+            }
+        },
+        "MangaFire": {
+            "ojlzz": {
+                "id": 262952,
+                "identifier": "ojlzz",
+                "image": "https://static.mangafire.to/2a1c/i/d/db/db5bbf5a8ccf47dab44a57abbca703f3.jpg",
+                "malId": 93432,
+                "aniId": 96124,
+                "page": "MangaFire",
+                "title": "Adam and Eve",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/adam-and-evee.ojlzz"
             }
         },
         "Comick": {

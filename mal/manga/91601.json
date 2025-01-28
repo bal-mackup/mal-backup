@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "854cf05b-5366-48b4-84bd-0806aa0348f0": {
+                "id": 13488,
                 "identifier": "854cf05b-5366-48b4-84bd-0806aa0348f0",
                 "image": "https://uploads.mangadex.org/covers/854cf05b-5366-48b4-84bd-0806aa0348f0/ef422457-5d88-42a3-97eb-1be94867d012.jpg",
                 "malId": 91601,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "shuumatsu_no_tenki": {
+                "id": 70972,
                 "identifier": "shuumatsu_no_tenki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16383/cover.jpg",
                 "malId": 91601,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lr952252": {
+                "id": 102008,
                 "identifier": "manga-lr952252",
                 "image": "https://avt.mkklcdnv6temp.com/fld/35/v/1-1732717791-nw.webp",
                 "malId": 91601,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "shuumatsu-no-tenki": {
+                "id": 110977,
                 "identifier": "shuumatsu-no-tenki",
                 "image": "https://temp.compsci88.com/cover/Shuumatsu-No-Tenki.jpg",
                 "malId": 91601,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Shuumatsu-No-Tenki"
             }
         },
-        "MangaFire": {
-            "shuumatsu-no-tenki.yq9m0": {
-                "identifier": "shuumatsu-no-tenki.yq9m0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/148d21cc09161c6dec92ec139d186cfb.jpg",
-                "malId": 91601,
-                "aniId": 86422,
-                "page": "MangaFire",
-                "title": "A Catastrophe Report",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-no-tenki.yq9m0/"
-            },
-            "yq9m0": {
-                "identifier": "yq9m0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/148d21cc09161c6dec92ec139d186cfb.jpg",
-                "malId": 91601,
-                "aniId": 86422,
-                "page": "MangaFire",
-                "title": "A Catastrophe Report",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-no-tenki.yq9m0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybdxf0cq7k2c5gx12xjj": {
+                "id": 210383,
                 "identifier": "01j76xybdxf0cq7k2c5gx12xjj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBDXF0CQ7K2C5GX12XJJ.jpg",
                 "malId": 91601,
@@ -86,6 +69,19 @@
                 "title": "Shuumatsu no Tenki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBDXF0CQ7K2C5GX12XJJ"
+            }
+        },
+        "MangaFire": {
+            "yq9m0": {
+                "id": 252210,
+                "identifier": "yq9m0",
+                "image": "https://static.mangafire.to/6391/i/1/14/148d21cc09161c6dec92ec139d186cfb.jpg",
+                "malId": 91601,
+                "aniId": 86422,
+                "page": "MangaFire",
+                "title": "A Catastrophe Report",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shuumatsu-no-tenkii.yq9m0"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f57b207-5a82-4665-8470-e4989d504a1d": {
+                "id": 120588,
                 "identifier": "8f57b207-5a82-4665-8470-e4989d504a1d",
                 "image": "https://uploads.mangadex.org/covers/8f57b207-5a82-4665-8470-e4989d504a1d/af6be0c3-5435-4a65-ac8a-5ac9014b3674.jpg",
                 "malId": 155156,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/8f57b207-5a82-4665-8470-e4989d504a1d"
             }
         },
-        "MangaFire": {
-            "imouto-wa-kanojo-ni-dekinai-no-ni.lrlwz": {
-                "identifier": "imouto-wa-kanojo-ni-dekinai-no-ni.lrlwz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10051acd62492f306721684dc0883653.jpg",
-                "malId": 155156,
-                "aniId": 157136,
-                "page": "MangaFire",
-                "title": "Imouto wa Kanojo ni Dekinai no ni",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imouto-wa-kanojo-ni-dekinai-no-ni.lrlwz/"
-            },
-            "imouto-wa-kanojo-ni-dekinai-no-nii.lrlwz": {
-                "identifier": "imouto-wa-kanojo-ni-dekinai-no-nii.lrlwz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10051acd62492f306721684dc0883653.jpg",
-                "malId": 155156,
-                "aniId": 157136,
-                "page": "MangaFire",
-                "title": "Imouto wa Kanojo ni Dekinai no ni",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imouto-wa-kanojo-ni-dekinai-no-nii.lrlwz/"
-            }
-        },
         "MangaNato": {
             "manga-sf995814": {
+                "id": 155633,
                 "identifier": "manga-sf995814",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/n/14-1733306120-nw.webp",
                 "malId": 155156,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "imouto-wa-kanojo-ni-deki-nai-no-ni": {
+                "id": 175566,
                 "identifier": "imouto-wa-kanojo-ni-deki-nai-no-ni",
                 "image": "https://temp.compsci88.com/cover/Imouto-wa-Kanojo-ni-Deki-Nai-no-ni.jpg",
                 "malId": 155156,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygnvn7wsg7qsa93csnrg": {
+                "id": 212812,
                 "identifier": "01j76xygnvn7wsg7qsa93csnrg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGNVN7WSG7QSA93CSNRG.jpg",
                 "malId": 155156,
@@ -74,6 +56,19 @@
                 "title": "Imouto wa Kanojo ni Deki Nai no ni",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGNVN7WSG7QSA93CSNRG"
+            }
+        },
+        "MangaFire": {
+            "lrlwz": {
+                "id": 245660,
+                "identifier": "lrlwz",
+                "image": "https://static.mangafire.to/bea6/i/1/10/10051acd62492f306721684dc0883653.jpg",
+                "malId": 155156,
+                "aniId": 157136,
+                "page": "MangaFire",
+                "title": "Imouto wa Kanojo ni Dekinai no ni",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/imouto-wa-kanojo-ni-dekinai-no-nii.lrlwz"
             }
         },
         "Comick": {

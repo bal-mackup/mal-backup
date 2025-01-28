@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "591e5abc-d47c-41ad-ab29-b08899dfef87": {
+                "id": 13100,
                 "identifier": "591e5abc-d47c-41ad-ab29-b08899dfef87",
                 "image": "https://uploads.mangadex.org/covers/591e5abc-d47c-41ad-ab29-b08899dfef87/64d8c725-2f34-4f6d-821d-b74503058f72.jpg",
                 "malId": 90131,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "monochrome-teito-ninpouchou": {
+                "id": 66680,
                 "identifier": "monochrome-teito-ninpouchou",
                 "image": "https://temp.compsci88.com/cover/Monochrome-Teito-Ninpouchou.jpg",
                 "malId": 90131,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hm954695": {
+                "id": 76036,
                 "identifier": "manga-hm954695",
                 "image": "https://avt.mkklcdnv6temp.com/15/s/3-1583468262.jpg",
                 "malId": 90131,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-hm954695"
             }
         },
-        "MangaFire": {
-            "monochrome-teito-ninpouchou.4qx4k": {
-                "identifier": "monochrome-teito-ninpouchou.4qx4k",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05831134c7a90ca7c87249623ee8da06.jpg",
-                "malId": 90131,
-                "aniId": 105348,
-                "page": "MangaFire",
-                "title": "Monochrome: Teito Ninpouchou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monochrome-teito-ninpouchou.4qx4k/"
-            },
-            "monochrome-teito-ninpouchouu.4qx4k": {
-                "identifier": "monochrome-teito-ninpouchouu.4qx4k",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05831134c7a90ca7c87249623ee8da06.jpg",
-                "malId": 90131,
-                "aniId": 105348,
-                "page": "MangaFire",
-                "title": "Monochrome: Teito Ninpouchou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monochrome-teito-ninpouchouu.4qx4k/"
-            },
-            "4qx4k": {
-                "identifier": "4qx4k",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05831134c7a90ca7c87249623ee8da06.jpg",
-                "malId": 90131,
-                "aniId": 105348,
-                "page": "MangaFire",
-                "title": "Monochrome: Teito Ninpouchou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monochrome-teito-ninpouchouu.4qx4k/"
-            }
-        },
         "Weebcentral": {
             "01j76xybd9aa138r9xnctk87th": {
+                "id": 210074,
                 "identifier": "01j76xybd9aa138r9xnctk87th",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBD9AA138R9XNCTK87TH.jpg",
                 "malId": 90131,
@@ -84,6 +56,19 @@
                 "title": "Monochrome - Teito Ninpouchou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBD9AA138R9XNCTK87TH"
+            }
+        },
+        "MangaFire": {
+            "4qx4k": {
+                "id": 227808,
+                "identifier": "4qx4k",
+                "image": "https://static.mangafire.to/e7a7/i/0/05/05831134c7a90ca7c87249623ee8da06.jpg",
+                "malId": 90131,
+                "aniId": 105348,
+                "page": "MangaFire",
+                "title": "Monochrome: Teito Ninpouchou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/monochrome-teito-ninpouchouu.4qx4k"
             }
         },
         "Comick": {

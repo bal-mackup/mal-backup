@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "46663ee4-068c-41d8-a7b5-e4c6e5310c0d": {
+                "id": 32714,
                 "identifier": "46663ee4-068c-41d8-a7b5-e4c6e5310c0d",
                 "image": "https://uploads.mangadex.org/covers/46663ee4-068c-41d8-a7b5-e4c6e5310c0d/8eaa3211-971d-4b94-aaf3-e552a8f45892.jpg",
                 "malId": 145699,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "spare-me-great-lord": {
+                "id": 69180,
                 "identifier": "spare-me-great-lord",
                 "image": "https://temp.compsci88.com/cover/Spare-Me-Great-Lord.jpg",
                 "malId": 145699,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ga984235": {
+                "id": 73017,
                 "identifier": "manga-ga984235",
                 "image": "https://avt.mkklcdnv6temp.com/18/n/20-1583501739.jpg",
                 "malId": 145699,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ga984235"
             }
         },
-        "MangaFire": {
-            "spare-me-great-lordd.02743": {
-                "identifier": "spare-me-great-lordd.02743",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38baeef15e2e9c4016213513762d9df4.jpg",
-                "malId": 145699,
-                "aniId": 120288,
-                "page": "MangaFire",
-                "title": "Spare Me, Great Lord!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spare-me-great-lordd.02743/"
-            }
-        },
         "Weebcentral": {
             "01j76xyemdwqg8p5bmb42mpv3d": {
+                "id": 208092,
                 "identifier": "01j76xyemdwqg8p5bmb42mpv3d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEMDWQG8P5BMB42MPV3D.jpg",
                 "malId": 145699,
@@ -64,6 +56,19 @@
                 "title": "Spare Me, Great Lord!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEMDWQG8P5BMB42MPV3D"
+            }
+        },
+        "MangaFire": {
+            "02743": {
+                "id": 226578,
+                "identifier": "02743",
+                "image": "https://static.mangafire.to/cdba/i/3/38/38baeef15e2e9c4016213513762d9df4.jpg",
+                "malId": 145699,
+                "aniId": 120288,
+                "page": "MangaFire",
+                "title": "Spare Me, Great Lord!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/spare-me-great-lordd.02743"
             }
         }
     },

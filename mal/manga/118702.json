@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e1bede76-6ec6-4918-bdf3-4b36733ba646": {
+                "id": 27360,
                 "identifier": "e1bede76-6ec6-4918-bdf3-4b36733ba646",
                 "image": "https://uploads.mangadex.org/covers/e1bede76-6ec6-4918-bdf3-4b36733ba646/0ab42838-93f0-4598-b142-5418d491eb22.jpg",
                 "malId": 118702,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "takane-no-hana-wa-midaresaki": {
+                "id": 55368,
                 "identifier": "takane-no-hana-wa-midaresaki",
                 "image": "https://temp.compsci88.com/cover/Takane-no-Hana-wa-Midaresaki.jpg",
                 "malId": 118702,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-el981746": {
+                "id": 75478,
                 "identifier": "manga-el981746",
                 "image": "https://avt.mkklcdnv6temp.com/26/i/18-1583498110.jpg",
                 "malId": 118702,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "takane_no_hana_wa_midaresaki": {
+                "id": 81285,
                 "identifier": "takane_no_hana_wa_midaresaki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30284/cover.jpg",
                 "malId": 118702,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/takane_no_hana_wa_midaresaki/"
             }
         },
-        "MangaFire": {
-            "takane-no-hana-wa-midaresaki.kk63r": {
-                "identifier": "takane-no-hana-wa-midaresaki.kk63r",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3d0dece6918e5428a37a6639bb177dc.jpg",
-                "malId": 118702,
-                "aniId": 107493,
-                "page": "MangaFire",
-                "title": "Takane no Hana wa Midaresaki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takane-no-hana-wa-midaresaki.kk63r/"
-            },
-            "takane-no-hana-wa-midaresakii.kk63r": {
-                "identifier": "takane-no-hana-wa-midaresakii.kk63r",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3d0dece6918e5428a37a6639bb177dc.jpg",
-                "malId": 118702,
-                "aniId": 107493,
-                "page": "MangaFire",
-                "title": "Takane no Hana wa Midaresaki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takane-no-hana-wa-midaresakii.kk63r/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmb63905fjxb5gsnwv5": {
+                "id": 208496,
                 "identifier": "01j76xydmb63905fjxb5gsnwv5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMB63905FJXB5GSNWV5.jpg",
                 "malId": 118702,
@@ -86,6 +69,19 @@
                 "title": "Takane no Hana wa Midaresaki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMB63905FJXB5GSNWV5"
+            }
+        },
+        "MangaFire": {
+            "kk63r": {
+                "id": 225927,
+                "identifier": "kk63r",
+                "image": "https://static.mangafire.to/ef77/i/f/f3/f3d0dece6918e5428a37a6639bb177dc.jpg",
+                "malId": 118702,
+                "aniId": 107493,
+                "page": "MangaFire",
+                "title": "Takane no Hana wa Midaresaki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/takane-no-hana-wa-midaresakii.kk63r"
             }
         },
         "Comick": {

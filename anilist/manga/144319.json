@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e8abb89b-4273-4c3e-af5c-34ca4985826b": {
+                "id": 104290,
                 "identifier": "e8abb89b-4273-4c3e-af5c-34ca4985826b",
                 "image": "https://uploads.mangadex.org/covers/e8abb89b-4273-4c3e-af5c-34ca4985826b/16fcdc39-b62b-44f2-8c6d-c720cd1cbec2.jpg",
                 "malId": 144449,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ooyukiumi_no_kaina": {
+                "id": 123998,
                 "identifier": "ooyukiumi_no_kaina",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43078/cover.jpg",
                 "malId": 144449,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/ooyukiumi_no_kaina/"
             }
         },
-        "MangaFire": {
-            "ooyukiumi-no-kaina.6v869": {
-                "identifier": "ooyukiumi-no-kaina.6v869",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/30844ed413e436e042951ae058fc3193.jpg",
-                "malId": 144449,
-                "aniId": 144319,
-                "page": "MangaFire",
-                "title": "Kaina of the Great Snow Sea",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ooyukiumi-no-kaina.6v869/"
-            }
-        },
         "MangaSee": {
             "kaina-of-the-great-snow-sea": {
+                "id": 193314,
                 "identifier": "kaina-of-the-great-snow-sea",
                 "image": "https://temp.compsci88.com/cover/Kaina-of-the-Great-Snow-Sea.jpg",
                 "malId": 144449,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhcygz373hmgcmtg63ww": {
+                "id": 207263,
                 "identifier": "01j76xyhcygz373hmgcmtg63ww",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHCYGZ373HMGCMTG63WW.jpg",
                 "malId": 144449,
@@ -68,14 +60,28 @@
         },
         "MangaNato": {
             "manga-cu1005755": {
+                "id": 216653,
                 "identifier": "manga-cu1005755",
-                "image": "https://avt.mkklcdnv6temp.com/43/i/37-1731124534.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/73/q/18-1733381509-nw.webp",
                 "malId": 144449,
                 "aniId": 144319,
                 "page": "MangaNato",
                 "title": "Ooyukiumi No Kaina",
                 "type": "manga",
                 "url": "https://manganato.com/manga-cu1005755"
+            }
+        },
+        "MangaFire": {
+            "6v869": {
+                "id": 257019,
+                "identifier": "6v869",
+                "image": "https://static.mangafire.to/aad1/i/3/30/30844ed413e436e042951ae058fc3193.jpg",
+                "malId": 144449,
+                "aniId": 144319,
+                "page": "MangaFire",
+                "title": "Kaina of the Great Snow Sea",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ooyukiumi-no-kainaa.6v869"
             }
         },
         "Comick": {

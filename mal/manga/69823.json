@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "db8a48ac-6938-43c1-a02a-3b590f9c9d65": {
+                "id": 10358,
                 "identifier": "db8a48ac-6938-43c1-a02a-3b590f9c9d65",
                 "image": "https://uploads.mangadex.org/covers/db8a48ac-6938-43c1-a02a-3b590f9c9d65/b4cdc3e1-af17-4a31-b8ee-ac2b63582448.jpg",
                 "malId": 69823,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kiriwo-terrible": {
+                "id": 81118,
                 "identifier": "kiriwo-terrible",
                 "image": "https://temp.compsci88.com/cover/Kiriwo-Terrible.jpg",
                 "malId": 69823,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kiriwo-Terrible"
             }
         },
-        "MangaFire": {
-            "kiriwo-terrible.wx0o": {
-                "identifier": "kiriwo-terrible.wx0o",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60f3a92f5a45afbc486cf860bdf23768.jpg",
-                "malId": 69823,
-                "aniId": 86962,
-                "page": "MangaFire",
-                "title": "Kiriwo Terrible",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiriwo-terrible.wx0o/"
-            }
-        },
         "Weebcentral": {
             "01j76xya41m9cka5nnh1k6jegq": {
+                "id": 213380,
                 "identifier": "01j76xya41m9cka5nnh1k6jegq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA41M9CKA5NNH1K6JEGQ.jpg",
                 "malId": 69823,
@@ -52,6 +43,19 @@
                 "title": "Kiriwo Terrible",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA41M9CKA5NNH1K6JEGQ"
+            }
+        },
+        "MangaFire": {
+            "wx0o": {
+                "id": 259956,
+                "identifier": "wx0o",
+                "image": "https://static.mangafire.to/647c/i/6/60/60f3a92f5a45afbc486cf860bdf23768.jpg",
+                "malId": 69823,
+                "aniId": 86962,
+                "page": "MangaFire",
+                "title": "Kiriwo Terrible",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kiriwo-terriblee.wx0o"
             }
         },
         "Comick": {

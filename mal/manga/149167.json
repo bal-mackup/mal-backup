@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "03f7d7b9-9639-48ab-b346-fee6883be261": {
+                "id": 27742,
                 "identifier": "03f7d7b9-9639-48ab-b346-fee6883be261",
                 "image": "https://uploads.mangadex.org/covers/03f7d7b9-9639-48ab-b346-fee6883be261/4df784f5-5fad-4457-9cb1-56df055475b3.jpg",
                 "malId": 149167,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-lady-with-a-mask": {
+                "id": 70350,
                 "identifier": "the-lady-with-a-mask",
                 "image": "https://temp.compsci88.com/cover/The-Lady-with-a-Mask.jpg",
                 "malId": 149167,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gs983527": {
+                "id": 82703,
                 "identifier": "manga-gs983527",
                 "image": "https://avt.mkklcdnv6temp.com/41/z/19-1583500700.jpg",
                 "malId": 149167,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-gs983527"
             }
         },
-        "MangaFire": {
-            "gamyeon-sseun-yeoja.1rnmv": {
-                "identifier": "gamyeon-sseun-yeoja.1rnmv",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/58262f69a846ad99851e7af5e674a6f7.jpg",
-                "malId": 149167,
-                "aniId": 109440,
-                "page": "MangaFire",
-                "title": "The Lady with a Mask",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gamyeon-sseun-yeoja.1rnmv/"
-            },
-            "gamyeon-sseun-yeojaa.1rnmv": {
-                "identifier": "gamyeon-sseun-yeojaa.1rnmv",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/58262f69a846ad99851e7af5e674a6f7.jpg",
-                "malId": 149167,
-                "aniId": 109440,
-                "page": "MangaFire",
-                "title": "The Lady with a Mask",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gamyeon-sseun-yeojaa.1rnmv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyengcs0n5fbdgwhnyayf": {
+                "id": 212801,
                 "identifier": "01j76xyengcs0n5fbdgwhnyayf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYENGCS0N5FBDGWHNYAYF.jpg",
                 "malId": 149167,
@@ -74,6 +56,19 @@
                 "title": "The Lady With a Mask",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYENGCS0N5FBDGWHNYAYF"
+            }
+        },
+        "MangaFire": {
+            "1rnmv": {
+                "id": 227626,
+                "identifier": "1rnmv",
+                "image": "https://static.mangafire.to/973c/i/5/58/58262f69a846ad99851e7af5e674a6f7.jpg",
+                "malId": 149167,
+                "aniId": 109440,
+                "page": "MangaFire",
+                "title": "The Lady with a Mask",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gamyeon-sseun-yeojaa.1rnmv"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ea3fc681-51fd-44d9-a83d-297c4c28e11b": {
+                "id": 155940,
                 "identifier": "ea3fc681-51fd-44d9-a83d-297c4c28e11b",
                 "image": "https://uploads.mangadex.org/covers/ea3fc681-51fd-44d9-a83d-297c4c28e11b/b9e7b649-9304-4ac1-a82f-c3098fa35691.jpg",
                 "malId": 157874,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/ea3fc681-51fd-44d9-a83d-297c4c28e11b"
             }
         },
-        "MangaFire": {
-            "renai-daikou.lr32m": {
-                "identifier": "renai-daikou.lr32m",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc7f719c1d729a635fdc6c8c4b2d7153.jpg",
-                "malId": 157874,
-                "aniId": 163754,
-                "page": "MangaFire",
-                "title": "Renai Daikou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/renai-daikou.lr32m/"
-            },
-            "renai-daikouu.lr32m": {
-                "identifier": "renai-daikouu.lr32m",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc7f719c1d729a635fdc6c8c4b2d7153.jpg",
-                "malId": 157874,
-                "aniId": 163754,
-                "page": "MangaFire",
-                "title": "Renai Daikou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/renai-daikouu.lr32m/"
-            }
-        },
         "MangaNato": {
             "manga-sl996020": {
+                "id": 156901,
                 "identifier": "manga-sl996020",
                 "image": "https://avt.mkklcdnv6temp.com/fld/100/l/14-1733306587-nw.webp",
                 "malId": 157874,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "renai_daikou": {
+                "id": 159756,
                 "identifier": "renai_daikou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44846/cover.jpg",
                 "malId": 157874,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "renai-daikou": {
+                "id": 170463,
                 "identifier": "renai-daikou",
                 "image": "https://temp.compsci88.com/cover/Renai-Daikou.jpg",
                 "malId": 157874,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygj8sms48k3yq56yra9n": {
+                "id": 213422,
                 "identifier": "01j76xygj8sms48k3yq56yra9n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGJ8SMS48K3YQ56YRA9N.jpg",
                 "malId": 157874,
@@ -86,6 +69,19 @@
                 "title": "Renai Daikou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGJ8SMS48K3YQ56YRA9N"
+            }
+        },
+        "MangaFire": {
+            "lr32m": {
+                "id": 226261,
+                "identifier": "lr32m",
+                "image": "https://static.mangafire.to/d9c6/i/b/bc/bc7f719c1d729a635fdc6c8c4b2d7153.jpg",
+                "malId": 157874,
+                "aniId": 163754,
+                "page": "MangaFire",
+                "title": "Renai Daikou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/renai-daikouu.lr32m"
             }
         },
         "Comick": {

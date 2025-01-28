@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "03eee952-1a7c-406b-8998-a85b238999d9": {
+                "id": 23960,
                 "identifier": "03eee952-1a7c-406b-8998-a85b238999d9",
                 "image": "https://uploads.mangadex.org/covers/03eee952-1a7c-406b-8998-a85b238999d9/6acca552-eb2f-410b-b6f6-57faa2f25ab9.jpg",
                 "malId": 120793,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-makeup-remover": {
+                "id": 60014,
                 "identifier": "the-makeup-remover",
                 "image": "https://temp.compsci88.com/cover/The-Makeup-Remover.jpg",
                 "malId": 120793,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_man_who_cleans_up_makeup": {
+                "id": 72529,
                 "identifier": "the_man_who_cleans_up_makeup",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28661/cover.jpg",
                 "malId": 120793,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cr979900": {
+                "id": 76411,
                 "identifier": "manga-cr979900",
                 "image": "https://avt.mkklcdnv6temp.com/8/u/17-1583495581.jpg",
                 "malId": 120793,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cr979900"
             }
         },
-        "MangaFire": {
-            "the-makeup-remover.8683": {
-                "identifier": "the-makeup-remover.8683",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/8962905d44199f7a85da15e50b4cd569.jpg",
-                "malId": 120793,
-                "aniId": 104283,
-                "page": "MangaFire",
-                "title": "The Makeup Remover",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-makeup-remover.8683/"
-            },
-            "the-makeup-removerr.8683": {
-                "identifier": "the-makeup-removerr.8683",
-                "image": "https://static.mangafire.to/2ad3/i/8/89/8962905d44199f7a85da15e50b4cd569.jpg",
-                "malId": 120793,
-                "aniId": 104283,
-                "page": "MangaFire",
-                "title": "The Makeup Remover",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-makeup-removerr.8683/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8dqk1ncy935zsykvfd": {
+                "id": 209743,
                 "identifier": "01j76xye8dqk1ncy935zsykvfd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8DQK1NCY935ZSYKVFD.jpg",
                 "malId": 120793,
@@ -86,6 +69,19 @@
                 "title": "The Makeup Remover",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8DQK1NCY935ZSYKVFD"
+            }
+        },
+        "MangaFire": {
+            "8683": {
+                "id": 223114,
+                "identifier": "8683",
+                "image": "https://static.mangafire.to/2ad3/i/8/89/8962905d44199f7a85da15e50b4cd569.jpg",
+                "malId": 120793,
+                "aniId": 104283,
+                "page": "MangaFire",
+                "title": "The Makeup Remover",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-makeup-removerr.8683"
             }
         },
         "Comick": {

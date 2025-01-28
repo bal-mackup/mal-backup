@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "20381705-a165-4cbd-9ccc-dba8facbfcac": {
+                "id": 17992,
                 "identifier": "20381705-a165-4cbd-9ccc-dba8facbfcac",
                 "image": "https://uploads.mangadex.org/covers/20381705-a165-4cbd-9ccc-dba8facbfcac/5eff24a9-8b4c-4cf9-af3f-ea6fde74632d.jpg",
                 "malId": 108240,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "arifureta-nichijou-de-sekai-saikyou": {
+                "id": 59368,
                 "identifier": "arifureta-nichijou-de-sekai-saikyou",
                 "image": "https://temp.compsci88.com/cover/Arifureta-Nichijou-de-Sekai-Saikyou.jpg",
                 "malId": 108240,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ex981632": {
+                "id": 76043,
                 "identifier": "manga-ex981632",
                 "image": "https://avt.mkklcdnv6temp.com/22/d/18-1583497962.jpg",
                 "malId": 108240,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ex981632"
             }
         },
-        "MangaFire": {
-            "arifureta-nichijou-de-sekai-saikyou.n35pl": {
-                "identifier": "arifureta-nichijou-de-sekai-saikyou.n35pl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f76a9e9e0eb4109bb1f5bce459039af.jpg",
-                "malId": 108240,
-                "aniId": 99701,
-                "page": "MangaFire",
-                "title": "Arifureta: I Heart Isekai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arifureta-nichijou-de-sekai-saikyou.n35pl/"
-            },
-            "arifureta-nichijou-de-sekai-saikyouu.n35pl": {
-                "identifier": "arifureta-nichijou-de-sekai-saikyouu.n35pl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f76a9e9e0eb4109bb1f5bce459039af.jpg",
-                "malId": 108240,
-                "aniId": 99701,
-                "page": "MangaFire",
-                "title": "Arifureta: I Heart Isekai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arifureta-nichijou-de-sekai-saikyouu.n35pl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd1tqc0hpw3xb6as64fv": {
+                "id": 213751,
                 "identifier": "01j76xyd1tqc0hpw3xb6as64fv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD1TQC0HPW3XB6AS64FV.jpg",
                 "malId": 108240,
@@ -74,6 +56,19 @@
                 "title": "Arifureta - I Heart Isekai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD1TQC0HPW3XB6AS64FV"
+            }
+        },
+        "MangaFire": {
+            "n35pl": {
+                "id": 225809,
+                "identifier": "n35pl",
+                "image": "https://static.mangafire.to/bc27/i/5/5f/5f76a9e9e0eb4109bb1f5bce459039af.jpg",
+                "malId": 108240,
+                "aniId": 99701,
+                "page": "MangaFire",
+                "title": "Arifureta: I Heart Isekai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/arifureta-nichijou-de-sekai-saikyouu.n35pl"
             }
         },
         "Comick": {

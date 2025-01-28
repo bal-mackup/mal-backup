@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d1608159-18d1-44dc-ad35-bc88d3271ab8": {
+                "id": 14160,
                 "identifier": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
                 "image": "https://uploads.mangadex.org/covers/d1608159-18d1-44dc-ad35-bc88d3271ab8/3ca3e138-1ebe-4354-a2ea-3cab8f57f13f.jpg",
                 "malId": 75551,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "monogatari-no-naka-no-hito": {
+                "id": 57336,
                 "identifier": "monogatari-no-naka-no-hito",
                 "image": "https://temp.compsci88.com/cover/Monogatari-No-Naka-No-Hito.jpg",
                 "malId": 75551,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "monogatari_no_naka_no_hito": {
+                "id": 58147,
                 "identifier": "monogatari_no_naka_no_hito",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24661/cover.jpg",
                 "malId": 75551,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yp975598": {
+                "id": 76325,
                 "identifier": "manga-yp975598",
                 "image": "https://avt.mkklcdnv6temp.com/13/h/15-1583491941.jpg",
                 "malId": 75551,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yp975598"
             }
         },
-        "MangaFire": {
-            "monogatari-no-naka-no-hito.52l3v": {
-                "identifier": "monogatari-no-naka-no-hito.52l3v",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15d1558b8458d09aa5314217dd560c39.jpg",
-                "malId": 75551,
-                "aniId": 92205,
-                "page": "MangaFire",
-                "title": "Legendary Wizard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monogatari-no-naka-no-hito.52l3v/"
-            },
-            "monogatari-no-naka-no-hitoo.52l3v": {
-                "identifier": "monogatari-no-naka-no-hitoo.52l3v",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15d1558b8458d09aa5314217dd560c39.jpg",
-                "malId": 75551,
-                "aniId": 92205,
-                "page": "MangaFire",
-                "title": "Legendary Wizard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monogatari-no-naka-no-hitoo.52l3v/"
-            },
-            "52l3v": {
-                "identifier": "52l3v",
-                "image": "https://static.mangafire.to/7618/i/1/15/15d1558b8458d09aa5314217dd560c39.jpg",
-                "malId": 75551,
-                "aniId": 92205,
-                "page": "MangaFire",
-                "title": "Legendary Wizard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monogatari-no-naka-no-hitoo.52l3v"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5t2nw8s1gbt5s64fns": {
+                "id": 214222,
                 "identifier": "01j76xyc5t2nw8s1gbt5s64fns",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5T2NW8S1GBT5S64FNS.jpg",
                 "malId": 75551,
@@ -96,6 +69,19 @@
                 "title": "Legendary Wizard",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5T2NW8S1GBT5S64FNS"
+            }
+        },
+        "MangaFire": {
+            "52l3v": {
+                "id": 224036,
+                "identifier": "52l3v",
+                "image": "https://static.mangafire.to/7618/i/1/15/15d1558b8458d09aa5314217dd560c39.jpg",
+                "malId": 75551,
+                "aniId": 92205,
+                "page": "MangaFire",
+                "title": "Legendary Wizard",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/monogatari-no-naka-no-hitoo.52l3v"
             }
         },
         "Comick": {

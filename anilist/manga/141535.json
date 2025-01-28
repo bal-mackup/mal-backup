@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/2/252569.jpg",
     "Sites": {
-        "MangaFire": {
-            "kitsune-no-yosuga.wov36": {
-                "identifier": "kitsune-no-yosuga.wov36",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/82c83d991d8a62eab6c407f092df486a.jpg",
-                "malId": 141968,
-                "aniId": 141535,
-                "page": "MangaFire",
-                "title": "Kitsune no Yosuga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kitsune-no-yosuga.wov36/"
-            }
-        },
         "Mangadex": {
             "cdd00bac-5590-4f42-9552-ee8c582d8a75": {
+                "id": 178798,
                 "identifier": "cdd00bac-5590-4f42-9552-ee8c582d8a75",
                 "image": "https://uploads.mangadex.org/covers/cdd00bac-5590-4f42-9552-ee8c582d8a75/245ab214-6c6e-420b-8ef1-6c219df26857.jpg",
                 "malId": 141968,
@@ -28,6 +17,19 @@
                 "title": "Kitsune no Yosuga",
                 "type": "manga",
                 "url": "https://mangadex.org/title/cdd00bac-5590-4f42-9552-ee8c582d8a75"
+            }
+        },
+        "MangaFire": {
+            "wov36": {
+                "id": 234882,
+                "identifier": "wov36",
+                "image": "https://static.mangafire.to/f281/i/8/82/82c83d991d8a62eab6c407f092df486a.jpg",
+                "malId": 141968,
+                "aniId": 141535,
+                "page": "MangaFire",
+                "title": "Kitsune no Yosuga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kitsune-no-yosugaa.wov36"
             }
         }
     },

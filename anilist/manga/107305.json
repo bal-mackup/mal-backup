@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b3fd63a7-a226-403c-ad2c-4c0d1942d186": {
+                "id": 23500,
                 "identifier": "b3fd63a7-a226-403c-ad2c-4c0d1942d186",
                 "image": "https://uploads.mangadex.org/covers/b3fd63a7-a226-403c-ad2c-4c0d1942d186/8728b71b-9666-4417-9b46-13195bf2108c.png",
                 "malId": 115156,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "saikyou-no-shuzoku-ga-ningen-datta-ken": {
+                "id": 54807,
                 "identifier": "saikyou-no-shuzoku-ga-ningen-datta-ken",
                 "image": "https://temp.compsci88.com/cover/Saikyou-no-Shuzoku-ga-Ningen-Datta-Ken.jpg",
                 "malId": 115156,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "saikyou_no_shuzoku_ga_ningen_datta_ken": {
+                "id": 57386,
                 "identifier": "saikyou_no_shuzoku_ga_ningen_datta_ken",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28365/cover.jpg",
                 "malId": 115156,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cu979577": {
+                "id": 76086,
                 "identifier": "manga-cu979577",
                 "image": "https://avt.mkklcdnv6temp.com/46/s/16-1583495147.jpg",
                 "malId": 115156,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cu979577"
             }
         },
-        "MangaFire": {
-            "saikyou-no-shuzoku-ga-ningen-datta-ken.3rkv8": {
-                "identifier": "saikyou-no-shuzoku-ga-ningen-datta-ken.3rkv8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1e/1eb8d3d0b4631b1d97e1bed902e6d5a5.jpg",
-                "malId": 115156,
-                "aniId": 107305,
-                "page": "MangaFire",
-                "title": "Saikyou no Shuzoku ga Ningen Datta Ken",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saikyou-no-shuzoku-ga-ningen-datta-ken.3rkv8/"
-            },
-            "3rkv8": {
-                "identifier": "3rkv8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1e/1eb8d3d0b4631b1d97e1bed902e6d5a5.jpg",
-                "malId": 115156,
-                "aniId": 107305,
-                "page": "MangaFire",
-                "title": "Saikyou no Shuzoku ga Ningen Datta Ken",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saikyou-no-shuzoku-ga-ningen-datta-ken.3rkv8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3btrkdk6qc55f7mjyh": {
+                "id": 206864,
                 "identifier": "01j76xyd3btrkdk6qc55f7mjyh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3BTRKDK6QC55F7MJYH.jpg",
                 "malId": 115156,
@@ -86,6 +69,19 @@
                 "title": "Saikyou no Shuzoku ga Ningen datta Ken",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3BTRKDK6QC55F7MJYH"
+            }
+        },
+        "MangaFire": {
+            "3rkv8": {
+                "id": 249610,
+                "identifier": "3rkv8",
+                "image": "https://static.mangafire.to/36c1/i/1/1e/1eb8d3d0b4631b1d97e1bed902e6d5a5.jpg",
+                "malId": 115156,
+                "aniId": 107305,
+                "page": "MangaFire",
+                "title": "Saikyou no Shuzoku ga Ningen Datta Ken",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saikyou-no-shuzoku-ga-ningen-datta-kenn.3rkv8"
             }
         },
         "Comick": {

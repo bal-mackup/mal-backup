@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6e52262f-bcd5-49c4-b93a-f4652d189844": {
+                "id": 21367,
                 "identifier": "6e52262f-bcd5-49c4-b93a-f4652d189844",
                 "image": "https://uploads.mangadex.org/covers/6e52262f-bcd5-49c4-b93a-f4652d189844/a12ee1bb-f633-4250-a714-372df26f0780.jpg",
                 "malId": 137200,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-grandmaster-of-demonic-cultivation": {
+                "id": 65306,
                 "identifier": "the-grandmaster-of-demonic-cultivation",
                 "image": "https://temp.compsci88.com/cover/The-Grandmaster-of-Demonic-Cultivation.jpg",
                 "malId": 137200,
@@ -30,6 +32,7 @@
                 "url": "https://mangasee123.com/manga/The-Grandmaster-of-Demonic-Cultivation"
             },
             "grandmaster-of-demonic-cultivation-mo-dao-zu-shi": {
+                "id": 127670,
                 "identifier": "grandmaster-of-demonic-cultivation-mo-dao-zu-shi",
                 "image": "https://temp.compsci88.com/cover/Grandmaster-of-Demonic-Cultivation-Mo-Dao-Zu-Shi.jpg",
                 "malId": 137200,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "the_grandmaster_of_demonic_cultivation": {
+                "id": 71155,
                 "identifier": "the_grandmaster_of_demonic_cultivation",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27123/cover.jpg",
                 "malId": 137200,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ct980354": {
+                "id": 74184,
                 "identifier": "manga-ct980354",
                 "image": "https://avt.mkklcdnv6temp.com/25/n/17-1583496172.jpg",
                 "malId": 137200,
@@ -64,50 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ct980354"
             }
         },
-        "MangaFire": {
-            "the-grandmaster-of-demonic-cultivation.167m": {
-                "identifier": "the-grandmaster-of-demonic-cultivation.167m",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e0/e01d13951781fa24a6af56a55f105fc1.jpg",
-                "malId": 137200,
-                "aniId": 101563,
-                "page": "MangaFire",
-                "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-grandmaster-of-demonic-cultivation.167m/"
-            },
-            "grandmaster-of-demonic-cultivation.72vo8": {
-                "identifier": "grandmaster-of-demonic-cultivation.72vo8",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/776850a1359b705cc4c9073bf4a90a4b.jpg",
-                "malId": 137200,
-                "aniId": 101563,
-                "page": "MangaFire",
-                "title": "Grandmaster of Demonic Cultivation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grandmaster-of-demonic-cultivation.72vo8/"
-            },
-            "grandmaster-of-demonic-cultivationn.72vo8": {
-                "identifier": "grandmaster-of-demonic-cultivationn.72vo8",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/776850a1359b705cc4c9073bf4a90a4b.jpg",
-                "malId": 137200,
-                "aniId": 101563,
-                "page": "MangaFire",
-                "title": "Grandmaster of Demonic Cultivation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grandmaster-of-demonic-cultivationn.72vo8/"
-            },
-            "the-grandmaster-of-demonic-cultivationn.167m": {
-                "identifier": "the-grandmaster-of-demonic-cultivationn.167m",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e0/e01d13951781fa24a6af56a55f105fc1.jpg",
-                "malId": 137200,
-                "aniId": 101563,
-                "page": "MangaFire",
-                "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-grandmaster-of-demonic-cultivationn.167m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyefbydnz29nfa9d9fhy9": {
+                "id": 206997,
                 "identifier": "01j76xyefbydnz29nfa9d9fhy9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEFBYDNZ29NFA9D9FHY9.jpg",
                 "malId": 137200,
@@ -118,6 +82,7 @@
                 "url": "https://weebcentral.com/series/01J76XYEFBYDNZ29NFA9D9FHY9"
             },
             "01j76xyg0mqzqwz53akeb2jdaz": {
+                "id": 212044,
                 "identifier": "01j76xyg0mqzqwz53akeb2jdaz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG0MQZQWZ53AKEB2JDAZ.jpg",
                 "malId": 137200,
@@ -126,6 +91,30 @@
                 "title": "Grandmaster of Demonic Cultivation - Mo Dao Zu Shi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG0MQZQWZ53AKEB2JDAZ"
+            }
+        },
+        "MangaFire": {
+            "72vo8": {
+                "id": 232368,
+                "identifier": "72vo8",
+                "image": "https://static.mangafire.to/2592/i/2/27/776850a1359b705cc4c9073bf4a90a4b.jpg",
+                "malId": 137200,
+                "aniId": 101563,
+                "page": "MangaFire",
+                "title": "Grandmaster of Demonic Cultivation",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/grandmaster-of-demonic-cultivationn.72vo8"
+            },
+            "167m": {
+                "id": 255332,
+                "identifier": "167m",
+                "image": "https://static.mangafire.to/8d30/i/e/e0/e01d13951781fa24a6af56a55f105fc1.jpg",
+                "malId": 137200,
+                "aniId": 101563,
+                "page": "MangaFire",
+                "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-grandmaster-of-demonic-cultivationn.167m"
             }
         },
         "Comick": {

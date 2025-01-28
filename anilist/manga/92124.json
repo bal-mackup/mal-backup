@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "87716042-b3fe-4885-ae8d-f2aa2c47affb": {
+                "id": 121381,
                 "identifier": "87716042-b3fe-4885-ae8d-f2aa2c47affb",
                 "image": "https://uploads.mangadex.org/covers/87716042-b3fe-4885-ae8d-f2aa2c47affb/225ba3df-3e9d-4a1e-b6a8-8307bfa77f81.jpg",
                 "malId": 75051,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qn994296": {
+                "id": 124989,
                 "identifier": "manga-qn994296",
                 "image": "https://avt.mkklcdnv6temp.com/32/m/28-1676687696.jpg",
                 "malId": 75051,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qn994296"
             }
         },
-        "MangaFire": {
-            "fuwari-don-patch.w5926": {
-                "identifier": "fuwari-don-patch.w5926",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4c18159547f65417b01e04bf749469.jpg",
-                "malId": 75051,
-                "aniId": 92124,
-                "page": "MangaFire",
-                "title": "Fuwari! Don Patch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fuwari-don-patch.w5926/"
-            },
-            "w5926": {
-                "identifier": "w5926",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4c18159547f65417b01e04bf749469.jpg",
-                "malId": 75051,
-                "aniId": 92124,
-                "page": "MangaFire",
-                "title": "Fuwari! Don Patch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fuwari-don-patch.w5926/"
-            }
-        },
         "MangaFox": {
             "fuwari_donpatch": {
+                "id": 191685,
                 "identifier": "fuwari_donpatch",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46244/cover.jpg",
                 "malId": 75051,
@@ -62,6 +43,19 @@
                 "title": "Fuwari! Donpatch",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/fuwari_donpatch/"
+            }
+        },
+        "MangaFire": {
+            "w5926": {
+                "id": 256404,
+                "identifier": "w5926",
+                "image": "https://static.mangafire.to/2da8/i/5/5d/5d4c18159547f65417b01e04bf749469.jpg",
+                "malId": 75051,
+                "aniId": 92124,
+                "page": "MangaFire",
+                "title": "Fuwari! Don Patch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fuwari-don-patchh.w5926"
             }
         },
         "Comick": {

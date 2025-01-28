@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "88991e19-8bcb-4aa7-aab9-b86e406c1885": {
+                "id": 21441,
                 "identifier": "88991e19-8bcb-4aa7-aab9-b86e406c1885",
                 "image": "https://uploads.mangadex.org/covers/88991e19-8bcb-4aa7-aab9-b86e406c1885/8d3a6859-87b3-405a-92a6-f44159c0e25c.png",
                 "malId": 112160,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/88991e19-8bcb-4aa7-aab9-b86e406c1885"
             }
         },
-        "MangaFire": {
-            "kanwa-mahoutsukai-no-yome.ky44": {
-                "identifier": "kanwa-mahoutsukai-no-yome.ky44",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17172bd9909e2bc57b362b22402c981b.jpg",
-                "malId": 112160,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Ancient Magus' Bride: Quiet Talk",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanwa-mahoutsukai-no-yome.ky44/"
-            },
-            "ky44": {
-                "identifier": "ky44",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17172bd9909e2bc57b362b22402c981b.jpg",
-                "malId": 112160,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Ancient Magus' Bride: Quiet Talk",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanwa-mahoutsukai-no-yome.ky44/"
-            }
-        },
         "MangaFox": {
             "kanwa_mahou_tsukai_no_yome": {
+                "id": 217374,
                 "identifier": "kanwa_mahou_tsukai_no_yome",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41208/cover.jpg",
                 "malId": 112160,
@@ -50,6 +30,19 @@
                 "title": "Kanwa Mahou Tsukai no Yome",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kanwa_mahou_tsukai_no_yome/"
+            }
+        },
+        "MangaFire": {
+            "ky44": {
+                "id": 249051,
+                "identifier": "ky44",
+                "image": "https://static.mangafire.to/36cc/i/1/17/17172bd9909e2bc57b362b22402c981b.jpg",
+                "malId": 112160,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Ancient Magus' Bride: Quiet Talk",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanwa-mahoutsukai-no-yomee.ky44"
             }
         },
         "Comick": {

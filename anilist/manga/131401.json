@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b89018c2-7a2d-4f9b-a5d6-12aa54087c25": {
+                "id": 89737,
                 "identifier": "b89018c2-7a2d-4f9b-a5d6-12aa54087c25",
                 "image": "https://uploads.mangadex.org/covers/b89018c2-7a2d-4f9b-a5d6-12aa54087c25/9a523bcb-8e96-4912-a4cd-b205060a62bd.jpg",
                 "malId": 136899,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/b89018c2-7a2d-4f9b-a5d6-12aa54087c25"
             }
         },
-        "MangaFire": {
-            "misumi-san-wa-misukasenai.rl01q": {
-                "identifier": "misumi-san-wa-misukasenai.rl01q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6996e5045fbb854f97a97480acd5b535.jpg",
-                "malId": 136899,
-                "aniId": 131401,
-                "page": "MangaFire",
-                "title": "Misumi-san Can't See Through",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/misumi-san-wa-misukasenai.rl01q/"
-            },
-            "misumi-san-wa-misukasenaii.rl01q": {
-                "identifier": "misumi-san-wa-misukasenaii.rl01q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6996e5045fbb854f97a97480acd5b535.jpg",
-                "malId": 136899,
-                "aniId": 131401,
-                "page": "MangaFire",
-                "title": "Misumi-san Can't See Through",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/misumi-san-wa-misukasenaii.rl01q/"
-            }
-        },
         "MangaNato": {
             "manga-ut997476": {
+                "id": 165480,
                 "identifier": "manga-ut997476",
                 "image": "https://avt.mkklcdnv6temp.com/fld/55/z/15-1733309998-nw.webp",
                 "malId": 136899,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "misumi_san_wa_misukasenai": {
+                "id": 165615,
                 "identifier": "misumi_san_wa_misukasenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39689/cover.jpg",
                 "malId": 136899,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "misumi-san-cant-see-through": {
+                "id": 191446,
                 "identifier": "misumi-san-cant-see-through",
                 "image": "https://temp.compsci88.com/cover/Misumi-san-Cant-See-Through.jpg",
                 "malId": 136899,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhc5gf4banzncnv6xf3v": {
+                "id": 213104,
                 "identifier": "01j76xyhc5gf4banzncnv6xf3v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHC5GF4BANZNCNV6XF3V.jpg",
                 "malId": 136899,
@@ -86,6 +69,19 @@
                 "title": "Misumi-san Can't See Through",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHC5GF4BANZNCNV6XF3V"
+            }
+        },
+        "MangaFire": {
+            "rl01q": {
+                "id": 226950,
+                "identifier": "rl01q",
+                "image": "https://static.mangafire.to/1669/i/6/69/6996e5045fbb854f97a97480acd5b535.jpg",
+                "malId": 136899,
+                "aniId": 131401,
+                "page": "MangaFire",
+                "title": "Misumi-san Can't See Through",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/misumi-san-wa-misukasenaii.rl01q"
             }
         },
         "Comick": {

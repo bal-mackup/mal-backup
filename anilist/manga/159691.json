@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "39ead81d-d12f-4eb6-9f0f-0a16b58698d5": {
+                "id": 120049,
                 "identifier": "39ead81d-d12f-4eb6-9f0f-0a16b58698d5",
                 "image": "https://uploads.mangadex.org/covers/39ead81d-d12f-4eb6-9f0f-0a16b58698d5/f897fdcf-9034-44f9-9cfb-5a9ce5fe0cac.jpg",
                 "malId": 150444,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-nihon": {
+                "id": 125801,
                 "identifier": "isekai-nihon",
                 "image": "https://temp.compsci88.com/cover/Isekai-Nihon.jpg",
                 "malId": 150444,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Isekai-Nihon"
             }
         },
-        "MangaFire": {
-            "isekai-nihon.ojq2z": {
-                "identifier": "isekai-nihon.ojq2z",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68b428848667bc66be5bbee5c54885da.jpg",
-                "malId": 150444,
-                "aniId": 159691,
-                "page": "MangaFire",
-                "title": "Another World in Japan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-nihon.ojq2z/"
-            },
-            "isekai-nihonn.ojq2z": {
-                "identifier": "isekai-nihonn.ojq2z",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68b428848667bc66be5bbee5c54885da.jpg",
-                "malId": 150444,
-                "aniId": 159691,
-                "page": "MangaFire",
-                "title": "Another World in Japan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-nihonn.ojq2z/"
-            }
-        },
         "MangaNato": {
             "manga-ts997127": {
+                "id": 163700,
                 "identifier": "manga-ts997127",
                 "image": "https://avt.mkklcdnv6temp.com/fld/42/s/15-1733309188-nw.webp",
                 "malId": 150444,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfznpe3m7fkdyr4zwvmj": {
+                "id": 209583,
                 "identifier": "01j76xyfznpe3m7fkdyr4zwvmj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFZNPE3M7FKDYR4ZWVMJ.jpg",
                 "malId": 150444,
@@ -74,6 +56,19 @@
                 "title": "Isekai Nihon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFZNPE3M7FKDYR4ZWVMJ"
+            }
+        },
+        "MangaFire": {
+            "ojq2z": {
+                "id": 230608,
+                "identifier": "ojq2z",
+                "image": "https://static.mangafire.to/721d/i/6/68/68b428848667bc66be5bbee5c54885da.jpg",
+                "malId": 150444,
+                "aniId": 159691,
+                "page": "MangaFire",
+                "title": "Another World in Japan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-nihonn.ojq2z"
             }
         },
         "Comick": {

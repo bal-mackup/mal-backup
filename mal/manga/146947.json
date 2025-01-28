@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9b834c6-cc87-4d38-9385-14f3d9913ad8": {
+                "id": 122335,
                 "identifier": "e9b834c6-cc87-4d38-9385-14f3d9913ad8",
                 "image": "https://uploads.mangadex.org/covers/e9b834c6-cc87-4d38-9385-14f3d9913ad8/854ea698-4492-415c-a4ef-decf206b0ec6.jpg",
                 "malId": 146947,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "whoever-steals-this-book": {
+                "id": 183209,
                 "identifier": "whoever-steals-this-book",
                 "image": "https://temp.compsci88.com/cover/Whoever-Steals-This-Book.jpg",
                 "malId": 146947,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Whoever-Steals-This-Book"
             }
         },
-        "MangaFire": {
-            "kono-hon-wo-nusumu-mono-wa.mvro7": {
-                "identifier": "kono-hon-wo-nusumu-mono-wa.mvro7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/700221a351d259c9bc7cc3b59589c97d.jpg",
-                "malId": 146947,
-                "aniId": 145025,
-                "page": "MangaFire",
-                "title": "Whoever Steals This Book",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-hon-wo-nusumu-mono-wa.mvro7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyh0sb5qvd98t0g4dpjsc": {
+                "id": 211615,
                 "identifier": "01j76xyh0sb5qvd98t0g4dpjsc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH0SB5QVD98T0G4DPJSC.jpg",
                 "malId": 146947,
@@ -52,6 +43,19 @@
                 "title": "Whoever Steals this Book",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH0SB5QVD98T0G4DPJSC"
+            }
+        },
+        "MangaFire": {
+            "mvro7": {
+                "id": 232956,
+                "identifier": "mvro7",
+                "image": "https://static.mangafire.to/3979/i/c/c0/700221a351d259c9bc7cc3b59589c97d.jpg",
+                "malId": 146947,
+                "aniId": 145025,
+                "page": "MangaFire",
+                "title": "Whoever Steals This Book",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kono-hon-wo-nusumu-mono-waa.mvro7"
             }
         },
         "Comick": {

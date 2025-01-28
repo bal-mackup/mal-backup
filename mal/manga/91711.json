@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6c0053b0-332b-4fc5-85b8-bcdbc0196a35": {
+                "id": 12649,
                 "identifier": "6c0053b0-332b-4fc5-85b8-bcdbc0196a35",
                 "image": "https://uploads.mangadex.org/covers/6c0053b0-332b-4fc5-85b8-bcdbc0196a35/e5e920ab-c829-47e7-be4c-83665752079b.jpg",
                 "malId": 91711,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "devils-line": {
+                "id": 60291,
                 "identifier": "devils-line",
                 "image": "https://temp.compsci88.com/cover/Devils-Line.jpg",
                 "malId": 91711,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kf951462": {
+                "id": 77720,
                 "identifier": "manga-kf951462",
                 "image": "https://avt.mkklcdnv6temp.com/5/o/1-1583463881.jpg",
                 "malId": 91711,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-kf951462"
             }
         },
-        "MangaFire": {
-            "devils-line.zlyz2": {
-                "identifier": "devils-line.zlyz2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/08827cdb1d0d506ed1c5b69b514159d2.jpg",
-                "malId": 91711,
-                "aniId": 86648,
-                "page": "MangaFire",
-                "title": "Devils' Line",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devils-line.zlyz2/"
-            },
-            "zlyz2": {
-                "identifier": "zlyz2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/08827cdb1d0d506ed1c5b69b514159d2.jpg",
-                "malId": 91711,
-                "aniId": 86648,
-                "page": "MangaFire",
-                "title": "Devils' Line",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devils-line.zlyz2/"
-            }
-        },
         "MangaFox": {
             "devils_line": {
+                "id": 168219,
                 "identifier": "devils_line",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17917/cover.jpg",
                 "malId": 91711,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xybm8n5xd0bpac2ztsnr2": {
+                "id": 210466,
                 "identifier": "01j76xybm8n5xd0bpac2ztsnr2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBM8N5XD0BPAC2ZTSNR2.jpg",
                 "malId": 91711,
@@ -86,6 +69,19 @@
                 "title": "Devils' Line",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBM8N5XD0BPAC2ZTSNR2"
+            }
+        },
+        "MangaFire": {
+            "zlyz2": {
+                "id": 255885,
+                "identifier": "zlyz2",
+                "image": "https://static.mangafire.to/2d9d/i/0/08/08827cdb1d0d506ed1c5b69b514159d2.jpg",
+                "malId": 91711,
+                "aniId": 86648,
+                "page": "MangaFire",
+                "title": "Devils' Line",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/devils-linee.zlyz2"
             }
         },
         "Comick": {

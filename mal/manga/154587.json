@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "58167656-a065-4b49-b499-bd73d00555d5": {
+                "id": 120781,
                 "identifier": "58167656-a065-4b49-b499-bd73d00555d5",
                 "image": "https://uploads.mangadex.org/covers/58167656-a065-4b49-b499-bd73d00555d5/02e18ff8-7351-4ce5-b2e8-a9e320f05727.jpg",
                 "malId": 154587,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qr993374": {
+                "id": 121059,
                 "identifier": "manga-qr993374",
                 "image": "https://avt.mkklcdnv6temp.com/45/k/27-1672749841.jpg",
                 "malId": 154587,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "pick_me_up": {
+                "id": 127136,
                 "identifier": "pick_me_up",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44601/cover.jpg",
                 "malId": 154587,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/pick_me_up/"
             }
         },
-        "MangaFire": {
-            "pick-me-up.372pr": {
-                "identifier": "pick-me-up.372pr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b11661c4f9c96d77f336427344d22be.jpg",
-                "malId": 154587,
-                "aniId": 159441,
-                "page": "MangaFire",
-                "title": "Pick Me Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pick-me-up.372pr/"
-            },
-            "pick-me-up2.372pr": {
-                "identifier": "pick-me-up2.372pr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b11661c4f9c96d77f336427344d22be.jpg",
-                "malId": 154587,
-                "aniId": 159441,
-                "page": "MangaFire",
-                "title": "Pick Me Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pick-me-up2.372pr/"
-            },
-            "pick-me-upp.372pr": {
-                "identifier": "pick-me-upp.372pr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b11661c4f9c96d77f336427344d22be.jpg",
-                "malId": 154587,
-                "aniId": 159441,
-                "page": "MangaFire",
-                "title": "Pick Me Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pick-me-upp.372pr/"
-            }
-        },
         "MangaSee": {
             "pick-me-up-infinite-gacha": {
+                "id": 181313,
                 "identifier": "pick-me-up-infinite-gacha",
                 "image": "https://temp.compsci88.com/cover/Pick-Me-Up-Infinite-Gacha.jpg",
                 "malId": 154587,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygy7fdv857j4hjaz131k": {
+                "id": 208270,
                 "identifier": "01j76xygy7fdv857j4hjaz131k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGY7FDV857J4HJAZ131K.jpg",
                 "malId": 154587,
@@ -96,6 +69,19 @@
                 "title": "Pick Me Up, Infinite Gacha",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGY7FDV857J4HJAZ131K"
+            }
+        },
+        "MangaFire": {
+            "372pr": {
+                "id": 228642,
+                "identifier": "372pr",
+                "image": "https://static.mangafire.to/dd23/i/1/1b/1b11661c4f9c96d77f336427344d22be.jpg",
+                "malId": 154587,
+                "aniId": 159441,
+                "page": "MangaFire",
+                "title": "Pick Me Up!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pick-me-upp.372pr"
             }
         },
         "Comick": {

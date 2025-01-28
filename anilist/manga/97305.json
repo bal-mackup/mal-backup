@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cca37289-bd8c-450d-817c-b8b98ba54336": {
+                "id": 15684,
                 "identifier": "cca37289-bd8c-450d-817c-b8b98ba54336",
                 "image": "https://uploads.mangadex.org/covers/cca37289-bd8c-450d-817c-b8b98ba54336/d4548025-6554-40ba-a091-e7ad3bb6fecf.jpg",
                 "malId": 98971,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "suki-x-suki": {
+                "id": 59411,
                 "identifier": "suki-x-suki",
                 "image": "https://temp.compsci88.com/cover/Suki-X-Suki.jpg",
                 "malId": 98971,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ua971583": {
+                "id": 81334,
                 "identifier": "manga-ua971583",
                 "image": "https://avt.mkklcdnv6temp.com/48/i/13-1583489607.jpg",
                 "malId": 98971,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-ua971583"
             }
         },
-        "MangaFire": {
-            "suki-x-suki.w1lq7": {
-                "identifier": "suki-x-suki.w1lq7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2faccc3eaaac9f52aae6d0daa398acc3.jpg",
-                "malId": 98971,
-                "aniId": 97305,
-                "page": "MangaFire",
-                "title": "Suki x Suki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suki-x-suki.w1lq7/"
-            },
-            "suki-x-sukii.w1lq7": {
-                "identifier": "suki-x-sukii.w1lq7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2faccc3eaaac9f52aae6d0daa398acc3.jpg",
-                "malId": 98971,
-                "aniId": 97305,
-                "page": "MangaFire",
-                "title": "Suki x Suki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suki-x-sukii.w1lq7/"
-            },
-            "w1lq7": {
-                "identifier": "w1lq7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2faccc3eaaac9f52aae6d0daa398acc3.jpg",
-                "malId": 98971,
-                "aniId": 97305,
-                "page": "MangaFire",
-                "title": "Suki x Suki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suki-x-sukii.w1lq7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2ehyvwn4hzm4nzsph7": {
+                "id": 206727,
                 "identifier": "01j76xyc2ehyvwn4hzm4nzsph7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2EHYVWN4HZM4NZSPH7.jpg",
                 "malId": 98971,
@@ -84,6 +56,19 @@
                 "title": "Suki x Suki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2EHYVWN4HZM4NZSPH7"
+            }
+        },
+        "MangaFire": {
+            "w1lq7": {
+                "id": 225218,
+                "identifier": "w1lq7",
+                "image": "https://static.mangafire.to/2609/i/2/2f/2faccc3eaaac9f52aae6d0daa398acc3.jpg",
+                "malId": 98971,
+                "aniId": 97305,
+                "page": "MangaFire",
+                "title": "Suki x Suki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/suki-x-sukii.w1lq7"
             }
         },
         "Comick": {

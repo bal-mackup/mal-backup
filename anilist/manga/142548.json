@@ -6,20 +6,9 @@
     "total": 5,
     "image": "https://cdn.myanimelist.net/images/manga/3/255989.jpg",
     "Sites": {
-        "MangaFire": {
-            "hatsukoi-fuzen-moratorium.m20j8": {
-                "identifier": "hatsukoi-fuzen-moratorium.m20j8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/11804ff78fe6b49ffda528148fda5ff9.jpg",
-                "malId": 143572,
-                "aniId": 142548,
-                "page": "MangaFire",
-                "title": "Hatsukoi Fuzen Moratorium",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hatsukoi-fuzen-moratorium.m20j8/"
-            }
-        },
         "Mangadex": {
             "cc8d2ac9-d045-4a06-ab97-22665d8a4d02": {
+                "id": 160346,
                 "identifier": "cc8d2ac9-d045-4a06-ab97-22665d8a4d02",
                 "image": "https://uploads.mangadex.org/covers/cc8d2ac9-d045-4a06-ab97-22665d8a4d02/4bb8b403-c00e-49af-bcc5-d1d8fc67fb2f.png",
                 "malId": 143572,
@@ -28,6 +17,19 @@
                 "title": "Hatsukoi Fuzen Moratorium",
                 "type": "manga",
                 "url": "https://mangadex.org/title/cc8d2ac9-d045-4a06-ab97-22665d8a4d02"
+            }
+        },
+        "MangaFire": {
+            "m20j8": {
+                "id": 253000,
+                "identifier": "m20j8",
+                "image": "https://static.mangafire.to/ed35/i/1/11/11804ff78fe6b49ffda528148fda5ff9.jpg",
+                "malId": 143572,
+                "aniId": 142548,
+                "page": "MangaFire",
+                "title": "Hatsukoi Fuzen Moratorium",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hatsukoi-fuzen-moratoriumm.m20j8"
             }
         }
     },

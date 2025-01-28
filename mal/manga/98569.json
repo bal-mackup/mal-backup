@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52deb887-cd97-43cf-8506-678a18ba9335": {
+                "id": 17172,
                 "identifier": "52deb887-cd97-43cf-8506-678a18ba9335",
                 "image": "https://uploads.mangadex.org/covers/52deb887-cd97-43cf-8506-678a18ba9335/37823420-7216-4297-bd64-38d911755157.jpg",
                 "malId": 98569,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ichigeki": {
+                "id": 59068,
                 "identifier": "ichigeki",
                 "image": "https://temp.compsci88.com/cover/Ichigeki.jpg",
                 "malId": 98569,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ichigeki_matsumoto_jiro": {
+                "id": 66576,
                 "identifier": "ichigeki_matsumoto_jiro",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24133/cover.jpg",
                 "malId": 98569,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xk975119": {
+                "id": 77760,
                 "identifier": "manga-xk975119",
                 "image": "https://avt.mkklcdnv6temp.com/4/u/15-1583491640.jpg",
                 "malId": 98569,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-xk975119"
             }
         },
-        "MangaFire": {
-            "ichigeki.w1847": {
-                "identifier": "ichigeki.w1847",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e284441db4e145c8f914ae14d7177dc6.jpg",
-                "malId": 98569,
-                "aniId": 98386,
-                "page": "MangaFire",
-                "title": "Ichigeki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ichigeki.w1847/"
-            },
-            "w1847": {
-                "identifier": "w1847",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e284441db4e145c8f914ae14d7177dc6.jpg",
-                "malId": 98569,
-                "aniId": 98386,
-                "page": "MangaFire",
-                "title": "Ichigeki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ichigeki.w1847/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc1r55hz6v3566j3tpa2": {
+                "id": 212229,
                 "identifier": "01j76xyc1r55hz6v3566j3tpa2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC1R55HZ6V3566J3TPA2.jpg",
                 "malId": 98569,
@@ -86,6 +69,19 @@
                 "title": "Ichigeki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC1R55HZ6V3566J3TPA2"
+            }
+        },
+        "MangaFire": {
+            "w1847": {
+                "id": 256608,
+                "identifier": "w1847",
+                "image": "https://static.mangafire.to/d4ba/i/e/e2/e284441db4e145c8f914ae14d7177dc6.jpg",
+                "malId": 98569,
+                "aniId": 98386,
+                "page": "MangaFire",
+                "title": "Ichigeki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ichigekii.w1847"
             }
         },
         "Comick": {

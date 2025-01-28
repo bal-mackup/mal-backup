@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "68c5ca83-b5d7-4d06-baf5-aaf777676d3d": {
+                "id": 53284,
                 "identifier": "68c5ca83-b5d7-4d06-baf5-aaf777676d3d",
                 "image": "https://uploads.mangadex.org/covers/68c5ca83-b5d7-4d06-baf5-aaf777676d3d/18c69298-a163-4498-b48c-4cfaf7394ea1.jpg",
                 "malId": 142215,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kg987789": {
+                "id": 81661,
                 "identifier": "manga-kg987789",
                 "image": "https://avt.mkklcdnv6temp.com/12/f/23-1611977059.jpg",
                 "malId": 142215,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-kg987789"
             }
         },
-        "MangaFire": {
-            "amakara-gishimai-ni-hasamarete-masu.ll08q": {
-                "identifier": "amakara-gishimai-ni-hasamarete-masu.ll08q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/140d7b6b0acfb08d35b5243964bd0579.jpg",
-                "malId": 142215,
-                "aniId": 138368,
-                "page": "MangaFire",
-                "title": "Amakara Gishimai ni Hasamarete Masu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amakara-gishimai-ni-hasamarete-masu.ll08q/"
-            },
-            "amakara-gishimai-ni-hasamarete-masuu.ll08q": {
-                "identifier": "amakara-gishimai-ni-hasamarete-masuu.ll08q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/140d7b6b0acfb08d35b5243964bd0579.jpg",
-                "malId": 142215,
-                "aniId": 138368,
-                "page": "MangaFire",
-                "title": "Amakara Gishimai ni Hasamarete Masu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amakara-gishimai-ni-hasamarete-masuu.ll08q/"
-            }
-        },
         "MangaSee": {
             "amakara-gishimai-ni-hasamarete-masu": {
+                "id": 193083,
                 "identifier": "amakara-gishimai-ni-hasamarete-masu",
                 "image": "https://temp.compsci88.com/cover/Amakara-Gishimai-ni-Hasamarete-Masu.jpg",
                 "malId": 142215,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhe3k9q68xn95qp0k9v8": {
+                "id": 208088,
                 "identifier": "01j76xyhe3k9q68xn95qp0k9v8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHE3K9Q68XN95QP0K9V8.jpg",
                 "malId": 142215,
@@ -74,6 +56,19 @@
                 "title": "Amakara Gishimai ni Hasamaretemasu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHE3K9Q68XN95QP0K9V8"
+            }
+        },
+        "MangaFire": {
+            "ll08q": {
+                "id": 243416,
+                "identifier": "ll08q",
+                "image": "https://static.mangafire.to/4e49/i/1/14/140d7b6b0acfb08d35b5243964bd0579.jpg",
+                "malId": 142215,
+                "aniId": 138368,
+                "page": "MangaFire",
+                "title": "Amakara Gishimai ni Hasamarete Masu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/amakara-gishimai-ni-hasamarete-masuu.ll08q"
             }
         },
         "Comick": {

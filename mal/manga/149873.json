@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "player-from-today-onwards": {
+                "id": 88371,
                 "identifier": "player-from-today-onwards",
                 "image": "https://temp.compsci88.com/cover/Player-from-Today-Onwards.jpg",
                 "malId": 149873,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mr989926": {
+                "id": 89751,
                 "identifier": "manga-mr989926",
                 "image": "https://avt.mkklcdnv6temp.com/2/l/25-1635347911.jpg",
                 "malId": 149873,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "player_from_today_onwards": {
+                "id": 90230,
                 "identifier": "player_from_today_onwards",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39860/cover.jpg",
                 "malId": 149873,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb": {
+                "id": 91551,
                 "identifier": "e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb",
                 "image": "https://uploads.mangadex.org/covers/e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb/b5d5b9d5-906a-4a1f-8b5c-2a5e1b573c1c.png",
                 "malId": 149873,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb"
             }
         },
-        "MangaFire": {
-            "oneulbuteo-player.kko99": {
-                "identifier": "oneulbuteo-player.kko99",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/656ea490144a72bc6548b03e5f29f9e6.jpg",
-                "malId": 149873,
-                "aniId": 139381,
-                "page": "MangaFire",
-                "title": "My Life as a Player",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oneulbuteo-player.kko99/"
-            },
-            "oneulbuteo-playerr.kko99": {
-                "identifier": "oneulbuteo-playerr.kko99",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/656ea490144a72bc6548b03e5f29f9e6.jpg",
-                "malId": 149873,
-                "aniId": 139381,
-                "page": "MangaFire",
-                "title": "My Life as a Player",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oneulbuteo-playerr.kko99/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf3xh9zddc6zv6jn45m6": {
+                "id": 207815,
                 "identifier": "01j76xyf3xh9zddc6zv6jn45m6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF3XH9ZDDC6ZV6JN45M6.jpg",
                 "malId": 149873,
@@ -86,6 +69,19 @@
                 "title": "Player From Today Onwards",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF3XH9ZDDC6ZV6JN45M6"
+            }
+        },
+        "MangaFire": {
+            "kko99": {
+                "id": 226546,
+                "identifier": "kko99",
+                "image": "https://static.mangafire.to/8b86/i/6/65/656ea490144a72bc6548b03e5f29f9e6.jpg",
+                "malId": 149873,
+                "aniId": 139381,
+                "page": "MangaFire",
+                "title": "My Life as a Player",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oneulbuteo-playerr.kko99"
             }
         },
         "Comick": {

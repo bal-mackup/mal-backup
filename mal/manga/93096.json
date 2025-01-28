@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "5763292a-3bb7-43e8-a0fc-53f2140253a2": {
+                "id": 22934,
                 "identifier": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
-                "image": "https://uploads.mangadex.org/covers/5763292a-3bb7-43e8-a0fc-53f2140253a2/3ea04d7e-85ec-4747-a9fd-f9562c3a23ea.jpg",
+                "image": "https://uploads.mangadex.org/covers/5763292a-3bb7-43e8-a0fc-53f2140253a2/11d298f0-1887-4290-8c4c-8a0c581134d6.jpg",
                 "malId": 93096,
                 "aniId": 113243,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bungo": {
+                "id": 63310,
                 "identifier": "bungo",
                 "image": "https://temp.compsci88.com/cover/Bungo.jpg",
                 "malId": 93096,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ge983513": {
+                "id": 77013,
                 "identifier": "manga-ge983513",
                 "image": "https://avt.mkklcdnv6temp.com/41/m/19-1583500684.jpg",
                 "malId": 93096,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ge983513"
             }
         },
-        "MangaFire": {
-            "bungo.vvy24": {
-                "identifier": "bungo.vvy24",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d8b9c0b6b3eaaa0c4ce602919c0fe3e.jpg",
-                "malId": 93096,
-                "aniId": 113243,
-                "page": "MangaFire",
-                "title": "Bungo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bungo.vvy24/"
-            },
-            "bungoo.vvy24": {
-                "identifier": "bungoo.vvy24",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d8b9c0b6b3eaaa0c4ce602919c0fe3e.jpg",
-                "malId": 93096,
-                "aniId": 113243,
-                "page": "MangaFire",
-                "title": "Bungo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bungoo.vvy24/"
-            },
-            "vvy24": {
-                "identifier": "vvy24",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d8b9c0b6b3eaaa0c4ce602919c0fe3e.jpg",
-                "malId": 93096,
-                "aniId": 113243,
-                "page": "MangaFire",
-                "title": "Bungo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bungoo.vvy24/"
-            }
-        },
         "Weebcentral": {
             "01j76xydhffvwjxvwceztchk8q": {
+                "id": 208706,
                 "identifier": "01j76xydhffvwjxvwceztchk8q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDHFFVWJXVWCEZTCHK8Q.jpg",
                 "malId": 93096,
@@ -84,6 +56,19 @@
                 "title": "Bungo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDHFFVWJXVWCEZTCHK8Q"
+            }
+        },
+        "MangaFire": {
+            "vvy24": {
+                "id": 227107,
+                "identifier": "vvy24",
+                "image": "https://static.mangafire.to/b9c1/i/2/2d/2d8b9c0b6b3eaaa0c4ce602919c0fe3e.jpg",
+                "malId": 93096,
+                "aniId": 113243,
+                "page": "MangaFire",
+                "title": "Bungo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bungoo.vvy24"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5c3e27c4-2ff1-4b66-968e-8b813653192e": {
+                "id": 18429,
                 "identifier": "5c3e27c4-2ff1-4b66-968e-8b813653192e",
                 "image": "https://uploads.mangadex.org/covers/5c3e27c4-2ff1-4b66-968e-8b813653192e/15ac46a9-b1a9-49ea-8801-0c1482e7fc75.jpg",
                 "malId": 110081,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "isekai_ryouridou": {
+                "id": 56441,
                 "identifier": "isekai_ryouridou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27031/cover.jpg",
                 "malId": 110081,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "isekai-ryouridou": {
+                "id": 56794,
                 "identifier": "isekai-ryouridou",
                 "image": "https://temp.compsci88.com/cover/Isekai-Ryouridou.jpg",
                 "malId": 110081,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bn979022": {
+                "id": 74061,
                 "identifier": "manga-bn979022",
                 "image": "https://avt.mkklcdnv6temp.com/25/v/16-1583494399.jpg",
                 "malId": 110081,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bn979022"
             }
         },
-        "MangaFire": {
-            "isekai-ryouridou.80m8v": {
-                "identifier": "isekai-ryouridou.80m8v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6976e3df9dd9409d7cc7ee966b3f2159.jpg",
-                "malId": 110081,
-                "aniId": 100309,
-                "page": "MangaFire",
-                "title": "Cooking with Wild Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ryouridou.80m8v/"
-            },
-            "isekai-ryouridouu.80m8v": {
-                "identifier": "isekai-ryouridouu.80m8v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6976e3df9dd9409d7cc7ee966b3f2159.jpg",
-                "malId": 110081,
-                "aniId": 100309,
-                "page": "MangaFire",
-                "title": "Cooking with Wild Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ryouridouu.80m8v/"
-            }
-        },
         "Weebcentral": {
             "01j76xycenv4rgfx2m7rwnts8c": {
+                "id": 213244,
                 "identifier": "01j76xycenv4rgfx2m7rwnts8c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCENV4RGFX2M7RWNTS8C.jpg",
                 "malId": 110081,
@@ -86,6 +69,19 @@
                 "title": "Cooking With Wild Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCENV4RGFX2M7RWNTS8C"
+            }
+        },
+        "MangaFire": {
+            "80m8v": {
+                "id": 229360,
+                "identifier": "80m8v",
+                "image": "https://static.mangafire.to/eabc/i/6/69/6976e3df9dd9409d7cc7ee966b3f2159.jpg",
+                "malId": 110081,
+                "aniId": 100309,
+                "page": "MangaFire",
+                "title": "Cooking with Wild Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-ryouridouu.80m8v"
             }
         },
         "Comick": {

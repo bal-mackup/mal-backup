@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bc2680f7-6ace-4851-8f51-ade84ecb6dbb": {
+                "id": 16000,
                 "identifier": "bc2680f7-6ace-4851-8f51-ade84ecb6dbb",
                 "image": "https://uploads.mangadex.org/covers/bc2680f7-6ace-4851-8f51-ade84ecb6dbb/1cda01a9-2dea-4809-ade4-32ad0465297f.jpg",
                 "malId": 147397,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nano-list": {
+                "id": 58197,
                 "identifier": "nano-list",
                 "image": "https://temp.compsci88.com/cover/Nano-List.jpg",
                 "malId": 147397,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-uv971930": {
+                "id": 77648,
                 "identifier": "manga-uv971930",
                 "image": "https://avt.mkklcdnv6temp.com/4/n/14-1583489848.jpg",
                 "malId": 147397,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "nano_list": {
+                "id": 105907,
                 "identifier": "nano_list",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20683/cover.jpg",
                 "malId": 147397,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/nano_list/"
             }
         },
-        "MangaFire": {
-            "nano-list.qx1l3": {
-                "identifier": "nano-list.qx1l3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b345aa371475db21318faa60a8fb8635.jpg",
-                "malId": 147397,
-                "aniId": 97615,
-                "page": "MangaFire",
-                "title": "Nano List",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nano-list.qx1l3/"
-            },
-            "nano-listt.qx1l3": {
-                "identifier": "nano-listt.qx1l3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b345aa371475db21318faa60a8fb8635.jpg",
-                "malId": 147397,
-                "aniId": 97615,
-                "page": "MangaFire",
-                "title": "Nano List",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nano-listt.qx1l3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc0dr4caz42b18gtw1xf": {
+                "id": 208907,
                 "identifier": "01j76xyc0dr4caz42b18gtw1xf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC0DR4CAZ42B18GTW1XF.jpg",
                 "malId": 147397,
@@ -86,6 +69,19 @@
                 "title": "Nano List",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC0DR4CAZ42B18GTW1XF"
+            }
+        },
+        "MangaFire": {
+            "qx1l3": {
+                "id": 254106,
+                "identifier": "qx1l3",
+                "image": "https://static.mangafire.to/ee5c/i/b/b3/b345aa371475db21318faa60a8fb8635.jpg",
+                "malId": 147397,
+                "aniId": 97615,
+                "page": "MangaFire",
+                "title": "Nano List",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nano-listt.qx1l3"
             }
         },
         "Comick": {

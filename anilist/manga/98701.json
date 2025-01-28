@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "93e37fe7-1133-45b4-9f3e-1128df939a3f": {
+                "id": 17500,
                 "identifier": "93e37fe7-1133-45b4-9f3e-1128df939a3f",
                 "image": "https://uploads.mangadex.org/covers/93e37fe7-1133-45b4-9f3e-1128df939a3f/268651e9-ea6c-4ae2-af28-d613ad60657e.jpg",
                 "malId": 105911,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sono-mono-nochi-ni": {
+                "id": 54111,
                 "identifier": "sono-mono-nochi-ni",
                 "image": "https://temp.compsci88.com/cover/Sono-Mono-Nochi-Ni.jpg",
                 "malId": 105911,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Sono-Mono-Nochi-Ni"
             }
         },
-        "MangaFire": {
-            "sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-iku.w1k5o": {
-                "identifier": "sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-iku.w1k5o",
-                "image": "https://static.mangafire.to/3b2d5/i/b/ba/ba9c2f62f6b9b8f934b3ea8fc16d8966.jpg",
-                "malId": 105911,
-                "aniId": 98701,
-                "page": "MangaFire",
-                "title": "Sono Mono. Nochi ni... ~Futsuu no Otoko, Saikyou no  Michi o Iku~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-iku.w1k5o/"
-            },
-            "sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-ikuu.w1k5o": {
-                "identifier": "sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-ikuu.w1k5o",
-                "image": "https://static.mangafire.to/3b2d5/i/b/ba/ba9c2f62f6b9b8f934b3ea8fc16d8966.jpg",
-                "malId": 105911,
-                "aniId": 98701,
-                "page": "MangaFire",
-                "title": "Sono Mono. Nochi ni... ~Futsuu no Otoko, Saikyou no  Michi o Iku~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-ikuu.w1k5o/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc666rx16zmhc6njv9t5": {
+                "id": 209230,
                 "identifier": "01j76xyc666rx16zmhc6njv9t5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC666RX16ZMHC6NJV9T5.jpg",
                 "malId": 105911,
@@ -62,6 +43,19 @@
                 "title": "Sono Mono. Nochi ni...",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC666RX16ZMHC6NJV9T5"
+            }
+        },
+        "MangaFire": {
+            "w1k5o": {
+                "id": 231539,
+                "identifier": "w1k5o",
+                "image": "https://static.mangafire.to/d09b/i/b/ba/ba9c2f62f6b9b8f934b3ea8fc16d8966.jpg",
+                "malId": 105911,
+                "aniId": 98701,
+                "page": "MangaFire",
+                "title": "Sono Mono. Nochi ni... ~Futsuu no Otoko, Saikyou no  Michi o Iku~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-o-ikuu.w1k5o"
             }
         },
         "Comick": {

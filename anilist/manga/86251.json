@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b591fc81-9964-4476-a2a2-3c3249bdd302": {
+                "id": 13166,
                 "identifier": "b591fc81-9964-4476-a2a2-3c3249bdd302",
                 "image": "https://uploads.mangadex.org/covers/b591fc81-9964-4476-a2a2-3c3249bdd302/50c6fa11-aff4-4f1d-b30d-73e2387dc06b.jpg",
                 "malId": 65671,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tokku-hakkenshi": {
+                "id": 60042,
                 "identifier": "tokku-hakkenshi",
                 "image": "https://temp.compsci88.com/cover/Tokku-Hakkenshi.jpg",
                 "malId": 65671,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tokku-Hakkenshi"
             }
         },
-        "MangaFire": {
-            "tokku-hakkenshi-codet-8.3rk36": {
-                "identifier": "tokku-hakkenshi-codet-8.3rk36",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/28b9071649a83432974eac343781c6cf.jpg",
-                "malId": 65671,
-                "aniId": 86251,
-                "page": "MangaFire",
-                "title": "District Hakkenshi [code:T-8]",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokku-hakkenshi-codet-8.3rk36/"
-            },
-            "3rk36": {
-                "identifier": "3rk36",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/28b9071649a83432974eac343781c6cf.jpg",
-                "malId": 65671,
-                "aniId": 86251,
-                "page": "MangaFire",
-                "title": "District Hakkenshi [code:T-8]",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokku-hakkenshi-codet-8.3rk36/"
-            }
-        },
         "Weebcentral": {
             "01j76xyasx0aecdk9kh1e5xmpz": {
+                "id": 210678,
                 "identifier": "01j76xyasx0aecdk9kh1e5xmpz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYASX0AECDK9KH1E5XMPZ.jpg",
                 "malId": 65671,
@@ -62,6 +43,19 @@
                 "title": "Tokku Hakkenshi [code:t-8]",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYASX0AECDK9KH1E5XMPZ"
+            }
+        },
+        "MangaFire": {
+            "3rk36": {
+                "id": 243364,
+                "identifier": "3rk36",
+                "image": "https://static.mangafire.to/f393/i/2/28/28b9071649a83432974eac343781c6cf.jpg",
+                "malId": 65671,
+                "aniId": 86251,
+                "page": "MangaFire",
+                "title": "District Hakkenshi [code:T-8]",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokku-hakkenshi-codet-88.3rk36"
             }
         },
         "Comick": {

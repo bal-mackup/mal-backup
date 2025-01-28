@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7f18b80e-af01-4617-b08e-d4d862f40f11": {
+                "id": 34186,
                 "identifier": "7f18b80e-af01-4617-b08e-d4d862f40f11",
                 "image": "https://uploads.mangadex.org/covers/7f18b80e-af01-4617-b08e-d4d862f40f11/adf5082c-a41b-41af-89ad-4dee1314b0d7.jpg",
                 "malId": 135492,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jp987050": {
+                "id": 94770,
                 "identifier": "manga-jp987050",
                 "image": "https://avt.mkklcdnv6temp.com/31/q/22-1603595868.jpg",
                 "malId": 135492,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-jp987050"
             }
         },
-        "MangaFire": {
-            "hiyama-kentarou-no-ninshin.jmw3": {
-                "identifier": "hiyama-kentarou-no-ninshin.jmw3",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/01cfffde309baae9ae5797cc3dff8c20.jpg",
-                "malId": 135492,
-                "aniId": 141492,
-                "page": "MangaFire",
-                "title": "Kentaro Hiyama's First Pregnancy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hiyama-kentarou-no-ninshin.jmw3/"
-            }
-        },
         "MangaSee": {
             "hes-expecting": {
+                "id": 182874,
                 "identifier": "hes-expecting",
                 "image": "https://temp.compsci88.com/cover/Hes-Expecting.jpg",
                 "malId": 135492,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygzht2c217kx5ytzbx9k": {
+                "id": 209067,
                 "identifier": "01j76xygzht2c217kx5ytzbx9k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGZHT2C217KX5YTZBX9K.jpg",
                 "malId": 135492,
@@ -64,6 +56,19 @@
                 "title": "He's Expecting",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGZHT2C217KX5YTZBX9K"
+            }
+        },
+        "MangaFire": {
+            "jmw3": {
+                "id": 260673,
+                "identifier": "jmw3",
+                "image": "https://static.mangafire.to/85ac/i/0/01/01cfffde309baae9ae5797cc3dff8c20.jpg",
+                "malId": 135492,
+                "aniId": 141492,
+                "page": "MangaFire",
+                "title": "Kentaro Hiyama's First Pregnancy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hiyama-kentarou-no-ninshinn.jmw3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f86feea-b572-4fba-9cf5-e328a3c67614": {
+                "id": 91049,
                 "identifier": "9f86feea-b572-4fba-9cf5-e328a3c67614",
                 "image": "https://uploads.mangadex.org/covers/9f86feea-b572-4fba-9cf5-e328a3c67614/98cd4ca7-2562-49a7-ae74-54a8b28b4603.jpg",
                 "malId": 141387,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-po993071": {
+                "id": 118154,
                 "identifier": "manga-po993071",
                 "image": "https://avt.mkklcdnv6temp.com/33/a/27-1668795014.jpg",
                 "malId": 141387,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-po993071"
             }
         },
-        "MangaFire": {
-            "plant-monster-girl-diary.jv1k2": {
-                "identifier": "plant-monster-girl-diary.jv1k2",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f0/f0409042ace1a60d2409b766409fc9fe.jpg",
-                "malId": 141387,
-                "aniId": 143874,
-                "page": "MangaFire",
-                "title": "Plant Monster Girl Diary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/plant-monster-girl-diary.jv1k2/"
-            }
-        },
         "MangaSee": {
             "shokubutsu-monster-musume-nikki": {
+                "id": 197152,
                 "identifier": "shokubutsu-monster-musume-nikki",
                 "image": "https://temp.compsci88.com/cover/Shokubutsu-Monster-Musume-Nikki.jpg",
                 "malId": 141387,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhjexqwd79dnrchrw2ym": {
+                "id": 207172,
                 "identifier": "01j76xyhjexqwd79dnrchrw2ym",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHJEXQWD79DNRCHRW2YM.jpg",
                 "malId": 141387,
@@ -68,6 +60,7 @@
         },
         "MangaFox": {
             "monster_girl_plant_diary": {
+                "id": 218134,
                 "identifier": "monster_girl_plant_diary",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46724/cover.jpg",
                 "malId": 141387,
@@ -76,6 +69,19 @@
                 "title": "Monster Girl Plant Diary",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/monster_girl_plant_diary/"
+            }
+        },
+        "MangaFire": {
+            "jv1k2": {
+                "id": 255111,
+                "identifier": "jv1k2",
+                "image": "https://static.mangafire.to/86ca/i/f/f0/f0409042ace1a60d2409b766409fc9fe.jpg",
+                "malId": 141387,
+                "aniId": 143874,
+                "page": "MangaFire",
+                "title": "Plant Monster Girl Diary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/plant-monster-girl-diaryy.jv1k2"
             }
         },
         "Comick": {

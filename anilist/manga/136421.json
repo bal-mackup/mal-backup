@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "36d27f1d-122a-4c7e-9001-a0d62c8fb579": {
+                "id": 114542,
                 "identifier": "36d27f1d-122a-4c7e-9001-a0d62c8fb579",
                 "image": "https://uploads.mangadex.org/covers/36d27f1d-122a-4c7e-9001-a0d62c8fb579/835679f1-eb88-48b2-9e0e-d5f07a43c4ca.jpg",
                 "malId": 153475,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-tu996603": {
+                "id": 159496,
                 "identifier": "manga-tu996603",
                 "image": "https://avt.mkklcdnv6temp.com/fld/22/s/15-1733307939-nw.webp",
                 "malId": 153475,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-tu996603"
             }
         },
-        "MangaFire": {
-            "mount-celeb-kaneda-san.npk7j": {
-                "identifier": "mount-celeb-kaneda-san.npk7j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a7/a74a0580778b4ea4b33f3b9714fe8b8d.jpg",
-                "malId": 153475,
-                "aniId": 136421,
-                "page": "MangaFire",
-                "title": "Mount Celeb Kaneda-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mount-celeb-kaneda-san.npk7j/"
-            }
-        },
         "MangaFox": {
             "mount_celeb_kaneda_san": {
+                "id": 189929,
                 "identifier": "mount_celeb_kaneda_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46115/cover.jpg",
                 "malId": 153475,
@@ -52,6 +43,19 @@
                 "title": "Mount Celeb Kaneda-san",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mount_celeb_kaneda_san/"
+            }
+        },
+        "MangaFire": {
+            "npk7j": {
+                "id": 234955,
+                "identifier": "npk7j",
+                "image": "https://static.mangafire.to/6def/i/a/a7/a74a0580778b4ea4b33f3b9714fe8b8d.jpg",
+                "malId": 153475,
+                "aniId": 136421,
+                "page": "MangaFire",
+                "title": "Mount Celeb Kaneda-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mount-celeb-kaneda-sann.npk7j"
             }
         },
         "Comick": {

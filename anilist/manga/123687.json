@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8fbb7940-7343-430d-a06f-694b5f226b6a": {
+                "id": 39208,
                 "identifier": "8fbb7940-7343-430d-a06f-694b5f226b6a",
                 "image": "https://uploads.mangadex.org/covers/8fbb7940-7343-430d-a06f-694b5f226b6a/4c1093d0-dcde-433e-a218-0bd3ab5d9d6b.jpg",
                 "malId": 129984,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "from-the-red-fog": {
+                "id": 59567,
                 "identifier": "from-the-red-fog",
                 "image": "https://temp.compsci88.com/cover/From-the-Red-Fog.jpg",
                 "malId": 129984,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "akai_kiri_no_naka_kara": {
+                "id": 61034,
                 "identifier": "akai_kiri_no_naka_kara",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35445/cover.jpg",
                 "malId": 129984,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jy986781": {
+                "id": 79417,
                 "identifier": "manga-jy986781",
                 "image": "https://avt.mkklcdnv6temp.com/20/q/22-1601270602.jpg",
                 "malId": 129984,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jy986781"
             }
         },
-        "MangaFire": {
-            "akai-kiri-no-naka-kara.oo6oz": {
-                "identifier": "akai-kiri-no-naka-kara.oo6oz",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/ab622f077120d5a544c9e3475bc2362a.jpg",
-                "malId": 129984,
-                "aniId": 123687,
-                "page": "MangaFire",
-                "title": "From the Red Fog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akai-kiri-no-naka-kara.oo6oz/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8p979yamy6bkcwxm1m": {
+                "id": 211821,
                 "identifier": "01j76xye8p979yamy6bkcwxm1m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8P979YAMY6BKCWXM1M.jpg",
                 "malId": 129984,
@@ -76,6 +69,19 @@
                 "title": "From the Red Fog",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8P979YAMY6BKCWXM1M"
+            }
+        },
+        "MangaFire": {
+            "oo6oz": {
+                "id": 255918,
+                "identifier": "oo6oz",
+                "image": "https://static.mangafire.to/3093/i/a/ab/ab622f077120d5a544c9e3475bc2362a.jpg",
+                "malId": 129984,
+                "aniId": 123687,
+                "page": "MangaFire",
+                "title": "From the Red Fog",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/akai-kiri-no-naka-karaa.oo6oz"
             }
         },
         "Comick": {

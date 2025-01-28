@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "853f628b-ac25-4865-9f72-3f45d86f798b": {
+                "id": 99082,
                 "identifier": "853f628b-ac25-4865-9f72-3f45d86f798b",
                 "image": "https://uploads.mangadex.org/covers/853f628b-ac25-4865-9f72-3f45d86f798b/35746cfa-9ebb-4fc0-8e2b-52924b8a8689.jpg",
                 "malId": 144013,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rr994552": {
+                "id": 126532,
                 "identifier": "manga-rr994552",
                 "image": "https://avt.mkklcdnv6temp.com/42/n/28-1677342831.jpg",
                 "malId": 144013,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rr994552"
             }
         },
-        "MangaFire": {
-            "tonari-no-stella.rl96y": {
-                "identifier": "tonari-no-stella.rl96y",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/739890c94aae93c3782d44213fb84f59.jpg",
-                "malId": 144013,
-                "aniId": 145470,
-                "page": "MangaFire",
-                "title": "Stella Next to Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonari-no-stella.rl96y/"
-            }
-        },
         "MangaFox": {
             "tonari_no_stella": {
+                "id": 164358,
                 "identifier": "tonari_no_stella",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41387/cover.jpg",
                 "malId": 144013,
@@ -56,6 +47,7 @@
         },
         "MangaSee": {
             "gazing-at-the-star-next-door": {
+                "id": 182869,
                 "identifier": "gazing-at-the-star-next-door",
                 "image": "https://temp.compsci88.com/cover/Gazing-at-the-Star-Next-Door.jpg",
                 "malId": 144013,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygz8t6ke7gnbm9wty27p": {
+                "id": 208898,
                 "identifier": "01j76xygz8t6ke7gnbm9wty27p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGZ8T6KE7GNBM9WTY27P.jpg",
                 "malId": 144013,
@@ -76,6 +69,19 @@
                 "title": "Gazing at the Star Next Door",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGZ8T6KE7GNBM9WTY27P"
+            }
+        },
+        "MangaFire": {
+            "rl96y": {
+                "id": 243654,
+                "identifier": "rl96y",
+                "image": "https://static.mangafire.to/ee69/i/7/73/739890c94aae93c3782d44213fb84f59.jpg",
+                "malId": 144013,
+                "aniId": 145470,
+                "page": "MangaFire",
+                "title": "Stella Next to Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tonari-no-stellaa.rl96y"
             }
         },
         "Comick": {

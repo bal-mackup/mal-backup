@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8acdc047-6c6b-4603-8ee9-55f03421fceb": {
+                "id": 58841,
                 "identifier": "8acdc047-6c6b-4603-8ee9-55f03421fceb",
                 "image": "https://uploads.mangadex.org/covers/8acdc047-6c6b-4603-8ee9-55f03421fceb/951166ee-792c-4e18-845e-9e85d71d5cc7.jpg",
                 "malId": 151060,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "doctors-rebirth": {
+                "id": 65647,
                 "identifier": "doctors-rebirth",
                 "image": "https://temp.compsci88.com/cover/Doctors-Rebirth.jpg",
                 "malId": 151060,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "doctor_s_rebirth": {
+                "id": 67739,
                 "identifier": "doctor_s_rebirth",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37421/cover.jpg",
                 "malId": 151060,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kp987798": {
+                "id": 73312,
                 "identifier": "manga-kp987798",
                 "image": "https://avt.mkklcdnv6temp.com/12/l/23-1611977451.jpg",
                 "malId": 151060,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kp987798"
             }
         },
-        "MangaFire": {
-            "uiwon-dasi-salda22.nr15l": {
-                "identifier": "uiwon-dasi-salda22.nr15l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c7037c717d4940c3e6665306df1415ac.jpg",
-                "malId": 151060,
-                "aniId": 129579,
-                "page": "MangaFire",
-                "title": "Doctor’s Rebirth",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uiwon-dasi-salda22.nr15l/"
-            },
-            "uiwon-dasi-saldaa.6lqw0": {
-                "identifier": "uiwon-dasi-saldaa.6lqw0",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/41967cf72c6a7aec0d7ffa6eacf0f112.jpg",
-                "malId": 151060,
-                "aniId": 129579,
-                "page": "MangaFire",
-                "title": "Uiwon, Dasi Salda",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uiwon-dasi-saldaa.6lqw0/"
-            }
-        },
         "Weebcentral": {
             "01j76xyefqg0a43b3vybbx9yd3": {
+                "id": 209751,
                 "identifier": "01j76xyefqg0a43b3vybbx9yd3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEFQG0A43B3VYBBX9YD3.jpg",
                 "malId": 151060,
@@ -86,6 +69,30 @@
                 "title": "Doctor's Rebirth",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEFQG0A43B3VYBBX9YD3"
+            }
+        },
+        "MangaFire": {
+            "nr15l": {
+                "id": 226511,
+                "identifier": "nr15l",
+                "image": "https://static.mangafire.to/d0f0/i/c/c7/c7037c717d4940c3e6665306df1415ac.jpg",
+                "malId": 151060,
+                "aniId": 129579,
+                "page": "MangaFire",
+                "title": "Doctor’s Rebirth",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uiwon-dasi-salda22.nr15l"
+            },
+            "6lqw0": {
+                "id": 261792,
+                "identifier": "6lqw0",
+                "image": "https://static.mangafire.to/66a7/i/4/41/41967cf72c6a7aec0d7ffa6eacf0f112.jpg",
+                "malId": 151060,
+                "aniId": 129579,
+                "page": "MangaFire",
+                "title": "Uiwon, Dasi Salda",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uiwon-dasi-saldaa.6lqw0"
             }
         },
         "Comick": {

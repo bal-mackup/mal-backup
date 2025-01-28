@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "040598d9-5d22-4573-9cb9-b0aaecdc5c7f": {
+                "id": 57978,
                 "identifier": "040598d9-5d22-4573-9cb9-b0aaecdc5c7f",
                 "image": "https://uploads.mangadex.org/covers/040598d9-5d22-4573-9cb9-b0aaecdc5c7f/0445f489-e7a3-433d-92ff-7e6cb86b6d1f.jpg",
                 "malId": 132532,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tesla-note": {
+                "id": 90795,
                 "identifier": "tesla-note",
                 "image": "https://temp.compsci88.com/cover/Tesla-Note.jpg",
                 "malId": 132532,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tesla_note": {
+                "id": 106948,
                 "identifier": "tesla_note",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42891/cover.jpg",
                 "malId": 132532,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/tesla_note/"
             }
         },
-        "MangaFire": {
-            "tesla-note.kq66": {
-                "identifier": "tesla-note.kq66",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9233846bf810eafe6cf9db0d523d5bb.jpg",
-                "malId": 132532,
-                "aniId": 128286,
-                "page": "MangaFire",
-                "title": "Tesla Note",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tesla-note.kq66/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf4tztx4ajq08sv6y15v": {
+                "id": 211668,
                 "identifier": "01j76xyf4tztx4ajq08sv6y15v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF4TZTX4AJQ08SV6Y15V.jpg",
                 "malId": 132532,
@@ -64,6 +56,19 @@
                 "title": "Tesla Note",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF4TZTX4AJQ08SV6Y15V"
+            }
+        },
+        "MangaFire": {
+            "kq66": {
+                "id": 247730,
+                "identifier": "kq66",
+                "image": "https://static.mangafire.to/6838/i/f/f9/f9233846bf810eafe6cf9db0d523d5bb.jpg",
+                "malId": 132532,
+                "aniId": 128286,
+                "page": "MangaFire",
+                "title": "Tesla Note",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tesla-notee.kq66"
             }
         },
         "Comick": {

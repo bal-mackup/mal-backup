@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8ac40b72-01ba-4ac4-8341-349c828d60f7": {
+                "id": 33535,
                 "identifier": "8ac40b72-01ba-4ac4-8341-349c828d60f7",
                 "image": "https://uploads.mangadex.org/covers/8ac40b72-01ba-4ac4-8341-349c828d60f7/6a06189c-dcd8-4b18-8012-247abb6bea0f.jpg",
                 "malId": 147468,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/8ac40b72-01ba-4ac4-8341-349c828d60f7"
             }
         },
-        "MangaFire": {
-            "dear-x.3rnpr": {
-                "identifier": "dear-x.3rnpr",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c623dd626beedfbceed4b97e885533be.jpg",
-                "malId": 147468,
-                "aniId": 132820,
-                "page": "MangaFire",
-                "title": "Dear X",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dear-x.3rnpr/"
-            }
-        },
         "MangaSee": {
             "dear-x": {
+                "id": 181047,
                 "identifier": "dear-x",
                 "image": "https://temp.compsci88.com/cover/Dear-X.jpg",
                 "malId": 147468,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygwtf7ay9k64xe30n817": {
+                "id": 207941,
                 "identifier": "01j76xygwtf7ay9k64xe30n817",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWTF7AY9K64XE30N817.jpg",
                 "malId": 147468,
@@ -52,6 +43,19 @@
                 "title": "Dear X",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWTF7AY9K64XE30N817"
+            }
+        },
+        "MangaFire": {
+            "3rnpr": {
+                "id": 259950,
+                "identifier": "3rnpr",
+                "image": "https://static.mangafire.to/8b5a/i/c/c6/c623dd626beedfbceed4b97e885533be.jpg",
+                "malId": 147468,
+                "aniId": 132820,
+                "page": "MangaFire",
+                "title": "Dear X",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dear-xx.3rnpr"
             }
         },
         "Comick": {

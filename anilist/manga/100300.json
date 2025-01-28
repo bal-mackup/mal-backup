@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "df25d42b-806c-4cc5-9aef-ce08daa4b83a": {
+                "id": 16025,
                 "identifier": "df25d42b-806c-4cc5-9aef-ce08daa4b83a",
                 "image": "https://uploads.mangadex.org/covers/df25d42b-806c-4cc5-9aef-ce08daa4b83a/eb020932-38c2-4fe9-a8cd-d63e0eddf548.jpg",
                 "malId": 97961,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hakka-shoujo": {
+                "id": 93370,
                 "identifier": "hakka-shoujo",
                 "image": "https://temp.compsci88.com/cover/Hakka-Shoujo.jpg",
                 "malId": 97961,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hakka-Shoujo"
             }
         },
-        "MangaFire": {
-            "hakka-shoujo.jjmmn": {
-                "identifier": "hakka-shoujo.jjmmn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/be783a447ea3f7cff9791077d2ffbef0.jpg",
-                "malId": 97961,
-                "aniId": 100300,
-                "page": "MangaFire",
-                "title": "Hakka Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hakka-shoujo.jjmmn/"
-            },
-            "jjmmn": {
-                "identifier": "jjmmn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/be783a447ea3f7cff9791077d2ffbef0.jpg",
-                "malId": 97961,
-                "aniId": 100300,
-                "page": "MangaFire",
-                "title": "Hakka Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hakka-shoujo.jjmmn/"
-            }
-        },
         "Weebcentral": {
             "01j76xycag7ggwbjtkktkmg5xk": {
+                "id": 212160,
                 "identifier": "01j76xycag7ggwbjtkktkmg5xk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCAG7GGWBJTKKTKMG5XK.jpg",
                 "malId": 97961,
@@ -62,6 +43,19 @@
                 "title": "Hakka Shoujo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCAG7GGWBJTKKTKMG5XK"
+            }
+        },
+        "MangaFire": {
+            "jjmmn": {
+                "id": 258622,
+                "identifier": "jjmmn",
+                "image": "https://static.mangafire.to/5c6f/i/b/be/be783a447ea3f7cff9791077d2ffbef0.jpg",
+                "malId": 97961,
+                "aniId": 100300,
+                "page": "MangaFire",
+                "title": "Hakka Shoujo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hakka-shoujoo.jjmmn"
             }
         },
         "Comick": {

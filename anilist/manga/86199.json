@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9bbd5477-fe67-42a3-97a0-09327ea88366": {
+                "id": 13094,
                 "identifier": "9bbd5477-fe67-42a3-97a0-09327ea88366",
                 "image": "https://uploads.mangadex.org/covers/9bbd5477-fe67-42a3-97a0-09327ea88366/41dd52a1-a874-4357-b57d-b76353d40516.jpg",
                 "malId": 89049,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kyokou-suiri": {
+                "id": 55406,
                 "identifier": "kyokou-suiri",
                 "image": "https://temp.compsci88.com/cover/Kyokou-Suiri.jpg",
                 "malId": 89049,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kyokou_suiri": {
+                "id": 66250,
                 "identifier": "kyokou_suiri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15781/cover.jpg",
                 "malId": 89049,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-tb953284": {
+                "id": 75750,
                 "identifier": "manga-tb953284",
                 "image": "https://avt.mkklcdnv6temp.com/18/e/2-1583466407.jpg",
                 "malId": 89049,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-tb953284"
             }
         },
-        "MangaFire": {
-            "kyokou-suiri.726": {
-                "identifier": "kyokou-suiri.726",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/ff1e7e529593f3290ab0cf624b512d82.jpg",
-                "malId": 89049,
-                "aniId": 86199,
-                "page": "MangaFire",
-                "title": "In/Spectre",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyokou-suiri.726/"
-            },
-            "kyokou-suirii.726": {
-                "identifier": "kyokou-suirii.726",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/ff1e7e529593f3290ab0cf624b512d82.jpg",
-                "malId": 89049,
-                "aniId": 86199,
-                "page": "MangaFire",
-                "title": "In/Spectre",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyokou-suirii.726/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb98rfe4efc9e7jr35bh": {
+                "id": 209734,
                 "identifier": "01j76xyb98rfe4efc9e7jr35bh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB98RFE4EFC9E7JR35BH.jpg",
                 "malId": 89049,
@@ -86,6 +69,19 @@
                 "title": "In/Spectre",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB98RFE4EFC9E7JR35BH"
+            }
+        },
+        "MangaFire": {
+            "726": {
+                "id": 224477,
+                "identifier": "726",
+                "image": "https://static.mangafire.to/af81/i/7/7b/ff1e7e529593f3290ab0cf624b512d82.jpg",
+                "malId": 89049,
+                "aniId": 86199,
+                "page": "MangaFire",
+                "title": "In/Spectre",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyokou-suirii.726"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f09d71f9-1c48-4451-bd4f-bad5b86db92f": {
+                "id": 37040,
                 "identifier": "f09d71f9-1c48-4451-bd4f-bad5b86db92f",
                 "image": "https://uploads.mangadex.org/covers/f09d71f9-1c48-4451-bd4f-bad5b86db92f/316db52f-d377-4998-9801-5bed1c936d83.jpg",
                 "malId": 128108,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "gakkou_gurashi_otayori": {
+                "id": 68500,
                 "identifier": "gakkou_gurashi_otayori",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34725/cover.jpg",
                 "malId": 128108,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jh986764": {
+                "id": 73686,
                 "identifier": "manga-jh986764",
                 "image": "https://avt.mkklcdnv6temp.com/19/z/22-1600938595.jpg",
                 "malId": 128108,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "school-live-letters": {
+                "id": 125482,
                 "identifier": "school-live-letters",
                 "image": "https://temp.compsci88.com/cover/School-Live-Letters.jpg",
                 "malId": 128108,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/School-Live-Letters"
             }
         },
-        "MangaFire": {
-            "gakkou-gurashi-otayori.ykzjz": {
-                "identifier": "gakkou-gurashi-otayori.ykzjz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/7127c147ab84c0c457316fafdf2713e3.jpg",
-                "malId": 128108,
-                "aniId": 118859,
-                "page": "MangaFire",
-                "title": "School-Live! Letters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gakkou-gurashi-otayori.ykzjz/"
-            },
-            "gakkou-gurashi-otayorii.ykzjz": {
-                "identifier": "gakkou-gurashi-otayorii.ykzjz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/7127c147ab84c0c457316fafdf2713e3.jpg",
-                "malId": 128108,
-                "aniId": 118859,
-                "page": "MangaFire",
-                "title": "School-Live! Letters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gakkou-gurashi-otayorii.ykzjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfymfetfrsxxck8zg951": {
+                "id": 207539,
                 "identifier": "01j76xyfymfetfrsxxck8zg951",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFYMFETFRSXXCK8ZG951.jpg",
                 "malId": 128108,
@@ -86,6 +69,19 @@
                 "title": "School-Live! Letters",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFYMFETFRSXXCK8ZG951"
+            }
+        },
+        "MangaFire": {
+            "ykzjz": {
+                "id": 244223,
+                "identifier": "ykzjz",
+                "image": "https://static.mangafire.to/93ed/i/7/71/7127c147ab84c0c457316fafdf2713e3.jpg",
+                "malId": 128108,
+                "aniId": 118859,
+                "page": "MangaFire",
+                "title": "School-Live! Letters",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gakkou-gurashi-otayorii.ykzjz"
             }
         },
         "Comick": {

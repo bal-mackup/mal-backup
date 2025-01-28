@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "03cdf755-df46-4dc0-94dc-7816e099cd01": {
+                "id": 56901,
                 "identifier": "03cdf755-df46-4dc0-94dc-7816e099cd01",
                 "image": "https://uploads.mangadex.org/covers/03cdf755-df46-4dc0-94dc-7816e099cd01/42912744-2e02-4990-ab81-aff4abc554d2.jpg",
                 "malId": 139677,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kf987940": {
+                "id": 77907,
                 "identifier": "manga-kf987940",
                 "image": "https://avt.mkklcdnv6temp.com/18/i/23-1612281898.jpg",
                 "malId": 139677,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-demonic-contract": {
+                "id": 82203,
                 "identifier": "the-demonic-contract",
                 "image": "https://temp.compsci88.com/cover/The-Demonic-Contract.jpg",
                 "malId": 139677,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Demonic-Contract"
             }
         },
-        "MangaFire": {
-            "the-demonic-contract.748y": {
-                "identifier": "the-demonic-contract.748y",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a021240f76e1cb7f5114087ae16bcaac.jpg",
-                "malId": 139677,
-                "aniId": 128945,
-                "page": "MangaFire",
-                "title": "The Demonic Contract",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-demonic-contract.748y/"
-            },
-            "the-demonic-contractt.748y": {
-                "identifier": "the-demonic-contractt.748y",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a021240f76e1cb7f5114087ae16bcaac.jpg",
-                "malId": 139677,
-                "aniId": 128945,
-                "page": "MangaFire",
-                "title": "The Demonic Contract",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-demonic-contractt.748y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyex38aqtm94x04exkcx1": {
+                "id": 207011,
                 "identifier": "01j76xyex38aqtm94x04exkcx1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEX38AQTM94X04EXKCX1.jpg",
                 "malId": 139677,
@@ -74,6 +56,19 @@
                 "title": "The Demonic Contract",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEX38AQTM94X04EXKCX1"
+            }
+        },
+        "MangaFire": {
+            "748y": {
+                "id": 237724,
+                "identifier": "748y",
+                "image": "https://static.mangafire.to/07b2/i/a/a0/a021240f76e1cb7f5114087ae16bcaac.jpg",
+                "malId": 139677,
+                "aniId": 128945,
+                "page": "MangaFire",
+                "title": "The Demonic Contract",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-demonic-contractt.748y"
             }
         },
         "Comick": {

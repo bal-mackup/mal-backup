@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc332d04-d3b0-413c-a767-70f5e451b031": {
+                "id": 18912,
                 "identifier": "dc332d04-d3b0-413c-a767-70f5e451b031",
                 "image": "https://uploads.mangadex.org/covers/dc332d04-d3b0-413c-a767-70f5e451b031/ede43eb5-f228-47c3-a5d2-d3e888baf0c7.jpg",
                 "malId": 112121,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kuro_no_shoukanshi": {
+                "id": 54401,
                 "identifier": "kuro_no_shoukanshi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27258/cover.jpg",
                 "malId": 112121,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kuro-no-shoukanshi": {
+                "id": 58170,
                 "identifier": "kuro-no-shoukanshi",
                 "image": "https://temp.compsci88.com/cover/Kuro-No-Shoukanshi.jpg",
                 "malId": 112121,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bn978948": {
+                "id": 74901,
                 "identifier": "manga-bn978948",
                 "image": "https://avt.mkklcdnv6temp.com/22/k/28-1676007309.jpg",
                 "malId": 112121,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bn978948"
             }
         },
-        "MangaFire": {
-            "kuro-no-shoukanshi.xvkv": {
-                "identifier": "kuro-no-shoukanshi.xvkv",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/358b0b255436081921b653ef4be96f1c.jpg",
-                "malId": 112121,
-                "aniId": 101746,
-                "page": "MangaFire",
-                "title": "Black Summoner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuro-no-shoukanshi.xvkv/"
-            },
-            "kuro-no-shoukanshii.xvkv": {
-                "identifier": "kuro-no-shoukanshii.xvkv",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/358b0b255436081921b653ef4be96f1c.jpg",
-                "malId": 112121,
-                "aniId": 101746,
-                "page": "MangaFire",
-                "title": "Black Summoner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuro-no-shoukanshii.xvkv/"
-            },
-            "xvkv": {
-                "identifier": "xvkv",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/358b0b255436081921b653ef4be96f1c.jpg",
-                "malId": 112121,
-                "aniId": 101746,
-                "page": "MangaFire",
-                "title": "Black Summoner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuro-no-shoukanshii.xvkv/"
-            }
-        },
         "Weebcentral": {
             "01j76xycgnwqeb7x49k0z2dz3t": {
+                "id": 208047,
                 "identifier": "01j76xycgnwqeb7x49k0z2dz3t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGNWQEB7X49K0Z2DZ3T.jpg",
                 "malId": 112121,
@@ -96,6 +69,19 @@
                 "title": "Black Summoner",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGNWQEB7X49K0Z2DZ3T"
+            }
+        },
+        "MangaFire": {
+            "xvkv": {
+                "id": 226840,
+                "identifier": "xvkv",
+                "image": "https://static.mangafire.to/604c/i/3/35/358b0b255436081921b653ef4be96f1c.jpg",
+                "malId": 112121,
+                "aniId": 101746,
+                "page": "MangaFire",
+                "title": "Black Summoner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuro-no-shoukanshii.xvkv"
             }
         },
         "Comick": {

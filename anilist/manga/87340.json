@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "72c5a6a4-8762-4d6a-be3e-eae2ebc6930b": {
+                "id": 23084,
                 "identifier": "72c5a6a4-8762-4d6a-be3e-eae2ebc6930b",
                 "image": "https://uploads.mangadex.org/covers/72c5a6a4-8762-4d6a-be3e-eae2ebc6930b/a2f2c9ce-e786-4163-8d49-8381836af516.jpg",
                 "malId": 99584,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-bb978758": {
+                "id": 75713,
                 "identifier": "manga-bb978758",
                 "image": "https://avt.mkklcdnv6temp.com/15/y/16-1583494044.jpg",
                 "malId": 99584,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "emperor-and-i": {
+                "id": 79382,
                 "identifier": "emperor-and-i",
                 "image": "https://temp.compsci88.com/cover/Emperor-And-I.jpg",
                 "malId": 99584,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Emperor-And-I"
             }
         },
-        "MangaFire": {
-            "emperor-to-issho.mqwnx": {
-                "identifier": "emperor-to-issho.mqwnx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a2bd5396dd58119838bf2ba1085467f.jpg",
-                "malId": 99584,
-                "aniId": 87340,
-                "page": "MangaFire",
-                "title": "The Emperor and I",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/emperor-to-issho.mqwnx/"
-            },
-            "mqwnx": {
-                "identifier": "mqwnx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a2bd5396dd58119838bf2ba1085467f.jpg",
-                "malId": 99584,
-                "aniId": 87340,
-                "page": "MangaFire",
-                "title": "The Emperor and I",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/emperor-to-issho.mqwnx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc1jy86j3jztq79vq0ee": {
+                "id": 206816,
                 "identifier": "01j76xyc1jy86j3jztq79vq0ee",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC1JY86J3JZTQ79VQ0EE.jpg",
                 "malId": 99584,
@@ -74,6 +56,19 @@
                 "title": "The Emperor and I",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC1JY86J3JZTQ79VQ0EE"
+            }
+        },
+        "MangaFire": {
+            "mqwnx": {
+                "id": 248289,
+                "identifier": "mqwnx",
+                "image": "https://static.mangafire.to/dbb2/i/0/0a/0a2bd5396dd58119838bf2ba1085467f.jpg",
+                "malId": 99584,
+                "aniId": 87340,
+                "page": "MangaFire",
+                "title": "The Emperor and I",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/emperor-to-isshoo.mqwnx"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67a20962-49fd-4fa4-9057-05b058ccaba0": {
+                "id": 20146,
                 "identifier": "67a20962-49fd-4fa4-9057-05b058ccaba0",
                 "image": "https://uploads.mangadex.org/covers/67a20962-49fd-4fa4-9057-05b058ccaba0/3b984f9c-7298-464c-8d39-0eed5ee22e4d.jpg",
                 "malId": 111216,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "demon-tune": {
+                "id": 76870,
                 "identifier": "demon-tune",
                 "image": "https://temp.compsci88.com/cover/Demon-Tune.jpg",
                 "malId": 111216,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cb980136": {
+                "id": 95803,
                 "identifier": "manga-cb980136",
                 "image": "https://avt.mkklcdnv6temp.com/fld/14/l/9-1732792962-nw.webp",
                 "malId": 111216,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "demon_tune": {
+                "id": 95829,
                 "identifier": "demon_tune",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29000/cover.jpg",
                 "malId": 111216,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/demon_tune/"
             }
         },
-        "MangaFire": {
-            "demon-tune.prlmx": {
-                "identifier": "demon-tune.prlmx",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e1d47d16ae05cf2795427a9171541c20.jpg",
-                "malId": 111216,
-                "aniId": 105036,
-                "page": "MangaFire",
-                "title": "Demon Tune",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/demon-tune.prlmx/"
-            },
-            "prlmx": {
-                "identifier": "prlmx",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e1d47d16ae05cf2795427a9171541c20.jpg",
-                "malId": 111216,
-                "aniId": 105036,
-                "page": "MangaFire",
-                "title": "Demon Tune",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/demon-tune.prlmx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyctq4twh8c6f4rpwpdwm": {
+                "id": 208416,
                 "identifier": "01j76xyctq4twh8c6f4rpwpdwm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCTQ4TWH8C6F4RPWPDWM.jpg",
                 "malId": 111216,
@@ -86,6 +69,19 @@
                 "title": "Demon Tune",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCTQ4TWH8C6F4RPWPDWM"
+            }
+        },
+        "MangaFire": {
+            "prlmx": {
+                "id": 259885,
+                "identifier": "prlmx",
+                "image": "https://static.mangafire.to/863b/i/e/e1/e1d47d16ae05cf2795427a9171541c20.jpg",
+                "malId": 111216,
+                "aniId": 105036,
+                "page": "MangaFire",
+                "title": "Demon Tune",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/demon-tunee.prlmx"
             }
         },
         "Comick": {

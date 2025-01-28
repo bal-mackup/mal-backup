@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5f615fc2-4905-44d0-8b69-3b92ec4fd1bc": {
+                "id": 19617,
                 "identifier": "5f615fc2-4905-44d0-8b69-3b92ec4fd1bc",
                 "image": "https://uploads.mangadex.org/covers/5f615fc2-4905-44d0-8b69-3b92ec4fd1bc/3786b3a7-8846-48e6-9251-7d7d551fc666.jpg",
                 "malId": 65657,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/5f615fc2-4905-44d0-8b69-3b92ec4fd1bc"
             },
             "92096956-6cab-4438-aa05-3a2a37f9a18a": {
+                "id": 35036,
                 "identifier": "92096956-6cab-4438-aa05-3a2a37f9a18a",
                 "image": "https://uploads.mangadex.org/covers/92096956-6cab-4438-aa05-3a2a37f9a18a/55987a18-8666-489b-9d67-a2516f027064.jpg",
                 "malId": 65657,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "logick": {
+                "id": 95606,
                 "identifier": "logick",
                 "image": "https://temp.compsci88.com/cover/Logick.jpg",
                 "malId": 65657,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-ck956793": {
+                "id": 114105,
                 "identifier": "manga-ck956793",
                 "image": "https://avt.mkklcdnv6temp.com/fld/78/e/2-1732754647-nw.webp",
                 "malId": 65657,
@@ -52,30 +56,9 @@
                 "url": "https://manganato.com/manga-ck956793"
             }
         },
-        "MangaFire": {
-            "logick.kkljw": {
-                "identifier": "logick.kkljw",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/9931d1d11dd6de94813824534459d6e0.jpg",
-                "malId": 65657,
-                "aniId": 90236,
-                "page": "MangaFire",
-                "title": "Logick",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/logick.kkljw/"
-            },
-            "kkljw": {
-                "identifier": "kkljw",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/9931d1d11dd6de94813824534459d6e0.jpg",
-                "malId": 65657,
-                "aniId": 90236,
-                "page": "MangaFire",
-                "title": "Logick",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/logick.kkljw/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaqc5nats7a07sxmm08g": {
+                "id": 210018,
                 "identifier": "01j76xyaqc5nats7a07sxmm08g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAQC5NATS7A07SXMM08G.jpg",
                 "malId": 65657,
@@ -84,6 +67,19 @@
                 "title": "Logick",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAQC5NATS7A07SXMM08G"
+            }
+        },
+        "MangaFire": {
+            "kkljw": {
+                "id": 251409,
+                "identifier": "kkljw",
+                "image": "https://static.mangafire.to/f1a2/i/9/99/9931d1d11dd6de94813824534459d6e0.jpg",
+                "malId": 65657,
+                "aniId": 90236,
+                "page": "MangaFire",
+                "title": "Logick",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/logickk.kkljw"
             }
         },
         "Comick": {

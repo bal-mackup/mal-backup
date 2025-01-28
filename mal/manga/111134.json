@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a4deac71-7baa-4732-a770-0bdd9799ad35": {
+                "id": 22477,
                 "identifier": "a4deac71-7baa-4732-a770-0bdd9799ad35",
                 "image": "https://uploads.mangadex.org/covers/a4deac71-7baa-4732-a770-0bdd9799ad35/8e39582b-212b-46ce-b674-32522c565884.jpg",
                 "malId": 111134,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dragon-zakura-2": {
+                "id": 56732,
                 "identifier": "dragon-zakura-2",
                 "image": "https://temp.compsci88.com/cover/Dragon-Zakura-2.jpg",
                 "malId": 111134,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Dragon-Zakura-2"
             }
         },
-        "MangaFire": {
-            "dragon-zakura-2.jpnz3": {
-                "identifier": "dragon-zakura-2.jpnz3",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf89ef0a9dee20495b3e0938ca849f55.jpg",
-                "malId": 111134,
-                "aniId": 130764,
-                "page": "MangaFire",
-                "title": "Dragon Zakura 2",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dragon-zakura-2.jpnz3/"
-            },
-            "jpnz3": {
-                "identifier": "jpnz3",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf89ef0a9dee20495b3e0938ca849f55.jpg",
-                "malId": 111134,
-                "aniId": 130764,
-                "page": "MangaFire",
-                "title": "Dragon Zakura 2",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dragon-zakura-2.jpnz3/"
-            }
-        },
         "Weebcentral": {
             "01j76xydvcjhktnfa8brf6505n": {
+                "id": 211207,
                 "identifier": "01j76xydvcjhktnfa8brf6505n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDVCJHKTNFA8BRF6505N.jpg",
                 "malId": 111134,
@@ -62,6 +43,19 @@
                 "title": "Dragon Zakura 2",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDVCJHKTNFA8BRF6505N"
+            }
+        },
+        "MangaFire": {
+            "jpnz3": {
+                "id": 258190,
+                "identifier": "jpnz3",
+                "image": "https://static.mangafire.to/4473/i/c/cf/cf89ef0a9dee20495b3e0938ca849f55.jpg",
+                "malId": 111134,
+                "aniId": 130764,
+                "page": "MangaFire",
+                "title": "Dragon Zakura 2",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dragon-zakura-22.jpnz3"
             }
         },
         "Comick": {

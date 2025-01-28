@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c25441b5-ab87-404d-8f47-9ac539768c69": {
+                "id": 16351,
                 "identifier": "c25441b5-ab87-404d-8f47-9ac539768c69",
                 "image": "https://uploads.mangadex.org/covers/c25441b5-ab87-404d-8f47-9ac539768c69/67714dbb-efc1-4b8d-a573-c12413577da0.jpg",
                 "malId": 100450,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "harukana-receive": {
+                "id": 66757,
                 "identifier": "harukana-receive",
                 "image": "https://temp.compsci88.com/cover/Harukana-Receive.jpg",
                 "malId": 100450,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "harukana_receive": {
+                "id": 66758,
                 "identifier": "harukana_receive",
                 "image": "https://fmcdn.mfcdn.net/store/manga/23939/cover.jpg",
                 "malId": 100450,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xd974938": {
+                "id": 89973,
                 "identifier": "manga-xd974938",
                 "image": "https://avt.mkklcdnv6temp.com/fld/99/t/7-1732787714-nw.webp",
                 "malId": 100450,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xd974938"
             }
         },
-        "MangaFire": {
-            "harukana-receive.2o1v2": {
-                "identifier": "harukana-receive.2o1v2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c760f761c0e447f6605802c79a7a5683.jpg",
-                "malId": 100450,
-                "aniId": 101391,
-                "page": "MangaFire",
-                "title": "Harukana Receive",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/harukana-receive.2o1v2/"
-            },
-            "harukana-receivee.2o1v2": {
-                "identifier": "harukana-receivee.2o1v2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c760f761c0e447f6605802c79a7a5683.jpg",
-                "malId": 100450,
-                "aniId": 101391,
-                "page": "MangaFire",
-                "title": "Harukana Receive",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/harukana-receivee.2o1v2/"
-            },
-            "2o1v2": {
-                "identifier": "2o1v2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c760f761c0e447f6605802c79a7a5683.jpg",
-                "malId": 100450,
-                "aniId": 101391,
-                "page": "MangaFire",
-                "title": "Harukana Receive",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/harukana-receivee.2o1v2/"
-            }
-        },
         "Weebcentral": {
             "01j76xychw8zf5vnq668k49cge": {
+                "id": 212495,
                 "identifier": "01j76xychw8zf5vnq668k49cge",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCHW8ZF5VNQ668K49CGE.jpg",
                 "malId": 100450,
@@ -96,6 +69,19 @@
                 "title": "Harukana Receive",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCHW8ZF5VNQ668K49CGE"
+            }
+        },
+        "MangaFire": {
+            "2o1v2": {
+                "id": 228062,
+                "identifier": "2o1v2",
+                "image": "https://static.mangafire.to/5e91/i/c/c7/c760f761c0e447f6605802c79a7a5683.jpg",
+                "malId": 100450,
+                "aniId": 101391,
+                "page": "MangaFire",
+                "title": "Harukana Receive",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/harukana-receivee.2o1v2"
             }
         },
         "Comick": {

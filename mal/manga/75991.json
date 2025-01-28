@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f5035b6-bccb-4518-a4e5-af328c93e7ab": {
+                "id": 11575,
                 "identifier": "8f5035b6-bccb-4518-a4e5-af328c93e7ab",
                 "image": "https://uploads.mangadex.org/covers/8f5035b6-bccb-4518-a4e5-af328c93e7ab/4dad7a19-50c3-472b-ad88-c0c6b22976bb.jpg",
                 "malId": 75991,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hare-kon": {
+                "id": 55391,
                 "identifier": "hare-kon",
                 "image": "https://temp.compsci88.com/cover/Hare-Kon.jpg",
                 "malId": 75991,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hare_kon": {
+                "id": 67064,
                 "identifier": "hare_kon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14299/cover.jpg",
                 "malId": 75991,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dd951912": {
+                "id": 75169,
                 "identifier": "manga-dd951912",
                 "image": "https://avt.mkklcdnv6temp.com/20/y/1-1583464519.jpg",
                 "malId": 75991,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dd951912"
             }
         },
-        "MangaFire": {
-            "hare-kon.zll3l": {
-                "identifier": "hare-kon.zll3l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/241a2def8d33f68f8fab1b645ba90fce.jpg",
-                "malId": 75991,
-                "aniId": 86283,
-                "page": "MangaFire",
-                "title": "Harem Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hare-kon.zll3l/"
-            },
-            "hare-konn.zll3l": {
-                "identifier": "hare-konn.zll3l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/241a2def8d33f68f8fab1b645ba90fce.jpg",
-                "malId": 75991,
-                "aniId": 86283,
-                "page": "MangaFire",
-                "title": "Harem Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hare-konn.zll3l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaewh27denk4h6rm68gq": {
+                "id": 209232,
                 "identifier": "01j76xyaewh27denk4h6rm68gq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAEWH27DENK4H6RM68GQ.jpg",
                 "malId": 75991,
@@ -86,6 +69,19 @@
                 "title": "Harem Marriage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAEWH27DENK4H6RM68GQ"
+            }
+        },
+        "MangaFire": {
+            "zll3l": {
+                "id": 232693,
+                "identifier": "zll3l",
+                "image": "https://static.mangafire.to/20bb/i/2/24/241a2def8d33f68f8fab1b645ba90fce.jpg",
+                "malId": 75991,
+                "aniId": 86283,
+                "page": "MangaFire",
+                "title": "Harem Marriage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hare-konn.zll3l"
             }
         },
         "Comick": {

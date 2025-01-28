@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4106c8cb-7917-41c5-bd55-072f6687076d": {
+                "id": 39868,
                 "identifier": "4106c8cb-7917-41c5-bd55-072f6687076d",
                 "image": "https://uploads.mangadex.org/covers/4106c8cb-7917-41c5-bd55-072f6687076d/d8d11288-3499-4408-8adb-9c52a00b6525.jpg",
                 "malId": 147394,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "when_the_evil_girl_loves": {
+                "id": 56511,
                 "identifier": "when_the_evil_girl_loves",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35760/cover.jpg",
                 "malId": 147394,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "when-the-villainess-loves": {
+                "id": 60077,
                 "identifier": "when-the-villainess-loves",
                 "image": "https://temp.compsci88.com/cover/When-the-Villainess-Loves.jpg",
                 "malId": 147394,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jg986715": {
+                "id": 75047,
                 "identifier": "manga-jg986715",
                 "image": "https://avt.mkklcdnv6temp.com/17/v/22-1600569892.jpg",
                 "malId": 147394,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jg986715"
             }
         },
-        "MangaFire": {
-            "when-the-villainess-is-in-love.rl30q": {
-                "identifier": "when-the-villainess-is-in-love.rl30q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69b1dd4a63b89742e85c3809fb653f1e.jpg",
-                "malId": 147394,
-                "aniId": 124474,
-                "page": "MangaFire",
-                "title": "When the Villainess is in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/when-the-villainess-is-in-love.rl30q/"
-            },
-            "angnyeoga-saranghal-ttae.rl30q": {
-                "identifier": "angnyeoga-saranghal-ttae.rl30q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69b1dd4a63b89742e85c3809fb653f1e.jpg",
-                "malId": 147394,
-                "aniId": 124474,
-                "page": "MangaFire",
-                "title": "When the Villainess is in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angnyeoga-saranghal-ttae.rl30q/"
-            },
-            "when-the-villainess-is-in-lovee.rl30q": {
-                "identifier": "when-the-villainess-is-in-lovee.rl30q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69b1dd4a63b89742e85c3809fb653f1e.jpg",
-                "malId": 147394,
-                "aniId": 124474,
-                "page": "MangaFire",
-                "title": "When the Villainess is in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/when-the-villainess-is-in-lovee.rl30q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeashtmc3s9e959nky2d": {
+                "id": 211748,
                 "identifier": "01j76xyeashtmc3s9e959nky2d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEASHTMC3S9E959NKY2D.jpg",
                 "malId": 147394,
@@ -96,6 +69,19 @@
                 "title": "When the Villainess Is in Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEASHTMC3S9E959NKY2D"
+            }
+        },
+        "MangaFire": {
+            "rl30q": {
+                "id": 231069,
+                "identifier": "rl30q",
+                "image": "https://static.mangafire.to/0999/i/6/69/69b1dd4a63b89742e85c3809fb653f1e.jpg",
+                "malId": 147394,
+                "aniId": 124474,
+                "page": "MangaFire",
+                "title": "When the Villainess is in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/when-the-villainess-is-in-lovee.rl30q"
             }
         },
         "Comick": {

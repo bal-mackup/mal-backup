@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7daf8dd0-6cc0-4b8f-8af0-a330af9a9bd5": {
+                "id": 37972,
                 "identifier": "7daf8dd0-6cc0-4b8f-8af0-a330af9a9bd5",
                 "image": "https://uploads.mangadex.org/covers/7daf8dd0-6cc0-4b8f-8af0-a330af9a9bd5/3d789912-546d-4c7a-a783-74c93e1c2263.jpg",
                 "malId": 130414,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "futari_escape": {
+                "id": 64315,
                 "identifier": "futari_escape",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35019/cover.jpg",
                 "malId": 130414,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-it986002": {
+                "id": 73337,
                 "identifier": "manga-it986002",
                 "image": "https://avt.mkklcdnv6temp.com/39/m/21-1595864160.jpg",
                 "malId": 130414,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "futari-escape": {
+                "id": 118478,
                 "identifier": "futari-escape",
                 "image": "https://temp.compsci88.com/cover/Futari-Escape.jpg",
                 "malId": 130414,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Futari-Escape"
             }
         },
-        "MangaFire": {
-            "futari-escape.rl94o": {
-                "identifier": "futari-escape.rl94o",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c3/c30435bdc76735e9c622ef5643eab0cb.jpg",
-                "malId": 130414,
-                "aniId": 120067,
-                "page": "MangaFire",
-                "title": "Futari Escape",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-escape.rl94o/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfrrs068q4e55pyg4x29": {
+                "id": 212815,
                 "identifier": "01j76xyfrrs068q4e55pyg4x29",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFRRS068Q4E55PYG4X29.jpg",
                 "malId": 130414,
@@ -76,6 +69,19 @@
                 "title": "Futari Escape",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFRRS068Q4E55PYG4X29"
+            }
+        },
+        "MangaFire": {
+            "rl94o": {
+                "id": 259321,
+                "identifier": "rl94o",
+                "image": "https://static.mangafire.to/8bd4/i/c/c3/c30435bdc76735e9c622ef5643eab0cb.jpg",
+                "malId": 130414,
+                "aniId": 120067,
+                "page": "MangaFire",
+                "title": "Futari Escape",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futari-escapee.rl94o"
             }
         },
         "Comick": {

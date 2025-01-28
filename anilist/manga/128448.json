@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4aecf422-7afe-405f-b2d4-e5b80a1872ac": {
+                "id": 58827,
                 "identifier": "4aecf422-7afe-405f-b2d4-e5b80a1872ac",
                 "image": "https://uploads.mangadex.org/covers/4aecf422-7afe-405f-b2d4-e5b80a1872ac/81dc422a-e7a6-47ca-8b3a-32f211a7b193.jpg",
                 "malId": 134443,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lo988371": {
+                "id": 74040,
                 "identifier": "manga-lo988371",
                 "image": "https://avt.mkklcdnv6temp.com/36/d/23-1614615880.jpg",
                 "malId": 134443,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "megane_tokidoki_yankee_kun": {
+                "id": 90354,
                 "identifier": "megane_tokidoki_yankee_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39033/cover.jpg",
                 "malId": 134443,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/megane_tokidoki_yankee_kun/"
             }
         },
-        "MangaFire": {
-            "megane-tokidoki-yankee-kun.rl3xp": {
-                "identifier": "megane-tokidoki-yankee-kun.rl3xp",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43e900e72587be9108076417b7a3d1cf.jpg",
-                "malId": 134443,
-                "aniId": 128448,
-                "page": "MangaFire",
-                "title": "Glasses with a Chance of Delinquent",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/megane-tokidoki-yankee-kun.rl3xp/"
-            },
-            "megane-tokidoki-yankee-kunn.rl3xp": {
-                "identifier": "megane-tokidoki-yankee-kunn.rl3xp",
-                "image": "https://static.mangafire.to/be70/i/4/43/43e900e72587be9108076417b7a3d1cf.jpg",
-                "malId": 134443,
-                "aniId": 128448,
-                "page": "MangaFire",
-                "title": "Glasses with a Chance of Delinquent",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/megane-tokidoki-yankee-kunn.rl3xp/"
-            }
-        },
         "MangaSee": {
             "megane-tokidoki-yankee-kun": {
+                "id": 168018,
                 "identifier": "megane-tokidoki-yankee-kun",
                 "image": "https://temp.compsci88.com/cover/Megane-Tokidoki-Yankee-kun.jpg",
                 "malId": 134443,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygg2sgaxkdp7mb6tcn80": {
+                "id": 208809,
                 "identifier": "01j76xygg2sgaxkdp7mb6tcn80",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGG2SGAXKDP7MB6TCN80.jpg",
                 "malId": 134443,
@@ -86,6 +69,19 @@
                 "title": "Megane, Tokidoki, Yankee-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGG2SGAXKDP7MB6TCN80"
+            }
+        },
+        "MangaFire": {
+            "rl3xp": {
+                "id": 223632,
+                "identifier": "rl3xp",
+                "image": "https://static.mangafire.to/be70/i/4/43/43e900e72587be9108076417b7a3d1cf.jpg",
+                "malId": 134443,
+                "aniId": 128448,
+                "page": "MangaFire",
+                "title": "Glasses with a Chance of Delinquent",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/megane-tokidoki-yankee-kunn.rl3xp"
             }
         },
         "Comick": {

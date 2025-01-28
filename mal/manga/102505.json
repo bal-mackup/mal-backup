@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bc1e8a27-08e3-4312-a160-0cffac31af9d": {
+                "id": 16649,
                 "identifier": "bc1e8a27-08e3-4312-a160-0cffac31af9d",
                 "image": "https://uploads.mangadex.org/covers/bc1e8a27-08e3-4312-a160-0cffac31af9d/5875b2fd-f051-492b-9915-1cc522e5a94b.jpg",
                 "malId": 102505,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "marry-me": {
+                "id": 60012,
                 "identifier": "marry-me",
                 "image": "https://temp.compsci88.com/cover/Marry-Me.jpg",
                 "malId": 102505,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-wl973394": {
+                "id": 85395,
                 "identifier": "manga-wl973394",
                 "image": "https://avt.mkklcdnv6temp.com/32/j/14-1583490879.jpg",
                 "malId": 102505,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-wl973394"
             },
             "manga-nn990822": {
+                "id": 103457,
                 "identifier": "manga-nn990822",
                 "image": "https://avt.mkklcdnv6temp.com/40/f/25-1652068688.jpg",
                 "malId": 102505,
@@ -52,20 +56,9 @@
                 "url": "https://chapmanganato.com/manga-nn990822"
             }
         },
-        "MangaFire": {
-            "marry-me.wo76l": {
-                "identifier": "marry-me.wo76l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c8484e7cf6493d266b1ba5c6c7acc854.jpg",
-                "malId": 102505,
-                "aniId": 97882,
-                "page": "MangaFire",
-                "title": "Marry Me!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/marry-me.wo76l/"
-            }
-        },
         "Weebcentral": {
             "01j76xye86362wv981z28br0bw": {
+                "id": 209669,
                 "identifier": "01j76xye86362wv981z28br0bw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE86362WV981Z28BR0BW.jpg",
                 "malId": 102505,
@@ -74,6 +67,19 @@
                 "title": "Marry Me!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE86362WV981Z28BR0BW"
+            }
+        },
+        "MangaFire": {
+            "wo76l": {
+                "id": 257650,
+                "identifier": "wo76l",
+                "image": "https://static.mangafire.to/d048/i/c/c8/c8484e7cf6493d266b1ba5c6c7acc854.jpg",
+                "malId": 102505,
+                "aniId": 97882,
+                "page": "MangaFire",
+                "title": "Marry Me!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/marry-mee.wo76l"
             }
         },
         "Comick": {

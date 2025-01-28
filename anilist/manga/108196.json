@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8af33c74-2779-4e2e-94ab-d614762ab499": {
+                "id": 27644,
                 "identifier": "8af33c74-2779-4e2e-94ab-d614762ab499",
                 "image": "https://uploads.mangadex.org/covers/8af33c74-2779-4e2e-94ab-d614762ab499/38711a90-b57b-4e67-9cf3-ad83bef8439a.jpg",
                 "malId": 108032,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-home-hero": {
+                "id": 57939,
                 "identifier": "my-home-hero",
                 "image": "https://temp.compsci88.com/cover/My-Home-Hero.jpg",
                 "malId": 108032,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "my_home_hero": {
+                "id": 65761,
                 "identifier": "my_home_hero",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31444/cover.jpg",
                 "malId": 108032,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fa983083": {
+                "id": 74074,
                 "identifier": "manga-fa983083",
                 "image": "https://avt.mkklcdnv6temp.com/25/k/19-1583500110.jpg",
                 "malId": 108032,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fa983083"
             }
         },
-        "MangaFire": {
-            "my-home-hero.m2rv8": {
-                "identifier": "my-home-hero.m2rv8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6ae2f3862fb0596328e8ed69ec609071.jpg",
-                "malId": 108032,
-                "aniId": 108196,
-                "page": "MangaFire",
-                "title": "My Home Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-home-hero.m2rv8/"
-            },
-            "my-home-heroo.m2rv8": {
-                "identifier": "my-home-heroo.m2rv8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6ae2f3862fb0596328e8ed69ec609071.jpg",
-                "malId": 108032,
-                "aniId": 108196,
-                "page": "MangaFire",
-                "title": "My Home Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-home-heroo.m2rv8/"
-            },
-            "m2rv8": {
-                "identifier": "m2rv8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6ae2f3862fb0596328e8ed69ec609071.jpg",
-                "malId": 108032,
-                "aniId": 108196,
-                "page": "MangaFire",
-                "title": "My Home Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-home-heroo.m2rv8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd33n7ae1bdq72r274yy": {
+                "id": 208848,
                 "identifier": "01j76xyd33n7ae1bdq72r274yy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD33N7AE1BDQ72R274YY.jpg",
                 "malId": 108032,
@@ -96,6 +69,19 @@
                 "title": "My Home Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD33N7AE1BDQ72R274YY"
+            }
+        },
+        "MangaFire": {
+            "m2rv8": {
+                "id": 223940,
+                "identifier": "m2rv8",
+                "image": "https://static.mangafire.to/ea9c/i/6/6a/6ae2f3862fb0596328e8ed69ec609071.jpg",
+                "malId": 108032,
+                "aniId": 108196,
+                "page": "MangaFire",
+                "title": "My Home Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-home-heroo.m2rv8"
             }
         },
         "Comick": {

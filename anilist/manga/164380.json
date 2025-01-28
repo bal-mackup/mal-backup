@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "549b8630-ee34-42f6-9219-2bcbbf1fdffe": {
+                "id": 127655,
                 "identifier": "549b8630-ee34-42f6-9219-2bcbbf1fdffe",
                 "image": "https://uploads.mangadex.org/covers/549b8630-ee34-42f6-9219-2bcbbf1fdffe/1d2b4db2-37d4-408d-8a1c-67537b916e75.jpg",
                 "malId": 157264,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "reto-the-protector": {
+                "id": 172693,
                 "identifier": "reto-the-protector",
                 "image": "https://temp.compsci88.com/cover/Reto-the-Protector.jpg",
                 "malId": 157264,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-wx999606": {
+                "id": 176549,
                 "identifier": "manga-wx999606",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/f/16-1733315649-nw.webp",
                 "malId": 157264,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-wx999606"
             }
         },
-        "MangaFire": {
-            "otogi-no-hako-no-reto.k31mv": {
-                "identifier": "otogi-no-hako-no-reto.k31mv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/2194044b915483d99beb5791c7faef77.jpg",
-                "malId": 157264,
-                "aniId": 164380,
-                "page": "MangaFire",
-                "title": "Reto the Protector",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otogi-no-hako-no-reto.k31mv/"
-            }
-        },
         "Weebcentral": {
             "01j76xygm0nge4a15k7rkbesx1": {
+                "id": 210989,
                 "identifier": "01j76xygm0nge4a15k7rkbesx1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGM0NGE4A15K7RKBESX1.jpg",
                 "malId": 157264,
@@ -64,6 +56,19 @@
                 "title": "Reto the Protector",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGM0NGE4A15K7RKBESX1"
+            }
+        },
+        "MangaFire": {
+            "k31mv": {
+                "id": 229269,
+                "identifier": "k31mv",
+                "image": "https://static.mangafire.to/8f08/i/2/21/2194044b915483d99beb5791c7faef77.jpg",
+                "malId": 157264,
+                "aniId": 164380,
+                "page": "MangaFire",
+                "title": "Reto the Protector",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otogi-no-hako-no-retoo.k31mv"
             }
         },
         "Comick": {

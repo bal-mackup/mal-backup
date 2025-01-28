@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e6cedded-2479-4f67-8598-b2a3e53993e4": {
+                "id": 16342,
                 "identifier": "e6cedded-2479-4f67-8598-b2a3e53993e4",
                 "image": "https://uploads.mangadex.org/covers/e6cedded-2479-4f67-8598-b2a3e53993e4/81654388-f501-4426-bcd8-455c6672098b.jpg",
                 "malId": 99884,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/e6cedded-2479-4f67-8598-b2a3e53993e4"
             },
             "b3cbeaa8-88d7-45be-ad50-08373efbd5b0": {
+                "id": 23884,
                 "identifier": "b3cbeaa8-88d7-45be-ad50-08373efbd5b0",
                 "image": "https://uploads.mangadex.org/covers/b3cbeaa8-88d7-45be-ad50-08373efbd5b0/382c9b6b-4c00-48e2-aca0-988584081091.jpg",
                 "malId": 99884,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "thunderbolt-fantasy": {
+                "id": 120521,
                 "identifier": "thunderbolt-fantasy",
                 "image": "https://temp.compsci88.com/cover/Thunderbolt-Fantasy.jpg",
                 "malId": 99884,
@@ -40,40 +43,9 @@
                 "url": "https://mangasee123.com/manga/Thunderbolt-Fantasy"
             }
         },
-        "MangaFire": {
-            "thunderbolt-fantasy-touriken-yuuki.0rpmk": {
-                "identifier": "thunderbolt-fantasy-touriken-yuuki.0rpmk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d3b0c865c1498c5eb2c1406471cd0787.jpg",
-                "malId": 99884,
-                "aniId": 97464,
-                "page": "MangaFire",
-                "title": "Thunderbolt Fantasy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/thunderbolt-fantasy-touriken-yuuki.0rpmk/"
-            },
-            "thunderbolt-fantasy-touriken-yuukii.0rpmk": {
-                "identifier": "thunderbolt-fantasy-touriken-yuukii.0rpmk",
-                "image": "https://static.mangafire.to/19e1/i/d/d3/d3b0c865c1498c5eb2c1406471cd0787.jpg",
-                "malId": 99884,
-                "aniId": 97464,
-                "page": "MangaFire",
-                "title": "Thunderbolt Fantasy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/thunderbolt-fantasy-touriken-yuukii.0rpmk/"
-            },
-            "0rpmk": {
-                "identifier": "0rpmk",
-                "image": "https://static.mangafire.to/19e1/i/d/d3/d3b0c865c1498c5eb2c1406471cd0787.jpg",
-                "malId": 99884,
-                "aniId": 97464,
-                "page": "MangaFire",
-                "title": "Thunderbolt Fantasy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/thunderbolt-fantasy-touriken-yuukii.0rpmk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfts8smgjvgv37artx7a": {
+                "id": 212637,
                 "identifier": "01j76xyfts8smgjvgv37artx7a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFTS8SMGJVGV37ARTX7A.jpg",
                 "malId": 99884,
@@ -82,6 +54,19 @@
                 "title": "Thunderbolt Fantasy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFTS8SMGJVGV37ARTX7A"
+            }
+        },
+        "MangaFire": {
+            "0rpmk": {
+                "id": 223126,
+                "identifier": "0rpmk",
+                "image": "https://static.mangafire.to/19e1/i/d/d3/d3b0c865c1498c5eb2c1406471cd0787.jpg",
+                "malId": 99884,
+                "aniId": 97464,
+                "page": "MangaFire",
+                "title": "Thunderbolt Fantasy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/thunderbolt-fantasy-touriken-yuukii.0rpmk"
             }
         },
         "Comick": {

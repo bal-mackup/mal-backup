@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0bac7be9-490a-4019-ae87-9b5b324af65a": {
+                "id": 115168,
                 "identifier": "0bac7be9-490a-4019-ae87-9b5b324af65a",
                 "image": "https://uploads.mangadex.org/covers/0bac7be9-490a-4019-ae87-9b5b324af65a/3cdf569b-3d36-4e31-95b7-64a8239a3f9e.jpg",
                 "malId": 146233,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qt994102": {
+                "id": 129050,
                 "identifier": "manga-qt994102",
                 "image": "https://avt.mkklcdnv6temp.com/24/r/28-1676263613.jpg",
                 "malId": 146233,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-qt994102"
             }
         },
-        "MangaFire": {
-            "yano-kun-no-futsuu-no-hibi.yq08p": {
-                "identifier": "yano-kun-no-futsuu-no-hibi.yq08p",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f71523a14d63d59bdc7acfba27e15d93.jpg",
-                "malId": 146233,
-                "aniId": 136498,
-                "page": "MangaFire",
-                "title": "Mr. Yano's Ordinary Days",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yano-kun-no-futsuu-no-hibi.yq08p/"
-            }
-        },
         "MangaFox": {
             "yano_kun_no_futsuu_no_hibi": {
+                "id": 192901,
                 "identifier": "yano_kun_no_futsuu_no_hibi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43730/cover.jpg",
                 "malId": 146233,
@@ -52,6 +43,19 @@
                 "title": "Yano-kun no Futsuu no Hibi",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/yano_kun_no_futsuu_no_hibi/"
+            }
+        },
+        "MangaFire": {
+            "yq08p": {
+                "id": 254051,
+                "identifier": "yq08p",
+                "image": "https://static.mangafire.to/8995/i/f/f7/f71523a14d63d59bdc7acfba27e15d93.jpg",
+                "malId": 146233,
+                "aniId": 136498,
+                "page": "MangaFire",
+                "title": "Mr. Yano's Ordinary Days",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yano-kun-no-futsuu-no-hibii.yq08p"
             }
         },
         "Comick": {

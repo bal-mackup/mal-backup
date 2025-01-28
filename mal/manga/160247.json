@@ -6,20 +6,9 @@
     "total": 8,
     "image": "https://cdn.myanimelist.net/images/manga/1/284401.jpg",
     "Sites": {
-        "MangaFire": {
-            "kami-sama-no-kaigogakari.42m8o": {
-                "identifier": "kami-sama-no-kaigogakari.42m8o",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8fd2a319f0c4f05437ca99519b2271b6.jpg",
-                "malId": 160247,
-                "aniId": 175570,
-                "page": "MangaFire",
-                "title": "Taking Care of God",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kami-sama-no-kaigogakari.42m8o/"
-            }
-        },
         "MangaSee": {
             "taking-care-of-god": {
+                "id": 183133,
                 "identifier": "taking-care-of-god",
                 "image": "https://temp.compsci88.com/cover/Taking-Care-of-God.jpg",
                 "malId": 160247,
@@ -32,6 +21,7 @@
         },
         "Weebcentral": {
             "01j76xyh0a5pqb59x9snkh2ndv": {
+                "id": 209159,
                 "identifier": "01j76xyh0a5pqb59x9snkh2ndv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH0A5PQB59X9SNKH2NDV.jpg",
                 "malId": 160247,
@@ -40,6 +30,19 @@
                 "title": "Taking Care of God",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH0A5PQB59X9SNKH2NDV"
+            }
+        },
+        "MangaFire": {
+            "42m8o": {
+                "id": 237001,
+                "identifier": "42m8o",
+                "image": "https://static.mangafire.to/22df/i/8/8f/8fd2a319f0c4f05437ca99519b2271b6.jpg",
+                "malId": 160247,
+                "aniId": 175570,
+                "page": "MangaFire",
+                "title": "Taking Care of God",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kami-sama-no-kaigogakarii.42m8o"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6d08b2ce-f000-45ec-b290-a322a9747f6c": {
+                "id": 52085,
                 "identifier": "6d08b2ce-f000-45ec-b290-a322a9747f6c",
                 "image": "https://uploads.mangadex.org/covers/6d08b2ce-f000-45ec-b290-a322a9747f6c/2c1c173e-8847-449e-bffe-3a141868a651.jpg",
                 "malId": 122149,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-bosss-kitten": {
+                "id": 57081,
                 "identifier": "my-bosss-kitten",
                 "image": "https://temp.compsci88.com/cover/My-Bosss-Kitten.jpg",
                 "malId": 122149,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gc983859": {
+                "id": 99603,
                 "identifier": "manga-gc983859",
                 "image": "https://avt.mkklcdnv6temp.com/fld/48/b/10-1732800876-nw.webp",
                 "malId": 122149,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-gc983859"
             }
         },
-        "MangaFire": {
-            "buchou-no-nyanko.376x9": {
-                "identifier": "buchou-no-nyanko.376x9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/4683b5363d4ea2feab5d047039c7840c.jpg",
-                "malId": 122149,
-                "aniId": 112393,
-                "page": "MangaFire",
-                "title": "My Boss's Kitten",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/buchou-no-nyanko.376x9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd22ea1ra4g9wbbyahdy": {
+                "id": 214254,
                 "identifier": "01j76xyd22ea1ra4g9wbbyahdy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD22EA1RA4G9WBBYAHDY.jpg",
                 "malId": 122149,
@@ -64,6 +56,19 @@
                 "title": "My Boss's Kitten",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD22EA1RA4G9WBBYAHDY"
+            }
+        },
+        "MangaFire": {
+            "376x9": {
+                "id": 254848,
+                "identifier": "376x9",
+                "image": "https://static.mangafire.to/f624/i/4/46/4683b5363d4ea2feab5d047039c7840c.jpg",
+                "malId": 122149,
+                "aniId": 112393,
+                "page": "MangaFire",
+                "title": "My Boss's Kitten",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/buchou-no-nyankoo.376x9"
             }
         },
         "MangaReader": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "588ad724-f157-4b0f-9f3a-90628a43d0b7": {
+                "id": 16951,
                 "identifier": "588ad724-f157-4b0f-9f3a-90628a43d0b7",
                 "image": "https://uploads.mangadex.org/covers/588ad724-f157-4b0f-9f3a-90628a43d0b7/983f6c66-bf35-4e09-9ee4-098a8302542d.jpg",
                 "malId": 102605,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/588ad724-f157-4b0f-9f3a-90628a43d0b7"
             }
         },
-        "MangaFire": {
-            "konna-amai-koto-shiranai.xrxzq": {
-                "identifier": "konna-amai-koto-shiranai.xrxzq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b193cf23cebfccc3203dd771a60de428.jpg",
-                "malId": 102605,
-                "aniId": 98039,
-                "page": "MangaFire",
-                "title": "Konna Amai Koto, Shiranai...",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/konna-amai-koto-shiranai.xrxzq/"
-            },
-            "xrxzq": {
-                "identifier": "xrxzq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b193cf23cebfccc3203dd771a60de428.jpg",
-                "malId": 102605,
-                "aniId": 98039,
-                "page": "MangaFire",
-                "title": "Konna Amai Koto, Shiranai...",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/konna-amai-koto-shiranai.xrxzq/"
-            }
-        },
         "MangaFox": {
             "konna_amai_koto_shiranai": {
+                "id": 220808,
                 "identifier": "konna_amai_koto_shiranai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28867/cover.jpg",
                 "malId": 102605,
@@ -50,6 +30,19 @@
                 "title": "Konna Amai Koto, Shiranai...",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/konna_amai_koto_shiranai/"
+            }
+        },
+        "MangaFire": {
+            "xrxzq": {
+                "id": 256949,
+                "identifier": "xrxzq",
+                "image": "https://static.mangafire.to/f6d6/i/b/b1/b193cf23cebfccc3203dd771a60de428.jpg",
+                "malId": 102605,
+                "aniId": 98039,
+                "page": "MangaFire",
+                "title": "Konna Amai Koto, Shiranai...",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/konna-amai-koto-shiranaii.xrxzq"
             }
         },
         "Comick": {

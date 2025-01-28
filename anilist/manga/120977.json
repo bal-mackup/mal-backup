@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "567b51cb-ae4c-4a27-af49-92468c5ff4a4": {
+                "id": 37138,
                 "identifier": "567b51cb-ae4c-4a27-af49-92468c5ff4a4",
                 "image": "https://uploads.mangadex.org/covers/567b51cb-ae4c-4a27-af49-92468c5ff4a4/490a38b2-ac17-43f3-867d-f57d69c8b99d.jpg",
                 "malId": 129164,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kawaii-nante-kiitenai": {
+                "id": 65510,
                 "identifier": "kawaii-nante-kiitenai",
                 "image": "https://temp.compsci88.com/cover/Kawaii-Nante-Kiitenai.jpg",
                 "malId": 129164,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-iy985907": {
+                "id": 86441,
                 "identifier": "manga-iy985907",
                 "image": "https://avt.mkklcdnv6temp.com/35/u/21-1595587056.jpg",
                 "malId": 129164,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-iy985907"
             }
         },
-        "MangaFire": {
-            "kawaii-nante-kiitenai.3rxv6": {
-                "identifier": "kawaii-nante-kiitenai.3rxv6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7e/7e2bba26eea2dc4b3b891d898fe0fb63.jpg",
-                "malId": 129164,
-                "aniId": 120977,
-                "page": "MangaFire",
-                "title": "You're My Cutie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kawaii-nante-kiitenai.3rxv6/"
-            },
-            "kawaii-nante-kiitenaii.3rxv6": {
-                "identifier": "kawaii-nante-kiitenaii.3rxv6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7e/7e2bba26eea2dc4b3b891d898fe0fb63.jpg",
-                "malId": 129164,
-                "aniId": 120977,
-                "page": "MangaFire",
-                "title": "You're My Cutie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kawaii-nante-kiitenaii.3rxv6/"
-            }
-        },
         "MangaFox": {
             "kawaii_nante_kiitenai": {
+                "id": 164466,
                 "identifier": "kawaii_nante_kiitenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34863/cover.jpg",
                 "malId": 129164,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xye3chk4hs8x2h0w4n7am": {
+                "id": 213689,
                 "identifier": "01j76xye3chk4hs8x2h0w4n7am",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE3CHK4HS8X2H0W4N7AM.jpg",
                 "malId": 129164,
@@ -86,6 +69,19 @@
                 "title": "You're My Cutie",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE3CHK4HS8X2H0W4N7AM"
+            }
+        },
+        "MangaFire": {
+            "3rxv6": {
+                "id": 231225,
+                "identifier": "3rxv6",
+                "image": "https://static.mangafire.to/2208/i/7/7e/7e2bba26eea2dc4b3b891d898fe0fb63.jpg",
+                "malId": 129164,
+                "aniId": 120977,
+                "page": "MangaFire",
+                "title": "You're My Cutie",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kawaii-nante-kiitenaii.3rxv6"
             }
         },
         "Comick": {

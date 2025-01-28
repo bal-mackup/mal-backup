@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2fe8a86e-fea0-4b6a-9e6a-41f39e0ecb04": {
+                "id": 10005,
                 "identifier": "2fe8a86e-fea0-4b6a-9e6a-41f39e0ecb04",
                 "image": "https://uploads.mangadex.org/covers/2fe8a86e-fea0-4b6a-9e6a-41f39e0ecb04/915c4892-a097-41cd-adc4-2bcfe7f75841.jpg",
                 "malId": 67139,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/2fe8a86e-fea0-4b6a-9e6a-41f39e0ecb04"
             },
             "81fe6f4d-3f84-4a6a-82e6-bfe4955c19a4": {
+                "id": 112023,
                 "identifier": "81fe6f4d-3f84-4a6a-82e6-bfe4955c19a4",
                 "image": "https://uploads.mangadex.org/covers/81fe6f4d-3f84-4a6a-82e6-bfe4955c19a4/036acf3a-7e1a-4586-aa29-f23189936aee.jpg",
                 "malId": 67139,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "i_shoujo": {
+                "id": 62998,
                 "identifier": "i_shoujo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13956/cover.jpg",
                 "malId": 67139,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/i_shoujo/"
             },
             "ishoujo": {
+                "id": 80660,
                 "identifier": "ishoujo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13956/cover.jpg",
                 "malId": 67139,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "i-shoujo": {
+                "id": 80518,
                 "identifier": "i-shoujo",
                 "image": "https://temp.compsci88.com/cover/I-Shoujo.jpg",
                 "malId": 67139,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-xc953737": {
+                "id": 87181,
                 "identifier": "manga-xc953737",
                 "image": "https://avt.mkklcdnv6temp.com/fld/86/e/1-1732719883-nw.webp",
                 "malId": 67139,
@@ -74,38 +80,22 @@
                 "url": "https://manganato.com/manga-xc953737"
             }
         },
+        "Weebcentral": {
+            "01j76xya3fns2rys7mc7f98nb0": {
+                "id": 210545,
+                "identifier": "01j76xya3fns2rys7mc7f98nb0",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XYA3FNS2RYS7MC7F98NB0.jpg",
+                "malId": 67139,
+                "aniId": 85320,
+                "page": "Weebcentral",
+                "title": "I Shoujo",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01J76XYA3FNS2RYS7MC7F98NB0"
+            }
+        },
         "MangaFire": {
-            "ishoujo3.42r1k": {
-                "identifier": "ishoujo3.42r1k",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60d276db54391a27790e3ba3f4cb6f73.jpg",
-                "malId": 67139,
-                "aniId": 85320,
-                "page": "MangaFire",
-                "title": "iShoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ishoujo3.42r1k/"
-            },
-            "ishoujo.j9y4": {
-                "identifier": "ishoujo.j9y4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4c38c5b1db416679b65775ccfe7a814.jpg",
-                "malId": 67139,
-                "aniId": 85320,
-                "page": "MangaFire",
-                "title": "iShoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ishoujo.j9y4/"
-            },
-            "ishoujoo.j9y4": {
-                "identifier": "ishoujoo.j9y4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4c38c5b1db416679b65775ccfe7a814.jpg",
-                "malId": 67139,
-                "aniId": 85320,
-                "page": "MangaFire",
-                "title": "iShoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ishoujoo.j9y4/"
-            },
             "j9y4": {
+                "id": 226912,
                 "identifier": "j9y4",
                 "image": "https://static.mangafire.to/47df/i/c/c4/c4c38c5b1db416679b65775ccfe7a814.jpg",
                 "malId": 67139,
@@ -116,26 +106,15 @@
                 "url": "https://mangafire.to/manga/ishoujoo.j9y4"
             },
             "42r1k": {
+                "id": 244215,
                 "identifier": "42r1k",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60d276db54391a27790e3ba3f4cb6f73.jpg",
+                "image": "https://static.mangafire.to/e415/i/6/60/60d276db54391a27790e3ba3f4cb6f73.jpg",
                 "malId": 67139,
                 "aniId": 85320,
                 "page": "MangaFire",
                 "title": "iShoujo",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/ishoujo3.42r1k/"
-            }
-        },
-        "Weebcentral": {
-            "01j76xya3fns2rys7mc7f98nb0": {
-                "identifier": "01j76xya3fns2rys7mc7f98nb0",
-                "image": "https://temp.compsci88.com/cover/fallback/01J76XYA3FNS2RYS7MC7F98NB0.jpg",
-                "malId": 67139,
-                "aniId": 85320,
-                "page": "Weebcentral",
-                "title": "I Shoujo",
-                "type": "manga",
-                "url": "https://weebcentral.com/series/01J76XYA3FNS2RYS7MC7F98NB0"
+                "url": "https://mangafire.to/manga/ishoujo33.42r1k"
             }
         },
         "Comick": {

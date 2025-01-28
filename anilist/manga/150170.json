@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cb676e05-8e6e-4ec4-8ba0-d3cb4f033cfa": {
+                "id": 105848,
                 "identifier": "cb676e05-8e6e-4ec4-8ba0-d3cb4f033cfa",
                 "image": "https://uploads.mangadex.org/covers/cb676e05-8e6e-4ec4-8ba0-d3cb4f033cfa/2c2c64ca-81d9-4917-abd0-73a5c64200b4.jpg",
                 "malId": 150204,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nx990932": {
+                "id": 106063,
                 "identifier": "manga-nx990932",
                 "image": "https://avt.mkklcdnv6temp.com/44/r/25-1654080151.jpg",
                 "malId": 150204,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ending_maker": {
+                "id": 106995,
                 "identifier": "ending_maker",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40806/cover.jpg",
                 "malId": 150204,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/ending_maker/"
             }
         },
-        "MangaFire": {
-            "ending-maker.llzln": {
-                "identifier": "ending-maker.llzln",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8c403e5aef1e8ae7f604a43fbc4ca7f.jpg",
-                "malId": 150204,
-                "aniId": 150170,
-                "page": "MangaFire",
-                "title": "Ending Maker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ending-maker.llzln/"
-            },
-            "ending-makerr.llzln": {
-                "identifier": "ending-makerr.llzln",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8c403e5aef1e8ae7f604a43fbc4ca7f.jpg",
-                "malId": 150204,
-                "aniId": 150170,
-                "page": "MangaFire",
-                "title": "Ending Maker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ending-makerr.llzln/"
-            }
-        },
         "MangaSee": {
             "ending-maker": {
+                "id": 191011,
                 "identifier": "ending-maker",
                 "image": "https://temp.compsci88.com/cover/Ending-Maker.jpg",
                 "malId": 150204,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhaa51nyt0hhyfxyq73b": {
+                "id": 207296,
                 "identifier": "01j76xyhaa51nyt0hhyfxyq73b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAA51NYT0HHYFXYQ73B.jpg",
                 "malId": 150204,
@@ -86,6 +69,19 @@
                 "title": "Ending Maker",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAA51NYT0HHYFXYQ73B"
+            }
+        },
+        "MangaFire": {
+            "llzln": {
+                "id": 225600,
+                "identifier": "llzln",
+                "image": "https://static.mangafire.to/a17b/i/b/b8/b8c403e5aef1e8ae7f604a43fbc4ca7f.jpg",
+                "malId": 150204,
+                "aniId": 150170,
+                "page": "MangaFire",
+                "title": "Ending Maker",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ending-makerr.llzln"
             }
         },
         "Comick": {

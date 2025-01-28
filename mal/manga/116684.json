@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "829d9d9f-579f-4e0a-b24d-aec0b2fb5051": {
+                "id": 24676,
                 "identifier": "829d9d9f-579f-4e0a-b24d-aec0b2fb5051",
                 "image": "https://uploads.mangadex.org/covers/829d9d9f-579f-4e0a-b24d-aec0b2fb5051/eaed8e53-154c-4c69-b0d6-fe3a1cd299b3.png",
                 "malId": 116684,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mint-chocolate": {
+                "id": 69458,
                 "identifier": "mint-chocolate",
                 "image": "https://temp.compsci88.com/cover/Mint-Chocolate.jpg",
                 "malId": 116684,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mint_chocolate": {
+                "id": 86497,
                 "identifier": "mint_chocolate",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29207/cover.jpg",
                 "malId": 116684,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ed981712": {
+                "id": 96698,
                 "identifier": "manga-ed981712",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/p/9-1732796252-nw.webp",
                 "malId": 116684,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ed981712"
             }
         },
-        "MangaFire": {
-            "mint-chocolate.9o6w8": {
-                "identifier": "mint-chocolate.9o6w8",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/826612310c282fed2cc2384f40b4940e.jpg",
-                "malId": 116684,
-                "aniId": 106719,
-                "page": "MangaFire",
-                "title": "Mint Chocolate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mint-chocolate.9o6w8/"
-            },
-            "9o6w8": {
-                "identifier": "9o6w8",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/826612310c282fed2cc2384f40b4940e.jpg",
-                "malId": 116684,
-                "aniId": 106719,
-                "page": "MangaFire",
-                "title": "Mint Chocolate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mint-chocolate.9o6w8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyekjnrkbzvw2kep695rh": {
+                "id": 208795,
                 "identifier": "01j76xyekjnrkbzvw2kep695rh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEKJNRKBZVW2KEP695RH.jpg",
                 "malId": 116684,
@@ -86,6 +69,19 @@
                 "title": "Mint Chocolate",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEKJNRKBZVW2KEP695RH"
+            }
+        },
+        "MangaFire": {
+            "9o6w8": {
+                "id": 243669,
+                "identifier": "9o6w8",
+                "image": "https://static.mangafire.to/9264/i/8/82/826612310c282fed2cc2384f40b4940e.jpg",
+                "malId": 116684,
+                "aniId": 106719,
+                "page": "MangaFire",
+                "title": "Mint Chocolate",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mint-chocolatee.9o6w8"
             }
         },
         "Comick": {

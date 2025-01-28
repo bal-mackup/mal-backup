@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5bea62a6-0a5e-4443-8173-550b575d6405": {
+                "id": 93320,
                 "identifier": "5bea62a6-0a5e-4443-8173-550b575d6405",
                 "image": "https://uploads.mangadex.org/covers/5bea62a6-0a5e-4443-8173-550b575d6405/0028e94c-2e2e-4160-85d8-0318012ddf56.jpg",
                 "malId": 147590,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "regina-rena-to-the-unforgiven": {
+                "id": 96908,
                 "identifier": "regina-rena-to-the-unforgiven",
                 "image": "https://temp.compsci88.com/cover/Regina-Rena-To-the-Unforgiven.jpg",
                 "malId": 147590,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Regina-Rena-To-the-Unforgiven"
             }
         },
-        "MangaFire": {
-            "regina-rena-to-the-unforgiven.qwnj": {
-                "identifier": "regina-rena-to-the-unforgiven.qwnj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/deac9655d09c7304b8b61723235b21ad.jpg",
-                "malId": 147590,
-                "aniId": 143489,
-                "page": "MangaFire",
-                "title": "Regina Rena: To the Unforgiven",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/regina-rena-to-the-unforgiven.qwnj/"
-            },
-            "regina-rena-to-the-unforgivenn.qwnj": {
-                "identifier": "regina-rena-to-the-unforgivenn.qwnj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/deac9655d09c7304b8b61723235b21ad.jpg",
-                "malId": 147590,
-                "aniId": 143489,
-                "page": "MangaFire",
-                "title": "Regina Rena: To the Unforgiven",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/regina-rena-to-the-unforgivenn.qwnj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfam628kmm760rxc3p1f": {
+                "id": 210722,
                 "identifier": "01j76xyfam628kmm760rxc3p1f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFAM628KMM760RXC3P1F.jpg",
                 "malId": 147590,
@@ -62,6 +43,19 @@
                 "title": "Regina Rena: To the Unforgiven",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFAM628KMM760RXC3P1F"
+            }
+        },
+        "MangaFire": {
+            "qwnj": {
+                "id": 224786,
+                "identifier": "qwnj",
+                "image": "https://static.mangafire.to/08eb/i/d/de/deac9655d09c7304b8b61723235b21ad.jpg",
+                "malId": 147590,
+                "aniId": 143489,
+                "page": "MangaFire",
+                "title": "Regina Rena: To the Unforgiven",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/regina-rena-to-the-unforgivenn.qwnj"
             }
         },
         "Comick": {

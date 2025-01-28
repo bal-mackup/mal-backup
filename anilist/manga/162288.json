@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e563a8e9-a730-4216-ba42-734aee59b3f3": {
+                "id": 126603,
                 "identifier": "e563a8e9-a730-4216-ba42-734aee59b3f3",
                 "image": "https://uploads.mangadex.org/covers/e563a8e9-a730-4216-ba42-734aee59b3f3/abbec61a-1c46-4df5-977f-f89b63fc653b.jpg",
                 "malId": 158553,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-tj996418": {
+                "id": 158104,
                 "identifier": "manga-tj996418",
                 "image": "https://avt.mkklcdnv6temp.com/fld/15/t/15-1733307517-nw.webp",
                 "malId": 158553,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-tj996418"
             }
         },
-        "MangaFire": {
-            "genkai-dokushin-joshi-26-gohan.yv29x": {
-                "identifier": "genkai-dokushin-joshi-26-gohan.yv29x",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77c142cc5a14c5336dcb93a612ff8653.jpg",
-                "malId": 158553,
-                "aniId": 162288,
-                "page": "MangaFire",
-                "title": "Genkai Dokushin Joshi (26) Gohan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkai-dokushin-joshi-26-gohan.yv29x/"
-            },
-            "genkai-dokushin-joshi-26-gohann.yv29x": {
-                "identifier": "genkai-dokushin-joshi-26-gohann.yv29x",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77c142cc5a14c5336dcb93a612ff8653.jpg",
-                "malId": 158553,
-                "aniId": 162288,
-                "page": "MangaFire",
-                "title": "Genkai Dokushin Joshi (26) Gohan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkai-dokushin-joshi-26-gohann.yv29x/"
-            }
-        },
         "MangaSee": {
             "genkai-dokushin-joshi-26-gohan": {
+                "id": 184449,
                 "identifier": "genkai-dokushin-joshi-26-gohan",
                 "image": "https://temp.compsci88.com/cover/Genkai-Dokushin-Joshi-26-Gohan.jpg",
                 "malId": 158553,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh2xnkqmtfrb7cr6xcf6": {
+                "id": 210386,
                 "identifier": "01j76xyh2xnkqmtfrb7cr6xcf6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH2XNKQMTFRB7CR6XCF6.jpg",
                 "malId": 158553,
@@ -74,6 +56,19 @@
                 "title": "Genkai Dokushin Joshi (26) Gohan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH2XNKQMTFRB7CR6XCF6"
+            }
+        },
+        "MangaFire": {
+            "yv29x": {
+                "id": 223971,
+                "identifier": "yv29x",
+                "image": "https://static.mangafire.to/1c26/i/7/77/77c142cc5a14c5336dcb93a612ff8653.jpg",
+                "malId": 158553,
+                "aniId": 162288,
+                "page": "MangaFire",
+                "title": "Genkai Dokushin Joshi (26) Gohan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genkai-dokushin-joshi-26-gohann.yv29x"
             }
         },
         "Comick": {

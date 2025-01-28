@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6c97725d-7eaf-4963-8563-498852c373db": {
+                "id": 20244,
                 "identifier": "6c97725d-7eaf-4963-8563-498852c373db",
                 "image": "https://uploads.mangadex.org/covers/6c97725d-7eaf-4963-8563-498852c373db/9a7bf35a-bd86-4030-bf45-92c6b67183d1.png",
                 "malId": 93676,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/6c97725d-7eaf-4963-8563-498852c373db"
             },
             "dbd2d83d-a371-4443-951f-b3305aacc1ee": {
+                "id": 31060,
                 "identifier": "dbd2d83d-a371-4443-951f-b3305aacc1ee",
                 "image": "https://uploads.mangadex.org/covers/dbd2d83d-a371-4443-951f-b3305aacc1ee/7afa9eda-d27d-464b-95cc-59a73934ec4a.jpg",
                 "malId": 93676,
@@ -28,30 +30,9 @@
                 "url": "https://mangadex.org/title/dbd2d83d-a371-4443-951f-b3305aacc1ee"
             }
         },
-        "MangaFire": {
-            "k-return-of-kings.9ozm8": {
-                "identifier": "k-return-of-kings.9ozm8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a27e1aed2674a47c8de7abb0447279fb.jpg",
-                "malId": 93676,
-                "aniId": 86438,
-                "page": "MangaFire",
-                "title": "K - Return of Kings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/k-return-of-kings.9ozm8/"
-            },
-            "9ozm8": {
-                "identifier": "9ozm8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a27e1aed2674a47c8de7abb0447279fb.jpg",
-                "malId": 93676,
-                "aniId": 86438,
-                "page": "MangaFire",
-                "title": "K - Return of Kings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/k-return-of-kings.9ozm8/"
-            }
-        },
         "MangaFox": {
             "k_return_of_kings": {
+                "id": 157472,
                 "identifier": "k_return_of_kings",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24887/cover.jpg",
                 "malId": 93676,
@@ -64,6 +45,7 @@
         },
         "MangaNato": {
             "manga-yw975805": {
+                "id": 157477,
                 "identifier": "manga-yw975805",
                 "image": "https://avt.mkklcdnv6temp.com/fld/15/o/8-1732788425-nw.webp",
                 "malId": 93676,
@@ -72,6 +54,19 @@
                 "title": "K - Return Of Kings",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-yw975805"
+            }
+        },
+        "MangaFire": {
+            "9ozm8": {
+                "id": 255791,
+                "identifier": "9ozm8",
+                "image": "https://static.mangafire.to/2518/i/a/a2/a27e1aed2674a47c8de7abb0447279fb.jpg",
+                "malId": 93676,
+                "aniId": 86438,
+                "page": "MangaFire",
+                "title": "K - Return of Kings",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/k-return-of-kingss.9ozm8"
             }
         },
         "Comick": {

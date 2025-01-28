@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a3ec9017-8d1a-485b-b8d0-150bfd0277f0": {
+                "id": 22399,
                 "identifier": "a3ec9017-8d1a-485b-b8d0-150bfd0277f0",
                 "image": "https://uploads.mangadex.org/covers/a3ec9017-8d1a-485b-b8d0-150bfd0277f0/a836bfe7-9cd7-4175-9417-92ab70a3c34a.png",
                 "malId": 102871,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/a3ec9017-8d1a-485b-b8d0-150bfd0277f0"
             }
         },
-        "MangaFire": {
-            "kaijuu-no-buki-shokunin.4j04m": {
-                "identifier": "kaijuu-no-buki-shokunin.4j04m",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/87392be506e80887a45248ec80019ce1.jpg",
-                "malId": 102871,
-                "aniId": 100725,
-                "page": "MangaFire",
-                "title": "Kaijuu no Buki Shokunin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaijuu-no-buki-shokunin.4j04m/"
-            },
-            "4j04m": {
-                "identifier": "4j04m",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/87392be506e80887a45248ec80019ce1.jpg",
-                "malId": 102871,
-                "aniId": 100725,
-                "page": "MangaFire",
-                "title": "Kaijuu no Buki Shokunin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaijuu-no-buki-shokunin.4j04m/"
-            }
-        },
         "MangaFox": {
             "kaijuu_no_buki_shokunin": {
+                "id": 158933,
                 "identifier": "kaijuu_no_buki_shokunin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26871/cover.jpg",
                 "malId": 102871,
@@ -50,6 +30,19 @@
                 "title": "Kaijuu no Buki Shokunin",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kaijuu_no_buki_shokunin/"
+            }
+        },
+        "MangaFire": {
+            "4j04m": {
+                "id": 242810,
+                "identifier": "4j04m",
+                "image": "https://static.mangafire.to/1df0/i/8/87/87392be506e80887a45248ec80019ce1.jpg",
+                "malId": 102871,
+                "aniId": 100725,
+                "page": "MangaFire",
+                "title": "Kaijuu no Buki Shokunin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaijuu-no-buki-shokuninn.4j04m"
             }
         },
         "Comick": {

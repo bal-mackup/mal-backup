@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9": {
+                "id": 104255,
                 "identifier": "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
                 "image": "https://uploads.mangadex.org/covers/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9/f7c13c73-a2b9-48ed-8cbd-65b144ee24d7.jpg",
                 "malId": 147585,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rl994446": {
+                "id": 127008,
                 "identifier": "manga-rl994446",
                 "image": "https://avt.mkklcdnv6temp.com/38/j/28-1677123388.jpg",
                 "malId": 147585,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rl994446"
             }
         },
-        "MangaFire": {
-            "sensou-kyoushitsu.n35mk": {
-                "identifier": "sensou-kyoushitsu.n35mk",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/412055f7539223e876e84d1cb52028bc.jpg",
-                "malId": 147585,
-                "aniId": 153007,
-                "page": "MangaFire",
-                "title": "The Bugle Call",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sensou-kyoushitsu.n35mk/"
-            },
-            "sensou-kyoushitsuu.n35mk": {
-                "identifier": "sensou-kyoushitsuu.n35mk",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/412055f7539223e876e84d1cb52028bc.jpg",
-                "malId": 147585,
-                "aniId": 153007,
-                "page": "MangaFire",
-                "title": "The Bugle Call",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sensou-kyoushitsuu.n35mk/"
-            }
-        },
         "MangaSee": {
             "sensou-kyoushitsu": {
+                "id": 179467,
                 "identifier": "sensou-kyoushitsu",
                 "image": "https://temp.compsci88.com/cover/Sensou-Kyoushitsu.jpg",
                 "malId": 147585,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "sensou_kyoushitsu": {
+                "id": 193666,
                 "identifier": "sensou_kyoushitsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46294/cover.jpg",
                 "malId": 147585,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygw6f702h48we54ydyts": {
+                "id": 206437,
                 "identifier": "01j76xygw6f702h48we54ydyts",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGW6F702H48WE54YDYTS.jpg",
                 "malId": 147585,
@@ -86,6 +69,19 @@
                 "title": "Sensou Kyoushitsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGW6F702H48WE54YDYTS"
+            }
+        },
+        "MangaFire": {
+            "n35mk": {
+                "id": 225788,
+                "identifier": "n35mk",
+                "image": "https://static.mangafire.to/10ad/i/4/41/412055f7539223e876e84d1cb52028bc.jpg",
+                "malId": 147585,
+                "aniId": 153007,
+                "page": "MangaFire",
+                "title": "The Bugle Call",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sensou-kyoushitsuu.n35mk"
             }
         },
         "Comick": {

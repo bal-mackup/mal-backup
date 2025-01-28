@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5ed2558b-66e8-4413-aff8-0ff317f9f1d0": {
+                "id": 28706,
                 "identifier": "5ed2558b-66e8-4413-aff8-0ff317f9f1d0",
                 "image": "https://uploads.mangadex.org/covers/5ed2558b-66e8-4413-aff8-0ff317f9f1d0/a7adcfdc-a374-4b96-baf0-fee44ba5121b.jpg",
                 "malId": 148040,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-am-the-sorcerer-king": {
+                "id": 54036,
                 "identifier": "i-am-the-sorcerer-king",
                 "image": "https://temp.compsci88.com/cover/I-Am-The-Sorcerer-King.jpg",
                 "malId": 148040,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "i_am_the_sorcerer_king": {
+                "id": 59650,
                 "identifier": "i_am_the_sorcerer_king",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30812/cover.jpg",
                 "malId": 148040,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ej981992": {
+                "id": 72936,
                 "identifier": "manga-ej981992",
                 "image": "https://avt.mkklcdnv6temp.com/2/h/36-1724600156.jpg",
                 "malId": 148040,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ej981992"
             }
         },
-        "MangaFire": {
-            "i-am-the-sorcerer-king.ynn0": {
-                "identifier": "i-am-the-sorcerer-king.ynn0",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b5bfdaff78c18f7e7ec7bfa4d428aaac.jpg",
-                "malId": 148040,
-                "aniId": 110042,
-                "page": "MangaFire",
-                "title": "I Am the Sorcerer King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-am-the-sorcerer-king.ynn0/"
-            },
-            "i-am-the-sorcerer-kingg.ynn0": {
-                "identifier": "i-am-the-sorcerer-kingg.ynn0",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b5bfdaff78c18f7e7ec7bfa4d428aaac.jpg",
-                "malId": 148040,
-                "aniId": 110042,
-                "page": "MangaFire",
-                "title": "I Am the Sorcerer King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-am-the-sorcerer-kingg.ynn0/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmq2sgmpasfphzh507a": {
+                "id": 206758,
                 "identifier": "01j76xydmq2sgmpasfphzh507a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMQ2SGMPASFPHZH507A.jpg",
                 "malId": 148040,
@@ -86,6 +69,19 @@
                 "title": "I Am the Sorcerer King",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMQ2SGMPASFPHZH507A"
+            }
+        },
+        "MangaFire": {
+            "ynn0": {
+                "id": 228230,
+                "identifier": "ynn0",
+                "image": "https://static.mangafire.to/5ba1/i/b/b5/b5bfdaff78c18f7e7ec7bfa4d428aaac.jpg",
+                "malId": 148040,
+                "aniId": 110042,
+                "page": "MangaFire",
+                "title": "I Am the Sorcerer King",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-am-the-sorcerer-kingg.ynn0"
             }
         },
         "Comick": {

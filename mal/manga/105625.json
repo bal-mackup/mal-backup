@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2eeb669a-c1c4-44f7-833d-31cafdf041de": {
+                "id": 18644,
                 "identifier": "2eeb669a-c1c4-44f7-833d-31cafdf041de",
                 "image": "https://uploads.mangadex.org/covers/2eeb669a-c1c4-44f7-833d-31cafdf041de/8cfdfb36-e454-47ee-a2c2-d3424d12ee1c.jpg",
                 "malId": 105625,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mad-chimera-world": {
+                "id": 66743,
                 "identifier": "mad-chimera-world",
                 "image": "https://temp.compsci88.com/cover/Mad-Chimera-World.jpg",
                 "malId": 105625,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bo978823": {
+                "id": 77978,
                 "identifier": "manga-bo978823",
                 "image": "https://avt.mkklcdnv6temp.com/18/i/16-1583494133.jpg",
                 "malId": 105625,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-bo978823"
             }
         },
-        "MangaFire": {
-            "mad-chimera-world.2o8ml": {
-                "identifier": "mad-chimera-world.2o8ml",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed48d473a8785bdfb7e6d8d958778b54.jpg",
-                "malId": 105625,
-                "aniId": 101113,
-                "page": "MangaFire",
-                "title": "Mad Chimera World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mad-chimera-world.2o8ml/"
-            },
-            "mad-chimera-worldd.2o8ml": {
-                "identifier": "mad-chimera-worldd.2o8ml",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed48d473a8785bdfb7e6d8d958778b54.jpg",
-                "malId": 105625,
-                "aniId": 101113,
-                "page": "MangaFire",
-                "title": "Mad Chimera World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mad-chimera-worldd.2o8ml/"
-            },
-            "2o8ml": {
-                "identifier": "2o8ml",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed48d473a8785bdfb7e6d8d958778b54.jpg",
-                "malId": 105625,
-                "aniId": 101113,
-                "page": "MangaFire",
-                "title": "Mad Chimera World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mad-chimera-worldd.2o8ml/"
-            }
-        },
         "Weebcentral": {
             "01j76xycycgzt2e0sh9fg6nfd1": {
+                "id": 212047,
                 "identifier": "01j76xycycgzt2e0sh9fg6nfd1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCYCGZT2E0SH9FG6NFD1.jpg",
                 "malId": 105625,
@@ -84,6 +56,19 @@
                 "title": "Mad Chimera World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCYCGZT2E0SH9FG6NFD1"
+            }
+        },
+        "MangaFire": {
+            "2o8ml": {
+                "id": 240669,
+                "identifier": "2o8ml",
+                "image": "https://static.mangafire.to/b6dd/i/e/ed/ed48d473a8785bdfb7e6d8d958778b54.jpg",
+                "malId": 105625,
+                "aniId": 101113,
+                "page": "MangaFire",
+                "title": "Mad Chimera World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mad-chimera-worldd.2o8ml"
             }
         },
         "Comick": {

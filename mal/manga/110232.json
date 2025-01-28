@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4088c3cc-6be2-4fb6-80b5-8d8606f00196": {
+                "id": 19688,
                 "identifier": "4088c3cc-6be2-4fb6-80b5-8d8606f00196",
                 "image": "https://uploads.mangadex.org/covers/4088c3cc-6be2-4fb6-80b5-8d8606f00196/d089fe44-4886-4a8f-aa63-42ee72020df7.jpg",
                 "malId": 110232,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shinka-no-mi": {
+                "id": 63838,
                 "identifier": "shinka-no-mi",
                 "image": "https://temp.compsci88.com/cover/Shinka-No-Mi.jpg",
                 "malId": 110232,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bl978846": {
+                "id": 74864,
                 "identifier": "manga-bl978846",
                 "image": "https://avt.mkklcdnv6temp.com/19/f/16-1583494164.jpg",
                 "malId": 110232,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "shinka_no_mi": {
+                "id": 75303,
                 "identifier": "shinka_no_mi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27745/cover.jpg",
                 "malId": 110232,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/shinka_no_mi/"
             }
         },
-        "MangaFire": {
-            "shinka-no-mi.n3w68": {
-                "identifier": "shinka-no-mi.n3w68",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f873e7987193216ce6d66b505f3fb8f.jpg",
-                "malId": 110232,
-                "aniId": 102150,
-                "page": "MangaFire",
-                "title": "Shinka no Mi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinka-no-mi.n3w68/"
-            },
-            "shinka-no-mii.n3w68": {
-                "identifier": "shinka-no-mii.n3w68",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f873e7987193216ce6d66b505f3fb8f.jpg",
-                "malId": 110232,
-                "aniId": 102150,
-                "page": "MangaFire",
-                "title": "Shinka no Mi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinka-no-mii.n3w68/"
-            },
-            "n3w68": {
-                "identifier": "n3w68",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f873e7987193216ce6d66b505f3fb8f.jpg",
-                "malId": 110232,
-                "aniId": 102150,
-                "page": "MangaFire",
-                "title": "Shinka no Mi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinka-no-mii.n3w68/"
-            }
-        },
         "Weebcentral": {
             "01j76xycppn1jsm0n07md2y5m4": {
+                "id": 209207,
                 "identifier": "01j76xycppn1jsm0n07md2y5m4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCPPN1JSM0N07MD2Y5M4.jpg",
                 "malId": 110232,
@@ -96,6 +69,19 @@
                 "title": "Shinka no Mi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCPPN1JSM0N07MD2Y5M4"
+            }
+        },
+        "MangaFire": {
+            "n3w68": {
+                "id": 227827,
+                "identifier": "n3w68",
+                "image": "https://static.mangafire.to/043a/i/8/8f/8f873e7987193216ce6d66b505f3fb8f.jpg",
+                "malId": 110232,
+                "aniId": 102150,
+                "page": "MangaFire",
+                "title": "Shinka no Mi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinka-no-mii.n3w68"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "163306e6-1700-42a4-882f-26db124cbec2": {
+                "id": 63808,
                 "identifier": "163306e6-1700-42a4-882f-26db124cbec2",
                 "image": "https://uploads.mangadex.org/covers/163306e6-1700-42a4-882f-26db124cbec2/649d7c41-83fc-49ca-b271-abb21b882042.jpg",
                 "malId": 147290,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hero-killer": {
+                "id": 77305,
                 "identifier": "hero-killer",
                 "image": "https://temp.compsci88.com/cover/Hero-Killer.jpg",
                 "malId": 147290,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hero_killer_beolkkul": {
+                "id": 96274,
                 "identifier": "hero_killer_beolkkul",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39460/cover.jpg",
                 "malId": 147290,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/hero_killer_beolkkul/"
             }
         },
-        "MangaFire": {
-            "hero-killer.rllvp": {
-                "identifier": "hero-killer.rllvp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12d083945970cddffd5c47bfe75589b2.jpg",
-                "malId": 147290,
-                "aniId": 132093,
-                "page": "MangaFire",
-                "title": "Hero Killer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hero-killer.rllvp/"
-            },
-            "hero-killerr.rllvp": {
-                "identifier": "hero-killerr.rllvp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12d083945970cddffd5c47bfe75589b2.jpg",
-                "malId": 147290,
-                "aniId": 132093,
-                "page": "MangaFire",
-                "title": "Hero Killer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hero-killerr.rllvp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeswps3aesednns3vbe5": {
+                "id": 214243,
                 "identifier": "01j76xyeswps3aesednns3vbe5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYESWPS3AESEDNNS3VBE5.jpg",
                 "malId": 147290,
@@ -74,6 +56,19 @@
                 "title": "Hero Killer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYESWPS3AESEDNNS3VBE5"
+            }
+        },
+        "MangaFire": {
+            "rllvp": {
+                "id": 224917,
+                "identifier": "rllvp",
+                "image": "https://static.mangafire.to/2d58/i/1/12/12d083945970cddffd5c47bfe75589b2.jpg",
+                "malId": 147290,
+                "aniId": 132093,
+                "page": "MangaFire",
+                "title": "Hero Killer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hero-killerr.rllvp"
             }
         },
         "Comick": {

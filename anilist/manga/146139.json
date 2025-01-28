@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "220282a9-a2ff-4a6b-9bed-f4a9da24c661": {
+                "id": 96596,
                 "identifier": "220282a9-a2ff-4a6b-9bed-f4a9da24c661",
                 "image": "https://uploads.mangadex.org/covers/220282a9-a2ff-4a6b-9bed-f4a9da24c661/f1200311-3b79-436e-8edf-4f3a9465e2e5.jpg",
                 "malId": 147712,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nl991146": {
+                "id": 106961,
                 "identifier": "manga-nl991146",
                 "image": "https://avt.mkklcdnv6temp.com/3/c/26-1654856033.jpg",
                 "malId": 147712,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-nl991146"
             }
         },
-        "MangaFire": {
-            "maybe-meant-to-be.jvvnn": {
-                "identifier": "maybe-meant-to-be.jvvnn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0a7e277bd5f4833632876735317224b.jpg",
-                "malId": 147712,
-                "aniId": 146139,
-                "page": "MangaFire",
-                "title": "Maybe Meant to Be",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maybe-meant-to-be.jvvnn/"
-            },
-            "maybe-meant-to-bee.jvvnn": {
-                "identifier": "maybe-meant-to-bee.jvvnn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0a7e277bd5f4833632876735317224b.jpg",
-                "malId": 147712,
-                "aniId": 146139,
-                "page": "MangaFire",
-                "title": "Maybe Meant to Be",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maybe-meant-to-bee.jvvnn/"
-            }
-        },
         "MangaSee": {
             "maybe-meant-to-be": {
+                "id": 167909,
                 "identifier": "maybe-meant-to-be",
                 "image": "https://temp.compsci88.com/cover/Maybe-Meant-to-Be.jpg",
                 "malId": 147712,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygen5q7njm3ejknh4tam": {
+                "id": 213634,
                 "identifier": "01j76xygen5q7njm3ejknh4tam",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGEN5Q7NJM3EJKNH4TAM.jpg",
                 "malId": 147712,
@@ -74,6 +56,19 @@
                 "title": "Maybe Meant to Be",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGEN5Q7NJM3EJKNH4TAM"
+            }
+        },
+        "MangaFire": {
+            "jvvnn": {
+                "id": 226764,
+                "identifier": "jvvnn",
+                "image": "https://static.mangafire.to/f533/i/b/b0/b0a7e277bd5f4833632876735317224b.jpg",
+                "malId": 147712,
+                "aniId": 146139,
+                "page": "MangaFire",
+                "title": "Maybe Meant to Be",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maybe-meant-to-bee.jvvnn"
             }
         },
         "Comick": {

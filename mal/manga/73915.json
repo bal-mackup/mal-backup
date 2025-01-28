@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "064e82f1-633b-46d0-adcd-90a023052f4e": {
+                "id": 10900,
                 "identifier": "064e82f1-633b-46d0-adcd-90a023052f4e",
                 "image": "https://uploads.mangadex.org/covers/064e82f1-633b-46d0-adcd-90a023052f4e/1b4c3083-d841-4fef-b22b-cb4e803c8eb8.jpg",
                 "malId": 73915,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "levius": {
+                "id": 60068,
                 "identifier": "levius",
                 "image": "https://temp.compsci88.com/cover/Levius.jpg",
                 "malId": 73915,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "levius": {
+                "id": 76075,
                 "identifier": "levius",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13918/cover.jpg",
                 "malId": 73915,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ls962975": {
+                "id": 83358,
                 "identifier": "manga-ls962975",
                 "image": "https://avt.mkklcdnv6temp.com/34/s/8-1583479492.jpg",
                 "malId": 73915,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ls962975"
             }
         },
-        "MangaFire": {
-            "levius.n19m": {
-                "identifier": "levius.n19m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51cbbc951a553e13689045b81e9d59cd.jpg",
-                "malId": 73915,
-                "aniId": 86761,
-                "page": "MangaFire",
-                "title": "Levius",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/levius.n19m/"
-            },
-            "leviuss.n19m": {
-                "identifier": "leviuss.n19m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51cbbc951a553e13689045b81e9d59cd.jpg",
-                "malId": 73915,
-                "aniId": 86761,
-                "page": "MangaFire",
-                "title": "Levius",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/leviuss.n19m/"
-            },
-            "n19m": {
-                "identifier": "n19m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51cbbc951a553e13689045b81e9d59cd.jpg",
-                "malId": 73915,
-                "aniId": 86761,
-                "page": "MangaFire",
-                "title": "Levius",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/leviuss.n19m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd0n07mbgtge0wcnnm0t": {
+                "id": 211468,
                 "identifier": "01j76xyd0n07mbgtge0wcnnm0t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD0N07MBGTGE0WCNNM0T.jpg",
                 "malId": 73915,
@@ -96,6 +69,19 @@
                 "title": "Levius",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD0N07MBGTGE0WCNNM0T"
+            }
+        },
+        "MangaFire": {
+            "n19m": {
+                "id": 229743,
+                "identifier": "n19m",
+                "image": "https://static.mangafire.to/8162/i/5/51/51cbbc951a553e13689045b81e9d59cd.jpg",
+                "malId": 73915,
+                "aniId": 86761,
+                "page": "MangaFire",
+                "title": "Levius",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/leviuss.n19m"
             }
         },
         "Comick": {

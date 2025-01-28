@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2cd77181-42f1-434f-91d4-78bc5fbf8eb4": {
+                "id": 17549,
                 "identifier": "2cd77181-42f1-434f-91d4-78bc5fbf8eb4",
                 "image": "https://uploads.mangadex.org/covers/2cd77181-42f1-434f-91d4-78bc5fbf8eb4/b41911e5-7cd4-4e02-b838-6fce37711087.jpg",
                 "malId": 105700,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "futaba-san-ke-no-kyoudai": {
+                "id": 58499,
                 "identifier": "futaba-san-ke-no-kyoudai",
                 "image": "https://temp.compsci88.com/cover/Futaba-san-ke-No-Kyoudai.jpg",
                 "malId": 105700,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yd975938": {
+                "id": 74674,
                 "identifier": "manga-yd975938",
                 "image": "https://avt.mkklcdnv6temp.com/18/w/15-1583492142.jpg",
                 "malId": 105700,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "futaba_san_ke_no_kyoudai": {
+                "id": 92583,
                 "identifier": "futaba_san_ke_no_kyoudai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24953/cover.jpg",
                 "malId": 105700,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/futaba_san_ke_no_kyoudai/"
             }
         },
-        "MangaFire": {
-            "futaba-san-chi-no-kyoudai.xr1lq": {
-                "identifier": "futaba-san-chi-no-kyoudai.xr1lq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5a6d2f98cecaf989c83c79e496d2946.jpg",
-                "malId": 105700,
-                "aniId": 98692,
-                "page": "MangaFire",
-                "title": "Futaba-san Chi no Kyoudai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futaba-san-chi-no-kyoudai.xr1lq/"
-            },
-            "futaba-san-chi-no-kyoudaii.xr1lq": {
-                "identifier": "futaba-san-chi-no-kyoudaii.xr1lq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5a6d2f98cecaf989c83c79e496d2946.jpg",
-                "malId": 105700,
-                "aniId": 98692,
-                "page": "MangaFire",
-                "title": "Futaba-san Chi no Kyoudai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futaba-san-chi-no-kyoudaii.xr1lq/"
-            },
-            "xr1lq": {
-                "identifier": "xr1lq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5a6d2f98cecaf989c83c79e496d2946.jpg",
-                "malId": 105700,
-                "aniId": 98692,
-                "page": "MangaFire",
-                "title": "Futaba-san Chi no Kyoudai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futaba-san-chi-no-kyoudaii.xr1lq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc55gphdvssvw9dnacsf": {
+                "id": 210464,
                 "identifier": "01j76xyc55gphdvssvw9dnacsf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC55GPHDVSSVW9DNACSF.jpg",
                 "malId": 105700,
@@ -96,6 +69,19 @@
                 "title": "Futaba-san-ke no Kyoudai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC55GPHDVSSVW9DNACSF"
+            }
+        },
+        "MangaFire": {
+            "xr1lq": {
+                "id": 224509,
+                "identifier": "xr1lq",
+                "image": "https://static.mangafire.to/2054/i/f/f5/f5a6d2f98cecaf989c83c79e496d2946.jpg",
+                "malId": 105700,
+                "aniId": 98692,
+                "page": "MangaFire",
+                "title": "Futaba-san Chi no Kyoudai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futaba-san-chi-no-kyoudaii.xr1lq"
             }
         },
         "Comick": {

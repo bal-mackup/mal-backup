@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "254d23d0-35c2-44bc-995d-c253736a2460": {
+                "id": 23061,
                 "identifier": "254d23d0-35c2-44bc-995d-c253736a2460",
                 "image": "https://uploads.mangadex.org/covers/254d23d0-35c2-44bc-995d-c253736a2460/5fcfb846-cc7a-41ab-918e-ac93b0e6a38d.jpg",
                 "malId": 101783,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/254d23d0-35c2-44bc-995d-c253736a2460"
             }
         },
-        "MangaFire": {
-            "nadeshiko-doremisora.pr51j": {
-                "identifier": "nadeshiko-doremisora.pr51j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/388145207df007a47c42725ea26b7369.jpg",
-                "malId": 101783,
-                "aniId": 103059,
-                "page": "MangaFire",
-                "title": "Nadeshiko Doremisora",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nadeshiko-doremisora.pr51j/"
-            }
-        },
         "MangaNato": {
             "manga-ca979357": {
+                "id": 197251,
                 "identifier": "manga-ca979357",
-                "image": "https://avt.mkklcdnv6temp.com/38/k/16-1583494846.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/85/v/8-1732791723-nw.webp",
                 "malId": 101783,
                 "aniId": 103059,
                 "page": "MangaNato",
                 "title": "Nadeshiko Doremisora",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ca979357"
+            }
+        },
+        "MangaFire": {
+            "pr51j": {
+                "id": 255262,
+                "identifier": "pr51j",
+                "image": "https://static.mangafire.to/ed5f/i/3/38/388145207df007a47c42725ea26b7369.jpg",
+                "malId": 101783,
+                "aniId": 103059,
+                "page": "MangaFire",
+                "title": "Nadeshiko Doremisora",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nadeshiko-doremisoraa.pr51j"
             }
         },
         "Comick": {

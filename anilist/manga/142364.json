@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-me990039": {
+                "id": 91031,
                 "identifier": "manga-me990039",
                 "image": "https://avt.mkklcdnv6temp.com/7/g/25-1637301905.jpg",
                 "malId": 148122,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "4dcb7c0d-96f0-4f45-86d9-eb08cb03afa6": {
+                "id": 107311,
                 "identifier": "4dcb7c0d-96f0-4f45-86d9-eb08cb03afa6",
                 "image": "https://uploads.mangadex.org/covers/4dcb7c0d-96f0-4f45-86d9-eb08cb03afa6/bf5376ad-dbe3-493d-b5dc-1d3feb359d7e.jpg",
                 "malId": 148122,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/4dcb7c0d-96f0-4f45-86d9-eb08cb03afa6"
             }
         },
-        "MangaFire": {
-            "the-devilish-duke-cant-sleep.n39rn": {
-                "identifier": "the-devilish-duke-cant-sleep.n39rn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b589643e8e4f8d3bd42e40478ade6bf1.jpg",
-                "malId": 148122,
-                "aniId": 142364,
-                "page": "MangaFire",
-                "title": "The Duke's Cursed Charm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-devilish-duke-cant-sleep.n39rn/"
-            },
-            "the-devilish-duke-cant-sleepp.n39rn": {
-                "identifier": "the-devilish-duke-cant-sleepp.n39rn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b589643e8e4f8d3bd42e40478ade6bf1.jpg",
-                "malId": 148122,
-                "aniId": 142364,
-                "page": "MangaFire",
-                "title": "The Duke's Cursed Charm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-devilish-duke-cant-sleepp.n39rn/"
-            }
-        },
         "MangaSee": {
             "the-dukes-cursed-charm": {
+                "id": 193244,
                 "identifier": "the-dukes-cursed-charm",
                 "image": "https://temp.compsci88.com/cover/The-Dukes-Cursed-Charm.jpg",
                 "malId": 148122,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhd9a9tqdrmyej0axbrd": {
+                "id": 213334,
                 "identifier": "01j76xyhd9a9tqdrmyej0axbrd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHD9A9TQDRMYEJ0AXBRD.jpg",
                 "malId": 148122,
@@ -74,6 +56,19 @@
                 "title": "The Duke's Cursed Charm",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHD9A9TQDRMYEJ0AXBRD"
+            }
+        },
+        "MangaFire": {
+            "n39rn": {
+                "id": 227861,
+                "identifier": "n39rn",
+                "image": "https://static.mangafire.to/2321/i/b/b5/b589643e8e4f8d3bd42e40478ade6bf1.jpg",
+                "malId": 148122,
+                "aniId": 142364,
+                "page": "MangaFire",
+                "title": "The Duke's Cursed Charm",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-devilish-duke-cant-sleepp.n39rn"
             }
         },
         "Comick": {

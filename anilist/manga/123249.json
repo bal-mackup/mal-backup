@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/3/246114.jpg",
     "Sites": {
-        "MangaFire": {
-            "penguin-shinshi.oo5xz": {
-                "identifier": "penguin-shinshi.oo5xz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c0dcde4cdaf1d3717a1ff6c807ee503.jpg",
-                "malId": 134925,
-                "aniId": 123249,
-                "page": "MangaFire",
-                "title": "Penguin Shinshi.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/penguin-shinshi.oo5xz/"
-            }
-        },
         "MangaNato": {
             "manga-xf1000588": {
+                "id": 183018,
                 "identifier": "manga-xf1000588",
                 "image": "https://avt.mkklcdnv6temp.com/fld/74/w/16-1733318665-nw.webp",
                 "malId": 134925,
@@ -28,6 +17,19 @@
                 "title": "Penguin Shinshi.",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xf1000588"
+            }
+        },
+        "MangaFire": {
+            "oo5xz": {
+                "id": 240901,
+                "identifier": "oo5xz",
+                "image": "https://static.mangafire.to/d7a0/i/1/1c/1c0dcde4cdaf1d3717a1ff6c807ee503.jpg",
+                "malId": 134925,
+                "aniId": 123249,
+                "page": "MangaFire",
+                "title": "Penguin Shinshi.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/penguin-shinshii.oo5xz"
             }
         }
     },

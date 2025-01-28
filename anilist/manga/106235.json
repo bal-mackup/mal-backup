@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8b12f337-66f9-4bf0-b017-5abcf4425a6d": {
+                "id": 23384,
                 "identifier": "8b12f337-66f9-4bf0-b017-5abcf4425a6d",
                 "image": "https://uploads.mangadex.org/covers/8b12f337-66f9-4bf0-b017-5abcf4425a6d/8ebd559b-0a63-4f5a-885e-79620d6fa6d6.jpg",
                 "malId": 102459,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pansuto": {
+                "id": 55088,
                 "identifier": "pansuto",
                 "image": "https://temp.compsci88.com/cover/Pansuto.jpg",
                 "malId": 102459,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "pansuto": {
+                "id": 58808,
                 "identifier": "pansuto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29004/cover.jpg",
                 "malId": 102459,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-eh982042": {
+                "id": 74626,
                 "identifier": "manga-eh982042",
                 "image": "https://avt.mkklcdnv6temp.com/37/a/18-1583498530.jpg",
                 "malId": 102459,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-eh982042"
             }
         },
-        "MangaFire": {
-            "pansuto.4qo1j": {
-                "identifier": "pansuto.4qo1j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9ed17613fd64c6aa126a2864b5c5d23f.jpg",
-                "malId": 102459,
-                "aniId": 106235,
-                "page": "MangaFire",
-                "title": "Pandora x Strip",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pansuto.4qo1j/"
-            },
-            "pansutoo.4qo1j": {
-                "identifier": "pansutoo.4qo1j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9ed17613fd64c6aa126a2864b5c5d23f.jpg",
-                "malId": 102459,
-                "aniId": 106235,
-                "page": "MangaFire",
-                "title": "Pandora x Strip",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pansutoo.4qo1j/"
-            },
-            "4qo1j": {
-                "identifier": "4qo1j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9ed17613fd64c6aa126a2864b5c5d23f.jpg",
-                "malId": 102459,
-                "aniId": 106235,
-                "page": "MangaFire",
-                "title": "Pandora x Strip",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pansuto.4qo1j/"
-            }
-        },
         "Weebcentral": {
             "01j76xydg07gefhs0xytmsvsw4": {
+                "id": 207738,
                 "identifier": "01j76xydg07gefhs0xytmsvsw4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDG07GEFHS0XYTMSVSW4.jpg",
                 "malId": 102459,
@@ -96,6 +69,19 @@
                 "title": "Pansuto",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDG07GEFHS0XYTMSVSW4"
+            }
+        },
+        "MangaFire": {
+            "4qo1j": {
+                "id": 253838,
+                "identifier": "4qo1j",
+                "image": "https://static.mangafire.to/857b/i/9/9e/9ed17613fd64c6aa126a2864b5c5d23f.jpg",
+                "malId": 102459,
+                "aniId": 106235,
+                "page": "MangaFire",
+                "title": "Pandora x Strip",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pansutoo.4qo1j"
             }
         },
         "Comick": {

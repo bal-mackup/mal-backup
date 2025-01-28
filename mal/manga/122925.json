@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "20a93e77-248a-46ec-8237-c54cfdc2a72e": {
+                "id": 35414,
                 "identifier": "20a93e77-248a-46ec-8237-c54cfdc2a72e",
                 "image": "https://uploads.mangadex.org/covers/20a93e77-248a-46ec-8237-c54cfdc2a72e/a07d952d-463d-405f-850d-20a63430c2ad.jpg",
                 "malId": 122925,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "oukoku-e-tsuzuku-michi": {
+                "id": 55631,
                 "identifier": "oukoku-e-tsuzuku-michi",
                 "image": "https://temp.compsci88.com/cover/Oukoku-e-Tsuzuku-Michi.jpg",
                 "malId": 122925,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-it985502": {
+                "id": 73712,
                 "identifier": "manga-it985502",
                 "image": "https://avt.mkklcdnv6temp.com/18/q/21-1590421352.jpg",
                 "malId": 122925,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-it985502"
             }
         },
-        "MangaFire": {
-            "road-to-kingdom.yq3wj": {
-                "identifier": "road-to-kingdom.yq3wj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96878290e80e1bddf7264998ce9d2cd4.jpg",
-                "malId": 122925,
-                "aniId": 119708,
-                "page": "MangaFire",
-                "title": "Road to Kingdom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/road-to-kingdom.yq3wj/"
-            },
-            "road-to-kingdomm.yq3wj": {
-                "identifier": "road-to-kingdomm.yq3wj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96878290e80e1bddf7264998ce9d2cd4.jpg",
-                "malId": 122925,
-                "aniId": 119708,
-                "page": "MangaFire",
-                "title": "Road to Kingdom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/road-to-kingdomm.yq3wj/"
-            }
-        },
         "MangaFox": {
             "oukoku_e_tsuzuku_michi": {
+                "id": 184629,
                 "identifier": "oukoku_e_tsuzuku_michi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33933/cover.jpg",
                 "malId": 122925,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xydj9mqx5ks56eykxrex9": {
+                "id": 208727,
                 "identifier": "01j76xydj9mqx5ks56eykxrex9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJ9MQX5KS56EYKXREX9.jpg",
                 "malId": 122925,
@@ -86,6 +69,19 @@
                 "title": "Oukoku e Tsuzuku Michi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJ9MQX5KS56EYKXREX9"
+            }
+        },
+        "MangaFire": {
+            "yq3wj": {
+                "id": 225451,
+                "identifier": "yq3wj",
+                "image": "https://static.mangafire.to/42da/i/9/96/96878290e80e1bddf7264998ce9d2cd4.jpg",
+                "malId": 122925,
+                "aniId": 119708,
+                "page": "MangaFire",
+                "title": "Road to Kingdom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/road-to-kingdomm.yq3wj"
             }
         },
         "Comick": {

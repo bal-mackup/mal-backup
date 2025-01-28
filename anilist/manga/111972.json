@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "db4b3889-fc4e-48b5-b261-e1474852bdbb": {
+                "id": 33181,
                 "identifier": "db4b3889-fc4e-48b5-b261-e1474852bdbb",
                 "image": "https://uploads.mangadex.org/covers/db4b3889-fc4e-48b5-b261-e1474852bdbb/3d2a46cc-435c-4d6f-9bc3-fba7ebd08c37.jpg",
                 "malId": 121505,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ghost-in-the-shell-the-human-algorithm": {
+                "id": 80624,
                 "identifier": "ghost-in-the-shell-the-human-algorithm",
                 "image": "https://temp.compsci88.com/cover/Ghost-in-the-Shell-The-Human-Algorithm.jpg",
                 "malId": 121505,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Ghost-in-the-Shell-The-Human-Algorithm"
             }
         },
-        "MangaFire": {
-            "ghost-in-the-shell-the-human-algorithm.5ko7m": {
-                "identifier": "ghost-in-the-shell-the-human-algorithm.5ko7m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/1141ca73e820f366560c7ccad88af8a3.jpg",
-                "malId": 121505,
-                "aniId": 111972,
-                "page": "MangaFire",
-                "title": "The Ghost in the Shell: The Human Algorithm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ghost-in-the-shell-the-human-algorithm.5ko7m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyevt2tap3rh10we5jfhq": {
+                "id": 213981,
                 "identifier": "01j76xyevt2tap3rh10we5jfhq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEVT2TAP3RH10WE5JFHQ.jpg",
                 "malId": 121505,
@@ -52,6 +43,19 @@
                 "title": "Ghost in the Shell - The Human Algorithm",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEVT2TAP3RH10WE5JFHQ"
+            }
+        },
+        "MangaFire": {
+            "5ko7m": {
+                "id": 247860,
+                "identifier": "5ko7m",
+                "image": "https://static.mangafire.to/f693/i/1/11/1141ca73e820f366560c7ccad88af8a3.jpg",
+                "malId": 121505,
+                "aniId": 111972,
+                "page": "MangaFire",
+                "title": "The Ghost in the Shell: The Human Algorithm",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ghost-in-the-shell-the-human-algorithmm.5ko7m"
             }
         },
         "Comick": {

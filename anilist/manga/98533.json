@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a9927dc3-b703-4ca0-8941-5f7ccbe61886": {
+                "id": 17565,
                 "identifier": "a9927dc3-b703-4ca0-8941-5f7ccbe61886",
                 "image": "https://uploads.mangadex.org/covers/a9927dc3-b703-4ca0-8941-5f7ccbe61886/41a1de59-60be-4bb7-a6c1-3548a7cbe616.png",
                 "malId": 105658,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-yg975615": {
+                "id": 78234,
                 "identifier": "manga-yg975615",
                 "image": "https://avt.mkklcdnv6temp.com/13/q/15-1583491953.jpg",
                 "malId": 105658,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "now-loading": {
+                "id": 79910,
                 "identifier": "now-loading",
                 "image": "https://temp.compsci88.com/cover/Now-Loading.jpg",
                 "malId": 105658,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "now_loading": {
+                "id": 81467,
                 "identifier": "now_loading",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24683/cover.jpg",
                 "malId": 105658,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/now_loading/"
             }
         },
-        "MangaFire": {
-            "now-loading.n36yj": {
-                "identifier": "now-loading.n36yj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/1714dcef192e8a3b520ae811edc1deeb.jpg",
-                "malId": 105658,
-                "aniId": 98533,
-                "page": "MangaFire",
-                "title": "Now Loading...!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/now-loading.n36yj/"
-            },
-            "now-loadingg.n36yj": {
-                "identifier": "now-loadingg.n36yj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/1714dcef192e8a3b520ae811edc1deeb.jpg",
-                "malId": 105658,
-                "aniId": 98533,
-                "page": "MangaFire",
-                "title": "Now Loading...!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/now-loadingg.n36yj/"
-            },
-            "n36yj": {
-                "identifier": "n36yj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/1714dcef192e8a3b520ae811edc1deeb.jpg",
-                "malId": 105658,
-                "aniId": 98533,
-                "page": "MangaFire",
-                "title": "Now Loading...!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/now-loadingg.n36yj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyetw607a16xq2958mak7": {
+                "id": 207381,
                 "identifier": "01j76xyetw607a16xq2958mak7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYETW607A16XQ2958MAK7.jpg",
                 "malId": 105658,
@@ -96,6 +69,19 @@
                 "title": "Now Loading!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYETW607A16XQ2958MAK7"
+            }
+        },
+        "MangaFire": {
+            "n36yj": {
+                "id": 227996,
+                "identifier": "n36yj",
+                "image": "https://static.mangafire.to/a315/i/1/17/1714dcef192e8a3b520ae811edc1deeb.jpg",
+                "malId": 105658,
+                "aniId": 98533,
+                "page": "MangaFire",
+                "title": "Now Loading...!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/now-loadingg.n36yj"
             }
         },
         "Comick": {

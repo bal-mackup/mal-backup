@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b04825ff-bd51-4ca8-ad03-1f0acf1dd481": {
+                "id": 37448,
                 "identifier": "b04825ff-bd51-4ca8-ad03-1f0acf1dd481",
                 "image": "https://uploads.mangadex.org/covers/b04825ff-bd51-4ca8-ad03-1f0acf1dd481/e5300872-3edc-4ac4-bd81-0e96a91372e2.jpg",
                 "malId": 128601,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ip985998": {
+                "id": 100966,
                 "identifier": "manga-ip985998",
                 "image": "https://avt.mkklcdnv6temp.com/fld/25/j/11-1732805376-nw.webp",
                 "malId": 128601,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ip985998"
             }
         },
-        "MangaFire": {
-            "bokura-no-tsuzuki.w1x6l": {
-                "identifier": "bokura-no-tsuzuki.w1x6l",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6baaa9efacb0c537a05ea5255a5f0d6.jpg",
-                "malId": 128601,
-                "aniId": 121364,
-                "page": "MangaFire",
-                "title": "Our Continuation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokura-no-tsuzuki.w1x6l/"
-            }
-        },
         "MangaFox": {
             "bokurano_tsuzuki": {
+                "id": 172538,
                 "identifier": "bokurano_tsuzuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34910/cover.jpg",
                 "malId": 128601,
@@ -52,6 +43,19 @@
                 "title": "Bokurano Tsuzuki",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/bokurano_tsuzuki/"
+            }
+        },
+        "MangaFire": {
+            "w1x6l": {
+                "id": 250683,
+                "identifier": "w1x6l",
+                "image": "https://static.mangafire.to/3b63/i/f/f6/f6baaa9efacb0c537a05ea5255a5f0d6.jpg",
+                "malId": 128601,
+                "aniId": 121364,
+                "page": "MangaFire",
+                "title": "Our Continuation",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokura-no-tsuzukii.w1x6l"
             }
         },
         "Comick": {

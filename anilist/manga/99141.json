@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "cf16ea31-d883-4458-8eef-72c9651373b7": {
+                "id": 17299,
                 "identifier": "cf16ea31-d883-4458-8eef-72c9651373b7",
                 "image": "https://uploads.mangadex.org/covers/cf16ea31-d883-4458-8eef-72c9651373b7/5b01f9f1-24d8-4cd5-b225-f4986a00aadc.jpg",
                 "malId": 104897,
                 "aniId": 99141,
                 "page": "Mangadex",
-                "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Lyu",
+                "title": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka: Familia Chronicle—Episode Ryuu",
                 "type": "manga",
                 "url": "https://mangadex.org/title/cf16ea31-d883-4458-8eef-72c9651373b7"
             }
         },
         "MangaSee": {
             "dungeon-ni-deai-episode-ryu": {
+                "id": 59481,
                 "identifier": "dungeon-ni-deai-episode-ryu",
                 "image": "https://temp.compsci88.com/cover/Dungeon-Ni-Deai-Episode-Ryu.jpg",
                 "malId": 104897,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dungeon_ni_deai_o_motomeru_no_wa_machigatte_iru_darou_ka_familia_chronicle_episode_ryu": {
+                "id": 66295,
                 "identifier": "dungeon_ni_deai_o_motomeru_no_wa_machigatte_iru_darou_ka_familia_chronicle_episode_ryu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24481/cover.jpg",
                 "malId": 104897,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yp975424": {
+                "id": 84971,
                 "identifier": "manga-yp975424",
                 "image": "https://avt.mkklcdnv6temp.com/9/v/15-1583491815.jpg",
                 "malId": 104897,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yp975424"
             }
         },
-        "MangaFire": {
-            "dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuu.kkzp9": {
-                "identifier": "dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuu.kkzp9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/666e9f901857e3453c9c168464d79685.jpg",
-                "malId": 104897,
-                "aniId": 99141,
-                "page": "MangaFire",
-                "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Lyu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuu.kkzp9/"
-            },
-            "dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuuu.kkzp9": {
-                "identifier": "dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuuu.kkzp9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/666e9f901857e3453c9c168464d79685.jpg",
-                "malId": 104897,
-                "aniId": 99141,
-                "page": "MangaFire",
-                "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Lyu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuuu.kkzp9/"
-            },
-            "kkzp9": {
-                "identifier": "kkzp9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/666e9f901857e3453c9c168464d79685.jpg",
-                "malId": 104897,
-                "aniId": 99141,
-                "page": "MangaFire",
-                "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Lyu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuuu.kkzp9/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfy14rgdwnz7vvs88dg": {
+                "id": 209044,
                 "identifier": "01j76xycfy14rgdwnz7vvs88dg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFY14RGDWNZ7VVS88DG.jpg",
                 "malId": 104897,
@@ -96,6 +69,19 @@
                 "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? - Familia Chronicle Episode Lyu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFY14RGDWNZ7VVS88DG"
+            }
+        },
+        "MangaFire": {
+            "kkzp9": {
+                "id": 224587,
+                "identifier": "kkzp9",
+                "image": "https://static.mangafire.to/843b/i/6/66/666e9f901857e3453c9c168464d79685.jpg",
+                "malId": 104897,
+                "aniId": 99141,
+                "page": "MangaFire",
+                "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Lyu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-familia-chronicle-episode-ryuuu.kkzp9"
             }
         },
         "Comick": {

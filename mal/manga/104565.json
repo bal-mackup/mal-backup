@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "59b36734-f2d6-46d7-97c0-06cfd2380852": {
+                "id": 18533,
                 "identifier": "59b36734-f2d6-46d7-97c0-06cfd2380852",
                 "image": "https://uploads.mangadex.org/covers/59b36734-f2d6-46d7-97c0-06cfd2380852/3676571a-9d2b-48e6-8639-d4591725759a.jpg",
                 "malId": 104565,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/59b36734-f2d6-46d7-97c0-06cfd2380852"
             },
             "aa0bf81b-6cc6-4656-9b3f-231284e10a46": {
+                "id": 158173,
                 "identifier": "aa0bf81b-6cc6-4656-9b3f-231284e10a46",
                 "image": "https://uploads.mangadex.org/covers/aa0bf81b-6cc6-4656-9b3f-231284e10a46/fd8da2ee-221e-4957-a5f7-34608652b8b4.jpg",
                 "malId": 104565,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "tokyo_revengers": {
+                "id": 54586,
                 "identifier": "tokyo_revengers",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27073/cover.jpg",
                 "malId": 104565,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/tokyo_revengers/"
             },
             "tokyo_manji_revengers": {
+                "id": 54590,
                 "identifier": "tokyo_manji_revengers",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26661/cover.jpg",
                 "malId": 104565,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "tokyo-revengers": {
+                "id": 55333,
                 "identifier": "tokyo-revengers",
                 "image": "https://temp.compsci88.com/cover/Tokyo-Revengers.jpg",
                 "malId": 104565,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-ax977806": {
+                "id": 72889,
                 "identifier": "manga-ax977806",
                 "image": "https://avt.mkklcdnv6temp.com/50/o/15-1583493481.jpg",
                 "malId": 104565,
@@ -74,8 +80,9 @@
                 "url": "https://chapmanganato.com/manga-ax977806"
             },
             "manga-ui998017": {
+                "id": 191955,
                 "identifier": "manga-ui998017",
-                "image": "https://avt.mkklcdnv6temp.com/29/s/31-1694749743.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/76/r/15-1733311356-nw.webp",
                 "malId": 104565,
                 "aniId": 102988,
                 "page": "MangaNato",
@@ -84,30 +91,9 @@
                 "url": "https://chapmanganato.to/manga-ui998017"
             }
         },
-        "MangaFire": {
-            "tokyo-revengers-brilliant-full-color-edition.0qy29": {
-                "identifier": "tokyo-revengers-brilliant-full-color-edition.0qy29",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/537361b25ee8e46466d3c59561db981e.jpg",
-                "malId": 104565,
-                "aniId": 102988,
-                "page": "MangaFire",
-                "title": "Tokyo Revengers: Brilliant Full Color Edition",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-revengers-brilliant-full-color-edition.0qy29/"
-            },
-            "tokyorevengerss.pmlx": {
-                "identifier": "tokyorevengerss.pmlx",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d2412e6b55806c38b9a4bfa80fed64be.jpg",
-                "malId": 104565,
-                "aniId": 102988,
-                "page": "MangaFire",
-                "title": "Tokyo Revengers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyorevengerss.pmlx/"
-            }
-        },
         "Weebcentral": {
             "01j76xycmyqq0qb96jjwxpsbk7": {
+                "id": 207363,
                 "identifier": "01j76xycmyqq0qb96jjwxpsbk7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCMYQQ0QB96JJWXPSBK7.jpg",
                 "malId": 104565,
@@ -116,6 +102,30 @@
                 "title": "Tokyo Revengers",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCMYQQ0QB96JJWXPSBK7"
+            }
+        },
+        "MangaFire": {
+            "pmlx": {
+                "id": 228214,
+                "identifier": "pmlx",
+                "image": "https://static.mangafire.to/3b4f/i/d/d2/d2412e6b55806c38b9a4bfa80fed64be.jpg",
+                "malId": 104565,
+                "aniId": 102988,
+                "page": "MangaFire",
+                "title": "Tokyo Revengers",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyorevengerss.pmlx"
+            },
+            "0qy29": {
+                "id": 242248,
+                "identifier": "0qy29",
+                "image": "https://static.mangafire.to/a604/i/5/53/537361b25ee8e46466d3c59561db981e.jpg",
+                "malId": 104565,
+                "aniId": 102988,
+                "page": "MangaFire",
+                "title": "Tokyo Revengers: Brilliant Full Color Edition",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-revengers-brilliant-full-color-editionn.0qy29"
             }
         },
         "Comick": {

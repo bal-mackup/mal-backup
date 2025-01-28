@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6834368f-66b8-4fac-a03a-09ecb625f256": {
+                "id": 33188,
                 "identifier": "6834368f-66b8-4fac-a03a-09ecb625f256",
                 "image": "https://uploads.mangadex.org/covers/6834368f-66b8-4fac-a03a-09ecb625f256/b651efbf-7a0b-4d40-b4bf-41dd70ffd814.jpg",
                 "malId": 147841,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "solo-login": {
+                "id": 65902,
                 "identifier": "solo-login",
                 "image": "https://temp.compsci88.com/cover/Solo-Login.jpg",
                 "malId": 147841,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hz984934": {
+                "id": 74076,
                 "identifier": "manga-hz984934",
                 "image": "https://avt.mkklcdnv6temp.com/45/a/20-1584331463.jpg",
                 "malId": 147841,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-hz984934"
             },
             "manga-hs984553": {
+                "id": 77003,
                 "identifier": "manga-hs984553",
                 "image": "https://avt.mkklcdnv6temp.com/30/m/20-1583502200.jpg",
                 "malId": 147841,
@@ -52,30 +56,9 @@
                 "url": "https://chapmanganato.com/manga-hs984553"
             }
         },
-        "MangaFire": {
-            "i-log-in-alone.jvyl8": {
-                "identifier": "i-log-in-alone.jvyl8",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/44cb79881c4dfbfb07178dd056ea09ba.jpg",
-                "malId": 147841,
-                "aniId": 116675,
-                "page": "MangaFire",
-                "title": "I Log In Alone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-log-in-alone.jvyl8/"
-            },
-            "i-log-in-alonee.jvyl8": {
-                "identifier": "i-log-in-alonee.jvyl8",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/44cb79881c4dfbfb07178dd056ea09ba.jpg",
-                "malId": 147841,
-                "aniId": 116675,
-                "page": "MangaFire",
-                "title": "I Log In Alone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-log-in-alonee.jvyl8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyegdcr38sa3y17mqa1c7": {
+                "id": 209713,
                 "identifier": "01j76xyegdcr38sa3y17mqa1c7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEGDCR38SA3Y17MQA1C7.jpg",
                 "malId": 147841,
@@ -84,6 +67,19 @@
                 "title": "I Log In Alone",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEGDCR38SA3Y17MQA1C7"
+            }
+        },
+        "MangaFire": {
+            "jvyl8": {
+                "id": 228299,
+                "identifier": "jvyl8",
+                "image": "https://static.mangafire.to/7174/i/4/44/44cb79881c4dfbfb07178dd056ea09ba.jpg",
+                "malId": 147841,
+                "aniId": 116675,
+                "page": "MangaFire",
+                "title": "I Log In Alone",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-log-in-alonee.jvyl8"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "523ac7ed-0b24-4598-b440-814d8bdcf540": {
+                "id": 11210,
                 "identifier": "523ac7ed-0b24-4598-b440-814d8bdcf540",
                 "image": "https://uploads.mangadex.org/covers/523ac7ed-0b24-4598-b440-814d8bdcf540/cb1ee7d7-57ea-4de0-b66f-9e17ffe29054.jpg",
                 "malId": 103169,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "soul-land-2": {
+                "id": 54371,
                 "identifier": "soul-land-2",
                 "image": "https://temp.compsci88.com/cover/Soul-Land-2.jpg",
                 "malId": 103169,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "douluo_dalu_ii_jueshi_tangmen": {
+                "id": 72600,
                 "identifier": "douluo_dalu_ii_jueshi_tangmen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14038/cover.jpg",
                 "malId": 103169,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ii952217": {
+                "id": 75511,
                 "identifier": "manga-ii952217",
                 "image": "https://avt.mkklcdnv6temp.com/31/x/1-1583464949.jpg",
                 "malId": 103169,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ii952217"
             }
         },
-        "MangaFire": {
-            "soul-land-ii-the-peerless-tang-sect.xr85q": {
-                "identifier": "soul-land-ii-the-peerless-tang-sect.xr85q",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c66b76f4aefb9ed194eb5f1a22186cc3.jpg",
-                "malId": 103169,
-                "aniId": 86558,
-                "page": "MangaFire",
-                "title": "Soul Land 2: The Unrivaled Tang Sect",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soul-land-ii-the-peerless-tang-sect.xr85q/"
-            },
-            "soul-land-ii-the-peerless-tang-sectt.xr85q": {
-                "identifier": "soul-land-ii-the-peerless-tang-sectt.xr85q",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c66b76f4aefb9ed194eb5f1a22186cc3.jpg",
-                "malId": 103169,
-                "aniId": 86558,
-                "page": "MangaFire",
-                "title": "Soul Land 2: The Unrivaled Tang Sect",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soul-land-ii-the-peerless-tang-sectt.xr85q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc0n6ywd1gan5hj9xfhq": {
+                "id": 209376,
                 "identifier": "01j76xyc0n6ywd1gan5hj9xfhq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC0N6YWD1GAN5HJ9XFHQ.jpg",
                 "malId": 103169,
@@ -86,6 +69,19 @@
                 "title": "Soul Land II - The Unrivaled Tang Sect",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC0N6YWD1GAN5HJ9XFHQ"
+            }
+        },
+        "MangaFire": {
+            "xr85q": {
+                "id": 227760,
+                "identifier": "xr85q",
+                "image": "https://static.mangafire.to/897c/i/c/c6/c66b76f4aefb9ed194eb5f1a22186cc3.jpg",
+                "malId": 103169,
+                "aniId": 86558,
+                "page": "MangaFire",
+                "title": "Soul Land 2: The Unrivaled Tang Sect",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soul-land-ii-the-peerless-tang-sectt.xr85q"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9b7c6a16-5759-4598-99aa-0ef01f8c2e74": {
+                "id": 66047,
                 "identifier": "9b7c6a16-5759-4598-99aa-0ef01f8c2e74",
                 "image": "https://uploads.mangadex.org/covers/9b7c6a16-5759-4598-99aa-0ef01f8c2e74/c51a4f16-e457-4107-b85a-840a27559fd4.jpg",
                 "malId": 139755,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/9b7c6a16-5759-4598-99aa-0ef01f8c2e74"
             }
         },
-        "MangaFire": {
-            "the-witchs-marriage.52q99": {
-                "identifier": "the-witchs-marriage.52q99",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1e/1e7917a3550a6188402cc00ac79511de.jpg",
-                "malId": 139755,
-                "aniId": 135210,
-                "page": "MangaFire",
-                "title": "The Witches’ Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-witchs-marriage.52q99/"
-            }
-        },
         "MangaNato": {
             "manga-ql994094": {
+                "id": 155072,
                 "identifier": "manga-ql994094",
                 "image": "https://avt.mkklcdnv6temp.com/fld/27/d/14-1733301738-nw.webp",
                 "malId": 139755,
@@ -44,6 +34,7 @@
         },
         "MangaSee": {
             "the-witches-marriage": {
+                "id": 170325,
                 "identifier": "the-witches-marriage",
                 "image": "https://temp.compsci88.com/cover/The-Witches-Marriage.jpg",
                 "malId": 139755,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygh9z6b0vy6pg4rszhg8": {
+                "id": 208896,
                 "identifier": "01j76xygh9z6b0vy6pg4rszhg8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGH9Z6B0VY6PG4RSZHG8.jpg",
                 "malId": 139755,
@@ -64,6 +56,19 @@
                 "title": "The Witches' Marriage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGH9Z6B0VY6PG4RSZHG8"
+            }
+        },
+        "MangaFire": {
+            "52q99": {
+                "id": 234453,
+                "identifier": "52q99",
+                "image": "https://static.mangafire.to/8034/i/1/1e/1e7917a3550a6188402cc00ac79511de.jpg",
+                "malId": 139755,
+                "aniId": 135210,
+                "page": "MangaFire",
+                "title": "The Witches’ Marriage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-witchs-marriagee.52q99"
             }
         },
         "Comick": {

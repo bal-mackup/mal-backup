@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0b332f31-59ac-4bcd-9f6c-372fe0860c04": {
+                "id": 105076,
                 "identifier": "0b332f31-59ac-4bcd-9f6c-372fe0860c04",
                 "image": "https://uploads.mangadex.org/covers/0b332f31-59ac-4bcd-9f6c-372fe0860c04/93290fab-2467-420b-b7a4-9ddedce1524b.jpg",
                 "malId": 147193,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qe993739": {
+                "id": 123433,
                 "identifier": "manga-qe993739",
                 "image": "https://avt.mkklcdnv6temp.com/9/x/28-1675041207.jpg",
                 "malId": 147193,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "alabaster_no_kisetsu": {
+                "id": 123472,
                 "identifier": "alabaster_no_kisetsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43526/cover.jpg",
                 "malId": 147193,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/alabaster_no_kisetsu/"
             }
         },
-        "MangaFire": {
-            "season-of-alabaster.3r4xy": {
-                "identifier": "season-of-alabaster.3r4xy",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/58e98dd328b988f6e4b5156a4794c6c0.jpg",
-                "malId": 147193,
-                "aniId": 149787,
-                "page": "MangaFire",
-                "title": "Season of Alabaster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/season-of-alabaster.3r4xy/"
-            },
-            "season-of-alabasterr.3r4xy": {
-                "identifier": "season-of-alabasterr.3r4xy",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/58e98dd328b988f6e4b5156a4794c6c0.jpg",
-                "malId": 147193,
-                "aniId": 149787,
-                "page": "MangaFire",
-                "title": "Season of Alabaster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/season-of-alabasterr.3r4xy/"
-            }
-        },
         "MangaSee": {
             "season-of-alabaster": {
+                "id": 175009,
                 "identifier": "season-of-alabaster",
                 "image": "https://temp.compsci88.com/cover/Season-of-Alabaster.jpg",
                 "malId": 147193,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygp5669h4gn1qchn1c47": {
+                "id": 211355,
                 "identifier": "01j76xygp5669h4gn1qchn1c47",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGP5669H4GN1QCHN1C47.jpg",
                 "malId": 147193,
@@ -86,6 +69,19 @@
                 "title": "Season of Alabaster",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGP5669H4GN1QCHN1C47"
+            }
+        },
+        "MangaFire": {
+            "3r4xy": {
+                "id": 227842,
+                "identifier": "3r4xy",
+                "image": "https://static.mangafire.to/a01b/i/5/58/58e98dd328b988f6e4b5156a4794c6c0.jpg",
+                "malId": 147193,
+                "aniId": 149787,
+                "page": "MangaFire",
+                "title": "Season of Alabaster",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/season-of-alabasterr.3r4xy"
             }
         },
         "Comick": {

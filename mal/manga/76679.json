@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a282a7f-6134-411a-9360-41ca1afa88a1": {
+                "id": 25055,
                 "identifier": "7a282a7f-6134-411a-9360-41ca1afa88a1",
                 "image": "https://uploads.mangadex.org/covers/7a282a7f-6134-411a-9360-41ca1afa88a1/32ec7c8a-a668-4913-ac29-45cd172bcf93.jpg",
                 "malId": 76679,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eniale-dewiela": {
+                "id": 66236,
                 "identifier": "eniale-dewiela",
                 "image": "https://temp.compsci88.com/cover/Eniale-Dewiela.jpg",
                 "malId": 76679,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Eniale-Dewiela"
             }
         },
-        "MangaFire": {
-            "endevi.1ny2v": {
-                "identifier": "endevi.1ny2v",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5638f711feedde979755a6533f03b37.jpg",
-                "malId": 76679,
-                "aniId": 98264,
-                "page": "MangaFire",
-                "title": "Eniale & Dewiela",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/endevi.1ny2v/"
-            },
-            "1ny2v": {
-                "identifier": "1ny2v",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5638f711feedde979755a6533f03b37.jpg",
-                "malId": 76679,
-                "aniId": 98264,
-                "page": "MangaFire",
-                "title": "Eniale & Dewiela",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/endevi.1ny2v/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4d0swj5kx12cb9a6s1": {
+                "id": 212204,
                 "identifier": "01j76xye4d0swj5kx12cb9a6s1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4D0SWJ5KX12CB9A6S1.jpg",
                 "malId": 76679,
@@ -62,6 +43,19 @@
                 "title": "Eniale & Dewiela",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4D0SWJ5KX12CB9A6S1"
+            }
+        },
+        "MangaFire": {
+            "1ny2v": {
+                "id": 256186,
+                "identifier": "1ny2v",
+                "image": "https://static.mangafire.to/caa6/i/e/e5/e5638f711feedde979755a6533f03b37.jpg",
+                "malId": 76679,
+                "aniId": 98264,
+                "page": "MangaFire",
+                "title": "Eniale & Dewiela",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/endevii.1ny2v"
             }
         },
         "Comick": {

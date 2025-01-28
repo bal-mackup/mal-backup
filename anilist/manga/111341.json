@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a6661f41-6d4e-4320-876a-bbd44d445627": {
+                "id": 25700,
                 "identifier": "a6661f41-6d4e-4320-876a-bbd44d445627",
                 "image": "https://uploads.mangadex.org/covers/a6661f41-6d4e-4320-876a-bbd44d445627/bd2943e7-663e-4437-84c5-5a41ef52f944.jpg",
                 "malId": 120899,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-wolf-lords-lady": {
+                "id": 76607,
                 "identifier": "the-wolf-lords-lady",
                 "image": "https://temp.compsci88.com/cover/The-Wolf-Lords-Lady.jpg",
                 "malId": 120899,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ev981756": {
+                "id": 79827,
                 "identifier": "manga-ev981756",
                 "image": "https://avt.mkklcdnv6temp.com/26/s/18-1583498123.jpg",
                 "malId": 120899,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "the_wolf_lord_s_lady": {
+                "id": 117265,
                 "identifier": "the_wolf_lord_s_lady",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30442/cover.jpg",
                 "malId": 120899,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/the_wolf_lord_s_lady/"
             }
         },
-        "MangaFire": {
-            "the-wolf-lords-lady.zljp2": {
-                "identifier": "the-wolf-lords-lady.zljp2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/2816465f5e44856830b592a5e5aaa886.jpg",
-                "malId": 120899,
-                "aniId": 111341,
-                "page": "MangaFire",
-                "title": "Princess of the Wolf Lord",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-wolf-lords-lady.zljp2/"
-            }
-        },
         "Weebcentral": {
             "01j76xydq18dwzpy38yjm2phy2": {
+                "id": 208199,
                 "identifier": "01j76xydq18dwzpy38yjm2phy2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQ18DWZPY38YJM2PHY2.jpg",
                 "malId": 120899,
@@ -76,6 +69,19 @@
                 "title": "The Wolf Lord's Lady",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQ18DWZPY38YJM2PHY2"
+            }
+        },
+        "MangaFire": {
+            "zljp2": {
+                "id": 254746,
+                "identifier": "zljp2",
+                "image": "https://static.mangafire.to/6b0c/i/2/28/2816465f5e44856830b592a5e5aaa886.jpg",
+                "malId": 120899,
+                "aniId": 111341,
+                "page": "MangaFire",
+                "title": "Princess of the Wolf Lord",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-wolf-lords-ladyy.zljp2"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "95e964d3-55da-4218-b841-46f0f2db663c": {
+                "id": 31162,
                 "identifier": "95e964d3-55da-4218-b841-46f0f2db663c",
                 "image": "https://uploads.mangadex.org/covers/95e964d3-55da-4218-b841-46f0f2db663c/c8ba4203-29ae-4b7a-92d0-d60789db8901.jpg",
                 "malId": 122473,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "heros": {
+                "id": 53911,
                 "identifier": "heros",
                 "image": "https://temp.compsci88.com/cover/HEROS.jpg",
                 "malId": 122473,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fu983355": {
+                "id": 99871,
                 "identifier": "manga-fu983355",
                 "image": "https://avt.mkklcdnv6temp.com/fld/29/k/10-1732799750-nw.webp",
                 "malId": 122473,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-fu983355"
             }
         },
-        "MangaFire": {
-            "mashima-heros.4qo5m": {
-                "identifier": "mashima-heros.4qo5m",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6f91737f43f63d7ebbff95b7ccfb6c4.jpg",
-                "malId": 122473,
-                "aniId": 112531,
-                "page": "MangaFire",
-                "title": "Mashima HERO'S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mashima-heros.4qo5m/"
-            }
-        },
         "Weebcentral": {
             "01j76xye44bmjsem4sh4jf6r8f": {
+                "id": 211061,
                 "identifier": "01j76xye44bmjsem4sh4jf6r8f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE44BMJSEM4SH4JF6R8F.jpg",
                 "malId": 122473,
@@ -64,6 +56,19 @@
                 "title": "HERO'S",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE44BMJSEM4SH4JF6R8F"
+            }
+        },
+        "MangaFire": {
+            "4qo5m": {
+                "id": 257188,
+                "identifier": "4qo5m",
+                "image": "https://static.mangafire.to/2b5b/i/f/f6/f6f91737f43f63d7ebbff95b7ccfb6c4.jpg",
+                "malId": 122473,
+                "aniId": 112531,
+                "page": "MangaFire",
+                "title": "Mashima HERO'S",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mashima-heross.4qo5m"
             }
         },
         "Comick": {

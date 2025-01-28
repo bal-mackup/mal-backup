@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "23b7cc7a-df89-4049-af28-1fa78f88713e": {
+                "id": 15043,
                 "identifier": "23b7cc7a-df89-4049-af28-1fa78f88713e",
                 "image": "https://uploads.mangadex.org/covers/23b7cc7a-df89-4049-af28-1fa78f88713e/c4894676-8d20-4187-86ca-45c6acfdd34c.jpg",
                 "malId": 96109,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kawaii_joushi_o_komarasetai": {
+                "id": 64436,
                 "identifier": "kawaii_joushi_o_komarasetai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18619/cover.jpg",
                 "malId": 96109,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kawaii-joushi-wo-komarasetai": {
+                "id": 66614,
                 "identifier": "kawaii-joushi-wo-komarasetai",
                 "image": "https://temp.compsci88.com/cover/Kawaii-Joushi-Wo-Komarasetai.jpg",
                 "malId": 96109,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-au977929": {
+                "id": 73715,
                 "identifier": "manga-au977929",
                 "image": "https://avt.mkklcdnv6temp.com/4/d/16-1583493611.jpg",
                 "malId": 96109,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-au977929"
             },
             "manga-su955829": {
+                "id": 92229,
                 "identifier": "manga-su955829",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/n/2-1732722646-nw.webp",
                 "malId": 96109,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-su955829"
             }
         },
-        "MangaFire": {
-            "kawaii-joushi-wo-komarasetai.lllx3": {
-                "identifier": "kawaii-joushi-wo-komarasetai.lllx3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/27928e24fbf6cbecb49b9b909f8a94b1.jpg",
-                "malId": 96109,
-                "aniId": 86765,
-                "page": "MangaFire",
-                "title": "I want to annoy the pretty boss.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kawaii-joushi-wo-komarasetai.lllx3/"
-            },
-            "kawaii-joushi-wo-komarasetaii.lllx3": {
-                "identifier": "kawaii-joushi-wo-komarasetaii.lllx3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/27928e24fbf6cbecb49b9b909f8a94b1.jpg",
-                "malId": 96109,
-                "aniId": 86765,
-                "page": "MangaFire",
-                "title": "I want to annoy the pretty boss.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kawaii-joushi-wo-komarasetaii.lllx3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc1zvf2cvvq5eqznsxyp": {
+                "id": 207887,
                 "identifier": "01j76xyc1zvf2cvvq5eqznsxyp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC1ZVF2CVVQ5EQZNSXYP.jpg",
                 "malId": 96109,
@@ -96,6 +80,19 @@
                 "title": "Kawaii Joushi wo Komarasetai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC1ZVF2CVVQ5EQZNSXYP"
+            }
+        },
+        "MangaFire": {
+            "lllx3": {
+                "id": 225250,
+                "identifier": "lllx3",
+                "image": "https://static.mangafire.to/f3b5/i/2/27/27928e24fbf6cbecb49b9b909f8a94b1.jpg",
+                "malId": 96109,
+                "aniId": 86765,
+                "page": "MangaFire",
+                "title": "I want to annoy the pretty boss.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kawaii-joushi-wo-komarasetaii.lllx3"
             }
         },
         "Comick": {

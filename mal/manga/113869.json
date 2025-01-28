@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "53f25044-1d36-4966-89bc-4e1d259778f2": {
+                "id": 21383,
                 "identifier": "53f25044-1d36-4966-89bc-4e1d259778f2",
                 "image": "https://uploads.mangadex.org/covers/53f25044-1d36-4966-89bc-4e1d259778f2/2773370e-69d4-4dd3-a172-836f3dc0c33b.jpg",
                 "malId": 113869,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "neko-ga-nishi-mukya": {
+                "id": 60404,
                 "identifier": "neko-ga-nishi-mukya",
                 "image": "https://temp.compsci88.com/cover/Neko-ga-Nishi-Mukya.jpg",
                 "malId": 113869,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Neko-ga-Nishi-Mukya"
             }
         },
-        "MangaFire": {
-            "neko-ga-nishi-mukya.0505": {
-                "identifier": "neko-ga-nishi-mukya.0505",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a221ee931ef8fa7cb3bc385c05d25d3.jpg",
-                "malId": 113869,
-                "aniId": 102228,
-                "page": "MangaFire",
-                "title": "When a Cat Faces West",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-ga-nishi-mukya.0505/"
-            },
-            "0505": {
-                "identifier": "0505",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a221ee931ef8fa7cb3bc385c05d25d3.jpg",
-                "malId": 113869,
-                "aniId": 102228,
-                "page": "MangaFire",
-                "title": "When a Cat Faces West",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-ga-nishi-mukya.0505/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd4zq57xr0cvbqan1dqg": {
+                "id": 214100,
                 "identifier": "01j76xyd4zq57xr0cvbqan1dqg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD4ZQ57XR0CVBQAN1DQG.jpg",
                 "malId": 113869,
@@ -62,6 +43,19 @@
                 "title": "When a Cat Faces West",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD4ZQ57XR0CVBQAN1DQG"
+            }
+        },
+        "MangaFire": {
+            "0505": {
+                "id": 239425,
+                "identifier": "0505",
+                "image": "https://static.mangafire.to/cc62/i/3/3a/3a221ee931ef8fa7cb3bc385c05d25d3.jpg",
+                "malId": 113869,
+                "aniId": 102228,
+                "page": "MangaFire",
+                "title": "When a Cat Faces West",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neko-ga-nishi-mukyaa.0505"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "da704103-3ba9-4cf4-ab4a-6ba1565e6f20": {
+                "id": 11394,
                 "identifier": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
                 "image": "https://uploads.mangadex.org/covers/da704103-3ba9-4cf4-ab4a-6ba1565e6f20/92fc6aaf-31cc-4a1b-9cd8-a7b86c94fb00.jpg",
                 "malId": 86040,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/da704103-3ba9-4cf4-ab4a-6ba1565e6f20"
             },
             "634d0c50-cd12-4016-9437-d5fb48c1f535": {
+                "id": 12565,
                 "identifier": "634d0c50-cd12-4016-9437-d5fb48c1f535",
                 "image": "https://uploads.mangadex.org/covers/634d0c50-cd12-4016-9437-d5fb48c1f535/3c385c12-04fe-4988-a81a-00dfa32e175b.jpg",
                 "malId": 86040,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "kagamigami": {
+                "id": 66964,
                 "identifier": "kagamigami",
                 "image": "https://temp.compsci88.com/cover/Kagamigami.jpg",
                 "malId": 86040,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "kagamigami": {
+                "id": 69312,
                 "identifier": "kagamigami",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15325/cover.jpg",
                 "malId": 86040,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ou952855": {
+                "id": 83686,
                 "identifier": "manga-ou952855",
                 "image": "https://avt.mkklcdnv6temp.com/fld/55/y/1-1732718610-nw.webp",
                 "malId": 86040,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ou952855"
             }
         },
-        "MangaFire": {
-            "kagamigami.oj725": {
-                "identifier": "kagamigami.oj725",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d55b94f8d5dc86d94c6ae979504d8716.jpg",
-                "malId": 86040,
-                "aniId": 85921,
-                "page": "MangaFire",
-                "title": "Kagamigami",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kagamigami.oj725/"
-            },
-            "oj725": {
-                "identifier": "oj725",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d55b94f8d5dc86d94c6ae979504d8716.jpg",
-                "malId": 86040,
-                "aniId": 85921,
-                "page": "MangaFire",
-                "title": "Kagamigami",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kagamigami.oj725/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb5rr8mwadc3ya0jk5s0": {
+                "id": 210939,
                 "identifier": "01j76xyb5rr8mwadc3ya0jk5s0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB5RR8MWADC3YA0JK5S0.jpg",
                 "malId": 86040,
@@ -96,6 +80,19 @@
                 "title": "Kagamigami",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB5RR8MWADC3YA0JK5S0"
+            }
+        },
+        "MangaFire": {
+            "oj725": {
+                "id": 259461,
+                "identifier": "oj725",
+                "image": "https://static.mangafire.to/5f6f/i/d/d5/d55b94f8d5dc86d94c6ae979504d8716.jpg",
+                "malId": 86040,
+                "aniId": 85921,
+                "page": "MangaFire",
+                "title": "Kagamigami",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kagamigamii.oj725"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8e9c0fe2-68d4-4224-9f96-ac51464eb94a": {
+                "id": 111753,
                 "identifier": "8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
                 "image": "https://uploads.mangadex.org/covers/8e9c0fe2-68d4-4224-9f96-ac51464eb94a/39b26766-3627-484c-80d9-8cc1923edf7b.jpg",
                 "malId": 153898,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pf992488": {
+                "id": 114796,
                 "identifier": "manga-pf992488",
                 "image": "https://avt.mkklcdnv6temp.com/9/r/27-1663645348.jpg",
                 "malId": 153898,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "extraordinary_descent_genius": {
+                "id": 114926,
                 "identifier": "extraordinary_descent_genius",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43684/cover.jpg",
                 "malId": 153898,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/extraordinary_descent_genius/"
             }
         },
-        "MangaFire": {
-            "the-perfect-hybrid.8noro": {
-                "identifier": "the-perfect-hybrid.8noro",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/50cd820846e4422d23c0e41eef1aac1e.jpg",
-                "malId": 153898,
-                "aniId": 153869,
-                "page": "MangaFire",
-                "title": "The Perfect Hybrid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-perfect-hybrid.8noro/"
-            },
-            "the-perfect-hybridd.8noro": {
-                "identifier": "the-perfect-hybridd.8noro",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/50cd820846e4422d23c0e41eef1aac1e.jpg",
-                "malId": 153898,
-                "aniId": 153869,
-                "page": "MangaFire",
-                "title": "The Perfect Hybrid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-perfect-hybridd.8noro/"
-            }
-        },
         "MangaSee": {
             "the-perfect-hybrid": {
+                "id": 178003,
                 "identifier": "the-perfect-hybrid",
                 "image": "https://temp.compsci88.com/cover/The-Perfect-Hybrid.jpg",
                 "malId": 153898,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygrxfxbr9dqq4p5jxryz": {
+                "id": 208843,
                 "identifier": "01j76xygrxfxbr9dqq4p5jxryz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGRXFXBR9DQQ4P5JXRYZ.jpg",
                 "malId": 153898,
@@ -86,6 +69,19 @@
                 "title": "The Perfect Hybrid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGRXFXBR9DQQ4P5JXRYZ"
+            }
+        },
+        "MangaFire": {
+            "8noro": {
+                "id": 228553,
+                "identifier": "8noro",
+                "image": "https://static.mangafire.to/3323/i/5/50/50cd820846e4422d23c0e41eef1aac1e.jpg",
+                "malId": 153898,
+                "aniId": 153869,
+                "page": "MangaFire",
+                "title": "The Perfect Hybrid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-perfect-hybridd.8noro"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "212e9236-c0e3-4e85-ae92-087495820251": {
+                "id": 65873,
                 "identifier": "212e9236-c0e3-4e85-ae92-087495820251",
                 "image": "https://uploads.mangadex.org/covers/212e9236-c0e3-4e85-ae92-087495820251/d8c1b878-4677-4dfe-8bc0-3a48c7ba6cf8.jpg",
                 "malId": 130181,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lets-go-karaoke": {
+                "id": 106686,
                 "identifier": "lets-go-karaoke",
                 "image": "https://temp.compsci88.com/cover/Lets-Go-Karaoke.jpg",
                 "malId": 130181,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Lets-Go-Karaoke"
             }
         },
-        "MangaFire": {
-            "karaoke-iko.528xm": {
-                "identifier": "karaoke-iko.528xm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a7/a737397ff2eef7d3c85ccd3209a6573c.jpg",
-                "malId": 130181,
-                "aniId": 125078,
-                "page": "MangaFire",
-                "title": "Let's Go Karaoke!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karaoke-iko.528xm/"
-            },
-            "karaoke-ikoo.528xm": {
-                "identifier": "karaoke-ikoo.528xm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a7/a737397ff2eef7d3c85ccd3209a6573c.jpg",
-                "malId": 130181,
-                "aniId": 125078,
-                "page": "MangaFire",
-                "title": "Let's Go Karaoke!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karaoke-ikoo.528xm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyff9x2a193hdqfp6tzeb": {
+                "id": 212282,
                 "identifier": "01j76xyff9x2a193hdqfp6tzeb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFF9X2A193HDQFP6TZEB.jpg",
                 "malId": 130181,
@@ -62,6 +43,19 @@
                 "title": "Let's Go Karaoke",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFF9X2A193HDQFP6TZEB"
+            }
+        },
+        "MangaFire": {
+            "528xm": {
+                "id": 225010,
+                "identifier": "528xm",
+                "image": "https://static.mangafire.to/e1a9/i/a/a7/a737397ff2eef7d3c85ccd3209a6573c.jpg",
+                "malId": 130181,
+                "aniId": 125078,
+                "page": "MangaFire",
+                "title": "Let's Go Karaoke!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karaoke-ikoo.528xm"
             }
         },
         "Comick": {

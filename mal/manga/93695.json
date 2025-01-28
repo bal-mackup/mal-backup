@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2e8829cf-a97e-4261-b38f-62d0b1c64abc": {
+                "id": 14278,
                 "identifier": "2e8829cf-a97e-4261-b38f-62d0b1c64abc",
                 "image": "https://uploads.mangadex.org/covers/2e8829cf-a97e-4261-b38f-62d0b1c64abc/b4b90cf5-077b-4d94-92cf-9d178c4c333e.jpg",
                 "malId": 93695,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ganbare-nakamura-kun": {
+                "id": 59114,
                 "identifier": "ganbare-nakamura-kun",
                 "image": "https://temp.compsci88.com/cover/Ganbare-Nakamura-kun.jpg",
                 "malId": 93695,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ganbare_nakamura_kun": {
+                "id": 82323,
                 "identifier": "ganbare_nakamura_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17079/cover.jpg",
                 "malId": 93695,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-tz953308": {
+                "id": 88293,
                 "identifier": "manga-tz953308",
                 "image": "https://avt.mkklcdnv6temp.com/fld/71/j/1-1732719249-nw.webp",
                 "malId": 93695,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-tz953308"
             }
         },
-        "MangaFire": {
-            "ganbare-nakamura-kun.0216k": {
-                "identifier": "ganbare-nakamura-kun.0216k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2ccf21394b640334b69672f304f3442d.jpg",
-                "malId": 93695,
-                "aniId": 86549,
-                "page": "MangaFire",
-                "title": "Go For It, Nakamura!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ganbare-nakamura-kun.0216k/"
-            },
-            "ganbare-nakamura-kunn.0216k": {
-                "identifier": "ganbare-nakamura-kunn.0216k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2ccf21394b640334b69672f304f3442d.jpg",
-                "malId": 93695,
-                "aniId": 86549,
-                "page": "MangaFire",
-                "title": "Go For It, Nakamura!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ganbare-nakamura-kunn.0216k/"
-            }
-        },
         "Weebcentral": {
             "01j76xychstfx3d66ftvmnpkm7": {
+                "id": 213815,
                 "identifier": "01j76xychstfx3d66ftvmnpkm7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCHSTFX3D66FTVMNPKM7.jpg",
                 "malId": 93695,
@@ -86,6 +69,19 @@
                 "title": "Go For It, Nakamura!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCHSTFX3D66FTVMNPKM7"
+            }
+        },
+        "MangaFire": {
+            "0216k": {
+                "id": 225972,
+                "identifier": "0216k",
+                "image": "https://static.mangafire.to/899d/i/2/2c/2ccf21394b640334b69672f304f3442d.jpg",
+                "malId": 93695,
+                "aniId": 86549,
+                "page": "MangaFire",
+                "title": "Go For It, Nakamura!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ganbare-nakamura-kunn.0216k"
             }
         },
         "Comick": {

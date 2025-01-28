@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c30e8e1c-c53c-4111-a00e-7995c261d325": {
+                "id": 118264,
                 "identifier": "c30e8e1c-c53c-4111-a00e-7995c261d325",
                 "image": "https://uploads.mangadex.org/covers/c30e8e1c-c53c-4111-a00e-7995c261d325/ab5edd0c-df2c-448c-aa15-ba00f5aa3b57.jpg",
                 "malId": 153261,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cipher-academy": {
+                "id": 118296,
                 "identifier": "cipher-academy",
                 "image": "https://temp.compsci88.com/cover/Cipher-Academy.jpg",
                 "malId": 153261,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "angou_gakuen_no_iroha": {
+                "id": 118751,
                 "identifier": "angou_gakuen_no_iroha",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44082/cover.jpg",
                 "malId": 153261,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-qf993788": {
+                "id": 125172,
                 "identifier": "manga-qf993788",
                 "image": "https://avt.mkklcdnv6temp.com/11/w/28-1675086440.jpg",
                 "malId": 153261,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-qf993788"
             }
         },
-        "MangaFire": {
-            "angou-gakuen-no-iroha.qx18w": {
-                "identifier": "angou-gakuen-no-iroha.qx18w",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f4023cb990794f36f6eaf34da7c16ba5.jpg",
-                "malId": 153261,
-                "aniId": 156667,
-                "page": "MangaFire",
-                "title": "Cipher Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angou-gakuen-no-iroha.qx18w/"
-            },
-            "angou-gakuen-no-irohaa.qx18w": {
-                "identifier": "angou-gakuen-no-irohaa.qx18w",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f4023cb990794f36f6eaf34da7c16ba5.jpg",
-                "malId": 153261,
-                "aniId": 156667,
-                "page": "MangaFire",
-                "title": "Cipher Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angou-gakuen-no-irohaa.qx18w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfsccccaxb1bvxyh9tw8": {
+                "id": 206901,
                 "identifier": "01j76xyfsccccaxb1bvxyh9tw8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFSCCCCAXB1BVXYH9TW8.jpg",
                 "malId": 153261,
@@ -86,6 +69,19 @@
                 "title": "Cipher Academy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFSCCCCAXB1BVXYH9TW8"
+            }
+        },
+        "MangaFire": {
+            "qx18w": {
+                "id": 224871,
+                "identifier": "qx18w",
+                "image": "https://static.mangafire.to/7378/i/f/f4/f4023cb990794f36f6eaf34da7c16ba5.jpg",
+                "malId": 153261,
+                "aniId": 156667,
+                "page": "MangaFire",
+                "title": "Cipher Academy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/angou-gakuen-no-irohaa.qx18w"
             }
         },
         "Comick": {

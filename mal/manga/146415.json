@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99371bb6-8041-4714-98f0-202bf9fe0846": {
+                "id": 125528,
                 "identifier": "99371bb6-8041-4714-98f0-202bf9fe0846",
                 "image": "https://uploads.mangadex.org/covers/99371bb6-8041-4714-98f0-202bf9fe0846/2818769c-8836-40e0-a5b5-209e8675aab4.jpg",
                 "malId": 146415,
@@ -18,22 +19,11 @@
                 "url": "https://mangadex.org/title/99371bb6-8041-4714-98f0-202bf9fe0846"
             }
         },
-        "MangaFire": {
-            "midori-kun-ni-wa-sawarenai.qnz9w": {
-                "identifier": "midori-kun-ni-wa-sawarenai.qnz9w",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7f6597978dc134517e44ec69d893e46.jpg",
-                "malId": 146415,
-                "aniId": 131546,
-                "page": "MangaFire",
-                "title": "The Untouchable Midori-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/midori-kun-ni-wa-sawarenai.qnz9w/"
-            }
-        },
         "MangaNato": {
             "manga-ay1004333": {
+                "id": 197057,
                 "identifier": "manga-ay1004333",
-                "image": "https://avt.mkklcdnv6temp.com/35/e/36-1726198223.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/18/g/18-1733328353-nw.webp",
                 "malId": 146415,
                 "aniId": 131546,
                 "page": "MangaNato",
@@ -42,13 +32,26 @@
                 "url": "https://chapmanganato.to/manga-ay1004333"
             }
         },
+        "MangaFire": {
+            "qnz9w": {
+                "id": 233066,
+                "identifier": "qnz9w",
+                "image": "https://static.mangafire.to/a392/i/d/d7/d7f6597978dc134517e44ec69d893e46.jpg",
+                "malId": 146415,
+                "aniId": 131546,
+                "page": "MangaFire",
+                "title": "The Untouchable Midori-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/midori-kun-ni-wa-sawarenaii.qnz9w"
+            }
+        },
         "Comick": {
             "VtuXd10J": {
                 "identifier": "VtuXd10J",
                 "malId": 146415,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Midori-kun ni wa Sawarenai",
+                "title": "The Untouchable Midori-kun",
                 "url": "https://comick.io/comic/midori-kun-ni-wa-sawarenai",
                 "aniId": 131546
             }

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a7ad8806-57c1-4fc6-9822-8de8edf956e9": {
+                "id": 90084,
                 "identifier": "a7ad8806-57c1-4fc6-9822-8de8edf956e9",
                 "image": "https://uploads.mangadex.org/covers/a7ad8806-57c1-4fc6-9822-8de8edf956e9/53984054-1d46-47c3-972b-e48fb781560f.jpg",
                 "malId": 134250,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nb990936": {
+                "id": 106199,
                 "identifier": "manga-nb990936",
                 "image": "https://avt.mkklcdnv6temp.com/44/v/25-1654182247.jpg",
                 "malId": 134250,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-nb990936"
             }
         },
-        "MangaFire": {
-            "home-centre-sales-clerks-life-in-another-world.jvmrn": {
-                "identifier": "home-centre-sales-clerks-life-in-another-world.jvmrn",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9dde88f329988a86632c87c3e314191d.jpg",
-                "malId": 134250,
-                "aniId": 129798,
-                "page": "MangaFire",
-                "title": "Home Centre Sales Clerk’s Life in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/home-centre-sales-clerks-life-in-another-world.jvmrn/"
-            }
-        },
         "MangaSee": {
             "home-centre-sales-clerks-life-in-another-world": {
+                "id": 161904,
                 "identifier": "home-centre-sales-clerks-life-in-another-world",
                 "image": "https://temp.compsci88.com/cover/Home-Centre-Sales-Clerks-Life-in-Another-World.jpg",
                 "malId": 134250,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg9t64zb20gpfpc96v7e": {
+                "id": 209802,
                 "identifier": "01j76xyg9t64zb20gpfpc96v7e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG9T64ZB20GPFPC96V7E.jpg",
                 "malId": 134250,
@@ -64,6 +56,19 @@
                 "title": "Home Centre Sales Clerk's Life in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG9T64ZB20GPFPC96V7E"
+            }
+        },
+        "MangaFire": {
+            "jvmrn": {
+                "id": 242915,
+                "identifier": "jvmrn",
+                "image": "https://static.mangafire.to/2990/i/9/9d/9dde88f329988a86632c87c3e314191d.jpg",
+                "malId": 134250,
+                "aniId": 129798,
+                "page": "MangaFire",
+                "title": "Home Centre Sales Clerk’s Life in Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/home-centre-sales-clerks-life-in-another-worldd.jvmrn"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "badda1e4-6a2a-4e1e-b92f-986c5732439f": {
+                "id": 36852,
                 "identifier": "badda1e4-6a2a-4e1e-b92f-986c5732439f",
                 "image": "https://uploads.mangadex.org/covers/badda1e4-6a2a-4e1e-b92f-986c5732439f/1f742163-377a-4ee7-83ab-73c4d98b0b37.jpg",
                 "malId": 115728,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "monster_to_parent": {
+                "id": 70745,
                 "identifier": "monster_to_parent",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34476/cover.jpg",
                 "malId": 115728,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jx986780": {
+                "id": 86206,
                 "identifier": "manga-jx986780",
                 "image": "https://avt.mkklcdnv6temp.com/20/p/22-1601270237.jpg",
                 "malId": 115728,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-jx986780"
             }
         },
-        "MangaFire": {
-            "monster-and-parent.vvww2": {
-                "identifier": "monster-and-parent.vvww2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/8841e844d38cd160de7192f1544bd3b3.jpg",
-                "malId": 115728,
-                "aniId": 106056,
-                "page": "MangaFire",
-                "title": "Monster & Parent",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monster-and-parent.vvww2/"
-            }
-        },
         "MangaSee": {
             "monster-and-parent": {
+                "id": 165943,
                 "identifier": "monster-and-parent",
                 "image": "https://temp.compsci88.com/cover/Monster-and-Parent.jpg",
                 "malId": 115728,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygcxr97yf70bzhbrhg5a": {
+                "id": 207935,
                 "identifier": "01j76xygcxr97yf70bzhbrhg5a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGCXR97YF70BZHBRHG5A.jpg",
                 "malId": 115728,
@@ -76,6 +69,19 @@
                 "title": "Monster and Parent",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGCXR97YF70BZHBRHG5A"
+            }
+        },
+        "MangaFire": {
+            "vvww2": {
+                "id": 253475,
+                "identifier": "vvww2",
+                "image": "https://static.mangafire.to/cb2e/i/8/88/8841e844d38cd160de7192f1544bd3b3.jpg",
+                "malId": 115728,
+                "aniId": 106056,
+                "page": "MangaFire",
+                "title": "Monster & Parent",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/monster-and-parentt.vvww2"
             }
         },
         "Comick": {

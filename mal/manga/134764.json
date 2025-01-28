@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ada3dca4-fdae-42ca-b867-dae6b860edec": {
+                "id": 57807,
                 "identifier": "ada3dca4-fdae-42ca-b867-dae6b860edec",
                 "image": "https://uploads.mangadex.org/covers/ada3dca4-fdae-42ca-b867-dae6b860edec/c0135e74-6290-44b6-b625-063cddc45976.jpg",
                 "malId": 134764,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-affair-ten-years-after-the-demon-kings-subjugation": {
+                "id": 64703,
                 "identifier": "isekai-affair-ten-years-after-the-demon-kings-subjugation",
                 "image": "https://temp.compsci88.com/cover/Isekai-Affair-Ten-Years-After-The-Demon-Kings-Subjugation.jpg",
                 "malId": 134764,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_furin_maou_toubatsu_kara_juunen_tsuma_to_wa_resu_no_moto_yuusha_to_otto_wo_nakushita_onna_sen": {
+                "id": 70427,
                 "identifier": "isekai_furin_maou_toubatsu_kara_juunen_tsuma_to_wa_resu_no_moto_yuusha_to_otto_wo_nakushita_onna_sen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37189/cover.jpg",
                 "malId": 134764,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kr987700": {
+                "id": 77132,
                 "identifier": "manga-kr987700",
                 "image": "https://avt.mkklcdnv6temp.com/8/o/23-1611114781.jpg",
                 "malId": 134764,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kr987700"
             }
         },
-        "MangaFire": {
-            "isekai-furin.ll21z": {
-                "identifier": "isekai-furin.ll21z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4f/4fccda606b5a9bb19931c129d17d1b97.jpg",
-                "malId": 134764,
-                "aniId": 130942,
-                "page": "MangaFire",
-                "title": "Isekai Furin: Maou Toubatsu kara Juunen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-furin.ll21z/"
-            },
-            "isekai-furinn.ll21z": {
-                "identifier": "isekai-furinn.ll21z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4f/4fccda606b5a9bb19931c129d17d1b97.jpg",
-                "malId": 134764,
-                "aniId": 130942,
-                "page": "MangaFire",
-                "title": "Isekai Furin: Maou Toubatsu kara Juunen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-furinn.ll21z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyedp4sjtym2h8dwkyht5": {
+                "id": 212325,
                 "identifier": "01j76xyedp4sjtym2h8dwkyht5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEDP4SJTYM2H8DWKYHT5.jpg",
                 "malId": 134764,
@@ -86,6 +69,19 @@
                 "title": "Isekai Affair ~Ten Years After The Demon King's Subjugation",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEDP4SJTYM2H8DWKYHT5"
+            }
+        },
+        "MangaFire": {
+            "ll21z": {
+                "id": 227856,
+                "identifier": "ll21z",
+                "image": "https://static.mangafire.to/064c/i/4/4f/4fccda606b5a9bb19931c129d17d1b97.jpg",
+                "malId": 134764,
+                "aniId": 130942,
+                "page": "MangaFire",
+                "title": "Isekai Furin: Maou Toubatsu kara Juunen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-furinn.ll21z"
             }
         },
         "Comick": {

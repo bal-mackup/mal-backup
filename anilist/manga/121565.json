@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67e56a7a-c7ea-4db8-84f0-db19c2034729": {
+                "id": 37369,
                 "identifier": "67e56a7a-c7ea-4db8-84f0-db19c2034729",
                 "image": "https://uploads.mangadex.org/covers/67e56a7a-c7ea-4db8-84f0-db19c2034729/86f85502-4640-4947-b740-69a2149c2eb3.jpg",
                 "malId": 145539,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "seasons-of-blossom": {
+                "id": 69740,
                 "identifier": "seasons-of-blossom",
                 "image": "https://temp.compsci88.com/cover/Seasons-of-Blossom.jpg",
                 "malId": 145539,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ig985863": {
+                "id": 76616,
                 "identifier": "manga-ig985863",
                 "image": "https://avt.mkklcdnv6temp.com/34/g/21-1594191383.jpg",
                 "malId": 145539,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ig985863"
             }
         },
-        "MangaFire": {
-            "seasons-of-blossom.m2137": {
-                "identifier": "seasons-of-blossom.m2137",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/631cc8d5a98a239bf2047930994d6765.jpg",
-                "malId": 145539,
-                "aniId": 121565,
-                "page": "MangaFire",
-                "title": "Seasons of Blossom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seasons-of-blossom.m2137/"
-            },
-            "seasons-of-blossomm.m2137": {
-                "identifier": "seasons-of-blossomm.m2137",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/631cc8d5a98a239bf2047930994d6765.jpg",
-                "malId": 145539,
-                "aniId": 121565,
-                "page": "MangaFire",
-                "title": "Seasons of Blossom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seasons-of-blossomm.m2137/"
-            }
-        },
         "Weebcentral": {
             "01j76xyemaha9ef4v936rpkpcg": {
+                "id": 209651,
                 "identifier": "01j76xyemaha9ef4v936rpkpcg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEMAHA9EF4V936RPKPCG.jpg",
                 "malId": 145539,
@@ -74,6 +56,19 @@
                 "title": "Seasons of Blossom",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEMAHA9EF4V936RPKPCG"
+            }
+        },
+        "MangaFire": {
+            "m2137": {
+                "id": 228239,
+                "identifier": "m2137",
+                "image": "https://static.mangafire.to/9e7f/i/6/63/631cc8d5a98a239bf2047930994d6765.jpg",
+                "malId": 145539,
+                "aniId": 121565,
+                "page": "MangaFire",
+                "title": "Seasons of Blossom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seasons-of-blossomm.m2137"
             }
         },
         "Comick": {

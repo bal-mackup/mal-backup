@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6c00ba6a-0240-47bd-9fb4-b01d2fd69ce7": {
+                "id": 24310,
                 "identifier": "6c00ba6a-0240-47bd-9fb4-b01d2fd69ce7",
                 "image": "https://uploads.mangadex.org/covers/6c00ba6a-0240-47bd-9fb4-b01d2fd69ce7/d6c23eaa-1d03-484f-9769-ecf481b9a2eb.jpg",
                 "malId": 113938,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mijuku-na-futari-de-gozaimasu-ga": {
+                "id": 56599,
                 "identifier": "mijuku-na-futari-de-gozaimasu-ga",
                 "image": "https://temp.compsci88.com/cover/Mijuku-Na-Futari-De-Gozaimasu-Ga.jpg",
                 "malId": 113938,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mijuku_na_futari_de_gozaimasu_ga": {
+                "id": 62341,
                 "identifier": "mijuku_na_futari_de_gozaimasu_ga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28928/cover.jpg",
                 "malId": 113938,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cn980122": {
+                "id": 73024,
                 "identifier": "manga-cn980122",
                 "image": "https://avt.mkklcdnv6temp.com/16/x/17-1583495869.jpg",
                 "malId": 113938,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cn980122"
             }
         },
-        "MangaFire": {
-            "mijuku-na-futari-de-gozaimasu-ga.028v3": {
-                "identifier": "mijuku-na-futari-de-gozaimasu-ga.028v3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bc6d145b6225c5fa3860bfc718f59a3.jpg",
-                "malId": 113938,
-                "aniId": 104864,
-                "page": "MangaFire",
-                "title": "We're New at This",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mijuku-na-futari-de-gozaimasu-ga.028v3/"
-            },
-            "mijuku-na-futari-de-gozaimasu-gaa.028v3": {
-                "identifier": "mijuku-na-futari-de-gozaimasu-gaa.028v3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bc6d145b6225c5fa3860bfc718f59a3.jpg",
-                "malId": 113938,
-                "aniId": 104864,
-                "page": "MangaFire",
-                "title": "We're New at This",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mijuku-na-futari-de-gozaimasu-gaa.028v3/"
-            },
-            "028v3": {
-                "identifier": "028v3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bc6d145b6225c5fa3860bfc718f59a3.jpg",
-                "malId": 113938,
-                "aniId": 104864,
-                "page": "MangaFire",
-                "title": "We're New at This",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mijuku-na-futari-de-gozaimasu-gaa.028v3/"
-            }
-        },
         "Weebcentral": {
             "01j76xycpa3n86hat7sapqnj8b": {
+                "id": 206867,
                 "identifier": "01j76xycpa3n86hat7sapqnj8b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCPA3N86HAT7SAPQNJ8B.jpg",
                 "malId": 113938,
@@ -96,6 +69,19 @@
                 "title": "We're New at This",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCPA3N86HAT7SAPQNJ8B"
+            }
+        },
+        "MangaFire": {
+            "028v3": {
+                "id": 226184,
+                "identifier": "028v3",
+                "image": "https://static.mangafire.to/badd/i/2/2b/2bc6d145b6225c5fa3860bfc718f59a3.jpg",
+                "malId": 113938,
+                "aniId": 104864,
+                "page": "MangaFire",
+                "title": "We're New at This",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mijuku-na-futari-de-gozaimasu-gaa.028v3"
             }
         },
         "Comick": {

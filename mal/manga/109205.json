@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9800ad45-b30f-42bc-82b5-6ffb1c4d2fb0": {
+                "id": 22049,
                 "identifier": "9800ad45-b30f-42bc-82b5-6ffb1c4d2fb0",
                 "image": "https://uploads.mangadex.org/covers/9800ad45-b30f-42bc-82b5-6ffb1c4d2fb0/fcc73e15-2865-4860-b2c1-673a44403552.jpg",
                 "malId": 109205,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "aico-incarnation": {
+                "id": 66733,
                 "identifier": "aico-incarnation",
                 "image": "https://temp.compsci88.com/cover/Aico-Incarnation.jpg",
                 "malId": 109205,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Aico-Incarnation"
             }
         },
-        "MangaFire": {
-            "aico-incarnation.k3k66": {
-                "identifier": "aico-incarnation.k3k66",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5035ba1e31aa2c843216afd94bae698.jpg",
-                "malId": 109205,
-                "aniId": 101299,
-                "page": "MangaFire",
-                "title": "A.I.C.O. Incarnation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aico-incarnation.k3k66/"
-            },
-            "k3k66": {
-                "identifier": "k3k66",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5035ba1e31aa2c843216afd94bae698.jpg",
-                "malId": 109205,
-                "aniId": 101299,
-                "page": "MangaFire",
-                "title": "A.I.C.O. Incarnation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aico-incarnation.k3k66/"
-            }
-        },
         "Weebcentral": {
             "01j76xyce0hjxfydkwyjf7sjhv": {
+                "id": 211724,
                 "identifier": "01j76xyce0hjxfydkwyjf7sjhv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCE0HJXFYDKWYJF7SJHV.jpg",
                 "malId": 109205,
@@ -62,6 +43,19 @@
                 "title": "A.I.C.O. Incarnation",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCE0HJXFYDKWYJF7SJHV"
+            }
+        },
+        "MangaFire": {
+            "k3k66": {
+                "id": 231396,
+                "identifier": "k3k66",
+                "image": "https://static.mangafire.to/57ad/i/d/d5/d5035ba1e31aa2c843216afd94bae698.jpg",
+                "malId": 109205,
+                "aniId": 101299,
+                "page": "MangaFire",
+                "title": "A.I.C.O. Incarnation",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aico-incarnationn.k3k66"
             }
         },
         "Comick": {

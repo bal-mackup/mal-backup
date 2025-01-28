@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b055038b-fb73-4d1d-b2fa-57fbf28d1e1d": {
+                "id": 35954,
                 "identifier": "b055038b-fb73-4d1d-b2fa-57fbf28d1e1d",
                 "image": "https://uploads.mangadex.org/covers/b055038b-fb73-4d1d-b2fa-57fbf28d1e1d/12a8c047-d348-4578-84be-7b3d4b347060.jpg",
                 "malId": 147962,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-heroine-of-drayfox": {
+                "id": 70817,
                 "identifier": "the-heroine-of-drayfox",
                 "image": "https://temp.compsci88.com/cover/The-Heroine-of-Drayfox.jpg",
                 "malId": 147962,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-it985602": {
+                "id": 76479,
                 "identifier": "manga-it985602",
                 "image": "https://avt.mkklcdnv6temp.com/22/z/21-1590954462.jpg",
                 "malId": 147962,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-it985602"
             }
         },
-        "MangaFire": {
-            "the-heroine-of-drayfox.yqz81": {
-                "identifier": "the-heroine-of-drayfox.yqz81",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/772215bfad532f9ccd5bb470c471c6c9.jpg",
-                "malId": 147962,
-                "aniId": 122948,
-                "page": "MangaFire",
-                "title": "The Heroine of Drayfox",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-heroine-of-drayfox.yqz81/"
-            },
-            "the-heroine-of-drayfoxx.yqz81": {
-                "identifier": "the-heroine-of-drayfoxx.yqz81",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/772215bfad532f9ccd5bb470c471c6c9.jpg",
-                "malId": 147962,
-                "aniId": 122948,
-                "page": "MangaFire",
-                "title": "The Heroine of Drayfox",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-heroine-of-drayfoxx.yqz81/"
-            }
-        },
         "Weebcentral": {
             "01j76xyepk0nwdz0h4cvk14csj": {
+                "id": 211346,
                 "identifier": "01j76xyepk0nwdz0h4cvk14csj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPK0NWDZ0H4CVK14CSJ.jpg",
                 "malId": 147962,
@@ -74,6 +56,19 @@
                 "title": "The Heroine of Drayfox",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPK0NWDZ0H4CVK14CSJ"
+            }
+        },
+        "MangaFire": {
+            "yqz81": {
+                "id": 230635,
+                "identifier": "yqz81",
+                "image": "https://static.mangafire.to/9b82/i/7/77/772215bfad532f9ccd5bb470c471c6c9.jpg",
+                "malId": 147962,
+                "aniId": 122948,
+                "page": "MangaFire",
+                "title": "The Heroine of Drayfox",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-heroine-of-drayfoxx.yqz81"
             }
         },
         "Comick": {

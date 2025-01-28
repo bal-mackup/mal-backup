@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "our-fake-marriage": {
+                "id": 58360,
                 "identifier": "our-fake-marriage",
                 "image": "https://temp.compsci88.com/cover/Our-Fake-Marriage.jpg",
                 "malId": 122546,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "usokon": {
+                "id": 71222,
                 "identifier": "usokon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37046/cover.jpg",
                 "malId": 122546,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "dcce8005-4d52-4a42-9209-5544efcd5f44": {
+                "id": 113881,
                 "identifier": "dcce8005-4d52-4a42-9209-5544efcd5f44",
                 "image": "https://uploads.mangadex.org/covers/dcce8005-4d52-4a42-9209-5544efcd5f44/0a13f8ce-62a7-438b-945c-b84dd0629afc.jpg",
                 "malId": 122546,
@@ -42,20 +45,9 @@
                 "url": "https://mangadex.org/title/dcce8005-4d52-4a42-9209-5544efcd5f44"
             }
         },
-        "MangaFire": {
-            "usokon.mqp5x": {
-                "identifier": "usokon.mqp5x",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bc312d1d050e2ee894594d782af0a7d.jpg",
-                "malId": 122546,
-                "aniId": 113086,
-                "page": "MangaFire",
-                "title": "Usokon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/usokon.mqp5x/"
-            }
-        },
         "MangaNato": {
             "manga-vp998850": {
+                "id": 183091,
                 "identifier": "manga-vp998850",
                 "image": "https://avt.mkklcdnv6temp.com/fld/8/i/16-1733313521-nw.webp",
                 "malId": 122546,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xye6dmkha17g0scvn7t41": {
+                "id": 214224,
                 "identifier": "01j76xye6dmkha17g0scvn7t41",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE6DMKHA17G0SCVN7T41.jpg",
                 "malId": 122546,
@@ -76,6 +69,19 @@
                 "title": "Our Fake Marriage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE6DMKHA17G0SCVN7T41"
+            }
+        },
+        "MangaFire": {
+            "mqp5x": {
+                "id": 240254,
+                "identifier": "mqp5x",
+                "image": "https://static.mangafire.to/b8be/i/2/2b/2bc312d1d050e2ee894594d782af0a7d.jpg",
+                "malId": 122546,
+                "aniId": 113086,
+                "page": "MangaFire",
+                "title": "Usokon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/usokonn.mqp5x"
             }
         },
         "Comick": {

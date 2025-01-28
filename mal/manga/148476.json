@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "94a48b9c-2a5b-4397-95f1-15df8b017488": {
+                "id": 96271,
                 "identifier": "94a48b9c-2a5b-4397-95f1-15df8b017488",
                 "image": "https://uploads.mangadex.org/covers/94a48b9c-2a5b-4397-95f1-15df8b017488/1d21d2f5-fa16-4a8b-af4b-0d3f1e6f5aec.jpg",
                 "malId": 148476,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-no991297": {
+                "id": 107941,
                 "identifier": "manga-no991297",
                 "image": "https://avt.mkklcdnv6temp.com/9/s/26-1655895995.jpg",
                 "malId": 148476,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yume_miru_danshi_wa_genjitsushugisha": {
+                "id": 113872,
                 "identifier": "yume_miru_danshi_wa_genjitsushugisha",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41401/cover.jpg",
                 "malId": 148476,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/yume_miru_danshi_wa_genjitsushugisha/"
             }
         },
-        "MangaFire": {
-            "yumemiru-danshi-wa-genjitsushugisha.zlnkw": {
-                "identifier": "yumemiru-danshi-wa-genjitsushugisha.zlnkw",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1cc5aae58a90492ed72ee6fe776b57ca.jpg",
-                "malId": 148476,
-                "aniId": 132664,
-                "page": "MangaFire",
-                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yumemiru-danshi-wa-genjitsushugisha.zlnkw/"
-            },
-            "yumemiru-danshi-wa-genjitsushugishaa.zlnkw": {
-                "identifier": "yumemiru-danshi-wa-genjitsushugishaa.zlnkw",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1cc5aae58a90492ed72ee6fe776b57ca.jpg",
-                "malId": 148476,
-                "aniId": 132664,
-                "page": "MangaFire",
-                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yumemiru-danshi-wa-genjitsushugishaa.zlnkw/"
-            }
-        },
         "MangaSee": {
             "yumemiru-danshi-wa-genjitsushugisha": {
+                "id": 168865,
                 "identifier": "yumemiru-danshi-wa-genjitsushugisha",
                 "image": "https://temp.compsci88.com/cover/Yumemiru-Danshi-wa-Genjitsushugisha.jpg",
                 "malId": 148476,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyggj8gxwf39jz2tcxhwz": {
+                "id": 211353,
                 "identifier": "01j76xyggj8gxwf39jz2tcxhwz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGGJ8GXWF39JZ2TCXHWZ.jpg",
                 "malId": 148476,
@@ -86,6 +69,19 @@
                 "title": "Yume Miru Danshi wa Genjitsushugisha",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGGJ8GXWF39JZ2TCXHWZ"
+            }
+        },
+        "MangaFire": {
+            "zlnkw": {
+                "id": 228051,
+                "identifier": "zlnkw",
+                "image": "https://static.mangafire.to/81e6/i/1/1c/1cc5aae58a90492ed72ee6fe776b57ca.jpg",
+                "malId": 148476,
+                "aniId": 132664,
+                "page": "MangaFire",
+                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yumemiru-danshi-wa-genjitsushugishaa.zlnkw"
             }
         },
         "Comick": {

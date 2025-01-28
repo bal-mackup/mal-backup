@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "12c91660-1cfe-42fc-bfac-cfaede0464d7": {
+                "id": 13296,
                 "identifier": "12c91660-1cfe-42fc-bfac-cfaede0464d7",
                 "image": "https://uploads.mangadex.org/covers/12c91660-1cfe-42fc-bfac-cfaede0464d7/51dcdaea-d1d5-4516-bef0-14bbf17d47d5.jpg",
                 "malId": 90475,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "change_r": {
+                "id": 67228,
                 "identifier": "change_r",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16091/cover.jpg",
                 "malId": 90475,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "change-r": {
+                "id": 71071,
                 "identifier": "change-r",
                 "image": "https://temp.compsci88.com/cover/Change-R.jpg",
                 "malId": 90475,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-pk992593": {
+                "id": 115360,
                 "identifier": "manga-pk992593",
                 "image": "https://avt.mkklcdnv6temp.com/13/v/27-1664256076.jpg",
                 "malId": 90475,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-pk992593"
             }
         },
-        "MangaFire": {
-            "change-r.jvn03": {
-                "identifier": "change-r.jvn03",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad05e3967d5eaca463920507efe930eb.jpg",
-                "malId": 90475,
-                "aniId": 106987,
-                "page": "MangaFire",
-                "title": "CHANGE-R",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/change-r.jvn03/"
-            },
-            "change-rr.jvn03": {
-                "identifier": "change-rr.jvn03",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad05e3967d5eaca463920507efe930eb.jpg",
-                "malId": 90475,
-                "aniId": 106987,
-                "page": "MangaFire",
-                "title": "CHANGE-R",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/change-rr.jvn03/"
-            },
-            "jvn03": {
-                "identifier": "jvn03",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad05e3967d5eaca463920507efe930eb.jpg",
-                "malId": 90475,
-                "aniId": 106987,
-                "page": "MangaFire",
-                "title": "CHANGE-R",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/change-rr.jvn03/"
-            }
-        },
         "Weebcentral": {
             "01j76xybeg68q01twwkpe5pd91": {
+                "id": 211283,
                 "identifier": "01j76xybeg68q01twwkpe5pd91",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEG68Q01TWWKPE5PD91.jpg",
                 "malId": 90475,
@@ -96,6 +69,19 @@
                 "title": "Change-R",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEG68Q01TWWKPE5PD91"
+            }
+        },
+        "MangaFire": {
+            "jvn03": {
+                "id": 227457,
+                "identifier": "jvn03",
+                "image": "https://static.mangafire.to/0340/i/a/ad/ad05e3967d5eaca463920507efe930eb.jpg",
+                "malId": 90475,
+                "aniId": 106987,
+                "page": "MangaFire",
+                "title": "CHANGE-R",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/change-rr.jvn03"
             }
         },
         "Comick": {

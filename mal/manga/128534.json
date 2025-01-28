@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bd2dd893-6bbc-4d6c-8c06-921318ef9ac0": {
+                "id": 36737,
                 "identifier": "bd2dd893-6bbc-4d6c-8c06-921318ef9ac0",
                 "image": "https://uploads.mangadex.org/covers/bd2dd893-6bbc-4d6c-8c06-921318ef9ac0/39b31260-1a30-4161-9b5c-e5fbe0d6fd41.jpg",
                 "malId": 128534,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kanojo-hitomishirimasu": {
+                "id": 54709,
                 "identifier": "kanojo-hitomishirimasu",
                 "image": "https://temp.compsci88.com/cover/Kanojo-Hitomishirimasu.jpg",
                 "malId": 128534,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kanojo_hitomishirimasu": {
+                "id": 62754,
                 "identifier": "kanojo_hitomishirimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34706/cover.jpg",
                 "malId": 128534,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jt986954": {
+                "id": 75244,
                 "identifier": "manga-jt986954",
                 "image": "https://avt.mkklcdnv6temp.com/27/u/22-1602865806.jpg",
                 "malId": 128534,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jt986954"
             }
         },
-        "MangaFire": {
-            "kanojo-hitomishirimasu.z17nw": {
-                "identifier": "kanojo-hitomishirimasu.z17nw",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95a6a3190dfb5eb2918fa0726b101f33.jpg",
-                "malId": 128534,
-                "aniId": 119767,
-                "page": "MangaFire",
-                "title": "Rent-A-(Really Shy!)-Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-hitomishirimasu.z17nw/"
-            },
-            "kanojo-hitomishirimasuu.z17nw": {
-                "identifier": "kanojo-hitomishirimasuu.z17nw",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95a6a3190dfb5eb2918fa0726b101f33.jpg",
-                "malId": 128534,
-                "aniId": 119767,
-                "page": "MangaFire",
-                "title": "Rent-A-(Really Shy!)-Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-hitomishirimasuu.z17nw/"
-            }
-        },
         "Weebcentral": {
             "01j76xydpj0q7tk5x7f60w28x2": {
+                "id": 212001,
                 "identifier": "01j76xydpj0q7tk5x7f60w28x2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDPJ0Q7TK5X7F60W28X2.jpg",
                 "malId": 128534,
@@ -86,6 +69,19 @@
                 "title": "Rent-a-(Really Shy!)-Girlfriend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDPJ0Q7TK5X7F60W28X2"
+            }
+        },
+        "MangaFire": {
+            "z17nw": {
+                "id": 236940,
+                "identifier": "z17nw",
+                "image": "https://static.mangafire.to/377b/i/9/95/95a6a3190dfb5eb2918fa0726b101f33.jpg",
+                "malId": 128534,
+                "aniId": 119767,
+                "page": "MangaFire",
+                "title": "Rent-A-(Really Shy!)-Girlfriend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-hitomishirimasuu.z17nw"
             }
         },
         "Comick": {

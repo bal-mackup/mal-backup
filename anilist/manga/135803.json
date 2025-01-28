@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ca174012-a49a-4f20-a6ba-cb9543f8cc1b": {
+                "id": 104236,
                 "identifier": "ca174012-a49a-4f20-a6ba-cb9543f8cc1b",
                 "image": "https://uploads.mangadex.org/covers/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/6f09ba45-ddbf-4834-9e33-b9a19cbee6ac.jpg",
                 "malId": 137839,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pt992754": {
+                "id": 116114,
                 "identifier": "manga-pt992754",
                 "image": "https://avt.mkklcdnv6temp.com/20/j/27-1665462018.jpg",
                 "malId": 137839,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-pt992754"
             }
         },
-        "MangaFire": {
-            "spica-wo-tsukamaete.3r226": {
-                "identifier": "spica-wo-tsukamaete.3r226",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5de6231168cf720f227e81addb41c731.jpg",
-                "malId": 137839,
-                "aniId": 135803,
-                "page": "MangaFire",
-                "title": "Chasing Spica",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spica-wo-tsukamaete.3r226/"
-            }
-        },
         "MangaSee": {
             "chasing-spica": {
+                "id": 191015,
                 "identifier": "chasing-spica",
                 "image": "https://temp.compsci88.com/cover/Chasing-Spica.jpg",
                 "malId": 137839,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhahtwpm0m5ftdn7k1kc": {
+                "id": 207442,
                 "identifier": "01j76xyhahtwpm0m5ftdn7k1kc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAHTWPM0M5FTDN7K1KC.jpg",
                 "malId": 137839,
@@ -64,6 +56,19 @@
                 "title": "Chasing Spica",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAHTWPM0M5FTDN7K1KC"
+            }
+        },
+        "MangaFire": {
+            "3r226": {
+                "id": 263386,
+                "identifier": "3r226",
+                "image": "https://static.mangafire.to/9ae1/i/5/5d/5de6231168cf720f227e81addb41c731.jpg",
+                "malId": 137839,
+                "aniId": 135803,
+                "page": "MangaFire",
+                "title": "Chasing Spica",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/spica-wo-tsukamaetee.3r226"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "44de2381-a8fd-45fc-a4c8-038d0095e098": {
+                "id": 16301,
                 "identifier": "44de2381-a8fd-45fc-a4c8-038d0095e098",
                 "image": "https://uploads.mangadex.org/covers/44de2381-a8fd-45fc-a4c8-038d0095e098/45968992-d761-498c-9245-894826eb8fb8.jpg",
                 "malId": 100539,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "danberu-nan-kiro-moteru": {
+                "id": 55714,
                 "identifier": "danberu-nan-kiro-moteru",
                 "image": "https://temp.compsci88.com/cover/Danberu-Nan-Kiro-Moteru.jpg",
                 "malId": 100539,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "danberu_nan_kiro_moteru": {
+                "id": 66252,
                 "identifier": "danberu_nan_kiro_moteru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21407/cover.jpg",
                 "malId": 100539,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vb972584": {
+                "id": 76576,
                 "identifier": "manga-vb972584",
                 "image": "https://avt.mkklcdnv6temp.com/16/n/14-1583490342.jpg",
                 "malId": 100539,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vb972584"
             }
         },
-        "MangaFire": {
-            "danberu-nan-kiro-moteru.llmyq": {
-                "identifier": "danberu-nan-kiro-moteru.llmyq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e29c9068d36f029fccbad2054e7a7cbb.jpg",
-                "malId": 100539,
-                "aniId": 97626,
-                "page": "MangaFire",
-                "title": "How Heavy Are the Dumbbells You Lift?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/danberu-nan-kiro-moteru.llmyq/"
-            },
-            "danberu-nan-kiro-moteruu.llmyq": {
-                "identifier": "danberu-nan-kiro-moteruu.llmyq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e29c9068d36f029fccbad2054e7a7cbb.jpg",
-                "malId": 100539,
-                "aniId": 97626,
-                "page": "MangaFire",
-                "title": "How Heavy Are the Dumbbells You Lift?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/danberu-nan-kiro-moteruu.llmyq/"
-            }
-        },
         "Weebcentral": {
             "01j76xybzr0tpfya9njttb50x4": {
+                "id": 211397,
                 "identifier": "01j76xybzr0tpfya9njttb50x4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBZR0TPFYA9NJTTB50X4.jpg",
                 "malId": 100539,
@@ -86,6 +69,19 @@
                 "title": "How Heavy Are the Dumbbells You Lift",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBZR0TPFYA9NJTTB50X4"
+            }
+        },
+        "MangaFire": {
+            "llmyq": {
+                "id": 224989,
+                "identifier": "llmyq",
+                "image": "https://static.mangafire.to/38ff/i/e/e2/e29c9068d36f029fccbad2054e7a7cbb.jpg",
+                "malId": 100539,
+                "aniId": 97626,
+                "page": "MangaFire",
+                "title": "How Heavy Are the Dumbbells You Lift?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/danberu-nan-kiro-moteruu.llmyq"
             }
         },
         "Comick": {

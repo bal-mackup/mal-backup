@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "d7037b2a-874a-4360-8a7b-07f2899152fd": {
+                "id": 17416,
                 "identifier": "d7037b2a-874a-4360-8a7b-07f2899152fd",
-                "image": "https://uploads.mangadex.org/covers/d7037b2a-874a-4360-8a7b-07f2899152fd/2f5ec0c5-5661-432b-967c-5002c8505800.jpg",
+                "image": "https://uploads.mangadex.org/covers/d7037b2a-874a-4360-8a7b-07f2899152fd/d5bec063-bc41-41d3-b220-6e9e8aa5df04.jpg",
                 "malId": 104241,
                 "aniId": 99324,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mairimashita-iruma-kun": {
+                "id": 52011,
                 "identifier": "mairimashita-iruma-kun",
                 "image": "https://temp.compsci88.com/cover/Mairimashita-Iruma-kun.jpg",
                 "malId": 104241,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mairimashita_iruma_kun": {
+                "id": 56990,
                 "identifier": "mairimashita_iruma_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25633/cover.jpg",
                 "malId": 104241,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/mairimashita_iruma_kun/"
             },
             "mairimashita_iruma_kun_gaiden": {
+                "id": 118330,
                 "identifier": "mairimashita_iruma_kun_gaiden",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41555/cover.jpg",
                 "malId": 104241,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-zd976838": {
+                "id": 73091,
                 "identifier": "manga-zd976838",
                 "image": "https://avt.mkklcdnv6temp.com/31/g/15-1583492700.jpg",
                 "malId": 104241,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-zd976838"
             }
         },
-        "MangaFire": {
-            "mairimashita-iruma-kun.k71v": {
-                "identifier": "mairimashita-iruma-kun.k71v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595.jpg",
-                "malId": 104241,
-                "aniId": 99324,
-                "page": "MangaFire",
-                "title": "Welcome to Demon School! Iruma-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mairimashita-iruma-kun.k71v/"
-            },
-            "sinui-tap.k71v": {
-                "identifier": "sinui-tap.k71v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595.jpg",
-                "malId": 104241,
-                "aniId": 99324,
-                "page": "MangaFire",
-                "title": "Welcome to Demon School! Iruma-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sinui-tap.k71v/"
-            },
-            "mairimashita-iruma-kunn.k71v": {
-                "identifier": "mairimashita-iruma-kunn.k71v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595.jpg",
-                "malId": 104241,
-                "aniId": 99324,
-                "page": "MangaFire",
-                "title": "Welcome to Demon School! Iruma-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mairimashita-iruma-kunn.k71v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5svsg0ygga1en740vw": {
+                "id": 207559,
                 "identifier": "01j76xyc5svsg0ygga1en740vw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5SVSG0YGGA1EN740VW.jpg",
                 "malId": 104241,
@@ -106,6 +80,19 @@
                 "title": "Welcome to Demon School! Iruma-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5SVSG0YGGA1EN740VW"
+            }
+        },
+        "MangaFire": {
+            "k71v": {
+                "id": 229039,
+                "identifier": "k71v",
+                "image": "https://static.mangafire.to/9cd8/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595.jpg",
+                "malId": 104241,
+                "aniId": 99324,
+                "page": "MangaFire",
+                "title": "Welcome to Demon School! Iruma-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mairimashita-iruma-kunn.k71v"
             }
         },
         "Comick": {

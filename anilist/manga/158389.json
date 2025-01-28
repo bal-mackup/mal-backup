@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67258389-41e4-4e3e-8d1b-ac7eed806623": {
+                "id": 161704,
                 "identifier": "67258389-41e4-4e3e-8d1b-ac7eed806623",
                 "image": "https://uploads.mangadex.org/covers/67258389-41e4-4e3e-8d1b-ac7eed806623/65a6a0c3-89b0-4d5d-9b69-381a2b8f22fa.jpg",
                 "malId": 154136,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/67258389-41e4-4e3e-8d1b-ac7eed806623"
             }
         },
-        "MangaFire": {
-            "watashi-no-arika.ox4yy": {
-                "identifier": "watashi-no-arika.ox4yy",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/deb640059def15d4d89e350d38fc68ad.jpg",
-                "malId": 154136,
-                "aniId": 158389,
-                "page": "MangaFire",
-                "title": "My Arika",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-no-arika.ox4yy/"
-            },
-            "watashi-no-arikaa.ox4yy": {
-                "identifier": "watashi-no-arikaa.ox4yy",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/deb640059def15d4d89e350d38fc68ad.jpg",
-                "malId": 154136,
-                "aniId": 158389,
-                "page": "MangaFire",
-                "title": "My Arika",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-no-arikaa.ox4yy/"
-            }
-        },
         "MangaNato": {
             "manga-bw1004705": {
+                "id": 201056,
                 "identifier": "manga-bw1004705",
                 "image": "https://avt.mkklcdnv6temp.com/fld/32/l/18-1733329168-nw.webp",
                 "malId": 154136,
@@ -50,6 +30,19 @@
                 "title": "When Arika Went Missing",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-bw1004705"
+            }
+        },
+        "MangaFire": {
+            "ox4yy": {
+                "id": 229472,
+                "identifier": "ox4yy",
+                "image": "https://static.mangafire.to/c418/i/d/de/deb640059def15d4d89e350d38fc68ad.jpg",
+                "malId": 154136,
+                "aniId": 158389,
+                "page": "MangaFire",
+                "title": "My Arika",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-no-arikaa.ox4yy"
             }
         },
         "Comick": {

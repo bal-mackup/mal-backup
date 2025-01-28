@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7ae7fcbc-0aee-417d-9262-be4d5beac3ca": {
+                "id": 162435,
                 "identifier": "7ae7fcbc-0aee-417d-9262-be4d5beac3ca",
                 "image": "https://uploads.mangadex.org/covers/7ae7fcbc-0aee-417d-9262-be4d5beac3ca/0b64a7f6-03f9-4ddb-9f99-dfa3b4e27cf0.jpg",
                 "malId": 160273,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/7ae7fcbc-0aee-417d-9262-be4d5beac3ca"
             }
         },
-        "MangaFire": {
-            "wild-strawberry.jpl12": {
-                "identifier": "wild-strawberry.jpl12",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13b302f1db5b9658fda154f647a4fad5.jpg",
-                "malId": 160273,
-                "aniId": 167022,
-                "page": "MangaFire",
-                "title": "Wild Strawberry (YONEMOTO Ire)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wild-strawberry.jpl12/"
-            },
-            "wild-strawberryy.jpl12": {
-                "identifier": "wild-strawberryy.jpl12",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13b302f1db5b9658fda154f647a4fad5.jpg",
-                "malId": 160273,
-                "aniId": 167022,
-                "page": "MangaFire",
-                "title": "Wild Strawberry (YONEMOTO Ire)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wild-strawberryy.jpl12/"
-            }
-        },
         "MangaSee": {
             "wild-strawberry": {
+                "id": 163433,
                 "identifier": "wild-strawberry",
                 "image": "https://temp.compsci88.com/cover/Wild-Strawberry.jpg",
                 "malId": 160273,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "wild_strawberry_yonemoto_ire": {
+                "id": 172251,
                 "identifier": "wild_strawberry_yonemoto_ire",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45133/cover.jpg",
                 "malId": 160273,
@@ -66,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vc998359": {
+                "id": 172252,
                 "identifier": "manga-vc998359",
                 "image": "https://avt.mkklcdnv6temp.com/fld/89/p/15-1733312239-nw.webp",
                 "malId": 160273,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygbh5pvffg0fwzstrvqz": {
+                "id": 209572,
                 "identifier": "01j76xygbh5pvffg0fwzstrvqz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGBH5PVFFG0FWZSTRVQZ.jpg",
                 "malId": 160273,
@@ -86,6 +69,19 @@
                 "title": "Wild Strawberry",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGBH5PVFFG0FWZSTRVQZ"
+            }
+        },
+        "MangaFire": {
+            "jpl12": {
+                "id": 226516,
+                "identifier": "jpl12",
+                "image": "https://static.mangafire.to/ed70/i/1/13/13b302f1db5b9658fda154f647a4fad5.jpg",
+                "malId": 160273,
+                "aniId": 167022,
+                "page": "MangaFire",
+                "title": "Wild Strawberry (YONEMOTO Ire)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wild-strawberryy.jpl12"
             }
         },
         "Comick": {

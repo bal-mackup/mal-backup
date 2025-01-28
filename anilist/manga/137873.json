@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "gigantis": {
+                "id": 87179,
                 "identifier": "gigantis",
                 "image": "https://temp.compsci88.com/cover/Gigantis.jpg",
                 "malId": 139257,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mv989778": {
+                "id": 88348,
                 "identifier": "manga-mv989778",
                 "image": "https://avt.mkklcdnv6temp.com/46/c/24-1633870994.jpg",
                 "malId": 139257,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "fff8f972-ff3e-4f24-9792-82e91635378e": {
+                "id": 91644,
                 "identifier": "fff8f972-ff3e-4f24-9792-82e91635378e",
                 "image": "https://uploads.mangadex.org/covers/fff8f972-ff3e-4f24-9792-82e91635378e/aa2b8f94-f7a8-46e3-8088-412f879aefad.jpg",
                 "malId": 139257,
@@ -42,20 +45,9 @@
                 "url": "https://mangadex.org/title/fff8f972-ff3e-4f24-9792-82e91635378e"
             }
         },
-        "MangaFire": {
-            "gigantis.ojjj4": {
-                "identifier": "gigantis.ojjj4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0725f2cc3f10176d60395a9de2688333.jpg",
-                "malId": 139257,
-                "aniId": 137873,
-                "page": "MangaFire",
-                "title": "Gigantis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gigantis.ojjj4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf22pvex9fz9rnydtx40": {
+                "id": 210694,
                 "identifier": "01j76xyf22pvex9fz9rnydtx40",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF22PVEX9FZ9RNYDTX40.jpg",
                 "malId": 139257,
@@ -64,6 +56,19 @@
                 "title": "Gigantis",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF22PVEX9FZ9RNYDTX40"
+            }
+        },
+        "MangaFire": {
+            "ojjj4": {
+                "id": 256789,
+                "identifier": "ojjj4",
+                "image": "https://static.mangafire.to/4ca5/i/0/07/0725f2cc3f10176d60395a9de2688333.jpg",
+                "malId": 139257,
+                "aniId": 137873,
+                "page": "MangaFire",
+                "title": "Gigantis",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gigantiss.ojjj4"
             }
         },
         "Comick": {

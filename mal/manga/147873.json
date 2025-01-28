@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "43ba30ce-8cdb-4f68-863a-04e6ce7501ef": {
+                "id": 90424,
                 "identifier": "43ba30ce-8cdb-4f68-863a-04e6ce7501ef",
                 "image": "https://uploads.mangadex.org/covers/43ba30ce-8cdb-4f68-863a-04e6ce7501ef/43b995ba-0b8c-4790-ba27-2bd90b9fcf5d.jpg",
                 "malId": 147873,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/43ba30ce-8cdb-4f68-863a-04e6ce7501ef"
             }
         },
-        "MangaFire": {
-            "heeran-love-song.qkk05": {
-                "identifier": "heeran-love-song.qkk05",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24ea8327d43f86e3bb40acf95145f706.jpg",
-                "malId": 147873,
-                "aniId": 141619,
-                "page": "MangaFire",
-                "title": "Twilight Poem",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/heeran-love-song.qkk05/"
-            },
-            "heeran-love-songg.qkk05": {
-                "identifier": "heeran-love-songg.qkk05",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24ea8327d43f86e3bb40acf95145f706.jpg",
-                "malId": 147873,
-                "aniId": 141619,
-                "page": "MangaFire",
-                "title": "Twilight Poem",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/heeran-love-songg.qkk05/"
-            }
-        },
         "MangaSee": {
             "twilight-poem": {
+                "id": 183223,
                 "identifier": "twilight-poem",
                 "image": "https://temp.compsci88.com/cover/Twilight-Poem.jpg",
                 "malId": 147873,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh0ndv0f9x1c5hhxw6n6": {
+                "id": 212072,
                 "identifier": "01j76xyh0ndv0f9x1c5hhxw6n6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH0NDV0F9X1C5HHXW6N6.jpg",
                 "malId": 147873,
@@ -62,6 +43,19 @@
                 "title": "Twilight Poem",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH0NDV0F9X1C5HHXW6N6"
+            }
+        },
+        "MangaFire": {
+            "qkk05": {
+                "id": 229032,
+                "identifier": "qkk05",
+                "image": "https://static.mangafire.to/4f0c/i/2/24/24ea8327d43f86e3bb40acf95145f706.jpg",
+                "malId": 147873,
+                "aniId": 141619,
+                "page": "MangaFire",
+                "title": "Twilight Poem",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/heeran-love-songg.qkk05"
             }
         }
     },

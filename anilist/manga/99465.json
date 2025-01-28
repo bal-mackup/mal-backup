@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78": {
+                "id": 17730,
                 "identifier": "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78",
-                "image": "https://uploads.mangadex.org/covers/8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78/65e5490c-1cf2-4247-b42e-9d744afdc10a.jpg",
+                "image": "https://uploads.mangadex.org/covers/8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78/25f00162-1422-4e6a-9943-ec61332eb32a.jpg",
                 "malId": 105645,
                 "aniId": 99465,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "in-a-different-world-with-a-smartphone": {
+                "id": 54870,
                 "identifier": "in-a-different-world-with-a-smartphone",
                 "image": "https://temp.compsci88.com/cover/In-A-Different-World-With-A-Smartphone.jpg",
                 "malId": 105645,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zu977077": {
+                "id": 74403,
                 "identifier": "manga-zu977077",
                 "image": "https://avt.mkklcdnv6temp.com/34/v/15-1583492828.jpg",
                 "malId": 105645,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-zu977077"
             }
         },
-        "MangaFire": {
-            "isekai-wa-smartphone-to-tomo-ni.zl75l": {
-                "identifier": "isekai-wa-smartphone-to-tomo-ni.zl75l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4c342394e1338e7ad639ba9ebe97cab.jpg",
-                "malId": 105645,
-                "aniId": 99465,
-                "page": "MangaFire",
-                "title": "In Another World With My Smartphone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-wa-smartphone-to-tomo-ni.zl75l/"
-            },
-            "isekai-wa-smartphone-to-tomo-nii.zl75l": {
-                "identifier": "isekai-wa-smartphone-to-tomo-nii.zl75l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4c342394e1338e7ad639ba9ebe97cab.jpg",
-                "malId": 105645,
-                "aniId": 99465,
-                "page": "MangaFire",
-                "title": "In Another World With My Smartphone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-wa-smartphone-to-tomo-nii.zl75l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5c6k28sand5ga1mzvy": {
+                "id": 208938,
                 "identifier": "01j76xyc5c6k28sand5ga1mzvy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5C6K28SAND5GA1MZVY.jpg",
                 "malId": 105645,
@@ -74,6 +56,19 @@
                 "title": "In Another World with My Smartphone",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5C6K28SAND5GA1MZVY"
+            }
+        },
+        "MangaFire": {
+            "zl75l": {
+                "id": 225817,
+                "identifier": "zl75l",
+                "image": "https://static.mangafire.to/0a69/i/c/c4/c4c342394e1338e7ad639ba9ebe97cab.jpg",
+                "malId": 105645,
+                "aniId": 99465,
+                "page": "MangaFire",
+                "title": "In Another World With My Smartphone",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-wa-smartphone-to-tomo-nii.zl75l"
             }
         },
         "Comick": {

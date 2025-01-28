@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e97fdc93-21ec-47e0-b676-e45d67068932": {
+                "id": 26137,
                 "identifier": "e97fdc93-21ec-47e0-b676-e45d67068932",
                 "image": "https://uploads.mangadex.org/covers/e97fdc93-21ec-47e0-b676-e45d67068932/6d14c655-fe33-4cab-8e8d-b6900d5b6af9.jpg",
                 "malId": 117840,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ase-to-sekken": {
+                "id": 54348,
                 "identifier": "ase-to-sekken",
                 "image": "https://temp.compsci88.com/cover/Ase-To-Sekken.jpg",
                 "malId": 117840,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ase_to_sekken": {
+                "id": 64046,
                 "identifier": "ase_to_sekken",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29781/cover.jpg",
                 "malId": 117840,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dp980798": {
+                "id": 73600,
                 "identifier": "manga-dp980798",
                 "image": "https://avt.mkklcdnv6temp.com/42/c/17-1583496777.jpg",
                 "malId": 117840,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dp980798"
             }
         },
-        "MangaFire": {
-            "ase-to-sekken.rjn5n": {
-                "identifier": "ase-to-sekken.rjn5n",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/47ee7d5bbc62e174e8970af1e2913b78.jpg",
-                "malId": 117840,
-                "aniId": 105332,
-                "page": "MangaFire",
-                "title": "Sweat and Soap",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ase-to-sekken.rjn5n/"
-            },
-            "ase-to-sekkenn.rjn5n": {
-                "identifier": "ase-to-sekkenn.rjn5n",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/47ee7d5bbc62e174e8970af1e2913b78.jpg",
-                "malId": 117840,
-                "aniId": 105332,
-                "page": "MangaFire",
-                "title": "Sweat and Soap",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ase-to-sekkenn.rjn5n/"
-            }
-        },
         "Weebcentral": {
             "01j76xycthhz9wa3yx0f66bpkv": {
+                "id": 208635,
                 "identifier": "01j76xycthhz9wa3yx0f66bpkv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCTHHZ9WA3YX0F66BPKV.jpg",
                 "malId": 117840,
@@ -86,6 +69,19 @@
                 "title": "Sweat and Soap",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCTHHZ9WA3YX0F66BPKV"
+            }
+        },
+        "MangaFire": {
+            "rjn5n": {
+                "id": 225681,
+                "identifier": "rjn5n",
+                "image": "https://static.mangafire.to/0a9e/i/4/47/47ee7d5bbc62e174e8970af1e2913b78.jpg",
+                "malId": 117840,
+                "aniId": 105332,
+                "page": "MangaFire",
+                "title": "Sweat and Soap",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ase-to-sekkenn.rjn5n"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8a8f92dc-cb73-44b5-a0a8-bdff578419ba": {
+                "id": 57905,
                 "identifier": "8a8f92dc-cb73-44b5-a0a8-bdff578419ba",
                 "image": "https://uploads.mangadex.org/covers/8a8f92dc-cb73-44b5-a0a8-bdff578419ba/68f783e9-e6e5-4dc9-9a36-6dec70977cca.jpg",
                 "malId": 147271,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "parallel_city": {
+                "id": 125558,
                 "identifier": "parallel_city",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38800/cover.jpg",
                 "malId": 147271,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/parallel_city/"
             }
         },
-        "MangaFire": {
-            "pyeonghaengdosi.qxykj": {
-                "identifier": "pyeonghaengdosi.qxykj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/9640f2590bc4730f347a87e8cb76d221.jpg",
-                "malId": 147271,
-                "aniId": 120585,
-                "page": "MangaFire",
-                "title": "Parallel City",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pyeonghaengdosi.qxykj/"
-            }
-        },
         "MangaNato": {
             "manga-tq996999": {
+                "id": 162698,
                 "identifier": "manga-tq996999",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/w/15-1733308889-nw.webp",
                 "malId": 147271,
@@ -56,6 +47,7 @@
         },
         "MangaSee": {
             "parallel-city": {
+                "id": 187967,
                 "identifier": "parallel-city",
                 "image": "https://temp.compsci88.com/cover/Parallel-City.jpg",
                 "malId": 147271,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh69qbq32bxysxt715e7": {
+                "id": 208217,
                 "identifier": "01j76xyh69qbq32bxysxt715e7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH69QBQ32BXYSXT715E7.jpg",
                 "malId": 147271,
@@ -76,6 +69,19 @@
                 "title": "Parallel City",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH69QBQ32BXYSXT715E7"
+            }
+        },
+        "MangaFire": {
+            "qxykj": {
+                "id": 253693,
+                "identifier": "qxykj",
+                "image": "https://static.mangafire.to/c0ef/i/9/96/9640f2590bc4730f347a87e8cb76d221.jpg",
+                "malId": 147271,
+                "aniId": 120585,
+                "page": "MangaFire",
+                "title": "Parallel City",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pyeonghaengdosii.qxykj"
             }
         },
         "Comick": {

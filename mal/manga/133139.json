@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c9837a61-a9e5-4aeb-b8ce-fc9de9fd5f1b": {
+                "id": 32712,
                 "identifier": "c9837a61-a9e5-4aeb-b8ce-fc9de9fd5f1b",
                 "image": "https://uploads.mangadex.org/covers/c9837a61-a9e5-4aeb-b8ce-fc9de9fd5f1b/4a79517f-a357-4d09-badd-9c9df84de3b8.jpg",
                 "malId": 133139,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "to-love-your-enemy": {
+                "id": 60013,
                 "identifier": "to-love-your-enemy",
                 "image": "https://temp.compsci88.com/cover/To-Love-Your-Enemy.jpg",
                 "malId": 133139,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/To-Love-Your-Enemy"
             }
         },
-        "MangaFire": {
-            "love-your-enemies.m29px": {
-                "identifier": "love-your-enemies.m29px",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9af69e5c3857bec142f08bf1ecc0f6fa.jpg",
-                "malId": 133139,
-                "aniId": 116633,
-                "page": "MangaFire",
-                "title": "To Love Your Enemy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/love-your-enemies.m29px/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8fr6n73ghf26bzgexm": {
+                "id": 209711,
                 "identifier": "01j76xye8fr6n73ghf26bzgexm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8FR6N73GHF26BZGEXM.jpg",
                 "malId": 133139,
@@ -52,6 +43,19 @@
                 "title": "To Love Your Enemy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8FR6N73GHF26BZGEXM"
+            }
+        },
+        "MangaFire": {
+            "m29px": {
+                "id": 245245,
+                "identifier": "m29px",
+                "image": "https://static.mangafire.to/fbbe/i/9/9a/9af69e5c3857bec142f08bf1ecc0f6fa.jpg",
+                "malId": 133139,
+                "aniId": 116633,
+                "page": "MangaFire",
+                "title": "To Love Your Enemy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/love-your-enemiess.m29px"
             }
         },
         "Comick": {

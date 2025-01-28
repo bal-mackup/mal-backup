@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f622fd28-5f9b-460f-bc54-2072bbb84298": {
+                "id": 17106,
                 "identifier": "f622fd28-5f9b-460f-bc54-2072bbb84298",
                 "image": "https://uploads.mangadex.org/covers/f622fd28-5f9b-460f-bc54-2072bbb84298/93abbe3c-36ed-4714-bf85-561ccfddcd58.jpg",
                 "malId": 103464,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "raisekamika": {
+                "id": 66362,
                 "identifier": "raisekamika",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24081/cover.jpg",
                 "malId": 103464,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "raisekamika": {
+                "id": 71768,
                 "identifier": "raisekamika",
                 "image": "https://temp.compsci88.com/cover/Raisekamika.jpg",
                 "malId": 103464,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xh975042": {
+                "id": 77944,
                 "identifier": "manga-xh975042",
                 "image": "https://avt.mkklcdnv6temp.com/3/f/15-1583491584.jpg",
                 "malId": 103464,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xh975042"
             }
         },
-        "MangaFire": {
-            "raise-kamika.qkxvj": {
-                "identifier": "raise-kamika.qkxvj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2261a6a3d69aebbafee89e77503b509.jpg",
-                "malId": 103464,
-                "aniId": 98342,
-                "page": "MangaFire",
-                "title": "Raise Kamika",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/raise-kamika.qkxvj/"
-            },
-            "qkxvj": {
-                "identifier": "qkxvj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2261a6a3d69aebbafee89e77503b509.jpg",
-                "malId": 103464,
-                "aniId": 98342,
-                "page": "MangaFire",
-                "title": "Raise Kamika",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/raise-kamika.qkxvj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc29va0eq1878cmygbp9": {
+                "id": 208989,
                 "identifier": "01j76xyc29va0eq1878cmygbp9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC29VA0EQ1878CMYGBP9.jpg",
                 "malId": 103464,
@@ -86,6 +69,19 @@
                 "title": "Raisekamika",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC29VA0EQ1878CMYGBP9"
+            }
+        },
+        "MangaFire": {
+            "qkxvj": {
+                "id": 250511,
+                "identifier": "qkxvj",
+                "image": "https://static.mangafire.to/c3ba/i/e/e2/e2261a6a3d69aebbafee89e77503b509.jpg",
+                "malId": 103464,
+                "aniId": 98342,
+                "page": "MangaFire",
+                "title": "Raise Kamika",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/raise-kamikaa.qkxvj"
             }
         },
         "Comick": {

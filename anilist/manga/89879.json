@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e205249-2d25-4c3a-adf5-1c8cc7146688": {
+                "id": 10714,
                 "identifier": "7e205249-2d25-4c3a-adf5-1c8cc7146688",
                 "image": "https://uploads.mangadex.org/covers/7e205249-2d25-4c3a-adf5-1c8cc7146688/d31f4058-c668-4bf1-a614-526f2b4882f1.png",
                 "malId": 63907,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "spoof-on-titan": {
+                "id": 88419,
                 "identifier": "spoof-on-titan",
                 "image": "https://temp.compsci88.com/cover/Spoof-on-Titan.jpg",
                 "malId": 63907,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Spoof-on-Titan"
             }
         },
-        "MangaFire": {
-            "sungeki-no-kyojin.oz5z": {
-                "identifier": "sungeki-no-kyojin.oz5z",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9436fe5e9ea96845147cd817cd90c0f.jpg",
-                "malId": 63907,
-                "aniId": 89879,
-                "page": "MangaFire",
-                "title": "Spoof on Titan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sungeki-no-kyojin.oz5z/"
-            },
-            "oz5z": {
-                "identifier": "oz5z",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9436fe5e9ea96845147cd817cd90c0f.jpg",
-                "malId": 63907,
-                "aniId": 89879,
-                "page": "MangaFire",
-                "title": "Spoof on Titan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sungeki-no-kyojin.oz5z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf2n5wh9jfxk2r261bfq": {
+                "id": 209368,
                 "identifier": "01j76xyf2n5wh9jfxk2r261bfq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF2N5WH9JFXK2R261BFQ.jpg",
                 "malId": 63907,
@@ -62,6 +43,19 @@
                 "title": "Spoof on Titan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF2N5WH9JFXK2R261BFQ"
+            }
+        },
+        "MangaFire": {
+            "oz5z": {
+                "id": 246295,
+                "identifier": "oz5z",
+                "image": "https://static.mangafire.to/f073/i/a/a9/a9436fe5e9ea96845147cd817cd90c0f.jpg",
+                "malId": 63907,
+                "aniId": 89879,
+                "page": "MangaFire",
+                "title": "Spoof on Titan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sungeki-no-kyojinn.oz5z"
             }
         },
         "Comick": {

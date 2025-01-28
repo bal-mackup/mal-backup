@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9eff6d50-5ca7-4638-abcb-659fd51823b5": {
+                "id": 32040,
                 "identifier": "9eff6d50-5ca7-4638-abcb-659fd51823b5",
                 "image": "https://uploads.mangadex.org/covers/9eff6d50-5ca7-4638-abcb-659fd51823b5/360e170d-f7fe-426d-a429-9babcbed5a14.jpg",
                 "malId": 123092,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yuujin-chara-wa-taihen-desu-ka": {
+                "id": 56501,
                 "identifier": "yuujin-chara-wa-taihen-desu-ka",
                 "image": "https://temp.compsci88.com/cover/Yuujin-Chara-wa-Taihen-desu-ka.jpg",
                 "malId": 123092,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yuujin_chara_wa_taihen_desu_ka": {
+                "id": 62524,
                 "identifier": "yuujin_chara_wa_taihen_desu_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32237/cover.jpg",
                 "malId": 123092,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gm983769": {
+                "id": 73999,
                 "identifier": "manga-gm983769",
                 "image": "https://avt.mkklcdnv6temp.com/1/c/19-1583501034.jpg",
                 "malId": 123092,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-gm983769"
             }
         },
-        "MangaFire": {
-            "is-it-tough-being-a-friend.7jvxy": {
-                "identifier": "is-it-tough-being-a-friend.7jvxy",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2fa2fcd0bcf66842f998e6c2e23606a8.jpg",
-                "malId": 123092,
-                "aniId": 119507,
-                "page": "MangaFire",
-                "title": "Is it tough being \"a Friend\"?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/is-it-tough-being-a-friend.7jvxy/"
-            },
-            "is-it-tough-being-a-friendd.7jvxy": {
-                "identifier": "is-it-tough-being-a-friendd.7jvxy",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2fa2fcd0bcf66842f998e6c2e23606a8.jpg",
-                "malId": 123092,
-                "aniId": 119507,
-                "page": "MangaFire",
-                "title": "Is it tough being \"a Friend\"?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/is-it-tough-being-a-friendd.7jvxy/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmg8qys25c3acawpanz": {
+                "id": 212003,
                 "identifier": "01j76xydmg8qys25c3acawpanz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMG8QYS25C3ACAWPANZ.jpg",
                 "malId": 123092,
@@ -86,6 +69,19 @@
                 "title": "Yuujin Chara wa Taihen desu ka?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMG8QYS25C3ACAWPANZ"
+            }
+        },
+        "MangaFire": {
+            "7jvxy": {
+                "id": 229665,
+                "identifier": "7jvxy",
+                "image": "https://static.mangafire.to/d717/i/2/2f/2fa2fcd0bcf66842f998e6c2e23606a8.jpg",
+                "malId": 123092,
+                "aniId": 119507,
+                "page": "MangaFire",
+                "title": "Is it tough being \"a Friend\"?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/is-it-tough-being-a-friendd.7jvxy"
             }
         },
         "Comick": {

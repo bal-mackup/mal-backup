@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a80bbcc1-d521-4c50-9485-7c8e93cd2ff2": {
+                "id": 21415,
                 "identifier": "a80bbcc1-d521-4c50-9485-7c8e93cd2ff2",
                 "image": "https://uploads.mangadex.org/covers/a80bbcc1-d521-4c50-9485-7c8e93cd2ff2/1a53a787-628e-4517-b97d-9e88c0129c38.jpg",
                 "malId": 136636,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "imaginary": {
+                "id": 114204,
                 "identifier": "imaginary",
                 "image": "https://temp.compsci88.com/cover/Imaginary.jpg",
                 "malId": 136636,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Imaginary"
             }
         },
-        "MangaFire": {
-            "imaginary.n14m": {
-                "identifier": "imaginary.n14m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98b26cacec13270f8822b3a1814e2724.jpg",
-                "malId": 136636,
-                "aniId": 108903,
-                "page": "MangaFire",
-                "title": "Imaginary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imaginary.n14m/"
-            },
-            "imaginaryy.n14m": {
-                "identifier": "imaginaryy.n14m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98b26cacec13270f8822b3a1814e2724.jpg",
-                "malId": 136636,
-                "aniId": 108903,
-                "page": "MangaFire",
-                "title": "Imaginary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imaginaryy.n14m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfn5erbzp2m2sk8wypxg": {
+                "id": 207060,
                 "identifier": "01j76xyfn5erbzp2m2sk8wypxg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFN5ERBZP2M2SK8WYPXG.jpg",
                 "malId": 136636,
@@ -62,6 +43,19 @@
                 "title": "Imaginary",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFN5ERBZP2M2SK8WYPXG"
+            }
+        },
+        "MangaFire": {
+            "n14m": {
+                "id": 228994,
+                "identifier": "n14m",
+                "image": "https://static.mangafire.to/6524/i/9/98/98b26cacec13270f8822b3a1814e2724.jpg",
+                "malId": 136636,
+                "aniId": 108903,
+                "page": "MangaFire",
+                "title": "Imaginary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/imaginaryy.n14m"
             }
         },
         "Comick": {

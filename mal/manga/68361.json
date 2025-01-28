@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1003024d-101c-4fb6-86e6-033167bab723": {
+                "id": 10604,
                 "identifier": "1003024d-101c-4fb6-86e6-033167bab723",
                 "image": "https://uploads.mangadex.org/covers/1003024d-101c-4fb6-86e6-033167bab723/57892aeb-0a79-4f4f-a59d-33151b1daf24.png",
                 "malId": 68361,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "amai-seikatsu": {
+                "id": 62634,
                 "identifier": "amai-seikatsu",
                 "image": "https://temp.compsci88.com/cover/Amai-Seikatsu.jpg",
                 "malId": 68361,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "amai_seikatsu": {
+                "id": 82741,
                 "identifier": "amai_seikatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13820/cover.jpg",
                 "malId": 68361,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xj953718": {
+                "id": 92521,
                 "identifier": "manga-xj953718",
                 "image": "https://avt.mkklcdnv6temp.com/fld/85/m/1-1732719853-nw.webp",
                 "malId": 68361,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xj953718"
             }
         },
-        "MangaFire": {
-            "amai-seikatsu.8j1y": {
-                "identifier": "amai-seikatsu.8j1y",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/717e0bcb0b2163db7094635e7347bc61.jpg",
-                "malId": 68361,
-                "aniId": 90835,
-                "page": "MangaFire",
-                "title": "Sweet Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amai-seikatsu.8j1y/"
-            },
-            "8j1y": {
-                "identifier": "8j1y",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/717e0bcb0b2163db7094635e7347bc61.jpg",
-                "malId": 68361,
-                "aniId": 90835,
-                "page": "MangaFire",
-                "title": "Sweet Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amai-seikatsu.8j1y/"
-            }
-        },
         "Weebcentral": {
             "01j76xya71w21f6fe3m0pn1vfq": {
+                "id": 211655,
                 "identifier": "01j76xya71w21f6fe3m0pn1vfq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA71W21F6FE3M0PN1VFQ.jpg",
                 "malId": 68361,
@@ -86,6 +69,19 @@
                 "title": "Amai Seikatsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA71W21F6FE3M0PN1VFQ"
+            }
+        },
+        "MangaFire": {
+            "8j1y": {
+                "id": 261950,
+                "identifier": "8j1y",
+                "image": "https://static.mangafire.to/fe15/i/7/71/717e0bcb0b2163db7094635e7347bc61.jpg",
+                "malId": 68361,
+                "aniId": 90835,
+                "page": "MangaFire",
+                "title": "Sweet Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/amai-seikatsuu.8j1y"
             }
         },
         "Comick": {

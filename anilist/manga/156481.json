@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "79b7357c-ea5b-491a-a25b-155a804bf53f": {
+                "id": 117428,
                 "identifier": "79b7357c-ea5b-491a-a25b-155a804bf53f",
                 "image": "https://uploads.mangadex.org/covers/79b7357c-ea5b-491a-a25b-155a804bf53f/1d2813eb-4369-4b51-b312-3b7d49f306b6.jpg",
                 "malId": 153111,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sd995612": {
+                "id": 155821,
                 "identifier": "manga-sd995612",
                 "image": "https://avt.mkklcdnv6temp.com/fld/84/u/14-1733305679-nw.webp",
                 "malId": 153111,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-sd995612"
             }
         },
-        "MangaFire": {
-            "oshi-ni-amagami.v9j77": {
-                "identifier": "oshi-ni-amagami.v9j77",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/265ffdce8204ecced08bd99346a54187.jpg",
-                "malId": 153111,
-                "aniId": 156481,
-                "page": "MangaFire",
-                "title": "Oshi ni Amagami",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshi-ni-amagami.v9j77/"
-            },
-            "oshi-ni-amagamii.v9j77": {
-                "identifier": "oshi-ni-amagamii.v9j77",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/265ffdce8204ecced08bd99346a54187.jpg",
-                "malId": 153111,
-                "aniId": 156481,
-                "page": "MangaFire",
-                "title": "Oshi ni Amagami",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshi-ni-amagamii.v9j77/"
-            }
-        },
         "Weebcentral": {
             "01jbhktfy5c1jr3zrt8xyyshqg": {
+                "id": 215344,
                 "identifier": "01jbhktfy5c1jr3zrt8xyyshqg",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBHKTFY5C1JR3ZRT8XYYSHQG.jpg",
                 "malId": 153111,
@@ -62,6 +43,19 @@
                 "title": "Otaku Vampire's Love Bite",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBHKTFY5C1JR3ZRT8XYYSHQG"
+            }
+        },
+        "MangaFire": {
+            "v9j77": {
+                "id": 227909,
+                "identifier": "v9j77",
+                "image": "https://static.mangafire.to/5173/i/2/26/265ffdce8204ecced08bd99346a54187.jpg",
+                "malId": 153111,
+                "aniId": 156481,
+                "page": "MangaFire",
+                "title": "Otaku Vampire's Love Bite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oshi-ni-amagamii.v9j77"
             }
         },
         "Comick": {

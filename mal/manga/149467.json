@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c0189f4a-dee6-48f4-abbe-53a4359cbcfb": {
+                "id": 96019,
                 "identifier": "c0189f4a-dee6-48f4-abbe-53a4359cbcfb",
                 "image": "https://uploads.mangadex.org/covers/c0189f4a-dee6-48f4-abbe-53a4359cbcfb/70d10a5a-f29c-4c53-a8ea-266052c623ad.jpg",
                 "malId": 149467,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nt990902": {
+                "id": 105884,
                 "identifier": "manga-nt990902",
                 "image": "https://avt.mkklcdnv6temp.com/43/n/25-1653915858.jpg",
                 "malId": 149467,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "at-the-northern-fort": {
+                "id": 108480,
                 "identifier": "at-the-northern-fort",
                 "image": "https://temp.compsci88.com/cover/At-the-Northern-Fort.jpg",
                 "malId": 149467,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/At-the-Northern-Fort"
             }
         },
-        "MangaFire": {
-            "at-the-northern-fort.2ojl2": {
-                "identifier": "at-the-northern-fort.2ojl2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/47a5ef5fdc0cacf60ed1449e02dc172f.jpg",
-                "malId": 149467,
-                "aniId": 149434,
-                "page": "MangaFire",
-                "title": "At the Northern Fort",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/at-the-northern-fort.2ojl2/"
-            },
-            "at-the-northern-fortt.2ojl2": {
-                "identifier": "at-the-northern-fortt.2ojl2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/47a5ef5fdc0cacf60ed1449e02dc172f.jpg",
-                "malId": 149467,
-                "aniId": 149434,
-                "page": "MangaFire",
-                "title": "At the Northern Fort",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/at-the-northern-fortt.2ojl2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfh81dv805k4wgvksmxt": {
+                "id": 212342,
                 "identifier": "01j76xyfh81dv805k4wgvksmxt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFH81DV805K4WGVKSMXT.jpg",
                 "malId": 149467,
@@ -74,6 +56,19 @@
                 "title": "At the Northern Fort",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFH81DV805K4WGVKSMXT"
+            }
+        },
+        "MangaFire": {
+            "2ojl2": {
+                "id": 239616,
+                "identifier": "2ojl2",
+                "image": "https://static.mangafire.to/a9fd/i/4/47/47a5ef5fdc0cacf60ed1449e02dc172f.jpg",
+                "malId": 149467,
+                "aniId": 149434,
+                "page": "MangaFire",
+                "title": "At the Northern Fort",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/at-the-northern-fortt.2ojl2"
             }
         },
         "Comick": {

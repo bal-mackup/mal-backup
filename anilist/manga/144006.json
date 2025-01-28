@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0998984d-78ba-4c6d-b2b7-7c3bbe3a9759": {
+                "id": 100304,
                 "identifier": "0998984d-78ba-4c6d-b2b7-7c3bbe3a9759",
                 "image": "https://uploads.mangadex.org/covers/0998984d-78ba-4c6d-b2b7-7c3bbe3a9759/e062d285-5d46-490e-b2b2-5467d24371bb.jpg",
                 "malId": 147502,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-reason-to-die": {
+                "id": 105214,
                 "identifier": "my-reason-to-die",
                 "image": "https://temp.compsci88.com/cover/My-Reason-to-Die.jpg",
                 "malId": 147502,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ph992590": {
+                "id": 115750,
                 "identifier": "manga-ph992590",
                 "image": "https://avt.mkklcdnv6temp.com/14/x/27-1664357892.jpg",
                 "malId": 147502,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ph992590"
             }
         },
-        "MangaFire": {
-            "what-i-decided-to-die-for.3rqr6": {
-                "identifier": "what-i-decided-to-die-for.3rqr6",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d9ac4911e25b4c26bf479b7d67b0134.jpg",
-                "malId": 147502,
-                "aniId": 144006,
-                "page": "MangaFire",
-                "title": "My Reason To Die",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/what-i-decided-to-die-for.3rqr6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfeecdwg6kxfhn936hww": {
+                "id": 214418,
                 "identifier": "01j76xyfeecdwg6kxfhn936hww",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFEECDWG6KXFHN936HWW.jpg",
                 "malId": 147502,
@@ -64,6 +56,19 @@
                 "title": "My Reason to Die",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFEECDWG6KXFHN936HWW"
+            }
+        },
+        "MangaFire": {
+            "3rqr6": {
+                "id": 254952,
+                "identifier": "3rqr6",
+                "image": "https://static.mangafire.to/c455/i/0/0d/0d9ac4911e25b4c26bf479b7d67b0134.jpg",
+                "malId": 147502,
+                "aniId": 144006,
+                "page": "MangaFire",
+                "title": "My Reason To Die",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/what-i-decided-to-die-forr.3rqr6"
             }
         },
         "Comick": {

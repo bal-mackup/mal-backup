@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d2ff93e0-2c15-4f92-9ea4-ca029f7b9acc": {
+                "id": 95275,
                 "identifier": "d2ff93e0-2c15-4f92-9ea4-ca029f7b9acc",
                 "image": "https://uploads.mangadex.org/covers/d2ff93e0-2c15-4f92-9ea4-ca029f7b9acc/13f82464-3b4c-4ae1-9dc1-be69d38819a1.jpg",
                 "malId": 136975,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rs994401": {
+                "id": 125209,
                 "identifier": "manga-rs994401",
                 "image": "https://avt.mkklcdnv6temp.com/36/p/28-1676952606.jpg",
                 "malId": 136975,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rs994401"
             }
         },
-        "MangaFire": {
-            "unmei-no-hito-ni-deau-hanashi.2o7kq": {
-                "identifier": "unmei-no-hito-ni-deau-hanashi.2o7kq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fdcbc74d7c4b78ab596b4e4154e5d50b.jpg",
-                "malId": 136975,
-                "aniId": 132926,
-                "page": "MangaFire",
-                "title": "How I Met My Soulmate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/unmei-no-hito-ni-deau-hanashi.2o7kq/"
-            }
-        },
         "MangaFox": {
             "unmei_no_hito_ni_deau_hanashi": {
+                "id": 155681,
                 "identifier": "unmei_no_hito_ni_deau_hanashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40254/cover.jpg",
                 "malId": 136975,
@@ -56,6 +47,7 @@
         },
         "MangaSee": {
             "how-i-met-my-soulmate": {
+                "id": 184125,
                 "identifier": "how-i-met-my-soulmate",
                 "image": "https://temp.compsci88.com/cover/How-I-Met-My-Soulmate.jpg",
                 "malId": 136975,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh1gdgzj9ewbnpf2c6ga": {
+                "id": 208141,
                 "identifier": "01j76xyh1gdgzj9ewbnpf2c6ga",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH1GDGZJ9EWBNPF2C6GA.jpg",
                 "malId": 136975,
@@ -76,6 +69,19 @@
                 "title": "How I Met My Soulmate",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH1GDGZJ9EWBNPF2C6GA"
+            }
+        },
+        "MangaFire": {
+            "2o7kq": {
+                "id": 243895,
+                "identifier": "2o7kq",
+                "image": "https://static.mangafire.to/c30f/i/f/fd/fdcbc74d7c4b78ab596b4e4154e5d50b.jpg",
+                "malId": 136975,
+                "aniId": 132926,
+                "page": "MangaFire",
+                "title": "How I Met My Soulmate",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/unmei-no-hito-ni-deau-hanashii.2o7kq"
             }
         },
         "Comick": {

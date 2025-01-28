@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "91b5911c-7112-4944-baa3-c53370da096d": {
+                "id": 15669,
                 "identifier": "91b5911c-7112-4944-baa3-c53370da096d",
                 "image": "https://uploads.mangadex.org/covers/91b5911c-7112-4944-baa3-c53370da096d/25bb67a1-2aed-4a01-a437-90d593696c15.jpg",
                 "malId": 90014,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ex_arm": {
+                "id": 58108,
                 "identifier": "ex_arm",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32292/cover.jpg",
                 "malId": 90014,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ex-arm": {
+                "id": 62710,
                 "identifier": "ex-arm",
                 "image": "https://temp.compsci88.com/cover/Ex-Arm.jpg",
                 "malId": 90014,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gg983841": {
+                "id": 79143,
                 "identifier": "manga-gg983841",
                 "image": "https://avt.mkklcdnv6temp.com/3/u/20-1583501142.jpg",
                 "malId": 90014,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-gg983841"
             }
         },
-        "MangaFire": {
-            "ex-arm.oj82y": {
-                "identifier": "ex-arm.oj82y",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88783094597119d019fdafd70e2ce715.jpg",
-                "malId": 90014,
-                "aniId": 104476,
-                "page": "MangaFire",
-                "title": "EX-ARM",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ex-arm.oj82y/"
-            },
-            "oj82y": {
-                "identifier": "oj82y",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88783094597119d019fdafd70e2ce715.jpg",
-                "malId": 90014,
-                "aniId": 104476,
-                "page": "MangaFire",
-                "title": "EX-ARM",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ex-arm.oj82y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyece02j7p2t917dednqj": {
+                "id": 214159,
                 "identifier": "01j76xyece02j7p2t917dednqj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECE02J7P2T917DEDNQJ.jpg",
                 "malId": 90014,
@@ -86,6 +69,19 @@
                 "title": "Ex-Arm",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECE02J7P2T917DEDNQJ"
+            }
+        },
+        "MangaFire": {
+            "oj82y": {
+                "id": 258121,
+                "identifier": "oj82y",
+                "image": "https://static.mangafire.to/1190/i/8/88/88783094597119d019fdafd70e2ce715.jpg",
+                "malId": 90014,
+                "aniId": 104476,
+                "page": "MangaFire",
+                "title": "EX-ARM",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ex-armm.oj82y"
             }
         },
         "Comick": {

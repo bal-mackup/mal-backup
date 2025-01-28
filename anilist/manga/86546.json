@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e": {
+                "id": 12850,
                 "identifier": "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e",
                 "image": "https://uploads.mangadex.org/covers/f03bc5c5-88b7-42aa-92a6-1a0f34adc47e/fcab7df0-8ded-488e-8575-57184ff5ef9c.jpg",
                 "malId": 86683,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ouji-ga-watashi-o-akiramenai": {
+                "id": 65718,
                 "identifier": "ouji-ga-watashi-o-akiramenai",
                 "image": "https://temp.compsci88.com/cover/Ouji-Ga-Watashi-O-Akiramenai.jpg",
                 "malId": 86683,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ouji_ga_watashi_o_akiramenai": {
+                "id": 67634,
                 "identifier": "ouji_ga_watashi_o_akiramenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15505/cover.jpg",
                 "malId": 86683,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/ouji_ga_watashi_o_akiramenai/"
             }
         },
-        "MangaFire": {
-            "the-princes-romance-gambit.z195l": {
-                "identifier": "the-princes-romance-gambit.z195l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2ff032bac1b949827e5d9b06635ef074.jpg",
-                "malId": 86683,
-                "aniId": 86546,
-                "page": "MangaFire",
-                "title": "The Prince's Romance Gambit",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-princes-romance-gambit.z195l/"
-            },
-            "z195l": {
-                "identifier": "z195l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2ff032bac1b949827e5d9b06635ef074.jpg",
-                "malId": 86683,
-                "aniId": 86546,
-                "page": "MangaFire",
-                "title": "The Prince's Romance Gambit",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-princes-romance-gambit.z195l/"
-            }
-        },
         "MangaNato": {
             "manga-gu952203": {
+                "id": 162381,
                 "identifier": "manga-gu952203",
                 "image": "https://avt.mkklcdnv6temp.com/fld/34/g/1-1732717726-nw.webp",
                 "malId": 86683,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xybn4jjgdn6heyf2fey1y": {
+                "id": 212015,
                 "identifier": "01j76xybn4jjgdn6heyf2fey1y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBN4JJGDN6HEYF2FEY1Y.jpg",
                 "malId": 86683,
@@ -86,6 +69,19 @@
                 "title": "The Prince's Romance Gambit",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBN4JJGDN6HEYF2FEY1Y"
+            }
+        },
+        "MangaFire": {
+            "z195l": {
+                "id": 243353,
+                "identifier": "z195l",
+                "image": "https://static.mangafire.to/77d3/i/2/2f/2ff032bac1b949827e5d9b06635ef074.jpg",
+                "malId": 86683,
+                "aniId": 86546,
+                "page": "MangaFire",
+                "title": "The Prince's Romance Gambit",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-princes-romance-gambitt.z195l"
             }
         },
         "Comick": {

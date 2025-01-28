@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c52ab0a0-b981-45c0-b474-6c1372aad854": {
+                "id": 10465,
                 "identifier": "c52ab0a0-b981-45c0-b474-6c1372aad854",
                 "image": "https://uploads.mangadex.org/covers/c52ab0a0-b981-45c0-b474-6c1372aad854/4869d10b-3d42-496d-98df-5e39f54ec6b4.jpg",
                 "malId": 70525,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "silent-kiss": {
+                "id": 77169,
                 "identifier": "silent-kiss",
                 "image": "https://temp.compsci88.com/cover/Silent-Kiss.jpg",
                 "malId": 70525,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ke962213": {
+                "id": 122258,
                 "identifier": "manga-ke962213",
                 "image": "https://avt.mkklcdnv6temp.com/fld/62/u/4-1732763102-nw.webp",
                 "malId": 70525,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-ke962213"
             }
         },
-        "MangaFire": {
-            "silent-kiss.pnxj": {
-                "identifier": "silent-kiss.pnxj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/efafbc99ff8b62c99eb3a26edf256ed2.jpg",
-                "malId": 70525,
-                "aniId": 86288,
-                "page": "MangaFire",
-                "title": "Silent Kiss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/silent-kiss.pnxj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyagjp8za8gf3x03v8t0q": {
+                "id": 209832,
                 "identifier": "01j76xyagjp8za8gf3x03v8t0q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAGJP8ZA8GF3X03V8T0Q.jpg",
                 "malId": 70525,
@@ -64,6 +56,19 @@
                 "title": "Silent Kiss",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAGJP8ZA8GF3X03V8T0Q"
+            }
+        },
+        "MangaFire": {
+            "pnxj": {
+                "id": 246621,
+                "identifier": "pnxj",
+                "image": "https://static.mangafire.to/6300/i/e/ef/efafbc99ff8b62c99eb3a26edf256ed2.jpg",
+                "malId": 70525,
+                "aniId": 86288,
+                "page": "MangaFire",
+                "title": "Silent Kiss",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/silent-kisss.pnxj"
             }
         },
         "Comick": {

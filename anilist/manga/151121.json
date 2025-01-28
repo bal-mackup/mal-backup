@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b7f2cd24-b217-4d06-906b-f311c8244178": {
+                "id": 106243,
                 "identifier": "b7f2cd24-b217-4d06-906b-f311c8244178",
                 "image": "https://uploads.mangadex.org/covers/b7f2cd24-b217-4d06-906b-f311c8244178/02964a58-09d0-4a08-8309-ac3cf7fd4c47.jpg",
                 "malId": 149128,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nn990948": {
+                "id": 106392,
                 "identifier": "manga-nn990948",
                 "image": "https://avt.mkklcdnv6temp.com/45/h/25-1654293540.jpg",
                 "malId": 149128,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "knight_under_heart": {
+                "id": 109247,
                 "identifier": "knight_under_heart",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41581/cover.jpg",
                 "malId": 149128,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/knight_under_heart/"
             }
         },
-        "MangaFire": {
-            "knight-under-my-heart.jv0y2": {
-                "identifier": "knight-under-my-heart.jv0y2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/458e33c0738ffb83d6b577b5135d92af.jpg",
-                "malId": 149128,
-                "aniId": 151121,
-                "page": "MangaFire",
-                "title": "Knight Under My Heart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/knight-under-my-heart.jv0y2/"
-            },
-            "knight-under-my-heartt.jv0y2": {
-                "identifier": "knight-under-my-heartt.jv0y2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/458e33c0738ffb83d6b577b5135d92af.jpg",
-                "malId": 149128,
-                "aniId": 151121,
-                "page": "MangaFire",
-                "title": "Knight Under My Heart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/knight-under-my-heartt.jv0y2/"
-            }
-        },
         "MangaSee": {
             "knight-under-my-heart": {
+                "id": 163612,
                 "identifier": "knight-under-my-heart",
                 "image": "https://temp.compsci88.com/cover/Knight-Under-My-Heart.jpg",
                 "malId": 149128,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygak7wsmg7wadwz4qz91": {
+                "id": 207056,
                 "identifier": "01j76xygak7wsmg7wadwz4qz91",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGAK7WSMG7WADWZ4QZ91.jpg",
                 "malId": 149128,
@@ -86,6 +69,19 @@
                 "title": "Knight Under My Heart",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGAK7WSMG7WADWZ4QZ91"
+            }
+        },
+        "MangaFire": {
+            "jv0y2": {
+                "id": 229017,
+                "identifier": "jv0y2",
+                "image": "https://static.mangafire.to/3e13/i/4/45/458e33c0738ffb83d6b577b5135d92af.jpg",
+                "malId": 149128,
+                "aniId": 151121,
+                "page": "MangaFire",
+                "title": "Knight Under My Heart",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/knight-under-my-heartt.jv0y2"
             }
         },
         "Comick": {

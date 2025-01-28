@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "92039649-edd0-4b4a-b8c6-e53a4946e4ca": {
+                "id": 31468,
                 "identifier": "92039649-edd0-4b4a-b8c6-e53a4946e4ca",
                 "image": "https://uploads.mangadex.org/covers/92039649-edd0-4b4a-b8c6-e53a4946e4ca/c7aff78b-0ea4-4410-973d-3bb9a3ff40b9.jpg",
                 "malId": 123126,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "by-spring": {
+                "id": 57884,
                 "identifier": "by-spring",
                 "image": "https://temp.compsci88.com/cover/By-Spring.jpg",
                 "malId": 123126,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gn983696": {
+                "id": 74882,
                 "identifier": "manga-gn983696",
                 "image": "https://avt.mkklcdnv6temp.com/48/h/19-1583500929.jpg",
                 "malId": 123126,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "by_spring": {
+                "id": 85843,
                 "identifier": "by_spring",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32132/cover.jpg",
                 "malId": 123126,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/by_spring/"
             }
         },
-        "MangaFire": {
-            "by-spring.52y0v": {
-                "identifier": "by-spring.52y0v",
-                "image": "https://static.mangafire.to/3b2d5/i/3/34/34e8dbd4060d594ed80895050adf4d64.jpg",
-                "malId": 123126,
-                "aniId": 113144,
-                "page": "MangaFire",
-                "title": "By Spring",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/by-spring.52y0v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydp0qfe8y0h18zqq6b71": {
+                "id": 207069,
                 "identifier": "01j76xydp0qfe8y0h18zqq6b71",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDP0QFE8Y0H18ZQQ6B71.jpg",
                 "malId": 123126,
@@ -76,6 +69,19 @@
                 "title": "By Spring",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDP0QFE8Y0H18ZQQ6B71"
+            }
+        },
+        "MangaFire": {
+            "52y0v": {
+                "id": 256772,
+                "identifier": "52y0v",
+                "image": "https://static.mangafire.to/f514/i/3/34/34e8dbd4060d594ed80895050adf4d64.jpg",
+                "malId": 123126,
+                "aniId": 113144,
+                "page": "MangaFire",
+                "title": "By Spring",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/by-springg.52y0v"
             }
         },
         "Comick": {

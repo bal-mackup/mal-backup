@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dd892b67-f597-4362-b390-4467a78c1bd9": {
+                "id": 113716,
                 "identifier": "dd892b67-f597-4362-b390-4467a78c1bd9",
                 "image": "https://uploads.mangadex.org/covers/dd892b67-f597-4362-b390-4467a78c1bd9/8800e1bc-168b-4ed2-82a8-06ad9076ed74.jpg",
                 "malId": 151320,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tokyo-demon-bride-story": {
+                "id": 114318,
                 "identifier": "tokyo-demon-bride-story",
                 "image": "https://temp.compsci88.com/cover/Tokyo-Demon-Bride-Story.jpg",
                 "malId": 151320,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dai_tokyo_oniyome_den": {
+                "id": 117897,
                 "identifier": "dai_tokyo_oniyome_den",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43675/cover.jpg",
                 "malId": 151320,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-rm995121": {
+                "id": 128360,
                 "identifier": "manga-rm995121",
                 "image": "https://avt.mkklcdnv6temp.com/15/d/29-1679568411.jpg",
                 "malId": 151320,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-rm995121"
             }
         },
-        "MangaFire": {
-            "dai-tokyo-oniyome-den.jj03": {
-                "identifier": "dai-tokyo-oniyome-den.jj03",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/46b516ed9b5f02592ef0f83728eb1c34.jpg",
-                "malId": 151320,
-                "aniId": 154249,
-                "page": "MangaFire",
-                "title": "Tokyo Demon Bride Story",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dai-tokyo-oniyome-den.jj03/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnhj9gneeqst555xaxy": {
+                "id": 210784,
                 "identifier": "01j76xyfnhj9gneeqst555xaxy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNHJ9GNEEQST555XAXY.jpg",
                 "malId": 151320,
@@ -76,6 +69,19 @@
                 "title": "Tokyo Demon Bride Story",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNHJ9GNEEQST555XAXY"
+            }
+        },
+        "MangaFire": {
+            "jj03": {
+                "id": 234492,
+                "identifier": "jj03",
+                "image": "https://static.mangafire.to/ffeb/i/4/46/46b516ed9b5f02592ef0f83728eb1c34.jpg",
+                "malId": 151320,
+                "aniId": 154249,
+                "page": "MangaFire",
+                "title": "Tokyo Demon Bride Story",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dai-tokyo-oniyome-denn.jj03"
             }
         },
         "Comick": {

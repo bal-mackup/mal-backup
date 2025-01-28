@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "46e9cae5-4407-4576-9b9e-4c517ae9298e": {
+                "id": 16244,
                 "identifier": "46e9cae5-4407-4576-9b9e-4c517ae9298e",
-                "image": "https://uploads.mangadex.org/covers/46e9cae5-4407-4576-9b9e-4c517ae9298e/a5677919-ce8c-438e-8eb8-cabcb4d906a1.jpg",
+                "image": "https://uploads.mangadex.org/covers/46e9cae5-4407-4576-9b9e-4c517ae9298e/ed81d614-2d64-4784-aecf-037690c813a8.jpg",
                 "malId": 100128,
                 "aniId": 87423,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-promised-neverland": {
+                "id": 54504,
                 "identifier": "the-promised-neverland",
                 "image": "https://temp.compsci88.com/cover/The-Promised-Neverland.jpg",
                 "malId": 100128,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yakusoku_no_neverland": {
+                "id": 54526,
                 "identifier": "yakusoku_no_neverland",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21271/cover.jpg",
                 "malId": 100128,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vl972446": {
+                "id": 73171,
                 "identifier": "manga-vl972446",
                 "image": "https://avt.mkklcdnv6temp.com/14/c/14-1583490253.jpg",
                 "malId": 100128,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vl972446"
             }
         },
-        "MangaFire": {
-            "the-promised-neverland.ev2": {
-                "identifier": "the-promised-neverland.ev2",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/555181bdbd032a7d2cf06893e99afdc6.jpg",
-                "malId": 100128,
-                "aniId": 87423,
-                "page": "MangaFire",
-                "title": "The Promised Neverland",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-promised-neverland.ev2/"
-            },
-            "the-promised-neverlandd.ev2": {
-                "identifier": "the-promised-neverlandd.ev2",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/555181bdbd032a7d2cf06893e99afdc6.jpg",
-                "malId": 100128,
-                "aniId": 87423,
-                "page": "MangaFire",
-                "title": "The Promised Neverland",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-promised-neverlandd.ev2/"
-            }
-        },
         "Weebcentral": {
             "01j76xybvezbcd3xx807pz7brf": {
+                "id": 213749,
                 "identifier": "01j76xybvezbcd3xx807pz7brf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBVEZBCD3XX807PZ7BRF.jpg",
                 "malId": 100128,
@@ -86,6 +69,19 @@
                 "title": "The Promised Neverland",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBVEZBCD3XX807PZ7BRF"
+            }
+        },
+        "MangaFire": {
+            "ev2": {
+                "id": 228360,
+                "identifier": "ev2",
+                "image": "https://static.mangafire.to/be75/i/5/55/555181bdbd032a7d2cf06893e99afdc6.jpg",
+                "malId": 100128,
+                "aniId": 87423,
+                "page": "MangaFire",
+                "title": "The Promised Neverland",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-promised-neverlandd.ev2"
             }
         },
         "Comick": {

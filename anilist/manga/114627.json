@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2356f5ff-143f-4e3b-96e6-9d9f5efab8c5": {
+                "id": 31999,
                 "identifier": "2356f5ff-143f-4e3b-96e6-9d9f5efab8c5",
                 "image": "https://uploads.mangadex.org/covers/2356f5ff-143f-4e3b-96e6-9d9f5efab8c5/71d670ac-9057-42fc-a127-a0f145a6b9bc.jpg",
                 "malId": 125530,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ningen_fushin_no_boukenshatachi_ga_sekai_o_sukuu_youdesu": {
+                "id": 55727,
                 "identifier": "ningen_fushin_no_boukenshatachi_ga_sekai_o_sukuu_youdesu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32553/cover.jpg",
                 "malId": 125530,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesu": {
+                "id": 62185,
                 "identifier": "ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesu",
                 "image": "https://temp.compsci88.com/cover/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-o-Sukuu-Youdesu.jpg",
                 "malId": 125530,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gr984000": {
+                "id": 75745,
                 "identifier": "manga-gr984000",
                 "image": "https://avt.mkklcdnv6temp.com/9/u/20-1583501405.jpg",
                 "malId": 125530,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-gr984000"
             }
         },
-        "MangaFire": {
-            "ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesu.jvvpn": {
-                "identifier": "ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesu.jvvpn",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/462023d2545035b43de0abd262c8cf41.jpg",
-                "malId": 125530,
-                "aniId": 114627,
-                "page": "MangaFire",
-                "title": "Apparently, Disillusioned Adventurers Will Save the World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesu.jvvpn/"
-            },
-            "ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesuu.jvvpn": {
-                "identifier": "ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesuu.jvvpn",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/462023d2545035b43de0abd262c8cf41.jpg",
-                "malId": 125530,
-                "aniId": 114627,
-                "page": "MangaFire",
-                "title": "Apparently, Disillusioned Adventurers Will Save the World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesuu.jvvpn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyda8s6w41zvcegkkzds6": {
+                "id": 213786,
                 "identifier": "01j76xyda8s6w41zvcegkkzds6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDA8S6W41ZVCEGKKZDS6.jpg",
                 "malId": 125530,
@@ -86,6 +69,19 @@
                 "title": "Apparently, Disillusioned Adventurers Will Save the World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDA8S6W41ZVCEGKKZDS6"
+            }
+        },
+        "MangaFire": {
+            "jvvpn": {
+                "id": 261006,
+                "identifier": "jvvpn",
+                "image": "https://static.mangafire.to/473b/i/4/46/462023d2545035b43de0abd262c8cf41.jpg",
+                "malId": 125530,
+                "aniId": 114627,
+                "page": "MangaFire",
+                "title": "Apparently, Disillusioned Adventurers Will Save the World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ningen-fushin-no-boukenshatachi-ga-sekai-o-sukuu-youdesuu.jvvpn"
             }
         },
         "Comick": {

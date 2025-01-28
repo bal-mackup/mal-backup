@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a2a748cb-b2fc-467e-bfff-2c41cbe84a9d": {
+                "id": 17439,
                 "identifier": "a2a748cb-b2fc-467e-bfff-2c41cbe84a9d",
                 "image": "https://uploads.mangadex.org/covers/a2a748cb-b2fc-467e-bfff-2c41cbe84a9d/0a339092-f4ba-47c8-9105-ae6760c4f4ab.jpg",
                 "malId": 106067,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "devilchi": {
+                "id": 56625,
                 "identifier": "devilchi",
                 "image": "https://temp.compsci88.com/cover/Devilchi.jpg",
                 "malId": 106067,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "devilchi": {
+                "id": 61433,
                 "identifier": "devilchi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24737/cover.jpg",
                 "malId": 106067,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yp975672": {
+                "id": 75835,
                 "identifier": "manga-yp975672",
                 "image": "https://avt.mkklcdnv6temp.com/14/s/15-1583491990.jpg",
                 "malId": 106067,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yp975672"
             }
         },
-        "MangaFire": {
-            "devilchi.jvmz8": {
-                "identifier": "devilchi.jvmz8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/1326611c87a4d6f0f7b2ae53d5f145fc.jpg",
-                "malId": 106067,
-                "aniId": 98564,
-                "page": "MangaFire",
-                "title": "Devil Chi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devilchi.jvmz8/"
-            },
-            "devilchii.jvmz8": {
-                "identifier": "devilchii.jvmz8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/1326611c87a4d6f0f7b2ae53d5f145fc.jpg",
-                "malId": 106067,
-                "aniId": 98564,
-                "page": "MangaFire",
-                "title": "Devil Chi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devilchii.jvmz8/"
-            },
-            "jvmz8": {
-                "identifier": "jvmz8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/1326611c87a4d6f0f7b2ae53d5f145fc.jpg",
-                "malId": 106067,
-                "aniId": 98564,
-                "page": "MangaFire",
-                "title": "Devil Chi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devilchii.jvmz8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8s02f0sx4k4fj044az": {
+                "id": 207769,
                 "identifier": "01j76xyc8s02f0sx4k4fj044az",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8S02F0SX4K4FJ044AZ.jpg",
                 "malId": 106067,
@@ -96,6 +69,19 @@
                 "title": "Devilchi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8S02F0SX4K4FJ044AZ"
+            }
+        },
+        "MangaFire": {
+            "jvmz8": {
+                "id": 228285,
+                "identifier": "jvmz8",
+                "image": "https://static.mangafire.to/a0dd/i/1/13/1326611c87a4d6f0f7b2ae53d5f145fc.jpg",
+                "malId": 106067,
+                "aniId": 98564,
+                "page": "MangaFire",
+                "title": "Devil Chi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/devilchii.jvmz8"
             }
         },
         "Comick": {

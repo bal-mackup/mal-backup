@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "037b2025-acbc-4937-8279-523c17dd2734": {
+                "id": 19919,
                 "identifier": "037b2025-acbc-4937-8279-523c17dd2734",
                 "image": "https://uploads.mangadex.org/covers/037b2025-acbc-4937-8279-523c17dd2734/61e10407-b38e-40da-a62b-d2b16978c2e2.jpg",
                 "malId": 115693,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/037b2025-acbc-4937-8279-523c17dd2734"
             }
         },
-        "MangaFire": {
-            "ganbare-memeko-chan.jo88": {
-                "identifier": "ganbare-memeko-chan.jo88",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/0555088fb1af03ffc53303a1f663a08d.jpg",
-                "malId": 115693,
-                "aniId": 102180,
-                "page": "MangaFire",
-                "title": "Ganbare! Memeko-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ganbare-memeko-chan.jo88/"
-            }
-        },
         "MangaNato": {
             "manga-bp978798": {
+                "id": 184204,
                 "identifier": "manga-bp978798",
                 "image": "https://avt.mkklcdnv6temp.com/fld/64/z/8-1732790793-nw.webp",
                 "malId": 115693,
@@ -40,6 +30,19 @@
                 "title": "Ganbare! Memeko-Chan",
                 "type": "manga",
                 "url": "https://manganato.com/manga-bp978798"
+            }
+        },
+        "MangaFire": {
+            "jo88": {
+                "id": 261002,
+                "identifier": "jo88",
+                "image": "https://static.mangafire.to/88f4/i/0/05/0555088fb1af03ffc53303a1f663a08d.jpg",
+                "malId": 115693,
+                "aniId": 102180,
+                "page": "MangaFire",
+                "title": "Ganbare! Memeko-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ganbare-memeko-chann.jo88"
             }
         },
         "Comick": {

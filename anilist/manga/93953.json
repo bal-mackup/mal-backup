@@ -6,30 +6,9 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/3/150304.jpg",
     "Sites": {
-        "MangaFire": {
-            "joifo.kwxr6": {
-                "identifier": "joifo.kwxr6",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/afc8184e71428c6458a30380e83227f6.jpg",
-                "malId": 86377,
-                "aniId": 93953,
-                "page": "MangaFire",
-                "title": "Joifo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/joifo.kwxr6/"
-            },
-            "kwxr6": {
-                "identifier": "kwxr6",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/afc8184e71428c6458a30380e83227f6.jpg",
-                "malId": 86377,
-                "aniId": 93953,
-                "page": "MangaFire",
-                "title": "Joifo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/joifo.kwxr6/"
-            }
-        },
         "Mangadex": {
             "3203975f-f8c9-4c37-801e-d8e3168f98c4": {
+                "id": 183708,
                 "identifier": "3203975f-f8c9-4c37-801e-d8e3168f98c4",
                 "image": "https://uploads.mangadex.org/covers/3203975f-f8c9-4c37-801e-d8e3168f98c4/4ea704fe-33d5-4611-bfb4-ee47644bcc28.jpg",
                 "malId": 86377,
@@ -38,6 +17,19 @@
                 "title": "Joifo",
                 "type": "manga",
                 "url": "https://mangadex.org/title/3203975f-f8c9-4c37-801e-d8e3168f98c4"
+            }
+        },
+        "MangaFire": {
+            "kwxr6": {
+                "id": 256133,
+                "identifier": "kwxr6",
+                "image": "https://static.mangafire.to/ea40/i/a/af/afc8184e71428c6458a30380e83227f6.jpg",
+                "malId": 86377,
+                "aniId": 93953,
+                "page": "MangaFire",
+                "title": "Joifo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/joifoo.kwxr6"
             }
         },
         "Comick": {

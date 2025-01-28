@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1e160fc8-d9e3-460d-9f82-afde68fb3fa6": {
+                "id": 118584,
                 "identifier": "1e160fc8-d9e3-460d-9f82-afde68fb3fa6",
                 "image": "https://uploads.mangadex.org/covers/1e160fc8-d9e3-460d-9f82-afde68fb3fa6/64b1dcb9-1283-424c-9fd4-11f5849f84e1.jpg",
                 "malId": 151245,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sz996182": {
+                "id": 159344,
                 "identifier": "manga-sz996182",
                 "image": "https://avt.mkklcdnv6temp.com/fld/6/r/15-1733306967-nw.webp",
                 "malId": 151245,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-sz996182"
             }
         },
-        "MangaFire": {
-            "hanabi-wa-samenai-yume-wo-miru.90010": {
-                "identifier": "hanabi-wa-samenai-yume-wo-miru.90010",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b5df81950089077f8b7d707781f00e87.jpg",
-                "malId": 151245,
-                "aniId": 155217,
-                "page": "MangaFire",
-                "title": "Olivia and the Neverending Dream",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanabi-wa-samenai-yume-wo-miru.90010/"
-            },
-            "hanabi-wa-samenai-yume-wo-miruu.90010": {
-                "identifier": "hanabi-wa-samenai-yume-wo-miruu.90010",
-                "image": "https://static.mangafire.to/6129/i/b/b5/b5df81950089077f8b7d707781f00e87.jpg",
-                "malId": 151245,
-                "aniId": 155217,
-                "page": "MangaFire",
-                "title": "Olivia and the Neverending Dream",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanabi-wa-samenai-yume-wo-miruu.90010/"
-            }
-        },
         "MangaFox": {
             "hanabi_wa_samenai_yume_wo_miru": {
+                "id": 196393,
                 "identifier": "hanabi_wa_samenai_yume_wo_miru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44073/cover.jpg",
                 "malId": 151245,
@@ -62,6 +43,19 @@
                 "title": "Hanabi wa Samenai Yume wo miru",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/hanabi_wa_samenai_yume_wo_miru/"
+            }
+        },
+        "MangaFire": {
+            "90010": {
+                "id": 223385,
+                "identifier": "90010",
+                "image": "https://static.mangafire.to/6129/i/b/b5/b5df81950089077f8b7d707781f00e87.jpg",
+                "malId": 151245,
+                "aniId": 155217,
+                "page": "MangaFire",
+                "title": "Olivia and the Neverending Dream",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hanabi-wa-samenai-yume-wo-miruu.90010"
             }
         },
         "Comick": {

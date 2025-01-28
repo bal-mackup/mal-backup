@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "317837f6-229e-422c-95f3-33b817d74b93": {
+                "id": 25701,
                 "identifier": "317837f6-229e-422c-95f3-33b817d74b93",
                 "image": "https://uploads.mangadex.org/covers/317837f6-229e-422c-95f3-33b817d74b93/04cbb3f0-c5e2-4c12-bb19-c71cca5cb649.jpg",
                 "malId": 120363,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "yandere_kei_otomege_no_sekai_ni_tensei_shite_shimatta_you_desu": {
+                "id": 64444,
                 "identifier": "yandere_kei_otomege_no_sekai_ni_tensei_shite_shimatta_you_desu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30246/cover.jpg",
                 "malId": 120363,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "yandere-otome-game": {
+                "id": 65963,
                 "identifier": "yandere-otome-game",
                 "image": "https://temp.compsci88.com/cover/Yandere-Otome-Game.jpg",
                 "malId": 120363,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dx981332": {
+                "id": 74833,
                 "identifier": "manga-dx981332",
                 "image": "https://avt.mkklcdnv6temp.com/10/y/18-1583497505.jpg",
                 "malId": 120363,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dx981332"
             }
         },
-        "MangaFire": {
-            "yandere-otome-game.w1qpl": {
-                "identifier": "yandere-otome-game.w1qpl",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/110df20846c45396e8bea35735b35bc0.jpg",
-                "malId": 120363,
-                "aniId": 106831,
-                "page": "MangaFire",
-                "title": "Yandere Otome Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yandere-otome-game.w1qpl/"
-            },
-            "yandere-otome-gamee.w1qpl": {
-                "identifier": "yandere-otome-gamee.w1qpl",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/110df20846c45396e8bea35735b35bc0.jpg",
-                "malId": 120363,
-                "aniId": 106831,
-                "page": "MangaFire",
-                "title": "Yandere Otome Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yandere-otome-gamee.w1qpl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd1ppebm28fkra73xzt1": {
+                "id": 211662,
                 "identifier": "01j76xyd1ppebm28fkra73xzt1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD1PPEBM28FKRA73XZT1.jpg",
                 "malId": 120363,
@@ -86,6 +69,19 @@
                 "title": "Yandere Otome Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD1PPEBM28FKRA73XZT1"
+            }
+        },
+        "MangaFire": {
+            "w1qpl": {
+                "id": 231050,
+                "identifier": "w1qpl",
+                "image": "https://static.mangafire.to/d8ce/i/1/11/110df20846c45396e8bea35735b35bc0.jpg",
+                "malId": 120363,
+                "aniId": 106831,
+                "page": "MangaFire",
+                "title": "Yandere Otome Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yandere-otome-gamee.w1qpl"
             }
         },
         "Comick": {

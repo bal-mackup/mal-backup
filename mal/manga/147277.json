@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3267e61a-8dc7-4d27-b8f7-26d810c08a1c": {
+                "id": 52675,
                 "identifier": "3267e61a-8dc7-4d27-b8f7-26d810c08a1c",
                 "image": "https://uploads.mangadex.org/covers/3267e61a-8dc7-4d27-b8f7-26d810c08a1c/f12e8d57-ba6e-42d2-8e81-60f7bd36d682.jpg",
                 "malId": 147277,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hanlim-gym": {
+                "id": 82382,
                 "identifier": "hanlim-gym",
                 "image": "https://temp.compsci88.com/cover/Hanlim-Gym.jpg",
                 "malId": 147277,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-mt989828": {
+                "id": 88818,
                 "identifier": "manga-mt989828",
                 "image": "https://avt.mkklcdnv6temp.com/48/j/24-1634297934.jpg",
                 "malId": 147277,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "hanlim_gym": {
+                "id": 90089,
                 "identifier": "hanlim_gym",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39571/cover.jpg",
                 "malId": 147277,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/hanlim_gym/"
             }
         },
-        "MangaFire": {
-            "hallym-gymnasium.9ojwq": {
-                "identifier": "hallym-gymnasium.9ojwq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70387f74b3a511454bfe8475407bf1a0.jpg",
-                "malId": 147277,
-                "aniId": 130231,
-                "page": "MangaFire",
-                "title": "Hanlim Gym",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hallym-gymnasium.9ojwq/"
-            },
-            "hallym-gymnasiumm.9ojwq": {
-                "identifier": "hallym-gymnasiumm.9ojwq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70387f74b3a511454bfe8475407bf1a0.jpg",
-                "malId": 147277,
-                "aniId": 130231,
-                "page": "MangaFire",
-                "title": "Hanlim Gym",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hallym-gymnasiumm.9ojwq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyexgczfk8nz97j3zb0sf": {
+                "id": 212804,
                 "identifier": "01j76xyexgczfk8nz97j3zb0sf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEXGCZFK8NZ97J3ZB0SF.jpg",
                 "malId": 147277,
@@ -86,6 +69,19 @@
                 "title": "Hanlim Gym",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEXGCZFK8NZ97J3ZB0SF"
+            }
+        },
+        "MangaFire": {
+            "9ojwq": {
+                "id": 224345,
+                "identifier": "9ojwq",
+                "image": "https://static.mangafire.to/003f/i/7/70/70387f74b3a511454bfe8475407bf1a0.jpg",
+                "malId": 147277,
+                "aniId": 130231,
+                "page": "MangaFire",
+                "title": "Hanlim Gym",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hallym-gymnasiumm.9ojwq"
             }
         },
         "Comick": {

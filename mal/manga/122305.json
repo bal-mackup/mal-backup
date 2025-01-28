@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b70113a5-32a3-44e8-a28f-0e88392808ba": {
+                "id": 107252,
                 "identifier": "b70113a5-32a3-44e8-a28f-0e88392808ba",
                 "image": "https://uploads.mangadex.org/covers/b70113a5-32a3-44e8-a28f-0e88392808ba/1c6b79ce-afa0-4366-bb36-5f61777aa20b.jpg",
                 "malId": 122305,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/b70113a5-32a3-44e8-a28f-0e88392808ba"
             }
         },
-        "MangaFire": {
-            "one-piece-gakuen.1qz0v": {
-                "identifier": "one-piece-gakuen.1qz0v",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/451b767fb5643e7b8707f438e2d23715.jpg",
-                "malId": 122305,
-                "aniId": 110715,
-                "page": "MangaFire",
-                "title": "One Piece Gakuen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-piece-gakuen.1qz0v/"
-            },
-            "one-piece-gakuenn.1qz0v": {
-                "identifier": "one-piece-gakuenn.1qz0v",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/451b767fb5643e7b8707f438e2d23715.jpg",
-                "malId": 122305,
-                "aniId": 110715,
-                "page": "MangaFire",
-                "title": "One Piece Gakuen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-piece-gakuenn.1qz0v/"
-            }
-        },
         "MangaNato": {
             "manga-tu997103": {
+                "id": 163791,
                 "identifier": "manga-tu997103",
                 "image": "https://avt.mkklcdnv6temp.com/fld/41/u/15-1733309131-nw.webp",
                 "malId": 122305,
@@ -50,6 +30,19 @@
                 "title": "One Piece Academy",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-tu997103"
+            }
+        },
+        "MangaFire": {
+            "1qz0v": {
+                "id": 224887,
+                "identifier": "1qz0v",
+                "image": "https://static.mangafire.to/ca66/i/4/45/451b767fb5643e7b8707f438e2d23715.jpg",
+                "malId": 122305,
+                "aniId": 110715,
+                "page": "MangaFire",
+                "title": "One Piece Gakuen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/one-piece-gakuenn.1qz0v"
             }
         },
         "Comick": {

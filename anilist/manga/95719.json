@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "91b9f2f0-e63f-4444-b1b4-552e167e089a": {
+                "id": 24816,
                 "identifier": "91b9f2f0-e63f-4444-b1b4-552e167e089a",
                 "image": "https://uploads.mangadex.org/covers/91b9f2f0-e63f-4444-b1b4-552e167e089a/e8606d7c-456e-4ada-9807-977fe9187508.jpg",
                 "malId": 91946,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/91b9f2f0-e63f-4444-b1b4-552e167e089a"
             },
             "ccf2d977-9d0d-4a6a-8f94-c218dd0578f3": {
+                "id": 30437,
                 "identifier": "ccf2d977-9d0d-4a6a-8f94-c218dd0578f3",
                 "image": "https://uploads.mangadex.org/covers/ccf2d977-9d0d-4a6a-8f94-c218dd0578f3/5e5ec9fa-fdff-4725-883e-a2a362ef191b.jpg",
                 "malId": 91946,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "mushihime": {
+                "id": 67987,
                 "identifier": "mushihime",
                 "image": "https://temp.compsci88.com/cover/Mushihime.jpg",
                 "malId": 91946,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "mushihime": {
+                "id": 119579,
                 "identifier": "mushihime",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29256/cover.jpg",
                 "malId": 91946,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/mushihime/"
             }
         },
-        "MangaFire": {
-            "mushihime.pr29x": {
-                "identifier": "mushihime.pr29x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5fbf8698f6d24bfa7053fd48e684fe2c.jpg",
-                "malId": 91946,
-                "aniId": 95719,
-                "page": "MangaFire",
-                "title": "Mushihime",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushihime.pr29x/"
-            },
-            "pr29x": {
-                "identifier": "pr29x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5fbf8698f6d24bfa7053fd48e684fe2c.jpg",
-                "malId": 91946,
-                "aniId": 95719,
-                "page": "MangaFire",
-                "title": "Mushihime",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushihime.pr29x/"
-            }
-        },
         "Weebcentral": {
             "01j76xycr1m2ybqzrf1ntg7pcr": {
+                "id": 210914,
                 "identifier": "01j76xycr1m2ybqzrf1ntg7pcr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCR1M2YBQZRF1NTG7PCR.jpg",
                 "malId": 91946,
@@ -84,6 +67,19 @@
                 "title": "Mushihime",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCR1M2YBQZRF1NTG7PCR"
+            }
+        },
+        "MangaFire": {
+            "pr29x": {
+                "id": 250931,
+                "identifier": "pr29x",
+                "image": "https://static.mangafire.to/ca37/i/5/5f/5fbf8698f6d24bfa7053fd48e684fe2c.jpg",
+                "malId": 91946,
+                "aniId": 95719,
+                "page": "MangaFire",
+                "title": "Mushihime",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mushihimee.pr29x"
             }
         },
         "Comick": {

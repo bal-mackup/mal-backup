@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e1e6e955-e79b-4ddc-9648-292932ec609e": {
+                "id": 21711,
                 "identifier": "e1e6e955-e79b-4ddc-9648-292932ec609e",
                 "image": "https://uploads.mangadex.org/covers/e1e6e955-e79b-4ddc-9648-292932ec609e/5c900c0a-46bb-40cc-b826-62824c845f60.jpg",
                 "malId": 113780,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mahou-shoujo-site-sept": {
+                "id": 57697,
                 "identifier": "mahou-shoujo-site-sept",
                 "image": "https://temp.compsci88.com/cover/Mahou-Shoujo-Site-Sept.jpg",
                 "malId": 113780,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bf979188": {
+                "id": 95425,
                 "identifier": "manga-bf979188",
                 "image": "https://avt.mkklcdnv6temp.com/fld/79/n/8-1732791442-nw.webp",
                 "malId": 113780,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-bf979188"
             }
         },
-        "MangaFire": {
-            "mahou-shoujo-site-sept.2r9l": {
-                "identifier": "mahou-shoujo-site-sept.2r9l",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/48fa53dd672fdb5bdf2498e9aba0a96b.jpg",
-                "malId": 113780,
-                "aniId": 101932,
-                "page": "MangaFire",
-                "title": "Mahou Shoujo Site Sept.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-site-sept.2r9l/"
-            }
-        },
         "Weebcentral": {
             "01j76xycf2e3d7z97b434rnnvn": {
+                "id": 209310,
                 "identifier": "01j76xycf2e3d7z97b434rnnvn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCF2E3D7Z97B434RNNVN.jpg",
                 "malId": 113780,
@@ -64,6 +56,19 @@
                 "title": "Mahou Shoujo Site Sept",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCF2E3D7Z97B434RNNVN"
+            }
+        },
+        "MangaFire": {
+            "2r9l": {
+                "id": 257976,
+                "identifier": "2r9l",
+                "image": "https://static.mangafire.to/b2f2/i/4/48/48fa53dd672fdb5bdf2498e9aba0a96b.jpg",
+                "malId": 113780,
+                "aniId": 101932,
+                "page": "MangaFire",
+                "title": "Mahou Shoujo Site Sept.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahou-shoujo-site-septt.2r9l"
             }
         },
         "Comick": {

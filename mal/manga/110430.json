@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "holmes-of-kyoto": {
+                "id": 67070,
                 "identifier": "holmes-of-kyoto",
                 "image": "https://temp.compsci88.com/cover/Holmes-of-Kyoto.jpg",
                 "malId": 110430,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kyoto_teramachi_sanjou_no_holmes": {
+                "id": 67231,
                 "identifier": "kyoto_teramachi_sanjou_no_holmes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28019/cover.jpg",
                 "malId": 110430,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "1c2bb843-19c1-4062-b33a-b6c7e4ceca6c": {
+                "id": 106635,
                 "identifier": "1c2bb843-19c1-4062-b33a-b6c7e4ceca6c",
                 "image": "https://uploads.mangadex.org/covers/1c2bb843-19c1-4062-b33a-b6c7e4ceca6c/ba20e865-05ec-40fb-a503-afb914721651.jpg",
                 "malId": 110430,
@@ -42,20 +45,9 @@
                 "url": "https://mangadex.org/title/1c2bb843-19c1-4062-b33a-b6c7e4ceca6c"
             }
         },
-        "MangaFire": {
-            "kyouto-teramachi-sanjou-no-holmes.k388w": {
-                "identifier": "kyouto-teramachi-sanjou-no-holmes.k388w",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/30f854883f8b531e3f1933716d17a459.jpg",
-                "malId": 110430,
-                "aniId": 109890,
-                "page": "MangaFire",
-                "title": "Kyouto Teramachi Sanjou no Holmes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyouto-teramachi-sanjou-no-holmes.k388w/"
-            }
-        },
         "MangaNato": {
             "manga-ab1003684": {
+                "id": 195708,
                 "identifier": "manga-ab1003684",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/j/17-1733326808-nw.webp",
                 "malId": 110430,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xydz5c6jd7vqd8m51kde8": {
+                "id": 214402,
                 "identifier": "01j76xydz5c6jd7vqd8m51kde8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZ5C6JD7VQD8M51KDE8.jpg",
                 "malId": 110430,
@@ -76,6 +69,19 @@
                 "title": "Holmes of Kyoto",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZ5C6JD7VQD8M51KDE8"
+            }
+        },
+        "MangaFire": {
+            "k388w": {
+                "id": 236078,
+                "identifier": "k388w",
+                "image": "https://static.mangafire.to/2727/i/3/30/30f854883f8b531e3f1933716d17a459.jpg",
+                "malId": 110430,
+                "aniId": 109890,
+                "page": "MangaFire",
+                "title": "Kyouto Teramachi Sanjou no Holmes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyouto-teramachi-sanjou-no-holmess.k388w"
             }
         },
         "Comick": {

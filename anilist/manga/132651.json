@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c0dbbbfa-cf1a-4e65-8e23-968735f8e8e6": {
+                "id": 40132,
                 "identifier": "c0dbbbfa-cf1a-4e65-8e23-968735f8e8e6",
                 "image": "https://uploads.mangadex.org/covers/c0dbbbfa-cf1a-4e65-8e23-968735f8e8e6/ee853e31-aa90-4d07-baf9-c0bc5da1f3d9.jpg",
                 "malId": 144064,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "when-the-day-comes": {
+                "id": 72207,
                 "identifier": "when-the-day-comes",
                 "image": "https://temp.compsci88.com/cover/When-the-Day-Comes.jpg",
                 "malId": 144064,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "when_the_day_comes": {
+                "id": 105419,
                 "identifier": "when_the_day_comes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38404/cover.jpg",
                 "malId": 144064,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/when_the_day_comes/"
             }
         },
-        "MangaFire": {
-            "when-the-day-comes.xjz9q": {
-                "identifier": "when-the-day-comes.xjz9q",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e9328fdb97cb989a6675a91bb7c0a6c9.jpg",
-                "malId": 144064,
-                "aniId": 132651,
-                "page": "MangaFire",
-                "title": "When the Day Comes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/when-the-day-comes.xjz9q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyernv8tdjsfetfsf1fmm": {
+                "id": 206557,
                 "identifier": "01j76xyernv8tdjsfetfsf1fmm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYERNV8TDJSFETFSF1FMM.jpg",
                 "malId": 144064,
@@ -64,6 +56,19 @@
                 "title": "When the Day Comes",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYERNV8TDJSFETFSF1FMM"
+            }
+        },
+        "MangaFire": {
+            "xjz9q": {
+                "id": 240119,
+                "identifier": "xjz9q",
+                "image": "https://static.mangafire.to/a286/i/e/e9/e9328fdb97cb989a6675a91bb7c0a6c9.jpg",
+                "malId": 144064,
+                "aniId": 132651,
+                "page": "MangaFire",
+                "title": "When the Day Comes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/when-the-day-comess.xjz9q"
             }
         }
     },

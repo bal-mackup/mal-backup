@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea": {
+                "id": 40304,
                 "identifier": "b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea",
                 "image": "https://uploads.mangadex.org/covers/b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea/026c080c-0e0e-43a3-ab7f-245dba996c09.jpg",
                 "malId": 148475,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "the_double_agent": {
+                "id": 59386,
                 "identifier": "the_double_agent",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36325/cover.jpg",
                 "malId": 148475,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-js987101": {
+                "id": 81037,
                 "identifier": "manga-js987101",
                 "image": "https://avt.mkklcdnv6temp.com/33/s/22-1604366227.jpg",
                 "malId": 148475,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "the-double-agent": {
+                "id": 85960,
                 "identifier": "the-double-agent",
                 "image": "https://temp.compsci88.com/cover/The-Double-Agent.jpg",
                 "malId": 148475,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/The-Double-Agent"
             }
         },
-        "MangaFire": {
-            "the-double-agent.kw56r": {
-                "identifier": "the-double-agent.kw56r",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/7288ccc67f9821a3ef2bbfb93429f0fd.jpg",
-                "malId": 148475,
-                "aniId": 126396,
-                "page": "MangaFire",
-                "title": "The Double Agent",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-double-agent.kw56r/"
-            }
-        },
         "Weebcentral": {
             "01j76xyezfcrzycz26qyzs3n58": {
+                "id": 212599,
                 "identifier": "01j76xyezfcrzycz26qyzs3n58",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEZFCRZYCZ26QYZS3N58.jpg",
                 "malId": 148475,
@@ -76,6 +69,19 @@
                 "title": "The Double Agent",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEZFCRZYCZ26QYZS3N58"
+            }
+        },
+        "MangaFire": {
+            "kw56r": {
+                "id": 248894,
+                "identifier": "kw56r",
+                "image": "https://static.mangafire.to/da61/i/7/72/7288ccc67f9821a3ef2bbfb93429f0fd.jpg",
+                "malId": 148475,
+                "aniId": 126396,
+                "page": "MangaFire",
+                "title": "The Double Agent",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-double-agentt.kw56r"
             }
         }
     },

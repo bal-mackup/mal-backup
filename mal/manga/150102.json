@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "i-can-see-your-death": {
+                "id": 96266,
                 "identifier": "i-can-see-your-death",
                 "image": "https://temp.compsci88.com/cover/I-Can-See-Your-Death.jpg",
                 "malId": 150102,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "i_can_see_your_death": {
+                "id": 99554,
                 "identifier": "i_can_see_your_death",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41383/cover.jpg",
                 "malId": 150102,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nf990662": {
+                "id": 100025,
                 "identifier": "manga-nf990662",
                 "image": "https://avt.mkklcdnv6temp.com/33/v/25-1648353963.jpg",
                 "malId": 150102,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "58627abd-b751-4752-a289-5bdb7bcb0ffe": {
+                "id": 105712,
                 "identifier": "58627abd-b751-4752-a289-5bdb7bcb0ffe",
                 "image": "https://uploads.mangadex.org/covers/58627abd-b751-4752-a289-5bdb7bcb0ffe/788d8c2f-14f0-42f1-ad13-4eb347805f0a.png",
                 "malId": 150102,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/58627abd-b751-4752-a289-5bdb7bcb0ffe"
             }
         },
-        "MangaFire": {
-            "i-can-see-your-death.6lkx4": {
-                "identifier": "i-can-see-your-death.6lkx4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/8821617bb4e09328ddbf35e11f61012c.jpg",
-                "malId": 150102,
-                "aniId": 145537,
-                "page": "MangaFire",
-                "title": "I Can See Your Death",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-can-see-your-death.6lkx4/"
-            },
-            "i-can-see-your-deathh.6lkx4": {
-                "identifier": "i-can-see-your-deathh.6lkx4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/8821617bb4e09328ddbf35e11f61012c.jpg",
-                "malId": 150102,
-                "aniId": 145537,
-                "page": "MangaFire",
-                "title": "I Can See Your Death",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-can-see-your-deathh.6lkx4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf9x2h2127fnqy444y9m": {
+                "id": 206395,
                 "identifier": "01j76xyf9x2h2127fnqy444y9m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF9X2H2127FNQY444Y9M.jpg",
                 "malId": 150102,
@@ -86,6 +69,19 @@
                 "title": "I Can See Your Death",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF9X2H2127FNQY444Y9M"
+            }
+        },
+        "MangaFire": {
+            "6lkx4": {
+                "id": 225667,
+                "identifier": "6lkx4",
+                "image": "https://static.mangafire.to/88f9/i/8/88/8821617bb4e09328ddbf35e11f61012c.jpg",
+                "malId": 150102,
+                "aniId": 145537,
+                "page": "MangaFire",
+                "title": "I Can See Your Death",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-can-see-your-deathh.6lkx4"
             }
         },
         "Comick": {

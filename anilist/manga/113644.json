@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "days-on-fes": {
+                "id": 69229,
                 "identifier": "days-on-fes",
                 "image": "https://temp.compsci88.com/cover/Days-on-Fes.jpg",
                 "malId": 131714,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Days-on-Fes"
             }
         },
-        "MangaFire": {
-            "days-on-fes.l35v6": {
-                "identifier": "days-on-fes.l35v6",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d63a1572ca3b02e39105639c38c3f19e.jpg",
-                "malId": 131714,
-                "aniId": 113644,
-                "page": "MangaFire",
-                "title": "Days on Fes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/days-on-fes.l35v6/"
-            }
-        },
         "MangaFox": {
             "days_on_fes": {
+                "id": 185515,
                 "identifier": "days_on_fes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38186/cover.jpg",
                 "malId": 131714,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyek7m76e39h1c6htpxys": {
+                "id": 209681,
                 "identifier": "01j76xyek7m76e39h1c6htpxys",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEK7M76E39H1C6HTPXYS.jpg",
                 "malId": 131714,
@@ -52,6 +43,19 @@
                 "title": "Days on Fes",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEK7M76E39H1C6HTPXYS"
+            }
+        },
+        "MangaFire": {
+            "l35v6": {
+                "id": 241959,
+                "identifier": "l35v6",
+                "image": "https://static.mangafire.to/4e3e/i/d/d6/d63a1572ca3b02e39105639c38c3f19e.jpg",
+                "malId": 131714,
+                "aniId": 113644,
+                "page": "MangaFire",
+                "title": "Days on Fes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/days-on-fess.l35v6"
             }
         },
         "MangaReader": {

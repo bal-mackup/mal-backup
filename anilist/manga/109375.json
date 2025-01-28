@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "685408cf-b6eb-457e-841b-122b9780acca": {
+                "id": 27872,
                 "identifier": "685408cf-b6eb-457e-841b-122b9780acca",
                 "image": "https://uploads.mangadex.org/covers/685408cf-b6eb-457e-841b-122b9780acca/6f3b1950-c789-44c0-8733-c7a66e14aa39.jpg",
                 "malId": 120483,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fb982384": {
+                "id": 80372,
                 "identifier": "manga-fb982384",
                 "image": "https://avt.mkklcdnv6temp.com/49/u/18-1583499046.jpg",
                 "malId": 120483,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-fb982384"
             }
         },
-        "MangaFire": {
-            "blade-of-the-immortal-bakumatsu-arc.m21op": {
-                "identifier": "blade-of-the-immortal-bakumatsu-arc.m21op",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93f6c5b11625bf45d78f88f8f2a81983.jpg",
-                "malId": 120483,
-                "aniId": 109375,
-                "page": "MangaFire",
-                "title": "Blade of the Immortal - Bakumatsu Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blade-of-the-immortal-bakumatsu-arc.m21op/"
-            },
-            "blade-of-the-immortal-bakumatsu-arcc.m21op": {
-                "identifier": "blade-of-the-immortal-bakumatsu-arcc.m21op",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93f6c5b11625bf45d78f88f8f2a81983.jpg",
-                "malId": 120483,
-                "aniId": 109375,
-                "page": "MangaFire",
-                "title": "Blade of the Immortal - Bakumatsu Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blade-of-the-immortal-bakumatsu-arcc.m21op/"
-            }
-        },
         "MangaFox": {
             "blade_of_the_immortal_bakumatsu_arc": {
+                "id": 184613,
                 "identifier": "blade_of_the_immortal_bakumatsu_arc",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31551/cover.jpg",
                 "malId": 120483,
@@ -62,6 +43,19 @@
                 "title": "Blade of the Immortal: Bakumatsu Arc",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/blade_of_the_immortal_bakumatsu_arc/"
+            }
+        },
+        "MangaFire": {
+            "m21op": {
+                "id": 236487,
+                "identifier": "m21op",
+                "image": "https://static.mangafire.to/6880/i/9/93/93f6c5b11625bf45d78f88f8f2a81983.jpg",
+                "malId": 120483,
+                "aniId": 109375,
+                "page": "MangaFire",
+                "title": "Blade of the Immortal - Bakumatsu Arc",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/blade-of-the-immortal-bakumatsu-arcc.m21op"
             }
         },
         "Comick": {

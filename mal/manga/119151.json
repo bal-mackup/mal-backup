@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "61e5cfcb-aff4-4916-ac20-132f4542e451": {
+                "id": 26477,
                 "identifier": "61e5cfcb-aff4-4916-ac20-132f4542e451",
                 "image": "https://uploads.mangadex.org/covers/61e5cfcb-aff4-4916-ac20-132f4542e451/9b2b5ec0-38b2-4958-bad8-07944ce74ab8.jpg",
                 "malId": 119151,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sen-no-sukiru-o-motsu-otoko": {
+                "id": 57955,
                 "identifier": "sen-no-sukiru-o-motsu-otoko",
                 "image": "https://temp.compsci88.com/cover/Sen-no-Sukiru-o-Motsu-Otoko.jpg",
                 "malId": 119151,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dc980937": {
+                "id": 74118,
                 "identifier": "manga-dc980937",
                 "image": "https://avt.mkklcdnv6temp.com/46/x/17-1583496955.jpg",
                 "malId": 119151,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-dc980937"
             }
         },
-        "MangaFire": {
-            "sen-no-sukiru-o-motsu-otoko.m2z0p": {
-                "identifier": "sen-no-sukiru-o-motsu-otoko.m2z0p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/597fb8eafae8d24d11697d3a2a9971e9.jpg",
-                "malId": 119151,
-                "aniId": 107856,
-                "page": "MangaFire",
-                "title": "A Man with A Thousand Skills 1000",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sen-no-sukiru-o-motsu-otoko.m2z0p/"
-            },
-            "sen-no-skill-wo-motsu-otoko-isekai-de-shoukanjuu-hajimemashita.m2z0p": {
-                "identifier": "sen-no-skill-wo-motsu-otoko-isekai-de-shoukanjuu-hajimemashita.m2z0p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/597fb8eafae8d24d11697d3a2a9971e9.jpg",
-                "malId": 119151,
-                "aniId": 107856,
-                "page": "MangaFire",
-                "title": "A Man with A Thousand Skills 1000",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sen-no-skill-wo-motsu-otoko-isekai-de-shoukanjuu-hajimemashita.m2z0p/"
-            },
-            "sen-no-sukiru-o-motsu-otokoo.m2z0p": {
-                "identifier": "sen-no-sukiru-o-motsu-otokoo.m2z0p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/597fb8eafae8d24d11697d3a2a9971e9.jpg",
-                "malId": 119151,
-                "aniId": 107856,
-                "page": "MangaFire",
-                "title": "A Man with A Thousand Skills 1000",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sen-no-sukiru-o-motsu-otokoo.m2z0p/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3dtfg10swqrbwrtr9a": {
+                "id": 209380,
                 "identifier": "01j76xyd3dtfg10swqrbwrtr9a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3DTFG10SWQRBWRTR9A.jpg",
                 "malId": 119151,
@@ -84,6 +56,19 @@
                 "title": "Sen no Sukiru o Motsu Otoko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3DTFG10SWQRBWRTR9A"
+            }
+        },
+        "MangaFire": {
+            "m2z0p": {
+                "id": 229413,
+                "identifier": "m2z0p",
+                "image": "https://static.mangafire.to/cc5e/i/5/59/597fb8eafae8d24d11697d3a2a9971e9.jpg",
+                "malId": 119151,
+                "aniId": 107856,
+                "page": "MangaFire",
+                "title": "A Man with A Thousand Skills 1000",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sen-no-sukiru-o-motsu-otokoo.m2z0p"
             }
         },
         "Comick": {

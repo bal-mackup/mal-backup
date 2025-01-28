@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "500ac84c-959c-4d6d-bea4-1ebcee2aea67": {
+                "id": 12037,
                 "identifier": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
                 "image": "https://uploads.mangadex.org/covers/500ac84c-959c-4d6d-bea4-1ebcee2aea67/109a4479-4e04-4bcc-807f-a88ce1663ed4.jpg",
                 "malId": 70401,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "youkai-watch": {
+                "id": 78350,
                 "identifier": "youkai-watch",
                 "image": "https://temp.compsci88.com/cover/Youkai-Watch.jpg",
                 "malId": 70401,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kk961419": {
+                "id": 108385,
                 "identifier": "manga-kk961419",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/o/4-1732761665-nw.webp",
                 "malId": 70401,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-kk961419"
             }
         },
-        "MangaFire": {
-            "yo-kai-watch.1njpp": {
-                "identifier": "yo-kai-watch.1njpp",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59993d189e003012f41c94f282e93ce1.jpg",
-                "malId": 70401,
-                "aniId": 91171,
-                "page": "MangaFire",
-                "title": "Yo-kai Watch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yo-kai-watch.1njpp/"
-            },
-            "1njpp": {
-                "identifier": "1njpp",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59993d189e003012f41c94f282e93ce1.jpg",
-                "malId": 70401,
-                "aniId": 91171,
-                "page": "MangaFire",
-                "title": "Yo-kai Watch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yo-kai-watch.1njpp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd4edwq99nw71bkzta1z": {
+                "id": 206523,
                 "identifier": "01j76xyd4edwq99nw71bkzta1z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD4EDWQ99NW71BKZTA1Z.jpg",
                 "malId": 70401,
@@ -74,6 +56,19 @@
                 "title": "YO-KAI WATCH",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD4EDWQ99NW71BKZTA1Z"
+            }
+        },
+        "MangaFire": {
+            "1njpp": {
+                "id": 245210,
+                "identifier": "1njpp",
+                "image": "https://static.mangafire.to/b81a/i/5/59/59993d189e003012f41c94f282e93ce1.jpg",
+                "malId": 70401,
+                "aniId": 91171,
+                "page": "MangaFire",
+                "title": "Yo-kai Watch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yo-kai-watchh.1njpp"
             }
         },
         "Comick": {

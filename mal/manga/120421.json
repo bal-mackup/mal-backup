@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "tea_ceremony_training": {
+                "id": 63443,
                 "identifier": "tea_ceremony_training",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25443/cover.jpg",
                 "malId": 120421,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-zb976658": {
+                "id": 102511,
                 "identifier": "manga-zb976658",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/i/8-1732788914-nw.webp",
                 "malId": 120421,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-zb976658"
             }
         },
-        "MangaFire": {
-            "u12-kodomo-fellows.pr45q": {
-                "identifier": "u12-kodomo-fellows.pr45q",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/305088a5980839204b45dec5aaa119a1.jpg",
-                "malId": 120421,
-                "aniId": 126037,
-                "page": "MangaFire",
-                "title": "U12 Kodomo Fellows",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/u12-kodomo-fellows.pr45q/"
-            }
-        },
         "Mangadex": {
             "1bd2ccf0-2f23-4acd-8a8b-28260a28b96e": {
+                "id": 171836,
                 "identifier": "1bd2ccf0-2f23-4acd-8a8b-28260a28b96e",
                 "image": "https://uploads.mangadex.org/covers/1bd2ccf0-2f23-4acd-8a8b-28260a28b96e/cebd1d13-e4e4-4755-a791-d8bda411aa6b.jpg",
                 "malId": 120421,
@@ -52,6 +43,19 @@
                 "title": "U12 Children Fellows!",
                 "type": "manga",
                 "url": "https://mangadex.org/title/1bd2ccf0-2f23-4acd-8a8b-28260a28b96e"
+            }
+        },
+        "MangaFire": {
+            "pr45q": {
+                "id": 244584,
+                "identifier": "pr45q",
+                "image": "https://static.mangafire.to/76be/i/3/30/305088a5980839204b45dec5aaa119a1.jpg",
+                "malId": 120421,
+                "aniId": 126037,
+                "page": "MangaFire",
+                "title": "U12 Kodomo Fellows",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/u12-kodomo-fellowss.pr45q"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f883600-9655-4498-b87c-65328cada285": {
+                "id": 18213,
                 "identifier": "8f883600-9655-4498-b87c-65328cada285",
                 "image": "https://uploads.mangadex.org/covers/8f883600-9655-4498-b87c-65328cada285/f20b1590-d178-419f-b67d-65246b68d78c.jpg",
                 "malId": 105182,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-au977455": {
+                "id": 73789,
                 "identifier": "manga-au977455",
                 "image": "https://avt.mkklcdnv6temp.com/43/d/15-1583493210.jpg",
                 "malId": 105182,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-au977455"
             }
         },
-        "MangaFire": {
-            "the-violence-action.pj6r9": {
-                "identifier": "the-violence-action.pj6r9",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/03a475f48d696c16a68be89cd36c4838.jpg",
-                "malId": 105182,
-                "aniId": 99924,
-                "page": "MangaFire",
-                "title": "The Violence Action",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-violence-action.pj6r9/"
-            },
-            "pj6r9": {
-                "identifier": "pj6r9",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/03a475f48d696c16a68be89cd36c4838.jpg",
-                "malId": 105182,
-                "aniId": 99924,
-                "page": "MangaFire",
-                "title": "The Violence Action",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-violence-action.pj6r9/"
-            }
-        },
         "MangaFox": {
             "violence_action": {
+                "id": 156430,
                 "identifier": "violence_action",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26277/cover.jpg",
                 "malId": 105182,
@@ -62,6 +43,19 @@
                 "title": "Violence Action",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/violence_action/"
+            }
+        },
+        "MangaFire": {
+            "pj6r9": {
+                "id": 234327,
+                "identifier": "pj6r9",
+                "image": "https://static.mangafire.to/b660/i/0/03/03a475f48d696c16a68be89cd36c4838.jpg",
+                "malId": 105182,
+                "aniId": 99924,
+                "page": "MangaFire",
+                "title": "The Violence Action",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-violence-actionn.pj6r9"
             }
         },
         "Comick": {

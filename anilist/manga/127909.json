@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b196b920-8f89-4f04-84a8-5b5be93d1491": {
+                "id": 111136,
                 "identifier": "b196b920-8f89-4f04-84a8-5b5be93d1491",
                 "image": "https://uploads.mangadex.org/covers/b196b920-8f89-4f04-84a8-5b5be93d1491/3af6bae5-5d16-4133-8680-7a5cf8287ae2.jpg",
                 "malId": 140778,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/b196b920-8f89-4f04-84a8-5b5be93d1491"
             }
         },
-        "MangaFire": {
-            "rutou-san-ni-wa-kanaimasen.jv418": {
-                "identifier": "rutou-san-ni-wa-kanaimasen.jv418",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7dcd6caaab3b7a5c4600b59688e5b99.jpg",
-                "malId": 140778,
-                "aniId": 127909,
-                "page": "MangaFire",
-                "title": "Rutou-san ni wa Kanaimasen!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rutou-san-ni-wa-kanaimasen.jv418/"
-            }
-        },
         "MangaNato": {
             "manga-ql993946": {
+                "id": 158872,
                 "identifier": "manga-ql993946",
                 "image": "https://avt.mkklcdnv6temp.com/fld/21/l/14-1733301217-nw.webp",
                 "malId": 140778,
@@ -40,6 +30,19 @@
                 "title": "Rutou-San Ni Wa Kanaimasen!",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ql993946"
+            }
+        },
+        "MangaFire": {
+            "jv418": {
+                "id": 248584,
+                "identifier": "jv418",
+                "image": "https://static.mangafire.to/2e3e/i/d/d7/d7dcd6caaab3b7a5c4600b59688e5b99.jpg",
+                "malId": 140778,
+                "aniId": 127909,
+                "page": "MangaFire",
+                "title": "Rutou-san ni wa Kanaimasen!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rutou-san-ni-wa-kanaimasenn.jv418"
             }
         },
         "Comick": {

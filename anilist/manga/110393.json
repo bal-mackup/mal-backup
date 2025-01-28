@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8ae4d0f6-152a-4956-8664-4405758d26ae": {
+                "id": 28670,
                 "identifier": "8ae4d0f6-152a-4956-8664-4405758d26ae",
                 "image": "https://uploads.mangadex.org/covers/8ae4d0f6-152a-4956-8664-4405758d26ae/c86b717a-2951-45a4-8195-34922b0bfff0.jpg",
                 "malId": 118873,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "asuperu-kanojo": {
+                "id": 62488,
                 "identifier": "asuperu-kanojo",
                 "image": "https://temp.compsci88.com/cover/Asuperu-Kanojo.jpg",
                 "malId": 118873,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "asper_kanojo": {
+                "id": 69844,
                 "identifier": "asper_kanojo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31599/cover.jpg",
                 "malId": 118873,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fu983277": {
+                "id": 74472,
                 "identifier": "manga-fu983277",
                 "image": "https://avt.mkklcdnv6temp.com/32/l/19-1583500369.jpg",
                 "malId": 118873,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fu983277"
             }
         },
-        "MangaFire": {
-            "asuperu-kanojo.9ow0m": {
-                "identifier": "asuperu-kanojo.9ow0m",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a8d4c2d867c12b1cb8d8fbef3958adb.jpg",
-                "malId": 118873,
-                "aniId": 110393,
-                "page": "MangaFire",
-                "title": "That's My Atypical Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asuperu-kanojo.9ow0m/"
-            },
-            "asuperu-kanojoo.9ow0m": {
-                "identifier": "asuperu-kanojoo.9ow0m",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a8d4c2d867c12b1cb8d8fbef3958adb.jpg",
-                "malId": 118873,
-                "aniId": 110393,
-                "page": "MangaFire",
-                "title": "That's My Atypical Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asuperu-kanojoo.9ow0m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd5mgbq1zrg0y3pawxsp": {
+                "id": 206913,
                 "identifier": "01j76xyd5mgbq1zrg0y3pawxsp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD5MGBQ1ZRG0Y3PAWXSP.jpg",
                 "malId": 118873,
@@ -86,6 +69,19 @@
                 "title": "That's My Atypical Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD5MGBQ1ZRG0Y3PAWXSP"
+            }
+        },
+        "MangaFire": {
+            "9ow0m": {
+                "id": 229603,
+                "identifier": "9ow0m",
+                "image": "https://static.mangafire.to/fecd/i/3/3a/3a8d4c2d867c12b1cb8d8fbef3958adb.jpg",
+                "malId": 118873,
+                "aniId": 110393,
+                "page": "MangaFire",
+                "title": "That's My Atypical Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/asuperu-kanojoo.9ow0m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b2df3b97-06b4-4544-8ec3-79bc41dfa03b": {
+                "id": 32971,
                 "identifier": "b2df3b97-06b4-4544-8ec3-79bc41dfa03b",
                 "image": "https://uploads.mangadex.org/covers/b2df3b97-06b4-4544-8ec3-79bc41dfa03b/b3d327d2-2c33-40ac-9c62-f85997578fae.jpg",
                 "malId": 131843,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "unholy-blood": {
+                "id": 58758,
                 "identifier": "unholy-blood",
                 "image": "https://temp.compsci88.com/cover/Unholy-Blood.jpg",
                 "malId": 131843,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hq984425": {
+                "id": 73847,
                 "identifier": "manga-hq984425",
                 "image": "https://avt.mkklcdnv6temp.com/25/r/20-1583502012.jpg",
                 "malId": 131843,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-hq984425"
             }
         },
-        "MangaFire": {
-            "white-blood.rj2lq": {
-                "identifier": "white-blood.rj2lq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/01b4457ae046c90c336af05a2c0290ab.jpg",
-                "malId": 131843,
-                "aniId": 115000,
-                "page": "MangaFire",
-                "title": "Unholy Blood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/white-blood.rj2lq/"
-            },
-            "white-bloodd.rj2lq": {
-                "identifier": "white-bloodd.rj2lq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/01b4457ae046c90c336af05a2c0290ab.jpg",
-                "malId": 131843,
-                "aniId": 115000,
-                "page": "MangaFire",
-                "title": "Unholy Blood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/white-bloodd.rj2lq/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8g2tsx1xdhdyjckpza": {
+                "id": 210560,
                 "identifier": "01j76xye8g2tsx1xdhdyjckpza",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8G2TSX1XDHDYJCKPZA.jpg",
                 "malId": 131843,
@@ -74,6 +56,19 @@
                 "title": "Unholy Blood",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8G2TSX1XDHDYJCKPZA"
+            }
+        },
+        "MangaFire": {
+            "rj2lq": {
+                "id": 226655,
+                "identifier": "rj2lq",
+                "image": "https://static.mangafire.to/146e/i/0/01/01b4457ae046c90c336af05a2c0290ab.jpg",
+                "malId": 131843,
+                "aniId": 115000,
+                "page": "MangaFire",
+                "title": "Unholy Blood",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/white-bloodd.rj2lq"
             }
         },
         "Comick": {

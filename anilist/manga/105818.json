@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d381ddae-cd50-4259-9cc6-0fc1cb194a4b": {
+                "id": 24831,
                 "identifier": "d381ddae-cd50-4259-9cc6-0fc1cb194a4b",
                 "image": "https://uploads.mangadex.org/covers/d381ddae-cd50-4259-9cc6-0fc1cb194a4b/39c718a1-b59c-4aa6-a150-74e5c98377b5.jpg",
                 "malId": 117032,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bokutachi-no-remake": {
+                "id": 57621,
                 "identifier": "bokutachi-no-remake",
                 "image": "https://temp.compsci88.com/cover/Bokutachi-no-Remake.jpg",
                 "malId": 117032,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "bokutachi_no_remake": {
+                "id": 64419,
                 "identifier": "bokutachi_no_remake",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29266/cover.jpg",
                 "malId": 117032,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dk980367": {
+                "id": 73248,
                 "identifier": "manga-dk980367",
                 "image": "https://avt.mkklcdnv6temp.com/26/a/17-1583496189.jpg",
                 "malId": 117032,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-dk980367"
             }
         },
-        "MangaFire": {
-            "bokutachi-no-remake.zloyw": {
-                "identifier": "bokutachi-no-remake.zloyw",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5976c5c35265e5f962591389539bddc.jpg",
-                "malId": 117032,
-                "aniId": 105818,
-                "page": "MangaFire",
-                "title": "Remake our Life!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokutachi-no-remake.zloyw/"
-            },
-            "bokutachi-no-remakee.zloyw": {
-                "identifier": "bokutachi-no-remakee.zloyw",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5976c5c35265e5f962591389539bddc.jpg",
-                "malId": 117032,
-                "aniId": 105818,
-                "page": "MangaFire",
-                "title": "Remake our Life!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokutachi-no-remakee.zloyw/"
-            }
-        },
         "Weebcentral": {
             "01j76xydv8177dehzccf9709q0": {
+                "id": 206795,
                 "identifier": "01j76xydv8177dehzccf9709q0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDV8177DEHZCCF9709Q0.jpg",
                 "malId": 117032,
@@ -86,6 +69,19 @@
                 "title": "Bokutachi no Remake",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDV8177DEHZCCF9709Q0"
+            }
+        },
+        "MangaFire": {
+            "zloyw": {
+                "id": 225893,
+                "identifier": "zloyw",
+                "image": "https://static.mangafire.to/fe9f/i/e/e5/e5976c5c35265e5f962591389539bddc.jpg",
+                "malId": 117032,
+                "aniId": 105818,
+                "page": "MangaFire",
+                "title": "Remake our Life!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokutachi-no-remakee.zloyw"
             }
         },
         "Comick": {

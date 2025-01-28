@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cdb166e1-f388-4f37-8c00-19f215e7aa5b": {
+                "id": 33077,
                 "identifier": "cdb166e1-f388-4f37-8c00-19f215e7aa5b",
                 "image": "https://uploads.mangadex.org/covers/cdb166e1-f388-4f37-8c00-19f215e7aa5b/b2972a97-22ea-4f19-92e3-8c4cc8d46d62.jpg",
                 "malId": 134898,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jl986620": {
+                "id": 83178,
                 "identifier": "manga-jl986620",
                 "image": "https://avt.mkklcdnv6temp.com/14/b/22-1600310636.jpg",
                 "malId": 134898,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-girl-in-the-arcade": {
+                "id": 100788,
                 "identifier": "the-girl-in-the-arcade",
                 "image": "https://temp.compsci88.com/cover/The-Girl-in-the-Arcade.jpg",
                 "malId": 134898,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Girl-in-the-Arcade"
             }
         },
-        "MangaFire": {
-            "gesen-no-kanojo.8n54v": {
-                "identifier": "gesen-no-kanojo.8n54v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63114cfda45896a6ad4789bbb1519ec1.jpg",
-                "malId": 134898,
-                "aniId": 112536,
-                "page": "MangaFire",
-                "title": "The Girl in the Arcade",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gesen-no-kanojo.8n54v/"
-            },
-            "gesen-no-kanojoo.8n54v": {
-                "identifier": "gesen-no-kanojoo.8n54v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63114cfda45896a6ad4789bbb1519ec1.jpg",
-                "malId": 134898,
-                "aniId": 112536,
-                "page": "MangaFire",
-                "title": "The Girl in the Arcade",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gesen-no-kanojoo.8n54v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfcdk6y8gy447dtttz2f": {
+                "id": 211967,
                 "identifier": "01j76xyfcdk6y8gy447dtttz2f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCDK6Y8GY447DTTTZ2F.jpg",
                 "malId": 134898,
@@ -74,6 +56,19 @@
                 "title": "The Girl in the Arcade",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCDK6Y8GY447DTTTZ2F"
+            }
+        },
+        "MangaFire": {
+            "8n54v": {
+                "id": 249064,
+                "identifier": "8n54v",
+                "image": "https://static.mangafire.to/cc90/i/6/63/63114cfda45896a6ad4789bbb1519ec1.jpg",
+                "malId": 134898,
+                "aniId": 112536,
+                "page": "MangaFire",
+                "title": "The Girl in the Arcade",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gesen-no-kanojoo.8n54v"
             }
         },
         "Comick": {

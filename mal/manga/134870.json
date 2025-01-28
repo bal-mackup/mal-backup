@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee4bf782-9fe9-42a6-be7f-3809293818c2": {
+                "id": 50520,
                 "identifier": "ee4bf782-9fe9-42a6-be7f-3809293818c2",
                 "image": "https://uploads.mangadex.org/covers/ee4bf782-9fe9-42a6-be7f-3809293818c2/409d0bc0-228f-4342-88ab-48e6da0840f0.jpg",
                 "malId": 134870,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hellmode_gamer_who_likes_to_speedrun_becomes_peerless_in_a_parallel_world_with_obsolete_setting": {
+                "id": 68435,
                 "identifier": "hellmode_gamer_who_likes_to_speedrun_becomes_peerless_in_a_parallel_world_with_obsolete_setting",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36328/cover.jpg",
                 "malId": 134870,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jn987096": {
+                "id": 73077,
                 "identifier": "manga-jn987096",
                 "image": "https://avt.mkklcdnv6temp.com/33/n/22-1604080648.jpg",
                 "malId": 134870,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "hell-mode-yarikomi-suki-no-gamer-wa-haisettei-no-isekai-de-musou-suru": {
+                "id": 80251,
                 "identifier": "hell-mode-yarikomi-suki-no-gamer-wa-haisettei-no-isekai-de-musou-suru",
                 "image": "https://temp.compsci88.com/cover/Hell-Mode-Yarikomi-Suki-no-Gamer-wa-Haisettei-no-Isekai-de-Musou-Suru.jpg",
                 "malId": 134870,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Hell-Mode-Yarikomi-Suki-no-Gamer-wa-Haisettei-no-Isekai-de-Musou-Suru"
             }
         },
-        "MangaFire": {
-            "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.292mq": {
-                "identifier": "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.292mq",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b4cd0a12bb915b47920c9487712c351.jpg",
-                "malId": 134870,
-                "aniId": 129882,
-                "page": "MangaFire",
-                "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.292mq/"
-            },
-            "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suruu.292mq": {
-                "identifier": "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suruu.292mq",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b4cd0a12bb915b47920c9487712c351.jpg",
-                "malId": 134870,
-                "aniId": 129882,
-                "page": "MangaFire",
-                "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suruu.292mq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyevwgrmwa82s79c2ymy2": {
+                "id": 210176,
                 "identifier": "01j76xyevwgrmwa82s79c2ymy2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEVWGRMWA82S79C2YMY2.jpg",
                 "malId": 134870,
@@ -86,6 +69,19 @@
                 "title": "Hell Mode",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEVWGRMWA82S79C2YMY2"
+            }
+        },
+        "MangaFire": {
+            "292mq": {
+                "id": 228452,
+                "identifier": "292mq",
+                "image": "https://static.mangafire.to/d11e/i/2/2b/2b4cd0a12bb915b47920c9487712c351.jpg",
+                "malId": 134870,
+                "aniId": 129882,
+                "page": "MangaFire",
+                "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suruu.292mq"
             }
         },
         "Comick": {

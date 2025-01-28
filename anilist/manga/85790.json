@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "456029c5-553c-4033-a41d-cdbd8873e234": {
+                "id": 11934,
                 "identifier": "456029c5-553c-4033-a41d-cdbd8873e234",
                 "image": "https://uploads.mangadex.org/covers/456029c5-553c-4033-a41d-cdbd8873e234/b25e61d0-b87a-4763-91b4-8f6bd87c91f7.jpg",
                 "malId": 80885,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fujicue-fujicues-music": {
+                "id": 68501,
                 "identifier": "fujicue-fujicues-music",
                 "image": "https://temp.compsci88.com/cover/Fujicue-Fujicues-Music.jpg",
                 "malId": 80885,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ly962433": {
+                "id": 102051,
                 "identifier": "manga-ly962433",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/u/4-1732763471-nw.webp",
                 "malId": 80885,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ly962433"
             }
         },
-        "MangaFire": {
-            "fujicue-fujicues-music.m2n4x": {
-                "identifier": "fujicue-fujicues-music.m2n4x",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3ac8699c7d5521e71aa80b22746abe4a.jpg",
-                "malId": 80885,
-                "aniId": 85790,
-                "page": "MangaFire",
-                "title": "Fujicue!!! - Fujicue's Music",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fujicue-fujicues-music.m2n4x/"
-            },
-            "m2n4x": {
-                "identifier": "m2n4x",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3ac8699c7d5521e71aa80b22746abe4a.jpg",
-                "malId": 80885,
-                "aniId": 85790,
-                "page": "MangaFire",
-                "title": "Fujicue!!! - Fujicue's Music",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fujicue-fujicues-music.m2n4x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyap5dv20qb1hgfy8nndr": {
+                "id": 210973,
                 "identifier": "01j76xyap5dv20qb1hgfy8nndr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAP5DV20QB1HGFY8NNDR.jpg",
                 "malId": 80885,
@@ -74,6 +56,19 @@
                 "title": "Fujicue!!! - Fujicue's Music",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAP5DV20QB1HGFY8NNDR"
+            }
+        },
+        "MangaFire": {
+            "m2n4x": {
+                "id": 257131,
+                "identifier": "m2n4x",
+                "image": "https://static.mangafire.to/123d/i/3/3a/3ac8699c7d5521e71aa80b22746abe4a.jpg",
+                "malId": 80885,
+                "aniId": 85790,
+                "page": "MangaFire",
+                "title": "Fujicue!!! - Fujicue's Music",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fujicue-fujicues-musicc.m2n4x"
             }
         },
         "Comick": {

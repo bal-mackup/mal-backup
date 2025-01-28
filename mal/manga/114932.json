@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "519a8d57-2c3a-4da3-9873-ee8165830eb8": {
+                "id": 23047,
                 "identifier": "519a8d57-2c3a-4da3-9873-ee8165830eb8",
                 "image": "https://uploads.mangadex.org/covers/519a8d57-2c3a-4da3-9873-ee8165830eb8/ffe63435-10ea-4ecd-aa6c-680fee6f1158.jpg",
                 "malId": 114932,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenju-no-kuni": {
+                "id": 60454,
                 "identifier": "tenju-no-kuni",
                 "image": "https://temp.compsci88.com/cover/Tenju-No-Kuni.jpg",
                 "malId": 114932,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ch979490": {
+                "id": 89896,
                 "identifier": "manga-ch979490",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/w/8-1732791935-nw.webp",
                 "malId": 114932,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ch979490"
             }
         },
-        "MangaFire": {
-            "tenju-no-kuni.jvz82": {
-                "identifier": "tenju-no-kuni.jvz82",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38bc3034eea677b46a237c17e9f12388.jpg",
-                "malId": 114932,
-                "aniId": 103144,
-                "page": "MangaFire",
-                "title": "Blissful Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenju-no-kuni.jvz82/"
-            },
-            "tenju-no-kunii.jvz82": {
-                "identifier": "tenju-no-kunii.jvz82",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38bc3034eea677b46a237c17e9f12388.jpg",
-                "malId": 114932,
-                "aniId": 103144,
-                "page": "MangaFire",
-                "title": "Blissful Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenju-no-kunii.jvz82/"
-            },
-            "jvz82": {
-                "identifier": "jvz82",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38bc3034eea677b46a237c17e9f12388.jpg",
-                "malId": 114932,
-                "aniId": 103144,
-                "page": "MangaFire",
-                "title": "Blissful Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenju-no-kunii.jvz82/"
-            }
-        },
         "MangaFox": {
             "tenju_no_kuni": {
+                "id": 162309,
                 "identifier": "tenju_no_kuni",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27960/cover.jpg",
                 "malId": 114932,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xycjzvp4ar8asawn4t26p": {
+                "id": 207407,
                 "identifier": "01j76xycjzvp4ar8asawn4t26p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJZVP4AR8ASAWN4T26P.jpg",
                 "malId": 114932,
@@ -96,6 +69,19 @@
                 "title": "Blissful Land",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJZVP4AR8ASAWN4T26P"
+            }
+        },
+        "MangaFire": {
+            "jvz82": {
+                "id": 225322,
+                "identifier": "jvz82",
+                "image": "https://static.mangafire.to/7e24/i/3/38/38bc3034eea677b46a237c17e9f12388.jpg",
+                "malId": 114932,
+                "aniId": 103144,
+                "page": "MangaFire",
+                "title": "Blissful Land",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenju-no-kunii.jvz82"
             }
         },
         "Comick": {

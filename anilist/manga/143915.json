@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c1c7af74-917d-49aa-aa83-90cdcbb4c9d7": {
+                "id": 95030,
                 "identifier": "c1c7af74-917d-49aa-aa83-90cdcbb4c9d7",
                 "image": "https://uploads.mangadex.org/covers/c1c7af74-917d-49aa-aa83-90cdcbb4c9d7/f1c73231-33ec-4bb8-8ca5-d94b9fcb5fa0.jpg",
                 "malId": 148917,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qz993908": {
+                "id": 123864,
                 "identifier": "manga-qz993908",
                 "image": "https://avt.mkklcdnv6temp.com/17/a/28-1675443927.jpg",
                 "malId": 148917,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qz993908"
             }
         },
-        "MangaFire": {
-            "gimme-that-pacifier.nr0xm": {
-                "identifier": "gimme-that-pacifier.nr0xm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eee72a7f16a441cb14eebdfd7ba60afd.jpg",
-                "malId": 148917,
-                "aniId": 143915,
-                "page": "MangaFire",
-                "title": "Gimme That Pacifier!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gimme-that-pacifier.nr0xm/"
-            },
-            "gimme-that-pacifierr.nr0xm": {
-                "identifier": "gimme-that-pacifierr.nr0xm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eee72a7f16a441cb14eebdfd7ba60afd.jpg",
-                "malId": 148917,
-                "aniId": 143915,
-                "page": "MangaFire",
-                "title": "Gimme That Pacifier!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gimme-that-pacifierr.nr0xm/"
-            }
-        },
         "MangaSee": {
             "gimme-that-pacifier": {
+                "id": 165945,
                 "identifier": "gimme-that-pacifier",
                 "image": "https://temp.compsci88.com/cover/Gimme-That-Pacifier.jpg",
                 "malId": 148917,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygcmbmjy6c9ndr6es1dz": {
+                "id": 208001,
                 "identifier": "01j76xygcmbmjy6c9ndr6es1dz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGCMBMJY6C9NDR6ES1DZ.jpg",
                 "malId": 148917,
@@ -74,6 +56,19 @@
                 "title": "Gimme That Pacifier!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGCMBMJY6C9NDR6ES1DZ"
+            }
+        },
+        "MangaFire": {
+            "nr0xm": {
+                "id": 225178,
+                "identifier": "nr0xm",
+                "image": "https://static.mangafire.to/7fed/i/e/ee/eee72a7f16a441cb14eebdfd7ba60afd.jpg",
+                "malId": 148917,
+                "aniId": 143915,
+                "page": "MangaFire",
+                "title": "Gimme That Pacifier!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gimme-that-pacifierr.nr0xm"
             }
         },
         "Comick": {

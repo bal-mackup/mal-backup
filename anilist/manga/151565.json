@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9b376931-9b88-4205-a43c-112084d33ff9": {
+                "id": 104695,
                 "identifier": "9b376931-9b88-4205-a43c-112084d33ff9",
                 "image": "https://uploads.mangadex.org/covers/9b376931-9b88-4205-a43c-112084d33ff9/b82c19c2-50dd-4412-94c1-14dd4c158423.jpg",
                 "malId": 149067,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oh992316": {
+                "id": 114081,
                 "identifier": "manga-oh992316",
                 "image": "https://avt.mkklcdnv6temp.com/2/l/27-1662613487.jpg",
                 "malId": 149067,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-oh992316"
             }
         },
-        "MangaFire": {
-            "mawangui-gobaek.80wny": {
-                "identifier": "mawangui-gobaek.80wny",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6176a236b58ef590662ad49ac47c304.jpg",
-                "malId": 149067,
-                "aniId": 151565,
-                "page": "MangaFire",
-                "title": "The Dark Lord's Confession",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mawangui-gobaek.80wny/"
-            },
-            "mawangui-gobaekk.80wny": {
-                "identifier": "mawangui-gobaekk.80wny",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6176a236b58ef590662ad49ac47c304.jpg",
-                "malId": 149067,
-                "aniId": 151565,
-                "page": "MangaFire",
-                "title": "The Dark Lord's Confession",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mawangui-gobaekk.80wny/"
-            }
-        },
         "MangaFox": {
             "the_confession_of_the_demon_king": {
+                "id": 181591,
                 "identifier": "the_confession_of_the_demon_king",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42367/cover.jpg",
                 "malId": 149067,
@@ -62,6 +43,19 @@
                 "title": "The Confession of the Demon King",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_confession_of_the_demon_king/"
+            }
+        },
+        "MangaFire": {
+            "80wny": {
+                "id": 227190,
+                "identifier": "80wny",
+                "image": "https://static.mangafire.to/47d4/i/f/f6/f6176a236b58ef590662ad49ac47c304.jpg",
+                "malId": 149067,
+                "aniId": 151565,
+                "page": "MangaFire",
+                "title": "The Dark Lord's Confession",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mawangui-gobaekk.80wny"
             }
         }
     },

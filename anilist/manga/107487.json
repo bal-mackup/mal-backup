@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b7b52147-4636-4d43-ae9b-28a67d376cfb": {
+                "id": 26303,
                 "identifier": "b7b52147-4636-4d43-ae9b-28a67d376cfb",
                 "image": "https://uploads.mangadex.org/covers/b7b52147-4636-4d43-ae9b-28a67d376cfb/7bae91f5-f39c-443b-8122-6062d3fd0012.jpg",
                 "malId": 117964,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yukionna-to-kani-wo-kuu": {
+                "id": 56912,
                 "identifier": "yukionna-to-kani-wo-kuu",
                 "image": "https://temp.compsci88.com/cover/Yukionna-To-Kani-Wo-Kuu.jpg",
                 "malId": 117964,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yukionna_to_kani_wo_kuu": {
+                "id": 62462,
                 "identifier": "yukionna_to_kani_wo_kuu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29823/cover.jpg",
                 "malId": 117964,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dg980889": {
+                "id": 80527,
                 "identifier": "manga-dg980889",
                 "image": "https://avt.mkklcdnv6temp.com/45/f/17-1583496893.jpg",
                 "malId": 117964,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-dg980889"
             }
         },
-        "MangaFire": {
-            "yukionna-to-kani-wo-kuu.rl0kq": {
-                "identifier": "yukionna-to-kani-wo-kuu.rl0kq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69c997c63a67fc145e05c2c121258870.jpg",
-                "malId": 117964,
-                "aniId": 107487,
-                "page": "MangaFire",
-                "title": "Yukionna to Kani wo Kuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yukionna-to-kani-wo-kuu.rl0kq/"
-            },
-            "yukionna-to-kani-wo-kuuu.rl0kq": {
-                "identifier": "yukionna-to-kani-wo-kuuu.rl0kq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69c997c63a67fc145e05c2c121258870.jpg",
-                "malId": 117964,
-                "aniId": 107487,
-                "page": "MangaFire",
-                "title": "Yukionna to Kani wo Kuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yukionna-to-kani-wo-kuuu.rl0kq/"
-            }
-        },
         "Weebcentral": {
             "01j76xycw8ppjc4a5pw2fjzp34": {
+                "id": 208762,
                 "identifier": "01j76xycw8ppjc4a5pw2fjzp34",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCW8PPJC4A5PW2FJZP34.jpg",
                 "malId": 117964,
@@ -86,6 +69,19 @@
                 "title": "Yukionna to Kani wo Kuu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCW8PPJC4A5PW2FJZP34"
+            }
+        },
+        "MangaFire": {
+            "rl0kq": {
+                "id": 239475,
+                "identifier": "rl0kq",
+                "image": "https://static.mangafire.to/9c1e/i/6/69/69c997c63a67fc145e05c2c121258870.jpg",
+                "malId": 117964,
+                "aniId": 107487,
+                "page": "MangaFire",
+                "title": "Yukionna to Kani wo Kuu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yukionna-to-kani-wo-kuuu.rl0kq"
             }
         },
         "Comick": {

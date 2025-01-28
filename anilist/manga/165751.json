@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3e6911b1-7294-4cfe-bff0-81e9ca0be8b6": {
+                "id": 159768,
                 "identifier": "3e6911b1-7294-4cfe-bff0-81e9ca0be8b6",
                 "image": "https://uploads.mangadex.org/covers/3e6911b1-7294-4cfe-bff0-81e9ca0be8b6/d33bfd97-2e8e-44da-92a6-092904fc9d23.jpg",
                 "malId": 159454,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/3e6911b1-7294-4cfe-bff0-81e9ca0be8b6"
             }
         },
-        "MangaFire": {
-            "daraku-kazoku-ron.ppmx9": {
-                "identifier": "daraku-kazoku-ron.ppmx9",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b90f8847eddfeee63cce44425f2e5b31.jpg",
-                "malId": 159454,
-                "aniId": 165751,
-                "page": "MangaFire",
-                "title": "Daraku Kazoku-ron",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daraku-kazoku-ron.ppmx9/"
-            },
-            "daraku-kazoku-ronn.ppmx9": {
-                "identifier": "daraku-kazoku-ronn.ppmx9",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b90f8847eddfeee63cce44425f2e5b31.jpg",
-                "malId": 159454,
-                "aniId": 165751,
-                "page": "MangaFire",
-                "title": "Daraku Kazoku-ron",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daraku-kazoku-ronn.ppmx9/"
-            }
-        },
         "MangaNato": {
             "manga-tq996625": {
+                "id": 184169,
                 "identifier": "manga-tq996625",
                 "image": "https://avt.mkklcdnv6temp.com/fld/23/o/15-1733307990-nw.webp",
                 "malId": 159454,
@@ -50,6 +30,19 @@
                 "title": "Daraku Kazokuron",
                 "type": "manga",
                 "url": "https://manganato.com/manga-tq996625"
+            }
+        },
+        "MangaFire": {
+            "ppmx9": {
+                "id": 227142,
+                "identifier": "ppmx9",
+                "image": "https://static.mangafire.to/2386/i/b/b9/b90f8847eddfeee63cce44425f2e5b31.jpg",
+                "malId": 159454,
+                "aniId": 165751,
+                "page": "MangaFire",
+                "title": "Daraku Kazoku-ron",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/daraku-kazoku-ronn.ppmx9"
             }
         },
         "Comick": {

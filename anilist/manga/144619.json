@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ebfbf002-13f1-4f0f-b06f-2894e4f58fe1": {
+                "id": 96853,
                 "identifier": "ebfbf002-13f1-4f0f-b06f-2894e4f58fe1",
                 "image": "https://uploads.mangadex.org/covers/ebfbf002-13f1-4f0f-b06f-2894e4f58fe1/9a3a6d68-9280-42f1-b598-cc00f111a26d.jpg",
                 "malId": 143892,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rb994884": {
+                "id": 126858,
                 "identifier": "manga-rb994884",
                 "image": "https://avt.mkklcdnv6temp.com/5/u/29-1678679580.jpg",
                 "malId": 143892,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rb994884"
             }
         },
-        "MangaFire": {
-            "majo-to-kishi-wa-ikinokoru.37wn8": {
-                "identifier": "majo-to-kishi-wa-ikinokoru.37wn8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/ab15ac668dc45814660f9e16d3405da9.jpg",
-                "malId": 143892,
-                "aniId": 144619,
-                "page": "MangaFire",
-                "title": "The Witch and the Knight Will Survive",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-to-kishi-wa-ikinokoru.37wn8/"
-            },
-            "majo-to-kishi-wa-ikinokoruu.37wn8": {
-                "identifier": "majo-to-kishi-wa-ikinokoruu.37wn8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/ab15ac668dc45814660f9e16d3405da9.jpg",
-                "malId": 143892,
-                "aniId": 144619,
-                "page": "MangaFire",
-                "title": "The Witch and the Knight Will Survive",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-to-kishi-wa-ikinokoruu.37wn8/"
-            }
-        },
         "MangaSee": {
             "the-witch-and-the-knight-will-survive": {
+                "id": 156449,
                 "identifier": "the-witch-and-the-knight-will-survive",
                 "image": "https://temp.compsci88.com/cover/The-Witch-and-the-Knight-Will-Survive.jpg",
                 "malId": 143892,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg370vz1y9xfqpd9mcq3": {
+                "id": 207209,
                 "identifier": "01j76xyg370vz1y9xfqpd9mcq3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG370VZ1Y9XFQPD9MCQ3.jpg",
                 "malId": 143892,
@@ -74,6 +56,19 @@
                 "title": "The Witch and the Knight Will Survive",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG370VZ1Y9XFQPD9MCQ3"
+            }
+        },
+        "MangaFire": {
+            "37wn8": {
+                "id": 225568,
+                "identifier": "37wn8",
+                "image": "https://static.mangafire.to/7f84/i/a/ab/ab15ac668dc45814660f9e16d3405da9.jpg",
+                "malId": 143892,
+                "aniId": 144619,
+                "page": "MangaFire",
+                "title": "The Witch and the Knight Will Survive",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-to-kishi-wa-ikinokoruu.37wn8"
             }
         },
         "Comick": {

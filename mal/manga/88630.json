@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f9dc858-da1a-4483-a9c8-e394806615d5": {
+                "id": 36379,
                 "identifier": "8f9dc858-da1a-4483-a9c8-e394806615d5",
                 "image": "https://uploads.mangadex.org/covers/8f9dc858-da1a-4483-a9c8-e394806615d5/28b29cff-5714-4b9a-a2a8-a5afd03b876f.png",
                 "malId": 88630,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qx994206": {
+                "id": 127268,
                 "identifier": "manga-qx994206",
                 "image": "https://avt.mkklcdnv6temp.com/28/t/28-1676447838.jpg",
                 "malId": 88630,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qx994206"
             }
         },
-        "MangaFire": {
-            "momoiro-trance.z1n1w": {
-                "identifier": "momoiro-trance.z1n1w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/792c532329c61aa6bca205bd8e2154c8.jpg",
-                "malId": 88630,
-                "aniId": 99436,
-                "page": "MangaFire",
-                "title": "Momoiro Trance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momoiro-trance.z1n1w/"
-            },
-            "momoiro-trancee.z1n1w": {
-                "identifier": "momoiro-trancee.z1n1w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/792c532329c61aa6bca205bd8e2154c8.jpg",
-                "malId": 88630,
-                "aniId": 99436,
-                "page": "MangaFire",
-                "title": "Momoiro Trance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momoiro-trancee.z1n1w/"
-            }
-        },
         "MangaFox": {
             "momoiro_trans": {
+                "id": 156642,
                 "identifier": "momoiro_trans",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43800/cover.jpg",
                 "malId": 88630,
@@ -62,6 +43,19 @@
                 "title": "Momoiro Trans",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/momoiro_trans/"
+            }
+        },
+        "MangaFire": {
+            "z1n1w": {
+                "id": 255095,
+                "identifier": "z1n1w",
+                "image": "https://static.mangafire.to/5e0c/i/7/79/792c532329c61aa6bca205bd8e2154c8.jpg",
+                "malId": 88630,
+                "aniId": 99436,
+                "page": "MangaFire",
+                "title": "Momoiro Trance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/momoiro-trancee.z1n1w"
             }
         },
         "Comick": {

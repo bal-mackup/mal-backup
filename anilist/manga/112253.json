@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8fef2dc5-fd32-4d62-9cb3-4a39275e0ef5": {
+                "id": 30949,
                 "identifier": "8fef2dc5-fd32-4d62-9cb3-4a39275e0ef5",
                 "image": "https://uploads.mangadex.org/covers/8fef2dc5-fd32-4d62-9cb3-4a39275e0ef5/42f14e4f-bfa2-4ef4-b3ef-698eb39f47df.jpg",
                 "malId": 122150,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gd983738": {
+                "id": 75316,
                 "identifier": "manga-gd983738",
                 "image": "https://avt.mkklcdnv6temp.com/11/f/26-1655918337.jpg",
                 "malId": 122150,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_shikkaku": {
+                "id": 76797,
                 "identifier": "isekai_shikkaku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32195/cover.jpg",
                 "malId": 122150,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "isekai-shikkaku": {
+                "id": 108283,
                 "identifier": "isekai-shikkaku",
                 "image": "https://temp.compsci88.com/cover/Isekai-Shikkaku.jpg",
                 "malId": 122150,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Isekai-Shikkaku"
             }
         },
-        "MangaFire": {
-            "isekai-shikkaku.4j3no": {
-                "identifier": "isekai-shikkaku.4j3no",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/16914e7ca60b844faea55ac0a7377589.jpg",
-                "malId": 122150,
-                "aniId": 112253,
-                "page": "MangaFire",
-                "title": "No Longer Allowed In Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-shikkaku.4j3no/"
-            },
-            "isekai-shikkakuu.4j3no": {
-                "identifier": "isekai-shikkakuu.4j3no",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/16914e7ca60b844faea55ac0a7377589.jpg",
-                "malId": 122150,
-                "aniId": 112253,
-                "page": "MangaFire",
-                "title": "No Longer Allowed In Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-shikkakuu.4j3no/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfhdz6j80s7v5yvst2ar": {
+                "id": 214324,
                 "identifier": "01j76xyfhdz6j80s7v5yvst2ar",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFHDZ6J80S7V5YVST2AR.jpg",
                 "malId": 122150,
@@ -86,6 +69,19 @@
                 "title": "No Longer Allowed in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFHDZ6J80S7V5YVST2AR"
+            }
+        },
+        "MangaFire": {
+            "4j3no": {
+                "id": 228700,
+                "identifier": "4j3no",
+                "image": "https://static.mangafire.to/cc8e/i/d/db/16914e7ca60b844faea55ac0a7377589.jpg",
+                "malId": 122150,
+                "aniId": 112253,
+                "page": "MangaFire",
+                "title": "No Longer Allowed In Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-shikkakuu.4j3no"
             }
         },
         "Comick": {

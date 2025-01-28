@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a27b83a-002c-41f3-96a6-e57b6cc9a222": {
+                "id": 123966,
                 "identifier": "7a27b83a-002c-41f3-96a6-e57b6cc9a222",
                 "image": "https://uploads.mangadex.org/covers/7a27b83a-002c-41f3-96a6-e57b6cc9a222/bbbc53f2-9abe-4ac6-b6d8-6a480baac4ac.jpg",
                 "malId": 155315,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qk994219": {
+                "id": 124752,
                 "identifier": "manga-qk994219",
                 "image": "https://avt.mkklcdnv6temp.com/29/h/28-1676449779.jpg",
                 "malId": 155315,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qk994219"
             }
         },
-        "MangaFire": {
-            "satsudou.ykln0": {
-                "identifier": "satsudou.ykln0",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b51ab086c11fb06f1c1553b5282e4c9b.jpg",
-                "malId": 155315,
-                "aniId": 160778,
-                "page": "MangaFire",
-                "title": "Satsudou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/satsudou.ykln0/"
-            },
-            "satsudouu.ykln0": {
-                "identifier": "satsudouu.ykln0",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b51ab086c11fb06f1c1553b5282e4c9b.jpg",
-                "malId": 155315,
-                "aniId": 160778,
-                "page": "MangaFire",
-                "title": "Satsudou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/satsudouu.ykln0/"
-            }
-        },
         "MangaSee": {
             "satsudou": {
+                "id": 178025,
                 "identifier": "satsudou",
                 "image": "https://temp.compsci88.com/cover/Satsudou.jpg",
                 "malId": 155315,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygt38whw8zgvdfe3rb1s": {
+                "id": 209576,
                 "identifier": "01j76xygt38whw8zgvdfe3rb1s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGT38WHW8ZGVDFE3RB1S.jpg",
                 "malId": 155315,
@@ -78,6 +60,7 @@
         },
         "MangaFox": {
             "satsudou": {
+                "id": 221954,
                 "identifier": "satsudou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46813/cover.jpg",
                 "malId": 155315,
@@ -86,6 +69,19 @@
                 "title": "Satsudou",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/satsudou/"
+            }
+        },
+        "MangaFire": {
+            "ykln0": {
+                "id": 227151,
+                "identifier": "ykln0",
+                "image": "https://static.mangafire.to/04e9/i/b/b5/b51ab086c11fb06f1c1553b5282e4c9b.jpg",
+                "malId": 155315,
+                "aniId": 160778,
+                "page": "MangaFire",
+                "title": "Satsudou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/satsudouu.ykln0"
             }
         },
         "Comick": {

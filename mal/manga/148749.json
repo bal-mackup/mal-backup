@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "mage-again": {
+                "id": 90834,
                 "identifier": "mage-again",
                 "image": "https://temp.compsci88.com/cover/Mage-Again.jpg",
                 "malId": 148749,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mm990169": {
+                "id": 92693,
                 "identifier": "manga-mm990169",
                 "image": "https://avt.mkklcdnv6temp.com/13/b/25-1638807780.jpg",
                 "malId": 148749,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mage_again": {
+                "id": 93510,
                 "identifier": "mage_again",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40062/cover.jpg",
                 "malId": 148749,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "9d5ab087-2271-4f5a-9551-7924c5153848": {
+                "id": 106356,
                 "identifier": "9d5ab087-2271-4f5a-9551-7924c5153848",
                 "image": "https://uploads.mangadex.org/covers/9d5ab087-2271-4f5a-9551-7924c5153848/bb8fb493-f2cf-43a1-83ef-225045a1c8db.jpg",
                 "malId": 148749,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/9d5ab087-2271-4f5a-9551-7924c5153848"
             }
         },
-        "MangaFire": {
-            "mage-again.5k3yq": {
-                "identifier": "mage-again.5k3yq",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/284d72c34b6cea8be4018849c1f6f2cb.jpg",
-                "malId": 148749,
-                "aniId": 138659,
-                "page": "MangaFire",
-                "title": "Mage Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mage-again.5k3yq/"
-            },
-            "mage-again2.np5o8": {
-                "identifier": "mage-again2.np5o8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4f9daa6ad58cb4f516de8fb90748355.jpg",
-                "malId": 148749,
-                "aniId": 138659,
-                "page": "MangaFire",
-                "title": "Mage Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mage-again2.np5o8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf51b34vctawjyy0yh36": {
+                "id": 212945,
                 "identifier": "01j76xyf51b34vctawjyy0yh36",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF51B34VCTAWJYY0YH36.jpg",
                 "malId": 148749,
@@ -86,6 +69,30 @@
                 "title": "Mage Again",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF51B34VCTAWJYY0YH36"
+            }
+        },
+        "MangaFire": {
+            "np5o8": {
+                "id": 237921,
+                "identifier": "np5o8",
+                "image": "https://static.mangafire.to/af1f/i/a/a4/a4f9daa6ad58cb4f516de8fb90748355.jpg",
+                "malId": 148749,
+                "aniId": 138659,
+                "page": "MangaFire",
+                "title": "Mage Again",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mage-again22.np5o8"
+            },
+            "5k3yq": {
+                "id": 240320,
+                "identifier": "5k3yq",
+                "image": "https://static.mangafire.to/0dcb/i/2/28/284d72c34b6cea8be4018849c1f6f2cb.jpg",
+                "malId": 148749,
+                "aniId": 138659,
+                "page": "MangaFire",
+                "title": "Mage Again",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mage-againn.5k3yq"
             }
         }
     },

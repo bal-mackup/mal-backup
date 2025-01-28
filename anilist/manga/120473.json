@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e190c652-ead2-4390-bdb6-c629e2e84f50": {
+                "id": 61938,
                 "identifier": "e190c652-ead2-4390-bdb6-c629e2e84f50",
                 "image": "https://uploads.mangadex.org/covers/e190c652-ead2-4390-bdb6-c629e2e84f50/910f1a9e-2d15-4d34-be07-aa106111f376.jpg",
                 "malId": 140055,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ma989735": {
+                "id": 88237,
                 "identifier": "manga-ma989735",
                 "image": "https://avt.mkklcdnv6temp.com/44/k/24-1633490707.jpg",
                 "malId": 140055,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-ma989735"
             }
         },
-        "MangaFire": {
-            "panagias-territory.4qy07": {
-                "identifier": "panagias-territory.4qy07",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f98fe508eb0d6add1f4c6023790561aa.jpg",
-                "malId": 140055,
-                "aniId": 120473,
-                "page": "MangaFire",
-                "title": "Panagia's Territory",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/panagias-territory.4qy07/"
-            }
-        },
         "MangaFox": {
             "panagia_s_territory": {
+                "id": 165665,
                 "identifier": "panagia_s_territory",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40753/cover.jpg",
                 "malId": 140055,
@@ -56,6 +47,7 @@
         },
         "MangaSee": {
             "panagias-territory": {
+                "id": 170925,
                 "identifier": "panagias-territory",
                 "image": "https://temp.compsci88.com/cover/Panagias-Territory.jpg",
                 "malId": 140055,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygj7h0t0kkzd8xbnbf4z": {
+                "id": 211735,
                 "identifier": "01j76xygj7h0t0kkzd8xbnbf4z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGJ7H0T0KKZD8XBNBF4Z.jpg",
                 "malId": 140055,
@@ -76,6 +69,19 @@
                 "title": "Panagia's Territory",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGJ7H0T0KKZD8XBNBF4Z"
+            }
+        },
+        "MangaFire": {
+            "4qy07": {
+                "id": 250910,
+                "identifier": "4qy07",
+                "image": "https://static.mangafire.to/155f/i/f/f9/f98fe508eb0d6add1f4c6023790561aa.jpg",
+                "malId": 140055,
+                "aniId": 120473,
+                "page": "MangaFire",
+                "title": "Panagia's Territory",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/panagias-territoryy.4qy07"
             }
         },
         "Comick": {

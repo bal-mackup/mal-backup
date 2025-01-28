@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eeea01ed-4838-45ca-8e90-88d6f6e95603": {
+                "id": 34778,
                 "identifier": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
                 "image": "https://uploads.mangadex.org/covers/eeea01ed-4838-45ca-8e90-88d6f6e95603/bfd6991c-b950-4ece-81c0-49943c949994.jpg",
                 "malId": 127084,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cuprums-bride": {
+                "id": 65261,
                 "identifier": "cuprums-bride",
                 "image": "https://temp.compsci88.com/cover/Cuprums-Bride.jpg",
                 "malId": 127084,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jc986559": {
+                "id": 73430,
                 "identifier": "manga-jc986559",
                 "image": "https://avt.mkklcdnv6temp.com/11/a/23-1611926425.jpg",
                 "malId": 127084,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "cuprum_no_hanayome": {
+                "id": 94803,
                 "identifier": "cuprum_no_hanayome",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34145/cover.jpg",
                 "malId": 127084,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/cuprum_no_hanayome/"
             }
         },
-        "MangaFire": {
-            "cuprums-bride.l3poz": {
-                "identifier": "cuprums-bride.l3poz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/8732797f9a1d3b2d2c3798b9c98db289.jpg",
-                "malId": 127084,
-                "aniId": 117675,
-                "page": "MangaFire",
-                "title": "The Coppersmith's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cuprums-bride.l3poz/"
-            },
-            "cuprums-bridee.l3poz": {
-                "identifier": "cuprums-bridee.l3poz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/8732797f9a1d3b2d2c3798b9c98db289.jpg",
-                "malId": 127084,
-                "aniId": 117675,
-                "page": "MangaFire",
-                "title": "The Coppersmith's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cuprums-bridee.l3poz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydvbsfba3z4yen6htj32": {
+                "id": 213916,
                 "identifier": "01j76xydvbsfba3z4yen6htj32",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDVBSFBA3Z4YEN6HTJ32.jpg",
                 "malId": 127084,
@@ -86,6 +69,19 @@
                 "title": "The Coppersmith's Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDVBSFBA3Z4YEN6HTJ32"
+            }
+        },
+        "MangaFire": {
+            "l3poz": {
+                "id": 229557,
+                "identifier": "l3poz",
+                "image": "https://static.mangafire.to/25c5/i/8/87/8732797f9a1d3b2d2c3798b9c98db289.jpg",
+                "malId": 127084,
+                "aniId": 117675,
+                "page": "MangaFire",
+                "title": "The Coppersmith's Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cuprums-bridee.l3poz"
             }
         },
         "Comick": {

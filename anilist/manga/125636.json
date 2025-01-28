@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b407de00-75a5-415a-a001-585fb41b9cf2": {
+                "id": 50746,
                 "identifier": "b407de00-75a5-415a-a001-585fb41b9cf2",
                 "image": "https://uploads.mangadex.org/covers/b407de00-75a5-415a-a001-585fb41b9cf2/ba79a85a-1a04-4739-a895-b1124823656a.jpg",
                 "malId": 147322,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-max-level-hero-has-returned": {
+                "id": 54419,
                 "identifier": "the-max-level-hero-has-returned",
                 "image": "https://temp.compsci88.com/cover/The-Max-Level-Hero-Has-Returned.jpg",
                 "malId": 147322,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-je987087": {
+                "id": 73000,
                 "identifier": "manga-je987087",
                 "image": "https://avt.mkklcdnv6temp.com/45/d/28-1677656483.jpg",
                 "malId": 147322,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "the_max_level_hero_strikes_back": {
+                "id": 112580,
                 "identifier": "the_max_level_hero_strikes_back",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39346/cover.jpg",
                 "malId": 147322,
@@ -54,6 +58,7 @@
                 "url": "https://fanfox.net/manga/the_max_level_hero_strikes_back/"
             },
             "the_max_level_hero_strikes_back_delete": {
+                "id": 114587,
                 "identifier": "the_max_level_hero_strikes_back_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39346/cover.jpg",
                 "malId": 147322,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/the_max_level_hero_strikes_back_delete/"
             }
         },
-        "MangaFire": {
-            "the-max-level-hero-has-returned.6lnj7": {
-                "identifier": "the-max-level-hero-has-returned.6lnj7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/825b4cf4b5b209f28299fb2f86b497a1.jpg",
-                "malId": 147322,
-                "aniId": 125636,
-                "page": "MangaFire",
-                "title": "The Max Level Hero Strikes Back!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-max-level-hero-has-returned.6lnj7/"
-            },
-            "the-max-level-hero-has-returnedd.6lnj7": {
-                "identifier": "the-max-level-hero-has-returnedd.6lnj7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/825b4cf4b5b209f28299fb2f86b497a1.jpg",
-                "malId": 147322,
-                "aniId": 125636,
-                "page": "MangaFire",
-                "title": "The Max Level Hero Strikes Back!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-max-level-hero-has-returnedd.6lnj7/"
-            }
-        },
         "Weebcentral": {
             "01j76xye21jw91fdrnmx32j0ws": {
+                "id": 210932,
                 "identifier": "01j76xye21jw91fdrnmx32j0ws",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE21JW91FDRNMX32J0WS.jpg",
                 "malId": 147322,
@@ -96,6 +80,19 @@
                 "title": "The Max Level Hero Strikes Back",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE21JW91FDRNMX32J0WS"
+            }
+        },
+        "MangaFire": {
+            "6lnj7": {
+                "id": 228248,
+                "identifier": "6lnj7",
+                "image": "https://static.mangafire.to/95ed/i/8/82/825b4cf4b5b209f28299fb2f86b497a1.jpg",
+                "malId": 147322,
+                "aniId": 125636,
+                "page": "MangaFire",
+                "title": "The Max Level Hero Strikes Back!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-max-level-hero-has-returnedd.6lnj7"
             }
         },
         "Comick": {

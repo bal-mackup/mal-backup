@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0b525cfb-abcc-4e4d-8f3d-c7d07ac03a05": {
+                "id": 25477,
                 "identifier": "0b525cfb-abcc-4e4d-8f3d-c7d07ac03a05",
                 "image": "https://uploads.mangadex.org/covers/0b525cfb-abcc-4e4d-8f3d-c7d07ac03a05/0ce8bcbb-1049-4577-89c6-549ea5bbecc6.jpg",
                 "malId": 117215,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nana-to-kaoru---kokosei-no-sm-gokko": {
+                "id": 57739,
                 "identifier": "nana-to-kaoru---kokosei-no-sm-gokko",
                 "image": "https://temp.compsci88.com/cover/Nana-To-Kaoru---Kokosei-No-Sm-Gokko.jpg",
                 "malId": 117215,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-du981277": {
+                "id": 74543,
                 "identifier": "manga-du981277",
                 "image": "https://avt.mkklcdnv6temp.com/8/y/18-1583497428.jpg",
                 "malId": 117215,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-du981277"
             },
             "manga-nu990403": {
+                "id": 94720,
                 "identifier": "manga-nu990403",
                 "image": "https://avt.mkklcdnv6temp.com/23/c/25-1642263212.jpg",
                 "malId": 117215,
@@ -52,20 +56,9 @@
                 "url": "https://chapmanganato.com/manga-nu990403"
             }
         },
-        "MangaFire": {
-            "nana-to-kaoru-last-year.llknq": {
-                "identifier": "nana-to-kaoru-last-year.llknq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c17d683343157b4548f4929be1b263ec.jpg",
-                "malId": 117215,
-                "aniId": 107649,
-                "page": "MangaFire",
-                "title": "Nana to Kaoru: Last Year",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nana-to-kaoru-last-year.llknq/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxs5005q4t1y22hw99c": {
+                "id": 210702,
                 "identifier": "01j76xycxs5005q4t1y22hw99c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXS5005Q4T1Y22HW99C.jpg",
                 "malId": 117215,
@@ -74,6 +67,19 @@
                 "title": "Nana to Kaoru - Kokosei no SM gokko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXS5005Q4T1Y22HW99C"
+            }
+        },
+        "MangaFire": {
+            "llknq": {
+                "id": 254527,
+                "identifier": "llknq",
+                "image": "https://static.mangafire.to/8589/i/c/c1/c17d683343157b4548f4929be1b263ec.jpg",
+                "malId": 117215,
+                "aniId": 107649,
+                "page": "MangaFire",
+                "title": "Nana to Kaoru: Last Year",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nana-to-kaoru-last-yearr.llknq"
             }
         },
         "Comick": {

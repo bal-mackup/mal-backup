@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "964dd663-dc57-4f06-a9f7-643db42050e8": {
+                "id": 10680,
                 "identifier": "964dd663-dc57-4f06-a9f7-643db42050e8",
                 "image": "https://uploads.mangadex.org/covers/964dd663-dc57-4f06-a9f7-643db42050e8/68f1f8b9-2ebb-414c-996c-2db73e75a70a.jpg",
                 "malId": 72167,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "forest-of-drizzling-rain": {
+                "id": 69346,
                 "identifier": "forest-of-drizzling-rain",
                 "image": "https://temp.compsci88.com/cover/Forest-Of-Drizzling-Rain.jpg",
                 "malId": 72167,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kirisame_ga_furu_mori": {
+                "id": 71369,
                 "identifier": "kirisame_ga_furu_mori",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13855/cover.jpg",
                 "malId": 72167,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/kirisame_ga_furu_mori/"
             }
         },
-        "MangaFire": {
-            "kirisame-ga-furu-mori.ny6j": {
-                "identifier": "kirisame-ga-furu-mori.ny6j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70839c056caec7b65c3627e57b0eb2a9.jpg",
-                "malId": 72167,
-                "aniId": 86835,
-                "page": "MangaFire",
-                "title": "Kirisame ga Furu Mori",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kirisame-ga-furu-mori.ny6j/"
-            },
-            "ny6j": {
-                "identifier": "ny6j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70839c056caec7b65c3627e57b0eb2a9.jpg",
-                "malId": 72167,
-                "aniId": 86835,
-                "page": "MangaFire",
-                "title": "Kirisame ga Furu Mori",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kirisame-ga-furu-mori.ny6j/"
-            }
-        },
         "MangaNato": {
             "manga-ss953175": {
+                "id": 194901,
                 "identifier": "manga-ss953175",
                 "image": "https://avt.mkklcdnv6temp.com/fld/66/t/1-1732719057-nw.webp",
                 "malId": 72167,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xybjkgb450bmsy8wjmzq4": {
+                "id": 213518,
                 "identifier": "01j76xybjkgb450bmsy8wjmzq4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJKGB450BMSY8WJMZQ4.jpg",
                 "malId": 72167,
@@ -86,6 +69,19 @@
                 "title": "Forest of Drizzling Rain",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJKGB450BMSY8WJMZQ4"
+            }
+        },
+        "MangaFire": {
+            "ny6j": {
+                "id": 252902,
+                "identifier": "ny6j",
+                "image": "https://static.mangafire.to/fafd/i/7/70/70839c056caec7b65c3627e57b0eb2a9.jpg",
+                "malId": 72167,
+                "aniId": 86835,
+                "page": "MangaFire",
+                "title": "Kirisame ga Furu Mori",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kirisame-ga-furu-morii.ny6j"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dcc3f064-9eee-44c1-b409-f6df242a3496": {
+                "id": 27228,
                 "identifier": "dcc3f064-9eee-44c1-b409-f6df242a3496",
                 "image": "https://uploads.mangadex.org/covers/dcc3f064-9eee-44c1-b409-f6df242a3496/ad873239-6d34-43b8-9178-c09a828263a1.jpg",
                 "malId": 119321,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-et981602": {
+                "id": 81703,
                 "identifier": "manga-et981602",
                 "image": "https://avt.mkklcdnv6temp.com/20/z/18-1583497920.jpg",
                 "malId": 119321,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "heart_gear": {
+                "id": 87484,
                 "identifier": "heart_gear",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30362/cover.jpg",
                 "malId": 119321,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "heart-gear": {
+                "id": 112539,
                 "identifier": "heart-gear",
                 "image": "https://temp.compsci88.com/cover/Heart-Gear.jpg",
                 "malId": 119321,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Heart-Gear"
             }
         },
-        "MangaFire": {
-            "heart-gear.w1rkl": {
-                "identifier": "heart-gear.w1rkl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/56/56ff4662a50fecb5ee2a6de5e8c45ad7.jpg",
-                "malId": 119321,
-                "aniId": 108832,
-                "page": "MangaFire",
-                "title": "HEART GEAR",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/heart-gear.w1rkl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfk13rv48527s4q4z74a": {
+                "id": 211172,
                 "identifier": "01j76xyfk13rv48527s4q4z74a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFK13RV48527S4Q4Z74A.jpg",
                 "malId": 119321,
@@ -76,6 +69,19 @@
                 "title": "Heart Gear",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFK13RV48527S4Q4Z74A"
+            }
+        },
+        "MangaFire": {
+            "w1rkl": {
+                "id": 244231,
+                "identifier": "w1rkl",
+                "image": "https://static.mangafire.to/07c1/i/5/56/56ff4662a50fecb5ee2a6de5e8c45ad7.jpg",
+                "malId": 119321,
+                "aniId": 108832,
+                "page": "MangaFire",
+                "title": "HEART GEAR",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/heart-gearr.w1rkl"
             }
         },
         "Comick": {

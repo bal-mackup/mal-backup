@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c63c5f01-2cbd-43fc-8668-544f0a6b148e": {
+                "id": 36366,
                 "identifier": "c63c5f01-2cbd-43fc-8668-544f0a6b148e",
                 "image": "https://uploads.mangadex.org/covers/c63c5f01-2cbd-43fc-8668-544f0a6b148e/4576e74b-d6fb-48b3-b044-2dc6bc559532.jpg",
                 "malId": 128784,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kami_ni_ai_sareta_ko": {
+                "id": 63702,
                 "identifier": "kami_ni_ai_sareta_ko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34283/cover.jpg",
                 "malId": 128784,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-child-loved-by-god": {
+                "id": 67702,
                 "identifier": "the-child-loved-by-god",
                 "image": "https://temp.compsci88.com/cover/The-Child-Loved-by-God.jpg",
                 "malId": 128784,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-iu985929": {
+                "id": 76829,
                 "identifier": "manga-iu985929",
                 "image": "https://avt.mkklcdnv6temp.com/36/q/21-1595610184.jpg",
                 "malId": 128784,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-iu985929"
             }
         },
-        "MangaFire": {
-            "the-child-loved-by-god.kkjkr": {
-                "identifier": "the-child-loved-by-god.kkjkr",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8d6bf9cbac75ffc6bcf287c0c9298cdb.jpg",
-                "malId": 128784,
-                "aniId": 119418,
-                "page": "MangaFire",
-                "title": "The Child Loved By God",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-child-loved-by-god.kkjkr/"
-            },
-            "the-child-loved-by-godd.kkjkr": {
-                "identifier": "the-child-loved-by-godd.kkjkr",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8d6bf9cbac75ffc6bcf287c0c9298cdb.jpg",
-                "malId": 128784,
-                "aniId": 119418,
-                "page": "MangaFire",
-                "title": "The Child Loved By God",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-child-loved-by-godd.kkjkr/"
-            }
-        },
         "Weebcentral": {
             "01j76xyds8tsrtggc4mg268hsv": {
+                "id": 210012,
                 "identifier": "01j76xyds8tsrtggc4mg268hsv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDS8TSRTGGC4MG268HSV.jpg",
                 "malId": 128784,
@@ -86,6 +69,19 @@
                 "title": "The Child Loved by God",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDS8TSRTGGC4MG268HSV"
+            }
+        },
+        "MangaFire": {
+            "kkjkr": {
+                "id": 231101,
+                "identifier": "kkjkr",
+                "image": "https://static.mangafire.to/fd92/i/8/8d/8d6bf9cbac75ffc6bcf287c0c9298cdb.jpg",
+                "malId": 128784,
+                "aniId": 119418,
+                "page": "MangaFire",
+                "title": "The Child Loved By God",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-child-loved-by-godd.kkjkr"
             }
         },
         "Comick": {

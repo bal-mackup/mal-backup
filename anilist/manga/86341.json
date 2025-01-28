@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0025e816-e52c-47da-88fe-fdd5a5170299": {
+                "id": 11445,
                 "identifier": "0025e816-e52c-47da-88fe-fdd5a5170299",
                 "image": "https://uploads.mangadex.org/covers/0025e816-e52c-47da-88fe-fdd5a5170299/c747fc22-b130-4be6-9cee-6cf2f07b11bb.jpg",
                 "malId": 65317,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "komori-san-wa-kotowarenai": {
+                "id": 58699,
                 "identifier": "komori-san-wa-kotowarenai",
                 "image": "https://temp.compsci88.com/cover/Komori-San-Wa-Kotowarenai.jpg",
                 "malId": 65317,
@@ -30,40 +32,9 @@
                 "url": "https://mangasee123.com/manga/Komori-San-Wa-Kotowarenai"
             }
         },
-        "MangaFire": {
-            "komori-san-wa-kotowarenai.z0kp": {
-                "identifier": "komori-san-wa-kotowarenai.z0kp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d4068a43800adff83f66615e8a139bd.jpg",
-                "malId": 65317,
-                "aniId": 86341,
-                "page": "MangaFire",
-                "title": "Komori-san wa Kotowarenai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komori-san-wa-kotowarenai.z0kp/"
-            },
-            "komori-san-wa-kotowarenaii.z0kp": {
-                "identifier": "komori-san-wa-kotowarenaii.z0kp",
-                "image": "https://static.mangafire.to/4e64/i/7/7d/7d4068a43800adff83f66615e8a139bd.jpg",
-                "malId": 65317,
-                "aniId": 86341,
-                "page": "MangaFire",
-                "title": "Komori-san wa Kotowarenai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komori-san-wa-kotowarenaii.z0kp/"
-            },
-            "z0kp": {
-                "identifier": "z0kp",
-                "image": "https://static.mangafire.to/4e64/i/7/7d/7d4068a43800adff83f66615e8a139bd.jpg",
-                "malId": 65317,
-                "aniId": 86341,
-                "page": "MangaFire",
-                "title": "Komori-san wa Kotowarenai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komori-san-wa-kotowarenaii.z0kp"
-            }
-        },
         "Weebcentral": {
             "01j76xyb97ec6k3nq5q7z2vwjw": {
+                "id": 208601,
                 "identifier": "01j76xyb97ec6k3nq5q7z2vwjw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB97EC6K3NQ5Q7Z2VWJW.jpg",
                 "malId": 65317,
@@ -72,6 +43,19 @@
                 "title": "Komori-san wa Kotowarenai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB97EC6K3NQ5Q7Z2VWJW"
+            }
+        },
+        "MangaFire": {
+            "z0kp": {
+                "id": 223345,
+                "identifier": "z0kp",
+                "image": "https://static.mangafire.to/4e64/i/7/7d/7d4068a43800adff83f66615e8a139bd.jpg",
+                "malId": 65317,
+                "aniId": 86341,
+                "page": "MangaFire",
+                "title": "Komori-san wa Kotowarenai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/komori-san-wa-kotowarenaii.z0kp"
             }
         },
         "Comick": {

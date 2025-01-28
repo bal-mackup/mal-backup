@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "19e3730a-002b-4fe7-9444-3643e5848551": {
+                "id": 91819,
                 "identifier": "19e3730a-002b-4fe7-9444-3643e5848551",
                 "image": "https://uploads.mangadex.org/covers/19e3730a-002b-4fe7-9444-3643e5848551/b0e242b9-d446-4a6c-8f9a-c7ba853b7c29.jpg",
                 "malId": 140074,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nb990636": {
+                "id": 100010,
                 "identifier": "manga-nb990636",
                 "image": "https://avt.mkklcdnv6temp.com/32/v/25-1648350188.jpg",
                 "malId": 140074,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ice_cream_girlfriend": {
+                "id": 102177,
                 "identifier": "ice_cream_girlfriend",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41943/cover.jpg",
                 "malId": 140074,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "ice-cream-kanojo": {
+                "id": 112593,
                 "identifier": "ice-cream-kanojo",
                 "image": "https://temp.compsci88.com/cover/Ice-Cream-Kanojo.jpg",
                 "malId": 140074,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Ice-Cream-Kanojo"
             }
         },
-        "MangaFire": {
-            "ice-cream-kanojo.qxlm5": {
-                "identifier": "ice-cream-kanojo.qxlm5",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9a90123182881cbd3cbdfd9a93e2b70e.jpg",
-                "malId": 140074,
-                "aniId": 138840,
-                "page": "MangaFire",
-                "title": "Ice Cream Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ice-cream-kanojo.qxlm5/"
-            },
-            "ice-cream-kanojoo.qxlm5": {
-                "identifier": "ice-cream-kanojoo.qxlm5",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9a90123182881cbd3cbdfd9a93e2b70e.jpg",
-                "malId": 140074,
-                "aniId": 138840,
-                "page": "MangaFire",
-                "title": "Ice Cream Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ice-cream-kanojoo.qxlm5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfkbb92r0fx370dwwxqf": {
+                "id": 212914,
                 "identifier": "01j76xyfkbb92r0fx370dwwxqf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFKBB92R0FX370DWWXQF.jpg",
                 "malId": 140074,
@@ -86,6 +69,19 @@
                 "title": "Ice Cream Kanojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFKBB92R0FX370DWWXQF"
+            }
+        },
+        "MangaFire": {
+            "qxlm5": {
+                "id": 224715,
+                "identifier": "qxlm5",
+                "image": "https://static.mangafire.to/e6d6/i/9/9a/9a90123182881cbd3cbdfd9a93e2b70e.jpg",
+                "malId": 140074,
+                "aniId": 138840,
+                "page": "MangaFire",
+                "title": "Ice Cream Kanojo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ice-cream-kanojoo.qxlm5"
             }
         },
         "Comick": {

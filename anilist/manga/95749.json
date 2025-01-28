@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c616a38c-b7d6-4677-9254-b07748f49b15": {
+                "id": 13455,
                 "identifier": "c616a38c-b7d6-4677-9254-b07748f49b15",
                 "image": "https://uploads.mangadex.org/covers/c616a38c-b7d6-4677-9254-b07748f49b15/e79e977a-6b7d-449d-81ba-64647ce2d546.jpg",
                 "malId": 92031,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "neko-no-kohana": {
+                "id": 69733,
                 "identifier": "neko-no-kohana",
                 "image": "https://temp.compsci88.com/cover/Neko-No-Kohana.jpg",
                 "malId": 92031,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "neko_no_kohana": {
+                "id": 69739,
                 "identifier": "neko_no_kohana",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16563/cover.jpg",
                 "malId": 92031,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jt987254": {
+                "id": 79139,
                 "identifier": "manga-jt987254",
                 "image": "https://avt.mkklcdnv6temp.com/40/b/22-1606097060.jpg",
                 "malId": 92031,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-jt987254"
             }
         },
-        "MangaFire": {
-            "neko-no-kohana.5k7km": {
-                "identifier": "neko-no-kohana.5k7km",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d7b1f40f818c3dba34a38fcfc00e35a.jpg",
-                "malId": 92031,
-                "aniId": 95749,
-                "page": "MangaFire",
-                "title": "Neko no Kohana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-no-kohana.5k7km/"
-            },
-            "5k7km": {
-                "identifier": "5k7km",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d7b1f40f818c3dba34a38fcfc00e35a.jpg",
-                "malId": 92031,
-                "aniId": 95749,
-                "page": "MangaFire",
-                "title": "Neko no Kohana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-no-kohana.5k7km/"
-            }
-        },
         "Weebcentral": {
             "01j76xybk571ay2rygf2j0qzed": {
+                "id": 209427,
                 "identifier": "01j76xybk571ay2rygf2j0qzed",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBK571AY2RYGF2J0QZED.jpg",
                 "malId": 92031,
@@ -86,6 +69,19 @@
                 "title": "Neko no Kohana",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBK571AY2RYGF2J0QZED"
+            }
+        },
+        "MangaFire": {
+            "5k7km": {
+                "id": 251606,
+                "identifier": "5k7km",
+                "image": "https://static.mangafire.to/9f8f/i/0/0d/0d7b1f40f818c3dba34a38fcfc00e35a.jpg",
+                "malId": 92031,
+                "aniId": 95749,
+                "page": "MangaFire",
+                "title": "Neko no Kohana",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neko-no-kohanaa.5k7km"
             }
         },
         "Comick": {

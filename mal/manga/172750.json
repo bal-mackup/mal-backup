@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "db1f4c31-f92f-4f4f-a8c6-fc898e432888": {
+                "id": 193528,
                 "identifier": "db1f4c31-f92f-4f4f-a8c6-fc898e432888",
                 "image": "https://uploads.mangadex.org/covers/db1f4c31-f92f-4f4f-a8c6-fc898e432888/eb0e7fa2-67dd-484f-861c-9ea3c4f0d7a1.jpg",
                 "malId": 172750,
-                "aniId": null,
+                "aniId": 180891,
                 "page": "Mangadex",
                 "title": "Absolute Regression",
                 "type": "manga",
@@ -20,10 +21,11 @@
         },
         "MangaNato": {
             "manga-ze1002913": {
+                "id": 193717,
                 "identifier": "manga-ze1002913",
                 "image": "https://avt.mkklcdnv6temp.com/fld/63/y/17-1733325083-nw.webp",
                 "malId": 172750,
-                "aniId": null,
+                "aniId": 180891,
                 "page": "MangaNato",
                 "title": "Absolute Regression",
                 "type": "manga",
@@ -32,10 +34,11 @@
         },
         "MangaFox": {
             "absolute_regression": {
+                "id": 221824,
                 "identifier": "absolute_regression",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46718/cover.jpg",
                 "malId": 172750,
-                "aniId": null,
+                "aniId": 180891,
                 "page": "MangaFox",
                 "title": "Absolute Regression",
                 "type": "manga",
@@ -44,14 +47,28 @@
         },
         "MangaFire": {
             "2pmll": {
+                "id": 228433,
                 "identifier": "2pmll",
                 "image": "https://static.mangafire.to/e92e/i/f/fe/8ead1906e1c35342dc463b7dcf467a50.jpg",
                 "malId": 172750,
-                "aniId": null,
+                "aniId": 180891,
                 "page": "MangaFire",
                 "title": "Absolute Regression",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/absolute-regressionn.2pmll"
+            }
+        },
+        "Weebcentral": {
+            "01jgbytdycgfhjcq16jbw69szb": {
+                "id": 267851,
+                "identifier": "01jgbytdycgfhjcq16jbw69szb",
+                "image": "https://temp.compsci88.com/cover/fallback/01JGBYTDYCGFHJCQ16JBW69SZB.jpg",
+                "malId": 172750,
+                "aniId": 180891,
+                "page": "Weebcentral",
+                "title": "Absolute Regression",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JGBYTDYCGFHJCQ16JBW69SZB"
             }
         },
         "Comick": {
@@ -61,8 +78,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Absolute Regression",
-                "url": "https://comick.io/comic/absolute-regression"
+                "url": "https://comick.io/comic/absolute-regression",
+                "aniId": 180891
             }
         }
-    }
+    },
+    "aniId": 180891
 }

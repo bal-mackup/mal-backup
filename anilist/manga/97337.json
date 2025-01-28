@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c071276e-abd4-4711-8b14-544431eb152a": {
+                "id": 16732,
                 "identifier": "c071276e-abd4-4711-8b14-544431eb152a",
                 "image": "https://uploads.mangadex.org/covers/c071276e-abd4-4711-8b14-544431eb152a/0097bfd5-2360-462b-8884-b91db6def044.jpg",
                 "malId": 99314,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kimi-no-na-wa": {
+                "id": 54647,
                 "identifier": "kimi-no-na-wa",
                 "image": "https://temp.compsci88.com/cover/Kimi-No-Na-Wa.jpg",
                 "malId": 99314,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kimi_no_na_wa": {
+                "id": 55172,
                 "identifier": "kimi_no_na_wa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26553/cover.jpg",
                 "malId": 99314,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-aw977705": {
+                "id": 111189,
                 "identifier": "manga-aw977705",
                 "image": "https://avt.mkklcdnv6temp.com/fld/45/v/8-1732789821-nw.webp",
                 "malId": 99314,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-aw977705"
             }
         },
-        "MangaFire": {
-            "kimi-no-na-wa.pr1nq": {
-                "identifier": "kimi-no-na-wa.pr1nq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e2785cd70e6a40f7648f7413482c62c.jpg",
-                "malId": 99314,
-                "aniId": 97337,
-                "page": "MangaFire",
-                "title": "your name.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-na-wa.pr1nq/"
-            },
-            "kimi-no-na-waa.pr1nq": {
-                "identifier": "kimi-no-na-waa.pr1nq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e2785cd70e6a40f7648f7413482c62c.jpg",
-                "malId": 99314,
-                "aniId": 97337,
-                "page": "MangaFire",
-                "title": "your name.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-na-waa.pr1nq/"
-            },
-            "pr1nq": {
-                "identifier": "pr1nq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e2785cd70e6a40f7648f7413482c62c.jpg",
-                "malId": 99314,
-                "aniId": 97337,
-                "page": "MangaFire",
-                "title": "your name.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-na-wa.pr1nq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5j92g2r0rzqa5683g0": {
+                "id": 210057,
                 "identifier": "01j76xyc5j92g2r0rzqa5683g0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5J92G2R0RZQA5683G0.jpg",
                 "malId": 99314,
@@ -96,6 +69,19 @@
                 "title": "your name.",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5J92G2R0RZQA5683G0"
+            }
+        },
+        "MangaFire": {
+            "pr1nq": {
+                "id": 230529,
+                "identifier": "pr1nq",
+                "image": "https://static.mangafire.to/3bfc/i/0/0e/0e2785cd70e6a40f7648f7413482c62c.jpg",
+                "malId": 99314,
+                "aniId": 97337,
+                "page": "MangaFire",
+                "title": "your name.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-no-na-waa.pr1nq"
             }
         },
         "Comick": {

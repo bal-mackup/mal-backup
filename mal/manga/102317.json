@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8a311fc4-7b13-4351-95f2-6ad53abd609a": {
+                "id": 16086,
                 "identifier": "8a311fc4-7b13-4351-95f2-6ad53abd609a",
                 "image": "https://uploads.mangadex.org/covers/8a311fc4-7b13-4351-95f2-6ad53abd609a/2714f24c-7f6a-4056-9e40-2124fe4f5f8e.jpg",
                 "malId": 102317,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/8a311fc4-7b13-4351-95f2-6ad53abd609a"
             }
         },
-        "MangaFire": {
-            "tenshi-no-tamago.prxrq": {
-                "identifier": "tenshi-no-tamago.prxrq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63a6bc19302c585da7eafd92dfdd2816.jpg",
-                "malId": 102317,
-                "aniId": 99989,
-                "page": "MangaFire",
-                "title": "Tenshi no Tamago",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenshi-no-tamago.prxrq/"
-            },
-            "prxrq": {
-                "identifier": "prxrq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63a6bc19302c585da7eafd92dfdd2816.jpg",
-                "malId": 102317,
-                "aniId": 99989,
-                "page": "MangaFire",
-                "title": "Tenshi no Tamago",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenshi-no-tamago.prxrq/"
-            }
-        },
         "MangaFox": {
             "tenshi_no_tamago": {
+                "id": 196003,
                 "identifier": "tenshi_no_tamago",
                 "image": "https://fmcdn.mfcdn.net/store/manga/6942/cover.jpg",
                 "malId": 102317,
@@ -50,6 +30,19 @@
                 "title": "Tenshi no Tamago",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tenshi_no_tamago/"
+            }
+        },
+        "MangaFire": {
+            "prxrq": {
+                "id": 249033,
+                "identifier": "prxrq",
+                "image": "https://static.mangafire.to/0cbd/i/6/63/63a6bc19302c585da7eafd92dfdd2816.jpg",
+                "malId": 102317,
+                "aniId": 99989,
+                "page": "MangaFire",
+                "title": "Tenshi no Tamago",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenshi-no-tamagoo.prxrq"
             }
         },
         "Comick": {

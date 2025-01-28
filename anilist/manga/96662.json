@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "924964fa-53f4-4255-ab27-52f9f5b52d92": {
+                "id": 14853,
                 "identifier": "924964fa-53f4-4255-ab27-52f9f5b52d92",
                 "image": "https://uploads.mangadex.org/covers/924964fa-53f4-4255-ab27-52f9f5b52d92/db454aaf-e2cf-4e7b-9e43-1183d43af7bd.jpg",
                 "malId": 95464,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/924964fa-53f4-4255-ab27-52f9f5b52d92"
             }
         },
-        "MangaFire": {
-            "majo-to-neko-no-hanashi.w1yrl": {
-                "identifier": "majo-to-neko-no-hanashi.w1yrl",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f67240b8502aca6105caee9298a9038f.jpg",
-                "malId": 95464,
-                "aniId": 96662,
-                "page": "MangaFire",
-                "title": "The Story of Witches and Cats",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-to-neko-no-hanashi.w1yrl/"
-            }
-        },
         "MangaNato": {
             "manga-hr951952": {
+                "id": 221915,
                 "identifier": "manga-hr951952",
                 "image": "https://avt.mkklcdnv6temp.com/fld/25/f/1-1732717359-nw.webp",
                 "malId": 95464,
@@ -40,6 +30,19 @@
                 "title": "Majo To Neko No Hanashi",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-hr951952"
+            }
+        },
+        "MangaFire": {
+            "w1yrl": {
+                "id": 239433,
+                "identifier": "w1yrl",
+                "image": "https://static.mangafire.to/dc9e/i/f/f6/f67240b8502aca6105caee9298a9038f.jpg",
+                "malId": 95464,
+                "aniId": 96662,
+                "page": "MangaFire",
+                "title": "The Story of Witches and Cats",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-to-neko-no-hanashii.w1yrl"
             }
         },
         "Comick": {

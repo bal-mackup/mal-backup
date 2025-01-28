@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6cc77b74-4c4a-4a58-9ae1-682471d50840": {
+                "id": 23557,
                 "identifier": "6cc77b74-4c4a-4a58-9ae1-682471d50840",
                 "image": "https://uploads.mangadex.org/covers/6cc77b74-4c4a-4a58-9ae1-682471d50840/1bf2fee4-bfda-47ae-b3b1-514a102362a1.jpg",
                 "malId": 115217,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fukakai-na-boku-no-subete-o": {
+                "id": 57948,
                 "identifier": "fukakai-na-boku-no-subete-o",
                 "image": "https://temp.compsci88.com/cover/Fukakai-Na-Boku-No-Subete-O.jpg",
                 "malId": 115217,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "fukakai_na_boku_no_subete_o": {
+                "id": 69293,
                 "identifier": "fukakai_na_boku_no_subete_o",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28244/cover.jpg",
                 "malId": 115217,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cq979599": {
+                "id": 76247,
                 "identifier": "manga-cq979599",
                 "image": "https://avt.mkklcdnv6temp.com/47/o/16-1583495176.jpg",
                 "malId": 115217,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-cq979599"
             }
         },
-        "MangaFire": {
-            "fukakai-na-boku-no-subete-o.xrooz": {
-                "identifier": "fukakai-na-boku-no-subete-o.xrooz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19e74703e922d6142b39b7d7a6e3714b.jpg",
-                "malId": 115217,
-                "aniId": 104140,
-                "page": "MangaFire",
-                "title": "Love Me for Who I Am",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukakai-na-boku-no-subete-o.xrooz/"
-            },
-            "fukakai-na-boku-no-subete-oo.xrooz": {
-                "identifier": "fukakai-na-boku-no-subete-oo.xrooz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19e74703e922d6142b39b7d7a6e3714b.jpg",
-                "malId": 115217,
-                "aniId": 104140,
-                "page": "MangaFire",
-                "title": "Love Me for Who I Am",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukakai-na-boku-no-subete-oo.xrooz/"
-            },
-            "xrooz": {
-                "identifier": "xrooz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19e74703e922d6142b39b7d7a6e3714b.jpg",
-                "malId": 115217,
-                "aniId": 104140,
-                "page": "MangaFire",
-                "title": "Love Me for Who I Am",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukakai-na-boku-no-subete-oo.xrooz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyckqgdkmb0x974wgz3q9": {
+                "id": 209132,
                 "identifier": "01j76xyckqgdkmb0x974wgz3q9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCKQGDKMB0X974WGZ3Q9.jpg",
                 "malId": 115217,
@@ -96,6 +69,19 @@
                 "title": "Love Me for Who I Am",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCKQGDKMB0X974WGZ3Q9"
+            }
+        },
+        "MangaFire": {
+            "xrooz": {
+                "id": 225424,
+                "identifier": "xrooz",
+                "image": "https://static.mangafire.to/85f7/i/1/19/19e74703e922d6142b39b7d7a6e3714b.jpg",
+                "malId": 115217,
+                "aniId": 104140,
+                "page": "MangaFire",
+                "title": "Love Me for Who I Am",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fukakai-na-boku-no-subete-oo.xrooz"
             }
         },
         "Comick": {

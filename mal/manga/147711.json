@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f3b20d87-847d-4c51-84e5-ce9886693c85": {
+                "id": 58809,
                 "identifier": "f3b20d87-847d-4c51-84e5-ce9886693c85",
                 "image": "https://uploads.mangadex.org/covers/f3b20d87-847d-4c51-84e5-ce9886693c85/61506207-e095-410f-b737-c45d615f65f7.jpg",
                 "malId": 147711,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-tamed-a-tyrant-and-ran-away": {
+                "id": 59469,
                 "identifier": "i-tamed-a-tyrant-and-ran-away",
                 "image": "https://temp.compsci88.com/cover/I-Tamed-a-Tyrant-and-Ran-Away.jpg",
                 "malId": 147711,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hc985159": {
+                "id": 75263,
                 "identifier": "manga-hc985159",
                 "image": "https://avt.mkklcdnv6temp.com/3/v/21-1587114798.jpg",
                 "malId": 147711,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-hc985159"
             }
         },
-        "MangaFire": {
-            "pogguneur-girdeurigo-domachyeobeoryeossda2.0r2k9": {
-                "identifier": "pogguneur-girdeurigo-domachyeobeoryeossda2.0r2k9",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/23df43d70b77bd23dcd47ded941f99a4.jpg",
-                "malId": 147711,
-                "aniId": 128589,
-                "page": "MangaFire",
-                "title": "The Taming of the Tyrant",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pogguneur-girdeurigo-domachyeobeoryeossda2.0r2k9/"
-            },
-            "pogguneur-girdeurigo-domachyeobeoryeossda22.0r2k9": {
-                "identifier": "pogguneur-girdeurigo-domachyeobeoryeossda22.0r2k9",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/23df43d70b77bd23dcd47ded941f99a4.jpg",
-                "malId": 147711,
-                "aniId": 128589,
-                "page": "MangaFire",
-                "title": "The Taming of the Tyrant",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pogguneur-girdeurigo-domachyeobeoryeossda22.0r2k9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyea5tzpm08dy1tpcgsfs": {
+                "id": 208672,
                 "identifier": "01j76xyea5tzpm08dy1tpcgsfs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEA5TZPM08DY1TPCGSFS.jpg",
                 "malId": 147711,
@@ -74,6 +56,19 @@
                 "title": "The Taming of the Tyrant",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEA5TZPM08DY1TPCGSFS"
+            }
+        },
+        "MangaFire": {
+            "0r2k9": {
+                "id": 226550,
+                "identifier": "0r2k9",
+                "image": "https://static.mangafire.to/4990/i/2/23/23df43d70b77bd23dcd47ded941f99a4.jpg",
+                "malId": 147711,
+                "aniId": 128589,
+                "page": "MangaFire",
+                "title": "The Taming of the Tyrant",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pogguneur-girdeurigo-domachyeobeoryeossda22.0r2k9"
             }
         },
         "Comick": {

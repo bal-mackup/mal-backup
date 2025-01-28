@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b49db7e7-0637-462c-9d09-372f5d09de4a": {
+                "id": 36563,
                 "identifier": "b49db7e7-0637-462c-9d09-372f5d09de4a",
                 "image": "https://uploads.mangadex.org/covers/b49db7e7-0637-462c-9d09-372f5d09de4a/ec94b16f-6daf-47f3-bf42-39568230ecf5.jpg",
                 "malId": 127545,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ayakashi-triangle": {
+                "id": 55302,
                 "identifier": "ayakashi-triangle",
                 "image": "https://temp.compsci88.com/cover/Ayakashi-Triangle.jpg",
                 "malId": 127545,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ayakashi_triangle": {
+                "id": 65986,
                 "identifier": "ayakashi_triangle",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34383/cover.jpg",
                 "malId": 127545,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-iq986251": {
+                "id": 74877,
                 "identifier": "manga-iq986251",
                 "image": "https://avt.mkklcdnv6temp.com/49/i/21-1597547878.jpg",
                 "malId": 127545,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-iq986251"
             }
         },
-        "MangaFire": {
-            "ayakashi-triangle.7joz7": {
-                "identifier": "ayakashi-triangle.7joz7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0c5a72508a6feb17a335602bebdafaf2.jpg",
-                "malId": 127545,
-                "aniId": 119493,
-                "page": "MangaFire",
-                "title": "Ayakashi Triangle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayakashi-triangle.7joz7/"
-            },
-            "ayakashi-trianglee.7joz7": {
-                "identifier": "ayakashi-trianglee.7joz7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0c5a72508a6feb17a335602bebdafaf2.jpg",
-                "malId": 127545,
-                "aniId": 119493,
-                "page": "MangaFire",
-                "title": "Ayakashi Triangle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayakashi-trianglee.7joz7/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmk53xw9mn8c98kcyad": {
+                "id": 206272,
                 "identifier": "01j76xydmk53xw9mn8c98kcyad",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMK53XW9MN8C98KCYAD.jpg",
                 "malId": 127545,
@@ -86,6 +69,19 @@
                 "title": "Ayakashi Triangle",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMK53XW9MN8C98KCYAD"
+            }
+        },
+        "MangaFire": {
+            "7joz7": {
+                "id": 224098,
+                "identifier": "7joz7",
+                "image": "https://static.mangafire.to/c385/i/0/0c/0c5a72508a6feb17a335602bebdafaf2.jpg",
+                "malId": 127545,
+                "aniId": 119493,
+                "page": "MangaFire",
+                "title": "Ayakashi Triangle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ayakashi-trianglee.7joz7"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "85c7d0d1-cd6f-47c0-a2be-64154df87d1a": {
+                "id": 18098,
                 "identifier": "85c7d0d1-cd6f-47c0-a2be-64154df87d1a",
                 "image": "https://uploads.mangadex.org/covers/85c7d0d1-cd6f-47c0-a2be-64154df87d1a/c821d0bc-e5dd-4d64-98ad-1e08a4b0d3ee.jpg",
                 "malId": 108461,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fairy-tail-s": {
+                "id": 57069,
                 "identifier": "fairy-tail-s",
                 "image": "https://temp.compsci88.com/cover/Fairy-Tail-S.jpg",
                 "malId": 108461,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ch980290": {
+                "id": 91682,
                 "identifier": "manga-ch980290",
                 "image": "https://avt.mkklcdnv6temp.com/fld/19/u/9-1732793195-nw.webp",
                 "malId": 108461,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ch980290"
             }
         },
-        "MangaFire": {
-            "fairy-tail-specials.yq960": {
-                "identifier": "fairy-tail-specials.yq960",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c311943bb5c71d30eb76e8b26f28955.jpg",
-                "malId": 108461,
-                "aniId": 100948,
-                "page": "MangaFire",
-                "title": "Fairy Tail S: Tales from Fairy Tail",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fairy-tail-specials.yq960/"
-            },
-            "fairy-tail-specialss.yq960": {
-                "identifier": "fairy-tail-specialss.yq960",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c311943bb5c71d30eb76e8b26f28955.jpg",
-                "malId": 108461,
-                "aniId": 100948,
-                "page": "MangaFire",
-                "title": "Fairy Tail S: Tales from Fairy Tail",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fairy-tail-specialss.yq960/"
-            }
-        },
         "Weebcentral": {
             "01j76xyccb39n95kn91vc3389y": {
+                "id": 213905,
                 "identifier": "01j76xyccb39n95kn91vc3389y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCCB39N95KN91VC3389Y.jpg",
                 "malId": 108461,
@@ -74,6 +56,19 @@
                 "title": "Fairy Tail S",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCCB39N95KN91VC3389Y"
+            }
+        },
+        "MangaFire": {
+            "yq960": {
+                "id": 231362,
+                "identifier": "yq960",
+                "image": "https://static.mangafire.to/cfc1/i/3/3c/3c311943bb5c71d30eb76e8b26f28955.jpg",
+                "malId": 108461,
+                "aniId": 100948,
+                "page": "MangaFire",
+                "title": "Fairy Tail S: Tales from Fairy Tail",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fairy-tail-specialss.yq960"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7cc37898-6669-407f-b7a6-f23a2859bc0b": {
+                "id": 18573,
                 "identifier": "7cc37898-6669-407f-b7a6-f23a2859bc0b",
                 "image": "https://uploads.mangadex.org/covers/7cc37898-6669-407f-b7a6-f23a2859bc0b/c7130fcd-f384-4ae1-9d11-70a2c8e74f24.jpg",
                 "malId": 124845,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sweet-home-kim-carnby": {
+                "id": 54882,
                 "identifier": "sweet-home-kim-carnby",
                 "image": "https://temp.compsci88.com/cover/Sweet-Home-KIM-Carnby.jpg",
                 "malId": 124845,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sweet_home_kim_carnby": {
+                "id": 54906,
                 "identifier": "sweet_home_kim_carnby",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27515/cover.jpg",
                 "malId": 124845,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/sweet_home_kim_carnby/"
             },
             "home_sweet_home_kim_carnby": {
+                "id": 54907,
                 "identifier": "home_sweet_home_kim_carnby",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27097/cover.jpg",
                 "malId": 124845,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-bp978750": {
+                "id": 73651,
                 "identifier": "manga-bp978750",
                 "image": "https://avt.mkklcdnv6temp.com/15/q/16-1583494034.jpg",
                 "malId": 124845,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-bp978750"
             },
             "manga-co979923": {
+                "id": 80609,
                 "identifier": "manga-co979923",
                 "image": "https://avt.mkklcdnv6temp.com/9/q/17-1583495610.jpg",
                 "malId": 124845,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-co979923"
             }
         },
-        "MangaFire": {
-            "sweet-home.zvwl": {
-                "identifier": "sweet-home.zvwl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3d39d6745a651a907448fcf035df607b.jpg",
-                "malId": 124845,
-                "aniId": 100954,
-                "page": "MangaFire",
-                "title": "Sweet Home",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sweet-home.zvwl/"
-            },
-            "sweet-homee.zvwl": {
-                "identifier": "sweet-homee.zvwl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3d39d6745a651a907448fcf035df607b.jpg",
-                "malId": 124845,
-                "aniId": 100954,
-                "page": "MangaFire",
-                "title": "Sweet Home",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sweet-homee.zvwl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd408ab9gajggk2z25s6": {
+                "id": 209342,
                 "identifier": "01j76xyd408ab9gajggk2z25s6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD408AB9GAJGGK2Z25S6.jpg",
                 "malId": 124845,
@@ -106,6 +91,19 @@
                 "title": "Sweet Home",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD408AB9GAJGGK2Z25S6"
+            }
+        },
+        "MangaFire": {
+            "zvwl": {
+                "id": 225391,
+                "identifier": "zvwl",
+                "image": "https://static.mangafire.to/1ab0/i/3/3d/3d39d6745a651a907448fcf035df607b.jpg",
+                "malId": 124845,
+                "aniId": 100954,
+                "page": "MangaFire",
+                "title": "Sweet Home",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sweet-homee.zvwl"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mq990099": {
+                "id": 92132,
                 "identifier": "manga-mq990099",
                 "image": "https://avt.mkklcdnv6temp.com/38/p/28-1677125334.jpg",
                 "malId": 149304,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "ca95d49a-67af-4f94-8337-9918e7524b13": {
+                "id": 108735,
                 "identifier": "ca95d49a-67af-4f94-8337-9918e7524b13",
                 "image": "https://uploads.mangadex.org/covers/ca95d49a-67af-4f94-8337-9918e7524b13/593a00db-a3c1-4d4e-9fb2-d2f3ce7a431f.jpg",
                 "malId": 149304,
@@ -31,25 +33,27 @@
             }
         },
         "MangaFire": {
-            "turin-ui-lillian.6r00": {
-                "identifier": "turin-ui-lillian.6r00",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/099e25266367b4b9d7e6ec57c1f4ad65.jpg",
-                "malId": 149304,
-                "aniId": 141345,
-                "page": "MangaFire",
-                "title": "A Match Made in Mana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/turin-ui-lillian.6r00/"
-            },
-            "a-match-made-in-mana.72j0j": {
-                "identifier": "a-match-made-in-mana.72j0j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/086d6e5d80ca1b94a4bd93df1cfb7fdc.jpg",
+            "72j0j": {
+                "id": 232103,
+                "identifier": "72j0j",
+                "image": "https://static.mangafire.to/96df/i/0/08/086d6e5d80ca1b94a4bd93df1cfb7fdc.jpg",
                 "malId": 149304,
                 "aniId": 141345,
                 "page": "MangaFire",
                 "title": "A Match Made In Mana",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/a-match-made-in-mana.72j0j/"
+                "url": "https://mangafire.to/manga/a-match-made-in-manaa.72j0j"
+            },
+            "6r00": {
+                "id": 261859,
+                "identifier": "6r00",
+                "image": "https://static.mangafire.to/5052/i/0/09/099e25266367b4b9d7e6ec57c1f4ad65.jpg",
+                "malId": 149304,
+                "aniId": 141345,
+                "page": "MangaFire",
+                "title": "A Match Made in Mana",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/turin-ui-lilliann.6r00"
             }
         },
         "Comick": {

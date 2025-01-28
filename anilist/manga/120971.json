@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f338d0a7-e883-416a-9c38-f6ef925885a4": {
+                "id": 50723,
                 "identifier": "f338d0a7-e883-416a-9c38-f6ef925885a4",
                 "image": "https://uploads.mangadex.org/covers/f338d0a7-e883-416a-9c38-f6ef925885a4/a8ccfa09-6188-4f27-9981-1d50c6fa109d.jpg",
                 "malId": 140302,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/f338d0a7-e883-416a-9c38-f6ef925885a4"
             }
         },
-        "MangaFire": {
-            "disaster-fox-kuzure-chan.92ol8": {
-                "identifier": "disaster-fox-kuzure-chan.92ol8",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/ebdb2b7931cc8884ed78b885519977f5.jpg",
-                "malId": 140302,
-                "aniId": 120971,
-                "page": "MangaFire",
-                "title": "Disaster Fox Kuzure-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/disaster-fox-kuzure-chan.92ol8/"
-            }
-        },
         "MangaFox": {
             "wazawai_kitsune_no_kuzure_chan": {
+                "id": 189326,
                 "identifier": "wazawai_kitsune_no_kuzure_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39482/cover.jpg",
                 "malId": 140302,
@@ -40,6 +30,19 @@
                 "title": "Wazawai Kitsune no Kuzure-chan",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/wazawai_kitsune_no_kuzure_chan/"
+            }
+        },
+        "MangaFire": {
+            "92ol8": {
+                "id": 259839,
+                "identifier": "92ol8",
+                "image": "https://static.mangafire.to/fb2f/i/e/eb/ebdb2b7931cc8884ed78b885519977f5.jpg",
+                "malId": 140302,
+                "aniId": 120971,
+                "page": "MangaFire",
+                "title": "Disaster Fox Kuzure-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/disaster-fox-kuzure-chann.92ol8"
             }
         },
         "Comick": {

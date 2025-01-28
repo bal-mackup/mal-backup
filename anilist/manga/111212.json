@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99182618-ae92-4aec-a5df-518659b7b613": {
+                "id": 29927,
                 "identifier": "99182618-ae92-4aec-a5df-518659b7b613",
                 "image": "https://uploads.mangadex.org/covers/99182618-ae92-4aec-a5df-518659b7b613/a697e78f-9feb-4a0b-8458-df0a7e224192.jpg",
                 "malId": 122147,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "rebuild_world": {
+                "id": 60090,
                 "identifier": "rebuild_world",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31182/cover.jpg",
                 "malId": 122147,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "rebuild-world": {
+                "id": 64261,
                 "identifier": "rebuild-world",
                 "image": "https://temp.compsci88.com/cover/Rebuild-World.jpg",
                 "malId": 122147,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fd982686": {
+                "id": 74220,
                 "identifier": "manga-fd982686",
                 "image": "https://avt.mkklcdnv6temp.com/10/t/19-1583499500.jpg",
                 "malId": 122147,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fd982686"
             }
         },
-        "MangaFire": {
-            "rebuild-world.w17xk": {
-                "identifier": "rebuild-world.w17xk",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/5271fef1655544778e395d69ee894379.jpg",
-                "malId": 122147,
-                "aniId": 111212,
-                "page": "MangaFire",
-                "title": "Rebuild World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rebuild-world.w17xk/"
-            },
-            "rebuild-worldd.w17xk": {
-                "identifier": "rebuild-worldd.w17xk",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/5271fef1655544778e395d69ee894379.jpg",
-                "malId": 122147,
-                "aniId": 111212,
-                "page": "MangaFire",
-                "title": "Rebuild World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rebuild-worldd.w17xk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd8hy3ksmy47bcebx8pf": {
+                "id": 206251,
                 "identifier": "01j76xyd8hy3ksmy47bcebx8pf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD8HY3KSMY47BCEBX8PF.jpg",
                 "malId": 122147,
@@ -86,6 +69,19 @@
                 "title": "Rebuild World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD8HY3KSMY47BCEBX8PF"
+            }
+        },
+        "MangaFire": {
+            "w17xk": {
+                "id": 228378,
+                "identifier": "w17xk",
+                "image": "https://static.mangafire.to/1544/i/b/bd/5271fef1655544778e395d69ee894379.jpg",
+                "malId": 122147,
+                "aniId": 111212,
+                "page": "MangaFire",
+                "title": "Rebuild World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rebuild-worldd.w17xk"
             }
         },
         "Comick": {

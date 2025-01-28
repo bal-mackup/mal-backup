@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ec9f5e07-2703-417f-b63f-fc392fee132d": {
+                "id": 96606,
                 "identifier": "ec9f5e07-2703-417f-b63f-fc392fee132d",
                 "image": "https://uploads.mangadex.org/covers/ec9f5e07-2703-417f-b63f-fc392fee132d/3799eb09-a3ab-43de-bf56-de6e416a44e0.jpg",
                 "malId": 143824,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/ec9f5e07-2703-417f-b63f-fc392fee132d"
             }
         },
-        "MangaFire": {
-            "otona-no-zukan-kaiteiban.37ql9": {
-                "identifier": "otona-no-zukan-kaiteiban.37ql9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d734e73be9b8856dbf7a2e82d3a87b0.jpg",
-                "malId": 143824,
-                "aniId": 143159,
-                "page": "MangaFire",
-                "title": "Adults Picture Book - New Edition",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otona-no-zukan-kaiteiban.37ql9/"
-            },
-            "otona-no-zukan-kaiteibann.37ql9": {
-                "identifier": "otona-no-zukan-kaiteibann.37ql9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d734e73be9b8856dbf7a2e82d3a87b0.jpg",
-                "malId": 143824,
-                "aniId": 143159,
-                "page": "MangaFire",
-                "title": "Adults Picture Book - New Edition",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otona-no-zukan-kaiteibann.37ql9/"
-            }
-        },
         "MangaSee": {
             "adults-picture-book-new-edition": {
+                "id": 185827,
                 "identifier": "adults-picture-book-new-edition",
                 "image": "https://temp.compsci88.com/cover/Adults-Picture-Book-New-Edition.jpg",
                 "malId": 143824,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh3mxbj1712ayqwn0w1y": {
+                "id": 213565,
                 "identifier": "01j76xyh3mxbj1712ayqwn0w1y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH3MXBJ1712AYQWN0W1Y.jpg",
                 "malId": 143824,
@@ -62,6 +43,19 @@
                 "title": "Adults Picture Book - New Edition",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH3MXBJ1712AYQWN0W1Y"
+            }
+        },
+        "MangaFire": {
+            "37ql9": {
+                "id": 227516,
+                "identifier": "37ql9",
+                "image": "https://static.mangafire.to/30a6/i/1/1d/1d734e73be9b8856dbf7a2e82d3a87b0.jpg",
+                "malId": 143824,
+                "aniId": 143159,
+                "page": "MangaFire",
+                "title": "Adults Picture Book - New Edition",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otona-no-zukan-kaiteibann.37ql9"
             }
         },
         "Comick": {

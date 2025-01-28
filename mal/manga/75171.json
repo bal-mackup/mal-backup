@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "f0a87b7f-6ee1-4502-b3fd-18650e455737": {
+                "id": 11444,
                 "identifier": "f0a87b7f-6ee1-4502-b3fd-18650e455737",
                 "image": "https://uploads.mangadex.org/covers/f0a87b7f-6ee1-4502-b3fd-18650e455737/a3ee3f4b-28fe-42f4-953e-a99838682474.jpg",
                 "malId": 75171,
                 "aniId": 86819,
                 "page": "Mangadex",
-                "title": "Funouhan",
+                "title": "Impossibility Defense",
                 "type": "manga",
                 "url": "https://mangadex.org/title/f0a87b7f-6ee1-4502-b3fd-18650e455737"
             }
         },
         "MangaSee": {
             "funouhan": {
+                "id": 56971,
                 "identifier": "funouhan",
                 "image": "https://temp.compsci88.com/cover/Funouhan.jpg",
                 "malId": 75171,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-wo956171": {
+                "id": 75431,
                 "identifier": "manga-wo956171",
                 "image": "https://avt.mkklcdnv6temp.com/5/k/4-1583469877.jpg",
                 "malId": 75171,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "funouhan": {
+                "id": 117376,
                 "identifier": "funouhan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14347/cover.jpg",
                 "malId": 75171,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/funouhan/"
             }
         },
-        "MangaFire": {
-            "funouhan.nrlkm": {
-                "identifier": "funouhan.nrlkm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0ae9b68244ba85030a4ee2b3afbd058b.jpg",
-                "malId": 75171,
-                "aniId": 86819,
-                "page": "MangaFire",
-                "title": "Impossibility Defense",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/funouhan.nrlkm/"
-            },
-            "nrlkm": {
-                "identifier": "nrlkm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0ae9b68244ba85030a4ee2b3afbd058b.jpg",
-                "malId": 75171,
-                "aniId": 86819,
-                "page": "MangaFire",
-                "title": "Impossibility Defense",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/funouhan.nrlkm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8xzxrnykfy780jexvy": {
+                "id": 210701,
                 "identifier": "01j76xyc8xzxrnykfy780jexvy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8XZXRNYKFY780JEXVY.jpg",
                 "malId": 75171,
@@ -86,6 +69,19 @@
                 "title": "Funouhan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8XZXRNYKFY780JEXVY"
+            }
+        },
+        "MangaFire": {
+            "nrlkm": {
+                "id": 256365,
+                "identifier": "nrlkm",
+                "image": "https://static.mangafire.to/3e0d/i/0/0a/0ae9b68244ba85030a4ee2b3afbd058b.jpg",
+                "malId": 75171,
+                "aniId": 86819,
+                "page": "MangaFire",
+                "title": "Impossibility Defense",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/funouhann.nrlkm"
             }
         },
         "Comick": {

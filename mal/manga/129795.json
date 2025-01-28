@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bc24c75e-1c73-43bc-80aa-024ebb041e34": {
+                "id": 39559,
                 "identifier": "bc24c75e-1c73-43bc-80aa-024ebb041e34",
                 "image": "https://uploads.mangadex.org/covers/bc24c75e-1c73-43bc-80aa-024ebb041e34/21740790-3760-462c-8619-9241aa6b4e93.jpg",
                 "malId": 129795,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "musume_janakute_watashi_ga_suki_nano": {
+                "id": 68690,
                 "identifier": "musume_janakute_watashi_ga_suki_nano",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35674/cover.jpg",
                 "malId": 129795,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jj986592": {
+                "id": 73948,
                 "identifier": "manga-jj986592",
                 "image": "https://avt.mkklcdnv6temp.com/1/y/28-1678333024.jpg",
                 "malId": 129795,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "you-like-me-not-my-daughter": {
+                "id": 120620,
                 "identifier": "you-like-me-not-my-daughter",
                 "image": "https://temp.compsci88.com/cover/You-Like-Me-Not-My-Daughter.jpg",
                 "malId": 129795,
@@ -54,40 +58,9 @@
                 "url": "https://mangasee123.com/manga/You-Like-Me-Not-My-Daughter"
             }
         },
-        "MangaFire": {
-            "musume-janakute-watashi-mama-ga-suki-nano.jjrv2": {
-                "identifier": "musume-janakute-watashi-mama-ga-suki-nano.jjrv2",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbd46cf45941870d414251b4d0a43dfc.jpg",
-                "malId": 129795,
-                "aniId": 124676,
-                "page": "MangaFire",
-                "title": "You Like Me, Not My Daughter?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/musume-janakute-watashi-mama-ga-suki-nano.jjrv2/"
-            },
-            "musume-ja-nakute-mama-ga-suki-nano.jjrv2": {
-                "identifier": "musume-ja-nakute-mama-ga-suki-nano.jjrv2",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbd46cf45941870d414251b4d0a43dfc.jpg",
-                "malId": 129795,
-                "aniId": 124676,
-                "page": "MangaFire",
-                "title": "You Like Me, Not My Daughter?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/musume-ja-nakute-mama-ga-suki-nano.jjrv2/"
-            },
-            "musume-janakute-watashi-mama-ga-suki-nanoo.jjrv2": {
-                "identifier": "musume-janakute-watashi-mama-ga-suki-nanoo.jjrv2",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbd46cf45941870d414251b4d0a43dfc.jpg",
-                "malId": 129795,
-                "aniId": 124676,
-                "page": "MangaFire",
-                "title": "You Like Me, Not My Daughter?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/musume-janakute-watashi-mama-ga-suki-nanoo.jjrv2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfvkjqfk0ras6b68y2qz": {
+                "id": 207592,
                 "identifier": "01j76xyfvkjqfk0ras6b68y2qz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFVKJQFK0RAS6B68Y2QZ.jpg",
                 "malId": 129795,
@@ -96,6 +69,19 @@
                 "title": "You Like Me, Not My Daughter",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFVKJQFK0RAS6B68Y2QZ"
+            }
+        },
+        "MangaFire": {
+            "jjrv2": {
+                "id": 226726,
+                "identifier": "jjrv2",
+                "image": "https://static.mangafire.to/54a5/i/b/bb/bbd46cf45941870d414251b4d0a43dfc.jpg",
+                "malId": 129795,
+                "aniId": 124676,
+                "page": "MangaFire",
+                "title": "You Like Me, Not My Daughter?!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/musume-janakute-watashi-mama-ga-suki-nanoo.jjrv2"
             }
         },
         "Comick": {

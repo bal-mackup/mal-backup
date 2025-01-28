@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "19f4314b-34c3-4e64-88f7-1077763c56c2": {
+                "id": 109060,
                 "identifier": "19f4314b-34c3-4e64-88f7-1077763c56c2",
                 "image": "https://uploads.mangadex.org/covers/19f4314b-34c3-4e64-88f7-1077763c56c2/6b094986-a774-4dfe-8d7a-5c0a1c4f3856.jpg",
                 "malId": 149027,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pl992694": {
+                "id": 115723,
                 "identifier": "manga-pl992694",
                 "image": "https://avt.mkklcdnv6temp.com/17/x/27-1664940212.jpg",
                 "malId": 149027,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-pl992694"
             }
         },
-        "MangaFire": {
-            "jeogworui-nara.2pp80": {
-                "identifier": "jeogworui-nara.2pp80",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13a41a22ddf22f4fc7b8dc4dbdc13c22.jpg",
-                "malId": 149027,
-                "aniId": 147520,
-                "page": "MangaFire",
-                "title": "Land of the Crimson Moon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jeogworui-nara.2pp80/"
-            }
-        },
         "MangaSee": {
             "land-of-the-crimson-moon": {
+                "id": 191079,
                 "identifier": "land-of-the-crimson-moon",
                 "image": "https://temp.compsci88.com/cover/Land-of-the-Crimson-Moon.jpg",
                 "malId": 149027,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhar88s4t3sfqh0afmhw": {
+                "id": 209512,
                 "identifier": "01j76xyhar88s4t3sfqh0afmhw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAR88S4T3SFQH0AFMHW.jpg",
                 "malId": 149027,
@@ -64,6 +56,19 @@
                 "title": "Land of the Crimson Moon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAR88S4T3SFQH0AFMHW"
+            }
+        },
+        "MangaFire": {
+            "2pp80": {
+                "id": 235253,
+                "identifier": "2pp80",
+                "image": "https://static.mangafire.to/a275/i/1/13/13a41a22ddf22f4fc7b8dc4dbdc13c22.jpg",
+                "malId": 149027,
+                "aniId": 147520,
+                "page": "MangaFire",
+                "title": "Land of the Crimson Moon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jeogworui-naraa.2pp80"
             }
         },
         "Comick": {

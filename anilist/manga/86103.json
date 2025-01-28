@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "69cf6c80-7772-40d2-8843-b90bd14d349e": {
+                "id": 9671,
                 "identifier": "69cf6c80-7772-40d2-8843-b90bd14d349e",
                 "image": "https://uploads.mangadex.org/covers/69cf6c80-7772-40d2-8843-b90bd14d349e/1f1c41e4-2689-4122-b60d-3d145b496888.jpg",
                 "malId": 65251,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mikagura-gakuen-kumikyoku": {
+                "id": 109390,
                 "identifier": "mikagura-gakuen-kumikyoku",
                 "image": "https://temp.compsci88.com/cover/Mikagura-Gakuen-Kumikyoku.jpg",
                 "malId": 65251,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Mikagura-Gakuen-Kumikyoku"
             }
         },
-        "MangaFire": {
-            "mikagura-gakuen-kumikyoku.qykj": {
-                "identifier": "mikagura-gakuen-kumikyoku.qykj",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45226cebdfb34a5299646015a813648d.jpg",
-                "malId": 65251,
-                "aniId": 86103,
-                "page": "MangaFire",
-                "title": "Mikagura School Suite: The Manga Companion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikagura-gakuen-kumikyoku.qykj/"
-            },
-            "qykj": {
-                "identifier": "qykj",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45226cebdfb34a5299646015a813648d.jpg",
-                "malId": 65251,
-                "aniId": 86103,
-                "page": "MangaFire",
-                "title": "Mikagura School Suite: The Manga Companion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikagura-gakuen-kumikyoku.qykj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycgwkaw772v04kh2pn9q": {
+                "id": 208689,
                 "identifier": "01j76xycgwkaw772v04kh2pn9q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGWKAW772V04KH2PN9Q.jpg",
                 "malId": 65251,
@@ -62,6 +43,19 @@
                 "title": "Mikagura Gakuen Kumikyoku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGWKAW772V04KH2PN9Q"
+            }
+        },
+        "MangaFire": {
+            "qykj": {
+                "id": 255606,
+                "identifier": "qykj",
+                "image": "https://static.mangafire.to/81ab/i/4/45/45226cebdfb34a5299646015a813648d.jpg",
+                "malId": 65251,
+                "aniId": 86103,
+                "page": "MangaFire",
+                "title": "Mikagura School Suite: The Manga Companion",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mikagura-gakuen-kumikyokuu.qykj"
             }
         },
         "Comick": {

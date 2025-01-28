@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f0f4bb91-563d-49cd-b6b4-22de131638dd": {
+                "id": 99867,
                 "identifier": "f0f4bb91-563d-49cd-b6b4-22de131638dd",
                 "image": "https://uploads.mangadex.org/covers/f0f4bb91-563d-49cd-b6b4-22de131638dd/a2742dda-d93c-45a3-88a6-46521f7cde67.jpg",
                 "malId": 145484,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sc995485": {
+                "id": 128929,
                 "identifier": "manga-sc995485",
                 "image": "https://avt.mkklcdnv6temp.com/29/n/29-1680758512.jpg",
                 "malId": 145484,
@@ -31,15 +33,29 @@
             }
         },
         "MangaFire": {
-            "okiku-san-wa-ichatsukitai.rjpwn": {
-                "identifier": "okiku-san-wa-ichatsukitai.rjpwn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3413bba8e08ae0a005857a1c5db654e.jpg",
+            "rjpwn": {
+                "id": 247099,
+                "identifier": "rjpwn",
+                "image": "https://static.mangafire.to/0ee0/i/f/f3/f3413bba8e08ae0a005857a1c5db654e.jpg",
                 "malId": 145484,
                 "aniId": 136921,
                 "page": "MangaFire",
                 "title": "Okiku-san wa Ichatsukitai",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/okiku-san-wa-ichatsukitai.rjpwn/"
+                "url": "https://mangafire.to/manga/okiku-san-wa-ichatsukitaii.rjpwn"
+            }
+        },
+        "Weebcentral": {
+            "01jgrwe70cv3rbzmqk678cjhbp": {
+                "id": 267652,
+                "identifier": "01jgrwe70cv3rbzmqk678cjhbp",
+                "image": "https://temp.compsci88.com/cover/fallback/01JGRWE70CV3RBZMQK678CJHBP.jpg",
+                "malId": 145484,
+                "aniId": 136921,
+                "page": "Weebcentral",
+                "title": "Okiku-san wa Ichatsukitai",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JGRWE70CV3RBZMQK678CJHBP"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0486e6b2-6551-4938-894a-4e7a72749b47": {
+                "id": 22995,
                 "identifier": "0486e6b2-6551-4938-894a-4e7a72749b47",
                 "image": "https://uploads.mangadex.org/covers/0486e6b2-6551-4938-894a-4e7a72749b47/4e46534d-89f0-4ef6-ab70-7d21eeae5daf.jpg",
                 "malId": 112087,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cq979825": {
+                "id": 75026,
                 "identifier": "manga-cq979825",
                 "image": "https://avt.mkklcdnv6temp.com/6/b/17-1583495480.jpg",
                 "malId": 112087,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "eizouken_ni_wa_te_wo_dasu_na": {
+                "id": 82079,
                 "identifier": "eizouken_ni_wa_te_wo_dasu_na",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28583/cover.jpg",
                 "malId": 112087,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "keep-your-hands-off-eizouken": {
+                "id": 181006,
                 "identifier": "keep-your-hands-off-eizouken",
                 "image": "https://temp.compsci88.com/cover/Keep-Your-Hands-Off-Eizouken.jpg",
                 "malId": 112087,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Keep-Your-Hands-Off-Eizouken"
             }
         },
-        "MangaFire": {
-            "keep-your-hands-off-eizoukenn.kqlr": {
-                "identifier": "keep-your-hands-off-eizoukenn.kqlr",
-                "image": "https://static.mangafire.to/df36/i/d/db/db54f8bce1a5124e4ffb3c683c14b128.jpg",
-                "malId": 112087,
-                "aniId": 109319,
-                "page": "MangaFire",
-                "title": "Keep Your Hands Off Eizouken!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/keep-your-hands-off-eizoukenn.kqlr/"
-            }
-        },
         "Weebcentral": {
             "01j76xygx7ek3dkjb87n3stmw5": {
+                "id": 206533,
                 "identifier": "01j76xygx7ek3dkjb87n3stmw5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGX7EK3DKJB87N3STMW5.jpg",
                 "malId": 112087,
@@ -76,6 +69,19 @@
                 "title": "Keep Your Hands Off Eizouken!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGX7EK3DKJB87N3STMW5"
+            }
+        },
+        "MangaFire": {
+            "kqlr": {
+                "id": 223516,
+                "identifier": "kqlr",
+                "image": "https://static.mangafire.to/df36/i/d/db/db54f8bce1a5124e4ffb3c683c14b128.jpg",
+                "malId": 112087,
+                "aniId": 109319,
+                "page": "MangaFire",
+                "title": "Keep Your Hands Off Eizouken!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/keep-your-hands-off-eizoukenn.kqlr"
             }
         },
         "Comick": {

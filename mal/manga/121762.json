@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ebea2cf5-ce6c-4586-b2ad-a414fc7e0d22": {
+                "id": 26650,
                 "identifier": "ebea2cf5-ce6c-4586-b2ad-a414fc7e0d22",
                 "image": "https://uploads.mangadex.org/covers/ebea2cf5-ce6c-4586-b2ad-a414fc7e0d22/4bea70fb-d470-4cc8-94b7-301a4609dfbd.jpg",
                 "malId": 121762,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mushoku_no_eiyuu_betsu_ni_skill_nanka_iranakattan_daga": {
+                "id": 54267,
                 "identifier": "mushoku_no_eiyuu_betsu_ni_skill_nanka_iranakattan_daga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30514/cover.jpg",
                 "malId": 121762,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakattan-daga": {
+                "id": 65765,
                 "identifier": "mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakattan-daga",
                 "image": "https://temp.compsci88.com/cover/Mushoku-no-Eiyuu-Betsu-ni-Skill-Nanka-Iranakattan-daga.jpg",
                 "malId": 121762,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ej982318": {
+                "id": 72822,
                 "identifier": "manga-ej982318",
                 "image": "https://avt.mkklcdnv6temp.com/47/h/18-1583498940.jpg",
                 "malId": 121762,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ej982318"
             }
         },
-        "MangaFire": {
-            "mushoku-no-eiyuu.oo90y": {
-                "identifier": "mushoku-no-eiyuu.oo90y",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1fc8f4ee14969bc99d804ca3e5eb9bd8.jpg",
-                "malId": 121762,
-                "aniId": 105279,
-                "page": "MangaFire",
-                "title": "Hero Without a Class: Who Even Needs Skills?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushoku-no-eiyuu.oo90y/"
-            },
-            "The-Hero-Who-Has-No-Class.oo90y": {
-                "identifier": "The-Hero-Who-Has-No-Class.oo90y",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1fc8f4ee14969bc99d804ca3e5eb9bd8.jpg",
-                "malId": 121762,
-                "aniId": 105279,
-                "page": "MangaFire",
-                "title": "Hero Without a Class: Who Even Needs Skills?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/The-Hero-Who-Has-No-Class.oo90y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd8djz803ekem1xtd083": {
+                "id": 213617,
                 "identifier": "01j76xyd8djz803ekem1xtd083",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD8DJZ803EKEM1XTD083.jpg",
                 "malId": 121762,
@@ -86,6 +69,19 @@
                 "title": "Hero Without a Class",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD8DJZ803EKEM1XTD083"
+            }
+        },
+        "MangaFire": {
+            "oo90y": {
+                "id": 240824,
+                "identifier": "oo90y",
+                "image": "https://static.mangafire.to/a39c/i/1/1f/1fc8f4ee14969bc99d804ca3e5eb9bd8.jpg",
+                "malId": 121762,
+                "aniId": 105279,
+                "page": "MangaFire",
+                "title": "Hero Without a Class: Who Even Needs Skills?!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mushoku-no-eiyuuu.oo90y"
             }
         },
         "Comick": {

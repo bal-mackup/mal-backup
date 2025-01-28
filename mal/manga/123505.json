@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "23b67115-cac9-4e5e-ae57-af8eeb519fe9": {
+                "id": 27878,
                 "identifier": "23b67115-cac9-4e5e-ae57-af8eeb519fe9",
                 "image": "https://uploads.mangadex.org/covers/23b67115-cac9-4e5e-ae57-af8eeb519fe9/605f5d7b-31e6-42c2-9c2c-5cafc4d3c7aa.jpg",
                 "malId": 123505,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-er981726": {
+                "id": 74715,
                 "identifier": "manga-er981726",
                 "image": "https://avt.mkklcdnv6temp.com/25/o/18-1583498083.jpg",
                 "malId": 123505,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-er981726"
             }
         },
-        "MangaFire": {
-            "im-only-14-but-ill-make-you-happy.528yj": {
-                "identifier": "im-only-14-but-ill-make-you-happy.528yj",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bdc92e384ba21b01fee7dc988eb11240.jpg",
-                "malId": 123505,
-                "aniId": 109392,
-                "page": "MangaFire",
-                "title": "I'm only 14 but I'll make you happy!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/im-only-14-but-ill-make-you-happy.528yj/"
-            },
-            "im-only-14-but-ill-make-you-happyy.528yj": {
-                "identifier": "im-only-14-but-ill-make-you-happyy.528yj",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bdc92e384ba21b01fee7dc988eb11240.jpg",
-                "malId": 123505,
-                "aniId": 109392,
-                "page": "MangaFire",
-                "title": "I'm only 14 but I'll make you happy!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/im-only-14-but-ill-make-you-happyy.528yj/"
-            }
-        },
         "MangaFox": {
             "i_m_only_14_but_i_ll_make_you_happy": {
+                "id": 158078,
                 "identifier": "i_m_only_14_but_i_ll_make_you_happy",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30428/cover.jpg",
                 "malId": 123505,
@@ -62,6 +43,19 @@
                 "title": "I'm Only 14 but I'll Make You Happy!",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/i_m_only_14_but_i_ll_make_you_happy/"
+            }
+        },
+        "MangaFire": {
+            "528yj": {
+                "id": 224492,
+                "identifier": "528yj",
+                "image": "https://static.mangafire.to/3741/i/b/bd/bdc92e384ba21b01fee7dc988eb11240.jpg",
+                "malId": 123505,
+                "aniId": 109392,
+                "page": "MangaFire",
+                "title": "I'm only 14 but I'll make you happy!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/im-only-14-but-ill-make-you-happyy.528yj"
             }
         },
         "Comick": {

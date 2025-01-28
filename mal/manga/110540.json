@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5b947fed-957b-44e1-8889-d998b95ba3e4": {
+                "id": 190105,
                 "identifier": "5b947fed-957b-44e1-8889-d998b95ba3e4",
                 "image": "https://uploads.mangadex.org/covers/5b947fed-957b-44e1-8889-d998b95ba3e4/a2af8467-c715-4c6d-957b-3bd904b69705.jpg",
                 "malId": 110540,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/5b947fed-957b-44e1-8889-d998b95ba3e4"
             }
         },
-        "MangaFire": {
-            "kanojo-ga-onii-chan-ni-nattara-shitai-10-no-koto.4267m": {
-                "identifier": "kanojo-ga-onii-chan-ni-nattara-shitai-10-no-koto.4267m",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/bb9ba30c92d12e25482d0727845bade6.jpg",
-                "malId": 110540,
-                "aniId": 168990,
-                "page": "MangaFire",
-                "title": "Kanojo ga Onii-chan ni Nattara Shitai 10 no Koto",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-ga-onii-chan-ni-nattara-shitai-10-no-koto.4267m/"
-            },
-            "kanojo-ga-onii-chan-ni-nattara-shitai-10-no-kotoo.4267m": {
-                "identifier": "kanojo-ga-onii-chan-ni-nattara-shitai-10-no-kotoo.4267m",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/bb9ba30c92d12e25482d0727845bade6.jpg",
-                "malId": 110540,
-                "aniId": 168990,
-                "page": "MangaFire",
-                "title": "Kanojo ga Onii-chan ni Nattara Shitai 10 no Koto",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-ga-onii-chan-ni-nattara-shitai-10-no-kotoo.4267m/"
-            }
-        },
         "MangaNato": {
             "manga-zk1002367": {
+                "id": 190488,
                 "identifier": "manga-zk1002367",
                 "image": "https://avt.mkklcdnv6temp.com/fld/43/a/17-1733323771-nw.webp",
                 "malId": 110540,
@@ -50,6 +30,19 @@
                 "title": "Kanojo Ga Onii-Chan Ni Nattara Shitai 10 No Koto",
                 "type": "manga",
                 "url": "https://manganato.com/manga-zk1002367"
+            }
+        },
+        "MangaFire": {
+            "4267m": {
+                "id": 225870,
+                "identifier": "4267m",
+                "image": "https://static.mangafire.to/c136/i/4/48/bb9ba30c92d12e25482d0727845bade6.jpg",
+                "malId": 110540,
+                "aniId": 168990,
+                "page": "MangaFire",
+                "title": "Kanojo ga Onii-chan ni Nattara Shitai 10 no Koto",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-ga-onii-chan-ni-nattara-shitai-10-no-kotoo.4267m"
             }
         },
         "Comick": {

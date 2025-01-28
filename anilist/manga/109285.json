@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "244c9d4f-e5fb-4590-9b96-4da191977b33": {
+                "id": 25879,
                 "identifier": "244c9d4f-e5fb-4590-9b96-4da191977b33",
                 "image": "https://uploads.mangadex.org/covers/244c9d4f-e5fb-4590-9b96-4da191977b33/d773508a-6916-4f88-99bf-15ef03903c0f.jpg",
                 "malId": 118289,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "skip-to-loafer": {
+                "id": 61732,
                 "identifier": "skip-to-loafer",
                 "image": "https://temp.compsci88.com/cover/Skip-to-Loafer.jpg",
                 "malId": 118289,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "skip_to_loafer": {
+                "id": 69244,
                 "identifier": "skip_to_loafer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30038/cover.jpg",
                 "malId": 118289,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dh980942": {
+                "id": 75471,
                 "identifier": "manga-dh980942",
                 "image": "https://avt.mkklcdnv6temp.com/47/c/17-1583496962.jpg",
                 "malId": 118289,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dh980942"
             }
         },
-        "MangaFire": {
-            "skip-and-loaferr.ojj48": {
-                "identifier": "skip-and-loaferr.ojj48",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c3/c37fbf3fd3016681a62e1a06cbc6526c.jpg",
-                "malId": 118289,
-                "aniId": 109285,
-                "page": "MangaFire",
-                "title": "Skip and Loafer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/skip-and-loaferr.ojj48/"
-            }
-        },
         "Weebcentral": {
             "01j76xydcnm5kv3t1nrfkfcrtz": {
+                "id": 207337,
                 "identifier": "01j76xydcnm5kv3t1nrfkfcrtz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDCNM5KV3T1NRFKFCRTZ.jpg",
                 "malId": 118289,
@@ -76,6 +69,19 @@
                 "title": "Skip and Loafer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDCNM5KV3T1NRFKFCRTZ"
+            }
+        },
+        "MangaFire": {
+            "ojj48": {
+                "id": 228403,
+                "identifier": "ojj48",
+                "image": "https://static.mangafire.to/1938/i/c/c3/c37fbf3fd3016681a62e1a06cbc6526c.jpg",
+                "malId": 118289,
+                "aniId": 109285,
+                "page": "MangaFire",
+                "title": "Skip and Loafer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/skip-and-loaferr.ojj48"
             }
         },
         "Comick": {

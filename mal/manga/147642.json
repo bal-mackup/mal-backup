@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mp990198": {
+                "id": 92741,
                 "identifier": "manga-mp990198",
                 "image": "https://avt.mkklcdnv6temp.com/14/e/25-1638974956.jpg",
                 "malId": 147642,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "heavenly_demon_cultivation_simulation": {
+                "id": 93082,
                 "identifier": "heavenly_demon_cultivation_simulation",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40420/cover.jpg",
                 "malId": 147642,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "murim-rpg-simulation": {
+                "id": 96882,
                 "identifier": "murim-rpg-simulation",
                 "image": "https://temp.compsci88.com/cover/Murim-RPG-Simulation.jpg",
                 "malId": 147642,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "c8f0f000-35be-4f16-9b68-f2aea7e67fdb": {
+                "id": 104581,
                 "identifier": "c8f0f000-35be-4f16-9b68-f2aea7e67fdb",
                 "image": "https://uploads.mangadex.org/covers/c8f0f000-35be-4f16-9b68-f2aea7e67fdb/fcac604f-129e-4d7f-82f6-6e4b13009f96.jpg",
                 "malId": 147642,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/c8f0f000-35be-4f16-9b68-f2aea7e67fdb"
             }
         },
-        "MangaFire": {
-            "cheonmayukseong.2o1m4": {
-                "identifier": "cheonmayukseong.2o1m4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10b229f975ceaf809754408a178f0faf.jpg",
-                "malId": 147642,
-                "aniId": 141076,
-                "page": "MangaFire",
-                "title": "Murim RPG Simulation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cheonmayukseong.2o1m4/"
-            },
-            "cheonmayukseongg.2o1m4": {
-                "identifier": "cheonmayukseongg.2o1m4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10b229f975ceaf809754408a178f0faf.jpg",
-                "malId": 147642,
-                "aniId": 141076,
-                "page": "MangaFire",
-                "title": "Murim RPG Simulation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cheonmayukseongg.2o1m4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfadd4j85e7wnw1vaqsn": {
+                "id": 209878,
                 "identifier": "01j76xyfadd4j85e7wnw1vaqsn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFADD4J85E7WNW1VAQSN.jpg",
                 "malId": 147642,
@@ -86,6 +69,19 @@
                 "title": "Murim RPG Simulation",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFADD4J85E7WNW1VAQSN"
+            }
+        },
+        "MangaFire": {
+            "2o1m4": {
+                "id": 228517,
+                "identifier": "2o1m4",
+                "image": "https://static.mangafire.to/14b5/i/1/10/10b229f975ceaf809754408a178f0faf.jpg",
+                "malId": 147642,
+                "aniId": 141076,
+                "page": "MangaFire",
+                "title": "Murim RPG Simulation",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cheonmayukseongg.2o1m4"
             }
         },
         "Comick": {

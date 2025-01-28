@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-fu982477": {
+                "id": 90525,
                 "identifier": "manga-fu982477",
                 "image": "https://avt.mkklcdnv6temp.com/3/h/19-1583499198.jpg",
                 "malId": 132940,
@@ -18,6 +19,7 @@
                 "url": "https://manganato.com/manga-fu982477"
             },
             "manga-np990524": {
+                "id": 96730,
                 "identifier": "manga-np990524",
                 "image": "https://avt.mkklcdnv6temp.com/28/h/25-1645685482.jpg",
                 "malId": 132940,
@@ -30,6 +32,7 @@
         },
         "Mangadex": {
             "bd84df12-4fd0-4ea1-9082-d4a708f27b67": {
+                "id": 93956,
                 "identifier": "bd84df12-4fd0-4ea1-9082-d4a708f27b67",
                 "image": "https://uploads.mangadex.org/covers/bd84df12-4fd0-4ea1-9082-d4a708f27b67/1eedcff7-fcf6-4e09-8add-7b01df999de5.jpg",
                 "malId": 132940,
@@ -40,20 +43,9 @@
                 "url": "https://mangadex.org/title/bd84df12-4fd0-4ea1-9082-d4a708f27b67"
             }
         },
-        "MangaFire": {
-            "gal-to-bocchi.98px": {
-                "identifier": "gal-to-bocchi.98px",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff3516d175e2c8cf05d968910576faa6.jpg",
-                "malId": 132940,
-                "aniId": 122119,
-                "page": "MangaFire",
-                "title": "Gal and Bocchi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gal-to-bocchi.98px/"
-            }
-        },
         "MangaFox": {
             "gyaru_to_bocchi": {
+                "id": 156334,
                 "identifier": "gyaru_to_bocchi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44756/cover.jpg",
                 "malId": 132940,
@@ -62,6 +54,19 @@
                 "title": "Gyaru to Bocchi [delete]",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/gyaru_to_bocchi/"
+            }
+        },
+        "MangaFire": {
+            "98px": {
+                "id": 253104,
+                "identifier": "98px",
+                "image": "https://static.mangafire.to/fded/i/f/ff/ff3516d175e2c8cf05d968910576faa6.jpg",
+                "malId": 132940,
+                "aniId": 122119,
+                "page": "MangaFire",
+                "title": "Gal and Bocchi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gal-to-bocchii.98px"
             }
         },
         "Comick": {

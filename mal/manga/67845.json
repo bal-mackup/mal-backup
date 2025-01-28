@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f22b5ff-2d76-4f5d-9b35-7969de2dc66d": {
+                "id": 10078,
                 "identifier": "8f22b5ff-2d76-4f5d-9b35-7969de2dc66d",
                 "image": "https://uploads.mangadex.org/covers/8f22b5ff-2d76-4f5d-9b35-7969de2dc66d/75f5dc12-b04c-4ced-b9ae-2358615fea2e.png",
                 "malId": 67845,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "amagi-brilliant-park": {
+                "id": 68972,
                 "identifier": "amagi-brilliant-park",
                 "image": "https://temp.compsci88.com/cover/Amagi-Brilliant-Park.jpg",
                 "malId": 67845,
@@ -30,40 +32,9 @@
                 "url": "https://mangasee123.com/manga/Amagi-Brilliant-Park"
             }
         },
-        "MangaFire": {
-            "amagi-brilliant-park.9wx8": {
-                "identifier": "amagi-brilliant-park.9wx8",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05749392273a704066883b216731a8c3.jpg",
-                "malId": 67845,
-                "aniId": 85217,
-                "page": "MangaFire",
-                "title": "Amagi Brilliant Park",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amagi-brilliant-park.9wx8/"
-            },
-            "amagi-brilliant-parkk.9wx8": {
-                "identifier": "amagi-brilliant-parkk.9wx8",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05749392273a704066883b216731a8c3.jpg",
-                "malId": 67845,
-                "aniId": 85217,
-                "page": "MangaFire",
-                "title": "Amagi Brilliant Park",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amagi-brilliant-parkk.9wx8/"
-            },
-            "9wx8": {
-                "identifier": "9wx8",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05749392273a704066883b216731a8c3.jpg",
-                "malId": 67845,
-                "aniId": 85217,
-                "page": "MangaFire",
-                "title": "Amagi Brilliant Park",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amagi-brilliant-parkk.9wx8/"
-            }
-        },
         "Weebcentral": {
             "01j76xya2k2gy7n4s0eqwh07ab": {
+                "id": 209648,
                 "identifier": "01j76xya2k2gy7n4s0eqwh07ab",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA2K2GY7N4S0EQWH07AB.jpg",
                 "malId": 67845,
@@ -72,6 +43,19 @@
                 "title": "Amagi Brilliant Park",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA2K2GY7N4S0EQWH07AB"
+            }
+        },
+        "MangaFire": {
+            "9wx8": {
+                "id": 228725,
+                "identifier": "9wx8",
+                "image": "https://static.mangafire.to/460c/i/0/05/05749392273a704066883b216731a8c3.jpg",
+                "malId": 67845,
+                "aniId": 85217,
+                "page": "MangaFire",
+                "title": "Amagi Brilliant Park",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/amagi-brilliant-parkk.9wx8"
             }
         },
         "Comick": {

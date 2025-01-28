@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6930ee12-8553-458e-9e5d-86149d7eb1a9": {
+                "id": 12164,
                 "identifier": "6930ee12-8553-458e-9e5d-86149d7eb1a9",
                 "image": "https://uploads.mangadex.org/covers/6930ee12-8553-458e-9e5d-86149d7eb1a9/518eb767-3636-46ae-b64c-dbc003f4ea81.jpg",
                 "malId": 83629,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "full-dozer": {
+                "id": 70893,
                 "identifier": "full-dozer",
                 "image": "https://temp.compsci88.com/cover/Full-Dozer.jpg",
                 "malId": 83629,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lf952514": {
+                "id": 89385,
                 "identifier": "manga-lf952514",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/u/1-1732718151-nw.webp",
                 "malId": 83629,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-lf952514"
             }
         },
-        "MangaFire": {
-            "full-dozer.1r93m": {
-                "identifier": "full-dozer.1r93m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5bf4b623571fbdcbfe6a4a596eeabf9c.jpg",
-                "malId": 83629,
-                "aniId": 86258,
-                "page": "MangaFire",
-                "title": "Full Dozer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/full-dozer.1r93m/"
-            },
-            "1r93m": {
-                "identifier": "1r93m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5bf4b623571fbdcbfe6a4a596eeabf9c.jpg",
-                "malId": 83629,
-                "aniId": 86258,
-                "page": "MangaFire",
-                "title": "Full Dozer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/full-dozer.1r93m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybg6fkyaw76r4ekfyb5z": {
+                "id": 213888,
                 "identifier": "01j76xybg6fkyaw76r4ekfyb5z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBG6FKYAW76R4EKFYB5Z.jpg",
                 "malId": 83629,
@@ -74,6 +56,19 @@
                 "title": "Full Dozer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBG6FKYAW76R4EKFYB5Z"
+            }
+        },
+        "MangaFire": {
+            "1r93m": {
+                "id": 259289,
+                "identifier": "1r93m",
+                "image": "https://static.mangafire.to/f045/i/5/5b/5bf4b623571fbdcbfe6a4a596eeabf9c.jpg",
+                "malId": 83629,
+                "aniId": 86258,
+                "page": "MangaFire",
+                "title": "Full Dozer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/full-dozerr.1r93m"
             }
         },
         "Comick": {

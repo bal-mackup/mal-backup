@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6b5ad09d-fcff-473b-a78f-f8e69700a39a": {
+                "id": 5125,
                 "identifier": "6b5ad09d-fcff-473b-a78f-f8e69700a39a",
                 "image": "https://uploads.mangadex.org/covers/6b5ad09d-fcff-473b-a78f-f8e69700a39a/fe9075c6-dbaf-4967-b1f8-a76a7818cf40.jpg",
                 "malId": 11643,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nz964982": {
+                "id": 80782,
                 "identifier": "manga-nz964982",
                 "image": "https://avt.mkklcdnv6temp.com/47/p/9-1583482093.jpg",
                 "malId": 11643,
@@ -32,14 +34,28 @@
         },
         "MangaFire": {
             "ymq1": {
+                "id": 264939,
                 "identifier": "ymq1",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ac/ac0d93de5a51fbcc72ad7557bf390bfb.jpg",
+                "image": "https://static.mangafire.to/cbe4/i/a/ac/ac0d93de5a51fbcc72ad7557bf390bfb.jpg",
                 "malId": 11643,
                 "aniId": 41643,
                 "page": "MangaFire",
                 "title": "Kattobi Itto",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/kattobi-itto.ymq1/"
+                "url": "https://mangafire.to/manga/kattobi-ittoo.ymq1"
+            }
+        },
+        "MangaFox": {
+            "kattobi_itto": {
+                "id": 267871,
+                "identifier": "kattobi_itto",
+                "image": "https://fmcdn.mfcdn.net/store/manga/2830/cover.jpg",
+                "malId": 11643,
+                "aniId": 41643,
+                "page": "MangaFox",
+                "title": "Kattobi Itto",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/kattobi_itto/"
             }
         },
         "Comick": {

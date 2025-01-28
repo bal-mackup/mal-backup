@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "70030054-2499-44c1-92d1-c5d41f0df5a1": {
+                "id": 39426,
                 "identifier": "70030054-2499-44c1-92d1-c5d41f0df5a1",
                 "image": "https://uploads.mangadex.org/covers/70030054-2499-44c1-92d1-c5d41f0df5a1/9765bb89-6589-4228-8c06-6a9d68479b28.jpg",
                 "malId": 129774,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ballpark_de_tsukamaete": {
+                "id": 57559,
                 "identifier": "ballpark_de_tsukamaete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35646/cover.jpg",
                 "malId": 129774,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ballpark-de-tsukamaete": {
+                "id": 67616,
                 "identifier": "ballpark-de-tsukamaete",
                 "image": "https://temp.compsci88.com/cover/Ballpark-de-Tsukamaete.jpg",
                 "malId": 129774,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jt986576": {
+                "id": 73395,
                 "identifier": "manga-jt986576",
                 "image": "https://avt.mkklcdnv6temp.com/12/j/22-1600053780.jpg",
                 "malId": 129774,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jt986576"
             }
         },
-        "MangaFire": {
-            "ballpark-de-tsukamaete.m2ynz": {
-                "identifier": "ballpark-de-tsukamaete.m2ynz",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b2e5484bf1d9c4b6486f125467a6982b.jpg",
-                "malId": 129774,
-                "aniId": 123884,
-                "page": "MangaFire",
-                "title": "The Catcher in the Ballpark!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ballpark-de-tsukamaete.m2ynz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeav672r0y7ahhnsq4k2": {
+                "id": 207174,
                 "identifier": "01j76xyeav672r0y7ahhnsq4k2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEAV672R0Y7AHHNSQ4K2.jpg",
                 "malId": 129774,
@@ -76,6 +69,19 @@
                 "title": "Ballpark de Tsukamaete!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEAV672R0Y7AHHNSQ4K2"
+            }
+        },
+        "MangaFire": {
+            "m2ynz": {
+                "id": 248665,
+                "identifier": "m2ynz",
+                "image": "https://static.mangafire.to/bdb3/i/b/b2/b2e5484bf1d9c4b6486f125467a6982b.jpg",
+                "malId": 129774,
+                "aniId": 123884,
+                "page": "MangaFire",
+                "title": "The Catcher in the Ballpark!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ballpark-de-tsukamaetee.m2ynz"
             }
         },
         "Comick": {

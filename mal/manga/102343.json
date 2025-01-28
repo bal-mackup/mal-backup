@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "34e45b02-b5c8-4a4b-a21a-7b5059391dc8": {
+                "id": 16706,
                 "identifier": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
                 "image": "https://uploads.mangadex.org/covers/34e45b02-b5c8-4a4b-a21a-7b5059391dc8/27d4a491-5f9f-4fdc-b50b-a5f982f29667.jpg",
                 "malId": 102343,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "to-you-the-immortal": {
+                "id": 55427,
                 "identifier": "to-you-the-immortal",
                 "image": "https://temp.compsci88.com/cover/To-You-The-Immortal.jpg",
                 "malId": 102343,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "to_you_the_immortal": {
+                "id": 60107,
                 "identifier": "to_you_the_immortal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22661/cover.jpg",
                 "malId": 102343,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/to_you_the_immortal/"
             },
             "fumetsu_no_anata_e": {
+                "id": 123290,
                 "identifier": "fumetsu_no_anata_e",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22661/cover.jpg",
                 "malId": 102343,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-wc973711": {
+                "id": 73084,
                 "identifier": "manga-wc973711",
                 "image": "https://avt.mkklcdnv6temp.com/35/q/14-1583490990.jpg",
                 "malId": 102343,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-wc973711"
             }
         },
-        "MangaFire": {
-            "to-your-eternity.yqw1p": {
-                "identifier": "to-your-eternity.yqw1p",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0c1f7b490ab4bc9656f5a627c02c608.jpg",
-                "malId": 102343,
-                "aniId": 97830,
-                "page": "MangaFire",
-                "title": "To Your Eternity",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/to-your-eternity.yqw1p/"
-            },
-            "to-your-eternityy.yqw1p": {
-                "identifier": "to-your-eternityy.yqw1p",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0c1f7b490ab4bc9656f5a627c02c608.jpg",
-                "malId": 102343,
-                "aniId": 97830,
-                "page": "MangaFire",
-                "title": "To Your Eternity",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/to-your-eternityy.yqw1p/"
-            }
-        },
         "Weebcentral": {
             "01j76xybyx6egvr7znc8vkfjd1": {
+                "id": 210460,
                 "identifier": "01j76xybyx6egvr7znc8vkfjd1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYX6EGVR7ZNC8VKFJD1.jpg",
                 "malId": 102343,
@@ -96,6 +80,19 @@
                 "title": "To Your Eternity",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYX6EGVR7ZNC8VKFJD1"
+            }
+        },
+        "MangaFire": {
+            "yqw1p": {
+                "id": 226046,
+                "identifier": "yqw1p",
+                "image": "https://static.mangafire.to/ce3b/i/c/c0/c0c1f7b490ab4bc9656f5a627c02c608.jpg",
+                "malId": 102343,
+                "aniId": 97830,
+                "page": "MangaFire",
+                "title": "To Your Eternity",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/to-your-eternityy.yqw1p"
             }
         },
         "Comick": {

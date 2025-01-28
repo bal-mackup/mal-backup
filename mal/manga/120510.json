@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1205e6aa-dc67-4a96-b8e6-18cf22a307aa": {
+                "id": 29729,
                 "identifier": "1205e6aa-dc67-4a96-b8e6-18cf22a307aa",
                 "image": "https://uploads.mangadex.org/covers/1205e6aa-dc67-4a96-b8e6-18cf22a307aa/6ec4fc1a-504e-41ac-b2b3-756b4271aa54.jpg",
                 "malId": 120510,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fk982593": {
+                "id": 78849,
                 "identifier": "manga-fk982593",
                 "image": "https://avt.mkklcdnv6temp.com/7/j/19-1583499364.jpg",
                 "malId": 120510,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-fk982593"
             }
         },
-        "MangaFire": {
-            "spider-man-fake-red.2o232": {
-                "identifier": "spider-man-fake-red.2o232",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/02b66f7e2c38757c9e99fe21a098effb.jpg",
-                "malId": 120510,
-                "aniId": 110764,
-                "page": "MangaFire",
-                "title": "Spider-Man: Fake Red",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spider-man-fake-red.2o232/"
-            },
-            "spider-man-fake-redd.2o232": {
-                "identifier": "spider-man-fake-redd.2o232",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/02b66f7e2c38757c9e99fe21a098effb.jpg",
-                "malId": 120510,
-                "aniId": 110764,
-                "page": "MangaFire",
-                "title": "Spider-Man: Fake Red",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spider-man-fake-redd.2o232/"
-            }
-        },
         "MangaSee": {
             "spider-man-fake-red": {
+                "id": 161494,
                 "identifier": "spider-man-fake-red",
                 "image": "https://temp.compsci88.com/cover/Spider-Man-Fake-Red.jpg",
                 "malId": 120510,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "spider_man_itsuwari_no_aka": {
+                "id": 164170,
                 "identifier": "spider_man_itsuwari_no_aka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31048/cover.jpg",
                 "malId": 120510,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg8ppb3m4f1zpnc1h6ck": {
+                "id": 213085,
                 "identifier": "01j76xyg8ppb3m4f1zpnc1h6ck",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG8PPB3M4F1ZPNC1H6CK.jpg",
                 "malId": 120510,
@@ -86,6 +69,19 @@
                 "title": "Spider-Man - Fake Red",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG8PPB3M4F1ZPNC1H6CK"
+            }
+        },
+        "MangaFire": {
+            "2o232": {
+                "id": 224231,
+                "identifier": "2o232",
+                "image": "https://static.mangafire.to/19a9/i/0/02/02b66f7e2c38757c9e99fe21a098effb.jpg",
+                "malId": 120510,
+                "aniId": 110764,
+                "page": "MangaFire",
+                "title": "Spider-Man: Fake Red",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/spider-man-fake-redd.2o232"
             }
         },
         "Comick": {

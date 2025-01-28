@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fa59ac85-e056-44d0-bd70-acd0f04bc55c": {
+                "id": 37820,
                 "identifier": "fa59ac85-e056-44d0-bd70-acd0f04bc55c",
                 "image": "https://uploads.mangadex.org/covers/fa59ac85-e056-44d0-bd70-acd0f04bc55c/98267dbb-6e74-4aea-9526-eb5bd623d9fd.jpg",
                 "malId": 131950,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-natteta": {
+                "id": 64836,
                 "identifier": "osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-natteta",
                 "image": "https://temp.compsci88.com/cover/Osananajimi-ga-Hisabisa-ni-Saikai-Shitara-Otagai-Kyonyuu-ni-Natteta.jpg",
                 "malId": 131950,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-le989287": {
+                "id": 82106,
                 "identifier": "manga-le989287",
                 "image": "https://avt.mkklcdnv6temp.com/24/n/24-1626429757.jpg",
                 "malId": 131950,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-le989287"
             }
         },
-        "MangaFire": {
-            "osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-natteta.80xm3": {
-                "identifier": "osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-natteta.80xm3",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d8c4c7f1ad3473b37f464224bf6918fa.jpg",
-                "malId": 131950,
-                "aniId": 125943,
-                "page": "MangaFire",
-                "title": "Long-Lost Pals Living Their Breast Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-natteta.80xm3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyee86zrzz36y4btrx4ya": {
+                "id": 208375,
                 "identifier": "01j76xyee86zrzz36y4btrx4ya",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEE86ZRZZ36Y4BTRX4YA.jpg",
                 "malId": 131950,
@@ -66,13 +58,26 @@
                 "url": "https://weebcentral.com/series/01J76XYEE86ZRZZ36Y4BTRX4YA"
             }
         },
+        "MangaFire": {
+            "80xm3": {
+                "id": 257605,
+                "identifier": "80xm3",
+                "image": "https://static.mangafire.to/34ba/i/d/d8/d8c4c7f1ad3473b37f464224bf6918fa.jpg",
+                "malId": 131950,
+                "aniId": 125943,
+                "page": "MangaFire",
+                "title": "Long-Lost Pals Living Their Breast Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-nattetaa.80xm3"
+            }
+        },
         "Comick": {
             "QkMic4c7": {
                 "identifier": "QkMic4c7",
                 "malId": 131950,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Osananajimi ga Hisabisa ni Saikai Shitara Otagai Kyonyuu ni Natteta",
+                "title": "Long-Lost Pals Living Their Breast Life",
                 "url": "https://comick.io/comic/osananajimi-ga-hisabisa-ni-saikai-shitara-otagai-kyonyuu-ni-natteta",
                 "aniId": 125943
             }

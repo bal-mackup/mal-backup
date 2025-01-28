@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d4a253b3-a4ee-4731-9be0-21003cb6fb1f": {
+                "id": 13846,
                 "identifier": "d4a253b3-a4ee-4731-9be0-21003cb6fb1f",
                 "image": "https://uploads.mangadex.org/covers/d4a253b3-a4ee-4731-9be0-21003cb6fb1f/53df8f61-6eab-40b4-bfcc-0e67edf51161.jpg",
                 "malId": 104230,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/d4a253b3-a4ee-4731-9be0-21003cb6fb1f"
             }
         },
-        "MangaFire": {
-            "100-monogatari.zloj2": {
-                "identifier": "100-monogatari.zloj2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8ed0d5efb34b149f028b7074b7aefb2.jpg",
-                "malId": 104230,
-                "aniId": 106999,
-                "page": "MangaFire",
-                "title": "100 Monogatari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/100-monogatari.zloj2/"
-            }
-        },
         "MangaNato": {
             "manga-ot952854": {
+                "id": 175141,
                 "identifier": "manga-ot952854",
-                "image": "https://avt.mkklcdnv6temp.com/3/j/2-1583465820.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/55/x/1-1732718609-nw.webp",
                 "malId": 104230,
                 "aniId": 106999,
                 "page": "MangaNato",
                 "title": "Hyaku Monogatari",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-ot952854"
+            }
+        },
+        "MangaFire": {
+            "zloj2": {
+                "id": 262863,
+                "identifier": "zloj2",
+                "image": "https://static.mangafire.to/1778/i/e/e8/e8ed0d5efb34b149f028b7074b7aefb2.jpg",
+                "malId": 104230,
+                "aniId": 106999,
+                "page": "MangaFire",
+                "title": "100 Monogatari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/100-monogatarii.zloj2"
             }
         },
         "Comick": {

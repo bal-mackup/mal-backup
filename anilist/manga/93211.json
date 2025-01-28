@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2485e3fd-8b74-4d8a-ae5f-cebfc68d732d": {
+                "id": 10500,
                 "identifier": "2485e3fd-8b74-4d8a-ae5f-cebfc68d732d",
                 "image": "https://uploads.mangadex.org/covers/2485e3fd-8b74-4d8a-ae5f-cebfc68d732d/ce6896e9-bf5c-4287-bffe-1a624f296d6b.jpg",
                 "malId": 81955,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/2485e3fd-8b74-4d8a-ae5f-cebfc68d732d"
             }
         },
-        "MangaFire": {
-            "apple-paradise.4nno": {
-                "identifier": "apple-paradise.4nno",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/798b4138e04b2297d1c31c803e472c2c.jpg",
-                "malId": 81955,
-                "aniId": 93211,
-                "page": "MangaFire",
-                "title": "Apple Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/apple-paradise.4nno/"
-            },
-            "4nno": {
-                "identifier": "4nno",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/798b4138e04b2297d1c31c803e472c2c.jpg",
-                "malId": 81955,
-                "aniId": 93211,
-                "page": "MangaFire",
-                "title": "Apple Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/apple-paradise.4nno/"
-            }
-        },
         "MangaNato": {
             "manga-ld962538": {
+                "id": 202398,
                 "identifier": "manga-ld962538",
                 "image": "https://avt.mkklcdnv6temp.com/fld/72/d/4-1732763674-nw.webp",
                 "malId": 81955,
@@ -50,6 +30,19 @@
                 "title": "Apple Paradise",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ld962538"
+            }
+        },
+        "MangaFire": {
+            "4nno": {
+                "id": 262343,
+                "identifier": "4nno",
+                "image": "https://static.mangafire.to/909b/i/7/79/798b4138e04b2297d1c31c803e472c2c.jpg",
+                "malId": 81955,
+                "aniId": 93211,
+                "page": "MangaFire",
+                "title": "Apple Paradise",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/apple-paradisee.4nno"
             }
         },
         "Comick": {

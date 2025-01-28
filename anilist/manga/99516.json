@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0d3ffb54-73a6-4bf3-b111-782ec4173999": {
+                "id": 15813,
                 "identifier": "0d3ffb54-73a6-4bf3-b111-782ec4173999",
                 "image": "https://uploads.mangadex.org/covers/0d3ffb54-73a6-4bf3-b111-782ec4173999/e8e5181a-9862-4f29-9bd8-138e7b159768.jpg",
                 "malId": 103063,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-xu975077": {
+                "id": 121761,
                 "identifier": "manga-xu975077",
                 "image": "https://avt.mkklcdnv6temp.com/fld/1/t/7-1732787804-nw.webp",
                 "malId": 103063,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-xu975077"
             }
         },
-        "MangaFire": {
-            "tadaima-okaeri.4q4lo": {
-                "identifier": "tadaima-okaeri.4q4lo",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/389e6a59374e537af37837551ee4c6c6.jpg",
-                "malId": 103063,
-                "aniId": 99516,
-                "page": "MangaFire",
-                "title": "Welcome Home",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tadaima-okaeri.4q4lo/"
-            },
-            "4q4lo": {
-                "identifier": "4q4lo",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/389e6a59374e537af37837551ee4c6c6.jpg",
-                "malId": 103063,
-                "aniId": 99516,
-                "page": "MangaFire",
-                "title": "Welcome Home",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tadaima-okaeri.4q4lo/"
-            }
-        },
         "MangaFox": {
             "tadaima_okaeri": {
+                "id": 194066,
                 "identifier": "tadaima_okaeri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24121/cover.jpg",
                 "malId": 103063,
@@ -62,6 +43,19 @@
                 "title": "Tadaima, Okaeri",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tadaima_okaeri/"
+            }
+        },
+        "MangaFire": {
+            "4q4lo": {
+                "id": 239370,
+                "identifier": "4q4lo",
+                "image": "https://static.mangafire.to/193e/i/3/38/389e6a59374e537af37837551ee4c6c6.jpg",
+                "malId": 103063,
+                "aniId": 99516,
+                "page": "MangaFire",
+                "title": "Welcome Home",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tadaima-okaerii.4q4lo"
             }
         },
         "Comick": {

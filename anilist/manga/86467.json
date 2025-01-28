@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a299dda-99da-4836-820c-cc30d8a6ff9c": {
+                "id": 13396,
                 "identifier": "7a299dda-99da-4836-820c-cc30d8a6ff9c",
                 "image": "https://uploads.mangadex.org/covers/7a299dda-99da-4836-820c-cc30d8a6ff9c/7d2383ca-df02-4d15-858b-abd424565e12.jpg",
                 "malId": 92594,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/7a299dda-99da-4836-820c-cc30d8a6ff9c"
             },
             "491c5390-6365-4ede-ac82-2cf37f7706e7": {
+                "id": 105078,
                 "identifier": "491c5390-6365-4ede-ac82-2cf37f7706e7",
                 "image": "https://uploads.mangadex.org/covers/491c5390-6365-4ede-ac82-2cf37f7706e7/8b66c529-570a-4497-8a83-1c16593a9f43.jpg",
                 "malId": 92594,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "momokuri": {
+                "id": 59070,
                 "identifier": "momokuri",
                 "image": "https://temp.compsci88.com/cover/Momokuri.jpg",
                 "malId": 92594,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-tx970680": {
+                "id": 75879,
                 "identifier": "manga-tx970680",
                 "image": "https://avt.mkklcdnv6temp.com/31/n/13-1583488868.jpg",
                 "malId": 92594,
@@ -52,40 +56,9 @@
                 "url": "https://chapmanganato.com/manga-tx970680"
             }
         },
-        "MangaFire": {
-            "momokuri.027lk": {
-                "identifier": "momokuri.027lk",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c25fa0352ad4e8e255fce1f7a6378b3c.jpg",
-                "malId": 92594,
-                "aniId": 86467,
-                "page": "MangaFire",
-                "title": "Momokuri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momokuri.027lk/"
-            },
-            "momokurii.027lk": {
-                "identifier": "momokurii.027lk",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c25fa0352ad4e8e255fce1f7a6378b3c.jpg",
-                "malId": 92594,
-                "aniId": 86467,
-                "page": "MangaFire",
-                "title": "Momokuri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momokurii.027lk/"
-            },
-            "027lk": {
-                "identifier": "027lk",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c25fa0352ad4e8e255fce1f7a6378b3c.jpg",
-                "malId": 92594,
-                "aniId": 86467,
-                "page": "MangaFire",
-                "title": "Momokuri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momokurii.027lk/"
-            }
-        },
         "MangaFox": {
             "momokuri": {
+                "id": 199517,
                 "identifier": "momokuri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17851/cover.jpg",
                 "malId": 92594,
@@ -98,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xybybvs8fn68t6f4cm147": {
+                "id": 212290,
                 "identifier": "01j76xybybvs8fn68t6f4cm147",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYBVS8FN68T6F4CM147.jpg",
                 "malId": 92594,
@@ -106,6 +80,19 @@
                 "title": "momokuri",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYBVS8FN68T6F4CM147"
+            }
+        },
+        "MangaFire": {
+            "027lk": {
+                "id": 226223,
+                "identifier": "027lk",
+                "image": "https://static.mangafire.to/6b77/i/c/c2/c25fa0352ad4e8e255fce1f7a6378b3c.jpg",
+                "malId": 92594,
+                "aniId": 86467,
+                "page": "MangaFire",
+                "title": "Momokuri",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/momokurii.027lk"
             }
         },
         "Comick": {

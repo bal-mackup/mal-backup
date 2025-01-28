@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9633abbc-6a72-44dc-a557-cac2b5d12f8f": {
+                "id": 13687,
                 "identifier": "9633abbc-6a72-44dc-a557-cac2b5d12f8f",
                 "image": "https://uploads.mangadex.org/covers/9633abbc-6a72-44dc-a557-cac2b5d12f8f/45801175-4f08-4e86-83fe-6609f0da0138.jpg",
                 "malId": 91767,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boku-to-kimi-no-taisetsu-na-hanashi": {
+                "id": 54858,
                 "identifier": "boku-to-kimi-no-taisetsu-na-hanashi",
                 "image": "https://temp.compsci88.com/cover/Boku-To-Kimi-No-Taisetsu-Na-Hanashi.jpg",
                 "malId": 91767,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ak959167": {
+                "id": 72832,
                 "identifier": "manga-ak959167",
                 "image": "https://avt.mkklcdnv6temp.com/3/z/6-1583474249.jpg",
                 "malId": 91767,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ak959167"
             }
         },
-        "MangaFire": {
-            "boku-to-kimi-no-taisetsu-na-hanashi.qzzv": {
-                "identifier": "boku-to-kimi-no-taisetsu-na-hanashi.qzzv",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/675dc921354784f5d4c04921e37aa69e.jpg",
-                "malId": 91767,
-                "aniId": 86462,
-                "page": "MangaFire",
-                "title": "Our Precious Conversations",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-to-kimi-no-taisetsu-na-hanashi.qzzv/"
-            },
-            "boku-to-kimi-no-taisetsu-na-hanashii.qzzv": {
-                "identifier": "boku-to-kimi-no-taisetsu-na-hanashii.qzzv",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/675dc921354784f5d4c04921e37aa69e.jpg",
-                "malId": 91767,
-                "aniId": 86462,
-                "page": "MangaFire",
-                "title": "Our Precious Conversations",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-to-kimi-no-taisetsu-na-hanashii.qzzv/"
-            }
-        },
         "Weebcentral": {
             "01j76xybqx3rj8waj415az155c": {
+                "id": 208567,
                 "identifier": "01j76xybqx3rj8waj415az155c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBQX3RJ8WAJ415AZ155C.jpg",
                 "malId": 91767,
@@ -74,6 +56,19 @@
                 "title": "Our Precious Conversations",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBQX3RJ8WAJ415AZ155C"
+            }
+        },
+        "MangaFire": {
+            "qzzv": {
+                "id": 226072,
+                "identifier": "qzzv",
+                "image": "https://static.mangafire.to/eac4/i/6/67/675dc921354784f5d4c04921e37aa69e.jpg",
+                "malId": 91767,
+                "aniId": 86462,
+                "page": "MangaFire",
+                "title": "Our Precious Conversations",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-to-kimi-no-taisetsu-na-hanashii.qzzv"
             }
         },
         "Comick": {

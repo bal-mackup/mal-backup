@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "66164474-4d86-440e-b031-35872d350e49": {
+                "id": 31165,
                 "identifier": "66164474-4d86-440e-b031-35872d350e49",
                 "image": "https://uploads.mangadex.org/covers/66164474-4d86-440e-b031-35872d350e49/68e6d219-2a58-4ea3-9d01-279517766e59.jpg",
                 "malId": 122394,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gw983379": {
+                "id": 88095,
                 "identifier": "manga-gw983379",
                 "image": "https://avt.mkklcdnv6temp.com/36/i/19-1583500511.jpg",
                 "malId": 122394,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tonari_no_seki_no_satou_san": {
+                "id": 118911,
                 "identifier": "tonari_no_seki_no_satou_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31709/cover.jpg",
                 "malId": 122394,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "my-deskmate-sato-san": {
+                "id": 128655,
                 "identifier": "my-deskmate-sato-san",
                 "image": "https://temp.compsci88.com/cover/My-Deskmate-Sato-san.jpg",
                 "malId": 122394,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/My-Deskmate-Sato-san"
             }
         },
-        "MangaFire": {
-            "tonari-no-seki-no-satou-san.3r1x8": {
-                "identifier": "tonari-no-seki-no-satou-san.3r1x8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c761dcab30e9ae8a7e232fe0f0b4c59b.jpg",
-                "malId": 122394,
-                "aniId": 112598,
-                "page": "MangaFire",
-                "title": "Tonari no Seki no Satou-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonari-no-seki-no-satou-san.3r1x8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1ejxzk2b0wgp713k2c": {
+                "id": 210823,
                 "identifier": "01j76xyg1ejxzk2b0wgp713k2c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1EJXZK2B0WGP713K2C.jpg",
                 "malId": 122394,
@@ -76,6 +69,19 @@
                 "title": "My Deskmate Sato-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1EJXZK2B0WGP713K2C"
+            }
+        },
+        "MangaFire": {
+            "3r1x8": {
+                "id": 234326,
+                "identifier": "3r1x8",
+                "image": "https://static.mangafire.to/9889/i/c/c7/c761dcab30e9ae8a7e232fe0f0b4c59b.jpg",
+                "malId": 122394,
+                "aniId": 112598,
+                "page": "MangaFire",
+                "title": "Tonari no Seki no Satou-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tonari-no-seki-no-satou-sann.3r1x8"
             }
         },
         "Comick": {

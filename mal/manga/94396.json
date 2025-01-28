@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "461bc2a9-34eb-4c1c-be38-2fabb53e4b3f": {
+                "id": 14446,
                 "identifier": "461bc2a9-34eb-4c1c-be38-2fabb53e4b3f",
                 "image": "https://uploads.mangadex.org/covers/461bc2a9-34eb-4c1c-be38-2fabb53e4b3f/207ef829-542f-4e55-8d37-5b4f0ea11c7b.jpg",
                 "malId": 94396,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shoujo-fujuubun": {
+                "id": 60258,
                 "identifier": "shoujo-fujuubun",
                 "image": "https://temp.compsci88.com/cover/Shoujo-Fujuubun.jpg",
                 "malId": 94396,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tu970655": {
+                "id": 82906,
                 "identifier": "manga-tu970655",
                 "image": "https://avt.mkklcdnv6temp.com/31/d/13-1583488854.jpg",
                 "malId": 94396,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "shoujo_fujuubun": {
+                "id": 90741,
                 "identifier": "shoujo_fujuubun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19337/cover.jpg",
                 "malId": 94396,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/shoujo_fujuubun/"
             }
         },
-        "MangaFire": {
-            "shoujo-fujuubun.llm2z": {
-                "identifier": "shoujo-fujuubun.llm2z",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c3054c7e23cc17855f9d38904133931.jpg",
-                "malId": 94396,
-                "aniId": 87015,
-                "page": "MangaFire",
-                "title": "Imperfect Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shoujo-fujuubun.llm2z/"
-            },
-            "llm2z": {
-                "identifier": "llm2z",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c3054c7e23cc17855f9d38904133931.jpg",
-                "malId": 94396,
-                "aniId": 87015,
-                "page": "MangaFire",
-                "title": "Imperfect Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shoujo-fujuubun.llm2z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc84sbkqjmc35wgnf9dy": {
+                "id": 209347,
                 "identifier": "01j76xyc84sbkqjmc35wgnf9dy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC84SBKQJMC35WGNF9DY.jpg",
                 "malId": 94396,
@@ -86,6 +69,19 @@
                 "title": "Imperfect Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC84SBKQJMC35WGNF9DY"
+            }
+        },
+        "MangaFire": {
+            "llm2z": {
+                "id": 258669,
+                "identifier": "llm2z",
+                "image": "https://static.mangafire.to/1dec/i/2/2c/2c3054c7e23cc17855f9d38904133931.jpg",
+                "malId": 94396,
+                "aniId": 87015,
+                "page": "MangaFire",
+                "title": "Imperfect Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shoujo-fujuubunn.llm2z"
             }
         },
         "Comick": {

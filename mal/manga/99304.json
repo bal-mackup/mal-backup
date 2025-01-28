@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "df0b78f4-ccc6-40fe-bbf7-7d5f5f442f63": {
+                "id": 15106,
                 "identifier": "df0b78f4-ccc6-40fe-bbf7-7d5f5f442f63",
                 "image": "https://uploads.mangadex.org/covers/df0b78f4-ccc6-40fe-bbf7-7d5f5f442f63/6ee04cc6-ba71-4818-8e86-40df02765740.jpg",
                 "malId": 99304,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "futsuu-no-koiko-chan": {
+                "id": 56866,
                 "identifier": "futsuu-no-koiko-chan",
                 "image": "https://temp.compsci88.com/cover/Futsuu-no-Koiko-chan.jpg",
                 "malId": 99304,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "futsuu_no_koiko_chan": {
+                "id": 62643,
                 "identifier": "futsuu_no_koiko_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28789/cover.jpg",
                 "malId": 99304,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cf979988": {
+                "id": 85599,
                 "identifier": "manga-cf979988",
                 "image": "https://avt.mkklcdnv6temp.com/11/v/17-1583495692.jpg",
                 "malId": 99304,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cf979988"
             }
         },
-        "MangaFire": {
-            "futsuu-no-koiko-chan.4jpoo": {
-                "identifier": "futsuu-no-koiko-chan.4jpoo",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f57b89d2819fa3e6e060cf7d60e7c517.jpg",
-                "malId": 99304,
-                "aniId": 87403,
-                "page": "MangaFire",
-                "title": "What an average way Koiko goes!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futsuu-no-koiko-chan.4jpoo/"
-            },
-            "4jpoo": {
-                "identifier": "4jpoo",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f57b89d2819fa3e6e060cf7d60e7c517.jpg",
-                "malId": 99304,
-                "aniId": 87403,
-                "page": "MangaFire",
-                "title": "What an average way Koiko goes!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futsuu-no-koiko-chan.4jpoo/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrcyz8g8apt42gx2d0p": {
+                "id": 207251,
                 "identifier": "01j76xydrcyz8g8apt42gx2d0p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRCYZ8G8APT42GX2D0P.jpg",
                 "malId": 99304,
@@ -86,6 +69,19 @@
                 "title": "Futsuu no Koiko-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRCYZ8G8APT42GX2D0P"
+            }
+        },
+        "MangaFire": {
+            "4jpoo": {
+                "id": 233840,
+                "identifier": "4jpoo",
+                "image": "https://static.mangafire.to/70d5/i/f/f5/f57b89d2819fa3e6e060cf7d60e7c517.jpg",
+                "malId": 99304,
+                "aniId": 87403,
+                "page": "MangaFire",
+                "title": "What an average way Koiko goes!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futsuu-no-koiko-chann.4jpoo"
             }
         },
         "Comick": {

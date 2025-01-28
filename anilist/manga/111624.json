@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1f843e31-a930-46b6-be23-6c02944387ed": {
+                "id": 30476,
                 "identifier": "1f843e31-a930-46b6-be23-6c02944387ed",
                 "image": "https://uploads.mangadex.org/covers/1f843e31-a930-46b6-be23-6c02944387ed/2cf4a355-21f8-4fb0-88b9-da4d2339b3fa.jpg",
                 "malId": 119834,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koibito-wa-oni-no-hime": {
+                "id": 56751,
                 "identifier": "koibito-wa-oni-no-hime",
                 "image": "https://temp.compsci88.com/cover/Koibito-wa-Oni-no-Hime.jpg",
                 "malId": 119834,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jf986388": {
+                "id": 77988,
                 "identifier": "manga-jf986388",
                 "image": "https://avt.mkklcdnv6temp.com/4/x/22-1598586110.jpg",
                 "malId": 119834,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-jf986388"
             }
         },
-        "MangaFire": {
-            "koibito-wa-oni-no-hime.qx9xw": {
-                "identifier": "koibito-wa-oni-no-hime.qx9xw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88c7b75895f4ba6661bceb401b59d1ba.jpg",
-                "malId": 119834,
-                "aniId": 111624,
-                "page": "MangaFire",
-                "title": "Koibito wa Oni no Hime",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koibito-wa-oni-no-hime.qx9xw/"
-            },
-            "koibito-wa-oni-no-himee.qx9xw": {
-                "identifier": "koibito-wa-oni-no-himee.qx9xw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88c7b75895f4ba6661bceb401b59d1ba.jpg",
-                "malId": 119834,
-                "aniId": 111624,
-                "page": "MangaFire",
-                "title": "Koibito wa Oni no Hime",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koibito-wa-oni-no-himee.qx9xw/"
-            }
-        },
         "MangaFox": {
             "koibito_wa_oni_no_hime": {
+                "id": 187625,
                 "identifier": "koibito_wa_oni_no_hime",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34216/cover.jpg",
                 "malId": 119834,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xye70jj0dvr7jkgn607vb": {
+                "id": 211817,
                 "identifier": "01j76xye70jj0dvr7jkgn607vb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE70JJ0DVR7JKGN607VB.jpg",
                 "malId": 119834,
@@ -86,6 +69,19 @@
                 "title": "Koibito wa Oni no Hime",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE70JJ0DVR7JKGN607VB"
+            }
+        },
+        "MangaFire": {
+            "qx9xw": {
+                "id": 226260,
+                "identifier": "qx9xw",
+                "image": "https://static.mangafire.to/12fd/i/8/88/88c7b75895f4ba6661bceb401b59d1ba.jpg",
+                "malId": 119834,
+                "aniId": 111624,
+                "page": "MangaFire",
+                "title": "Koibito wa Oni no Hime",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koibito-wa-oni-no-himee.qx9xw"
             }
         },
         "Comick": {

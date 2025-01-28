@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "de2c8252-d340-4f8f-a071-0ca69e145c1d": {
+                "id": 22730,
                 "identifier": "de2c8252-d340-4f8f-a071-0ca69e145c1d",
                 "image": "https://uploads.mangadex.org/covers/de2c8252-d340-4f8f-a071-0ca69e145c1d/f5ea1791-665c-475e-9323-79587bcd0ebe.jpg",
                 "malId": 111477,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "asoko-de-hataraku-musubu-san": {
+                "id": 56241,
                 "identifier": "asoko-de-hataraku-musubu-san",
                 "image": "https://temp.compsci88.com/cover/Asoko-de-Hataraku-Musubu-san.jpg",
                 "malId": 111477,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-by979181": {
+                "id": 74611,
                 "identifier": "manga-by979181",
                 "image": "https://avt.mkklcdnv6temp.com/31/u/16-1583494611.jpg",
                 "malId": 111477,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "asoko_de_hataraku_musubu_san": {
+                "id": 83828,
                 "identifier": "asoko_de_hataraku_musubu_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27718/cover.jpg",
                 "malId": 111477,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/asoko_de_hataraku_musubu_san/"
             }
         },
-        "MangaFire": {
-            "asoko-de-hataraku-musubu-san.rjxno": {
-                "identifier": "asoko-de-hataraku-musubu-san.rjxno",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/5428f0c45d0773b0ef4f3cc5d863403c.jpg",
-                "malId": 111477,
-                "aniId": 103084,
-                "page": "MangaFire",
-                "title": "Asoko de Hataraku Musubu-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asoko-de-hataraku-musubu-san.rjxno/"
-            },
-            "asoko-de-hataraku-musubu-sann.rjxno": {
-                "identifier": "asoko-de-hataraku-musubu-sann.rjxno",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/5428f0c45d0773b0ef4f3cc5d863403c.jpg",
-                "malId": 111477,
-                "aniId": 103084,
-                "page": "MangaFire",
-                "title": "Asoko de Hataraku Musubu-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asoko-de-hataraku-musubu-sann.rjxno/"
-            }
-        },
         "Weebcentral": {
             "01j76xye6jcb1jde9hxdy9k6j1": {
+                "id": 211872,
                 "identifier": "01j76xye6jcb1jde9hxdy9k6j1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE6JCB1JDE9HXDY9K6J1.jpg",
                 "malId": 111477,
@@ -86,6 +69,19 @@
                 "title": "Asoko de Hataraku Musubu-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE6JCB1JDE9HXDY9K6J1"
+            }
+        },
+        "MangaFire": {
+            "rjxno": {
+                "id": 228395,
+                "identifier": "rjxno",
+                "image": "https://static.mangafire.to/0e67/i/5/54/5428f0c45d0773b0ef4f3cc5d863403c.jpg",
+                "malId": 111477,
+                "aniId": 103084,
+                "page": "MangaFire",
+                "title": "Asoko de Hataraku Musubu-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/asoko-de-hataraku-musubu-sann.rjxno"
             }
         },
         "Comick": {

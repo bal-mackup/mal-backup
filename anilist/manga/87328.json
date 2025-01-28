@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0c8779ad-e0fd-4fa2-88b5-e8f546458dba": {
+                "id": 16769,
                 "identifier": "0c8779ad-e0fd-4fa2-88b5-e8f546458dba",
                 "image": "https://uploads.mangadex.org/covers/0c8779ad-e0fd-4fa2-88b5-e8f546458dba/825a5b83-eecc-4e8b-b441-43f378bab2cf.jpg",
                 "malId": 97111,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/0c8779ad-e0fd-4fa2-88b5-e8f546458dba"
             },
             "8c8217dc-b00b-41c4-bdf4-654537c32623": {
+                "id": 36123,
                 "identifier": "8c8217dc-b00b-41c4-bdf4-654537c32623",
                 "image": "https://uploads.mangadex.org/covers/8c8217dc-b00b-41c4-bdf4-654537c32623/993d9e8a-6277-4ea1-81e6-0cfe97922a05.png",
                 "malId": 97111,
@@ -28,30 +30,9 @@
                 "url": "https://mangadex.org/title/8c8217dc-b00b-41c4-bdf4-654537c32623"
             }
         },
-        "MangaFire": {
-            "kocchi-muite-ai.8n0jv": {
-                "identifier": "kocchi-muite-ai.8n0jv",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98f8098bb5c1c21ead7e7c16da616dae.jpg",
-                "malId": 97111,
-                "aniId": 87328,
-                "page": "MangaFire",
-                "title": "Kocchi Muite, Ai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kocchi-muite-ai.8n0jv/"
-            },
-            "8n0jv": {
-                "identifier": "8n0jv",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98f8098bb5c1c21ead7e7c16da616dae.jpg",
-                "malId": 97111,
-                "aniId": 87328,
-                "page": "MangaFire",
-                "title": "Kocchi Muite, Ai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kocchi-muite-ai.8n0jv/"
-            }
-        },
         "MangaNato": {
             "manga-tu971103": {
+                "id": 170680,
                 "identifier": "manga-tu971103",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/z/7-1732785060-nw.webp",
                 "malId": 97111,
@@ -60,6 +41,19 @@
                 "title": "Kocchi Muite, Ai",
                 "type": "manga",
                 "url": "https://manganato.com/manga-tu971103"
+            }
+        },
+        "MangaFire": {
+            "8n0jv": {
+                "id": 258542,
+                "identifier": "8n0jv",
+                "image": "https://static.mangafire.to/c27b/i/9/98/98f8098bb5c1c21ead7e7c16da616dae.jpg",
+                "malId": 97111,
+                "aniId": 87328,
+                "page": "MangaFire",
+                "title": "Kocchi Muite, Ai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kocchi-muite-aii.8n0jv"
             }
         },
         "Comick": {

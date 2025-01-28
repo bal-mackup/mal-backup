@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4ad4b480-aacc-4835-b413-0dbb1cdf436e": {
+                "id": 27514,
                 "identifier": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
                 "image": "https://uploads.mangadex.org/covers/4ad4b480-aacc-4835-b413-0dbb1cdf436e/0a865a62-02be-43df-9d67-5f82df09904c.jpg",
                 "malId": 120521,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-reborn-witch-foretells-destruction": {
+                "id": 65345,
                 "identifier": "the-reborn-witch-foretells-destruction",
                 "image": "https://temp.compsci88.com/cover/The-Reborn-Witch-Foretells-Destruction.jpg",
                 "malId": 120521,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ef981588": {
+                "id": 76088,
                 "identifier": "manga-ef981588",
                 "image": "https://avt.mkklcdnv6temp.com/20/l/18-1583497899.jpg",
                 "malId": 120521,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tensei_majo_wa_horobi_wo_tsugeru": {
+                "id": 82915,
                 "identifier": "tensei_majo_wa_horobi_wo_tsugeru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31587/cover.jpg",
                 "malId": 120521,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tensei_majo_wa_horobi_wo_tsugeru/"
             }
         },
-        "MangaFire": {
-            "tensei-majo-wa-horobi-wo-tsugeru.80qoy": {
-                "identifier": "tensei-majo-wa-horobi-wo-tsugeru.80qoy",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9ae9208e7b7b9c0c6f090c5cfa1e2708.jpg",
-                "malId": 120521,
-                "aniId": 109103,
-                "page": "MangaFire",
-                "title": "A Reincarnated Witch Spells Doom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-majo-wa-horobi-wo-tsugeru.80qoy/"
-            },
-            "tensei-majo-wa-horobi-wo-tsugeruu.80qoy": {
-                "identifier": "tensei-majo-wa-horobi-wo-tsugeruu.80qoy",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9ae9208e7b7b9c0c6f090c5cfa1e2708.jpg",
-                "malId": 120521,
-                "aniId": 109103,
-                "page": "MangaFire",
-                "title": "A Reincarnated Witch Spells Doom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-majo-wa-horobi-wo-tsugeruu.80qoy/"
-            }
-        },
         "Weebcentral": {
             "01j76xye7hy3xg8q0c3vqa2b8m": {
+                "id": 208282,
                 "identifier": "01j76xye7hy3xg8q0c3vqa2b8m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE7HY3XG8Q0C3VQA2B8M.jpg",
                 "malId": 120521,
@@ -86,6 +69,19 @@
                 "title": "A Reincarnated Witch Spells Doom",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE7HY3XG8Q0C3VQA2B8M"
+            }
+        },
+        "MangaFire": {
+            "80qoy": {
+                "id": 230598,
+                "identifier": "80qoy",
+                "image": "https://static.mangafire.to/5bf1/i/9/9a/9ae9208e7b7b9c0c6f090c5cfa1e2708.jpg",
+                "malId": 120521,
+                "aniId": 109103,
+                "page": "MangaFire",
+                "title": "A Reincarnated Witch Spells Doom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tensei-majo-wa-horobi-wo-tsugeruu.80qoy"
             }
         },
         "Comick": {

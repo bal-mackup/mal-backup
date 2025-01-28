@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ff7957d0-0e3a-4313-b183-a8df66e7f58d": {
+                "id": 33387,
                 "identifier": "ff7957d0-0e3a-4313-b183-a8df66e7f58d",
                 "image": "https://uploads.mangadex.org/covers/ff7957d0-0e3a-4313-b183-a8df66e7f58d/ed28d308-86af-4d5d-8386-567af1b70bcb.jpg",
                 "malId": 108233,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/ff7957d0-0e3a-4313-b183-a8df66e7f58d"
             }
         },
-        "MangaFire": {
-            "hoshi-akari-graphics.lll46": {
-                "identifier": "hoshi-akari-graphics.lll46",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/532b9686f528f1b3285f9c6dee4ba587.jpg",
-                "malId": 108233,
-                "aniId": 101194,
-                "page": "MangaFire",
-                "title": "Hoshi Akari Graphics",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hoshi-akari-graphics.lll46/"
-            }
-        },
         "MangaNato": {
             "manga-hs984775": {
+                "id": 162371,
                 "identifier": "manga-hs984775",
                 "image": "https://avt.mkklcdnv6temp.com/fld/80/u/10-1732802844-nw.webp",
                 "malId": 108233,
@@ -40,6 +30,19 @@
                 "title": "Hoshi Akari Graphics",
                 "type": "manga",
                 "url": "https://manganato.com/manga-hs984775"
+            }
+        },
+        "MangaFire": {
+            "lll46": {
+                "id": 256776,
+                "identifier": "lll46",
+                "image": "https://static.mangafire.to/a048/i/5/53/532b9686f528f1b3285f9c6dee4ba587.jpg",
+                "malId": 108233,
+                "aniId": 101194,
+                "page": "MangaFire",
+                "title": "Hoshi Akari Graphics",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hoshi-akari-graphicss.lll46"
             }
         },
         "Comick": {

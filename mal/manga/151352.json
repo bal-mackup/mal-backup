@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "375a5c90-d3af-420b-a2f7-d467b0f6447a": {
+                "id": 35830,
                 "identifier": "375a5c90-d3af-420b-a2f7-d467b0f6447a",
                 "image": "https://uploads.mangadex.org/covers/375a5c90-d3af-420b-a2f7-d467b0f6447a/0e6ebda0-19e5-49a9-84b7-55c017271391.jpg",
                 "malId": 151352,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/375a5c90-d3af-420b-a2f7-d467b0f6447a"
             },
             "18d53ae1-88a8-4882-96c7-92432cbbf95c": {
+                "id": 161714,
                 "identifier": "18d53ae1-88a8-4882-96c7-92432cbbf95c",
                 "image": "https://uploads.mangadex.org/covers/18d53ae1-88a8-4882-96c7-92432cbbf95c/8b73e4b7-2040-47dc-8b5f-1de065d3949d.jpg",
                 "malId": 151352,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-il986146": {
+                "id": 73643,
                 "identifier": "manga-il986146",
                 "image": "https://avt.mkklcdnv6temp.com/45/c/21-1596629019.jpg",
                 "malId": 151352,
@@ -41,35 +44,27 @@
             }
         },
         "MangaFire": {
-            "my-roommate-isnt-from-this-world.8028y": {
-                "identifier": "my-roommate-isnt-from-this-world.8028y",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d1ac60df668ffcba2f3717878877144.jpg",
-                "malId": 151352,
-                "aniId": 125584,
-                "page": "MangaFire",
-                "title": "My Roommate Isn't From This World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-roommate-isnt-from-this-world.8028y/"
-            },
-            "doukyonin-ga-konoyo-no-mon-janai-rensai-ban.rw42m": {
-                "identifier": "doukyonin-ga-konoyo-no-mon-janai-rensai-ban.rw42m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6b/6bafed6ac010da80d8c8287ee96c109e.jpg",
-                "malId": 151352,
-                "aniId": 125584,
-                "page": "MangaFire",
-                "title": "Doukyonin ga Konoyo no Mon janai Rensai-ban",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/doukyonin-ga-konoyo-no-mon-janai-rensai-ban.rw42m/"
-            },
-            "my-roommate-isnt-from-this-worldd.8028y": {
-                "identifier": "my-roommate-isnt-from-this-worldd.8028y",
+            "8028y": {
+                "id": 222871,
+                "identifier": "8028y",
                 "image": "https://static.mangafire.to/1678/i/7/7d/7d1ac60df668ffcba2f3717878877144.jpg",
                 "malId": 151352,
                 "aniId": 125584,
                 "page": "MangaFire",
                 "title": "My Roommate Isn't From This World",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/my-roommate-isnt-from-this-worldd.8028y/"
+                "url": "https://mangafire.to/manga/my-roommate-isnt-from-this-worldd.8028y"
+            },
+            "rw42m": {
+                "id": 234800,
+                "identifier": "rw42m",
+                "image": "https://static.mangafire.to/3970/i/6/6b/6bafed6ac010da80d8c8287ee96c109e.jpg",
+                "malId": 151352,
+                "aniId": 125584,
+                "page": "MangaFire",
+                "title": "Doukyonin ga Konoyo no Mon janai Rensai-ban",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/doukyonin-ga-konoyo-no-mon-janai-rensai-bann.rw42m"
             }
         },
         "Comick": {

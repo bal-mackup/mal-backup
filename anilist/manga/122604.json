@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7f1c253d-9557-4abc-b30b-929d7d8db45e": {
+                "id": 33726,
                 "identifier": "7f1c253d-9557-4abc-b30b-929d7d8db45e",
                 "image": "https://uploads.mangadex.org/covers/7f1c253d-9557-4abc-b30b-929d7d8db45e/a7e86b7a-82d8-41a5-8732-69627630134e.jpg",
                 "malId": 129187,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "august_9th_i_will_be_eaten_by_you": {
+                "id": 54814,
                 "identifier": "august_9th_i_will_be_eaten_by_you",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35540/cover.jpg",
                 "malId": 129187,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru": {
+                "id": 56965,
                 "identifier": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru",
                 "image": "https://temp.compsci88.com/cover/Hachigatsu-Kokonoka-Boku-wa-Kimi-ni-Kuwareru.jpg",
                 "malId": 129187,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jm986521": {
+                "id": 75644,
                 "identifier": "manga-jm986521",
                 "image": "https://avt.mkklcdnv6temp.com/10/g/22-1599497757.jpg",
                 "malId": 129187,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-jm986521"
             }
         },
-        "MangaFire": {
-            "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru.n3x2l": {
-                "identifier": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru.n3x2l",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d592e4162304eb255a8b004c5104c333.jpg",
-                "malId": 129187,
-                "aniId": 122604,
-                "page": "MangaFire",
-                "title": "August 9: I Will Be Eaten by You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru.n3x2l/"
-            },
-            "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareruu.n3x2l": {
-                "identifier": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareruu.n3x2l",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d592e4162304eb255a8b004c5104c333.jpg",
-                "malId": 129187,
-                "aniId": 122604,
-                "page": "MangaFire",
-                "title": "August 9: I Will Be Eaten by You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareruu.n3x2l/"
-            }
-        },
         "Weebcentral": {
             "01j76xye375crqc5e39j8gw01p": {
+                "id": 210523,
                 "identifier": "01j76xye375crqc5e39j8gw01p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE375CRQC5E39J8GW01P.jpg",
                 "malId": 129187,
@@ -86,6 +69,19 @@
                 "title": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE375CRQC5E39J8GW01P"
+            }
+        },
+        "MangaFire": {
+            "n3x2l": {
+                "id": 226233,
+                "identifier": "n3x2l",
+                "image": "https://static.mangafire.to/d687/i/d/d5/d592e4162304eb255a8b004c5104c333.jpg",
+                "malId": 129187,
+                "aniId": 122604,
+                "page": "MangaFire",
+                "title": "August 9: I Will Be Eaten by You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareruu.n3x2l"
             }
         },
         "Comick": {

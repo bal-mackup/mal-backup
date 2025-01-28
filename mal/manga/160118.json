@@ -6,30 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/284225.jpg",
     "Sites": {
-        "MangaFire": {
-            "absolute-necromancer.npwyl": {
-                "identifier": "absolute-necromancer.npwyl",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f186160e389ad6df989b0b36ffc6a5f6.jpg",
-                "malId": 160118,
-                "aniId": 166635,
-                "page": "MangaFire",
-                "title": "Absolute Necromancer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/absolute-necromancer.npwyl/"
-            },
-            "absolute-necromancerr.npwyl": {
-                "identifier": "absolute-necromancerr.npwyl",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f186160e389ad6df989b0b36ffc6a5f6.jpg",
-                "malId": 160118,
-                "aniId": 166635,
-                "page": "MangaFire",
-                "title": "Absolute Necromancer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/absolute-necromancerr.npwyl/"
-            }
-        },
         "MangaNato": {
             "manga-ti997291": {
+                "id": 164510,
                 "identifier": "manga-ti997291",
                 "image": "https://avt.mkklcdnv6temp.com/fld/48/w/15-1733309567-nw.webp",
                 "malId": 160118,
@@ -42,6 +21,7 @@
         },
         "Mangadex": {
             "afc7a390-fba7-425c-a866-8ba52e598599": {
+                "id": 164852,
                 "identifier": "afc7a390-fba7-425c-a866-8ba52e598599",
                 "image": "https://uploads.mangadex.org/covers/afc7a390-fba7-425c-a866-8ba52e598599/3043a333-729b-40fd-bd9d-e70041eca5fc.png",
                 "malId": 160118,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "all_master_necromancer": {
+                "id": 174751,
                 "identifier": "all_master_necromancer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45391/cover.jpg",
                 "malId": 160118,
@@ -62,6 +43,19 @@
                 "title": "All Master Necromancer",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/all_master_necromancer/"
+            }
+        },
+        "MangaFire": {
+            "npwyl": {
+                "id": 228096,
+                "identifier": "npwyl",
+                "image": "https://static.mangafire.to/58fb/i/f/f1/f186160e389ad6df989b0b36ffc6a5f6.jpg",
+                "malId": 160118,
+                "aniId": 166635,
+                "page": "MangaFire",
+                "title": "Absolute Necromancer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/absolute-necromancerr.npwyl"
             }
         },
         "Comick": {

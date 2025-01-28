@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ff3aebe7-6a15-45b5-9dc6-ddc1846564f1": {
+                "id": 22844,
                 "identifier": "ff3aebe7-6a15-45b5-9dc6-ddc1846564f1",
                 "image": "https://uploads.mangadex.org/covers/ff3aebe7-6a15-45b5-9dc6-ddc1846564f1/a0b03cc6-9ff9-4778-9567-9bd7f56a99c4.png",
                 "malId": 121003,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cj979792": {
+                "id": 83244,
                 "identifier": "manga-cj979792",
                 "image": "https://avt.mkklcdnv6temp.com/4/w/17-1583495439.jpg",
                 "malId": 121003,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-cj979792"
             }
         },
-        "MangaFire": {
-            "otome-bare.9oo3m": {
-                "identifier": "otome-bare.9oo3m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6ffa92315e6b78e6bf5969944ea89008.jpg",
-                "malId": 121003,
-                "aniId": 102139,
-                "page": "MangaFire",
-                "title": "Otome Bare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-bare.9oo3m/"
-            }
-        },
         "MangaFox": {
             "otome_bare": {
+                "id": 167330,
                 "identifier": "otome_bare",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27896/cover.jpg",
                 "malId": 121003,
@@ -52,6 +43,19 @@
                 "title": "Otome Bare",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/otome_bare/"
+            }
+        },
+        "MangaFire": {
+            "9oo3m": {
+                "id": 254456,
+                "identifier": "9oo3m",
+                "image": "https://static.mangafire.to/48eb/i/6/6f/6ffa92315e6b78e6bf5969944ea89008.jpg",
+                "malId": 121003,
+                "aniId": 102139,
+                "page": "MangaFire",
+                "title": "Otome Bare",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otome-baree.9oo3m"
             }
         },
         "Comick": {

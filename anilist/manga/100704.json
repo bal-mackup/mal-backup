@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b5846cf3-84d0-4953-9647-bef0cc5eb124": {
+                "id": 18746,
                 "identifier": "b5846cf3-84d0-4953-9647-bef0cc5eb124",
                 "image": "https://uploads.mangadex.org/covers/b5846cf3-84d0-4953-9647-bef0cc5eb124/1a27ca64-cdf7-4334-abbd-c0d65ae77c52.jpg",
                 "malId": 109910,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "life-lessons-with-uramichi-oniisan": {
+                "id": 61307,
                 "identifier": "life-lessons-with-uramichi-oniisan",
                 "image": "https://temp.compsci88.com/cover/Life-Lessons-with-Uramichi-Oniisan.jpg",
                 "malId": 109910,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bs978427": {
+                "id": 76871,
                 "identifier": "manga-bs978427",
                 "image": "https://avt.mkklcdnv6temp.com/10/e/16-1583493841.jpg",
                 "malId": 109910,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "uramichi_oniisan": {
+                "id": 82263,
                 "identifier": "uramichi_oniisan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26931/cover.jpg",
                 "malId": 109910,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/uramichi_oniisan/"
             }
         },
-        "MangaFire": {
-            "uramichi-oniisan.yq6m0": {
-                "identifier": "uramichi-oniisan.yq6m0",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f46d9c43fc6e5d1180fbb12b5e722044.jpg",
-                "malId": 109910,
-                "aniId": 100704,
-                "page": "MangaFire",
-                "title": "Life Lessons with Uramichi Oniisan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uramichi-oniisan.yq6m0/"
-            },
-            "uramichi-oniisann.yq6m0": {
-                "identifier": "uramichi-oniisann.yq6m0",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f46d9c43fc6e5d1180fbb12b5e722044.jpg",
-                "malId": 109910,
-                "aniId": 100704,
-                "page": "MangaFire",
-                "title": "Life Lessons with Uramichi Oniisan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uramichi-oniisann.yq6m0/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4f0rjk3w0vaa0c32k9": {
+                "id": 210191,
                 "identifier": "01j76xye4f0rjk3w0vaa0c32k9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4F0RJK3W0VAA0C32K9.jpg",
                 "malId": 109910,
@@ -86,6 +69,19 @@
                 "title": "Life Lessons with Uramichi Oniisan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4F0RJK3W0VAA0C32K9"
+            }
+        },
+        "MangaFire": {
+            "yq6m0": {
+                "id": 252545,
+                "identifier": "yq6m0",
+                "image": "https://static.mangafire.to/8794/i/f/f4/f46d9c43fc6e5d1180fbb12b5e722044.jpg",
+                "malId": 109910,
+                "aniId": 100704,
+                "page": "MangaFire",
+                "title": "Life Lessons with Uramichi Oniisan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uramichi-oniisann.yq6m0"
             }
         },
         "Comick": {

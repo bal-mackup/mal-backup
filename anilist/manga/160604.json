@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "270f205c-e9a6-4b24-b940-59d5c07829d1": {
+                "id": 121669,
                 "identifier": "270f205c-e9a6-4b24-b940-59d5c07829d1",
                 "image": "https://uploads.mangadex.org/covers/270f205c-e9a6-4b24-b940-59d5c07829d1/9430b5bb-1b28-46f3-9656-cc2cbab46505.jpg",
                 "malId": 155271,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-wf999788": {
+                "id": 177263,
                 "identifier": "manga-wf999788",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/f/16-1733316193-nw.webp",
                 "malId": 155271,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "gal-ni-yasashii-otaku-kun": {
+                "id": 177516,
                 "identifier": "gal-ni-yasashii-otaku-kun",
                 "image": "https://temp.compsci88.com/cover/Gal-ni-Yasashii-Otaku-kun.jpg",
                 "malId": 155271,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Gal-ni-Yasashii-Otaku-kun"
             }
         },
-        "MangaFire": {
-            "gal-ni-yasashii-otaku-kun.598zj": {
-                "identifier": "gal-ni-yasashii-otaku-kun.598zj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/03617cfeb6bbee66da7fa91667ae6513.jpg",
-                "malId": 155271,
-                "aniId": 160604,
-                "page": "MangaFire",
-                "title": "Gal ni Yasashii Otaku-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gal-ni-yasashii-otaku-kun.598zj/"
-            },
-            "gal-ni-yasashii-otaku-kunn.598zj": {
-                "identifier": "gal-ni-yasashii-otaku-kunn.598zj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/03617cfeb6bbee66da7fa91667ae6513.jpg",
-                "malId": 155271,
-                "aniId": 160604,
-                "page": "MangaFire",
-                "title": "Gal ni Yasashii Otaku-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gal-ni-yasashii-otaku-kunn.598zj/"
-            }
-        },
         "Weebcentral": {
             "01j76xygr6wt8nqh97prhxysx3": {
+                "id": 209662,
                 "identifier": "01j76xygr6wt8nqh97prhxysx3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGR6WT8NQH97PRHXYSX3.jpg",
                 "malId": 155271,
@@ -74,6 +56,19 @@
                 "title": "Gal ni Yasashii Otaku-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGR6WT8NQH97PRHXYSX3"
+            }
+        },
+        "MangaFire": {
+            "598zj": {
+                "id": 227132,
+                "identifier": "598zj",
+                "image": "https://static.mangafire.to/fade/i/0/03/03617cfeb6bbee66da7fa91667ae6513.jpg",
+                "malId": 155271,
+                "aniId": 160604,
+                "page": "MangaFire",
+                "title": "Gal ni Yasashii Otaku-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gal-ni-yasashii-otaku-kunn.598zj"
             }
         },
         "Comick": {

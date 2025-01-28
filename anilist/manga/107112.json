@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "188e4f34-a80c-4a91-b54e-69572e8ed4d5": {
+                "id": 25784,
                 "identifier": "188e4f34-a80c-4a91-b54e-69572e8ed4d5",
                 "image": "https://uploads.mangadex.org/covers/188e4f34-a80c-4a91-b54e-69572e8ed4d5/43f01b64-35f1-4938-afa5-4767f6401294.jpg",
                 "malId": 106615,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "shiro_seijo_to_kuro_bokushi": {
+                "id": 71002,
                 "identifier": "shiro_seijo_to_kuro_bokushi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29611/cover.jpg",
                 "malId": 106615,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dk980593": {
+                "id": 78401,
                 "identifier": "manga-dk980593",
                 "image": "https://avt.mkklcdnv6temp.com/34/o/17-1583496498.jpg",
                 "malId": 106615,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "saint-cecilia-pastor-lawrence": {
+                "id": 79927,
                 "identifier": "saint-cecilia-pastor-lawrence",
                 "image": "https://temp.compsci88.com/cover/Saint-Cecilia-Pastor-Lawrence.jpg",
                 "malId": 106615,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Saint-Cecilia-Pastor-Lawrence"
             }
         },
-        "MangaFire": {
-            "shiro-seijo-to-kuro-bokushi.oj95y": {
-                "identifier": "shiro-seijo-to-kuro-bokushi.oj95y",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9235d66053c601f49aab463da5de209.jpg",
-                "malId": 106615,
-                "aniId": 107112,
-                "page": "MangaFire",
-                "title": "Saint Cecilia and Pastor Lawrence",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shiro-seijo-to-kuro-bokushi.oj95y/"
-            },
-            "shiro-seijo-to-kuro-bokushii.oj95y": {
-                "identifier": "shiro-seijo-to-kuro-bokushii.oj95y",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9235d66053c601f49aab463da5de209.jpg",
-                "malId": 106615,
-                "aniId": 107112,
-                "page": "MangaFire",
-                "title": "Saint Cecilia and Pastor Lawrence",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shiro-seijo-to-kuro-bokushii.oj95y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyev37bhfsg2904p8441w": {
+                "id": 207930,
                 "identifier": "01j76xyev37bhfsg2904p8441w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEV37BHFSG2904P8441W.jpg",
                 "malId": 106615,
@@ -86,6 +69,19 @@
                 "title": "Saint Cecilia & Pastor Lawrence",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEV37BHFSG2904P8441W"
+            }
+        },
+        "MangaFire": {
+            "oj95y": {
+                "id": 225842,
+                "identifier": "oj95y",
+                "image": "https://static.mangafire.to/8d81/i/f/f9/f9235d66053c601f49aab463da5de209.jpg",
+                "malId": 106615,
+                "aniId": 107112,
+                "page": "MangaFire",
+                "title": "Saint Cecilia and Pastor Lawrence",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shiro-seijo-to-kuro-bokushii.oj95y"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "92303cf4-2464-48fb-9ecd-7b0d66322a89": {
+                "id": 30767,
                 "identifier": "92303cf4-2464-48fb-9ecd-7b0d66322a89",
                 "image": "https://uploads.mangadex.org/covers/92303cf4-2464-48fb-9ecd-7b0d66322a89/f319a821-2382-441b-8755-9913023ce396.jpg",
                 "malId": 121887,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "blackguard": {
+                "id": 96919,
                 "identifier": "blackguard",
                 "image": "https://temp.compsci88.com/cover/Blackguard.jpg",
                 "malId": 121887,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Blackguard"
             }
         },
-        "MangaFire": {
-            "black-guard.1rpvp": {
-                "identifier": "black-guard.1rpvp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ccbb9de4088439606c7f54c1a16b036.jpg",
-                "malId": 121887,
-                "aniId": 111982,
-                "page": "MangaFire",
-                "title": "Blackguard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-guard.1rpvp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfax67ytgzjf8d2mk4gm": {
+                "id": 211057,
                 "identifier": "01j76xyfax67ytgzjf8d2mk4gm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFAX67YTGZJF8D2MK4GM.jpg",
                 "malId": 121887,
@@ -52,6 +43,19 @@
                 "title": "Blackguard",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFAX67YTGZJF8D2MK4GM"
+            }
+        },
+        "MangaFire": {
+            "1rpvp": {
+                "id": 262412,
+                "identifier": "1rpvp",
+                "image": "https://static.mangafire.to/5530/i/7/7c/7ccbb9de4088439606c7f54c1a16b036.jpg",
+                "malId": 121887,
+                "aniId": 111982,
+                "page": "MangaFire",
+                "title": "Blackguard",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/black-guardd.1rpvp"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f2fef554-93f3-4340-af6c-cd4123168267": {
+                "id": 62812,
                 "identifier": "f2fef554-93f3-4340-af6c-cd4123168267",
                 "image": "https://uploads.mangadex.org/covers/f2fef554-93f3-4340-af6c-cd4123168267/62734f78-2e2a-4188-8af7-70321d94a776.jpg",
                 "malId": 133991,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nu990929": {
+                "id": 106061,
                 "identifier": "manga-nu990929",
                 "image": "https://avt.mkklcdnv6temp.com/44/o/25-1654079534.jpg",
                 "malId": 133991,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "shujinkou-janai": {
+                "id": 123919,
                 "identifier": "shujinkou-janai",
                 "image": "https://temp.compsci88.com/cover/Shujinkou-Janai.jpg",
                 "malId": 133991,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Shujinkou-Janai"
             }
         },
-        "MangaFire": {
-            "shujinkou-janai.wo19k": {
-                "identifier": "shujinkou-janai.wo19k",
-                "image": "https://static.mangafire.to/3b2d5/i/5/56/561535eb6d8791b9f8a4ade150487467.jpg",
-                "malId": 133991,
-                "aniId": 126634,
-                "page": "MangaFire",
-                "title": "I'm Not the Hero!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shujinkou-janai.wo19k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfya6qjjzp93bsk22jg3": {
+                "id": 206580,
                 "identifier": "01j76xyfya6qjjzp93bsk22jg3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFYA6QJJZP93BSK22JG3.jpg",
                 "malId": 133991,
@@ -64,6 +56,19 @@
                 "title": "Shujinkou Janai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFYA6QJJZP93BSK22JG3"
+            }
+        },
+        "MangaFire": {
+            "wo19k": {
+                "id": 257169,
+                "identifier": "wo19k",
+                "image": "https://static.mangafire.to/be89/i/5/56/561535eb6d8791b9f8a4ade150487467.jpg",
+                "malId": 133991,
+                "aniId": 126634,
+                "page": "MangaFire",
+                "title": "I'm Not the Hero!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shujinkou-janaii.wo19k"
             }
         },
         "Comick": {

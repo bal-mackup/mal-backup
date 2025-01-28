@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e2707b8-b723-41de-a608-4e4d9ce2f99c": {
+                "id": 32950,
                 "identifier": "9e2707b8-b723-41de-a608-4e4d9ce2f99c",
                 "image": "https://uploads.mangadex.org/covers/9e2707b8-b723-41de-a608-4e4d9ce2f99c/8924ef69-be7b-4cd5-a500-d79091836dcb.jpg",
                 "malId": 124139,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tales-of-reincarnation-in-maydare-the-worlds-worst-witch": {
+                "id": 61437,
                 "identifier": "tales-of-reincarnation-in-maydare-the-worlds-worst-witch",
                 "image": "https://temp.compsci88.com/cover/Tales-of-Reincarnation-in-Maydare-The-Worlds-Worst-Witch.jpg",
                 "malId": 124139,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-id985360": {
+                "id": 73708,
                 "identifier": "manga-id985360",
                 "image": "https://avt.mkklcdnv6temp.com/12/h/21-1589305264.jpg",
                 "malId": 124139,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "maydare_tensei_monogatari": {
+                "id": 81232,
                 "identifier": "maydare_tensei_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34225/cover.jpg",
                 "malId": 124139,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/maydare_tensei_monogatari/"
             }
         },
-        "MangaFire": {
-            "tales-of-reincarnation-in-maydare.8033o": {
-                "identifier": "tales-of-reincarnation-in-maydare.8033o",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c7cf915b091e36830c08754a0ae09c5.jpg",
-                "malId": 124139,
-                "aniId": 115979,
-                "page": "MangaFire",
-                "title": "Tales of Reincarnation in Maydare: The World's Worst Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tales-of-reincarnation-in-maydare.8033o/"
-            },
-            "maydare-tensei-monogatari-kono-sekai-de-ichiban-warui-majo.8033o": {
-                "identifier": "maydare-tensei-monogatari-kono-sekai-de-ichiban-warui-majo.8033o",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c7cf915b091e36830c08754a0ae09c5.jpg",
-                "malId": 124139,
-                "aniId": 115979,
-                "page": "MangaFire",
-                "title": "Tales of Reincarnation in Maydare: The World's Worst Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maydare-tensei-monogatari-kono-sekai-de-ichiban-warui-majo.8033o/"
-            },
-            "tales-of-reincarnation-in-maydaree.8033o": {
-                "identifier": "tales-of-reincarnation-in-maydaree.8033o",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c7cf915b091e36830c08754a0ae09c5.jpg",
-                "malId": 124139,
-                "aniId": 115979,
-                "page": "MangaFire",
-                "title": "Tales of Reincarnation in Maydare: The World's Worst Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tales-of-reincarnation-in-maydaree.8033o/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzv52ke4v1d4wt2j43f": {
+                "id": 214396,
                 "identifier": "01j76xydzv52ke4v1d4wt2j43f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZV52KE4V1D4WT2J43F.jpg",
                 "malId": 124139,
@@ -96,6 +69,19 @@
                 "title": "Tales of Reincarnation in Maydare - This World's Worst Witch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZV52KE4V1D4WT2J43F"
+            }
+        },
+        "MangaFire": {
+            "8033o": {
+                "id": 231549,
+                "identifier": "8033o",
+                "image": "https://static.mangafire.to/c90e/i/3/3c/3c7cf915b091e36830c08754a0ae09c5.jpg",
+                "malId": 124139,
+                "aniId": 115979,
+                "page": "MangaFire",
+                "title": "Tales of Reincarnation in Maydare: The World's Worst Witch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tales-of-reincarnation-in-maydaree.8033o"
             }
         },
         "Comick": {

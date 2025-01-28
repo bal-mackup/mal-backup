@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "140779d9-573f-4ef9-b5fa-de8ec510b35a": {
+                "id": 10709,
                 "identifier": "140779d9-573f-4ef9-b5fa-de8ec510b35a",
                 "image": "https://uploads.mangadex.org/covers/140779d9-573f-4ef9-b5fa-de8ec510b35a/c536d0e9-f4b1-4665-bda6-6291cc7420fd.png",
                 "malId": 70391,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "deathtopia": {
+                "id": 56290,
                 "identifier": "deathtopia",
                 "image": "https://temp.compsci88.com/cover/Deathtopia.jpg",
                 "malId": 70391,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "deathtopia": {
+                "id": 64839,
                 "identifier": "deathtopia",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13861/cover.jpg",
                 "malId": 70391,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kl952394": {
+                "id": 78296,
                 "identifier": "manga-kl952394",
                 "image": "https://avt.mkklcdnv6temp.com/37/t/1-1583465180.jpg",
                 "malId": 70391,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kl952394"
             }
         },
-        "MangaFire": {
-            "deathtopia.10jv": {
-                "identifier": "deathtopia.10jv",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3005fe4643782f372b7ca74c05d6696d.jpg",
-                "malId": 70391,
-                "aniId": 85764,
-                "page": "MangaFire",
-                "title": "Deathtopia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/deathtopia.10jv/"
-            },
-            "deathtopiaa.10jv": {
-                "identifier": "deathtopiaa.10jv",
-                "image": "https://static.mangafire.to/7cca/i/3/30/3005fe4643782f372b7ca74c05d6696d.jpg",
-                "malId": 70391,
-                "aniId": 85764,
-                "page": "MangaFire",
-                "title": "Deathtopia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/deathtopiaa.10jv/"
-            },
-            "10jv": {
-                "identifier": "10jv",
-                "image": "https://static.mangafire.to/7cca/i/3/30/3005fe4643782f372b7ca74c05d6696d.jpg",
-                "malId": 70391,
-                "aniId": 85764,
-                "page": "MangaFire",
-                "title": "Deathtopia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/deathtopiaa.10jv"
-            }
-        },
         "Weebcentral": {
             "01j76xyaavwgwaz88q9pyfwbxp": {
+                "id": 213534,
                 "identifier": "01j76xyaavwgwaz88q9pyfwbxp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAAVWGWAZ88Q9PYFWBXP.jpg",
                 "malId": 70391,
@@ -96,6 +69,19 @@
                 "title": "Deathtopia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAAVWGWAZ88Q9PYFWBXP"
+            }
+        },
+        "MangaFire": {
+            "10jv": {
+                "id": 223463,
+                "identifier": "10jv",
+                "image": "https://static.mangafire.to/7cca/i/3/30/3005fe4643782f372b7ca74c05d6696d.jpg",
+                "malId": 70391,
+                "aniId": 85764,
+                "page": "MangaFire",
+                "title": "Deathtopia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/deathtopiaa.10jv"
             }
         },
         "Comick": {

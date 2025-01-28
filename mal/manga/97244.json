@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2c2a45bc-42c8-4d62-995c-bd5523642ba8": {
+                "id": 13545,
                 "identifier": "2c2a45bc-42c8-4d62-995c-bd5523642ba8",
                 "image": "https://uploads.mangadex.org/covers/2c2a45bc-42c8-4d62-995c-bd5523642ba8/5fa4fa9d-5e21-46ae-994c-85783532e66a.png",
                 "malId": 97244,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/2c2a45bc-42c8-4d62-995c-bd5523642ba8"
             },
             "14459947-6bd7-4be2-a1c5-f9994c3e5b6a": {
+                "id": 29214,
                 "identifier": "14459947-6bd7-4be2-a1c5-f9994c3e5b6a",
                 "image": "https://uploads.mangadex.org/covers/14459947-6bd7-4be2-a1c5-f9994c3e5b6a/1e4882de-67ce-4afd-a9d4-7396e4ae6b5b.jpg",
                 "malId": 97244,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "shimanami-tasogare": {
+                "id": 56120,
                 "identifier": "shimanami-tasogare",
                 "image": "https://temp.compsci88.com/cover/Shimanami-Tasogare.jpg",
                 "malId": 97244,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-tl970568": {
+                "id": 85269,
                 "identifier": "manga-tl970568",
                 "image": "https://avt.mkklcdnv6temp.com/30/c/13-1583488817.jpg",
                 "malId": 97244,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "shimanami_tasogare": {
+                "id": 94321,
                 "identifier": "shimanami_tasogare",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19283/cover.jpg",
                 "malId": 97244,
@@ -64,40 +69,9 @@
                 "url": "https://fanfox.net/manga/shimanami_tasogare/"
             }
         },
-        "MangaFire": {
-            "shimanami-tasogare.w1qy4": {
-                "identifier": "shimanami-tasogare.w1qy4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d4eb90a638387dd66e631f63faa6cf2f.jpg",
-                "malId": 97244,
-                "aniId": 87208,
-                "page": "MangaFire",
-                "title": "Our Dreams at Dusk: Shimanami Tasogare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimanami-tasogare.w1qy4/"
-            },
-            "shimanami-tasogaree.w1qy4": {
-                "identifier": "shimanami-tasogaree.w1qy4",
-                "image": "https://static.mangafire.to/b64b/i/d/d4/d4eb90a638387dd66e631f63faa6cf2f.jpg",
-                "malId": 97244,
-                "aniId": 87208,
-                "page": "MangaFire",
-                "title": "Our Dreams at Dusk: Shimanami Tasogare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimanami-tasogaree.w1qy4/"
-            },
-            "w1qy4": {
-                "identifier": "w1qy4",
-                "image": "https://static.mangafire.to/b64b/i/d/d4/d4eb90a638387dd66e631f63faa6cf2f.jpg",
-                "malId": 97244,
-                "aniId": 87208,
-                "page": "MangaFire",
-                "title": "Our Dreams at Dusk: Shimanami Tasogare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimanami-tasogaree.w1qy4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc3smrx0mjmn3kt8sna0": {
+                "id": 207975,
                 "identifier": "01j76xyc3smrx0mjmn3kt8sna0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC3SMRX0MJMN3KT8SNA0.jpg",
                 "malId": 97244,
@@ -106,6 +80,19 @@
                 "title": "Our Dreams at Dusk",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC3SMRX0MJMN3KT8SNA0"
+            }
+        },
+        "MangaFire": {
+            "w1qy4": {
+                "id": 223696,
+                "identifier": "w1qy4",
+                "image": "https://static.mangafire.to/b64b/i/d/d4/d4eb90a638387dd66e631f63faa6cf2f.jpg",
+                "malId": 97244,
+                "aniId": 87208,
+                "page": "MangaFire",
+                "title": "Our Dreams at Dusk: Shimanami Tasogare",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shimanami-tasogaree.w1qy4"
             }
         },
         "Comick": {

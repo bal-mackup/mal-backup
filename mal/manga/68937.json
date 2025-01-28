@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7b5073b9-bf5a-4501-bd83-f4fc8d956a49": {
+                "id": 10193,
                 "identifier": "7b5073b9-bf5a-4501-bd83-f4fc8d956a49",
                 "image": "https://uploads.mangadex.org/covers/7b5073b9-bf5a-4501-bd83-f4fc8d956a49/f0c9c23c-f13d-4798-9f94-a19ab387df5a.jpg",
                 "malId": 68937,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "merry-bad-end": {
+                "id": 74532,
                 "identifier": "merry-bad-end",
                 "image": "https://temp.compsci88.com/cover/Merry-Bad-End.jpg",
                 "malId": 68937,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Merry-Bad-End"
             }
         },
-        "MangaFire": {
-            "merry-bad-end.9xv8": {
-                "identifier": "merry-bad-end.9xv8",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/820c2dcaebf46d1bccfabef9b14486c2.jpg",
-                "malId": 68937,
-                "aniId": 85923,
-                "page": "MangaFire",
-                "title": "Merry Bad End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/merry-bad-end.9xv8/"
-            },
-            "9xv8": {
-                "identifier": "9xv8",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/820c2dcaebf46d1bccfabef9b14486c2.jpg",
-                "malId": 68937,
-                "aniId": 85923,
-                "page": "MangaFire",
-                "title": "Merry Bad End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/merry-bad-end.9xv8/"
-            }
-        },
         "Weebcentral": {
             "01j76xya4eyk5x9z0cgfg1xkr1": {
+                "id": 207312,
                 "identifier": "01j76xya4eyk5x9z0cgfg1xkr1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA4EYK5X9Z0CGFG1XKR1.jpg",
                 "malId": 68937,
@@ -62,6 +43,19 @@
                 "title": "Merry Bad End",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA4EYK5X9Z0CGFG1XKR1"
+            }
+        },
+        "MangaFire": {
+            "9xv8": {
+                "id": 250031,
+                "identifier": "9xv8",
+                "image": "https://static.mangafire.to/6c45/i/8/82/820c2dcaebf46d1bccfabef9b14486c2.jpg",
+                "malId": 68937,
+                "aniId": 85923,
+                "page": "MangaFire",
+                "title": "Merry Bad End",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/merry-bad-endd.9xv8"
             }
         },
         "Comick": {

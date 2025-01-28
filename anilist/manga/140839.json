@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "653000fb-1edd-4e05-9d44-36358708a5e9": {
+                "id": 111630,
                 "identifier": "653000fb-1edd-4e05-9d44-36358708a5e9",
                 "image": "https://uploads.mangadex.org/covers/653000fb-1edd-4e05-9d44-36358708a5e9/019b4e5a-acc2-43cd-8d9a-2519b5156d1e.jpg",
                 "malId": 143266,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ot991876": {
+                "id": 111778,
                 "identifier": "manga-ot991876",
                 "image": "https://avt.mkklcdnv6temp.com/34/x/26-1659416315.jpg",
                 "malId": 143266,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "me-and-my-beast-boss": {
+                "id": 159504,
                 "identifier": "me-and-my-beast-boss",
                 "image": "https://temp.compsci88.com/cover/Me-and-My-Beast-Boss.jpg",
                 "malId": 143266,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Me-and-My-Beast-Boss"
             }
         },
-        "MangaFire": {
-            "kemono-joushi-ni-jitsu-wa-mitomerarete-ita-hanashi.ykl7p": {
-                "identifier": "kemono-joushi-ni-jitsu-wa-mitomerarete-ita-hanashi.ykl7p",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8a/8a32c35a9aef3bc12119a96c81f3bd8b.jpg",
-                "malId": 143266,
-                "aniId": 140839,
-                "page": "MangaFire",
-                "title": "Kemono Joushi ni Jitsu wa Mitomerarete Ita Hanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kemono-joushi-ni-jitsu-wa-mitomerarete-ita-hanashi.ykl7p/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg6zvd2pkt6cdz1ym5nj": {
+                "id": 206608,
                 "identifier": "01j76xyg6zvd2pkt6cdz1ym5nj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6ZVD2PKT6CDZ1YM5NJ.jpg",
                 "malId": 143266,
@@ -64,6 +56,19 @@
                 "title": "Me and My Beast Boss",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6ZVD2PKT6CDZ1YM5NJ"
+            }
+        },
+        "MangaFire": {
+            "ykl7p": {
+                "id": 229157,
+                "identifier": "ykl7p",
+                "image": "https://static.mangafire.to/46ba/i/8/8a/8a32c35a9aef3bc12119a96c81f3bd8b.jpg",
+                "malId": 143266,
+                "aniId": 140839,
+                "page": "MangaFire",
+                "title": "Kemono Joushi ni Jitsu wa Mitomerarete Ita Hanashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kemono-joushi-ni-jitsu-wa-mitomerarete-ita-hanashii.ykl7p"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "df1a09fe-d773-4755-90ae-ab34db033769": {
+                "id": 125196,
                 "identifier": "df1a09fe-d773-4755-90ae-ab34db033769",
                 "image": "https://uploads.mangadex.org/covers/df1a09fe-d773-4755-90ae-ab34db033769/f2ebfe8d-06ee-40f1-80f2-f8f9703b2cc8.jpg",
                 "malId": 156414,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jinrui-shoku-blight-of-man": {
+                "id": 128662,
                 "identifier": "jinrui-shoku-blight-of-man",
                 "image": "https://temp.compsci88.com/cover/Jinrui-Shoku-Blight-of-Man.jpg",
                 "malId": 156414,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Jinrui-Shoku-Blight-of-Man"
             }
         },
-        "MangaFire": {
-            "jinruishoku.6vmpp": {
-                "identifier": "jinruishoku.6vmpp",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd62b8974101c8c3732c603ecc5f5b52.jpg",
-                "malId": 156414,
-                "aniId": 162322,
-                "page": "MangaFire",
-                "title": "Jinrui-Shoku: Blight of Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinruishoku.6vmpp/"
-            },
-            "jinruishokuu.6vmpp": {
-                "identifier": "jinruishokuu.6vmpp",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd62b8974101c8c3732c603ecc5f5b52.jpg",
-                "malId": 156414,
-                "aniId": 162322,
-                "page": "MangaFire",
-                "title": "Jinrui-Shoku: Blight of Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinruishokuu.6vmpp/"
-            }
-        },
         "MangaNato": {
             "manga-rl995194": {
+                "id": 157285,
                 "identifier": "manga-rl995194",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/w/14-1733304731-nw.webp",
                 "malId": 156414,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg1j50g1xbsef8xjjb02": {
+                "id": 211039,
                 "identifier": "01j76xyg1j50g1xbsef8xjjb02",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1J50G1XBSEF8XJJB02.jpg",
                 "malId": 156414,
@@ -74,6 +56,19 @@
                 "title": "Jinrui-Shoku: Blight of Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1J50G1XBSEF8XJJB02"
+            }
+        },
+        "MangaFire": {
+            "6vmpp": {
+                "id": 227934,
+                "identifier": "6vmpp",
+                "image": "https://static.mangafire.to/bfc5/i/c/cd/cd62b8974101c8c3732c603ecc5f5b52.jpg",
+                "malId": 156414,
+                "aniId": 162322,
+                "page": "MangaFire",
+                "title": "Jinrui-Shoku: Blight of Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jinruishokuu.6vmpp"
             }
         },
         "Comick": {

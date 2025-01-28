@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b5b21ca1-bba5-4b9a-8cd1-6248f731650b": {
+                "id": 25785,
                 "identifier": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
                 "image": "https://uploads.mangadex.org/covers/b5b21ca1-bba5-4b9a-8cd1-6248f731650b/96e03155-a80f-46f1-a652-3c50f9bdaec3.jpg",
                 "malId": 110485,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/b5b21ca1-bba5-4b9a-8cd1-6248f731650b"
             },
             "f60fd694-43af-490a-a744-d01ccfad5261": {
+                "id": 173507,
                 "identifier": "f60fd694-43af-490a-a744-d01ccfad5261",
                 "image": "https://uploads.mangadex.org/covers/f60fd694-43af-490a-a744-d01ccfad5261/9afaf83a-66e2-4b6e-a0f6-14ce3e608405.jpg",
                 "malId": 110485,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "shuumatsu-no-valkyrie": {
+                "id": 55011,
                 "identifier": "shuumatsu-no-valkyrie",
                 "image": "https://temp.compsci88.com/cover/Shuumatsu-No-Valkyrie.jpg",
                 "malId": 110485,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "shuumatsu_no_walkure": {
+                "id": 55412,
                 "identifier": "shuumatsu_no_walkure",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29612/cover.jpg",
                 "malId": 110485,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ds980701": {
+                "id": 72793,
                 "identifier": "manga-ds980701",
                 "image": "https://avt.mkklcdnv6temp.com/38/p/17-1583496655.jpg",
                 "malId": 110485,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ds980701"
             }
         },
-        "MangaFire": {
-            "record-of-ragnarok.n300k": {
-                "identifier": "record-of-ragnarok.n300k",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e24ec808a95d772c3f8569f3420babf6.jpg",
-                "malId": 110485,
-                "aniId": 107098,
-                "page": "MangaFire",
-                "title": "Record of Ragnarok",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/record-of-ragnarok.n300k/"
-            },
-            "record-of-ragnarokk.n300k": {
-                "identifier": "record-of-ragnarokk.n300k",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e24ec808a95d772c3f8569f3420babf6.jpg",
-                "malId": 110485,
-                "aniId": 107098,
-                "page": "MangaFire",
-                "title": "Record of Ragnarok",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/record-of-ragnarokk.n300k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyct0zcvy2swjwkv14dmt": {
+                "id": 213566,
                 "identifier": "01j76xyct0zcvy2swjwkv14dmt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCT0ZCVY2SWJWKV14DMT.jpg",
                 "malId": 110485,
@@ -96,6 +80,19 @@
                 "title": "Record of Ragnarok",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCT0ZCVY2SWJWKV14DMT"
+            }
+        },
+        "MangaFire": {
+            "n300k": {
+                "id": 228268,
+                "identifier": "n300k",
+                "image": "https://static.mangafire.to/e89d/i/e/e2/e24ec808a95d772c3f8569f3420babf6.jpg",
+                "malId": 110485,
+                "aniId": 107098,
+                "page": "MangaFire",
+                "title": "Record of Ragnarok",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/record-of-ragnarokk.n300k"
             }
         },
         "Comick": {

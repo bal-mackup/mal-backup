@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0ce73a33-9607-405f-8003-7cf73623fad4": {
+                "id": 17953,
                 "identifier": "0ce73a33-9607-405f-8003-7cf73623fad4",
                 "image": "https://uploads.mangadex.org/covers/0ce73a33-9607-405f-8003-7cf73623fad4/28b98cc4-6d1b-410d-a7a7-fae8924611ca.jpg",
                 "malId": 118777,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-zw977079": {
+                "id": 91555,
                 "identifier": "manga-zw977079",
                 "image": "https://avt.mkklcdnv6temp.com/fld/32/p/8-1732789195-nw.webp",
                 "malId": 118777,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-zw977079"
             }
         },
-        "MangaFire": {
-            "shaman-girl.5273j": {
-                "identifier": "shaman-girl.5273j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f6cef9a2ebec4b4dbce811842b4be77.jpg",
-                "malId": 118777,
-                "aniId": 111652,
-                "page": "MangaFire",
-                "title": "Shaman Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shaman-girl.5273j/"
-            }
-        },
         "MangaFox": {
             "shaman_girl": {
+                "id": 222316,
                 "identifier": "shaman_girl",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25821/cover.jpg",
                 "malId": 118777,
@@ -52,6 +43,19 @@
                 "title": "Shaman Girl",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/shaman_girl/"
+            }
+        },
+        "MangaFire": {
+            "5273j": {
+                "id": 245747,
+                "identifier": "5273j",
+                "image": "https://static.mangafire.to/e013/i/7/7f/7f6cef9a2ebec4b4dbce811842b4be77.jpg",
+                "malId": 118777,
+                "aniId": 111652,
+                "page": "MangaFire",
+                "title": "Shaman Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shaman-girll.5273j"
             }
         },
         "Comick": {

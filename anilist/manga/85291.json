@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d5c645dc-5244-412e-96ff-f34c4e280841": {
+                "id": 10123,
                 "identifier": "d5c645dc-5244-412e-96ff-f34c4e280841",
                 "image": "https://uploads.mangadex.org/covers/d5c645dc-5244-412e-96ff-f34c4e280841/7d7cb8bb-59df-4d05-9aad-de92a98e59e5.jpg",
                 "malId": 68147,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "daikusei-kuuki-heishidan": {
+                "id": 75562,
                 "identifier": "daikusei-kuuki-heishidan",
                 "image": "https://temp.compsci88.com/cover/Daikusei-Kuuki-Heishidan.jpg",
                 "malId": 68147,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Daikusei-Kuuki-Heishidan"
             }
         },
-        "MangaFire": {
-            "daikusei-kuuki-heishidan.v1o7": {
-                "identifier": "daikusei-kuuki-heishidan.v1o7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16139f681769c9083a6dd951cfabe557.jpg",
-                "malId": 68147,
-                "aniId": 85291,
-                "page": "MangaFire",
-                "title": "Daikusei Kuuki Heishidan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daikusei-kuuki-heishidan.v1o7/"
-            },
-            "v1o7": {
-                "identifier": "v1o7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16139f681769c9083a6dd951cfabe557.jpg",
-                "malId": 68147,
-                "aniId": 85291,
-                "page": "MangaFire",
-                "title": "Daikusei Kuuki Heishidan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daikusei-kuuki-heishidan.v1o7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaartw84dfxbxqw7b84k": {
+                "id": 207517,
                 "identifier": "01j76xyaartw84dfxbxqw7b84k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAARTW84DFXBXQW7B84K.jpg",
                 "malId": 68147,
@@ -62,6 +43,19 @@
                 "title": "Daikusei Kuuki Heishidan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAARTW84DFXBXQW7B84K"
+            }
+        },
+        "MangaFire": {
+            "v1o7": {
+                "id": 258721,
+                "identifier": "v1o7",
+                "image": "https://static.mangafire.to/544a/i/1/16/16139f681769c9083a6dd951cfabe557.jpg",
+                "malId": 68147,
+                "aniId": 85291,
+                "page": "MangaFire",
+                "title": "Daikusei Kuuki Heishidan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/daikusei-kuuki-heishidann.v1o7"
             }
         },
         "Comick": {

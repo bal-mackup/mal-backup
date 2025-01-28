@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "972ecf6c-d846-4203-937d-b497bfa23cf5": {
+                "id": 27653,
                 "identifier": "972ecf6c-d846-4203-937d-b497bfa23cf5",
                 "image": "https://uploads.mangadex.org/covers/972ecf6c-d846-4203-937d-b497bfa23cf5/618edd9a-4c9b-4ce1-a4ee-d377cb91d40a.jpg",
                 "malId": 148155,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-master-the-wolf-queen": {
+                "id": 70558,
                 "identifier": "my-master-the-wolf-queen",
                 "image": "https://temp.compsci88.com/cover/My-Master-the-Wolf-Queen.jpg",
                 "malId": 148155,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "my_lord_the_wolf_queen": {
+                "id": 99991,
                 "identifier": "my_lord_the_wolf_queen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30387/cover.jpg",
                 "malId": 148155,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/my_lord_the_wolf_queen/"
             }
         },
-        "MangaFire": {
-            "my-master-the-wolf-queen.3rno6": {
-                "identifier": "my-master-the-wolf-queen.3rno6",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2df63ce90002e27748874ec62979819.jpg",
-                "malId": 148155,
-                "aniId": 109437,
-                "page": "MangaFire",
-                "title": "My Master, the Wolf Queen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-master-the-wolf-queen.3rno6/"
-            },
-            "my-master-the-wolf-queenn.3rno6": {
-                "identifier": "my-master-the-wolf-queenn.3rno6",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2df63ce90002e27748874ec62979819.jpg",
-                "malId": 148155,
-                "aniId": 109437,
-                "page": "MangaFire",
-                "title": "My Master, the Wolf Queen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-master-the-wolf-queenn.3rno6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyepctd9ehy9xnwc42n6g": {
+                "id": 211248,
                 "identifier": "01j76xyepctd9ehy9xnwc42n6g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPCTD9EHY9XNWC42N6G.jpg",
                 "malId": 148155,
@@ -74,6 +56,19 @@
                 "title": "My Master, the Wolf Queen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPCTD9EHY9XNWC42N6G"
+            }
+        },
+        "MangaFire": {
+            "3rno6": {
+                "id": 224700,
+                "identifier": "3rno6",
+                "image": "https://static.mangafire.to/d82b/i/a/a2/a2df63ce90002e27748874ec62979819.jpg",
+                "malId": 148155,
+                "aniId": 109437,
+                "page": "MangaFire",
+                "title": "My Master, the Wolf Queen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-master-the-wolf-queenn.3rno6"
             }
         },
         "Comick": {

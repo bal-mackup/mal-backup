@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "994dfcd9-0449-47a7-ac1e-0efff9b0fe54": {
+                "id": 29742,
                 "identifier": "994dfcd9-0449-47a7-ac1e-0efff9b0fe54",
                 "image": "https://uploads.mangadex.org/covers/994dfcd9-0449-47a7-ac1e-0efff9b0fe54/7b496b62-d160-4979-a1c6-2c71f95a20f4.jpg",
                 "malId": 129492,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tyra_cera": {
+                "id": 81203,
                 "identifier": "tyra_cera",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31059/cover.jpg",
                 "malId": 129492,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fc983111": {
+                "id": 95620,
                 "identifier": "manga-fc983111",
                 "image": "https://avt.mkklcdnv6temp.com/fld/20/q/10-1732799212-nw.webp",
                 "malId": 129492,
@@ -43,15 +46,27 @@
             }
         },
         "MangaFire": {
-            "tyra-cera.9owv8": {
-                "identifier": "tyra-cera.9owv8",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81e3e81ff8ad84fd418ceba8ab2ede2f.jpg",
+            "9owv8": {
+                "id": 244846,
+                "identifier": "9owv8",
+                "image": "https://static.mangafire.to/f945/i/8/81/81e3e81ff8ad84fd418ceba8ab2ede2f.jpg",
                 "malId": 129492,
                 "aniId": 110809,
                 "page": "MangaFire",
                 "title": "Tyrannosaurus & Triceratops",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/tyra-cera.9owv8/"
+                "url": "https://mangafire.to/manga/tyra-ceraa.9owv8"
+            }
+        },
+        "Comick": {
+            "FshRsy5A": {
+                "identifier": "FshRsy5A",
+                "malId": 129492,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Tyra & Cera",
+                "url": "https://comick.io/comic/tyra-and-cera",
+                "aniId": 110809
             }
         },
         "MangaReader": {

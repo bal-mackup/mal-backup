@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d1874a5b-9397-41ee-9289-415e975b53bd": {
+                "id": 28185,
                 "identifier": "d1874a5b-9397-41ee-9289-415e975b53bd",
                 "image": "https://uploads.mangadex.org/covers/d1874a5b-9397-41ee-9289-415e975b53bd/d809e2ed-78f6-4261-befe-74e020723201.jpg",
                 "malId": 119296,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ed981812": {
+                "id": 77967,
                 "identifier": "manga-ed981812",
                 "image": "https://avt.mkklcdnv6temp.com/28/u/18-1583498197.jpg",
                 "malId": 119296,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ed981812"
             }
         },
-        "MangaFire": {
-            "mahouka-koukou-no-rettousei-koto-nairan-hen.llz6m": {
-                "identifier": "mahouka-koukou-no-rettousei-koto-nairan-hen.llz6m",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/357455aba00c07c1f8a4f1a707004063.jpg",
-                "malId": 119296,
-                "aniId": 109656,
-                "page": "MangaFire",
-                "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahouka-koukou-no-rettousei-koto-nairan-hen.llz6m/"
-            }
-        },
         "MangaFox": {
             "mahouka_koukou_no_rettousei_koto_nairan_hen": {
+                "id": 162342,
                 "identifier": "mahouka_koukou_no_rettousei_koto_nairan_hen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30732/cover.jpg",
                 "malId": 119296,
@@ -52,6 +43,19 @@
                 "title": "Mahouka Koukou no Rettousei: Koto Nairan-hen",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mahouka_koukou_no_rettousei_koto_nairan_hen/"
+            }
+        },
+        "MangaFire": {
+            "llz6m": {
+                "id": 257712,
+                "identifier": "llz6m",
+                "image": "https://static.mangafire.to/cd14/i/3/35/357455aba00c07c1f8a4f1a707004063.jpg",
+                "malId": 119296,
+                "aniId": 109656,
+                "page": "MangaFire",
+                "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahouka-koukou-no-rettousei-koto-nairan-henn.llz6m"
             }
         },
         "Comick": {

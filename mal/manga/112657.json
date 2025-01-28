@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b28aaf14-b357-4d30-8c87-160171a9eb4c": {
+                "id": 19367,
                 "identifier": "b28aaf14-b357-4d30-8c87-160171a9eb4c",
                 "image": "https://uploads.mangadex.org/covers/b28aaf14-b357-4d30-8c87-160171a9eb4c/122496e0-ade4-49f5-9a0a-be94fa5bd5b9.jpg",
                 "malId": 112657,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "memesis": {
+                "id": 59123,
                 "identifier": "memesis",
                 "image": "https://temp.compsci88.com/cover/Memesis.jpg",
                 "malId": 112657,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "memesis": {
+                "id": 80729,
                 "identifier": "memesis",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27723/cover.jpg",
                 "malId": 112657,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/memesis/"
             }
         },
-        "MangaFire": {
-            "memesis.rlp8m": {
-                "identifier": "memesis.rlp8m",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f236a51346dacafd0b67693cab5f32ff.jpg",
-                "malId": 112657,
-                "aniId": 101451,
-                "page": "MangaFire",
-                "title": "Memesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/memesis.rlp8m/"
-            },
-            "rlp8m": {
-                "identifier": "rlp8m",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f236a51346dacafd0b67693cab5f32ff.jpg",
-                "malId": 112657,
-                "aniId": 101451,
-                "page": "MangaFire",
-                "title": "Memesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/memesis.rlp8m/"
-            }
-        },
         "MangaNato": {
             "manga-br978826": {
+                "id": 167248,
                 "identifier": "manga-br978826",
                 "image": "https://avt.mkklcdnv6temp.com/fld/65/y/8-1732790843-nw.webp",
                 "malId": 112657,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xycf53ss3p9xm27552w3r": {
+                "id": 214067,
                 "identifier": "01j76xycf53ss3p9xm27552w3r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCF53SS3P9XM27552W3R.jpg",
                 "malId": 112657,
@@ -86,6 +69,19 @@
                 "title": "Memesis",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCF53SS3P9XM27552W3R"
+            }
+        },
+        "MangaFire": {
+            "rlp8m": {
+                "id": 255426,
+                "identifier": "rlp8m",
+                "image": "https://static.mangafire.to/c036/i/f/f2/f236a51346dacafd0b67693cab5f32ff.jpg",
+                "malId": 112657,
+                "aniId": 101451,
+                "page": "MangaFire",
+                "title": "Memesis",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/memesiss.rlp8m"
             }
         },
         "Comick": {

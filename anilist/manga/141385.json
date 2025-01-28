@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8c5910a5-a256-4a7e-ad72-aade1d309e2c": {
+                "id": 53168,
                 "identifier": "8c5910a5-a256-4a7e-ad72-aade1d309e2c",
                 "image": "https://uploads.mangadex.org/covers/8c5910a5-a256-4a7e-ad72-aade1d309e2c/5a3390a7-7b44-453e-a04c-914a11051b1f.jpg",
                 "malId": 88076,
@@ -18,38 +19,30 @@
                 "url": "https://mangadex.org/title/8c5910a5-a256-4a7e-ad72-aade1d309e2c"
             }
         },
-        "MangaFire": {
-            "angel-oil.29z62": {
-                "identifier": "angel-oil.29z62",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/849d1f488e51b5c1c948a60f70f468d9.jpg",
-                "malId": 88076,
-                "aniId": 141385,
-                "page": "MangaFire",
-                "title": "Angel Oil",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angel-oil.29z62/"
-            },
-            "29z62": {
-                "identifier": "29z62",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/849d1f488e51b5c1c948a60f70f468d9.jpg",
-                "malId": 88076,
-                "aniId": 141385,
-                "page": "MangaFire",
-                "title": "Angel Oil",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angel-oil.29z62/"
-            }
-        },
         "MangaNato": {
             "manga-ks961727": {
+                "id": 216924,
                 "identifier": "manga-ks961727",
-                "image": "https://avt.mkklcdnv6temp.com/48/d/7-1583478104.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/48/k/4-1732762266-nw.webp",
                 "malId": 88076,
                 "aniId": 141385,
                 "page": "MangaNato",
                 "title": "Angel Oil",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ks961727"
+            }
+        },
+        "MangaFire": {
+            "29z62": {
+                "id": 236252,
+                "identifier": "29z62",
+                "image": "https://static.mangafire.to/1ebd/i/8/84/849d1f488e51b5c1c948a60f70f468d9.jpg",
+                "malId": 88076,
+                "aniId": 141385,
+                "page": "MangaFire",
+                "title": "Angel Oil",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/angel-oill.29z62"
             }
         }
     },

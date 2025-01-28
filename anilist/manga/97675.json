@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c49feee4-126f-48d0-9a6c-418d7da05265": {
+                "id": 16464,
                 "identifier": "c49feee4-126f-48d0-9a6c-418d7da05265",
                 "image": "https://uploads.mangadex.org/covers/c49feee4-126f-48d0-9a6c-418d7da05265/ddc311f0-cd4c-4a71-8a02-466e58e46e2b.jpg",
                 "malId": 101479,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kuutei-dragons": {
+                "id": 60457,
                 "identifier": "kuutei-dragons",
                 "image": "https://temp.compsci88.com/cover/Kuutei-Dragons.jpg",
                 "malId": 101479,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kuutei_dragons": {
+                "id": 62674,
                 "identifier": "kuutei_dragons",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21879/cover.jpg",
                 "malId": 101479,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-va972935": {
+                "id": 90115,
                 "identifier": "manga-va972935",
                 "image": "https://avt.mkklcdnv6temp.com/fld/72/l/7-1732786539-nw.webp",
                 "malId": 101479,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-va972935"
             }
         },
-        "MangaFire": {
-            "kuutei-dragons.jvr8y": {
-                "identifier": "kuutei-dragons.jvr8y",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8eceedba4576e7ead3cb997d50c7bcc.jpg",
-                "malId": 101479,
-                "aniId": 97675,
-                "page": "MangaFire",
-                "title": "Drifting Dragons",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuutei-dragons.jvr8y/"
-            },
-            "kuutei-dragonss.jvr8y": {
-                "identifier": "kuutei-dragonss.jvr8y",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8eceedba4576e7ead3cb997d50c7bcc.jpg",
-                "malId": 101479,
-                "aniId": 97675,
-                "page": "MangaFire",
-                "title": "Drifting Dragons",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuutei-dragonss.jvr8y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyby7zak1kh3434vxkcpm": {
+                "id": 207507,
                 "identifier": "01j76xyby7zak1kh3434vxkcpm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBY7ZAK1KH3434VXKCPM.jpg",
                 "malId": 101479,
@@ -86,6 +69,19 @@
                 "title": "Drifting Dragons",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBY7ZAK1KH3434VXKCPM"
+            }
+        },
+        "MangaFire": {
+            "jvr8y": {
+                "id": 225720,
+                "identifier": "jvr8y",
+                "image": "https://static.mangafire.to/335a/i/3/af/de0a09c9cea80c0a838e58f7dc4f4fd7.jpg",
+                "malId": 101479,
+                "aniId": 97675,
+                "page": "MangaFire",
+                "title": "Drifting Dragons",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuutei-dragonss.jvr8y"
             }
         },
         "Comick": {

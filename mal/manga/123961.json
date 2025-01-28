@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "tekkai_no_senshi": {
+                "id": 58079,
                 "identifier": "tekkai_no_senshi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37208/cover.jpg",
                 "malId": 123961,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ashidaka-the-iron-hero": {
+                "id": 67315,
                 "identifier": "ashidaka-the-iron-hero",
                 "image": "https://temp.compsci88.com/cover/Ashidaka-The-Iron-Hero.jpg",
                 "malId": 123961,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "9ac8453c-e86c-4f8d-95e7-a37d3f3797f9": {
+                "id": 117195,
                 "identifier": "9ac8453c-e86c-4f8d-95e7-a37d3f3797f9",
                 "image": "https://uploads.mangadex.org/covers/9ac8453c-e86c-4f8d-95e7-a37d3f3797f9/d9498e2b-8e9e-4b65-8773-8fc66058adfc.jpg",
                 "malId": 123961,
@@ -42,20 +45,9 @@
                 "url": "https://mangadex.org/title/9ac8453c-e86c-4f8d-95e7-a37d3f3797f9"
             }
         },
-        "MangaFire": {
-            "tekkai-no-senshi.4qprk": {
-                "identifier": "tekkai-no-senshi.4qprk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95aa1a6ac84a6077862a2c0d636df357.jpg",
-                "malId": 123961,
-                "aniId": 115413,
-                "page": "MangaFire",
-                "title": "ASHIDAKA: The Iron Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tekkai-no-senshi.4qprk/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8nv90nmsg97069a7v7": {
+                "id": 214046,
                 "identifier": "01j76xye8nv90nmsg97069a7v7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8NV90NMSG97069A7V7.jpg",
                 "malId": 123961,
@@ -64,6 +56,19 @@
                 "title": "Ashidaka: The Iron Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8NV90NMSG97069A7V7"
+            }
+        },
+        "MangaFire": {
+            "4qprk": {
+                "id": 261428,
+                "identifier": "4qprk",
+                "image": "https://static.mangafire.to/b4de/i/9/95/95aa1a6ac84a6077862a2c0d636df357.jpg",
+                "malId": 123961,
+                "aniId": 115413,
+                "page": "MangaFire",
+                "title": "ASHIDAKA: The Iron Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tekkai-no-senshii.4qprk"
             }
         },
         "Comick": {

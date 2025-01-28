@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fffbfac3-b7ad-41ee-9581-b4d90ecec941": {
+                "id": 13778,
                 "identifier": "fffbfac3-b7ad-41ee-9581-b4d90ecec941",
                 "image": "https://uploads.mangadex.org/covers/fffbfac3-b7ad-41ee-9581-b4d90ecec941/eb202491-f0dc-4102-b748-453b84dc5c5c.jpg",
                 "malId": 70345,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "grand-blue": {
+                "id": 54864,
                 "identifier": "grand-blue",
                 "image": "https://temp.compsci88.com/cover/Grand-Blue.jpg",
                 "malId": 70345,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "grand_blue": {
+                "id": 56141,
                 "identifier": "grand_blue",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21079/cover.jpg",
                 "malId": 70345,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uo972223": {
+                "id": 73514,
                 "identifier": "manga-uo972223",
                 "image": "https://avt.mkklcdnv6temp.com/10/x/14-1583490134.jpg",
                 "malId": 70345,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-uo972223"
             }
         },
-        "MangaFire": {
-            "grand-blue.lxx3": {
-                "identifier": "grand-blue.lxx3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf2fdef91af91c22da5b99cb83a9a38f.jpg",
-                "malId": 70345,
-                "aniId": 87395,
-                "page": "MangaFire",
-                "title": "Grand Blue Dreaming",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grand-blue.lxx3/"
-            },
-            "grand-bluee.lxx3": {
-                "identifier": "grand-bluee.lxx3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf2fdef91af91c22da5b99cb83a9a38f.jpg",
-                "malId": 70345,
-                "aniId": 87395,
-                "page": "MangaFire",
-                "title": "Grand Blue Dreaming",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grand-bluee.lxx3/"
-            }
-        },
         "Weebcentral": {
             "01j76xybwa1tew2ebdyc9e3c9g": {
+                "id": 208759,
                 "identifier": "01j76xybwa1tew2ebdyc9e3c9g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBWA1TEW2EBDYC9E3C9G.jpg",
                 "malId": 70345,
@@ -86,6 +69,19 @@
                 "title": "Grand Blue",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBWA1TEW2EBDYC9E3C9G"
+            }
+        },
+        "MangaFire": {
+            "lxx3": {
+                "id": 228608,
+                "identifier": "lxx3",
+                "image": "https://static.mangafire.to/30e4/i/b/bf/bf2fdef91af91c22da5b99cb83a9a38f.jpg",
+                "malId": 70345,
+                "aniId": 87395,
+                "page": "MangaFire",
+                "title": "Grand Blue Dreaming",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/grand-bluee.lxx3"
             }
         },
         "Comick": {

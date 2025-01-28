@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "taekwondo-kid": {
+                "id": 88774,
                 "identifier": "taekwondo-kid",
                 "image": "https://temp.compsci88.com/cover/Taekwondo-Kid.jpg",
                 "malId": 148931,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Taekwondo-Kid"
             }
         },
-        "MangaFire": {
-            "taekwondo-kid.qk4nj": {
-                "identifier": "taekwondo-kid.qk4nj",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f0/f0d15231fa0caec8fc5d09cf50c565fc.jpg",
-                "malId": 148931,
-                "aniId": 139574,
-                "page": "MangaFire",
-                "title": "Taekwondo Kid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/taekwondo-kid.qk4nj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf3gx04f09j05eete1rz": {
+                "id": 212536,
                 "identifier": "01j76xyf3gx04f09j05eete1rz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF3GX04F09J05EETE1RZ.jpg",
                 "malId": 148931,
@@ -40,6 +30,19 @@
                 "title": "Taekwondo Kid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF3GX04F09J05EETE1RZ"
+            }
+        },
+        "MangaFire": {
+            "qk4nj": {
+                "id": 241723,
+                "identifier": "qk4nj",
+                "image": "https://static.mangafire.to/159b/i/f/f0/f0d15231fa0caec8fc5d09cf50c565fc.jpg",
+                "malId": 148931,
+                "aniId": 139574,
+                "page": "MangaFire",
+                "title": "Taekwondo Kid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/taekwondo-kidd.qk4nj"
             }
         },
         "Comick": {

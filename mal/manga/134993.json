@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "def0adc9-0a65-4051-9494-8be4ab13f92d": {
+                "id": 66042,
                 "identifier": "def0adc9-0a65-4051-9494-8be4ab13f92d",
                 "image": "https://uploads.mangadex.org/covers/def0adc9-0a65-4051-9494-8be4ab13f92d/8704be5f-5eba-4afb-bbe3-c3efe5419d36.jpg",
                 "malId": 134993,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ng990915": {
+                "id": 106302,
                 "identifier": "manga-ng990915",
                 "image": "https://avt.mkklcdnv6temp.com/44/a/25-1653917260.jpg",
                 "malId": 134993,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kouga-san-no-kamiguse": {
+                "id": 114491,
                 "identifier": "kouga-san-no-kamiguse",
                 "image": "https://temp.compsci88.com/cover/Kouga-san-no-Kamiguse.jpg",
                 "malId": 134993,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Kouga-san-no-Kamiguse"
             }
         },
-        "MangaFire": {
-            "kouga-san-no-kamiguse.wo27k": {
-                "identifier": "kouga-san-no-kamiguse.wo27k",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb5f8f8d24557d7fa907a23d1b3c0a55.jpg",
-                "malId": 134993,
-                "aniId": 131013,
-                "page": "MangaFire",
-                "title": "Kouga-san no Kamiguse",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kouga-san-no-kamiguse.wo27k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnwn2cqsmpspz0eyd9a": {
+                "id": 208076,
                 "identifier": "01j76xyfnwn2cqsmpspz0eyd9a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNWN2CQSMPSPZ0EYD9A.jpg",
                 "malId": 134993,
@@ -64,6 +56,19 @@
                 "title": "Kouga-san no Kamiguse",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNWN2CQSMPSPZ0EYD9A"
+            }
+        },
+        "MangaFire": {
+            "wo27k": {
+                "id": 260558,
+                "identifier": "wo27k",
+                "image": "https://static.mangafire.to/8e1e/i/c/cb/cb5f8f8d24557d7fa907a23d1b3c0a55.jpg",
+                "malId": 134993,
+                "aniId": 131013,
+                "page": "MangaFire",
+                "title": "Kouga-san no Kamiguse",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kouga-san-no-kamigusee.wo27k"
             }
         },
         "Comick": {

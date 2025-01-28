@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "29c0babd-60ca-4468-a3ed-f62b431fdf2f": {
+                "id": 9895,
                 "identifier": "29c0babd-60ca-4468-a3ed-f62b431fdf2f",
                 "image": "https://uploads.mangadex.org/covers/29c0babd-60ca-4468-a3ed-f62b431fdf2f/4a700a0d-5052-4440-8e93-a9e0b15331f1.jpg",
                 "malId": 65923,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "once-again": {
+                "id": 69578,
                 "identifier": "once-again",
                 "image": "https://temp.compsci88.com/cover/Once-Again.jpg",
                 "malId": 65923,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "once_again": {
+                "id": 95527,
                 "identifier": "once_again",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13569/cover.jpg",
                 "malId": 65923,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mq963573": {
+                "id": 109484,
                 "identifier": "manga-mq963573",
                 "image": "https://avt.mkklcdnv6temp.com/fld/3/e/4-1732765655-nw.webp",
                 "malId": 65923,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-mq963573"
             }
         },
-        "MangaFire": {
-            "once-again.j98y": {
-                "identifier": "once-again.j98y",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04b5ccb4ab89df93d3e52501698ad049.jpg",
-                "malId": 65923,
-                "aniId": 85318,
-                "page": "MangaFire",
-                "title": "Once Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/once-again.j98y/"
-            },
-            "j98y": {
-                "identifier": "j98y",
-                "image": "https://static.mangafire.to/a38a/i/0/04/04b5ccb4ab89df93d3e52501698ad049.jpg",
-                "malId": 65923,
-                "aniId": 85318,
-                "page": "MangaFire",
-                "title": "Once Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/once-againn.j98y"
-            }
-        },
         "Weebcentral": {
             "01j76xya0vrgszv3gd0f5grt08": {
+                "id": 212657,
                 "identifier": "01j76xya0vrgszv3gd0f5grt08",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA0VRGSZV3GD0F5GRT08.jpg",
                 "malId": 65923,
@@ -86,6 +69,19 @@
                 "title": "Once Again",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA0VRGSZV3GD0F5GRT08"
+            }
+        },
+        "MangaFire": {
+            "j98y": {
+                "id": 254533,
+                "identifier": "j98y",
+                "image": "https://static.mangafire.to/a38a/i/0/04/04b5ccb4ab89df93d3e52501698ad049.jpg",
+                "malId": 65923,
+                "aniId": 85318,
+                "page": "MangaFire",
+                "title": "Once Again",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/once-againn.j98y"
             }
         },
         "Comick": {

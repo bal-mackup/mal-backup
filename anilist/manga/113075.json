@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1581f543-3d94-4749-bd77-045d03e7c05a": {
+                "id": 31568,
                 "identifier": "1581f543-3d94-4749-bd77-045d03e7c05a",
                 "image": "https://uploads.mangadex.org/covers/1581f543-3d94-4749-bd77-045d03e7c05a/f8b6c50b-bd8b-42bd-8743-2a9e4cb817db.jpg",
                 "malId": 122673,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "the_holy_grail_of_eris": {
+                "id": 66251,
                 "identifier": "the_holy_grail_of_eris",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31973/cover.jpg",
                 "malId": 122673,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/the_holy_grail_of_eris/"
             },
             "eris_no_seihai": {
+                "id": 97877,
                 "identifier": "eris_no_seihai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41040/cover.jpg",
                 "malId": 122673,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "the-holy-grail-of-eris": {
+                "id": 68420,
                 "identifier": "the-holy-grail-of-eris",
                 "image": "https://temp.compsci88.com/cover/The-Holy-Grail-of-Eris.jpg",
                 "malId": 122673,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-gp983572": {
+                "id": 74824,
                 "identifier": "manga-gp983572",
                 "image": "https://avt.mkklcdnv6temp.com/43/q/19-1583500767.jpg",
                 "malId": 122673,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-gp983572"
             }
         },
-        "MangaFire": {
-            "the-holy-grail-of-eris.prrox": {
-                "identifier": "the-holy-grail-of-eris.prrox",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f582d0d57eb77a90bf54b96fdfe5e02.jpg",
-                "malId": 122673,
-                "aniId": 113075,
-                "page": "MangaFire",
-                "title": "The Holy Grail of Eris",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-holy-grail-of-eris.prrox/"
-            },
-            "the-holy-grail-of-eriss.prrox": {
-                "identifier": "the-holy-grail-of-eriss.prrox",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f582d0d57eb77a90bf54b96fdfe5e02.jpg",
-                "malId": 122673,
-                "aniId": 113075,
-                "page": "MangaFire",
-                "title": "The Holy Grail of Eris",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-holy-grail-of-eriss.prrox/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeeq3h00nwkht882zt8m": {
+                "id": 208341,
                 "identifier": "01j76xyeeq3h00nwkht882zt8m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEEQ3H00NWKHT882ZT8M.jpg",
                 "malId": 122673,
@@ -96,6 +80,19 @@
                 "title": "The Holy Grail of Eris",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEEQ3H00NWKHT882ZT8M"
+            }
+        },
+        "MangaFire": {
+            "prrox": {
+                "id": 228366,
+                "identifier": "prrox",
+                "image": "https://static.mangafire.to/7779/i/1/1f/1f582d0d57eb77a90bf54b96fdfe5e02.jpg",
+                "malId": 122673,
+                "aniId": 113075,
+                "page": "MangaFire",
+                "title": "The Holy Grail of Eris",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-holy-grail-of-eriss.prrox"
             }
         },
         "Comick": {

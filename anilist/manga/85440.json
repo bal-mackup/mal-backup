@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a08e6228-b5a7-450f-bcfe-896c007e631b": {
+                "id": 10845,
                 "identifier": "a08e6228-b5a7-450f-bcfe-896c007e631b",
                 "image": "https://uploads.mangadex.org/covers/a08e6228-b5a7-450f-bcfe-896c007e631b/7d8509d5-2815-4e4d-b9c8-1ba8df28d712.jpg",
                 "malId": 75099,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ng964441": {
+                "id": 86558,
                 "identifier": "manga-ng964441",
                 "image": "https://avt.mkklcdnv6temp.com/fld/29/m/5-1732767489-nw.webp",
                 "malId": 75099,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "sword-art-online-phantom-bullet": {
+                "id": 123486,
                 "identifier": "sword-art-online-phantom-bullet",
                 "image": "https://temp.compsci88.com/cover/Sword-Art-Online-Phantom-Bullet.jpg",
                 "malId": 75099,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Sword-Art-Online-Phantom-Bullet"
             }
         },
-        "MangaFire": {
-            "sword-art-online-phantom-bullet.q4lv": {
-                "identifier": "sword-art-online-phantom-bullet.q4lv",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/33235ef0507be1a8d34d31d35f6ff3e7.jpg",
-                "malId": 75099,
-                "aniId": 85440,
-                "page": "MangaFire",
-                "title": "Sword Art Online: Phantom Bullet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-phantom-bullet.q4lv/"
-            },
-            "q4lv": {
-                "identifier": "q4lv",
-                "image": "https://static.mangafire.to/e85c/i/3/33/33235ef0507be1a8d34d31d35f6ff3e7.jpg",
-                "malId": 75099,
-                "aniId": 85440,
-                "page": "MangaFire",
-                "title": "Sword Art Online: Phantom Bullet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-phantom-bullett.q4lv"
-            }
-        },
         "Weebcentral": {
             "01j76xyfwnap6znwcepyqqmmr5": {
+                "id": 209199,
                 "identifier": "01j76xyfwnap6znwcepyqqmmr5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFWNAP6ZNWCEPYQQMMR5.jpg",
                 "malId": 75099,
@@ -74,6 +56,19 @@
                 "title": "Sword Art Online - Phantom Bullet",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFWNAP6ZNWCEPYQQMMR5"
+            }
+        },
+        "MangaFire": {
+            "q4lv": {
+                "id": 249240,
+                "identifier": "q4lv",
+                "image": "https://static.mangafire.to/e85c/i/3/33/33235ef0507be1a8d34d31d35f6ff3e7.jpg",
+                "malId": 75099,
+                "aniId": 85440,
+                "page": "MangaFire",
+                "title": "Sword Art Online: Phantom Bullet",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sword-art-online-phantom-bullett.q4lv"
             }
         },
         "Comick": {

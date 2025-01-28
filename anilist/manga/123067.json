@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fee44118-6e51-445b-a047-38fb16c84425": {
+                "id": 38731,
                 "identifier": "fee44118-6e51-445b-a047-38fb16c84425",
                 "image": "https://uploads.mangadex.org/covers/fee44118-6e51-445b-a047-38fb16c84425/50d94951-650b-4e3e-b591-442941dd0634.jpg",
                 "malId": 129431,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tricks_dedicated_to_witches": {
+                "id": 55065,
                 "identifier": "tricks_dedicated_to_witches",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35492/cover.jpg",
                 "malId": 129431,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tricks-dedicated-to-witches": {
+                "id": 62315,
                 "identifier": "tricks-dedicated-to-witches",
                 "image": "https://temp.compsci88.com/cover/Tricks-Dedicated-to-Witches.jpg",
                 "malId": 129431,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-js986527": {
+                "id": 79749,
                 "identifier": "manga-js986527",
                 "image": "https://avt.mkklcdnv6temp.com/10/m/22-1599501923.jpg",
                 "malId": 129431,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-js986527"
             }
         },
-        "MangaFire": {
-            "tricks-dedicated-to-witches.80nln": {
-                "identifier": "tricks-dedicated-to-witches.80nln",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/67c8e0b4214c1cede0d2dfa874e11c08.jpg",
-                "malId": 129431,
-                "aniId": 123067,
-                "page": "MangaFire",
-                "title": "Tricks Dedicated to Witches",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tricks-dedicated-to-witches.80nln/"
-            },
-            "tricks-dedicated-to-witchess.80nln": {
-                "identifier": "tricks-dedicated-to-witchess.80nln",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/67c8e0b4214c1cede0d2dfa874e11c08.jpg",
-                "malId": 129431,
-                "aniId": 123067,
-                "page": "MangaFire",
-                "title": "Tricks Dedicated to Witches",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tricks-dedicated-to-witchess.80nln/"
-            }
-        },
         "Weebcentral": {
             "01j76xye06dmj6dc346cst9zec": {
+                "id": 209641,
                 "identifier": "01j76xye06dmj6dc346cst9zec",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE06DMJ6DC346CST9ZEC.jpg",
                 "malId": 129431,
@@ -86,6 +69,19 @@
                 "title": "Tricks Dedicated to Witches",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE06DMJ6DC346CST9ZEC"
+            }
+        },
+        "MangaFire": {
+            "80nln": {
+                "id": 227594,
+                "identifier": "80nln",
+                "image": "https://static.mangafire.to/156b/i/6/67/67c8e0b4214c1cede0d2dfa874e11c08.jpg",
+                "malId": 129431,
+                "aniId": 123067,
+                "page": "MangaFire",
+                "title": "Tricks Dedicated to Witches",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tricks-dedicated-to-witchess.80nln"
             }
         },
         "Comick": {

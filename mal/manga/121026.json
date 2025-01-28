@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f3c0e41f-62bc-4d48-9f68-c35ffcc9ec71": {
+                "id": 29919,
                 "identifier": "f3c0e41f-62bc-4d48-9f68-c35ffcc9ec71",
                 "image": "https://uploads.mangadex.org/covers/f3c0e41f-62bc-4d48-9f68-c35ffcc9ec71/9c941efb-8e98-4f75-b757-4c34d27ccaf7.jpg",
                 "malId": 121026,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "7-seeds-gaiden": {
+                "id": 63314,
                 "identifier": "7-seeds-gaiden",
                 "image": "https://temp.compsci88.com/cover/7-Seeds-Gaiden.jpg",
                 "malId": 121026,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/7-Seeds-Gaiden"
             }
         },
-        "MangaFire": {
-            "7-seeds-gaiden.mq2qv": {
-                "identifier": "7-seeds-gaiden.mq2qv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/862f77bc211e88c5d79087943295a8d7.jpg",
-                "malId": 121026,
-                "aniId": 101011,
-                "page": "MangaFire",
-                "title": "7 SEEDS Gaiden",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/7-seeds-gaiden.mq2qv/"
-            }
-        },
         "MangaFox": {
             "7_seeds_gaiden": {
+                "id": 189218,
                 "identifier": "7_seeds_gaiden",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31137/cover.jpg",
                 "malId": 121026,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xycy481vmchkfcr1b675p": {
+                "id": 208821,
                 "identifier": "01j76xycy481vmchkfcr1b675p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCY481VMCHKFCR1B675P.jpg",
                 "malId": 121026,
@@ -64,6 +56,19 @@
                 "title": "7 Seeds Gaiden",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCY481VMCHKFCR1B675P"
+            }
+        },
+        "MangaFire": {
+            "mq2qv": {
+                "id": 243491,
+                "identifier": "mq2qv",
+                "image": "https://static.mangafire.to/9cbc/i/8/86/862f77bc211e88c5d79087943295a8d7.jpg",
+                "malId": 121026,
+                "aniId": 101011,
+                "page": "MangaFire",
+                "title": "7 SEEDS Gaiden",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/7-seeds-gaidenn.mq2qv"
             }
         },
         "Comick": {

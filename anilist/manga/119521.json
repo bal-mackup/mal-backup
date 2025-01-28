@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9ed16bc9-f570-4e71-8dda-aebc098b683b": {
+                "id": 36010,
                 "identifier": "9ed16bc9-f570-4e71-8dda-aebc098b683b",
                 "image": "https://uploads.mangadex.org/covers/9ed16bc9-f570-4e71-8dda-aebc098b683b/8a917622-1853-47b7-9114-997da510a8a2.jpg",
                 "malId": 134744,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "legend_of_the_northern_blade": {
+                "id": 54093,
                 "identifier": "legend_of_the_northern_blade",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34400/cover.jpg",
                 "malId": 134744,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "legend-of-the-northern-blade": {
+                "id": 56494,
                 "identifier": "legend-of-the-northern-blade",
                 "image": "https://temp.compsci88.com/cover/Legend-of-the-Northern-Blade.jpg",
                 "malId": 134744,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ie985687": {
+                "id": 73119,
                 "identifier": "manga-ie985687",
                 "image": "https://avt.mkklcdnv6temp.com/26/q/21-1592020285.jpg",
                 "malId": 134744,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ie985687"
             }
         },
-        "MangaFire": {
-            "the-legend-of-the-northern-blade.vvjx2": {
-                "identifier": "the-legend-of-the-northern-blade.vvjx2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea424c34f9c810de4625f0d1f5f21bea.jpg",
-                "malId": 134744,
-                "aniId": 119521,
-                "page": "MangaFire",
-                "title": "The Legend of the Northern Blade",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-legend-of-the-northern-blade.vvjx2/"
-            },
-            "the-legend-of-the-northern-bladee.vvjx2": {
-                "identifier": "the-legend-of-the-northern-bladee.vvjx2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea424c34f9c810de4625f0d1f5f21bea.jpg",
-                "malId": 134744,
-                "aniId": 119521,
-                "page": "MangaFire",
-                "title": "The Legend of the Northern Blade",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-legend-of-the-northern-bladee.vvjx2/"
-            }
-        },
         "Weebcentral": {
             "01j76xydt27vjhnb59fjr01g7s": {
+                "id": 211786,
                 "identifier": "01j76xydt27vjhnb59fjr01g7s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDT27VJHNB59FJR01G7S.jpg",
                 "malId": 134744,
@@ -86,6 +69,19 @@
                 "title": "The Legend of the Northern Blade",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDT27VJHNB59FJR01G7S"
+            }
+        },
+        "MangaFire": {
+            "vvjx2": {
+                "id": 226703,
+                "identifier": "vvjx2",
+                "image": "https://static.mangafire.to/e66c/i/e/ea/ea424c34f9c810de4625f0d1f5f21bea.jpg",
+                "malId": 134744,
+                "aniId": 119521,
+                "page": "MangaFire",
+                "title": "The Legend of the Northern Blade",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-legend-of-the-northern-bladee.vvjx2"
             }
         },
         "Comick": {

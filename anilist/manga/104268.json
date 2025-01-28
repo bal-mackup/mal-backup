@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6c1e6f7a-3024-4971-a7be-24492c5a3207": {
+                "id": 20504,
                 "identifier": "6c1e6f7a-3024-4971-a7be-24492c5a3207",
                 "image": "https://uploads.mangadex.org/covers/6c1e6f7a-3024-4971-a7be-24492c5a3207/068a39c1-79b5-442f-a069-c3c163b976dd.jpg",
                 "malId": 113748,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/6c1e6f7a-3024-4971-a7be-24492c5a3207"
             }
         },
-        "MangaFire": {
-            "tsumasakidachi-no-alice.x3kz": {
-                "identifier": "tsumasakidachi-no-alice.x3kz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fd2884f692d4b57bee7f474fb72df5b.jpg",
-                "malId": 113748,
-                "aniId": 104268,
-                "page": "MangaFire",
-                "title": "Alice stands on tiptoe.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsumasakidachi-no-alice.x3kz/"
-            }
-        },
         "MangaNato": {
             "manga-bo979249": {
+                "id": 179410,
                 "identifier": "manga-bo979249",
-                "image": "https://avt.mkklcdnv6temp.com/34/j/16-1583494706.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/81/v/8-1732791546-nw.webp",
                 "malId": 113748,
                 "aniId": 104268,
                 "page": "MangaNato",
                 "title": "Tsumasakidachi No Alice",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-bo979249"
+            }
+        },
+        "MangaFire": {
+            "x3kz": {
+                "id": 263018,
+                "identifier": "x3kz",
+                "image": "https://static.mangafire.to/1174/i/7/7f/7fd2884f692d4b57bee7f474fb72df5b.jpg",
+                "malId": 113748,
+                "aniId": 104268,
+                "page": "MangaFire",
+                "title": "Alice stands on tiptoe.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsumasakidachi-no-alicee.x3kz"
             }
         },
         "Comick": {

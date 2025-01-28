@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c872ee4c-a5d8-4d55-b603-29161f876d7c": {
+                "id": 105428,
                 "identifier": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
                 "image": "https://uploads.mangadex.org/covers/c872ee4c-a5d8-4d55-b603-29161f876d7c/2c5ffd4a-44a8-43cf-b3bf-8afec48f0f9a.jpg",
                 "malId": 148848,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/c872ee4c-a5d8-4d55-b603-29161f876d7c"
             }
         },
-        "MangaFire": {
-            "star-wars-the-mandalorian.1n05w": {
-                "identifier": "star-wars-the-mandalorian.1n05w",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98ade6ecfd09b67fa399b3bcdd90dc5e.jpg",
-                "malId": 148848,
-                "aniId": 147995,
-                "page": "MangaFire",
-                "title": "Star Wars - The Mandalorian",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/star-wars-the-mandalorian.1n05w/"
-            }
-        },
         "MangaSee": {
             "star-wars-the-mandalorian": {
+                "id": 170144,
                 "identifier": "star-wars-the-mandalorian",
                 "image": "https://temp.compsci88.com/cover/Star-Wars-The-Mandalorian.jpg",
                 "malId": 148848,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygh14gfe24qjdbk0vvdw": {
+                "id": 211319,
                 "identifier": "01j76xygh14gfe24qjdbk0vvdw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGH14GFE24QJDBK0VVDW.jpg",
                 "malId": 148848,
@@ -52,6 +43,19 @@
                 "title": "Star Wars - The Mandalorian",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGH14GFE24QJDBK0VVDW"
+            }
+        },
+        "MangaFire": {
+            "1n05w": {
+                "id": 248051,
+                "identifier": "1n05w",
+                "image": "https://static.mangafire.to/97aa/i/9/98/98ade6ecfd09b67fa399b3bcdd90dc5e.jpg",
+                "malId": 148848,
+                "aniId": 147995,
+                "page": "MangaFire",
+                "title": "Star Wars - The Mandalorian",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/star-wars-the-mandaloriann.1n05w"
             }
         },
         "Comick": {

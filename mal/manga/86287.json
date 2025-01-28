@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4d2242e4-748b-4f24-bd69-219bc02afe59": {
+                "id": 12562,
                 "identifier": "4d2242e4-748b-4f24-bd69-219bc02afe59",
                 "image": "https://uploads.mangadex.org/covers/4d2242e4-748b-4f24-bd69-219bc02afe59/b20048c3-5ffd-4bb3-9c16-ba69924cf569.jpg",
                 "malId": 86287,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-love-tiger": {
+                "id": 56546,
                 "identifier": "my-love-tiger",
                 "image": "https://temp.compsci88.com/cover/My-Love-Tiger.jpg",
                 "malId": 86287,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-qc951785": {
+                "id": 74094,
                 "identifier": "manga-qc951785",
                 "image": "https://avt.mkklcdnv6temp.com/16/q/1-1583464340.jpg",
                 "malId": 86287,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "my_love_tiger": {
+                "id": 82966,
                 "identifier": "my_love_tiger",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15123/cover.jpg",
                 "malId": 86287,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/my_love_tiger/"
             }
         },
-        "MangaFire": {
-            "my-love-tiger.3rxqy": {
-                "identifier": "my-love-tiger.3rxqy",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51c0b220a1d57f489a1ea7fc67cdc71f.jpg",
-                "malId": 86287,
-                "aniId": 86990,
-                "page": "MangaFire",
-                "title": "My Love Tiger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-love-tiger.3rxqy/"
-            },
-            "my-love-tigerr.3rxqy": {
-                "identifier": "my-love-tigerr.3rxqy",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51c0b220a1d57f489a1ea7fc67cdc71f.jpg",
-                "malId": 86287,
-                "aniId": 86990,
-                "page": "MangaFire",
-                "title": "My Love Tiger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-love-tigerr.3rxqy/"
-            },
-            "3rxqy": {
-                "identifier": "3rxqy",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51c0b220a1d57f489a1ea7fc67cdc71f.jpg",
-                "malId": 86287,
-                "aniId": 86990,
-                "page": "MangaFire",
-                "title": "My Love Tiger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-love-tigerr.3rxqy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb65cz5f5dhjf0y0g935": {
+                "id": 213535,
                 "identifier": "01j76xyb65cz5f5dhjf0y0g935",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB65CZ5F5DHJF0Y0G935.jpg",
                 "malId": 86287,
@@ -96,6 +69,19 @@
                 "title": "My Love Tiger",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB65CZ5F5DHJF0Y0G935"
+            }
+        },
+        "MangaFire": {
+            "3rxqy": {
+                "id": 225895,
+                "identifier": "3rxqy",
+                "image": "https://static.mangafire.to/eee4/i/5/51/51c0b220a1d57f489a1ea7fc67cdc71f.jpg",
+                "malId": 86287,
+                "aniId": 86990,
+                "page": "MangaFire",
+                "title": "My Love Tiger",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-love-tigerr.3rxqy"
             }
         },
         "Comick": {

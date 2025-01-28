@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "70cd6793-61c8-47f3-966a-147a79169c6d": {
+                "id": 27763,
                 "identifier": "70cd6793-61c8-47f3-966a-147a79169c6d",
                 "image": "https://uploads.mangadex.org/covers/70cd6793-61c8-47f3-966a-147a79169c6d/c5810a09-9163-4da7-a0dc-bbb47bb74c38.jpg",
                 "malId": 113667,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/70cd6793-61c8-47f3-966a-147a79169c6d"
             }
         },
-        "MangaFire": {
-            "gojuu-centi-no-isshou.9o5n8": {
-                "identifier": "gojuu-centi-no-isshou.9o5n8",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8da44f414b4823f281517fcb3e62812e.jpg",
-                "malId": 113667,
-                "aniId": 109307,
-                "page": "MangaFire",
-                "title": "A Story of Seven Lives",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gojuu-centi-no-isshou.9o5n8/"
-            }
-        },
         "MangaSee": {
             "a-story-of-seven-lives": {
+                "id": 159512,
                 "identifier": "a-story-of-seven-lives",
                 "image": "https://temp.compsci88.com/cover/A-Story-of-Seven-Lives.jpg",
                 "malId": 113667,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg6t271f16wxqt2x98wz": {
+                "id": 206893,
                 "identifier": "01j76xyg6t271f16wxqt2x98wz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6T271F16WXQT2X98WZ.jpg",
                 "malId": 113667,
@@ -52,6 +43,19 @@
                 "title": "A Story of Seven Lives",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6T271F16WXQT2X98WZ"
+            }
+        },
+        "MangaFire": {
+            "9o5n8": {
+                "id": 262850,
+                "identifier": "9o5n8",
+                "image": "https://static.mangafire.to/3fa3/i/8/8d/8da44f414b4823f281517fcb3e62812e.jpg",
+                "malId": 113667,
+                "aniId": 109307,
+                "page": "MangaFire",
+                "title": "A Story of Seven Lives",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gojuu-centi-no-isshouu.9o5n8"
             }
         },
         "Comick": {

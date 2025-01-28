@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5e7ca22b-973d-471e-b0de-1779c188b8d6": {
+                "id": 156285,
                 "identifier": "5e7ca22b-973d-471e-b0de-1779c188b8d6",
                 "image": "https://uploads.mangadex.org/covers/5e7ca22b-973d-471e-b0de-1779c188b8d6/67f9897f-1b97-421b-9ea8-ee4bc340bd42.jpg",
                 "malId": 158401,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/5e7ca22b-973d-471e-b0de-1779c188b8d6"
             }
         },
-        "MangaFire": {
-            "the-soul-spewing-wielder.1qrxq": {
-                "identifier": "the-soul-spewing-wielder.1qrxq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74d48fe0dbb85eacb9b9a0aac3216783.jpg",
-                "malId": 158401,
-                "aniId": 163159,
-                "page": "MangaFire",
-                "title": "The Soul Spewing Wielder",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-soul-spewing-wielder.1qrxq/"
-            }
-        },
         "MangaSee": {
             "the-soul-spewing-wielder": {
+                "id": 158313,
                 "identifier": "the-soul-spewing-wielder",
                 "image": "https://temp.compsci88.com/cover/The-Soul-Spewing-Wielder.jpg",
                 "malId": 158401,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg5yyrw4gsbj9majzxe3": {
+                "id": 209567,
                 "identifier": "01j76xyg5yyrw4gsbj9majzxe3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5YYRW4GSBJ9MAJZXE3.jpg",
                 "malId": 158401,
@@ -52,6 +43,19 @@
                 "title": "The Soul Spewing Wielder",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5YYRW4GSBJ9MAJZXE3"
+            }
+        },
+        "MangaFire": {
+            "1qrxq": {
+                "id": 237331,
+                "identifier": "1qrxq",
+                "image": "https://static.mangafire.to/5634/i/7/74/74d48fe0dbb85eacb9b9a0aac3216783.jpg",
+                "malId": 158401,
+                "aniId": 163159,
+                "page": "MangaFire",
+                "title": "The Soul Spewing Wielder",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-soul-spewing-wielderr.1qrxq"
             }
         },
         "Comick": {

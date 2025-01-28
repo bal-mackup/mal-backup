@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f2cb9465-c314-46a3-97fd-05210d3af0a7": {
+                "id": 18994,
                 "identifier": "f2cb9465-c314-46a3-97fd-05210d3af0a7",
                 "image": "https://uploads.mangadex.org/covers/f2cb9465-c314-46a3-97fd-05210d3af0a7/6d9fa3f8-2976-4210-99ad-d613c0d5db4e.jpg",
                 "malId": 147924,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-scholars-reincarnation": {
+                "id": 56244,
                 "identifier": "the-scholars-reincarnation",
                 "image": "https://temp.compsci88.com/cover/The-Scholars-Reincarnation.jpg",
                 "malId": 147924,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vv973156": {
+                "id": 72825,
                 "identifier": "manga-vv973156",
                 "image": "https://avt.mkklcdnv6temp.com/28/m/14-1583490750.jpg",
                 "malId": 147924,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-vv973156"
             }
         },
-        "MangaFire": {
-            "hagsajaesaeng.5kr0q": {
-                "identifier": "hagsajaesaeng.5kr0q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f2203b93da2a6833585255881626e5d.jpg",
-                "malId": 147924,
-                "aniId": 97770,
-                "page": "MangaFire",
-                "title": "Reborn as a Scholar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hagsajaesaeng.5kr0q/"
-            },
-            "hagsajaesaengg.5kr0q": {
-                "identifier": "hagsajaesaengg.5kr0q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f2203b93da2a6833585255881626e5d.jpg",
-                "malId": 147924,
-                "aniId": 97770,
-                "page": "MangaFire",
-                "title": "Reborn as a Scholar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hagsajaesaengg.5kr0q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc0x2tqnvdywcvw23sc4": {
+                "id": 211973,
                 "identifier": "01j76xyc0x2tqnvdywcvw23sc4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC0X2TQNVDYWCVW23SC4.jpg",
                 "malId": 147924,
@@ -74,6 +56,19 @@
                 "title": "Reborn as a Scholar",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC0X2TQNVDYWCVW23SC4"
+            }
+        },
+        "MangaFire": {
+            "5kr0q": {
+                "id": 225346,
+                "identifier": "5kr0q",
+                "image": "https://static.mangafire.to/d080/i/2/2f/2f2203b93da2a6833585255881626e5d.jpg",
+                "malId": 147924,
+                "aniId": 97770,
+                "page": "MangaFire",
+                "title": "Reborn as a Scholar",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hagsajaesaengg.5kr0q"
             }
         },
         "Comick": {

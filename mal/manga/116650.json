@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4e59920a-8716-4095-9b9d-304abd3f5048": {
+                "id": 25744,
                 "identifier": "4e59920a-8716-4095-9b9d-304abd3f5048",
                 "image": "https://uploads.mangadex.org/covers/4e59920a-8716-4095-9b9d-304abd3f5048/af931a2f-9421-4fbc-860a-418613043aa2.jpg",
                 "malId": 116650,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "yurigurashi": {
+                "id": 74035,
                 "identifier": "yurigurashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29582/cover.jpg",
                 "malId": 116650,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/yurigurashi/"
             }
         },
-        "MangaFire": {
-            "yurigurashi.92v5x": {
-                "identifier": "yurigurashi.92v5x",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2df5cead22c0be37117b1c0b27b20b23.jpg",
-                "malId": 116650,
-                "aniId": 105438,
-                "page": "MangaFire",
-                "title": "Yuri Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yurigurashi.92v5x/"
-            },
-            "92v5x": {
-                "identifier": "92v5x",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2df5cead22c0be37117b1c0b27b20b23.jpg",
-                "malId": 116650,
-                "aniId": 105438,
-                "page": "MangaFire",
-                "title": "Yuri Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yurigurashi.92v5x/"
-            }
-        },
         "MangaSee": {
             "yuri-life": {
+                "id": 156183,
                 "identifier": "yuri-life",
                 "image": "https://temp.compsci88.com/cover/Yuri-Life.jpg",
                 "malId": 116650,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg2n5vegw0ndqyqktemc": {
+                "id": 206856,
                 "identifier": "01j76xyg2n5vegw0ndqyqktemc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG2N5VEGW0NDQYQKTEMC.jpg",
                 "malId": 116650,
@@ -74,6 +56,19 @@
                 "title": "Yuri Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG2N5VEGW0NDQYQKTEMC"
+            }
+        },
+        "MangaFire": {
+            "92v5x": {
+                "id": 230105,
+                "identifier": "92v5x",
+                "image": "https://static.mangafire.to/057a/i/2/2d/2df5cead22c0be37117b1c0b27b20b23.jpg",
+                "malId": 116650,
+                "aniId": 105438,
+                "page": "MangaFire",
+                "title": "Yuri Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yurigurashii.92v5x"
             }
         },
         "MangaReader": {

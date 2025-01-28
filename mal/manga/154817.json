@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "08f134f6-4038-4e39-b9a4-c48fd40f994f": {
+                "id": 120590,
                 "identifier": "08f134f6-4038-4e39-b9a4-c48fd40f994f",
                 "image": "https://uploads.mangadex.org/covers/08f134f6-4038-4e39-b9a4-c48fd40f994f/3687e447-4803-46fd-a87c-6444b3573745.jpg",
                 "malId": 154817,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qi993391": {
+                "id": 121102,
                 "identifier": "manga-qi993391",
                 "image": "https://avt.mkklcdnv6temp.com/46/b/27-1672809538.jpg",
                 "malId": 154817,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qi993391"
             }
         },
-        "MangaFire": {
-            "sigrid.nr18j": {
-                "identifier": "sigrid.nr18j",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c86352834e6201d118bb6a170dbbcbec.jpg",
-                "malId": 154817,
-                "aniId": 160187,
-                "page": "MangaFire",
-                "title": "Sigrid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sigrid.nr18j/"
-            },
-            "sigridd.nr18j": {
-                "identifier": "sigridd.nr18j",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c86352834e6201d118bb6a170dbbcbec.jpg",
-                "malId": 154817,
-                "aniId": 160187,
-                "page": "MangaFire",
-                "title": "Sigrid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sigridd.nr18j/"
-            }
-        },
         "MangaFox": {
             "sigrid": {
+                "id": 180075,
                 "identifier": "sigrid",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45523/cover.jpg",
                 "malId": 154817,
@@ -62,6 +43,19 @@
                 "title": "Sigrid",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/sigrid/"
+            }
+        },
+        "MangaFire": {
+            "nr18j": {
+                "id": 261032,
+                "identifier": "nr18j",
+                "image": "https://static.mangafire.to/66e1/i/c/c8/c86352834e6201d118bb6a170dbbcbec.jpg",
+                "malId": 154817,
+                "aniId": 160187,
+                "page": "MangaFire",
+                "title": "Sigrid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sigridd.nr18j"
             }
         },
         "Comick": {

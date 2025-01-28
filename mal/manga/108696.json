@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1d4e3c56-3e9f-4a50-a9ed-417fb87f1911": {
+                "id": 18102,
                 "identifier": "1d4e3c56-3e9f-4a50-a9ed-417fb87f1911",
                 "image": "https://uploads.mangadex.org/covers/1d4e3c56-3e9f-4a50-a9ed-417fb87f1911/df20156a-df7e-4113-8ad3-ab4ef53d32d7.jpg",
                 "malId": 108696,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "runway_de_waratte": {
+                "id": 56567,
                 "identifier": "runway_de_waratte",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26123/cover.jpg",
                 "malId": 108696,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "runway-de-waratte": {
+                "id": 57360,
                 "identifier": "runway-de-waratte",
                 "image": "https://temp.compsci88.com/cover/Runway-De-Waratte.jpg",
                 "malId": 108696,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zg977315": {
+                "id": 76428,
                 "identifier": "manga-zg977315",
                 "image": "https://avt.mkklcdnv6temp.com/40/k/15-1583493117.jpg",
                 "malId": 108696,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zg977315"
             }
         },
-        "MangaFire": {
-            "runway-de-waratte.vv90l": {
-                "identifier": "runway-de-waratte.vv90l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0537b657dc2bf0df3ecdb4225d17193.jpg",
-                "malId": 108696,
-                "aniId": 99757,
-                "page": "MangaFire",
-                "title": "Smile Down the Runway",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/runway-de-waratte.vv90l/"
-            },
-            "runway-de-warattee.vv90l": {
-                "identifier": "runway-de-warattee.vv90l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0537b657dc2bf0df3ecdb4225d17193.jpg",
-                "malId": 108696,
-                "aniId": 99757,
-                "page": "MangaFire",
-                "title": "Smile Down the Runway",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/runway-de-warattee.vv90l/"
-            },
-            "vv90l": {
-                "identifier": "vv90l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0537b657dc2bf0df3ecdb4225d17193.jpg",
-                "malId": 108696,
-                "aniId": 99757,
-                "page": "MangaFire",
-                "title": "Smile Down the Runway",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/runway-de-warattee.vv90l/"
-            }
-        },
         "Weebcentral": {
             "01j76xycd9pg7rapa7c0g61gwr": {
+                "id": 206623,
                 "identifier": "01j76xycd9pg7rapa7c0g61gwr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCD9PG7RAPA7C0G61GWR.jpg",
                 "malId": 108696,
@@ -96,6 +69,19 @@
                 "title": "Smile Down the Runway",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCD9PG7RAPA7C0G61GWR"
+            }
+        },
+        "MangaFire": {
+            "vv90l": {
+                "id": 226323,
+                "identifier": "vv90l",
+                "image": "https://static.mangafire.to/693a/i/c/c0/c0537b657dc2bf0df3ecdb4225d17193.jpg",
+                "malId": 108696,
+                "aniId": 99757,
+                "page": "MangaFire",
+                "title": "Smile Down the Runway",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/runway-de-warattee.vv90l"
             }
         },
         "Comick": {

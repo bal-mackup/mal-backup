@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "45458b4e-b851-44b7-a424-47691fb82c06": {
+                "id": 33034,
                 "identifier": "45458b4e-b851-44b7-a424-47691fb82c06",
                 "image": "https://uploads.mangadex.org/covers/45458b4e-b851-44b7-a424-47691fb82c06/1f76aa9d-55cc-4027-9215-47b063a15dae.jpg",
                 "malId": 123457,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "lion_coeur_senki": {
+                "id": 72560,
                 "identifier": "lion_coeur_senki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36099/cover.jpg",
                 "malId": 123457,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kj987466": {
+                "id": 76633,
                 "identifier": "manga-kj987466",
                 "image": "https://avt.mkklcdnv6temp.com/48/w/22-1608916357.jpg",
                 "malId": 123457,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "the-saga-of-lioncourt": {
+                "id": 112541,
                 "identifier": "the-saga-of-lioncourt",
                 "image": "https://temp.compsci88.com/cover/The-Saga-of-Lioncourt.jpg",
                 "malId": 123457,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/The-Saga-of-Lioncourt"
             }
         },
-        "MangaFire": {
-            "lion-coeur-senki.6loy7": {
-                "identifier": "lion-coeur-senki.6loy7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2ee994fd6d580ccd4a099e70ade4fb9a.jpg",
-                "malId": 123457,
-                "aniId": 135349,
-                "page": "MangaFire",
-                "title": "The Saga of Lioncourt",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lion-coeur-senki.6loy7/"
-            },
-            "lion-coeur-senkii.6loy7": {
-                "identifier": "lion-coeur-senkii.6loy7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2ee994fd6d580ccd4a099e70ade4fb9a.jpg",
-                "malId": 123457,
-                "aniId": 135349,
-                "page": "MangaFire",
-                "title": "The Saga of Lioncourt",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lion-coeur-senkii.6loy7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfjv6cdvywpm9nm1rrph": {
+                "id": 211230,
                 "identifier": "01j76xyfjv6cdvywpm9nm1rrph",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFJV6CDVYWPM9NM1RRPH.jpg",
                 "malId": 123457,
@@ -86,6 +69,19 @@
                 "title": "The Saga of Lioncourt",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFJV6CDVYWPM9NM1RRPH"
+            }
+        },
+        "MangaFire": {
+            "6loy7": {
+                "id": 228201,
+                "identifier": "6loy7",
+                "image": "https://static.mangafire.to/e512/i/2/2e/2ee994fd6d580ccd4a099e70ade4fb9a.jpg",
+                "malId": 123457,
+                "aniId": 135349,
+                "page": "MangaFire",
+                "title": "The Saga of Lioncourt",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lion-coeur-senkii.6loy7"
             }
         },
         "Comick": {

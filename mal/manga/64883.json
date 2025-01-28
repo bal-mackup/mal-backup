@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b8cd10c5-e659-4d0c-9c05-fd33c989e09f": {
+                "id": 9763,
                 "identifier": "b8cd10c5-e659-4d0c-9c05-fd33c989e09f",
                 "image": "https://uploads.mangadex.org/covers/b8cd10c5-e659-4d0c-9c05-fd33c989e09f/c738f442-6505-44cb-81f4-d2f57f100750.jpg",
                 "malId": 64883,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mp963772": {
+                "id": 88088,
                 "identifier": "manga-mp963772",
                 "image": "https://avt.mkklcdnv6temp.com/fld/9/d/5-1732766059-nw.webp",
                 "malId": 64883,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-mp963772"
             }
         },
-        "MangaFire": {
-            "meminisse-saixrai.j9z8": {
-                "identifier": "meminisse-saixrai.j9z8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/558c94027f890844f26ad2c1157cb9af.jpg",
-                "malId": 64883,
-                "aniId": 90061,
-                "page": "MangaFire",
-                "title": "Meminisse ~SaixRai~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meminisse-saixrai.j9z8/"
-            },
-            "j9z8": {
-                "identifier": "j9z8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/558c94027f890844f26ad2c1157cb9af.jpg",
-                "malId": 64883,
-                "aniId": 90061,
-                "page": "MangaFire",
-                "title": "Meminisse ~SaixRai~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meminisse-saixrai.j9z8/"
-            }
-        },
         "MangaFox": {
             "meminisse_sai_x_rai": {
+                "id": 176529,
                 "identifier": "meminisse_sai_x_rai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45603/cover.jpg",
                 "malId": 64883,
@@ -62,6 +43,19 @@
                 "title": "Meminisse - Sai x Rai",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/meminisse_sai_x_rai/"
+            }
+        },
+        "MangaFire": {
+            "j9z8": {
+                "id": 251757,
+                "identifier": "j9z8",
+                "image": "https://static.mangafire.to/5f3a/i/5/55/558c94027f890844f26ad2c1157cb9af.jpg",
+                "malId": 64883,
+                "aniId": 90061,
+                "page": "MangaFire",
+                "title": "Meminisse ~SaixRai~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/meminisse-saixraii.j9z8"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "69756124-f4e8-4d33-b759-167f2009e7bb": {
+                "id": 27948,
                 "identifier": "69756124-f4e8-4d33-b759-167f2009e7bb",
                 "image": "https://uploads.mangadex.org/covers/69756124-f4e8-4d33-b759-167f2009e7bb/8f1f30f4-d022-4ac9-ae09-7dff0a69754b.jpg",
                 "malId": 119960,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "double-taisei": {
+                "id": 60045,
                 "identifier": "double-taisei",
                 "image": "https://temp.compsci88.com/cover/Double-Taisei.jpg",
                 "malId": 119960,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ev981830": {
+                "id": 80770,
                 "identifier": "manga-ev981830",
                 "image": "https://avt.mkklcdnv6temp.com/29/k/18-1583498219.jpg",
                 "malId": 119960,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ev981830"
             }
         },
-        "MangaFire": {
-            "futari-no-taisei.1r9wm": {
-                "identifier": "futari-no-taisei.1r9wm",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/134766ddfe46f473a5dce04691112747.jpg",
-                "malId": 119960,
-                "aniId": 109172,
-                "page": "MangaFire",
-                "title": "Double Taisei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-no-taisei.1r9wm/"
-            }
-        },
         "Weebcentral": {
             "01j76xydtjrrm1kd8c4ahj9afc": {
+                "id": 210765,
                 "identifier": "01j76xydtjrrm1kd8c4ahj9afc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDTJRRM1KD8C4AHJ9AFC.jpg",
                 "malId": 119960,
@@ -64,6 +56,19 @@
                 "title": "Double Taisei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDTJRRM1KD8C4AHJ9AFC"
+            }
+        },
+        "MangaFire": {
+            "1r9wm": {
+                "id": 259090,
+                "identifier": "1r9wm",
+                "image": "https://static.mangafire.to/e525/i/1/13/134766ddfe46f473a5dce04691112747.jpg",
+                "malId": 119960,
+                "aniId": 109172,
+                "page": "MangaFire",
+                "title": "Double Taisei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futari-no-taiseii.1r9wm"
             }
         },
         "Comick": {

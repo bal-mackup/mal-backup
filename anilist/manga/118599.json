@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b687281b-1b21-4f12-bb35-b10ddea951fb": {
+                "id": 34604,
                 "identifier": "b687281b-1b21-4f12-bb35-b10ddea951fb",
                 "image": "https://uploads.mangadex.org/covers/b687281b-1b21-4f12-bb35-b10ddea951fb/d0cd9325-67d3-48c9-9289-977788cc7a32.jpg",
                 "malId": 147952,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "killstagram": {
+                "id": 59516,
                 "identifier": "killstagram",
                 "image": "https://temp.compsci88.com/cover/Killstagram.jpg",
                 "malId": 147952,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "killstagram": {
+                "id": 106976,
                 "identifier": "killstagram",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37184/cover.jpg",
                 "malId": 147952,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/killstagram/"
             }
         },
-        "MangaFire": {
-            "killstagram.vv042": {
-                "identifier": "killstagram.vv042",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4ae511ec9345f94aa3b3748e35165bca.jpg",
-                "malId": 147952,
-                "aniId": 118599,
-                "page": "MangaFire",
-                "title": "#Killstagram",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/killstagram.vv042/"
-            },
-            "killstagramm.vv042": {
-                "identifier": "killstagramm.vv042",
-                "image": "https://static.mangafire.to/8e33/i/4/4a/4ae511ec9345f94aa3b3748e35165bca.jpg",
-                "malId": 147952,
-                "aniId": 118599,
-                "page": "MangaFire",
-                "title": "#Killstagram",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/killstagramm.vv042/"
-            }
-        },
         "Weebcentral": {
             "01j76xye84sjbdq012bbthd8rc": {
+                "id": 210221,
                 "identifier": "01j76xye84sjbdq012bbthd8rc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE84SJBDQ012BBTHD8RC.jpg",
                 "malId": 147952,
@@ -74,6 +56,19 @@
                 "title": "#Killstagram",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE84SJBDQ012BBTHD8RC"
+            }
+        },
+        "MangaFire": {
+            "vv042": {
+                "id": 223624,
+                "identifier": "vv042",
+                "image": "https://static.mangafire.to/8e33/i/4/4a/4ae511ec9345f94aa3b3748e35165bca.jpg",
+                "malId": 147952,
+                "aniId": 118599,
+                "page": "MangaFire",
+                "title": "#Killstagram",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/killstagramm.vv042"
             }
         },
         "Comick": {

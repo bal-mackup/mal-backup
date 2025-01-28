@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lo989223": {
+                "id": 80200,
                 "identifier": "manga-lo989223",
                 "image": "https://avt.mkklcdnv6temp.com/21/n/24-1624633897.jpg",
                 "malId": 155755,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "this-is-the-law": {
+                "id": 80427,
                 "identifier": "this-is-the-law",
                 "image": "https://temp.compsci88.com/cover/This-is-the-Law.jpg",
                 "malId": 155755,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "1cd2231b-32d7-4f66-85e1-7aa8aafa16bc": {
+                "id": 104497,
                 "identifier": "1cd2231b-32d7-4f66-85e1-7aa8aafa16bc",
                 "image": "https://uploads.mangadex.org/covers/1cd2231b-32d7-4f66-85e1-7aa8aafa16bc/36b6d72f-9e18-44de-945b-4410f06482ca.jpg",
                 "malId": 155755,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "this_is_the_law": {
+                "id": 111624,
                 "identifier": "this_is_the_law",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38656/cover.jpg",
                 "malId": 155755,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/this_is_the_law/"
             }
         },
-        "MangaFire": {
-            "this-is-the-law.5kk2q": {
-                "identifier": "this-is-the-law.5kk2q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4a4d302895d66fa80ed63b671b08ce2.jpg",
-                "malId": 155755,
-                "aniId": 133648,
-                "page": "MangaFire",
-                "title": "This is the Law",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/this-is-the-law.5kk2q/"
-            },
-            "this-is-the-laww.5kk2q": {
-                "identifier": "this-is-the-laww.5kk2q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4a4d302895d66fa80ed63b671b08ce2.jpg",
-                "malId": 155755,
-                "aniId": 133648,
-                "page": "MangaFire",
-                "title": "This is the Law",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/this-is-the-laww.5kk2q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyevmj8yjqcrsstc5g61a": {
+                "id": 207547,
                 "identifier": "01j76xyevmj8yjqcrsstc5g61a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEVMJ8YJQCRSSTC5G61A.jpg",
                 "malId": 155755,
@@ -86,6 +69,19 @@
                 "title": "This Is the Law",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEVMJ8YJQCRSSTC5G61A"
+            }
+        },
+        "MangaFire": {
+            "5kk2q": {
+                "id": 228487,
+                "identifier": "5kk2q",
+                "image": "https://static.mangafire.to/923e/i/a/a4/a4a4d302895d66fa80ed63b671b08ce2.jpg",
+                "malId": 155755,
+                "aniId": 133648,
+                "page": "MangaFire",
+                "title": "This is the Law",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/this-is-the-laww.5kk2q"
             }
         },
         "Comick": {

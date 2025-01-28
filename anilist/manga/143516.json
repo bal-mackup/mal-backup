@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8d2e9520-4127-4bf2-94a3-b2571029562d": {
+                "id": 94958,
                 "identifier": "8d2e9520-4127-4bf2-94a3-b2571029562d",
                 "image": "https://uploads.mangadex.org/covers/8d2e9520-4127-4bf2-94a3-b2571029562d/1d8b322a-eff4-4f2d-ac99-8db32b77b398.jpg",
                 "malId": 142629,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nd990612": {
+                "id": 99891,
                 "identifier": "manga-nd990612",
                 "image": "https://avt.mkklcdnv6temp.com/31/v/25-1648052360.jpg",
                 "malId": 142629,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "make-the-exorcist-fall-in-love": {
+                "id": 108421,
                 "identifier": "make-the-exorcist-fall-in-love",
                 "image": "https://temp.compsci88.com/cover/Make-the-Exorcist-Fall-in-Love.jpg",
                 "malId": 142629,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Make-the-Exorcist-Fall-in-Love"
             }
         },
-        "MangaFire": {
-            "exorcist-wo-otosenai.jv96y": {
-                "identifier": "exorcist-wo-otosenai.jv96y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/250e169be8b7debc64071d100d90ad56.jpg",
-                "malId": 142629,
-                "aniId": 143516,
-                "page": "MangaFire",
-                "title": "Make the Exorcist Fall in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/exorcist-wo-otosenai.jv96y/"
-            },
-            "exorcist-wo-otosenaii.jv96y": {
-                "identifier": "exorcist-wo-otosenaii.jv96y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/250e169be8b7debc64071d100d90ad56.jpg",
-                "malId": 142629,
-                "aniId": 143516,
-                "page": "MangaFire",
-                "title": "Make the Exorcist Fall in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/exorcist-wo-otosenaii.jv96y/"
-            }
-        },
         "MangaFox": {
             "exorcist_wo_otosenai": {
+                "id": 166649,
                 "identifier": "exorcist_wo_otosenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40939/cover.jpg",
                 "malId": 142629,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyfh535y7k96rd40pq467": {
+                "id": 210515,
                 "identifier": "01j76xyfh535y7k96rd40pq467",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFH535Y7K96RD40PQ467.jpg",
                 "malId": 142629,
@@ -86,6 +69,19 @@
                 "title": "Make the Exorcist Fall in Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFH535Y7K96RD40PQ467"
+            }
+        },
+        "MangaFire": {
+            "jv96y": {
+                "id": 228384,
+                "identifier": "jv96y",
+                "image": "https://static.mangafire.to/efed/i/2/25/250e169be8b7debc64071d100d90ad56.jpg",
+                "malId": 142629,
+                "aniId": 143516,
+                "page": "MangaFire",
+                "title": "Make the Exorcist Fall in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/exorcist-wo-otosenaii.jv96y"
             }
         },
         "Comick": {

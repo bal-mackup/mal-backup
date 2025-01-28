@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9fe74929-fc7c-442a-bef2-93059db87cc2": {
+                "id": 18229,
                 "identifier": "9fe74929-fc7c-442a-bef2-93059db87cc2",
                 "image": "https://uploads.mangadex.org/covers/9fe74929-fc7c-442a-bef2-93059db87cc2/6ae12f47-2196-4954-ad9a-d4ed64f5fb71.jpg",
                 "malId": 102335,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "infinite-dendrogram": {
+                "id": 58851,
                 "identifier": "infinite-dendrogram",
                 "image": "https://temp.compsci88.com/cover/Infinite-Dendrogram.jpg",
                 "malId": 102335,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "infinite_dendrogram": {
+                "id": 72765,
                 "identifier": "infinite_dendrogram",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26295/cover.jpg",
                 "malId": 102335,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ai977491": {
+                "id": 74863,
                 "identifier": "manga-ai977491",
                 "image": "https://avt.mkklcdnv6temp.com/43/u/15-1583493234.jpg",
                 "malId": 102335,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-ai977491"
             }
         },
-        "MangaFire": {
-            "infinite-dendrogram.0237k": {
-                "identifier": "infinite-dendrogram.0237k",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a658748e5744db497cc84ce68d3bb7c5.jpg",
-                "malId": 102335,
-                "aniId": 100357,
-                "page": "MangaFire",
-                "title": "Infinite Dendrogram",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/infinite-dendrogram.0237k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyckx4zdqsxnv6bgng19p": {
+                "id": 213570,
                 "identifier": "01j76xyckx4zdqsxnv6bgng19p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCKX4ZDQSXNV6BGNG19P.jpg",
                 "malId": 102335,
@@ -76,6 +69,19 @@
                 "title": "Infinite Dendrogram",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCKX4ZDQSXNV6BGNG19P"
+            }
+        },
+        "MangaFire": {
+            "0237k": {
+                "id": 258071,
+                "identifier": "0237k",
+                "image": "https://static.mangafire.to/0bf4/i/a/a6/a658748e5744db497cc84ce68d3bb7c5.jpg",
+                "malId": 102335,
+                "aniId": 100357,
+                "page": "MangaFire",
+                "title": "Infinite Dendrogram",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/infinite-dendrogramm.0237k"
             }
         },
         "Comick": {

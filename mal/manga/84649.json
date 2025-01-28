@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d590e65a-c3c8-4fd2-a754-1d0c34cf0e91": {
+                "id": 14159,
                 "identifier": "d590e65a-c3c8-4fd2-a754-1d0c34cf0e91",
                 "image": "https://uploads.mangadex.org/covers/d590e65a-c3c8-4fd2-a754-1d0c34cf0e91/6d5ee5dd-0cdf-4f34-8ad3-b83f658f9146.jpg",
                 "malId": 84649,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "biohazard-heavenly-island": {
+                "id": 66221,
                 "identifier": "biohazard-heavenly-island",
                 "image": "https://temp.compsci88.com/cover/Biohazard-Heavenly-Island.jpg",
                 "malId": 84649,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "biohazard_heavenly_island": {
+                "id": 70876,
                 "identifier": "biohazard_heavenly_island",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17305/cover.jpg",
                 "malId": 84649,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mm951421": {
+                "id": 78671,
                 "identifier": "manga-mm951421",
                 "image": "https://avt.mkklcdnv6temp.com/fld/7/b/1-1732716654-nw.webp",
                 "malId": 84649,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-mm951421"
             },
             "manga-vn998370": {
+                "id": 173278,
                 "identifier": "manga-vn998370",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/a/15-1733312268-nw.webp",
                 "malId": 84649,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-vn998370"
             }
         },
-        "MangaFire": {
-            "resident-evil-heavenly-island.4qkko": {
-                "identifier": "resident-evil-heavenly-island.4qkko",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/745e67d4f9d9d0031e3314d1b667df0c.jpg",
-                "malId": 84649,
-                "aniId": 86574,
-                "page": "MangaFire",
-                "title": "Resident Evil: Heavenly Island",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/resident-evil-heavenly-island.4qkko/"
-            },
-            "4qkko": {
-                "identifier": "4qkko",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/745e67d4f9d9d0031e3314d1b667df0c.jpg",
-                "malId": 84649,
-                "aniId": 86574,
-                "page": "MangaFire",
-                "title": "Resident Evil: Heavenly Island",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/resident-evil-heavenly-island.4qkko/"
-            }
-        },
         "Weebcentral": {
             "01j76xybgpshk5s14svbh0bhbm": {
+                "id": 211723,
                 "identifier": "01j76xybgpshk5s14svbh0bhbm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBGPSHK5S14SVBH0BHBM.jpg",
                 "malId": 84649,
@@ -96,6 +80,19 @@
                 "title": "Biohazard Heavenly Island",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBGPSHK5S14SVBH0BHBM"
+            }
+        },
+        "MangaFire": {
+            "4qkko": {
+                "id": 253444,
+                "identifier": "4qkko",
+                "image": "https://static.mangafire.to/0b7b/i/7/74/745e67d4f9d9d0031e3314d1b667df0c.jpg",
+                "malId": 84649,
+                "aniId": 86574,
+                "page": "MangaFire",
+                "title": "Resident Evil: Heavenly Island",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/resident-evil-heavenly-islandd.4qkko"
             }
         },
         "Comick": {

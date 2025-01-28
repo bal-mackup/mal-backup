@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ff50351b-0f1d-4255-9479-9744f51c2d2c": {
+                "id": 128210,
                 "identifier": "ff50351b-0f1d-4255-9479-9744f51c2d2c",
                 "image": "https://uploads.mangadex.org/covers/ff50351b-0f1d-4255-9479-9744f51c2d2c/ea59b540-2c2a-485e-9929-317947d307b8.jpg",
                 "malId": 157437,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-st995402": {
+                "id": 128830,
                 "identifier": "manga-st995402",
                 "image": "https://avt.mkklcdnv6temp.com/26/i/29-1680500498.jpg",
                 "malId": 157437,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-st995402"
             }
         },
-        "MangaFire": {
-            "pension-live-vampire.mvmwp": {
-                "identifier": "pension-live-vampire.mvmwp",
-                "image": "https://static.mangafire.to/3b2d5/i/9/92/924e09b47d787ee59741137142ab8f8f.jpg",
-                "malId": 157437,
-                "aniId": 163156,
-                "page": "MangaFire",
-                "title": "The Pension Life Vampire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pension-live-vampire.mvmwp/"
-            }
-        },
         "MangaSee": {
             "the-pension-life-vampire": {
+                "id": 156457,
                 "identifier": "the-pension-life-vampire",
                 "image": "https://temp.compsci88.com/cover/The-Pension-Life-Vampire.jpg",
                 "malId": 157437,
@@ -56,6 +47,7 @@
         },
         "MangaFox": {
             "pension_life_vampire": {
+                "id": 171174,
                 "identifier": "pension_life_vampire",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45151/cover.jpg",
                 "malId": 157437,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg3fdkw6jhv3g56ns8kw": {
+                "id": 207492,
                 "identifier": "01j76xyg3fdkw6jhv3g56ns8kw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG3FDKW6JHV3G56NS8KW.jpg",
                 "malId": 157437,
@@ -76,6 +69,19 @@
                 "title": "The Pension Life Vampire",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG3FDKW6JHV3G56NS8KW"
+            }
+        },
+        "MangaFire": {
+            "mvmwp": {
+                "id": 266343,
+                "identifier": "mvmwp",
+                "image": "https://static.mangafire.to/e968/i/9/92/924e09b47d787ee59741137142ab8f8f.jpg",
+                "malId": 157437,
+                "aniId": 163156,
+                "page": "MangaFire",
+                "title": "The Pension Life Vampire",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pension-live-vampiree.mvmwp"
             }
         },
         "Comick": {

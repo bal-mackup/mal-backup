@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "551c987c-fe56-41b1-98f8-fbc87f4048da": {
+                "id": 31542,
                 "identifier": "551c987c-fe56-41b1-98f8-fbc87f4048da",
                 "image": "https://uploads.mangadex.org/covers/551c987c-fe56-41b1-98f8-fbc87f4048da/351d1b27-4b0b-47a1-8c0e-5c78d64ce624.jpg",
                 "malId": 148069,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "empress-empress": {
+                "id": 77667,
                 "identifier": "empress-empress",
                 "image": "https://temp.compsci88.com/cover/Empress-Empress.jpg",
                 "malId": 148069,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "empress_empress": {
+                "id": 107244,
                 "identifier": "empress_empress",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38603/cover.jpg",
                 "malId": 148069,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/empress_empress/"
             }
         },
-        "MangaFire": {
-            "i-dont-want-to-be-empress.zlvwl": {
-                "identifier": "i-dont-want-to-be-empress.zlvwl",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1ad90d14aeb5fb6a9d24da7c672dcf2.jpg",
-                "malId": 148069,
-                "aniId": 117923,
-                "page": "MangaFire",
-                "title": "Empress? Empress!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-dont-want-to-be-empress.zlvwl/"
-            },
-            "i-dont-want-to-be-empresss.zlvwl": {
-                "identifier": "i-dont-want-to-be-empresss.zlvwl",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1ad90d14aeb5fb6a9d24da7c672dcf2.jpg",
-                "malId": 148069,
-                "aniId": 117923,
-                "page": "MangaFire",
-                "title": "Empress? Empress!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-dont-want-to-be-empresss.zlvwl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeskp94hgn8dn9f5k55p": {
+                "id": 209364,
                 "identifier": "01j76xyeskp94hgn8dn9f5k55p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYESKP94HGN8DN9F5K55P.jpg",
                 "malId": 148069,
@@ -74,6 +56,19 @@
                 "title": "Empress? Empress!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYESKP94HGN8DN9F5K55P"
+            }
+        },
+        "MangaFire": {
+            "zlvwl": {
+                "id": 240983,
+                "identifier": "zlvwl",
+                "image": "https://static.mangafire.to/6a37/i/f/f1/f1ad90d14aeb5fb6a9d24da7c672dcf2.jpg",
+                "malId": 148069,
+                "aniId": 117923,
+                "page": "MangaFire",
+                "title": "Empress? Empress!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-dont-want-to-be-empresss.zlvwl"
             }
         },
         "Comick": {

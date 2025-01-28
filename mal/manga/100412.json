@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5f10a1f9-5eb0-4554-af0e-9f9de7be2c29": {
+                "id": 16243,
                 "identifier": "5f10a1f9-5eb0-4554-af0e-9f9de7be2c29",
                 "image": "https://uploads.mangadex.org/covers/5f10a1f9-5eb0-4554-af0e-9f9de7be2c29/77f4c8fb-74c4-411e-b566-7407418da69c.jpg",
                 "malId": 100412,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ureshon": {
+                "id": 68093,
                 "identifier": "ureshon",
                 "image": "https://temp.compsci88.com/cover/Ureshon.jpg",
                 "malId": 100412,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vu972529": {
+                "id": 77643,
                 "identifier": "manga-vu972529",
                 "image": "https://avt.mkklcdnv6temp.com/15/m/14-1583490301.jpg",
                 "malId": 100412,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ureshon": {
+                "id": 94607,
                 "identifier": "ureshon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21351/cover.jpg",
                 "malId": 100412,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ureshon/"
             }
         },
-        "MangaFire": {
-            "ureshon.7wp37": {
-                "identifier": "ureshon.7wp37",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9f7576045008d3fef70aedc4db5ca60.jpg",
-                "malId": 100412,
-                "aniId": 97538,
-                "page": "MangaFire",
-                "title": "Ureshon!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ureshon.7wp37/"
-            },
-            "ureshonn.7wp37": {
-                "identifier": "ureshonn.7wp37",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9f7576045008d3fef70aedc4db5ca60.jpg",
-                "malId": 100412,
-                "aniId": 97538,
-                "page": "MangaFire",
-                "title": "Ureshon!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ureshonn.7wp37/"
-            }
-        },
         "Weebcentral": {
             "01j76xychdqwv1thtadnsk1s8c": {
+                "id": 214376,
                 "identifier": "01j76xychdqwv1thtadnsk1s8c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCHDQWV1THTADNSK1S8C.jpg",
                 "malId": 100412,
@@ -86,6 +69,19 @@
                 "title": "Ureshon!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCHDQWV1THTADNSK1S8C"
+            }
+        },
+        "MangaFire": {
+            "7wp37": {
+                "id": 228478,
+                "identifier": "7wp37",
+                "image": "https://static.mangafire.to/73ea/i/f/f9/f9f7576045008d3fef70aedc4db5ca60.jpg",
+                "malId": 100412,
+                "aniId": 97538,
+                "page": "MangaFire",
+                "title": "Ureshon!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ureshonn.7wp37"
             }
         },
         "Comick": {

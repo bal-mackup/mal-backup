@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f48398c1-264f-4b42-82b8-9bb979cf8a7b": {
+                "id": 37758,
                 "identifier": "f48398c1-264f-4b42-82b8-9bb979cf8a7b",
                 "image": "https://uploads.mangadex.org/covers/f48398c1-264f-4b42-82b8-9bb979cf8a7b/68555da8-8bc8-4a53-908d-1b7ffe6d2f80.jpg",
                 "malId": 127087,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/f48398c1-264f-4b42-82b8-9bb979cf8a7b"
             }
         },
-        "MangaFire": {
-            "kimi-ga-niku-ni-natte-mo.92oj0": {
-                "identifier": "kimi-ga-niku-ni-natte-mo.92oj0",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dce405e707eac3a782d102b439b1f52e.jpg",
-                "malId": 127087,
-                "aniId": 121550,
-                "page": "MangaFire",
-                "title": "Even if You Become Meat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ga-niku-ni-natte-mo.92oj0/"
-            }
-        },
         "MangaFox": {
             "kimi_ga_niku_ni_nattemo": {
+                "id": 205905,
                 "identifier": "kimi_ga_niku_ni_nattemo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35796/cover.jpg",
                 "malId": 127087,
@@ -40,6 +30,19 @@
                 "title": "Kimi ga Niku ni Nattemo",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kimi_ga_niku_ni_nattemo/"
+            }
+        },
+        "MangaFire": {
+            "92oj0": {
+                "id": 247359,
+                "identifier": "92oj0",
+                "image": "https://static.mangafire.to/a33e/i/d/dc/dce405e707eac3a782d102b439b1f52e.jpg",
+                "malId": 127087,
+                "aniId": 121550,
+                "page": "MangaFire",
+                "title": "Even if You Become Meat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ga-niku-ni-natte-moo.92oj0"
             }
         },
         "Comick": {

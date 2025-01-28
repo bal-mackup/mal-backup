@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d9ab5041-e497-4323-83cb-c3f3b9aaaf71": {
+                "id": 15440,
                 "identifier": "d9ab5041-e497-4323-83cb-c3f3b9aaaf71",
                 "image": "https://uploads.mangadex.org/covers/d9ab5041-e497-4323-83cb-c3f3b9aaaf71/40f81dbb-901e-4a29-a0a0-5401961f3817.jpg",
                 "malId": 88906,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "its-my-life": {
+                "id": 60557,
                 "identifier": "its-my-life",
                 "image": "https://temp.compsci88.com/cover/Its-My-Life.jpg",
                 "malId": 88906,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "it_s_my_life": {
+                "id": 69940,
                 "identifier": "it_s_my_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19493/cover.jpg",
                 "malId": 88906,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-tb970858": {
+                "id": 79096,
                 "identifier": "manga-tb970858",
                 "image": "https://avt.mkklcdnv6temp.com/34/g/13-1583488967.jpg",
                 "malId": 88906,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-tb970858"
             }
         },
-        "MangaFire": {
-            "its-my-life.3rw72": {
-                "identifier": "its-my-life.3rw72",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43570742be032ee8e6dc4d9f1027d889.jpg",
-                "malId": 88906,
-                "aniId": 87509,
-                "page": "MangaFire",
-                "title": "It's My Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/its-my-life.3rw72/"
-            },
-            "its-my-lifee.3rw72": {
-                "identifier": "its-my-lifee.3rw72",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43570742be032ee8e6dc4d9f1027d889.jpg",
-                "malId": 88906,
-                "aniId": 87509,
-                "page": "MangaFire",
-                "title": "It's My Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/its-my-lifee.3rw72/"
-            }
-        },
         "Weebcentral": {
             "01j76xybmse24mjctjk6hp54av": {
+                "id": 210766,
                 "identifier": "01j76xybmse24mjctjk6hp54av",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMSE24MJCTJK6HP54AV.jpg",
                 "malId": 88906,
@@ -86,6 +69,19 @@
                 "title": "It's My Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMSE24MJCTJK6HP54AV"
+            }
+        },
+        "MangaFire": {
+            "3rw72": {
+                "id": 225217,
+                "identifier": "3rw72",
+                "image": "https://static.mangafire.to/33c2/i/4/43/43570742be032ee8e6dc4d9f1027d889.jpg",
+                "malId": 88906,
+                "aniId": 87509,
+                "page": "MangaFire",
+                "title": "It's My Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/its-my-lifee.3rw72"
             }
         },
         "Comick": {

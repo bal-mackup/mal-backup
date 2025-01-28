@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "520b0898-9ad1-4121-aa3b-a2f22e0cf371": {
+                "id": 23144,
                 "identifier": "520b0898-9ad1-4121-aa3b-a2f22e0cf371",
                 "image": "https://uploads.mangadex.org/covers/520b0898-9ad1-4121-aa3b-a2f22e0cf371/b1b95e2e-a5ca-4aa7-9095-5e7ccc547885.jpg",
                 "malId": 114595,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "game_obu_familia_family_senki": {
+                "id": 57006,
                 "identifier": "game_obu_familia_family_senki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27902/cover.jpg",
                 "malId": 114595,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "game-obu-familia---family-senki": {
+                "id": 57957,
                 "identifier": "game-obu-familia---family-senki",
                 "image": "https://temp.compsci88.com/cover/Game-Obu-Familia---Family-Senki.jpg",
                 "malId": 114595,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ca979409": {
+                "id": 74200,
                 "identifier": "manga-ca979409",
                 "image": "https://avt.mkklcdnv6temp.com/40/k/16-1583494916.jpg",
                 "malId": 114595,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-ca979409"
             },
             "manga-hg984515": {
+                "id": 77060,
                 "identifier": "manga-hg984515",
                 "image": "https://avt.mkklcdnv6temp.com/29/a/20-1583502144.jpg",
                 "malId": 114595,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-hg984515"
             }
         },
-        "MangaFire": {
-            "game-of-familia-kazoku-senki.ll85n": {
-                "identifier": "game-of-familia-kazoku-senki.ll85n",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a07e5c245b970d11f915e5bcdbb48389.jpg",
-                "malId": 114595,
-                "aniId": 104033,
-                "page": "MangaFire",
-                "title": "Game of Familia: Kazoku Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/game-of-familia-kazoku-senki.ll85n/"
-            },
-            "ll85n": {
-                "identifier": "ll85n",
-                "image": "https://static.mangafire.to/00d9/i/a/a0/a07e5c245b970d11f915e5bcdbb48389.jpg",
-                "malId": 114595,
-                "aniId": 104033,
-                "page": "MangaFire",
-                "title": "Game of Familia: Kazoku Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/game-of-familia-kazoku-senkii.ll85n"
-            }
-        },
         "Weebcentral": {
             "01j76xycksrm8w3qn3vrj64wcf": {
+                "id": 209448,
                 "identifier": "01j76xycksrm8w3qn3vrj64wcf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCKSRM8W3QN3VRJ64WCF.jpg",
                 "malId": 114595,
@@ -96,6 +80,19 @@
                 "title": "Game of Familia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCKSRM8W3QN3VRJ64WCF"
+            }
+        },
+        "MangaFire": {
+            "ll85n": {
+                "id": 258273,
+                "identifier": "ll85n",
+                "image": "https://static.mangafire.to/00d9/i/a/a0/a07e5c245b970d11f915e5bcdbb48389.jpg",
+                "malId": 114595,
+                "aniId": 104033,
+                "page": "MangaFire",
+                "title": "Game of Familia: Kazoku Senki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/game-of-familia-kazoku-senkii.ll85n"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "tacit": {
+                "id": 85963,
                 "identifier": "tacit",
                 "image": "https://temp.compsci88.com/cover/Tacit.jpg",
                 "malId": 148173,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ms989775": {
+                "id": 88350,
                 "identifier": "manga-ms989775",
                 "image": "https://avt.mkklcdnv6temp.com/45/z/24-1633870150.jpg",
                 "malId": 148173,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "622357dd-d603-4fcd-931f-9f7ac44940eb": {
+                "id": 105301,
                 "identifier": "622357dd-d603-4fcd-931f-9f7ac44940eb",
                 "image": "https://uploads.mangadex.org/covers/622357dd-d603-4fcd-931f-9f7ac44940eb/85ddc0ab-2366-4411-b72b-2e5b16ca5a42.jpg",
                 "malId": 148173,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/622357dd-d603-4fcd-931f-9f7ac44940eb"
             }
         },
-        "MangaFire": {
-            "tacit.kw7v9": {
-                "identifier": "tacit.kw7v9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db983350169aa6d23a33286552c26f8f.jpg",
-                "malId": 148173,
-                "aniId": 138570,
-                "page": "MangaFire",
-                "title": "TACIT",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tacit.kw7v9/"
-            },
-            "tacitt.kw7v9": {
-                "identifier": "tacitt.kw7v9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db983350169aa6d23a33286552c26f8f.jpg",
-                "malId": 148173,
-                "aniId": 138570,
-                "page": "MangaFire",
-                "title": "TACIT",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tacitt.kw7v9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyezd2s0fn8tee5jy213d": {
+                "id": 212702,
                 "identifier": "01j76xyezd2s0fn8tee5jy213d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEZD2S0FN8TEE5JY213D.jpg",
                 "malId": 148173,
@@ -74,6 +56,19 @@
                 "title": "Tacit",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEZD2S0FN8TEE5JY213D"
+            }
+        },
+        "MangaFire": {
+            "kw7v9": {
+                "id": 248107,
+                "identifier": "kw7v9",
+                "image": "https://static.mangafire.to/c4d5/i/d/db/db983350169aa6d23a33286552c26f8f.jpg",
+                "malId": 148173,
+                "aniId": 138570,
+                "page": "MangaFire",
+                "title": "TACIT",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tacitt.kw7v9"
             }
         },
         "Comick": {

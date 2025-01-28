@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "33617205-e96b-4f20-88a6-bc1d75e3557c": {
+                "id": 30729,
                 "identifier": "33617205-e96b-4f20-88a6-bc1d75e3557c",
                 "image": "https://uploads.mangadex.org/covers/33617205-e96b-4f20-88a6-bc1d75e3557c/34a18bfe-9a39-4b74-9907-ac190d153f9c.jpg",
                 "malId": 121974,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/33617205-e96b-4f20-88a6-bc1d75e3557c"
             }
         },
-        "MangaFire": {
-            "isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasen.52wom": {
-                "identifier": "isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasen.52wom",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5dc2974aed51144903fb63d170d00fac.jpg",
-                "malId": 121974,
-                "aniId": 137316,
-                "page": "MangaFire",
-                "title": "Isekai de Dorei ni Narimashitaga Goshujin-sama wa Watashi ni Yokujo Shimasen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasen.52wom/"
-            },
-            "isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasenn.52wom": {
-                "identifier": "isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasenn.52wom",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5dc2974aed51144903fb63d170d00fac.jpg",
-                "malId": 121974,
-                "aniId": 137316,
-                "page": "MangaFire",
-                "title": "Isekai de Dorei ni Narimashitaga Goshujin-sama wa Watashi ni Yokujo Shimasen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasenn.52wom/"
-            }
-        },
         "MangaFox": {
             "isekai_de_dorei_ni_narimashitaga_goshujin_sama_wa_watashi_ni_yokujo_shimasen": {
+                "id": 158612,
                 "identifier": "isekai_de_dorei_ni_narimashitaga_goshujin_sama_wa_watashi_ni_yokujo_shimasen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39655/cover.jpg",
                 "malId": 121974,
@@ -50,6 +30,19 @@
                 "title": "Isekai de Dorei ni Narimashitaga Goshujin-sama wa Watashi ni Yokujo Shimasen",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/isekai_de_dorei_ni_narimashitaga_goshujin_sama_wa_watashi_ni_yokujo_shimasen/"
+            }
+        },
+        "MangaFire": {
+            "52wom": {
+                "id": 253037,
+                "identifier": "52wom",
+                "image": "https://static.mangafire.to/a2f2/i/5/5d/5dc2974aed51144903fb63d170d00fac.jpg",
+                "malId": 121974,
+                "aniId": 137316,
+                "page": "MangaFire",
+                "title": "Isekai de Dorei ni Narimashitaga Goshujin-sama wa Watashi ni Yokujo Shimasen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-de-dorei-ni-narimashitaga-goshujin-sama-wa-watashi-ni-yokujo-shimasenn.52wom"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0a814cc-2469-4f35-b73d-73aa27709df6": {
+                "id": 51329,
                 "identifier": "d0a814cc-2469-4f35-b73d-73aa27709df6",
                 "image": "https://uploads.mangadex.org/covers/d0a814cc-2469-4f35-b73d-73aa27709df6/e4798987-d3e6-4e3e-9e60-1db9981df5c1.jpg",
                 "malId": 133988,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ju986977": {
+                "id": 77790,
                 "identifier": "manga-ju986977",
                 "image": "https://avt.mkklcdnv6temp.com/28/r/22-1603039715.jpg",
                 "malId": 133988,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-ju986977"
             },
             "manga-tb996358": {
+                "id": 157868,
                 "identifier": "manga-tb996358",
                 "image": "https://avt.mkklcdnv6temp.com/fld/13/l/15-1733307380-nw.webp",
                 "malId": 133988,
@@ -40,6 +43,7 @@
                 "url": "https://manganato.com/manga-tb996358"
             },
             "manga-so996123": {
+                "id": 160438,
                 "identifier": "manga-so996123",
                 "image": "https://avt.mkklcdnv6temp.com/fld/4/k/14-1733306833-nw.webp",
                 "malId": 133988,
@@ -50,30 +54,9 @@
                 "url": "https://manganato.com/manga-so996123"
             }
         },
-        "MangaFire": {
-            "seishun-buta-yarou-wa-logical-witch-no-yume-wo-minai.6lmz0": {
-                "identifier": "seishun-buta-yarou-wa-logical-witch-no-yume-wo-minai.6lmz0",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65467982aeea4ad90d53f4fd2800e81a.jpg",
-                "malId": 133988,
-                "aniId": 127683,
-                "page": "MangaFire",
-                "title": "Rascal Does Not Dream of Logical Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seishun-buta-yarou-wa-logical-witch-no-yume-wo-minai.6lmz0/"
-            },
-            "seishun-buta-yarou-wa-logical-witch-no-yume-wo-minaii.6lmz0": {
-                "identifier": "seishun-buta-yarou-wa-logical-witch-no-yume-wo-minaii.6lmz0",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65467982aeea4ad90d53f4fd2800e81a.jpg",
-                "malId": 133988,
-                "aniId": 127683,
-                "page": "MangaFire",
-                "title": "Rascal Does Not Dream of Logical Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seishun-buta-yarou-wa-logical-witch-no-yume-wo-minaii.6lmz0/"
-            }
-        },
         "MangaSee": {
             "rascal-does-not-dream-of-logical-witch": {
+                "id": 178010,
                 "identifier": "rascal-does-not-dream-of-logical-witch",
                 "image": "https://temp.compsci88.com/cover/Rascal-Does-Not-Dream-of-Logical-Witch.jpg",
                 "malId": 133988,
@@ -86,6 +69,7 @@
         },
         "Weebcentral": {
             "01j76xygrsfr2chty4x8kdzhfw": {
+                "id": 209066,
                 "identifier": "01j76xygrsfr2chty4x8kdzhfw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGRSFR2CHTY4X8KDZHFW.jpg",
                 "malId": 133988,
@@ -94,6 +78,19 @@
                 "title": "Rascal Does Not Dream of Logical Witch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGRSFR2CHTY4X8KDZHFW"
+            }
+        },
+        "MangaFire": {
+            "6lmz0": {
+                "id": 223946,
+                "identifier": "6lmz0",
+                "image": "https://static.mangafire.to/e2d4/i/6/65/65467982aeea4ad90d53f4fd2800e81a.jpg",
+                "malId": 133988,
+                "aniId": 127683,
+                "page": "MangaFire",
+                "title": "Rascal Does Not Dream of Logical Witch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seishun-buta-yarou-wa-logical-witch-no-yume-wo-minaii.6lmz0"
             }
         },
         "Comick": {

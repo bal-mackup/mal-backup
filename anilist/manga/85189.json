@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "736a2bf0-f875-4b52-a7b4-e8c40505b68a": {
+                "id": 9585,
                 "identifier": "736a2bf0-f875-4b52-a7b4-e8c40505b68a",
                 "image": "https://uploads.mangadex.org/covers/736a2bf0-f875-4b52-a7b4-e8c40505b68a/7f07f02e-39ba-4e38-a01d-6f74652013fa.jpg",
                 "malId": 60783,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mob-psycho100": {
+                "id": 54714,
                 "identifier": "mob-psycho100",
                 "image": "https://temp.compsci88.com/cover/Mob-Psycho100.jpg",
                 "malId": 60783,
@@ -30,6 +32,7 @@
                 "url": "https://mangasee123.com/manga/Mob-Psycho100"
             },
             "mob-psycho-100-reigen": {
+                "id": 56584,
                 "identifier": "mob-psycho-100-reigen",
                 "image": "https://temp.compsci88.com/cover/Mob-Psycho-100-Reigen.jpg",
                 "malId": 60783,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "mob_psycho_100": {
+                "id": 55776,
                 "identifier": "mob_psycho_100",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13410/cover.jpg",
                 "malId": 60783,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ln951470": {
+                "id": 73199,
                 "identifier": "manga-ln951470",
                 "image": "https://avt.mkklcdnv6temp.com/5/w/1-1583463891.jpg",
                 "malId": 60783,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ln951470"
             }
         },
-        "MangaFire": {
-            "mob-psycho-100.mrlp": {
-                "identifier": "mob-psycho-100.mrlp",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e681912364ed662910275354d4c828c.jpg",
-                "malId": 60783,
-                "aniId": 85189,
-                "page": "MangaFire",
-                "title": "Mob Psycho 100",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mob-psycho-100.mrlp/"
-            },
-            "mob-psycho-1000.mrlp": {
-                "identifier": "mob-psycho-1000.mrlp",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e681912364ed662910275354d4c828c.jpg",
-                "malId": 60783,
-                "aniId": 85189,
-                "page": "MangaFire",
-                "title": "Mob Psycho 100",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mob-psycho-1000.mrlp/"
-            }
-        },
         "Weebcentral": {
             "01j76xye61ek14ba2j700gp4gf": {
+                "id": 206336,
                 "identifier": "01j76xye61ek14ba2j700gp4gf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE61EK14BA2J700GP4GF.jpg",
                 "malId": 60783,
@@ -98,6 +82,7 @@
                 "url": "https://weebcentral.com/series/01J76XYE61EK14BA2J700GP4GF"
             },
             "01j76xy9wy1hw989fw5g9zye9g": {
+                "id": 212166,
                 "identifier": "01j76xy9wy1hw989fw5g9zye9g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9WY1HW989FW5G9ZYE9G.jpg",
                 "malId": 60783,
@@ -106,6 +91,19 @@
                 "title": "Mob Psycho 100",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9WY1HW989FW5G9ZYE9G"
+            }
+        },
+        "MangaFire": {
+            "mrlp": {
+                "id": 225081,
+                "identifier": "mrlp",
+                "image": "https://static.mangafire.to/8841/i/4/4e/4e681912364ed662910275354d4c828c.jpg",
+                "malId": 60783,
+                "aniId": 85189,
+                "page": "MangaFire",
+                "title": "Mob Psycho 100",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mob-psycho-1000.mrlp"
             }
         },
         "Comick": {

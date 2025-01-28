@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "442557eb-b2fc-4d2c-8a38-5518627086b4": {
+                "id": 18330,
                 "identifier": "442557eb-b2fc-4d2c-8a38-5518627086b4",
                 "image": "https://uploads.mangadex.org/covers/442557eb-b2fc-4d2c-8a38-5518627086b4/6244899e-2902-4fdc-9bbd-77168ac98382.jpg",
                 "malId": 86330,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "blend_s": {
+                "id": 55423,
                 "identifier": "blend_s",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26481/cover.jpg",
                 "malId": 86330,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "blend-s": {
+                "id": 56226,
                 "identifier": "blend-s",
                 "image": "https://temp.compsci88.com/cover/Blend-S.jpg",
                 "malId": 86330,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-av977656": {
+                "id": 75372,
                 "identifier": "manga-av977656",
                 "image": "https://avt.mkklcdnv6temp.com/47/d/15-1583493363.jpg",
                 "malId": 86330,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-av977656"
             },
             "manga-lp988398": {
+                "id": 75376,
                 "identifier": "manga-lp988398",
                 "image": "https://avt.mkklcdnv6temp.com/37/f/23-1614876375.jpg",
                 "malId": 86330,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-lp988398"
             }
         },
-        "MangaFire": {
-            "blend-s.8nnvq": {
-                "identifier": "blend-s.8nnvq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54b66175656ca2256f5b9c7a01385d82.jpg",
-                "malId": 86330,
-                "aniId": 93940,
-                "page": "MangaFire",
-                "title": "Blend S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blend-s.8nnvq/"
-            },
-            "blend-ss.8nnvq": {
-                "identifier": "blend-ss.8nnvq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54b66175656ca2256f5b9c7a01385d82.jpg",
-                "malId": 86330,
-                "aniId": 93940,
-                "page": "MangaFire",
-                "title": "Blend S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blend-ss.8nnvq/"
-            },
-            "8nnvq": {
-                "identifier": "8nnvq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54b66175656ca2256f5b9c7a01385d82.jpg",
-                "malId": 86330,
-                "aniId": 93940,
-                "page": "MangaFire",
-                "title": "Blend S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blend-ss.8nnvq/"
-            }
-        },
         "Weebcentral": {
             "01j76xye6as8830drq2xfc9nvf": {
+                "id": 211399,
                 "identifier": "01j76xye6as8830drq2xfc9nvf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE6AS8830DRQ2XFC9NVF.jpg",
                 "malId": 86330,
@@ -106,6 +80,19 @@
                 "title": "Blend S",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE6AS8830DRQ2XFC9NVF"
+            }
+        },
+        "MangaFire": {
+            "8nnvq": {
+                "id": 227310,
+                "identifier": "8nnvq",
+                "image": "https://static.mangafire.to/c93c/i/5/54/54b66175656ca2256f5b9c7a01385d82.jpg",
+                "malId": 86330,
+                "aniId": 93940,
+                "page": "MangaFire",
+                "title": "Blend S",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/blend-ss.8nnvq"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "efb62763-c940-4495-aba5-69c192a999a4": {
+                "id": 24589,
                 "identifier": "efb62763-c940-4495-aba5-69c192a999a4",
                 "image": "https://uploads.mangadex.org/covers/efb62763-c940-4495-aba5-69c192a999a4/09f7687e-e267-49f3-83f0-814073389bbd.jpg",
                 "malId": 111767,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "do-chokkyuu-kareshi-x-kanojo": {
+                "id": 58573,
                 "identifier": "do-chokkyuu-kareshi-x-kanojo",
                 "image": "https://temp.compsci88.com/cover/Do-Chokkyuu-Kareshi-x-Kanojo.jpg",
                 "malId": 111767,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "do_chokkyuu_kareshi_x_kanojo": {
+                "id": 71952,
                 "identifier": "do_chokkyuu_kareshi_x_kanojo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30461/cover.jpg",
                 "malId": 111767,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-da981009": {
+                "id": 72935,
                 "identifier": "manga-da981009",
                 "image": "https://avt.mkklcdnv6temp.com/49/k/17-1583497050.jpg",
                 "malId": 111767,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-da981009"
             }
         },
-        "MangaFire": {
-            "do-chokkyuu-kareshi-x-kanojo.nrl4j": {
-                "identifier": "do-chokkyuu-kareshi-x-kanojo.nrl4j",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/ce82a19601c8517d65f6b4d709df2191.jpg",
-                "malId": 111767,
-                "aniId": 107485,
-                "page": "MangaFire",
-                "title": "Do Chokkyuu Kareshi x Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/do-chokkyuu-kareshi-x-kanojo.nrl4j/"
-            }
-        },
         "Weebcentral": {
             "01j76xydfdvb2gf33hhycnfchs": {
+                "id": 212784,
                 "identifier": "01j76xydfdvb2gf33hhycnfchs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDFDVB2GF33HHYCNFCHS.jpg",
                 "malId": 111767,
@@ -76,6 +69,19 @@
                 "title": "Do Chokkyuu Kareshi x Kanojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDFDVB2GF33HHYCNFCHS"
+            }
+        },
+        "MangaFire": {
+            "nrl4j": {
+                "id": 259065,
+                "identifier": "nrl4j",
+                "image": "https://static.mangafire.to/0822/i/c/ce/ce82a19601c8517d65f6b4d709df2191.jpg",
+                "malId": 111767,
+                "aniId": 107485,
+                "page": "MangaFire",
+                "title": "Do Chokkyuu Kareshi x Kanojo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/do-chokkyuu-kareshi-x-kanojoo.nrl4j"
             }
         },
         "Comick": {

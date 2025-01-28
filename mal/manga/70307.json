@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d9710b58-43d0-4873-b10a-9c3f9baca851": {
+                "id": 12373,
                 "identifier": "d9710b58-43d0-4873-b10a-9c3f9baca851",
                 "image": "https://uploads.mangadex.org/covers/d9710b58-43d0-4873-b10a-9c3f9baca851/afba8ae4-3237-4cae-a724-897c9c3c1a64.jpg",
                 "malId": 70307,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "juuou_mujin_no_fafnir": {
+                "id": 58258,
                 "identifier": "juuou_mujin_no_fafnir",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15013/cover.jpg",
                 "malId": 70307,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "unlimited-fafnir": {
+                "id": 69188,
                 "identifier": "unlimited-fafnir",
                 "image": "https://temp.compsci88.com/cover/Unlimited-Fafnir.jpg",
                 "malId": 70307,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ka952357": {
+                "id": 74427,
                 "identifier": "manga-ka952357",
                 "image": "https://avt.mkklcdnv6temp.com/36/l/1-1583465130.jpg",
                 "malId": 70307,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ka952357"
             }
         },
-        "MangaFire": {
-            "juuou-mujin-no-fafnir.pr3j6": {
-                "identifier": "juuou-mujin-no-fafnir.pr3j6",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cbd045d4311c069f4f1c6dee8bb08bdf.jpg",
-                "malId": 70307,
-                "aniId": 86201,
-                "page": "MangaFire",
-                "title": "Unlimited Fafnir",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/juuou-mujin-no-fafnir.pr3j6/"
-            },
-            "pr3j6": {
-                "identifier": "pr3j6",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cbd045d4311c069f4f1c6dee8bb08bdf.jpg",
-                "malId": 70307,
-                "aniId": 86201,
-                "page": "MangaFire",
-                "title": "Unlimited Fafnir",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/juuou-mujin-no-fafnir.pr3j6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb9y8ewds7wp6z5wyf0t": {
+                "id": 208344,
                 "identifier": "01j76xyb9y8ewds7wp6z5wyf0t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB9Y8EWDS7WP6Z5WYF0T.jpg",
                 "malId": 70307,
@@ -86,6 +69,19 @@
                 "title": "Unlimited Fafnir",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB9Y8EWDS7WP6Z5WYF0T"
+            }
+        },
+        "MangaFire": {
+            "pr3j6": {
+                "id": 244878,
+                "identifier": "pr3j6",
+                "image": "https://static.mangafire.to/f285/i/c/cb/cbd045d4311c069f4f1c6dee8bb08bdf.jpg",
+                "malId": 70307,
+                "aniId": 86201,
+                "page": "MangaFire",
+                "title": "Unlimited Fafnir",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/juuou-mujin-no-fafnirr.pr3j6"
             }
         },
         "Comick": {

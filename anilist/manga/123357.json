@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3c04ad4e-9990-429a-a4a2-88a72a46ece9": {
+                "id": 38933,
                 "identifier": "3c04ad4e-9990-429a-a4a2-88a72a46ece9",
                 "image": "https://uploads.mangadex.org/covers/3c04ad4e-9990-429a-a4a2-88a72a46ece9/09b611f4-0ef1-4ff1-980b-ac417f564828.jpg",
                 "malId": 159302,
@@ -19,25 +20,16 @@
             }
         },
         "MangaFire": {
-            "hits.rlvjp": {
-                "identifier": "hits.rlvjp",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/39f930e42eebcc02ad4c1824688b903f.jpg",
-                "malId": 159302,
-                "aniId": 123357,
-                "page": "MangaFire",
-                "title": "HITS",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hits.rlvjp/"
-            },
-            "hitss.rlvjp": {
-                "identifier": "hitss.rlvjp",
+            "rlvjp": {
+                "id": 223293,
+                "identifier": "rlvjp",
                 "image": "https://static.mangafire.to/3b19/i/3/39/39f930e42eebcc02ad4c1824688b903f.jpg",
                 "malId": 159302,
                 "aniId": 123357,
                 "page": "MangaFire",
                 "title": "HITS",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/hitss.rlvjp/"
+                "url": "https://mangafire.to/manga/hitss.rlvjp"
             }
         },
         "Comick": {

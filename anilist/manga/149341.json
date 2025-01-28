@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e880f56e-362a-40d6-8d88-c978dec76126": {
+                "id": 102220,
                 "identifier": "e880f56e-362a-40d6-8d88-c978dec76126",
                 "image": "https://uploads.mangadex.org/covers/e880f56e-362a-40d6-8d88-c978dec76126/e8728d09-fd86-4743-9248-8dd82f29c932.jpg",
                 "malId": 152462,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pv992778": {
+                "id": 116434,
                 "identifier": "manga-pv992778",
                 "image": "https://avt.mkklcdnv6temp.com/21/i/27-1665990930.jpg",
                 "malId": 152462,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyaku": {
+                "id": 123800,
                 "identifier": "matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyaku",
                 "image": "https://temp.compsci88.com/cover/Matei-Kyoushi-to-Juuzoku-Shoujo-no-Haitoku-Keiyaku.jpg",
                 "malId": 152462,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Matei-Kyoushi-to-Juuzoku-Shoujo-no-Haitoku-Keiyaku"
             }
         },
-        "MangaFire": {
-            "matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyaku.rj8nq": {
-                "identifier": "matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyaku.rj8nq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/79f9c66aab2d8a765664f2f53255d19e.jpg",
-                "malId": 152462,
-                "aniId": 149341,
-                "page": "MangaFire",
-                "title": "Matei Kyoushi to Juuzoku Shoujo no Haitoku Keiyaku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyaku.rj8nq/"
-            },
-            "matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyakuu.rj8nq": {
-                "identifier": "matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyakuu.rj8nq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/79f9c66aab2d8a765664f2f53255d19e.jpg",
-                "malId": 152462,
-                "aniId": 149341,
-                "page": "MangaFire",
-                "title": "Matei Kyoushi to Juuzoku Shoujo no Haitoku Keiyaku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyakuu.rj8nq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfy3hfvmyzazngbjsw5f": {
+                "id": 211099,
                 "identifier": "01j76xyfy3hfvmyzazngbjsw5f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFY3HFVMYZAZNGBJSW5F.jpg",
                 "malId": 152462,
@@ -74,6 +56,19 @@
                 "title": "Matei Kyoushi to Juuzoku Shoujo no Haitoku Keiyaku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFY3HFVMYZAZNGBJSW5F"
+            }
+        },
+        "MangaFire": {
+            "rj8nq": {
+                "id": 225047,
+                "identifier": "rj8nq",
+                "image": "https://static.mangafire.to/679c/i/7/79/79f9c66aab2d8a765664f2f53255d19e.jpg",
+                "malId": 152462,
+                "aniId": 149341,
+                "page": "MangaFire",
+                "title": "Matei Kyoushi to Juuzoku Shoujo no Haitoku Keiyaku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/matei-kyoushi-to-juuzoku-shoujo-no-haitoku-keiyakuu.rj8nq"
             }
         },
         "Comick": {

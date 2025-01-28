@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-md989760": {
+                "id": 88249,
                 "identifier": "manga-md989760",
                 "image": "https://avt.mkklcdnv6temp.com/45/j/24-1633747431.jpg",
                 "malId": 139617,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "70d8f2f8-a9ae-4f5d-808b-de0800f79fef": {
+                "id": 88536,
                 "identifier": "70d8f2f8-a9ae-4f5d-808b-de0800f79fef",
                 "image": "https://uploads.mangadex.org/covers/70d8f2f8-a9ae-4f5d-808b-de0800f79fef/dec9f5d8-4653-414d-bd40-de96f4ad2533.jpg",
                 "malId": 139617,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ottoman": {
+                "id": 88780,
                 "identifier": "ottoman",
                 "image": "https://temp.compsci88.com/cover/Ottoman.jpg",
                 "malId": 139617,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ottoman": {
+                "id": 88900,
                 "identifier": "ottoman",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39379/cover.jpg",
                 "malId": 139617,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ottoman/"
             }
         },
-        "MangaFire": {
-            "ottoman.3r15r": {
-                "identifier": "ottoman.3r15r",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fdaac859367456d581f009d2a3a202b7.jpg",
-                "malId": 139617,
-                "aniId": 137987,
-                "page": "MangaFire",
-                "title": "Ottoman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ottoman.3r15r/"
-            },
-            "ottomann.3r15r": {
-                "identifier": "ottomann.3r15r",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fdaac859367456d581f009d2a3a202b7.jpg",
-                "malId": 139617,
-                "aniId": 137987,
-                "page": "MangaFire",
-                "title": "Ottoman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ottomann.3r15r/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf45cz63cne1ndk9dgf3": {
+                "id": 212732,
                 "identifier": "01j76xyf45cz63cne1ndk9dgf3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF45CZ63CNE1NDK9DGF3.jpg",
                 "malId": 139617,
@@ -86,6 +69,19 @@
                 "title": "Ottoman",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF45CZ63CNE1NDK9DGF3"
+            }
+        },
+        "MangaFire": {
+            "3r15r": {
+                "id": 254172,
+                "identifier": "3r15r",
+                "image": "https://static.mangafire.to/3cb5/i/f/fd/fdaac859367456d581f009d2a3a202b7.jpg",
+                "malId": 139617,
+                "aniId": 137987,
+                "page": "MangaFire",
+                "title": "Ottoman",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ottomann.3r15r"
             }
         },
         "Comick": {

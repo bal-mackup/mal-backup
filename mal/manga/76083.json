@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "80a9a8f0-024c-4a6e-9820-7810c0853d0e": {
+                "id": 11134,
                 "identifier": "80a9a8f0-024c-4a6e-9820-7810c0853d0e",
                 "image": "https://uploads.mangadex.org/covers/80a9a8f0-024c-4a6e-9820-7810c0853d0e/2e182bb7-cff0-4f87-8b09-879cce65facd.png",
                 "malId": 76083,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ojojojo": {
+                "id": 55259,
                 "identifier": "ojojojo",
                 "image": "https://temp.compsci88.com/cover/Ojojojo.jpg",
                 "malId": 76083,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vo961271": {
+                "id": 74734,
                 "identifier": "manga-vo961271",
                 "image": "https://avt.mkklcdnv6temp.com/31/v/7-1583477467.jpg",
                 "malId": 76083,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-vo961271"
             }
         },
-        "MangaFire": {
-            "ojojojo.wlrk": {
-                "identifier": "ojojojo.wlrk",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/780856bb021fb1a8b65cc2e7bd007e81.jpg",
-                "malId": 76083,
-                "aniId": 85419,
-                "page": "MangaFire",
-                "title": "Ojojojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ojojojo.wlrk/"
-            },
-            "ojojojoo.wlrk": {
-                "identifier": "ojojojoo.wlrk",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/780856bb021fb1a8b65cc2e7bd007e81.jpg",
-                "malId": 76083,
-                "aniId": 85419,
-                "page": "MangaFire",
-                "title": "Ojojojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ojojojoo.wlrk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyafxrwn4y190pc55btg4": {
+                "id": 213288,
                 "identifier": "01j76xyafxrwn4y190pc55btg4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAFXRWN4Y190PC55BTG4.jpg",
                 "malId": 76083,
@@ -74,6 +56,19 @@
                 "title": "Ojojojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAFXRWN4Y190PC55BTG4"
+            }
+        },
+        "MangaFire": {
+            "wlrk": {
+                "id": 227899,
+                "identifier": "wlrk",
+                "image": "https://static.mangafire.to/9c74/i/7/78/780856bb021fb1a8b65cc2e7bd007e81.jpg",
+                "malId": 76083,
+                "aniId": 85419,
+                "page": "MangaFire",
+                "title": "Ojojojo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ojojojoo.wlrk"
             }
         },
         "Comick": {

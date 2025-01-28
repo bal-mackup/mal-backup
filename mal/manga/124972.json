@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ed52674d-b345-4067-a90e-a9de704f27fa": {
+                "id": 29482,
                 "identifier": "ed52674d-b345-4067-a90e-a9de704f27fa",
                 "image": "https://uploads.mangadex.org/covers/ed52674d-b345-4067-a90e-a9de704f27fa/be92f916-0f69-4ac1-9204-05ed3f4965fe.jpg",
                 "malId": 124972,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "frontier-diary": {
+                "id": 65968,
                 "identifier": "frontier-diary",
                 "image": "https://temp.compsci88.com/cover/Frontier-Diary.jpg",
                 "malId": 124972,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fq982373": {
+                "id": 75288,
                 "identifier": "manga-fq982373",
                 "image": "https://avt.mkklcdnv6temp.com/49/j/18-1583499030.jpg",
                 "malId": 124972,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-fq982373"
             }
         },
-        "MangaFire": {
-            "frontier-diary.92lnn": {
-                "identifier": "frontier-diary.92lnn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf558d53432b43ea281f3631659193e8.jpg",
-                "malId": 124972,
-                "aniId": 110827,
-                "page": "MangaFire",
-                "title": "Frontier Diary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/frontier-diary.92lnn/"
-            }
-        },
         "Weebcentral": {
             "01j76xydp5jx3n0xp9rgg2bqg0": {
+                "id": 211827,
                 "identifier": "01j76xydp5jx3n0xp9rgg2bqg0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDP5JX3N0XP9RGG2BQG0.jpg",
                 "malId": 124972,
@@ -64,6 +56,19 @@
                 "title": "Frontier Diary",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDP5JX3N0XP9RGG2BQG0"
+            }
+        },
+        "MangaFire": {
+            "92lnn": {
+                "id": 250621,
+                "identifier": "92lnn",
+                "image": "https://static.mangafire.to/fb4f/i/b/bf/bf558d53432b43ea281f3631659193e8.jpg",
+                "malId": 124972,
+                "aniId": 110827,
+                "page": "MangaFire",
+                "title": "Frontier Diary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/frontier-diaryy.92lnn"
             }
         },
         "Comick": {

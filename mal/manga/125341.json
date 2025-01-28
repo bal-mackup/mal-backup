@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "978b81a4-7abf-42c6-a3a9-a8d7392ee2de": {
+                "id": 36132,
                 "identifier": "978b81a4-7abf-42c6-a3a9-a8d7392ee2de",
                 "image": "https://uploads.mangadex.org/covers/978b81a4-7abf-42c6-a3a9-a8d7392ee2de/cd358688-9b66-4dfb-aa40-ce309f636f67.jpg",
                 "malId": 125341,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ie986013": {
+                "id": 80988,
                 "identifier": "manga-ie986013",
                 "image": "https://avt.mkklcdnv6temp.com/39/x/21-1595982603.jpg",
                 "malId": 125341,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "spy-classroom": {
+                "id": 96932,
                 "identifier": "spy-classroom",
                 "image": "https://temp.compsci88.com/cover/Spy-Classroom.jpg",
                 "malId": 125341,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Spy-Classroom"
             }
         },
-        "MangaFire": {
-            "spy-classroom.mqpm8": {
-                "identifier": "spy-classroom.mqpm8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3f08de40bc1234dc2f82ebfae7840d4f.jpg",
-                "malId": 125341,
-                "aniId": 119746,
-                "page": "MangaFire",
-                "title": "Spy Classroom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spy-classroom.mqpm8/"
-            },
-            "spy-classroomm.mqpm8": {
-                "identifier": "spy-classroomm.mqpm8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3f08de40bc1234dc2f82ebfae7840d4f.jpg",
-                "malId": 125341,
-                "aniId": 119746,
-                "page": "MangaFire",
-                "title": "Spy Classroom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spy-classroomm.mqpm8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfb7r4bvpke46wg8f9tx": {
+                "id": 211458,
                 "identifier": "01j76xyfb7r4bvpke46wg8f9tx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFB7R4BVPKE46WG8F9TX.jpg",
                 "malId": 125341,
@@ -74,6 +56,19 @@
                 "title": "Spy Classroom",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFB7R4BVPKE46WG8F9TX"
+            }
+        },
+        "MangaFire": {
+            "mqpm8": {
+                "id": 224573,
+                "identifier": "mqpm8",
+                "image": "https://static.mangafire.to/5d13/i/3/3f/3f08de40bc1234dc2f82ebfae7840d4f.jpg",
+                "malId": 125341,
+                "aniId": 119746,
+                "page": "MangaFire",
+                "title": "Spy Classroom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/spy-classroomm.mqpm8"
             }
         },
         "Comick": {

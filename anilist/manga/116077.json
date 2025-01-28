@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "873d3a1c-aa6d-4e64-82bc-de3b437036db": {
+                "id": 31611,
                 "identifier": "873d3a1c-aa6d-4e64-82bc-de3b437036db",
                 "image": "https://uploads.mangadex.org/covers/873d3a1c-aa6d-4e64-82bc-de3b437036db/bc4f8518-34cc-41cf-823a-2a6b8553bb1c.jpg",
                 "malId": 124896,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kyuubo-suterareteta-dragon-hirotta": {
+                "id": 60377,
                 "identifier": "kyuubo-suterareteta-dragon-hirotta",
                 "image": "https://temp.compsci88.com/cover/Kyuubo-Suterareteta-Dragon-Hirotta.jpg",
                 "malId": 124896,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gi983591": {
+                "id": 73354,
                 "identifier": "manga-gi983591",
                 "image": "https://avt.mkklcdnv6temp.com/44/i/19-1583500790.jpg",
                 "malId": 124896,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-gi983591"
             }
         },
-        "MangaFire": {
-            "kyuubo-suterareteta-dragon-hirotta.52640": {
-                "identifier": "kyuubo-suterareteta-dragon-hirotta.52640",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68249a4d6349f2381dc52f0bd1e732fa.jpg",
-                "malId": 124896,
-                "aniId": 116077,
-                "page": "MangaFire",
-                "title": "Kyuubo: Suterareteta Dragon Hirotta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyuubo-suterareteta-dragon-hirotta.52640/"
-            }
-        },
         "Weebcentral": {
             "01j76xydx09p7ed8mnm5dcxzxa": {
+                "id": 213209,
                 "identifier": "01j76xydx09p7ed8mnm5dcxzxa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDX09P7ED8MNM5DCXZXA.jpg",
                 "malId": 124896,
@@ -64,6 +56,19 @@
                 "title": "Kyuubo: Suterareteta Dragon Hirotta",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDX09P7ED8MNM5DCXZXA"
+            }
+        },
+        "MangaFire": {
+            "52640": {
+                "id": 258189,
+                "identifier": "52640",
+                "image": "https://static.mangafire.to/5f74/i/6/68/68249a4d6349f2381dc52f0bd1e732fa.jpg",
+                "malId": 124896,
+                "aniId": 116077,
+                "page": "MangaFire",
+                "title": "Kyuubo: Suterareteta Dragon Hirotta",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyuubo-suterareteta-dragon-hirottaa.52640"
             }
         },
         "Comick": {

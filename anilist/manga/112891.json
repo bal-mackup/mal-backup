@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "42101e94-77f0-465e-8044-e8efe802b0f8": {
+                "id": 30459,
                 "identifier": "42101e94-77f0-465e-8044-e8efe802b0f8",
                 "image": "https://uploads.mangadex.org/covers/42101e94-77f0-465e-8044-e8efe802b0f8/901a47c8-80e3-4b3f-974a-0130acdb6fa6.jpg",
                 "malId": 122551,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "asanami_san_to_shinde_mo_ikitai": {
+                "id": 63025,
                 "identifier": "asanami_san_to_shinde_mo_ikitai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32615/cover.jpg",
                 "malId": 122551,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/asanami_san_to_shinde_mo_ikitai/"
             },
             "even_if_i_die_with_miss_asanami_i_want_to_cum": {
+                "id": 82840,
                 "identifier": "even_if_i_die_with_miss_asanami_i_want_to_cum",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31350/cover.jpg",
                 "malId": 122551,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "asanami-san-to-shinde-mo-ikitai": {
+                "id": 64846,
                 "identifier": "asanami-san-to-shinde-mo-ikitai",
                 "image": "https://temp.compsci88.com/cover/Asanami-san-to-Shinde-mo-Ikitai.jpg",
                 "malId": 122551,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-fr982852": {
+                "id": 92980,
                 "identifier": "manga-fr982852",
                 "image": "https://avt.mkklcdnv6temp.com/fld/11/b/10-1732798630.jpg",
                 "malId": 122551,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-fr982852"
             }
         },
-        "MangaFire": {
-            "asanami-san-to-shinde-mo-ikitai.521n9": {
-                "identifier": "asanami-san-to-shinde-mo-ikitai.521n9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/407d81879ec09a40bd4c1cac1b0305e6.jpg",
-                "malId": 122551,
-                "aniId": 112891,
-                "page": "MangaFire",
-                "title": "Even If I Die with Miss Asanami, I Want to Cum.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asanami-san-to-shinde-mo-ikitai.521n9/"
-            },
-            "asanami-san-to-shinde-mo-ikitaii.521n9": {
-                "identifier": "asanami-san-to-shinde-mo-ikitaii.521n9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/407d81879ec09a40bd4c1cac1b0305e6.jpg",
-                "malId": 122551,
-                "aniId": 112891,
-                "page": "MangaFire",
-                "title": "Even If I Die with Miss Asanami, I Want to Cum.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asanami-san-to-shinde-mo-ikitaii.521n9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd4jez7nk4wvm5fpsfpz": {
+                "id": 208708,
                 "identifier": "01j76xyd4jez7nk4wvm5fpsfpz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD4JEZ7NK4WVM5FPSFPZ.jpg",
                 "malId": 122551,
@@ -96,6 +80,19 @@
                 "title": "Asanami-san to Shinde mo Ikitai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD4JEZ7NK4WVM5FPSFPZ"
+            }
+        },
+        "MangaFire": {
+            "521n9": {
+                "id": 228997,
+                "identifier": "521n9",
+                "image": "https://static.mangafire.to/d94d/i/4/40/407d81879ec09a40bd4c1cac1b0305e6.jpg",
+                "malId": 122551,
+                "aniId": 112891,
+                "page": "MangaFire",
+                "title": "Even If I Die with Miss Asanami, I Want to Cum.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/asanami-san-to-shinde-mo-ikitaii.521n9"
             }
         },
         "Comick": {

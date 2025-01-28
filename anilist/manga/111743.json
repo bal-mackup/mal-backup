@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9520969-83c9-40fd-a68c-200aad36eb13": {
+                "id": 30711,
                 "identifier": "e9520969-83c9-40fd-a68c-200aad36eb13",
                 "image": "https://uploads.mangadex.org/covers/e9520969-83c9-40fd-a68c-200aad36eb13/ac89da10-2ba2-43ae-aa76-8a0b3546b78d.jpg",
                 "malId": 123921,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "captivated-by-you": {
+                "id": 85427,
                 "identifier": "captivated-by-you",
                 "image": "https://temp.compsci88.com/cover/Captivated-By-You.jpg",
                 "malId": 123921,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Captivated-By-You"
             }
         },
-        "MangaFire": {
-            "muchuu-sa-kimi-nii.yk34z": {
-                "identifier": "muchuu-sa-kimi-nii.yk34z",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d9e1de45a8b931d78096a368eb592ef.jpg",
-                "malId": 123921,
-                "aniId": 111743,
-                "page": "MangaFire",
-                "title": "Captivated, By You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/muchuu-sa-kimi-nii.yk34z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeyenk62ea0a4t8wkkpd": {
+                "id": 211931,
                 "identifier": "01j76xyeyenk62ea0a4t8wkkpd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYENK62EA0A4T8WKKPD.jpg",
                 "malId": 123921,
@@ -52,6 +43,19 @@
                 "title": "Captivated, By You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYENK62EA0A4T8WKKPD"
+            }
+        },
+        "MangaFire": {
+            "yk34z": {
+                "id": 226239,
+                "identifier": "yk34z",
+                "image": "https://static.mangafire.to/c56e/i/0/0d/0d9e1de45a8b931d78096a368eb592ef.jpg",
+                "malId": 123921,
+                "aniId": 111743,
+                "page": "MangaFire",
+                "title": "Captivated, By You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/muchuu-sa-kimi-nii.yk34z"
             }
         },
         "Comick": {

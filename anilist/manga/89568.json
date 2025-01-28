@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "15c335de-f081-4474-857e-4e3a92813f77": {
+                "id": 105833,
                 "identifier": "15c335de-f081-4474-857e-4e3a92813f77",
                 "image": "https://uploads.mangadex.org/covers/15c335de-f081-4474-857e-4e3a92813f77/cdc7e76d-c386-4818-9e90-346b4174219c.jpg",
                 "malId": 62687,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/15c335de-f081-4474-857e-4e3a92813f77"
             },
             "cbba36af-9874-4b17-a1c3-99aec829cce0": {
+                "id": 105838,
                 "identifier": "cbba36af-9874-4b17-a1c3-99aec829cce0",
                 "image": "https://uploads.mangadex.org/covers/cbba36af-9874-4b17-a1c3-99aec829cce0/f39cb4f1-e61d-4e65-8a8f-492e86525738.jpg",
                 "malId": 62687,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-ok991519": {
+                "id": 108994,
                 "identifier": "manga-ok991519",
                 "image": "https://avt.mkklcdnv6temp.com/20/g/26-1657021552.jpg",
                 "malId": 62687,
@@ -40,20 +43,9 @@
                 "url": "https://manganato.com/manga-ok991519"
             }
         },
-        "MangaFire": {
-            "inazuma-eleven-baku-gaidenshuu.5228v": {
-                "identifier": "inazuma-eleven-baku-gaidenshuu.5228v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/6242b6ffa03676518dad503826fdadde.jpg",
-                "malId": 62687,
-                "aniId": 89568,
-                "page": "MangaFire",
-                "title": "Inazuma Eleven: Baku Gaidenshuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inazuma-eleven-baku-gaidenshuu.5228v/"
-            }
-        },
         "MangaFox": {
             "inazuma_eleven_baku_gaidenshuu": {
+                "id": 221664,
                 "identifier": "inazuma_eleven_baku_gaidenshuu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42998/cover.jpg",
                 "malId": 62687,
@@ -62,6 +54,19 @@
                 "title": "Inazuma Eleven: Baku Gaidenshuu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/inazuma_eleven_baku_gaidenshuu/"
+            }
+        },
+        "MangaFire": {
+            "5228v": {
+                "id": 243919,
+                "identifier": "5228v",
+                "image": "https://static.mangafire.to/30ef/i/6/62/6242b6ffa03676518dad503826fdadde.jpg",
+                "malId": 62687,
+                "aniId": 89568,
+                "page": "MangaFire",
+                "title": "Inazuma Eleven: Baku Gaidenshuu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/inazuma-eleven-baku-gaidenshuuu.5228v"
             }
         },
         "Comick": {

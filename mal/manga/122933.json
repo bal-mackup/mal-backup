@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "13c2240a-dcfb-4814-9e59-13d9f09f1043": {
+                "id": 31754,
                 "identifier": "13c2240a-dcfb-4814-9e59-13d9f09f1043",
                 "image": "https://uploads.mangadex.org/covers/13c2240a-dcfb-4814-9e59-13d9f09f1043/4aac0460-47c2-4b68-a121-caf991ada0e9.jpg",
                 "malId": 122933,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/13c2240a-dcfb-4814-9e59-13d9f09f1043"
             }
         },
-        "MangaFire": {
-            "assassin-rose.z11r3": {
-                "identifier": "assassin-rose.z11r3",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0cf20ab8cf3c7960d51a64530ff0f71e.jpg",
-                "malId": 122933,
-                "aniId": 108031,
-                "page": "MangaFire",
-                "title": "Assassin ROSE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/assassin-rose.z11r3/"
-            }
-        },
         "MangaNato": {
             "manga-ze1002361": {
+                "id": 190628,
                 "identifier": "manga-ze1002361",
                 "image": "https://avt.mkklcdnv6temp.com/fld/42/u/17-1733323757-nw.webp",
                 "malId": 122933,
@@ -40,6 +30,19 @@
                 "title": "Assassin Rose",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ze1002361"
+            }
+        },
+        "MangaFire": {
+            "z11r3": {
+                "id": 262228,
+                "identifier": "z11r3",
+                "image": "https://static.mangafire.to/a433/i/0/0c/0cf20ab8cf3c7960d51a64530ff0f71e.jpg",
+                "malId": 122933,
+                "aniId": 108031,
+                "page": "MangaFire",
+                "title": "Assassin ROSE",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/assassin-rosee.z11r3"
             }
         },
         "Comick": {

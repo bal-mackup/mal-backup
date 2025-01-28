@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-qg994315": {
+                "id": 158992,
                 "identifier": "manga-qg994315",
                 "image": "https://avt.mkklcdnv6temp.com/fld/35/p/14-1733302534-nw.webp",
                 "malId": 152740,
@@ -18,20 +19,9 @@
                 "url": "https://chapmanganato.com/manga-qg994315"
             }
         },
-        "MangaFire": {
-            "midnight-men.mq10z": {
-                "identifier": "midnight-men.mq10z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/42/4226e6b20cd792c9b622a12ebfe3b5d9.jpg",
-                "malId": 152740,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Midnight Men",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/midnight-men.mq10z/"
-            }
-        },
         "Mangadex": {
             "e964998f-8c0d-4a38-bad8-799fff33ab28": {
+                "id": 217314,
                 "identifier": "e964998f-8c0d-4a38-bad8-799fff33ab28",
                 "image": "https://uploads.mangadex.org/covers/e964998f-8c0d-4a38-bad8-799fff33ab28/5948b273-6226-40fb-9f6a-7fa6bf7d99a3.jpg",
                 "malId": 152740,
@@ -40,6 +30,19 @@
                 "title": "Midnight Men",
                 "type": "manga",
                 "url": "https://mangadex.org/title/e964998f-8c0d-4a38-bad8-799fff33ab28"
+            }
+        },
+        "MangaFire": {
+            "mq10z": {
+                "id": 238712,
+                "identifier": "mq10z",
+                "image": "https://static.mangafire.to/049b/i/4/42/4226e6b20cd792c9b622a12ebfe3b5d9.jpg",
+                "malId": 152740,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Midnight Men",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/midnight-menn.mq10z"
             }
         }
     }

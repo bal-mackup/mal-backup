@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ff17d3d7-5e33-4cbc-823b-ba8ed0dae32b": {
+                "id": 12519,
                 "identifier": "ff17d3d7-5e33-4cbc-823b-ba8ed0dae32b",
                 "image": "https://uploads.mangadex.org/covers/ff17d3d7-5e33-4cbc-823b-ba8ed0dae32b/2ed94408-0b83-4264-9740-b8ec600e39c9.jpg",
                 "malId": 82947,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "distant-sky": {
+                "id": 66900,
                 "identifier": "distant-sky",
                 "image": "https://temp.compsci88.com/cover/Distant-Sky.jpg",
                 "malId": 82947,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "distant_sky": {
+                "id": 125557,
                 "identifier": "distant_sky",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14487/cover.jpg",
                 "malId": 82947,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/distant_sky/"
             }
         },
-        "MangaFire": {
-            "distant-sky.prj46": {
-                "identifier": "distant-sky.prj46",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/8152489cac6679890ed89c3aa3b7f7ee.jpg",
-                "malId": 82947,
-                "aniId": 85879,
-                "page": "MangaFire",
-                "title": "Distant Sky",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/distant-sky.prj46/"
-            },
-            "distant-skyy.prj46": {
-                "identifier": "distant-skyy.prj46",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/8152489cac6679890ed89c3aa3b7f7ee.jpg",
-                "malId": 82947,
-                "aniId": 85879,
-                "page": "MangaFire",
-                "title": "Distant Sky",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/distant-skyy.prj46/"
-            },
-            "prj46": {
-                "identifier": "prj46",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/8152489cac6679890ed89c3aa3b7f7ee.jpg",
-                "malId": 82947,
-                "aniId": 85879,
-                "page": "MangaFire",
-                "title": "Distant Sky",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/distant-skyy.prj46/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeh8knh6synn30zhttx3": {
+                "id": 208859,
                 "identifier": "01j76xyeh8knh6synn30zhttx3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEH8KNH6SYNN30ZHTTX3.jpg",
                 "malId": 82947,
@@ -84,6 +56,19 @@
                 "title": "Distant Sky",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEH8KNH6SYNN30ZHTTX3"
+            }
+        },
+        "MangaFire": {
+            "prj46": {
+                "id": 227471,
+                "identifier": "prj46",
+                "image": "https://static.mangafire.to/7b49/i/8/81/8152489cac6679890ed89c3aa3b7f7ee.jpg",
+                "malId": 82947,
+                "aniId": 85879,
+                "page": "MangaFire",
+                "title": "Distant Sky",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/distant-skyy.prj46"
             }
         },
         "Comick": {

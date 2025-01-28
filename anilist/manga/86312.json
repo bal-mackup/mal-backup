@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cbcf7529-8db3-4740-afe2-11870bd54108": {
+                "id": 13104,
                 "identifier": "cbcf7529-8db3-4740-afe2-11870bd54108",
                 "image": "https://uploads.mangadex.org/covers/cbcf7529-8db3-4740-afe2-11870bd54108/9641ef27-5d9e-4731-9937-7451c1e57fb2.jpg",
                 "malId": 82041,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "magi-no-okurimono": {
+                "id": 60853,
                 "identifier": "magi-no-okurimono",
                 "image": "https://temp.compsci88.com/cover/Magi-No-Okurimono.jpg",
                 "malId": 82041,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-et954402": {
+                "id": 85112,
                 "identifier": "manga-et954402",
                 "image": "https://avt.mkklcdnv6temp.com/fld/8/k/2-1732720885-nw.webp",
                 "malId": 82041,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-et954402"
             }
         },
-        "MangaFire": {
-            "the-gift-of-the-magi.oj2o8": {
-                "identifier": "the-gift-of-the-magi.oj2o8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6ab19f9d1b5cf2510d3d5f02e0b5484.jpg",
-                "malId": 82041,
-                "aniId": 86312,
-                "page": "MangaFire",
-                "title": "The Gift of the Magi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-gift-of-the-magi.oj2o8/"
-            },
-            "oj2o8": {
-                "identifier": "oj2o8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6ab19f9d1b5cf2510d3d5f02e0b5484.jpg",
-                "malId": 82041,
-                "aniId": 86312,
-                "page": "MangaFire",
-                "title": "The Gift of the Magi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-gift-of-the-magi.oj2o8/"
-            }
-        },
         "Weebcentral": {
             "01j76xybza99f8tc6h4hkctzkz": {
+                "id": 212009,
                 "identifier": "01j76xybza99f8tc6h4hkctzkz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBZA99F8TC6H4HKCTZKZ.jpg",
                 "malId": 82041,
@@ -74,6 +56,19 @@
                 "title": "Magi no Okurimono",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBZA99F8TC6H4HKCTZKZ"
+            }
+        },
+        "MangaFire": {
+            "oj2o8": {
+                "id": 246233,
+                "identifier": "oj2o8",
+                "image": "https://static.mangafire.to/0eb0/i/c/c6/c6ab19f9d1b5cf2510d3d5f02e0b5484.jpg",
+                "malId": 82041,
+                "aniId": 86312,
+                "page": "MangaFire",
+                "title": "The Gift of the Magi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-gift-of-the-magii.oj2o8"
             }
         },
         "Comick": {

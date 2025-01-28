@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "039d717e-9690-47fd-944d-93161b97fbac": {
+                "id": 12492,
                 "identifier": "039d717e-9690-47fd-944d-93161b97fbac",
                 "image": "https://uploads.mangadex.org/covers/039d717e-9690-47fd-944d-93161b97fbac/9377af74-48af-4fe7-bbd9-652d8fb35f92.jpg",
                 "malId": 79085,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "given": {
+                "id": 65795,
                 "identifier": "given",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14993/cover.jpg",
                 "malId": 79085,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "given": {
+                "id": 69156,
                 "identifier": "given",
                 "image": "https://temp.compsci88.com/cover/Given.jpg",
                 "malId": 79085,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-rw953131": {
+                "id": 86032,
                 "identifier": "manga-rw953131",
                 "image": "https://avt.mkklcdnv6temp.com/fld/65/f/1-1732718994-nw.webp",
                 "malId": 79085,
@@ -54,50 +58,9 @@
                 "url": "https://chapmanganato.com/manga-rw953131"
             }
         },
-        "MangaFire": {
-            "given.r7qp": {
-                "identifier": "given.r7qp",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/949df456272b0cb26f5ae66f2b8fa48a.jpg",
-                "malId": 79085,
-                "aniId": 87347,
-                "page": "MangaFire",
-                "title": "Given",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/given.r7qp/"
-            },
-            "given-10th-mixx.mv727": {
-                "identifier": "given-10th-mixx.mv727",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/b648fe1469556f1f31f4ce1fc1c39fa0.jpg",
-                "malId": 79085,
-                "aniId": 87347,
-                "page": "MangaFire",
-                "title": "Given: 10th Mix",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/given-10th-mixx.mv727/"
-            },
-            "mv727": {
-                "identifier": "mv727",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/b648fe1469556f1f31f4ce1fc1c39fa0.jpg",
-                "malId": 79085,
-                "aniId": 87347,
-                "page": "MangaFire",
-                "title": "Given: 10th Mix",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/given-10th-mixx.mv727/"
-            },
-            "r7qp": {
-                "identifier": "r7qp",
-                "image": "https://static.mangafire.to/7bcf/i/9/94/949df456272b0cb26f5ae66f2b8fa48a.jpg",
-                "malId": 79085,
-                "aniId": 87347,
-                "page": "MangaFire",
-                "title": "Given",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/givenn.r7qp"
-            }
-        },
         "Weebcentral": {
             "01j76xyekeb9tg43af92mwv1mk": {
+                "id": 207306,
                 "identifier": "01j76xyekeb9tg43af92mwv1mk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEKEB9TG43AF92MWV1MK.jpg",
                 "malId": 79085,
@@ -106,6 +69,30 @@
                 "title": "Given",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEKEB9TG43AF92MWV1MK"
+            }
+        },
+        "MangaFire": {
+            "mv727": {
+                "id": 225441,
+                "identifier": "mv727",
+                "image": "https://static.mangafire.to/6acb/i/2/2e/b648fe1469556f1f31f4ce1fc1c39fa0.jpg",
+                "malId": 79085,
+                "aniId": 87347,
+                "page": "MangaFire",
+                "title": "Given: 10th Mix",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/given-10th-mixx.mv727"
+            },
+            "r7qp": {
+                "id": 258395,
+                "identifier": "r7qp",
+                "image": "https://static.mangafire.to/7bcf/i/9/94/949df456272b0cb26f5ae66f2b8fa48a.jpg",
+                "malId": 79085,
+                "aniId": 87347,
+                "page": "MangaFire",
+                "title": "Given",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/givenn.r7qp"
             }
         },
         "Comick": {

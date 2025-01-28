@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5c3f6203-ab26-4514-9600-1ef443e3fba6": {
+                "id": 25435,
                 "identifier": "5c3f6203-ab26-4514-9600-1ef443e3fba6",
                 "image": "https://uploads.mangadex.org/covers/5c3f6203-ab26-4514-9600-1ef443e3fba6/bf6a76a1-d0a5-45f8-9e79-8405be8998d0.jpg",
                 "malId": 119440,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-girl-her-guard-dog": {
+                "id": 67461,
                 "identifier": "a-girl-her-guard-dog",
                 "image": "https://temp.compsci88.com/cover/A-Girl-Her-Guard-Dog.jpg",
                 "malId": 119440,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-eo982197": {
+                "id": 75545,
                 "identifier": "manga-eo982197",
                 "image": "https://avt.mkklcdnv6temp.com/42/s/18-1583498755.jpg",
                 "malId": 119440,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ojou_to_banken_kun": {
+                "id": 78046,
                 "identifier": "ojou_to_banken_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29496/cover.jpg",
                 "malId": 119440,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ojou_to_banken_kun/"
             }
         },
-        "MangaFire": {
-            "ojou-to-banken-kun.9on9x": {
-                "identifier": "ojou-to-banken-kun.9on9x",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7e/7e25354c6697de9e1e0c44ba88e570e9.jpg",
-                "malId": 119440,
-                "aniId": 106315,
-                "page": "MangaFire",
-                "title": "A Girl & Her Guard Dog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ojou-to-banken-kun.9on9x/"
-            },
-            "ojou-to-banken-kunn.9on9x": {
-                "identifier": "ojou-to-banken-kunn.9on9x",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7e/7e25354c6697de9e1e0c44ba88e570e9.jpg",
-                "malId": 119440,
-                "aniId": 106315,
-                "page": "MangaFire",
-                "title": "A Girl & Her Guard Dog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ojou-to-banken-kunn.9on9x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyejdvmrqf33h0je84yet": {
+                "id": 210500,
                 "identifier": "01j76xyejdvmrqf33h0je84yet",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEJDVMRQF33H0JE84YET.jpg",
                 "malId": 119440,
@@ -86,6 +69,19 @@
                 "title": "A Girl & Her Guard Dog",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEJDVMRQF33H0JE84YET"
+            }
+        },
+        "MangaFire": {
+            "9on9x": {
+                "id": 225740,
+                "identifier": "9on9x",
+                "image": "https://static.mangafire.to/fec6/i/7/7e/7e25354c6697de9e1e0c44ba88e570e9.jpg",
+                "malId": 119440,
+                "aniId": 106315,
+                "page": "MangaFire",
+                "title": "A Girl & Her Guard Dog",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ojou-to-banken-kunn.9on9x"
             }
         },
         "Comick": {

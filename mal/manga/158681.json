@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c7067cad-53fb-43b7-9727-579f4e4ddab3": {
+                "id": 157798,
                 "identifier": "c7067cad-53fb-43b7-9727-579f4e4ddab3",
                 "image": "https://uploads.mangadex.org/covers/c7067cad-53fb-43b7-9727-579f4e4ddab3/ba31b4f6-a00d-4f9a-8491-3b8fbe6dbaa1.jpg",
                 "malId": 158681,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/c7067cad-53fb-43b7-9727-579f4e4ddab3"
             }
         },
-        "MangaFire": {
-            "gensou-shinkou.422o7": {
-                "identifier": "gensou-shinkou.422o7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f6116732a3fc6bd1788788f59864f1d.jpg",
-                "malId": 158681,
-                "aniId": 159458,
-                "page": "MangaFire",
-                "title": "Gensou Shinkou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gensou-shinkou.422o7/"
-            },
-            "gensou-shinkouu.422o7": {
-                "identifier": "gensou-shinkouu.422o7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f6116732a3fc6bd1788788f59864f1d.jpg",
-                "malId": 158681,
-                "aniId": 159458,
-                "page": "MangaFire",
-                "title": "Gensou Shinkou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gensou-shinkouu.422o7/"
-            }
-        },
         "MangaNato": {
             "manga-yi1001665": {
+                "id": 186398,
                 "identifier": "manga-yi1001665",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/c/17-1733322138-nw.webp",
                 "malId": 158681,
@@ -50,6 +30,19 @@
                 "title": "Gensou Shinkou",
                 "type": "manga",
                 "url": "https://manganato.com/manga-yi1001665"
+            }
+        },
+        "MangaFire": {
+            "422o7": {
+                "id": 224711,
+                "identifier": "422o7",
+                "image": "https://static.mangafire.to/582b/i/0/0f/0f6116732a3fc6bd1788788f59864f1d.jpg",
+                "malId": 158681,
+                "aniId": 159458,
+                "page": "MangaFire",
+                "title": "Gensou Shinkou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gensou-shinkouu.422o7"
             }
         },
         "Comick": {

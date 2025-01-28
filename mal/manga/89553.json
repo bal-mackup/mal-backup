@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "519acffd-f2a1-4d24-8ec4-fe98c6cd7dc1": {
+                "id": 13331,
                 "identifier": "519acffd-f2a1-4d24-8ec4-fe98c6cd7dc1",
                 "image": "https://uploads.mangadex.org/covers/519acffd-f2a1-4d24-8ec4-fe98c6cd7dc1/74dc0d1e-1fe2-46ad-9d29-1376a1d9aa81.png",
                 "malId": 89553,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "usemono-yado": {
+                "id": 61826,
                 "identifier": "usemono-yado",
                 "image": "https://temp.compsci88.com/cover/Usemono-Yado.jpg",
                 "malId": 89553,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nd952738": {
+                "id": 88418,
                 "identifier": "manga-nd952738",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/l/1-1732718468-nw.webp",
                 "malId": 89553,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "usemono_yado": {
+                "id": 112462,
                 "identifier": "usemono_yado",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16123/cover.jpg",
                 "malId": 89553,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/usemono_yado/"
             }
         },
-        "MangaFire": {
-            "usemono-yado.kw2j9": {
-                "identifier": "usemono-yado.kw2j9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/61e1bd9b000f95363a14b06cb6cd3efa.jpg",
-                "malId": 89553,
-                "aniId": 95041,
-                "page": "MangaFire",
-                "title": "Usemono Yado",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/usemono-yado.kw2j9/"
-            }
-        },
         "Weebcentral": {
             "01j76xybc1sjprkrnw4gsdxrzt": {
+                "id": 210433,
                 "identifier": "01j76xybc1sjprkrnw4gsdxrzt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBC1SJPRKRNW4GSDXRZT.jpg",
                 "malId": 89553,
@@ -76,6 +69,19 @@
                 "title": "Usemono Yado",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBC1SJPRKRNW4GSDXRZT"
+            }
+        },
+        "MangaFire": {
+            "kw2j9": {
+                "id": 239429,
+                "identifier": "kw2j9",
+                "image": "https://static.mangafire.to/3ad3/i/6/61/61e1bd9b000f95363a14b06cb6cd3efa.jpg",
+                "malId": 89553,
+                "aniId": 95041,
+                "page": "MangaFire",
+                "title": "Usemono Yado",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/usemono-yadoo.kw2j9"
             }
         },
         "Comick": {

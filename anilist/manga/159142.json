@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c6dc99d1-4b39-4a7e-bfda-ad66fdff235f": {
+                "id": 121478,
                 "identifier": "c6dc99d1-4b39-4a7e-bfda-ad66fdff235f",
                 "image": "https://uploads.mangadex.org/covers/c6dc99d1-4b39-4a7e-bfda-ad66fdff235f/e25ef5dd-161c-4798-b506-069a97456f31.jpg",
                 "malId": 154679,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qv994178": {
+                "id": 124666,
                 "identifier": "manga-qv994178",
                 "image": "https://avt.mkklcdnv6temp.com/27/r/28-1676345535.jpg",
                 "malId": 154679,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qv994178"
             }
         },
-        "MangaFire": {
-            "hotaru-no-yomeiri.29rn4": {
-                "identifier": "hotaru-no-yomeiri.29rn4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3041fbf31f43917469943c24ac44bf1d.jpg",
-                "malId": 154679,
-                "aniId": 159142,
-                "page": "MangaFire",
-                "title": "Firefly Wedding",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hotaru-no-yomeiri.29rn4/"
-            },
-            "hotaru-no-yomeirii.29rn4": {
-                "identifier": "hotaru-no-yomeirii.29rn4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3041fbf31f43917469943c24ac44bf1d.jpg",
-                "malId": 154679,
-                "aniId": 159142,
-                "page": "MangaFire",
-                "title": "Firefly Wedding",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hotaru-no-yomeirii.29rn4/"
-            }
-        },
         "MangaSee": {
             "hotaru-no-yomeiri": {
+                "id": 161639,
                 "identifier": "hotaru-no-yomeiri",
                 "image": "https://temp.compsci88.com/cover/Hotaru-no-Yomeiri.jpg",
                 "malId": 154679,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "hotaru_no_yomeiri": {
+                "id": 186355,
                 "identifier": "hotaru_no_yomeiri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45715/cover.jpg",
                 "malId": 154679,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg9v4gapvw4c6yn5pfch": {
+                "id": 209501,
                 "identifier": "01j76xyg9v4gapvw4c6yn5pfch",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG9V4GAPVW4C6YN5PFCH.jpg",
                 "malId": 154679,
@@ -86,6 +69,19 @@
                 "title": "Firefly Wedding",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG9V4GAPVW4C6YN5PFCH"
+            }
+        },
+        "MangaFire": {
+            "29rn4": {
+                "id": 225590,
+                "identifier": "29rn4",
+                "image": "https://static.mangafire.to/b382/i/3/30/3041fbf31f43917469943c24ac44bf1d.jpg",
+                "malId": 154679,
+                "aniId": 159142,
+                "page": "MangaFire",
+                "title": "Firefly Wedding",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hotaru-no-yomeirii.29rn4"
             }
         },
         "Comick": {

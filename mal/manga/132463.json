@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "572efa7b-2a03-449f-aafd-f1842d69f020": {
+                "id": 57049,
                 "identifier": "572efa7b-2a03-449f-aafd-f1842d69f020",
                 "image": "https://uploads.mangadex.org/covers/572efa7b-2a03-449f-aafd-f1842d69f020/51d5895e-fadc-46fb-a54b-aa9e6ebc66b8.jpg",
                 "malId": 132463,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kimini_koisuru_satsujinki": {
+                "id": 57958,
                 "identifier": "kimini_koisuru_satsujinki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37203/cover.jpg",
                 "malId": 132463,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kimi-ni-koisuru-satsujinki": {
+                "id": 64710,
                 "identifier": "kimi-ni-koisuru-satsujinki",
                 "image": "https://temp.compsci88.com/cover/Kimi-ni-Koisuru-Satsujinki.jpg",
                 "malId": 132463,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ka987909": {
+                "id": 73881,
                 "identifier": "manga-ka987909",
                 "image": "https://avt.mkklcdnv6temp.com/16/z/23-1612195741.jpg",
                 "malId": 132463,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ka987909"
             }
         },
-        "MangaFire": {
-            "kimi-ni-koisuru-satsujinki.m2o4v": {
-                "identifier": "kimi-ni-koisuru-satsujinki.m2o4v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/069475b4571b624944f67eef6639bf08.jpg",
-                "malId": 132463,
-                "aniId": 128163,
-                "page": "MangaFire",
-                "title": "Killer in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-koisuru-satsujinki.m2o4v/"
-            },
-            "kimi-ni-koisuru-satsujinkii.m2o4v": {
-                "identifier": "kimi-ni-koisuru-satsujinkii.m2o4v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/069475b4571b624944f67eef6639bf08.jpg",
-                "malId": 132463,
-                "aniId": 128163,
-                "page": "MangaFire",
-                "title": "Killer in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-koisuru-satsujinkii.m2o4v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyedx6jqj9dqbgqybkbb1": {
+                "id": 212554,
                 "identifier": "01j76xyedx6jqj9dqbgqybkbb1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEDX6JQJ9DQBGQYBKBB1.jpg",
                 "malId": 132463,
@@ -86,6 +69,19 @@
                 "title": "Kimi ni Koisuru Satsujinki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEDX6JQJ9DQBGQYBKBB1"
+            }
+        },
+        "MangaFire": {
+            "m2o4v": {
+                "id": 225957,
+                "identifier": "m2o4v",
+                "image": "https://static.mangafire.to/6acd/i/0/06/069475b4571b624944f67eef6639bf08.jpg",
+                "malId": 132463,
+                "aniId": 128163,
+                "page": "MangaFire",
+                "title": "Killer in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ni-koisuru-satsujinkii.m2o4v"
             }
         },
         "Comick": {

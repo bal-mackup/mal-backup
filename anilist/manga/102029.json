@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e64a45c-c6b2-4983-9694-7d13509a5751": {
+                "id": 21716,
                 "identifier": "7e64a45c-c6b2-4983-9694-7d13509a5751",
                 "image": "https://uploads.mangadex.org/covers/7e64a45c-c6b2-4983-9694-7d13509a5751/7772cab9-5b82-487a-9ac9-085784beab49.jpg",
                 "malId": 105921,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "henkyou-no-roukishi---bard-loen": {
+                "id": 56318,
                 "identifier": "henkyou-no-roukishi---bard-loen",
                 "image": "https://temp.compsci88.com/cover/Henkyou-No-Roukishi---Bard-Loen.jpg",
                 "malId": 105921,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "henkyou_no_roukishi_bard_loen": {
+                "id": 69189,
                 "identifier": "henkyou_no_roukishi_bard_loen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27587/cover.jpg",
                 "malId": 105921,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-br979026": {
+                "id": 76217,
                 "identifier": "manga-br979026",
                 "image": "https://avt.mkklcdnv6temp.com/25/z/16-1583494404.jpg",
                 "malId": 105921,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-br979026"
             }
         },
-        "MangaFire": {
-            "henkyou-no-roukishi-bard-loen.kq39": {
-                "identifier": "henkyou-no-roukishi-bard-loen.kq39",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/eae4d82c79cc7fc8f3d27f492edcc348.jpg",
-                "malId": 105921,
-                "aniId": 102029,
-                "page": "MangaFire",
-                "title": "Old Knight in the Frontier - Bard Roehn",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henkyou-no-roukishi-bard-loen.kq39/"
-            },
-            "henkyou-no-roukishi-bard-loenn.kq39": {
-                "identifier": "henkyou-no-roukishi-bard-loenn.kq39",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/eae4d82c79cc7fc8f3d27f492edcc348.jpg",
-                "malId": 105921,
-                "aniId": 102029,
-                "page": "MangaFire",
-                "title": "Old Knight in the Frontier - Bard Roehn",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henkyou-no-roukishi-bard-loenn.kq39/"
-            },
-            "kq39": {
-                "identifier": "kq39",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/eae4d82c79cc7fc8f3d27f492edcc348.jpg",
-                "malId": 105921,
-                "aniId": 102029,
-                "page": "MangaFire",
-                "title": "Old Knight in the Frontier - Bard Roehn",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henkyou-no-roukishi-bard-loenn.kq39/"
-            }
-        },
         "Weebcentral": {
             "01j76xycwnk0220523f31243eh": {
+                "id": 214426,
                 "identifier": "01j76xycwnk0220523f31243eh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCWNK0220523F31243EH.jpg",
                 "malId": 105921,
@@ -96,6 +69,19 @@
                 "title": "Old Knight in the Frontier - Bard Roehn",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCWNK0220523F31243EH"
+            }
+        },
+        "MangaFire": {
+            "kq39": {
+                "id": 226264,
+                "identifier": "kq39",
+                "image": "https://static.mangafire.to/dce1/i/e/ea/eae4d82c79cc7fc8f3d27f492edcc348.jpg",
+                "malId": 105921,
+                "aniId": 102029,
+                "page": "MangaFire",
+                "title": "Old Knight in the Frontier - Bard Roehn",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/henkyou-no-roukishi-bard-loenn.kq39"
             }
         },
         "Comick": {

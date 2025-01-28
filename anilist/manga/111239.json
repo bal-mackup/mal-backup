@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e97d4b6e-c232-4f27-b2c4-3131eafdc8fe": {
+                "id": 30387,
                 "identifier": "e97d4b6e-c232-4f27-b2c4-3131eafdc8fe",
                 "image": "https://uploads.mangadex.org/covers/e97d4b6e-c232-4f27-b2c4-3131eafdc8fe/0c941dfa-fae5-40cf-9a3c-0ec71a30ec54.jpg",
                 "malId": 121456,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "necromance_doumoto_yuuki": {
+                "id": 55151,
                 "identifier": "necromance_doumoto_yuuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31313/cover.jpg",
                 "malId": 121456,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "necromance": {
+                "id": 58036,
                 "identifier": "necromance",
                 "image": "https://temp.compsci88.com/cover/Necromance.jpg",
                 "malId": 121456,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fi982817": {
+                "id": 74530,
                 "identifier": "manga-fi982817",
                 "image": "https://avt.mkklcdnv6temp.com/15/l/19-1583499687.jpg",
                 "malId": 121456,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fi982817"
             }
         },
-        "MangaFire": {
-            "necromance.qkm4j": {
-                "identifier": "necromance.qkm4j",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/8907ca56a6355b8c002c43ee24181419.jpg",
-                "malId": 121456,
-                "aniId": 111239,
-                "page": "MangaFire",
-                "title": "Necromance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/necromance.qkm4j/"
-            },
-            "necromancee.qkm4j": {
-                "identifier": "necromancee.qkm4j",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/8907ca56a6355b8c002c43ee24181419.jpg",
-                "malId": 121456,
-                "aniId": 111239,
-                "page": "MangaFire",
-                "title": "Necromance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/necromancee.qkm4j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd6jysgtz4aymhz74kgp": {
+                "id": 211977,
                 "identifier": "01j76xyd6jysgtz4aymhz74kgp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD6JYSGTZ4AYMHZ74KGP.jpg",
                 "malId": 121456,
@@ -86,6 +69,19 @@
                 "title": "Necromance",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD6JYSGTZ4AYMHZ74KGP"
+            }
+        },
+        "MangaFire": {
+            "qkm4j": {
+                "id": 247504,
+                "identifier": "qkm4j",
+                "image": "https://static.mangafire.to/25c9/i/8/89/8907ca56a6355b8c002c43ee24181419.jpg",
+                "malId": 121456,
+                "aniId": 111239,
+                "page": "MangaFire",
+                "title": "Necromance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/necromancee.qkm4j"
             }
         },
         "Comick": {

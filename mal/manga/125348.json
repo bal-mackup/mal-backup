@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "979bde26-0842-4ca0-995a-17b1875ce145": {
+                "id": 20163,
                 "identifier": "979bde26-0842-4ca0-995a-17b1875ce145",
                 "image": "https://uploads.mangadex.org/covers/979bde26-0842-4ca0-995a-17b1875ce145/6b13f516-4a55-457f-88b7-49d2c9afcef8.jpg",
                 "malId": 125348,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "live_dungeon": {
+                "id": 54115,
                 "identifier": "live_dungeon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30385/cover.jpg",
                 "malId": 125348,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "live-dungeon": {
+                "id": 58160,
                 "identifier": "live-dungeon",
                 "image": "https://temp.compsci88.com/cover/Live-Dungeon.jpg",
                 "malId": 125348,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ef981640": {
+                "id": 73580,
                 "identifier": "manga-ef981640",
                 "image": "https://avt.mkklcdnv6temp.com/22/l/18-1583497975.jpg",
                 "malId": 125348,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ef981640"
             }
         },
-        "MangaFire": {
-            "live-dungeon.mq98p": {
-                "identifier": "live-dungeon.mq98p",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f9061d5fe6d7779b357460a43ebc773.jpg",
-                "malId": 125348,
-                "aniId": 110999,
-                "page": "MangaFire",
-                "title": "Live Dungeon!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/live-dungeon.mq98p/"
-            },
-            "live-dungeonn.mq98p": {
-                "identifier": "live-dungeonn.mq98p",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f9061d5fe6d7779b357460a43ebc773.jpg",
-                "malId": 125348,
-                "aniId": 110999,
-                "page": "MangaFire",
-                "title": "Live Dungeon!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/live-dungeonn.mq98p/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd87qncnt9wrse0we68r": {
+                "id": 207745,
                 "identifier": "01j76xyd87qncnt9wrse0we68r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD87QNCNT9WRSE0WE68R.jpg",
                 "malId": 125348,
@@ -86,6 +69,19 @@
                 "title": "Live Dungeon!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD87QNCNT9WRSE0WE68R"
+            }
+        },
+        "MangaFire": {
+            "mq98p": {
+                "id": 226030,
+                "identifier": "mq98p",
+                "image": "https://static.mangafire.to/5a81/i/7/7f/7f9061d5fe6d7779b357460a43ebc773.jpg",
+                "malId": 125348,
+                "aniId": 110999,
+                "page": "MangaFire",
+                "title": "Live Dungeon!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/live-dungeonn.mq98p"
             }
         },
         "Comick": {

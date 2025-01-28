@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c38dac66-b994-4a66-9f38-0d01058440c3": {
+                "id": 29180,
                 "identifier": "c38dac66-b994-4a66-9f38-0d01058440c3",
                 "image": "https://uploads.mangadex.org/covers/c38dac66-b994-4a66-9f38-0d01058440c3/7455fb80-2dc7-44e4-a221-0bddeb53bb78.jpg",
                 "malId": 152025,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "corridor-of-mirs": {
+                "id": 70260,
                 "identifier": "corridor-of-mirs",
                 "image": "https://temp.compsci88.com/cover/Corridor-of-Mirs.jpg",
                 "malId": 152025,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "corridor_of_mirs": {
+                "id": 115170,
                 "identifier": "corridor_of_mirs",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38261/cover.jpg",
                 "malId": 152025,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/corridor_of_mirs/"
             }
         },
-        "MangaFire": {
-            "mireuui-hoerang.zlmnl": {
-                "identifier": "mireuui-hoerang.zlmnl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29b5375e2f2cca92f91ec38a7f9d6cbb.jpg",
-                "malId": 152025,
-                "aniId": 111099,
-                "page": "MangaFire",
-                "title": "Corridor of Mirs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mireuui-hoerang.zlmnl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyen7s75nr634meg2b6cx": {
+                "id": 209946,
                 "identifier": "01j76xyen7s75nr634meg2b6cx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEN7S75NR634MEG2B6CX.jpg",
                 "malId": 152025,
@@ -64,6 +56,19 @@
                 "title": "Corridor of Mirs",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEN7S75NR634MEG2B6CX"
+            }
+        },
+        "MangaFire": {
+            "zlmnl": {
+                "id": 247318,
+                "identifier": "zlmnl",
+                "image": "https://static.mangafire.to/ad92/i/2/29/29b5375e2f2cca92f91ec38a7f9d6cbb.jpg",
+                "malId": 152025,
+                "aniId": 111099,
+                "page": "MangaFire",
+                "title": "Corridor of Mirs",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mireuui-hoerangg.zlmnl"
             }
         },
         "Comick": {

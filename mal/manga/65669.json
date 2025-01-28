@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "32a340ed-2df0-4298-a90f-0e089d82aa62": {
+                "id": 11627,
                 "identifier": "32a340ed-2df0-4298-a90f-0e089d82aa62",
                 "image": "https://uploads.mangadex.org/covers/32a340ed-2df0-4298-a90f-0e089d82aa62/ab3a5462-8dae-40af-b606-0a1df03b5e7f.jpg",
                 "malId": 65669,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "takatou-shounen-no-jikenbo": {
+                "id": 77161,
                 "identifier": "takatou-shounen-no-jikenbo",
                 "image": "https://temp.compsci88.com/cover/Takatou-Shounen-No-Jikenbo.jpg",
                 "malId": 65669,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Takatou-Shounen-No-Jikenbo"
             }
         },
-        "MangaFire": {
-            "kindaichi-case-files-takatos-side.prmxx": {
-                "identifier": "kindaichi-case-files-takatos-side.prmxx",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8738b82a07b42d3ab88917faf018887.jpg",
-                "malId": 65669,
-                "aniId": 85880,
-                "page": "MangaFire",
-                "title": "Kindaichi Case Files: Takato's Side",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kindaichi-case-files-takatos-side.prmxx/"
-            },
-            "prmxx": {
-                "identifier": "prmxx",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8738b82a07b42d3ab88917faf018887.jpg",
-                "malId": 65669,
-                "aniId": 85880,
-                "page": "MangaFire",
-                "title": "Kindaichi Case Files: Takato's Side",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kindaichi-case-files-takatos-side.prmxx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb8ag17s4g1wpvxmnmqz": {
+                "id": 209563,
                 "identifier": "01j76xyb8ag17s4g1wpvxmnmqz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB8AG17S4G1WPVXMNMQZ.jpg",
                 "malId": 65669,
@@ -62,6 +43,19 @@
                 "title": "Takatou Shounen no Jikenbo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB8AG17S4G1WPVXMNMQZ"
+            }
+        },
+        "MangaFire": {
+            "prmxx": {
+                "id": 244525,
+                "identifier": "prmxx",
+                "image": "https://static.mangafire.to/bed5/i/a/a8/a8738b82a07b42d3ab88917faf018887.jpg",
+                "malId": 65669,
+                "aniId": 85880,
+                "page": "MangaFire",
+                "title": "Kindaichi Case Files: Takato's Side",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kindaichi-case-files-takatos-sidee.prmxx"
             }
         },
         "Comick": {

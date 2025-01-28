@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ef4b0094-cc78-489f-978e-d56e0ff28347": {
+                "id": 23296,
                 "identifier": "ef4b0094-cc78-489f-978e-d56e0ff28347",
                 "image": "https://uploads.mangadex.org/covers/ef4b0094-cc78-489f-978e-d56e0ff28347/61592761-38ea-4ff8-8fb5-9684da5eea0e.jpg",
                 "malId": 113210,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "otome-monster-caramelize": {
+                "id": 57140,
                 "identifier": "otome-monster-caramelize",
                 "image": "https://temp.compsci88.com/cover/Otome-Monster-Caramelize.jpg",
                 "malId": 113210,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "otome_monster_caramelize": {
+                "id": 59323,
                 "identifier": "otome_monster_caramelize",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28212/cover.jpg",
                 "malId": 113210,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cx979780": {
+                "id": 74121,
                 "identifier": "manga-cx979780",
                 "image": "https://avt.mkklcdnv6temp.com/4/k/17-1583495420.jpg",
                 "malId": 113210,
@@ -54,50 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cx979780"
             }
         },
-        "MangaFire": {
-            "otome-kaijuu-caramelize.l3pjz": {
-                "identifier": "otome-kaijuu-caramelize.l3pjz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
-                "malId": 113210,
-                "aniId": 102961,
-                "page": "MangaFire",
-                "title": "Kaiju Girl Caramelise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-kaijuu-caramelize.l3pjz/"
-            },
-            "otome-kaiju-caramelise.l3pjz": {
-                "identifier": "otome-kaiju-caramelise.l3pjz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
-                "malId": 113210,
-                "aniId": 102961,
-                "page": "MangaFire",
-                "title": "Kaiju Girl Caramelise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-kaiju-caramelise.l3pjz/"
-            },
-            "otome-kaijuu-caramelizee.l3pjz": {
-                "identifier": "otome-kaijuu-caramelizee.l3pjz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
-                "malId": 113210,
-                "aniId": 102961,
-                "page": "MangaFire",
-                "title": "Kaiju Girl Caramelise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-kaijuu-caramelizee.l3pjz/"
-            },
-            "l3pjz": {
-                "identifier": "l3pjz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
-                "malId": 113210,
-                "aniId": 102961,
-                "page": "MangaFire",
-                "title": "Kaiju Girl Caramelise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-kaijuu-caramelizee.l3pjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczdsz9sy94sc0eyvvgj": {
+                "id": 207855,
                 "identifier": "01j76xyczdsz9sy94sc0eyvvgj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZDSZ9SY94SC0EYVVGJ.jpg",
                 "malId": 113210,
@@ -106,6 +69,19 @@
                 "title": "Kaiju Girl Caramelise",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZDSZ9SY94SC0EYVVGJ"
+            }
+        },
+        "MangaFire": {
+            "l3pjz": {
+                "id": 229047,
+                "identifier": "l3pjz",
+                "image": "https://static.mangafire.to/d7c9/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
+                "malId": 113210,
+                "aniId": 102961,
+                "page": "MangaFire",
+                "title": "Kaiju Girl Caramelise",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otome-kaijuu-caramelizee.l3pjz"
             }
         },
         "Comick": {

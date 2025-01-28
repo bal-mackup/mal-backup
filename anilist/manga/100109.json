@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52925883-c86a-4f3c-a315-877a01258e14": {
+                "id": 19539,
                 "identifier": "52925883-c86a-4f3c-a315-877a01258e14",
                 "image": "https://uploads.mangadex.org/covers/52925883-c86a-4f3c-a315-877a01258e14/17fe4455-0f90-43d0-a084-7231bde7b264.jpg",
                 "malId": 106204,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-witch-and-the-beast": {
+                "id": 58922,
                 "identifier": "the-witch-and-the-beast",
                 "image": "https://temp.compsci88.com/cover/The-Witch-and-the-Beast.jpg",
                 "malId": 106204,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vd958712": {
+                "id": 87365,
                 "identifier": "manga-vd958712",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/n/3-1732756917-nw.webp",
                 "malId": 106204,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-vd958712"
             }
         },
-        "MangaFire": {
-            "majo-to-yajuu.ll8mn": {
-                "identifier": "majo-to-yajuu.ll8mn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffcd17925a464e192dab027bfa6ab65e.jpg",
-                "malId": 106204,
-                "aniId": 100109,
-                "page": "MangaFire",
-                "title": "The Witch and the Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-to-yajuu.ll8mn/"
-            },
-            "majo-to-yajuuu.ll8mn": {
-                "identifier": "majo-to-yajuuu.ll8mn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffcd17925a464e192dab027bfa6ab65e.jpg",
-                "malId": 106204,
-                "aniId": 100109,
-                "page": "MangaFire",
-                "title": "The Witch and the Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-to-yajuuu.ll8mn/"
-            }
-        },
         "MangaFox": {
             "majo_to_yajuu_satake_kousuke": {
+                "id": 174992,
                 "identifier": "majo_to_yajuu_satake_kousuke",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40385/cover.jpg",
                 "malId": 106204,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xye1zf2qetn6z798ptee7": {
+                "id": 207538,
                 "identifier": "01j76xye1zf2qetn6z798ptee7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE1ZF2QETN6Z798PTEE7.jpg",
                 "malId": 106204,
@@ -86,6 +69,19 @@
                 "title": "The Witch and the Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE1ZF2QETN6Z798PTEE7"
+            }
+        },
+        "MangaFire": {
+            "ll8mn": {
+                "id": 225655,
+                "identifier": "ll8mn",
+                "image": "https://static.mangafire.to/f11c/i/f/ff/ffcd17925a464e192dab027bfa6ab65e.jpg",
+                "malId": 106204,
+                "aniId": 100109,
+                "page": "MangaFire",
+                "title": "The Witch and the Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-to-yajuuu.ll8mn"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1a667dd0-36bf-4c0f-82a2-1067ccdbe5c0": {
+                "id": 31817,
                 "identifier": "1a667dd0-36bf-4c0f-82a2-1067ccdbe5c0",
                 "image": "https://uploads.mangadex.org/covers/1a667dd0-36bf-4c0f-82a2-1067ccdbe5c0/9fedd806-5375-4fd4-b18c-13c605f221fe.jpg",
                 "malId": 122906,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kieta_hatsukoi": {
+                "id": 90099,
                 "identifier": "kieta_hatsukoi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32131/cover.jpg",
                 "malId": 122906,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "my-love-mix-up": {
+                "id": 90791,
                 "identifier": "my-love-mix-up",
                 "image": "https://temp.compsci88.com/cover/My-Love-Mix-Up.jpg",
                 "malId": 122906,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/My-Love-Mix-Up"
             }
         },
-        "MangaFire": {
-            "faded-first-love.rlmzm": {
-                "identifier": "faded-first-love.rlmzm",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5915b291c19658e6c7ee56f967891437.jpg",
-                "malId": 122906,
-                "aniId": 109921,
-                "page": "MangaFire",
-                "title": "My Love Mix-Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/faded-first-love.rlmzm/"
-            },
-            "faded-first-lovee.rlmzm": {
-                "identifier": "faded-first-lovee.rlmzm",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5915b291c19658e6c7ee56f967891437.jpg",
-                "malId": 122906,
-                "aniId": 109921,
-                "page": "MangaFire",
-                "title": "My Love Mix-Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/faded-first-lovee.rlmzm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf4qcw7a1zyptt54jbd4": {
+                "id": 211542,
                 "identifier": "01j76xyf4qcw7a1zyptt54jbd4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF4QCW7A1ZYPTT54JBD4.jpg",
                 "malId": 122906,
@@ -74,6 +56,19 @@
                 "title": "My Love Mix-Up!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF4QCW7A1ZYPTT54JBD4"
+            }
+        },
+        "MangaFire": {
+            "rlmzm": {
+                "id": 224616,
+                "identifier": "rlmzm",
+                "image": "https://static.mangafire.to/4995/i/5/59/5915b291c19658e6c7ee56f967891437.jpg",
+                "malId": 122906,
+                "aniId": 109921,
+                "page": "MangaFire",
+                "title": "My Love Mix-Up!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/faded-first-lovee.rlmzm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "274a8e39-71a8-4bd2-af19-4572518fe44f": {
+                "id": 25877,
                 "identifier": "274a8e39-71a8-4bd2-af19-4572518fe44f",
                 "image": "https://uploads.mangadex.org/covers/274a8e39-71a8-4bd2-af19-4572518fe44f/5af88f19-e21c-450c-9401-82826543c966.jpg",
                 "malId": 148137,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "leviathan-lee-gyuntak": {
+                "id": 66991,
                 "identifier": "leviathan-lee-gyuntak",
                 "image": "https://temp.compsci88.com/cover/Leviathan-LEE-Gyuntak.jpg",
                 "malId": 148137,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "deep_sea_water": {
+                "id": 70639,
                 "identifier": "deep_sea_water",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38075/cover.jpg",
                 "malId": 148137,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dx980680": {
+                "id": 73611,
                 "identifier": "manga-dx980680",
                 "image": "https://avt.mkklcdnv6temp.com/37/u/17-1583496627.jpg",
                 "malId": 148137,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dx980680"
             }
         },
-        "MangaFire": {
-            "leviathan2.m258x": {
-                "identifier": "leviathan2.m258x",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da11edb18df769ce6a9713c95b875e0d.jpg",
-                "malId": 148137,
-                "aniId": 110605,
-                "page": "MangaFire",
-                "title": "Leviathan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/leviathan2.m258x/"
-            },
-            "leviathan22.m258x": {
-                "identifier": "leviathan22.m258x",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da11edb18df769ce6a9713c95b875e0d.jpg",
-                "malId": 148137,
-                "aniId": 110605,
-                "page": "MangaFire",
-                "title": "Leviathan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/leviathan22.m258x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyehdzhj5cvwjhf188kqj": {
+                "id": 211799,
                 "identifier": "01j76xyehdzhj5cvwjhf188kqj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEHDZHJ5CVWJHF188KQJ.jpg",
                 "malId": 148137,
@@ -86,6 +69,19 @@
                 "title": "Leviathan (LEE Gyuntak)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEHDZHJ5CVWJHF188KQJ"
+            }
+        },
+        "MangaFire": {
+            "m258x": {
+                "id": 227439,
+                "identifier": "m258x",
+                "image": "https://static.mangafire.to/c6b3/i/d/da/da11edb18df769ce6a9713c95b875e0d.jpg",
+                "malId": 148137,
+                "aniId": 110605,
+                "page": "MangaFire",
+                "title": "Leviathan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/leviathan22.m258x"
             }
         },
         "Comick": {

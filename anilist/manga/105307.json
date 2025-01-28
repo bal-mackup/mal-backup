@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "71b16e06-8c0d-42a3-b457-73cf55343bc0": {
+                "id": 29155,
                 "identifier": "71b16e06-8c0d-42a3-b457-73cf55343bc0",
                 "image": "https://uploads.mangadex.org/covers/71b16e06-8c0d-42a3-b457-73cf55343bc0/5f9f439b-35af-41c3-83fe-9669c3d542a5.jpg",
                 "malId": 111323,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ix986306": {
+                "id": 100004,
                 "identifier": "manga-ix986306",
                 "image": "https://avt.mkklcdnv6temp.com/fld/36/p/11-1732805989-nw.webp",
                 "malId": 111323,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "magmell_shinkai_suizokukan": {
+                "id": 111474,
                 "identifier": "magmell_shinkai_suizokukan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35241/cover.jpg",
                 "malId": 111323,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/magmell_shinkai_suizokukan/"
             }
         },
-        "MangaFire": {
-            "magmell-shinkai-suizokukan.2oqm2": {
-                "identifier": "magmell-shinkai-suizokukan.2oqm2",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b15ac947e34dec8a054ecb4c2abb5560.jpg",
-                "malId": 111323,
-                "aniId": 105307,
-                "page": "MangaFire",
-                "title": "Deep Sea Aquarium MagMell",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magmell-shinkai-suizokukan.2oqm2/"
-            },
-            "magmell-shinkai-suizokukann.2oqm2": {
-                "identifier": "magmell-shinkai-suizokukann.2oqm2",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b15ac947e34dec8a054ecb4c2abb5560.jpg",
-                "malId": 111323,
-                "aniId": 105307,
-                "page": "MangaFire",
-                "title": "Deep Sea Aquarium MagMell",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magmell-shinkai-suizokukann.2oqm2/"
-            },
-            "2oqm2": {
-                "identifier": "2oqm2",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b15ac947e34dec8a054ecb4c2abb5560.jpg",
-                "malId": 111323,
-                "aniId": 105307,
-                "page": "MangaFire",
-                "title": "Deep Sea Aquarium MagMell",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magmell-shinkai-suizokukann.2oqm2/"
-            }
-        },
         "MangaSee": {
             "magmell-shinkai-suizokukan": {
+                "id": 161895,
                 "identifier": "magmell-shinkai-suizokukan",
                 "image": "https://temp.compsci88.com/cover/Magmell-Shinkai-Suizokukan.jpg",
                 "malId": 111323,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyga11gr0jmk4x8q487ye": {
+                "id": 209502,
                 "identifier": "01j76xyga11gr0jmk4x8q487ye",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGA11GR0JMK4X8Q487YE.jpg",
                 "malId": 111323,
@@ -96,6 +69,19 @@
                 "title": "MagMell Shinkai Suizokukan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGA11GR0JMK4X8Q487YE"
+            }
+        },
+        "MangaFire": {
+            "2oqm2": {
+                "id": 237407,
+                "identifier": "2oqm2",
+                "image": "https://static.mangafire.to/90b9/i/b/b1/b15ac947e34dec8a054ecb4c2abb5560.jpg",
+                "malId": 111323,
+                "aniId": 105307,
+                "page": "MangaFire",
+                "title": "Deep Sea Aquarium MagMell",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/magmell-shinkai-suizokukann.2oqm2"
             }
         },
         "Comick": {

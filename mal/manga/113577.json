@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "61cb55bb-03e1-4496-9bd4-460c2c7143b4": {
+                "id": 19468,
                 "identifier": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
                 "image": "https://uploads.mangadex.org/covers/61cb55bb-03e1-4496-9bd4-460c2c7143b4/9ec61c1f-1826-416f-8489-f37eb9689ec4.jpg",
                 "malId": 113577,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eden-tsuruoka-nobuhisa": {
+                "id": 64294,
                 "identifier": "eden-tsuruoka-nobuhisa",
                 "image": "https://temp.compsci88.com/cover/Eden-tsuruoka-Nobuhisa.jpg",
                 "malId": 113577,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-xi975191": {
+                "id": 84965,
                 "identifier": "manga-xi975191",
                 "image": "https://avt.mkklcdnv6temp.com/6/b/15-1583491686.jpg",
                 "malId": 113577,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-xi975191"
             }
         },
-        "MangaFire": {
-            "eden2.m2z07": {
-                "identifier": "eden2.m2z07",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2fa7420988fec3d003325bbf5b4fda2e.jpg",
-                "malId": 113577,
-                "aniId": 108781,
-                "page": "MangaFire",
-                "title": "EDEN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eden2.m2z07/"
-            },
-            "m2z07": {
-                "identifier": "m2z07",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2fa7420988fec3d003325bbf5b4fda2e.jpg",
-                "malId": 113577,
-                "aniId": 108781,
-                "page": "MangaFire",
-                "title": "EDEN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eden2.m2z07/"
-            }
-        },
         "Weebcentral": {
             "01j76xycg1ae4ys9wtj3hknfzs": {
+                "id": 207411,
                 "identifier": "01j76xycg1ae4ys9wtj3hknfzs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCG1AE4YS9WTJ3HKNFZS.jpg",
                 "malId": 113577,
@@ -74,6 +56,19 @@
                 "title": "Eden (TSURUOKA Nobuhisa)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCG1AE4YS9WTJ3HKNFZS"
+            }
+        },
+        "MangaFire": {
+            "m2z07": {
+                "id": 258912,
+                "identifier": "m2z07",
+                "image": "https://static.mangafire.to/cb17/i/2/2f/2fa7420988fec3d003325bbf5b4fda2e.jpg",
+                "malId": 113577,
+                "aniId": 108781,
+                "page": "MangaFire",
+                "title": "EDEN",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eden22.m2z07"
             }
         },
         "Comick": {

@@ -6,6 +6,19 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/3/295722.jpg",
     "Sites": {
+        "Mangadex": {
+            "da910af5-2e0e-4c12-93e5-56a6c9914b2d": {
+                "id": 39289,
+                "identifier": "da910af5-2e0e-4c12-93e5-56a6c9914b2d",
+                "image": "https://uploads.mangadex.org/covers/da910af5-2e0e-4c12-93e5-56a6c9914b2d/72ff4b5f-2415-4f7c-81e2-595141e3e777.jpg",
+                "malId": 165985,
+                "aniId": 135899,
+                "page": "Mangadex",
+                "title": "Yome Baka Danna no Hoshii Mono",
+                "type": "manga",
+                "url": "https://mangadex.org/title/da910af5-2e0e-4c12-93e5-56a6c9914b2d"
+            }
+        },
         "Comick": {
             "ndcKqYEv": {
                 "identifier": "ndcKqYEv",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Yome Baka Danna no Hoshii Mono",
-                "url": "https://comick.io/comic/yomebaka-danna-no-hoshii-mono"
+                "url": "https://comick.io/comic/yomebaka-danna-no-hoshii-mono",
+                "aniId": 135899
             }
         }
-    }
+    },
+    "aniId": 135899
 }

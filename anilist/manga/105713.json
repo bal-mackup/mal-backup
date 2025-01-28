@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2bb86240-1f2a-4061-88d5-f3db0b1a19e2": {
+                "id": 64658,
                 "identifier": "2bb86240-1f2a-4061-88d5-f3db0b1a19e2",
                 "image": "https://uploads.mangadex.org/covers/2bb86240-1f2a-4061-88d5-f3db0b1a19e2/92a562ee-6493-427e-bdb6-8f78e69ce519.jpg",
                 "malId": 127968,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "slasher-maidens": {
+                "id": 66638,
                 "identifier": "slasher-maidens",
                 "image": "https://temp.compsci88.com/cover/Slasher-Maidens.jpg",
                 "malId": 127968,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kaijin_reijoh": {
+                "id": 66752,
                 "identifier": "kaijin_reijoh",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36833/cover.jpg",
                 "malId": 127968,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/kaijin_reijoh/"
             }
         },
-        "MangaFire": {
-            "kaijin-reijou.w1qn4": {
-                "identifier": "kaijin-reijou.w1qn4",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1734f1b82c6c6ec378489f55919bb6d.jpg",
-                "malId": 127968,
-                "aniId": 105713,
-                "page": "MangaFire",
-                "title": "Slasher Maidens",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaijin-reijou.w1qn4/"
-            }
-        },
         "MangaNato": {
             "manga-xv1000904": {
+                "id": 182429,
                 "identifier": "manga-xv1000904",
                 "image": "https://avt.mkklcdnv6temp.com/fld/86/y/16-1733319663-nw.webp",
                 "malId": 127968,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xye4n6j9hj7g3swk0v4d3": {
+                "id": 208680,
                 "identifier": "01j76xye4n6j9hj7g3swk0v4d3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4N6J9HJ7G3SWK0V4D3.jpg",
                 "malId": 127968,
@@ -76,6 +69,19 @@
                 "title": "Slasher Maidens",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4N6J9HJ7G3SWK0V4D3"
+            }
+        },
+        "MangaFire": {
+            "w1qn4": {
+                "id": 249440,
+                "identifier": "w1qn4",
+                "image": "https://static.mangafire.to/b9e8/i/f/f1/f1734f1b82c6c6ec378489f55919bb6d.jpg",
+                "malId": 127968,
+                "aniId": 105713,
+                "page": "MangaFire",
+                "title": "Slasher Maidens",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaijin-reijouu.w1qn4"
             }
         },
         "Comick": {

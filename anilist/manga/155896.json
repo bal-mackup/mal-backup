@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8b1d7ca0-6b34-415c-96c8-f3ffd460e932": {
+                "id": 119385,
                 "identifier": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
                 "image": "https://uploads.mangadex.org/covers/8b1d7ca0-6b34-415c-96c8-f3ffd460e932/9da64ba3-b4df-4895-8432-462ac8088f80.jpg",
                 "malId": 152806,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-uf998214": {
+                "id": 170517,
                 "identifier": "manga-uf998214",
                 "image": "https://avt.mkklcdnv6temp.com/fld/84/c/15-1733311877-nw.webp",
                 "malId": 152806,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-uf998214"
             }
         },
-        "MangaFire": {
-            "ryuu-to-chameleon.2p835": {
-                "identifier": "ryuu-to-chameleon.2p835",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36bf399560988c2537a320deb6bf7c0b.jpg",
-                "malId": 152806,
-                "aniId": 155896,
-                "page": "MangaFire",
-                "title": "Dragon and Chameleon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryuu-to-chameleon.2p835/"
-            },
-            "ryuu-to-chameleonn.2p835": {
-                "identifier": "ryuu-to-chameleonn.2p835",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36bf399560988c2537a320deb6bf7c0b.jpg",
-                "malId": 152806,
-                "aniId": 155896,
-                "page": "MangaFire",
-                "title": "Dragon and Chameleon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryuu-to-chameleonn.2p835/"
-            }
-        },
         "MangaSee": {
             "dragon-and-chameleon": {
+                "id": 181067,
                 "identifier": "dragon-and-chameleon",
                 "image": "https://temp.compsci88.com/cover/Dragon-and-Chameleon.jpg",
                 "malId": 152806,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "ryuu_to_cameleon": {
+                "id": 188563,
                 "identifier": "ryuu_to_cameleon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45774/cover.jpg",
                 "malId": 152806,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygy5p4ej9eh20a85hkvy": {
+                "id": 208595,
                 "identifier": "01j76xygy5p4ej9eh20a85hkvy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGY5P4EJ9EH20A85HKVY.jpg",
                 "malId": 152806,
@@ -86,6 +69,19 @@
                 "title": "Dragon and Chameleon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGY5P4EJ9EH20A85HKVY"
+            }
+        },
+        "MangaFire": {
+            "2p835": {
+                "id": 238195,
+                "identifier": "2p835",
+                "image": "https://static.mangafire.to/1bec/i/3/05/91d5e3652887e65b0d35f789bdde6ec6.jpg",
+                "malId": 152806,
+                "aniId": 155896,
+                "page": "MangaFire",
+                "title": "Dragon and Chameleon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ryuu-to-chameleonn.2p835"
             }
         },
         "Comick": {

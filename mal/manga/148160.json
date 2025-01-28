@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3deba31a-3242-4d07-add5-22de2fa7d089": {
+                "id": 36725,
                 "identifier": "3deba31a-3242-4d07-add5-22de2fa7d089",
                 "image": "https://uploads.mangadex.org/covers/3deba31a-3242-4d07-add5-22de2fa7d089/d0d262ec-92d0-4621-bfcd-a11ba5ffbc6b.jpg",
                 "malId": 148160,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-villain-demands-to-be-loved": {
+                "id": 81902,
                 "identifier": "a-villain-demands-to-be-loved",
                 "image": "https://temp.compsci88.com/cover/A-Villain-Demands-To-Be-Loved.jpg",
                 "malId": 148160,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_villain_demands_i_love_him": {
+                "id": 84779,
                 "identifier": "the_villain_demands_i_love_him",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34632/cover.jpg",
                 "malId": 148160,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/the_villain_demands_i_love_him/"
             }
         },
-        "MangaFire": {
-            "akdangege-sarangeul-gangyobatgo-itseumnida.n3okl": {
-                "identifier": "akdangege-sarangeul-gangyobatgo-itseumnida.n3okl",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9ca15a3c14399569f75465edccd44ca9.jpg",
-                "malId": 148160,
-                "aniId": 121327,
-                "page": "MangaFire",
-                "title": "A Villain Demands to Be Loved",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akdangege-sarangeul-gangyobatgo-itseumnida.n3okl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyex5envavh5wwvr5882z": {
+                "id": 213931,
                 "identifier": "01j76xyex5envavh5wwvr5882z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEX5ENVAVH5WWVR5882Z.jpg",
                 "malId": 148160,
@@ -64,6 +56,19 @@
                 "title": "A Villain Demands to Be Loved",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEX5ENVAVH5WWVR5882Z"
+            }
+        },
+        "MangaFire": {
+            "n3okl": {
+                "id": 243441,
+                "identifier": "n3okl",
+                "image": "https://static.mangafire.to/097f/i/9/9c/9ca15a3c14399569f75465edccd44ca9.jpg",
+                "malId": 148160,
+                "aniId": 121327,
+                "page": "MangaFire",
+                "title": "A Villain Demands to Be Loved",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/akdangege-sarangeul-gangyobatgo-itseumnidaa.n3okl"
             }
         }
     },

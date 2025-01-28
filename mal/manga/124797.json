@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "08a25bd7-ce34-4630-8552-b93fe16852d9": {
+                "id": 33565,
                 "identifier": "08a25bd7-ce34-4630-8552-b93fe16852d9",
                 "image": "https://uploads.mangadex.org/covers/08a25bd7-ce34-4630-8552-b93fe16852d9/7b05acbd-87f5-4b7d-9cd3-9b05038a2224.jpg",
                 "malId": 124797,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "time-stop-brave": {
+                "id": 58043,
                 "identifier": "time-stop-brave",
                 "image": "https://temp.compsci88.com/cover/Time-Stop-Brave.jpg",
                 "malId": 124797,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jikan_teishi_yuusha": {
+                "id": 67712,
                 "identifier": "jikan_teishi_yuusha",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32905/cover.jpg",
                 "malId": 124797,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hl984820": {
+                "id": 75162,
                 "identifier": "manga-hl984820",
                 "image": "https://avt.mkklcdnv6temp.com/40/o/20-1583574163.jpg",
                 "malId": 124797,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-hl984820"
             }
         },
-        "MangaFire": {
-            "jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiru.o114": {
-                "identifier": "jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiru.o114",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b666bb704ff0c6f9be54c6fb5a4db22.jpg",
-                "malId": 124797,
-                "aniId": 112116,
-                "page": "MangaFire",
-                "title": "Time Stop Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiru.o114/"
-            },
-            "jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiruu.o114": {
-                "identifier": "jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiruu.o114",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b666bb704ff0c6f9be54c6fb5a4db22.jpg",
-                "malId": 124797,
-                "aniId": 112116,
-                "page": "MangaFire",
-                "title": "Time Stop Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiruu.o114/"
-            }
-        },
         "Weebcentral": {
             "01j76xydq3xfp928rg2khj6ta0": {
+                "id": 212198,
                 "identifier": "01j76xydq3xfp928rg2khj6ta0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQ3XFP928RG2KHJ6TA0.jpg",
                 "malId": 124797,
@@ -86,6 +69,19 @@
                 "title": "Time Stop Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQ3XFP928RG2KHJ6TA0"
+            }
+        },
+        "MangaFire": {
+            "o114": {
+                "id": 229398,
+                "identifier": "o114",
+                "image": "https://static.mangafire.to/b3ea/i/2/2b/2b666bb704ff0c6f9be54c6fb5a4db22.jpg",
+                "malId": 124797,
+                "aniId": 112116,
+                "page": "MangaFire",
+                "title": "Time Stop Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jikan-teishi-yuusha-yomei-3-ka-no-settei-ja-sekai-wo-sukuu-ni-wa-mijika-sugiruu.o114"
             }
         },
         "Comick": {

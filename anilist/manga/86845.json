@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "776f2efa-1520-4fb3-afb8-03abc0046c7b": {
+                "id": 13045,
                 "identifier": "776f2efa-1520-4fb3-afb8-03abc0046c7b",
                 "image": "https://uploads.mangadex.org/covers/776f2efa-1520-4fb3-afb8-03abc0046c7b/36cf38b7-9d1a-4631-aa3c-a6448f9d3d74.jpg",
                 "malId": 88987,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sekirara-ni-kiss": {
+                "id": 71037,
                 "identifier": "sekirara-ni-kiss",
                 "image": "https://temp.compsci88.com/cover/Sekirara-Ni-Kiss.jpg",
                 "malId": 88987,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zh959142": {
+                "id": 75628,
                 "identifier": "manga-zh959142",
                 "image": "https://avt.mkklcdnv6temp.com/3/a/6-1583474211.jpg",
                 "malId": 88987,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-zh959142"
             },
             "manga-lc988911": {
+                "id": 78280,
                 "identifier": "manga-lc988911",
                 "image": "https://avt.mkklcdnv6temp.com/8/k/24-1619276504.jpg",
                 "malId": 88987,
@@ -52,30 +56,9 @@
                 "url": "https://chapmanganato.com/manga-lc988911"
             }
         },
-        "MangaFire": {
-            "sekirara-ni-kiss.52699": {
-                "identifier": "sekirara-ni-kiss.52699",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea559ab1f1d96c0ca67bbdadfee7948.jpg",
-                "malId": 88987,
-                "aniId": 86845,
-                "page": "MangaFire",
-                "title": "A Kiss, For Real",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sekirara-ni-kiss.52699/"
-            },
-            "sekirara-ni-kisss.52699": {
-                "identifier": "sekirara-ni-kisss.52699",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea559ab1f1d96c0ca67bbdadfee7948.jpg",
-                "malId": 88987,
-                "aniId": 86845,
-                "page": "MangaFire",
-                "title": "A Kiss, For Real",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sekirara-ni-kisss.52699/"
-            }
-        },
         "Weebcentral": {
             "01j76xycjq2zvrfhr44xz6f471": {
+                "id": 210241,
                 "identifier": "01j76xycjq2zvrfhr44xz6f471",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJQ2ZVRFHR44XZ6F471.jpg",
                 "malId": 88987,
@@ -84,6 +67,19 @@
                 "title": "A Kiss, For Real",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJQ2ZVRFHR44XZ6F471"
+            }
+        },
+        "MangaFire": {
+            "52699": {
+                "id": 254326,
+                "identifier": "52699",
+                "image": "https://static.mangafire.to/56a3/i/6/6e/6ea559ab1f1d96c0ca67bbdadfee7948.jpg",
+                "malId": 88987,
+                "aniId": 86845,
+                "page": "MangaFire",
+                "title": "A Kiss, For Real",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sekirara-ni-kisss.52699"
             }
         },
         "Comick": {

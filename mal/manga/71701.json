@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3f2b283e-6430-4321-8b02-9ed7ff34abf8": {
+                "id": 13798,
                 "identifier": "3f2b283e-6430-4321-8b02-9ed7ff34abf8",
                 "image": "https://uploads.mangadex.org/covers/3f2b283e-6430-4321-8b02-9ed7ff34abf8/c0396ff0-4c7f-4fbf-9b15-0d5a52824db3.jpg",
                 "malId": 71701,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "umi_no_cradle": {
+                "id": 67183,
                 "identifier": "umi_no_cradle",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16935/cover.jpg",
                 "malId": 71701,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-cradle-of-the-sea": {
+                "id": 82817,
                 "identifier": "the-cradle-of-the-sea",
                 "image": "https://temp.compsci88.com/cover/The-Cradle-Of-The-Sea.jpg",
                 "malId": 71701,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bg951889": {
+                "id": 87173,
                 "identifier": "manga-bg951889",
                 "image": "https://avt.mkklcdnv6temp.com/fld/22/z/1-1732717274-nw.webp",
                 "malId": 71701,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-bg951889"
             }
         },
-        "MangaFire": {
-            "umi-no-cradle.m23zv": {
-                "identifier": "umi-no-cradle.m23zv",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df875b12b757ac45c48d1ed18b3dfb23.jpg",
-                "malId": 71701,
-                "aniId": 87253,
-                "page": "MangaFire",
-                "title": "The Cradle of The Sea",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/umi-no-cradle.m23zv/"
-            },
-            "umi-no-cradlee.m23zv": {
-                "identifier": "umi-no-cradlee.m23zv",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df875b12b757ac45c48d1ed18b3dfb23.jpg",
-                "malId": 71701,
-                "aniId": 87253,
-                "page": "MangaFire",
-                "title": "The Cradle of The Sea",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/umi-no-cradlee.m23zv/"
-            },
-            "m23zv": {
-                "identifier": "m23zv",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df875b12b757ac45c48d1ed18b3dfb23.jpg",
-                "malId": 71701,
-                "aniId": 87253,
-                "page": "MangaFire",
-                "title": "The Cradle of The Sea",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/umi-no-cradlee.m23zv/"
-            }
-        },
         "Weebcentral": {
             "01j76xybht75b9z1ddn2ad6hga": {
+                "id": 210376,
                 "identifier": "01j76xybht75b9z1ddn2ad6hga",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBHT75B9Z1DDN2AD6HGA.jpg",
                 "malId": 71701,
@@ -96,6 +69,19 @@
                 "title": "The Cradle of the Sea",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBHT75B9Z1DDN2AD6HGA"
+            }
+        },
+        "MangaFire": {
+            "m23zv": {
+                "id": 230584,
+                "identifier": "m23zv",
+                "image": "https://static.mangafire.to/d081/i/d/df/df875b12b757ac45c48d1ed18b3dfb23.jpg",
+                "malId": 71701,
+                "aniId": 87253,
+                "page": "MangaFire",
+                "title": "The Cradle of The Sea",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/umi-no-cradlee.m23zv"
             }
         },
         "Comick": {

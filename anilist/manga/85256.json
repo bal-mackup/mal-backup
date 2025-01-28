@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a2e12221-31f4-44d3-b3b1-768d76026933": {
+                "id": 203,
                 "identifier": "a2e12221-31f4-44d3-b3b1-768d76026933",
                 "image": "https://uploads.mangadex.org/covers/a2e12221-31f4-44d3-b3b1-768d76026933/1195a966-8dce-4f76-aaa2-f21e877a3bc1.jpg",
                 "malId": 147099,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "magician": {
+                "id": 54496,
                 "identifier": "magician",
                 "image": "https://temp.compsci88.com/cover/Magician.jpg",
                 "malId": 147099,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Magician"
             }
         },
-        "MangaFire": {
-            "magician.n0m": {
-                "identifier": "magician.n0m",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af8f9520c2d968e41b15db60f77da005.jpg",
-                "malId": 147099,
-                "aniId": 85256,
-                "page": "MangaFire",
-                "title": "Magician",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magician.n0m/"
-            }
-        },
         "Weebcentral": {
             "01j76xy7s4kjhj8zh7e8wv1brb": {
+                "id": 213466,
                 "identifier": "01j76xy7s4kjhj8zh7e8wv1brb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY7S4KJHJ8ZH7E8WV1BRB.jpg",
                 "malId": 147099,
@@ -52,6 +43,19 @@
                 "title": "Magician (KIM Sarae)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY7S4KJHJ8ZH7E8WV1BRB"
+            }
+        },
+        "MangaFire": {
+            "n0m": {
+                "id": 252078,
+                "identifier": "n0m",
+                "image": "https://static.mangafire.to/4974/i/a/af/af8f9520c2d968e41b15db60f77da005.jpg",
+                "malId": 147099,
+                "aniId": 85256,
+                "page": "MangaFire",
+                "title": "Magician",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/magiciann.n0m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3da96505-f8e8-49d5-8c26-fbe4786a897f": {
+                "id": 102349,
                 "identifier": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
                 "image": "https://uploads.mangadex.org/covers/3da96505-f8e8-49d5-8c26-fbe4786a897f/0751f176-831e-41b2-add5-e9b6a6fbb73a.jpg",
                 "malId": 146732,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oo992071": {
+                "id": 113134,
                 "identifier": "manga-oo992071",
                 "image": "https://avt.mkklcdnv6temp.com/42/s/26-1661407891.jpg",
                 "malId": 146732,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-oo992071"
             }
         },
-        "MangaFire": {
-            "make-hiroin-ga-osugiru.zl853": {
-                "identifier": "make-hiroin-ga-osugiru.zl853",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f4d342ebd1a6c20e8f44528386c3db78.jpg",
-                "malId": 146732,
-                "aniId": 147664,
-                "page": "MangaFire",
-                "title": "Make Hiroin ga Ōsugiru!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/make-hiroin-ga-osugiru.zl853/"
-            },
-            "make-hiroin-ga-osugiruu.zl853": {
-                "identifier": "make-hiroin-ga-osugiruu.zl853",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f4d342ebd1a6c20e8f44528386c3db78.jpg",
-                "malId": 146732,
-                "aniId": 147664,
-                "page": "MangaFire",
-                "title": "Make Hiroin ga Ōsugiru!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/make-hiroin-ga-osugiruu.zl853/"
-            }
-        },
         "MangaFox": {
             "make_heroine_ga_oosugiru": {
+                "id": 177676,
                 "identifier": "make_heroine_ga_oosugiru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42740/cover.jpg",
                 "malId": 146732,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "too-many-losing-heroines": {
+                "id": 194949,
                 "identifier": "too-many-losing-heroines",
                 "image": "https://temp.compsci88.com/cover/Too-Many-Losing-Heroines.jpg",
                 "malId": 146732,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhgkzjp1qfvvddqjarre": {
+                "id": 210532,
                 "identifier": "01j76xyhgkzjp1qfvvddqjarre",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHGKZJP1QFVVDDQJARRE.jpg",
                 "malId": 146732,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYHGKZJP1QFVVDDQJARRE"
             }
         },
+        "MangaFire": {
+            "zl853": {
+                "id": 225616,
+                "identifier": "zl853",
+                "image": "https://static.mangafire.to/3770/i/f/f4/f4d342ebd1a6c20e8f44528386c3db78.jpg",
+                "malId": 146732,
+                "aniId": 147664,
+                "page": "MangaFire",
+                "title": "Make Hiroin ga Ōsugiru!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/make-hiroin-ga-osugiruu.zl853"
+            }
+        },
         "Comick": {
             "T4piJHiN": {
                 "identifier": "T4piJHiN",
                 "malId": 146732,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Make Heroine ga Oosugiru! @comic",
+                "title": "Make Heroine ga Oosugiru!",
                 "url": "https://comick.io/comic/too-many-losing-heroines",
                 "aniId": 147664
             }

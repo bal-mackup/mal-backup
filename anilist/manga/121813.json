@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f23d78c0-a829-44d7-8bb9-70b5827630a1": {
+                "id": 36885,
                 "identifier": "f23d78c0-a829-44d7-8bb9-70b5827630a1",
                 "image": "https://uploads.mangadex.org/covers/f23d78c0-a829-44d7-8bb9-70b5827630a1/c9237ab1-ee0b-4745-8acf-6b0b52b949cd.jpg",
                 "malId": 147990,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ill-marry-him": {
+                "id": 70532,
                 "identifier": "ill-marry-him",
                 "image": "https://temp.compsci88.com/cover/Ill-Marry-Him.jpg",
                 "malId": 147990,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "i_ll_do_that_marriage": {
+                "id": 93131,
                 "identifier": "i_ll_do_that_marriage",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34636/cover.jpg",
                 "malId": 147990,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/i_ll_do_that_marriage/"
             }
         },
-        "MangaFire": {
-            "geu-gyeolhon-jega-halgeyo.4jrkm": {
-                "identifier": "geu-gyeolhon-jega-halgeyo.4jrkm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e4/e4e578a05b1ed41021a76fd1351e4a99.jpg",
-                "malId": 147990,
-                "aniId": 121813,
-                "page": "MangaFire",
-                "title": "I'll Marry Him!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/geu-gyeolhon-jega-halgeyo.4jrkm/"
-            },
-            "geu-gyeolhon-jega-halgeyoo.4jrkm": {
-                "identifier": "geu-gyeolhon-jega-halgeyoo.4jrkm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e4/e4e578a05b1ed41021a76fd1351e4a99.jpg",
-                "malId": 147990,
-                "aniId": 121813,
-                "page": "MangaFire",
-                "title": "I'll Marry Him!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/geu-gyeolhon-jega-halgeyoo.4jrkm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyep1yacs4xyt2rcztybb": {
+                "id": 210479,
                 "identifier": "01j76xyep1yacs4xyt2rcztybb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEP1YACS4XYT2RCZTYBB.jpg",
                 "malId": 147990,
@@ -74,6 +56,19 @@
                 "title": "I'll Marry Him!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEP1YACS4XYT2RCZTYBB"
+            }
+        },
+        "MangaFire": {
+            "4jrkm": {
+                "id": 227956,
+                "identifier": "4jrkm",
+                "image": "https://static.mangafire.to/e6f2/i/e/e4/e4e578a05b1ed41021a76fd1351e4a99.jpg",
+                "malId": 147990,
+                "aniId": 121813,
+                "page": "MangaFire",
+                "title": "I'll Marry Him!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/geu-gyeolhon-jega-halgeyoo.4jrkm"
             }
         },
         "Comick": {

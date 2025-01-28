@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7fe6e6ac-bc18-4517-bc9c-a186f531890d": {
+                "id": 16777,
                 "identifier": "7fe6e6ac-bc18-4517-bc9c-a186f531890d",
                 "image": "https://uploads.mangadex.org/covers/7fe6e6ac-bc18-4517-bc9c-a186f531890d/a20ee561-3498-46f5-aece-1cbe49652a1d.jpg",
                 "malId": 100382,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ohayou_to_oyasumi_to_sono_ato_ni": {
+                "id": 63006,
                 "identifier": "ohayou_to_oyasumi_to_sono_ato_ni",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21573/cover.jpg",
                 "malId": 100382,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/ohayou_to_oyasumi_to_sono_ato_ni/"
             }
         },
-        "MangaFire": {
-            "ohayou-to-oyasumi-to-sono-ato-ni.przoj": {
-                "identifier": "ohayou-to-oyasumi-to-sono-ato-ni.przoj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/075411be72d1152f323881737ef6133b.jpg",
-                "malId": 100382,
-                "aniId": 98022,
-                "page": "MangaFire",
-                "title": "Good Morning, Good Night and Then",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ohayou-to-oyasumi-to-sono-ato-ni.przoj/"
-            }
-        },
         "MangaNato": {
             "manga-vr972700": {
+                "id": 193720,
                 "identifier": "manga-vr972700",
                 "image": "https://avt.mkklcdnv6temp.com/fld/67/j/7-1732786326-nw.webp",
                 "malId": 100382,
@@ -52,6 +43,19 @@
                 "title": "Ohayou To Oyasumi To Sono Ato Ni",
                 "type": "manga",
                 "url": "https://manganato.com/manga-vr972700"
+            }
+        },
+        "MangaFire": {
+            "przoj": {
+                "id": 256927,
+                "identifier": "przoj",
+                "image": "https://static.mangafire.to/e8ab/i/0/07/075411be72d1152f323881737ef6133b.jpg",
+                "malId": 100382,
+                "aniId": 98022,
+                "page": "MangaFire",
+                "title": "Good Morning, Good Night and Then",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ohayou-to-oyasumi-to-sono-ato-nii.przoj"
             }
         },
         "Comick": {

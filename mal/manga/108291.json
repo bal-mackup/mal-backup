@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4738c357-b65f-4013-88a9-8b4459151e00": {
+                "id": 18178,
                 "identifier": "4738c357-b65f-4013-88a9-8b4459151e00",
                 "image": "https://uploads.mangadex.org/covers/4738c357-b65f-4013-88a9-8b4459151e00/33781132-2a1a-48c4-b80a-db0f22914073.jpg",
                 "malId": 108291,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ecstas-online": {
+                "id": 60220,
                 "identifier": "ecstas-online",
                 "image": "https://temp.compsci88.com/cover/Ecstas-Online.jpg",
                 "malId": 108291,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ecstas_online": {
+                "id": 66189,
                 "identifier": "ecstas_online",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26613/cover.jpg",
                 "malId": 108291,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ax977480": {
+                "id": 74030,
                 "identifier": "manga-ax977480",
                 "image": "https://avt.mkklcdnv6temp.com/43/o/15-1583493224.jpg",
                 "malId": 108291,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ax977480"
             }
         },
-        "MangaFire": {
-            "ecstas-online.52nnq": {
-                "identifier": "ecstas-online.52nnq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/18ef841e23abc1605b2dc57553339373.jpg",
-                "malId": 108291,
-                "aniId": 99925,
-                "page": "MangaFire",
-                "title": "Ecstas Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ecstas-online.52nnq/"
-            },
-            "52nnq": {
-                "identifier": "52nnq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/18ef841e23abc1605b2dc57553339373.jpg",
-                "malId": 108291,
-                "aniId": 99925,
-                "page": "MangaFire",
-                "title": "Ecstas Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ecstas-online.52nnq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyceaqpj6t89txytrrje8": {
+                "id": 208112,
                 "identifier": "01j76xyceaqpj6t89txytrrje8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCEAQPJ6T89TXYTRRJE8.jpg",
                 "malId": 108291,
@@ -86,6 +69,19 @@
                 "title": "Ecstas Online",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCEAQPJ6T89TXYTRRJE8"
+            }
+        },
+        "MangaFire": {
+            "52nnq": {
+                "id": 250487,
+                "identifier": "52nnq",
+                "image": "https://static.mangafire.to/3751/i/1/18/18ef841e23abc1605b2dc57553339373.jpg",
+                "malId": 108291,
+                "aniId": 99925,
+                "page": "MangaFire",
+                "title": "Ecstas Online",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ecstas-onlinee.52nnq"
             }
         },
         "Comick": {

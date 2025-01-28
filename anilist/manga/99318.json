@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ea6c90a3-50f1-4599-953c-65d164b66498": {
+                "id": 17886,
                 "identifier": "ea6c90a3-50f1-4599-953c-65d164b66498",
                 "image": "https://uploads.mangadex.org/covers/ea6c90a3-50f1-4599-953c-65d164b66498/9e18e102-a567-4019-be36-96b95bde423f.png",
                 "malId": 106021,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/ea6c90a3-50f1-4599-953c-65d164b66498"
             },
             "378975ca-39bb-47fb-b2ef-268f302418ac": {
+                "id": 28905,
                 "identifier": "378975ca-39bb-47fb-b2ef-268f302418ac",
                 "image": "https://uploads.mangadex.org/covers/378975ca-39bb-47fb-b2ef-268f302418ac/cf62fbb8-b005-45e1-8bbd-99c385e96611.jpg",
                 "malId": 106021,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "strawberry-fields-once-again": {
+                "id": 68295,
                 "identifier": "strawberry-fields-once-again",
                 "image": "https://temp.compsci88.com/cover/Strawberry-Fields-Once-Again.jpg",
                 "malId": 106021,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "strawberry_fields_wo_mou_ichido": {
+                "id": 72191,
                 "identifier": "strawberry_fields_wo_mou_ichido",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25687/cover.jpg",
                 "malId": 106021,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-zv976930": {
+                "id": 75917,
                 "identifier": "manga-zv976930",
                 "image": "https://avt.mkklcdnv6temp.com/32/i/15-1583492741.jpg",
                 "malId": 106021,
@@ -64,20 +69,9 @@
                 "url": "https://manganato.com/manga-zv976930"
             }
         },
-        "MangaFire": {
-            "strawberry-fields-once-again.5krz9": {
-                "identifier": "strawberry-fields-once-again.5krz9",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/76443fbffa340f7d9e274e7fa27fdedc.jpg",
-                "malId": 106021,
-                "aniId": 99318,
-                "page": "MangaFire",
-                "title": "Strawberry Fields Once Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strawberry-fields-once-again.5krz9/"
-            }
-        },
         "Weebcentral": {
             "01j76xye7t3w6e5vptsvmn2jvd": {
+                "id": 212558,
                 "identifier": "01j76xye7t3w6e5vptsvmn2jvd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE7T3W6E5VPTSVMN2JVD.jpg",
                 "malId": 106021,
@@ -86,6 +80,19 @@
                 "title": "Strawberry Fields Once Again",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE7T3W6E5VPTSVMN2JVD"
+            }
+        },
+        "MangaFire": {
+            "5krz9": {
+                "id": 247563,
+                "identifier": "5krz9",
+                "image": "https://static.mangafire.to/1cbf/i/7/76/76443fbffa340f7d9e274e7fa27fdedc.jpg",
+                "malId": 106021,
+                "aniId": 99318,
+                "page": "MangaFire",
+                "title": "Strawberry Fields Once Again",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/strawberry-fields-once-againn.5krz9"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8283a222-48df-4474-b52a-938444368fb3": {
+                "id": 118368,
                 "identifier": "8283a222-48df-4474-b52a-938444368fb3",
                 "image": "https://uploads.mangadex.org/covers/8283a222-48df-4474-b52a-938444368fb3/c9327e71-d8ed-418f-8862-654a69de7a49.jpg",
                 "malId": 153694,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qu994329": {
+                "id": 125476,
                 "identifier": "manga-qu994329",
                 "image": "https://avt.mkklcdnv6temp.com/33/u/28-1676867168.jpg",
                 "malId": 153694,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-qu994329"
             }
         },
-        "MangaFire": {
-            "false-child.zlp73": {
-                "identifier": "false-child.zlp73",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed2cd6a8aa56f7dd64f6a4c587cb8305.jpg",
-                "malId": 153694,
-                "aniId": 157893,
-                "page": "MangaFire",
-                "title": "False Child",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/false-child.zlp73/"
-            }
-        },
         "MangaSee": {
             "false-child": {
+                "id": 159668,
                 "identifier": "false-child",
                 "image": "https://temp.compsci88.com/cover/False-Child.jpg",
                 "malId": 153694,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg7bq51by2vh39v4vawb": {
+                "id": 211966,
                 "identifier": "01j76xyg7bq51by2vh39v4vawb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG7BQ51BY2VH39V4VAWB.jpg",
                 "malId": 153694,
@@ -64,6 +56,19 @@
                 "title": "False Child",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG7BQ51BY2VH39V4VAWB"
+            }
+        },
+        "MangaFire": {
+            "zlp73": {
+                "id": 253027,
+                "identifier": "zlp73",
+                "image": "https://static.mangafire.to/a1fd/i/e/ed/ed2cd6a8aa56f7dd64f6a4c587cb8305.jpg",
+                "malId": 153694,
+                "aniId": 157893,
+                "page": "MangaFire",
+                "title": "False Child",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/false-childd.zlp73"
             }
         },
         "Comick": {

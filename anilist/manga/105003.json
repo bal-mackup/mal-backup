@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0618e9e1-06c1-4d28-8c10-1f3f92b64875": {
+                "id": 6330,
                 "identifier": "0618e9e1-06c1-4d28-8c10-1f3f92b64875",
                 "image": "https://uploads.mangadex.org/covers/0618e9e1-06c1-4d28-8c10-1f3f92b64875/fecb0aa5-13f9-4434-8ebf-b661f47d71fd.jpg",
                 "malId": 78071,
@@ -19,25 +20,29 @@
             }
         },
         "MangaFire": {
-            "yuusha-mushoku.9qpm": {
-                "identifier": "yuusha-mushoku.9qpm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea94fe723af1800052267759381c385b.jpg",
-                "malId": 78071,
-                "aniId": 105003,
-                "page": "MangaFire",
-                "title": "Yuusha Mushoku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-mushoku.9qpm/"
-            },
             "9qpm": {
+                "id": 245236,
                 "identifier": "9qpm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea94fe723af1800052267759381c385b.jpg",
+                "image": "https://static.mangafire.to/f34a/i/e/ea/ea94fe723af1800052267759381c385b.jpg",
                 "malId": 78071,
                 "aniId": 105003,
                 "page": "MangaFire",
                 "title": "Yuusha Mushoku",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-mushoku.9qpm/"
+                "url": "https://mangafire.to/manga/yuusha-mushokuu.9qpm"
+            }
+        },
+        "MangaNato": {
+            "manga-np965072": {
+                "id": 267997,
+                "identifier": "manga-np965072",
+                "image": "https://avt.mkklcdnv6temp.com/fld/50/m/5-1732769096-nw.webp",
+                "malId": 78071,
+                "aniId": 105003,
+                "page": "MangaNato",
+                "title": "Yuusha Mushoku",
+                "type": "manga",
+                "url": "https://manganato.com/manga-np965072"
             }
         },
         "Comick": {

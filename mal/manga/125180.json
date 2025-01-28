@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5f20aded-1216-41e3-b48d-87b0c4d9957c": {
+                "id": 33462,
                 "identifier": "5f20aded-1216-41e3-b48d-87b0c4d9957c",
                 "image": "https://uploads.mangadex.org/covers/5f20aded-1216-41e3-b48d-87b0c4d9957c/2a74355e-5f30-4de5-b68f-1ba54ca4bb2e.jpg",
                 "malId": 125180,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kono-healer-mendokusai": {
+                "id": 59810,
                 "identifier": "kono-healer-mendokusai",
                 "image": "https://temp.compsci88.com/cover/Kono-Healer-Mendokusai.jpg",
                 "malId": 125180,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hj984744": {
+                "id": 79618,
                 "identifier": "manga-hj984744",
                 "image": "https://avt.mkklcdnv6temp.com/37/u/20-1583502498.jpg",
                 "malId": 125180,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kono_healer_mendokusai": {
+                "id": 80639,
                 "identifier": "kono_healer_mendokusai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32909/cover.jpg",
                 "malId": 125180,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/kono_healer_mendokusai/"
             }
         },
-        "MangaFire": {
-            "kono-healer-mendokusai.rjv0o": {
-                "identifier": "kono-healer-mendokusai.rjv0o",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b53fa3e1987010dd98b26d39253ec29f.jpg",
-                "malId": 125180,
-                "aniId": 116091,
-                "page": "MangaFire",
-                "title": "Kono Healer, Mendokusai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-healer-mendokusai.rjv0o/"
-            },
-            "kono-healer-mendokusaii.rjv0o": {
-                "identifier": "kono-healer-mendokusaii.rjv0o",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b53fa3e1987010dd98b26d39253ec29f.jpg",
-                "malId": 125180,
-                "aniId": 116091,
-                "page": "MangaFire",
-                "title": "Kono Healer, Mendokusai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-healer-mendokusaii.rjv0o/"
-            }
-        },
         "Weebcentral": {
             "01j76xydc1gncrr57k4cy4xhhj": {
+                "id": 211404,
                 "identifier": "01j76xydc1gncrr57k4cy4xhhj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDC1GNCRR57K4CY4XHHJ.jpg",
                 "malId": 125180,
@@ -86,6 +69,19 @@
                 "title": "Kono Healer Mendokusai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDC1GNCRR57K4CY4XHHJ"
+            }
+        },
+        "MangaFire": {
+            "rjv0o": {
+                "id": 244206,
+                "identifier": "rjv0o",
+                "image": "https://static.mangafire.to/77e6/i/b/b5/b53fa3e1987010dd98b26d39253ec29f.jpg",
+                "malId": 125180,
+                "aniId": 116091,
+                "page": "MangaFire",
+                "title": "Kono Healer, Mendokusai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kono-healer-mendokusaii.rjv0o"
             }
         },
         "Comick": {

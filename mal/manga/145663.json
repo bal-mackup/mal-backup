@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "621e53f9-dc01-4608-b3d4-0941f83c05de": {
+                "id": 58470,
                 "identifier": "621e53f9-dc01-4608-b3d4-0941f83c05de",
                 "image": "https://uploads.mangadex.org/covers/621e53f9-dc01-4608-b3d4-0941f83c05de/ee8bfe7d-1d6b-4ae2-9777-ebb8d2dec073.jpg",
                 "malId": 145663,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/621e53f9-dc01-4608-b3d4-0941f83c05de"
             }
         },
-        "MangaFire": {
-            "ayaka-chan-wa-hiroko-senpai-ni-koishiteru.jv7r2": {
-                "identifier": "ayaka-chan-wa-hiroko-senpai-ni-koishiteru.jv7r2",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db1a704bedb4ac858873f7b79be535cf.jpg",
-                "malId": 145663,
-                "aniId": 120649,
-                "page": "MangaFire",
-                "title": "Ayaka is in Love with Hiroko!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayaka-chan-wa-hiroko-senpai-ni-koishiteru.jv7r2/"
-            },
-            "ayaka-chan-wa-hiroko-senpai-ni-koishiteruu.jv7r2": {
-                "identifier": "ayaka-chan-wa-hiroko-senpai-ni-koishiteruu.jv7r2",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db1a704bedb4ac858873f7b79be535cf.jpg",
-                "malId": 145663,
-                "aniId": 120649,
-                "page": "MangaFire",
-                "title": "Ayaka is in Love with Hiroko!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayaka-chan-wa-hiroko-senpai-ni-koishiteruu.jv7r2/"
-            }
-        },
         "MangaNato": {
             "manga-sj996144": {
+                "id": 157184,
                 "identifier": "manga-sj996144",
                 "image": "https://avt.mkklcdnv6temp.com/fld/5/f/15-1733306881-nw.webp",
                 "malId": 145663,
@@ -50,6 +30,19 @@
                 "title": "Ayaka-Chan Wa Hiroko-Senpai Ni Koishiteru",
                 "type": "manga",
                 "url": "https://manganato.com/manga-sj996144"
+            }
+        },
+        "MangaFire": {
+            "jv7r2": {
+                "id": 226359,
+                "identifier": "jv7r2",
+                "image": "https://static.mangafire.to/828d/i/d/db/db1a704bedb4ac858873f7b79be535cf.jpg",
+                "malId": 145663,
+                "aniId": 120649,
+                "page": "MangaFire",
+                "title": "Ayaka is in Love with Hiroko!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ayaka-chan-wa-hiroko-senpai-ni-koishiteruu.jv7r2"
             }
         },
         "Comick": {

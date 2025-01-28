@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "96a24520-7403-4f28-b821-922e1967e08a": {
+                "id": 13030,
                 "identifier": "96a24520-7403-4f28-b821-922e1967e08a",
                 "image": "https://uploads.mangadex.org/covers/96a24520-7403-4f28-b821-922e1967e08a/d4fe3b93-4920-4b71-b04c-e7055c3babcd.jpg",
                 "malId": 85901,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/96a24520-7403-4f28-b821-922e1967e08a"
             },
             "2e08d1c8-ca5f-4ca4-abb7-38a49715105a": {
+                "id": 36718,
                 "identifier": "2e08d1c8-ca5f-4ca4-abb7-38a49715105a",
                 "image": "https://uploads.mangadex.org/covers/2e08d1c8-ca5f-4ca4-abb7-38a49715105a/28ceb1e1-01d1-4e13-a2c1-bba441411fc8.jpg",
                 "malId": 85901,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "suijin-no-ikenie": {
+                "id": 66795,
                 "identifier": "suijin-no-ikenie",
                 "image": "https://temp.compsci88.com/cover/Suijin-No-Ikenie.jpg",
                 "malId": 85901,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "suijin_no_hanayome": {
+                "id": 69899,
                 "identifier": "suijin_no_hanayome",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19599/cover.jpg",
                 "malId": 85901,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-td970986": {
+                "id": 81777,
                 "identifier": "manga-td970986",
                 "image": "https://avt.mkklcdnv6temp.com/37/a/13-1583489066.jpg",
                 "malId": 85901,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-td970986"
             }
         },
-        "MangaFire": {
-            "suijin-no-hanayome.yq770": {
-                "identifier": "suijin-no-hanayome.yq770",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71b4a9d5e2ac3903a43935284c5353d7.jpg",
-                "malId": 85901,
-                "aniId": 85830,
-                "page": "MangaFire",
-                "title": "The Water Dragon's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suijin-no-hanayome.yq770/"
-            },
-            "yq770": {
-                "identifier": "yq770",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71b4a9d5e2ac3903a43935284c5353d7.jpg",
-                "malId": 85901,
-                "aniId": 85830,
-                "page": "MangaFire",
-                "title": "The Water Dragon's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suijin-no-hanayome.yq770/"
-            }
-        },
         "Weebcentral": {
             "01j76xybv4m83mnh8sv4v1jzyy": {
+                "id": 213824,
                 "identifier": "01j76xybv4m83mnh8sv4v1jzyy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBV4M83MNH8SV4V1JZYY.jpg",
                 "malId": 85901,
@@ -96,6 +80,19 @@
                 "title": "The Water Dragon's Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBV4M83MNH8SV4V1JZYY"
+            }
+        },
+        "MangaFire": {
+            "yq770": {
+                "id": 233972,
+                "identifier": "yq770",
+                "image": "https://static.mangafire.to/2999/i/7/71/71b4a9d5e2ac3903a43935284c5353d7.jpg",
+                "malId": 85901,
+                "aniId": 85830,
+                "page": "MangaFire",
+                "title": "The Water Dragon's Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/suijin-no-hanayomee.yq770"
             }
         },
         "Comick": {

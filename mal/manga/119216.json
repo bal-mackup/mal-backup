@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "425f2ccf-581f-42cf-aed3-c3312fcde926": {
+                "id": 26674,
                 "identifier": "425f2ccf-581f-42cf-aed3-c3312fcde926",
                 "image": "https://uploads.mangadex.org/covers/425f2ccf-581f-42cf-aed3-c3312fcde926/8c33b2fe-c3c1-4a52-9ad6-6d0b873e8de3.jpg",
                 "malId": 119216,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/425f2ccf-581f-42cf-aed3-c3312fcde926"
             },
             "d353067b-714c-4a76-a40a-ca9168ad9e3b": {
+                "id": 28334,
                 "identifier": "d353067b-714c-4a76-a40a-ca9168ad9e3b",
                 "image": "https://uploads.mangadex.org/covers/d353067b-714c-4a76-a40a-ca9168ad9e3b/afd2a069-9d6f-4119-ba25-f095a21ede65.png",
                 "malId": 119216,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "soredemo-ayumu-wa-yosetekuru": {
+                "id": 57115,
                 "identifier": "soredemo-ayumu-wa-yosetekuru",
                 "image": "https://temp.compsci88.com/cover/Soredemo-Ayumu-wa-Yosetekuru.jpg",
                 "malId": 119216,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "soredemo_ayumu_wa_yosetekuru": {
+                "id": 63251,
                 "identifier": "soredemo_ayumu_wa_yosetekuru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30068/cover.jpg",
                 "malId": 119216,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-dk981119": {
+                "id": 73522,
                 "identifier": "manga-dk981119",
                 "image": "https://avt.mkklcdnv6temp.com/3/j/18-1583497210.jpg",
                 "malId": 119216,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-dk981119"
             }
         },
-        "MangaFire": {
-            "soredemo-ayumu-wa-yosetekuru.vv7zl": {
-                "identifier": "soredemo-ayumu-wa-yosetekuru.vv7zl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/56/56dee4e99c9f3ca25af1320ae686a897.jpg",
-                "malId": 119216,
-                "aniId": 108105,
-                "page": "MangaFire",
-                "title": "When Will Ayumu Make His Move?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soredemo-ayumu-wa-yosetekuru.vv7zl/"
-            },
-            "soredemo-ayumu-wa-yosetekuruu.vv7zl": {
-                "identifier": "soredemo-ayumu-wa-yosetekuruu.vv7zl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/56/56dee4e99c9f3ca25af1320ae686a897.jpg",
-                "malId": 119216,
-                "aniId": 108105,
-                "page": "MangaFire",
-                "title": "When Will Ayumu Make His Move?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soredemo-ayumu-wa-yosetekuruu.vv7zl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd70gch5vyk1qtgkhptk": {
+                "id": 207024,
                 "identifier": "01j76xyd70gch5vyk1qtgkhptk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD70GCH5VYK1QTGKHPTK.jpg",
                 "malId": 119216,
@@ -96,6 +80,19 @@
                 "title": "When Will Ayumu Make His Move",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD70GCH5VYK1QTGKHPTK"
+            }
+        },
+        "MangaFire": {
+            "vv7zl": {
+                "id": 224506,
+                "identifier": "vv7zl",
+                "image": "https://static.mangafire.to/d3a4/i/5/56/56dee4e99c9f3ca25af1320ae686a897.jpg",
+                "malId": 119216,
+                "aniId": 108105,
+                "page": "MangaFire",
+                "title": "When Will Ayumu Make His Move?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soredemo-ayumu-wa-yosetekuruu.vv7zl"
             }
         },
         "Comick": {

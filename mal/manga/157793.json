@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-rn995348": {
+                "id": 128321,
                 "identifier": "manga-rn995348",
                 "image": "https://avt.mkklcdnv6temp.com/24/g/29-1680367087.jpg",
                 "malId": 157793,
@@ -18,30 +19,9 @@
                 "url": "https://chapmanganato.com/manga-rn995348"
             }
         },
-        "MangaFire": {
-            "the-ugly-ladys-secret-pouch.42wvk": {
-                "identifier": "the-ugly-ladys-secret-pouch.42wvk",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6a28b4a18555c8e8f872db97e74a4428.jpg",
-                "malId": 157793,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Ugly Lady's Secret Pouch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-ugly-ladys-secret-pouch.42wvk/"
-            },
-            "the-ugly-ladys-secret-pouchh.42wvk": {
-                "identifier": "the-ugly-ladys-secret-pouchh.42wvk",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6a28b4a18555c8e8f872db97e74a4428.jpg",
-                "malId": 157793,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Ugly Lady's Secret Pouch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-ugly-ladys-secret-pouchh.42wvk/"
-            }
-        },
         "Mangadex": {
             "6bd99686-e707-4b4a-9c38-d72645db30a1": {
+                "id": 176291,
                 "identifier": "6bd99686-e707-4b4a-9c38-d72645db30a1",
                 "image": "https://uploads.mangadex.org/covers/6bd99686-e707-4b4a-9c38-d72645db30a1/a3cba9a9-3fc7-4461-bb2e-69a60548fe29.jpg",
                 "malId": 157793,
@@ -50,6 +30,19 @@
                 "title": "The Ugly Duckling's Secret Pouch",
                 "type": "manga",
                 "url": "https://mangadex.org/title/6bd99686-e707-4b4a-9c38-d72645db30a1"
+            }
+        },
+        "MangaFire": {
+            "42wvk": {
+                "id": 223886,
+                "identifier": "42wvk",
+                "image": "https://static.mangafire.to/1ad6/i/6/6a/6a28b4a18555c8e8f872db97e74a4428.jpg",
+                "malId": 157793,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Ugly Lady's Secret Pouch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-ugly-ladys-secret-pouchh.42wvk"
             }
         }
     }

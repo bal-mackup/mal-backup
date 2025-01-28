@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "85929264-a1d4-4d71-b59b-696d961fdf28": {
+                "id": 22166,
                 "identifier": "85929264-a1d4-4d71-b59b-696d961fdf28",
                 "image": "https://uploads.mangadex.org/covers/85929264-a1d4-4d71-b59b-696d961fdf28/c028cdaf-c2b3-478b-9f1f-633ff32ea02b.jpg",
                 "malId": 95954,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tokyo-undead": {
+                "id": 67049,
                 "identifier": "tokyo-undead",
                 "image": "https://temp.compsci88.com/cover/Tokyo-Undead.jpg",
                 "malId": 95954,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tokyo-Undead"
             }
         },
-        "MangaFire": {
-            "tokyo-undead.kw40w": {
-                "identifier": "tokyo-undead.kw40w",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ac/ac30acc02e1cf7a00724cc2d2d2c1cc8.jpg",
-                "malId": 95954,
-                "aniId": 96739,
-                "page": "MangaFire",
-                "title": "Tokyo Undead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-undead.kw40w/"
-            },
-            "kw40w": {
-                "identifier": "kw40w",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ac/ac30acc02e1cf7a00724cc2d2d2c1cc8.jpg",
-                "malId": 95954,
-                "aniId": 96739,
-                "page": "MangaFire",
-                "title": "Tokyo Undead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-undead.kw40w/"
-            }
-        },
         "Weebcentral": {
             "01j76xycbsh1qzghcajwrgp3t7": {
+                "id": 213758,
                 "identifier": "01j76xycbsh1qzghcajwrgp3t7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCBSH1QZGHCAJWRGP3T7.jpg",
                 "malId": 95954,
@@ -62,6 +43,19 @@
                 "title": "Tokyo Undead",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCBSH1QZGHCAJWRGP3T7"
+            }
+        },
+        "MangaFire": {
+            "kw40w": {
+                "id": 230145,
+                "identifier": "kw40w",
+                "image": "https://static.mangafire.to/c06b/i/a/ac/ac30acc02e1cf7a00724cc2d2d2c1cc8.jpg",
+                "malId": 95954,
+                "aniId": 96739,
+                "page": "MangaFire",
+                "title": "Tokyo Undead",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-undeadd.kw40w"
             }
         },
         "Comick": {

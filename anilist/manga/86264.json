@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e05fa570-7c01-454b-8ac5-74d1aa87bed7": {
+                "id": 13155,
                 "identifier": "e05fa570-7c01-454b-8ac5-74d1aa87bed7",
                 "image": "https://uploads.mangadex.org/covers/e05fa570-7c01-454b-8ac5-74d1aa87bed7/4f12d2a7-78c8-4f21-ad64-afa3ff3d1ccd.jpg",
                 "malId": 88443,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lady-justice": {
+                "id": 70125,
                 "identifier": "lady-justice",
                 "image": "https://temp.compsci88.com/cover/Lady-Justice.jpg",
                 "malId": 88443,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ce954161": {
+                "id": 75865,
                 "identifier": "manga-ce954161",
                 "image": "https://avt.mkklcdnv6temp.com/48/w/2-1583467581.jpg",
                 "malId": 88443,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-ce954161"
             }
         },
-        "MangaFire": {
-            "lady-justice.0rl5k": {
-                "identifier": "lady-justice.0rl5k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a982ddb83da049481fbd2ed91559874.jpg",
-                "malId": 88443,
-                "aniId": 86264,
-                "page": "MangaFire",
-                "title": "Lady Justice",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lady-justice.0rl5k/"
-            }
-        },
         "MangaFox": {
             "lady_justice": {
+                "id": 184045,
                 "identifier": "lady_justice",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15863/cover.jpg",
                 "malId": 88443,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyb9a8ppay6wqzbe45620": {
+                "id": 213886,
                 "identifier": "01j76xyb9a8ppay6wqzbe45620",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB9A8PPAY6WQZBE45620.jpg",
                 "malId": 88443,
@@ -76,6 +69,19 @@
                 "title": "Lady Justice",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB9A8PPAY6WQZBE45620"
+            }
+        },
+        "MangaFire": {
+            "0rl5k": {
+                "id": 258467,
+                "identifier": "0rl5k",
+                "image": "https://static.mangafire.to/389e/i/2/2a/2a982ddb83da049481fbd2ed91559874.jpg",
+                "malId": 88443,
+                "aniId": 86264,
+                "page": "MangaFire",
+                "title": "Lady Justice",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lady-justicee.0rl5k"
             }
         },
         "Comick": {

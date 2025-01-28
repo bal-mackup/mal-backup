@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "a-raven-for-all-seasons": {
+                "id": 161746,
                 "identifier": "a-raven-for-all-seasons",
                 "image": "https://temp.compsci88.com/cover/A-Raven-for-All-Seasons.jpg",
                 "malId": 159774,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/A-Raven-for-All-Seasons"
             }
         },
-        "MangaFire": {
-            "karasu-ni-hitoe-wa-niawanai.lr1pz": {
-                "identifier": "karasu-ni-hitoe-wa-niawanai.lr1pz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8a/8a309ad701bd3680d2290f7004625349.jpg",
-                "malId": 159774,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Karasu ni Hitoe wa Niawanai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karasu-ni-hitoe-wa-niawanai.lr1pz/"
-            }
-        },
         "MangaNato": {
             "manga-xm1000469": {
+                "id": 186286,
                 "identifier": "manga-xm1000469",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/h/16-1733318271-nw.webp",
                 "malId": 159774,
@@ -44,6 +34,7 @@
         },
         "Mangadex": {
             "c22db5fc-726a-41ad-8402-5537e7de2277": {
+                "id": 188373,
                 "identifier": "c22db5fc-726a-41ad-8402-5537e7de2277",
                 "image": "https://uploads.mangadex.org/covers/c22db5fc-726a-41ad-8402-5537e7de2277/50046489-4f4d-405a-8c27-9296e5397312.jpg",
                 "malId": 159774,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg99dtztef59wde46tt2": {
+                "id": 212949,
                 "identifier": "01j76xyg99dtztef59wde46tt2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG99DTZTEF59WDE46TT2.jpg",
                 "malId": 159774,
@@ -64,6 +56,19 @@
                 "title": "A Raven For All Seasons",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG99DTZTEF59WDE46TT2"
+            }
+        },
+        "MangaFire": {
+            "lr1pz": {
+                "id": 240321,
+                "identifier": "lr1pz",
+                "image": "https://static.mangafire.to/dfdf/i/8/8a/8a309ad701bd3680d2290f7004625349.jpg",
+                "malId": 159774,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Karasu ni Hitoe wa Niawanai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karasu-ni-hitoe-wa-niawanaii.lr1pz"
             }
         }
     }

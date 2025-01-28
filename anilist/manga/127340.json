@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "946a1084-4f35-4c68-8430-e46e3e39a6dd": {
+                "id": 55791,
                 "identifier": "946a1084-4f35-4c68-8430-e46e3e39a6dd",
                 "image": "https://uploads.mangadex.org/covers/946a1084-4f35-4c68-8430-e46e3e39a6dd/e85dd313-5001-479c-a1be-aacbaebe230c.jpg",
                 "malId": 132368,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ke987839": {
+                "id": 80270,
                 "identifier": "manga-ke987839",
                 "image": "https://avt.mkklcdnv6temp.com/14/b/23-1612060880.jpg",
                 "malId": 132368,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "drip-drip": {
+                "id": 118334,
                 "identifier": "drip-drip",
                 "image": "https://temp.compsci88.com/cover/Drip-Drip.jpg",
                 "malId": 132368,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Drip-Drip"
             }
         },
-        "MangaFire": {
-            "bota-bota.pr6p9": {
-                "identifier": "bota-bota.pr6p9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6da68e6bcd315d8d79504a3f754277c4.jpg",
-                "malId": 132368,
-                "aniId": 127340,
-                "page": "MangaFire",
-                "title": "Drip Drip",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bota-bota.pr6p9/"
-            },
-            "bota-botaa.pr6p9": {
-                "identifier": "bota-botaa.pr6p9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6da68e6bcd315d8d79504a3f754277c4.jpg",
-                "malId": 132368,
-                "aniId": 127340,
-                "page": "MangaFire",
-                "title": "Drip Drip",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bota-botaa.pr6p9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfrf54gcyc0hf3yfx527": {
+                "id": 208176,
                 "identifier": "01j76xyfrf54gcyc0hf3yfx527",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFRF54GCYC0HF3YFX527.jpg",
                 "malId": 132368,
@@ -74,6 +56,19 @@
                 "title": "Drip Drip",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFRF54GCYC0HF3YFX527"
+            }
+        },
+        "MangaFire": {
+            "pr6p9": {
+                "id": 224756,
+                "identifier": "pr6p9",
+                "image": "https://static.mangafire.to/fb0d/i/6/6d/6da68e6bcd315d8d79504a3f754277c4.jpg",
+                "malId": 132368,
+                "aniId": 127340,
+                "page": "MangaFire",
+                "title": "Drip Drip",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bota-botaa.pr6p9"
             }
         },
         "Comick": {

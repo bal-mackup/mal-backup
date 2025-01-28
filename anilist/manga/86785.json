@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f0d61c20-48e7-4e63-b40d-cb497dc1ed45": {
+                "id": 15054,
                 "identifier": "f0d61c20-48e7-4e63-b40d-cb497dc1ed45",
                 "image": "https://uploads.mangadex.org/covers/f0d61c20-48e7-4e63-b40d-cb497dc1ed45/1f59a663-54b3-4666-97db-5a9e0fb7b7ac.jpg",
                 "malId": 148850,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "terror-man": {
+                "id": 57929,
                 "identifier": "terror-man",
                 "image": "https://temp.compsci88.com/cover/Terror-Man.jpg",
                 "malId": 148850,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "terror_man": {
+                "id": 67391,
                 "identifier": "terror_man",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18645/cover.jpg",
                 "malId": 148850,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-rk969019": {
+                "id": 73318,
                 "identifier": "manga-rk969019",
                 "image": "https://avt.mkklcdnv6temp.com/33/l/12-1583487081.jpg",
                 "malId": 148850,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-rk969019"
             }
         },
-        "MangaFire": {
-            "terror-man.0rjq5": {
-                "identifier": "terror-man.0rjq5",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d43ee0cfa7df93d87592e80b9431a4f1.jpg",
-                "malId": 148850,
-                "aniId": 86785,
-                "page": "MangaFire",
-                "title": "Terror Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/terror-man.0rjq5/"
-            },
-            "terror-mann.0rjq5": {
-                "identifier": "terror-mann.0rjq5",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d43ee0cfa7df93d87592e80b9431a4f1.jpg",
-                "malId": 148850,
-                "aniId": 86785,
-                "page": "MangaFire",
-                "title": "Terror Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/terror-mann.0rjq5/"
-            }
-        },
         "Weebcentral": {
             "01j76xybndw3kn9z9wgs51zpb4": {
+                "id": 208533,
                 "identifier": "01j76xybndw3kn9z9wgs51zpb4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBNDW3KN9Z9WGS51ZPB4.jpg",
                 "malId": 148850,
@@ -86,6 +69,19 @@
                 "title": "Terror Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBNDW3KN9Z9WGS51ZPB4"
+            }
+        },
+        "MangaFire": {
+            "0rjq5": {
+                "id": 225432,
+                "identifier": "0rjq5",
+                "image": "https://static.mangafire.to/646e/i/d/d4/d43ee0cfa7df93d87592e80b9431a4f1.jpg",
+                "malId": 148850,
+                "aniId": 86785,
+                "page": "MangaFire",
+                "title": "Terror Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/terror-mann.0rjq5"
             }
         },
         "Comick": {

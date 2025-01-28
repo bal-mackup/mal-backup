@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb": {
+                "id": 14887,
                 "identifier": "eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb",
                 "image": "https://uploads.mangadex.org/covers/eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb/054719a9-4b04-4870-976f-8ce5d2246c92.jpg",
                 "malId": 95353,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kumo_desu_ga_nani_ka_novel": {
+                "id": 54474,
                 "identifier": "kumo_desu_ga_nani_ka_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35774/cover.jpg",
                 "malId": 95353,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/kumo_desu_ga_nani_ka_novel/"
             },
             "kumo_desu_ga_nani_ka": {
+                "id": 54595,
                 "identifier": "kumo_desu_ga_nani_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18225/cover.jpg",
                 "malId": 95353,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "kumo-desu-ga-nani-ka": {
+                "id": 57139,
                 "identifier": "kumo-desu-ga-nani-ka",
                 "image": "https://temp.compsci88.com/cover/Kumo-Desu-Ga-Nani-Ka.jpg",
                 "malId": 95353,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-zd976712": {
+                "id": 72994,
                 "identifier": "manga-zd976712",
                 "image": "https://avt.mkklcdnv6temp.com/29/q/15-1583492557.jpg",
                 "malId": 95353,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-zd976712"
             }
         },
-        "MangaFire": {
-            "kumo-desu-ga-nani-ka.92l3m": {
-                "identifier": "kumo-desu-ga-nani-ka.92l3m",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c83baa72d2b188ceb64c5b1871ab6af3.jpg",
-                "malId": 95353,
-                "aniId": 86952,
-                "page": "MangaFire",
-                "title": "So I'm a Spider, So What?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kumo-desu-ga-nani-ka.92l3m/"
-            },
-            "kumo-desu-ga-nani-kaa.92l3m": {
-                "identifier": "kumo-desu-ga-nani-kaa.92l3m",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c83baa72d2b188ceb64c5b1871ab6af3.jpg",
-                "malId": 95353,
-                "aniId": 86952,
-                "page": "MangaFire",
-                "title": "So I'm a Spider, So What?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kumo-desu-ga-nani-kaa.92l3m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybps8a4m6qyzexnn4kvr": {
+                "id": 207824,
                 "identifier": "01j76xybps8a4m6qyzexnn4kvr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBPS8A4M6QYZEXNN4KVR.jpg",
                 "malId": 95353,
@@ -96,6 +80,19 @@
                 "title": "So I'm a Spider, So What",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBPS8A4M6QYZEXNN4KVR"
+            }
+        },
+        "MangaFire": {
+            "92l3m": {
+                "id": 228455,
+                "identifier": "92l3m",
+                "image": "https://static.mangafire.to/1b8a/i/c/c8/c83baa72d2b188ceb64c5b1871ab6af3.jpg",
+                "malId": 95353,
+                "aniId": 86952,
+                "page": "MangaFire",
+                "title": "So I'm a Spider, So What?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kumo-desu-ga-nani-kaa.92l3m"
             }
         },
         "Comick": {

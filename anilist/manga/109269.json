@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b1e12f2e-0545-4878-8ca6-d83359935745": {
+                "id": 26716,
                 "identifier": "b1e12f2e-0545-4878-8ca6-d83359935745",
                 "image": "https://uploads.mangadex.org/covers/b1e12f2e-0545-4878-8ca6-d83359935745/a5df04f6-89f0-44d5-826b-a66058cbf0f9.jpg",
                 "malId": 142721,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "whats-wrong-with-you-duke": {
+                "id": 70539,
                 "identifier": "whats-wrong-with-you-duke",
                 "image": "https://temp.compsci88.com/cover/Whats-Wrong-with-You-Duke.jpg",
                 "malId": 142721,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dk981067": {
+                "id": 74170,
                 "identifier": "manga-dk981067",
                 "image": "https://avt.mkklcdnv6temp.com/1/k/17-1583497126.jpg",
                 "malId": 142721,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-dk981067"
             },
             "manga-lk988619": {
+                "id": 79602,
                 "identifier": "manga-lk988619",
                 "image": "https://avt.mkklcdnv6temp.com/46/g/23-1617082594.jpg",
                 "malId": 142721,
@@ -52,30 +56,9 @@
                 "url": "https://chapmanganato.com/manga-lk988619"
             }
         },
-        "MangaFire": {
-            "wae-ileoseyo-gongjag-nim.2oljq": {
-                "identifier": "wae-ileoseyo-gongjag-nim.2oljq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6a40eda0bb3709a7434896153cba1f8.jpg",
-                "malId": 142721,
-                "aniId": 109269,
-                "page": "MangaFire",
-                "title": "What's Wrong with You, Duke?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wae-ileoseyo-gongjag-nim.2oljq/"
-            },
-            "wae-ileoseyo-gongjag-nimm.2oljq": {
-                "identifier": "wae-ileoseyo-gongjag-nimm.2oljq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6a40eda0bb3709a7434896153cba1f8.jpg",
-                "malId": 142721,
-                "aniId": 109269,
-                "page": "MangaFire",
-                "title": "What's Wrong with You, Duke?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wae-ileoseyo-gongjag-nimm.2oljq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyenna23y7hjq6hgg0d6x": {
+                "id": 210689,
                 "identifier": "01j76xyenna23y7hjq6hgg0d6x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYENNA23Y7HJQ6HGG0D6X.jpg",
                 "malId": 142721,
@@ -84,6 +67,19 @@
                 "title": "What's Wrong With You, Duke?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYENNA23Y7HJQ6HGG0D6X"
+            }
+        },
+        "MangaFire": {
+            "2oljq": {
+                "id": 237599,
+                "identifier": "2oljq",
+                "image": "https://static.mangafire.to/79d4/i/c/c6/c6a40eda0bb3709a7434896153cba1f8.jpg",
+                "malId": 142721,
+                "aniId": 109269,
+                "page": "MangaFire",
+                "title": "What's Wrong with You, Duke?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wae-ileoseyo-gongjag-nimm.2oljq"
             }
         },
         "Comick": {

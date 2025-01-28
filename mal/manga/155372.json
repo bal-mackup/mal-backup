@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "98017a70-5580-40fb-9d69-69e377325484": {
+                "id": 123024,
                 "identifier": "98017a70-5580-40fb-9d69-69e377325484",
                 "image": "https://uploads.mangadex.org/covers/98017a70-5580-40fb-9d69-69e377325484/b95e40fe-7234-44d8-99ab-02f90d4b904c.jpg",
                 "malId": 155372,
@@ -18,8 +19,22 @@
                 "url": "https://mangadex.org/title/98017a70-5580-40fb-9d69-69e377325484"
             }
         },
+        "MangaNato": {
+            "manga-qj993818": {
+                "id": 124095,
+                "identifier": "manga-qj993818",
+                "image": "https://avt.mkklcdnv6temp.com/13/b/28-1675143930.jpg",
+                "malId": 155372,
+                "aniId": 161642,
+                "page": "MangaNato",
+                "title": "I Picked Up This World's Strategy Guide!",
+                "type": "manga",
+                "url": "https://chapmanganato.com/manga-qj993818"
+            }
+        },
         "MangaSee": {
             "kono-sekai-no-kouryakuhon-wo-hirotte-shimaimashita": {
+                "id": 128687,
                 "identifier": "kono-sekai-no-kouryakuhon-wo-hirotte-shimaimashita",
                 "image": "https://temp.compsci88.com/cover/Kono-Sekai-no-Kouryakuhon-wo-Hirotte-Shimaimashita.jpg",
                 "malId": 155372,
@@ -30,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Kono-Sekai-no-Kouryakuhon-wo-Hirotte-Shimaimashita"
             }
         },
-        "MangaFire": {
-            "kono-sekai-no-kouryakuhon-wo-hirotteshimaimashita.0r5q5": {
-                "identifier": "kono-sekai-no-kouryakuhon-wo-hirotteshimaimashita.0r5q5",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/76f487e0ec524e7968f32e00fc95ac10.jpg",
-                "malId": 155372,
-                "aniId": 161642,
-                "page": "MangaFire",
-                "title": "I Picked Up This World's Strategy Guide!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-sekai-no-kouryakuhon-wo-hirotteshimaimashita.0r5q5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1wfck2x325wen2web2": {
+                "id": 211826,
                 "identifier": "01j76xyg1wfck2x325wen2web2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1WFCK2X325WEN2WEB2.jpg",
                 "malId": 155372,
@@ -52,6 +56,19 @@
                 "title": "Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1WFCK2X325WEN2WEB2"
+            }
+        },
+        "MangaFire": {
+            "0r5q5": {
+                "id": 263413,
+                "identifier": "0r5q5",
+                "image": "https://static.mangafire.to/a149/i/7/76/76f487e0ec524e7968f32e00fc95ac10.jpg",
+                "malId": 155372,
+                "aniId": 161642,
+                "page": "MangaFire",
+                "title": "I Picked Up This World's Strategy Guide!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kono-sekai-no-kouryakuhon-wo-hirotteshimaimashitaa.0r5q5"
             }
         },
         "Comick": {

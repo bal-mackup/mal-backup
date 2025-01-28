@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mv990056": {
+                "id": 91531,
                 "identifier": "manga-mv990056",
                 "image": "https://avt.mkklcdnv6temp.com/7/z/25-1637462575.jpg",
                 "malId": 148733,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "4bf797c7-f939-4fff-a709-fc5b55395982": {
+                "id": 106121,
                 "identifier": "4bf797c7-f939-4fff-a709-fc5b55395982",
                 "image": "https://uploads.mangadex.org/covers/4bf797c7-f939-4fff-a709-fc5b55395982/93a0f5d7-f45b-4184-b368-bed89fea56a8.jpg",
                 "malId": 148733,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "president_s_special_order": {
+                "id": 161638,
                 "identifier": "president_s_special_order",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40094/cover.jpg",
                 "malId": 148733,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/president_s_special_order/"
             }
         },
-        "MangaFire": {
-            "the-presidents-special-order.7wn2j": {
-                "identifier": "the-presidents-special-order.7wn2j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a022ec21a1d54c24706cedb08db88617.jpg",
-                "malId": 148733,
-                "aniId": 142353,
-                "page": "MangaFire",
-                "title": "The President's Special Order",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-presidents-special-order.7wn2j/"
-            },
-            "the-presidents-special-orderr.7wn2j": {
-                "identifier": "the-presidents-special-orderr.7wn2j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a022ec21a1d54c24706cedb08db88617.jpg",
-                "malId": 148733,
-                "aniId": 142353,
-                "page": "MangaFire",
-                "title": "The President's Special Order",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-presidents-special-orderr.7wn2j/"
-            }
-        },
         "MangaSee": {
             "my-bosss-special-request": {
+                "id": 163610,
                 "identifier": "my-bosss-special-request",
                 "image": "https://temp.compsci88.com/cover/My-Bosss-Special-Request.jpg",
                 "malId": 148733,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygaqzm5khhb824gzaefa": {
+                "id": 206976,
                 "identifier": "01j76xygaqzm5khhb824gzaefa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGAQZM5KHHB824GZAEFA.jpg",
                 "malId": 148733,
@@ -86,6 +69,19 @@
                 "title": "My Boss's Special Request",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGAQZM5KHHB824GZAEFA"
+            }
+        },
+        "MangaFire": {
+            "7wn2j": {
+                "id": 227793,
+                "identifier": "7wn2j",
+                "image": "https://static.mangafire.to/8e9f/i/a/a0/a022ec21a1d54c24706cedb08db88617.jpg",
+                "malId": 148733,
+                "aniId": 142353,
+                "page": "MangaFire",
+                "title": "The President's Special Order",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-presidents-special-orderr.7wn2j"
             }
         }
     },

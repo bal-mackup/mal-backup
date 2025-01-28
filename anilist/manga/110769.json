@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9484b1fd-0271-4c9b-b096-7e313823058e": {
+                "id": 27249,
                 "identifier": "9484b1fd-0271-4c9b-b096-7e313823058e",
                 "image": "https://uploads.mangadex.org/covers/9484b1fd-0271-4c9b-b096-7e313823058e/99d7deec-670e-4e46-8736-5005cb1fb147.jpg",
                 "malId": 123783,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "jitsu_wa_ore_saikyou_deshita": {
+                "id": 54513,
                 "identifier": "jitsu_wa_ore_saikyou_deshita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30234/cover.jpg",
                 "malId": 123783,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "jitsu-wa-ore-saikyou-deshita": {
+                "id": 56547,
                 "identifier": "jitsu-wa-ore-saikyou-deshita",
                 "image": "https://temp.compsci88.com/cover/Jitsu-Wa-Ore-Saikyou-Deshita.jpg",
                 "malId": 123783,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ex982080": {
+                "id": 73927,
                 "identifier": "manga-ex982080",
                 "image": "https://avt.mkklcdnv6temp.com/38/k/18-1583498585.jpg",
                 "malId": 123783,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ex982080"
             }
         },
-        "MangaFire": {
-            "jitsu-wa-ore-saikyou-deshita.w1kqo": {
-                "identifier": "jitsu-wa-ore-saikyou-deshita.w1kqo",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4f/4fa5503c8457a64d5ab7eb7a4031f828.jpg",
-                "malId": 123783,
-                "aniId": 110769,
-                "page": "MangaFire",
-                "title": "Am I Actually the Strongest?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jitsu-wa-ore-saikyou-deshita.w1kqo/"
-            },
-            "jitsu-wa-ore-saikyou-deshitaa.w1kqo": {
-                "identifier": "jitsu-wa-ore-saikyou-deshitaa.w1kqo",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4f/4fa5503c8457a64d5ab7eb7a4031f828.jpg",
-                "malId": 123783,
-                "aniId": 110769,
-                "page": "MangaFire",
-                "title": "Am I Actually the Strongest?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jitsu-wa-ore-saikyou-deshitaa.w1kqo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd1a1r7qvnkqb2hvj7dq": {
+                "id": 213569,
                 "identifier": "01j76xyd1a1r7qvnkqb2hvj7dq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD1A1R7QVNKQB2HVJ7DQ.jpg",
                 "malId": 123783,
@@ -86,6 +69,19 @@
                 "title": "Am I Actually the Strongest",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD1A1R7QVNKQB2HVJ7DQ"
+            }
+        },
+        "MangaFire": {
+            "w1kqo": {
+                "id": 225130,
+                "identifier": "w1kqo",
+                "image": "https://static.mangafire.to/5d9a/i/4/4f/4fa5503c8457a64d5ab7eb7a4031f828.jpg",
+                "malId": 123783,
+                "aniId": 110769,
+                "page": "MangaFire",
+                "title": "Am I Actually the Strongest?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jitsu-wa-ore-saikyou-deshitaa.w1kqo"
             }
         },
         "Comick": {

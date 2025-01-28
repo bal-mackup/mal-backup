@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a1422bad-4598-4018-95ae-888435bafe67": {
+                "id": 15649,
                 "identifier": "a1422bad-4598-4018-95ae-888435bafe67",
                 "image": "https://uploads.mangadex.org/covers/a1422bad-4598-4018-95ae-888435bafe67/34db604e-277c-4b49-b1a0-f1e4668238f6.jpg",
                 "malId": 95347,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kakegurui-twin": {
+                "id": 59444,
                 "identifier": "kakegurui-twin",
                 "image": "https://temp.compsci88.com/cover/Kakegurui-Twin.jpg",
                 "malId": 95347,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kakegurui_twin": {
+                "id": 65377,
                 "identifier": "kakegurui_twin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29770/cover.jpg",
                 "malId": 95347,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-us971627": {
+                "id": 74918,
                 "identifier": "manga-us971627",
                 "image": "https://avt.mkklcdnv6temp.com/49/e/13-1583489655.jpg",
                 "malId": 95347,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-us971627"
             }
         },
-        "MangaFire": {
-            "kakegurui-twin.vvjll": {
-                "identifier": "kakegurui-twin.vvjll",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd54e121fcf15fe6119b7182a9ade2e.jpg",
-                "malId": 95347,
-                "aniId": 96626,
-                "page": "MangaFire",
-                "title": "Kakegurui Twin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakegurui-twin.vvjll/"
-            },
-            "kakegurui-twinn.vvjll": {
-                "identifier": "kakegurui-twinn.vvjll",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd54e121fcf15fe6119b7182a9ade2e.jpg",
-                "malId": 95347,
-                "aniId": 96626,
-                "page": "MangaFire",
-                "title": "Kakegurui Twin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakegurui-twinn.vvjll/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd0heddxa3w667e4d07j": {
+                "id": 207859,
                 "identifier": "01j76xyd0heddxa3w667e4d07j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD0HEDDXA3W667E4D07J.jpg",
                 "malId": 95347,
@@ -86,6 +69,19 @@
                 "title": "Kakegurui Twin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD0HEDDXA3W667E4D07J"
+            }
+        },
+        "MangaFire": {
+            "vvjll": {
+                "id": 242230,
+                "identifier": "vvjll",
+                "image": "https://static.mangafire.to/e2d1/i/1/1d/1dd54e121fcf15fe6119b7182a9ade2e.jpg",
+                "malId": 95347,
+                "aniId": 96626,
+                "page": "MangaFire",
+                "title": "Kakegurui Twin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kakegurui-twinn.vvjll"
             }
         },
         "Comick": {

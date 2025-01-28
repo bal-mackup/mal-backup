@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2f74f6ff-e935-46ca-8b05-371be80d55cf": {
+                "id": 96775,
                 "identifier": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
                 "image": "https://uploads.mangadex.org/covers/2f74f6ff-e935-46ca-8b05-371be80d55cf/72cce0de-abc4-4e31-92d2-7a6c64453da9.jpg",
                 "malId": 142493,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nf990814": {
+                "id": 104180,
                 "identifier": "manga-nf990814",
                 "image": "https://avt.mkklcdnv6temp.com/39/x/25-1652066710.jpg",
                 "malId": 142493,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-nf990814"
             }
         },
-        "MangaFire": {
-            "koware-skill-de-hajimeru-gendai-dungeon-kouryaku.wooz7": {
-                "identifier": "koware-skill-de-hajimeru-gendai-dungeon-kouryaku.wooz7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b21fa5feba30b1304593b5bee1b9d30e.jpg",
-                "malId": 142493,
-                "aniId": 178937,
-                "page": "MangaFire",
-                "title": "Modern Dungeon Capture Starting with Broken Skills",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koware-skill-de-hajimeru-gendai-dungeon-kouryaku.wooz7/"
-            }
-        },
         "MangaFox": {
             "koware_skill_de_hajimeru_gendai_dungeon_kouryaku": {
+                "id": 179223,
                 "identifier": "koware_skill_de_hajimeru_gendai_dungeon_kouryaku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42594/cover.jpg",
                 "malId": 142493,
@@ -56,6 +47,7 @@
         },
         "MangaSee": {
             "modern-dungeon-capture-starting-with-broken-skills": {
+                "id": 181143,
                 "identifier": "modern-dungeon-capture-starting-with-broken-skills",
                 "image": "https://temp.compsci88.com/cover/Modern-Dungeon-Capture-Starting-with-Broken-Skills.jpg",
                 "malId": 142493,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygx9xkztmsczfxjwdv64": {
+                "id": 211060,
                 "identifier": "01j76xygx9xkztmsczfxjwdv64",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGX9XKZTMSCZFXJWDV64.jpg",
                 "malId": 142493,
@@ -76,6 +69,19 @@
                 "title": "Modern Dungeon Capture Starting With Broken Skills",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGX9XKZTMSCZFXJWDV64"
+            }
+        },
+        "MangaFire": {
+            "wooz7": {
+                "id": 249815,
+                "identifier": "wooz7",
+                "image": "https://static.mangafire.to/499f/i/b/b2/b21fa5feba30b1304593b5bee1b9d30e.jpg",
+                "malId": 142493,
+                "aniId": 178937,
+                "page": "MangaFire",
+                "title": "Modern Dungeon Capture Starting with Broken Skills",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koware-skill-de-hajimeru-gendai-dungeon-kouryakuu.wooz7"
             }
         },
         "Comick": {

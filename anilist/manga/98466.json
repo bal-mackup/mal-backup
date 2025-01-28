@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "edf170db-288b-4773-90df-1c542c69d4e9": {
+                "id": 17349,
                 "identifier": "edf170db-288b-4773-90df-1c542c69d4e9",
                 "image": "https://uploads.mangadex.org/covers/edf170db-288b-4773-90df-1c542c69d4e9/7f57f3ef-41e0-473d-a0a1-f26f0d8b58ca.jpg",
                 "malId": 104076,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kemono-jihen": {
+                "id": 54893,
                 "identifier": "kemono-jihen",
                 "image": "https://temp.compsci88.com/cover/Kemono-Jihen.jpg",
                 "malId": 104076,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kemono_jihen": {
+                "id": 57653,
                 "identifier": "kemono_jihen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24601/cover.jpg",
                 "malId": 104076,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yn975522": {
+                "id": 73508,
                 "identifier": "manga-yn975522",
                 "image": "https://avt.mkklcdnv6temp.com/11/y/15-1583491892.jpg",
                 "malId": 104076,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yn975522"
             }
         },
-        "MangaFire": {
-            "kemono-jihen.4jr67": {
-                "identifier": "kemono-jihen.4jr67",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/940b8c1e00f31d1ada76a6c5c2e3954b.jpg",
-                "malId": 104076,
-                "aniId": 98466,
-                "page": "MangaFire",
-                "title": "Kemono Jihen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kemono-jihen.4jr67/"
-            },
-            "kemono-jihenn.4jr67": {
-                "identifier": "kemono-jihenn.4jr67",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/940b8c1e00f31d1ada76a6c5c2e3954b.jpg",
-                "malId": 104076,
-                "aniId": 98466,
-                "page": "MangaFire",
-                "title": "Kemono Jihen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kemono-jihenn.4jr67/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc3cvwnt4fvvtn5j7z7n": {
+                "id": 209700,
                 "identifier": "01j76xyc3cvwnt4fvvtn5j7z7n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC3CVWNT4FVVTN5J7Z7N.jpg",
                 "malId": 104076,
@@ -86,6 +69,19 @@
                 "title": "Kemono Jihen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC3CVWNT4FVVTN5J7Z7N"
+            }
+        },
+        "MangaFire": {
+            "4jr67": {
+                "id": 225071,
+                "identifier": "4jr67",
+                "image": "https://static.mangafire.to/c6af/i/9/94/940b8c1e00f31d1ada76a6c5c2e3954b.jpg",
+                "malId": 104076,
+                "aniId": 98466,
+                "page": "MangaFire",
+                "title": "Kemono Jihen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kemono-jihenn.4jr67"
             }
         },
         "Comick": {

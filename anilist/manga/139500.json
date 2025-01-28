@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-challenger": {
+                "id": 88125,
                 "identifier": "the-challenger",
                 "image": "https://temp.compsci88.com/cover/The-Challenger.jpg",
                 "malId": 149274,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mr989774": {
+                "id": 88351,
                 "identifier": "manga-mr989774",
                 "image": "https://avt.mkklcdnv6temp.com/45/y/24-1633868531.jpg",
                 "malId": 149274,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_challenger": {
+                "id": 89120,
                 "identifier": "the_challenger",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39450/cover.jpg",
                 "malId": 149274,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "685b9ac5-6705-49fa-b296-97487165779a": {
+                "id": 104691,
                 "identifier": "685b9ac5-6705-49fa-b296-97487165779a",
                 "image": "https://uploads.mangadex.org/covers/685b9ac5-6705-49fa-b296-97487165779a/dc2ed0b2-b0fb-4bfc-9d7b-bbcb94f41bec.jpg",
                 "malId": 149274,
@@ -54,20 +58,9 @@
                 "url": "https://mangadex.org/title/685b9ac5-6705-49fa-b296-97487165779a"
             }
         },
-        "MangaFire": {
-            "the-challenger.qxmq5": {
-                "identifier": "the-challenger.qxmq5",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d174bde2ec78b141c7588944c7a5a00e.jpg",
-                "malId": 149274,
-                "aniId": 139500,
-                "page": "MangaFire",
-                "title": "The Challenger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-challenger.qxmq5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf400rd25aqj063erqd6": {
+                "id": 208136,
                 "identifier": "01j76xyf400rd25aqj063erqd6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF400RD25AQJ063ERQD6.jpg",
                 "malId": 149274,
@@ -76,6 +69,19 @@
                 "title": "The Challenger",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF400RD25AQJ063ERQD6"
+            }
+        },
+        "MangaFire": {
+            "qxmq5": {
+                "id": 247924,
+                "identifier": "qxmq5",
+                "image": "https://static.mangafire.to/f096/i/d/d1/d174bde2ec78b141c7588944c7a5a00e.jpg",
+                "malId": 149274,
+                "aniId": 139500,
+                "page": "MangaFire",
+                "title": "The Challenger",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-challengerr.qxmq5"
             }
         },
         "Comick": {

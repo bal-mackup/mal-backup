@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eb291072-78cd-4d29-97f4-8e3cc5436d95": {
+                "id": 20694,
                 "identifier": "eb291072-78cd-4d29-97f4-8e3cc5436d95",
                 "image": "https://uploads.mangadex.org/covers/eb291072-78cd-4d29-97f4-8e3cc5436d95/b67d0df7-a482-4dbd-b2c0-5661ca3b714c.jpg",
                 "malId": 115631,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bokura-wa-mahou-shounen": {
+                "id": 69379,
                 "identifier": "bokura-wa-mahou-shounen",
                 "image": "https://temp.compsci88.com/cover/Bokura-wa-Mahou-Shounen.jpg",
                 "malId": 115631,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bb978784": {
+                "id": 90566,
                 "identifier": "manga-bb978784",
                 "image": "https://avt.mkklcdnv6temp.com/fld/64/l/8-1732790765-nw.webp",
                 "malId": 115631,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-bb978784"
             }
         },
-        "MangaFire": {
-            "bokura-wa-mahou-shounen.4n9x": {
-                "identifier": "bokura-wa-mahou-shounen.4n9x",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f46081a1a6acb0521c3ec7f5282c6c67.jpg",
-                "malId": 115631,
-                "aniId": 104224,
-                "page": "MangaFire",
-                "title": "Bokura wa Mahou Shounen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokura-wa-mahou-shounen.4n9x/"
-            },
-            "4n9x": {
-                "identifier": "4n9x",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f46081a1a6acb0521c3ec7f5282c6c67.jpg",
-                "malId": 115631,
-                "aniId": 104224,
-                "page": "MangaFire",
-                "title": "Bokura wa Mahou Shounen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokura-wa-mahou-shounen.4n9x/"
-            }
-        },
         "Weebcentral": {
             "01j76xydhdm85kj6fwd81ka82v": {
+                "id": 206164,
                 "identifier": "01j76xydhdm85kj6fwd81ka82v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDHDM85KJ6FWD81KA82V.jpg",
                 "malId": 115631,
@@ -74,6 +56,19 @@
                 "title": "Bokura wa Mahou Shounen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDHDM85KJ6FWD81KA82V"
+            }
+        },
+        "MangaFire": {
+            "4n9x": {
+                "id": 262538,
+                "identifier": "4n9x",
+                "image": "https://static.mangafire.to/fc43/i/f/f4/f46081a1a6acb0521c3ec7f5282c6c67.jpg",
+                "malId": 115631,
+                "aniId": 104224,
+                "page": "MangaFire",
+                "title": "Bokura wa Mahou Shounen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokura-wa-mahou-shounenn.4n9x"
             }
         },
         "Comick": {

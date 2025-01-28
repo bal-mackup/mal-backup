@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "863ee194-ecf1-4d2e-9f2b-8e0311a21154": {
+                "id": 11083,
                 "identifier": "863ee194-ecf1-4d2e-9f2b-8e0311a21154",
                 "image": "https://uploads.mangadex.org/covers/863ee194-ecf1-4d2e-9f2b-8e0311a21154/ad643362-24b2-4987-9628-2eb606205b41.jpg",
                 "malId": 75561,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "usotsuki-ouji-to-nisemono-kanojo": {
+                "id": 74641,
                 "identifier": "usotsuki-ouji-to-nisemono-kanojo",
                 "image": "https://temp.compsci88.com/cover/Usotsuki-Ouji-To-Nisemono-Kanojo.jpg",
                 "malId": 75561,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nc952659": {
+                "id": 91736,
                 "identifier": "manga-nc952659",
                 "image": "https://avt.mkklcdnv6temp.com/fld/49/t/1-1732718358-nw.webp",
                 "malId": 75561,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "usotsuki_ouji_to_nisemono_kanojo": {
+                "id": 107016,
                 "identifier": "usotsuki_ouji_to_nisemono_kanojo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13954/cover.jpg",
                 "malId": 75561,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/usotsuki_ouji_to_nisemono_kanojo/"
             }
         },
-        "MangaFire": {
-            "usotsuki-ouji-to-nisemono-kanojo.o2rj": {
-                "identifier": "usotsuki-ouji-to-nisemono-kanojo.o2rj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9f/9f74c9cfb7cd9b8e2d45124ded39488a.jpg",
-                "malId": 75561,
-                "aniId": 85727,
-                "page": "MangaFire",
-                "title": "Usotsuki Ouji to Nisemono Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/usotsuki-ouji-to-nisemono-kanojo.o2rj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyah40nc5m8k89xprzqmy": {
+                "id": 210856,
                 "identifier": "01j76xyah40nc5m8k89xprzqmy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAH40NC5M8K89XPRZQMY.jpg",
                 "malId": 75561,
@@ -76,6 +69,19 @@
                 "title": "Usotsuki Ouji to Nisemono Kanojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAH40NC5M8K89XPRZQMY"
+            }
+        },
+        "MangaFire": {
+            "o2rj": {
+                "id": 244788,
+                "identifier": "o2rj",
+                "image": "https://static.mangafire.to/6eae/i/9/9f/9f74c9cfb7cd9b8e2d45124ded39488a.jpg",
+                "malId": 75561,
+                "aniId": 85727,
+                "page": "MangaFire",
+                "title": "Usotsuki Ouji to Nisemono Kanojo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/usotsuki-ouji-to-nisemono-kanojoo.o2rj"
             }
         },
         "Comick": {

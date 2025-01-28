@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "92c4fc23-533f-4486-af2a-e4a2a2007703": {
+                "id": 15231,
                 "identifier": "92c4fc23-533f-4486-af2a-e4a2a2007703",
                 "image": "https://uploads.mangadex.org/covers/92c4fc23-533f-4486-af2a-e4a2a2007703/e6b3cb4d-da51-43ad-b192-be4a406efda8.jpg",
                 "malId": 96936,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hanayome_wa_motodanshi": {
+                "id": 67162,
                 "identifier": "hanayome_wa_motodanshi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19019/cover.jpg",
                 "malId": 96936,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hanayome-wa-motodanshi": {
+                "id": 71865,
                 "identifier": "hanayome-wa-motodanshi",
                 "image": "https://temp.compsci88.com/cover/Hanayome-Wa-Motodanshi.jpg",
                 "malId": 96936,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Hanayome-Wa-Motodanshi"
             }
         },
-        "MangaFire": {
-            "hanayome-wa-motodanshi.vvjvv": {
-                "identifier": "hanayome-wa-motodanshi.vvjvv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43edd36d93b02decc05b97dcedc4340c.jpg",
-                "malId": 96936,
-                "aniId": 86937,
-                "page": "MangaFire",
-                "title": "The Bride Was a Boy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanayome-wa-motodanshi.vvjvv/"
-            },
-            "vvjvv": {
-                "identifier": "vvjvv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43edd36d93b02decc05b97dcedc4340c.jpg",
-                "malId": 96936,
-                "aniId": 86937,
-                "page": "MangaFire",
-                "title": "The Bride Was a Boy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanayome-wa-motodanshi.vvjvv/"
-            }
-        },
         "Weebcentral": {
             "01j76xybnxj8d11ybvz0qzga7q": {
+                "id": 212120,
                 "identifier": "01j76xybnxj8d11ybvz0qzga7q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBNXJ8D11YBVZ0QZGA7Q.jpg",
                 "malId": 96936,
@@ -74,6 +56,19 @@
                 "title": "The Bride was a Boy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBNXJ8D11YBVZ0QZGA7Q"
+            }
+        },
+        "MangaFire": {
+            "vvjvv": {
+                "id": 245677,
+                "identifier": "vvjvv",
+                "image": "https://static.mangafire.to/4e43/i/4/43/43edd36d93b02decc05b97dcedc4340c.jpg",
+                "malId": 96936,
+                "aniId": 86937,
+                "page": "MangaFire",
+                "title": "The Bride Was a Boy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hanayome-wa-motodanshii.vvjvv"
             }
         },
         "Comick": {

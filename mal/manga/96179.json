@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "35dc7205-c422-4175-bd5b-33d82df73da1": {
+                "id": 13786,
                 "identifier": "35dc7205-c422-4175-bd5b-33d82df73da1",
                 "image": "https://uploads.mangadex.org/covers/35dc7205-c422-4175-bd5b-33d82df73da1/8b66579f-a86b-4c86-8fdd-739e4b173889.jpg",
                 "malId": 96179,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "criminale": {
+                "id": 59212,
                 "identifier": "criminale",
                 "image": "https://temp.compsci88.com/cover/Criminale.jpg",
                 "malId": 96179,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "criminale": {
+                "id": 65350,
                 "identifier": "criminale",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18693/cover.jpg",
                 "malId": 96179,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-sq970051": {
+                "id": 85531,
                 "identifier": "manga-sq970051",
                 "image": "https://avt.mkklcdnv6temp.com/20/h/13-1583488481.jpg",
                 "malId": 96179,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-sq970051"
             }
         },
-        "MangaFire": {
-            "criminalee.7j1w7": {
-                "identifier": "criminalee.7j1w7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8e4a25e865a1ffea8e81b55bb6d9e1ea.jpg",
-                "malId": 96179,
-                "aniId": 87164,
-                "page": "MangaFire",
-                "title": "Criminale!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/criminalee.7j1w7/"
-            },
-            "7j1w7": {
-                "identifier": "7j1w7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8e4a25e865a1ffea8e81b55bb6d9e1ea.jpg",
-                "malId": 96179,
-                "aniId": 87164,
-                "page": "MangaFire",
-                "title": "Criminale!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/criminalee.7j1w7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybr4jq5xm8naqvgzxb47": {
+                "id": 208644,
                 "identifier": "01j76xybr4jq5xm8naqvgzxb47",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBR4JQ5XM8NAQVGZXB47.jpg",
                 "malId": 96179,
@@ -86,6 +69,19 @@
                 "title": "Criminale!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBR4JQ5XM8NAQVGZXB47"
+            }
+        },
+        "MangaFire": {
+            "7j1w7": {
+                "id": 224053,
+                "identifier": "7j1w7",
+                "image": "https://static.mangafire.to/2ac3/i/8/8e/8e4a25e865a1ffea8e81b55bb6d9e1ea.jpg",
+                "malId": 96179,
+                "aniId": 87164,
+                "page": "MangaFire",
+                "title": "Criminale!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/criminalee.7j1w7"
             }
         },
         "Comick": {

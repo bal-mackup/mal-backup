@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9599e5db-83b8-4203-b41a-673926aa6dba": {
+                "id": 13454,
                 "identifier": "9599e5db-83b8-4203-b41a-673926aa6dba",
                 "image": "https://uploads.mangadex.org/covers/9599e5db-83b8-4203-b41a-673926aa6dba/5d166fab-ea4a-4127-bd90-b0cfc123448f.jpg",
                 "malId": 67401,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-morose-mononokean": {
+                "id": 63828,
                 "identifier": "the-morose-mononokean",
                 "image": "https://temp.compsci88.com/cover/The-Morose-Mononokean.jpg",
                 "malId": 67401,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "fukigen_na_mononokean": {
+                "id": 69682,
                 "identifier": "fukigen_na_mononokean",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17959/cover.jpg",
                 "malId": 67401,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lh952464": {
+                "id": 90629,
                 "identifier": "manga-lh952464",
                 "image": "https://avt.mkklcdnv6temp.com/fld/43/c/1-1732718081-nw.webp",
                 "malId": 67401,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-lh952464"
             },
             "manga-cm979721": {
+                "id": 108273,
                 "identifier": "manga-cm979721",
                 "image": "https://avt.mkklcdnv6temp.com/fld/99/n/8-1732792316-nw.webp",
                 "malId": 67401,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-cm979721"
             }
         },
-        "MangaFire": {
-            "fukigen-na-mononokean.7jrl7": {
-                "identifier": "fukigen-na-mononokean.7jrl7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8dc35978018867a6b59b0d29c6cc67ab.jpg",
-                "malId": 67401,
-                "aniId": 86579,
-                "page": "MangaFire",
-                "title": "The Morose Mononokean",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukigen-na-mononokean.7jrl7/"
-            },
-            "7jrl7": {
-                "identifier": "7jrl7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8dc35978018867a6b59b0d29c6cc67ab.jpg",
-                "malId": 67401,
-                "aniId": 86579,
-                "page": "MangaFire",
-                "title": "The Morose Mononokean",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukigen-na-mononokean.7jrl7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybnkkx9q4pk84s4f18ar": {
+                "id": 208883,
                 "identifier": "01j76xybnkkx9q4pk84s4f18ar",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBNKKX9Q4PK84S4F18AR.jpg",
                 "malId": 67401,
@@ -96,6 +80,19 @@
                 "title": "The Morose Mononokean",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBNKKX9Q4PK84S4F18AR"
+            }
+        },
+        "MangaFire": {
+            "7jrl7": {
+                "id": 261380,
+                "identifier": "7jrl7",
+                "image": "https://static.mangafire.to/b637/i/8/8d/8dc35978018867a6b59b0d29c6cc67ab.jpg",
+                "malId": 67401,
+                "aniId": 86579,
+                "page": "MangaFire",
+                "title": "The Morose Mononokean",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fukigen-na-mononokeann.7jrl7"
             }
         },
         "Comick": {

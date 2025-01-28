@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1c080745-d27b-410f-a190-36bf630c7c30": {
+                "id": 106136,
                 "identifier": "1c080745-d27b-410f-a190-36bf630c7c30",
                 "image": "https://uploads.mangadex.org/covers/1c080745-d27b-410f-a190-36bf630c7c30/775c4df7-44e7-40d2-bbf4-d884b2194254.jpg",
                 "malId": 147246,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/1c080745-d27b-410f-a190-36bf630c7c30"
             }
         },
-        "MangaFire": {
-            "midori-no-uta.m2mkx": {
-                "identifier": "midori-no-uta.m2mkx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5ceb09303f1d9952ecdfab6d57830547.jpg",
-                "malId": 147246,
-                "aniId": 136438,
-                "page": "MangaFire",
-                "title": "The Song About Green: Gather the Wind",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/midori-no-uta.m2mkx/"
-            },
-            "midori-no-utaa.m2mkx": {
-                "identifier": "midori-no-utaa.m2mkx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5ceb09303f1d9952ecdfab6d57830547.jpg",
-                "malId": 147246,
-                "aniId": 136438,
-                "page": "MangaFire",
-                "title": "The Song About Green: Gather the Wind",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/midori-no-utaa.m2mkx/"
-            }
-        },
         "MangaNato": {
             "manga-sr995926": {
+                "id": 182951,
                 "identifier": "manga-sr995926",
                 "image": "https://avt.mkklcdnv6temp.com/fld/96/v/14-1733306373-nw.webp",
                 "malId": 147246,
@@ -50,6 +30,19 @@
                 "title": "Midori No Uta",
                 "type": "manga",
                 "url": "https://manganato.com/manga-sr995926"
+            }
+        },
+        "MangaFire": {
+            "m2mkx": {
+                "id": 227650,
+                "identifier": "m2mkx",
+                "image": "https://static.mangafire.to/8f32/i/5/5c/5ceb09303f1d9952ecdfab6d57830547.jpg",
+                "malId": 147246,
+                "aniId": 136438,
+                "page": "MangaFire",
+                "title": "The Song About Green: Gather the Wind",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/midori-no-utaa.m2mkx"
             }
         },
         "Comick": {

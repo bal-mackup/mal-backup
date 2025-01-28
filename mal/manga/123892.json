@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "427c6579-cc83-460e-a0ca-f0acd286fa67": {
+                "id": 64754,
                 "identifier": "427c6579-cc83-460e-a0ca-f0acd286fa67",
                 "image": "https://uploads.mangadex.org/covers/427c6579-cc83-460e-a0ca-f0acd286fa67/0886babb-8251-4ec0-bf67-722538d1582a.jpg",
                 "malId": 123892,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/427c6579-cc83-460e-a0ca-f0acd286fa67"
             }
         },
-        "MangaFire": {
-            "sketchy.4qw0j": {
-                "identifier": "sketchy.4qw0j",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6a15a632d0267b6bd1e7bae3bbab66bc.jpg",
-                "malId": 123892,
-                "aniId": 115060,
-                "page": "MangaFire",
-                "title": "Sketchy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sketchy.4qw0j/"
-            }
-        },
         "MangaSee": {
             "sketchy": {
+                "id": 188078,
                 "identifier": "sketchy",
                 "image": "https://temp.compsci88.com/cover/Sketchy.jpg",
                 "malId": 123892,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh6pzjn04db4307agz62": {
+                "id": 211787,
                 "identifier": "01j76xyh6pzjn04db4307agz62",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH6PZJN04DB4307AGZ62.jpg",
                 "malId": 123892,
@@ -52,6 +43,19 @@
                 "title": "Sketchy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH6PZJN04DB4307AGZ62"
+            }
+        },
+        "MangaFire": {
+            "4qw0j": {
+                "id": 245941,
+                "identifier": "4qw0j",
+                "image": "https://static.mangafire.to/d1e4/i/6/6a/6a15a632d0267b6bd1e7bae3bbab66bc.jpg",
+                "malId": 123892,
+                "aniId": 115060,
+                "page": "MangaFire",
+                "title": "Sketchy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sketchyy.4qw0j"
             }
         },
         "Comick": {

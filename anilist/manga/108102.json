@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cf73b05e-695b-44ad-84bb-e04f03d07c35": {
+                "id": 12822,
                 "identifier": "cf73b05e-695b-44ad-84bb-e04f03d07c35",
                 "image": "https://uploads.mangadex.org/covers/cf73b05e-695b-44ad-84bb-e04f03d07c35/2005559b-e480-4b05-b00c-3386bf9b0893.jpg",
                 "malId": 130173,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gb984258": {
+                "id": 90979,
                 "identifier": "manga-gb984258",
                 "image": "https://avt.mkklcdnv6temp.com/fld/62/q/10-1732801751-nw.webp",
                 "malId": 130173,
@@ -30,6 +32,7 @@
                 "url": "https://manganato.com/manga-gb984258"
             },
             "manga-pt952902": {
+                "id": 127326,
                 "identifier": "manga-pt952902",
                 "image": "https://avt.mkklcdnv6temp.com/fld/57/m/1-1732718672-nw.webp",
                 "malId": 130173,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "seikimatsu-bakuroden-saga": {
+                "id": 104203,
                 "identifier": "seikimatsu-bakuroden-saga",
                 "image": "https://temp.compsci88.com/cover/Seikimatsu-Bakuroden-Saga.jpg",
                 "malId": 130173,
@@ -52,20 +56,9 @@
                 "url": "https://mangasee123.com/manga/Seikimatsu-Bakuroden-Saga"
             }
         },
-        "MangaFire": {
-            "legend-of-the-end-of-centurys-gambling-wolf-saga.375o2": {
-                "identifier": "legend-of-the-end-of-centurys-gambling-wolf-saga.375o2",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/688881f3dc963405340deb7342e258ce.jpg",
-                "malId": 130173,
-                "aniId": 108102,
-                "page": "MangaFire",
-                "title": "Legend of the End-of-Century's Gambling Wolf Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/legend-of-the-end-of-centurys-gambling-wolf-saga.375o2/"
-            }
-        },
         "Weebcentral": {
             "01j76xybdqxfjk6dz2rkk6ey79": {
+                "id": 206434,
                 "identifier": "01j76xybdqxfjk6dz2rkk6ey79",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBDQXFJK6DZ2RKK6EY79.jpg",
                 "malId": 130173,
@@ -74,6 +67,19 @@
                 "title": "Seikimatsu Bakuroden Saga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBDQXFJK6DZ2RKK6EY79"
+            }
+        },
+        "MangaFire": {
+            "375o2": {
+                "id": 258875,
+                "identifier": "375o2",
+                "image": "https://static.mangafire.to/d873/i/6/68/688881f3dc963405340deb7342e258ce.jpg",
+                "malId": 130173,
+                "aniId": 108102,
+                "page": "MangaFire",
+                "title": "Legend of the End-of-Century's Gambling Wolf Saga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/legend-of-the-end-of-centurys-gambling-wolf-sagaa.375o2"
             }
         },
         "Comick": {

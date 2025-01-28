@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "mr-bride": {
+                "id": 86997,
                 "identifier": "mr-bride",
                 "image": "https://temp.compsci88.com/cover/Mr-Bride.jpg",
                 "malId": 139073,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "7d748446-1488-4162-8893-cf061650a82f": {
+                "id": 96439,
                 "identifier": "7d748446-1488-4162-8893-cf061650a82f",
                 "image": "https://uploads.mangadex.org/covers/7d748446-1488-4162-8893-cf061650a82f/e8cb2abb-4443-4b6a-80f7-04da650b67ea.jpg",
                 "malId": 139073,
@@ -30,32 +32,11 @@
                 "url": "https://mangadex.org/title/7d748446-1488-4162-8893-cf061650a82f"
             }
         },
-        "MangaFire": {
-            "watashi-no-oyome-kun2.z1993": {
-                "identifier": "watashi-no-oyome-kun2.z1993",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21ba2d132e78a81b1070ec948b23d3a3.jpg",
-                "malId": 139073,
-                "aniId": 108163,
-                "page": "MangaFire",
-                "title": "Mr. Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-no-oyome-kun2.z1993/"
-            },
-            "watashi-no-oyome-kun22.z1993": {
-                "identifier": "watashi-no-oyome-kun22.z1993",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21ba2d132e78a81b1070ec948b23d3a3.jpg",
-                "malId": 139073,
-                "aniId": 108163,
-                "page": "MangaFire",
-                "title": "Mr. Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-no-oyome-kun22.z1993/"
-            }
-        },
         "MangaNato": {
             "manga-aw1004231": {
+                "id": 197029,
                 "identifier": "manga-aw1004231",
-                "image": "https://avt.mkklcdnv6temp.com/31/c/36-1726111337.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/14/i/18-1733328130-nw.webp",
                 "malId": 139073,
                 "aniId": 108163,
                 "page": "MangaNato",
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyf0sbvfn4m2zphsv81e4": {
+                "id": 213042,
                 "identifier": "01j76xyf0sbvfn4m2zphsv81e4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF0SBVFN4M2ZPHSV81E4.jpg",
                 "malId": 139073,
@@ -74,6 +56,19 @@
                 "title": "Mr. Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF0SBVFN4M2ZPHSV81E4"
+            }
+        },
+        "MangaFire": {
+            "z1993": {
+                "id": 224623,
+                "identifier": "z1993",
+                "image": "https://static.mangafire.to/af12/i/2/21/21ba2d132e78a81b1070ec948b23d3a3.jpg",
+                "malId": 139073,
+                "aniId": 108163,
+                "page": "MangaFire",
+                "title": "Mr. Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-no-oyome-kun22.z1993"
             }
         },
         "MangaReader": {

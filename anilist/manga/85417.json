@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4fce9bd7-1857-40f0-b39c-d44fe5cfb841": {
+                "id": 10954,
                 "identifier": "4fce9bd7-1857-40f0-b39c-d44fe5cfb841",
                 "image": "https://uploads.mangadex.org/covers/4fce9bd7-1857-40f0-b39c-d44fe5cfb841/aab22ad8-2c43-484e-803d-be6a1814cdd3.jpg",
                 "malId": 64055,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/4fce9bd7-1857-40f0-b39c-d44fe5cfb841"
             },
             "e5355f95-e134-40d4-ac09-d0a9718a6df0": {
+                "id": 31120,
                 "identifier": "e5355f95-e134-40d4-ac09-d0a9718a6df0",
                 "image": "https://uploads.mangadex.org/covers/e5355f95-e134-40d4-ac09-d0a9718a6df0/9365a2d6-3f77-41da-b52f-305021c03f12.png",
                 "malId": 64055,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "soredemo-boku-wa-kimi-ga-suki": {
+                "id": 65219,
                 "identifier": "soredemo-boku-wa-kimi-ga-suki",
                 "image": "https://temp.compsci88.com/cover/Soredemo-Boku-Wa-Kimi-Ga-Suki.jpg",
                 "malId": 64055,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-tu951555": {
+                "id": 83564,
                 "identifier": "manga-tu951555",
                 "image": "https://avt.mkklcdnv6temp.com/fld/11/s/1-1732716835-nw.webp",
                 "malId": 64055,
@@ -52,40 +56,9 @@
                 "url": "https://manganato.com/manga-tu951555"
             }
         },
-        "MangaFire": {
-            "soredemo-boku-wa-kimi-ga-suki.m067": {
-                "identifier": "soredemo-boku-wa-kimi-ga-suki.m067",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/713cd49d6db3f6945d889b1f969b53d9.jpg",
-                "malId": 64055,
-                "aniId": 85417,
-                "page": "MangaFire",
-                "title": "Forget Me Not",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soredemo-boku-wa-kimi-ga-suki.m067/"
-            },
-            "soredemo-boku-wa-kimi-ga-sukii.m067": {
-                "identifier": "soredemo-boku-wa-kimi-ga-sukii.m067",
-                "image": "https://static.mangafire.to/f808/i/7/71/713cd49d6db3f6945d889b1f969b53d9.jpg",
-                "malId": 64055,
-                "aniId": 85417,
-                "page": "MangaFire",
-                "title": "Forget Me Not",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soredemo-boku-wa-kimi-ga-sukii.m067/"
-            },
-            "m067": {
-                "identifier": "m067",
-                "image": "https://static.mangafire.to/f808/i/7/71/713cd49d6db3f6945d889b1f969b53d9.jpg",
-                "malId": 64055,
-                "aniId": 85417,
-                "page": "MangaFire",
-                "title": "Forget Me Not",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soredemo-boku-wa-kimi-ga-sukii.m067"
-            }
-        },
         "Weebcentral": {
             "01j76xya9am44fc4915zyz539d": {
+                "id": 212450,
                 "identifier": "01j76xya9am44fc4915zyz539d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA9AM44FC4915ZYZ539D.jpg",
                 "malId": 64055,
@@ -94,6 +67,19 @@
                 "title": "Forget Me Not",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA9AM44FC4915ZYZ539D"
+            }
+        },
+        "MangaFire": {
+            "m067": {
+                "id": 223492,
+                "identifier": "m067",
+                "image": "https://static.mangafire.to/f808/i/7/71/713cd49d6db3f6945d889b1f969b53d9.jpg",
+                "malId": 64055,
+                "aniId": 85417,
+                "page": "MangaFire",
+                "title": "Forget Me Not",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soredemo-boku-wa-kimi-ga-sukii.m067"
             }
         },
         "Comick": {

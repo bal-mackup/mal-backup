@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb169078-7289-4f95-948f-9315960e6905": {
+                "id": 12917,
                 "identifier": "bb169078-7289-4f95-948f-9315960e6905",
                 "image": "https://uploads.mangadex.org/covers/bb169078-7289-4f95-948f-9315960e6905/754567a4-754f-4bc5-988c-c387a95e4b6d.jpg",
                 "malId": 111213,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bastard": {
+                "id": 55823,
                 "identifier": "bastard",
                 "image": "https://temp.compsci88.com/cover/Bastard.jpg",
                 "malId": 111213,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "bastard_hwang_youngchan": {
+                "id": 57654,
                 "identifier": "bastard_hwang_youngchan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15985/cover.jpg",
                 "malId": 111213,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bn951896": {
+                "id": 74858,
                 "identifier": "manga-bn951896",
                 "image": "https://avt.mkklcdnv6temp.com/20/j/1-1583464499.jpg",
                 "malId": 111213,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bn951896"
             }
         },
-        "MangaFire": {
-            "hurejasik.z1o93": {
-                "identifier": "hurejasik.z1o93",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9a7c33b1cfc50146cbc79bf06bcfb36.jpg",
-                "malId": 111213,
-                "aniId": 86964,
-                "page": "MangaFire",
-                "title": "Bastard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hurejasik.z1o93/"
-            },
-            "hurejasikk.z1o93": {
-                "identifier": "hurejasikk.z1o93",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9a7c33b1cfc50146cbc79bf06bcfb36.jpg",
-                "malId": 111213,
-                "aniId": 86964,
-                "page": "MangaFire",
-                "title": "Bastard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hurejasikk.z1o93/"
-            }
-        },
         "Weebcentral": {
             "01j76xybjc4c66ddzyvs2phvrw": {
+                "id": 206574,
                 "identifier": "01j76xybjc4c66ddzyvs2phvrw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJC4C66DDZYVS2PHVRW.jpg",
                 "malId": 111213,
@@ -86,6 +69,19 @@
                 "title": "Bastard",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJC4C66DDZYVS2PHVRW"
+            }
+        },
+        "MangaFire": {
+            "z1o93": {
+                "id": 252961,
+                "identifier": "z1o93",
+                "image": "https://static.mangafire.to/d527/i/a/a9/a9a7c33b1cfc50146cbc79bf06bcfb36.jpg",
+                "malId": 111213,
+                "aniId": 86964,
+                "page": "MangaFire",
+                "title": "Bastard",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hurejasikk.z1o93"
             }
         },
         "Comick": {

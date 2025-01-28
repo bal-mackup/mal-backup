@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "21668ece-fd79-42dc-9411-42529910192a": {
+                "id": 113736,
                 "identifier": "21668ece-fd79-42dc-9411-42529910192a",
                 "image": "https://uploads.mangadex.org/covers/21668ece-fd79-42dc-9411-42529910192a/891b16fb-e4e9-4037-b30e-1b27a67c28d7.jpg",
                 "malId": 151193,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ghostbuster-osamu": {
+                "id": 114362,
                 "identifier": "ghostbuster-osamu",
                 "image": "https://temp.compsci88.com/cover/Ghostbuster-Osamu.jpg",
                 "malId": 151193,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-oj992344": {
+                "id": 114553,
                 "identifier": "manga-oj992344",
                 "image": "https://avt.mkklcdnv6temp.com/3/n/27-1663288697.jpg",
                 "malId": 151193,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-oj992344"
             }
         },
-        "MangaFire": {
-            "genkai-bonnou-katsugeki-osamu.rl84m": {
-                "identifier": "genkai-bonnou-katsugeki-osamu.rl84m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/25818edfc264370a035468968f2ac506.jpg",
-                "malId": 151193,
-                "aniId": 154272,
-                "page": "MangaFire",
-                "title": "Ghostbuster Osamu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkai-bonnou-katsugeki-osamu.rl84m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnfjcn4fv7dfgr5vjsf": {
+                "id": 212164,
                 "identifier": "01j76xyfnfjcn4fv7dfgr5vjsf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNFJCN4FV7DFGR5VJSF.jpg",
                 "malId": 151193,
@@ -64,6 +56,19 @@
                 "title": "Ghostbuster Osamu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNFJCN4FV7DFGR5VJSF"
+            }
+        },
+        "MangaFire": {
+            "rl84m": {
+                "id": 251468,
+                "identifier": "rl84m",
+                "image": "https://static.mangafire.to/fdf5/i/2/25/25818edfc264370a035468968f2ac506.jpg",
+                "malId": 151193,
+                "aniId": 154272,
+                "page": "MangaFire",
+                "title": "Ghostbuster Osamu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genkai-bonnou-katsugeki-osamuu.rl84m"
             }
         },
         "Comick": {

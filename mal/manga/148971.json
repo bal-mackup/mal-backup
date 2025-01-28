@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "306081c1-6ce6-4375-8085-7f1f7659b78b": {
+                "id": 61447,
                 "identifier": "306081c1-6ce6-4375-8085-7f1f7659b78b",
                 "image": "https://uploads.mangadex.org/covers/306081c1-6ce6-4375-8085-7f1f7659b78b/26d83e31-f551-4a1f-9067-c125d8b1f87e.jpg",
                 "malId": 148971,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ks987501": {
+                "id": 76435,
                 "identifier": "manga-ks987501",
                 "image": "https://avt.mkklcdnv6temp.com/50/i/22-1609604420.jpg",
                 "malId": 148971,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "faking-it-in-style": {
+                "id": 78080,
                 "identifier": "faking-it-in-style",
                 "image": "https://temp.compsci88.com/cover/Faking-It-In-Style.jpg",
                 "malId": 148971,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "faking_it_in_style": {
+                "id": 88440,
                 "identifier": "faking_it_in_style",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37091/cover.jpg",
                 "malId": 148971,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/faking_it_in_style/"
             }
         },
-        "MangaFire": {
-            "syowindoui-pumgyeok.nr16j": {
-                "identifier": "syowindoui-pumgyeok.nr16j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77da2c57aca0fa07657dc867753e6ba5.jpg",
-                "malId": 148971,
-                "aniId": 128170,
-                "page": "MangaFire",
-                "title": "Faking It In Style",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/syowindoui-pumgyeok.nr16j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyesmgcjfnnbsyervnkcx": {
+                "id": 206079,
                 "identifier": "01j76xyesmgcjfnnbsyervnkcx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYESMGCJFNNBSYERVNKCX.jpg",
                 "malId": 148971,
@@ -76,6 +69,19 @@
                 "title": "Faking It in Style",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYESMGCJFNNBSYERVNKCX"
+            }
+        },
+        "MangaFire": {
+            "nr16j": {
+                "id": 260575,
+                "identifier": "nr16j",
+                "image": "https://static.mangafire.to/7283/i/7/77/77da2c57aca0fa07657dc867753e6ba5.jpg",
+                "malId": 148971,
+                "aniId": 128170,
+                "page": "MangaFire",
+                "title": "Faking It In Style",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/syowindoui-pumgyeokk.nr16j"
             }
         }
     },

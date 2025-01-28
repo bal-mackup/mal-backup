@@ -6,20 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/228346.jpg",
     "Sites": {
-        "MangaFire": {
-            "hakuryuu-hadou.mvm57": {
-                "identifier": "hakuryuu-hadou.mvm57",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/773d58330bfd75b35819bd80d870faa0.jpg",
-                "malId": 120853,
-                "aniId": 123097,
-                "page": "MangaFire",
-                "title": "Hakuryuu Hadou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hakuryuu-hadou.mvm57/"
-            }
-        },
         "Mangadex": {
             "d5c82a08-e6c6-4e8b-9c85-795118fba826": {
+                "id": 156707,
                 "identifier": "d5c82a08-e6c6-4e8b-9c85-795118fba826",
                 "image": "https://uploads.mangadex.org/covers/d5c82a08-e6c6-4e8b-9c85-795118fba826/fa0016f4-342a-4459-956e-e1b73704902b.jpg",
                 "malId": 120853,
@@ -28,6 +17,19 @@
                 "title": "Hakuryuu Hadou",
                 "type": "manga",
                 "url": "https://mangadex.org/title/d5c82a08-e6c6-4e8b-9c85-795118fba826"
+            }
+        },
+        "MangaFire": {
+            "mvm57": {
+                "id": 258739,
+                "identifier": "mvm57",
+                "image": "https://static.mangafire.to/2677/i/7/77/773d58330bfd75b35819bd80d870faa0.jpg",
+                "malId": 120853,
+                "aniId": 123097,
+                "page": "MangaFire",
+                "title": "Hakuryuu Hadou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hakuryuu-hadouu.mvm57"
             }
         },
         "Comick": {

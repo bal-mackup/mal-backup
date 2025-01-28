@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd": {
+                "id": 121909,
                 "identifier": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
                 "image": "https://uploads.mangadex.org/covers/15a1a7e1-8b39-4b76-b4d2-3006f3413dfd/c82692b9-9fe7-4758-9460-65deb931b83d.jpg",
                 "malId": 155118,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rv994678": {
+                "id": 126083,
                 "identifier": "manga-rv994678",
                 "image": "https://avt.mkklcdnv6temp.com/47/n/28-1677863691.jpg",
                 "malId": 155118,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rv994678"
             }
         },
-        "MangaFire": {
-            "dead-account.ppr0j": {
-                "identifier": "dead-account.ppr0j",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1c4a5c8f08e639e757ce86f4e9a66f9.jpg",
-                "malId": 155118,
-                "aniId": 160460,
-                "page": "MangaFire",
-                "title": "Dead Account",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dead-account.ppr0j/"
-            },
-            "dead-accountt.ppr0j": {
-                "identifier": "dead-accountt.ppr0j",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1c4a5c8f08e639e757ce86f4e9a66f9.jpg",
-                "malId": 155118,
-                "aniId": 160460,
-                "page": "MangaFire",
-                "title": "Dead Account",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dead-accountt.ppr0j/"
-            }
-        },
         "MangaFox": {
             "dead_account": {
+                "id": 220666,
                 "identifier": "dead_account",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44723/cover.jpg",
                 "malId": 155118,
@@ -62,6 +43,32 @@
                 "title": "Dead Account",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/dead_account/"
+            }
+        },
+        "MangaFire": {
+            "ppr0j": {
+                "id": 225787,
+                "identifier": "ppr0j",
+                "image": "https://static.mangafire.to/3785/i/d/d1/d1c4a5c8f08e639e757ce86f4e9a66f9.jpg",
+                "malId": 155118,
+                "aniId": 160460,
+                "page": "MangaFire",
+                "title": "Dead Account",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dead-accountt.ppr0j"
+            }
+        },
+        "Weebcentral": {
+            "01jey12j9nkv2kxds8fx3tyyh8": {
+                "id": 267239,
+                "identifier": "01jey12j9nkv2kxds8fx3tyyh8",
+                "image": "https://temp.compsci88.com/cover/fallback/01JEY12J9NKV2KXDS8FX3TYYH8.jpg",
+                "malId": 155118,
+                "aniId": 160460,
+                "page": "Weebcentral",
+                "title": "Dead Account",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JEY12J9NKV2KXDS8FX3TYYH8"
             }
         },
         "Comick": {

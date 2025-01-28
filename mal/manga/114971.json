@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "147b039d-3913-4c32-aae6-2241ddaa073d": {
+                "id": 23307,
                 "identifier": "147b039d-3913-4c32-aae6-2241ddaa073d",
                 "image": "https://uploads.mangadex.org/covers/147b039d-3913-4c32-aae6-2241ddaa073d/64b93ccc-521f-4345-a277-b727ae9009d6.jpg",
                 "malId": 114971,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "r402": {
+                "id": 66558,
                 "identifier": "r402",
                 "image": "https://temp.compsci88.com/cover/R402.jpg",
                 "malId": 114971,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "r402": {
+                "id": 68250,
                 "identifier": "r402",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28003/cover.jpg",
                 "malId": 114971,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ca979483": {
+                "id": 74737,
                 "identifier": "manga-ca979483",
                 "image": "https://avt.mkklcdnv6temp.com/43/e/16-1583495015.jpg",
                 "malId": 114971,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-ca979483"
             }
         },
-        "MangaFire": {
-            "r402.kwjp9": {
-                "identifier": "r402.kwjp9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/331e60d17e5c467546d093781b2ed184.jpg",
-                "malId": 114971,
-                "aniId": 103626,
-                "page": "MangaFire",
-                "title": "R402",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/r402.kwjp9/"
-            },
-            "r4022.kwjp9": {
-                "identifier": "r4022.kwjp9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/331e60d17e5c467546d093781b2ed184.jpg",
-                "malId": 114971,
-                "aniId": 103626,
-                "page": "MangaFire",
-                "title": "R402",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/r4022.kwjp9/"
-            },
-            "kwjp9": {
-                "identifier": "kwjp9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/331e60d17e5c467546d093781b2ed184.jpg",
-                "malId": 114971,
-                "aniId": 103626,
-                "page": "MangaFire",
-                "title": "R402",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/r4022.kwjp9/"
-            }
-        },
         "Weebcentral": {
             "01j76xycvx226mprn2sn4rs0xq": {
+                "id": 214401,
                 "identifier": "01j76xycvx226mprn2sn4rs0xq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCVX226MPRN2SN4RS0XQ.jpg",
                 "malId": 114971,
@@ -96,6 +69,19 @@
                 "title": "R402",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCVX226MPRN2SN4RS0XQ"
+            }
+        },
+        "MangaFire": {
+            "kwjp9": {
+                "id": 239880,
+                "identifier": "kwjp9",
+                "image": "https://static.mangafire.to/2bda/i/3/33/331e60d17e5c467546d093781b2ed184.jpg",
+                "malId": 114971,
+                "aniId": 103626,
+                "page": "MangaFire",
+                "title": "R402",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/r4022.kwjp9"
             }
         },
         "Comick": {

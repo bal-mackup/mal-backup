@@ -6,30 +6,9 @@
     "total": 7,
     "image": "https://cdn.myanimelist.net/images/manga/3/269825.jpg",
     "Sites": {
-        "MangaFire": {
-            "hourai-tribute-chuugoku-kaiki-gensousen.0rl49": {
-                "identifier": "hourai-tribute-chuugoku-kaiki-gensousen.0rl49",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24a6d2abec2a91c247213034d5e5d045.jpg",
-                "malId": 151761,
-                "aniId": 154617,
-                "page": "MangaFire",
-                "title": "A Chinese Fantasy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hourai-tribute-chuugoku-kaiki-gensousen.0rl49/"
-            },
-            "kitsune-no-okite-chuugoku-gensousen.mv18x": {
-                "identifier": "kitsune-no-okite-chuugoku-gensousen.mv18x",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/ec85ffe60c41d349bc443cb343c7a0cb.jpg",
-                "malId": 151761,
-                "aniId": 154617,
-                "page": "MangaFire",
-                "title": "A Chinese Fantasy: Law of the Fox",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kitsune-no-okite-chuugoku-gensousen.mv18x/"
-            }
-        },
         "Mangadex": {
             "29204d89-900c-46cf-9f05-d0a7659a568e": {
+                "id": 187561,
                 "identifier": "29204d89-900c-46cf-9f05-d0a7659a568e",
                 "image": "https://uploads.mangadex.org/covers/29204d89-900c-46cf-9f05-d0a7659a568e/e0977580-183b-4461-99ca-511459d8480c.jpg",
                 "malId": 151761,
@@ -38,6 +17,30 @@
                 "title": "A Chinese Fantasy: Law of the Fox",
                 "type": "manga",
                 "url": "https://mangadex.org/title/29204d89-900c-46cf-9f05-d0a7659a568e"
+            }
+        },
+        "MangaFire": {
+            "mv18x": {
+                "id": 235861,
+                "identifier": "mv18x",
+                "image": "https://static.mangafire.to/fa96/i/9/93/ec85ffe60c41d349bc443cb343c7a0cb.jpg",
+                "malId": 151761,
+                "aniId": 154617,
+                "page": "MangaFire",
+                "title": "A Chinese Fantasy: Law of the Fox",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kitsune-no-okite-chuugoku-gensousenn.mv18x"
+            },
+            "0rl49": {
+                "id": 238490,
+                "identifier": "0rl49",
+                "image": "https://static.mangafire.to/a786/i/2/24/24a6d2abec2a91c247213034d5e5d045.jpg",
+                "malId": 151761,
+                "aniId": 154617,
+                "page": "MangaFire",
+                "title": "A Chinese Fantasy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hourai-tribute-chuugoku-kaiki-gensousenn.0rl49"
             }
         },
         "Comick": {

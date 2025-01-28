@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "017928fe-96c5-4865-9b7f-1f7bc1b22824": {
+                "id": 119662,
                 "identifier": "017928fe-96c5-4865-9b7f-1f7bc1b22824",
                 "image": "https://uploads.mangadex.org/covers/017928fe-96c5-4865-9b7f-1f7bc1b22824/0569286f-4b47-4d85-bc6e-8370dc5d3a53.jpg",
                 "malId": 154119,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qo993523": {
+                "id": 121847,
                 "identifier": "manga-qo993523",
                 "image": "https://avt.mkklcdnv6temp.com/1/k/27-1673667785.jpg",
                 "malId": 154119,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "i_used_to_be_a_boss": {
+                "id": 127030,
                 "identifier": "i_used_to_be_a_boss",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44583/cover.jpg",
                 "malId": 154119,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/i_used_to_be_a_boss/"
             }
         },
-        "MangaFire": {
-            "i-used-to-be-a-boss.62z0": {
-                "identifier": "i-used-to-be-a-boss.62z0",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5abfe89d865384085c6c954b9b9d5949.jpg",
-                "malId": 154119,
-                "aniId": 159385,
-                "page": "MangaFire",
-                "title": "I Used to Be a Boss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-used-to-be-a-boss.62z0/"
-            },
-            "i-used-to-be-a-bosss.62z0": {
-                "identifier": "i-used-to-be-a-bosss.62z0",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5abfe89d865384085c6c954b9b9d5949.jpg",
-                "malId": 154119,
-                "aniId": 159385,
-                "page": "MangaFire",
-                "title": "I Used to Be a Boss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-used-to-be-a-bosss.62z0/"
-            }
-        },
         "MangaSee": {
             "i-was-the-final-boss": {
+                "id": 167907,
                 "identifier": "i-was-the-final-boss",
                 "image": "https://temp.compsci88.com/cover/I-Was-the-Final-Boss.jpg",
                 "malId": 154119,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygek18gvb3dx5rpk3vxx": {
+                "id": 213562,
                 "identifier": "01j76xygek18gvb3dx5rpk3vxx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGEK18GVB3DX5RPK3VXX.jpg",
                 "malId": 154119,
@@ -86,6 +69,19 @@
                 "title": "I Was the Final Boss",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGEK18GVB3DX5RPK3VXX"
+            }
+        },
+        "MangaFire": {
+            "62z0": {
+                "id": 226432,
+                "identifier": "62z0",
+                "image": "https://static.mangafire.to/ff28/i/5/5a/5abfe89d865384085c6c954b9b9d5949.jpg",
+                "malId": 154119,
+                "aniId": 159385,
+                "page": "MangaFire",
+                "title": "I Used to Be a Boss",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-used-to-be-a-bosss.62z0"
             }
         },
         "Comick": {

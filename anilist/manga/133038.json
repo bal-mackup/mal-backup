@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lj988944": {
+                "id": 73049,
                 "identifier": "manga-lj988944",
                 "image": "https://avt.mkklcdnv6temp.com/23/a/36-1725636674.jpg",
                 "malId": 149161,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "ccf19b16-e6c5-4f16-b327-8399e61c2e5b": {
+                "id": 88330,
                 "identifier": "ccf19b16-e6c5-4f16-b327-8399e61c2e5b",
                 "image": "https://uploads.mangadex.org/covers/ccf19b16-e6c5-4f16-b327-8399e61c2e5b/e43d0c10-4efa-4c04-b916-bf600223c919.jpg",
                 "malId": 149161,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_villainess_flips_the_script": {
+                "id": 96361,
                 "identifier": "the_villainess_flips_the_script",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41460/cover.jpg",
                 "malId": 149161,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/the_villainess_flips_the_script/"
             },
             "the_villainess_flips_the_script_delete": {
+                "id": 176898,
                 "identifier": "the_villainess_flips_the_script_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41460/cover.jpg",
                 "malId": 149161,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "the-villainess-flips-the-script": {
+                "id": 128688,
                 "identifier": "the-villainess-flips-the-script",
                 "image": "https://temp.compsci88.com/cover/The-Villainess-Flips-the-Script.jpg",
                 "malId": 149161,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/The-Villainess-Flips-the-Script"
             }
         },
-        "MangaFire": {
-            "jangneureul-bakkwobodorok-hagetseumnida.jvxw3": {
-                "identifier": "jangneureul-bakkwobodorok-hagetseumnida.jvxw3",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63133b1e02fe9b22092520d7fc78be53.jpg",
-                "malId": 149161,
-                "aniId": 133038,
-                "page": "MangaFire",
-                "title": "The Villainess Flips the Script!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jangneureul-bakkwobodorok-hagetseumnida.jvxw3/"
-            },
-            "jangneureul-bakkwobodorok-hagetseumnidaa.jvxw3": {
-                "identifier": "jangneureul-bakkwobodorok-hagetseumnidaa.jvxw3",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63133b1e02fe9b22092520d7fc78be53.jpg",
-                "malId": 149161,
-                "aniId": 133038,
-                "page": "MangaFire",
-                "title": "The Villainess Flips the Script!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jangneureul-bakkwobodorok-hagetseumnidaa.jvxw3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1cvtr0r1pr5hcqf7n5": {
+                "id": 211855,
                 "identifier": "01j76xyg1cvtr0r1pr5hcqf7n5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1CVTR0R1PR5HCQF7N5.jpg",
                 "malId": 149161,
@@ -96,6 +80,19 @@
                 "title": "The Villainess Flips the Script",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1CVTR0R1PR5HCQF7N5"
+            }
+        },
+        "MangaFire": {
+            "jvxw3": {
+                "id": 225351,
+                "identifier": "jvxw3",
+                "image": "https://static.mangafire.to/2f48/i/6/63/63133b1e02fe9b22092520d7fc78be53.jpg",
+                "malId": 149161,
+                "aniId": 133038,
+                "page": "MangaFire",
+                "title": "The Villainess Flips the Script!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jangneureul-bakkwobodorok-hagetseumnidaa.jvxw3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d7166757-6022-45f7-bab3-ceb92b0f5113": {
+                "id": 32498,
                 "identifier": "d7166757-6022-45f7-bab3-ceb92b0f5113",
                 "image": "https://uploads.mangadex.org/covers/d7166757-6022-45f7-bab3-ceb92b0f5113/929a0c2a-5a78-4aef-a2da-9728c089b573.jpg",
                 "malId": 123694,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "awkward_senpai": {
+                "id": 61359,
                 "identifier": "awkward_senpai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30034/cover.jpg",
                 "malId": 123694,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "awkward-senpai": {
+                "id": 61491,
                 "identifier": "awkward-senpai",
                 "image": "https://temp.compsci88.com/cover/Awkward-Senpai.jpg",
                 "malId": 123694,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-eo982349": {
+                "id": 74932,
                 "identifier": "manga-eo982349",
                 "image": "https://avt.mkklcdnv6temp.com/48/m/18-1583498991.jpg",
                 "malId": 123694,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-eo982349"
             }
         },
-        "MangaFire": {
-            "bukiyou-na-senpai.2nw2": {
-                "identifier": "bukiyou-na-senpai.2nw2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0ceda25ef907a946b8334fcc5136d84c.jpg",
-                "malId": 123694,
-                "aniId": 114437,
-                "page": "MangaFire",
-                "title": "My Awkward Senpai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bukiyou-na-senpai.2nw2/"
-            },
-            "bukiyou-na-senpaii.2nw2": {
-                "identifier": "bukiyou-na-senpaii.2nw2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0ceda25ef907a946b8334fcc5136d84c.jpg",
-                "malId": 123694,
-                "aniId": 114437,
-                "page": "MangaFire",
-                "title": "My Awkward Senpai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bukiyou-na-senpaii.2nw2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd7dydxfrpxfkf55nwv2": {
+                "id": 207827,
                 "identifier": "01j76xyd7dydxfrpxfkf55nwv2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD7DYDXFRPXFKF55NWV2.jpg",
                 "malId": 123694,
@@ -86,6 +69,19 @@
                 "title": "Awkward Senpai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD7DYDXFRPXFKF55NWV2"
+            }
+        },
+        "MangaFire": {
+            "2nw2": {
+                "id": 224574,
+                "identifier": "2nw2",
+                "image": "https://static.mangafire.to/c0bc/i/0/0c/0ceda25ef907a946b8334fcc5136d84c.jpg",
+                "malId": 123694,
+                "aniId": 114437,
+                "page": "MangaFire",
+                "title": "My Awkward Senpai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bukiyou-na-senpaii.2nw2"
             }
         },
         "Comick": {

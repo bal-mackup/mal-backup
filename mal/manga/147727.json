@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3fc308c9-4b00-4dc3-943e-1f39242bc708": {
+                "id": 34267,
                 "identifier": "3fc308c9-4b00-4dc3-943e-1f39242bc708",
                 "image": "https://uploads.mangadex.org/covers/3fc308c9-4b00-4dc3-943e-1f39242bc708/2af0c6f7-cd3d-4c59-afee-a8ff471e0561.jpg",
                 "malId": 147727,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "overgeared": {
+                "id": 52219,
                 "identifier": "overgeared",
                 "image": "https://temp.compsci88.com/cover/Overgeared.jpg",
                 "malId": 147727,
@@ -30,6 +32,7 @@
                 "url": "https://mangasee123.com/manga/Overgeared"
             },
             "overgeared-volume-version": {
+                "id": 184194,
                 "identifier": "overgeared-volume-version",
                 "image": "https://temp.compsci88.com/cover/Overgeared-Volume-Version.jpg",
                 "malId": 147727,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "overgeared_team_argo": {
+                "id": 54854,
                 "identifier": "overgeared_team_argo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33384/cover.jpg",
                 "malId": 147727,
@@ -52,6 +56,7 @@
                 "url": "https://fanfox.net/manga/overgeared_team_argo/"
             },
             "overgeared": {
+                "id": 57974,
                 "identifier": "overgeared",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28647/cover.jpg",
                 "malId": 147727,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-hi985065": {
+                "id": 73241,
                 "identifier": "manga-hi985065",
                 "image": "https://avt.mkklcdnv6temp.com/50/b/20-1585716010.jpg",
                 "malId": 147727,
@@ -74,40 +80,9 @@
                 "url": "https://chapmanganato.com/manga-hi985065"
             }
         },
-        "MangaFire": {
-            "overgeared2.yqwpx": {
-                "identifier": "overgeared2.yqwpx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/0635d36da191929430bb2b94c8757e00.jpg",
-                "malId": 147727,
-                "aniId": 117460,
-                "page": "MangaFire",
-                "title": "Overgeared",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/overgeared2.yqwpx/"
-            },
-            "temppal.yqwpx": {
-                "identifier": "temppal.yqwpx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/0635d36da191929430bb2b94c8757e00.jpg",
-                "malId": 147727,
-                "aniId": 117460,
-                "page": "MangaFire",
-                "title": "Overgeared",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/temppal.yqwpx/"
-            },
-            "overgeared22.yqwpx": {
-                "identifier": "overgeared22.yqwpx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/0635d36da191929430bb2b94c8757e00.jpg",
-                "malId": 147727,
-                "aniId": 117460,
-                "page": "MangaFire",
-                "title": "Overgeared",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/overgeared22.yqwpx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyh1vtgdwxdj21ferandw": {
+                "id": 210421,
                 "identifier": "01j76xyh1vtgdwxdj21ferandw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH1VTGDWXDJ21FERANDW.jpg",
                 "malId": 147727,
@@ -118,6 +93,7 @@
                 "url": "https://weebcentral.com/series/01J76XYH1VTGDWXDJ21FERANDW"
             },
             "01j76xydmr2777kem5bktbbk83": {
+                "id": 214326,
                 "identifier": "01j76xydmr2777kem5bktbbk83",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMR2777KEM5BKTBBK83.jpg",
                 "malId": 147727,
@@ -126,6 +102,19 @@
                 "title": "Overgeared",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMR2777KEM5BKTBBK83"
+            }
+        },
+        "MangaFire": {
+            "yqwpx": {
+                "id": 226786,
+                "identifier": "yqwpx",
+                "image": "https://static.mangafire.to/7869/i/0/06/0635d36da191929430bb2b94c8757e00.jpg",
+                "malId": 147727,
+                "aniId": 117460,
+                "page": "MangaFire",
+                "title": "Overgeared",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/overgeared22.yqwpx"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-la988983": {
+                "id": 73343,
                 "identifier": "manga-la988983",
                 "image": "https://avt.mkklcdnv6temp.com/11/f/24-1620057823.jpg",
                 "malId": 148477,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "ee45e72c-3c25-4fce-8934-08e91458c858": {
+                "id": 88507,
                 "identifier": "ee45e72c-3c25-4fce-8934-08e91458c858",
                 "image": "https://uploads.mangadex.org/covers/ee45e72c-3c25-4fce-8934-08e91458c858/cc6c9dc2-eb30-4b21-aeae-077dc07d3236.jpg",
                 "malId": 148477,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/ee45e72c-3c25-4fce-8934-08e91458c858"
             }
         },
-        "MangaFire": {
-            "jeopgeun-bulga-lady.z1r7w": {
-                "identifier": "jeopgeun-bulga-lady.z1r7w",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e7014f1a6cb94a377f93aebd814b42fa.jpg",
-                "malId": 148477,
-                "aniId": 133575,
-                "page": "MangaFire",
-                "title": "Solitary Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jeopgeun-bulga-lady.z1r7w/"
-            },
-            "jeopgeun-bulga-ladyy.z1r7w": {
-                "identifier": "jeopgeun-bulga-ladyy.z1r7w",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e7014f1a6cb94a377f93aebd814b42fa.jpg",
-                "malId": 148477,
-                "aniId": 133575,
-                "page": "MangaFire",
-                "title": "Solitary Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jeopgeun-bulga-ladyy.z1r7w/"
-            }
-        },
         "MangaSee": {
             "solitary-lady": {
+                "id": 157988,
                 "identifier": "solitary-lady",
                 "image": "https://temp.compsci88.com/cover/Solitary-Lady.jpg",
                 "malId": 148477,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg56j35gz159nte28d6h": {
+                "id": 207317,
                 "identifier": "01j76xyg56j35gz159nte28d6h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG56J35GZ159NTE28D6H.jpg",
                 "malId": 148477,
@@ -74,6 +56,19 @@
                 "title": "Solitary Lady",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG56J35GZ159NTE28D6H"
+            }
+        },
+        "MangaFire": {
+            "z1r7w": {
+                "id": 224309,
+                "identifier": "z1r7w",
+                "image": "https://static.mangafire.to/3064/i/e/e7/e7014f1a6cb94a377f93aebd814b42fa.jpg",
+                "malId": 148477,
+                "aniId": 133575,
+                "page": "MangaFire",
+                "title": "Solitary Lady",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jeopgeun-bulga-ladyy.z1r7w"
             }
         }
     },

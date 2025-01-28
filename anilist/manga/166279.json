@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ff4669dd-c512-4d30-aeb7-6ceec5308a76": {
+                "id": 161029,
                 "identifier": "ff4669dd-c512-4d30-aeb7-6ceec5308a76",
                 "image": "https://uploads.mangadex.org/covers/ff4669dd-c512-4d30-aeb7-6ceec5308a76/e6c1005e-8ceb-429e-ad16-4c9f89004f4e.jpg",
                 "malId": 159771,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/ff4669dd-c512-4d30-aeb7-6ceec5308a76"
             }
         },
-        "MangaFire": {
-            "saihate-ni-madou.lr1mm": {
-                "identifier": "saihate-ni-madou.lr1mm",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/ce28997c4396c2a400d7c56f211dba9a.jpg",
-                "malId": 159771,
-                "aniId": 166279,
-                "page": "MangaFire",
-                "title": "Saihate ni Madou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-ni-madou.lr1mm/"
-            },
-            "saihate-ni-madouu.lr1mm": {
-                "identifier": "saihate-ni-madouu.lr1mm",
-                "image": "https://static.mangafire.to/2344/i/c/ce/ce28997c4396c2a400d7c56f211dba9a.jpg",
-                "malId": 159771,
-                "aniId": 166279,
-                "page": "MangaFire",
-                "title": "Saihate ni Madou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-ni-madouu.lr1mm/"
-            }
-        },
         "MangaNato": {
             "manga-tn996870": {
+                "id": 161913,
                 "identifier": "manga-tn996870",
                 "image": "https://avt.mkklcdnv6temp.com/fld/32/x/15-1733308591-nw.webp",
                 "malId": 159771,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "saihate_ni_madou": {
+                "id": 164905,
                 "identifier": "saihate_ni_madou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45090/cover.jpg",
                 "malId": 159771,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "saihate-ni-madou": {
+                "id": 166709,
                 "identifier": "saihate-ni-madou",
                 "image": "https://temp.compsci88.com/cover/Saihate-ni-Madou.jpg",
                 "malId": 159771,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyge924vd85m8sqh03qtc": {
+                "id": 207874,
                 "identifier": "01j76xyge924vd85m8sqh03qtc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGE924VD85M8SQH03QTC.jpg",
                 "malId": 159771,
@@ -86,6 +69,19 @@
                 "title": "Saihate ni Madou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGE924VD85M8SQH03QTC"
+            }
+        },
+        "MangaFire": {
+            "lr1mm": {
+                "id": 223489,
+                "identifier": "lr1mm",
+                "image": "https://static.mangafire.to/2344/i/c/ce/ce28997c4396c2a400d7c56f211dba9a.jpg",
+                "malId": 159771,
+                "aniId": 166279,
+                "page": "MangaFire",
+                "title": "Saihate ni Madou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saihate-ni-madouu.lr1mm"
             }
         },
         "Comick": {

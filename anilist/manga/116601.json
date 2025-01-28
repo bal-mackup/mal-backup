@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3bcbfa49-6d0b-4130-868b-86897af19d45": {
+                "id": 34795,
                 "identifier": "3bcbfa49-6d0b-4130-868b-86897af19d45",
                 "image": "https://uploads.mangadex.org/covers/3bcbfa49-6d0b-4130-868b-86897af19d45/f804f233-2047-422b-8b60-3c52dd905384.jpg",
                 "malId": 143337,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/3bcbfa49-6d0b-4130-868b-86897af19d45"
             }
         },
-        "MangaFire": {
-            "minecraft-journey-to-the-worlds-end.prqjx": {
-                "identifier": "minecraft-journey-to-the-worlds-end.prqjx",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d0a9ad4a0a0d28c559cc3a462ddd795.jpg",
-                "malId": 143337,
-                "aniId": 116601,
-                "page": "MangaFire",
-                "title": "Minecraft: Journey to the World's End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minecraft-journey-to-the-worlds-end.prqjx/"
-            },
-            "minecraft-journey-to-the-worlds-endd.prqjx": {
-                "identifier": "minecraft-journey-to-the-worlds-endd.prqjx",
-                "image": "https://static.mangafire.to/6d09/i/2/2d/2d0a9ad4a0a0d28c559cc3a462ddd795.jpg",
-                "malId": 143337,
-                "aniId": 116601,
-                "page": "MangaFire",
-                "title": "Minecraft: Journey to the World's End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minecraft-journey-to-the-worlds-endd.prqjx/"
-            }
-        },
         "MangaNato": {
             "manga-ug997863": {
+                "id": 187109,
                 "identifier": "manga-ug997863",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/s/15-1733310961-nw.webp",
                 "malId": 143337,
@@ -50,6 +30,19 @@
                 "title": "Minecraft: Journey To The World's End",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-ug997863"
+            }
+        },
+        "MangaFire": {
+            "prqjx": {
+                "id": 223597,
+                "identifier": "prqjx",
+                "image": "https://static.mangafire.to/6d09/i/2/2d/2d0a9ad4a0a0d28c559cc3a462ddd795.jpg",
+                "malId": 143337,
+                "aniId": 116601,
+                "page": "MangaFire",
+                "title": "Minecraft: Journey to the World's End",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/minecraft-journey-to-the-worlds-endd.prqjx"
             }
         },
         "Comick": {

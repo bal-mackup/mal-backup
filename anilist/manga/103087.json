@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e41f21d7-b99f-47a6-b6cf-bb88b159c9c0": {
+                "id": 21914,
                 "identifier": "e41f21d7-b99f-47a6-b6cf-bb88b159c9c0",
                 "image": "https://uploads.mangadex.org/covers/e41f21d7-b99f-47a6-b6cf-bb88b159c9c0/9501dfa7-0a11-4e56-9afa-8423b06da11f.jpg",
                 "malId": 132539,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/e41f21d7-b99f-47a6-b6cf-bb88b159c9c0"
             }
         },
-        "MangaFire": {
-            "kodama-maria-bungaku-shuusei.qx54v": {
-                "identifier": "kodama-maria-bungaku-shuusei.qx54v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0edae6d03143c35d9ad0acda9ad7643a.jpg",
-                "malId": 132539,
-                "aniId": 103087,
-                "page": "MangaFire",
-                "title": "Kodama Maria Bungaku Shuusei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kodama-maria-bungaku-shuusei.qx54v/"
-            },
-            "kodama-maria-bungaku-shuuseii.qx54v": {
-                "identifier": "kodama-maria-bungaku-shuuseii.qx54v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0edae6d03143c35d9ad0acda9ad7643a.jpg",
-                "malId": 132539,
-                "aniId": 103087,
-                "page": "MangaFire",
-                "title": "Kodama Maria Bungaku Shuusei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kodama-maria-bungaku-shuuseii.qx54v/"
-            }
-        },
         "MangaFox": {
             "kodama_maria_bungaku_shuusei": {
+                "id": 193950,
                 "identifier": "kodama_maria_bungaku_shuusei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37072/cover.jpg",
                 "malId": 132539,
@@ -50,6 +30,19 @@
                 "title": "Kodama Maria Bungaku Shuusei",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kodama_maria_bungaku_shuusei/"
+            }
+        },
+        "MangaFire": {
+            "qx54v": {
+                "id": 255643,
+                "identifier": "qx54v",
+                "image": "https://static.mangafire.to/00f7/i/0/0e/0edae6d03143c35d9ad0acda9ad7643a.jpg",
+                "malId": 132539,
+                "aniId": 103087,
+                "page": "MangaFire",
+                "title": "Kodama Maria Bungaku Shuusei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kodama-maria-bungaku-shuuseii.qx54v"
             }
         },
         "Comick": {

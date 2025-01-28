@@ -6,30 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/283703.jpg",
     "Sites": {
-        "MangaFire": {
-            "level-up-with-skills.qnzw5": {
-                "identifier": "level-up-with-skills.qnzw5",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd16cdf37bfc2f3c512d3ccd299d82d.jpg",
-                "malId": 159834,
-                "aniId": 165689,
-                "page": "MangaFire",
-                "title": "Skill Master Levels Up",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/level-up-with-skills.qnzw5/"
-            },
-            "level-up-with-skillss.qnzw5": {
-                "identifier": "level-up-with-skillss.qnzw5",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd16cdf37bfc2f3c512d3ccd299d82d.jpg",
-                "malId": 159834,
-                "aniId": 165689,
-                "page": "MangaFire",
-                "title": "Skill Master Levels Up",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/level-up-with-skillss.qnzw5/"
-            }
-        },
         "Mangadex": {
             "57e687fd-f64c-44c2-a6c0-c923d1bab11b": {
+                "id": 161061,
                 "identifier": "57e687fd-f64c-44c2-a6c0-c923d1bab11b",
                 "image": "https://uploads.mangadex.org/covers/57e687fd-f64c-44c2-a6c0-c923d1bab11b/c424491a-d627-4967-8466-22aff192c0a7.jpg",
                 "malId": 159834,
@@ -42,6 +21,7 @@
         },
         "MangaNato": {
             "manga-tz996708": {
+                "id": 161124,
                 "identifier": "manga-tz996708",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/t/15-1733308190-nw.webp",
                 "malId": 159834,
@@ -52,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-tz996708"
             },
             "manga-to996923": {
+                "id": 162152,
                 "identifier": "manga-to996923",
                 "image": "https://avt.mkklcdnv6temp.com/fld/34/y/15-1733308719-nw.webp",
                 "malId": 159834,
@@ -60,6 +41,19 @@
                 "title": "Leveling Up With Skills",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-to996923"
+            }
+        },
+        "MangaFire": {
+            "qnzw5": {
+                "id": 226045,
+                "identifier": "qnzw5",
+                "image": "https://static.mangafire.to/2de6/i/1/1d/1dd16cdf37bfc2f3c512d3ccd299d82d.jpg",
+                "malId": 159834,
+                "aniId": 165689,
+                "page": "MangaFire",
+                "title": "Skill Master Levels Up",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/level-up-with-skillss.qnzw5"
             }
         },
         "Comick": {

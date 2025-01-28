@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0071eca-700f-4f98-9309-a1a839655a57": {
+                "id": 15827,
                 "identifier": "d0071eca-700f-4f98-9309-a1a839655a57",
                 "image": "https://uploads.mangadex.org/covers/d0071eca-700f-4f98-9309-a1a839655a57/bc184920-f9f0-48f6-a433-ce43723ae810.png",
                 "malId": 110882,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kakao_79": {
+                "id": 58570,
                 "identifier": "kakao_79",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20417/cover.jpg",
                 "malId": 110882,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kakao79": {
+                "id": 60558,
                 "identifier": "kakao79",
                 "image": "https://temp.compsci88.com/cover/Kakao79.jpg",
                 "malId": 110882,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uq971673": {
+                "id": 73488,
                 "identifier": "manga-uq971673",
                 "image": "https://avt.mkklcdnv6temp.com/50/b/13-1583489687.jpg",
                 "malId": 110882,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-uq971673"
             }
         },
-        "MangaFire": {
-            "kakao-79.qx4qj": {
-                "identifier": "kakao-79.qx4qj",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81e62c2ba471f0c7f59d9de67dc6f5fd.jpg",
-                "malId": 110882,
-                "aniId": 87411,
-                "page": "MangaFire",
-                "title": "Kakao 79%",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakao-79.qx4qj/"
-            },
-            "kakao-799.qx4qj": {
-                "identifier": "kakao-799.qx4qj",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81e62c2ba471f0c7f59d9de67dc6f5fd.jpg",
-                "malId": 110882,
-                "aniId": 87411,
-                "page": "MangaFire",
-                "title": "Kakao 79%",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakao-799.qx4qj/"
-            }
-        },
         "Weebcentral": {
             "01j76xybrhnwnsj5mmdwtef2fk": {
+                "id": 210792,
                 "identifier": "01j76xybrhnwnsj5mmdwtef2fk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBRHNWNSJ5MMDWTEF2FK.jpg",
                 "malId": 110882,
@@ -86,6 +69,19 @@
                 "title": "Kakao 79%",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBRHNWNSJ5MMDWTEF2FK"
+            }
+        },
+        "MangaFire": {
+            "qx4qj": {
+                "id": 227437,
+                "identifier": "qx4qj",
+                "image": "https://static.mangafire.to/5a74/i/8/81/81e62c2ba471f0c7f59d9de67dc6f5fd.jpg",
+                "malId": 110882,
+                "aniId": 87411,
+                "page": "MangaFire",
+                "title": "Kakao 79%",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kakao-799.qx4qj"
             }
         },
         "Comick": {

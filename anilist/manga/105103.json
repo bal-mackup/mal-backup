@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "yuzu-the-pet-vet": {
+                "id": 86384,
                 "identifier": "yuzu-the-pet-vet",
                 "image": "https://temp.compsci88.com/cover/Yuzu-the-Pet-Vet.jpg",
                 "malId": 118030,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "93c53415-dbff-4de4-8c9d-5b7dbb30443a": {
+                "id": 107657,
                 "identifier": "93c53415-dbff-4de4-8c9d-5b7dbb30443a",
                 "image": "https://uploads.mangadex.org/covers/93c53415-dbff-4de4-8c9d-5b7dbb30443a/a84e0fe2-cadd-4d04-be17-6418fbbf69c3.jpg",
                 "malId": 118030,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/93c53415-dbff-4de4-8c9d-5b7dbb30443a"
             }
         },
-        "MangaFire": {
-            "yuzu-no-doubutsu-karute-kochira-wannyan-doubutsu-byouin.w56xo": {
-                "identifier": "yuzu-no-doubutsu-karute-kochira-wannyan-doubutsu-byouin.w56xo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/82a0491b1212a0dccc8f6aa2ebacddb0.jpg",
-                "malId": 118030,
-                "aniId": 105103,
-                "page": "MangaFire",
-                "title": "Yuzu the Pet Vet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuzu-no-doubutsu-karute-kochira-wannyan-doubutsu-byouin.w56xo/"
-            },
-            "w56xo": {
-                "identifier": "w56xo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/82a0491b1212a0dccc8f6aa2ebacddb0.jpg",
-                "malId": 118030,
-                "aniId": 105103,
-                "page": "MangaFire",
-                "title": "Yuzu the Pet Vet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuzu-no-doubutsu-karute-kochira-wannyan-doubutsu-byouin.w56xo/"
-            }
-        },
         "Weebcentral": {
             "01j76xye68sxm14vf7a80at0d4": {
+                "id": 209798,
                 "identifier": "01j76xye68sxm14vf7a80at0d4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE68SXM14VF7A80AT0D4.jpg",
                 "malId": 118030,
@@ -62,6 +43,19 @@
                 "title": "Yuzu the Pet Vet",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE68SXM14VF7A80AT0D4"
+            }
+        },
+        "MangaFire": {
+            "w56xo": {
+                "id": 237233,
+                "identifier": "w56xo",
+                "image": "https://static.mangafire.to/ea0d/i/8/82/82a0491b1212a0dccc8f6aa2ebacddb0.jpg",
+                "malId": 118030,
+                "aniId": 105103,
+                "page": "MangaFire",
+                "title": "Yuzu the Pet Vet",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuzu-no-doubutsu-karute-kochira-wannyan-doubutsu-byouinn.w56xo"
             }
         },
         "Comick": {

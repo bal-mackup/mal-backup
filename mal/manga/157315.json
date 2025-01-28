@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "912dd3eb-80f2-4659-8986-badb32c847c0": {
+                "id": 127724,
                 "identifier": "912dd3eb-80f2-4659-8986-badb32c847c0",
                 "image": "https://uploads.mangadex.org/covers/912dd3eb-80f2-4659-8986-badb32c847c0/93a6de3e-9409-4568-81df-1562fd934595.jpg",
                 "malId": 157315,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-un997796": {
+                "id": 167212,
                 "identifier": "manga-un997796",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/d/15-1733310789-nw.webp",
                 "malId": 157315,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "7-nin-no-nemuri-hime": {
+                "id": 172347,
                 "identifier": "7-nin-no-nemuri-hime",
                 "image": "https://temp.compsci88.com/cover/7-Nin-no-Nemuri-Hime.jpg",
                 "malId": 157315,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/7-Nin-no-Nemuri-Hime"
             }
         },
-        "MangaFire": {
-            "7-nin-no-nemuri-hime.yv9rz": {
-                "identifier": "7-nin-no-nemuri-hime.yv9rz",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ae/aeac48b83d199ba77ab1fc37d59d01ea.jpg",
-                "malId": 157315,
-                "aniId": 163033,
-                "page": "MangaFire",
-                "title": "Seven Sleeping Beauties",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/7-nin-no-nemuri-hime.yv9rz/"
-            },
-            "7-nin-no-nemuri-himee.yv9rz": {
-                "identifier": "7-nin-no-nemuri-himee.yv9rz",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ae/aeac48b83d199ba77ab1fc37d59d01ea.jpg",
-                "malId": 157315,
-                "aniId": 163033,
-                "page": "MangaFire",
-                "title": "Seven Sleeping Beauties",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/7-nin-no-nemuri-himee.yv9rz/"
-            }
-        },
         "MangaFox": {
             "7_nin_no_nemuri_hime": {
+                "id": 194907,
                 "identifier": "7_nin_no_nemuri_hime",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46366/cover.jpg",
                 "malId": 157315,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygk1abpd8pwjyy08tqc2": {
+                "id": 208073,
                 "identifier": "01j76xygk1abpd8pwjyy08tqc2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGK1ABPD8PWJYY08TQC2.jpg",
                 "malId": 157315,
@@ -86,6 +69,19 @@
                 "title": "7-nin no Nemuri Hime",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGK1ABPD8PWJYY08TQC2"
+            }
+        },
+        "MangaFire": {
+            "yv9rz": {
+                "id": 227401,
+                "identifier": "yv9rz",
+                "image": "https://static.mangafire.to/c8ad/i/a/ae/aeac48b83d199ba77ab1fc37d59d01ea.jpg",
+                "malId": 157315,
+                "aniId": 163033,
+                "page": "MangaFire",
+                "title": "Seven Sleeping Beauties",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/7-nin-no-nemuri-himee.yv9rz"
             }
         },
         "Comick": {

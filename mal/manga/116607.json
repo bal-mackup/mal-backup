@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c0c5af02-a3cd-468a-883e-46bda50853d0": {
+                "id": 23567,
                 "identifier": "c0c5af02-a3cd-468a-883e-46bda50853d0",
                 "image": "https://uploads.mangadex.org/covers/c0c5af02-a3cd-468a-883e-46bda50853d0/eccec52d-3522-4255-9b4b-afdd51b11ad9.jpg",
                 "malId": 116607,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "switch-namikiri-atsushi": {
+                "id": 63040,
                 "identifier": "switch-namikiri-atsushi",
                 "image": "https://temp.compsci88.com/cover/Switch-namikiri-Atsushi.jpg",
                 "malId": 116607,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Switch-namikiri-Atsushi"
             }
         },
-        "MangaFire": {
-            "switch3.3rk2r": {
-                "identifier": "switch3.3rk2r",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/476cc2175071c7a2f58a17ae57268da8.jpg",
-                "malId": 116607,
-                "aniId": 105355,
-                "page": "MangaFire",
-                "title": "Switch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/switch3.3rk2r/"
-            },
-            "switch33.3rk2r": {
-                "identifier": "switch33.3rk2r",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/476cc2175071c7a2f58a17ae57268da8.jpg",
-                "malId": 116607,
-                "aniId": 105355,
-                "page": "MangaFire",
-                "title": "Switch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/switch33.3rk2r/"
-            }
-        },
         "Weebcentral": {
             "01j76xycrh8m0m043fy73nz3ez": {
+                "id": 208256,
                 "identifier": "01j76xycrh8m0m043fy73nz3ez",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCRH8M0M043FY73NZ3EZ.jpg",
                 "malId": 116607,
@@ -62,6 +43,19 @@
                 "title": "Switch (NAMIKIRI Atsushi)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCRH8M0M043FY73NZ3EZ"
+            }
+        },
+        "MangaFire": {
+            "3rk2r": {
+                "id": 237584,
+                "identifier": "3rk2r",
+                "image": "https://static.mangafire.to/2eba/i/4/47/476cc2175071c7a2f58a17ae57268da8.jpg",
+                "malId": 116607,
+                "aniId": 105355,
+                "page": "MangaFire",
+                "title": "Switch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/switch33.3rk2r"
             }
         },
         "Comick": {

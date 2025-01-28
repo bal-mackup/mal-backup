@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9ef7698f-9a77-4622-bd7c-a73fcbbc03af": {
+                "id": 20164,
                 "identifier": "9ef7698f-9a77-4622-bd7c-a73fcbbc03af",
                 "image": "https://uploads.mangadex.org/covers/9ef7698f-9a77-4622-bd7c-a73fcbbc03af/d780c99a-9f4a-46ee-99eb-a2f5764a533a.jpg",
                 "malId": 115495,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kuitsume_youhei_no_gensou_kitan": {
+                "id": 58066,
                 "identifier": "kuitsume_youhei_no_gensou_kitan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27843/cover.jpg",
                 "malId": 115495,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kuitsume-youhei-no-gensou-kitan": {
+                "id": 58068,
                 "identifier": "kuitsume-youhei-no-gensou-kitan",
                 "image": "https://temp.compsci88.com/cover/Kuitsume-Youhei-No-Gensou-Kitan.jpg",
                 "malId": 115495,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bw979279": {
+                "id": 74298,
                 "identifier": "manga-bw979279",
                 "image": "https://avt.mkklcdnv6temp.com/35/m/16-1583494743.jpg",
                 "malId": 115495,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bw979279"
             }
         },
-        "MangaFire": {
-            "kuitsume-youhei-no-gensou-kitan.6lrxz": {
-                "identifier": "kuitsume-youhei-no-gensou-kitan.6lrxz",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eeec5e5b229c490d5373d8f11f057407.jpg",
-                "malId": 115495,
-                "aniId": 101568,
-                "page": "MangaFire",
-                "title": "The Strange Adventure of a Broke Mercenary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuitsume-youhei-no-gensou-kitan.6lrxz/"
-            },
-            "kuitsume-youhei-no-gensou-kitann.6lrxz": {
-                "identifier": "kuitsume-youhei-no-gensou-kitann.6lrxz",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eeec5e5b229c490d5373d8f11f057407.jpg",
-                "malId": 115495,
-                "aniId": 101568,
-                "page": "MangaFire",
-                "title": "The Strange Adventure of a Broke Mercenary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuitsume-youhei-no-gensou-kitann.6lrxz/"
-            }
-        },
         "Weebcentral": {
             "01j76xycezaffn7gds7yw2yjsh": {
+                "id": 213024,
                 "identifier": "01j76xycezaffn7gds7yw2yjsh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCEZAFFN7GDS7YW2YJSH.jpg",
                 "malId": 115495,
@@ -86,6 +69,19 @@
                 "title": "The Strange Adventure of a Broke Mercenary",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCEZAFFN7GDS7YW2YJSH"
+            }
+        },
+        "MangaFire": {
+            "6lrxz": {
+                "id": 224852,
+                "identifier": "6lrxz",
+                "image": "https://static.mangafire.to/050f/i/e/ee/eeec5e5b229c490d5373d8f11f057407.jpg",
+                "malId": 115495,
+                "aniId": 101568,
+                "page": "MangaFire",
+                "title": "The Strange Adventure of a Broke Mercenary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuitsume-youhei-no-gensou-kitann.6lrxz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "06f6356a-4511-4bbd-a97b-4c609b9f7959": {
+                "id": 95414,
                 "identifier": "06f6356a-4511-4bbd-a97b-4c609b9f7959",
                 "image": "https://uploads.mangadex.org/covers/06f6356a-4511-4bbd-a97b-4c609b9f7959/8e9b8b9d-5095-4a1e-a2a1-07ba0414beeb.jpg",
                 "malId": 144240,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pd992786": {
+                "id": 116430,
                 "identifier": "manga-pd992786",
                 "image": "https://avt.mkklcdnv6temp.com/16/k/30-1679850323.jpg",
                 "malId": 144240,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-pd992786"
             }
         },
-        "MangaFire": {
-            "ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-nai.mxpx": {
-                "identifier": "ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-nai.mxpx",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca6db8572269ce3bbf9858b95e7b19bd.jpg",
-                "malId": 144240,
-                "aniId": 139323,
-                "page": "MangaFire",
-                "title": "My Plain-looking Fiance is Secretly Sweet with Me.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-nai.mxpx/"
-            },
-            "ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-naii.mxpx": {
-                "identifier": "ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-naii.mxpx",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca6db8572269ce3bbf9858b95e7b19bd.jpg",
-                "malId": 144240,
-                "aniId": 139323,
-                "page": "MangaFire",
-                "title": "My Plain-looking Fiance is Secretly Sweet with Me.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-naii.mxpx/"
-            }
-        },
         "MangaSee": {
             "ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-nai": {
+                "id": 156134,
                 "identifier": "ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-nai",
                 "image": "https://temp.compsci88.com/cover/Ore-no-Iinazuke-ni-Natta-Jimiko-Ie-de-wa-Kawaii-Shika-nai.jpg",
                 "malId": 144240,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg452vqhfp6x83dkpj0q": {
+                "id": 213666,
                 "identifier": "01j76xyg452vqhfp6x83dkpj0q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG452VQHFP6X83DKPJ0Q.jpg",
                 "malId": 144240,
@@ -74,6 +56,19 @@
                 "title": "Ore no Iinazuke ni Natta Jimiko, Ie de wa Kawaii Shika nai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG452VQHFP6X83DKPJ0Q"
+            }
+        },
+        "MangaFire": {
+            "mxpx": {
+                "id": 225064,
+                "identifier": "mxpx",
+                "image": "https://static.mangafire.to/8c31/i/c/ca/ca6db8572269ce3bbf9858b95e7b19bd.jpg",
+                "malId": 144240,
+                "aniId": 139323,
+                "page": "MangaFire",
+                "title": "My Plain-looking Fiance is Secretly Sweet with Me.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-no-iinazuke-ni-natta-jimiko-ie-de-wa-kawaii-shika-naii.mxpx"
             }
         },
         "Comick": {

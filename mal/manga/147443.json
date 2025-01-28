@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7cc6c48f-ba3a-4b7a-8817-8ae28204e9e8": {
+                "id": 8523,
                 "identifier": "7cc6c48f-ba3a-4b7a-8817-8ae28204e9e8",
                 "image": "https://uploads.mangadex.org/covers/7cc6c48f-ba3a-4b7a-8817-8ae28204e9e8/6a70d559-079a-47f1-ba42-16a2df8628fa.png",
                 "malId": 147443,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "d-i-c-e-the-cube-that-changes-everything": {
+                "id": 56456,
                 "identifier": "d-i-c-e-the-cube-that-changes-everything",
                 "image": "https://temp.compsci88.com/cover/D-I-C-E-The-Cube-That-Changes-Everything.jpg",
                 "malId": 147443,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dice_the_cube_that_changes_everything": {
+                "id": 57015,
                 "identifier": "dice_the_cube_that_changes_everything",
                 "image": "https://fmcdn.mfcdn.net/store/manga/12592/cover.jpg",
                 "malId": 147443,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/dice_the_cube_that_changes_everything/"
             },
             "dice_yun_hyunseok": {
+                "id": 67622,
                 "identifier": "dice_yun_hyunseok",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32880/cover.jpg",
                 "malId": 147443,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-qi953043": {
+                "id": 74060,
                 "identifier": "manga-qi953043",
                 "image": "https://avt.mkklcdnv6temp.com/10/a/2-1583466089.jpg",
                 "malId": 147443,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-qi953043"
             }
         },
-        "MangaFire": {
-            "dice2.vrnl": {
-                "identifier": "dice2.vrnl",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77ce21dca5306bb6667301dfbcb8dd64.jpg",
-                "malId": 147443,
-                "aniId": 85208,
-                "page": "MangaFire",
-                "title": "DICE: The Cube that Changes Everything",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dice2.vrnl/"
-            },
-            "dice22.vrnl": {
-                "identifier": "dice22.vrnl",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77ce21dca5306bb6667301dfbcb8dd64.jpg",
-                "malId": 147443,
-                "aniId": 85208,
-                "page": "MangaFire",
-                "title": "DICE: The Cube that Changes Everything",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dice22.vrnl/"
-            }
-        },
         "Weebcentral": {
             "01j76xy8t2jh0m0dmybq2ztsjg": {
+                "id": 210623,
                 "identifier": "01j76xy8t2jh0m0dmybq2ztsjg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY8T2JH0M0DMYBQ2ZTSJG.jpg",
                 "malId": 147443,
@@ -96,6 +80,19 @@
                 "title": "DICE",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY8T2JH0M0DMYBQ2ZTSJG"
+            }
+        },
+        "MangaFire": {
+            "vrnl": {
+                "id": 228980,
+                "identifier": "vrnl",
+                "image": "https://static.mangafire.to/bdf3/i/7/77/77ce21dca5306bb6667301dfbcb8dd64.jpg",
+                "malId": 147443,
+                "aniId": 85208,
+                "page": "MangaFire",
+                "title": "DICE: The Cube that Changes Everything",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dice22.vrnl"
             }
         },
         "Comick": {

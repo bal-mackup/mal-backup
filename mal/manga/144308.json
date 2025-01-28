@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fdfa6ff7-05a3-45da-9565-9d4029b9f25c": {
+                "id": 96471,
                 "identifier": "fdfa6ff7-05a3-45da-9565-9d4029b9f25c",
                 "image": "https://uploads.mangadex.org/covers/fdfa6ff7-05a3-45da-9565-9d4029b9f25c/97bc84c2-b2d4-4dc6-883e-72fb5029e705.jpg",
                 "malId": 144308,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "earthchild": {
+                "id": 96879,
                 "identifier": "earthchild",
                 "image": "https://temp.compsci88.com/cover/Earthchild.jpg",
                 "malId": 144308,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "chikyuu_no_ko": {
+                "id": 102094,
                 "identifier": "chikyuu_no_ko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41869/cover.jpg",
                 "malId": 144308,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-nb990910": {
+                "id": 105902,
                 "identifier": "manga-nb990910",
                 "image": "https://avt.mkklcdnv6temp.com/43/v/25-1653916597.jpg",
                 "malId": 144308,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-nb990910"
             }
         },
-        "MangaFire": {
-            "chikyuu-no-ko.n3roj": {
-                "identifier": "chikyuu-no-ko.n3roj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69773f3628e65becd1981031f81d4d5c.jpg",
-                "malId": 144308,
-                "aniId": 144861,
-                "page": "MangaFire",
-                "title": "Earthchild",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikyuu-no-ko.n3roj/"
-            },
-            "chikyuu-no-koo.n3roj": {
-                "identifier": "chikyuu-no-koo.n3roj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69773f3628e65becd1981031f81d4d5c.jpg",
-                "malId": 144308,
-                "aniId": 144861,
-                "page": "MangaFire",
-                "title": "Earthchild",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikyuu-no-koo.n3roj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfbg7bw3wxp6prsfbend": {
+                "id": 209763,
                 "identifier": "01j76xyfbg7bw3wxp6prsfbend",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFBG7BW3WXP6PRSFBEND.jpg",
                 "malId": 144308,
@@ -86,6 +69,19 @@
                 "title": "Earthchild",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFBG7BW3WXP6PRSFBEND"
+            }
+        },
+        "MangaFire": {
+            "n3roj": {
+                "id": 250040,
+                "identifier": "n3roj",
+                "image": "https://static.mangafire.to/f20d/i/6/69/69773f3628e65becd1981031f81d4d5c.jpg",
+                "malId": 144308,
+                "aniId": 144861,
+                "page": "MangaFire",
+                "title": "Earthchild",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chikyuu-no-koo.n3roj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f87a70af-0e37-4eef-a597-93e4d3ef320f": {
+                "id": 31751,
                 "identifier": "f87a70af-0e37-4eef-a597-93e4d3ef320f",
                 "image": "https://uploads.mangadex.org/covers/f87a70af-0e37-4eef-a597-93e4d3ef320f/8b14932d-f3cb-4b78-b75e-b38ef7c5ca93.jpg",
                 "malId": 122835,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pokemon-journeys": {
+                "id": 92602,
                 "identifier": "pokemon-journeys",
                 "image": "https://temp.compsci88.com/cover/Pokemon-Journeys.jpg",
                 "malId": 122835,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Pokemon-Journeys"
             }
         },
-        "MangaFire": {
-            "pokemon-journeys-the-story-of-satoshi-and-gou.n39vj": {
-                "identifier": "pokemon-journeys-the-story-of-satoshi-and-gou.n39vj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e39821a19f5bf4f2b1906ace465f87e1.jpg",
-                "malId": 122835,
-                "aniId": 113388,
-                "page": "MangaFire",
-                "title": "Pokémon Journeys: The Series",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pokemon-journeys-the-story-of-satoshi-and-gou.n39vj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf6kpaat364gr52erv0r": {
+                "id": 212158,
                 "identifier": "01j76xyf6kpaat364gr52erv0r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF6KPAAT364GR52ERV0R.jpg",
                 "malId": 122835,
@@ -52,6 +43,19 @@
                 "title": "Pokémon Journeys",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF6KPAAT364GR52ERV0R"
+            }
+        },
+        "MangaFire": {
+            "n39vj": {
+                "id": 253394,
+                "identifier": "n39vj",
+                "image": "https://static.mangafire.to/ffc9/i/e/e3/e39821a19f5bf4f2b1906ace465f87e1.jpg",
+                "malId": 122835,
+                "aniId": 113388,
+                "page": "MangaFire",
+                "title": "Pokémon Journeys: The Series",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pokemon-journeys-the-story-of-satoshi-and-gouu.n39vj"
             }
         },
         "Comick": {

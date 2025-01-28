@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3d106078-47c8-469a-9f64-a9777070ccb6": {
+                "id": 13776,
                 "identifier": "3d106078-47c8-469a-9f64-a9777070ccb6",
                 "image": "https://uploads.mangadex.org/covers/3d106078-47c8-469a-9f64-a9777070ccb6/9a4fbd8d-f077-43f2-ba82-183097a1e4de.jpg",
                 "malId": 92859,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/3d106078-47c8-469a-9f64-a9777070ccb6"
             },
             "88357d80-c33a-428a-ad1c-d3030c6bf183": {
+                "id": 37729,
                 "identifier": "88357d80-c33a-428a-ad1c-d3030c6bf183",
                 "image": "https://uploads.mangadex.org/covers/88357d80-c33a-428a-ad1c-d3030c6bf183/9da5f15a-335b-4576-9d97-290fbc814663.png",
                 "malId": 92859,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "noboru-kotera-san": {
+                "id": 63467,
                 "identifier": "noboru-kotera-san",
                 "image": "https://temp.compsci88.com/cover/Noboru-Kotera-San.jpg",
                 "malId": 92859,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-yb953836": {
+                "id": 119939,
                 "identifier": "manga-yb953836",
                 "image": "https://avt.mkklcdnv6temp.com/fld/89/n/1-1732720029-nw.webp",
                 "malId": 92859,
@@ -52,30 +56,9 @@
                 "url": "https://manganato.com/manga-yb953836"
             }
         },
-        "MangaFire": {
-            "noboru-kotera-san.xr828": {
-                "identifier": "noboru-kotera-san.xr828",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95af8a2dc844552080754623b8ec2ba4.jpg",
-                "malId": 92859,
-                "aniId": 95953,
-                "page": "MangaFire",
-                "title": "Kotera-san climbs!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/noboru-kotera-san.xr828/"
-            },
-            "xr828": {
-                "identifier": "xr828",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95af8a2dc844552080754623b8ec2ba4.jpg",
-                "malId": 92859,
-                "aniId": 95953,
-                "page": "MangaFire",
-                "title": "Kotera-san climbs!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/noboru-kotera-san.xr828/"
-            }
-        },
         "MangaFox": {
             "noboru_kotera_san": {
+                "id": 180208,
                 "identifier": "noboru_kotera_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16897/cover.jpg",
                 "malId": 92859,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xybdffzrh5wfdmv8bz89j": {
+                "id": 213854,
                 "identifier": "01j76xybdffzrh5wfdmv8bz89j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBDFFZRH5WFDMV8BZ89J.jpg",
                 "malId": 92859,
@@ -96,6 +80,19 @@
                 "title": "Noboru Kotera-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBDFFZRH5WFDMV8BZ89J"
+            }
+        },
+        "MangaFire": {
+            "xr828": {
+                "id": 259793,
+                "identifier": "xr828",
+                "image": "https://static.mangafire.to/2a2b/i/9/95/95af8a2dc844552080754623b8ec2ba4.jpg",
+                "malId": 92859,
+                "aniId": 95953,
+                "page": "MangaFire",
+                "title": "Kotera-san climbs!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/noboru-kotera-sann.xr828"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c3e37161-3c45-4e81-89cc-7b2353617ca9": {
+                "id": 17743,
                 "identifier": "c3e37161-3c45-4e81-89cc-7b2353617ca9",
                 "image": "https://uploads.mangadex.org/covers/c3e37161-3c45-4e81-89cc-7b2353617ca9/5b9ed2d6-95a4-4a1c-ac12-68e0b23da822.jpg",
                 "malId": 107035,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-goumon-hime": {
+                "id": 60735,
                 "identifier": "isekai-goumon-hime",
                 "image": "https://temp.compsci88.com/cover/Isekai-Goumon-Hime.jpg",
                 "malId": 107035,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_goumon_hime": {
+                "id": 63650,
                 "identifier": "isekai_goumon_hime",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25401/cover.jpg",
                 "malId": 107035,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zn976548": {
+                "id": 74647,
                 "identifier": "manga-zn976548",
                 "image": "https://avt.mkklcdnv6temp.com/27/b/15-1583492430.jpg",
                 "malId": 107035,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zn976548"
             }
         },
-        "MangaFire": {
-            "isekai-goumon-hime.xrklw": {
-                "identifier": "isekai-goumon-hime.xrklw",
-                "image": "https://static.mangafire.to/3b2d5/i/3/34/3413c0429ed7c8f8a970e644a9efba20.jpg",
-                "malId": 107035,
-                "aniId": 99409,
-                "page": "MangaFire",
-                "title": "Torture Princess: Fremd Torturchen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-goumon-hime.xrklw/"
-            },
-            "isekai-goumon-himee.xrklw": {
-                "identifier": "isekai-goumon-himee.xrklw",
-                "image": "https://static.mangafire.to/3b2d5/i/3/34/3413c0429ed7c8f8a970e644a9efba20.jpg",
-                "malId": 107035,
-                "aniId": 99409,
-                "page": "MangaFire",
-                "title": "Torture Princess: Fremd Torturchen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-goumon-himee.xrklw/"
-            }
-        },
         "Weebcentral": {
             "01j76xycck1e3kzr1awph192jg": {
+                "id": 208223,
                 "identifier": "01j76xycck1e3kzr1awph192jg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCCK1E3KZR1AWPH192JG.jpg",
                 "malId": 107035,
@@ -86,6 +69,19 @@
                 "title": "Torture Princess - Fremd Torturchen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCCK1E3KZR1AWPH192JG"
+            }
+        },
+        "MangaFire": {
+            "xrklw": {
+                "id": 239381,
+                "identifier": "xrklw",
+                "image": "https://static.mangafire.to/7ec5/i/3/34/3413c0429ed7c8f8a970e644a9efba20.jpg",
+                "malId": 107035,
+                "aniId": 99409,
+                "page": "MangaFire",
+                "title": "Torture Princess: Fremd Torturchen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-goumon-himee.xrklw"
             }
         },
         "Comick": {

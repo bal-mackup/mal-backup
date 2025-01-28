@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3728dacd-5df3-46a9-9e1d-aa8f88a08cbe": {
+                "id": 32059,
                 "identifier": "3728dacd-5df3-46a9-9e1d-aa8f88a08cbe",
                 "image": "https://uploads.mangadex.org/covers/3728dacd-5df3-46a9-9e1d-aa8f88a08cbe/c31adf37-6ec1-4b14-995f-53ab82321489.jpg",
                 "malId": 123078,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "zipman": {
+                "id": 67663,
                 "identifier": "zipman",
                 "image": "https://temp.compsci88.com/cover/Zipman.jpg",
                 "malId": 123078,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-go983871": {
+                "id": 80008,
                 "identifier": "manga-go983871",
                 "image": "https://avt.mkklcdnv6temp.com/4/y/20-1583501188.jpg",
                 "malId": 123078,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-go983871"
             }
         },
-        "MangaFire": {
-            "zipman.zlk6m": {
-                "identifier": "zipman.zlk6m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/625c884bad60d87a09e28e412f4b4182.jpg",
-                "malId": 123078,
-                "aniId": 113512,
-                "page": "MangaFire",
-                "title": "Zipman!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zipman.zlk6m/"
-            },
-            "zipmann.zlk6m": {
-                "identifier": "zipmann.zlk6m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/625c884bad60d87a09e28e412f4b4182.jpg",
-                "malId": 123078,
-                "aniId": 113512,
-                "page": "MangaFire",
-                "title": "Zipman!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zipmann.zlk6m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd977f8swbv519pf250r": {
+                "id": 208713,
                 "identifier": "01j76xyd977f8swbv519pf250r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD977F8SWBV519PF250R.jpg",
                 "malId": 123078,
@@ -74,6 +56,19 @@
                 "title": "ZIPMAN!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD977F8SWBV519PF250R"
+            }
+        },
+        "MangaFire": {
+            "zlk6m": {
+                "id": 226760,
+                "identifier": "zlk6m",
+                "image": "https://static.mangafire.to/07c9/i/6/62/625c884bad60d87a09e28e412f4b4182.jpg",
+                "malId": 123078,
+                "aniId": 113512,
+                "page": "MangaFire",
+                "title": "Zipman!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zipmann.zlk6m"
             }
         },
         "Comick": {

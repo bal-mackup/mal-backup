@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f1b8344f-c01d-40eb-9462-e61aa68f7848": {
+                "id": 27532,
                 "identifier": "f1b8344f-c01d-40eb-9462-e61aa68f7848",
                 "image": "https://uploads.mangadex.org/covers/f1b8344f-c01d-40eb-9462-e61aa68f7848/cc2d9758-4f13-4fb7-8f12-810e25ad66f7.jpg",
                 "malId": 148104,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lucia": {
+                "id": 70854,
                 "identifier": "lucia",
                 "image": "https://temp.compsci88.com/cover/Lucia.jpg",
                 "malId": 148104,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fe982561": {
+                "id": 74923,
                 "identifier": "manga-fe982561",
                 "image": "https://avt.mkklcdnv6temp.com/6/f/19-1583499317.jpg",
                 "malId": 148104,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "lucia_taruvi": {
+                "id": 83513,
                 "identifier": "lucia_taruvi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30950/cover.jpg",
                 "malId": 148104,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/lucia_taruvi/"
             }
         },
-        "MangaFire": {
-            "lucia.pjnrq": {
-                "identifier": "lucia.pjnrq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5e187b2902ea63f455fff45984aa950b.jpg",
-                "malId": 148104,
-                "aniId": 109438,
-                "page": "MangaFire",
-                "title": "Lucia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lucia.pjnrq/"
-            },
-            "luciaa.pjnrq": {
-                "identifier": "luciaa.pjnrq",
-                "image": "https://static.mangafire.to/b68e/i/5/5e/5e187b2902ea63f455fff45984aa950b.jpg",
-                "malId": 148104,
-                "aniId": 109438,
-                "page": "MangaFire",
-                "title": "Lucia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/luciaa.pjnrq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyepb5nbc1xasv84h7k3m": {
+                "id": 212530,
                 "identifier": "01j76xyepb5nbc1xasv84h7k3m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPB5NBC1XASV84H7K3M.jpg",
                 "malId": 148104,
@@ -86,6 +69,19 @@
                 "title": "Lucia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPB5NBC1XASV84H7K3M"
+            }
+        },
+        "MangaFire": {
+            "pjnrq": {
+                "id": 223163,
+                "identifier": "pjnrq",
+                "image": "https://static.mangafire.to/b68e/i/5/5e/5e187b2902ea63f455fff45984aa950b.jpg",
+                "malId": 148104,
+                "aniId": 109438,
+                "page": "MangaFire",
+                "title": "Lucia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/luciaa.pjnrq"
             }
         },
         "Comick": {

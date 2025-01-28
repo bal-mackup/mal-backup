@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3080a5e2-abc1-4682-92f5-7429428bc198": {
+                "id": 28220,
                 "identifier": "3080a5e2-abc1-4682-92f5-7429428bc198",
                 "image": "https://uploads.mangadex.org/covers/3080a5e2-abc1-4682-92f5-7429428bc198/9d9fa54b-4cff-4d5f-93de-a7390a571aae.png",
                 "malId": 146750,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "pigpen": {
+                "id": 66265,
                 "identifier": "pigpen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30767/cover.jpg",
                 "malId": 146750,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ef982288": {
+                "id": 74965,
                 "identifier": "manga-ef982288",
                 "image": "https://avt.mkklcdnv6temp.com/46/d/18-1583498891.jpg",
                 "malId": 146750,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ef982288"
             }
         },
-        "MangaFire": {
-            "dwaejiuri.rljly": {
-                "identifier": "dwaejiuri.rljly",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2fa973af877c82a76885b22555cf9054.jpg",
-                "malId": 146750,
-                "aniId": 108952,
-                "page": "MangaFire",
-                "title": "PIGPEN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dwaejiuri.rljly/"
-            },
-            "dwaejiurii.rljly": {
-                "identifier": "dwaejiurii.rljly",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2fa973af877c82a76885b22555cf9054.jpg",
-                "malId": 146750,
-                "aniId": 108952,
-                "page": "MangaFire",
-                "title": "PIGPEN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dwaejiurii.rljly/"
-            }
-        },
         "MangaSee": {
             "pigpen": {
+                "id": 180959,
                 "identifier": "pigpen",
                 "image": "https://temp.compsci88.com/cover/PIGPEN.jpg",
                 "malId": 146750,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygxrhtj8jp6aymbb57cz": {
+                "id": 213424,
                 "identifier": "01j76xygxrhtj8jp6aymbb57cz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXRHTJ8JP6AYMBB57CZ.jpg",
                 "malId": 146750,
@@ -86,6 +69,19 @@
                 "title": "PIGPEN",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXRHTJ8JP6AYMBB57CZ"
+            }
+        },
+        "MangaFire": {
+            "rljly": {
+                "id": 229018,
+                "identifier": "rljly",
+                "image": "https://static.mangafire.to/c7b5/i/2/2f/2fa973af877c82a76885b22555cf9054.jpg",
+                "malId": 146750,
+                "aniId": 108952,
+                "page": "MangaFire",
+                "title": "PIGPEN",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dwaejiurii.rljly"
             }
         },
         "Comick": {

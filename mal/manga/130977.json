@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a0d3c6e-a5d4-4f61-ae5c-fcff2a789145": {
+                "id": 52415,
                 "identifier": "6a0d3c6e-a5d4-4f61-ae5c-fcff2a789145",
                 "image": "https://uploads.mangadex.org/covers/6a0d3c6e-a5d4-4f61-ae5c-fcff2a789145/2029e117-3899-4d8d-968a-cf4cb6540095.jpg",
                 "malId": 130977,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "build-king": {
+                "id": 62549,
                 "identifier": "build-king",
                 "image": "https://temp.compsci88.com/cover/Build-King.jpg",
                 "malId": 130977,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Build-King"
             }
         },
-        "MangaFire": {
-            "build-king.mqyn8": {
-                "identifier": "build-king.mqyn8",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0c89056a0dea0c18af3e162858afe80d.jpg",
-                "malId": 130977,
-                "aniId": 125829,
-                "page": "MangaFire",
-                "title": "Build King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/build-king.mqyn8/"
-            }
-        },
         "Weebcentral": {
             "01j76xye2zywkfa0m7asjyrhf1": {
+                "id": 208913,
                 "identifier": "01j76xye2zywkfa0m7asjyrhf1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE2ZYWKFA0M7ASJYRHF1.jpg",
                 "malId": 130977,
@@ -52,6 +43,19 @@
                 "title": "Build King",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE2ZYWKFA0M7ASJYRHF1"
+            }
+        },
+        "MangaFire": {
+            "mqyn8": {
+                "id": 262267,
+                "identifier": "mqyn8",
+                "image": "https://static.mangafire.to/0059/i/0/0c/0c89056a0dea0c18af3e162858afe80d.jpg",
+                "malId": 130977,
+                "aniId": 125829,
+                "page": "MangaFire",
+                "title": "Build King",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/build-kingg.mqyn8"
             }
         },
         "Comick": {

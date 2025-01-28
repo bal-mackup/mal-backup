@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mv989756": {
+                "id": 88201,
                 "identifier": "manga-mv989756",
                 "image": "https://avt.mkklcdnv6temp.com/45/f/24-1633684339.jpg",
                 "malId": 140330,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "im-in-love-with-the-older-girl-next-door": {
+                "id": 88890,
                 "identifier": "im-in-love-with-the-older-girl-next-door",
                 "image": "https://temp.compsci88.com/cover/Im-in-Love-with-the-Older-Girl-Next-Door.jpg",
                 "malId": 140330,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "90be0dde-350d-4f0e-ba83-da4ba05dbc37": {
+                "id": 90349,
                 "identifier": "90be0dde-350d-4f0e-ba83-da4ba05dbc37",
                 "image": "https://uploads.mangadex.org/covers/90be0dde-350d-4f0e-ba83-da4ba05dbc37/b82b1710-e5cb-4fa1-8ad7-87eb07646a2a.png",
                 "malId": 140330,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tonari_no_onee_san_ga_suki": {
+                "id": 124505,
                 "identifier": "tonari_no_onee_san_ga_suki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41865/cover.jpg",
                 "malId": 140330,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/tonari_no_onee_san_ga_suki/"
             }
         },
-        "MangaFire": {
-            "tonari-no-onee-san-ga-suki.zl2ml": {
-                "identifier": "tonari-no-onee-san-ga-suki.zl2ml",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e30ace9fabe572adfe274578e45188bf.jpg",
-                "malId": 140330,
-                "aniId": 138373,
-                "page": "MangaFire",
-                "title": "I Love The Older Girl Next Door.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonari-no-onee-san-ga-suki.zl2ml/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf42yzk69d3x127sts8h": {
+                "id": 208037,
                 "identifier": "01j76xyf42yzk69d3x127sts8h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF42YZK69D3X127STS8H.jpg",
                 "malId": 140330,
@@ -76,6 +69,19 @@
                 "title": "I'm in Love With the Older Girl Next Door",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF42YZK69D3X127STS8H"
+            }
+        },
+        "MangaFire": {
+            "zl2ml": {
+                "id": 259931,
+                "identifier": "zl2ml",
+                "image": "https://static.mangafire.to/131c/i/e/e3/e30ace9fabe572adfe274578e45188bf.jpg",
+                "malId": 140330,
+                "aniId": 138373,
+                "page": "MangaFire",
+                "title": "I Love The Older Girl Next Door.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tonari-no-onee-san-ga-sukii.zl2ml"
             }
         },
         "Comick": {

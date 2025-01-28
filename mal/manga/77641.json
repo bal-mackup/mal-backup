@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "70b5170b-7331-4057-ac41-74392f99a435": {
+                "id": 11082,
                 "identifier": "70b5170b-7331-4057-ac41-74392f99a435",
                 "image": "https://uploads.mangadex.org/covers/70b5170b-7331-4057-ac41-74392f99a435/cb1f3212-992b-4fca-b1cb-a68952c5a247.jpg",
                 "malId": 77641,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "myuun-i": {
+                "id": 57927,
                 "identifier": "myuun-i",
                 "image": "https://temp.compsci88.com/cover/Myuun-I.jpg",
                 "malId": 77641,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "myuu_and_i": {
+                "id": 66874,
                 "identifier": "myuu_and_i",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14090/cover.jpg",
                 "malId": 77641,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-we953561": {
+                "id": 92292,
                 "identifier": "manga-we953561",
                 "image": "https://avt.mkklcdnv6temp.com/fld/79/y/1-1732719611-nw.webp",
                 "malId": 77641,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-we953561"
             }
         },
-        "MangaFire": {
-            "myuu-i.q4wn": {
-                "identifier": "myuu-i.q4wn",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/8246b8df2fca77cacb2a3aaecada6f98.jpg",
-                "malId": 77641,
-                "aniId": 85638,
-                "page": "MangaFire",
-                "title": "Myuu & I",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/myuu-i.q4wn/"
-            },
-            "q4wn": {
-                "identifier": "q4wn",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/8246b8df2fca77cacb2a3aaecada6f98.jpg",
-                "malId": 77641,
-                "aniId": 85638,
-                "page": "MangaFire",
-                "title": "Myuu & I",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/myuu-i.q4wn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaqymyh3ehdbpmy21t3b": {
+                "id": 208461,
                 "identifier": "01j76xyaqymyh3ehdbpmy21t3b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAQYMYH3EHDBPMY21T3B.jpg",
                 "malId": 77641,
@@ -86,6 +69,19 @@
                 "title": "μ & i",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAQYMYH3EHDBPMY21T3B"
+            }
+        },
+        "MangaFire": {
+            "q4wn": {
+                "id": 251050,
+                "identifier": "q4wn",
+                "image": "https://static.mangafire.to/cd9d/i/8/82/8246b8df2fca77cacb2a3aaecada6f98.jpg",
+                "malId": 77641,
+                "aniId": 85638,
+                "page": "MangaFire",
+                "title": "Myuu & I",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/myuu-ii.q4wn"
             }
         },
         "Comick": {

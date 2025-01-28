@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "468fe172-ddc6-4e7e-865c-03fe20869607": {
+                "id": 11511,
                 "identifier": "468fe172-ddc6-4e7e-865c-03fe20869607",
                 "image": "https://uploads.mangadex.org/covers/468fe172-ddc6-4e7e-865c-03fe20869607/c3ae7707-5c02-42a4-8ccb-225fcecb30c5.jpg",
                 "malId": 72583,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "q-s-h-i-h-i-r-a-tatsuya": {
+                "id": 56320,
                 "identifier": "q-s-h-i-h-i-r-a-tatsuya",
                 "image": "https://temp.compsci88.com/cover/Q-S-H-I-H-I-R-A-Tatsuya.jpg",
                 "malId": 72583,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Q-S-H-I-H-I-R-A-Tatsuya"
             }
         },
-        "MangaFire": {
-            "q.xj8j8": {
-                "identifier": "q.xj8j8",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/278a02e07336f76c3ff9575f510dcac8.jpg",
-                "malId": 72583,
-                "aniId": 86642,
-                "page": "MangaFire",
-                "title": "Q",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/q.xj8j8/"
-            },
-            "xj8j8": {
-                "identifier": "xj8j8",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/278a02e07336f76c3ff9575f510dcac8.jpg",
-                "malId": 72583,
-                "aniId": 86642,
-                "page": "MangaFire",
-                "title": "Q",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/q.xj8j8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyark96kq7jdvczrek0mc": {
+                "id": 206093,
                 "identifier": "01j76xyark96kq7jdvczrek0mc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYARK96KQ7JDVCZREK0MC.jpg",
                 "malId": 72583,
@@ -62,6 +43,19 @@
                 "title": "Q (SHIHIRA Tatsuya)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYARK96KQ7JDVCZREK0MC"
+            }
+        },
+        "MangaFire": {
+            "xj8j8": {
+                "id": 250612,
+                "identifier": "xj8j8",
+                "image": "https://static.mangafire.to/493e/i/2/27/278a02e07336f76c3ff9575f510dcac8.jpg",
+                "malId": 72583,
+                "aniId": 86642,
+                "page": "MangaFire",
+                "title": "Q",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/qq.xj8j8"
             }
         },
         "Comick": {

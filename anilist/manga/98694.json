@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a7743106-23b9-405e-a5a1-99854e4948ec": {
+                "id": 17628,
                 "identifier": "a7743106-23b9-405e-a5a1-99854e4948ec",
                 "image": "https://uploads.mangadex.org/covers/a7743106-23b9-405e-a5a1-99854e4948ec/e3e18d46-405b-457c-ae04-530a2e45fd81.jpg",
                 "malId": 95377,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ayakashiko": {
+                "id": 56571,
                 "identifier": "ayakashiko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25113/cover.jpg",
                 "malId": 95377,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ayakashiko": {
+                "id": 69387,
                 "identifier": "ayakashiko",
                 "image": "https://temp.compsci88.com/cover/Ayakashiko.jpg",
                 "malId": 95377,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ye976187": {
+                "id": 77573,
                 "identifier": "manga-ye976187",
                 "image": "https://avt.mkklcdnv6temp.com/22/h/15-1583492259.jpg",
                 "malId": 95377,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-ye976187"
             }
         },
-        "MangaFire": {
-            "ayakashiko.rlxpy": {
-                "identifier": "ayakashiko.rlxpy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9e6d60c32bcd2a15d7d5944aab44b99.jpg",
-                "malId": 95377,
-                "aniId": 98694,
-                "page": "MangaFire",
-                "title": "Ayakashiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayakashiko.rlxpy/"
-            },
-            "ayakashikoo.rlxpy": {
-                "identifier": "ayakashikoo.rlxpy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9e6d60c32bcd2a15d7d5944aab44b99.jpg",
-                "malId": 95377,
-                "aniId": 98694,
-                "page": "MangaFire",
-                "title": "Ayakashiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayakashikoo.rlxpy/"
-            },
-            "rlxpy": {
-                "identifier": "rlxpy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9e6d60c32bcd2a15d7d5944aab44b99.jpg",
-                "malId": 95377,
-                "aniId": 98694,
-                "page": "MangaFire",
-                "title": "Ayakashiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayakashikoo.rlxpy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8fws68423pm3g5282s": {
+                "id": 206421,
                 "identifier": "01j76xyc8fws68423pm3g5282s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8FWS68423PM3G5282S.jpg",
                 "malId": 95377,
@@ -96,6 +69,19 @@
                 "title": "Ayakashiko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8FWS68423PM3G5282S"
+            }
+        },
+        "MangaFire": {
+            "rlxpy": {
+                "id": 226469,
+                "identifier": "rlxpy",
+                "image": "https://static.mangafire.to/8b90/i/a/a9/a9e6d60c32bcd2a15d7d5944aab44b99.jpg",
+                "malId": 95377,
+                "aniId": 98694,
+                "page": "MangaFire",
+                "title": "Ayakashiko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ayakashikoo.rlxpy"
             }
         },
         "Comick": {

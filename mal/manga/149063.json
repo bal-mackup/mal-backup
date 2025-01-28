@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "updater": {
+                "id": 69037,
                 "identifier": "updater",
                 "image": "https://temp.compsci88.com/cover/Updater.jpg",
                 "malId": 149063,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lt988776": {
+                "id": 74157,
                 "identifier": "manga-lt988776",
                 "image": "https://avt.mkklcdnv6temp.com/3/b/24-1617863821.jpg",
                 "malId": 149063,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "updater": {
+                "id": 85127,
                 "identifier": "updater",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38676/cover.jpg",
                 "malId": 149063,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "2528b57f-7b93-447b-82ba-0285f66ddd06": {
+                "id": 105980,
                 "identifier": "2528b57f-7b93-447b-82ba-0285f66ddd06",
                 "image": "https://uploads.mangadex.org/covers/2528b57f-7b93-447b-82ba-0285f66ddd06/65428692-c64b-4b1b-b725-9152b66b445c.jpg",
                 "malId": 149063,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/2528b57f-7b93-447b-82ba-0285f66ddd06"
             }
         },
-        "MangaFire": {
-            "updater.0rn19": {
-                "identifier": "updater.0rn19",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d0b3e81ab6204760039da6166c7ee8d7.jpg",
-                "malId": 149063,
-                "aniId": 132128,
-                "page": "MangaFire",
-                "title": "Updater",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/updater.0rn19/"
-            },
-            "updaterr.0rn19": {
-                "identifier": "updaterr.0rn19",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d0b3e81ab6204760039da6166c7ee8d7.jpg",
-                "malId": 149063,
-                "aniId": 132128,
-                "page": "MangaFire",
-                "title": "Updater",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/updaterr.0rn19/"
-            }
-        },
         "Weebcentral": {
             "01j76xyek5mp2epa1rwm0s154f": {
+                "id": 211726,
                 "identifier": "01j76xyek5mp2epa1rwm0s154f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEK5MP2EPA1RWM0S154F.jpg",
                 "malId": 149063,
@@ -86,6 +69,19 @@
                 "title": "Updater",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEK5MP2EPA1RWM0S154F"
+            }
+        },
+        "MangaFire": {
+            "0rn19": {
+                "id": 228175,
+                "identifier": "0rn19",
+                "image": "https://static.mangafire.to/e3a7/i/d/d0/d0b3e81ab6204760039da6166c7ee8d7.jpg",
+                "malId": 149063,
+                "aniId": 132128,
+                "page": "MangaFire",
+                "title": "Updater",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/updaterr.0rn19"
             }
         },
         "Comick": {

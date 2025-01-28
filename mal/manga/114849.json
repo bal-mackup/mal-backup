@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "10e98722-874d-48b2-a715-90bb8af93598": {
+                "id": 22847,
                 "identifier": "10e98722-874d-48b2-a715-90bb8af93598",
-                "image": "https://uploads.mangadex.org/covers/10e98722-874d-48b2-a715-90bb8af93598/01973f24-4d09-4aed-ab6a-e97dd4e1d751.jpg",
+                "image": "https://uploads.mangadex.org/covers/10e98722-874d-48b2-a715-90bb8af93598/c29112d7-8a23-4f8b-b1fb-af2ec7674ecf.jpg",
                 "malId": 114849,
                 "aniId": 103203,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "yondome_wa_iyana_shi_zokusei_majutsushi": {
+                "id": 54112,
                 "identifier": "yondome_wa_iyana_shi_zokusei_majutsushi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28319/cover.jpg",
                 "malId": 114849,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "yondome-wa-iyana-shi-zokusei-majutsushi": {
+                "id": 58175,
                 "identifier": "yondome-wa-iyana-shi-zokusei-majutsushi",
                 "image": "https://temp.compsci88.com/cover/Yondome-Wa-Iyana-Shi-Zokusei-Majutsushi.jpg",
                 "malId": 114849,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mp989498": {
+                "id": 85255,
                 "identifier": "manga-mp989498",
                 "image": "https://avt.mkklcdnv6temp.com/33/x/24-1628960369.jpg",
                 "malId": 114849,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-mp989498"
             }
         },
-        "MangaFire": {
-            "yondome-wa-iya-na-shizokusei-majutsushi.prk8q": {
-                "identifier": "yondome-wa-iya-na-shizokusei-majutsushi.prk8q",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04764e3b5291ea179985ea5079e093f8.jpg",
-                "malId": 114849,
-                "aniId": 103203,
-                "page": "MangaFire",
-                "title": "Death Attribute Magician",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yondome-wa-iya-na-shizokusei-majutsushi.prk8q/"
-            },
-            "yondome-wa-iya-na-shizokusei-majutsushii.prk8q": {
-                "identifier": "yondome-wa-iya-na-shizokusei-majutsushii.prk8q",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04764e3b5291ea179985ea5079e093f8.jpg",
-                "malId": 114849,
-                "aniId": 103203,
-                "page": "MangaFire",
-                "title": "Death Attribute Magician",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yondome-wa-iya-na-shizokusei-majutsushii.prk8q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyctb0wmq839pr3cqck5k": {
+                "id": 208219,
                 "identifier": "01j76xyctb0wmq839pr3cqck5k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCTB0WMQ839PR3CQCK5K.jpg",
                 "malId": 114849,
@@ -86,6 +69,19 @@
                 "title": "The Death Mage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCTB0WMQ839PR3CQCK5K"
+            }
+        },
+        "MangaFire": {
+            "prk8q": {
+                "id": 226338,
+                "identifier": "prk8q",
+                "image": "https://static.mangafire.to/71db/i/0/04/04764e3b5291ea179985ea5079e093f8.jpg",
+                "malId": 114849,
+                "aniId": 103203,
+                "page": "MangaFire",
+                "title": "Death Attribute Magician",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yondome-wa-iya-na-shizokusei-majutsushii.prk8q"
             }
         },
         "Comick": {

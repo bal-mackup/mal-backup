@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0946fd9c-f570-460d-936e-194173d9b866": {
+                "id": 10287,
                 "identifier": "0946fd9c-f570-460d-936e-194173d9b866",
                 "image": "https://uploads.mangadex.org/covers/0946fd9c-f570-460d-936e-194173d9b866/4827620c-3a93-44aa-b4cb-6ef65b274536.jpg",
                 "malId": 69423,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "binetsu-kuukan": {
+                "id": 60666,
                 "identifier": "binetsu-kuukan",
                 "image": "https://temp.compsci88.com/cover/Binetsu-Kuukan.jpg",
                 "malId": 69423,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "binetsu_kuukan": {
+                "id": 60681,
                 "identifier": "binetsu_kuukan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15335/cover.jpg",
                 "malId": 69423,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ke952439": {
+                "id": 79294,
                 "identifier": "manga-ke952439",
                 "image": "https://avt.mkklcdnv6temp.com/fld/42/d/1-1732718043-nw.webp",
                 "malId": 69423,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ke952439"
             }
         },
-        "MangaFire": {
-            "binetsu-kuukan.1k7p": {
-                "identifier": "binetsu-kuukan.1k7p",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81a27c75d20bd37612ee56c8be5cbe8b.jpg",
-                "malId": 69423,
-                "aniId": 85345,
-                "page": "MangaFire",
-                "title": "Binetsu Kuukan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/binetsu-kuukan.1k7p/"
-            },
-            "1k7p": {
-                "identifier": "1k7p",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81a27c75d20bd37612ee56c8be5cbe8b.jpg",
-                "malId": 69423,
-                "aniId": 85345,
-                "page": "MangaFire",
-                "title": "Binetsu Kuukan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/binetsu-kuukan.1k7p/"
-            }
-        },
         "Weebcentral": {
             "01j76xybvsddtac58vxf57kgjp": {
+                "id": 214292,
                 "identifier": "01j76xybvsddtac58vxf57kgjp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBVSDDTAC58VXF57KGJP.jpg",
                 "malId": 69423,
@@ -86,6 +69,19 @@
                 "title": "Binetsu Kuukan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBVSDDTAC58VXF57KGJP"
+            }
+        },
+        "MangaFire": {
+            "1k7p": {
+                "id": 261292,
+                "identifier": "1k7p",
+                "image": "https://static.mangafire.to/a1ec/i/8/81/81a27c75d20bd37612ee56c8be5cbe8b.jpg",
+                "malId": 69423,
+                "aniId": 85345,
+                "page": "MangaFire",
+                "title": "Binetsu Kuukan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/binetsu-kuukann.1k7p"
             }
         },
         "Comick": {

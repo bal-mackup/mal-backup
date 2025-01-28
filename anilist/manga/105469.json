@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8b58f452-4d8a-4aad-a050-349e83fecccb": {
+                "id": 23770,
                 "identifier": "8b58f452-4d8a-4aad-a050-349e83fecccb",
                 "image": "https://uploads.mangadex.org/covers/8b58f452-4d8a-4aad-a050-349e83fecccb/5ca09bcb-458f-4fed-975b-d490b7e82722.jpg",
                 "malId": 115710,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tokyo_metropolitan_magic_technical_school": {
+                "id": 55315,
                 "identifier": "tokyo_metropolitan_magic_technical_school",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28725/cover.jpg",
                 "malId": 115710,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "jujutsu-kaisen-0": {
+                "id": 59072,
                 "identifier": "jujutsu-kaisen-0",
                 "image": "https://temp.compsci88.com/cover/Jujutsu-Kaisen-0.jpg",
                 "malId": 115710,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cw979705": {
+                "id": 78124,
                 "identifier": "manga-cw979705",
                 "image": "https://avt.mkklcdnv6temp.com/1/p/16-1583495319.jpg",
                 "malId": 115710,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-cw979705"
             }
         },
-        "MangaFire": {
-            "jujutsu-kaisen-0.3rn99": {
-                "identifier": "jujutsu-kaisen-0.3rn99",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d3b663e6543a4422c0f3798d70224c4.jpg",
-                "malId": 115710,
-                "aniId": 105469,
-                "page": "MangaFire",
-                "title": "Jujutsu Kaisen 0",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jujutsu-kaisen-0.3rn99/"
-            },
-            "jujutsu-kaisen-00.3rn99": {
-                "identifier": "jujutsu-kaisen-00.3rn99",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d3b663e6543a4422c0f3798d70224c4.jpg",
-                "malId": 115710,
-                "aniId": 105469,
-                "page": "MangaFire",
-                "title": "Jujutsu Kaisen 0",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jujutsu-kaisen-00.3rn99/"
-            }
-        },
         "Weebcentral": {
             "01j76xye9njr1mfyy7929zc1ds": {
+                "id": 212349,
                 "identifier": "01j76xye9njr1mfyy7929zc1ds",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE9NJR1MFYY7929ZC1DS.jpg",
                 "malId": 115710,
@@ -86,6 +69,19 @@
                 "title": "Jujutsu Kaisen 0",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE9NJR1MFYY7929ZC1DS"
+            }
+        },
+        "MangaFire": {
+            "3rn99": {
+                "id": 224854,
+                "identifier": "3rn99",
+                "image": "https://static.mangafire.to/3c95/i/2/2d/2d3b663e6543a4422c0f3798d70224c4.jpg",
+                "malId": 115710,
+                "aniId": 105469,
+                "page": "MangaFire",
+                "title": "Jujutsu Kaisen 0",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jujutsu-kaisen-00.3rn99"
             }
         },
         "Comick": {

@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d": {
+                "id": 22920,
                 "identifier": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
-                "image": "https://uploads.mangadex.org/covers/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d/513b5f1d-05ed-4afb-beae-a0f9462e940e.jpg",
+                "image": "https://uploads.mangadex.org/covers/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d/1dd82d66-ae02-4c74-a728-e02a9b55bdc4.jpg",
                 "malId": 111403,
                 "aniId": 103082,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pumpkin-night": {
+                "id": 58326,
                 "identifier": "pumpkin-night",
                 "image": "https://temp.compsci88.com/cover/Pumpkin-Night.jpg",
                 "malId": 111403,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "pumpkin_night": {
+                "id": 66711,
                 "identifier": "pumpkin_night",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27812/cover.jpg",
                 "malId": 111403,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-br979252": {
+                "id": 77609,
                 "identifier": "manga-br979252",
                 "image": "https://avt.mkklcdnv6temp.com/34/m/16-1583494710.jpg",
                 "malId": 111403,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-br979252"
             }
         },
-        "MangaFire": {
-            "pumpkin-night.lln3z": {
-                "identifier": "pumpkin-night.lln3z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95bf212d8fc5a930249de86fe1d09954.jpg",
-                "malId": 111403,
-                "aniId": 103082,
-                "page": "MangaFire",
-                "title": "Pumpkin Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pumpkin-night.lln3z/"
-            },
-            "pumpkin-nightt.lln3z": {
-                "identifier": "pumpkin-nightt.lln3z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95bf212d8fc5a930249de86fe1d09954.jpg",
-                "malId": 111403,
-                "aniId": 103082,
-                "page": "MangaFire",
-                "title": "Pumpkin Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pumpkin-nightt.lln3z/"
-            },
-            "lln3z": {
-                "identifier": "lln3z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95bf212d8fc5a930249de86fe1d09954.jpg",
-                "malId": 111403,
-                "aniId": 103082,
-                "page": "MangaFire",
-                "title": "Pumpkin Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pumpkin-nightt.lln3z/"
-            }
-        },
         "Weebcentral": {
             "01j76xydg11f8gzr7c8khjcc4p": {
+                "id": 213100,
                 "identifier": "01j76xydg11f8gzr7c8khjcc4p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDG11F8GZR7C8KHJCC4P.jpg",
                 "malId": 111403,
@@ -96,6 +69,19 @@
                 "title": "Pumpkin Night",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDG11F8GZR7C8KHJCC4P"
+            }
+        },
+        "MangaFire": {
+            "lln3z": {
+                "id": 228474,
+                "identifier": "lln3z",
+                "image": "https://static.mangafire.to/8a9c/i/9/95/95bf212d8fc5a930249de86fe1d09954.jpg",
+                "malId": 111403,
+                "aniId": 103082,
+                "page": "MangaFire",
+                "title": "Pumpkin Night",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pumpkin-nightt.lln3z"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c1aff027-94eb-43ce-a86b-bc1b93ef58b9": {
+                "id": 17042,
                 "identifier": "c1aff027-94eb-43ce-a86b-bc1b93ef58b9",
                 "image": "https://uploads.mangadex.org/covers/c1aff027-94eb-43ce-a86b-bc1b93ef58b9/e1566d81-4f70-4399-8511-4d8328283ecc.jpg",
                 "malId": 104245,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-xn974722": {
+                "id": 89988,
                 "identifier": "manga-xn974722",
                 "image": "https://avt.mkklcdnv6temp.com/fld/96/m/7-1732787575-nw.webp",
                 "malId": 104245,
@@ -31,15 +33,29 @@
             }
         },
         "MangaFire": {
-            "kazoku-ni-narou-yo.pr19x": {
-                "identifier": "kazoku-ni-narou-yo.pr19x",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3bb176bc69b290945e81fb5f4950f505.jpg",
+            "pr19x": {
+                "id": 258708,
+                "identifier": "pr19x",
+                "image": "https://static.mangafire.to/3a3b/i/3/3b/3bb176bc69b290945e81fb5f4950f505.jpg",
                 "malId": 104245,
                 "aniId": 98819,
                 "page": "MangaFire",
                 "title": "Let's be a family",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/kazoku-ni-narou-yo.pr19x/"
+                "url": "https://mangafire.to/manga/kazoku-ni-narou-yoo.pr19x"
+            }
+        },
+        "MangaFox": {
+            "kazoku_ni_narouyo": {
+                "id": 267996,
+                "identifier": "kazoku_ni_narouyo",
+                "image": "https://fmcdn.mfcdn.net/store/manga/23715/cover.jpg",
+                "malId": 104245,
+                "aniId": 98819,
+                "page": "MangaFox",
+                "title": "Kazoku Ni Narouyo",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/kazoku_ni_narouyo/"
             }
         },
         "Comick": {

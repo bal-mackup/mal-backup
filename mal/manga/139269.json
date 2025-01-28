@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fc0a7b86-992e-4126-b30f-ca04811979bf": {
+                "id": 50504,
                 "identifier": "fc0a7b86-992e-4126-b30f-ca04811979bf",
                 "image": "https://uploads.mangadex.org/covers/fc0a7b86-992e-4126-b30f-ca04811979bf/d1489a82-0e04-44fc-833d-16235511fc63.jpg",
                 "malId": 139269,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ja987309": {
+                "id": 76003,
                 "identifier": "manga-ja987309",
                 "image": "https://avt.mkklcdnv6temp.com/42/k/22-1607138924.jpg",
                 "malId": 139269,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-unrivaled-mememori-kun": {
+                "id": 125984,
                 "identifier": "the-unrivaled-mememori-kun",
                 "image": "https://temp.compsci88.com/cover/The-Unrivaled-Mememori-kun.jpg",
                 "malId": 139269,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Unrivaled-Mememori-kun"
             }
         },
-        "MangaFire": {
-            "the-unrivaled-mememori-kun.w155k": {
-                "identifier": "the-unrivaled-mememori-kun.w155k",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea014a786c45137bc5c608ee5e5a59fc.jpg",
-                "malId": 139269,
-                "aniId": 125400,
-                "page": "MangaFire",
-                "title": "The Unrivaled Mememori-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-unrivaled-mememori-kun.w155k/"
-            },
-            "the-unrivaled-mememori-kunn.w155k": {
-                "identifier": "the-unrivaled-mememori-kunn.w155k",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea014a786c45137bc5c608ee5e5a59fc.jpg",
-                "malId": 139269,
-                "aniId": 125400,
-                "page": "MangaFire",
-                "title": "The Unrivaled Mememori-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-unrivaled-mememori-kunn.w155k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg07nxx4memajqj7ynq5": {
+                "id": 207196,
                 "identifier": "01j76xyg07nxx4memajqj7ynq5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG07NXX4MEMAJQJ7YNQ5.jpg",
                 "malId": 139269,
@@ -74,6 +56,19 @@
                 "title": "The Unrivaled Mememori-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG07NXX4MEMAJQJ7YNQ5"
+            }
+        },
+        "MangaFire": {
+            "w155k": {
+                "id": 234528,
+                "identifier": "w155k",
+                "image": "https://static.mangafire.to/86f0/i/e/ea/ea014a786c45137bc5c608ee5e5a59fc.jpg",
+                "malId": 139269,
+                "aniId": 125400,
+                "page": "MangaFire",
+                "title": "The Unrivaled Mememori-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-unrivaled-mememori-kunn.w155k"
             }
         },
         "Comick": {

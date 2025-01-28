@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b642e9a0-ba3a-43e1-a5d6-7997e257f126": {
+                "id": 37152,
                 "identifier": "b642e9a0-ba3a-43e1-a5d6-7997e257f126",
                 "image": "https://uploads.mangadex.org/covers/b642e9a0-ba3a-43e1-a5d6-7997e257f126/38077542-c940-4f5c-9212-1d07b989234f.jpg",
                 "malId": 129390,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ie986187": {
+                "id": 77387,
                 "identifier": "manga-ie986187",
                 "image": "https://avt.mkklcdnv6temp.com/46/v/21-1596946589.jpg",
                 "malId": 129390,
@@ -31,25 +33,29 @@
             }
         },
         "MangaFire": {
-            "86-eighty-six-operation-high-school.52m7q": {
-                "identifier": "86-eighty-six-operation-high-school.52m7q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/199ca6e10badb29c30e4da6fdc64739b.jpg",
+            "52m7q": {
+                "id": 226637,
+                "identifier": "52m7q",
+                "image": "https://static.mangafire.to/4fc3/i/1/19/199ca6e10badb29c30e4da6fdc64739b.jpg",
                 "malId": 129390,
                 "aniId": 120957,
                 "page": "MangaFire",
                 "title": "86 - Eighty-six - Operation High-School",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/86-eighty-six-operation-high-school.52m7q/"
-            },
-            "86-eighty-six-operation-high-schooll.52m7q": {
-                "identifier": "86-eighty-six-operation-high-schooll.52m7q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/199ca6e10badb29c30e4da6fdc64739b.jpg",
+                "url": "https://mangafire.to/manga/86-eighty-six-operation-high-schooll.52m7q"
+            }
+        },
+        "Weebcentral": {
+            "01jczr355vnw703vy13b13j3rw": {
+                "id": 267195,
+                "identifier": "01jczr355vnw703vy13b13j3rw",
+                "image": "https://temp.compsci88.com/cover/fallback/01JCZR355VNW703VY13B13J3RW.jpg",
                 "malId": 129390,
                 "aniId": 120957,
-                "page": "MangaFire",
-                "title": "86 - Eighty-six - Operation High-School",
+                "page": "Weebcentral",
+                "title": "86--EIGHTY-SIX - Operation High School",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/86-eighty-six-operation-high-schooll.52m7q/"
+                "url": "https://weebcentral.com/series/01JCZR355VNW703VY13B13J3RW"
             }
         },
         "Comick": {
@@ -60,6 +66,17 @@
                 "page": "Comick",
                 "title": "86—EIGHTY-SIX: Operation High School",
                 "url": "https://comick.io/comic/86-eighty-six-operation-high-school",
+                "aniId": 120957
+            }
+        },
+        "MangaReader": {
+            "36339": {
+                "identifier": "36339",
+                "malId": 129390,
+                "type": "manga",
+                "page": "MangaReader",
+                "title": "86: Operation High School",
+                "url": "https://mangareader.to/86-eighty-six-operation-high-school-36339",
                 "aniId": 120957
             }
         }

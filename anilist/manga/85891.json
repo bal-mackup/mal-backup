@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "57f7b8a8-2d36-47af-9db0-22ab21b70baa": {
+                "id": 10677,
                 "identifier": "57f7b8a8-2d36-47af-9db0-22ab21b70baa",
                 "image": "https://uploads.mangadex.org/covers/57f7b8a8-2d36-47af-9db0-22ab21b70baa/b3603ff1-90aa-48df-b112-ac0fb8c7605c.jpg",
                 "malId": 70485,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "aka_akatoretachi_no_monogatari": {
+                "id": 56786,
                 "identifier": "aka_akatoretachi_no_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14007/cover.jpg",
                 "malId": 70485,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "aka-akatoretachi-no-monogatari": {
+                "id": 59349,
                 "identifier": "aka-akatoretachi-no-monogatari",
                 "image": "https://temp.compsci88.com/cover/Aka-Akatoretachi-No-Monogatari.jpg",
                 "malId": 70485,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Aka-Akatoretachi-No-Monogatari"
             }
         },
-        "MangaFire": {
-            "red-blood-red-legacy.r26p": {
-                "identifier": "red-blood-red-legacy.r26p",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3bf8690bea10a2a4d1471803973a695.jpg",
-                "malId": 70485,
-                "aniId": 85891,
-                "page": "MangaFire",
-                "title": "Red Blood Red Legacy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/red-blood-red-legacy.r26p/"
-            }
-        },
         "Weebcentral": {
             "01j76xyam6zw1bnr0yg2r3a7pn": {
+                "id": 213061,
                 "identifier": "01j76xyam6zw1bnr0yg2r3a7pn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAM6ZW1BNR0YG2R3A7PN.jpg",
                 "malId": 70485,
@@ -64,6 +56,19 @@
                 "title": "Aka Akatoretachi no Monogatari",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAM6ZW1BNR0YG2R3A7PN"
+            }
+        },
+        "MangaFire": {
+            "r26p": {
+                "id": 254580,
+                "identifier": "r26p",
+                "image": "https://static.mangafire.to/9778/i/f/f3/f3bf8690bea10a2a4d1471803973a695.jpg",
+                "malId": 70485,
+                "aniId": 85891,
+                "page": "MangaFire",
+                "title": "Red Blood Red Legacy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/red-blood-red-legacyy.r26p"
             }
         },
         "Comick": {

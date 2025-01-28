@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-healing-priest-of-the-sun": {
+                "id": 96264,
                 "identifier": "the-healing-priest-of-the-sun",
                 "image": "https://temp.compsci88.com/cover/The-Healing-Priest-of-the-Sun.jpg",
                 "malId": 149948,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nt990576": {
+                "id": 97058,
                 "identifier": "manga-nt990576",
                 "image": "https://avt.mkklcdnv6temp.com/30/i/25-1646242915.jpg",
                 "malId": 149948,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "9c2535a0-ee32-4abe-be3f-6f4070d55b01": {
+                "id": 104516,
                 "identifier": "9c2535a0-ee32-4abe-be3f-6f4070d55b01",
                 "image": "https://uploads.mangadex.org/covers/9c2535a0-ee32-4abe-be3f-6f4070d55b01/7be926a7-61d3-4adc-961b-3f00d49e34b1.jpg",
                 "malId": 149948,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/9c2535a0-ee32-4abe-be3f-6f4070d55b01"
             }
         },
-        "MangaFire": {
-            "the-healing-solaris-cleric.qk68v": {
-                "identifier": "the-healing-solaris-cleric.qk68v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a49ed125d022bae5c8dbc17e7b91aa5.jpg",
-                "malId": 149948,
-                "aniId": 145261,
-                "page": "MangaFire",
-                "title": "The Healing Solaris Cleric",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-healing-solaris-cleric.qk68v/"
-            },
-            "the-healing-solaris-clericc.qk68v": {
-                "identifier": "the-healing-solaris-clericc.qk68v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a49ed125d022bae5c8dbc17e7b91aa5.jpg",
-                "malId": 149948,
-                "aniId": 145261,
-                "page": "MangaFire",
-                "title": "The Healing Solaris Cleric",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-healing-solaris-clericc.qk68v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfa16f9a61wb6mcjhgkx": {
+                "id": 206330,
                 "identifier": "01j76xyfa16f9a61wb6mcjhgkx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFA16F9A61WB6MCJHGKX.jpg",
                 "malId": 149948,
@@ -74,6 +56,19 @@
                 "title": "The Healing Priest of the Sun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFA16F9A61WB6MCJHGKX"
+            }
+        },
+        "MangaFire": {
+            "qk68v": {
+                "id": 224520,
+                "identifier": "qk68v",
+                "image": "https://static.mangafire.to/7b93/i/0/0a/0a49ed125d022bae5c8dbc17e7b91aa5.jpg",
+                "malId": 149948,
+                "aniId": 145261,
+                "page": "MangaFire",
+                "title": "The Healing Solaris Cleric",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-healing-solaris-clericc.qk68v"
             }
         },
         "Comick": {

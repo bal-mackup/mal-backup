@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fc4f97c0-4641-4bb8-b31c-d7a3f9f43572": {
+                "id": 16363,
                 "identifier": "fc4f97c0-4641-4bb8-b31c-d7a3f9f43572",
                 "image": "https://uploads.mangadex.org/covers/fc4f97c0-4641-4bb8-b31c-d7a3f9f43572/f2784356-da24-4eac-9cd3-c8c04e802342.png",
                 "malId": 100876,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "red-sprite": {
+                "id": 70799,
                 "identifier": "red-sprite",
                 "image": "https://temp.compsci88.com/cover/Red-Sprite.jpg",
                 "malId": 100876,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "red_sprite": {
+                "id": 101618,
                 "identifier": "red_sprite",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21579/cover.jpg",
                 "malId": 100876,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vu972703": {
+                "id": 125175,
                 "identifier": "manga-vu972703",
                 "image": "https://avt.mkklcdnv6temp.com/fld/67/l/9-1732786330-nw.webp",
                 "malId": 100876,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vu972703"
             }
         },
-        "MangaFire": {
-            "red-sprite.7j2j7": {
-                "identifier": "red-sprite.7j2j7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/42/422323188f00e62ad4c1502d8c52b0a7.jpg",
-                "malId": 100876,
-                "aniId": 87531,
-                "page": "MangaFire",
-                "title": "Red Sprite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/red-sprite.7j2j7/"
-            },
-            "7j2j7": {
-                "identifier": "7j2j7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/42/422323188f00e62ad4c1502d8c52b0a7.jpg",
-                "malId": 100876,
-                "aniId": 87531,
-                "page": "MangaFire",
-                "title": "Red Sprite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/red-sprite.7j2j7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybxadbx5m4erf67bdp6j": {
+                "id": 210801,
                 "identifier": "01j76xybxadbx5m4erf67bdp6j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBXADBX5M4ERF67BDP6J.jpg",
                 "malId": 100876,
@@ -86,6 +69,19 @@
                 "title": "Red Sprite",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBXADBX5M4ERF67BDP6J"
+            }
+        },
+        "MangaFire": {
+            "7j2j7": {
+                "id": 251046,
+                "identifier": "7j2j7",
+                "image": "https://static.mangafire.to/c26d/i/4/42/422323188f00e62ad4c1502d8c52b0a7.jpg",
+                "malId": 100876,
+                "aniId": 87531,
+                "page": "MangaFire",
+                "title": "Red Sprite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/red-spritee.7j2j7"
             }
         },
         "Comick": {

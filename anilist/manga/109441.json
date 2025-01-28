@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "132eff91-b4f1-42d1-982c-cb1aec6f0a8a": {
+                "id": 26055,
                 "identifier": "132eff91-b4f1-42d1-982c-cb1aec6f0a8a",
                 "image": "https://uploads.mangadex.org/covers/132eff91-b4f1-42d1-982c-cb1aec6f0a8a/885de73c-38c0-465e-a083-d88fd641d0e7.jpg",
                 "malId": 147615,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "so-i-married-the-anti-fan": {
+                "id": 77936,
                 "identifier": "so-i-married-the-anti-fan",
                 "image": "https://temp.compsci88.com/cover/So-I-Married-the-Anti-Fan.jpg",
                 "malId": 147615,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/So-I-Married-the-Anti-Fan"
             }
         },
-        "MangaFire": {
-            "so-i-married-an-anti-fan.52r7v": {
-                "identifier": "so-i-married-an-anti-fan.52r7v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/9644eb2ddb96271bd0d53c9038d83d9e.jpg",
-                "malId": 147615,
-                "aniId": 109441,
-                "page": "MangaFire",
-                "title": "So I Married the Anti-Fan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/so-i-married-an-anti-fan.52r7v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyet6gczhq516261zj4cd": {
+                "id": 209795,
                 "identifier": "01j76xyet6gczhq516261zj4cd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYET6GCZHQ516261ZJ4CD.jpg",
                 "malId": 147615,
@@ -52,6 +43,19 @@
                 "title": "So I Married the Anti-Fan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYET6GCZHQ516261ZJ4CD"
+            }
+        },
+        "MangaFire": {
+            "52r7v": {
+                "id": 245947,
+                "identifier": "52r7v",
+                "image": "https://static.mangafire.to/460b/i/9/96/9644eb2ddb96271bd0d53c9038d83d9e.jpg",
+                "malId": 147615,
+                "aniId": 109441,
+                "page": "MangaFire",
+                "title": "So I Married the Anti-Fan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/so-i-married-an-anti-fann.52r7v"
             }
         },
         "Comick": {

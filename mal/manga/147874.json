@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "40c058a2-430e-4ced-b663-369dcf38583f": {
+                "id": 108786,
                 "identifier": "40c058a2-430e-4ced-b663-369dcf38583f",
                 "image": "https://uploads.mangadex.org/covers/40c058a2-430e-4ced-b663-369dcf38583f/29ddc843-a8ba-48be-a45b-1384c12ce2b7.jpg",
                 "malId": 147874,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/40c058a2-430e-4ced-b663-369dcf38583f"
             },
             "aa12f18e-04d4-44b9-a97a-b8927b01611b": {
+                "id": 171629,
                 "identifier": "aa12f18e-04d4-44b9-a97a-b8927b01611b",
                 "image": "https://uploads.mangadex.org/covers/aa12f18e-04d4-44b9-a97a-b8927b01611b/def213b2-c9ee-4115-a589-bee8d4da757e.jpg",
                 "malId": 147874,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-og991515": {
+                "id": 108932,
                 "identifier": "manga-og991515",
                 "image": "https://avt.mkklcdnv6temp.com/22/p/26-1657558010.jpg",
                 "malId": 147874,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "gokurakugai": {
+                "id": 114375,
                 "identifier": "gokurakugai",
                 "image": "https://temp.compsci88.com/cover/Gokurakugai.jpg",
                 "malId": 147874,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "gokurakugai": {
+                "id": 120684,
                 "identifier": "gokurakugai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44157/cover.jpg",
                 "malId": 147874,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/gokurakugai/"
             }
         },
-        "MangaFire": {
-            "gokurakugai.2ow3l": {
-                "identifier": "gokurakugai.2ow3l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29624e4de1725075f6a8112221f173a5.jpg",
-                "malId": 147874,
-                "aniId": 150378,
-                "page": "MangaFire",
-                "title": "Gokurakugai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokurakugai.2ow3l/"
-            },
-            "gokurakugaii.2ow3l": {
-                "identifier": "gokurakugaii.2ow3l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29624e4de1725075f6a8112221f173a5.jpg",
-                "malId": 147874,
-                "aniId": 150378,
-                "page": "MangaFire",
-                "title": "Gokurakugai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokurakugaii.2ow3l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnqgkhprgejynzf3a6e": {
+                "id": 212574,
                 "identifier": "01j76xyfnqgkhprgejynzf3a6e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNQGKHPRGEJYNZF3A6E.jpg",
                 "malId": 147874,
@@ -96,6 +80,19 @@
                 "title": "Gokurakugai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNQGKHPRGEJYNZF3A6E"
+            }
+        },
+        "MangaFire": {
+            "2ow3l": {
+                "id": 224915,
+                "identifier": "2ow3l",
+                "image": "https://static.mangafire.to/15e8/i/2/29/29624e4de1725075f6a8112221f173a5.jpg",
+                "malId": 147874,
+                "aniId": 150378,
+                "page": "MangaFire",
+                "title": "Gokurakugai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gokurakugaii.2ow3l"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e96b9209-2f0f-423b-9736-0c5d3a9788ba": {
+                "id": 35378,
                 "identifier": "e96b9209-2f0f-423b-9736-0c5d3a9788ba",
                 "image": "https://uploads.mangadex.org/covers/e96b9209-2f0f-423b-9736-0c5d3a9788ba/a0cbc3c0-1f12-4b5f-b467-be3d0c638b13.jpg",
                 "malId": 110624,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-iu985403": {
+                "id": 99652,
                 "identifier": "manga-iu985403",
                 "image": "https://avt.mkklcdnv6temp.com/fld/3/k/10-1732804187-nw.webp",
                 "malId": 110624,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-iu985403"
             }
         },
-        "MangaFire": {
-            "shachiku-to-shoujo-no-1800-nichi.kkzy4": {
-                "identifier": "shachiku-to-shoujo-no-1800-nichi.kkzy4",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74a785492d261b9156a319064073ff30.jpg",
-                "malId": 110624,
-                "aniId": 118973,
-                "page": "MangaFire",
-                "title": "Shachiku to shoujo no 1800-nichi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shachiku-to-shoujo-no-1800-nichi.kkzy4/"
-            },
-            "kkzy4": {
-                "identifier": "kkzy4",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74a785492d261b9156a319064073ff30.jpg",
-                "malId": 110624,
-                "aniId": 118973,
-                "page": "MangaFire",
-                "title": "Shachiku to shoujo no 1800-nichi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shachiku-to-shoujo-no-1800-nichi.kkzy4/"
-            }
-        },
         "MangaFox": {
             "shachiku_to_shoujo_no_1800_hi": {
+                "id": 199646,
                 "identifier": "shachiku_to_shoujo_no_1800_hi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33836/cover.jpg",
                 "malId": 110624,
@@ -62,6 +43,19 @@
                 "title": "Shachiku to Shoujo no 1800 Hi",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/shachiku_to_shoujo_no_1800_hi/"
+            }
+        },
+        "MangaFire": {
+            "kkzy4": {
+                "id": 246117,
+                "identifier": "kkzy4",
+                "image": "https://static.mangafire.to/ce8a/i/7/74/74a785492d261b9156a319064073ff30.jpg",
+                "malId": 110624,
+                "aniId": 118973,
+                "page": "MangaFire",
+                "title": "Shachiku to shoujo no 1800-nichi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shachiku-to-shoujo-no-1800-nichii.kkzy4"
             }
         },
         "Comick": {

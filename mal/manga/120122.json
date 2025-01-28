@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "79117b72-a6cd-45f3-8dc9-2b74b19e489e": {
+                "id": 28143,
                 "identifier": "79117b72-a6cd-45f3-8dc9-2b74b19e489e",
                 "image": "https://uploads.mangadex.org/covers/79117b72-a6cd-45f3-8dc9-2b74b19e489e/170ff06e-0ca5-450f-89c6-eed6d4208d0d.jpg",
                 "malId": 120122,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mujintou_de_elf_to_kyoudou_seikatsu": {
+                "id": 57250,
                 "identifier": "mujintou_de_elf_to_kyoudou_seikatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30480/cover.jpg",
                 "malId": 120122,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "mujintou-de-elf-to-kyoudou-seikatsu": {
+                "id": 57574,
                 "identifier": "mujintou-de-elf-to-kyoudou-seikatsu",
                 "image": "https://temp.compsci88.com/cover/Mujintou-de-Elf-to-Kyoudou-Seikatsu.jpg",
                 "malId": 120122,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-el981946": {
+                "id": 79533,
                 "identifier": "manga-el981946",
                 "image": "https://avt.mkklcdnv6temp.com/33/m/18-1583498385.jpg",
                 "malId": 120122,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-el981946"
             }
         },
-        "MangaFire": {
-            "mujintou-de-elf-to-kyoudou-seikatsu.4qzkx": {
-                "identifier": "mujintou-de-elf-to-kyoudou-seikatsu.4qzkx",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/dde0f2cd30a3174f6090dd7ce2c46065.jpg",
-                "malId": 120122,
-                "aniId": 109675,
-                "page": "MangaFire",
-                "title": "Mujintou de Elf to Kyoudou Seikatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mujintou-de-elf-to-kyoudou-seikatsu.4qzkx/"
-            },
-            "mujintou-de-elf-to-kyoudou-seikatsuu.4qzkx": {
-                "identifier": "mujintou-de-elf-to-kyoudou-seikatsuu.4qzkx",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/dde0f2cd30a3174f6090dd7ce2c46065.jpg",
-                "malId": 120122,
-                "aniId": 109675,
-                "page": "MangaFire",
-                "title": "Mujintou de Elf to Kyoudou Seikatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mujintou-de-elf-to-kyoudou-seikatsuu.4qzkx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd319m3bm9s4xvf7acr0": {
+                "id": 213679,
                 "identifier": "01j76xyd319m3bm9s4xvf7acr0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD319M3BM9S4XVF7ACR0.jpg",
                 "malId": 120122,
@@ -86,6 +69,19 @@
                 "title": "Mujintou De Elf to Kyoudou Seikatsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD319M3BM9S4XVF7ACR0"
+            }
+        },
+        "MangaFire": {
+            "4qzkx": {
+                "id": 229427,
+                "identifier": "4qzkx",
+                "image": "https://static.mangafire.to/fe22/i/d/dd/dde0f2cd30a3174f6090dd7ce2c46065.jpg",
+                "malId": 120122,
+                "aniId": 109675,
+                "page": "MangaFire",
+                "title": "Mujintou de Elf to Kyoudou Seikatsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mujintou-de-elf-to-kyoudou-seikatsuu.4qzkx"
             }
         },
         "Comick": {

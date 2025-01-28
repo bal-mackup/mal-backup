@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee4c0acd-dc97-44a1-bebe-040cf79b62bd": {
+                "id": 33106,
                 "identifier": "ee4c0acd-dc97-44a1-bebe-040cf79b62bd",
                 "image": "https://uploads.mangadex.org/covers/ee4c0acd-dc97-44a1-bebe-040cf79b62bd/cea89510-fb77-4622-bd98-669bd22ab36a.jpg",
                 "malId": 129306,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhou": {
+                "id": 57100,
                 "identifier": "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhou",
                 "image": "https://temp.compsci88.com/cover/Isekai-NTR-Shinyuu-no-Onna-wo-Saikyou-Skill-de-Otosu-Houhou.jpg",
                 "malId": 129306,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_ntr_shin_yuu_no_onna_wo_saikyou_skill_de_otosu_houhou": {
+                "id": 60360,
                 "identifier": "isekai_ntr_shin_yuu_no_onna_wo_saikyou_skill_de_otosu_houhou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32947/cover.jpg",
                 "malId": 129306,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/isekai_ntr_shin_yuu_no_onna_wo_saikyou_skill_de_otosu_houhou/"
             },
             "isekai_ntr_shinyuu_no_onna_wo_saikyou_skill_de_otosu_houhou": {
+                "id": 80189,
                 "identifier": "isekai_ntr_shinyuu_no_onna_wo_saikyou_skill_de_otosu_houhou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35201/cover.jpg",
                 "malId": 129306,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ip986250": {
+                "id": 75492,
                 "identifier": "manga-ip986250",
                 "image": "https://avt.mkklcdnv6temp.com/49/h/21-1597547876.jpg",
                 "malId": 129306,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-ip986250"
             },
             "manga-hk984493": {
+                "id": 78786,
                 "identifier": "manga-hk984493",
                 "image": "https://avt.mkklcdnv6temp.com/28/f/20-1583502115.jpg",
                 "malId": 129306,
@@ -74,30 +80,9 @@
                 "url": "https://manganato.com/manga-hk984493"
             }
         },
-        "MangaFire": {
-            "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhou.womql": {
-                "identifier": "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhou.womql",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/72c48e51a6e51008627106b70f9dfbc1.jpg",
-                "malId": 129306,
-                "aniId": 115042,
-                "page": "MangaFire",
-                "title": "Isekai NTR ~Shinyuu no Onna wo Saikyou Skill de Otosu Houhou~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhou.womql/"
-            },
-            "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql": {
-                "identifier": "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/72c48e51a6e51008627106b70f9dfbc1.jpg",
-                "malId": 129306,
-                "aniId": 115042,
-                "page": "MangaFire",
-                "title": "Isekai NTR ~Shinyuu no Onna wo Saikyou Skill de Otosu Houhou~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrngynet2371jyzd84n": {
+                "id": 206471,
                 "identifier": "01j76xydrngynet2371jyzd84n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRNGYNET2371JYZD84N.jpg",
                 "malId": 129306,
@@ -106,6 +91,19 @@
                 "title": "Isekai NTR ~Shinyuu no Onna wo Saikyou Skill de Otosu Houhou~",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRNGYNET2371JYZD84N"
+            }
+        },
+        "MangaFire": {
+            "womql": {
+                "id": 226270,
+                "identifier": "womql",
+                "image": "https://static.mangafire.to/6acc/i/7/72/72c48e51a6e51008627106b70f9dfbc1.jpg",
+                "malId": 129306,
+                "aniId": 115042,
+                "page": "MangaFire",
+                "title": "Isekai NTR ~Shinyuu no Onna wo Saikyou Skill de Otosu Houhou~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql"
             }
         },
         "Comick": {

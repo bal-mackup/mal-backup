@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cfd6471f-15b9-44da-9280-13439742969b": {
+                "id": 38281,
                 "identifier": "cfd6471f-15b9-44da-9280-13439742969b",
                 "image": "https://uploads.mangadex.org/covers/cfd6471f-15b9-44da-9280-13439742969b/c61a9b74-d536-4746-b21b-93b6f9b6f450.jpg",
                 "malId": 147619,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-je986413": {
+                "id": 76387,
                 "identifier": "manga-je986413",
                 "image": "https://avt.mkklcdnv6temp.com/5/x/22-1598781353.jpg",
                 "malId": 147619,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-build-up": {
+                "id": 77309,
                 "identifier": "the-build-up",
                 "image": "https://temp.compsci88.com/cover/The-Build-Up.jpg",
                 "malId": 147619,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Build-Up"
             }
         },
-        "MangaFire": {
-            "build-up.37522": {
-                "identifier": "build-up.37522",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4a1283efb30b06eccc1cb2e3d4abcefe.jpg",
-                "malId": 147619,
-                "aniId": 128783,
-                "page": "MangaFire",
-                "title": "The Build Up",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/build-up.37522/"
-            },
-            "build-upp.37522": {
-                "identifier": "build-upp.37522",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4a1283efb30b06eccc1cb2e3d4abcefe.jpg",
-                "malId": 147619,
-                "aniId": 128783,
-                "page": "MangaFire",
-                "title": "The Build Up",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/build-upp.37522/"
-            }
-        },
         "Weebcentral": {
             "01j76xyet84af2p4wbsffn9afk": {
+                "id": 214380,
                 "identifier": "01j76xyet84af2p4wbsffn9afk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYET84AF2P4WBSFFN9AFK.jpg",
                 "malId": 147619,
@@ -78,6 +60,7 @@
         },
         "MangaFox": {
             "build_up": {
+                "id": 220086,
                 "identifier": "build_up",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35415/cover.jpg",
                 "malId": 147619,
@@ -86,6 +69,19 @@
                 "title": "Build Up",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/build_up/"
+            }
+        },
+        "MangaFire": {
+            "37522": {
+                "id": 225744,
+                "identifier": "37522",
+                "image": "https://static.mangafire.to/ae22/i/4/4a/4a1283efb30b06eccc1cb2e3d4abcefe.jpg",
+                "malId": 147619,
+                "aniId": 128783,
+                "page": "MangaFire",
+                "title": "The Build Up",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/build-upp.37522"
             }
         },
         "Comick": {

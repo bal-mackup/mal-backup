@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e7fc7da-6edf-4eb6-9009-427e46e57d05": {
+                "id": 6444,
                 "identifier": "9e7fc7da-6edf-4eb6-9009-427e46e57d05",
                 "image": "https://uploads.mangadex.org/covers/9e7fc7da-6edf-4eb6-9009-427e46e57d05/62d45411-2bbc-4955-b61d-155584131c1e.jpg",
                 "malId": 92420,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tiger_x_crane": {
+                "id": 66869,
                 "identifier": "tiger_x_crane",
                 "image": "https://fmcdn.mfcdn.net/store/manga/9200/cover.jpg",
                 "malId": 92420,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tiger-x-crane": {
+                "id": 79688,
                 "identifier": "tiger-x-crane",
                 "image": "https://temp.compsci88.com/cover/Tiger-X-Crane.jpg",
                 "malId": 92420,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Tiger-X-Crane"
             }
         },
-        "MangaFire": {
-            "hu-x-he-yao-shi-lu.onxz": {
-                "identifier": "hu-x-he-yao-shi-lu.onxz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0fa3323885ecb3bb82fb701221b6a81.jpg",
-                "malId": 92420,
-                "aniId": 86682,
-                "page": "MangaFire",
-                "title": "Hu x He Yao Shi Lu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hu-x-he-yao-shi-lu.onxz/"
-            },
-            "onxz": {
-                "identifier": "onxz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c0fa3323885ecb3bb82fb701221b6a81.jpg",
-                "malId": 92420,
-                "aniId": 86682,
-                "page": "MangaFire",
-                "title": "Hu x He Yao Shi Lu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hu-x-he-yao-shi-lu.onxz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybbyhh855zzvwp19c69g": {
+                "id": 208481,
                 "identifier": "01j76xybbyhh855zzvwp19c69g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBBYHH855ZZVWP19C69G.jpg",
                 "malId": 92420,
@@ -74,6 +56,19 @@
                 "title": "Tiger x Crane",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBBYHH855ZZVWP19C69G"
+            }
+        },
+        "MangaFire": {
+            "onxz": {
+                "id": 256718,
+                "identifier": "onxz",
+                "image": "https://static.mangafire.to/9b76/i/c/c0/c0fa3323885ecb3bb82fb701221b6a81.jpg",
+                "malId": 92420,
+                "aniId": 86682,
+                "page": "MangaFire",
+                "title": "Hu x He Yao Shi Lu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hu-x-he-yao-shi-luu.onxz"
             }
         },
         "Comick": {

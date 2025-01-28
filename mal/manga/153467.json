@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "93a6e9e7-b0c9-4e60-b6c3-7806113405dd": {
+                "id": 114447,
                 "identifier": "93a6e9e7-b0c9-4e60-b6c3-7806113405dd",
                 "image": "https://uploads.mangadex.org/covers/93a6e9e7-b0c9-4e60-b6c3-7806113405dd/88a774a8-5dd3-4561-a676-7a40a41e794b.jpg",
                 "malId": 153467,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pl993068": {
+                "id": 118151,
                 "identifier": "manga-pl993068",
                 "image": "https://avt.mkklcdnv6temp.com/32/x/27-1668794460.jpg",
                 "malId": 153467,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-pl993068"
             }
         },
-        "MangaFire": {
-            "boku-wa-ayashii-kimi-no-mono.4q7j7": {
-                "identifier": "boku-wa-ayashii-kimi-no-mono.4q7j7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b76325760b1cc3c090d434740d000b7a.jpg",
-                "malId": 153467,
-                "aniId": 154641,
-                "page": "MangaFire",
-                "title": "Boku wa Ayashii Kimi no Mono",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-ayashii-kimi-no-mono.4q7j7/"
-            }
-        },
         "MangaSee": {
             "boku-wa-ayashii-kimi-no-mono": {
+                "id": 161630,
                 "identifier": "boku-wa-ayashii-kimi-no-mono",
                 "image": "https://temp.compsci88.com/cover/Boku-wa-Ayashii-Kimi-no-Mono.jpg",
                 "malId": 153467,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg9c334nx6zva2bef109": {
+                "id": 209185,
                 "identifier": "01j76xyg9c334nx6zva2bef109",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG9C334NX6ZVA2BEF109.jpg",
                 "malId": 153467,
@@ -64,6 +56,19 @@
                 "title": "Boku wa Ayashii Kimi no Mono",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG9C334NX6ZVA2BEF109"
+            }
+        },
+        "MangaFire": {
+            "4q7j7": {
+                "id": 262539,
+                "identifier": "4q7j7",
+                "image": "https://static.mangafire.to/90c6/i/b/b7/b76325760b1cc3c090d434740d000b7a.jpg",
+                "malId": 153467,
+                "aniId": 154641,
+                "page": "MangaFire",
+                "title": "Boku wa Ayashii Kimi no Mono",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-wa-ayashii-kimi-no-monoo.4q7j7"
             }
         },
         "Comick": {

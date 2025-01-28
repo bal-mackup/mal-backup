@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7c2cd934-7ae6-4d1d-b86c-7eaddf89960d": {
+                "id": 52860,
                 "identifier": "7c2cd934-7ae6-4d1d-b86c-7eaddf89960d",
                 "image": "https://uploads.mangadex.org/covers/7c2cd934-7ae6-4d1d-b86c-7eaddf89960d/157b5221-49df-4cb0-aa29-ffc623375ef4.jpg",
                 "malId": 82585,
@@ -19,15 +20,40 @@
             }
         },
         "MangaFire": {
-            "hotel-helheim.yk92p": {
-                "identifier": "hotel-helheim.yk92p",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/7591be27678682cf887e72c6054713eb.jpg",
+            "yk92p": {
+                "id": 260209,
+                "identifier": "yk92p",
+                "image": "https://static.mangafire.to/258b/i/7/75/7591be27678682cf887e72c6054713eb.jpg",
                 "malId": 82585,
                 "aniId": 93276,
                 "page": "MangaFire",
                 "title": "Hotel Helheim",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/hotel-helheim.yk92p/"
+                "url": "https://mangafire.to/manga/hotel-helheimm.yk92p"
+            }
+        },
+        "MangaNato": {
+            "manga-dm1006769": {
+                "id": 268189,
+                "identifier": "manga-dm1006769",
+                "image": "https://avt.mkklcdnv6temp.com/fld/7/j/19-1737215310-nw.webp",
+                "malId": 82585,
+                "aniId": 93276,
+                "page": "MangaNato",
+                "title": "Hotel Helheim",
+                "type": "manga",
+                "url": "https://chapmanganato.to/manga-dm1006769"
+            }
+        },
+        "Comick": {
+            "42IhFQMu": {
+                "identifier": "42IhFQMu",
+                "malId": 82585,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Hotel Helheim",
+                "url": "https://comick.io/comic/hotel-helheim",
+                "aniId": 93276
             }
         }
     },

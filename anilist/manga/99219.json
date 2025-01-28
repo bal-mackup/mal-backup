@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "386485a3-a268-4859-b300-98b77bb1f481": {
+                "id": 17875,
                 "identifier": "386485a3-a268-4859-b300-98b77bb1f481",
                 "image": "https://uploads.mangadex.org/covers/386485a3-a268-4859-b300-98b77bb1f481/8929b89b-b4b5-4de7-a35e-ffb4ae26b9f9.jpg",
                 "malId": 107480,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cross-account": {
+                "id": 62284,
                 "identifier": "cross-account",
                 "image": "https://temp.compsci88.com/cover/Cross-Account.jpg",
                 "malId": 107480,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zv977304": {
+                "id": 79499,
                 "identifier": "manga-zv977304",
                 "image": "https://avt.mkklcdnv6temp.com/40/d/15-1583493108.jpg",
                 "malId": 107480,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-zv977304"
             },
             "manga-un971448": {
+                "id": 159800,
                 "identifier": "manga-un971448",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/l/7-1732785328-nw.webp",
                 "malId": 107480,
@@ -52,20 +56,9 @@
                 "url": "https://manganato.com/manga-un971448"
             }
         },
-        "MangaFire": {
-            "cross-account.52xqv": {
-                "identifier": "cross-account.52xqv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8ba993ad8d91882e4c56a59ac2b95f7b.jpg",
-                "malId": 107480,
-                "aniId": 99219,
-                "page": "MangaFire",
-                "title": "Cross Account",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cross-account.52xqv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc508y2crd7mkate4xz7": {
+                "id": 208649,
                 "identifier": "01j76xyc508y2crd7mkate4xz7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC508Y2CRD7MKATE4XZ7.jpg",
                 "malId": 107480,
@@ -74,6 +67,19 @@
                 "title": "Cross Account",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC508Y2CRD7MKATE4XZ7"
+            }
+        },
+        "MangaFire": {
+            "52xqv": {
+                "id": 256380,
+                "identifier": "52xqv",
+                "image": "https://static.mangafire.to/eec9/i/8/8b/8ba993ad8d91882e4c56a59ac2b95f7b.jpg",
+                "malId": 107480,
+                "aniId": 99219,
+                "page": "MangaFire",
+                "title": "Cross Account",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cross-accountt.52xqv"
             }
         },
         "Comick": {

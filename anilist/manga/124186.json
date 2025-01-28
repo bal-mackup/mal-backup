@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "93ee0acc-52af-4e33-b9cc-9adfc791cecb": {
+                "id": 39696,
                 "identifier": "93ee0acc-52af-4e33-b9cc-9adfc791cecb",
                 "image": "https://uploads.mangadex.org/covers/93ee0acc-52af-4e33-b9cc-9adfc791cecb/79f23ab6-53c9-448c-8eb0-eedac6377247.jpg",
                 "malId": 130366,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "policewoman-and-assassin": {
+                "id": 69485,
                 "identifier": "policewoman-and-assassin",
                 "image": "https://temp.compsci88.com/cover/Policewoman-and-Assassin.jpg",
                 "malId": 130366,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ji986717": {
+                "id": 82624,
                 "identifier": "manga-ji986717",
                 "image": "https://avt.mkklcdnv6temp.com/17/x/22-1600572063.jpg",
                 "malId": 130366,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "fukei_san_to_ansatsu_san": {
+                "id": 120248,
                 "identifier": "fukei_san_to_ansatsu_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35658/cover.jpg",
                 "malId": 130366,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/fukei_san_to_ansatsu_san/"
             }
         },
-        "MangaFire": {
-            "policewoman-and-assassin.yqmvj": {
-                "identifier": "policewoman-and-assassin.yqmvj",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4cd1c3ffdb346a0423385b44ad7b3209.jpg",
-                "malId": 130366,
-                "aniId": 124186,
-                "page": "MangaFire",
-                "title": "Policewoman and Assassin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/policewoman-and-assassin.yqmvj/"
-            },
-            "policewoman-and-assassinn.yqmvj": {
-                "identifier": "policewoman-and-assassinn.yqmvj",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4cd1c3ffdb346a0423385b44ad7b3209.jpg",
-                "malId": 130366,
-                "aniId": 124186,
-                "page": "MangaFire",
-                "title": "Policewoman and Assassin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/policewoman-and-assassinn.yqmvj/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzmda766p0t8mcp7dxc": {
+                "id": 209682,
                 "identifier": "01j76xydzmda766p0t8mcp7dxc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZMDA766P0T8MCP7DXC.jpg",
                 "malId": 130366,
@@ -86,6 +69,19 @@
                 "title": "Policewoman and Assassin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZMDA766P0T8MCP7DXC"
+            }
+        },
+        "MangaFire": {
+            "yqmvj": {
+                "id": 250129,
+                "identifier": "yqmvj",
+                "image": "https://static.mangafire.to/8a52/i/4/4c/4cd1c3ffdb346a0423385b44ad7b3209.jpg",
+                "malId": 130366,
+                "aniId": 124186,
+                "page": "MangaFire",
+                "title": "Policewoman and Assassin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/policewoman-and-assassinn.yqmvj"
             }
         },
         "Comick": {

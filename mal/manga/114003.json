@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0cfadedb-99cf-4fe5-b117-dc624da32225": {
+                "id": 20042,
                 "identifier": "0cfadedb-99cf-4fe5-b117-dc624da32225",
                 "image": "https://uploads.mangadex.org/covers/0cfadedb-99cf-4fe5-b117-dc624da32225/0172b37a-cff6-4499-90a5-830765e99cf3.jpg",
                 "malId": 114003,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "black-gakkou-ni-tsutomete-shimatta-sensei": {
+                "id": 58319,
                 "identifier": "black-gakkou-ni-tsutomete-shimatta-sensei",
                 "image": "https://temp.compsci88.com/cover/Black-Gakkou-ni-Tsutomete-Shimatta-Sensei.jpg",
                 "malId": 114003,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "burakku_gakkou_ni_tsutomete_shimatta_sensei": {
+                "id": 59948,
                 "identifier": "burakku_gakkou_ni_tsutomete_shimatta_sensei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28451/cover.jpg",
                 "malId": 114003,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ce979661": {
+                "id": 75490,
                 "identifier": "manga-ce979661",
                 "image": "https://avt.mkklcdnv6temp.com/49/y/16-1583495260.jpg",
                 "malId": 114003,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ce979661"
             }
         },
-        "MangaFire": {
-            "black-gakkou-ni-tsutomete-shimatta-sensei.llk23": {
-                "identifier": "black-gakkou-ni-tsutomete-shimatta-sensei.llk23",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/8318544c64cd0999168f48fff20288ae.jpg",
-                "malId": 114003,
-                "aniId": 101795,
-                "page": "MangaFire",
-                "title": "Transferred to the Gyaru Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-gakkou-ni-tsutomete-shimatta-sensei.llk23/"
-            },
-            "black-gakkou-ni-tsutomete-shimatta-senseii.llk23": {
-                "identifier": "black-gakkou-ni-tsutomete-shimatta-senseii.llk23",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/8318544c64cd0999168f48fff20288ae.jpg",
-                "malId": 114003,
-                "aniId": 101795,
-                "page": "MangaFire",
-                "title": "Transferred to the Gyaru Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-gakkou-ni-tsutomete-shimatta-senseii.llk23/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd2gg505yh7yb0nvkjjk": {
+                "id": 212851,
                 "identifier": "01j76xyd2gg505yh7yb0nvkjjk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD2GG505YH7YB0NVKJJK.jpg",
                 "malId": 114003,
@@ -86,6 +69,19 @@
                 "title": "Black Gakkou ni Tsutomete Shimatta Sensei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD2GG505YH7YB0NVKJJK"
+            }
+        },
+        "MangaFire": {
+            "llk23": {
+                "id": 226617,
+                "identifier": "llk23",
+                "image": "https://static.mangafire.to/eba7/i/8/83/8318544c64cd0999168f48fff20288ae.jpg",
+                "malId": 114003,
+                "aniId": 101795,
+                "page": "MangaFire",
+                "title": "Transferred to the Gyaru Academy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/black-gakkou-ni-tsutomete-shimatta-senseii.llk23"
             }
         },
         "Comick": {

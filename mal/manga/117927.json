@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b76a5c74-645f-4dce-923f-30555b43a9f4": {
+                "id": 57029,
                 "identifier": "b76a5c74-645f-4dce-923f-30555b43a9f4",
                 "image": "https://uploads.mangadex.org/covers/b76a5c74-645f-4dce-923f-30555b43a9f4/55b5b395-fa7a-4ed1-b862-fefecd466a48.jpg",
                 "malId": 117927,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bakemono-no-yawazukushi": {
+                "id": 81375,
                 "identifier": "bakemono-no-yawazukushi",
                 "image": "https://temp.compsci88.com/cover/Bakemono-No-Yawazukushi.jpg",
                 "malId": 117927,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fg982889": {
+                "id": 107508,
                 "identifier": "manga-fg982889",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/k/10-1732798710-nw.webp",
                 "malId": 117927,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-fg982889"
             }
         },
-        "MangaFire": {
-            "phantom-tales-of-the-night.80pmn": {
-                "identifier": "phantom-tales-of-the-night.80pmn",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b7ef82df51dfa0725d748ccfd814b6e.jpg",
-                "malId": 117927,
-                "aniId": 105592,
-                "page": "MangaFire",
-                "title": "Phantom Tales of the Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/phantom-tales-of-the-night.80pmn/"
-            }
-        },
         "Weebcentral": {
             "01j76xycyvarp9zzgr2wt1g4dg": {
+                "id": 213418,
                 "identifier": "01j76xycyvarp9zzgr2wt1g4dg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCYVARP9ZZGR2WT1G4DG.jpg",
                 "malId": 117927,
@@ -64,6 +56,19 @@
                 "title": "Phantom Tales of the Night",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCYVARP9ZZGR2WT1G4DG"
+            }
+        },
+        "MangaFire": {
+            "80pmn": {
+                "id": 253587,
+                "identifier": "80pmn",
+                "image": "https://static.mangafire.to/bbe4/i/4/4b/4b7ef82df51dfa0725d748ccfd814b6e.jpg",
+                "malId": 117927,
+                "aniId": 105592,
+                "page": "MangaFire",
+                "title": "Phantom Tales of the Night",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/phantom-tales-of-the-nightt.80pmn"
             }
         },
         "Comick": {

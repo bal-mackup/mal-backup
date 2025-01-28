@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e19c079-3a9d-4f61-88e7-b9c72eb69705": {
+                "id": 89680,
                 "identifier": "7e19c079-3a9d-4f61-88e7-b9c72eb69705",
                 "image": "https://uploads.mangadex.org/covers/7e19c079-3a9d-4f61-88e7-b9c72eb69705/7c928a0c-4ff9-464e-b16f-95c470951914.jpg",
                 "malId": 140256,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kimetsu_gakuen": {
+                "id": 128086,
                 "identifier": "kimetsu_gakuen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40799/cover.jpg",
                 "malId": 140256,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/kimetsu_gakuen/"
             }
         },
-        "MangaFire": {
-            "kimetsu-gakuen.1ryyx": {
-                "identifier": "kimetsu-gakuen.1ryyx",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/1771d9025394e721fed46c4ebb322228.jpg",
-                "malId": 140256,
-                "aniId": 136382,
-                "page": "MangaFire",
-                "title": "Demon Slayer: Kimetsu Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimetsu-gakuen.1ryyx/"
-            },
-            "kimetsu-gakuenn.1ryyx": {
-                "identifier": "kimetsu-gakuenn.1ryyx",
-                "image": "https://static.mangafire.to/5e8b/i/1/17/1771d9025394e721fed46c4ebb322228.jpg",
-                "malId": 140256,
-                "aniId": 136382,
-                "page": "MangaFire",
-                "title": "Demon Slayer: Kimetsu Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimetsu-gakuenn.1ryyx/"
-            }
-        },
         "MangaSee": {
             "demon-slayer-kimetsu-academy": {
+                "id": 177944,
                 "identifier": "demon-slayer-kimetsu-academy",
                 "image": "https://temp.compsci88.com/cover/Demon-Slayer-Kimetsu-Academy.jpg",
                 "malId": 140256,
@@ -66,8 +47,9 @@
         },
         "MangaNato": {
             "manga-vx999032": {
+                "id": 179876,
                 "identifier": "manga-vx999032",
-                "image": "https://avt.mkklcdnv6temp.com/20/r/32-1698833866.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/15/h/16-1733314026-nw.webp",
                 "malId": 140256,
                 "aniId": 136382,
                 "page": "MangaNato",
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygrh13q4rsj99vaa1h14": {
+                "id": 206899,
                 "identifier": "01j76xygrh13q4rsj99vaa1h14",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGRH13Q4RSJ99VAA1H14.jpg",
                 "malId": 140256,
@@ -86,6 +69,19 @@
                 "title": "Demon Slayer - Kimetsu Academy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGRH13Q4RSJ99VAA1H14"
+            }
+        },
+        "MangaFire": {
+            "1ryyx": {
+                "id": 223496,
+                "identifier": "1ryyx",
+                "image": "https://static.mangafire.to/5e8b/i/1/17/1771d9025394e721fed46c4ebb322228.jpg",
+                "malId": 140256,
+                "aniId": 136382,
+                "page": "MangaFire",
+                "title": "Demon Slayer: Kimetsu Academy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimetsu-gakuenn.1ryyx"
             }
         },
         "Comick": {

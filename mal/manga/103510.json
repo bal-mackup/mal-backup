@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "11b451fd-e0d7-4fbe-9466-60dd4b8fcdbd": {
+                "id": 16999,
                 "identifier": "11b451fd-e0d7-4fbe-9466-60dd4b8fcdbd",
                 "image": "https://uploads.mangadex.org/covers/11b451fd-e0d7-4fbe-9466-60dd4b8fcdbd/5d69d6ab-c64f-4db7-b56e-ac07481323a8.jpg",
                 "malId": 103510,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ten-thousand-kinds-of-love": {
+                "id": 71098,
                 "identifier": "ten-thousand-kinds-of-love",
                 "image": "https://temp.compsci88.com/cover/Ten-Thousand-Kinds-Of-Love.jpg",
                 "malId": 103510,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Ten-Thousand-Kinds-Of-Love"
             }
         },
-        "MangaFire": {
-            "ten-thousand-kinds-of-love.n3n2m": {
-                "identifier": "ten-thousand-kinds-of-love.n3n2m",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b3526f958a6cd464b864f284b656ac2.jpg",
-                "malId": 103510,
-                "aniId": 98267,
-                "page": "MangaFire",
-                "title": "Ten Thousand Kinds of Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ten-thousand-kinds-of-love.n3n2m/"
-            },
-            "n3n2m": {
-                "identifier": "n3n2m",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b3526f958a6cd464b864f284b656ac2.jpg",
-                "malId": 103510,
-                "aniId": 98267,
-                "page": "MangaFire",
-                "title": "Ten Thousand Kinds of Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ten-thousand-kinds-of-love.n3n2m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2fn2drpvhmdpda6abz": {
+                "id": 212147,
                 "identifier": "01j76xyc2fn2drpvhmdpda6abz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2FN2DRPVHMDPDA6ABZ.jpg",
                 "malId": 103510,
@@ -62,6 +43,19 @@
                 "title": "Ten Thousand Kinds of Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2FN2DRPVHMDPDA6ABZ"
+            }
+        },
+        "MangaFire": {
+            "n3n2m": {
+                "id": 248938,
+                "identifier": "n3n2m",
+                "image": "https://static.mangafire.to/de32/i/4/4b/4b3526f958a6cd464b864f284b656ac2.jpg",
+                "malId": 103510,
+                "aniId": 98267,
+                "page": "MangaFire",
+                "title": "Ten Thousand Kinds of Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ten-thousand-kinds-of-lovee.n3n2m"
             }
         },
         "Comick": {

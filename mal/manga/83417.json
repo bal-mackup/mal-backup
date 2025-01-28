@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7779b6a3-6bcd-44aa-b51d-b0e698c8102d": {
+                "id": 12452,
                 "identifier": "7779b6a3-6bcd-44aa-b51d-b0e698c8102d",
                 "image": "https://uploads.mangadex.org/covers/7779b6a3-6bcd-44aa-b51d-b0e698c8102d/5a78e85e-11f8-4872-abc6-a8884c299f88.jpg",
                 "malId": 83417,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tokiwa_kitareri": {
+                "id": 66870,
                 "identifier": "tokiwa_kitareri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15036/cover.jpg",
                 "malId": 83417,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tokiwa-kitareri": {
+                "id": 91581,
                 "identifier": "tokiwa-kitareri",
                 "image": "https://temp.compsci88.com/cover/Tokiwa-Kitareri.jpg",
                 "malId": 83417,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vu951829": {
+                "id": 93928,
                 "identifier": "manga-vu951829",
                 "image": "https://avt.mkklcdnv6temp.com/fld/20/s/1-1732717186-nw.webp",
                 "malId": 83417,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-vu951829"
             }
         },
-        "MangaFire": {
-            "tokiwa-kitareri.ll9r6": {
-                "identifier": "tokiwa-kitareri.ll9r6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/218370259ced7ec9160006716c25b35b.jpg",
-                "malId": 83417,
-                "aniId": 85997,
-                "page": "MangaFire",
-                "title": "Tokiwa Kitareri!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokiwa-kitareri.ll9r6/"
-            },
-            "ll9r6": {
-                "identifier": "ll9r6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/218370259ced7ec9160006716c25b35b.jpg",
-                "malId": 83417,
-                "aniId": 85997,
-                "page": "MangaFire",
-                "title": "Tokiwa Kitareri!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokiwa-kitareri.ll9r6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb76nvfxt4xa6yamkfaw": {
+                "id": 212250,
                 "identifier": "01j76xyb76nvfxt4xa6yamkfaw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB76NVFXT4XA6YAMKFAW.jpg",
                 "malId": 83417,
@@ -86,6 +69,19 @@
                 "title": "Tokiwa Kitareri!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB76NVFXT4XA6YAMKFAW"
+            }
+        },
+        "MangaFire": {
+            "ll9r6": {
+                "id": 237101,
+                "identifier": "ll9r6",
+                "image": "https://static.mangafire.to/3ab3/i/2/21/218370259ced7ec9160006716c25b35b.jpg",
+                "malId": 83417,
+                "aniId": 85997,
+                "page": "MangaFire",
+                "title": "Tokiwa Kitareri!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokiwa-kitarerii.ll9r6"
             }
         },
         "Comick": {

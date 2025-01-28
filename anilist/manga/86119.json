@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "906bc40b-1b69-4bb2-948e-cc9cb463cf85": {
+                "id": 12359,
                 "identifier": "906bc40b-1b69-4bb2-948e-cc9cb463cf85",
                 "image": "https://uploads.mangadex.org/covers/906bc40b-1b69-4bb2-948e-cc9cb463cf85/889cddec-a29a-47f4-af7a-88e18730ecc5.jpg",
                 "malId": 68273,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shinmai-maou-no-keiyakusha-arashi": {
+                "id": 56877,
                 "identifier": "shinmai-maou-no-keiyakusha-arashi",
                 "image": "https://temp.compsci88.com/cover/Shinmai-Maou-No-Keiyakusha-Arashi.jpg",
                 "malId": 68273,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shinmai_maou_no_testament_arashi": {
+                "id": 64949,
                 "identifier": "shinmai_maou_no_testament_arashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18409/cover.jpg",
                 "malId": 68273,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-rw955679": {
+                "id": 81019,
                 "identifier": "manga-rw955679",
                 "image": "https://avt.mkklcdnv6temp.com/fld/42/e/2-1732722528-nw.webp",
                 "malId": 68273,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-rw955679"
             }
         },
-        "MangaFire": {
-            "shinmai-maou-no-testament-arashi.oj8my": {
-                "identifier": "shinmai-maou-no-testament-arashi.oj8my",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73334874d34e55e49ec90bb0cabe16b0.jpg",
-                "malId": 68273,
-                "aniId": 86119,
-                "page": "MangaFire",
-                "title": "The Testament of Sister New Devil Storm!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinmai-maou-no-testament-arashi.oj8my/"
-            },
-            "oj8my": {
-                "identifier": "oj8my",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73334874d34e55e49ec90bb0cabe16b0.jpg",
-                "malId": 68273,
-                "aniId": 86119,
-                "page": "MangaFire",
-                "title": "The Testament of Sister New Devil Storm!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinmai-maou-no-testament-arashi.oj8my/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczkfyyxcdbjj98213mn": {
+                "id": 207627,
                 "identifier": "01j76xyczkfyyxcdbjj98213mn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZKFYYXCDBJJ98213MN.jpg",
                 "malId": 68273,
@@ -86,6 +69,19 @@
                 "title": "The Testament of Sister New Devil STORM!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZKFYYXCDBJJ98213MN"
+            }
+        },
+        "MangaFire": {
+            "oj8my": {
+                "id": 234399,
+                "identifier": "oj8my",
+                "image": "https://static.mangafire.to/c92c/i/7/73/73334874d34e55e49ec90bb0cabe16b0.jpg",
+                "malId": 68273,
+                "aniId": 86119,
+                "page": "MangaFire",
+                "title": "The Testament of Sister New Devil Storm!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinmai-maou-no-testament-arashii.oj8my"
             }
         },
         "Comick": {

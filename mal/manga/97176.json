@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "00eab497-5360-4a3f-b616-093c79b809c4": {
+                "id": 15318,
                 "identifier": "00eab497-5360-4a3f-b616-093c79b809c4",
                 "image": "https://uploads.mangadex.org/covers/00eab497-5360-4a3f-b616-093c79b809c4/0f86bbda-761b-42ef-8bb2-f5a76b0244de.jpg",
                 "malId": 97176,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yoruhime-sama": {
+                "id": 72095,
                 "identifier": "yoruhime-sama",
                 "image": "https://temp.compsci88.com/cover/Yoruhime-sama.jpg",
                 "malId": 97176,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Yoruhime-sama"
             }
         },
-        "MangaFire": {
-            "yoru-hime-sama.nz9m": {
-                "identifier": "yoru-hime-sama.nz9m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6c5a1f22c164c6f59d90d076f662b20d.jpg",
-                "malId": 97176,
-                "aniId": 96963,
-                "page": "MangaFire",
-                "title": "Yoru Hime-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoru-hime-sama.nz9m/"
-            },
-            "nz9m": {
-                "identifier": "nz9m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6c5a1f22c164c6f59d90d076f662b20d.jpg",
-                "malId": 97176,
-                "aniId": 96963,
-                "page": "MangaFire",
-                "title": "Yoru Hime-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoru-hime-sama.nz9m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybz0x7h1dhmd6kexznch": {
+                "id": 211285,
                 "identifier": "01j76xybz0x7h1dhmd6kexznch",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBZ0X7H1DHMD6KEXZNCH.jpg",
                 "malId": 97176,
@@ -62,6 +43,19 @@
                 "title": "Yoruhime-sama",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBZ0X7H1DHMD6KEXZNCH"
+            }
+        },
+        "MangaFire": {
+            "nz9m": {
+                "id": 245060,
+                "identifier": "nz9m",
+                "image": "https://static.mangafire.to/1988/i/6/6c/6c5a1f22c164c6f59d90d076f662b20d.jpg",
+                "malId": 97176,
+                "aniId": 96963,
+                "page": "MangaFire",
+                "title": "Yoru Hime-sama",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yoru-hime-samaa.nz9m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c53c8450-3381-4b88-be2b-3549bb02b3f7": {
+                "id": 37548,
                 "identifier": "c53c8450-3381-4b88-be2b-3549bb02b3f7",
                 "image": "https://uploads.mangadex.org/covers/c53c8450-3381-4b88-be2b-3549bb02b3f7/63aaf29f-1756-4ed3-aea6-96767a93933e.jpg",
                 "malId": 127023,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shikabane-gatana": {
+                "id": 64982,
                 "identifier": "shikabane-gatana",
                 "image": "https://temp.compsci88.com/cover/Shikabane-Gatana.jpg",
                 "malId": 127023,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-id986338": {
+                "id": 78353,
                 "identifier": "manga-id986338",
                 "image": "https://avt.mkklcdnv6temp.com/2/s/22-1598167701.jpg",
                 "malId": 127023,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-id986338"
             }
         },
-        "MangaFire": {
-            "shikabane-gatana.1n0jv": {
-                "identifier": "shikabane-gatana.1n0jv",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc8b9ac1013584559f0211e0da592de9.jpg",
-                "malId": 127023,
-                "aniId": 120858,
-                "page": "MangaFire",
-                "title": "Shikabane-Gatana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shikabane-gatana.1n0jv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeeep33ggtwdc3kmajtz": {
+                "id": 213110,
                 "identifier": "01j76xyeeep33ggtwdc3kmajtz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEEEP33GGTWDC3KMAJTZ.jpg",
                 "malId": 127023,
@@ -64,6 +56,19 @@
                 "title": "Shikabane-Gatana",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEEEP33GGTWDC3KMAJTZ"
+            }
+        },
+        "MangaFire": {
+            "1n0jv": {
+                "id": 249150,
+                "identifier": "1n0jv",
+                "image": "https://static.mangafire.to/2164/i/b/bc/bc8b9ac1013584559f0211e0da592de9.jpg",
+                "malId": 127023,
+                "aniId": 120858,
+                "page": "MangaFire",
+                "title": "Shikabane-Gatana",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shikabane-gatanaa.1n0jv"
             }
         },
         "Comick": {

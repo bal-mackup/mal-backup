@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "54e7001b-6112-4d5f-8b0e-d8df33abf72d": {
+                "id": 37401,
                 "identifier": "54e7001b-6112-4d5f-8b0e-d8df33abf72d",
                 "image": "https://uploads.mangadex.org/covers/54e7001b-6112-4d5f-8b0e-d8df33abf72d/8b6c9d5c-b789-407c-bd24-6b88823ec0ca.png",
                 "malId": 135455,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jq986499": {
+                "id": 81556,
                 "identifier": "manga-jq986499",
                 "image": "https://avt.mkklcdnv6temp.com/9/j/22-1599328193.jpg",
                 "malId": 135455,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "my-deer-friend-nokotan": {
+                "id": 100784,
                 "identifier": "my-deer-friend-nokotan",
                 "image": "https://temp.compsci88.com/cover/My-Deer-Friend-Nokotan.jpg",
                 "malId": 135455,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/My-Deer-Friend-Nokotan"
             }
         },
-        "MangaFire": {
-            "shikanoko-nokonoko-koshitantan.80lvy": {
-                "identifier": "shikanoko-nokonoko-koshitantan.80lvy",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f23abe450f408d8bd083abd2b7cd2385.jpg",
-                "malId": 135455,
-                "aniId": 125555,
-                "page": "MangaFire",
-                "title": "My Deer Friend Nokotan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shikanoko-nokonoko-koshitantan.80lvy/"
-            },
-            "shikanoko-nokonoko-koshitantann.80lvy": {
-                "identifier": "shikanoko-nokonoko-koshitantann.80lvy",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f23abe450f408d8bd083abd2b7cd2385.jpg",
-                "malId": 135455,
-                "aniId": 125555,
-                "page": "MangaFire",
-                "title": "My Deer Friend Nokotan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shikanoko-nokonoko-koshitantann.80lvy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfcbkjngzt2fmq5gh3wf": {
+                "id": 211841,
                 "identifier": "01j76xyfcbkjngzt2fmq5gh3wf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCBKJNGZT2FMQ5GH3WF.jpg",
                 "malId": 135455,
@@ -74,6 +56,19 @@
                 "title": "My Deer Friend Nokotan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCBKJNGZT2FMQ5GH3WF"
+            }
+        },
+        "MangaFire": {
+            "80lvy": {
+                "id": 226384,
+                "identifier": "80lvy",
+                "image": "https://static.mangafire.to/0bc7/i/f/f2/f23abe450f408d8bd083abd2b7cd2385.jpg",
+                "malId": 135455,
+                "aniId": 125555,
+                "page": "MangaFire",
+                "title": "My Deer Friend Nokotan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shikanoko-nokonoko-koshitantann.80lvy"
             }
         },
         "Comick": {

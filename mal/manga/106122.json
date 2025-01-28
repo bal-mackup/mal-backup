@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fedb11d4-66c7-4c5f-a941-a611735c034b": {
+                "id": 40265,
                 "identifier": "fedb11d4-66c7-4c5f-a941-a611735c034b",
                 "image": "https://uploads.mangadex.org/covers/fedb11d4-66c7-4c5f-a941-a611735c034b/2f44c8d0-7967-4ad3-bdeb-0da048e981fa.jpg",
                 "malId": 106122,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/fedb11d4-66c7-4c5f-a941-a611735c034b"
             }
         },
-        "MangaFire": {
-            "super-cartesian-theater.7jwkj": {
-                "identifier": "super-cartesian-theater.7jwkj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04a578d2d28baf4fe30bda0496320961.jpg",
-                "malId": 106122,
-                "aniId": 142286,
-                "page": "MangaFire",
-                "title": "Super Cartesian Theater",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/super-cartesian-theater.7jwkj/"
-            },
-            "7jwkj": {
-                "identifier": "7jwkj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04a578d2d28baf4fe30bda0496320961.jpg",
-                "malId": 106122,
-                "aniId": 142286,
-                "page": "MangaFire",
-                "title": "Super Cartesian Theater",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/super-cartesian-theater.7jwkj/"
-            }
-        },
         "MangaNato": {
             "manga-jz986934": {
+                "id": 194744,
                 "identifier": "manga-jz986934",
                 "image": "https://avt.mkklcdnv6temp.com/fld/63/o/11-1733284096-nw.webp",
                 "malId": 106122,
@@ -50,6 +30,19 @@
                 "title": "Super Cartesian Theater",
                 "type": "manga",
                 "url": "https://manganato.com/manga-jz986934"
+            }
+        },
+        "MangaFire": {
+            "7jwkj": {
+                "id": 239565,
+                "identifier": "7jwkj",
+                "image": "https://static.mangafire.to/4b6b/i/0/04/04a578d2d28baf4fe30bda0496320961.jpg",
+                "malId": 106122,
+                "aniId": 142286,
+                "page": "MangaFire",
+                "title": "Super Cartesian Theater",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/super-cartesian-theaterr.7jwkj"
             }
         }
     },

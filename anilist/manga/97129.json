@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "10241f98-6251-4134-9860-2a8677e53c72": {
+                "id": 17016,
                 "identifier": "10241f98-6251-4134-9860-2a8677e53c72",
                 "image": "https://uploads.mangadex.org/covers/10241f98-6251-4134-9860-2a8677e53c72/a1c1d91f-ffee-4db4-a268-e407d3f0d9d2.jpg",
                 "malId": 98051,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/10241f98-6251-4134-9860-2a8677e53c72"
             }
         },
-        "MangaFire": {
-            "noumen-joshi-no-hanako-san.zlrwp": {
-                "identifier": "noumen-joshi-no-hanako-san.zlrwp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f98af35d473cfd8d4719e2a652aab27d.jpg",
-                "malId": 98051,
-                "aniId": 97129,
-                "page": "MangaFire",
-                "title": "Noh Masked High Shool Girl Hanako",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/noumen-joshi-no-hanako-san.zlrwp/"
-            },
-            "zlrwp": {
-                "identifier": "zlrwp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f98af35d473cfd8d4719e2a652aab27d.jpg",
-                "malId": 98051,
-                "aniId": 97129,
-                "page": "MangaFire",
-                "title": "Noh Masked High Shool Girl Hanako",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/noumen-joshi-no-hanako-san.zlrwp/"
-            }
-        },
         "MangaFox": {
             "noumen_joshi_no_hanako_san": {
+                "id": 168762,
                 "identifier": "noumen_joshi_no_hanako_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27803/cover.jpg",
                 "malId": 98051,
@@ -50,6 +30,19 @@
                 "title": "Noumen Joshi no Hanako-san",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/noumen_joshi_no_hanako_san/"
+            }
+        },
+        "MangaFire": {
+            "zlrwp": {
+                "id": 253530,
+                "identifier": "zlrwp",
+                "image": "https://static.mangafire.to/9be0/i/f/f9/f98af35d473cfd8d4719e2a652aab27d.jpg",
+                "malId": 98051,
+                "aniId": 97129,
+                "page": "MangaFire",
+                "title": "Noh Masked High Shool Girl Hanako",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/noumen-joshi-no-hanako-sann.zlrwp"
             }
         },
         "Comick": {

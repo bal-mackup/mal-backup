@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "46f0482c-9fa7-4811-87e8-9234b7f33eeb": {
+                "id": 117889,
                 "identifier": "46f0482c-9fa7-4811-87e8-9234b7f33eeb",
                 "image": "https://uploads.mangadex.org/covers/46f0482c-9fa7-4811-87e8-9234b7f33eeb/764b84a2-0714-493a-a6cb-b36cbf526d51.jpg",
                 "malId": 153941,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/46f0482c-9fa7-4811-87e8-9234b7f33eeb"
             }
         },
-        "MangaFire": {
-            "sonna-hiroki-mo-isekai-e.9or98": {
-                "identifier": "sonna-hiroki-mo-isekai-e.9or98",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6f381362a1bfc785167fdbebabe4f26.jpg",
-                "malId": 153941,
-                "aniId": 157185,
-                "page": "MangaFire",
-                "title": "Hiroki, Too, Gets Summoned into Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sonna-hiroki-mo-isekai-e.9or98/"
-            },
-            "sonna-hiroki-mo-isekai-ee.9or98": {
-                "identifier": "sonna-hiroki-mo-isekai-ee.9or98",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6f381362a1bfc785167fdbebabe4f26.jpg",
-                "malId": 153941,
-                "aniId": 157185,
-                "page": "MangaFire",
-                "title": "Hiroki, Too, Gets Summoned into Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sonna-hiroki-mo-isekai-ee.9or98/"
-            }
-        },
         "MangaSee": {
             "sonna-hiroki-mo-isekai-e": {
+                "id": 159906,
                 "identifier": "sonna-hiroki-mo-isekai-e",
                 "image": "https://temp.compsci88.com/cover/Sonna-Hiroki-mo-Isekai-e.jpg",
                 "malId": 153941,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg7xbwz380c58qpjat3x": {
+                "id": 211387,
                 "identifier": "01j76xyg7xbwz380c58qpjat3x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG7XBWZ380C58QPJAT3X.jpg",
                 "malId": 153941,
@@ -62,6 +43,19 @@
                 "title": "Sonna Hiroki mo Isekai e",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG7XBWZ380C58QPJAT3X"
+            }
+        },
+        "MangaFire": {
+            "9or98": {
+                "id": 231222,
+                "identifier": "9or98",
+                "image": "https://static.mangafire.to/11cc/i/c/c6/c6f381362a1bfc785167fdbebabe4f26.jpg",
+                "malId": 153941,
+                "aniId": 157185,
+                "page": "MangaFire",
+                "title": "Hiroki, Too, Gets Summoned into Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sonna-hiroki-mo-isekai-ee.9or98"
             }
         },
         "Comick": {

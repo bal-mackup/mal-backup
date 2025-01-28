@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d": {
+                "id": 12467,
                 "identifier": "c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d",
                 "image": "https://uploads.mangadex.org/covers/c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d/e67ab88f-3212-434b-ae50-c032fb72d334.jpg",
                 "malId": 92689,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-thousand-petals": {
+                "id": 62562,
                 "identifier": "a-thousand-petals",
                 "image": "https://temp.compsci88.com/cover/A-Thousand-Petals.jpg",
                 "malId": 92689,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kf961914": {
+                "id": 87709,
                 "identifier": "manga-kf961914",
                 "image": "https://avt.mkklcdnv6temp.com/fld/53/z/4-1732762584-nw.webp",
                 "malId": 92689,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-kf961914"
             }
         },
-        "MangaFire": {
-            "a-thousand-petals.z161w": {
-                "identifier": "a-thousand-petals.z161w",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2ea13656ee3372da447be1ae3ac07492.jpg",
-                "malId": 92689,
-                "aniId": 95923,
-                "page": "MangaFire",
-                "title": "A Thousand Petals",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-thousand-petals.z161w/"
-            },
-            "z161w": {
-                "identifier": "z161w",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2ea13656ee3372da447be1ae3ac07492.jpg",
-                "malId": 92689,
-                "aniId": 95923,
-                "page": "MangaFire",
-                "title": "A Thousand Petals",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-thousand-petals.z161w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb4tp14pk1scz2h6hche": {
+                "id": 209349,
                 "identifier": "01j76xyb4tp14pk1scz2h6hche",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB4TP14PK1SCZ2H6HCHE.jpg",
                 "malId": 92689,
@@ -74,6 +56,19 @@
                 "title": "A Thousand Petals",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB4TP14PK1SCZ2H6HCHE"
+            }
+        },
+        "MangaFire": {
+            "z161w": {
+                "id": 262017,
+                "identifier": "z161w",
+                "image": "https://static.mangafire.to/3e96/i/2/2e/2ea13656ee3372da447be1ae3ac07492.jpg",
+                "malId": 92689,
+                "aniId": 95923,
+                "page": "MangaFire",
+                "title": "A Thousand Petals",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-thousand-petalss.z161w"
             }
         },
         "Comick": {

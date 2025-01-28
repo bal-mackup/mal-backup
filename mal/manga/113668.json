@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "019dd911-cd1f-4bfb-839c-642be1472ba4": {
+                "id": 21233,
                 "identifier": "019dd911-cd1f-4bfb-839c-642be1472ba4",
                 "image": "https://uploads.mangadex.org/covers/019dd911-cd1f-4bfb-839c-642be1472ba4/302f255d-d3a6-421c-a254-c2548364c8a0.jpg",
                 "malId": 113668,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tobaku_datenroku_kaiji_24oku_dasshutsu_hen": {
+                "id": 60851,
                 "identifier": "tobaku_datenroku_kaiji_24oku_dasshutsu_hen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27703/cover.jpg",
                 "malId": 113668,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tobaku-datenroku-kaiji---24oku-dasshutsu-hen": {
+                "id": 62256,
                 "identifier": "tobaku-datenroku-kaiji---24oku-dasshutsu-hen",
                 "image": "https://temp.compsci88.com/cover/Tobaku-Datenroku-Kaiji---24oku-Dasshutsu-Hen.jpg",
                 "malId": 113668,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cp980350": {
+                "id": 76819,
                 "identifier": "manga-cp980350",
                 "image": "https://avt.mkklcdnv6temp.com/25/j/17-1583496165.jpg",
                 "malId": 113668,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cp980350"
             }
         },
-        "MangaFire": {
-            "gambling-outcast-kaiji-the-24-billion-escape-arc-kaiji-part-6.r2po": {
-                "identifier": "gambling-outcast-kaiji-the-24-billion-escape-arc-kaiji-part-6.r2po",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8b2b687d7ab8863bb5ec521545106c8.jpg",
-                "malId": 113668,
-                "aniId": 101556,
-                "page": "MangaFire",
-                "title": "Gambling Outcast Kaiji: The 2.4 Billion Escape Arc - Kaiji Part 6",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gambling-outcast-kaiji-the-24-billion-escape-arc-kaiji-part-6.r2po/"
-            },
-            "r2po": {
-                "identifier": "r2po",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8b2b687d7ab8863bb5ec521545106c8.jpg",
-                "malId": 113668,
-                "aniId": 101556,
-                "page": "MangaFire",
-                "title": "Gambling Outcast Kaiji: The 2.4 Billion Escape Arc - Kaiji Part 6",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gambling-outcast-kaiji-the-24-billion-escape-arc-kaiji-part-6.r2po/"
-            }
-        },
         "Weebcentral": {
             "01j76xychasznjqd8x0z86z96h": {
+                "id": 207749,
                 "identifier": "01j76xychasznjqd8x0z86z96h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCHASZNJQD8X0Z86Z96H.jpg",
                 "malId": 113668,
@@ -86,6 +69,19 @@
                 "title": "Tobaku Datenroku Kaiji - 24oku Dasshutsu Hen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCHASZNJQD8X0Z86Z96H"
+            }
+        },
+        "MangaFire": {
+            "r2po": {
+                "id": 258233,
+                "identifier": "r2po",
+                "image": "https://static.mangafire.to/48c1/i/b/b8/b8b2b687d7ab8863bb5ec521545106c8.jpg",
+                "malId": 113668,
+                "aniId": 101556,
+                "page": "MangaFire",
+                "title": "Gambling Outcast Kaiji: The 2.4 Billion Escape Arc - Kaiji Part 6",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gambling-outcast-kaiji-the-24-billion-escape-arc-kaiji-part-66.r2po"
             }
         },
         "Comick": {

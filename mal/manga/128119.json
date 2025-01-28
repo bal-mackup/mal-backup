@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99b9d9b6-0a17-4741-89f0-0b7433596abf": {
+                "id": 34645,
                 "identifier": "99b9d9b6-0a17-4741-89f0-0b7433596abf",
                 "image": "https://uploads.mangadex.org/covers/99b9d9b6-0a17-4741-89f0-0b7433596abf/bfcc7e70-1ffe-4a2c-bd48-b4e2fe423e3e.jpg",
                 "malId": 128119,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-os992153": {
+                "id": 113542,
                 "identifier": "manga-os992153",
                 "image": "https://avt.mkklcdnv6temp.com/46/b/26-1661882485.jpg",
                 "malId": 128119,
@@ -30,6 +32,7 @@
                 "url": "https://manganato.com/manga-os992153"
             },
             "manga-qk993367": {
+                "id": 120600,
                 "identifier": "manga-qk993367",
                 "image": "https://avt.mkklcdnv6temp.com/45/a/27-1672219175.jpg",
                 "malId": 128119,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "deatte_hito_tsuki_de_zecchou_jorei_comic": {
+                "id": 124688,
                 "identifier": "deatte_hito_tsuki_de_zecchou_jorei_comic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33683/cover.jpg",
                 "malId": 128119,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/deatte_hito_tsuki_de_zecchou_jorei_comic/"
             }
         },
-        "MangaFire": {
-            "deatte-hitotsuki-de-zecchou-jorei.llqzn": {
-                "identifier": "deatte-hitotsuki-de-zecchou-jorei.llqzn",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9ebfdd6578cafe02e91c1a8208a25219.jpg",
-                "malId": 128119,
-                "aniId": 116693,
-                "page": "MangaFire",
-                "title": "Climax Exorcism With A Single Touch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/deatte-hitotsuki-de-zecchou-jorei.llqzn/"
-            },
-            "deatte-hitotsuki-de-zecchou-joreii.llqzn": {
-                "identifier": "deatte-hitotsuki-de-zecchou-joreii.llqzn",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9ebfdd6578cafe02e91c1a8208a25219.jpg",
-                "malId": 128119,
-                "aniId": 116693,
-                "page": "MangaFire",
-                "title": "Climax Exorcism With A Single Touch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/deatte-hitotsuki-de-zecchou-joreii.llqzn/"
-            }
-        },
         "MangaSee": {
             "deatte-hitotsuki-de-zecchou-jorei": {
+                "id": 170532,
                 "identifier": "deatte-hitotsuki-de-zecchou-jorei",
                 "image": "https://temp.compsci88.com/cover/Deatte-Hitotsuki-de-Zecchou-Jorei.jpg",
                 "malId": 128119,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xyghm15b3gar1be0b0mx4": {
+                "id": 207321,
                 "identifier": "01j76xyghm15b3gar1be0b0mx4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGHM15B3GAR1BE0B0MX4.jpg",
                 "malId": 128119,
@@ -96,6 +80,19 @@
                 "title": "Deatte Hitotsuki de Zecchou Jorei!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGHM15B3GAR1BE0B0MX4"
+            }
+        },
+        "MangaFire": {
+            "llqzn": {
+                "id": 225410,
+                "identifier": "llqzn",
+                "image": "https://static.mangafire.to/ca37/i/9/9e/9ebfdd6578cafe02e91c1a8208a25219.jpg",
+                "malId": 128119,
+                "aniId": 116693,
+                "page": "MangaFire",
+                "title": "Climax Exorcism With A Single Touch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/deatte-hitotsuki-de-zecchou-joreii.llqzn"
             }
         },
         "Comick": {

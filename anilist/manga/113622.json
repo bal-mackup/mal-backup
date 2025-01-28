@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3d839cd9-1950-405c-b71f-9abbd7443058": {
+                "id": 32232,
                 "identifier": "3d839cd9-1950-405c-b71f-9abbd7443058",
                 "image": "https://uploads.mangadex.org/covers/3d839cd9-1950-405c-b71f-9abbd7443058/ff033dac-092f-4c99-82bc-6abef54712d3.jpg",
                 "malId": 124174,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hs984575": {
+                "id": 82306,
                 "identifier": "manga-hs984575",
                 "image": "https://avt.mkklcdnv6temp.com/31/h/20-1583502229.jpg",
                 "malId": 124174,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "asako": {
+                "id": 101455,
                 "identifier": "asako",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32716/cover.jpg",
                 "malId": 124174,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/asako/"
             }
         },
-        "MangaFire": {
-            "asako.ojvq4": {
-                "identifier": "asako.ojvq4",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e6/e61b144dc41a462ecdf42e127855e080.jpg",
-                "malId": 124174,
-                "aniId": 113622,
-                "page": "MangaFire",
-                "title": "Asako",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asako.ojvq4/"
-            },
-            "asakoo.ojvq4": {
-                "identifier": "asakoo.ojvq4",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e6/e61b144dc41a462ecdf42e127855e080.jpg",
-                "malId": 124174,
-                "aniId": 113622,
-                "page": "MangaFire",
-                "title": "Asako",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asakoo.ojvq4/"
-            }
-        },
         "MangaSee": {
             "asako": {
+                "id": 175137,
                 "identifier": "asako",
                 "image": "https://temp.compsci88.com/cover/Asako.jpg",
                 "malId": 124174,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygng4k3hwr1ss959wj5d": {
+                "id": 207210,
                 "identifier": "01j76xygng4k3hwr1ss959wj5d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGNG4K3HWR1SS959WJ5D.jpg",
                 "malId": 124174,
@@ -86,6 +69,19 @@
                 "title": "Asako",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGNG4K3HWR1SS959WJ5D"
+            }
+        },
+        "MangaFire": {
+            "ojvq4": {
+                "id": 229630,
+                "identifier": "ojvq4",
+                "image": "https://static.mangafire.to/c77b/i/e/e6/e61b144dc41a462ecdf42e127855e080.jpg",
+                "malId": 124174,
+                "aniId": 113622,
+                "page": "MangaFire",
+                "title": "Asako",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/asakoo.ojvq4"
             }
         },
         "Comick": {

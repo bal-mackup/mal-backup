@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "a-chinese-fantasy": {
+                "id": 116133,
                 "identifier": "a-chinese-fantasy",
                 "image": "https://temp.compsci88.com/cover/A-Chinese-Fantasy.jpg",
                 "malId": 142666,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "a9730e32-253e-4e9f-9727-ba3702a80c27": {
+                "id": 160304,
                 "identifier": "a9730e32-253e-4e9f-9727-ba3702a80c27",
                 "image": "https://uploads.mangadex.org/covers/a9730e32-253e-4e9f-9727-ba3702a80c27/ce836276-f543-45ea-a6a5-a7abb4126169.jpg",
                 "malId": 142666,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/a9730e32-253e-4e9f-9727-ba3702a80c27"
             }
         },
-        "MangaFire": {
-            "ryuuou-no-musume-chuugoku-gensousen.k39ov": {
-                "identifier": "ryuuou-no-musume-chuugoku-gensousen.k39ov",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a955959802c5b0fe998336ee57259a2c.jpg",
-                "malId": 142666,
-                "aniId": 117368,
-                "page": "MangaFire",
-                "title": "A Chinese Fantasy: The Dragon King’s Daughter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryuuou-no-musume-chuugoku-gensousen.k39ov/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfpj7yrkzb98t5tcgztm": {
+                "id": 211491,
                 "identifier": "01j76xyfpj7yrkzb98t5tcgztm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFPJ7YRKZB98T5TCGZTM.jpg",
                 "malId": 142666,
@@ -52,6 +43,19 @@
                 "title": "A Chinese Fantasy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFPJ7YRKZB98T5TCGZTM"
+            }
+        },
+        "MangaFire": {
+            "k39ov": {
+                "id": 236746,
+                "identifier": "k39ov",
+                "image": "https://static.mangafire.to/7054/i/a/a9/a955959802c5b0fe998336ee57259a2c.jpg",
+                "malId": 142666,
+                "aniId": 117368,
+                "page": "MangaFire",
+                "title": "A Chinese Fantasy: The Dragon King’s Daughter",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ryuuou-no-musume-chuugoku-gensousenn.k39ov"
             }
         },
         "Comick": {

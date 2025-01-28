@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "512cd78f-cbb8-460a-bafd-e8840c0f7c31": {
+                "id": 127687,
                 "identifier": "512cd78f-cbb8-460a-bafd-e8840c0f7c31",
                 "image": "https://uploads.mangadex.org/covers/512cd78f-cbb8-460a-bafd-e8840c0f7c31/b30395aa-2d98-4439-b141-a916840aee16.jpg",
                 "malId": 158357,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sn995670": {
+                "id": 152613,
                 "identifier": "manga-sn995670",
                 "image": "https://avt.mkklcdnv6temp.com/fld/87/a/14-1733305810-nw.webp",
                 "malId": 158357,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-sn995670"
             }
         },
-        "MangaFire": {
-            "sword-art-online-unital-ring.2po6q": {
-                "identifier": "sword-art-online-unital-ring.2po6q",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/0c343e4ea0144b96fd63ca0c4cc67d88.jpg",
-                "malId": 158357,
-                "aniId": 164247,
-                "page": "MangaFire",
-                "title": "Sword Art Online Unital Ring",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-unital-ring.2po6q/"
-            },
-            "sword-art-online-unital-ringg.2po6q": {
-                "identifier": "sword-art-online-unital-ringg.2po6q",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/0c343e4ea0144b96fd63ca0c4cc67d88.jpg",
-                "malId": 158357,
-                "aniId": 164247,
-                "page": "MangaFire",
-                "title": "Sword Art Online Unital Ring",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-unital-ringg.2po6q/"
-            }
-        },
         "MangaFox": {
             "sword_art_online_unital_ring": {
+                "id": 192993,
                 "identifier": "sword_art_online_unital_ring",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46296/cover.jpg",
                 "malId": 158357,
@@ -62,6 +43,19 @@
                 "title": "Sword Art Online - Unital Ring",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/sword_art_online_unital_ring/"
+            }
+        },
+        "MangaFire": {
+            "2po6q": {
+                "id": 227335,
+                "identifier": "2po6q",
+                "image": "https://static.mangafire.to/a7ec/i/0/01/0c343e4ea0144b96fd63ca0c4cc67d88.jpg",
+                "malId": 158357,
+                "aniId": 164247,
+                "page": "MangaFire",
+                "title": "Sword Art Online Unital Ring",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sword-art-online-unital-ringg.2po6q"
             }
         },
         "Comick": {

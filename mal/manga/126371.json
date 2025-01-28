@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87": {
+                "id": 32346,
                 "identifier": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
                 "image": "https://uploads.mangadex.org/covers/398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87/818a46aa-fcd9-4d9f-86c7-c4627914530c.jpg",
                 "malId": 126371,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gh984290": {
+                "id": 83790,
                 "identifier": "manga-gh984290",
                 "image": "https://avt.mkklcdnv6temp.com/20/q/20-1583501815.jpg",
                 "malId": 126371,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-gh984290"
             },
             "manga-sv996330": {
+                "id": 157863,
                 "identifier": "manga-sv996330",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/j/15-1733307313-nw.webp",
                 "malId": 126371,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "ima_koi_wo_shite_imasu": {
+                "id": 84461,
                 "identifier": "ima_koi_wo_shite_imasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32384/cover.jpg",
                 "malId": 126371,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "ima-koi-now-im-in-love": {
+                "id": 100664,
                 "identifier": "ima-koi-now-im-in-love",
                 "image": "https://temp.compsci88.com/cover/Ima-Koi-Now-Im-in-Love.jpg",
                 "malId": 126371,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Ima-Koi-Now-Im-in-Love"
             }
         },
-        "MangaFire": {
-            "ima-koi-wo-shite-imasu.7jpwy": {
-                "identifier": "ima-koi-wo-shite-imasu.7jpwy",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2eb302a4ef7f2d1842166e3397960e5b.jpg",
-                "malId": 126371,
-                "aniId": 113245,
-                "page": "MangaFire",
-                "title": "Ima Koi: Now I’m In Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ima-koi-wo-shite-imasu.7jpwy/"
-            },
-            "ima-koi-wo-shite-imasuu.7jpwy": {
-                "identifier": "ima-koi-wo-shite-imasuu.7jpwy",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2eb302a4ef7f2d1842166e3397960e5b.jpg",
-                "malId": 126371,
-                "aniId": 113245,
-                "page": "MangaFire",
-                "title": "Ima Koi: Now I’m In Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ima-koi-wo-shite-imasuu.7jpwy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfc819pjdwpzqpj8648w": {
+                "id": 207968,
                 "identifier": "01j76xyfc819pjdwpzqpj8648w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFC819PJDWPZQPJ8648W.jpg",
                 "malId": 126371,
@@ -96,6 +80,19 @@
                 "title": "Ima Koi - Now I'm in Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFC819PJDWPZQPJ8648W"
+            }
+        },
+        "MangaFire": {
+            "7jpwy": {
+                "id": 224603,
+                "identifier": "7jpwy",
+                "image": "https://static.mangafire.to/5cd2/i/2/2e/2eb302a4ef7f2d1842166e3397960e5b.jpg",
+                "malId": 126371,
+                "aniId": 113245,
+                "page": "MangaFire",
+                "title": "Ima Koi: Now I’m In Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ima-koi-wo-shite-imasuu.7jpwy"
             }
         },
         "Comick": {

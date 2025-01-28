@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f4c9f9ef-218e-4943-8252-c0d990c538bc": {
+                "id": 14721,
                 "identifier": "f4c9f9ef-218e-4943-8252-c0d990c538bc",
                 "image": "https://uploads.mangadex.org/covers/f4c9f9ef-218e-4943-8252-c0d990c538bc/6fab8924-6f72-4d3e-ab2b-2e6ff77441f2.jpg",
                 "malId": 93353,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koro-sense-quest": {
+                "id": 69783,
                 "identifier": "koro-sense-quest",
                 "image": "https://temp.compsci88.com/cover/Koro-Sense-Quest.jpg",
                 "malId": 93353,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Koro-Sense-Quest"
             }
         },
-        "MangaFire": {
-            "korosensei-quest.ykqjx": {
-                "identifier": "korosensei-quest.ykqjx",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/983eed9afa81060364789c22b43f729f.jpg",
-                "malId": 93353,
-                "aniId": 86949,
-                "page": "MangaFire",
-                "title": "Koro-sensei Q!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/korosensei-quest.ykqjx/"
-            },
-            "korosensei-questt.ykqjx": {
-                "identifier": "korosensei-questt.ykqjx",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/983eed9afa81060364789c22b43f729f.jpg",
-                "malId": 93353,
-                "aniId": 86949,
-                "page": "MangaFire",
-                "title": "Koro-sensei Q!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/korosensei-questt.ykqjx/"
-            }
-        },
         "Weebcentral": {
             "01j76xybmwqywzsm3gxqr1ryj5": {
+                "id": 211049,
                 "identifier": "01j76xybmwqywzsm3gxqr1ryj5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMWQYWZSM3GXQR1RYJ5.jpg",
                 "malId": 93353,
@@ -62,6 +43,19 @@
                 "title": "Koro-sense Quest",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMWQYWZSM3GXQR1RYJ5"
+            }
+        },
+        "MangaFire": {
+            "ykqjx": {
+                "id": 227028,
+                "identifier": "ykqjx",
+                "image": "https://static.mangafire.to/ceec/i/9/98/983eed9afa81060364789c22b43f729f.jpg",
+                "malId": 93353,
+                "aniId": 86949,
+                "page": "MangaFire",
+                "title": "Koro-sensei Q!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/korosensei-questt.ykqjx"
             }
         },
         "Comick": {

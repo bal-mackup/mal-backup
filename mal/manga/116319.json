@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "48da8c50-1c6b-439c-96af-8cfcf1dc543d": {
+                "id": 29555,
                 "identifier": "48da8c50-1c6b-439c-96af-8cfcf1dc543d",
                 "image": "https://uploads.mangadex.org/covers/48da8c50-1c6b-439c-96af-8cfcf1dc543d/2140b007-005e-4897-be7c-7ec815961a02.jpg",
                 "malId": 116319,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-girl-i-want-is-so-handsome": {
+                "id": 95352,
                 "identifier": "the-girl-i-want-is-so-handsome",
                 "image": "https://temp.compsci88.com/cover/The-Girl-I-Want-is-So-Handsome.jpg",
                 "malId": 116319,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ikemen_sugidesu_shiki_senpai": {
+                "id": 123129,
                 "identifier": "ikemen_sugidesu_shiki_senpai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31125/cover.jpg",
                 "malId": 116319,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/ikemen_sugidesu_shiki_senpai/"
             }
         },
-        "MangaFire": {
-            "ikemen-sugidesu-shiki-senpai.1rvzx": {
-                "identifier": "ikemen-sugidesu-shiki-senpai.1rvzx",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/78aae96f488212f3541c637d5c46af22.jpg",
-                "malId": 116319,
-                "aniId": 105997,
-                "page": "MangaFire",
-                "title": "The Girl I Want is so Handsome",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ikemen-sugidesu-shiki-senpai.1rvzx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf913s1d15t3snfzy49j": {
+                "id": 210087,
                 "identifier": "01j76xyf913s1d15t3snfzy49j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF913S1D15T3SNFZY49J.jpg",
                 "malId": 116319,
@@ -64,6 +56,19 @@
                 "title": "The Girl I Want is So Handsome!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF913S1D15T3SNFZY49J"
+            }
+        },
+        "MangaFire": {
+            "1rvzx": {
+                "id": 248175,
+                "identifier": "1rvzx",
+                "image": "https://static.mangafire.to/a4d4/i/7/78/78aae96f488212f3541c637d5c46af22.jpg",
+                "malId": 116319,
+                "aniId": 105997,
+                "page": "MangaFire",
+                "title": "The Girl I Want is so Handsome",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ikemen-sugidesu-shiki-senpaii.1rvzx"
             }
         },
         "Comick": {

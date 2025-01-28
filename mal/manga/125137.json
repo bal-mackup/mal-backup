@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1b0673c7-f4e9-4e3a-bfbd-46835ab22819": {
+                "id": 36921,
                 "identifier": "1b0673c7-f4e9-4e3a-bfbd-46835ab22819",
                 "image": "https://uploads.mangadex.org/covers/1b0673c7-f4e9-4e3a-bfbd-46835ab22819/bc364ba0-8ef2-44c0-9a44-80c1cac83206.jpg",
                 "malId": 125137,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "edomae-elf": {
+                "id": 67611,
                 "identifier": "edomae-elf",
                 "image": "https://temp.compsci88.com/cover/Edomae-Elf.jpg",
                 "malId": 125137,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "edomae_elf": {
+                "id": 84457,
                 "identifier": "edomae_elf",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34834/cover.jpg",
                 "malId": 125137,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ii986017": {
+                "id": 93126,
                 "identifier": "manga-ii986017",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/b/11-1732805412-nw.webp",
                 "malId": 125137,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-ii986017"
             }
         },
-        "MangaFire": {
-            "edomae-elf.prkx9": {
-                "identifier": "edomae-elf.prkx9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6f182fd630b4d94fe34dc8a64078725c.jpg",
-                "malId": 125137,
-                "aniId": 110049,
-                "page": "MangaFire",
-                "title": "Otaku Elf",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/edomae-elf.prkx9/"
-            }
-        },
         "Weebcentral": {
             "01j76xydp40nxfczdat8f1b540": {
+                "id": 207002,
                 "identifier": "01j76xydp40nxfczdat8f1b540",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDP40NXFCZDAT8F1B540.jpg",
                 "malId": 125137,
@@ -76,6 +69,19 @@
                 "title": "Otaku Elf",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDP40NXFCZDAT8F1B540"
+            }
+        },
+        "MangaFire": {
+            "prkx9": {
+                "id": 254483,
+                "identifier": "prkx9",
+                "image": "https://static.mangafire.to/0e6e/i/6/6f/6f182fd630b4d94fe34dc8a64078725c.jpg",
+                "malId": 125137,
+                "aniId": 110049,
+                "page": "MangaFire",
+                "title": "Otaku Elf",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/edomae-elff.prkx9"
             }
         },
         "Comick": {

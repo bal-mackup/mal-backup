@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e4f1186b-ced6-4181-939f-a89b3cb1667e": {
+                "id": 25675,
                 "identifier": "e4f1186b-ced6-4181-939f-a89b3cb1667e",
                 "image": "https://uploads.mangadex.org/covers/e4f1186b-ced6-4181-939f-a89b3cb1667e/e898f21c-89be-494d-834f-d3cf1d0a8517.jpg",
                 "malId": 147953,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "iris_lady_with_a_smartphone": {
+                "id": 56390,
                 "identifier": "iris_lady_with_a_smartphone",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31123/cover.jpg",
                 "malId": 147953,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "iris-the-lady-and-her-smartphone": {
+                "id": 70556,
                 "identifier": "iris-the-lady-and-her-smartphone",
                 "image": "https://temp.compsci88.com/cover/Iris-The-Lady-and-Her-Smartphone.jpg",
                 "malId": 147953,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-em981569": {
+                "id": 74974,
                 "identifier": "manga-em981569",
                 "image": "https://avt.mkklcdnv6temp.com/19/s/18-1583497867.jpg",
                 "malId": 147953,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-em981569"
             }
         },
-        "MangaFire": {
-            "iris-smartphone-gajin-lady.xj5o8": {
-                "identifier": "iris-smartphone-gajin-lady.xj5o8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c79370deb8a8fed2a6c58bb3744c60d8.jpg",
-                "malId": 147953,
-                "aniId": 109252,
-                "page": "MangaFire",
-                "title": "Iris: The Lady and Her Smartphone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iris-smartphone-gajin-lady.xj5o8/"
-            },
-            "iris-smartphone-gajin-ladyy.xj5o8": {
-                "identifier": "iris-smartphone-gajin-ladyy.xj5o8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c79370deb8a8fed2a6c58bb3744c60d8.jpg",
-                "malId": 147953,
-                "aniId": 109252,
-                "page": "MangaFire",
-                "title": "Iris: The Lady and Her Smartphone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iris-smartphone-gajin-ladyy.xj5o8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyep4y4xj474c3psy4pj0": {
+                "id": 211191,
                 "identifier": "01j76xyep4y4xj474c3psy4pj0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEP4Y4XJ474C3PSY4PJ0.jpg",
                 "malId": 147953,
@@ -86,6 +69,19 @@
                 "title": "Iris: The Lady and Her Smartphone",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEP4Y4XJ474C3PSY4PJ0"
+            }
+        },
+        "MangaFire": {
+            "xj5o8": {
+                "id": 225785,
+                "identifier": "xj5o8",
+                "image": "https://static.mangafire.to/f073/i/c/c7/c79370deb8a8fed2a6c58bb3744c60d8.jpg",
+                "malId": 147953,
+                "aniId": 109252,
+                "page": "MangaFire",
+                "title": "Iris: The Lady and Her Smartphone",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/iris-smartphone-gajin-ladyy.xj5o8"
             }
         },
         "Comick": {

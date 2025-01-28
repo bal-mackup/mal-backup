@@ -6,20 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/257698.jpg",
     "Sites": {
-        "MangaFire": {
-            "karasu-wa-aruji-wo-erabanai.6w197": {
-                "identifier": "karasu-wa-aruji-wo-erabanai.6w197",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f376a2b8572cda638cf867042a02e04.jpg",
-                "malId": 145358,
-                "aniId": 123578,
-                "page": "MangaFire",
-                "title": "A Raven for All Seasons",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karasu-wa-aruji-wo-erabanai.6w197/"
-            }
-        },
         "Mangadex": {
             "aed9496b-0178-49a3-8af5-3acbd7bce928": {
+                "id": 161809,
                 "identifier": "aed9496b-0178-49a3-8af5-3acbd7bce928",
                 "image": "https://uploads.mangadex.org/covers/aed9496b-0178-49a3-8af5-3acbd7bce928/705c5c8b-c310-4012-9788-a7c996cfe014.jpg",
                 "malId": 145358,
@@ -32,6 +21,7 @@
         },
         "MangaNato": {
             "manga-xc1001285": {
+                "id": 186213,
                 "identifier": "manga-xc1001285",
                 "image": "https://avt.mkklcdnv6temp.com/fld/1/p/16-1733320942-nw.webp",
                 "malId": 145358,
@@ -40,6 +30,19 @@
                 "title": "Karasu Wa Aruji Wo Erabanai",
                 "type": "manga",
                 "url": "https://manganato.com/manga-xc1001285"
+            }
+        },
+        "MangaFire": {
+            "6w197": {
+                "id": 241772,
+                "identifier": "6w197",
+                "image": "https://static.mangafire.to/f80d/i/2/2f/2f376a2b8572cda638cf867042a02e04.jpg",
+                "malId": 145358,
+                "aniId": 123578,
+                "page": "MangaFire",
+                "title": "A Raven for All Seasons",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karasu-wa-aruji-wo-erabanaii.6w197"
             }
         },
         "Comick": {

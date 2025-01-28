@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cc782de1-a6da-478c-8ec3-016ca2bebaa2": {
+                "id": 52835,
                 "identifier": "cc782de1-a6da-478c-8ec3-016ca2bebaa2",
                 "image": "https://uploads.mangadex.org/covers/cc782de1-a6da-478c-8ec3-016ca2bebaa2/01149f5a-ac08-41d1-899c-7835db6707ef.jpg",
                 "malId": 147328,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-je987261": {
+                "id": 75661,
                 "identifier": "manga-je987261",
                 "image": "https://avt.mkklcdnv6temp.com/40/j/22-1606380995.jpg",
                 "malId": 147328,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "a-mans-man": {
+                "id": 80104,
                 "identifier": "a-mans-man",
                 "image": "https://temp.compsci88.com/cover/A-Mans-Man.jpg",
                 "malId": 147328,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/A-Mans-Man"
             }
         },
-        "MangaFire": {
-            "sangnamja.kwyx9": {
-                "identifier": "sangnamja.kwyx9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/47cad76351b2f8f4e62f545df3db9224.jpg",
-                "malId": 147328,
-                "aniId": 129956,
-                "page": "MangaFire",
-                "title": "A Man's Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sangnamja.kwyx9/"
-            },
-            "sangnamjaa.kwyx9": {
-                "identifier": "sangnamjaa.kwyx9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/47cad76351b2f8f4e62f545df3db9224.jpg",
-                "malId": 147328,
-                "aniId": 129956,
-                "page": "MangaFire",
-                "title": "A Man's Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sangnamjaa.kwyx9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyev8d84pt66xxn4nvkcw": {
+                "id": 213736,
                 "identifier": "01j76xyev8d84pt66xxn4nvkcw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEV8D84PT66XXN4NVKCW.jpg",
                 "malId": 147328,
@@ -74,6 +56,19 @@
                 "title": "A Man's Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEV8D84PT66XXN4NVKCW"
+            }
+        },
+        "MangaFire": {
+            "kwyx9": {
+                "id": 226669,
+                "identifier": "kwyx9",
+                "image": "https://static.mangafire.to/5420/i/4/47/47cad76351b2f8f4e62f545df3db9224.jpg",
+                "malId": 147328,
+                "aniId": 129956,
+                "page": "MangaFire",
+                "title": "A Man's Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sangnamjaa.kwyx9"
             }
         },
         "Comick": {

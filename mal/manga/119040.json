@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "yukemuri-sniper": {
+                "id": 68732,
                 "identifier": "yukemuri-sniper",
                 "image": "https://temp.compsci88.com/cover/Yukemuri-Sniper.jpg",
                 "malId": 119040,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "be7f45ca-d72c-4b81-a92c-a0a851ef605e": {
+                "id": 108035,
                 "identifier": "be7f45ca-d72c-4b81-a92c-a0a851ef605e",
                 "image": "https://uploads.mangadex.org/covers/be7f45ca-d72c-4b81-a92c-a0a851ef605e/8c573977-93c4-4d68-8034-d77b38b67069.jpg",
                 "malId": 119040,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/be7f45ca-d72c-4b81-a92c-a0a851ef605e"
             }
         },
-        "MangaFire": {
-            "yukemuri-sniper.7wrp7": {
-                "identifier": "yukemuri-sniper.7wrp7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00222b0246d2f724822fa9573ae5f630.jpg",
-                "malId": 119040,
-                "aniId": 115192,
-                "page": "MangaFire",
-                "title": "Steaming Sniper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yukemuri-sniper.7wrp7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyctd3zr5mjfcv8wbvthh": {
+                "id": 210205,
                 "identifier": "01j76xyctd3zr5mjfcv8wbvthh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCTD3ZR5MJFCV8WBVTHH.jpg",
                 "malId": 119040,
@@ -52,6 +43,19 @@
                 "title": "Steaming Sniper",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCTD3ZR5MJFCV8WBVTHH"
+            }
+        },
+        "MangaFire": {
+            "7wrp7": {
+                "id": 249230,
+                "identifier": "7wrp7",
+                "image": "https://static.mangafire.to/99f0/i/0/00/00222b0246d2f724822fa9573ae5f630.jpg",
+                "malId": 119040,
+                "aniId": 115192,
+                "page": "MangaFire",
+                "title": "Steaming Sniper",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yukemuri-sniperr.7wrp7"
             }
         },
         "Comick": {

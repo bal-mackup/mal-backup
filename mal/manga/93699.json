@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "31c3484e-1832-44c1-b43a-dee39e32c3bd": {
+                "id": 15885,
                 "identifier": "31c3484e-1832-44c1-b43a-dee39e32c3bd",
                 "image": "https://uploads.mangadex.org/covers/31c3484e-1832-44c1-b43a-dee39e32c3bd/c5c41896-fbd7-42a4-980d-4067aa44e920.jpg",
                 "malId": 93699,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "innocent-rouge": {
+                "id": 59392,
                 "identifier": "innocent-rouge",
                 "image": "https://temp.compsci88.com/cover/Innocent-Rouge.jpg",
                 "malId": 93699,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "innocent_rouge": {
+                "id": 76452,
                 "identifier": "innocent_rouge",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20521/cover.jpg",
                 "malId": 93699,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ug971763": {
+                "id": 81370,
                 "identifier": "manga-ug971763",
                 "image": "https://avt.mkklcdnv6temp.com/1/t/13-1583489748.jpg",
                 "malId": 93699,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-ug971763"
             }
         },
-        "MangaFire": {
-            "innocent-rouge.prmlx": {
-                "identifier": "innocent-rouge.prmlx",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/878bb938bc6d4643c927139ab62fb4f3.jpg",
-                "malId": 93699,
-                "aniId": 87217,
-                "page": "MangaFire",
-                "title": "Innocent Rouge",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/innocent-rouge.prmlx/"
-            },
-            "innocent-rougee.prmlx": {
-                "identifier": "innocent-rougee.prmlx",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/878bb938bc6d4643c927139ab62fb4f3.jpg",
-                "malId": 93699,
-                "aniId": 87217,
-                "page": "MangaFire",
-                "title": "Innocent Rouge",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/innocent-rougee.prmlx/"
-            },
-            "prmlx": {
-                "identifier": "prmlx",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/878bb938bc6d4643c927139ab62fb4f3.jpg",
-                "malId": 93699,
-                "aniId": 87217,
-                "page": "MangaFire",
-                "title": "Innocent Rouge",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/innocent-rougee.prmlx/"
-            }
-        },
         "Weebcentral": {
             "01j76xybrg8qgtqhp5b8styy9v": {
+                "id": 206098,
                 "identifier": "01j76xybrg8qgtqhp5b8styy9v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBRG8QGTQHP5B8STYY9V.jpg",
                 "malId": 93699,
@@ -96,6 +69,19 @@
                 "title": "Innocent Rouge",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBRG8QGTQHP5B8STYY9V"
+            }
+        },
+        "MangaFire": {
+            "prmlx": {
+                "id": 230646,
+                "identifier": "prmlx",
+                "image": "https://static.mangafire.to/c2c4/i/8/87/878bb938bc6d4643c927139ab62fb4f3.jpg",
+                "malId": 93699,
+                "aniId": 87217,
+                "page": "MangaFire",
+                "title": "Innocent Rouge",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/innocent-rougee.prmlx"
             }
         },
         "Comick": {

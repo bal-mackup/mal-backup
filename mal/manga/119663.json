@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29": {
+                "id": 27732,
                 "identifier": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
                 "image": "https://uploads.mangadex.org/covers/2e0d9aa4-e652-4cdc-8d64-b87a74a62d29/c0568504-144e-4740-97c0-b0c01447706a.jpg",
                 "malId": 119663,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kingdom-hearts-iii": {
+                "id": 60082,
                 "identifier": "kingdom-hearts-iii",
                 "image": "https://temp.compsci88.com/cover/Kingdom-Hearts-Iii.jpg",
                 "malId": 119663,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ex981680": {
+                "id": 82646,
                 "identifier": "manga-ex981680",
                 "image": "https://avt.mkklcdnv6temp.com/23/w/18-1583498024.jpg",
                 "malId": 119663,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kingdom_hearts_iii": {
+                "id": 88784,
                 "identifier": "kingdom_hearts_iii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32353/cover.jpg",
                 "malId": 119663,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/kingdom_hearts_iii/"
             }
         },
-        "MangaFire": {
-            "kingdom-hearts-iii.0218k": {
-                "identifier": "kingdom-hearts-iii.0218k",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2dd60491db0950e14e96383932d1083.jpg",
-                "malId": 119663,
-                "aniId": 111962,
-                "page": "MangaFire",
-                "title": "Kingdom Hearts III",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kingdom-hearts-iii.0218k/"
-            },
-            "kingdom-hearts-iiii.0218k": {
-                "identifier": "kingdom-hearts-iiii.0218k",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2dd60491db0950e14e96383932d1083.jpg",
-                "malId": 119663,
-                "aniId": 111962,
-                "page": "MangaFire",
-                "title": "Kingdom Hearts III",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kingdom-hearts-iiii.0218k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd1cqmgvmt4pq1zc490w": {
+                "id": 211912,
                 "identifier": "01j76xyd1cqmgvmt4pq1zc490w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD1CQMGVMT4PQ1ZC490W.jpg",
                 "malId": 119663,
@@ -86,6 +69,19 @@
                 "title": "Kingdom Hearts III",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD1CQMGVMT4PQ1ZC490W"
+            }
+        },
+        "MangaFire": {
+            "0218k": {
+                "id": 237593,
+                "identifier": "0218k",
+                "image": "https://static.mangafire.to/452f/i/e/e2/e2dd60491db0950e14e96383932d1083.jpg",
+                "malId": 119663,
+                "aniId": 111962,
+                "page": "MangaFire",
+                "title": "Kingdom Hearts III",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kingdom-hearts-iiii.0218k"
             }
         },
         "Comick": {

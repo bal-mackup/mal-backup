@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ede48b14-8d83-41cb-9559-c7d859fd23fc": {
+                "id": 24223,
                 "identifier": "ede48b14-8d83-41cb-9559-c7d859fd23fc",
                 "image": "https://uploads.mangadex.org/covers/ede48b14-8d83-41cb-9559-c7d859fd23fc/619423f3-d5ed-433f-8eb6-6aa97962ec61.jpg",
                 "malId": 111721,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "gensou_gourmet": {
+                "id": 56895,
                 "identifier": "gensou_gourmet",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28865/cover.jpg",
                 "malId": 111721,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "gensou-gourmet": {
+                "id": 62037,
                 "identifier": "gensou-gourmet",
                 "image": "https://temp.compsci88.com/cover/Gensou-Gourmet.jpg",
                 "malId": 111721,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cw980079": {
+                "id": 80181,
                 "identifier": "manga-cw980079",
                 "image": "https://avt.mkklcdnv6temp.com/15/h/17-1583495815.jpg",
                 "malId": 111721,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cw980079"
             }
         },
-        "MangaFire": {
-            "gensou-gourmet.2926q": {
-                "identifier": "gensou-gourmet.2926q",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/406a0550b3b0a4ea1a0ccade4199ec25.jpg",
-                "malId": 111721,
-                "aniId": 105464,
-                "page": "MangaFire",
-                "title": "Gourmet in Different World.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gensou-gourmet.2926q/"
-            },
-            "gensou-gourmett.2926q": {
-                "identifier": "gensou-gourmett.2926q",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/406a0550b3b0a4ea1a0ccade4199ec25.jpg",
-                "malId": 111721,
-                "aniId": 105464,
-                "page": "MangaFire",
-                "title": "Gourmet in Different World.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gensou-gourmett.2926q/"
-            },
-            "2926q": {
-                "identifier": "2926q",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/406a0550b3b0a4ea1a0ccade4199ec25.jpg",
-                "malId": 111721,
-                "aniId": 105464,
-                "page": "MangaFire",
-                "title": "Gourmet in Different World.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gensou-gourmett.2926q/"
-            }
-        },
         "Weebcentral": {
             "01j76xydwq0pkfdasdm96kqb67": {
+                "id": 208912,
                 "identifier": "01j76xydwq0pkfdasdm96kqb67",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDWQ0PKFDASDM96KQB67.jpg",
                 "malId": 111721,
@@ -96,6 +69,19 @@
                 "title": "Gensou Gourmet",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDWQ0PKFDASDM96KQB67"
+            }
+        },
+        "MangaFire": {
+            "2926q": {
+                "id": 229502,
+                "identifier": "2926q",
+                "image": "https://static.mangafire.to/927e/i/4/40/406a0550b3b0a4ea1a0ccade4199ec25.jpg",
+                "malId": 111721,
+                "aniId": 105464,
+                "page": "MangaFire",
+                "title": "Gourmet in Different World.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gensou-gourmett.2926q"
             }
         },
         "Comick": {

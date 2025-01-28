@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d1cf91fe-67cb-4ca0-bbba-8b35d896c649": {
+                "id": 127434,
                 "identifier": "d1cf91fe-67cb-4ca0-bbba-8b35d896c649",
                 "image": "https://uploads.mangadex.org/covers/d1cf91fe-67cb-4ca0-bbba-8b35d896c649/eeb762b9-da97-49cd-bba4-5c17dc6f8648.jpg",
                 "malId": 153031,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649"
             }
         },
-        "MangaFire": {
-            "rock-wa-lady-no-tashina-mideshite.8njxy": {
-                "identifier": "rock-wa-lady-no-tashina-mideshite.8njxy",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3bb8e204f4b9aa7725c11030d038fa2a.jpg",
-                "malId": 153031,
-                "aniId": 156348,
-                "page": "MangaFire",
-                "title": "Rock wa Lady no Tashina Mideshite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rock-wa-lady-no-tashina-mideshite.8njxy/"
-            },
-            "rock-wa-shukujo-no-tashinami-de-shite.np45m": {
-                "identifier": "rock-wa-shukujo-no-tashinami-de-shite.np45m",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a853df80eddfcf867b6f0bdeb2aa2412.jpg",
-                "malId": 153031,
-                "aniId": 156348,
-                "page": "MangaFire",
-                "title": "Rock wa Shukujo no Tashinami de shite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rock-wa-shukujo-no-tashinami-de-shite.np45m/"
-            }
-        },
         "MangaNato": {
             "manga-ux997506": {
+                "id": 166233,
                 "identifier": "manga-ux997506",
                 "image": "https://avt.mkklcdnv6temp.com/fld/57/c/15-1733310069-nw.webp",
                 "malId": 153031,
@@ -50,6 +30,30 @@
                 "title": "Rock Wa Shukujo No Tashinami De Shite",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-ux997506"
+            }
+        },
+        "MangaFire": {
+            "np45m": {
+                "id": 232033,
+                "identifier": "np45m",
+                "image": "https://static.mangafire.to/d2cb/i/a/a8/a853df80eddfcf867b6f0bdeb2aa2412.jpg",
+                "malId": 153031,
+                "aniId": 156348,
+                "page": "MangaFire",
+                "title": "Rock wa Shukujo no Tashinami de shite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rock-wa-shukujo-no-tashinami-de-shitee.np45m"
+            },
+            "8njxy": {
+                "id": 253846,
+                "identifier": "8njxy",
+                "image": "https://static.mangafire.to/040d/i/3/3b/3bb8e204f4b9aa7725c11030d038fa2a.jpg",
+                "malId": 153031,
+                "aniId": 156348,
+                "page": "MangaFire",
+                "title": "Rock wa Lady no Tashina Mideshite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rock-wa-lady-no-tashina-mideshitee.8njxy"
             }
         },
         "Comick": {

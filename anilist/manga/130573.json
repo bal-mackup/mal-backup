@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "58fac461-a15f-4698-82f5-46ea637cb02d": {
+                "id": 61792,
                 "identifier": "58fac461-a15f-4698-82f5-46ea637cb02d",
                 "image": "https://uploads.mangadex.org/covers/58fac461-a15f-4698-82f5-46ea637cb02d/5c07a90a-465e-4c83-ab53-6da224dd15df.jpg",
                 "malId": 142121,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kj988218": {
+                "id": 77428,
                 "identifier": "manga-kj988218",
                 "image": "https://avt.mkklcdnv6temp.com/29/p/23-1613924863.jpg",
                 "malId": 142121,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-kj988218"
             }
         },
-        "MangaFire": {
-            "yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desu.z1qlw": {
-                "identifier": "yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desu.z1qlw",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ced2f3115c23900e50c075bc2e02cb1.jpg",
-                "malId": 142121,
-                "aniId": 130573,
-                "page": "MangaFire",
-                "title": "Yankee Musume ni Natsukarete Kotoshi mo Juken ni Shippai Shisou Desu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desu.z1qlw/"
-            },
-            "yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desuu.z1qlw": {
-                "identifier": "yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desuu.z1qlw",
-                "image": "https://static.mangafire.to/f0be/i/7/7c/7ced2f3115c23900e50c075bc2e02cb1.jpg",
-                "malId": 142121,
-                "aniId": 130573,
-                "page": "MangaFire",
-                "title": "Yankee Musume ni Natsukarete Kotoshi mo Juken ni Shippai Shisou Desu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desuu.z1qlw/"
-            }
-        },
         "MangaFox": {
             "yankii_musume_ni_natsukarete_kotoshi_mo_juken_ni_shippai_shisou_desu": {
+                "id": 185198,
                 "identifier": "yankii_musume_ni_natsukarete_kotoshi_mo_juken_ni_shippai_shisou_desu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37569/cover.jpg",
                 "malId": 142121,
@@ -62,6 +43,19 @@
                 "title": "Yankii musume ni natsukarete kotoshi mo juken ni shippai shisou desu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/yankii_musume_ni_natsukarete_kotoshi_mo_juken_ni_shippai_shisou_desu/"
+            }
+        },
+        "MangaFire": {
+            "z1qlw": {
+                "id": 222862,
+                "identifier": "z1qlw",
+                "image": "https://static.mangafire.to/f0be/i/7/7c/7ced2f3115c23900e50c075bc2e02cb1.jpg",
+                "malId": 142121,
+                "aniId": 130573,
+                "page": "MangaFire",
+                "title": "Yankee Musume ni Natsukarete Kotoshi mo Juken ni Shippai Shisou Desu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yankee-musume-ni-natsukarete-kotoshi-mo-juken-ni-shippai-shisou-desuu.z1qlw"
             }
         },
         "Comick": {

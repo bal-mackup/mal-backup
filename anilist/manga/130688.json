@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d8d2b98b-184c-4767-b738-7739f38c18ab": {
+                "id": 64821,
                 "identifier": "d8d2b98b-184c-4767-b738-7739f38c18ab",
                 "image": "https://uploads.mangadex.org/covers/d8d2b98b-184c-4767-b738-7739f38c18ab/e3b00b90-b598-443e-a4d8-be67f218fa06.jpg",
                 "malId": 139037,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/d8d2b98b-184c-4767-b738-7739f38c18ab"
             }
         },
-        "MangaFire": {
-            "choushoujo-ufo.5kqzv": {
-                "identifier": "choushoujo-ufo.5kqzv",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7a34d5abf6c9e6a8e237e088d70e24a7.jpg",
-                "malId": 139037,
-                "aniId": 130688,
-                "page": "MangaFire",
-                "title": "Choushoujo UFO",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choushoujo-ufo.5kqzv/"
-            }
-        },
         "MangaFox": {
             "choushoujo_ufo": {
+                "id": 186262,
                 "identifier": "choushoujo_ufo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37829/cover.jpg",
                 "malId": 139037,
@@ -40,6 +30,19 @@
                 "title": "Choushoujo UFO",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/choushoujo_ufo/"
+            }
+        },
+        "MangaFire": {
+            "5kqzv": {
+                "id": 260287,
+                "identifier": "5kqzv",
+                "image": "https://static.mangafire.to/b64e/i/7/7a/7a34d5abf6c9e6a8e237e088d70e24a7.jpg",
+                "malId": 139037,
+                "aniId": 130688,
+                "page": "MangaFire",
+                "title": "Choushoujo UFO",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/choushoujo-ufoo.5kqzv"
             }
         },
         "Comick": {

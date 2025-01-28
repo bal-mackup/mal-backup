@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f3f7f135-a648-498f-8ce7-04f135b78f3e": {
+                "id": 53533,
                 "identifier": "f3f7f135-a648-498f-8ce7-04f135b78f3e",
                 "image": "https://uploads.mangadex.org/covers/f3f7f135-a648-498f-8ce7-04f135b78f3e/99e0644e-930f-4c1b-9e80-da63862bf46d.jpg",
                 "malId": 131696,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "aragane-no-ko": {
+                "id": 86904,
                 "identifier": "aragane-no-ko",
                 "image": "https://temp.compsci88.com/cover/Aragane-no-Ko.jpg",
                 "malId": 131696,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "aragane_no_ko": {
+                "id": 87860,
                 "identifier": "aragane_no_ko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39298/cover.jpg",
                 "malId": 131696,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/aragane_no_ko/"
             }
         },
-        "MangaFire": {
-            "aragane-no-ko.37r76": {
-                "identifier": "aragane-no-ko.37r76",
-                "image": "https://static.mangafire.to/3b2d5/i/5/52/528f65961422d8248d14cb96f2ab3f11.jpg",
-                "malId": 131696,
-                "aniId": 125628,
-                "page": "MangaFire",
-                "title": "Diamond in the Rough",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aragane-no-ko.37r76/"
-            }
-        },
         "MangaNato": {
             "manga-qo993971": {
+                "id": 174759,
                 "identifier": "manga-qo993971",
                 "image": "https://avt.mkklcdnv6temp.com/fld/22/k/14-1733301310-nw.webp",
                 "malId": 131696,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyf1xmah7vvh9305n1dpf": {
+                "id": 210083,
                 "identifier": "01j76xyf1xmah7vvh9305n1dpf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF1XMAH7VVH9305N1DPF.jpg",
                 "malId": 131696,
@@ -76,6 +69,19 @@
                 "title": "Diamond in the Rough",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF1XMAH7VVH9305N1DPF"
+            }
+        },
+        "MangaFire": {
+            "37r76": {
+                "id": 253067,
+                "identifier": "37r76",
+                "image": "https://static.mangafire.to/c041/i/5/52/528f65961422d8248d14cb96f2ab3f11.jpg",
+                "malId": 131696,
+                "aniId": 125628,
+                "page": "MangaFire",
+                "title": "Diamond in the Rough",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aragane-no-koo.37r76"
             }
         },
         "Comick": {

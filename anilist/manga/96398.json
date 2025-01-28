@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7f2b4505-2677-463d-8fd2-cdacd33bd2a0": {
+                "id": 14436,
                 "identifier": "7f2b4505-2677-463d-8fd2-cdacd33bd2a0",
                 "image": "https://uploads.mangadex.org/covers/7f2b4505-2677-463d-8fd2-cdacd33bd2a0/163f7032-9a71-430d-86c4-4131be48b196.jpg",
                 "malId": 94351,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "youkai-ningen": {
+                "id": 85326,
                 "identifier": "youkai-ningen",
                 "image": "https://temp.compsci88.com/cover/Youkai-Ningen.jpg",
                 "malId": 94351,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Youkai-Ningen"
             }
         },
-        "MangaFire": {
-            "youkai-ningen.02639": {
-                "identifier": "youkai-ningen.02639",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3d22be2d5a339c2d87c831f4132a0d8c.jpg",
-                "malId": 94351,
-                "aniId": 96398,
-                "page": "MangaFire",
-                "title": "Youkai Ningen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/youkai-ningen.02639/"
-            },
-            "02639": {
-                "identifier": "02639",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3d22be2d5a339c2d87c831f4132a0d8c.jpg",
-                "malId": 94351,
-                "aniId": 96398,
-                "page": "MangaFire",
-                "title": "Youkai Ningen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/youkai-ningen.02639/"
-            }
-        },
         "MangaNato": {
             "manga-uu951403": {
+                "id": 164955,
                 "identifier": "manga-uu951403",
                 "image": "https://avt.mkklcdnv6temp.com/fld/6/m/1-1732716629-nw.webp",
                 "malId": 94351,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xybvd4s97vmvmw0bn1ckf": {
+                "id": 208686,
                 "identifier": "01j76xybvd4s97vmvmw0bn1ckf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBVD4S97VMVMW0BN1CKF.jpg",
                 "malId": 94351,
@@ -74,6 +56,19 @@
                 "title": "Youkai Ningen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBVD4S97VMVMW0BN1CKF"
+            }
+        },
+        "MangaFire": {
+            "02639": {
+                "id": 237578,
+                "identifier": "02639",
+                "image": "https://static.mangafire.to/3931/i/3/3d/3d22be2d5a339c2d87c831f4132a0d8c.jpg",
+                "malId": 94351,
+                "aniId": 96398,
+                "page": "MangaFire",
+                "title": "Youkai Ningen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/youkai-ningenn.02639"
             }
         },
         "Comick": {

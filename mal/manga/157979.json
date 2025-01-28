@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5d36a83a-ccce-4410-a4c0-c80b16f3656a": {
+                "id": 106054,
                 "identifier": "5d36a83a-ccce-4410-a4c0-c80b16f3656a",
                 "image": "https://uploads.mangadex.org/covers/5d36a83a-ccce-4410-a4c0-c80b16f3656a/39107337-4908-41b4-b5e0-2820fd8d24e1.jpg",
                 "malId": 157979,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rd995138": {
+                "id": 127569,
                 "identifier": "manga-rd995138",
                 "image": "https://avt.mkklcdnv6temp.com/15/w/29-1679635001.jpg",
                 "malId": 157979,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rd995138"
             }
         },
-        "MangaFire": {
-            "imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashita.2p230": {
-                "identifier": "imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashita.2p230",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/366b24da14700a02a358d7b8ec4a95dd.jpg",
-                "malId": 157979,
-                "aniId": 144201,
-                "page": "MangaFire",
-                "title": "Imo Kusa Reijou desu ga Akuyaku Reisoku wo Tasuketara Kiniira Remashita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashita.2p230/"
-            },
-            "imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashitaa.2p230": {
-                "identifier": "imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashitaa.2p230",
-                "image": "https://static.mangafire.to/e943/i/3/36/366b24da14700a02a358d7b8ec4a95dd.jpg",
-                "malId": 157979,
-                "aniId": 144201,
-                "page": "MangaFire",
-                "title": "Imo Kusa Reijou desu ga Akuyaku Reisoku wo Tasuketara Kiniira Remashita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashitaa.2p230/"
-            }
-        },
         "MangaFox": {
             "imokusa_reijou_desu_ga_akuyaku_reisoku_wo_tasuketara_kiniiraremashita": {
+                "id": 189143,
                 "identifier": "imokusa_reijou_desu_ga_akuyaku_reisoku_wo_tasuketara_kiniiraremashita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46080/cover.jpg",
                 "malId": 157979,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "imokusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniiraremashita": {
+                "id": 190061,
                 "identifier": "imokusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniiraremashita",
                 "image": "https://temp.compsci88.com/cover/Imokusa-Reijou-desu-ga-Akuyaku-Reisoku-wo-Tasuketara-Kiniiraremashita.jpg",
                 "malId": 157979,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh9zvv8hes6e400gf8es": {
+                "id": 209709,
                 "identifier": "01j76xyh9zvv8hes6e400gf8es",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH9ZVV8HES6E400GF8ES.jpg",
                 "malId": 157979,
@@ -86,6 +69,19 @@
                 "title": "Imokusa Reijou desu ga Akuyaku Reisoku wo Tasuketara Kiniiraremashita",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH9ZVV8HES6E400GF8ES"
+            }
+        },
+        "MangaFire": {
+            "2p230": {
+                "id": 223386,
+                "identifier": "2p230",
+                "image": "https://static.mangafire.to/e943/i/3/36/366b24da14700a02a358d7b8ec4a95dd.jpg",
+                "malId": 157979,
+                "aniId": 144201,
+                "page": "MangaFire",
+                "title": "Imo Kusa Reijou desu ga Akuyaku Reisoku wo Tasuketara Kiniira Remashita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/imo-kusa-reijou-desu-ga-akuyaku-reisoku-wo-tasuketara-kiniira-remashitaa.2p230"
             }
         },
         "Comick": {

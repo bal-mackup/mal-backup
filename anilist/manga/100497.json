@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1e4d90e0-4fbc-4277-8a70-9163516a41ca": {
+                "id": 18574,
                 "identifier": "1e4d90e0-4fbc-4277-8a70-9163516a41ca",
                 "image": "https://uploads.mangadex.org/covers/1e4d90e0-4fbc-4277-8a70-9163516a41ca/23eff8e6-29cb-45aa-8f1a-ff1e38593178.jpg",
                 "malId": 109331,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "saguri-chan-tankentai": {
+                "id": 59855,
                 "identifier": "saguri-chan-tankentai",
                 "image": "https://temp.compsci88.com/cover/Saguri-chan-Tankentai.jpg",
                 "malId": 109331,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "saguri_chan_tankentai": {
+                "id": 64441,
                 "identifier": "saguri_chan_tankentai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27058/cover.jpg",
                 "malId": 109331,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bl978668": {
+                "id": 74900,
                 "identifier": "manga-bl978668",
                 "image": "https://avt.mkklcdnv6temp.com/12/x/16-1583493937.jpg",
                 "malId": 109331,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-bl978668"
             }
         },
-        "MangaFire": {
-            "saguri-chan-tankentai.jvvx4": {
-                "identifier": "saguri-chan-tankentai.jvvx4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/52/52852fb16c2ace8c12eaeeb4276bfea0.jpg",
-                "malId": 109331,
-                "aniId": 100497,
-                "page": "MangaFire",
-                "title": "Saguri-chan Tankentai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saguri-chan-tankentai.jvvx4/"
-            },
-            "saguri-chan-tankentaii.jvvx4": {
-                "identifier": "saguri-chan-tankentaii.jvvx4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/52/52852fb16c2ace8c12eaeeb4276bfea0.jpg",
-                "malId": 109331,
-                "aniId": 100497,
-                "page": "MangaFire",
-                "title": "Saguri-chan Tankentai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saguri-chan-tankentaii.jvvx4/"
-            }
-        },
         "Weebcentral": {
             "01j76xycrc9xa4ftkvrgmeczpm": {
+                "id": 212855,
                 "identifier": "01j76xycrc9xa4ftkvrgmeczpm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCRC9XA4FTKVRGMECZPM.jpg",
                 "malId": 109331,
@@ -86,6 +69,19 @@
                 "title": "Saguri-chan Tankentai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCRC9XA4FTKVRGMECZPM"
+            }
+        },
+        "MangaFire": {
+            "jvvx4": {
+                "id": 225373,
+                "identifier": "jvvx4",
+                "image": "https://static.mangafire.to/6db7/i/5/52/52852fb16c2ace8c12eaeeb4276bfea0.jpg",
+                "malId": 109331,
+                "aniId": 100497,
+                "page": "MangaFire",
+                "title": "Saguri-chan Tankentai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saguri-chan-tankentaii.jvvx4"
             }
         },
         "Comick": {

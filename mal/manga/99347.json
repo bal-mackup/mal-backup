@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "918fbd19-8973-49de-bb86-96596960375e": {
+                "id": 25631,
                 "identifier": "918fbd19-8973-49de-bb86-96596960375e",
                 "image": "https://uploads.mangadex.org/covers/918fbd19-8973-49de-bb86-96596960375e/d6970307-78d3-4005-ad58-6a454e72affe.jpg",
                 "malId": 99347,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "animeta": {
+                "id": 60431,
                 "identifier": "animeta",
                 "image": "https://temp.compsci88.com/cover/Animeta.jpg",
                 "malId": 99347,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Animeta"
             }
         },
-        "MangaFire": {
-            "animeta.rj2xy": {
-                "identifier": "animeta.rj2xy",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc30df983429f9933ff8e567fa81ec96.jpg",
-                "malId": 99347,
-                "aniId": 103245,
-                "page": "MangaFire",
-                "title": "Animeta!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/animeta.rj2xy/"
-            },
-            "rj2xy": {
-                "identifier": "rj2xy",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc30df983429f9933ff8e567fa81ec96.jpg",
-                "malId": 99347,
-                "aniId": 103245,
-                "page": "MangaFire",
-                "title": "Animeta!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/animeta.rj2xy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczybgj4xrqe6gkwf72k": {
+                "id": 206584,
                 "identifier": "01j76xyczybgj4xrqe6gkwf72k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZYBGJ4XRQE6GKWF72K.jpg",
                 "malId": 99347,
@@ -62,6 +43,19 @@
                 "title": "Animeta",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZYBGJ4XRQE6GKWF72K"
+            }
+        },
+        "MangaFire": {
+            "rj2xy": {
+                "id": 262219,
+                "identifier": "rj2xy",
+                "image": "https://static.mangafire.to/e8f2/i/d/dc/dc30df983429f9933ff8e567fa81ec96.jpg",
+                "malId": 99347,
+                "aniId": 103245,
+                "page": "MangaFire",
+                "title": "Animeta!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/animetaa.rj2xy"
             }
         },
         "Comick": {

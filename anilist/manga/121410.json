@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "63706448-66b5-4665-b549-b6ad6d568afc": {
+                "id": 36169,
                 "identifier": "63706448-66b5-4665-b549-b6ad6d568afc",
                 "image": "https://uploads.mangadex.org/covers/63706448-66b5-4665-b549-b6ad6d568afc/774f49ce-1f74-4b2b-baec-4988d051ee37.jpg",
                 "malId": 127112,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-reborn-little-girl-wont-give-up": {
+                "id": 65421,
                 "identifier": "the-reborn-little-girl-wont-give-up",
                 "image": "https://temp.compsci88.com/cover/The-Reborn-Little-Girl-Wont-Give-Up.jpg",
                 "malId": 127112,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-io986271": {
+                "id": 73678,
                 "identifier": "manga-io986271",
                 "image": "https://avt.mkklcdnv6temp.com/50/c/21-1597684241.jpg",
                 "malId": 127112,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tensei_youjo_wa_akiramenai": {
+                "id": 90663,
                 "identifier": "tensei_youjo_wa_akiramenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35643/cover.jpg",
                 "malId": 127112,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tensei_youjo_wa_akiramenai/"
             }
         },
-        "MangaFire": {
-            "tensei-youjo-wa-akiramenai.xrqm3": {
-                "identifier": "tensei-youjo-wa-akiramenai.xrqm3",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5c902bf06e639b13d111d43888fca0a.jpg",
-                "malId": 127112,
-                "aniId": 121410,
-                "page": "MangaFire",
-                "title": "Reincarnation's little girl never gives up",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-youjo-wa-akiramenai.xrqm3/"
-            },
-            "tensei-youjo-wa-akiramenaii.xrqm3": {
-                "identifier": "tensei-youjo-wa-akiramenaii.xrqm3",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5c902bf06e639b13d111d43888fca0a.jpg",
-                "malId": 127112,
-                "aniId": 121410,
-                "page": "MangaFire",
-                "title": "Reincarnation's little girl never gives up",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-youjo-wa-akiramenaii.xrqm3/"
-            }
-        },
         "Weebcentral": {
             "01j76xye3veffr3j1mtfsb9426": {
+                "id": 210770,
                 "identifier": "01j76xye3veffr3j1mtfsb9426",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE3VEFFR3J1MTFSB9426.jpg",
                 "malId": 127112,
@@ -86,6 +69,19 @@
                 "title": "The Reborn Little Girl Won’t Give Up",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE3VEFFR3J1MTFSB9426"
+            }
+        },
+        "MangaFire": {
+            "xrqm3": {
+                "id": 227175,
+                "identifier": "xrqm3",
+                "image": "https://static.mangafire.to/72fa/i/f/f5/f5c902bf06e639b13d111d43888fca0a.jpg",
+                "malId": 127112,
+                "aniId": 121410,
+                "page": "MangaFire",
+                "title": "Reincarnation's little girl never gives up",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tensei-youjo-wa-akiramenaii.xrqm3"
             }
         },
         "Comick": {

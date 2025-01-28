@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9d2bccba-33b3-4c95-a4bf-8cdea584a32a": {
+                "id": 34748,
                 "identifier": "9d2bccba-33b3-4c95-a4bf-8cdea584a32a",
                 "image": "https://uploads.mangadex.org/covers/9d2bccba-33b3-4c95-a4bf-8cdea584a32a/99aa7e43-5733-4f97-a331-6d2a216a19ea.jpg",
                 "malId": 140747,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hq985151": {
+                "id": 87113,
                 "identifier": "manga-hq985151",
                 "image": "https://avt.mkklcdnv6temp.com/3/n/21-1587095092.jpg",
                 "malId": 140747,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-hq985151"
             }
         },
-        "MangaFire": {
-            "tsuyoshi.zljkm": {
-                "identifier": "tsuyoshi.zljkm",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/971870eb4eae4bb18d147eb1f0f0cac0.jpg",
-                "malId": 140747,
-                "aniId": 109901,
-                "page": "MangaFire",
-                "title": "Tsuyoshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuyoshi.zljkm/"
-            },
-            "tsuyoshii.zljkm": {
-                "identifier": "tsuyoshii.zljkm",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/971870eb4eae4bb18d147eb1f0f0cac0.jpg",
-                "malId": 140747,
-                "aniId": 109901,
-                "page": "MangaFire",
-                "title": "Tsuyoshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuyoshii.zljkm/"
-            }
-        },
         "MangaSee": {
             "tsuyoshi": {
+                "id": 164192,
                 "identifier": "tsuyoshi",
                 "image": "https://temp.compsci88.com/cover/TSUYOSHI.jpg",
                 "malId": 140747,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygcc920mp27m1z44s9vx": {
+                "id": 209262,
                 "identifier": "01j76xygcc920mp27m1z44s9vx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGCC920MP27M1Z44S9VX.jpg",
                 "malId": 140747,
@@ -76,13 +58,26 @@
                 "url": "https://weebcentral.com/series/01J76XYGCC920MP27M1Z44S9VX"
             }
         },
+        "MangaFire": {
+            "zljkm": {
+                "id": 227684,
+                "identifier": "zljkm",
+                "image": "https://static.mangafire.to/dbd9/i/9/97/971870eb4eae4bb18d147eb1f0f0cac0.jpg",
+                "malId": 140747,
+                "aniId": 109901,
+                "page": "MangaFire",
+                "title": "Tsuyoshi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsuyoshii.zljkm"
+            }
+        },
         "Comick": {
             "_9Kp7fEG": {
                 "identifier": "_9Kp7fEG",
                 "malId": 140747,
                 "type": "manga",
                 "page": "Comick",
-                "title": "TSUYOSHI",
+                "title": "TSUYOSHI - Daremo Katenai, Aitsu ni wa",
                 "url": "https://comick.io/comic/tsuyoshi",
                 "aniId": 109901
             }

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52d33a2d-1a4b-4b2e-9383-66bbcd7ac348": {
+                "id": 12269,
                 "identifier": "52d33a2d-1a4b-4b2e-9383-66bbcd7ac348",
                 "image": "https://uploads.mangadex.org/covers/52d33a2d-1a4b-4b2e-9383-66bbcd7ac348/7ec1ec4a-158f-41e2-8d99-d2bc5fff7b22.jpg",
                 "malId": 84515,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "primo-prima": {
+                "id": 69494,
                 "identifier": "primo-prima",
                 "image": "https://temp.compsci88.com/cover/Primo-Prima.jpg",
                 "malId": 84515,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Primo-Prima"
             }
         },
-        "MangaFire": {
-            "primo-prima.qxvrj": {
-                "identifier": "primo-prima.qxvrj",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbd9831464b4b44b860086ad84c316b2.jpg",
-                "malId": 84515,
-                "aniId": 93606,
-                "page": "MangaFire",
-                "title": "Primo Prima!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/primo-prima.qxvrj/"
-            },
-            "qxvrj": {
-                "identifier": "qxvrj",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbd9831464b4b44b860086ad84c316b2.jpg",
-                "malId": 84515,
-                "aniId": 93606,
-                "page": "MangaFire",
-                "title": "Primo Prima!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/primo-prima.qxvrj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb9k3tk398gf0vva240y": {
+                "id": 210013,
                 "identifier": "01j76xyb9k3tk398gf0vva240y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB9K3TK398GF0VVA240Y.jpg",
                 "malId": 84515,
@@ -62,6 +43,19 @@
                 "title": "Primo Prima!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB9K3TK398GF0VVA240Y"
+            }
+        },
+        "MangaFire": {
+            "qxvrj": {
+                "id": 251562,
+                "identifier": "qxvrj",
+                "image": "https://static.mangafire.to/cfa0/i/b/bb/bbd9831464b4b44b860086ad84c316b2.jpg",
+                "malId": 84515,
+                "aniId": 93606,
+                "page": "MangaFire",
+                "title": "Primo Prima!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/primo-primaa.qxvrj"
             }
         },
         "Comick": {

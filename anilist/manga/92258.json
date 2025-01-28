@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c2e48dab-d156-4ed1-b758-6ea67a6d8910": {
+                "id": 11112,
                 "identifier": "c2e48dab-d156-4ed1-b758-6ea67a6d8910",
                 "image": "https://uploads.mangadex.org/covers/c2e48dab-d156-4ed1-b758-6ea67a6d8910/10ca0b71-af1a-46cc-9eec-2b70ec7d496d.jpg",
                 "malId": 75903,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gunjou-senki": {
+                "id": 55233,
                 "identifier": "gunjou-senki",
                 "image": "https://temp.compsci88.com/cover/Gunjou-Senki.jpg",
                 "malId": 75903,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-xf953688": {
+                "id": 74353,
                 "identifier": "manga-xf953688",
                 "image": "https://avt.mkklcdnv6temp.com/32/b/2-1583466935.jpg",
                 "malId": 75903,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "gunjou_senki": {
+                "id": 81374,
                 "identifier": "gunjou_senki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13985/cover.jpg",
                 "malId": 75903,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/gunjou_senki/"
             }
         },
-        "MangaFire": {
-            "gunjou-senki.lzjz": {
-                "identifier": "gunjou-senki.lzjz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f8711d2b594fb8be8f08cb04e38d6ac.jpg",
-                "malId": 75903,
-                "aniId": 92258,
-                "page": "MangaFire",
-                "title": "Gunjou Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gunjou-senki.lzjz/"
-            },
-            "lzjz": {
-                "identifier": "lzjz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f8711d2b594fb8be8f08cb04e38d6ac.jpg",
-                "malId": 75903,
-                "aniId": 92258,
-                "page": "MangaFire",
-                "title": "Gunjou Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gunjou-senki.lzjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaet58tb9h13cfzmjzr2": {
+                "id": 212375,
                 "identifier": "01j76xyaet58tb9h13cfzmjzr2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAET58TB9H13CFZMJZR2.jpg",
                 "malId": 75903,
@@ -86,6 +69,19 @@
                 "title": "Gunjou Senki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAET58TB9H13CFZMJZR2"
+            }
+        },
+        "MangaFire": {
+            "lzjz": {
+                "id": 260881,
+                "identifier": "lzjz",
+                "image": "https://static.mangafire.to/ca30/i/1/1f/1f8711d2b594fb8be8f08cb04e38d6ac.jpg",
+                "malId": 75903,
+                "aniId": 92258,
+                "page": "MangaFire",
+                "title": "Gunjou Senki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gunjou-senkii.lzjz"
             }
         },
         "Comick": {

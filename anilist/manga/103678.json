@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d4c2d0ec-03ce-4f18-81a7-93cffb7e74f5": {
+                "id": 23258,
                 "identifier": "d4c2d0ec-03ce-4f18-81a7-93cffb7e74f5",
                 "image": "https://uploads.mangadex.org/covers/d4c2d0ec-03ce-4f18-81a7-93cffb7e74f5/feeb8326-2bf9-4b4a-bc3d-71012455dbff.jpg",
                 "malId": 112641,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tensei_pandemic": {
+                "id": 55436,
                 "identifier": "tensei_pandemic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27952/cover.jpg",
                 "malId": 112641,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tensei-pandemic": {
+                "id": 60941,
                 "identifier": "tensei-pandemic",
                 "image": "https://temp.compsci88.com/cover/Tensei-Pandemic.jpg",
                 "malId": 112641,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ct979454": {
+                "id": 73936,
                 "identifier": "manga-ct979454",
                 "image": "https://avt.mkklcdnv6temp.com/42/b/16-1583494973.jpg",
                 "malId": 112641,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ct979454"
             }
         },
-        "MangaFire": {
-            "tensei-pandemic.oj2mj": {
-                "identifier": "tensei-pandemic.oj2mj",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd0bd6067d98e38e1077dabd7d4d26c6.jpg",
-                "malId": 112641,
-                "aniId": 103678,
-                "page": "MangaFire",
-                "title": "Tensei Pandemic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-pandemic.oj2mj/"
-            },
-            "tensei-pandemicc.oj2mj": {
-                "identifier": "tensei-pandemicc.oj2mj",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd0bd6067d98e38e1077dabd7d4d26c6.jpg",
-                "malId": 112641,
-                "aniId": 103678,
-                "page": "MangaFire",
-                "title": "Tensei Pandemic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-pandemicc.oj2mj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycmsxne102gd4mdvqs91": {
+                "id": 206510,
                 "identifier": "01j76xycmsxne102gd4mdvqs91",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCMSXNE102GD4MDVQS91.jpg",
                 "malId": 112641,
@@ -86,6 +69,19 @@
                 "title": "Tensei Pandemic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCMSXNE102GD4MDVQS91"
+            }
+        },
+        "MangaFire": {
+            "oj2mj": {
+                "id": 225004,
+                "identifier": "oj2mj",
+                "image": "https://static.mangafire.to/7717/i/c/cd/cd0bd6067d98e38e1077dabd7d4d26c6.jpg",
+                "malId": 112641,
+                "aniId": 103678,
+                "page": "MangaFire",
+                "title": "Tensei Pandemic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tensei-pandemicc.oj2mj"
             }
         },
         "Comick": {

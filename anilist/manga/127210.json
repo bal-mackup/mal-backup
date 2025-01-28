@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a2d16852-2aa2-42aa-903c-e5ce5b990d65": {
+                "id": 58451,
                 "identifier": "a2d16852-2aa2-42aa-903c-e5ce5b990d65",
                 "image": "https://uploads.mangadex.org/covers/a2d16852-2aa2-42aa-903c-e5ce5b990d65/ed77d1be-8e68-4375-ab3d-e6dda4c8bbc3.jpg",
                 "malId": 132757,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lightning-and-romance": {
+                "id": 96940,
                 "identifier": "lightning-and-romance",
                 "image": "https://temp.compsci88.com/cover/Lightning-and-Romance.jpg",
                 "malId": 132757,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Lightning-and-Romance"
             }
         },
-        "MangaFire": {
-            "inazuma-to-romance.w128l": {
-                "identifier": "inazuma-to-romance.w128l",
-                "image": "https://static.mangafire.to/3b2d5/i/3/34/349422426be7bcd1ba4e2e93f2171ef6.jpg",
-                "malId": 132757,
-                "aniId": 127210,
-                "page": "MangaFire",
-                "title": "Lightning and Romance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inazuma-to-romance.w128l/"
-            },
-            "inazuma-to-romancee.w128l": {
-                "identifier": "inazuma-to-romancee.w128l",
-                "image": "https://static.mangafire.to/3b2d5/i/3/34/349422426be7bcd1ba4e2e93f2171ef6.jpg",
-                "malId": 132757,
-                "aniId": 127210,
-                "page": "MangaFire",
-                "title": "Lightning and Romance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inazuma-to-romancee.w128l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfb3dy04v3g99ay2x6fq": {
+                "id": 211699,
                 "identifier": "01j76xyfb3dy04v3g99ay2x6fq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFB3DY04V3G99AY2X6FQ.jpg",
                 "malId": 132757,
@@ -66,6 +47,7 @@
         },
         "MangaNato": {
             "manga-sb995536": {
+                "id": 221766,
                 "identifier": "manga-sb995536",
                 "image": "https://avt.mkklcdnv6temp.com/fld/81/x/14-1733305503-nw.webp",
                 "malId": 132757,
@@ -74,6 +56,19 @@
                 "title": "Inazuma To Romance",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-sb995536"
+            }
+        },
+        "MangaFire": {
+            "w128l": {
+                "id": 227129,
+                "identifier": "w128l",
+                "image": "https://static.mangafire.to/9c0a/i/3/34/349422426be7bcd1ba4e2e93f2171ef6.jpg",
+                "malId": 132757,
+                "aniId": 127210,
+                "page": "MangaFire",
+                "title": "Lightning and Romance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/inazuma-to-romancee.w128l"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "583bb5a4-6b5a-4ca1-82f2-5d9b4109c6eb": {
+                "id": 23532,
                 "identifier": "583bb5a4-6b5a-4ca1-82f2-5d9b4109c6eb",
                 "image": "https://uploads.mangadex.org/covers/583bb5a4-6b5a-4ca1-82f2-5d9b4109c6eb/485f05df-d321-4ac4-9d8d-b8e5db08f003.jpg",
                 "malId": 116030,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/583bb5a4-6b5a-4ca1-82f2-5d9b4109c6eb"
             }
         },
-        "MangaFire": {
-            "white-book.7jxoj": {
-                "identifier": "white-book.7jxoj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a1485317d47905ce57d6a96840936404.jpg",
-                "malId": 116030,
-                "aniId": 104225,
-                "page": "MangaFire",
-                "title": "The White Book",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/white-book.7jxoj/"
-            },
-            "7jxoj": {
-                "identifier": "7jxoj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a1485317d47905ce57d6a96840936404.jpg",
-                "malId": 116030,
-                "aniId": 104225,
-                "page": "MangaFire",
-                "title": "The White Book",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/white-book.7jxoj/"
-            }
-        },
         "MangaFox": {
             "shiro_ihon": {
+                "id": 202740,
                 "identifier": "shiro_ihon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28582/cover.jpg",
                 "malId": 116030,
@@ -50,6 +30,19 @@
                 "title": "Shiro Ihon",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/shiro_ihon/"
+            }
+        },
+        "MangaFire": {
+            "7jxoj": {
+                "id": 230020,
+                "identifier": "7jxoj",
+                "image": "https://static.mangafire.to/9f75/i/a/a1/a1485317d47905ce57d6a96840936404.jpg",
+                "malId": 116030,
+                "aniId": 104225,
+                "page": "MangaFire",
+                "title": "The White Book",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/white-bookk.7jxoj"
             }
         },
         "Comick": {

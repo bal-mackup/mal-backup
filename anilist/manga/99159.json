@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c1de707c-fb56-439e-b23d-5f7e36ec71af": {
+                "id": 15573,
                 "identifier": "c1de707c-fb56-439e-b23d-5f7e36ec71af",
                 "image": "https://uploads.mangadex.org/covers/c1de707c-fb56-439e-b23d-5f7e36ec71af/7a71b6ee-e69f-406f-b3b6-4dc4c57a30f4.jpg",
                 "malId": 94345,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kokukoku": {
+                "id": 70275,
                 "identifier": "kokukoku",
                 "image": "https://temp.compsci88.com/cover/Kokukoku.jpg",
                 "malId": 94345,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ti971117": {
+                "id": 101444,
                 "identifier": "manga-ti971117",
                 "image": "https://avt.mkklcdnv6temp.com/fld/38/h/7-1732785072-nw.webp",
                 "malId": 94345,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ti971117"
             }
         },
-        "MangaFire": {
-            "kokkoku.yqlwz": {
-                "identifier": "kokkoku.yqlwz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6feea92026cf9389deb69521e804d621.jpg",
-                "malId": 94345,
-                "aniId": 99159,
-                "page": "MangaFire",
-                "title": "Kokkoku: Moment by Moment",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kokkoku.yqlwz/"
-            },
-            "kokkokuu.yqlwz": {
-                "identifier": "kokkokuu.yqlwz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6feea92026cf9389deb69521e804d621.jpg",
-                "malId": 94345,
-                "aniId": 99159,
-                "page": "MangaFire",
-                "title": "Kokkoku: Moment by Moment",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kokkokuu.yqlwz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyby2bd07e25jrrvrzr3b": {
+                "id": 210448,
                 "identifier": "01j76xyby2bd07e25jrrvrzr3b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBY2BD07E25JRRVRZR3B.jpg",
                 "malId": 94345,
@@ -74,6 +56,19 @@
                 "title": "Kokkoku - Moment by Moment",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBY2BD07E25JRRVRZR3B"
+            }
+        },
+        "MangaFire": {
+            "yqlwz": {
+                "id": 226935,
+                "identifier": "yqlwz",
+                "image": "https://static.mangafire.to/c915/i/6/6f/6feea92026cf9389deb69521e804d621.jpg",
+                "malId": 94345,
+                "aniId": 99159,
+                "page": "MangaFire",
+                "title": "Kokkoku: Moment by Moment",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kokkokuu.yqlwz"
             }
         },
         "Comick": {

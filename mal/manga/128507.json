@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b45db587-db53-43d7-9eef-c0a5fa48c38b": {
+                "id": 31878,
                 "identifier": "b45db587-db53-43d7-9eef-c0a5fa48c38b",
                 "image": "https://uploads.mangadex.org/covers/b45db587-db53-43d7-9eef-c0a5fa48c38b/0f3eeb91-3be8-4c9a-9e2b-cdac3a2b057a.jpg",
                 "malId": 128507,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hs984801": {
+                "id": 74356,
                 "identifier": "manga-hs984801",
                 "image": "https://avt.mkklcdnv6temp.com/40/b/20-1583573405.jpg",
                 "malId": 128507,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shiboritoranaide_onna_shounin_san": {
+                "id": 83430,
                 "identifier": "shiboritoranaide_onna_shounin_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32879/cover.jpg",
                 "malId": 128507,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "shiboritoranaide-onna-shounin-san": {
+                "id": 116472,
                 "identifier": "shiboritoranaide-onna-shounin-san",
                 "image": "https://temp.compsci88.com/cover/Shiboritoranaide-Onna-Shounin-san.jpg",
                 "malId": 128507,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Shiboritoranaide-Onna-Shounin-san"
             }
         },
-        "MangaFire": {
-            "shiboritoranaide-onna-shounin-san.0r5rk": {
-                "identifier": "shiboritoranaide-onna-shounin-san.0r5rk",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8bf518112fb9822b1027588784e9a93d.jpg",
-                "malId": 128507,
-                "aniId": 118911,
-                "page": "MangaFire",
-                "title": "Please Don’t Milk Me, Merchant-san!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shiboritoranaide-onna-shounin-san.0r5rk/"
-            },
-            "shiboritoranaide-onna-shounin-sann.0r5rk": {
-                "identifier": "shiboritoranaide-onna-shounin-sann.0r5rk",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8bf518112fb9822b1027588784e9a93d.jpg",
-                "malId": 128507,
-                "aniId": 118911,
-                "page": "MangaFire",
-                "title": "Please Don’t Milk Me, Merchant-san!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shiboritoranaide-onna-shounin-sann.0r5rk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfqxctkhs9cne0cr0w61": {
+                "id": 214212,
                 "identifier": "01j76xyfqxctkhs9cne0cr0w61",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFQXCTKHS9CNE0CR0W61.jpg",
                 "malId": 128507,
@@ -86,6 +69,19 @@
                 "title": "Shiboritoranaide, Onna Shounin-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFQXCTKHS9CNE0CR0W61"
+            }
+        },
+        "MangaFire": {
+            "0r5rk": {
+                "id": 224531,
+                "identifier": "0r5rk",
+                "image": "https://static.mangafire.to/bdf8/i/8/8b/8bf518112fb9822b1027588784e9a93d.jpg",
+                "malId": 128507,
+                "aniId": 118911,
+                "page": "MangaFire",
+                "title": "Please Don’t Milk Me, Merchant-san!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shiboritoranaide-onna-shounin-sann.0r5rk"
             }
         },
         "Comick": {

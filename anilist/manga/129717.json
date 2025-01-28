@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "80aa7fa0-67e8-4f9d-a98f-11dcbe79c375": {
+                "id": 106759,
                 "identifier": "80aa7fa0-67e8-4f9d-a98f-11dcbe79c375",
                 "image": "https://uploads.mangadex.org/covers/80aa7fa0-67e8-4f9d-a98f-11dcbe79c375/c14c2573-c6f7-45aa-ba9f-2a512e16c966.jpg",
                 "malId": 140216,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "in-the-name-of-the-mermaid-princess": {
+                "id": 183052,
                 "identifier": "in-the-name-of-the-mermaid-princess",
                 "image": "https://temp.compsci88.com/cover/In-the-Name-of-the-Mermaid-Princess.jpg",
                 "malId": 140216,
@@ -30,32 +32,11 @@
                 "url": "https://mangasee123.com/manga/In-the-Name-of-the-Mermaid-Princess"
             }
         },
-        "MangaFire": {
-            "mio-no-na-no-moto-ni.ykyvx": {
-                "identifier": "mio-no-na-no-moto-ni.ykyvx",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/2e78a71a7c4532e12e0990650d09123c.jpg",
-                "malId": 140216,
-                "aniId": 129717,
-                "page": "MangaFire",
-                "title": "In the Name of the Mermaid Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mio-no-na-no-moto-ni.ykyvx/"
-            },
-            "mio-no-na-no-moto-nii.ykyvx": {
-                "identifier": "mio-no-na-no-moto-nii.ykyvx",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/2e78a71a7c4532e12e0990650d09123c.jpg",
-                "malId": 140216,
-                "aniId": 129717,
-                "page": "MangaFire",
-                "title": "In the Name of the Mermaid Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mio-no-na-no-moto-nii.ykyvx/"
-            }
-        },
         "MangaNato": {
             "manga-xk1000719": {
+                "id": 191947,
                 "identifier": "manga-xk1000719",
-                "image": "https://avt.mkklcdnv6temp.com/38/j/33-1707199086.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/79/v/16-1733319068-nw.webp",
                 "malId": 140216,
                 "aniId": 129717,
                 "page": "MangaNato",
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygzkezpfn5nebata82kv": {
+                "id": 206466,
                 "identifier": "01j76xygzkezpfn5nebata82kv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGZKEZPFN5NEBATA82KV.jpg",
                 "malId": 140216,
@@ -74,6 +56,19 @@
                 "title": "In the Name of the Mermaid Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGZKEZPFN5NEBATA82KV"
+            }
+        },
+        "MangaFire": {
+            "ykyvx": {
+                "id": 236454,
+                "identifier": "ykyvx",
+                "image": "https://static.mangafire.to/ef0c/i/a/ab/2e78a71a7c4532e12e0990650d09123c.jpg",
+                "malId": 140216,
+                "aniId": 129717,
+                "page": "MangaFire",
+                "title": "In the Name of the Mermaid Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mio-no-na-no-moto-nii.ykyvx"
             }
         },
         "Comick": {

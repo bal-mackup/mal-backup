@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "11bfa371-f53f-42b7-8213-94b1323b02b6": {
+                "id": 29551,
                 "identifier": "11bfa371-f53f-42b7-8213-94b1323b02b6",
                 "image": "https://uploads.mangadex.org/covers/11bfa371-f53f-42b7-8213-94b1323b02b6/f655e4d3-1c83-4b6d-b9e7-9e658f4272b3.jpg",
                 "malId": 121504,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-sign-of-affection": {
+                "id": 59926,
                 "identifier": "a-sign-of-affection",
                 "image": "https://temp.compsci88.com/cover/A-Sign-of-Affection.jpg",
                 "malId": 121504,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fg982741": {
+                "id": 78772,
                 "identifier": "manga-fg982741",
                 "image": "https://avt.mkklcdnv6temp.com/12/u/19-1583499580.jpg",
                 "malId": 121504,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "yubisaki_to_renren": {
+                "id": 80091,
                 "identifier": "yubisaki_to_renren",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31258/cover.jpg",
                 "malId": 121504,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/yubisaki_to_renren/"
             }
         },
-        "MangaFire": {
-            "yubisaki-to-renren.qxl2j": {
-                "identifier": "yubisaki-to-renren.qxl2j",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29b2787bcaaec4f7675a1e72422d8a6d.jpg",
-                "malId": 121504,
-                "aniId": 111189,
-                "page": "MangaFire",
-                "title": "A Sign of Affection",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yubisaki-to-renren.qxl2j/"
-            },
-            "yubisaki-to-renrenn.qxl2j": {
-                "identifier": "yubisaki-to-renrenn.qxl2j",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29b2787bcaaec4f7675a1e72422d8a6d.jpg",
-                "malId": 121504,
-                "aniId": 111189,
-                "page": "MangaFire",
-                "title": "A Sign of Affection",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yubisaki-to-renrenn.qxl2j/"
-            }
-        },
         "Weebcentral": {
             "01j76xydd22athg664d0xddb2s": {
+                "id": 206834,
                 "identifier": "01j76xydd22athg664d0xddb2s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDD22ATHG664D0XDDB2S.jpg",
                 "malId": 121504,
@@ -86,6 +69,19 @@
                 "title": "A Sign of Affection",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDD22ATHG664D0XDDB2S"
+            }
+        },
+        "MangaFire": {
+            "qxl2j": {
+                "id": 226161,
+                "identifier": "qxl2j",
+                "image": "https://static.mangafire.to/5b2d/i/2/29/29b2787bcaaec4f7675a1e72422d8a6d.jpg",
+                "malId": 121504,
+                "aniId": 111189,
+                "page": "MangaFire",
+                "title": "A Sign of Affection",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yubisaki-to-renrenn.qxl2j"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f67c73a1-09ba-4047-8771-5299ae71f750": {
+                "id": 32984,
                 "identifier": "f67c73a1-09ba-4047-8771-5299ae71f750",
                 "image": "https://uploads.mangadex.org/covers/f67c73a1-09ba-4047-8771-5299ae71f750/078c9ece-8ba3-4dc2-9b37-4d6db737c7ec.jpg",
                 "malId": 124242,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "meika_san_wa_oshi_korosenai": {
+                "id": 64264,
                 "identifier": "meika_san_wa_oshi_korosenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32747/cover.jpg",
                 "malId": 124242,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hk984567": {
+                "id": 73749,
                 "identifier": "manga-hk984567",
                 "image": "https://avt.mkklcdnv6temp.com/38/r/25-1650627186.jpg",
                 "malId": 124242,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "meika-san-wa-oshikorosenai": {
+                "id": 95444,
                 "identifier": "meika-san-wa-oshikorosenai",
                 "image": "https://temp.compsci88.com/cover/Meika-san-wa-Oshikorosenai.jpg",
                 "malId": 124242,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Meika-san-wa-Oshikorosenai"
             }
         },
-        "MangaFire": {
-            "meika-san-wa-oshikorosenai.qkx8j": {
-                "identifier": "meika-san-wa-oshikorosenai.qkx8j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a986ca78fbdc6dd6c0196edd906ab90b.jpg",
-                "malId": 124242,
-                "aniId": 115149,
-                "page": "MangaFire",
-                "title": "Meika-San Can't Conceal Her Emotions",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meika-san-wa-oshikorosenai.qkx8j/"
-            },
-            "meika-san-wa-oshikorosenaii.qkx8j": {
-                "identifier": "meika-san-wa-oshikorosenaii.qkx8j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a986ca78fbdc6dd6c0196edd906ab90b.jpg",
-                "malId": 124242,
-                "aniId": 115149,
-                "page": "MangaFire",
-                "title": "Meika-San Can't Conceal Her Emotions",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meika-san-wa-oshikorosenaii.qkx8j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf9nw1nqm8c3dpbfd0q2": {
+                "id": 213014,
                 "identifier": "01j76xyf9nw1nqm8c3dpbfd0q2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF9NW1NQM8C3DPBFD0Q2.jpg",
                 "malId": 124242,
@@ -86,6 +69,19 @@
                 "title": "Meika-san wa Oshikorosenai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF9NW1NQM8C3DPBFD0Q2"
+            }
+        },
+        "MangaFire": {
+            "qkx8j": {
+                "id": 225128,
+                "identifier": "qkx8j",
+                "image": "https://static.mangafire.to/eb07/i/a/a9/a986ca78fbdc6dd6c0196edd906ab90b.jpg",
+                "malId": 124242,
+                "aniId": 115149,
+                "page": "MangaFire",
+                "title": "Meika-San Can't Conceal Her Emotions",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/meika-san-wa-oshikorosenaii.qkx8j"
             }
         },
         "Comick": {

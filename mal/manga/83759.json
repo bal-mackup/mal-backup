@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eb96ace7-929e-4f0e-b8b7-22d4d57efd94": {
+                "id": 9637,
                 "identifier": "eb96ace7-929e-4f0e-b8b7-22d4d57efd94",
                 "image": "https://uploads.mangadex.org/covers/eb96ace7-929e-4f0e-b8b7-22d4d57efd94/4eff302a-8a8f-49c9-8c8c-2322d9fc75fd.jpg",
                 "malId": 83759,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dragon-recipe": {
+                "id": 62404,
                 "identifier": "dragon-recipe",
                 "image": "https://temp.compsci88.com/cover/Dragon-Recipe.jpg",
                 "malId": 83759,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lp962924": {
+                "id": 82224,
                 "identifier": "manga-lp962924",
                 "image": "https://avt.mkklcdnv6temp.com/33/c/8-1583479433.jpg",
                 "malId": 83759,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-lp962924"
             }
         },
-        "MangaFire": {
-            "dragon-recipe.x748": {
-                "identifier": "dragon-recipe.x748",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e6/e67596e2d979a4e3c0b50cff0651f317.jpg",
-                "malId": 83759,
-                "aniId": 93447,
-                "page": "MangaFire",
-                "title": "Dragon Recipe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dragon-recipe.x748/"
-            },
-            "x748": {
-                "identifier": "x748",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e6/e67596e2d979a4e3c0b50cff0651f317.jpg",
-                "malId": 83759,
-                "aniId": 93447,
-                "page": "MangaFire",
-                "title": "Dragon Recipe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dragon-recipe.x748/"
-            }
-        },
         "MangaFox": {
             "dragon_recipe": {
+                "id": 185551,
                 "identifier": "dragon_recipe",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13437/cover.jpg",
                 "malId": 83759,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xy9w9wp3wgapc1mesgr1n": {
+                "id": 212490,
                 "identifier": "01j76xy9w9wp3wgapc1mesgr1n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9W9WP3WGAPC1MESGR1N.jpg",
                 "malId": 83759,
@@ -86,6 +69,19 @@
                 "title": "Dragon Recipe",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9W9WP3WGAPC1MESGR1N"
+            }
+        },
+        "MangaFire": {
+            "x748": {
+                "id": 255951,
+                "identifier": "x748",
+                "image": "https://static.mangafire.to/a43c/i/e/e6/e67596e2d979a4e3c0b50cff0651f317.jpg",
+                "malId": 83759,
+                "aniId": 93447,
+                "page": "MangaFire",
+                "title": "Dragon Recipe",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dragon-recipee.x748"
             }
         },
         "Comick": {

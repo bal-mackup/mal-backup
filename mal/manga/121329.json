@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "336bce99-e6a0-4590-a5be-06f276e2006d": {
+                "id": 30566,
                 "identifier": "336bce99-e6a0-4590-a5be-06f276e2006d",
                 "image": "https://uploads.mangadex.org/covers/336bce99-e6a0-4590-a5be-06f276e2006d/b78b621a-8ba0-4af6-9800-b72926ecd4b0.jpg",
                 "malId": 121329,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "duranki": {
+                "id": 58704,
                 "identifier": "duranki",
                 "image": "https://temp.compsci88.com/cover/Duranki.jpg",
                 "malId": 121329,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "duranki": {
+                "id": 69198,
                 "identifier": "duranki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31414/cover.jpg",
                 "malId": 121329,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fe982987": {
+                "id": 77287,
                 "identifier": "manga-fe982987",
                 "image": "https://avt.mkklcdnv6temp.com/21/u/19-1583499976.jpg",
                 "malId": 121329,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-fe982987"
             }
         },
-        "MangaFire": {
-            "duranki.7j0q8": {
-                "identifier": "duranki.7j0q8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d9307fc12609f6b39901b412a2c59f3.jpg",
-                "malId": 121329,
-                "aniId": 111158,
-                "page": "MangaFire",
-                "title": "Duranki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/duranki.7j0q8/"
-            },
-            "durankii.7j0q8": {
-                "identifier": "durankii.7j0q8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d9307fc12609f6b39901b412a2c59f3.jpg",
-                "malId": 121329,
-                "aniId": 111158,
-                "page": "MangaFire",
-                "title": "Duranki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/durankii.7j0q8/"
-            }
-        },
         "Weebcentral": {
             "01j76xydp2dcz85mkxsw4xxv42": {
+                "id": 208763,
                 "identifier": "01j76xydp2dcz85mkxsw4xxv42",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDP2DCZ85MKXSW4XXV42.jpg",
                 "malId": 121329,
@@ -86,6 +69,19 @@
                 "title": "Duranki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDP2DCZ85MKXSW4XXV42"
+            }
+        },
+        "MangaFire": {
+            "7j0q8": {
+                "id": 228479,
+                "identifier": "7j0q8",
+                "image": "https://static.mangafire.to/df80/i/1/1d/1d9307fc12609f6b39901b412a2c59f3.jpg",
+                "malId": 121329,
+                "aniId": 111158,
+                "page": "MangaFire",
+                "title": "Duranki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/durankii.7j0q8"
             }
         },
         "Comick": {

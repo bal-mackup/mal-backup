@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f5389a6-c99e-41d7-a537-ffe40069047b": {
+                "id": 35749,
                 "identifier": "9f5389a6-c99e-41d7-a537-ffe40069047b",
                 "image": "https://uploads.mangadex.org/covers/9f5389a6-c99e-41d7-a537-ffe40069047b/ab0cbb3f-941b-4be4-b9fd-e4e83f5116b1.jpg",
                 "malId": 124304,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-om991947": {
+                "id": 112125,
                 "identifier": "manga-om991947",
                 "image": "https://avt.mkklcdnv6temp.com/37/s/26-1660017215.jpg",
                 "malId": 124304,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-om991947"
             }
         },
-        "MangaFire": {
-            "brother-trap.xrl5q": {
-                "identifier": "brother-trap.xrl5q",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db59ca94f4ea1ec11ab851a8e2a25a4d.jpg",
-                "malId": 124304,
-                "aniId": 138599,
-                "page": "MangaFire",
-                "title": "Brother Trap",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/brother-trap.xrl5q/"
-            }
-        },
         "MangaFox": {
             "brother_trap": {
+                "id": 186351,
                 "identifier": "brother_trap",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36468/cover.jpg",
                 "malId": 124304,
@@ -52,6 +43,19 @@
                 "title": "Brother Trap",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/brother_trap/"
+            }
+        },
+        "MangaFire": {
+            "xrl5q": {
+                "id": 262657,
+                "identifier": "xrl5q",
+                "image": "https://static.mangafire.to/92dc/i/d/db/db59ca94f4ea1ec11ab851a8e2a25a4d.jpg",
+                "malId": 124304,
+                "aniId": 138599,
+                "page": "MangaFire",
+                "title": "Brother Trap",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/brother-trapp.xrl5q"
             }
         },
         "Comick": {

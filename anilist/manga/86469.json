@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2d6b1de7-37a9-4620-a565-1fd97c39821a": {
+                "id": 12976,
                 "identifier": "2d6b1de7-37a9-4620-a565-1fd97c39821a",
                 "image": "https://uploads.mangadex.org/covers/2d6b1de7-37a9-4620-a565-1fd97c39821a/73733e31-2cb1-4d10-a4ca-ff7e6fbbfb01.png",
                 "malId": 80187,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pochi-kuro": {
+                "id": 66640,
                 "identifier": "pochi-kuro",
                 "image": "https://temp.compsci88.com/cover/Pochi-Kuro.jpg",
                 "malId": 80187,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "pochi_kuro": {
+                "id": 67497,
                 "identifier": "pochi_kuro",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15671/cover.jpg",
                 "malId": 80187,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bb951636": {
+                "id": 76879,
                 "identifier": "manga-bb951636",
                 "image": "https://avt.mkklcdnv6temp.com/11/n/1-1583464111.jpg",
                 "malId": 80187,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-bb951636"
             }
         },
-        "MangaFire": {
-            "pochi-kuro.qxz3j": {
-                "identifier": "pochi-kuro.qxz3j",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4d/4d8854658002227159e46981c1d18e3c.jpg",
-                "malId": 80187,
-                "aniId": 86469,
-                "page": "MangaFire",
-                "title": "Pochi Kuro",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pochi-kuro.qxz3j/"
-            }
-        },
         "Weebcentral": {
             "01j76xybfw7v4j49jdejqrc4rg": {
+                "id": 208738,
                 "identifier": "01j76xybfw7v4j49jdejqrc4rg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBFW7V4J49JDEJQRC4RG.jpg",
                 "malId": 80187,
@@ -76,6 +69,19 @@
                 "title": "Pochi Kuro",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBFW7V4J49JDEJQRC4RG"
+            }
+        },
+        "MangaFire": {
+            "qxz3j": {
+                "id": 261371,
+                "identifier": "qxz3j",
+                "image": "https://static.mangafire.to/157c/i/4/4d/4d8854658002227159e46981c1d18e3c.jpg",
+                "malId": 80187,
+                "aniId": 86469,
+                "page": "MangaFire",
+                "title": "Pochi Kuro",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pochi-kuroo.qxz3j"
             }
         },
         "Comick": {

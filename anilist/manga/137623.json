@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "088db207-6c42-4fa9-9e6f-1b831c21c1ac": {
+                "id": 97079,
                 "identifier": "088db207-6c42-4fa9-9e6f-1b831c21c1ac",
                 "image": "https://uploads.mangadex.org/covers/088db207-6c42-4fa9-9e6f-1b831c21c1ac/c1caf564-d47a-4d7d-9f95-a309c1aabcf2.jpg",
                 "malId": 147541,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/088db207-6c42-4fa9-9e6f-1b831c21c1ac"
             },
             "1d2967dd-d157-4cbb-84ed-ea7cf7140d14": {
+                "id": 102052,
                 "identifier": "1d2967dd-d157-4cbb-84ed-ea7cf7140d14",
                 "image": "https://uploads.mangadex.org/covers/1d2967dd-d157-4cbb-84ed-ea7cf7140d14/1a3f4936-b317-4baa-ba52-d406725c98cd.jpg",
                 "malId": 147541,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-qj993492": {
+                "id": 121663,
                 "identifier": "manga-qj993492",
                 "image": "https://avt.mkklcdnv6temp.com/50/c/27-1673337457.jpg",
                 "malId": 147541,
@@ -40,6 +43,7 @@
                 "url": "https://chapmanganato.com/manga-qj993492"
             },
             "manga-qs994353": {
+                "id": 125195,
                 "identifier": "manga-qs994353",
                 "image": "https://avt.mkklcdnv6temp.com/34/t/28-1676908232.jpg",
                 "malId": 147541,
@@ -50,30 +54,9 @@
                 "url": "https://chapmanganato.com/manga-qs994353"
             }
         },
-        "MangaFire": {
-            "yume-de-furarete-hajimaru-yuri.kwwnr": {
-                "identifier": "yume-de-furarete-hajimaru-yuri.kwwnr",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0766b9a7411588201bc08d20331956ad.jpg",
-                "malId": 147541,
-                "aniId": 137623,
-                "page": "MangaFire",
-                "title": "Yume de Furarete Hajimaru Yuri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yume-de-furarete-hajimaru-yuri.kwwnr/"
-            },
-            "yume-de-furarete-hajimaru-yurii.kwwnr": {
-                "identifier": "yume-de-furarete-hajimaru-yurii.kwwnr",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0766b9a7411588201bc08d20331956ad.jpg",
-                "malId": 147541,
-                "aniId": 137623,
-                "page": "MangaFire",
-                "title": "Yume de Furarete Hajimaru Yuri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yume-de-furarete-hajimaru-yurii.kwwnr/"
-            }
-        },
         "MangaFox": {
             "yume_de_furarete_hajimaru_yuri": {
+                "id": 184051,
                 "identifier": "yume_de_furarete_hajimaru_yuri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44910/cover.jpg",
                 "malId": 147541,
@@ -82,6 +65,19 @@
                 "title": "Yume de Furarete Hajimaru Yuri",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/yume_de_furarete_hajimaru_yuri/"
+            }
+        },
+        "MangaFire": {
+            "kwwnr": {
+                "id": 225357,
+                "identifier": "kwwnr",
+                "image": "https://static.mangafire.to/f37a/i/0/07/0766b9a7411588201bc08d20331956ad.jpg",
+                "malId": 147541,
+                "aniId": 137623,
+                "page": "MangaFire",
+                "title": "Yume de Furarete Hajimaru Yuri",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yume-de-furarete-hajimaru-yurii.kwwnr"
             }
         },
         "Comick": {

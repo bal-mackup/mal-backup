@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1ee97895-4796-4bcf-bcd1-5ef99c011f8b": {
+                "id": 17233,
                 "identifier": "1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
                 "image": "https://uploads.mangadex.org/covers/1ee97895-4796-4bcf-bcd1-5ef99c011f8b/d3d19bcd-d0e0-43a8-8070-fc806defe56d.jpg",
                 "malId": 94376,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yurukyan": {
+                "id": 59902,
                 "identifier": "yurukyan",
                 "image": "https://temp.compsci88.com/cover/Yurukyan.jpg",
                 "malId": 94376,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yurucamp": {
+                "id": 62786,
                 "identifier": "yurucamp",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24323/cover.jpg",
                 "malId": 94376,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xd975260": {
+                "id": 73857,
                 "identifier": "manga-xd975260",
                 "image": "https://avt.mkklcdnv6temp.com/7/f/15-1583491725.jpg",
                 "malId": 94376,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xd975260"
             }
         },
-        "MangaFire": {
-            "yurucamp.918n": {
-                "identifier": "yurucamp.918n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/83174eeb30fe3bcaec0c2452b2906208.jpg",
-                "malId": 94376,
-                "aniId": 98351,
-                "page": "MangaFire",
-                "title": "Laid-Back Camp",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yurucamp.918n/"
-            },
-            "yurucampp.918n": {
-                "identifier": "yurucampp.918n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/83174eeb30fe3bcaec0c2452b2906208.jpg",
-                "malId": 94376,
-                "aniId": 98351,
-                "page": "MangaFire",
-                "title": "Laid-Back Camp",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yurucampp.918n/"
-            }
-        },
         "Weebcentral": {
             "01j76xycdv6ns5a5tygvhzgzwj": {
+                "id": 214430,
                 "identifier": "01j76xycdv6ns5a5tygvhzgzwj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCDV6NS5A5TYGVHZGZWJ.jpg",
                 "malId": 94376,
@@ -86,6 +69,19 @@
                 "title": "Laid-Back Camp",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCDV6NS5A5TYGVHZGZWJ"
+            }
+        },
+        "MangaFire": {
+            "918n": {
+                "id": 228045,
+                "identifier": "918n",
+                "image": "https://static.mangafire.to/f2ad/i/8/83/83174eeb30fe3bcaec0c2452b2906208.jpg",
+                "malId": 94376,
+                "aniId": 98351,
+                "page": "MangaFire",
+                "title": "Laid-Back Camp",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yurucampp.918n"
             }
         },
         "Comick": {

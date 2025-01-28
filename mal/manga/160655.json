@@ -6,40 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/285036.jpg",
     "Sites": {
-        "MangaFire": {
-            "31-beonjjae-mareun-geimpaneul-dwieopneunda.mvol8": {
-                "identifier": "31-beonjjae-mareun-geimpaneul-dwieopneunda.mvol8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd186b3893dbb8883fe2121f45a7af3a.jpg",
-                "malId": 160655,
-                "aniId": 167109,
-                "page": "MangaFire",
-                "title": "The 31st Piece Turns the Tables",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/31-beonjjae-mareun-geimpaneul-dwieopneunda.mvol8/"
-            },
-            "The-31st-Piece-Turns-the-Tables.mvol8": {
-                "identifier": "The-31st-Piece-Turns-the-Tables.mvol8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd186b3893dbb8883fe2121f45a7af3a.jpg",
-                "malId": 160655,
-                "aniId": 167109,
-                "page": "MangaFire",
-                "title": "The 31st Piece Turns the Tables",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/The-31st-Piece-Turns-the-Tables.mvol8/"
-            },
-            "31-beonjjae-mareun-geimpaneul-dwieopneundaa.mvol8": {
-                "identifier": "31-beonjjae-mareun-geimpaneul-dwieopneundaa.mvol8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd186b3893dbb8883fe2121f45a7af3a.jpg",
-                "malId": 160655,
-                "aniId": 167109,
-                "page": "MangaFire",
-                "title": "The 31st Piece Turns the Tables",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/31-beonjjae-mareun-geimpaneul-dwieopneundaa.mvol8/"
-            }
-        },
         "Mangadex": {
             "700223c7-f5e3-42ef-8577-42392b349f8a": {
+                "id": 163416,
                 "identifier": "700223c7-f5e3-42ef-8577-42392b349f8a",
                 "image": "https://uploads.mangadex.org/covers/700223c7-f5e3-42ef-8577-42392b349f8a/2bbf7286-c417-46f1-ae4b-69b4b2b83335.jpg",
                 "malId": 160655,
@@ -52,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ud997360": {
+                "id": 165053,
                 "identifier": "manga-ud997360",
                 "image": "https://avt.mkklcdnv6temp.com/fld/51/n/15-1733309723-nw.webp",
                 "malId": 160655,
@@ -60,6 +30,19 @@
                 "title": "The 31St Piece Overturns The Board",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-ud997360"
+            }
+        },
+        "MangaFire": {
+            "mvol8": {
+                "id": 226605,
+                "identifier": "mvol8",
+                "image": "https://static.mangafire.to/c2bc/i/c/cd/cd186b3893dbb8883fe2121f45a7af3a.jpg",
+                "malId": 160655,
+                "aniId": 167109,
+                "page": "MangaFire",
+                "title": "The 31st Piece Turns the Tables",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/31-beonjjae-mareun-geimpaneul-dwieopneundaa.mvol8"
             }
         },
         "Comick": {

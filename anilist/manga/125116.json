@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f": {
+                "id": 53799,
                 "identifier": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
                 "image": "https://uploads.mangadex.org/covers/e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f/36a13204-dcb3-4944-966b-122fb0ea86d1.jpg",
                 "malId": 131924,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tsue_to_tsurugi_no_wistoria": {
+                "id": 82804,
                 "identifier": "tsue_to_tsurugi_no_wistoria",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38885/cover.jpg",
                 "malId": 131924,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ka988035": {
+                "id": 85800,
                 "identifier": "manga-ka988035",
                 "image": "https://avt.mkklcdnv6temp.com/5/u/36-1724777022.jpg",
                 "malId": 131924,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "wistoria-wand-and-sword": {
+                "id": 112696,
                 "identifier": "wistoria-wand-and-sword",
                 "image": "https://temp.compsci88.com/cover/Wistoria-Wand-and-Sword.jpg",
                 "malId": 131924,
@@ -54,40 +58,9 @@
                 "url": "https://mangasee123.com/manga/Wistoria-Wand-and-Sword"
             }
         },
-        "MangaFire": {
-            "wistoria-wand-and-sword.02n57": {
-                "identifier": "wistoria-wand-and-sword.02n57",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2003b7959c9fbea20ba65519d6e41de.jpg",
-                "malId": 131924,
-                "aniId": 125116,
-                "page": "MangaFire",
-                "title": "Wistoria: Wand and Sword",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wistoria-wand-and-sword.02n57/"
-            },
-            "tsue-to-tsurugi-no-wistoria.02n57": {
-                "identifier": "tsue-to-tsurugi-no-wistoria.02n57",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2003b7959c9fbea20ba65519d6e41de.jpg",
-                "malId": 131924,
-                "aniId": 125116,
-                "page": "MangaFire",
-                "title": "Wistoria: Wand and Sword",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsue-to-tsurugi-no-wistoria.02n57/"
-            },
-            "wistoria-wand-and-swordd.02n57": {
-                "identifier": "wistoria-wand-and-swordd.02n57",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2003b7959c9fbea20ba65519d6e41de.jpg",
-                "malId": 131924,
-                "aniId": 125116,
-                "page": "MangaFire",
-                "title": "Wistoria: Wand and Sword",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wistoria-wand-and-swordd.02n57/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfm1twgnnq2y2t8v7e8y": {
+                "id": 207971,
                 "identifier": "01j76xyfm1twgnnq2y2t8v7e8y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFM1TWGNNQ2Y2T8V7E8Y.jpg",
                 "malId": 131924,
@@ -96,6 +69,19 @@
                 "title": "Wistoria - Wand and Sword",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFM1TWGNNQ2Y2T8V7E8Y"
+            }
+        },
+        "MangaFire": {
+            "02n57": {
+                "id": 228633,
+                "identifier": "02n57",
+                "image": "https://static.mangafire.to/1bdc/i/e/e2/e2003b7959c9fbea20ba65519d6e41de.jpg",
+                "malId": 131924,
+                "aniId": 125116,
+                "page": "MangaFire",
+                "title": "Wistoria: Wand and Sword",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wistoria-wand-and-swordd.02n57"
             }
         },
         "Comick": {

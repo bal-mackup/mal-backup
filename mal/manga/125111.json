@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3083fdad-a2a0-4f34-a37e-00b2432d6c19": {
+                "id": 33492,
                 "identifier": "3083fdad-a2a0-4f34-a37e-00b2432d6c19",
                 "image": "https://uploads.mangadex.org/covers/3083fdad-a2a0-4f34-a37e-00b2432d6c19/e073d42b-fcc4-4130-8605-53fef7331546.jpg",
                 "malId": 125111,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hg-ni-koisuru-futari": {
+                "id": 62071,
                 "identifier": "hg-ni-koisuru-futari",
                 "image": "https://temp.compsci88.com/cover/HG-ni-Koisuru-Futari.jpg",
                 "malId": 125111,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ht984876": {
+                "id": 82433,
                 "identifier": "manga-ht984876",
                 "image": "https://avt.mkklcdnv6temp.com/42/s/20-1583899799.jpg",
                 "malId": 125111,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "hg_ni_koisuru_futari": {
+                "id": 82844,
                 "identifier": "hg_ni_koisuru_futari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33152/cover.jpg",
                 "malId": 125111,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/hg_ni_koisuru_futari/"
             }
         },
-        "MangaFire": {
-            "hg-ni-koisuru-futari.w20o": {
-                "identifier": "hg-ni-koisuru-futari.w20o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5c068c7d53f2c2097f3dd54e33930b01.jpg",
-                "malId": 125111,
-                "aniId": 116496,
-                "page": "MangaFire",
-                "title": "HG ni Koisuru Futari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hg-ni-koisuru-futari.w20o/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeb1pqf0z57d896j80f6": {
+                "id": 210067,
                 "identifier": "01j76xyeb1pqf0z57d896j80f6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEB1PQF0Z57D896J80F6.jpg",
                 "malId": 125111,
@@ -76,6 +69,19 @@
                 "title": "HG ni Koi suru Futari",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEB1PQF0Z57D896J80F6"
+            }
+        },
+        "MangaFire": {
+            "w20o": {
+                "id": 256979,
+                "identifier": "w20o",
+                "image": "https://static.mangafire.to/40d3/i/5/5c/5c068c7d53f2c2097f3dd54e33930b01.jpg",
+                "malId": 125111,
+                "aniId": 116496,
+                "page": "MangaFire",
+                "title": "HG ni Koisuru Futari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hg-ni-koisuru-futarii.w20o"
             }
         },
         "Comick": {

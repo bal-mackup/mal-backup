@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3e8fd08f-757f-4700-aaf7-5168d33f7b39": {
+                "id": 17881,
                 "identifier": "3e8fd08f-757f-4700-aaf7-5168d33f7b39",
                 "image": "https://uploads.mangadex.org/covers/3e8fd08f-757f-4700-aaf7-5168d33f7b39/06f9ea2f-e479-4494-80ca-561769cab1a0.jpg",
                 "malId": 107861,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koi-wo-shiranai-bokutachi-wa": {
+                "id": 69245,
                 "identifier": "koi-wo-shiranai-bokutachi-wa",
                 "image": "https://temp.compsci88.com/cover/Koi-Wo-Shiranai-Bokutachi-Wa.jpg",
                 "malId": 107861,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "koi_wo_shiranai_bokutachi_wa": {
+                "id": 71311,
                 "identifier": "koi_wo_shiranai_bokutachi_wa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25683/cover.jpg",
                 "malId": 107861,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zs976927": {
+                "id": 85174,
                 "identifier": "manga-zs976927",
                 "image": "https://avt.mkklcdnv6temp.com/32/h/15-1583492739.jpg",
                 "malId": 107861,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zs976927"
             }
         },
-        "MangaFire": {
-            "koi-wo-shiranai-bokutachi-wa.zlww3": {
-                "identifier": "koi-wo-shiranai-bokutachi-wa.zlww3",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/53eb770f7c5a4f27add2604c7dafe4f5.jpg",
-                "malId": 107861,
-                "aniId": 99273,
-                "page": "MangaFire",
-                "title": "We Don't Know Love Yet.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-wo-shiranai-bokutachi-wa.zlww3/"
-            },
-            "zlww3": {
-                "identifier": "zlww3",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/53eb770f7c5a4f27add2604c7dafe4f5.jpg",
-                "malId": 107861,
-                "aniId": 99273,
-                "page": "MangaFire",
-                "title": "We Don't Know Love Yet.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-wo-shiranai-bokutachi-wa.zlww3/"
-            }
-        },
         "Weebcentral": {
             "01j76xycp6mbm14y414xkmpcgm": {
+                "id": 210236,
                 "identifier": "01j76xycp6mbm14y414xkmpcgm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCP6MBM14Y414XKMPCGM.jpg",
                 "malId": 107861,
@@ -86,6 +69,19 @@
                 "title": "Koi wo Shiranai Bokutachi wa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCP6MBM14Y414XKMPCGM"
+            }
+        },
+        "MangaFire": {
+            "zlww3": {
+                "id": 234300,
+                "identifier": "zlww3",
+                "image": "https://static.mangafire.to/988c/i/5/53/53eb770f7c5a4f27add2604c7dafe4f5.jpg",
+                "malId": 107861,
+                "aniId": 99273,
+                "page": "MangaFire",
+                "title": "We Don't Know Love Yet.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koi-wo-shiranai-bokutachi-waa.zlww3"
             }
         },
         "Comick": {

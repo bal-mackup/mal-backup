@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "574c7dd3-b19b-45bd-82e6-55f780289e66": {
+                "id": 35691,
                 "identifier": "574c7dd3-b19b-45bd-82e6-55f780289e66",
                 "image": "https://uploads.mangadex.org/covers/574c7dd3-b19b-45bd-82e6-55f780289e66/4378780f-27ee-488b-9347-6cb7087b6542.jpg",
                 "malId": 133373,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-am-a-cat-barista": {
+                "id": 92597,
                 "identifier": "i-am-a-cat-barista",
                 "image": "https://temp.compsci88.com/cover/I-Am-a-Cat-Barista.jpg",
                 "malId": 133373,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/I-Am-a-Cat-Barista"
             }
         },
-        "MangaFire": {
-            "wagahai-wa-neko-de-aru-shokugyou-wa-barista.w58p7": {
-                "identifier": "wagahai-wa-neko-de-aru-shokugyou-wa-barista.w58p7",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/908b44d92f5b7f52b9746e1eb9aecaa7.jpg",
-                "malId": 133373,
-                "aniId": 119054,
-                "page": "MangaFire",
-                "title": "Wagahai wa Neko de Aru, Shokugyou wa Barista.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wagahai-wa-neko-de-aru-shokugyou-wa-barista.w58p7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf6g3z8g43madwps9cb2": {
+                "id": 211996,
                 "identifier": "01j76xyf6g3z8g43madwps9cb2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF6G3Z8G43MADWPS9CB2.jpg",
                 "malId": 133373,
@@ -52,6 +43,19 @@
                 "title": "I Am a Cat Barista",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF6G3Z8G43MADWPS9CB2"
+            }
+        },
+        "MangaFire": {
+            "w58p7": {
+                "id": 232961,
+                "identifier": "w58p7",
+                "image": "https://static.mangafire.to/aaf7/i/9/90/908b44d92f5b7f52b9746e1eb9aecaa7.jpg",
+                "malId": 133373,
+                "aniId": 119054,
+                "page": "MangaFire",
+                "title": "Wagahai wa Neko de Aru, Shokugyou wa Barista.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wagahai-wa-neko-de-aru-shokugyou-wa-baristaa.w58p7"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a9316e33-94ad-4388-9b30-eaf41990a076": {
+                "id": 16392,
                 "identifier": "a9316e33-94ad-4388-9b30-eaf41990a076",
                 "image": "https://uploads.mangadex.org/covers/a9316e33-94ad-4388-9b30-eaf41990a076/8418aa39-15e6-4b54-9f13-a8520336d625.jpg",
                 "malId": 88489,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a9316e33-94ad-4388-9b30-eaf41990a076"
             },
             "b87c832c-6d08-4aaa-8e96-46c393893411": {
+                "id": 37669,
                 "identifier": "b87c832c-6d08-4aaa-8e96-46c393893411",
                 "image": "https://uploads.mangadex.org/covers/b87c832c-6d08-4aaa-8e96-46c393893411/511e623c-dcf5-4621-afae-0cc32ad05166.jpg",
                 "malId": 88489,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "futaribeya-a-room-for-two": {
+                "id": 67579,
                 "identifier": "futaribeya-a-room-for-two",
                 "image": "https://temp.compsci88.com/cover/Futaribeya-A-Room-for-Two.jpg",
                 "malId": 88489,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-nh952716": {
+                "id": 75793,
                 "identifier": "manga-nh952716",
                 "image": "https://avt.mkklcdnv6temp.com/49/e/1-1583465647.jpg",
                 "malId": 88489,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "futaribeya": {
+                "id": 78030,
                 "identifier": "futaribeya",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15849/cover.jpg",
                 "malId": 88489,
@@ -64,40 +69,9 @@
                 "url": "https://fanfox.net/manga/futaribeya/"
             }
         },
-        "MangaFire": {
-            "futaribeya.3r32r": {
-                "identifier": "futaribeya.3r32r",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d804373d2ba0ed531f1399821f4b1304.jpg",
-                "malId": 88489,
-                "aniId": 86244,
-                "page": "MangaFire",
-                "title": "Futaribeya: A Room for Two",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futaribeya.3r32r/"
-            },
-            "futaribeyaa.3r32r": {
-                "identifier": "futaribeyaa.3r32r",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d804373d2ba0ed531f1399821f4b1304.jpg",
-                "malId": 88489,
-                "aniId": 86244,
-                "page": "MangaFire",
-                "title": "Futaribeya: A Room for Two",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futaribeyaa.3r32r/"
-            },
-            "3r32r": {
-                "identifier": "3r32r",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d804373d2ba0ed531f1399821f4b1304.jpg",
-                "malId": 88489,
-                "aniId": 86244,
-                "page": "MangaFire",
-                "title": "Futaribeya: A Room for Two",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futaribeyaa.3r32r/"
-            }
-        },
         "Weebcentral": {
             "01j76xydk8f8ca5p7w4x2wyqxk": {
+                "id": 214301,
                 "identifier": "01j76xydk8f8ca5p7w4x2wyqxk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDK8F8CA5P7W4X2WYQXK.jpg",
                 "malId": 88489,
@@ -106,6 +80,19 @@
                 "title": "Futaribeya, A Room for Two",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDK8F8CA5P7W4X2WYQXK"
+            }
+        },
+        "MangaFire": {
+            "3r32r": {
+                "id": 226038,
+                "identifier": "3r32r",
+                "image": "https://static.mangafire.to/0b60/i/d/d8/d804373d2ba0ed531f1399821f4b1304.jpg",
+                "malId": 88489,
+                "aniId": 86244,
+                "page": "MangaFire",
+                "title": "Futaribeya: A Room for Two",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futaribeyaa.3r32r"
             }
         },
         "Comick": {

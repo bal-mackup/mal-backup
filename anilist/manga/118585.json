@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "706a3219-646d-4fdd-833c-234ca616029e": {
+                "id": 32816,
                 "identifier": "706a3219-646d-4fdd-833c-234ca616029e",
                 "image": "https://uploads.mangadex.org/covers/706a3219-646d-4fdd-833c-234ca616029e/c2a60585-90d4-4df7-bd7b-2ce982e5510a.jpg",
                 "malId": 126964,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tedama_ni_toritai_kurokiya_san": {
+                "id": 54683,
                 "identifier": "tedama_ni_toritai_kurokiya_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33863/cover.jpg",
                 "malId": 126964,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hk985319": {
+                "id": 74193,
                 "identifier": "manga-hk985319",
                 "image": "https://avt.mkklcdnv6temp.com/10/s/21-1589126456.jpg",
                 "malId": 126964,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "tedama-ni-toritai-kurokiya-san": {
+                "id": 128704,
                 "identifier": "tedama-ni-toritai-kurokiya-san",
                 "image": "https://temp.compsci88.com/cover/Tedama-ni-Toritai-Kurokiya-san.jpg",
                 "malId": 126964,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Tedama-ni-Toritai-Kurokiya-san"
             }
         },
-        "MangaFire": {
-            "tedama-ni-toritai-kurokiya-san.4qzmk": {
-                "identifier": "tedama-ni-toritai-kurokiya-san.4qzmk",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2de41b32b08c9bff6b9da098dda3c5fb.jpg",
-                "malId": 126964,
-                "aniId": 118585,
-                "page": "MangaFire",
-                "title": "Tedama ni Toritai Kurokiya-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tedama-ni-toritai-kurokiya-san.4qzmk/"
-            },
-            "tedama-ni-toritai-kurokiya-sann.4qzmk": {
-                "identifier": "tedama-ni-toritai-kurokiya-sann.4qzmk",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2de41b32b08c9bff6b9da098dda3c5fb.jpg",
-                "malId": 126964,
-                "aniId": 118585,
-                "page": "MangaFire",
-                "title": "Kurokiya-San Wants to Lead Him Around by the Nose",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tedama-ni-toritai-kurokiya-sann.4qzmk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1gnhnbm3mqp7w2rph5": {
+                "id": 212353,
                 "identifier": "01j76xyg1gnhnbm3mqp7w2rph5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1GNHNBM3MQP7W2RPH5.jpg",
                 "malId": 126964,
@@ -86,6 +69,19 @@
                 "title": "Kurokiya-san Wants to Lead Him Around by the Nose",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1GNHNBM3MQP7W2RPH5"
+            }
+        },
+        "MangaFire": {
+            "4qzmk": {
+                "id": 227023,
+                "identifier": "4qzmk",
+                "image": "https://static.mangafire.to/a8a7/i/2/2d/2de41b32b08c9bff6b9da098dda3c5fb.jpg",
+                "malId": 126964,
+                "aniId": 118585,
+                "page": "MangaFire",
+                "title": "Kurokiya-San Wants to Lead Him Around by the Nose",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tedama-ni-toritai-kurokiya-sann.4qzmk"
             }
         },
         "Comick": {

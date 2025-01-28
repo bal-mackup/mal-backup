@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "546bfea8-8134-40e1-9676-fe21da8622dc": {
+                "id": 40174,
                 "identifier": "546bfea8-8134-40e1-9676-fe21da8622dc",
                 "image": "https://uploads.mangadex.org/covers/546bfea8-8134-40e1-9676-fe21da8622dc/cb621b65-f2fe-49a7-ba6a-6edaed97ea54.jpg",
                 "malId": 131092,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "maou-sama-retry-r": {
+                "id": 57317,
                 "identifier": "maou-sama-retry-r",
                 "image": "https://temp.compsci88.com/cover/Maou-sama-Retry-R.jpg",
                 "malId": 131092,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jm986847": {
+                "id": 78060,
                 "identifier": "manga-jm986847",
                 "image": "https://avt.mkklcdnv6temp.com/23/i/22-1601606738.jpg",
                 "malId": 131092,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "maou_sama_retry_r": {
+                "id": 86923,
                 "identifier": "maou_sama_retry_r",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39212/cover.jpg",
                 "malId": 131092,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/maou_sama_retry_r/"
             }
         },
-        "MangaFire": {
-            "maou-sama-retry-r.n34xm": {
-                "identifier": "maou-sama-retry-r.n34xm",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b6188bca48cc2ee76b36666ed9554cb.jpg",
-                "malId": 131092,
-                "aniId": 124873,
-                "page": "MangaFire",
-                "title": "Demon King, Retry! R",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maou-sama-retry-r.n34xm/"
-            },
-            "maou-sama-retry-rr.n34xm": {
-                "identifier": "maou-sama-retry-rr.n34xm",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b6188bca48cc2ee76b36666ed9554cb.jpg",
-                "malId": 131092,
-                "aniId": 124873,
-                "page": "MangaFire",
-                "title": "Demon King, Retry! R",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maou-sama-retry-rr.n34xm/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzh1r3fpx6v34624gwj": {
+                "id": 213639,
                 "identifier": "01j76xydzh1r3fpx6v34624gwj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZH1R3FPX6V34624GWJ.jpg",
                 "malId": 131092,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYDZH1R3FPX6V34624GWJ"
             }
         },
+        "MangaFire": {
+            "n34xm": {
+                "id": 228647,
+                "identifier": "n34xm",
+                "image": "https://static.mangafire.to/639f/i/4/4b/4b6188bca48cc2ee76b36666ed9554cb.jpg",
+                "malId": 131092,
+                "aniId": 124873,
+                "page": "MangaFire",
+                "title": "Demon King, Retry! R",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maou-sama-retry-rr.n34xm"
+            }
+        },
         "Comick": {
             "mwwhL3LE": {
                 "identifier": "mwwhL3LE",
                 "malId": 131092,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Demon Lord, Retry! R",
+                "title": "Maou-sama, Retry! R",
                 "url": "https://comick.io/comic/maou-sama-retry-r",
                 "aniId": 124873
             }

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1196178c-3b8e-48a2-bd5a-2f0e1dbb142b": {
+                "id": 37985,
                 "identifier": "1196178c-3b8e-48a2-bd5a-2f0e1dbb142b",
                 "image": "https://uploads.mangadex.org/covers/1196178c-3b8e-48a2-bd5a-2f0e1dbb142b/a39b89b4-dbe2-4e42-9c66-adc04b8bf20d.jpg",
                 "malId": 148620,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-dad-is-too-strong": {
+                "id": 55825,
                 "identifier": "my-dad-is-too-strong",
                 "image": "https://temp.compsci88.com/cover/My-Dad-Is-Too-Strong.jpg",
                 "malId": 148620,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-iu986029": {
+                "id": 74128,
                 "identifier": "manga-iu986029",
                 "image": "https://avt.mkklcdnv6temp.com/40/o/21-1596080324.jpg",
                 "malId": 148620,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-iu986029"
             }
         },
-        "MangaFire": {
-            "my-dad-is-too-strong.ooj1j": {
-                "identifier": "my-dad-is-too-strong.ooj1j",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd443f3f1cf05d91aadc0740659caffc.jpg",
-                "malId": 148620,
-                "aniId": 122110,
-                "page": "MangaFire",
-                "title": "My Dad Is Too Strong",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-dad-is-too-strong.ooj1j/"
-            },
-            "my-dad-is-too-strongg.ooj1j": {
-                "identifier": "my-dad-is-too-strongg.ooj1j",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd443f3f1cf05d91aadc0740659caffc.jpg",
-                "malId": 148620,
-                "aniId": 122110,
-                "page": "MangaFire",
-                "title": "My Dad Is Too Strong",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-dad-is-too-strongg.ooj1j/"
-            }
-        },
         "Weebcentral": {
             "01j76xydt4y5wgj4b7c5a3f2ad": {
+                "id": 206653,
                 "identifier": "01j76xydt4y5wgj4b7c5a3f2ad",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDT4Y5WGJ4B7C5A3F2AD.jpg",
                 "malId": 148620,
@@ -74,6 +56,19 @@
                 "title": "My Dad Is Too Strong",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDT4Y5WGJ4B7C5A3F2AD"
+            }
+        },
+        "MangaFire": {
+            "ooj1j": {
+                "id": 229626,
+                "identifier": "ooj1j",
+                "image": "https://static.mangafire.to/7720/i/f/fd/fd443f3f1cf05d91aadc0740659caffc.jpg",
+                "malId": 148620,
+                "aniId": 122110,
+                "page": "MangaFire",
+                "title": "My Dad Is Too Strong",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-dad-is-too-strongg.ooj1j"
             }
         },
         "Comick": {

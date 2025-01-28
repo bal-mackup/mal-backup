@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aeb73951-4c3d-4f79-9ed9-53aec2e902b4": {
+                "id": 19625,
                 "identifier": "aeb73951-4c3d-4f79-9ed9-53aec2e902b4",
                 "image": "https://uploads.mangadex.org/covers/aeb73951-4c3d-4f79-9ed9-53aec2e902b4/073ecd8b-e4e7-4a4e-81de-e65ba33c99a8.jpg",
                 "malId": 65661,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nadenade-shikoshiko": {
+                "id": 67685,
                 "identifier": "nadenade-shikoshiko",
                 "image": "https://temp.compsci88.com/cover/Nadenade-Shikoshiko.jpg",
                 "malId": 65661,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "nadenade_shikoshiko": {
+                "id": 69260,
                 "identifier": "nadenade_shikoshiko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14956/cover.jpg",
                 "malId": 65661,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/nadenade_shikoshiko/"
             }
         },
-        "MangaFire": {
-            "nadenade-shikoshiko.ojmo5": {
-                "identifier": "nadenade-shikoshiko.ojmo5",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a1fe9556d9dd852a5a682cb890ec3d9.jpg",
-                "malId": 65661,
-                "aniId": 85916,
-                "page": "MangaFire",
-                "title": "NadeNadeShikoShiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nadenade-shikoshiko.ojmo5/"
-            },
-            "ojmo5": {
-                "identifier": "ojmo5",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a1fe9556d9dd852a5a682cb890ec3d9.jpg",
-                "malId": 65661,
-                "aniId": 85916,
-                "page": "MangaFire",
-                "title": "NadeNadeShikoShiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nadenade-shikoshiko.ojmo5/"
-            }
-        },
         "MangaNato": {
             "manga-ci956791": {
+                "id": 194601,
                 "identifier": "manga-ci956791",
                 "image": "https://avt.mkklcdnv6temp.com/fld/78/d/2-1732754646-nw.webp",
                 "malId": 65661,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyb81mf01v0jty5k4we57": {
+                "id": 209423,
                 "identifier": "01j76xyb81mf01v0jty5k4we57",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB81MF01V0JTY5K4WE57.jpg",
                 "malId": 65661,
@@ -86,6 +69,19 @@
                 "title": "Nadenade Shikoshiko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB81MF01V0JTY5K4WE57"
+            }
+        },
+        "MangaFire": {
+            "ojmo5": {
+                "id": 253449,
+                "identifier": "ojmo5",
+                "image": "https://static.mangafire.to/000d/i/5/5a/5a1fe9556d9dd852a5a682cb890ec3d9.jpg",
+                "malId": 65661,
+                "aniId": 85916,
+                "page": "MangaFire",
+                "title": "NadeNadeShikoShiko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nadenade-shikoshikoo.ojmo5"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e3e83c28-9abf-4ef0-8cf0-d5bdaa90d38a": {
+                "id": 14879,
                 "identifier": "e3e83c28-9abf-4ef0-8cf0-d5bdaa90d38a",
                 "image": "https://uploads.mangadex.org/covers/e3e83c28-9abf-4ef0-8cf0-d5bdaa90d38a/8ce454ca-ec2f-490d-b0cd-950559d2aed5.jpg",
                 "malId": 112481,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fa951935": {
+                "id": 76475,
                 "identifier": "manga-fa951935",
                 "image": "https://avt.mkklcdnv6temp.com/21/u/1-1583464554.jpg",
                 "malId": 112481,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "isanghago-aleumdaun": {
+                "id": 78236,
                 "identifier": "isanghago-aleumdaun",
                 "image": "https://temp.compsci88.com/cover/Isanghago-Aleumdaun.jpg",
                 "malId": 112481,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "isanghago_aleumdaun": {
+                "id": 86340,
                 "identifier": "isanghago_aleumdaun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18153/cover.jpg",
                 "malId": 112481,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/isanghago_aleumdaun/"
             }
         },
-        "MangaFire": {
-            "strange-and-beautiful.3rw28": {
-                "identifier": "strange-and-beautiful.3rw28",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d38fb1d38b6e0f5678f843a23311b12.jpg",
-                "malId": 112481,
-                "aniId": 99396,
-                "page": "MangaFire",
-                "title": "Strange and Beautiful",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strange-and-beautiful.3rw28/"
-            },
-            "3rw28": {
-                "identifier": "3rw28",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d38fb1d38b6e0f5678f843a23311b12.jpg",
-                "malId": 112481,
-                "aniId": 99396,
-                "page": "MangaFire",
-                "title": "Strange and Beautiful",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strange-and-beautiful.3rw28/"
-            }
-        },
         "Weebcentral": {
             "01j76xybzz4bdjm29zwv05230f": {
+                "id": 211195,
                 "identifier": "01j76xybzz4bdjm29zwv05230f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBZZ4BDJM29ZWV05230F.jpg",
                 "malId": 112481,
@@ -86,6 +69,19 @@
                 "title": "Isanghago Aleumdaun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBZZ4BDJM29ZWV05230F"
+            }
+        },
+        "MangaFire": {
+            "3rw28": {
+                "id": 246197,
+                "identifier": "3rw28",
+                "image": "https://static.mangafire.to/d9d9/i/6/6d/6d38fb1d38b6e0f5678f843a23311b12.jpg",
+                "malId": 112481,
+                "aniId": 99396,
+                "page": "MangaFire",
+                "title": "Strange and Beautiful",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/strange-and-beautifull.3rw28"
             }
         },
         "Comick": {

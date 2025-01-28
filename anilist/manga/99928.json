@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1e57ce4f-7873-4e2d-ba60-368026a10c42": {
+                "id": 18067,
                 "identifier": "1e57ce4f-7873-4e2d-ba60-368026a10c42",
                 "image": "https://uploads.mangadex.org/covers/1e57ce4f-7873-4e2d-ba60-368026a10c42/17dc59a8-3a66-4f14-9c24-9662940456f5.jpg",
                 "malId": 108536,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "almadianos-eiyuuden": {
+                "id": 54426,
                 "identifier": "almadianos-eiyuuden",
                 "image": "https://temp.compsci88.com/cover/Almadianos-Eiyuuden.jpg",
                 "malId": 108536,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "almadianos_eiyuuden": {
+                "id": 63086,
                 "identifier": "almadianos_eiyuuden",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26065/cover.jpg",
                 "malId": 108536,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zk977267": {
+                "id": 83483,
                 "identifier": "manga-zk977267",
                 "image": "https://avt.mkklcdnv6temp.com/39/i/15-1583492985.jpg",
                 "malId": 108536,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zk977267"
             }
         },
-        "MangaFire": {
-            "almadianos-eiyuuden.m220x": {
-                "identifier": "almadianos-eiyuuden.m220x",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a68a4ec2accfa978aa86ecac9db41a54.jpg",
-                "malId": 108536,
-                "aniId": 99928,
-                "page": "MangaFire",
-                "title": "The Heroic Saga of Almadianos",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/almadianos-eiyuuden.m220x/"
-            },
-            "m220x": {
-                "identifier": "m220x",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a68a4ec2accfa978aa86ecac9db41a54.jpg",
-                "malId": 108536,
-                "aniId": 99928,
-                "page": "MangaFire",
-                "title": "The Heroic Saga of Almadianos",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/almadianos-eiyuuden.m220x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyca8bpjtamt8h13ymw5c": {
+                "id": 211147,
                 "identifier": "01j76xyca8bpjtamt8h13ymw5c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCA8BPJTAMT8H13YMW5C.jpg",
                 "malId": 108536,
@@ -86,6 +69,19 @@
                 "title": "Almadianos Eiyuuden",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCA8BPJTAMT8H13YMW5C"
+            }
+        },
+        "MangaFire": {
+            "m220x": {
+                "id": 243614,
+                "identifier": "m220x",
+                "image": "https://static.mangafire.to/81ff/i/a/a6/a68a4ec2accfa978aa86ecac9db41a54.jpg",
+                "malId": 108536,
+                "aniId": 99928,
+                "page": "MangaFire",
+                "title": "The Heroic Saga of Almadianos",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/almadianos-eiyuudenn.m220x"
             }
         },
         "Comick": {

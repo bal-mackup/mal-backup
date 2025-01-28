@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6c62d637-4004-426f-ba7f-be45e18941b6": {
+                "id": 34011,
                 "identifier": "6c62d637-4004-426f-ba7f-be45e18941b6",
                 "image": "https://uploads.mangadex.org/covers/6c62d637-4004-426f-ba7f-be45e18941b6/7c7c6fb2-b8fe-4aae-aa3a-a0546766e679.jpg",
                 "malId": 125255,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yankee-jk-kuzuhana-chan": {
+                "id": 57608,
                 "identifier": "yankee-jk-kuzuhana-chan",
                 "image": "https://temp.compsci88.com/cover/Yankee-JK-KuzuHana-chan.jpg",
                 "malId": 125255,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yankee_jk_kuzuhana_chan": {
+                "id": 58220,
                 "identifier": "yankee_jk_kuzuhana_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33250/cover.jpg",
                 "malId": 125255,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hz985082": {
+                "id": 73038,
                 "identifier": "manga-hz985082",
                 "image": "https://avt.mkklcdnv6temp.com/50/u/20-1585927961.jpg",
                 "malId": 125255,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-hz985082"
             }
         },
-        "MangaFire": {
-            "yankee-jk-kuzuhana-chan.zlq83": {
-                "identifier": "yankee-jk-kuzuhana-chan.zlq83",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9aafeda47f62e71744b54fda769f9886.jpg",
-                "malId": 125255,
-                "aniId": 116822,
-                "page": "MangaFire",
-                "title": "Yankee JK KuzuHana-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yankee-jk-kuzuhana-chan.zlq83/"
-            },
-            "yankee-jk-kuzuhana-chan-another-side-of-heroine.8xj73": {
-                "identifier": "yankee-jk-kuzuhana-chan-another-side-of-heroine.8xj73",
-                "image": "https://static.mangafire.to/c2aa/i/8/8e/c98e9fe509b09376b32e77bb745fafd1.jpg",
-                "malId": 125255,
-                "aniId": 116822,
-                "page": "MangaFire",
-                "title": "Yankee JK Kuzuhana-chan: Another Side of Heroine",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yankee-jk-kuzuhana-chan-another-side-of-heroine.8xj73/"
-            },
-            "yankee-jk-kuzuhana-chann.zlq83": {
-                "identifier": "yankee-jk-kuzuhana-chann.zlq83",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9aafeda47f62e71744b54fda769f9886.jpg",
-                "malId": 125255,
-                "aniId": 116822,
-                "page": "MangaFire",
-                "title": "Yankee JK KuzuHana-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yankee-jk-kuzuhana-chann.zlq83/"
-            }
-        },
         "Weebcentral": {
             "01j76xydjp85nz04ds8205w5e9": {
+                "id": 206338,
                 "identifier": "01j76xydjp85nz04ds8205w5e9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJP85NZ04DS8205W5E9.jpg",
                 "malId": 125255,
@@ -96,6 +69,30 @@
                 "title": "Yankee JK KuzuHana-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJP85NZ04DS8205W5E9"
+            }
+        },
+        "MangaFire": {
+            "8xj73": {
+                "id": 223589,
+                "identifier": "8xj73",
+                "image": "https://static.mangafire.to/c2aa/i/8/8e/c98e9fe509b09376b32e77bb745fafd1.jpg",
+                "malId": 125255,
+                "aniId": 116822,
+                "page": "MangaFire",
+                "title": "Yankee JK Kuzuhana-chan: Another Side of Heroine",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yankee-jk-kuzuhana-chan-another-side-of-heroine.8xj73"
+            },
+            "zlq83": {
+                "id": 226877,
+                "identifier": "zlq83",
+                "image": "https://static.mangafire.to/c105/i/9/9a/9aafeda47f62e71744b54fda769f9886.jpg",
+                "malId": 125255,
+                "aniId": 116822,
+                "page": "MangaFire",
+                "title": "Yankee JK KuzuHana-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yankee-jk-kuzuhana-chann.zlq83"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "07d3503f-d35e-4dd2-aeb3-3973f7d20750": {
+                "id": 26284,
                 "identifier": "07d3503f-d35e-4dd2-aeb3-3973f7d20750",
                 "image": "https://uploads.mangadex.org/covers/07d3503f-d35e-4dd2-aeb3-3973f7d20750/a7cd7589-3106-4d7e-a35e-e514819bc7b0.jpg",
                 "malId": 111229,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fd983060": {
+                "id": 79884,
                 "identifier": "manga-fd983060",
                 "image": "https://avt.mkklcdnv6temp.com/24/o/19-1583500078.jpg",
                 "malId": 111229,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mystery_to_iunakare": {
+                "id": 92367,
                 "identifier": "mystery_to_iunakare",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31437/cover.jpg",
                 "malId": 111229,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/mystery_to_iunakare/"
             }
         },
-        "MangaFire": {
-            "dont-say-mystery.0nz3": {
-                "identifier": "dont-say-mystery.0nz3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b1b5bf84d243c8f5987d60eb8137527b.jpg",
-                "malId": 111229,
-                "aniId": 108551,
-                "page": "MangaFire",
-                "title": "Don't Call it Mystery",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dont-say-mystery.0nz3/"
-            },
-            "dont-say-mysteryy.0nz3": {
-                "identifier": "dont-say-mysteryy.0nz3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b1b5bf84d243c8f5987d60eb8137527b.jpg",
-                "malId": 111229,
-                "aniId": 108551,
-                "page": "MangaFire",
-                "title": "Don't Call it Mystery",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dont-say-mysteryy.0nz3/"
-            }
-        },
         "MangaSee": {
             "dont-call-it-mystery": {
+                "id": 161392,
                 "identifier": "dont-call-it-mystery",
                 "image": "https://temp.compsci88.com/cover/Dont-Call-It-Mystery.jpg",
                 "malId": 111229,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg8jagmy12he3n9djk9e": {
+                "id": 209801,
                 "identifier": "01j76xyg8jagmy12he3n9djk9e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG8JAGMY12HE3N9DJK9E.jpg",
                 "malId": 111229,
@@ -86,6 +69,19 @@
                 "title": "Don't Call It Mystery",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG8JAGMY12HE3N9DJK9E"
+            }
+        },
+        "MangaFire": {
+            "0nz3": {
+                "id": 226795,
+                "identifier": "0nz3",
+                "image": "https://static.mangafire.to/b385/i/b/b1/b1b5bf84d243c8f5987d60eb8137527b.jpg",
+                "malId": 111229,
+                "aniId": 108551,
+                "page": "MangaFire",
+                "title": "Don't Call it Mystery",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dont-say-mysteryy.0nz3"
             }
         },
         "Comick": {

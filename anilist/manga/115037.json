@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f75f85b-12f9-424e-bf65-605f8bfdc89e": {
+                "id": 32435,
                 "identifier": "8f75f85b-12f9-424e-bf65-605f8bfdc89e",
                 "image": "https://uploads.mangadex.org/covers/8f75f85b-12f9-424e-bf65-605f8bfdc89e/17c97784-5ea8-4f87-9842-b6e5e040fa09.jpg",
                 "malId": 124044,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sex-and-dungeon": {
+                "id": 57495,
                 "identifier": "sex-and-dungeon",
                 "image": "https://temp.compsci88.com/cover/Sex-and-Dungeon.jpg",
                 "malId": 124044,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hy984433": {
+                "id": 75975,
                 "identifier": "manga-hy984433",
                 "image": "https://avt.mkklcdnv6temp.com/25/z/20-1583502028.jpg",
                 "malId": 124044,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-hy984433"
             }
         },
-        "MangaFire": {
-            "sex-and-dungeon.jj1vy": {
-                "identifier": "sex-and-dungeon.jj1vy",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/259ebd3f76f3d76f6af6a8d28ff8a537.jpg",
-                "malId": 124044,
-                "aniId": 115037,
-                "page": "MangaFire",
-                "title": "Sex and Dungeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sex-and-dungeon.jj1vy/"
-            },
-            "sex-and-dungeonn.jj1vy": {
-                "identifier": "sex-and-dungeonn.jj1vy",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/259ebd3f76f3d76f6af6a8d28ff8a537.jpg",
-                "malId": 124044,
-                "aniId": 115037,
-                "page": "MangaFire",
-                "title": "Sex and Dungeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sex-and-dungeonn.jj1vy/"
-            }
-        },
         "Weebcentral": {
             "01j76xydpvbynwx0pgpqcpf77b": {
+                "id": 211067,
                 "identifier": "01j76xydpvbynwx0pgpqcpf77b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDPVBYNWX0PGPQCPF77B.jpg",
                 "malId": 124044,
@@ -74,6 +56,19 @@
                 "title": "Sex and Dungeon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDPVBYNWX0PGPQCPF77B"
+            }
+        },
+        "MangaFire": {
+            "jj1vy": {
+                "id": 223443,
+                "identifier": "jj1vy",
+                "image": "https://static.mangafire.to/a6f3/i/2/25/259ebd3f76f3d76f6af6a8d28ff8a537.jpg",
+                "malId": 124044,
+                "aniId": 115037,
+                "page": "MangaFire",
+                "title": "Sex and Dungeon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sex-and-dungeonn.jj1vy"
             }
         },
         "Comick": {

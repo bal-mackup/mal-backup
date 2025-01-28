@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "646759c8-5828-4bef-b1ce-665a8b03c86e": {
+                "id": 12324,
                 "identifier": "646759c8-5828-4bef-b1ce-665a8b03c86e",
                 "image": "https://uploads.mangadex.org/covers/646759c8-5828-4bef-b1ce-665a8b03c86e/a987343e-b386-4d80-a866-08419e589b95.jpg",
                 "malId": 69141,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "grisaia-no-kajitsu-loiseau-bleu": {
+                "id": 71850,
                 "identifier": "grisaia-no-kajitsu-loiseau-bleu",
                 "image": "https://temp.compsci88.com/cover/Grisaia-No-Kajitsu-Loiseau-Bleu.jpg",
                 "malId": 69141,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zr953926": {
+                "id": 112883,
                 "identifier": "manga-zr953926",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/r/1-1732720167-nw.webp",
                 "malId": 69141,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-zr953926"
             }
         },
-        "MangaFire": {
-            "grisaia-no-kajitsu-loiseau-bleu.7jz27": {
-                "identifier": "grisaia-no-kajitsu-loiseau-bleu.7jz27",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b6/b6cd685168d33db93ca96565246fe5e4.jpg",
-                "malId": 69141,
-                "aniId": 86542,
-                "page": "MangaFire",
-                "title": "Grisaia no Kajitsu - L'oiseau bleu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grisaia-no-kajitsu-loiseau-bleu.7jz27/"
-            },
-            "grisaia-no-kajitsu-loiseau-bleuu.7jz27": {
-                "identifier": "grisaia-no-kajitsu-loiseau-bleuu.7jz27",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b6/b6cd685168d33db93ca96565246fe5e4.jpg",
-                "malId": 69141,
-                "aniId": 86542,
-                "page": "MangaFire",
-                "title": "Grisaia no Kajitsu - L'oiseau bleu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grisaia-no-kajitsu-loiseau-bleuu.7jz27/"
-            },
-            "7jz27": {
-                "identifier": "7jz27",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b6/b6cd685168d33db93ca96565246fe5e4.jpg",
-                "malId": 69141,
-                "aniId": 86542,
-                "page": "MangaFire",
-                "title": "Grisaia no Kajitsu - L'oiseau bleu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grisaia-no-kajitsu-loiseau-bleuu.7jz27/"
-            }
-        },
         "Weebcentral": {
             "01j76xyan9m5wrmenr3jwz6pme": {
+                "id": 211635,
                 "identifier": "01j76xyan9m5wrmenr3jwz6pme",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAN9M5WRMENR3JWZ6PME.jpg",
                 "malId": 69141,
@@ -84,6 +56,19 @@
                 "title": "Grisaia no Kajitsu - L'oiseau bleu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAN9M5WRMENR3JWZ6PME"
+            }
+        },
+        "MangaFire": {
+            "7jz27": {
+                "id": 250181,
+                "identifier": "7jz27",
+                "image": "https://static.mangafire.to/1221/i/b/b6/b6cd685168d33db93ca96565246fe5e4.jpg",
+                "malId": 69141,
+                "aniId": 86542,
+                "page": "MangaFire",
+                "title": "Grisaia no Kajitsu - L'oiseau bleu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/grisaia-no-kajitsu-loiseau-bleuu.7jz27"
             }
         },
         "Comick": {

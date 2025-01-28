@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "32e93fe0-e136-49d3-bd02-1987cd032967": {
+                "id": 34229,
                 "identifier": "32e93fe0-e136-49d3-bd02-1987cd032967",
                 "image": "https://uploads.mangadex.org/covers/32e93fe0-e136-49d3-bd02-1987cd032967/1c61d4a2-9f64-4032-9212-0d46530d6ecf.jpg",
                 "malId": 136996,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sex-ed-120": {
+                "id": 77260,
                 "identifier": "sex-ed-120",
                 "image": "https://temp.compsci88.com/cover/Sex-Ed-120.jpg",
                 "malId": 136996,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "seikyouiku_120": {
+                "id": 95607,
                 "identifier": "seikyouiku_120",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36138/cover.jpg",
                 "malId": 136996,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/seikyouiku_120/"
             }
         },
-        "MangaFire": {
-            "seikyouiku-120.l3n6n": {
-                "identifier": "seikyouiku-120.l3n6n",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad3596460a913630312238ff5ce98692.jpg",
-                "malId": 136996,
-                "aniId": 114658,
-                "page": "MangaFire",
-                "title": "Seikyouiku 120%",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seikyouiku-120.l3n6n/"
-            },
-            "seikyouiku-1200.l3n6n": {
-                "identifier": "seikyouiku-1200.l3n6n",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad3596460a913630312238ff5ce98692.jpg",
-                "malId": 136996,
-                "aniId": 114658,
-                "page": "MangaFire",
-                "title": "Seikyouiku 120%",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seikyouiku-1200.l3n6n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyes5wqj923p9w3pkk8e9": {
+                "id": 212729,
                 "identifier": "01j76xyes5wqj923p9w3pkk8e9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYES5WQJ923P9W3PKK8E9.jpg",
                 "malId": 136996,
@@ -74,6 +56,19 @@
                 "title": "Sex Ed 120%",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYES5WQJ923P9W3PKK8E9"
+            }
+        },
+        "MangaFire": {
+            "l3n6n": {
+                "id": 227783,
+                "identifier": "l3n6n",
+                "image": "https://static.mangafire.to/3027/i/a/ad/ad3596460a913630312238ff5ce98692.jpg",
+                "malId": 136996,
+                "aniId": 114658,
+                "page": "MangaFire",
+                "title": "Seikyouiku 120%",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seikyouiku-1200.l3n6n"
             }
         },
         "Comick": {

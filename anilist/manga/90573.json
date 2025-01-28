@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7ad8fa52-0a39-481b-8614-f36d1566fbb6": {
+                "id": 9026,
                 "identifier": "7ad8fa52-0a39-481b-8614-f36d1566fbb6",
                 "image": "https://uploads.mangadex.org/covers/7ad8fa52-0a39-481b-8614-f36d1566fbb6/eda48f8c-9804-480a-9d95-097eed6404f1.jpg",
                 "malId": 67177,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/7ad8fa52-0a39-481b-8614-f36d1566fbb6"
             },
             "197e8abe-2acd-45fd-9352-bc1ef18271b5": {
+                "id": 30621,
                 "identifier": "197e8abe-2acd-45fd-9352-bc1ef18271b5",
                 "image": "https://uploads.mangadex.org/covers/197e8abe-2acd-45fd-9352-bc1ef18271b5/3d0d7755-3217-4510-bd5e-e051bb00d672.jpg",
                 "malId": 67177,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "doronkyu": {
+                "id": 90163,
                 "identifier": "doronkyu",
                 "image": "https://temp.compsci88.com/cover/Doronkyu.jpg",
                 "malId": 67177,
@@ -40,20 +43,9 @@
                 "url": "https://mangasee123.com/manga/Doronkyu"
             }
         },
-        "MangaFire": {
-            "doronkyu.l0zn": {
-                "identifier": "doronkyu.l0zn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fbe8642286574329e33f40d021382de0.jpg",
-                "malId": 67177,
-                "aniId": 90573,
-                "page": "MangaFire",
-                "title": "Doronkyu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/doronkyu.l0zn/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9z2595s8kww5fgy840g": {
+                "id": 207816,
                 "identifier": "01j76xy9z2595s8kww5fgy840g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9Z2595S8KWW5FGY840G.jpg",
                 "malId": 67177,
@@ -62,6 +54,19 @@
                 "title": "Doronkyu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9Z2595S8KWW5FGY840G"
+            }
+        },
+        "MangaFire": {
+            "l0zn": {
+                "id": 258416,
+                "identifier": "l0zn",
+                "image": "https://static.mangafire.to/b19e/i/f/fb/fbe8642286574329e33f40d021382de0.jpg",
+                "malId": 67177,
+                "aniId": 90573,
+                "page": "MangaFire",
+                "title": "Doronkyu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/doronkyuu.l0zn"
             }
         },
         "Comick": {

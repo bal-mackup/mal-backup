@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "737a846b-2e67-4d63-9f7e-f54b3beebac4": {
+                "id": 31164,
                 "identifier": "737a846b-2e67-4d63-9f7e-f54b3beebac4",
                 "image": "https://uploads.mangadex.org/covers/737a846b-2e67-4d63-9f7e-f54b3beebac4/cbd0f7b8-3fc5-4161-b3a2-102048c314ae.jpg",
                 "malId": 122353,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "please-go-home-akutsu-san": {
+                "id": 54384,
                 "identifier": "please-go-home-akutsu-san",
                 "image": "https://temp.compsci88.com/cover/Please-Go-Home-Akutsu-san.jpg",
                 "malId": 122353,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kaette_kudasai_akutsu_san": {
+                "id": 56076,
                 "identifier": "kaette_kudasai_akutsu_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32996/cover.jpg",
                 "malId": 122353,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/kaette_kudasai_akutsu_san/"
             },
             "please_go_home_akutsu_san": {
+                "id": 95753,
                 "identifier": "please_go_home_akutsu_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32996/cover.jpg",
                 "malId": 122353,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-hf984788": {
+                "id": 73008,
                 "identifier": "manga-hf984788",
                 "image": "https://avt.mkklcdnv6temp.com/39/k/20-1583502566.jpg",
                 "malId": 122353,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-hf984788"
             }
         },
-        "MangaFire": {
-            "please-go-home-akutsu-sann.mqwrv": {
-                "identifier": "please-go-home-akutsu-sann.mqwrv",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8508173a874d10237c953b16bcec8a2.jpg",
-                "malId": 122353,
-                "aniId": 113501,
-                "page": "MangaFire",
-                "title": "Please Go Home, Miss Akutsu!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/please-go-home-akutsu-sann.mqwrv/"
-            }
-        },
         "Weebcentral": {
             "01j76xydvxtdamr4ymq3ycx1mk": {
+                "id": 209808,
                 "identifier": "01j76xydvxtdamr4ymq3ycx1mk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDVXTDAMR4YMQ3YCX1MK.jpg",
                 "malId": 122353,
@@ -86,6 +80,19 @@
                 "title": "Please Go Home, Miss Akutsu!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDVXTDAMR4YMQ3YCX1MK"
+            }
+        },
+        "MangaFire": {
+            "mqwrv": {
+                "id": 225586,
+                "identifier": "mqwrv",
+                "image": "https://static.mangafire.to/050d/i/a/a8/a8508173a874d10237c953b16bcec8a2.jpg",
+                "malId": 122353,
+                "aniId": 113501,
+                "page": "MangaFire",
+                "title": "Please Go Home, Miss Akutsu!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/please-go-home-akutsu-sann.mqwrv"
             }
         },
         "Comick": {

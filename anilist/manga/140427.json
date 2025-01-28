@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c15bcb19-8aa3-4fef-acaa-6d5b54ca90e7": {
+                "id": 97067,
                 "identifier": "c15bcb19-8aa3-4fef-acaa-6d5b54ca90e7",
                 "image": "https://uploads.mangadex.org/covers/c15bcb19-8aa3-4fef-acaa-6d5b54ca90e7/0bb214e7-446c-454f-a65e-95db3cdbd38c.jpg",
                 "malId": 141226,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/c15bcb19-8aa3-4fef-acaa-6d5b54ca90e7"
             }
         },
-        "MangaFire": {
-            "neko-no-te-datte-yaku-ni-tatsu.6lnm0": {
-                "identifier": "neko-no-te-datte-yaku-ni-tatsu.6lnm0",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e365deea2efc97626417ff2593bc6e11.jpg",
-                "malId": 141226,
-                "aniId": 140427,
-                "page": "MangaFire",
-                "title": "Neko no Te datte Yaku ni Tatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-no-te-datte-yaku-ni-tatsu.6lnm0/"
-            },
-            "neko-no-te-datte-yaku-ni-tatsuu.6lnm0": {
-                "identifier": "neko-no-te-datte-yaku-ni-tatsuu.6lnm0",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e365deea2efc97626417ff2593bc6e11.jpg",
-                "malId": 141226,
-                "aniId": 140427,
-                "page": "MangaFire",
-                "title": "Neko no Te datte Yaku ni Tatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-no-te-datte-yaku-ni-tatsuu.6lnm0/"
-            }
-        },
         "MangaNato": {
             "manga-wb999658": {
+                "id": 176730,
                 "identifier": "manga-wb999658",
                 "image": "https://avt.mkklcdnv6temp.com/fld/39/f/16-1733315816-nw.webp",
                 "malId": 141226,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "neko_no_te_datte_yaku_ni_tatsu": {
+                "id": 221553,
                 "identifier": "neko_no_te_datte_yaku_ni_tatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46694/cover.jpg",
                 "malId": 141226,
@@ -62,6 +43,19 @@
                 "title": "Neko no Te datte Yaku ni Tatsu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/neko_no_te_datte_yaku_ni_tatsu/"
+            }
+        },
+        "MangaFire": {
+            "6lnm0": {
+                "id": 226099,
+                "identifier": "6lnm0",
+                "image": "https://static.mangafire.to/6849/i/e/e3/e365deea2efc97626417ff2593bc6e11.jpg",
+                "malId": 141226,
+                "aniId": 140427,
+                "page": "MangaFire",
+                "title": "Neko no Te datte Yaku ni Tatsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neko-no-te-datte-yaku-ni-tatsuu.6lnm0"
             }
         },
         "Comick": {

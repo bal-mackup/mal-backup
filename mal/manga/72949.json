@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "639e1bd7-a9a4-46ff-9713-63268497ce43": {
+                "id": 10840,
                 "identifier": "639e1bd7-a9a4-46ff-9713-63268497ce43",
                 "image": "https://uploads.mangadex.org/covers/639e1bd7-a9a4-46ff-9713-63268497ce43/883d6d19-47e5-4d4b-9918-5f467b4018e1.jpg",
                 "malId": 72949,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "haru-matsu-bokura": {
+                "id": 60040,
                 "identifier": "haru-matsu-bokura",
                 "image": "https://temp.compsci88.com/cover/Haru-Matsu-Bokura.jpg",
                 "malId": 72949,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "haru_matsu_bokura": {
+                "id": 66732,
                 "identifier": "haru_matsu_bokura",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14310/cover.jpg",
                 "malId": 72949,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-js954875": {
+                "id": 76744,
                 "identifier": "manga-js954875",
                 "image": "https://avt.mkklcdnv6temp.com/21/b/3-1583468501.jpg",
                 "malId": 72949,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-js954875"
             }
         },
-        "MangaFire": {
-            "haru-matsu-bokura.05p7": {
-                "identifier": "haru-matsu-bokura.05p7",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e3de7a145d51dc4a03983a27bbb285cc.jpg",
-                "malId": 72949,
-                "aniId": 85624,
-                "page": "MangaFire",
-                "title": "Waiting for Spring",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/haru-matsu-bokura.05p7/"
-            },
-            "haru-matsu-bokuraa.05p7": {
-                "identifier": "haru-matsu-bokuraa.05p7",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e3de7a145d51dc4a03983a27bbb285cc.jpg",
-                "malId": 72949,
-                "aniId": 85624,
-                "page": "MangaFire",
-                "title": "Waiting for Spring",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/haru-matsu-bokuraa.05p7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaexbqqvp4avqafp66mh": {
+                "id": 210626,
                 "identifier": "01j76xyaexbqqvp4avqafp66mh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAEXBQQVP4AVQAFP66MH.jpg",
                 "malId": 72949,
@@ -86,6 +69,19 @@
                 "title": "Waiting for Spring",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAEXBQQVP4AVQAFP66MH"
+            }
+        },
+        "MangaFire": {
+            "05p7": {
+                "id": 230032,
+                "identifier": "05p7",
+                "image": "https://static.mangafire.to/1c75/i/e/e3/e3de7a145d51dc4a03983a27bbb285cc.jpg",
+                "malId": 72949,
+                "aniId": 85624,
+                "page": "MangaFire",
+                "title": "Waiting for Spring",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/haru-matsu-bokuraa.05p7"
             }
         },
         "Comick": {

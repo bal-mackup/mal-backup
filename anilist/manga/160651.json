@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "abc711a1-aa8c-40d3-bed1-541b0d975725": {
+                "id": 142985,
                 "identifier": "abc711a1-aa8c-40d3-bed1-541b0d975725",
                 "image": "https://uploads.mangadex.org/covers/abc711a1-aa8c-40d3-bed1-541b0d975725/bb848952-303b-4276-9919-a3a3630de611.jpg",
                 "malId": 155312,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ta996709": {
+                "id": 162004,
                 "identifier": "manga-ta996709",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/u/15-1733308192-nw.webp",
                 "malId": 155312,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ta996709"
             }
         },
-        "MangaFire": {
-            "futarijime-romantic.jpw13": {
-                "identifier": "futarijime-romantic.jpw13",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/580e7f07d16b404f4eaeaea5533487af.jpg",
-                "malId": 155312,
-                "aniId": 160651,
-                "page": "MangaFire",
-                "title": "Futarijime Romantic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futarijime-romantic.jpw13/"
-            },
-            "futarijime-romanticc.jpw13": {
-                "identifier": "futarijime-romanticc.jpw13",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/580e7f07d16b404f4eaeaea5533487af.jpg",
-                "malId": 155312,
-                "aniId": 160651,
-                "page": "MangaFire",
-                "title": "Futarijime Romantic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futarijime-romanticc.jpw13/"
-            }
-        },
         "MangaFox": {
             "futarijime_romantic": {
+                "id": 173231,
                 "identifier": "futarijime_romantic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44994/cover.jpg",
                 "malId": 155312,
@@ -62,6 +43,19 @@
                 "title": "Futarijime Romantic",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/futarijime_romantic/"
+            }
+        },
+        "MangaFire": {
+            "jpw13": {
+                "id": 225364,
+                "identifier": "jpw13",
+                "image": "https://static.mangafire.to/bc16/i/5/58/580e7f07d16b404f4eaeaea5533487af.jpg",
+                "malId": 155312,
+                "aniId": 160651,
+                "page": "MangaFire",
+                "title": "Futarijime Romantic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futarijime-romanticc.jpw13"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c9a68c3d-cb2f-4d86-aff5-14eb3218d493": {
+                "id": 18489,
                 "identifier": "c9a68c3d-cb2f-4d86-aff5-14eb3218d493",
                 "image": "https://uploads.mangadex.org/covers/c9a68c3d-cb2f-4d86-aff5-14eb3218d493/5440e5d1-78c1-4d61-9c44-329c3b8c75e1.jpg",
                 "malId": 105430,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "senryu-girl": {
+                "id": 56692,
                 "identifier": "senryu-girl",
                 "image": "https://temp.compsci88.com/cover/Senryu-Girl.jpg",
                 "malId": 105430,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "senryuu_shoujo": {
+                "id": 64330,
                 "identifier": "senryuu_shoujo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26569/cover.jpg",
                 "malId": 105430,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-an977722": {
+                "id": 73268,
                 "identifier": "manga-an977722",
                 "image": "https://avt.mkklcdnv6temp.com/48/p/15-1583493413.jpg",
                 "malId": 105430,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-an977722"
             }
         },
-        "MangaFire": {
-            "senryuu-shoujo.2o1l5": {
-                "identifier": "senryuu-shoujo.2o1l5",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/32f1b7b9a79f7c8e3b4545996e1e0fd5.jpg",
-                "malId": 105430,
-                "aniId": 99183,
-                "page": "MangaFire",
-                "title": "Senryuu Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senryuu-shoujo.2o1l5/"
-            },
-            "senryuu-shoujoo.2o1l5": {
-                "identifier": "senryuu-shoujoo.2o1l5",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/32f1b7b9a79f7c8e3b4545996e1e0fd5.jpg",
-                "malId": 105430,
-                "aniId": 99183,
-                "page": "MangaFire",
-                "title": "Senryuu Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senryuu-shoujoo.2o1l5/"
-            }
-        },
         "Weebcentral": {
             "01j76xycdctv0z218tw1g2260w": {
+                "id": 209957,
                 "identifier": "01j76xycdctv0z218tw1g2260w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCDCTV0Z218TW1G2260W.jpg",
                 "malId": 105430,
@@ -86,6 +69,19 @@
                 "title": "Senryu Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCDCTV0Z218TW1G2260W"
+            }
+        },
+        "MangaFire": {
+            "2o1l5": {
+                "id": 228522,
+                "identifier": "2o1l5",
+                "image": "https://static.mangafire.to/b3d6/i/3/32/32f1b7b9a79f7c8e3b4545996e1e0fd5.jpg",
+                "malId": 105430,
+                "aniId": 99183,
+                "page": "MangaFire",
+                "title": "Senryuu Shoujo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/senryuu-shoujoo.2o1l5"
             }
         },
         "Comick": {

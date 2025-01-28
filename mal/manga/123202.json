@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f97150c3-49a9-44ef-bef7-6973ae6e0462": {
+                "id": 32164,
                 "identifier": "f97150c3-49a9-44ef-bef7-6973ae6e0462",
                 "image": "https://uploads.mangadex.org/covers/f97150c3-49a9-44ef-bef7-6973ae6e0462/bf79493c-a01f-4a5d-8b29-b8f07c9be123.png",
                 "malId": 123202,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kurogane-no-mahoutsukai": {
+                "id": 55591,
                 "identifier": "kurogane-no-mahoutsukai",
                 "image": "https://temp.compsci88.com/cover/Kurogane-no-Mahoutsukai.jpg",
                 "malId": 123202,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gh983916": {
+                "id": 86908,
                 "identifier": "manga-gh983916",
                 "image": "https://avt.mkklcdnv6temp.com/6/p/20-1583501259.jpg",
                 "malId": 123202,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-gh983916"
             }
         },
-        "MangaFire": {
-            "kurogane-no-mahoutsukai.zlx7l": {
-                "identifier": "kurogane-no-mahoutsukai.zlx7l",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eedf5932476e5874191f5c1c1e03ddcf.jpg",
-                "malId": 123202,
-                "aniId": 112115,
-                "page": "MangaFire",
-                "title": "Kurogane no Mahoutsukai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurogane-no-mahoutsukai.zlx7l/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzfhpbfct8fy6tmahqn": {
+                "id": 207434,
                 "identifier": "01j76xydzfhpbfct8fy6tmahqn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZFHPBFCT8FY6TMAHQN.jpg",
                 "malId": 123202,
@@ -64,6 +56,19 @@
                 "title": "Kurogane no Mahoutsukai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZFHPBFCT8FY6TMAHQN"
+            }
+        },
+        "MangaFire": {
+            "zlx7l": {
+                "id": 250552,
+                "identifier": "zlx7l",
+                "image": "https://static.mangafire.to/a1e1/i/e/ee/eedf5932476e5874191f5c1c1e03ddcf.jpg",
+                "malId": 123202,
+                "aniId": 112115,
+                "page": "MangaFire",
+                "title": "Kurogane no Mahoutsukai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kurogane-no-mahoutsukaii.zlx7l"
             }
         },
         "Comick": {

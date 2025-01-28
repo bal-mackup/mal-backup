@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2574057b-7098-45b4-9614-16d1250e05fc": {
+                "id": 106496,
                 "identifier": "2574057b-7098-45b4-9614-16d1250e05fc",
                 "image": "https://uploads.mangadex.org/covers/2574057b-7098-45b4-9614-16d1250e05fc/2a48ca4c-49f2-4e2d-a776-08046b804347.jpg",
                 "malId": 144011,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qr993974": {
+                "id": 124452,
                 "identifier": "manga-qr993974",
                 "image": "https://avt.mkklcdnv6temp.com/19/q/28-1675833285.jpg",
                 "malId": 144011,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qr993974"
             }
         },
-        "MangaFire": {
-            "kimi-no-yoru-ni-fureru.29w24": {
-                "identifier": "kimi-no-yoru-ni-fureru.29w24",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73cdaffeef55d839c17f0eda7f0a3233.jpg",
-                "malId": 144011,
-                "aniId": 143079,
-                "page": "MangaFire",
-                "title": "Kimi no Yoru ni Fureru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-yoru-ni-fureru.29w24/"
-            },
-            "kimi-no-yoru-ni-fureruu.29w24": {
-                "identifier": "kimi-no-yoru-ni-fureruu.29w24",
-                "image": "https://static.mangafire.to/e432/i/7/73/73cdaffeef55d839c17f0eda7f0a3233.jpg",
-                "malId": 144011,
-                "aniId": 143079,
-                "page": "MangaFire",
-                "title": "Kimi no Yoru ni Fureru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-yoru-ni-fureruu.29w24/"
-            }
-        },
         "MangaFox": {
             "kimi_no_yoru_ni_fureru": {
+                "id": 215108,
                 "identifier": "kimi_no_yoru_ni_fureru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41058/cover.jpg",
                 "malId": 144011,
@@ -62,6 +43,19 @@
                 "title": "Kimi no Yoru ni Fureru",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kimi_no_yoru_ni_fureru/"
+            }
+        },
+        "MangaFire": {
+            "29w24": {
+                "id": 223003,
+                "identifier": "29w24",
+                "image": "https://static.mangafire.to/e432/i/7/73/73cdaffeef55d839c17f0eda7f0a3233.jpg",
+                "malId": 144011,
+                "aniId": 143079,
+                "page": "MangaFire",
+                "title": "Kimi no Yoru ni Fureru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-no-yoru-ni-fureruu.29w24"
             }
         },
         "Comick": {

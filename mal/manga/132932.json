@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4e2a9621-24d6-4b7f-9041-8e39e84dd38e": {
+                "id": 52814,
                 "identifier": "4e2a9621-24d6-4b7f-9041-8e39e84dd38e",
                 "image": "https://uploads.mangadex.org/covers/4e2a9621-24d6-4b7f-9041-8e39e84dd38e/14a4d26a-7251-4702-8665-e29ee8e34e38.png",
                 "malId": 132932,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/4e2a9621-24d6-4b7f-9041-8e39e84dd38e"
             }
         },
-        "MangaFire": {
-            "gokko2.80ynv": {
-                "identifier": "gokko2.80ynv",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19ef905baf67a764bbf938c1bda69248.jpg",
-                "malId": 132932,
-                "aniId": 126324,
-                "page": "MangaFire",
-                "title": "Gokko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokko2.80ynv/"
-            }
-        },
         "MangaFox": {
             "gokko_shouji_hiroyuki": {
+                "id": 205829,
                 "identifier": "gokko_shouji_hiroyuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36713/cover.jpg",
                 "malId": 132932,
@@ -40,6 +30,19 @@
                 "title": "Gokko (SHOUJI Hiroyuki)",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/gokko_shouji_hiroyuki/"
+            }
+        },
+        "MangaFire": {
+            "80ynv": {
+                "id": 255861,
+                "identifier": "80ynv",
+                "image": "https://static.mangafire.to/7965/i/1/19/19ef905baf67a764bbf938c1bda69248.jpg",
+                "malId": 132932,
+                "aniId": 126324,
+                "page": "MangaFire",
+                "title": "Gokko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gokko22.80ynv"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c07569f2-66ad-4776-ae91-367c2930ffe4": {
+                "id": 21208,
                 "identifier": "c07569f2-66ad-4776-ae91-367c2930ffe4",
                 "image": "https://uploads.mangadex.org/covers/c07569f2-66ad-4776-ae91-367c2930ffe4/fd7786d6-2bed-4f1d-b446-705f96287483.jpg",
                 "malId": 107948,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hitori_koukan_nikki": {
+                "id": 65994,
                 "identifier": "hitori_koukan_nikki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28874/cover.jpg",
                 "malId": 107948,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ci980043": {
+                "id": 76963,
                 "identifier": "manga-ci980043",
                 "image": "https://avt.mkklcdnv6temp.com/13/x/17-1583495766.jpg",
                 "malId": 107948,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "my-solo-exchange-diary": {
+                "id": 79858,
                 "identifier": "my-solo-exchange-diary",
                 "image": "https://temp.compsci88.com/cover/My-Solo-Exchange-Diary.jpg",
                 "malId": 107948,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/My-Solo-Exchange-Diary"
             }
         },
-        "MangaFire": {
-            "my-solo-exchange-diary.jr94": {
-                "identifier": "my-solo-exchange-diary.jr94",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8c12fffa6384827f22745989cba6182d.jpg",
-                "malId": 107948,
-                "aniId": 99140,
-                "page": "MangaFire",
-                "title": "My Solo Exchange Diary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-solo-exchange-diary.jr94/"
-            }
-        },
         "Weebcentral": {
             "01j76xyetvhdj922m3rq7tzpd2": {
+                "id": 214024,
                 "identifier": "01j76xyetvhdj922m3rq7tzpd2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYETVHDJ922M3RQ7TZPD2.jpg",
                 "malId": 107948,
@@ -76,6 +69,19 @@
                 "title": "My Solo Exchange Diary",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYETVHDJ922M3RQ7TZPD2"
+            }
+        },
+        "MangaFire": {
+            "jr94": {
+                "id": 254607,
+                "identifier": "jr94",
+                "image": "https://static.mangafire.to/79cf/i/8/8c/8c12fffa6384827f22745989cba6182d.jpg",
+                "malId": 107948,
+                "aniId": 99140,
+                "page": "MangaFire",
+                "title": "My Solo Exchange Diary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-solo-exchange-diaryy.jr94"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2fe39780-7704-4323-8a69-601b7a5882f9": {
+                "id": 95015,
                 "identifier": "2fe39780-7704-4323-8a69-601b7a5882f9",
                 "image": "https://uploads.mangadex.org/covers/2fe39780-7704-4323-8a69-601b7a5882f9/ecedd22a-2d56-4014-a7ae-7655328a37dc.jpg",
                 "malId": 132614,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/2fe39780-7704-4323-8a69-601b7a5882f9"
             }
         },
-        "MangaFire": {
-            "isshou-sukitte-yutta-jan.qkkpw": {
-                "identifier": "isshou-sukitte-yutta-jan.qkkpw",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4de09f50c51993807906cca9378a639.jpg",
-                "malId": 132614,
-                "aniId": 117700,
-                "page": "MangaFire",
-                "title": "Isshou Sukitte Yutta jan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isshou-sukitte-yutta-jan.qkkpw/"
-            },
-            "isshou-sukitte-yutta-jann.qkkpw": {
-                "identifier": "isshou-sukitte-yutta-jann.qkkpw",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4de09f50c51993807906cca9378a639.jpg",
-                "malId": 132614,
-                "aniId": 117700,
-                "page": "MangaFire",
-                "title": "Isshou Sukitte Yutta jan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isshou-sukitte-yutta-jann.qkkpw/"
-            }
-        },
         "MangaNato": {
             "manga-tz996534": {
+                "id": 159382,
                 "identifier": "manga-tz996534",
                 "image": "https://avt.mkklcdnv6temp.com/fld/20/e/15-1733307782-nw.webp",
                 "malId": 132614,
@@ -50,6 +30,19 @@
                 "title": "Isshou Sukitte Yutta Jan",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-tz996534"
+            }
+        },
+        "MangaFire": {
+            "qkkpw": {
+                "id": 226272,
+                "identifier": "qkkpw",
+                "image": "https://static.mangafire.to/d253/i/a/a4/a4de09f50c51993807906cca9378a639.jpg",
+                "malId": 132614,
+                "aniId": 117700,
+                "page": "MangaFire",
+                "title": "Isshou Sukitte Yutta jan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isshou-sukitte-yutta-jann.qkkpw"
             }
         },
         "Comick": {

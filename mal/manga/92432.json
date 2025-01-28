@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f2096f50-eda1-47a6-9741-9fad97ca08d1": {
+                "id": 13336,
                 "identifier": "f2096f50-eda1-47a6-9741-9fad97ca08d1",
                 "image": "https://uploads.mangadex.org/covers/f2096f50-eda1-47a6-9741-9fad97ca08d1/ea5af183-9d3a-4ddd-a4a4-b53a0dd6e4fa.png",
                 "malId": 92432,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "majuu-sensen": {
+                "id": 69832,
                 "identifier": "majuu-sensen",
                 "image": "https://temp.compsci88.com/cover/Majuu-Sensen.jpg",
                 "malId": 92432,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Majuu-Sensen"
             }
         },
-        "MangaFire": {
-            "maju-battlefront.7w861": {
-                "identifier": "maju-battlefront.7w861",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38118ddb6cc7357fe6d9fdd6e240bdba.jpg",
-                "malId": 92432,
-                "aniId": 95856,
-                "page": "MangaFire",
-                "title": "Maju Battlefront",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maju-battlefront.7w861/"
-            },
-            "7w861": {
-                "identifier": "7w861",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38118ddb6cc7357fe6d9fdd6e240bdba.jpg",
-                "malId": 92432,
-                "aniId": 95856,
-                "page": "MangaFire",
-                "title": "Maju Battlefront",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maju-battlefront.7w861/"
-            }
-        },
         "Weebcentral": {
             "01j76xybbd5mmt8pvwnm9f2tm9": {
+                "id": 212589,
                 "identifier": "01j76xybbd5mmt8pvwnm9f2tm9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBBD5MMT8PVWNM9F2TM9.jpg",
                 "malId": 92432,
@@ -62,6 +43,19 @@
                 "title": "Majuu Sensen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBBD5MMT8PVWNM9F2TM9"
+            }
+        },
+        "MangaFire": {
+            "7w861": {
+                "id": 257782,
+                "identifier": "7w861",
+                "image": "https://static.mangafire.to/7b1a/i/3/38/38118ddb6cc7357fe6d9fdd6e240bdba.jpg",
+                "malId": 92432,
+                "aniId": 95856,
+                "page": "MangaFire",
+                "title": "Maju Battlefront",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maju-battlefrontt.7w861"
             }
         },
         "Comick": {

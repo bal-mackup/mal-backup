@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "26102334-1f7b-4a5b-a64f-107c5c24a70f": {
+                "id": 27970,
                 "identifier": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
                 "image": "https://uploads.mangadex.org/covers/26102334-1f7b-4a5b-a64f-107c5c24a70f/60356bcc-3936-445d-b485-014a43bcad66.jpg",
                 "malId": 119588,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mao": {
+                "id": 65243,
                 "identifier": "mao",
                 "image": "https://temp.compsci88.com/cover/Mao.jpg",
                 "malId": 119588,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mao": {
+                "id": 94648,
                 "identifier": "mao",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30503/cover.jpg",
                 "malId": 119588,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-nu991129": {
+                "id": 109118,
                 "identifier": "manga-nu991129",
                 "image": "https://avt.mkklcdnv6temp.com/2/l/26-1654827591.jpg",
                 "malId": 119588,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-nu991129"
             }
         },
-        "MangaFire": {
-            "mao.rjj4q": {
-                "identifier": "mao.rjj4q",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/934bf6993689f859ea607b22b0182b16.jpg",
-                "malId": 119588,
-                "aniId": 106102,
-                "page": "MangaFire",
-                "title": "Mao",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mao.rjj4q/"
-            },
-            "maoo.rjj4q": {
-                "identifier": "maoo.rjj4q",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7e/8dcae610e042d679b61679dbe097da0e.jpg",
-                "malId": 119588,
-                "aniId": 106102,
-                "page": "MangaFire",
-                "title": "Mao",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maoo.rjj4q/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxq4nfwabt3zj63aj5y": {
+                "id": 213301,
                 "identifier": "01j76xycxq4nfwabt3zj63aj5y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXQ4NFWABT3ZJ63AJ5Y.jpg",
                 "malId": 119588,
@@ -86,6 +69,19 @@
                 "title": "Mao",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXQ4NFWABT3ZJ63AJ5Y"
+            }
+        },
+        "MangaFire": {
+            "rjj4q": {
+                "id": 225384,
+                "identifier": "rjj4q",
+                "image": "https://static.mangafire.to/7a24/i/2/8d/a73e5649e18ca866f5124ff13e73238e.jpg",
+                "malId": 119588,
+                "aniId": 106102,
+                "page": "MangaFire",
+                "title": "Mao",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maoo.rjj4q"
             }
         },
         "Comick": {

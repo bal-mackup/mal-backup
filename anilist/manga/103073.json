@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ef04c9f8-9b50-4b24-88a4-d00d1623ccc0": {
+                "id": 21106,
                 "identifier": "ef04c9f8-9b50-4b24-88a4-d00d1623ccc0",
                 "image": "https://uploads.mangadex.org/covers/ef04c9f8-9b50-4b24-88a4-d00d1623ccc0/cbe4f792-de0b-4997-8ba4-10c96fab5f7e.jpg",
                 "malId": 99785,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mimi_yori_harmonia": {
+                "id": 83153,
                 "identifier": "mimi_yori_harmonia",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27639/cover.jpg",
                 "malId": 99785,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "harmony-from-the-ears": {
+                "id": 106594,
                 "identifier": "harmony-from-the-ears",
                 "image": "https://temp.compsci88.com/cover/Harmony-from-the-Ears.jpg",
                 "malId": 99785,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Harmony-from-the-Ears"
             }
         },
-        "MangaFire": {
-            "mimiyori-harmonia.oz0y": {
-                "identifier": "mimiyori-harmonia.oz0y",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c591f4b51baa508b5da3107bb7a4f63e.jpg",
-                "malId": 99785,
-                "aniId": 103073,
-                "page": "MangaFire",
-                "title": "Harmony from the Ears",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mimiyori-harmonia.oz0y/"
-            },
-            "oz0y": {
-                "identifier": "oz0y",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c591f4b51baa508b5da3107bb7a4f63e.jpg",
-                "malId": 99785,
-                "aniId": 103073,
-                "page": "MangaFire",
-                "title": "Harmony from the Ears",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mimiyori-harmonia.oz0y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyff3twcmbvca1yvbb91n": {
+                "id": 209339,
                 "identifier": "01j76xyff3twcmbvca1yvbb91n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFF3TWCMBVCA1YVBB91N.jpg",
                 "malId": 99785,
@@ -74,6 +56,19 @@
                 "title": "Harmony from the Ears",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFF3TWCMBVCA1YVBB91N"
+            }
+        },
+        "MangaFire": {
+            "oz0y": {
+                "id": 244251,
+                "identifier": "oz0y",
+                "image": "https://static.mangafire.to/144b/i/c/c5/c591f4b51baa508b5da3107bb7a4f63e.jpg",
+                "malId": 99785,
+                "aniId": 103073,
+                "page": "MangaFire",
+                "title": "Harmony from the Ears",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mimiyori-harmoniaa.oz0y"
             }
         },
         "Comick": {

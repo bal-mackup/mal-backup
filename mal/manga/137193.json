@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8a63f910-2d6e-43bb-9c5d-fd8ab2d1264b": {
+                "id": 50423,
                 "identifier": "8a63f910-2d6e-43bb-9c5d-fd8ab2d1264b",
                 "image": "https://uploads.mangadex.org/covers/8a63f910-2d6e-43bb-9c5d-fd8ab2d1264b/1de0ecd3-cbf0-4c8f-b6e3-b5b93a7b0f25.jpg",
                 "malId": 137193,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boku-no-kawaii-musume-wa-futago-no-kenja": {
+                "id": 80429,
                 "identifier": "boku-no-kawaii-musume-wa-futago-no-kenja",
                 "image": "https://temp.compsci88.com/cover/Boku-no-Kawaii-Musume-wa-Futago-no-Kenja.jpg",
                 "malId": 137193,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-mr989826": {
+                "id": 88805,
                 "identifier": "manga-mr989826",
                 "image": "https://avt.mkklcdnv6temp.com/48/h/24-1634297608.jpg",
                 "malId": 137193,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-mr989826"
             }
         },
-        "MangaFire": {
-            "boku-no-kawaii-musume-wa-futago-no-kenja.4qojj": {
-                "identifier": "boku-no-kawaii-musume-wa-futago-no-kenja.4qojj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d7f4d800cda2f7d2ed12d5bb607ff5c.jpg",
-                "malId": 137193,
-                "aniId": 144917,
-                "page": "MangaFire",
-                "title": "Boku no Kawaii Musume wa Futago no Kenja",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-kawaii-musume-wa-futago-no-kenja.4qojj/"
-            },
-            "boku-no-kawaii-musume-wa-futago-no-kenjaa.4qojj": {
-                "identifier": "boku-no-kawaii-musume-wa-futago-no-kenjaa.4qojj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d7f4d800cda2f7d2ed12d5bb607ff5c.jpg",
-                "malId": 137193,
-                "aniId": 144917,
-                "page": "MangaFire",
-                "title": "Boku no Kawaii Musume wa Futago no Kenja",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-kawaii-musume-wa-futago-no-kenjaa.4qojj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyevrkrnmrfxgdpd0g0hh": {
+                "id": 207614,
                 "identifier": "01j76xyevrkrnmrfxgdpd0g0hh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEVRKRNMRFXGDPD0G0HH.jpg",
                 "malId": 137193,
@@ -74,6 +56,19 @@
                 "title": "Boku no Kawaii Musume wa Futago no Kenja",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEVRKRNMRFXGDPD0G0HH"
+            }
+        },
+        "MangaFire": {
+            "4qojj": {
+                "id": 227791,
+                "identifier": "4qojj",
+                "image": "https://static.mangafire.to/810b/i/6/6d/6d7f4d800cda2f7d2ed12d5bb607ff5c.jpg",
+                "malId": 137193,
+                "aniId": 144917,
+                "page": "MangaFire",
+                "title": "Boku no Kawaii Musume wa Futago no Kenja",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-kawaii-musume-wa-futago-no-kenjaa.4qojj"
             }
         },
         "Comick": {

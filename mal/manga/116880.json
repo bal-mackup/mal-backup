@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e1e38166-20e4-4468-9370-187f985c550e": {
+                "id": 25013,
                 "identifier": "e1e38166-20e4-4468-9370-187f985c550e",
                 "image": "https://uploads.mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/78d0c2a9-08fb-4d3c-904a-d9dae23debc7.jpg",
                 "malId": 116880,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mato-seihei-no-slave": {
+                "id": 54716,
                 "identifier": "mato-seihei-no-slave",
                 "image": "https://temp.compsci88.com/cover/Mato-Seihei-No-Slave.jpg",
                 "malId": 116880,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mato_seihei_no_slave": {
+                "id": 57040,
                 "identifier": "mato_seihei_no_slave",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29663/cover.jpg",
                 "malId": 116880,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dp980698": {
+                "id": 73007,
                 "identifier": "manga-dp980698",
                 "image": "https://avt.mkklcdnv6temp.com/38/m/17-1583496651.jpg",
                 "malId": 116880,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-dp980698"
             },
             "manga-dq980651": {
+                "id": 74322,
                 "identifier": "manga-dq980651",
                 "image": "https://avt.mkklcdnv6temp.com/36/r/17-1583496579.jpg",
                 "malId": 116880,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-dq980651"
             }
         },
-        "MangaFire": {
-            "mato-seihei-no-slavee.pj5p9": {
-                "identifier": "mato-seihei-no-slavee.pj5p9",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/229f97a3057df681a302051d0e6d5d91.jpg",
-                "malId": 116880,
-                "aniId": 106064,
-                "page": "MangaFire",
-                "title": "Chained Soldier",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mato-seihei-no-slavee.pj5p9/"
-            }
-        },
         "Weebcentral": {
             "01j76xycvrsnny2c2qh721967b": {
+                "id": 212223,
                 "identifier": "01j76xycvrsnny2c2qh721967b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCVRSNNY2C2QH721967B.jpg",
                 "malId": 116880,
@@ -86,6 +80,19 @@
                 "title": "Chained Soldier",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCVRSNNY2C2QH721967B"
+            }
+        },
+        "MangaFire": {
+            "pj5p9": {
+                "id": 228624,
+                "identifier": "pj5p9",
+                "image": "https://static.mangafire.to/0733/i/2/21/229f97a3057df681a302051d0e6d5d91.jpg",
+                "malId": 116880,
+                "aniId": 106064,
+                "page": "MangaFire",
+                "title": "Chained Soldier",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mato-seihei-no-slavee.pj5p9"
             }
         },
         "Comick": {

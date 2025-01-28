@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "x-gender": {
+                "id": 120536,
                 "identifier": "x-gender",
                 "image": "https://temp.compsci88.com/cover/X-Gender.jpg",
                 "malId": 133497,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/X-Gender"
             }
         },
-        "MangaFire": {
-            "seibetsu-x.npwpk": {
-                "identifier": "seibetsu-x.npwpk",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cdadc02c56acb2f1013ef388105e5316.jpg",
-                "malId": 133497,
-                "aniId": 139301,
-                "page": "MangaFire",
-                "title": "Seibetsu X",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seibetsu-x.npwpk/"
-            }
-        },
         "Mangadex": {
             "2d0c93f4-1f81-4207-99ac-d9eae79442f2": {
+                "id": 164808,
                 "identifier": "2d0c93f4-1f81-4207-99ac-d9eae79442f2",
                 "image": "https://uploads.mangadex.org/covers/2d0c93f4-1f81-4207-99ac-d9eae79442f2/f4d01423-ac12-4eef-bd9d-03b293f2f797.jpg",
                 "malId": 133497,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyfttemqg22aa5wrd6tb1": {
+                "id": 213171,
                 "identifier": "01j76xyfttemqg22aa5wrd6tb1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFTTEMQG22AA5WRD6TB1.jpg",
                 "malId": 133497,
@@ -52,6 +43,19 @@
                 "title": "X-Gender",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFTTEMQG22AA5WRD6TB1"
+            }
+        },
+        "MangaFire": {
+            "npwpk": {
+                "id": 222794,
+                "identifier": "npwpk",
+                "image": "https://static.mangafire.to/bb20/i/c/cd/cdadc02c56acb2f1013ef388105e5316.jpg",
+                "malId": 133497,
+                "aniId": 139301,
+                "page": "MangaFire",
+                "title": "Seibetsu X",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seibetsu-xx.npwpk"
             }
         },
         "MangaReader": {

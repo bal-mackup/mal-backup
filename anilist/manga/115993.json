@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "077de7b6-ea9d-4e41-a4be-6b9eb73e308e": {
+                "id": 34065,
                 "identifier": "077de7b6-ea9d-4e41-a4be-6b9eb73e308e",
                 "image": "https://uploads.mangadex.org/covers/077de7b6-ea9d-4e41-a4be-6b9eb73e308e/ce34d2f2-e763-47bb-89a5-98a7b877cf20.jpg",
                 "malId": 129868,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "misetagari_no_tsuyuno_chan": {
+                "id": 55471,
                 "identifier": "misetagari_no_tsuyuno_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34456/cover.jpg",
                 "malId": 129868,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "misetagari-no-tsuyuno-chan": {
+                "id": 55516,
                 "identifier": "misetagari-no-tsuyuno-chan",
                 "image": "https://temp.compsci88.com/cover/Misetagari-no-Tsuyuno-chan.jpg",
                 "malId": 129868,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jg986615": {
+                "id": 78587,
                 "identifier": "manga-jg986615",
                 "image": "https://avt.mkklcdnv6temp.com/13/w/22-1600307610.jpg",
                 "malId": 129868,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-jg986615"
             }
         },
-        "MangaFire": {
-            "misetagari-no-tsuyuno-chan.kq5v": {
-                "identifier": "misetagari-no-tsuyuno-chan.kq5v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6b/6b9ab447785d8503b531964287036442.jpg",
-                "malId": 129868,
-                "aniId": 115993,
-                "page": "MangaFire",
-                "title": "Tsuyuno chan Likes to Show Off",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/misetagari-no-tsuyuno-chan.kq5v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydx5fgve9t1x8810zt6s": {
+                "id": 213325,
                 "identifier": "01j76xydx5fgve9t1x8810zt6s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDX5FGVE9T1X8810ZT6S.jpg",
                 "malId": 129868,
@@ -76,6 +69,19 @@
                 "title": "Tsuyuno-chan Likes to Show Off",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDX5FGVE9T1X8810ZT6S"
+            }
+        },
+        "MangaFire": {
+            "kq5v": {
+                "id": 230506,
+                "identifier": "kq5v",
+                "image": "https://static.mangafire.to/b85d/i/6/6b/6b9ab447785d8503b531964287036442.jpg",
+                "malId": 129868,
+                "aniId": 115993,
+                "page": "MangaFire",
+                "title": "Tsuyuno chan Likes to Show Off",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/misetagari-no-tsuyuno-chann.kq5v"
             }
         },
         "Comick": {

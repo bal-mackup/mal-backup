@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6adfa59e-e94b-47c2-86a7-97dd29778211": {
+                "id": 21336,
                 "identifier": "6adfa59e-e94b-47c2-86a7-97dd29778211",
                 "image": "https://uploads.mangadex.org/covers/6adfa59e-e94b-47c2-86a7-97dd29778211/6938dd6a-173d-4712-9cca-e9895f4aa02f.jpg",
                 "malId": 93417,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "futsutsuka-mono-no-ani-desu-ga": {
+                "id": 58632,
                 "identifier": "futsutsuka-mono-no-ani-desu-ga",
                 "image": "https://temp.compsci88.com/cover/Futsutsuka-Mono-No-Ani-Desu-Ga.jpg",
                 "malId": 93417,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bn978796": {
+                "id": 76958,
                 "identifier": "manga-bn978796",
                 "image": "https://avt.mkklcdnv6temp.com/17/k/16-1583494099.jpg",
                 "malId": 93417,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-bn978796"
             }
         },
-        "MangaFire": {
-            "futsutsuka-mono-no-ani-desu-ga.m0vz": {
-                "identifier": "futsutsuka-mono-no-ani-desu-ga.m0vz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d274c7b2b54c3425e531dfd37e57b844.jpg",
-                "malId": 93417,
-                "aniId": 96114,
-                "page": "MangaFire",
-                "title": "My Brother the Shut-In",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futsutsuka-mono-no-ani-desu-ga.m0vz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8zm801a2wvsajrkfah": {
+                "id": 206341,
                 "identifier": "01j76xyc8zm801a2wvsajrkfah",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8ZM801A2WVSAJRKFAH.jpg",
                 "malId": 93417,
@@ -64,6 +56,19 @@
                 "title": "My Brother the Shut-In",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8ZM801A2WVSAJRKFAH"
+            }
+        },
+        "MangaFire": {
+            "m0vz": {
+                "id": 251193,
+                "identifier": "m0vz",
+                "image": "https://static.mangafire.to/5329/i/d/d2/d274c7b2b54c3425e531dfd37e57b844.jpg",
+                "malId": 93417,
+                "aniId": 96114,
+                "page": "MangaFire",
+                "title": "My Brother the Shut-In",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futsutsuka-mono-no-ani-desu-gaa.m0vz"
             }
         },
         "Comick": {

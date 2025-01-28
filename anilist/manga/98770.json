@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "81c5f816-e03a-45a4-b0ae-127b2b757f0d": {
+                "id": 17670,
                 "identifier": "81c5f816-e03a-45a4-b0ae-127b2b757f0d",
                 "image": "https://uploads.mangadex.org/covers/81c5f816-e03a-45a4-b0ae-127b2b757f0d/c2629373-ab7b-4625-aade-5ec7ce382e2d.png",
                 "malId": 132675,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-yl976246": {
+                "id": 96718,
                 "identifier": "manga-yl976246",
                 "image": "https://avt.mkklcdnv6temp.com/fld/20/w/8-1732788666-nw.webp",
                 "malId": 132675,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-yl976246"
             }
         },
-        "MangaFire": {
-            "horror-anthology-comic-blindside.5265q": {
-                "identifier": "horror-anthology-comic-blindside.5265q",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fcdb75c56a473d12e9ce1adab66cf27.jpg",
-                "malId": 132675,
-                "aniId": 98770,
-                "page": "MangaFire",
-                "title": "Horror Anthology Comic: Blindside",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/horror-anthology-comic-blindside.5265q/"
-            },
-            "horror-anthology-comic-blindsidee.5265q": {
-                "identifier": "horror-anthology-comic-blindsidee.5265q",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fcdb75c56a473d12e9ce1adab66cf27.jpg",
-                "malId": 132675,
-                "aniId": 98770,
-                "page": "MangaFire",
-                "title": "Horror Anthology Comic: Blindside",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/horror-anthology-comic-blindsidee.5265q/"
-            }
-        },
         "MangaFox": {
             "horror_anthology_comic_shikaku": {
+                "id": 205928,
                 "identifier": "horror_anthology_comic_shikaku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25165/cover.jpg",
                 "malId": 132675,
@@ -62,6 +43,19 @@
                 "title": "Horror Anthology Comic Shikaku",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/horror_anthology_comic_shikaku/"
+            }
+        },
+        "MangaFire": {
+            "5265q": {
+                "id": 241131,
+                "identifier": "5265q",
+                "image": "https://static.mangafire.to/9863/i/7/7f/7fcdb75c56a473d12e9ce1adab66cf27.jpg",
+                "malId": 132675,
+                "aniId": 98770,
+                "page": "MangaFire",
+                "title": "Horror Anthology Comic: Blindside",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/horror-anthology-comic-blindsidee.5265q"
             }
         },
         "Comick": {

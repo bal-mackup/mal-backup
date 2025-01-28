@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fe8968d6-e27e-4544-8adf-332658c33937": {
+                "id": 13337,
                 "identifier": "fe8968d6-e27e-4544-8adf-332658c33937",
                 "image": "https://uploads.mangadex.org/covers/fe8968d6-e27e-4544-8adf-332658c33937/958c863b-a478-4c63-9db3-573f1a664054.jpg",
                 "malId": 73013,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koudaike-no-hitobito": {
+                "id": 67122,
                 "identifier": "koudaike-no-hitobito",
                 "image": "https://temp.compsci88.com/cover/Koudaike-No-Hitobito.jpg",
                 "malId": 73013,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-uf953388": {
+                "id": 81270,
                 "identifier": "manga-uf953388",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/z/1-1732719359-nw.webp",
                 "malId": 73013,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-uf953388"
             }
         },
-        "MangaFire": {
-            "koudaike-no-hitobito.xrjz3": {
-                "identifier": "koudaike-no-hitobito.xrjz3",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/48b02cf67e6372a8fff1b3cc66056b96.jpg",
-                "malId": 73013,
-                "aniId": 86955,
-                "page": "MangaFire",
-                "title": "Koudai-ke no Hitobito",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koudaike-no-hitobito.xrjz3/"
-            }
-        },
         "Weebcentral": {
             "01j76xybk1m3p3chqnvjb4ydsp": {
+                "id": 207777,
                 "identifier": "01j76xybk1m3p3chqnvjb4ydsp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBK1M3P3CHQNVJB4YDSP.jpg",
                 "malId": 73013,
@@ -64,6 +56,19 @@
                 "title": "Koudaike no Hitobito",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBK1M3P3CHQNVJB4YDSP"
+            }
+        },
+        "MangaFire": {
+            "xrjz3": {
+                "id": 259309,
+                "identifier": "xrjz3",
+                "image": "https://static.mangafire.to/5078/i/4/48/48b02cf67e6372a8fff1b3cc66056b96.jpg",
+                "malId": 73013,
+                "aniId": 86955,
+                "page": "MangaFire",
+                "title": "Koudai-ke no Hitobito",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koudaike-no-hitobitoo.xrjz3"
             }
         },
         "Comick": {

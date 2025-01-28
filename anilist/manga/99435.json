@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7433b48f-0bb1-4b72-b88d-07b2939db1ff": {
+                "id": 16907,
                 "identifier": "7433b48f-0bb1-4b72-b88d-07b2939db1ff",
                 "image": "https://uploads.mangadex.org/covers/7433b48f-0bb1-4b72-b88d-07b2939db1ff/ca03bc2a-e7ed-49f5-888e-3c37af0ea3a0.jpg",
                 "malId": 104710,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koroshi-ai": {
+                "id": 61789,
                 "identifier": "koroshi-ai",
                 "image": "https://temp.compsci88.com/cover/Koroshi-Ai.jpg",
                 "malId": 104710,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "koroshi_ai": {
+                "id": 66355,
                 "identifier": "koroshi_ai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/23213/cover.jpg",
                 "malId": 104710,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-wu974355": {
+                "id": 75577,
                 "identifier": "manga-wu974355",
                 "image": "https://avt.mkklcdnv6temp.com/43/l/14-1583491253.jpg",
                 "malId": 104710,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-wu974355"
             }
         },
-        "MangaFire": {
-            "koroshi-ai.2o5m5": {
-                "identifier": "koroshi-ai.2o5m5",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc29eee17a33494d3f0e5905eb37f039.jpg",
-                "malId": 104710,
-                "aniId": 99435,
-                "page": "MangaFire",
-                "title": "Love of Kill",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koroshi-ai.2o5m5/"
-            },
-            "koroshi-aii.2o5m5": {
-                "identifier": "koroshi-aii.2o5m5",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc29eee17a33494d3f0e5905eb37f039.jpg",
-                "malId": 104710,
-                "aniId": 99435,
-                "page": "MangaFire",
-                "title": "Love of Kill",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koroshi-aii.2o5m5/"
-            },
-            "2o5m5": {
-                "identifier": "2o5m5",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc29eee17a33494d3f0e5905eb37f039.jpg",
-                "malId": 104710,
-                "aniId": 99435,
-                "page": "MangaFire",
-                "title": "Love of Kill",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koroshi-aii.2o5m5/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxmc4vq6k85vt26aamg": {
+                "id": 209169,
                 "identifier": "01j76xycxmc4vq6k85vt26aamg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXMC4VQ6K85VT26AAMG.jpg",
                 "malId": 104710,
@@ -96,6 +69,19 @@
                 "title": "Love of Kill",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXMC4VQ6K85VT26AAMG"
+            }
+        },
+        "MangaFire": {
+            "2o5m5": {
+                "id": 225981,
+                "identifier": "2o5m5",
+                "image": "https://static.mangafire.to/0414/i/f/fc/fc29eee17a33494d3f0e5905eb37f039.jpg",
+                "malId": 104710,
+                "aniId": 99435,
+                "page": "MangaFire",
+                "title": "Love of Kill",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koroshi-aii.2o5m5"
             }
         },
         "Comick": {

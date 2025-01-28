@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b12df16f-29a0-4753-a2c2-74cb5887eb2e": {
+                "id": 13828,
                 "identifier": "b12df16f-29a0-4753-a2c2-74cb5887eb2e",
                 "image": "https://uploads.mangadex.org/covers/b12df16f-29a0-4753-a2c2-74cb5887eb2e/f92be1e9-2ded-451c-acf0-f169a765ba92.jpg",
                 "malId": 93350,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ayeshahs-secret": {
+                "id": 71141,
                 "identifier": "ayeshahs-secret",
                 "image": "https://temp.compsci88.com/cover/Ayeshahs-Secret.jpg",
                 "malId": 93350,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cc951637": {
+                "id": 86060,
                 "identifier": "manga-cc951637",
                 "image": "https://avt.mkklcdnv6temp.com/fld/14/k/1-1732716941-nw.webp",
                 "malId": 93350,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-cc951637"
             }
         },
-        "MangaFire": {
-            "ayeshahs-secret.jj0jy": {
-                "identifier": "ayeshahs-secret.jj0jy",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10ec070e0760a4a68dfac2377a1cc9c7.jpg",
-                "malId": 93350,
-                "aniId": 87121,
-                "page": "MangaFire",
-                "title": "Ayeshah's Secret",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayeshahs-secret.jj0jy/"
-            },
-            "ayeshahs-secrett.jj0jy": {
-                "identifier": "ayeshahs-secrett.jj0jy",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10ec070e0760a4a68dfac2377a1cc9c7.jpg",
-                "malId": 93350,
-                "aniId": 87121,
-                "page": "MangaFire",
-                "title": "Ayeshah's Secret",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayeshahs-secrett.jj0jy/"
-            }
-        },
         "Weebcentral": {
             "01j76xybnvnttb9tgkk141qx1m": {
+                "id": 213623,
                 "identifier": "01j76xybnvnttb9tgkk141qx1m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBNVNTTB9TGKK141QX1M.jpg",
                 "malId": 93350,
@@ -74,6 +56,19 @@
                 "title": "Ayeshah's Secret",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBNVNTTB9TGKK141QX1M"
+            }
+        },
+        "MangaFire": {
+            "jj0jy": {
+                "id": 228032,
+                "identifier": "jj0jy",
+                "image": "https://static.mangafire.to/6e86/i/1/10/10ec070e0760a4a68dfac2377a1cc9c7.jpg",
+                "malId": 93350,
+                "aniId": 87121,
+                "page": "MangaFire",
+                "title": "Ayeshah's Secret",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ayeshahs-secrett.jj0jy"
             }
         },
         "Comick": {

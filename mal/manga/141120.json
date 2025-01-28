@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "40efa78d-d27a-4364-92ac-6d7af69a851b": {
+                "id": 33494,
                 "identifier": "40efa78d-d27a-4364-92ac-6d7af69a851b",
                 "image": "https://uploads.mangadex.org/covers/40efa78d-d27a-4364-92ac-6d7af69a851b/1e3a2c9c-ee69-43be-a4ed-aa8d8006a2e3.png",
                 "malId": 141120,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-boxer": {
+                "id": 54723,
                 "identifier": "the-boxer",
                 "image": "https://temp.compsci88.com/cover/The-Boxer.jpg",
                 "malId": 141120,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_boxer": {
+                "id": 56538,
                 "identifier": "the_boxer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33909/cover.jpg",
                 "malId": 141120,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-iq985525": {
+                "id": 72987,
                 "identifier": "manga-iq985525",
                 "image": "https://avt.mkklcdnv6temp.com/19/u/21-1590641555.jpg",
                 "malId": 141120,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-iq985525"
             }
         },
-        "MangaFire": {
-            "the-boxer.7ww78": {
-                "identifier": "the-boxer.7ww78",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fdf03fc5123da02f8ecce5283ab0c34.jpg",
-                "malId": 141120,
-                "aniId": 119174,
-                "page": "MangaFire",
-                "title": "The Boxer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-boxer.7ww78/"
-            },
-            "the-boxerr.7ww78": {
-                "identifier": "the-boxerr.7ww78",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fdf03fc5123da02f8ecce5283ab0c34.jpg",
-                "malId": 141120,
-                "aniId": 119174,
-                "page": "MangaFire",
-                "title": "The Boxer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-boxerr.7ww78/"
-            }
-        },
         "Weebcentral": {
             "01j76xye1agn5ra226eaq703mw": {
+                "id": 212437,
                 "identifier": "01j76xye1agn5ra226eaq703mw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE1AGN5RA226EAQ703MW.jpg",
                 "malId": 141120,
@@ -86,6 +69,19 @@
                 "title": "The Boxer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE1AGN5RA226EAQ703MW"
+            }
+        },
+        "MangaFire": {
+            "7ww78": {
+                "id": 224697,
+                "identifier": "7ww78",
+                "image": "https://static.mangafire.to/15ef/i/7/7f/7fdf03fc5123da02f8ecce5283ab0c34.jpg",
+                "malId": 141120,
+                "aniId": 119174,
+                "page": "MangaFire",
+                "title": "The Boxer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-boxerr.7ww78"
             }
         },
         "Comick": {

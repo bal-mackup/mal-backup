@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "01a34e62-a4ef-4ca9-af94-05203367e00a": {
+                "id": 10808,
                 "identifier": "01a34e62-a4ef-4ca9-af94-05203367e00a",
                 "image": "https://uploads.mangadex.org/covers/01a34e62-a4ef-4ca9-af94-05203367e00a/5677ab0c-dc7e-4e73-845d-3c2f085903c3.jpg",
                 "malId": 70145,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "koisuru_harinezumi": {
+                "id": 67538,
                 "identifier": "koisuru_harinezumi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13990/cover.jpg",
                 "malId": 70145,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "koisuru-harinezumi": {
+                "id": 82049,
                 "identifier": "koisuru-harinezumi",
                 "image": "https://temp.compsci88.com/cover/Koisuru-Harinezumi.jpg",
                 "malId": 70145,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-sx953180": {
+                "id": 94872,
                 "identifier": "manga-sx953180",
                 "image": "https://avt.mkklcdnv6temp.com/fld/66/y/1-1732719065-nw.webp",
                 "malId": 70145,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-sx953180"
             }
         },
-        "MangaFire": {
-            "koisuru-harinezumi.m9kx": {
-                "identifier": "koisuru-harinezumi.m9kx",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/7805112fd357b19d5ee704f09cc6bc64.jpg",
-                "malId": 70145,
-                "aniId": 85956,
-                "page": "MangaFire",
-                "title": "A Hedgehog in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koisuru-harinezumi.m9kx/"
-            },
-            "m9kx": {
-                "identifier": "m9kx",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/7805112fd357b19d5ee704f09cc6bc64.jpg",
-                "malId": 70145,
-                "aniId": 85956,
-                "page": "MangaFire",
-                "title": "A Hedgehog in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koisuru-harinezumi.m9kx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb5x8mdnzntd59j28mc2": {
+                "id": 210375,
                 "identifier": "01j76xyb5x8mdnzntd59j28mc2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB5X8MDNZNTD59J28MC2.jpg",
                 "malId": 70145,
@@ -86,6 +69,19 @@
                 "title": "Koisuru Harinezumi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB5X8MDNZNTD59J28MC2"
+            }
+        },
+        "MangaFire": {
+            "m9kx": {
+                "id": 262992,
+                "identifier": "m9kx",
+                "image": "https://static.mangafire.to/bb33/i/7/78/7805112fd357b19d5ee704f09cc6bc64.jpg",
+                "malId": 70145,
+                "aniId": 85956,
+                "page": "MangaFire",
+                "title": "A Hedgehog in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koisuru-harinezumii.m9kx"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c7421641-dc50-4a3c-80a5-5cdcb2cae890": {
+                "id": 32457,
                 "identifier": "c7421641-dc50-4a3c-80a5-5cdcb2cae890",
                 "image": "https://uploads.mangadex.org/covers/c7421641-dc50-4a3c-80a5-5cdcb2cae890/d3935d96-2196-41e1-bf18-0974ef2d053f.jpg",
                 "malId": 125039,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "eiyuu_ou_bu_o_kiwameru_tame_tensei_su_soshite_sekai_saikyou_no_minarai_kishi": {
+                "id": 58474,
                 "identifier": "eiyuu_ou_bu_o_kiwameru_tame_tensei_su_soshite_sekai_saikyou_no_minarai_kishi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33507/cover.jpg",
                 "malId": 125039,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "eiyu-oh-bu-wo-kiwameru-tame-tensei-su-soshite-sekai-saikyou-no-minarai-kisi": {
+                "id": 61043,
                 "identifier": "eiyu-oh-bu-wo-kiwameru-tame-tensei-su-soshite-sekai-saikyou-no-minarai-kisi",
                 "image": "https://temp.compsci88.com/cover/Eiyu-Oh-Bu-wo-Kiwameru-Tame-Tensei-Su-Soshite-Sekai-Saikyou-no-Minarai-Kisi.jpg",
                 "malId": 125039,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gd984260": {
+                "id": 77804,
                 "identifier": "manga-gd984260",
                 "image": "https://avt.mkklcdnv6temp.com/19/m/20-1583501773.jpg",
                 "malId": 125039,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-gd984260"
             },
             "manga-zp1003224": {
+                "id": 194575,
                 "identifier": "manga-zp1003224",
                 "image": "https://avt.mkklcdnv6temp.com/fld/75/u/17-1733325782-nw.webp",
                 "malId": 125039,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.to/manga-zp1003224"
             }
         },
-        "MangaFire": {
-            "eiyuu-ou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishii.yk02p": {
-                "identifier": "eiyuu-ou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishii.yk02p",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/ee480e89f53818831bc7a4684cabca10.jpg",
-                "malId": 125039,
-                "aniId": 116380,
-                "page": "MangaFire",
-                "title": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eiyuu-ou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishii.yk02p/"
-            }
-        },
         "Weebcentral": {
             "01j76xydffb2bncyf1941gp6g3": {
+                "id": 209932,
                 "identifier": "01j76xydffb2bncyf1941gp6g3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDFFB2BNCYF1941GP6G3.jpg",
                 "malId": 125039,
@@ -86,6 +80,19 @@
                 "title": "Reborn to Master the Blade - From Hero-King to Extraordinary Squire",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDFFB2BNCYF1941GP6G3"
+            }
+        },
+        "MangaFire": {
+            "yk02p": {
+                "id": 225356,
+                "identifier": "yk02p",
+                "image": "https://static.mangafire.to/6b73/i/e/ee/ee480e89f53818831bc7a4684cabca10.jpg",
+                "malId": 125039,
+                "aniId": 116380,
+                "page": "MangaFire",
+                "title": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eiyuu-ou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishii.yk02p"
             }
         },
         "Comick": {

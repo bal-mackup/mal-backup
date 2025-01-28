@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "51d9a37f-686a-48df-9ac0-4c3d4ca8227e": {
+                "id": 13518,
                 "identifier": "51d9a37f-686a-48df-9ac0-4c3d4ca8227e",
                 "image": "https://uploads.mangadex.org/covers/51d9a37f-686a-48df-9ac0-4c3d4ca8227e/70478c7a-3e04-45d7-9c05-596c014d1daf.jpg",
                 "malId": 74653,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ichiba-kurogane-wa-kasegitai": {
+                "id": 66616,
                 "identifier": "ichiba-kurogane-wa-kasegitai",
                 "image": "https://temp.compsci88.com/cover/Ichiba-Kurogane-Wa-Kasegitai.jpg",
                 "malId": 74653,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ai953965": {
+                "id": 118891,
                 "identifier": "manga-ai953965",
                 "image": "https://avt.mkklcdnv6temp.com/fld/94/c/1-1732720229-nw.webp",
                 "malId": 74653,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ai953965"
             }
         },
-        "MangaFire": {
-            "ichiba-kurogane-wa-kasegitai.02x4k": {
-                "identifier": "ichiba-kurogane-wa-kasegitai.02x4k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/2562e9f58fda9cbbd2a3c0ff58382b29.jpg",
-                "malId": 74653,
-                "aniId": 86340,
-                "page": "MangaFire",
-                "title": "Ichiba Kurogane Wants to Earn Money",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ichiba-kurogane-wa-kasegitai.02x4k/"
-            },
-            "02x4k": {
-                "identifier": "02x4k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/2562e9f58fda9cbbd2a3c0ff58382b29.jpg",
-                "malId": 74653,
-                "aniId": 86340,
-                "page": "MangaFire",
-                "title": "Ichiba Kurogane Wants to Earn Money",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ichiba-kurogane-wa-kasegitai.02x4k/"
-            }
-        },
         "Weebcentral": {
             "01j76xybre8tbgwkgh50dv9nzp": {
+                "id": 207954,
                 "identifier": "01j76xybre8tbgwkgh50dv9nzp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBRE8TBGWKGH50DV9NZP.jpg",
                 "malId": 74653,
@@ -74,6 +56,19 @@
                 "title": "Ichiba Kurogane wa Kasegitai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBRE8TBGWKGH50DV9NZP"
+            }
+        },
+        "MangaFire": {
+            "02x4k": {
+                "id": 258926,
+                "identifier": "02x4k",
+                "image": "https://static.mangafire.to/4e71/i/2/25/2562e9f58fda9cbbd2a3c0ff58382b29.jpg",
+                "malId": 74653,
+                "aniId": 86340,
+                "page": "MangaFire",
+                "title": "Ichiba Kurogane Wants to Earn Money",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ichiba-kurogane-wa-kasegitaii.02x4k"
             }
         },
         "Comick": {

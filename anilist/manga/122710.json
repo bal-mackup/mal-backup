@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "84f193ec-e731-4bd4-bcb5-09e85dca3ebc": {
+                "id": 37870,
                 "identifier": "84f193ec-e731-4bd4-bcb5-09e85dca3ebc",
                 "image": "https://uploads.mangadex.org/covers/84f193ec-e731-4bd4-bcb5-09e85dca3ebc/4d0f82d9-66c3-4813-b004-74e6f0037a11.jpg",
                 "malId": 131363,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-fate-of-the-returned-hero": {
+                "id": 55868,
                 "identifier": "the-fate-of-the-returned-hero",
                 "image": "https://temp.compsci88.com/cover/The-Fate-of-the-Returned-Hero.jpg",
                 "malId": 131363,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kikanshita_yuusha_no_gojitsudan": {
+                "id": 69172,
                 "identifier": "kikanshita_yuusha_no_gojitsudan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35604/cover.jpg",
                 "malId": 131363,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ih985916": {
+                "id": 73028,
                 "identifier": "manga-ih985916",
                 "image": "https://avt.mkklcdnv6temp.com/36/d/21-1595604890.jpg",
                 "malId": 131363,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ih985916"
             }
         },
-        "MangaFire": {
-            "the-fate-of-the-returned-hero.yq990": {
-                "identifier": "the-fate-of-the-returned-hero.yq990",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/41a0fe73a7a3a0e0ba5ac9e444536cb3.jpg",
-                "malId": 131363,
-                "aniId": 122710,
-                "page": "MangaFire",
-                "title": "The Days After the Hero's Return",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-fate-of-the-returned-hero.yq990/"
-            },
-            "the-fate-of-the-returned-heroo.yq990": {
-                "identifier": "the-fate-of-the-returned-heroo.yq990",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/41a0fe73a7a3a0e0ba5ac9e444536cb3.jpg",
-                "malId": 131363,
-                "aniId": 122710,
-                "page": "MangaFire",
-                "title": "The Days After the Hero's Return",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-fate-of-the-returned-heroo.yq990/"
-            }
-        },
         "Weebcentral": {
             "01j76xydxx6r57gdr2x1jcmzfz": {
+                "id": 208103,
                 "identifier": "01j76xydxx6r57gdr2x1jcmzfz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDXX6R57GDR2X1JCMZFZ.jpg",
                 "malId": 131363,
@@ -86,6 +69,19 @@
                 "title": "The Days After the Hero's Return",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDXX6R57GDR2X1JCMZFZ"
+            }
+        },
+        "MangaFire": {
+            "yq990": {
+                "id": 224189,
+                "identifier": "yq990",
+                "image": "https://static.mangafire.to/1919/i/4/41/41a0fe73a7a3a0e0ba5ac9e444536cb3.jpg",
+                "malId": 131363,
+                "aniId": 122710,
+                "page": "MangaFire",
+                "title": "The Days After the Hero's Return",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-fate-of-the-returned-heroo.yq990"
             }
         },
         "Comick": {

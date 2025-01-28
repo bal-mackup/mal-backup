@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e57ac6cc-c475-4ef1-a970-b2e261d2ca59": {
+                "id": 57346,
                 "identifier": "e57ac6cc-c475-4ef1-a970-b2e261d2ca59",
                 "image": "https://uploads.mangadex.org/covers/e57ac6cc-c475-4ef1-a970-b2e261d2ca59/a8bf6e3b-b438-44ad-a10f-e31b44893a95.jpg",
                 "malId": 131658,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "genkaigoe_no_skill_wa_tenseisha_ni_shika_atsukaenai_over_limit_skill_holder": {
+                "id": 58510,
                 "identifier": "genkaigoe_no_skill_wa_tenseisha_ni_shika_atsukaenai_over_limit_skill_holder",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37254/cover.jpg",
                 "malId": 131658,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kl987646": {
+                "id": 77200,
                 "identifier": "manga-kl987646",
                 "image": "https://avt.mkklcdnv6temp.com/6/h/23-1610510596.jpg",
                 "malId": 131658,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "genkai-koe-no-tenpu-wa-tensei-sha-ni-shika-atsukaenai-overlimit-skill-holders-": {
+                "id": 97050,
                 "identifier": "genkai-koe-no-tenpu-wa-tensei-sha-ni-shika-atsukaenai-overlimit-skill-holders-",
                 "image": "https://temp.compsci88.com/cover/Genkai-Koe-No-Tenpu-wa-Tensei-sha-ni-Shika-Atsukaenai-Overlimit-Skill-Holders-.jpg",
                 "malId": 131658,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Genkai-Koe-No-Tenpu-wa-Tensei-sha-ni-Shika-Atsukaenai-Overlimit-Skill-Holders-"
             }
         },
-        "MangaFire": {
-            "genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holder.92lo8": {
-                "identifier": "genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holder.92lo8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/90894024266c04c058b0512478f53f7d.jpg",
-                "malId": 131658,
-                "aniId": 124427,
-                "page": "MangaFire",
-                "title": "Genkaigoe no Skill wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holder.92lo8/"
-            },
-            "genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holderr.92lo8": {
-                "identifier": "genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holderr.92lo8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/90894024266c04c058b0512478f53f7d.jpg",
-                "malId": 131658,
-                "aniId": 124427,
-                "page": "MangaFire",
-                "title": "Genkaigoe no Skill wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holderr.92lo8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfbqe4xdme1etdpe316d": {
+                "id": 206975,
                 "identifier": "01j76xyfbqe4xdme1etdpe316d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFBQE4XDME1ETDPE316D.jpg",
                 "malId": 131658,
@@ -86,6 +69,19 @@
                 "title": "Genkaigoe no Skill wa, Tenseisha ni Shika Atsukaenai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFBQE4XDME1ETDPE316D"
+            }
+        },
+        "MangaFire": {
+            "92lo8": {
+                "id": 229574,
+                "identifier": "92lo8",
+                "image": "https://static.mangafire.to/0909/i/9/90/90894024266c04c058b0512478f53f7d.jpg",
+                "malId": 131658,
+                "aniId": 124427,
+                "page": "MangaFire",
+                "title": "Genkaigoe no Skill wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holderr.92lo8"
             }
         },
         "Comick": {

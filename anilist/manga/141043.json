@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "056145c2-10b8-4f73-a4ee-212a3669d4d7": {
+                "id": 92005,
                 "identifier": "056145c2-10b8-4f73-a4ee-212a3669d4d7",
                 "image": "https://uploads.mangadex.org/covers/056145c2-10b8-4f73-a4ee-212a3669d4d7/18a5138c-dde7-4de9-a410-a12f10e405af.jpg",
                 "malId": 140810,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "takachiho_honoka_senpai_ga_sukide_sukide_iroiro_gamandekinai": {
+                "id": 120751,
                 "identifier": "takachiho_honoka_senpai_ga_sukide_sukide_iroiro_gamandekinai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40232/cover.jpg",
                 "malId": 140810,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/takachiho_honoka_senpai_ga_sukide_sukide_iroiro_gamandekinai/"
             }
         },
-        "MangaFire": {
-            "takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinai.lv0q": {
-                "identifier": "takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinai.lv0q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6dda38401eb57779c370899669d600dd.jpg",
-                "malId": 140810,
-                "aniId": 141043,
-                "page": "MangaFire",
-                "title": "Takachiho Honoka-senpai ga SUKIde SUKIde Iroiro Gamandekinai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinai.lv0q/"
-            },
-            "takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinaii.lv0q": {
-                "identifier": "takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinaii.lv0q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6dda38401eb57779c370899669d600dd.jpg",
-                "malId": 140810,
-                "aniId": 141043,
-                "page": "MangaFire",
-                "title": "Takachiho Honoka-senpai ga SUKIde SUKIde Iroiro Gamandekinai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinaii.lv0q/"
-            }
-        },
         "MangaNato": {
             "manga-uw997931": {
+                "id": 169160,
                 "identifier": "manga-uw997931",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/i/15-1733311136-nw.webp",
                 "malId": 140810,
@@ -62,6 +43,19 @@
                 "title": "Takachiho Honoka-Senpai Ga Sukide Sukide Iroiro Gamandekinai.",
                 "type": "manga",
                 "url": "https://manganato.com/manga-uw997931"
+            }
+        },
+        "MangaFire": {
+            "lv0q": {
+                "id": 226952,
+                "identifier": "lv0q",
+                "image": "https://static.mangafire.to/1e9b/i/6/6d/6dda38401eb57779c370899669d600dd.jpg",
+                "malId": 140810,
+                "aniId": 141043,
+                "page": "MangaFire",
+                "title": "Takachiho Honoka-senpai ga SUKIde SUKIde Iroiro Gamandekinai.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/takachiho-honoka-senpai-ga-sukide-sukide-iroiro-gamandekinaii.lv0q"
             }
         },
         "Comick": {

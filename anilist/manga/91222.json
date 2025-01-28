@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc5b9e42-1840-4307-998d-e0dfcfe2b9e6": {
+                "id": 19541,
                 "identifier": "dc5b9e42-1840-4307-998d-e0dfcfe2b9e6",
                 "image": "https://uploads.mangadex.org/covers/dc5b9e42-1840-4307-998d-e0dfcfe2b9e6/c4413305-d827-4ce7-bae9-5e176f45a5ac.jpg",
                 "malId": 70663,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mononogatari": {
+                "id": 68351,
                 "identifier": "mononogatari",
                 "image": "https://temp.compsci88.com/cover/Mononogatari.jpg",
                 "malId": 70663,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ct980176": {
+                "id": 77206,
                 "identifier": "manga-ct980176",
                 "image": "https://avt.mkklcdnv6temp.com/18/z/17-1583495943.jpg",
                 "malId": 70663,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "mononogatari": {
+                "id": 94237,
                 "identifier": "mononogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28166/cover.jpg",
                 "malId": 70663,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/mononogatari/"
             }
         },
-        "MangaFire": {
-            "mononogatari.n3z2j": {
-                "identifier": "mononogatari.n3z2j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3ebd2a87c8e6b7441596f3702dbc65ad.jpg",
-                "malId": 70663,
-                "aniId": 91222,
-                "page": "MangaFire",
-                "title": "Malevolent Spirits: Mononogatari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mononogatari.n3z2j/"
-            },
-            "mononogatarii.n3z2j": {
-                "identifier": "mononogatarii.n3z2j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3ebd2a87c8e6b7441596f3702dbc65ad.jpg",
-                "malId": 70663,
-                "aniId": 91222,
-                "page": "MangaFire",
-                "title": "Malevolent Spirits: Mononogatari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mononogatarii.n3z2j/"
-            },
-            "n3z2j": {
-                "identifier": "n3z2j",
-                "image": "https://static.mangafire.to/179b/i/3/3e/3ebd2a87c8e6b7441596f3702dbc65ad.jpg",
-                "malId": 70663,
-                "aniId": 91222,
-                "page": "MangaFire",
-                "title": "Malevolent Spirits: Mononogatari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mononogatarii.n3z2j"
-            }
-        },
         "Weebcentral": {
             "01j76xycqym0743sf6qek3axhm": {
+                "id": 214437,
                 "identifier": "01j76xycqym0743sf6qek3axhm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCQYM0743SF6QEK3AXHM.jpg",
                 "malId": 70663,
@@ -96,6 +69,19 @@
                 "title": "Malevolent Spirits - Mononogatari",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCQYM0743SF6QEK3AXHM"
+            }
+        },
+        "MangaFire": {
+            "n3z2j": {
+                "id": 225636,
+                "identifier": "n3z2j",
+                "image": "https://static.mangafire.to/179b/i/3/3e/3ebd2a87c8e6b7441596f3702dbc65ad.jpg",
+                "malId": 70663,
+                "aniId": 91222,
+                "page": "MangaFire",
+                "title": "Malevolent Spirits: Mononogatari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mononogatarii.n3z2j"
             }
         },
         "Comick": {

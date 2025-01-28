@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "624907a9-9aac-4998-8f1e-bed15ab26d71": {
+                "id": 12457,
                 "identifier": "624907a9-9aac-4998-8f1e-bed15ab26d71",
                 "image": "https://uploads.mangadex.org/covers/624907a9-9aac-4998-8f1e-bed15ab26d71/8008bc29-c167-4371-8f5b-b21f569dd24c.jpg",
                 "malId": 69841,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kenrantaru-grande-scene": {
+                "id": 72036,
                 "identifier": "kenrantaru-grande-scene",
                 "image": "https://temp.compsci88.com/cover/Kenrantaru-Grande-Scene.jpg",
                 "malId": 69841,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kenrantaru_grande_scene": {
+                "id": 81142,
                 "identifier": "kenrantaru_grande_scene",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26019/cover.jpg",
                 "malId": 69841,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zb977236": {
+                "id": 81336,
                 "identifier": "manga-zb977236",
                 "image": "https://avt.mkklcdnv6temp.com/38/k/15-1583492954.jpg",
                 "malId": 69841,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zb977236"
             }
         },
-        "MangaFire": {
-            "the-magnificent-grand-scene.kw2qr": {
-                "identifier": "the-magnificent-grand-scene.kw2qr",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26096c4469253a17b37678e47f60234d.jpg",
-                "malId": 69841,
-                "aniId": 91070,
-                "page": "MangaFire",
-                "title": "The Magnificent Grand Scene",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-magnificent-grand-scene.kw2qr/"
-            },
-            "kw2qr": {
-                "identifier": "kw2qr",
-                "image": "https://static.mangafire.to/dd96/i/2/26/26096c4469253a17b37678e47f60234d.jpg",
-                "malId": 69841,
-                "aniId": 91070,
-                "page": "MangaFire",
-                "title": "The Magnificent Grand Scene",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-magnificent-grand-scenee.kw2qr"
-            }
-        },
         "Weebcentral": {
             "01j76xycm4wn7rjv37tesrf8w4": {
+                "id": 209395,
                 "identifier": "01j76xycm4wn7rjv37tesrf8w4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCM4WN7RJV37TESRF8W4.jpg",
                 "malId": 69841,
@@ -86,6 +69,19 @@
                 "title": "La Magnifique Grande Scène",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCM4WN7RJV37TESRF8W4"
+            }
+        },
+        "MangaFire": {
+            "kw2qr": {
+                "id": 230493,
+                "identifier": "kw2qr",
+                "image": "https://static.mangafire.to/dd96/i/2/26/26096c4469253a17b37678e47f60234d.jpg",
+                "malId": 69841,
+                "aniId": 91070,
+                "page": "MangaFire",
+                "title": "The Magnificent Grand Scene",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-magnificent-grand-scenee.kw2qr"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "84dd64b7-39f5-4704-82ad-0ab4fee21eac": {
+                "id": 18326,
                 "identifier": "84dd64b7-39f5-4704-82ad-0ab4fee21eac",
                 "image": "https://uploads.mangadex.org/covers/84dd64b7-39f5-4704-82ad-0ab4fee21eac/255f636b-4163-46cb-8d70-40c272f8a782.jpg",
                 "malId": 119024,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-good-day-to-be-a-dog": {
+                "id": 52183,
                 "identifier": "a-good-day-to-be-a-dog",
                 "image": "https://temp.compsci88.com/cover/A-Good-Day-to-be-a-Dog.jpg",
                 "malId": 119024,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "a_good_day_to_be_a_dog": {
+                "id": 67033,
                 "identifier": "a_good_day_to_be_a_dog",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27839/cover.jpg",
                 "malId": 119024,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hr984426": {
+                "id": 76995,
                 "identifier": "manga-hr984426",
                 "image": "https://avt.mkklcdnv6temp.com/25/s/20-1583502018.jpg",
                 "malId": 119024,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-hr984426"
             },
             "manga-ay977633": {
+                "id": 163899,
                 "identifier": "manga-ay977633",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/c/8-1732789736-nw.webp",
                 "malId": 119024,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ay977633"
             }
         },
-        "MangaFire": {
-            "a-good-day-to-be-a-dog.w1yyk": {
-                "identifier": "a-good-day-to-be-a-dog.w1yyk",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/5886c53d5c08049a954af84d08262450.jpg",
-                "malId": 119024,
-                "aniId": 102259,
-                "page": "MangaFire",
-                "title": "A Good Day to be a Dog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-good-day-to-be-a-dog.w1yyk/"
-            },
-            "a-good-day-to-be-a-dogg.w1yyk": {
-                "identifier": "a-good-day-to-be-a-dogg.w1yyk",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/5886c53d5c08049a954af84d08262450.jpg",
-                "malId": 119024,
-                "aniId": 102259,
-                "page": "MangaFire",
-                "title": "A Good Day to be a Dog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-good-day-to-be-a-dogg.w1yyk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3kn3zkq6na0t8wxq7d": {
+                "id": 213134,
                 "identifier": "01j76xyd3kn3zkq6na0t8wxq7d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3KN3ZKQ6NA0T8WXQ7D.jpg",
                 "malId": 119024,
@@ -96,6 +80,19 @@
                 "title": "A Good Day to be a Dog",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3KN3ZKQ6NA0T8WXQ7D"
+            }
+        },
+        "MangaFire": {
+            "w1yyk": {
+                "id": 237742,
+                "identifier": "w1yyk",
+                "image": "https://static.mangafire.to/1490/i/5/58/5886c53d5c08049a954af84d08262450.jpg",
+                "malId": 119024,
+                "aniId": 102259,
+                "page": "MangaFire",
+                "title": "A Good Day to be a Dog",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-good-day-to-be-a-dogg.w1yyk"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "dungeon-people": {
+                "id": 118333,
                 "identifier": "dungeon-people",
                 "image": "https://temp.compsci88.com/cover/Dungeon-People.jpg",
                 "malId": 136528,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "becdbd9e-bd1a-43b4-8eae-575f6a81df96": {
+                "id": 121129,
                 "identifier": "becdbd9e-bd1a-43b4-8eae-575f6a81df96",
                 "image": "https://uploads.mangadex.org/covers/becdbd9e-bd1a-43b4-8eae-575f6a81df96/42efbf0e-c21e-4e61-8535-fb609da25dff.jpg",
                 "malId": 136528,
@@ -30,32 +32,11 @@
                 "url": "https://mangadex.org/title/becdbd9e-bd1a-43b4-8eae-575f6a81df96"
             }
         },
-        "MangaFire": {
-            "dungeon-no-naka-hito.yvr30": {
-                "identifier": "dungeon-no-naka-hito.yvr30",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/5231cf7712e7725df29f213212bcb686.jpg",
-                "malId": 136528,
-                "aniId": 134121,
-                "page": "MangaFire",
-                "title": "Dungeon no Naka Hito",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-no-naka-hito.yvr30/"
-            },
-            "dungeon-no-naka-hitoo.yvr30": {
-                "identifier": "dungeon-no-naka-hitoo.yvr30",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/5231cf7712e7725df29f213212bcb686.jpg",
-                "malId": 136528,
-                "aniId": 134121,
-                "page": "MangaFire",
-                "title": "Dungeon no Naka Hito",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-no-naka-hitoo.yvr30/"
-            }
-        },
         "MangaNato": {
             "manga-bx1004432": {
+                "id": 197359,
                 "identifier": "manga-bx1004432",
-                "image": "https://avt.mkklcdnv6temp.com/39/q/36-1726392991.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/22/a/18-1733328564-nw.webp",
                 "malId": 136528,
                 "aniId": 134121,
                 "page": "MangaNato",
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfrpb9ytgmtzwefsc33q": {
+                "id": 208140,
                 "identifier": "01j76xyfrpb9ytgmtzwefsc33q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFRPB9YTGMTZWEFSC33Q.jpg",
                 "malId": 136528,
@@ -74,6 +56,19 @@
                 "title": "Dungeon People",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFRPB9YTGMTZWEFSC33Q"
+            }
+        },
+        "MangaFire": {
+            "yvr30": {
+                "id": 225498,
+                "identifier": "yvr30",
+                "image": "https://static.mangafire.to/fa6e/i/2/21/5231cf7712e7725df29f213212bcb686.jpg",
+                "malId": 136528,
+                "aniId": 134121,
+                "page": "MangaFire",
+                "title": "Dungeon no Naka Hito",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dungeon-no-naka-hitoo.yvr30"
             }
         },
         "Comick": {

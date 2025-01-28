@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9c39faf7-83f2-4050-8c98-5e3048ac0f06": {
+                "id": 15819,
                 "identifier": "9c39faf7-83f2-4050-8c98-5e3048ac0f06",
                 "image": "https://uploads.mangadex.org/covers/9c39faf7-83f2-4050-8c98-5e3048ac0f06/f83fee85-fb59-43f2-93a7-e5032a58e14e.jpg",
                 "malId": 106800,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "granblue-fantasy": {
+                "id": 68209,
                 "identifier": "granblue-fantasy",
                 "image": "https://temp.compsci88.com/cover/Granblue-Fantasy.jpg",
                 "malId": 106800,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "granblue_fantasy": {
+                "id": 71055,
                 "identifier": "granblue_fantasy",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20665/cover.jpg",
                 "malId": 106800,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-un971922": {
+                "id": 87954,
                 "identifier": "manga-un971922",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/w/7-1732785691-nw.webp",
                 "malId": 106800,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-un971922"
             }
         },
-        "MangaFire": {
-            "granblue-fantasy.7j3k7": {
-                "identifier": "granblue-fantasy.7j3k7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/89c866a765d56d108ff27129eb9f4b74.jpg",
-                "malId": 106800,
-                "aniId": 103102,
-                "page": "MangaFire",
-                "title": "Granblue Fantasy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/granblue-fantasy.7j3k7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybw9khnxt2s1nvxdcext": {
+                "id": 209826,
                 "identifier": "01j76xybw9khnxt2s1nvxdcext",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBW9KHNXT2S1NVXDCEXT.jpg",
                 "malId": 106800,
@@ -76,6 +69,19 @@
                 "title": "Granblue Fantasy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBW9KHNXT2S1NVXDCEXT"
+            }
+        },
+        "MangaFire": {
+            "7j3k7": {
+                "id": 259663,
+                "identifier": "7j3k7",
+                "image": "https://static.mangafire.to/2943/i/8/89/89c866a765d56d108ff27129eb9f4b74.jpg",
+                "malId": 106800,
+                "aniId": 103102,
+                "page": "MangaFire",
+                "title": "Granblue Fantasy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/granblue-fantasyy.7j3k7"
             }
         },
         "Comick": {

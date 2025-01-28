@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "17b4a134-65a5-4ba9-851e-9cc824755bf5": {
+                "id": 35917,
                 "identifier": "17b4a134-65a5-4ba9-851e-9cc824755bf5",
                 "image": "https://uploads.mangadex.org/covers/17b4a134-65a5-4ba9-851e-9cc824755bf5/0eb3fbb6-6d4f-4733-9297-0b7b7cc3ad9e.jpg",
                 "malId": 140917,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "someday-will-i-be-the-greatest-alchemist": {
+                "id": 60434,
                 "identifier": "someday-will-i-be-the-greatest-alchemist",
                 "image": "https://temp.compsci88.com/cover/Someday-Will-I-Be-the-Greatest-Alchemist.jpg",
                 "malId": 140917,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jp987072": {
+                "id": 74163,
                 "identifier": "manga-jp987072",
                 "image": "https://avt.mkklcdnv6temp.com/32/q/22-1603780885.jpg",
                 "malId": 140917,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-jp987072"
             }
         },
-        "MangaFire": {
-            "izure-saikyou-no-renkinjutsushi.yqq7j": {
-                "identifier": "izure-saikyou-no-renkinjutsushi.yqq7j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96f8d52e971987506147130ef8d8665e.jpg",
-                "malId": 140917,
-                "aniId": 119690,
-                "page": "MangaFire",
-                "title": "Possibly the Greatest Alchemist of All Time",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/izure-saikyou-no-renkinjutsushi.yqq7j/"
-            },
-            "izure-saikyou-no-renkinjutsushii.yqq7j": {
-                "identifier": "izure-saikyou-no-renkinjutsushii.yqq7j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96f8d52e971987506147130ef8d8665e.jpg",
-                "malId": 140917,
-                "aniId": 119690,
-                "page": "MangaFire",
-                "title": "Possibly the Greatest Alchemist of All Time",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/izure-saikyou-no-renkinjutsushii.yqq7j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeb969tsq07s14kg1c4w": {
+                "id": 206695,
                 "identifier": "01j76xyeb969tsq07s14kg1c4w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEB969TSQ07S14KG1C4W.jpg",
                 "malId": 140917,
@@ -74,6 +56,19 @@
                 "title": "Possibly the Greatest Alchemist of All Time",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEB969TSQ07S14KG1C4W"
+            }
+        },
+        "MangaFire": {
+            "yqq7j": {
+                "id": 225108,
+                "identifier": "yqq7j",
+                "image": "https://static.mangafire.to/d6fb/i/9/96/96f8d52e971987506147130ef8d8665e.jpg",
+                "malId": 140917,
+                "aniId": 119690,
+                "page": "MangaFire",
+                "title": "Possibly the Greatest Alchemist of All Time",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/izure-saikyou-no-renkinjutsushii.yqq7j"
             }
         },
         "Comick": {

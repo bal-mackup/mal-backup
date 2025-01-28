@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "869aaf28-4709-483e-b145-09cca99144fc": {
+                "id": 21115,
                 "identifier": "869aaf28-4709-483e-b145-09cca99144fc",
                 "image": "https://uploads.mangadex.org/covers/869aaf28-4709-483e-b145-09cca99144fc/815bd720-e32d-4683-9145-620c09bc06ab.jpg",
                 "malId": 114374,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "this-man": {
+                "id": 78272,
                 "identifier": "this-man",
                 "image": "https://temp.compsci88.com/cover/This-Man.jpg",
                 "malId": 114374,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bw978905": {
+                "id": 100395,
                 "identifier": "manga-bw978905",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/x/8-1732790969-nw.webp",
                 "malId": 114374,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-bw978905"
             }
         },
-        "MangaFire": {
-            "this-man.547v": {
-                "identifier": "this-man.547v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c8e8937505583ee12fd36ee0ce93e10c.jpg",
-                "malId": 114374,
-                "aniId": 103195,
-                "page": "MangaFire",
-                "title": "This Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/this-man.547v/"
-            },
-            "this-mann.547v": {
-                "identifier": "this-mann.547v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c8e8937505583ee12fd36ee0ce93e10c.jpg",
-                "malId": 114374,
-                "aniId": 103195,
-                "page": "MangaFire",
-                "title": "This Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/this-mann.547v/"
-            }
-        },
         "Weebcentral": {
             "01j76xycmxw3mmzrpcs12bpq12": {
+                "id": 212336,
                 "identifier": "01j76xycmxw3mmzrpcs12bpq12",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCMXW3MMZRPCS12BPQ12.jpg",
                 "malId": 114374,
@@ -74,6 +56,19 @@
                 "title": "This Man: Sono Kao o Mita Mono ni wa Shi o",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCMXW3MMZRPCS12BPQ12"
+            }
+        },
+        "MangaFire": {
+            "547v": {
+                "id": 234456,
+                "identifier": "547v",
+                "image": "https://static.mangafire.to/bd78/i/c/c8/c8e8937505583ee12fd36ee0ce93e10c.jpg",
+                "malId": 114374,
+                "aniId": 103195,
+                "page": "MangaFire",
+                "title": "This Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/this-mann.547v"
             }
         },
         "Comick": {

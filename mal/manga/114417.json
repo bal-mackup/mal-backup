@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5a90308a-8b12-4a4d-9c6d-2487028fe319": {
+                "id": 21156,
                 "identifier": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
                 "image": "https://uploads.mangadex.org/covers/5a90308a-8b12-4a4d-9c6d-2487028fe319/4bfb0a8a-d6ec-4c0b-8046-d9c5907e3e65.jpg",
                 "malId": 114417,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "uzaki-chan-wa-asobitai": {
+                "id": 54711,
                 "identifier": "uzaki-chan-wa-asobitai",
                 "image": "https://temp.compsci88.com/cover/Uzaki-chan-Wa-Asobitai.jpg",
                 "malId": 114417,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "uzaki_chan_wa_asobitai": {
+                "id": 64265,
                 "identifier": "uzaki_chan_wa_asobitai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27707/cover.jpg",
                 "malId": 114417,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bq978873": {
+                "id": 73170,
                 "identifier": "manga-bq978873",
                 "image": "https://avt.mkklcdnv6temp.com/20/e/16-1583494195.jpg",
                 "malId": 114417,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bq978873"
             }
         },
-        "MangaFire": {
-            "uzaki-chan-wants-to-hang-out.p0q9": {
-                "identifier": "uzaki-chan-wants-to-hang-out.p0q9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/11de39c41bf5c4d83c1e3240537782e4.jpg",
-                "malId": 114417,
-                "aniId": 101724,
-                "page": "MangaFire",
-                "title": "Uzaki-chan Wants to Hang Out!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uzaki-chan-wants-to-hang-out.p0q9/"
-            },
-            "uzaki-chan-wants-to-hang-outt.p0q9": {
-                "identifier": "uzaki-chan-wants-to-hang-outt.p0q9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/11de39c41bf5c4d83c1e3240537782e4.jpg",
-                "malId": 114417,
-                "aniId": 101724,
-                "page": "MangaFire",
-                "title": "Uzaki-chan Wants to Hang Out!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uzaki-chan-wants-to-hang-outt.p0q9/"
-            }
-        },
         "Weebcentral": {
             "01j76xycy3xpecgtb45vh24pyx": {
+                "id": 212073,
                 "identifier": "01j76xycy3xpecgtb45vh24pyx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCY3XPECGTB45VH24PYX.jpg",
                 "malId": 114417,
@@ -86,6 +69,19 @@
                 "title": "Uzaki-chan Wants to Hang Out!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCY3XPECGTB45VH24PYX"
+            }
+        },
+        "MangaFire": {
+            "p0q9": {
+                "id": 225212,
+                "identifier": "p0q9",
+                "image": "https://static.mangafire.to/dd20/i/1/11/11de39c41bf5c4d83c1e3240537782e4.jpg",
+                "malId": 114417,
+                "aniId": 101724,
+                "page": "MangaFire",
+                "title": "Uzaki-chan Wants to Hang Out!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uzaki-chan-wants-to-hang-outt.p0q9"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "484088b5-dc50-476e-9576-a6db27960116": {
+                "id": 29697,
                 "identifier": "484088b5-dc50-476e-9576-a6db27960116",
                 "image": "https://uploads.mangadex.org/covers/484088b5-dc50-476e-9576-a6db27960116/229ae1d1-4c9d-4af9-817c-d994169acbdf.jpg",
                 "malId": 128783,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kn988270": {
+                "id": 85830,
                 "identifier": "manga-kn988270",
                 "image": "https://avt.mkklcdnv6temp.com/31/s/23-1613976453.jpg",
                 "malId": 128783,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-kn988270"
             },
             "manga-tq996451": {
+                "id": 159780,
                 "identifier": "manga-tq996451",
                 "image": "https://avt.mkklcdnv6temp.com/fld/17/a/15-1733307592-nw.webp",
                 "malId": 128783,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "gyakusatsu_happiendo": {
+                "id": 89063,
                 "identifier": "gyakusatsu_happiendo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37623/cover.jpg",
                 "malId": 128783,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "happy-massacre-ending": {
+                "id": 108460,
                 "identifier": "happy-massacre-ending",
                 "image": "https://temp.compsci88.com/cover/Happy-Massacre-Ending.jpg",
                 "malId": 128783,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Happy-Massacre-Ending"
             }
         },
-        "MangaFire": {
-            "gyakusatsu-happy-end.m2nwz": {
-                "identifier": "gyakusatsu-happy-end.m2nwz",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/53e2e72d25de881e6323dc510a31d115.jpg",
-                "malId": 128783,
-                "aniId": 129006,
-                "page": "MangaFire",
-                "title": "Massacre Happy End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gyakusatsu-happy-end.m2nwz/"
-            },
-            "gyakusatsu-happy-endd.m2nwz": {
-                "identifier": "gyakusatsu-happy-endd.m2nwz",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/53e2e72d25de881e6323dc510a31d115.jpg",
-                "malId": 128783,
-                "aniId": 129006,
-                "page": "MangaFire",
-                "title": "Massacre Happy End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gyakusatsu-happy-endd.m2nwz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfha9yazj4h9evm74gmz": {
+                "id": 211700,
                 "identifier": "01j76xyfha9yazj4h9evm74gmz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFHA9YAZJ4H9EVM74GMZ.jpg",
                 "malId": 128783,
@@ -96,6 +80,19 @@
                 "title": "Happy Massacre Ending",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFHA9YAZJ4H9EVM74GMZ"
+            }
+        },
+        "MangaFire": {
+            "m2nwz": {
+                "id": 228540,
+                "identifier": "m2nwz",
+                "image": "https://static.mangafire.to/d9dc/i/5/53/53e2e72d25de881e6323dc510a31d115.jpg",
+                "malId": 128783,
+                "aniId": 129006,
+                "page": "MangaFire",
+                "title": "Massacre Happy End",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gyakusatsu-happy-endd.m2nwz"
             }
         },
         "Comick": {

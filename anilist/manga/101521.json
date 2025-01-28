@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1f40b922-6abb-418e-a7e9-cc4d25b21439": {
+                "id": 20156,
                 "identifier": "1f40b922-6abb-418e-a7e9-cc4d25b21439",
                 "image": "https://uploads.mangadex.org/covers/1f40b922-6abb-418e-a7e9-cc4d25b21439/ec16ea31-66b4-45df-a7ed-5c589b933938.jpg",
                 "malId": 109339,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "saihate-no-paladin": {
+                "id": 57502,
                 "identifier": "saihate-no-paladin",
                 "image": "https://temp.compsci88.com/cover/Saihate-No-Paladin.jpg",
                 "malId": 109339,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "saihate_no_paladin": {
+                "id": 59863,
                 "identifier": "saihate_no_paladin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27475/cover.jpg",
                 "malId": 109339,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bg978841": {
+                "id": 74124,
                 "identifier": "manga-bg978841",
                 "image": "https://avt.mkklcdnv6temp.com/19/a/16-1583494157.jpg",
                 "malId": 109339,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bg978841"
             }
         },
-        "MangaFire": {
-            "saihate-no-paladin.4q8qx": {
-                "identifier": "saihate-no-paladin.4q8qx",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/110e95bc1ed34e21b8171723a978186a.jpg",
-                "malId": 109339,
-                "aniId": 101521,
-                "page": "MangaFire",
-                "title": "The Faraway Paladin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-no-paladin.4q8qx/"
-            },
-            "saihate-no-paladinn.4q8qx": {
-                "identifier": "saihate-no-paladinn.4q8qx",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/110e95bc1ed34e21b8171723a978186a.jpg",
-                "malId": 109339,
-                "aniId": 101521,
-                "page": "MangaFire",
-                "title": "The Faraway Paladin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-no-paladinn.4q8qx/"
-            }
-        },
         "Weebcentral": {
             "01j76xycmj30ed86e2jbcpnnv3": {
+                "id": 211267,
                 "identifier": "01j76xycmj30ed86e2jbcpnnv3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCMJ30ED86E2JBCPNNV3.jpg",
                 "malId": 109339,
@@ -86,6 +69,19 @@
                 "title": "The Faraway Paladin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCMJ30ED86E2JBCPNNV3"
+            }
+        },
+        "MangaFire": {
+            "4q8qx": {
+                "id": 228475,
+                "identifier": "4q8qx",
+                "image": "https://static.mangafire.to/cc58/i/1/11/110e95bc1ed34e21b8171723a978186a.jpg",
+                "malId": 109339,
+                "aniId": 101521,
+                "page": "MangaFire",
+                "title": "The Faraway Paladin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saihate-no-paladinn.4q8qx"
             }
         },
         "Comick": {

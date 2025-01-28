@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "be55c7bc-b6ff-4cbf-a2c8-4350a90770b2": {
+                "id": 15675,
                 "identifier": "be55c7bc-b6ff-4cbf-a2c8-4350a90770b2",
                 "image": "https://uploads.mangadex.org/covers/be55c7bc-b6ff-4cbf-a2c8-4350a90770b2/2a738c80-2896-4351-a9db-50ce19894945.jpg",
                 "malId": 98578,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "astra-lost-in-space": {
+                "id": 63479,
                 "identifier": "astra-lost-in-space",
                 "image": "https://temp.compsci88.com/cover/Astra-Lost-In-Space.jpg",
                 "malId": 98578,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bx978606": {
+                "id": 78324,
                 "identifier": "manga-bx978606",
                 "image": "https://avt.mkklcdnv6temp.com/12/k/16-1583493920.jpg",
                 "malId": 98578,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kanata_no_astra": {
+                "id": 82417,
                 "identifier": "kanata_no_astra",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27032/cover.jpg",
                 "malId": 98578,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/kanata_no_astra/"
             }
         },
-        "MangaFire": {
-            "kanata-no-astra.0rk73": {
-                "identifier": "kanata-no-astra.0rk73",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/067ba1968da3849a85aa160e1affb19a.jpg",
-                "malId": 98578,
-                "aniId": 87442,
-                "page": "MangaFire",
-                "title": "Astra Lost in Space",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanata-no-astra.0rk73/"
-            },
-            "kanata-no-astraa.0rk73": {
-                "identifier": "kanata-no-astraa.0rk73",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/067ba1968da3849a85aa160e1affb19a.jpg",
-                "malId": 98578,
-                "aniId": 87442,
-                "page": "MangaFire",
-                "title": "Astra Lost in Space",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanata-no-astraa.0rk73/"
-            }
-        },
         "Weebcentral": {
             "01j76xybxexb70yz30ak7gb4h0": {
+                "id": 214191,
                 "identifier": "01j76xybxexb70yz30ak7gb4h0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBXEXB70YZ30AK7GB4H0.jpg",
                 "malId": 98578,
@@ -86,6 +69,19 @@
                 "title": "Astra Lost in Space",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBXEXB70YZ30AK7GB4H0"
+            }
+        },
+        "MangaFire": {
+            "0rk73": {
+                "id": 224083,
+                "identifier": "0rk73",
+                "image": "https://static.mangafire.to/147d/i/0/06/067ba1968da3849a85aa160e1affb19a.jpg",
+                "malId": 98578,
+                "aniId": 87442,
+                "page": "MangaFire",
+                "title": "Astra Lost in Space",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanata-no-astraa.0rk73"
             }
         },
         "Comick": {

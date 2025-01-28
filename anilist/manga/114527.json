@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "28ed63af-61f8-43af-bac3-762030c72963": {
+                "id": 32077,
                 "identifier": "28ed63af-61f8-43af-bac3-762030c72963",
                 "image": "https://uploads.mangadex.org/covers/28ed63af-61f8-43af-bac3-762030c72963/e51aff4f-76e5-47c9-a6f3-d5e5a1bae3eb.jpg",
                 "malId": 123437,
@@ -18,20 +19,20 @@
                 "url": "https://mangadex.org/title/28ed63af-61f8-43af-bac3-762030c72963"
             }
         },
-        "MangaNato": {
-            "manga-gq983799": {
-                "identifier": "manga-gq983799",
-                "image": "https://avt.mkklcdnv6temp.com/2/e/20-1583501076.jpg",
+        "MangaFox": {
+            "my_company_s_small_senpai": {
+                "id": 62338,
+                "identifier": "my_company_s_small_senpai",
+                "image": "https://fmcdn.mfcdn.net/store/manga/32253/cover.jpg",
                 "malId": 123437,
                 "aniId": 114527,
-                "page": "MangaNato",
+                "page": "MangaFox",
                 "title": "My Company's Small Senpai",
                 "type": "manga",
-                "url": "https://chapmanganato.com/manga-gq983799"
-            }
-        },
-        "MangaFox": {
+                "url": "https://fanfox.net/manga/my_company_s_small_senpai/"
+            },
             "uchi_no_kaisha_no_chiisai_senpai_no_hanashi_doujinshi_ban": {
+                "id": 106864,
                 "identifier": "uchi_no_kaisha_no_chiisai_senpai_no_hanashi_doujinshi_ban",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39834/cover.jpg",
                 "malId": 123437,
@@ -42,26 +43,30 @@
                 "url": "https://fanfox.net/manga/uchi_no_kaisha_no_chiisai_senpai_no_hanashi_doujinshi_ban/"
             }
         },
+        "MangaNato": {
+            "manga-gq983799": {
+                "id": 73246,
+                "identifier": "manga-gq983799",
+                "image": "https://avt.mkklcdnv6temp.com/2/e/20-1583501076.jpg",
+                "malId": 123437,
+                "aniId": 114527,
+                "page": "MangaNato",
+                "title": "My Company's Small Senpai",
+                "type": "manga",
+                "url": "https://chapmanganato.com/manga-gq983799"
+            }
+        },
         "MangaFire": {
-            "uchi-no-kaisha-no-chiisai-senpai-no-hanashi.52wkj": {
-                "identifier": "uchi-no-kaisha-no-chiisai-senpai-no-hanashi.52wkj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/18f68411e66aa4b53854dffa3fa450c8.jpg",
+            "52wkj": {
+                "id": 239337,
+                "identifier": "52wkj",
+                "image": "https://static.mangafire.to/d552/i/1/18/18f68411e66aa4b53854dffa3fa450c8.jpg",
                 "malId": 123437,
                 "aniId": 114527,
                 "page": "MangaFire",
                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-kaisha-no-chiisai-senpai-no-hanashi.52wkj/"
-            },
-            "uchi-no-kaisha-no-chiisai-senpai-no-hanashii.52wkj": {
-                "identifier": "uchi-no-kaisha-no-chiisai-senpai-no-hanashii.52wkj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/18f68411e66aa4b53854dffa3fa450c8.jpg",
-                "malId": 123437,
-                "aniId": 114527,
-                "page": "MangaFire",
-                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-kaisha-no-chiisai-senpai-no-hanashii.52wkj/"
+                "url": "https://mangafire.to/manga/uchi-no-kaisha-no-chiisai-senpai-no-hanashii.52wkj"
             }
         },
         "Comick": {

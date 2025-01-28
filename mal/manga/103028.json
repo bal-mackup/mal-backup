@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "13da4a50-8425-4f64-aeee-e751eca8132a": {
+                "id": 18609,
                 "identifier": "13da4a50-8425-4f64-aeee-e751eca8132a",
                 "image": "https://uploads.mangadex.org/covers/13da4a50-8425-4f64-aeee-e751eca8132a/74826536-6309-47b6-8fe6-7db30a65d61a.jpg",
                 "malId": 103028,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koi-suru-shirokuma": {
+                "id": 68671,
                 "identifier": "koi-suru-shirokuma",
                 "image": "https://temp.compsci88.com/cover/Koi-Suru-Shirokuma.jpg",
                 "malId": 103028,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yk975367": {
+                "id": 77484,
                 "identifier": "manga-yk975367",
                 "image": "https://avt.mkklcdnv6temp.com/8/v/15-1583491780.jpg",
                 "malId": 103028,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-yk975367"
             }
         },
-        "MangaFire": {
-            "koi-suru-shirokuma.prol6": {
-                "identifier": "koi-suru-shirokuma.prol6",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d347a3575fb04667425f0b04f17ca31.jpg",
-                "malId": 103028,
-                "aniId": 98417,
-                "page": "MangaFire",
-                "title": "A Polar Bear in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-suru-shirokuma.prol6/"
-            },
-            "prol6": {
-                "identifier": "prol6",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d347a3575fb04667425f0b04f17ca31.jpg",
-                "malId": 103028,
-                "aniId": 98417,
-                "page": "MangaFire",
-                "title": "A Polar Bear in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-suru-shirokuma.prol6/"
-            }
-        },
         "Weebcentral": {
             "01j76xycapjqge9zae3v7nccc6": {
+                "id": 208192,
                 "identifier": "01j76xycapjqge9zae3v7nccc6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCAPJQGE9ZAE3V7NCCC6.jpg",
                 "malId": 103028,
@@ -74,6 +56,19 @@
                 "title": "A Polar Bear in Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCAPJQGE9ZAE3V7NCCC6"
+            }
+        },
+        "MangaFire": {
+            "prol6": {
+                "id": 247455,
+                "identifier": "prol6",
+                "image": "https://static.mangafire.to/2129/i/5/5d/5d347a3575fb04667425f0b04f17ca31.jpg",
+                "malId": 103028,
+                "aniId": 98417,
+                "page": "MangaFire",
+                "title": "A Polar Bear in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koi-suru-shirokumaa.prol6"
             }
         },
         "Comick": {

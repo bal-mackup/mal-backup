@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b7a2d54a-6d1b-4b1b-a266-1b3737f4f671": {
+                "id": 113720,
                 "identifier": "b7a2d54a-6d1b-4b1b-a266-1b3737f4f671",
                 "image": "https://uploads.mangadex.org/covers/b7a2d54a-6d1b-4b1b-a266-1b3737f4f671/68099c89-68ad-4c35-b393-31c11ab16aef.jpg",
                 "malId": 147179,
@@ -19,15 +20,29 @@
             }
         },
         "MangaFire": {
-            "numa-sugite-mohaya-koi.mvj17": {
-                "identifier": "numa-sugite-mohaya-koi.mvj17",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e478988280562ca2108aa06690fd3f7.jpg",
+            "mvj17": {
+                "id": 241178,
+                "identifier": "mvj17",
+                "image": "https://static.mangafire.to/0f7f/i/6/6e/6e478988280562ca2108aa06690fd3f7.jpg",
                 "malId": 147179,
                 "aniId": 149828,
                 "page": "MangaFire",
-                "title": "Numa Sugite Mohaya Koi",
+                "title": "In So Deep It's Love Already",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/numa-sugite-mohaya-koi.mvj17/"
+                "url": "https://mangafire.to/manga/numa-sugite-mohaya-koii.mvj17"
+            }
+        },
+        "Weebcentral": {
+            "01jf04bg2te11hj4wd4sc8av8c": {
+                "id": 267251,
+                "identifier": "01jf04bg2te11hj4wd4sc8av8c",
+                "image": "https://temp.compsci88.com/cover/fallback/01JF04BG2TE11HJ4WD4SC8AV8C.jpg",
+                "malId": 147179,
+                "aniId": 149828,
+                "page": "Weebcentral",
+                "title": "In So Deep It's Love Already",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JF04BG2TE11HJ4WD4SC8AV8C"
             }
         },
         "Comick": {

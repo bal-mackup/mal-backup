@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f5d93ec1-69d3-4190-9b6e-9d5fe1dd1a91": {
+                "id": 13187,
                 "identifier": "f5d93ec1-69d3-4190-9b6e-9d5fe1dd1a91",
                 "image": "https://uploads.mangadex.org/covers/f5d93ec1-69d3-4190-9b6e-9d5fe1dd1a91/1e5a8148-bff2-4214-b209-9b9699ef7e0c.jpg",
                 "malId": 79637,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "chain-chronicle-crimson": {
+                "id": 77065,
                 "identifier": "chain-chronicle-crimson",
                 "image": "https://temp.compsci88.com/cover/Chain-Chronicle-Crimson.jpg",
                 "malId": 79637,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Chain-Chronicle-Crimson"
             }
         },
-        "MangaFire": {
-            "chain-chronicle-crimson.0r29k": {
-                "identifier": "chain-chronicle-crimson.0r29k",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c7a7410e47353926da205ccf8e7ebc53.jpg",
-                "malId": 79637,
-                "aniId": 92874,
-                "page": "MangaFire",
-                "title": "Chain Chronicle Crimson",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chain-chronicle-crimson.0r29k/"
-            },
-            "0r29k": {
-                "identifier": "0r29k",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c7a7410e47353926da205ccf8e7ebc53.jpg",
-                "malId": 79637,
-                "aniId": 92874,
-                "page": "MangaFire",
-                "title": "Chain Chronicle Crimson",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chain-chronicle-crimson.0r29k/"
-            }
-        },
         "Weebcentral": {
             "01j76xybccvdga26grwwtymnqt": {
+                "id": 206357,
                 "identifier": "01j76xybccvdga26grwwtymnqt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBCCVDGA26GRWWTYMNQT.jpg",
                 "malId": 79637,
@@ -62,6 +43,19 @@
                 "title": "Chain Chronicle Crimson",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBCCVDGA26GRWWTYMNQT"
+            }
+        },
+        "MangaFire": {
+            "0r29k": {
+                "id": 260655,
+                "identifier": "0r29k",
+                "image": "https://static.mangafire.to/71ae/i/c/c7/c7a7410e47353926da205ccf8e7ebc53.jpg",
+                "malId": 79637,
+                "aniId": 92874,
+                "page": "MangaFire",
+                "title": "Chain Chronicle Crimson",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chain-chronicle-crimsonn.0r29k"
             }
         },
         "Comick": {

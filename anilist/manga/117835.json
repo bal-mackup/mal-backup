@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1b6ae33a-6616-4bc4-b836-4dbcb3a25964": {
+                "id": 36430,
                 "identifier": "1b6ae33a-6616-4bc4-b836-4dbcb3a25964",
                 "image": "https://uploads.mangadex.org/covers/1b6ae33a-6616-4bc4-b836-4dbcb3a25964/3296c3e4-91d7-4c88-9634-b760317dc3ca.jpg",
                 "malId": 132760,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jo986497": {
+                "id": 81397,
                 "identifier": "manga-jo986497",
                 "image": "https://avt.mkklcdnv6temp.com/9/h/22-1599290861.jpg",
                 "malId": 132760,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "eko-eko-azaraku-reborn": {
+                "id": 114411,
                 "identifier": "eko-eko-azaraku-reborn",
                 "image": "https://temp.compsci88.com/cover/Eko-Eko-Azaraku-Reborn.jpg",
                 "malId": 132760,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Eko-Eko-Azaraku-Reborn"
             }
         },
-        "MangaFire": {
-            "eko-eko-azarak-reborn.80kwq": {
-                "identifier": "eko-eko-azarak-reborn.80kwq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3de34105b4c206a01b0398b42b7cd8f1.jpg",
-                "malId": 132760,
-                "aniId": 117835,
-                "page": "MangaFire",
-                "title": "Eko Eko Azarak Reborn",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eko-eko-azarak-reborn.80kwq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnp2sd78jgm24qe1xv7": {
+                "id": 213840,
                 "identifier": "01j76xyfnp2sd78jgm24qe1xv7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNP2SD78JGM24QE1XV7.jpg",
                 "malId": 132760,
@@ -64,6 +56,19 @@
                 "title": "Eko Eko Azaraku: Reborn",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNP2SD78JGM24QE1XV7"
+            }
+        },
+        "MangaFire": {
+            "80kwq": {
+                "id": 259245,
+                "identifier": "80kwq",
+                "image": "https://static.mangafire.to/37b5/i/3/3d/3de34105b4c206a01b0398b42b7cd8f1.jpg",
+                "malId": 132760,
+                "aniId": 117835,
+                "page": "MangaFire",
+                "title": "Eko Eko Azarak Reborn",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eko-eko-azarak-rebornn.80kwq"
             }
         },
         "Comick": {

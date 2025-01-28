@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a8cc0758-8543-4272-b403-a8b7fe0cb29b": {
+                "id": 112716,
                 "identifier": "a8cc0758-8543-4272-b403-a8b7fe0cb29b",
                 "image": "https://uploads.mangadex.org/covers/a8cc0758-8543-4272-b403-a8b7fe0cb29b/dd31100f-2083-4797-86d6-2be5d0df2429.jpg",
                 "malId": 152343,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rk994667": {
+                "id": 126061,
                 "identifier": "manga-rk994667",
                 "image": "https://avt.mkklcdnv6temp.com/47/c/28-1677817508.jpg",
                 "malId": 152343,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rk994667"
             }
         },
-        "MangaFire": {
-            "oshikake-gal-no-nakamura-san.rj7jq": {
-                "identifier": "oshikake-gal-no-nakamura-san.rj7jq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/869b17397c5fb1d822a545f042d45499.jpg",
-                "malId": 152343,
-                "aniId": 156573,
-                "page": "MangaFire",
-                "title": "Oshikake Gal no Nakamura-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshikake-gal-no-nakamura-san.rj7jq/"
-            },
-            "oshikake-gal-no-nakamura-sann.rj7jq": {
-                "identifier": "oshikake-gal-no-nakamura-sann.rj7jq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/869b17397c5fb1d822a545f042d45499.jpg",
-                "malId": 152343,
-                "aniId": 156573,
-                "page": "MangaFire",
-                "title": "Oshikake Gal no Nakamura-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshikake-gal-no-nakamura-sann.rj7jq/"
-            }
-        },
         "MangaSee": {
             "nakamura-san-the-uninvited-gyaru": {
+                "id": 197177,
                 "identifier": "nakamura-san-the-uninvited-gyaru",
                 "image": "https://temp.compsci88.com/cover/Nakamura-san-the-Uninvited-Gyaru.jpg",
                 "malId": 152343,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhj6x12rbqy4gkq604ap": {
+                "id": 207985,
                 "identifier": "01j76xyhj6x12rbqy4gkq604ap",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHJ6X12RBQY4GKQ604AP.jpg",
                 "malId": 152343,
@@ -74,6 +56,19 @@
                 "title": "Nakamura-san, the Uninvited Gyaru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHJ6X12RBQY4GKQ604AP"
+            }
+        },
+        "MangaFire": {
+            "rj7jq": {
+                "id": 225105,
+                "identifier": "rj7jq",
+                "image": "https://static.mangafire.to/0ab0/i/8/86/869b17397c5fb1d822a545f042d45499.jpg",
+                "malId": 152343,
+                "aniId": 156573,
+                "page": "MangaFire",
+                "title": "Oshikake Gal no Nakamura-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oshikake-gal-no-nakamura-sann.rj7jq"
             }
         },
         "Comick": {

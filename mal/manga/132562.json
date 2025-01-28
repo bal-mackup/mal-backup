@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e75aa21a-8f97-4635-b3e8-f661eba8795a": {
+                "id": 34192,
                 "identifier": "e75aa21a-8f97-4635-b3e8-f661eba8795a",
                 "image": "https://uploads.mangadex.org/covers/e75aa21a-8f97-4635-b3e8-f661eba8795a/bd475260-0421-434f-bc7c-f2976aa23f2d.jpg",
                 "malId": 132562,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-want-to-escape-from-princess-training": {
+                "id": 64715,
                 "identifier": "i-want-to-escape-from-princess-training",
                 "image": "https://temp.compsci88.com/cover/I-Want-to-Escape-From-Princess-Training.jpg",
                 "malId": 132562,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-il985646": {
+                "id": 78439,
                 "identifier": "manga-il985646",
                 "image": "https://avt.mkklcdnv6temp.com/24/x/21-1591543907.jpg",
                 "malId": 132562,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-il985646"
             }
         },
-        "MangaFire": {
-            "i-want-to-escape-from-princess-training.378k6": {
-                "identifier": "i-want-to-escape-from-princess-training.378k6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/ba/bab842d356eac680714441b489948a7b.jpg",
-                "malId": 132562,
-                "aniId": 120643,
-                "page": "MangaFire",
-                "title": "I Want to Escape from Princess Education",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-want-to-escape-from-princess-training.378k6/"
-            },
-            "i-want-to-escape-from-princess-trainingg.378k6": {
-                "identifier": "i-want-to-escape-from-princess-trainingg.378k6",
-                "image": "https://static.mangafire.to/09dd/i/b/ba/bab842d356eac680714441b489948a7b.jpg",
-                "malId": 132562,
-                "aniId": 120643,
-                "page": "MangaFire",
-                "title": "I Want to Escape from Princess Education",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-want-to-escape-from-princess-trainingg.378k6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyedrh5m1rfqs54g142f5": {
+                "id": 212719,
                 "identifier": "01j76xyedrh5m1rfqs54g142f5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEDRH5M1RFQS54G142F5.jpg",
                 "malId": 132562,
@@ -78,6 +60,7 @@
         },
         "MangaFox": {
             "hikyouiku_kara_nigetai_watashi": {
+                "id": 222534,
                 "identifier": "hikyouiku_kara_nigetai_watashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38728/cover.jpg",
                 "malId": 132562,
@@ -86,6 +69,19 @@
                 "title": "Hikyouiku kara Nigetai Watashi",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/hikyouiku_kara_nigetai_watashi/"
+            }
+        },
+        "MangaFire": {
+            "378k6": {
+                "id": 223066,
+                "identifier": "378k6",
+                "image": "https://static.mangafire.to/09dd/i/b/ba/bab842d356eac680714441b489948a7b.jpg",
+                "malId": 132562,
+                "aniId": 120643,
+                "page": "MangaFire",
+                "title": "I Want to Escape from Princess Education",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-want-to-escape-from-princess-trainingg.378k6"
             }
         },
         "Comick": {

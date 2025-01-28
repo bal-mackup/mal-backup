@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a42c3990-b766-4543-a002-260996ebce15": {
+                "id": 37954,
                 "identifier": "a42c3990-b766-4543-a002-260996ebce15",
                 "image": "https://uploads.mangadex.org/covers/a42c3990-b766-4543-a002-260996ebce15/90153afc-956a-4aa7-a737-b0c0971ecfe6.jpg",
                 "malId": 128652,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kyou_kara_mirai": {
+                "id": 66724,
                 "identifier": "kyou_kara_mirai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34902/cover.jpg",
                 "malId": 128652,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ib985984": {
+                "id": 75978,
                 "identifier": "manga-ib985984",
                 "image": "https://avt.mkklcdnv6temp.com/38/w/21-1595822397.jpg",
                 "malId": 128652,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-ib985984"
             }
         },
-        "MangaFire": {
-            "kyou-kara-mirai.jj784": {
-                "identifier": "kyou-kara-mirai.jj784",
-                "image": "https://static.mangafire.to/3b2d5/i/3/31/31e76200aca04dfbe1ec65b4843d99b9.jpg",
-                "malId": 128652,
-                "aniId": 112650,
-                "page": "MangaFire",
-                "title": "My future starts today ~Miku＆Kyoko~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyou-kara-mirai.jj784/"
-            }
-        },
         "MangaSee": {
             "my-future-starts-today-miku-kyoko": {
+                "id": 181162,
                 "identifier": "my-future-starts-today-miku-kyoko",
                 "image": "https://temp.compsci88.com/cover/My-Future-Starts-Today-Miku-Kyoko.jpg",
                 "malId": 128652,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygxkxp9djfqjjvf5qwr9": {
+                "id": 211642,
                 "identifier": "01j76xygxkxp9djfqjjvf5qwr9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXKXP9DJFQJJVF5QWR9.jpg",
                 "malId": 128652,
@@ -76,6 +69,19 @@
                 "title": "My Future Starts Today: Miku & Kyoko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXKXP9DJFQJJVF5QWR9"
+            }
+        },
+        "MangaFire": {
+            "jj784": {
+                "id": 254546,
+                "identifier": "jj784",
+                "image": "https://static.mangafire.to/46af/i/3/31/31e76200aca04dfbe1ec65b4843d99b9.jpg",
+                "malId": 128652,
+                "aniId": 112650,
+                "page": "MangaFire",
+                "title": "My future starts today ~Miku＆Kyoko~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyou-kara-miraii.jj784"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "42f40118-dff5-4f23-acbf-e54e89f026bd": {
+                "id": 89625,
                 "identifier": "42f40118-dff5-4f23-acbf-e54e89f026bd",
                 "image": "https://uploads.mangadex.org/covers/42f40118-dff5-4f23-acbf-e54e89f026bd/5faf00fd-ec91-4a3d-9d8d-53aa8467d68b.jpg",
                 "malId": 145248,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/42f40118-dff5-4f23-acbf-e54e89f026bd"
             }
         },
-        "MangaFire": {
-            "welcome-back-first-love.4qw5j": {
-                "identifier": "welcome-back-first-love.4qw5j",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/ee86c680ff0cef06fad51796ea3de0c5.jpg",
-                "malId": 145248,
-                "aniId": 142945,
-                "page": "MangaFire",
-                "title": "Welcome Back, First Love.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/welcome-back-first-love.4qw5j/"
-            }
-        },
         "MangaSee": {
             "welcome-back-first-love": {
+                "id": 179481,
                 "identifier": "welcome-back-first-love",
                 "image": "https://temp.compsci88.com/cover/Welcome-Back-First-Love.jpg",
                 "malId": 145248,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygwawfq7hj6v7524m5g1": {
+                "id": 206939,
                 "identifier": "01j76xygwawfq7hj6v7524m5g1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWAWFQ7HJ6V7524M5G1.jpg",
                 "malId": 145248,
@@ -52,6 +43,19 @@
                 "title": "Welcome Back, First Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWAWFQ7HJ6V7524M5G1"
+            }
+        },
+        "MangaFire": {
+            "4qw5j": {
+                "id": 222755,
+                "identifier": "4qw5j",
+                "image": "https://static.mangafire.to/d136/i/e/ee/ee86c680ff0cef06fad51796ea3de0c5.jpg",
+                "malId": 145248,
+                "aniId": 142945,
+                "page": "MangaFire",
+                "title": "Welcome Back, First Love.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/welcome-back-first-lovee.4qw5j"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3ad12928-6a8c-4704-8597-d2cf305a2b10": {
+                "id": 13348,
                 "identifier": "3ad12928-6a8c-4704-8597-d2cf305a2b10",
                 "image": "https://uploads.mangadex.org/covers/3ad12928-6a8c-4704-8597-d2cf305a2b10/bb4f390f-e3c2-47ed-99a5-6b6ff89b3af1.jpg",
                 "malId": 90800,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nv951756": {
+                "id": 75845,
                 "identifier": "manga-nv951756",
                 "image": "https://avt.mkklcdnv6temp.com/15/s/1-1583464290.jpg",
                 "malId": 90800,
@@ -30,6 +32,7 @@
                 "url": "https://manganato.com/manga-nv951756"
             },
             "manga-va953457": {
+                "id": 80503,
                 "identifier": "manga-va953457",
                 "image": "https://avt.mkklcdnv6temp.com/fld/76/j/1-1732719460-nw.webp",
                 "malId": 90800,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "kanojo-wa-rokurokubi": {
+                "id": 78262,
                 "identifier": "kanojo-wa-rokurokubi",
                 "image": "https://temp.compsci88.com/cover/Kanojo-Wa-Rokurokubi.jpg",
                 "malId": 90800,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "kanojo_wa_rokurokubi": {
+                "id": 107855,
                 "identifier": "kanojo_wa_rokurokubi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16175/cover.jpg",
                 "malId": 90800,
@@ -64,40 +69,9 @@
                 "url": "https://fanfox.net/manga/kanojo_wa_rokurokubi/"
             }
         },
-        "MangaFire": {
-            "kanojo-wa-rokurokubi.9omln": {
-                "identifier": "kanojo-wa-rokurokubi.9omln",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/359864aa7177f76bcade1d5ddb08ec61.jpg",
-                "malId": 90800,
-                "aniId": 86297,
-                "page": "MangaFire",
-                "title": "Kanojo wa Rokurokubi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-wa-rokurokubi.9omln/"
-            },
-            "kanojo-wa-rokurokubii.9omln": {
-                "identifier": "kanojo-wa-rokurokubii.9omln",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/359864aa7177f76bcade1d5ddb08ec61.jpg",
-                "malId": 90800,
-                "aniId": 86297,
-                "page": "MangaFire",
-                "title": "Kanojo wa Rokurokubi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-wa-rokurokubii.9omln/"
-            },
-            "9omln": {
-                "identifier": "9omln",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/359864aa7177f76bcade1d5ddb08ec61.jpg",
-                "malId": 90800,
-                "aniId": 86297,
-                "page": "MangaFire",
-                "title": "Kanojo wa Rokurokubi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-wa-rokurokubii.9omln/"
-            }
-        },
         "Weebcentral": {
             "01j76xybcqfzqh14m295t5m8vy": {
+                "id": 212027,
                 "identifier": "01j76xybcqfzqh14m295t5m8vy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBCQFZQH14M295T5M8VY.jpg",
                 "malId": 90800,
@@ -106,6 +80,19 @@
                 "title": "Kanojo wa Rokurokubi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBCQFZQH14M295T5M8VY"
+            }
+        },
+        "MangaFire": {
+            "9omln": {
+                "id": 224771,
+                "identifier": "9omln",
+                "image": "https://static.mangafire.to/fabc/i/3/35/359864aa7177f76bcade1d5ddb08ec61.jpg",
+                "malId": 90800,
+                "aniId": 86297,
+                "page": "MangaFire",
+                "title": "Kanojo wa Rokurokubi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-wa-rokurokubii.9omln"
             }
         },
         "Comick": {

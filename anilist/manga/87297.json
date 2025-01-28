@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aa98e666-c5f8-4f4c-940e-b71edb8b3ca0": {
+                "id": 13960,
                 "identifier": "aa98e666-c5f8-4f4c-940e-b71edb8b3ca0",
                 "image": "https://uploads.mangadex.org/covers/aa98e666-c5f8-4f4c-940e-b71edb8b3ca0/da201157-871b-4134-9ea8-5ccbef99d104.jpg",
                 "malId": 70179,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ubume-no-natsu": {
+                "id": 66341,
                 "identifier": "ubume-no-natsu",
                 "image": "https://temp.compsci88.com/cover/Ubume-No-Natsu.jpg",
                 "malId": 70179,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kt952402": {
+                "id": 121489,
                 "identifier": "manga-kt952402",
                 "image": "https://avt.mkklcdnv6temp.com/fld/40/v/1-1732717990-nw.webp",
                 "malId": 70179,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-kt952402"
             }
         },
-        "MangaFire": {
-            "the-summer-of-the-ubume.m26x7": {
-                "identifier": "the-summer-of-the-ubume.m26x7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0c051eff145619e01a78f66a981e375.jpg",
-                "malId": 70179,
-                "aniId": 87297,
-                "page": "MangaFire",
-                "title": "The Summer of the Ubume",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-summer-of-the-ubume.m26x7/"
-            },
-            "the-summer-of-the-ubumee.m26x7": {
-                "identifier": "the-summer-of-the-ubumee.m26x7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0c051eff145619e01a78f66a981e375.jpg",
-                "malId": 70179,
-                "aniId": 87297,
-                "page": "MangaFire",
-                "title": "The Summer of the Ubume",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-summer-of-the-ubumee.m26x7/"
-            },
-            "m26x7": {
-                "identifier": "m26x7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0c051eff145619e01a78f66a981e375.jpg",
-                "malId": 70179,
-                "aniId": 87297,
-                "page": "MangaFire",
-                "title": "The Summer of the Ubume",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-summer-of-the-ubumee.m26x7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybkxxcx1x24yj90bxx2q": {
+                "id": 207346,
                 "identifier": "01j76xybkxxcx1x24yj90bxx2q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBKXXCX1X24YJ90BXX2Q.jpg",
                 "malId": 70179,
@@ -84,6 +56,19 @@
                 "title": "Ubume no Natsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBKXXCX1X24YJ90BXX2Q"
+            }
+        },
+        "MangaFire": {
+            "m26x7": {
+                "id": 237980,
+                "identifier": "m26x7",
+                "image": "https://static.mangafire.to/a45a/i/b/b0/b0c051eff145619e01a78f66a981e375.jpg",
+                "malId": 70179,
+                "aniId": 87297,
+                "page": "MangaFire",
+                "title": "The Summer of the Ubume",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-summer-of-the-ubumee.m26x7"
             }
         },
         "Comick": {

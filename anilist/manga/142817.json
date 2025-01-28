@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b50bbe13-9287-4d06-9569-b40fb6593913": {
+                "id": 92221,
                 "identifier": "b50bbe13-9287-4d06-9569-b40fb6593913",
                 "image": "https://uploads.mangadex.org/covers/b50bbe13-9287-4d06-9569-b40fb6593913/df4f8c88-ab28-4a59-9f54-c5db391eeec8.jpg",
                 "malId": 149003,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mv990130": {
+                "id": 92451,
                 "identifier": "manga-mv990130",
                 "image": "https://avt.mkklcdnv6temp.com/11/m/25-1638633788.jpg",
                 "malId": 149003,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-mv990130"
             },
             "manga-mw990131": {
+                "id": 93250,
                 "identifier": "manga-mw990131",
                 "image": "https://avt.mkklcdnv6temp.com/11/k/25-1638633631.jpg",
                 "malId": 149003,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "my_daughter_is_a_musical_genius": {
+                "id": 105722,
                 "identifier": "my_daughter_is_a_musical_genius",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40311/cover.jpg",
                 "malId": 149003,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/my_daughter_is_a_musical_genius/"
             }
         },
-        "MangaFire": {
-            "my-daughter-the-music-prodigy.7woo6": {
-                "identifier": "my-daughter-the-music-prodigy.7woo6",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8e25040c88675d1c7efb0460afb9c448.jpg",
-                "malId": 149003,
-                "aniId": 142817,
-                "page": "MangaFire",
-                "title": "My Daughter, the Music Prodigy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-daughter-the-music-prodigy.7woo6/"
-            },
-            "nae-ttareun-eumakcheonjae.72o8j": {
-                "identifier": "nae-ttareun-eumakcheonjae.72o8j",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/437dd4bff072602241eb2e575978303a.jpg",
-                "malId": 149003,
-                "aniId": 142817,
-                "page": "MangaFire",
-                "title": "My Daughter, the Music Prodigy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nae-ttareun-eumakcheonjae.72o8j/"
-            }
-        },
         "MangaSee": {
             "my-daughter-the-music-prodigy": {
+                "id": 177157,
                 "identifier": "my-daughter-the-music-prodigy",
                 "image": "https://temp.compsci88.com/cover/My-Daughter-the-Music-Prodigy.jpg",
                 "malId": 149003,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xygphyybe90c0d7awsfbq": {
+                "id": 206240,
                 "identifier": "01j76xygphyybe90c0d7awsfbq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGPHYYBE90C0D7AWSFBQ.jpg",
                 "malId": 149003,
@@ -96,6 +80,19 @@
                 "title": "My Daughter, the Music Prodigy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGPHYYBE90C0D7AWSFBQ"
+            }
+        },
+        "MangaFire": {
+            "72o8j": {
+                "id": 237014,
+                "identifier": "72o8j",
+                "image": "https://static.mangafire.to/fbc8/i/4/43/437dd4bff072602241eb2e575978303a.jpg",
+                "malId": 149003,
+                "aniId": 142817,
+                "page": "MangaFire",
+                "title": "My Daughter, the Music Prodigy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nae-ttareun-eumakcheonjaee.72o8j"
             }
         },
         "Comick": {

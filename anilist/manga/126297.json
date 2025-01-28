@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9ecd208c-c592-4462-9f57-4d7d4a9f956f": {
+                "id": 51803,
                 "identifier": "9ecd208c-c592-4462-9f57-4d7d4a9f956f",
                 "image": "https://uploads.mangadex.org/covers/9ecd208c-c592-4462-9f57-4d7d4a9f956f/75e7fac6-c9f4-43ce-ae0e-cbf06f28f99b.jpg",
                 "malId": 146966,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mercenary_enrollment": {
+                "id": 53866,
                 "identifier": "mercenary_enrollment",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36489/cover.jpg",
                 "malId": 146966,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/mercenary_enrollment/"
             },
             "teenage_mercenary": {
+                "id": 96133,
                 "identifier": "teenage_mercenary",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39332/cover.jpg",
                 "malId": 146966,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/teenage_mercenary/"
             },
             "teenage_mercenary_delete": {
+                "id": 106905,
                 "identifier": "teenage_mercenary_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39332/cover.jpg",
                 "malId": 146966,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "mercenary-enrollment": {
+                "id": 59468,
                 "identifier": "mercenary-enrollment",
                 "image": "https://temp.compsci88.com/cover/Mercenary-Enrollment.jpg",
                 "malId": 146966,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-jz987182": {
+                "id": 73621,
                 "identifier": "manga-jz987182",
                 "image": "https://avt.mkklcdnv6temp.com/36/y/22-1605087752.jpg",
                 "malId": 146966,
@@ -74,40 +80,9 @@
                 "url": "https://chapmanganato.com/manga-jz987182"
             }
         },
-        "MangaFire": {
-            "mercenary-enrollment.pr6o4": {
-                "identifier": "mercenary-enrollment.pr6o4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f8b0691f8dfe3d5049d3d57ffa173f0.jpg",
-                "malId": 146966,
-                "aniId": 126297,
-                "page": "MangaFire",
-                "title": "Teenage Mercenary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mercenary-enrollment.pr6o4/"
-            },
-            "iphagyongbyeong.pr6o4": {
-                "identifier": "iphagyongbyeong.pr6o4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f8b0691f8dfe3d5049d3d57ffa173f0.jpg",
-                "malId": 146966,
-                "aniId": 126297,
-                "page": "MangaFire",
-                "title": "Teenage Mercenary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iphagyongbyeong.pr6o4/"
-            },
-            "mercenary-enrollmentt.pr6o4": {
-                "identifier": "mercenary-enrollmentt.pr6o4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f8b0691f8dfe3d5049d3d57ffa173f0.jpg",
-                "malId": 146966,
-                "aniId": 126297,
-                "page": "MangaFire",
-                "title": "Teenage Mercenary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mercenary-enrollmentt.pr6o4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyea95pg5avmckc9tk492": {
+                "id": 208645,
                 "identifier": "01j76xyea95pg5avmckc9tk492",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEA95PG5AVMCKC9TK492.jpg",
                 "malId": 146966,
@@ -116,6 +91,19 @@
                 "title": "Teenage Mercenary",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEA95PG5AVMCKC9TK492"
+            }
+        },
+        "MangaFire": {
+            "pr6o4": {
+                "id": 229054,
+                "identifier": "pr6o4",
+                "image": "https://static.mangafire.to/6ae6/i/5/5f/5f8b0691f8dfe3d5049d3d57ffa173f0.jpg",
+                "malId": 146966,
+                "aniId": 126297,
+                "page": "MangaFire",
+                "title": "Teenage Mercenary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mercenary-enrollmentt.pr6o4"
             }
         },
         "Comick": {

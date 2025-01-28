@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "24bb1d05-c9d9-4ac6-a368-facad7d9bc34": {
+                "id": 36699,
                 "identifier": "24bb1d05-c9d9-4ac6-a368-facad7d9bc34",
                 "image": "https://uploads.mangadex.org/covers/24bb1d05-c9d9-4ac6-a368-facad7d9bc34/28921073-8024-47a4-a124-5b5a94a8bf6c.jpg",
                 "malId": 77273,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-uchiha-sasuke-sharingan-chronicles": {
+                "id": 59115,
                 "identifier": "the-uchiha-sasuke-sharingan-chronicles",
                 "image": "https://temp.compsci88.com/cover/The-Uchiha-Sasuke-Sharingan-Chronicles.jpg",
                 "malId": 77273,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cb980058": {
+                "id": 121731,
                 "identifier": "manga-cb980058",
                 "image": "https://avt.mkklcdnv6temp.com/fld/11/o/9-1732792839-nw.webp",
                 "malId": 77273,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-cb980058"
             }
         },
-        "MangaFire": {
-            "uchiha-sasuke-no-sharingan-den.mv7zx": {
-                "identifier": "uchiha-sasuke-no-sharingan-den.mv7zx",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/9abc71988877e02ad353c34cdbfcda02.jpg",
-                "malId": 77273,
-                "aniId": 87439,
-                "page": "MangaFire",
-                "title": "Naruto: Chibi Sasuke's Sharingan Legend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchiha-sasuke-no-sharingan-den.mv7zx/"
-            },
-            "uchiha-sasuke-no-sharingan-denn.mv7zx": {
-                "identifier": "uchiha-sasuke-no-sharingan-denn.mv7zx",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/9abc71988877e02ad353c34cdbfcda02.jpg",
-                "malId": 77273,
-                "aniId": 87439,
-                "page": "MangaFire",
-                "title": "Naruto: Chibi Sasuke's Sharingan Legend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchiha-sasuke-no-sharingan-denn.mv7zx/"
-            }
-        },
         "Weebcentral": {
             "01j76xybhvmgmyzpfwe1z82fyg": {
+                "id": 213848,
                 "identifier": "01j76xybhvmgmyzpfwe1z82fyg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBHVMGMYZPFWE1Z82FYG.jpg",
                 "malId": 77273,
@@ -74,6 +56,19 @@
                 "title": "Naruto: Chibi Sasuke's Sharingan Legend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBHVMGMYZPFWE1Z82FYG"
+            }
+        },
+        "MangaFire": {
+            "mv7zx": {
+                "id": 236589,
+                "identifier": "mv7zx",
+                "image": "https://static.mangafire.to/d59c/i/c/cb/9abc71988877e02ad353c34cdbfcda02.jpg",
+                "malId": 77273,
+                "aniId": 87439,
+                "page": "MangaFire",
+                "title": "Naruto: Chibi Sasuke's Sharingan Legend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uchiha-sasuke-no-sharingan-denn.mv7zx"
             }
         },
         "Comick": {

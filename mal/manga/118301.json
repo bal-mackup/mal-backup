@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a611ee7c-0705-4160-949b-ceda61649aab": {
+                "id": 25206,
                 "identifier": "a611ee7c-0705-4160-949b-ceda61649aab",
                 "image": "https://uploads.mangadex.org/covers/a611ee7c-0705-4160-949b-ceda61649aab/dc792e29-8921-4a76-9c4a-b0f1a6d04108.jpg",
                 "malId": 118301,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mukasete_ryugasaki_san": {
+                "id": 59173,
                 "identifier": "mukasete_ryugasaki_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37330/cover.jpg",
                 "malId": 118301,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/mukasete_ryugasaki_san/"
             },
             "shed_ryugasaki_san": {
+                "id": 107454,
                 "identifier": "shed_ryugasaki_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29443/cover.jpg",
                 "malId": 118301,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "shed-that-skin-ryugasaki-san": {
+                "id": 65135,
                 "identifier": "shed-that-skin-ryugasaki-san",
                 "image": "https://temp.compsci88.com/cover/Shed-that-Skin-Ryugasaki-san.jpg",
                 "malId": 118301,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-do980471": {
+                "id": 74922,
                 "identifier": "manga-do980471",
                 "image": "https://avt.mkklcdnv6temp.com/20/a/26-1657020546.jpg",
                 "malId": 118301,
@@ -64,40 +69,9 @@
                 "url": "https://manganato.com/manga-do980471"
             }
         },
-        "MangaFire": {
-            "shed-ryugasaki-san.kwnzv": {
-                "identifier": "shed-ryugasaki-san.kwnzv",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00563adda4b1cbdec0b9396407e714ac.jpg",
-                "malId": 118301,
-                "aniId": 106473,
-                "page": "MangaFire",
-                "title": "Shed that Skin, Ryugasaki-san!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shed-ryugasaki-san.kwnzv/"
-            },
-            "shed-ryugasaki-sann.kwnzv": {
-                "identifier": "shed-ryugasaki-sann.kwnzv",
-                "image": "https://static.mangafire.to/ec56/i/0/00/00563adda4b1cbdec0b9396407e714ac.jpg",
-                "malId": 118301,
-                "aniId": 106473,
-                "page": "MangaFire",
-                "title": "Shed that Skin, Ryugasaki-san!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shed-ryugasaki-sann.kwnzv/"
-            },
-            "kwnzv": {
-                "identifier": "kwnzv",
-                "image": "https://static.mangafire.to/ec56/i/0/00/00563adda4b1cbdec0b9396407e714ac.jpg",
-                "malId": 118301,
-                "aniId": 106473,
-                "page": "MangaFire",
-                "title": "Shed that Skin, Ryugasaki-san!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shed-ryugasaki-sann.kwnzv/"
-            }
-        },
         "Weebcentral": {
             "01j76xye9r88vh03521dpaypmm": {
+                "id": 209780,
                 "identifier": "01j76xye9r88vh03521dpaypmm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE9R88VH03521DPAYPMM.jpg",
                 "malId": 118301,
@@ -106,6 +80,19 @@
                 "title": "Shed that Skin, Ryugasaki-san!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE9R88VH03521DPAYPMM"
+            }
+        },
+        "MangaFire": {
+            "kwnzv": {
+                "id": 222960,
+                "identifier": "kwnzv",
+                "image": "https://static.mangafire.to/ec56/i/0/00/00563adda4b1cbdec0b9396407e714ac.jpg",
+                "malId": 118301,
+                "aniId": 106473,
+                "page": "MangaFire",
+                "title": "Shed that Skin, Ryugasaki-san!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shed-ryugasaki-sann.kwnzv"
             }
         },
         "Comick": {

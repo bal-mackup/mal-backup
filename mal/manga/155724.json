@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aec8d566-464c-40f6-85c5-7947962958f7": {
+                "id": 61239,
                 "identifier": "aec8d566-464c-40f6-85c5-7947962958f7",
                 "image": "https://uploads.mangadex.org/covers/aec8d566-464c-40f6-85c5-7947962958f7/1ea0af4d-93b5-48db-8cf9-897e3f12952e.jpg",
                 "malId": 155724,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/aec8d566-464c-40f6-85c5-7947962958f7"
             }
         },
-        "MangaFire": {
-            "maybe-akira-kun-maybe-akira-chan.xryj3": {
-                "identifier": "maybe-akira-kun-maybe-akira-chan.xryj3",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/604bbf6833ee89f5224f92b514ef886b.jpg",
-                "malId": 155724,
-                "aniId": 136675,
-                "page": "MangaFire",
-                "title": "Maybe Akira-kun, Maybe Akira-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maybe-akira-kun-maybe-akira-chan.xryj3/"
-            }
-        },
         "MangaNato": {
             "manga-kg987941": {
+                "id": 187565,
                 "identifier": "manga-kg987941",
                 "image": "https://avt.mkklcdnv6temp.com/fld/100/j/11-1733286004-nw.webp",
                 "malId": 155724,
@@ -40,6 +30,19 @@
                 "title": "Maybe Akira-Kun, Maybe Akira-Chan",
                 "type": "manga",
                 "url": "https://manganato.com/manga-kg987941"
+            }
+        },
+        "MangaFire": {
+            "xryj3": {
+                "id": 257639,
+                "identifier": "xryj3",
+                "image": "https://static.mangafire.to/842d/i/6/60/604bbf6833ee89f5224f92b514ef886b.jpg",
+                "malId": 155724,
+                "aniId": 136675,
+                "page": "MangaFire",
+                "title": "Maybe Akira-kun, Maybe Akira-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maybe-akira-kun-maybe-akira-chann.xryj3"
             }
         },
         "Comick": {

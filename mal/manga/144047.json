@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "81bd62d6-8805-46b2-8e88-f86135836656": {
+                "id": 93546,
                 "identifier": "81bd62d6-8805-46b2-8e88-f86135836656",
                 "image": "https://uploads.mangadex.org/covers/81bd62d6-8805-46b2-8e88-f86135836656/dd08a8a9-0bba-40d4-953e-a102a29c3588.jpg",
                 "malId": 144047,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/81bd62d6-8805-46b2-8e88-f86135836656"
             }
         },
-        "MangaFire": {
-            "kono-koi-wa-hibana-ga-kieru-shunkan-ni.3r656": {
-                "identifier": "kono-koi-wa-hibana-ga-kieru-shunkan-ni.3r656",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d4e7b72a30755afd30ea915eb7594aa.jpg",
-                "malId": 144047,
-                "aniId": 145110,
-                "page": "MangaFire",
-                "title": "Kono Koi wa, Hibana ga Kieru Shunkan ni",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-koi-wa-hibana-ga-kieru-shunkan-ni.3r656/"
-            }
-        },
         "MangaNato": {
             "manga-xx1000606": {
+                "id": 180630,
                 "identifier": "manga-xx1000606",
                 "image": "https://avt.mkklcdnv6temp.com/fld/75/o/16-1733318722-nw.webp",
                 "malId": 144047,
@@ -40,6 +30,19 @@
                 "title": "Kono Koi Wa, Hibana Ga Kieru Shunkan Ni",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xx1000606"
+            }
+        },
+        "MangaFire": {
+            "3r656": {
+                "id": 259958,
+                "identifier": "3r656",
+                "image": "https://static.mangafire.to/23fa/i/6/6d/6d4e7b72a30755afd30ea915eb7594aa.jpg",
+                "malId": 144047,
+                "aniId": 145110,
+                "page": "MangaFire",
+                "title": "Kono Koi wa, Hibana ga Kieru Shunkan ni",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kono-koi-wa-hibana-ga-kieru-shunkan-nii.3r656"
             }
         },
         "Comick": {

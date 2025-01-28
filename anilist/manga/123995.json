@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e959ee87-cae7-4903-82b3-fa8800bb8ce6": {
+                "id": 39415,
                 "identifier": "e959ee87-cae7-4903-82b3-fa8800bb8ce6",
                 "image": "https://uploads.mangadex.org/covers/e959ee87-cae7-4903-82b3-fa8800bb8ce6/83ef3e21-f268-4d16-89da-91106a1bdaba.jpg",
                 "malId": 147313,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-lady-and-the-beast": {
+                "id": 57518,
                 "identifier": "the-lady-and-the-beast",
                 "image": "https://temp.compsci88.com/cover/The-Lady-and-the-Beast.jpg",
                 "malId": 147313,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jl986568": {
+                "id": 74766,
                 "identifier": "manga-jl986568",
                 "image": "https://avt.mkklcdnv6temp.com/12/b/22-1599926327.jpg",
                 "malId": 147313,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-jl986568"
             }
         },
-        "MangaFire": {
-            "the-lady-and-the-beast.298l2": {
-                "identifier": "the-lady-and-the-beast.298l2",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fa/fa33328c2a9ca243ea804dd0aec0eb38.jpg",
-                "malId": 147313,
-                "aniId": 123995,
-                "page": "MangaFire",
-                "title": "The Lady and the Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-lady-and-the-beast.298l2/"
-            },
-            "the-lady-and-the-beastt.298l2": {
-                "identifier": "the-lady-and-the-beastt.298l2",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fa/fa33328c2a9ca243ea804dd0aec0eb38.jpg",
-                "malId": 147313,
-                "aniId": 123995,
-                "page": "MangaFire",
-                "title": "The Lady and the Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-lady-and-the-beastt.298l2/"
-            }
-        },
         "Weebcentral": {
             "01j76xye0z3g3scdv0qkn09b2t": {
+                "id": 211788,
                 "identifier": "01j76xye0z3g3scdv0qkn09b2t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE0Z3G3SCDV0QKN09B2T.jpg",
                 "malId": 147313,
@@ -74,6 +56,19 @@
                 "title": "The Lady and the Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE0Z3G3SCDV0QKN09B2T"
+            }
+        },
+        "MangaFire": {
+            "298l2": {
+                "id": 229579,
+                "identifier": "298l2",
+                "image": "https://static.mangafire.to/9d19/i/f/fa/fa33328c2a9ca243ea804dd0aec0eb38.jpg",
+                "malId": 147313,
+                "aniId": 123995,
+                "page": "MangaFire",
+                "title": "The Lady and the Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-lady-and-the-beastt.298l2"
             }
         },
         "Comick": {

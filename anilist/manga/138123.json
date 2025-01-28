@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8aca2d28-d11b-4f87-9a1d-a7e847533a22": {
+                "id": 88690,
                 "identifier": "8aca2d28-d11b-4f87-9a1d-a7e847533a22",
                 "image": "https://uploads.mangadex.org/covers/8aca2d28-d11b-4f87-9a1d-a7e847533a22/4407f4b2-1c5b-4899-8bb3-4db58ac23c0f.jpg",
                 "malId": 142433,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oc991385": {
+                "id": 108291,
                 "identifier": "manga-oc991385",
                 "image": "https://avt.mkklcdnv6temp.com/14/j/26-1656321251.jpg",
                 "malId": 142433,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kisaragi-san-wa-gankoukeikei": {
+                "id": 118748,
                 "identifier": "kisaragi-san-wa-gankoukeikei",
                 "image": "https://temp.compsci88.com/cover/Kisaragi-san-wa-Gankoukeikei.jpg",
                 "malId": 142433,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Kisaragi-san-wa-Gankoukeikei"
             }
         },
-        "MangaFire": {
-            "kisaragi-san-wa-gankoukeikei.52p99": {
-                "identifier": "kisaragi-san-wa-gankoukeikei.52p99",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/447e2bc07fe128b7537645a62621e132.jpg",
-                "malId": 142433,
-                "aniId": 138123,
-                "page": "MangaFire",
-                "title": "Kisaragi-san wa Gankoukeikei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kisaragi-san-wa-gankoukeikei.52p99/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfsx19q8170j1n31kb9n": {
+                "id": 213320,
                 "identifier": "01j76xyfsx19q8170j1n31kb9n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFSX19Q8170J1N31KB9N.jpg",
                 "malId": 142433,
@@ -64,6 +56,19 @@
                 "title": "Kisaragi-san wa Gankoukeikei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFSX19Q8170J1N31KB9N"
+            }
+        },
+        "MangaFire": {
+            "52p99": {
+                "id": 259733,
+                "identifier": "52p99",
+                "image": "https://static.mangafire.to/e84e/i/4/44/447e2bc07fe128b7537645a62621e132.jpg",
+                "malId": 142433,
+                "aniId": 138123,
+                "page": "MangaFire",
+                "title": "Kisaragi-san wa Gankoukeikei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kisaragi-san-wa-gankoukeikeii.52p99"
             }
         },
         "Comick": {

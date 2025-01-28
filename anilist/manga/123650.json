@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0856403f-7519-4c2d-ab44-83b5eef48472": {
+                "id": 33398,
                 "identifier": "0856403f-7519-4c2d-ab44-83b5eef48472",
                 "image": "https://uploads.mangadex.org/covers/0856403f-7519-4c2d-ab44-83b5eef48472/ec36999b-d27c-4600-8e7f-2d0f8df4b30b.jpg",
                 "malId": 124518,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-penniless": {
+                "id": 71302,
                 "identifier": "reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-penniless",
                 "image": "https://temp.compsci88.com/cover/Reikos-Style-Despite-Being-Mistaken-for-a-Rich-Villainess-Shes-Actually-Just-Penniless.jpg",
                 "malId": 124518,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hi985191": {
+                "id": 79442,
                 "identifier": "manga-hi985191",
                 "image": "https://avt.mkklcdnv6temp.com/5/k/21-1587428081.jpg",
                 "malId": 124518,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "reiko_no_fuugi_akuyaku_reijou_to_yobarete_imasu_ga_tada_no_binbou_musume_desu": {
+                "id": 122390,
                 "identifier": "reiko_no_fuugi_akuyaku_reijou_to_yobarete_imasu_ga_tada_no_binbou_musume_desu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33651/cover.jpg",
                 "malId": 124518,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/reiko_no_fuugi_akuyaku_reijou_to_yobarete_imasu_ga_tada_no_binbou_musume_desu/"
             }
         },
-        "MangaFire": {
-            "reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-penniless.yynp": {
-                "identifier": "reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-penniless.yynp",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9dba5465db7b3f75c4d146192370fbf4.jpg",
-                "malId": 124518,
-                "aniId": 123650,
-                "page": "MangaFire",
-                "title": "Reiko's Style: Despite Being Mistaken for a Rich Villainess, She's Actually Just Penniless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-penniless.yynp/"
-            },
-            "reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-pennilesss.yynp": {
-                "identifier": "reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-pennilesss.yynp",
-                "image": "https://static.mangafire.to/ddd7/i/9/9d/9dba5465db7b3f75c4d146192370fbf4.jpg",
-                "malId": 124518,
-                "aniId": 123650,
-                "page": "MangaFire",
-                "title": "Reiko's Style: Despite Being Mistaken for a Rich Villainess, She's Actually Just Penniless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-pennilesss.yynp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydw0bz2ayz7zph2c6tnm": {
+                "id": 210543,
                 "identifier": "01j76xydw0bz2ayz7zph2c6tnm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDW0BZ2AYZ7ZPH2C6TNM.jpg",
                 "malId": 124518,
@@ -86,6 +69,19 @@
                 "title": "Reiko's Style: Despite Being Mistaken for a Rich Villainess, She's Actually Just Penniless",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDW0BZ2AYZ7ZPH2C6TNM"
+            }
+        },
+        "MangaFire": {
+            "yynp": {
+                "id": 223389,
+                "identifier": "yynp",
+                "image": "https://static.mangafire.to/ddd7/i/9/9d/9dba5465db7b3f75c4d146192370fbf4.jpg",
+                "malId": 124518,
+                "aniId": 123650,
+                "page": "MangaFire",
+                "title": "Reiko's Style: Despite Being Mistaken for a Rich Villainess, She's Actually Just Penniless",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/reikos-style-despite-being-mistaken-for-a-rich-villainess-shes-actually-just-pennilesss.yynp"
             }
         },
         "Comick": {

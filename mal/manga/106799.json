@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "19465f6a-1c11-4179-891e-68293402b883": {
+                "id": 15905,
                 "identifier": "19465f6a-1c11-4179-891e-68293402b883",
                 "image": "https://uploads.mangadex.org/covers/19465f6a-1c11-4179-891e-68293402b883/c3a8fedf-576f-4b28-ade7-1f21a4779ff2.jpg",
                 "malId": 106799,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "murenase-shiiton-gakuen": {
+                "id": 56394,
                 "identifier": "murenase-shiiton-gakuen",
                 "image": "https://temp.compsci88.com/cover/Murenase-Shiiton-Gakuen.jpg",
                 "malId": 106799,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "murenase_shiiton_gakuen": {
+                "id": 62261,
                 "identifier": "murenase_shiiton_gakuen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20557/cover.jpg",
                 "malId": 106799,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uz971808": {
+                "id": 73410,
                 "identifier": "manga-uz971808",
                 "image": "https://avt.mkklcdnv6temp.com/2/k/14-1583489772.jpg",
                 "malId": 106799,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-uz971808"
             }
         },
-        "MangaFire": {
-            "seton-academy-join-the-pack.m2m77": {
-                "identifier": "seton-academy-join-the-pack.m2m77",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40c2b698dd52d472fe763c46562f5ba5.jpg",
-                "malId": 106799,
-                "aniId": 87382,
-                "page": "MangaFire",
-                "title": "Come Together! to the Seton Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seton-academy-join-the-pack.m2m77/"
-            },
-            "seton-academy-join-the-packk.m2m77": {
-                "identifier": "seton-academy-join-the-packk.m2m77",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40c2b698dd52d472fe763c46562f5ba5.jpg",
-                "malId": 106799,
-                "aniId": 87382,
-                "page": "MangaFire",
-                "title": "Come Together! to the Seton Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seton-academy-join-the-packk.m2m77/"
-            },
-            "m2m77": {
-                "identifier": "m2m77",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40c2b698dd52d472fe763c46562f5ba5.jpg",
-                "malId": 106799,
-                "aniId": 87382,
-                "page": "MangaFire",
-                "title": "Come Together! to the Seton Academy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seton-academy-join-the-packk.m2m77/"
-            }
-        },
         "Weebcentral": {
             "01j76xybthwtsaqd98cs5t2wg0": {
+                "id": 208570,
                 "identifier": "01j76xybthwtsaqd98cs5t2wg0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBTHWTSAQD98CS5T2WG0.jpg",
                 "malId": 106799,
@@ -96,6 +69,19 @@
                 "title": "Murenase! Shiiton Gakuen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBTHWTSAQD98CS5T2WG0"
+            }
+        },
+        "MangaFire": {
+            "m2m77": {
+                "id": 239708,
+                "identifier": "m2m77",
+                "image": "https://static.mangafire.to/919c/i/4/40/40c2b698dd52d472fe763c46562f5ba5.jpg",
+                "malId": 106799,
+                "aniId": 87382,
+                "page": "MangaFire",
+                "title": "Come Together! to the Seton Academy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seton-academy-join-the-packk.m2m77"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "05f282b4-5010-48ff-8729-90059e90de57": {
+                "id": 27842,
                 "identifier": "05f282b4-5010-48ff-8729-90059e90de57",
                 "image": "https://uploads.mangadex.org/covers/05f282b4-5010-48ff-8729-90059e90de57/5022896e-f5d3-4eb7-a12b-ee6bcea8ac3a.jpg",
                 "malId": 122649,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fo983297": {
+                "id": 73242,
                 "identifier": "manga-fo983297",
                 "image": "https://avt.mkklcdnv6temp.com/33/e/19-1583500393.jpg",
                 "malId": 122649,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-fo983297"
             },
             "manga-kx988206": {
+                "id": 78773,
                 "identifier": "manga-kx988206",
                 "image": "https://avt.mkklcdnv6temp.com/29/d/23-1613883119.jpg",
                 "malId": 122649,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "mamahaha_no_tsurego_ga_moto_kanodatta": {
+                "id": 78666,
                 "identifier": "mamahaha_no_tsurego_ga_moto_kanodatta",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30502/cover.jpg",
                 "malId": 122649,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "mamahaha-no-tsurego-ga-moto-kanodatta": {
+                "id": 86159,
                 "identifier": "mamahaha-no-tsurego-ga-moto-kanodatta",
                 "image": "https://temp.compsci88.com/cover/Mamahaha-no-Tsurego-ga-Moto-Kanodatta.jpg",
                 "malId": 122649,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Mamahaha-no-Tsurego-ga-Moto-Kanodatta"
             }
         },
-        "MangaFire": {
-            "mamahaha-no-tsurego-ga-moto-kanodatta.wr7o": {
-                "identifier": "mamahaha-no-tsurego-ga-moto-kanodatta.wr7o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/502d5acdf2a46d263a5e7ebf8883bf56.jpg",
-                "malId": 122649,
-                "aniId": 110342,
-                "page": "MangaFire",
-                "title": "My Stepmom's Daughter Was My Ex-Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mamahaha-no-tsurego-ga-moto-kanodatta.wr7o/"
-            },
-            "mamahaha-no-tsurego-ga-moto-kanodattaa.wr7o": {
-                "identifier": "mamahaha-no-tsurego-ga-moto-kanodattaa.wr7o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/502d5acdf2a46d263a5e7ebf8883bf56.jpg",
-                "malId": 122649,
-                "aniId": 110342,
-                "page": "MangaFire",
-                "title": "My Stepmom's Daughter Was My Ex-Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mamahaha-no-tsurego-ga-moto-kanodattaa.wr7o/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf09vsca4rxy3b8tha0t": {
+                "id": 210803,
                 "identifier": "01j76xyf09vsca4rxy3b8tha0t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF09VSCA4RXY3B8THA0T.jpg",
                 "malId": 122649,
@@ -96,6 +80,19 @@
                 "title": "Mamahaha no Tsurego ga Moto Kanodatta",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF09VSCA4RXY3B8THA0T"
+            }
+        },
+        "MangaFire": {
+            "wr7o": {
+                "id": 225046,
+                "identifier": "wr7o",
+                "image": "https://static.mangafire.to/dfef/i/5/50/502d5acdf2a46d263a5e7ebf8883bf56.jpg",
+                "malId": 122649,
+                "aniId": 110342,
+                "page": "MangaFire",
+                "title": "My Stepmom's Daughter Was My Ex-Girlfriend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mamahaha-no-tsurego-ga-moto-kanodattaa.wr7o"
             }
         },
         "Comick": {

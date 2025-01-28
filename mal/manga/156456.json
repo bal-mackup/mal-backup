@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fbb7a78b-3b02-44af-a992-99574cfea9c3": {
+                "id": 116890,
                 "identifier": "fbb7a78b-3b02-44af-a992-99574cfea9c3",
                 "image": "https://uploads.mangadex.org/covers/fbb7a78b-3b02-44af-a992-99574cfea9c3/59b07d34-4f10-4099-bec2-2019b9ddcb63.jpg",
                 "malId": 156456,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "crescent-moon-marching": {
+                "id": 159527,
                 "identifier": "crescent-moon-marching",
                 "image": "https://temp.compsci88.com/cover/Crescent-Moon-Marching.jpg",
                 "malId": 156456,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-rp995124": {
+                "id": 164865,
                 "identifier": "manga-rp995124",
                 "image": "https://avt.mkklcdnv6temp.com/fld/66/h/14-1733304559-nw.webp",
                 "malId": 156456,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-rp995124"
             }
         },
-        "MangaFire": {
-            "mikazuki-march.vv952": {
-                "identifier": "mikazuki-march.vv952",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a393768e4717907c05d0e559cf00764e.jpg",
-                "malId": 156456,
-                "aniId": 122141,
-                "page": "MangaFire",
-                "title": "Mikazuki March",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikazuki-march.vv952/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg6vrherejeb85385p02": {
+                "id": 207427,
                 "identifier": "01j76xyg6vrherejeb85385p02",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6VRHEREJEB85385P02.jpg",
                 "malId": 156456,
@@ -64,6 +56,19 @@
                 "title": "Crescent Moon Marching",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6VRHEREJEB85385P02"
+            }
+        },
+        "MangaFire": {
+            "vv952": {
+                "id": 238778,
+                "identifier": "vv952",
+                "image": "https://static.mangafire.to/8cb5/i/a/a3/a393768e4717907c05d0e559cf00764e.jpg",
+                "malId": 156456,
+                "aniId": 122141,
+                "page": "MangaFire",
+                "title": "Mikazuki March",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mikazuki-marchh.vv952"
             }
         },
         "Comick": {

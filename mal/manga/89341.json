@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "31216a23-146f-462b-a575-70a617ebc9e3": {
+                "id": 16401,
                 "identifier": "31216a23-146f-462b-a575-70a617ebc9e3",
                 "image": "https://uploads.mangadex.org/covers/31216a23-146f-462b-a575-70a617ebc9e3/2c561233-b73b-4335-af0c-e5a14e7c9d90.jpg",
                 "malId": 89341,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/31216a23-146f-462b-a575-70a617ebc9e3"
             }
         },
-        "MangaFire": {
-            "nanairo-kakumei.ll3r3": {
-                "identifier": "nanairo-kakumei.ll3r3",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e717df34089e5632314317e06e4cc3fa.jpg",
-                "malId": 89341,
-                "aniId": 87359,
-                "page": "MangaFire",
-                "title": "Nanairo Kakumei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanairo-kakumei.ll3r3/"
-            },
-            "ll3r3": {
-                "identifier": "ll3r3",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e717df34089e5632314317e06e4cc3fa.jpg",
-                "malId": 89341,
-                "aniId": 87359,
-                "page": "MangaFire",
-                "title": "Nanairo Kakumei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanairo-kakumei.ll3r3/"
-            }
-        },
         "MangaNato": {
             "manga-vp972772": {
+                "id": 198217,
                 "identifier": "manga-vp972772",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/u/7-1732786384-nw.webp",
                 "malId": 89341,
@@ -50,6 +30,19 @@
                 "title": "Nanairo Kakumei",
                 "type": "manga",
                 "url": "https://manganato.com/manga-vp972772"
+            }
+        },
+        "MangaFire": {
+            "ll3r3": {
+                "id": 254510,
+                "identifier": "ll3r3",
+                "image": "https://static.mangafire.to/a6bd/i/e/e7/e717df34089e5632314317e06e4cc3fa.jpg",
+                "malId": 89341,
+                "aniId": 87359,
+                "page": "MangaFire",
+                "title": "Nanairo Kakumei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nanairo-kakumeii.ll3r3"
             }
         },
         "Comick": {

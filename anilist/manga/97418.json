@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb393058-0eb1-4958-b46c-eb71de753d35": {
+                "id": 16023,
                 "identifier": "bb393058-0eb1-4958-b46c-eb71de753d35",
                 "image": "https://uploads.mangadex.org/covers/bb393058-0eb1-4958-b46c-eb71de753d35/b07b924c-86fd-4054-8428-df9878ccd9e0.jpg",
                 "malId": 99678,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "asobi-asobase": {
+                "id": 55324,
                 "identifier": "asobi-asobase",
                 "image": "https://temp.compsci88.com/cover/Asobi-Asobase.jpg",
                 "malId": 99678,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ug971963": {
+                "id": 72803,
                 "identifier": "manga-ug971963",
                 "image": "https://avt.mkklcdnv6temp.com/5/e/14-1583489894.jpg",
                 "malId": 99678,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "asobi_asobase": {
+                "id": 74219,
                 "identifier": "asobi_asobase",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20729/cover.jpg",
                 "malId": 99678,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/asobi_asobase/"
             }
         },
-        "MangaFire": {
-            "asobi-asobase.52o4q": {
-                "identifier": "asobi-asobase.52o4q",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f29e9fbe6e82fa65535ec30686aec09a.jpg",
-                "malId": 99678,
-                "aniId": 97418,
-                "page": "MangaFire",
-                "title": "Asobi Asobase",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asobi-asobase.52o4q/"
-            },
-            "asobi-asobasee.52o4q": {
-                "identifier": "asobi-asobasee.52o4q",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f29e9fbe6e82fa65535ec30686aec09a.jpg",
-                "malId": 99678,
-                "aniId": 97418,
-                "page": "MangaFire",
-                "title": "Asobi Asobase",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asobi-asobasee.52o4q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd2eeznpmd2203hnym0e": {
+                "id": 207064,
                 "identifier": "01j76xyd2eeznpmd2203hnym0e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD2EEZNPMD2203HNYM0E.jpg",
                 "malId": 99678,
@@ -86,6 +69,19 @@
                 "title": "Asobi Asobase",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD2EEZNPMD2203HNYM0E"
+            }
+        },
+        "MangaFire": {
+            "52o4q": {
+                "id": 226363,
+                "identifier": "52o4q",
+                "image": "https://static.mangafire.to/8b98/i/f/f2/f29e9fbe6e82fa65535ec30686aec09a.jpg",
+                "malId": 99678,
+                "aniId": 97418,
+                "page": "MangaFire",
+                "title": "Asobi Asobase",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/asobi-asobasee.52o4q"
             }
         },
         "Comick": {

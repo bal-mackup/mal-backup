@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "514a0758-37c9-405f-9776-97e29e18ce77": {
+                "id": 34206,
                 "identifier": "514a0758-37c9-405f-9776-97e29e18ce77",
                 "image": "https://uploads.mangadex.org/covers/514a0758-37c9-405f-9776-97e29e18ce77/f901d6a4-bd7b-4b01-b00b-ec9e524abe60.jpg",
                 "malId": 136761,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenshoku-no-shinden-o-hirakimashita": {
+                "id": 67703,
                 "identifier": "tenshoku-no-shinden-o-hirakimashita",
                 "image": "https://temp.compsci88.com/cover/Tenshoku-no-Shinden-o-Hirakimashita.jpg",
                 "malId": 136761,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-im985495": {
+                "id": 73951,
                 "identifier": "manga-im985495",
                 "image": "https://avt.mkklcdnv6temp.com/18/g/21-1590323356.jpg",
                 "malId": 136761,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-im985495"
             }
         },
-        "MangaFire": {
-            "tenshoku-no-shinden-o-hirakimashita.rl40q": {
-                "identifier": "tenshoku-no-shinden-o-hirakimashita.rl40q",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/8686a67cfa7b3b2806ba11f0ffe3b785.jpg",
-                "malId": 136761,
-                "aniId": 125101,
-                "page": "MangaFire",
-                "title": "Tenshoku no Shinden o Hirakimashita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenshoku-no-shinden-o-hirakimashita.rl40q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyds63y35c058eseyyk9m": {
+                "id": 210043,
                 "identifier": "01j76xyds63y35c058eseyyk9m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDS63Y35C058ESEYYK9M.jpg",
                 "malId": 136761,
@@ -64,6 +56,19 @@
                 "title": "Tenshoku no Shinden wo Hirakimashita",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDS63Y35C058ESEYYK9M"
+            }
+        },
+        "MangaFire": {
+            "rl40q": {
+                "id": 249039,
+                "identifier": "rl40q",
+                "image": "https://static.mangafire.to/87bb/i/8/86/8686a67cfa7b3b2806ba11f0ffe3b785.jpg",
+                "malId": 136761,
+                "aniId": 125101,
+                "page": "MangaFire",
+                "title": "Tenshoku no Shinden o Hirakimashita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenshoku-no-shinden-o-hirakimashitaa.rl40q"
             }
         },
         "Comick": {

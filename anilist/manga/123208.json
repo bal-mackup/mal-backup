@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "61ce9e29-b35e-47fa-a98a-ecc2ac24fe07": {
+                "id": 57348,
                 "identifier": "61ce9e29-b35e-47fa-a98a-ecc2ac24fe07",
                 "image": "https://uploads.mangadex.org/covers/61ce9e29-b35e-47fa-a98a-ecc2ac24fe07/b89593f6-0954-4dc3-a161-542edb6d8743.jpg",
                 "malId": 137755,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/61ce9e29-b35e-47fa-a98a-ecc2ac24fe07"
             }
         },
-        "MangaFire": {
-            "practiced-liar.z14pp": {
-                "identifier": "practiced-liar.z14pp",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4981f0af031d95b823c21dbc245ded4.jpg",
-                "malId": 137755,
-                "aniId": 123208,
-                "page": "MangaFire",
-                "title": "Practiced Liar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/practiced-liar.z14pp/"
-            }
-        },
         "MangaFox": {
             "practiced_liar": {
+                "id": 174502,
                 "identifier": "practiced_liar",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37140/cover.jpg",
                 "malId": 137755,
@@ -40,6 +30,19 @@
                 "title": "Practiced Liar",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/practiced_liar/"
+            }
+        },
+        "MangaFire": {
+            "z14pp": {
+                "id": 241728,
+                "identifier": "z14pp",
+                "image": "https://static.mangafire.to/f8be/i/c/c4/c4981f0af031d95b823c21dbc245ded4.jpg",
+                "malId": 137755,
+                "aniId": 123208,
+                "page": "MangaFire",
+                "title": "Practiced Liar",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/practiced-liarr.z14pp"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "29d93e89-8f63-4713-a8be-4ac58ffcd88b": {
+                "id": 18089,
                 "identifier": "29d93e89-8f63-4713-a8be-4ac58ffcd88b",
                 "image": "https://uploads.mangadex.org/covers/29d93e89-8f63-4713-a8be-4ac58ffcd88b/aff596ee-6733-4e83-b38f-b47fc42690cb.jpg",
                 "malId": 108639,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/29d93e89-8f63-4713-a8be-4ac58ffcd88b"
             },
             "15ced587-ec45-48b1-96d7-583b464db6f6": {
+                "id": 170620,
                 "identifier": "15ced587-ec45-48b1-96d7-583b464db6f6",
                 "image": "https://uploads.mangadex.org/covers/15ced587-ec45-48b1-96d7-583b464db6f6/d2a6624e-8d62-41b0-a917-9a8132c024d7.jpg",
                 "malId": 108639,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-zx977306": {
+                "id": 76409,
                 "identifier": "manga-zx977306",
                 "image": "https://avt.mkklcdnv6temp.com/40/f/15-1583493111.jpg",
                 "malId": 108639,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "tsuiraku_jk_to_haijin_kyoushi": {
+                "id": 82325,
                 "identifier": "tsuiraku_jk_to_haijin_kyoushi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26113/cover.jpg",
                 "malId": 108639,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "tsuiraku-jk-to-haijin-kyoushi": {
+                "id": 90569,
                 "identifier": "tsuiraku-jk-to-haijin-kyoushi",
                 "image": "https://temp.compsci88.com/cover/Tsuiraku-JK-to-Haijin-Kyoushi.jpg",
                 "malId": 108639,
@@ -64,40 +69,9 @@
                 "url": "https://mangasee123.com/manga/Tsuiraku-JK-to-Haijin-Kyoushi"
             }
         },
-        "MangaFire": {
-            "tsuiraku-jk-to-haijin-kyoushi.02mm7": {
-                "identifier": "tsuiraku-jk-to-haijin-kyoushi.02mm7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4cffe2d66efe30e643182b70b6675525.jpg",
-                "malId": 108639,
-                "aniId": 99737,
-                "page": "MangaFire",
-                "title": "Tsuiraku JK to Haijin Kyoushi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuiraku-jk-to-haijin-kyoushi.02mm7/"
-            },
-            "tsuiraku-jk-to-haijin-kyoushii.02mm7": {
-                "identifier": "tsuiraku-jk-to-haijin-kyoushii.02mm7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4cffe2d66efe30e643182b70b6675525.jpg",
-                "malId": 108639,
-                "aniId": 99737,
-                "page": "MangaFire",
-                "title": "Tsuiraku JK to Haijin Kyoushi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuiraku-jk-to-haijin-kyoushii.02mm7/"
-            },
-            "02mm7": {
-                "identifier": "02mm7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4cffe2d66efe30e643182b70b6675525.jpg",
-                "malId": 108639,
-                "aniId": 99737,
-                "page": "MangaFire",
-                "title": "Tsuiraku JK to Haijin Kyoushi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuiraku-jk-to-haijin-kyoushii.02mm7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5xtavgg6ny9rt1pbrt": {
+                "id": 212633,
                 "identifier": "01j76xyf5xtavgg6ny9rt1pbrt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5XTAVGG6NY9RT1PBRT.jpg",
                 "malId": 108639,
@@ -106,6 +80,19 @@
                 "title": "Tsuiraku JK to Haijin Kyoushi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF5XTAVGG6NY9RT1PBRT"
+            }
+        },
+        "MangaFire": {
+            "02mm7": {
+                "id": 225270,
+                "identifier": "02mm7",
+                "image": "https://static.mangafire.to/e39d/i/4/4c/4cffe2d66efe30e643182b70b6675525.jpg",
+                "malId": 108639,
+                "aniId": 99737,
+                "page": "MangaFire",
+                "title": "Tsuiraku JK to Haijin Kyoushi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsuiraku-jk-to-haijin-kyoushii.02mm7"
             }
         },
         "Comick": {

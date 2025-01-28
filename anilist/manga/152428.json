@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ec825f93-b2fa-4f5c-89a9-80bfb6141d06": {
+                "id": 109323,
                 "identifier": "ec825f93-b2fa-4f5c-89a9-80bfb6141d06",
                 "image": "https://uploads.mangadex.org/covers/ec825f93-b2fa-4f5c-89a9-80bfb6141d06/5fbd4fd8-e46c-4f96-b4d7-26e238bd62c0.jpg",
                 "malId": 151873,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oc991611": {
+                "id": 109700,
                 "identifier": "manga-oc991611",
                 "image": "https://avt.mkklcdnv6temp.com/23/w/26-1657770061.jpg",
                 "malId": 151873,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-tyrants-translator": {
+                "id": 128632,
                 "identifier": "the-tyrants-translator",
                 "image": "https://temp.compsci88.com/cover/The-Tyrants-Translator.jpg",
                 "malId": 151873,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Tyrants-Translator"
             }
         },
-        "MangaFire": {
-            "i-became-the-tyrants-translator.mqm57": {
-                "identifier": "i-became-the-tyrants-translator.mqm57",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/caede0511c2fc188cd8894f5027d979f.jpg",
-                "malId": 151873,
-                "aniId": 152428,
-                "page": "MangaFire",
-                "title": "The Tyrant's Translator",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-became-the-tyrants-translator.mqm57/"
-            },
-            "i-became-the-tyrants-translatorr.mqm57": {
-                "identifier": "i-became-the-tyrants-translatorr.mqm57",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/caede0511c2fc188cd8894f5027d979f.jpg",
-                "malId": 151873,
-                "aniId": 152428,
-                "page": "MangaFire",
-                "title": "The Tyrant's Translator",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-became-the-tyrants-translatorr.mqm57/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1a0pdvz9tqn4yynrj8": {
+                "id": 210106,
                 "identifier": "01j76xyg1a0pdvz9tqn4yynrj8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1A0PDVZ9TQN4YYNRJ8.jpg",
                 "malId": 151873,
@@ -74,6 +56,19 @@
                 "title": "The Tyrant's Translator",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1A0PDVZ9TQN4YYNRJ8"
+            }
+        },
+        "MangaFire": {
+            "mqm57": {
+                "id": 244954,
+                "identifier": "mqm57",
+                "image": "https://static.mangafire.to/3cc3/i/c/ca/caede0511c2fc188cd8894f5027d979f.jpg",
+                "malId": 151873,
+                "aniId": 152428,
+                "page": "MangaFire",
+                "title": "The Tyrant's Translator",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-became-the-tyrants-translatorr.mqm57"
             }
         }
     },

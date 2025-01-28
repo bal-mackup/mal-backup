@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "57990299-ae46-47d9-ae0f-44aba726ab13": {
+                "id": 18678,
                 "identifier": "57990299-ae46-47d9-ae0f-44aba726ab13",
                 "image": "https://uploads.mangadex.org/covers/57990299-ae46-47d9-ae0f-44aba726ab13/82b23f0e-0dbf-4ffd-a42d-9d7987308081.jpg",
                 "malId": 109609,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tomogui-kyoushitsu": {
+                "id": 67412,
                 "identifier": "tomogui-kyoushitsu",
                 "image": "https://temp.compsci88.com/cover/Tomogui-Kyoushitsu.jpg",
                 "malId": 109609,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tomogui_kyoushitsu": {
+                "id": 71807,
                 "identifier": "tomogui_kyoushitsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27254/cover.jpg",
                 "malId": 109609,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bd979086": {
+                "id": 82652,
                 "identifier": "manga-bd979086",
                 "image": "https://avt.mkklcdnv6temp.com/28/h/16-1583494485.jpg",
                 "malId": 109609,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-bd979086"
             }
         },
-        "MangaFire": {
-            "the-friends-eater-classroom.52xy0": {
-                "identifier": "the-friends-eater-classroom.52xy0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/1571a3264ed59c688224e2d167bec4d6.jpg",
-                "malId": 109609,
-                "aniId": 101223,
-                "page": "MangaFire",
-                "title": "The Friends-Eater Classroom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-friends-eater-classroom.52xy0/"
-            },
-            "the-friends-eater-classroomm.52xy0": {
-                "identifier": "the-friends-eater-classroomm.52xy0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/1571a3264ed59c688224e2d167bec4d6.jpg",
-                "malId": 109609,
-                "aniId": 101223,
-                "page": "MangaFire",
-                "title": "The Friends-Eater Classroom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-friends-eater-classroomm.52xy0/"
-            }
-        },
         "Weebcentral": {
             "01j76xychcqqvxdjc5pk1kz61q": {
+                "id": 208860,
                 "identifier": "01j76xychcqqvxdjc5pk1kz61q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCHCQQVXDJC5PK1KZ61Q.jpg",
                 "malId": 109609,
@@ -86,6 +69,19 @@
                 "title": "Tomogui Kyoushitsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCHCQQVXDJC5PK1KZ61Q"
+            }
+        },
+        "MangaFire": {
+            "52xy0": {
+                "id": 244813,
+                "identifier": "52xy0",
+                "image": "https://static.mangafire.to/c6ed/i/1/15/1571a3264ed59c688224e2d167bec4d6.jpg",
+                "malId": 109609,
+                "aniId": 101223,
+                "page": "MangaFire",
+                "title": "The Friends-Eater Classroom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-friends-eater-classroomm.52xy0"
             }
         },
         "Comick": {

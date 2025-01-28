@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab648ff6-ccc3-4662-b9fd-1d4624f015fd": {
+                "id": 35200,
                 "identifier": "ab648ff6-ccc3-4662-b9fd-1d4624f015fd",
                 "image": "https://uploads.mangadex.org/covers/ab648ff6-ccc3-4662-b9fd-1d4624f015fd/a8bd65e5-3d30-42b7-8980-6116fc05a686.jpg",
                 "malId": 151106,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/ab648ff6-ccc3-4662-b9fd-1d4624f015fd"
             }
         },
-        "MangaFire": {
-            "golden-guy.52m2v": {
-                "identifier": "golden-guy.52m2v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/92/92b06768f846f4bdc25409b7376636eb.jpg",
-                "malId": 151106,
-                "aniId": 142279,
-                "page": "MangaFire",
-                "title": "Golden Guy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/golden-guy.52m2v/"
-            }
-        },
         "MangaNato": {
             "manga-yx1002232": {
+                "id": 190021,
                 "identifier": "manga-yx1002232",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/w/17-1733323449-nw.webp",
                 "malId": 151106,
@@ -40,6 +30,19 @@
                 "title": "Golden Guy",
                 "type": "manga",
                 "url": "https://manganato.com/manga-yx1002232"
+            }
+        },
+        "MangaFire": {
+            "52m2v": {
+                "id": 259632,
+                "identifier": "52m2v",
+                "image": "https://static.mangafire.to/904c/i/9/92/92b06768f846f4bdc25409b7376636eb.jpg",
+                "malId": 151106,
+                "aniId": 142279,
+                "page": "MangaFire",
+                "title": "Golden Guy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/golden-guyy.52m2v"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "im-a-wolf-but-my-boss-is-a-sheep": {
+                "id": 96931,
                 "identifier": "im-a-wolf-but-my-boss-is-a-sheep",
                 "image": "https://temp.compsci88.com/cover/Im-a-Wolf-but-My-Boss-is-a-Sheep.jpg",
                 "malId": 138319,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "7ab01c6d-ab1b-4a6a-8ed3-e08d47868476": {
+                "id": 105680,
                 "identifier": "7ab01c6d-ab1b-4a6a-8ed3-e08d47868476",
                 "image": "https://uploads.mangadex.org/covers/7ab01c6d-ab1b-4a6a-8ed3-e08d47868476/e03460e2-c540-4260-9a29-8bfa949c6f35.jpg",
                 "malId": 138319,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/7ab01c6d-ab1b-4a6a-8ed3-e08d47868476"
             }
         },
-        "MangaFire": {
-            "ookami-buka-kun-to-hitsuji-joushi-san.w5yw6": {
-                "identifier": "ookami-buka-kun-to-hitsuji-joushi-san.w5yw6",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9eb6d776fdf88101e5de4814aa461a81.jpg",
-                "malId": 138319,
-                "aniId": 124462,
-                "page": "MangaFire",
-                "title": "I'm a Wolf, but My Boss Is a Sheep!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ookami-buka-kun-to-hitsuji-joushi-san.w5yw6/"
-            },
-            "ookami-buka-kun-to-hitsuji-joushi-sann.w5yw6": {
-                "identifier": "ookami-buka-kun-to-hitsuji-joushi-sann.w5yw6",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9eb6d776fdf88101e5de4814aa461a81.jpg",
-                "malId": 138319,
-                "aniId": 124462,
-                "page": "MangaFire",
-                "title": "I'm a Wolf, but My Boss Is a Sheep!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ookami-buka-kun-to-hitsuji-joushi-sann.w5yw6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfb12n8gepr13kwjfhb2": {
+                "id": 211424,
                 "identifier": "01j76xyfb12n8gepr13kwjfhb2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFB12N8GEPR13KWJFHB2.jpg",
                 "malId": 138319,
@@ -62,6 +43,19 @@
                 "title": "I'm a Wolf, but My Boss is a Sheep",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFB12N8GEPR13KWJFHB2"
+            }
+        },
+        "MangaFire": {
+            "w5yw6": {
+                "id": 225467,
+                "identifier": "w5yw6",
+                "image": "https://static.mangafire.to/d692/i/9/9e/9eb6d776fdf88101e5de4814aa461a81.jpg",
+                "malId": 138319,
+                "aniId": 124462,
+                "page": "MangaFire",
+                "title": "I'm a Wolf, but My Boss Is a Sheep!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ookami-buka-kun-to-hitsuji-joushi-sann.w5yw6"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lu989277": {
+                "id": 81395,
                 "identifier": "manga-lu989277",
                 "image": "https://avt.mkklcdnv6temp.com/23/w/24-1625825833.jpg",
                 "malId": 148139,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "to-not-die": {
+                "id": 92837,
                 "identifier": "to-not-die",
                 "image": "https://temp.compsci88.com/cover/To-Not-Die.jpg",
                 "malId": 148139,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "to_not_die": {
+                "id": 96821,
                 "identifier": "to_not_die",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38846/cover.jpg",
                 "malId": 148139,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "c00dcb59-bb29-4f68-b600-40954366ca1a": {
+                "id": 104697,
                 "identifier": "c00dcb59-bb29-4f68-b600-40954366ca1a",
                 "image": "https://uploads.mangadex.org/covers/c00dcb59-bb29-4f68-b600-40954366ca1a/cf20d1b0-662f-44e5-978e-dfafadd76402.jpg",
                 "malId": 148139,
@@ -54,20 +58,9 @@
                 "url": "https://mangadex.org/title/c00dcb59-bb29-4f68-b600-40954366ca1a"
             }
         },
-        "MangaFire": {
-            "to-not-diee.kn34": {
-                "identifier": "to-not-diee.kn34",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/7011af083a22eb4e3c55b704bf4cdaa4.jpg",
-                "malId": 148139,
-                "aniId": 136099,
-                "page": "MangaFire",
-                "title": "To Not Die",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/to-not-diee.kn34/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf7d2mzc1ezjdxzyckf1": {
+                "id": 211484,
                 "identifier": "01j76xyf7d2mzc1ezjdxzyckf1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF7D2MZC1EZJDXZYCKF1.jpg",
                 "malId": 148139,
@@ -76,6 +69,19 @@
                 "title": "To Not Die",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF7D2MZC1EZJDXZYCKF1"
+            }
+        },
+        "MangaFire": {
+            "kn34": {
+                "id": 226154,
+                "identifier": "kn34",
+                "image": "https://static.mangafire.to/7a10/i/7/70/7011af083a22eb4e3c55b704bf4cdaa4.jpg",
+                "malId": 148139,
+                "aniId": 136099,
+                "page": "MangaFire",
+                "title": "To Not Die",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/to-not-diee.kn34"
             }
         },
         "Comick": {

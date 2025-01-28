@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2192f823-cdeb-43a0-b42b-c876874f036a": {
+                "id": 36320,
                 "identifier": "2192f823-cdeb-43a0-b42b-c876874f036a",
                 "image": "https://uploads.mangadex.org/covers/2192f823-cdeb-43a0-b42b-c876874f036a/f263fefe-8c05-40fc-a75b-a7a2e21494cf.jpg",
                 "malId": 127479,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ix985680": {
+                "id": 73939,
                 "identifier": "manga-ix985680",
                 "image": "https://avt.mkklcdnv6temp.com/26/j/21-1591891299.jpg",
                 "malId": 127479,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kijima_san_to_yamada_san": {
+                "id": 87345,
                 "identifier": "kijima_san_to_yamada_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34261/cover.jpg",
                 "malId": 127479,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/kijima_san_to_yamada_san/"
             }
         },
-        "MangaFire": {
-            "kijima-san-yamada-san.528vm": {
-                "identifier": "kijima-san-yamada-san.528vm",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1557bc13811a39fa747318e39155126.jpg",
-                "malId": 127479,
-                "aniId": 119397,
-                "page": "MangaFire",
-                "title": "Kijima-san & Yamada-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kijima-san-yamada-san.528vm/"
-            },
-            "kijima-san-yamada-sann.528vm": {
-                "identifier": "kijima-san-yamada-sann.528vm",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1557bc13811a39fa747318e39155126.jpg",
-                "malId": 127479,
-                "aniId": 119397,
-                "page": "MangaFire",
-                "title": "Kijima-san & Yamada-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kijima-san-yamada-sann.528vm/"
-            }
-        },
         "MangaSee": {
             "kijima-san-yamadasan": {
+                "id": 161911,
                 "identifier": "kijima-san-yamadasan",
                 "image": "https://temp.compsci88.com/cover/Kijima-san-Yamadasan.jpg",
                 "malId": 127479,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg9yph37w3gkzgj9cs7k": {
+                "id": 210051,
                 "identifier": "01j76xyg9yph37w3gkzgj9cs7k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG9YPH37W3GKZGJ9CS7K.jpg",
                 "malId": 127479,
@@ -86,6 +69,19 @@
                 "title": "Kijima-san & Yamada-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG9YPH37W3GKZGJ9CS7K"
+            }
+        },
+        "MangaFire": {
+            "528vm": {
+                "id": 237491,
+                "identifier": "528vm",
+                "image": "https://static.mangafire.to/3f37/i/d/d1/d1557bc13811a39fa747318e39155126.jpg",
+                "malId": 127479,
+                "aniId": 119397,
+                "page": "MangaFire",
+                "title": "Kijima-san & Yamada-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kijima-san-yamada-sann.528vm"
             }
         },
         "Comick": {

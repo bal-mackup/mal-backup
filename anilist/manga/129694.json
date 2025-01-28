@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7": {
+                "id": 62484,
                 "identifier": "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
                 "image": "https://uploads.mangadex.org/covers/99b8eaeb-9041-4bfd-8eb7-d72addc88eb7/19eb17db-32be-4d10-8b27-ccee53e0c20f.jpg",
                 "malId": 133696,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-le988361": {
+                "id": 73208,
                 "identifier": "manga-le988361",
                 "image": "https://avt.mkklcdnv6temp.com/35/r/23-1614573078.jpg",
                 "malId": 133696,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "goddess-caf-terrace": {
+                "id": 78226,
                 "identifier": "goddess-caf-terrace",
                 "image": "https://temp.compsci88.com/cover/Goddess-Caf-Terrace.jpg",
                 "malId": 133696,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "goddess_cafe_terrace": {
+                "id": 82825,
                 "identifier": "goddess_cafe_terrace",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38886/cover.jpg",
                 "malId": 133696,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/goddess_cafe_terrace/"
             }
         },
-        "MangaFire": {
-            "the-cafe-terrace-and-its-goddesses.jv9x2": {
-                "identifier": "the-cafe-terrace-and-its-goddesses.jv9x2",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/6134907bf5ffe542cf4560526851bf2b.jpg",
-                "malId": 133696,
-                "aniId": 129694,
-                "page": "MangaFire",
-                "title": "The Café Terrace and Its Goddesses",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-cafe-terrace-and-its-goddesses.jv9x2/"
-            },
-            "the-cafe-terrace-and-its-goddessess.jv9x2": {
-                "identifier": "the-cafe-terrace-and-its-goddessess.jv9x2",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/6134907bf5ffe542cf4560526851bf2b.jpg",
-                "malId": 133696,
-                "aniId": 129694,
-                "page": "MangaFire",
-                "title": "The Café Terrace and Its Goddesses",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-cafe-terrace-and-its-goddessess.jv9x2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyetf5s86c66ktp35hnhc": {
+                "id": 210890,
                 "identifier": "01j76xyetf5s86c66ktp35hnhc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYETF5S86C66KTP35HNHC.jpg",
                 "malId": 133696,
@@ -86,6 +69,19 @@
                 "title": "The Café Terrace and its Goddesses",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYETF5S86C66KTP35HNHC"
+            }
+        },
+        "MangaFire": {
+            "jv9x2": {
+                "id": 228370,
+                "identifier": "jv9x2",
+                "image": "https://static.mangafire.to/cd44/i/6/61/6134907bf5ffe542cf4560526851bf2b.jpg",
+                "malId": 133696,
+                "aniId": 129694,
+                "page": "MangaFire",
+                "title": "The Café Terrace and Its Goddesses",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-cafe-terrace-and-its-goddessess.jv9x2"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b23244c4-7d4f-4f14-a94f-fc6df30905b6": {
+                "id": 93626,
                 "identifier": "b23244c4-7d4f-4f14-a94f-fc6df30905b6",
                 "image": "https://uploads.mangadex.org/covers/b23244c4-7d4f-4f14-a94f-fc6df30905b6/ecd84b44-db70-49ad-8c6b-073005b805e3.jpg",
                 "malId": 149514,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oa992057": {
+                "id": 113083,
                 "identifier": "manga-oa992057",
                 "image": "https://avt.mkklcdnv6temp.com/42/e/26-1661353568.jpg",
                 "malId": 149514,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-oa992057"
             }
         },
-        "MangaFire": {
-            "tokyo-neon-scandal.w1x0o": {
-                "identifier": "tokyo-neon-scandal.w1x0o",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/412a531ec5c1107410e320bc1f7d0f90.jpg",
-                "malId": 149514,
-                "aniId": 137921,
-                "page": "MangaFire",
-                "title": "Tokyo Neon Scandal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-neon-scandal.w1x0o/"
-            }
-        },
         "MangaFox": {
             "tokyo_neon_scandal": {
+                "id": 165401,
                 "identifier": "tokyo_neon_scandal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45108/cover.jpg",
                 "malId": 149514,
@@ -52,6 +43,19 @@
                 "title": "Tokyo Neon Scandal",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tokyo_neon_scandal/"
+            }
+        },
+        "MangaFire": {
+            "w1x0o": {
+                "id": 244583,
+                "identifier": "w1x0o",
+                "image": "https://static.mangafire.to/de38/i/4/41/412a531ec5c1107410e320bc1f7d0f90.jpg",
+                "malId": 149514,
+                "aniId": 137921,
+                "page": "MangaFire",
+                "title": "Tokyo Neon Scandal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-neon-scandall.w1x0o"
             }
         },
         "Comick": {

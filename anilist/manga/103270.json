@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b78d80df-66c8-4b3e-9033-5b71a4b6ec25": {
+                "id": 17151,
                 "identifier": "b78d80df-66c8-4b3e-9033-5b71a4b6ec25",
                 "image": "https://uploads.mangadex.org/covers/b78d80df-66c8-4b3e-9033-5b71a4b6ec25/108cd189-8982-4f51-b1f2-a83608c793af.jpg",
                 "malId": 104491,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "our-dining-table": {
+                "id": 58871,
                 "identifier": "our-dining-table",
                 "image": "https://temp.compsci88.com/cover/Our-Dining-Table.jpg",
                 "malId": 104491,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-xe975013": {
+                "id": 93011,
                 "identifier": "manga-xe975013",
                 "image": "https://avt.mkklcdnv6temp.com/fld/100/t/7-1732787759-nw.webp",
                 "malId": 104491,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "bokura_no_shokutaku": {
+                "id": 99604,
                 "identifier": "bokura_no_shokutaku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24047/cover.jpg",
                 "malId": 104491,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/bokura_no_shokutaku/"
             }
         },
-        "MangaFire": {
-            "bokura-no-shokutaku.m287z": {
-                "identifier": "bokura-no-shokutaku.m287z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/ddac17cfa17cd1b6c6955f57a8b5916f.jpg",
-                "malId": 104491,
-                "aniId": 103270,
-                "page": "MangaFire",
-                "title": "Our Dining Table",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokura-no-shokutaku.m287z/"
-            },
-            "bokura-no-shokutakuu.m287z": {
-                "identifier": "bokura-no-shokutakuu.m287z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/ddac17cfa17cd1b6c6955f57a8b5916f.jpg",
-                "malId": 104491,
-                "aniId": 103270,
-                "page": "MangaFire",
-                "title": "Our Dining Table",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokura-no-shokutakuu.m287z/"
-            },
-            "m287z": {
-                "identifier": "m287z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/ddac17cfa17cd1b6c6955f57a8b5916f.jpg",
-                "malId": 104491,
-                "aniId": 103270,
-                "page": "MangaFire",
-                "title": "Our Dining Table",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokura-no-shokutakuu.m287z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd25yad4gs3bhyw8yt4c": {
+                "id": 214187,
                 "identifier": "01j76xyd25yad4gs3bhyw8yt4c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD25YAD4GS3BHYW8YT4C.jpg",
                 "malId": 104491,
@@ -96,6 +69,19 @@
                 "title": "Our Dining Table",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD25YAD4GS3BHYW8YT4C"
+            }
+        },
+        "MangaFire": {
+            "m287z": {
+                "id": 223830,
+                "identifier": "m287z",
+                "image": "https://static.mangafire.to/ac61/i/d/dd/ddac17cfa17cd1b6c6955f57a8b5916f.jpg",
+                "malId": 104491,
+                "aniId": 103270,
+                "page": "MangaFire",
+                "title": "Our Dining Table",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokura-no-shokutakuu.m287z"
             }
         },
         "Comick": {

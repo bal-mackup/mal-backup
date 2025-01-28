@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "706e6421-08e7-4281-adac-9dbc1710f0dc": {
+                "id": 13072,
                 "identifier": "706e6421-08e7-4281-adac-9dbc1710f0dc",
                 "image": "https://uploads.mangadex.org/covers/706e6421-08e7-4281-adac-9dbc1710f0dc/124892af-b654-4603-8e15-d54cede3d051.jpg",
                 "malId": 81685,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-sentirental-girl": {
+                "id": 59513,
                 "identifier": "the-sentirental-girl",
                 "image": "https://temp.compsci88.com/cover/The-Sentirental-Girl.jpg",
                 "malId": 81685,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/The-Sentirental-Girl"
             }
         },
-        "MangaFire": {
-            "sentirental-shoujo.52zn0": {
-                "identifier": "sentirental-shoujo.52zn0",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2db81a2c6d5781c8a60396d4a007aae.jpg",
-                "malId": 81685,
-                "aniId": 93163,
-                "page": "MangaFire",
-                "title": "The Sentirental Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sentirental-shoujo.52zn0/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb74tbd1v1c6m61n5vjh": {
+                "id": 210133,
                 "identifier": "01j76xyb74tbd1v1c6m61n5vjh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB74TBD1V1C6M61N5VJH.jpg",
                 "malId": 81685,
@@ -52,6 +43,19 @@
                 "title": "The Sentirental Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB74TBD1V1C6M61N5VJH"
+            }
+        },
+        "MangaFire": {
+            "52zn0": {
+                "id": 231108,
+                "identifier": "52zn0",
+                "image": "https://static.mangafire.to/ea4a/i/a/a2/a2db81a2c6d5781c8a60396d4a007aae.jpg",
+                "malId": 81685,
+                "aniId": 93163,
+                "page": "MangaFire",
+                "title": "The Sentirental Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sentirental-shoujoo.52zn0"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "db35d742-8540-4f2f-bc6b-29623c6bbb61": {
+                "id": 91653,
                 "identifier": "db35d742-8540-4f2f-bc6b-29623c6bbb61",
                 "image": "https://uploads.mangadex.org/covers/db35d742-8540-4f2f-bc6b-29623c6bbb61/d113de5a-420a-4cdf-b98e-4478f476e415.jpg",
                 "malId": 142637,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/db35d742-8540-4f2f-bc6b-29623c6bbb61"
             }
         },
-        "MangaFire": {
-            "mieruko-chan-official-anthology-comic.oj1q5": {
-                "identifier": "mieruko-chan-official-anthology-comic.oj1q5",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e1b846f89b4fb2a79e3266596cd3b73.jpg",
-                "malId": 142637,
-                "aniId": 141593,
-                "page": "MangaFire",
-                "title": "Mieruko-chan Official Anthology Comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mieruko-chan-official-anthology-comic.oj1q5/"
-            }
-        },
         "MangaNato": {
             "manga-aa1004183": {
+                "id": 196839,
                 "identifier": "manga-aa1004183",
-                "image": "https://avt.mkklcdnv6temp.com/29/f/36-1725984424.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/12/m/18-1733328018-nw.webp",
                 "malId": 142637,
                 "aniId": 141593,
                 "page": "MangaNato",
                 "title": "Mieruko-Chan Official Comic Anthology",
                 "type": "manga",
                 "url": "https://manganato.com/manga-aa1004183"
+            }
+        },
+        "MangaFire": {
+            "oj1q5": {
+                "id": 255440,
+                "identifier": "oj1q5",
+                "image": "https://static.mangafire.to/0f03/i/2/2e/2e1b846f89b4fb2a79e3266596cd3b73.jpg",
+                "malId": 142637,
+                "aniId": 141593,
+                "page": "MangaFire",
+                "title": "Mieruko-chan Official Anthology Comic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mieruko-chan-official-anthology-comicc.oj1q5"
             }
         },
         "Comick": {

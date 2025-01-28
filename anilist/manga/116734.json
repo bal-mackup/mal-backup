@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e4687487-9235-496d-9289-ea3ff955d3c0": {
+                "id": 35606,
                 "identifier": "e4687487-9235-496d-9289-ea3ff955d3c0",
                 "image": "https://uploads.mangadex.org/covers/e4687487-9235-496d-9289-ea3ff955d3c0/d32e48c5-f5c2-40b3-bd16-e745367a6949.jpg",
                 "malId": 126880,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "send-my-regards-to-kenshiro": {
+                "id": 56992,
                 "identifier": "send-my-regards-to-kenshiro",
                 "image": "https://temp.compsci88.com/cover/Send-My-Regards-to-Kenshiro.jpg",
                 "malId": 126880,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kenshirou_ni_yoroshiku": {
+                "id": 71268,
                 "identifier": "kenshirou_ni_yoroshiku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33955/cover.jpg",
                 "malId": 126880,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ik985367": {
+                "id": 74309,
                 "identifier": "manga-ik985367",
                 "image": "https://avt.mkklcdnv6temp.com/12/o/21-1589340246.jpg",
                 "malId": 126880,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-ik985367"
             }
         },
-        "MangaFire": {
-            "send-my-regards-to-kenshiro.806oo": {
-                "identifier": "send-my-regards-to-kenshiro.806oo",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b3bc630a8f6c822c9489d858ac8087b.jpg",
-                "malId": 126880,
-                "aniId": 116734,
-                "page": "MangaFire",
-                "title": "Send My Regards to Kenshiro",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/send-my-regards-to-kenshiro.806oo/"
-            }
-        },
         "Weebcentral": {
             "01j76xydg7ek4pd8cdk36xjbq5": {
+                "id": 211326,
                 "identifier": "01j76xydg7ek4pd8cdk36xjbq5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDG7EK4PD8CDK36XJBQ5.jpg",
                 "malId": 126880,
@@ -76,6 +69,19 @@
                 "title": "Send My Regards to Kenshiro",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDG7EK4PD8CDK36XJBQ5"
+            }
+        },
+        "MangaFire": {
+            "806oo": {
+                "id": 245546,
+                "identifier": "806oo",
+                "image": "https://static.mangafire.to/340c/i/0/0b/0b3bc630a8f6c822c9489d858ac8087b.jpg",
+                "malId": 126880,
+                "aniId": 116734,
+                "page": "MangaFire",
+                "title": "Send My Regards to Kenshiro",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/send-my-regards-to-kenshiroo.806oo"
             }
         },
         "Comick": {

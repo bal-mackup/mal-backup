@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7b6c0281-572d-4661-9eee-fd2a260009d3": {
+                "id": 12031,
                 "identifier": "7b6c0281-572d-4661-9eee-fd2a260009d3",
                 "image": "https://uploads.mangadex.org/covers/7b6c0281-572d-4661-9eee-fd2a260009d3/f3c3c51a-3f47-419e-b847-b39a32c18329.jpg",
                 "malId": 100615,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/7b6c0281-572d-4661-9eee-fd2a260009d3"
             }
         },
-        "MangaFire": {
-            "uchi-no-maid-ga-uzasugiru.ll43q": {
-                "identifier": "uchi-no-maid-ga-uzasugiru.ll43q",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9b07375340cd7a162a92c71011be244.jpg",
-                "malId": 100615,
-                "aniId": 87450,
-                "page": "MangaFire",
-                "title": "UzaMaid: Our Maid is Way Too Annoying!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-maid-ga-uzasugiru.ll43q/"
-            },
-            "uchi-no-maid-ga-uzasugiruu.ll43q": {
-                "identifier": "uchi-no-maid-ga-uzasugiruu.ll43q",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9b07375340cd7a162a92c71011be244.jpg",
-                "malId": 100615,
-                "aniId": 87450,
-                "page": "MangaFire",
-                "title": "UzaMaid: Our Maid is Way Too Annoying!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uchi-no-maid-ga-uzasugiruu.ll43q/"
-            }
-        },
         "MangaFox": {
             "uchi_no_maid_ga_uzasugiru": {
+                "id": 185460,
                 "identifier": "uchi_no_maid_ga_uzasugiru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29094/cover.jpg",
                 "malId": 100615,
@@ -54,14 +34,28 @@
         },
         "MangaNato": {
             "manga-vt972602": {
+                "id": 191677,
                 "identifier": "manga-vt972602",
-                "image": "https://avt.mkklcdnv6temp.com/13/v/35-1721813237.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/65/l/7-1732786251-nw.webp",
                 "malId": 100615,
                 "aniId": 87450,
                 "page": "MangaNato",
                 "title": "Uchi No Maid Ga Uzasugiru!",
                 "type": "manga",
-                "url": "https://manganato.com/manga-vt972602"
+                "url": "https://chapmanganato.com/manga-vt972602"
+            }
+        },
+        "MangaFire": {
+            "ll43q": {
+                "id": 225314,
+                "identifier": "ll43q",
+                "image": "https://static.mangafire.to/3a02/i/f/f9/f9b07375340cd7a162a92c71011be244.jpg",
+                "malId": 100615,
+                "aniId": 87450,
+                "page": "MangaFire",
+                "title": "UzaMaid: Our Maid is Way Too Annoying!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uchi-no-maid-ga-uzasugiruu.ll43q"
             }
         },
         "Comick": {

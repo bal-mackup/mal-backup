@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a7ac0261-5322-4afd-9240-f54316765cd1": {
+                "id": 12913,
                 "identifier": "a7ac0261-5322-4afd-9240-f54316765cd1",
                 "image": "https://uploads.mangadex.org/covers/a7ac0261-5322-4afd-9240-f54316765cd1/2413016c-3f91-4217-a5db-35be52f31a43.jpg",
                 "malId": 80805,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a7ac0261-5322-4afd-9240-f54316765cd1"
             },
             "d59e97c8-f832-449f-bf4d-a622d859f02a": {
+                "id": 30455,
                 "identifier": "d59e97c8-f832-449f-bf4d-a622d859f02a",
                 "image": "https://uploads.mangadex.org/covers/d59e97c8-f832-449f-bf4d-a622d859f02a/385d48a1-d7c6-4b11-8e2c-6f8c0240bc83.png",
                 "malId": 80805,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "groundless-sekigan-no-sogekihei": {
+                "id": 57302,
                 "identifier": "groundless-sekigan-no-sogekihei",
                 "image": "https://temp.compsci88.com/cover/Groundless-Sekigan-No-Sogekihei.jpg",
                 "malId": 80805,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "groundless_sekigan_no_sogekihei": {
+                "id": 62646,
                 "identifier": "groundless_sekigan_no_sogekihei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17689/cover.jpg",
                 "malId": 80805,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-lg952489": {
+                "id": 78729,
                 "identifier": "manga-lg952489",
                 "image": "https://avt.mkklcdnv6temp.com/fld/43/y/1-1732718117-nw.webp",
                 "malId": 80805,
@@ -64,40 +69,9 @@
                 "url": "https://manganato.com/manga-lg952489"
             }
         },
-        "MangaFire": {
-            "groundless.80wro": {
-                "identifier": "groundless.80wro",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e42c4b3d07574e941441ddbf637d9a7.jpg",
-                "malId": 80805,
-                "aniId": 86641,
-                "page": "MangaFire",
-                "title": "Groundless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/groundless.80wro/"
-            },
-            "groundlesss.80wro": {
-                "identifier": "groundlesss.80wro",
-                "image": "https://static.mangafire.to/c69b/i/4/4e/4e42c4b3d07574e941441ddbf637d9a7.jpg",
-                "malId": 80805,
-                "aniId": 86641,
-                "page": "MangaFire",
-                "title": "Groundless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/groundlesss.80wro/"
-            },
-            "80wro": {
-                "identifier": "80wro",
-                "image": "https://static.mangafire.to/c69b/i/4/4e/4e42c4b3d07574e941441ddbf637d9a7.jpg",
-                "malId": 80805,
-                "aniId": 86641,
-                "page": "MangaFire",
-                "title": "Groundless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/groundlesss.80wro"
-            }
-        },
         "Weebcentral": {
             "01j76xybmbzn0skxdfytevt97r": {
+                "id": 213099,
                 "identifier": "01j76xybmbzn0skxdfytevt97r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMBZN0SKXDFYTEVT97R.jpg",
                 "malId": 80805,
@@ -106,6 +80,19 @@
                 "title": "Groundless - Sekigan no Sogekihei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMBZN0SKXDFYTEVT97R"
+            }
+        },
+        "MangaFire": {
+            "80wro": {
+                "id": 222814,
+                "identifier": "80wro",
+                "image": "https://static.mangafire.to/c69b/i/4/4e/4e42c4b3d07574e941441ddbf637d9a7.jpg",
+                "malId": 80805,
+                "aniId": 86641,
+                "page": "MangaFire",
+                "title": "Groundless",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/groundlesss.80wro"
             }
         },
         "Comick": {

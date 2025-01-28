@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "feebe1dc-64ef-47a6-b4ed-07f47dd330cd": {
+                "id": 104021,
                 "identifier": "feebe1dc-64ef-47a6-b4ed-07f47dd330cd",
                 "image": "https://uploads.mangadex.org/covers/feebe1dc-64ef-47a6-b4ed-07f47dd330cd/fb649977-c768-41c8-b5db-44bc3b46959d.jpg",
                 "malId": 148421,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nz990934": {
+                "id": 106079,
                 "identifier": "manga-nz990934",
                 "image": "https://avt.mkklcdnv6temp.com/44/t/25-1654080455.jpg",
                 "malId": 148421,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-divine-surgeon": {
+                "id": 128791,
                 "identifier": "the-divine-surgeon",
                 "image": "https://temp.compsci88.com/cover/The-Divine-Surgeon.jpg",
                 "malId": 148421,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Divine-Surgeon"
             }
         },
-        "MangaFire": {
-            "hwataga-doen-oegwauisa.xrj2q": {
-                "identifier": "hwataga-doen-oegwauisa.xrj2q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa6797f16e929582d64343ad1e8b8248.jpg",
-                "malId": 148421,
-                "aniId": 145134,
-                "page": "MangaFire",
-                "title": "The Divine Surgeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hwataga-doen-oegwauisa.xrj2q/"
-            },
-            "hwataga-doen-oegwauisaa.xrj2q": {
-                "identifier": "hwataga-doen-oegwauisaa.xrj2q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa6797f16e929582d64343ad1e8b8248.jpg",
-                "malId": 148421,
-                "aniId": 145134,
-                "page": "MangaFire",
-                "title": "The Divine Surgeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hwataga-doen-oegwauisaa.xrj2q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg19x1g8adagvz3ydj5y": {
+                "id": 206878,
                 "identifier": "01j76xyg19x1g8adagvz3ydj5y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG19X1G8ADAGVZ3YDJ5Y.jpg",
                 "malId": 148421,
@@ -74,6 +56,19 @@
                 "title": "The Divine Surgeon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG19X1G8ADAGVZ3YDJ5Y"
+            }
+        },
+        "MangaFire": {
+            "xrj2q": {
+                "id": 228015,
+                "identifier": "xrj2q",
+                "image": "https://static.mangafire.to/f809/i/a/aa/aa6797f16e929582d64343ad1e8b8248.jpg",
+                "malId": 148421,
+                "aniId": 145134,
+                "page": "MangaFire",
+                "title": "The Divine Surgeon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hwataga-doen-oegwauisaa.xrj2q"
             }
         },
         "Comick": {

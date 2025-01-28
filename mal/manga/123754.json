@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c37d93a8-9c50-49b3-bd71-143937f4288e": {
+                "id": 32683,
                 "identifier": "c37d93a8-9c50-49b3-bd71-143937f4288e",
                 "image": "https://uploads.mangadex.org/covers/c37d93a8-9c50-49b3-bd71-143937f4288e/9adb40e3-8a67-4c55-b984-dadd606d7f7f.jpg",
                 "malId": 123754,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gantze": {
+                "id": 58145,
                 "identifier": "gantze",
                 "image": "https://temp.compsci88.com/cover/GANTZE.jpg",
                 "malId": 123754,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ho984623": {
+                "id": 78605,
                 "identifier": "manga-ho984623",
                 "image": "https://avt.mkklcdnv6temp.com/33/d/20-1583502307.jpg",
                 "malId": 123754,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "gantz_e": {
+                "id": 81618,
                 "identifier": "gantz_e",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32623/cover.jpg",
                 "malId": 123754,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/gantz_e/"
             }
         },
-        "MangaFire": {
-            "gantz-ee.z583": {
-                "identifier": "gantz-ee.z583",
-                "image": "https://static.mangafire.to/7dda/i/2/27/2798653da5e6dafb458ab9bbac06e1ff.jpg",
-                "malId": 123754,
-                "aniId": 114553,
-                "page": "MangaFire",
-                "title": "GANTZ:E",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gantz-ee.z583/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd4n8a29vdtrxgk3357y": {
+                "id": 207222,
                 "identifier": "01j76xyd4n8a29vdtrxgk3357y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD4N8A29VDTRXGK3357Y.jpg",
                 "malId": 123754,
@@ -76,6 +69,19 @@
                 "title": "Gantz:E",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD4N8A29VDTRXGK3357Y"
+            }
+        },
+        "MangaFire": {
+            "z583": {
+                "id": 223407,
+                "identifier": "z583",
+                "image": "https://static.mangafire.to/7dda/i/2/27/2798653da5e6dafb458ab9bbac06e1ff.jpg",
+                "malId": 123754,
+                "aniId": 114553,
+                "page": "MangaFire",
+                "title": "GANTZ:E",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gantz-ee.z583"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "db57ba6f-7283-4e57-b695-166dd35dfcf2": {
+                "id": 11131,
                 "identifier": "db57ba6f-7283-4e57-b695-166dd35dfcf2",
                 "image": "https://uploads.mangadex.org/covers/db57ba6f-7283-4e57-b695-166dd35dfcf2/0ce2ed05-d3ca-4e2c-8078-6dbbb2b8c476.jpg",
                 "malId": 65121,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hatsukoi-monster": {
+                "id": 90363,
                 "identifier": "hatsukoi-monster",
                 "image": "https://temp.compsci88.com/cover/Hatsukoi-Monster.jpg",
                 "malId": 65121,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vx953532": {
+                "id": 99972,
                 "identifier": "manga-vx953532",
                 "image": "https://avt.mkklcdnv6temp.com/fld/78/w/1-1732719564-nw.webp",
                 "malId": 65121,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-vx953532"
             }
         },
-        "MangaFire": {
-            "hatsukoi-monster.4kyo": {
-                "identifier": "hatsukoi-monster.4kyo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/8437249aeea469982aa7d0ec7b87bd4d.jpg",
-                "malId": 65121,
-                "aniId": 86105,
-                "page": "MangaFire",
-                "title": "First Love Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hatsukoi-monster.4kyo/"
-            },
-            "4kyo": {
-                "identifier": "4kyo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/8437249aeea469982aa7d0ec7b87bd4d.jpg",
-                "malId": 65121,
-                "aniId": 86105,
-                "page": "MangaFire",
-                "title": "First Love Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hatsukoi-monster.4kyo/"
-            }
-        },
         "Weebcentral": {
             "01j76xybev8sjascpqy8fk4esp": {
+                "id": 214317,
                 "identifier": "01j76xybev8sjascpqy8fk4esp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEV8SJASCPQY8FK4ESP.jpg",
                 "malId": 65121,
@@ -74,6 +56,19 @@
                 "title": "First Love Monster",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEV8SJASCPQY8FK4ESP"
+            }
+        },
+        "MangaFire": {
+            "4kyo": {
+                "id": 259662,
+                "identifier": "4kyo",
+                "image": "https://static.mangafire.to/4c97/i/8/84/8437249aeea469982aa7d0ec7b87bd4d.jpg",
+                "malId": 65121,
+                "aniId": 86105,
+                "page": "MangaFire",
+                "title": "First Love Monster",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hatsukoi-monsterr.4kyo"
             }
         },
         "Comick": {

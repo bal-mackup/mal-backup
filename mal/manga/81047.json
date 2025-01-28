@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4ba7e924-9bc0-4154-8a41-8d64763bac45": {
+                "id": 13121,
                 "identifier": "4ba7e924-9bc0-4154-8a41-8d64763bac45",
                 "image": "https://uploads.mangadex.org/covers/4ba7e924-9bc0-4154-8a41-8d64763bac45/fc4fc5eb-c075-4688-9c1d-5d63b9ae5b34.jpg",
                 "malId": 81047,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "our-reason-for-living": {
+                "id": 60835,
                 "identifier": "our-reason-for-living",
                 "image": "https://temp.compsci88.com/cover/Our-Reason-For-Living.jpg",
                 "malId": 81047,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nn951748": {
+                "id": 79261,
                 "identifier": "manga-nn951748",
                 "image": "https://avt.mkklcdnv6temp.com/fld/18/g/1-1732717091-nw.webp",
                 "malId": 81047,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-nn951748"
             }
         },
-        "MangaFire": {
-            "bokutachi-no-ikita-riyuu.w1wjo": {
-                "identifier": "bokutachi-no-ikita-riyuu.w1wjo",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/379f0e3e7de998b010f6c0e637813fcd.jpg",
-                "malId": 81047,
-                "aniId": 86850,
-                "page": "MangaFire",
-                "title": "Our Reason for Living",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokutachi-no-ikita-riyuu.w1wjo/"
-            },
-            "w1wjo": {
-                "identifier": "w1wjo",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/379f0e3e7de998b010f6c0e637813fcd.jpg",
-                "malId": 81047,
-                "aniId": 86850,
-                "page": "MangaFire",
-                "title": "Our Reason for Living",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokutachi-no-ikita-riyuu.w1wjo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6ep3et1thdvf9ty5x7": {
+                "id": 211439,
                 "identifier": "01j76xyb6ep3et1thdvf9ty5x7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6EP3ET1THDVF9TY5X7.jpg",
                 "malId": 81047,
@@ -74,6 +56,19 @@
                 "title": "Our Reason for Living",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6EP3ET1THDVF9TY5X7"
+            }
+        },
+        "MangaFire": {
+            "w1wjo": {
+                "id": 254148,
+                "identifier": "w1wjo",
+                "image": "https://static.mangafire.to/5fc4/i/3/37/379f0e3e7de998b010f6c0e637813fcd.jpg",
+                "malId": 81047,
+                "aniId": 86850,
+                "page": "MangaFire",
+                "title": "Our Reason for Living",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokutachi-no-ikita-riyuuu.w1wjo"
             }
         },
         "Comick": {

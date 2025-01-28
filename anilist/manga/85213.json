@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5927e373-f024-42ad-9307-6f4c05ea3fc4": {
+                "id": 9669,
                 "identifier": "5927e373-f024-42ad-9307-6f4c05ea3fc4",
                 "image": "https://uploads.mangadex.org/covers/5927e373-f024-42ad-9307-6f4c05ea3fc4/bcfba414-0a68-4942-8267-04174466a714.jpg",
                 "malId": 63781,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "boku_girl": {
+                "id": 58274,
                 "identifier": "boku_girl",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13608/cover.jpg",
                 "malId": 63781,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "boku-girl": {
+                "id": 58541,
                 "identifier": "boku-girl",
                 "image": "https://temp.compsci88.com/cover/Boku-Girl.jpg",
                 "malId": 63781,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-su951803": {
+                "id": 77743,
                 "identifier": "manga-su951803",
                 "image": "https://avt.mkklcdnv6temp.com/17/f/1-1583464365.jpg",
                 "malId": 63781,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-su951803"
             }
         },
-        "MangaFire": {
-            "boku-girl.y7qz": {
-                "identifier": "boku-girl.y7qz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/dbf45b8b61dfe8aaeedea2116ed10c8f.jpg",
-                "malId": 63781,
-                "aniId": 85213,
-                "page": "MangaFire",
-                "title": "Boku Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-girl.y7qz/"
-            },
-            "boku-girll.y7qz": {
-                "identifier": "boku-girll.y7qz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/dbf45b8b61dfe8aaeedea2116ed10c8f.jpg",
-                "malId": 63781,
-                "aniId": 85213,
-                "page": "MangaFire",
-                "title": "Boku Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-girll.y7qz/"
-            },
-            "y7qz": {
-                "identifier": "y7qz",
-                "image": "https://static.mangafire.to/cc4f/i/d/db/dbf45b8b61dfe8aaeedea2116ed10c8f.jpg",
-                "malId": 63781,
-                "aniId": 85213,
-                "page": "MangaFire",
-                "title": "Boku Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-girll.y7qz"
-            }
-        },
         "Weebcentral": {
             "01j76xy9ykm1ajm7pfty01hwa3": {
+                "id": 211744,
                 "identifier": "01j76xy9ykm1ajm7pfty01hwa3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9YKM1AJM7PFTY01HWA3.jpg",
                 "malId": 63781,
@@ -96,6 +69,19 @@
                 "title": "Boku Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9YKM1AJM7PFTY01HWA3"
+            }
+        },
+        "MangaFire": {
+            "y7qz": {
+                "id": 227009,
+                "identifier": "y7qz",
+                "image": "https://static.mangafire.to/cc4f/i/d/db/dbf45b8b61dfe8aaeedea2116ed10c8f.jpg",
+                "malId": 63781,
+                "aniId": 85213,
+                "page": "MangaFire",
+                "title": "Boku Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-girll.y7qz"
             }
         },
         "Comick": {

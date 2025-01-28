@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2bf49f98-e022-46ff-9857-ed1753c815d0": {
+                "id": 85,
                 "identifier": "2bf49f98-e022-46ff-9857-ed1753c815d0",
                 "image": "https://uploads.mangadex.org/covers/2bf49f98-e022-46ff-9857-ed1753c815d0/2fa8802a-52ab-4228-8fdc-8458119b59e5.jpg",
                 "malId": 94590,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "secretly-greatly-only": {
+                "id": 67793,
                 "identifier": "secretly-greatly-only",
                 "image": "https://temp.compsci88.com/cover/Secretly-Greatly-Only.jpg",
                 "malId": 94590,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Secretly-Greatly-Only"
             }
         },
-        "MangaFire": {
-            "covertly-gloriously.y2x": {
-                "identifier": "covertly-gloriously.y2x",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b47ace50391709d258ea97db66a238be.jpg",
-                "malId": 94590,
-                "aniId": 99585,
-                "page": "MangaFire",
-                "title": "Secretly, Greatly",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/covertly-gloriously.y2x/"
-            },
-            "covertly-gloriouslyy.y2x": {
-                "identifier": "covertly-gloriouslyy.y2x",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b47ace50391709d258ea97db66a238be.jpg",
-                "malId": 94590,
-                "aniId": 99585,
-                "page": "MangaFire",
-                "title": "Secretly, Greatly",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/covertly-gloriouslyy.y2x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyas3qk0mzrsb9sy80swk": {
+                "id": 212896,
                 "identifier": "01j76xyas3qk0mzrsb9sy80swk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAS3QK0MZRSB9SY80SWK.jpg",
                 "malId": 94590,
@@ -62,6 +43,19 @@
                 "title": "Secretly, Greatly, Only",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAS3QK0MZRSB9SY80SWK"
+            }
+        },
+        "MangaFire": {
+            "y2x": {
+                "id": 223428,
+                "identifier": "y2x",
+                "image": "https://static.mangafire.to/f160/i/b/b4/b47ace50391709d258ea97db66a238be.jpg",
+                "malId": 94590,
+                "aniId": 99585,
+                "page": "MangaFire",
+                "title": "Secretly, Greatly",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/covertly-gloriouslyy.y2x"
             }
         },
         "Comick": {

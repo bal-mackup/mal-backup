@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4a073816-77ed-44de-981c-37dc16f8f1ba": {
+                "id": 12414,
                 "identifier": "4a073816-77ed-44de-981c-37dc16f8f1ba",
                 "image": "https://uploads.mangadex.org/covers/4a073816-77ed-44de-981c-37dc16f8f1ba/811d65bf-342e-4d9e-949f-19f0bdbab629.jpg",
                 "malId": 68569,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/4a073816-77ed-44de-981c-37dc16f8f1ba"
             },
             "89e06ce8-11e6-420f-842f-fdff8755104c": {
+                "id": 30538,
                 "identifier": "89e06ce8-11e6-420f-842f-fdff8755104c",
                 "image": "https://uploads.mangadex.org/covers/89e06ce8-11e6-420f-842f-fdff8755104c/4cb295cf-e43b-494a-bd74-2296105baeb3.png",
                 "malId": 68569,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "onimote": {
+                "id": 66828,
                 "identifier": "onimote",
                 "image": "https://temp.compsci88.com/cover/Onimote.jpg",
                 "malId": 68569,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "onimote": {
+                "id": 67732,
                 "identifier": "onimote",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14079/cover.jpg",
                 "malId": 68569,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ks961927": {
+                "id": 82748,
                 "identifier": "manga-ks961927",
                 "image": "https://avt.mkklcdnv6temp.com/4/d/8-1583478334.jpg",
                 "malId": 68569,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-ks961927"
             }
         },
-        "MangaFire": {
-            "onimote.prq0q": {
-                "identifier": "onimote.prq0q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad2b614253028bf33a12381d078402bb.jpg",
-                "malId": 68569,
-                "aniId": 85380,
-                "page": "MangaFire",
-                "title": "Too Much Booty",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onimote.prq0q/"
-            },
-            "prq0q": {
-                "identifier": "prq0q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad2b614253028bf33a12381d078402bb.jpg",
-                "malId": 68569,
-                "aniId": 85380,
-                "page": "MangaFire",
-                "title": "Too Much Booty",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onimote.prq0q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyar792np489n0cygp34a": {
+                "id": 206454,
                 "identifier": "01j76xyar792np489n0cygp34a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAR792NP489N0CYGP34A.jpg",
                 "malId": 68569,
@@ -96,6 +80,19 @@
                 "title": "Onimote",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAR792NP489N0CYGP34A"
+            }
+        },
+        "MangaFire": {
+            "prq0q": {
+                "id": 239404,
+                "identifier": "prq0q",
+                "image": "https://static.mangafire.to/b3ae/i/a/ad/ad2b614253028bf33a12381d078402bb.jpg",
+                "malId": 68569,
+                "aniId": 85380,
+                "page": "MangaFire",
+                "title": "Too Much Booty",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/onimotee.prq0q"
             }
         },
         "Comick": {

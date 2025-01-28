@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "82476383-e6a9-41a7-b98c-87cc8be9efbb": {
+                "id": 34582,
                 "identifier": "82476383-e6a9-41a7-b98c-87cc8be9efbb",
                 "image": "https://uploads.mangadex.org/covers/82476383-e6a9-41a7-b98c-87cc8be9efbb/b4629b5d-5f5d-42c6-9019-2a7d838fdf17.jpg",
                 "malId": 130052,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "all_because_of_you": {
+                "id": 67140,
                 "identifier": "all_because_of_you",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34322/cover.jpg",
                 "malId": 130052,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-iv985656": {
+                "id": 76694,
                 "identifier": "manga-iv985656",
                 "image": "https://avt.mkklcdnv6temp.com/25/i/21-1591592163.jpg",
                 "malId": 130052,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-iv985656"
             }
         },
-        "MangaFire": {
-            "zenbu-kimi-no-sei.6l66p": {
-                "identifier": "zenbu-kimi-no-sei.6l66p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5bac0449f7e75b6d89625dae86c2891f.jpg",
-                "malId": 130052,
-                "aniId": 116897,
-                "page": "MangaFire",
-                "title": "All Because of You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zenbu-kimi-no-sei.6l66p/"
-            }
-        },
         "MangaSee": {
             "zenbu-kimi-no-sei": {
+                "id": 159757,
                 "identifier": "zenbu-kimi-no-sei",
                 "image": "https://temp.compsci88.com/cover/Zenbu-Kimi-no-Sei.jpg",
                 "malId": 130052,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg86qmn5xcgbqvq24qfc": {
+                "id": 206497,
                 "identifier": "01j76xyg86qmn5xcgbqvq24qfc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG86QMN5XCGBQVQ24QFC.jpg",
                 "malId": 130052,
@@ -76,6 +69,19 @@
                 "title": "Zenbu Kimi no Sei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG86QMN5XCGBQVQ24QFC"
+            }
+        },
+        "MangaFire": {
+            "6l66p": {
+                "id": 262059,
+                "identifier": "6l66p",
+                "image": "https://static.mangafire.to/5387/i/5/5b/5bac0449f7e75b6d89625dae86c2891f.jpg",
+                "malId": 130052,
+                "aniId": 116897,
+                "page": "MangaFire",
+                "title": "All Because of You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zenbu-kimi-no-seii.6l66p"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8": {
+                "id": 115328,
                 "identifier": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
                 "image": "https://uploads.mangadex.org/covers/fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8/c76f37b5-5414-453e-8e7e-bd9acfcf2923.jpg",
                 "malId": 152117,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8"
             }
         },
-        "MangaFire": {
-            "kyou-mo-veranda-de.72xyj": {
-                "identifier": "kyou-mo-veranda-de.72xyj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/6447bab904e749ddd4830e5e3e8f9f19.jpg",
-                "malId": 152117,
-                "aniId": 154705,
-                "page": "MangaFire",
-                "title": "On the Balcony Again Today",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyou-mo-veranda-de.72xyj/"
-            },
-            "kyou-mo-veranda-dee.72xyj": {
-                "identifier": "kyou-mo-veranda-dee.72xyj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/6447bab904e749ddd4830e5e3e8f9f19.jpg",
-                "malId": 152117,
-                "aniId": 154705,
-                "page": "MangaFire",
-                "title": "On the Balcony Again Today",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyou-mo-veranda-dee.72xyj/"
-            }
-        },
         "MangaNato": {
             "manga-ts997253": {
+                "id": 164354,
                 "identifier": "manga-ts997253",
                 "image": "https://avt.mkklcdnv6temp.com/fld/47/l/15-1733309482-nw.webp",
                 "malId": 152117,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "kyou-mo-veranda-de": {
+                "id": 175564,
                 "identifier": "kyou-mo-veranda-de",
                 "image": "https://temp.compsci88.com/cover/Kyou-mo-Veranda-de.jpg",
                 "malId": 152117,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "kyou_mo_veranda_de": {
+                "id": 178128,
                 "identifier": "kyou_mo_veranda_de",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45572/cover.jpg",
                 "malId": 152117,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygp0myrx3gckgx2p5zgc": {
+                "id": 212739,
                 "identifier": "01j76xygp0myrx3gckgx2p5zgc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGP0MYRX3GCKGX2P5ZGC.jpg",
                 "malId": 152117,
@@ -86,6 +69,19 @@
                 "title": "Kyou mo Veranda de",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGP0MYRX3GCKGX2P5ZGC"
+            }
+        },
+        "MangaFire": {
+            "72xyj": {
+                "id": 224958,
+                "identifier": "72xyj",
+                "image": "https://static.mangafire.to/6d31/i/6/64/6447bab904e749ddd4830e5e3e8f9f19.jpg",
+                "malId": 152117,
+                "aniId": 154705,
+                "page": "MangaFire",
+                "title": "On the Balcony Again Today",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyou-mo-veranda-dee.72xyj"
             }
         },
         "Comick": {

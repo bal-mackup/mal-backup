@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "26cc6cdf-f784-42d0-be38-f34cc344c68c": {
+                "id": 12263,
                 "identifier": "26cc6cdf-f784-42d0-be38-f34cc344c68c",
                 "image": "https://uploads.mangadex.org/covers/26cc6cdf-f784-42d0-be38-f34cc344c68c/94299619-0339-4a59-8b17-94187af85f8a.jpg",
                 "malId": 76375,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kengai-princess": {
+                "id": 69472,
                 "identifier": "kengai-princess",
                 "image": "https://temp.compsci88.com/cover/Kengai-Princess.jpg",
                 "malId": 76375,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kengai-Princess"
             }
         },
-        "MangaFire": {
-            "kengai-princess.z112m": {
-                "identifier": "kengai-princess.z112m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f95e813a1efd04093c5afd00bcd0852.jpg",
-                "malId": 76375,
-                "aniId": 86776,
-                "page": "MangaFire",
-                "title": "Kengai Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kengai-princess.z112m/"
-            },
-            "z112m": {
-                "identifier": "z112m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f95e813a1efd04093c5afd00bcd0852.jpg",
-                "malId": 76375,
-                "aniId": 86776,
-                "page": "MangaFire",
-                "title": "Kengai Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kengai-princess.z112m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybmvcw3f8x8vdsh2dp4r": {
+                "id": 209249,
                 "identifier": "01j76xybmvcw3f8x8vdsh2dp4r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMVCW3F8X8VDSH2DP4R.jpg",
                 "malId": 76375,
@@ -62,6 +43,19 @@
                 "title": "Kengai Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMVCW3F8X8VDSH2DP4R"
+            }
+        },
+        "MangaFire": {
+            "z112m": {
+                "id": 259707,
+                "identifier": "z112m",
+                "image": "https://static.mangafire.to/0f47/i/2/2f/2f95e813a1efd04093c5afd00bcd0852.jpg",
+                "malId": 76375,
+                "aniId": 86776,
+                "page": "MangaFire",
+                "title": "Kengai Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kengai-princesss.z112m"
             }
         },
         "Comick": {

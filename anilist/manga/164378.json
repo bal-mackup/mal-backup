@@ -6,20 +6,9 @@
     "total": 4,
     "image": "https://cdn.myanimelist.net/images/manga/2/289953.jpg",
     "Sites": {
-        "MangaFire": {
-            "pocket-monsters-liko-no-takaramono.2p974": {
-                "identifier": "pocket-monsters-liko-no-takaramono.2p974",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/392ed7361de037993601732e956f70cf.jpg",
-                "malId": 157491,
-                "aniId": 164378,
-                "page": "MangaFire",
-                "title": "Pocket Monsters: Liko no Takaramono",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pocket-monsters-liko-no-takaramono.2p974/"
-            }
-        },
         "Mangadex": {
             "39c2752b-0d08-4bdc-8f99-4ac273fd194a": {
+                "id": 156790,
                 "identifier": "39c2752b-0d08-4bdc-8f99-4ac273fd194a",
                 "image": "https://uploads.mangadex.org/covers/39c2752b-0d08-4bdc-8f99-4ac273fd194a/10f54e15-fda6-41c5-ae68-62d3de25dd71.jpg",
                 "malId": 157491,
@@ -32,6 +21,7 @@
         },
         "MangaNato": {
             "manga-so996071": {
+                "id": 156897,
                 "identifier": "manga-so996071",
                 "image": "https://avt.mkklcdnv6temp.com/fld/2/k/14-1733306706-nw.webp",
                 "malId": 157491,
@@ -40,6 +30,19 @@
                 "title": "Pocket Monsters - Liko No Takaramono",
                 "type": "manga",
                 "url": "https://manganato.com/manga-so996071"
+            }
+        },
+        "MangaFire": {
+            "2p974": {
+                "id": 237268,
+                "identifier": "2p974",
+                "image": "https://static.mangafire.to/9d4e/i/3/39/392ed7361de037993601732e956f70cf.jpg",
+                "malId": 157491,
+                "aniId": 164378,
+                "page": "MangaFire",
+                "title": "Pocket Monsters: Liko no Takaramono",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pocket-monsters-liko-no-takaramonoo.2p974"
             }
         },
         "Comick": {

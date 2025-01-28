@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b6080bba-2d95-4f4d-9f1b-5c8f671da6c4": {
+                "id": 25433,
                 "identifier": "b6080bba-2d95-4f4d-9f1b-5c8f671da6c4",
                 "image": "https://uploads.mangadex.org/covers/b6080bba-2d95-4f4d-9f1b-5c8f671da6c4/fd359003-4b57-444a-b26d-66ca03482b3d.jpg",
                 "malId": 120078,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-iv985378": {
+                "id": 74032,
                 "identifier": "manga-iv985378",
                 "image": "https://avt.mkklcdnv6temp.com/13/f/21-1589427900.jpg",
                 "malId": 120078,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "usami_san_wa_kamawaretai": {
+                "id": 94093,
                 "identifier": "usami_san_wa_kamawaretai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40669/cover.jpg",
                 "malId": 120078,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "usami-san-wa-kamawaretai": {
+                "id": 125987,
                 "identifier": "usami-san-wa-kamawaretai",
                 "image": "https://temp.compsci88.com/cover/Usami-san-wa-Kamawaretai.jpg",
                 "malId": 120078,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Usami-san-wa-Kamawaretai"
             }
         },
-        "MangaFire": {
-            "usami-san-wa-kamawaretai.ll2k3": {
-                "identifier": "usami-san-wa-kamawaretai.ll2k3",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59b71b7c7ee8af3077ceb8883bf569d5.jpg",
-                "malId": 120078,
-                "aniId": 106706,
-                "page": "MangaFire",
-                "title": "Usami-san wa Kamawaretai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/usami-san-wa-kamawaretai.ll2k3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg0cj42wda6598j9k6w5": {
+                "id": 207299,
                 "identifier": "01j76xyg0cj42wda6598j9k6w5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG0CJ42WDA6598J9K6W5.jpg",
                 "malId": 120078,
@@ -76,6 +69,19 @@
                 "title": "Usami-san wa Kamawaretai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG0CJ42WDA6598J9K6W5"
+            }
+        },
+        "MangaFire": {
+            "ll2k3": {
+                "id": 244851,
+                "identifier": "ll2k3",
+                "image": "https://static.mangafire.to/82ad/i/5/59/59b71b7c7ee8af3077ceb8883bf569d5.jpg",
+                "malId": 120078,
+                "aniId": 106706,
+                "page": "MangaFire",
+                "title": "Usami-san wa Kamawaretai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/usami-san-wa-kamawaretaii.ll2k3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0b50264d-80c8-47f1-b651-5271c4fccd3f": {
+                "id": 51964,
                 "identifier": "0b50264d-80c8-47f1-b651-5271c4fccd3f",
                 "image": "https://uploads.mangadex.org/covers/0b50264d-80c8-47f1-b651-5271c4fccd3f/89408f83-005c-4100-b39e-12cdaef56af3.jpg",
                 "malId": 133822,
@@ -18,38 +19,30 @@
                 "url": "https://mangadex.org/title/0b50264d-80c8-47f1-b651-5271c4fccd3f"
             }
         },
-        "MangaFire": {
-            "adachi-to-shimamura-official-comic-anthology.kwjmr": {
-                "identifier": "adachi-to-shimamura-official-comic-anthology.kwjmr",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d96d8124c08c6404610feb12ab47b303.jpg",
-                "malId": 133822,
-                "aniId": 126841,
-                "page": "MangaFire",
-                "title": "Adachi to Shimamura Official Comic Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/adachi-to-shimamura-official-comic-anthology.kwjmr/"
-            },
-            "adachi-to-shimamura-official-comic-anthologyy.kwjmr": {
-                "identifier": "adachi-to-shimamura-official-comic-anthologyy.kwjmr",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d96d8124c08c6404610feb12ab47b303.jpg",
-                "malId": 133822,
-                "aniId": 126841,
-                "page": "MangaFire",
-                "title": "Adachi to Shimamura Official Comic Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/adachi-to-shimamura-official-comic-anthologyy.kwjmr/"
-            }
-        },
         "MangaNato": {
             "manga-zi1003065": {
+                "id": 197797,
                 "identifier": "manga-zi1003065",
-                "image": "https://avt.mkklcdnv6temp.com/32/p/35-1723200685.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/69/t/17-1733325424-nw.webp",
                 "malId": 133822,
                 "aniId": 126841,
                 "page": "MangaNato",
                 "title": "Adachi To Shimamura Official Comic Anthology",
                 "type": "manga",
                 "url": "https://manganato.com/manga-zi1003065"
+            }
+        },
+        "MangaFire": {
+            "kwjmr": {
+                "id": 225911,
+                "identifier": "kwjmr",
+                "image": "https://static.mangafire.to/99c5/i/d/d9/d96d8124c08c6404610feb12ab47b303.jpg",
+                "malId": 133822,
+                "aniId": 126841,
+                "page": "MangaFire",
+                "title": "Adachi to Shimamura Official Comic Anthology",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/adachi-to-shimamura-official-comic-anthologyy.kwjmr"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a0c06f23-88b5-4880-9346-c0c7685f918a": {
+                "id": 26711,
                 "identifier": "a0c06f23-88b5-4880-9346-c0c7685f918a",
                 "image": "https://uploads.mangadex.org/covers/a0c06f23-88b5-4880-9346-c0c7685f918a/3c34df77-8f13-4287-a667-275198ab0a6d.jpg",
                 "malId": 106991,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fp983272": {
+                "id": 110636,
                 "identifier": "manga-fp983272",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/g/10-1732799556.jpg",
                 "malId": 106991,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-fp983272"
             }
         },
-        "MangaFire": {
-            "iyagatteru-kimi-ga-suki.0238k": {
-                "identifier": "iyagatteru-kimi-ga-suki.0238k",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d76149f61bc8a1105ff3879111af146b.jpg",
-                "malId": 106991,
-                "aniId": 103553,
-                "page": "MangaFire",
-                "title": "Iyagatteru Kimi ga Suki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iyagatteru-kimi-ga-suki.0238k/"
-            },
-            "0238k": {
-                "identifier": "0238k",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d76149f61bc8a1105ff3879111af146b.jpg",
-                "malId": 106991,
-                "aniId": 103553,
-                "page": "MangaFire",
-                "title": "Iyagatteru Kimi ga Suki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iyagatteru-kimi-ga-suki.0238k/"
-            }
-        },
         "MangaFox": {
             "iyagatteru_kimi_ga_suki": {
+                "id": 184244,
                 "identifier": "iyagatteru_kimi_ga_suki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31601/cover.jpg",
                 "malId": 106991,
@@ -62,6 +43,19 @@
                 "title": "Iyagatteru Kimi ga Suki",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/iyagatteru_kimi_ga_suki/"
+            }
+        },
+        "MangaFire": {
+            "0238k": {
+                "id": 258561,
+                "identifier": "0238k",
+                "image": "https://static.mangafire.to/ce25/i/d/d7/d76149f61bc8a1105ff3879111af146b.jpg",
+                "malId": 106991,
+                "aniId": 103553,
+                "page": "MangaFire",
+                "title": "Iyagatteru Kimi ga Suki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/iyagatteru-kimi-ga-sukii.0238k"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0c44cf39-3d6c-4472-815b-9e163613cfe9": {
+                "id": 23600,
                 "identifier": "0c44cf39-3d6c-4472-815b-9e163613cfe9",
                 "image": "https://uploads.mangadex.org/covers/0c44cf39-3d6c-4472-815b-9e163613cfe9/69d7e227-4751-4baf-a7ee-1e55a575db45.jpg",
                 "malId": 115122,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kimi_ga_shinu_made_koi_wo_shitai": {
+                "id": 68567,
                 "identifier": "kimi_ga_shinu_made_koi_wo_shitai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30587/cover.jpg",
                 "malId": 115122,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dc980385": {
+                "id": 74729,
                 "identifier": "manga-dc980385",
                 "image": "https://avt.mkklcdnv6temp.com/26/r/17-1583496212.jpg",
                 "malId": 115122,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "kimi-ga-shinu-made-koi-wo-shitai": {
+                "id": 125812,
                 "identifier": "kimi-ga-shinu-made-koi-wo-shitai",
                 "image": "https://temp.compsci88.com/cover/Kimi-ga-Shinu-Made-Koi-wo-Shitai.jpg",
                 "malId": 115122,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Kimi-ga-Shinu-Made-Koi-wo-Shitai"
             }
         },
-        "MangaFire": {
-            "kimi-ga-shinu-made-koi-wo-shitai.llkyz": {
-                "identifier": "kimi-ga-shinu-made-koi-wo-shitai.llkyz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66fce25632e5ed8161490bb751499a40.jpg",
-                "malId": 115122,
-                "aniId": 104045,
-                "page": "MangaFire",
-                "title": "My Wish Is to Fall in Love Until You Die.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ga-shinu-made-koi-wo-shitai.llkyz/"
-            },
-            "kimi-ga-shinu-made-koi-wo-shitaii.llkyz": {
-                "identifier": "kimi-ga-shinu-made-koi-wo-shitaii.llkyz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66fce25632e5ed8161490bb751499a40.jpg",
-                "malId": 115122,
-                "aniId": 104045,
-                "page": "MangaFire",
-                "title": "My Wish Is to Fall in Love Until You Die.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ga-shinu-made-koi-wo-shitaii.llkyz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfzr64n2thb4a10b44fy": {
+                "id": 209962,
                 "identifier": "01j76xyfzr64n2thb4a10b44fy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFZR64N2THB4A10B44FY.jpg",
                 "malId": 115122,
@@ -86,6 +69,19 @@
                 "title": "Kimi ga Shinu made Koi wo shitai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFZR64N2THB4A10B44FY"
+            }
+        },
+        "MangaFire": {
+            "llkyz": {
+                "id": 228639,
+                "identifier": "llkyz",
+                "image": "https://static.mangafire.to/d017/i/6/66/66fce25632e5ed8161490bb751499a40.jpg",
+                "malId": 115122,
+                "aniId": 104045,
+                "page": "MangaFire",
+                "title": "My Wish Is to Fall in Love Until You Die.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ga-shinu-made-koi-wo-shitaii.llkyz"
             }
         },
         "Comick": {

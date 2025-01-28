@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0512e2a1-a241-42ab-ab19-24f092a769e4": {
+                "id": 54980,
                 "identifier": "0512e2a1-a241-42ab-ab19-24f092a769e4",
                 "image": "https://uploads.mangadex.org/covers/0512e2a1-a241-42ab-ab19-24f092a769e4/1546414c-0d94-497f-ba79-af2b778f9a07.jpg",
                 "malId": 139438,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "toukyou_kettou_kanjou_sen": {
+                "id": 88899,
                 "identifier": "toukyou_kettou_kanjou_sen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39472/cover.jpg",
                 "malId": 139438,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tokyo-duel": {
+                "id": 91092,
                 "identifier": "tokyo-duel",
                 "image": "https://temp.compsci88.com/cover/Tokyo-Duel.jpg",
                 "malId": 139438,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Tokyo-Duel"
             }
         },
-        "MangaFire": {
-            "tokyo-duel.p379": {
-                "identifier": "tokyo-duel.p379",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a331a81ee0b5841063620f7e9b179205.jpg",
-                "malId": 139438,
-                "aniId": 127845,
-                "page": "MangaFire",
-                "title": "Tokyo Duel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-duel.p379/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5vp6h1c5gjrttsenq1": {
+                "id": 213011,
                 "identifier": "01j76xyf5vp6h1c5gjrttsenq1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5VP6H1C5GJRTTSENQ1.jpg",
                 "malId": 139438,
@@ -64,6 +56,19 @@
                 "title": "Tokyo Duel",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF5VP6H1C5GJRTTSENQ1"
+            }
+        },
+        "MangaFire": {
+            "p379": {
+                "id": 234376,
+                "identifier": "p379",
+                "image": "https://static.mangafire.to/69a5/i/a/a3/a331a81ee0b5841063620f7e9b179205.jpg",
+                "malId": 139438,
+                "aniId": 127845,
+                "page": "MangaFire",
+                "title": "Tokyo Duel",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-duell.p379"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a": {
+                "id": 21592,
                 "identifier": "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
                 "image": "https://uploads.mangadex.org/covers/ddb80900-12c2-4b9e-bfb7-cb8abc082f9a/05d5291b-6f5a-48d6-8510-f5b71e330bb6.jpg",
                 "malId": 111136,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/ddb80900-12c2-4b9e-bfb7-cb8abc082f9a"
             },
             "26c21fc9-c1b2-4175-a23e-893b0680c669": {
+                "id": 107861,
                 "identifier": "26c21fc9-c1b2-4175-a23e-893b0680c669",
                 "image": "https://uploads.mangadex.org/covers/26c21fc9-c1b2-4175-a23e-893b0680c669/b08a7b98-cb3e-4a80-a4f0-b2b77dd66f06.jpg",
                 "malId": 111136,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "ojousama_no_shimobe": {
+                "id": 54393,
                 "identifier": "ojousama_no_shimobe",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28446/cover.jpg",
                 "malId": 111136,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "ojousama-no-shimobe": {
+                "id": 54415,
                 "identifier": "ojousama-no-shimobe",
                 "image": "https://temp.compsci88.com/cover/Ojousama-No-Shimobe.jpg",
                 "malId": 111136,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-dz980408": {
+                "id": 74610,
                 "identifier": "manga-dz980408",
                 "image": "https://avt.mkklcdnv6temp.com/27/o/17-1583496246.jpg",
                 "malId": 111136,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-dz980408"
             }
         },
-        "MangaFire": {
-            "ojousama-no-shimobe.5lpj": {
-                "identifier": "ojousama-no-shimobe.5lpj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6fe915352ecba5200783f0aa63499d2a.jpg",
-                "malId": 111136,
-                "aniId": 104133,
-                "page": "MangaFire",
-                "title": "The Lady's Servant",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ojousama-no-shimobe.5lpj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycpehcqsh8p9rtern34a": {
+                "id": 210815,
                 "identifier": "01j76xycpehcqsh8p9rtern34a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCPEHCQSH8P9RTERN34A.jpg",
                 "malId": 111136,
@@ -86,6 +80,19 @@
                 "title": "The Lady's Servant",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCPEHCQSH8P9RTERN34A"
+            }
+        },
+        "MangaFire": {
+            "5lpj": {
+                "id": 255316,
+                "identifier": "5lpj",
+                "image": "https://static.mangafire.to/4023/i/6/6f/6fe915352ecba5200783f0aa63499d2a.jpg",
+                "malId": 111136,
+                "aniId": 104133,
+                "page": "MangaFire",
+                "title": "The Lady's Servant",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ojousama-no-shimobee.5lpj"
             }
         },
         "Comick": {

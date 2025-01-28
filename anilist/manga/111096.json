@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38171909-df1d-42eb-b029-f4d59b6dfa59": {
+                "id": 29732,
                 "identifier": "38171909-df1d-42eb-b029-f4d59b6dfa59",
                 "image": "https://uploads.mangadex.org/covers/38171909-df1d-42eb-b029-f4d59b6dfa59/78563cdf-341e-440b-ab7c-47a692fda40a.jpg",
                 "malId": 147579,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "a_capable_maid": {
+                "id": 56488,
                 "identifier": "a_capable_maid",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31672/cover.jpg",
                 "malId": 147579,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "a-capable-maid": {
+                "id": 66656,
                 "identifier": "a-capable-maid",
                 "image": "https://temp.compsci88.com/cover/A-Capable-Maid.jpg",
                 "malId": 147579,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fr982474": {
+                "id": 75016,
                 "identifier": "manga-fr982474",
                 "image": "https://avt.mkklcdnv6temp.com/3/e/19-1583499193.jpg",
                 "malId": 147579,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fr982474"
             }
         },
-        "MangaFire": {
-            "a-capable-maid.xr143": {
-                "identifier": "a-capable-maid.xr143",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60ed034cbacf49e14572070efc5be570.jpg",
-                "malId": 147579,
-                "aniId": 111096,
-                "page": "MangaFire",
-                "title": "A Talented Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-capable-maid.xr143/"
-            }
-        },
         "Weebcentral": {
             "01j76xyefffx05kg5a89jxqadv": {
+                "id": 209244,
                 "identifier": "01j76xyefffx05kg5a89jxqadv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEFFFX05KG5A89JXQADV.jpg",
                 "malId": 147579,
@@ -76,6 +69,19 @@
                 "title": "A Talented Maid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEFFFX05KG5A89JXQADV"
+            }
+        },
+        "MangaFire": {
+            "xr143": {
+                "id": 261655,
+                "identifier": "xr143",
+                "image": "https://static.mangafire.to/789c/i/6/60/60ed034cbacf49e14572070efc5be570.jpg",
+                "malId": 147579,
+                "aniId": 111096,
+                "page": "MangaFire",
+                "title": "A Talented Maid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-capable-maidd.xr143"
             }
         },
         "Comick": {

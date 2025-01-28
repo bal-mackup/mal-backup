@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a7ca2fdd-2454-49b4-af52-d308217a8001": {
+                "id": 15761,
                 "identifier": "a7ca2fdd-2454-49b4-af52-d308217a8001",
                 "image": "https://uploads.mangadex.org/covers/a7ca2fdd-2454-49b4-af52-d308217a8001/6901d08e-0b20-4e0f-8e74-229b258d966c.jpg",
                 "malId": 93852,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "terra-formars-gaiden-asimov": {
+                "id": 71393,
                 "identifier": "terra-formars-gaiden-asimov",
                 "image": "https://temp.compsci88.com/cover/Terra-Formars-Gaiden-Asimov.jpg",
                 "malId": 93852,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Terra-Formars-Gaiden-Asimov"
             }
         },
-        "MangaFire": {
-            "terra-formars-gaiden-asimov.rlx2y": {
-                "identifier": "terra-formars-gaiden-asimov.rlx2y",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93e344cbbd47584425905acd390206f2.jpg",
-                "malId": 93852,
-                "aniId": 96249,
-                "page": "MangaFire",
-                "title": "Terra Formars Gaiden - Asimov",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/terra-formars-gaiden-asimov.rlx2y/"
-            },
-            "terra-formars-gaiden-asimovv.rlx2y": {
-                "identifier": "terra-formars-gaiden-asimovv.rlx2y",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93e344cbbd47584425905acd390206f2.jpg",
-                "malId": 93852,
-                "aniId": 96249,
-                "page": "MangaFire",
-                "title": "Terra Formars Gaiden - Asimov",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/terra-formars-gaiden-asimovv.rlx2y/"
-            }
-        },
         "Weebcentral": {
             "01j76xybs4rk8nha89y5f3p528": {
+                "id": 213487,
                 "identifier": "01j76xybs4rk8nha89y5f3p528",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBS4RK8NHA89Y5F3P528.jpg",
                 "malId": 93852,
@@ -62,6 +43,19 @@
                 "title": "Terra Formars Gaiden - Asimov",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBS4RK8NHA89Y5F3P528"
+            }
+        },
+        "MangaFire": {
+            "rlx2y": {
+                "id": 229407,
+                "identifier": "rlx2y",
+                "image": "https://static.mangafire.to/6395/i/9/93/93e344cbbd47584425905acd390206f2.jpg",
+                "malId": 93852,
+                "aniId": 96249,
+                "page": "MangaFire",
+                "title": "Terra Formars Gaiden - Asimov",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/terra-formars-gaiden-asimovv.rlx2y"
             }
         },
         "Comick": {

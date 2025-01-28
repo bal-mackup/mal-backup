@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "85e284be-1316-48d7-a086-14e17dd85462": {
+                "id": 32372,
                 "identifier": "85e284be-1316-48d7-a086-14e17dd85462",
                 "image": "https://uploads.mangadex.org/covers/85e284be-1316-48d7-a086-14e17dd85462/067fb1b1-4c01-4a5e-8a66-59e5a9871bfd.jpg",
                 "malId": 120946,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "no-youna": {
+                "id": 63315,
                 "identifier": "no-youna",
                 "image": "https://temp.compsci88.com/cover/No-Youna.jpg",
                 "malId": 120946,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-je986961": {
+                "id": 88240,
                 "identifier": "manga-je986961",
                 "image": "https://avt.mkklcdnv6temp.com/28/b/22-1602904488.jpg",
                 "malId": 120946,
@@ -42,8 +45,9 @@
                 "url": "https://chapmanganato.com/manga-je986961"
             },
             "manga-av1004204": {
+                "id": 196928,
                 "identifier": "manga-av1004204",
-                "image": "https://avt.mkklcdnv6temp.com/30/b/36-1726070025.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/13/h/18-1733328069-nw.webp",
                 "malId": 120946,
                 "aniId": 111628,
                 "page": "MangaNato",
@@ -52,20 +56,9 @@
                 "url": "https://manganato.com/manga-av1004204"
             }
         },
-        "MangaFire": {
-            "no-you-na.52ymq": {
-                "identifier": "no-you-na.52ymq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b7a2040698eebb714f95cf919dbed3ba.jpg",
-                "malId": 120946,
-                "aniId": 111628,
-                "page": "MangaFire",
-                "title": "Or Something Like It",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-you-na.52ymq/"
-            }
-        },
         "MangaFox": {
             "no_youna_asou_kai": {
+                "id": 186375,
                 "identifier": "no_youna_asou_kai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35861/cover.jpg",
                 "malId": 120946,
@@ -78,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xydj7517fkp7bd9gwg295": {
+                "id": 208853,
                 "identifier": "01j76xydj7517fkp7bd9gwg295",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJ7517FKP7BD9GWG295.jpg",
                 "malId": 120946,
@@ -86,6 +80,19 @@
                 "title": "No Youna",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJ7517FKP7BD9GWG295"
+            }
+        },
+        "MangaFire": {
+            "52ymq": {
+                "id": 254834,
+                "identifier": "52ymq",
+                "image": "https://static.mangafire.to/a916/i/b/b7/b7a2040698eebb714f95cf919dbed3ba.jpg",
+                "malId": 120946,
+                "aniId": 111628,
+                "page": "MangaFire",
+                "title": "Or Something Like It",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-you-naa.52ymq"
             }
         },
         "Comick": {

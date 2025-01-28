@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6adefee7-bf65-407a-8696-7417115870ed": {
+                "id": 32255,
                 "identifier": "6adefee7-bf65-407a-8696-7417115870ed",
                 "image": "https://uploads.mangadex.org/covers/6adefee7-bf65-407a-8696-7417115870ed/de318950-0f2e-4fd2-9493-876b54db91aa.jpg",
                 "malId": 122152,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mori-no-hotori-de-jam-wo-niru-isekai-de-hajimeru-inakagurashi": {
+                "id": 69333,
                 "identifier": "mori-no-hotori-de-jam-wo-niru-isekai-de-hajimeru-inakagurashi",
                 "image": "https://temp.compsci88.com/cover/Mori-no-Hotori-de-Jam-wo-Niru-Isekai-de-Hajimeru-Inakagurashi.jpg",
                 "malId": 122152,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mori_no_hotori_de_jam_wo_niru_isekai_de_hajimeru_inakagurashi": {
+                "id": 84035,
                 "identifier": "mori_no_hotori_de_jam_wo_niru_isekai_de_hajimeru_inakagurashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33446/cover.jpg",
                 "malId": 122152,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/mori_no_hotori_de_jam_wo_niru_isekai_de_hajimeru_inakagurashi/"
             }
         },
-        "MangaFire": {
-            "mori-no-hotori-de-jam-wo-niru.525zm": {
-                "identifier": "mori-no-hotori-de-jam-wo-niru.525zm",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b16e5fccf61f9c02548068da9e59cea5.jpg",
-                "malId": 122152,
-                "aniId": 112283,
-                "page": "MangaFire",
-                "title": "Mori no Hotori de Jam wo Niru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mori-no-hotori-de-jam-wo-niru.525zm/"
-            }
-        },
         "Weebcentral": {
             "01j76xye5k2n7ess90s7mcbw95": {
+                "id": 213035,
                 "identifier": "01j76xye5k2n7ess90s7mcbw95",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE5K2N7ESS90S7MCBW95.jpg",
                 "malId": 122152,
@@ -64,6 +56,19 @@
                 "title": "Mori no Hotori de Jam wo Niru: Isekai de Hajimeru Inakagurashi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE5K2N7ESS90S7MCBW95"
+            }
+        },
+        "MangaFire": {
+            "525zm": {
+                "id": 250716,
+                "identifier": "525zm",
+                "image": "https://static.mangafire.to/90ec/i/b/b1/b16e5fccf61f9c02548068da9e59cea5.jpg",
+                "malId": 122152,
+                "aniId": 112283,
+                "page": "MangaFire",
+                "title": "Mori no Hotori de Jam wo Niru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mori-no-hotori-de-jam-wo-niruu.525zm"
             }
         },
         "Comick": {

@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/3/245537.jpg",
     "Sites": {
-        "MangaFire": {
-            "sakaki-kun-no-flight-plan.1rzkv": {
-                "identifier": "sakaki-kun-no-flight-plan.1rzkv",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea28e63b8375f89ee2f9985777c93ef.jpg",
-                "malId": 134570,
-                "aniId": 127559,
-                "page": "MangaFire",
-                "title": "Sakaki-kun no Flight Plan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakaki-kun-no-flight-plan.1rzkv/"
-            }
-        },
         "MangaNato": {
             "manga-ab1004010": {
+                "id": 215356,
                 "identifier": "manga-ab1004010",
                 "image": "https://avt.mkklcdnv6temp.com/fld/5/w/18-1733327604-nw.webp",
                 "malId": 134570,
@@ -28,6 +17,19 @@
                 "title": "Sakaki-Kun No Flight Plan",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-ab1004010"
+            }
+        },
+        "MangaFire": {
+            "1rzkv": {
+                "id": 235768,
+                "identifier": "1rzkv",
+                "image": "https://static.mangafire.to/161a/i/6/6e/6ea28e63b8375f89ee2f9985777c93ef.jpg",
+                "malId": 134570,
+                "aniId": 127559,
+                "page": "MangaFire",
+                "title": "Sakaki-kun no Flight Plan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sakaki-kun-no-flight-plann.1rzkv"
             }
         }
     },

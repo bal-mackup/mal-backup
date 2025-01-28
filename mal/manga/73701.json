@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3b1892f3-0cf7-403d-a98a-44c466b9b4d1": {
+                "id": 10721,
                 "identifier": "3b1892f3-0cf7-403d-a98a-44c466b9b4d1",
                 "image": "https://uploads.mangadex.org/covers/3b1892f3-0cf7-403d-a98a-44c466b9b4d1/fec0a0b6-a44c-4fb0-ac30-11d4f239e615.jpg",
                 "malId": 73701,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ff951362": {
+                "id": 93234,
                 "identifier": "manga-ff951362",
                 "image": "https://avt.mkklcdnv6temp.com/fld/5/c/1-1732716576-nw.webp",
                 "malId": 73701,
@@ -30,40 +32,9 @@
                 "url": "https://manganato.com/manga-ff951362"
             }
         },
-        "MangaFire": {
-            "eg-maker.32zy": {
-                "identifier": "eg-maker.32zy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a15a1b954ad1aa549277d61d76436135.jpg",
-                "malId": 73701,
-                "aniId": 91861,
-                "page": "MangaFire",
-                "title": "EG Maker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eg-maker.32zy/"
-            },
-            "eg-makerr.32zy": {
-                "identifier": "eg-makerr.32zy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a15a1b954ad1aa549277d61d76436135.jpg",
-                "malId": 73701,
-                "aniId": 91861,
-                "page": "MangaFire",
-                "title": "EG Maker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eg-makerr.32zy/"
-            },
-            "32zy": {
-                "identifier": "32zy",
-                "image": "https://static.mangafire.to/c733/i/a/a1/a15a1b954ad1aa549277d61d76436135.jpg",
-                "malId": 73701,
-                "aniId": 91861,
-                "page": "MangaFire",
-                "title": "EG Maker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eg-makerr.32zy"
-            }
-        },
         "MangaFox": {
             "eg_maker": {
+                "id": 188132,
                 "identifier": "eg_maker",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17995/cover.jpg",
                 "malId": 73701,
@@ -72,6 +43,19 @@
                 "title": "EG Maker",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/eg_maker/"
+            }
+        },
+        "MangaFire": {
+            "32zy": {
+                "id": 224934,
+                "identifier": "32zy",
+                "image": "https://static.mangafire.to/c733/i/a/a1/a15a1b954ad1aa549277d61d76436135.jpg",
+                "malId": 73701,
+                "aniId": 91861,
+                "page": "MangaFire",
+                "title": "EG Maker",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eg-makerr.32zy"
             }
         },
         "Comick": {

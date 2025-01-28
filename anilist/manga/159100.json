@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "80f06ea5-2ff5-4155-bb0d-df4dbf97db40": {
+                "id": 121157,
                 "identifier": "80f06ea5-2ff5-4155-bb0d-df4dbf97db40",
                 "image": "https://uploads.mangadex.org/covers/80f06ea5-2ff5-4155-bb0d-df4dbf97db40/06ce2055-a0e0-4050-8c9d-6020dff0f858.jpg",
                 "malId": 152314,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qv993578": {
+                "id": 122103,
                 "identifier": "manga-qv993578",
                 "image": "https://avt.mkklcdnv6temp.com/3/q/28-1673840294.jpg",
                 "malId": 152314,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-qv993578"
             }
         },
-        "MangaFire": {
-            "souei-sousho.xjm0v": {
-                "identifier": "souei-sousho.xjm0v",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b05e93304f59511fbb7d670551de97c7.jpg",
-                "malId": 152314,
-                "aniId": 159100,
-                "page": "MangaFire",
-                "title": "Souei Sousho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/souei-sousho.xjm0v/"
-            }
-        },
         "MangaFox": {
             "souei_sousho": {
+                "id": 190381,
                 "identifier": "souei_sousho",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45424/cover.jpg",
                 "malId": 152314,
@@ -52,6 +43,19 @@
                 "title": "Souei Sousho",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/souei_sousho/"
+            }
+        },
+        "MangaFire": {
+            "xjm0v": {
+                "id": 248823,
+                "identifier": "xjm0v",
+                "image": "https://static.mangafire.to/b39f/i/b/b0/b05e93304f59511fbb7d670551de97c7.jpg",
+                "malId": 152314,
+                "aniId": 159100,
+                "page": "MangaFire",
+                "title": "Souei Sousho",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/souei-soushoo.xjm0v"
             }
         },
         "Comick": {

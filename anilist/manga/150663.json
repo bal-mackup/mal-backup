@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e2331661-2a88-40d4-ac1a-e61ad776ed48": {
+                "id": 105309,
                 "identifier": "e2331661-2a88-40d4-ac1a-e61ad776ed48",
                 "image": "https://uploads.mangadex.org/covers/e2331661-2a88-40d4-ac1a-e61ad776ed48/598fa2fa-91a9-4606-910b-fea4519fe507.png",
                 "malId": 150164,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-of991362": {
+                "id": 108038,
                 "identifier": "manga-of991362",
                 "image": "https://avt.mkklcdnv6temp.com/13/l/26-1655985355.jpg",
                 "malId": 150164,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "for_my_derelict_favorite": {
+                "id": 112213,
                 "identifier": "for_my_derelict_favorite",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42753/cover.jpg",
                 "malId": 150164,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/for_my_derelict_favorite/"
             }
         },
-        "MangaFire": {
-            "for-my-derelict-beloved.37jq2": {
-                "identifier": "for-my-derelict-beloved.37jq2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ec/ec8288e2160ac31e3711678cf9e38884.jpg",
-                "malId": 150164,
-                "aniId": 150663,
-                "page": "MangaFire",
-                "title": "For My Derelict Favorite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/for-my-derelict-beloved.37jq2/"
-            },
-            "for-my-derelict-belovedd.37jq2": {
-                "identifier": "for-my-derelict-belovedd.37jq2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ec/ec8288e2160ac31e3711678cf9e38884.jpg",
-                "malId": 150164,
-                "aniId": 150663,
-                "page": "MangaFire",
-                "title": "For My Derelict Favorite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/for-my-derelict-belovedd.37jq2/"
-            }
-        },
         "MangaSee": {
             "for-my-derelict-favorite": {
+                "id": 186107,
                 "identifier": "for-my-derelict-favorite",
                 "image": "https://temp.compsci88.com/cover/For-My-Derelict-Favorite.jpg",
                 "malId": 150164,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh3w1zg41fjxnzr24909": {
+                "id": 214329,
                 "identifier": "01j76xyh3w1zg41fjxnzr24909",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH3W1ZG41FJXNZR24909.jpg",
                 "malId": 150164,
@@ -86,6 +69,19 @@
                 "title": "For My Derelict Favorite",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH3W1ZG41FJXNZR24909"
+            }
+        },
+        "MangaFire": {
+            "37jq2": {
+                "id": 226593,
+                "identifier": "37jq2",
+                "image": "https://static.mangafire.to/7638/i/e/ec/ec8288e2160ac31e3711678cf9e38884.jpg",
+                "malId": 150164,
+                "aniId": 150663,
+                "page": "MangaFire",
+                "title": "For My Derelict Favorite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/for-my-derelict-belovedd.37jq2"
             }
         },
         "Comick": {

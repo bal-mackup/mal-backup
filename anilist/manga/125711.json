@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eabe065f-5fe8-433f-b397-41d237f174e2": {
+                "id": 57324,
                 "identifier": "eabe065f-5fe8-433f-b397-41d237f174e2",
                 "image": "https://uploads.mangadex.org/covers/eabe065f-5fe8-433f-b397-41d237f174e2/be7d8830-2672-4831-8e82-97a51fd56cbc.jpg",
                 "malId": 132526,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shaman-king-a-garden": {
+                "id": 107046,
                 "identifier": "shaman-king-a-garden",
                 "image": "https://temp.compsci88.com/cover/SHAMAN-KING-a-garden.jpg",
                 "malId": 132526,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/SHAMAN-KING-a-garden"
             }
         },
-        "MangaFire": {
-            "shaman-king-a-garden.qxv": {
-                "identifier": "shaman-king-a-garden.qxv",
-                "image": "https://static.mangafire.to/3b2d5/i/9/92/9246e23e17b4e51c67c5ed942a2116da.jpg",
-                "malId": 132526,
-                "aniId": 125711,
-                "page": "MangaFire",
-                "title": "SHAMAN KING & a Garden",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shaman-king-a-garden.qxv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfgj5c8pjqq6yfy9tfme": {
+                "id": 207391,
                 "identifier": "01j76xyfgj5c8pjqq6yfy9tfme",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFGJ5C8PJQQ6YFY9TFME.jpg",
                 "malId": 132526,
@@ -52,6 +43,19 @@
                 "title": "Shaman King - & a garden",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFGJ5C8PJQQ6YFY9TFME"
+            }
+        },
+        "MangaFire": {
+            "qxv": {
+                "id": 249257,
+                "identifier": "qxv",
+                "image": "https://static.mangafire.to/95eb/i/9/92/9246e23e17b4e51c67c5ed942a2116da.jpg",
+                "malId": 132526,
+                "aniId": 125711,
+                "page": "MangaFire",
+                "title": "SHAMAN KING & a Garden",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shaman-king-a-gardenn.qxv"
             }
         },
         "MangaReader": {

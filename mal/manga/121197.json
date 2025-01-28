@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4809bb6c-1af2-41c5-9291-983027602d7f": {
+                "id": 29999,
                 "identifier": "4809bb6c-1af2-41c5-9291-983027602d7f",
                 "image": "https://uploads.mangadex.org/covers/4809bb6c-1af2-41c5-9291-983027602d7f/250afa4e-0bea-4a6d-a451-77c6a8c9e24c.jpg",
                 "malId": 121197,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "shy": {
+                "id": 55766,
                 "identifier": "shy",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31129/cover.jpg",
                 "malId": 121197,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "shy": {
+                "id": 57462,
                 "identifier": "shy",
                 "image": "https://temp.compsci88.com/cover/SHY.jpg",
                 "malId": 121197,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fw982579": {
+                "id": 74314,
                 "identifier": "manga-fw982579",
                 "image": "https://avt.mkklcdnv6temp.com/6/w/19-1583499342.jpg",
                 "malId": 121197,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fw982579"
             }
         },
-        "MangaFire": {
-            "shy.4qm5o": {
-                "identifier": "shy.4qm5o",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd598c2d0797212e7ddcb0a774e4ad06.jpg",
-                "malId": 121197,
-                "aniId": 110909,
-                "page": "MangaFire",
-                "title": "Shy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shy.4qm5o/"
-            },
-            "shyy.4qm5o": {
-                "identifier": "shyy.4qm5o",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd598c2d0797212e7ddcb0a774e4ad06.jpg",
-                "malId": 121197,
-                "aniId": 110909,
-                "page": "MangaFire",
-                "title": "Shy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shyy.4qm5o/"
-            }
-        },
         "Weebcentral": {
             "01j76xydxqgmxt06b1923ypvfc": {
+                "id": 210028,
                 "identifier": "01j76xydxqgmxt06b1923ypvfc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDXQGMXT06B1923YPVFC.jpg",
                 "malId": 121197,
@@ -86,6 +69,19 @@
                 "title": "SHY",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDXQGMXT06B1923YPVFC"
+            }
+        },
+        "MangaFire": {
+            "4qm5o": {
+                "id": 225755,
+                "identifier": "4qm5o",
+                "image": "https://static.mangafire.to/43b1/i/f/fd/fd598c2d0797212e7ddcb0a774e4ad06.jpg",
+                "malId": 121197,
+                "aniId": 110909,
+                "page": "MangaFire",
+                "title": "Shy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shyy.4qm5o"
             }
         },
         "Comick": {

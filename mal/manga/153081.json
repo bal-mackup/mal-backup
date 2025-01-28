@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9ef6e461-033b-4976-b222-943856c94a97": {
+                "id": 112286,
                 "identifier": "9ef6e461-033b-4976-b222-943856c94a97",
                 "image": "https://uploads.mangadex.org/covers/9ef6e461-033b-4976-b222-943856c94a97/cf2a516c-11e1-4410-812e-1aad61b4e76f.jpg",
                 "malId": 153081,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/9ef6e461-033b-4976-b222-943856c94a97"
             }
         },
-        "MangaFire": {
-            "smiley.2o345": {
-                "identifier": "smiley.2o345",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6cca52cd176f1e19321dfc55c6f323a4.jpg",
-                "malId": 153081,
-                "aniId": 141834,
-                "page": "MangaFire",
-                "title": "Smiley",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/smiley.2o345/"
-            },
-            "smileyy.2o345": {
-                "identifier": "smileyy.2o345",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6cca52cd176f1e19321dfc55c6f323a4.jpg",
-                "malId": 153081,
-                "aniId": 141834,
-                "page": "MangaFire",
-                "title": "Smiley",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/smileyy.2o345/"
-            }
-        },
         "MangaNato": {
             "manga-sb995936": {
+                "id": 157860,
                 "identifier": "manga-sb995936",
                 "image": "https://avt.mkklcdnv6temp.com/fld/97/f/14-1733306393-nw.webp",
                 "malId": 153081,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "smiley_hattori_mitei": {
+                "id": 194542,
                 "identifier": "smiley_hattori_mitei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46218/cover.jpg",
                 "malId": 153081,
@@ -62,6 +43,19 @@
                 "title": "Smiley (HATTORI Mitei)",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/smiley_hattori_mitei/"
+            }
+        },
+        "MangaFire": {
+            "2o345": {
+                "id": 224907,
+                "identifier": "2o345",
+                "image": "https://static.mangafire.to/af42/i/6/6c/6cca52cd176f1e19321dfc55c6f323a4.jpg",
+                "malId": 153081,
+                "aniId": 141834,
+                "page": "MangaFire",
+                "title": "Smiley",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/smileyy.2o345"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "333850da-c502-446b-9f2d-20871bc5343f": {
+                "id": 38747,
                 "identifier": "333850da-c502-446b-9f2d-20871bc5343f",
                 "image": "https://uploads.mangadex.org/covers/333850da-c502-446b-9f2d-20871bc5343f/3e9b0617-4380-41d7-9139-a2c35cdc6478.jpg",
                 "malId": 133345,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "iseikai-tensei": {
+                "id": 63817,
                 "identifier": "iseikai-tensei",
                 "image": "https://temp.compsci88.com/cover/Iseikai-Tensei.jpg",
                 "malId": 133345,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jp986750": {
+                "id": 83943,
                 "identifier": "manga-jp986750",
                 "image": "https://avt.mkklcdnv6temp.com/19/i/22-1600664247.jpg",
                 "malId": 133345,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "iseikai_tensei": {
+                "id": 83993,
                 "identifier": "iseikai_tensei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35720/cover.jpg",
                 "malId": 133345,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/iseikai_tensei/"
             }
         },
-        "MangaFire": {
-            "iseikai-tensei.qxzw5": {
-                "identifier": "iseikai-tensei.qxzw5",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f87c2cdfc5ad92ae9c220253cb17d1c.jpg",
-                "malId": 133345,
-                "aniId": 129346,
-                "page": "MangaFire",
-                "title": "Iseikai Tensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iseikai-tensei.qxzw5/"
-            },
-            "iseikai-tenseii.qxzw5": {
-                "identifier": "iseikai-tenseii.qxzw5",
-                "image": "https://static.mangafire.to/4240/i/0/0f/0f87c2cdfc5ad92ae9c220253cb17d1c.jpg",
-                "malId": 133345,
-                "aniId": 129346,
-                "page": "MangaFire",
-                "title": "Iseikai Tensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iseikai-tenseii.qxzw5/"
-            }
-        },
         "Weebcentral": {
             "01j76xydz70b1dx3tc9e34c5ar": {
+                "id": 208539,
                 "identifier": "01j76xydz70b1dx3tc9e34c5ar",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZ70B1DX3TC9E34C5AR.jpg",
                 "malId": 133345,
@@ -86,6 +69,19 @@
                 "title": "Iseikai Tensei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZ70B1DX3TC9E34C5AR"
+            }
+        },
+        "MangaFire": {
+            "qxzw5": {
+                "id": 223362,
+                "identifier": "qxzw5",
+                "image": "https://static.mangafire.to/4240/i/0/0f/0f87c2cdfc5ad92ae9c220253cb17d1c.jpg",
+                "malId": 133345,
+                "aniId": 129346,
+                "page": "MangaFire",
+                "title": "Iseikai Tensei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/iseikai-tenseii.qxzw5"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7f4fc50a-0043-401c-9438-1b7cfd477168": {
+                "id": 17385,
                 "identifier": "7f4fc50a-0043-401c-9438-1b7cfd477168",
                 "image": "https://uploads.mangadex.org/covers/7f4fc50a-0043-401c-9438-1b7cfd477168/6dc5e5d2-45a5-4517-a005-bbb6d2f04218.jpg",
                 "malId": 94919,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bokutachi-ga-yarimashita": {
+                "id": 60277,
                 "identifier": "bokutachi-ga-yarimashita",
                 "image": "https://temp.compsci88.com/cover/Bokutachi-Ga-Yarimashita.jpg",
                 "malId": 94919,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "boku_tachi_ga_yarimashita": {
+                "id": 62471,
                 "identifier": "boku_tachi_ga_yarimashita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25769/cover.jpg",
                 "malId": 94919,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zd977038": {
+                "id": 73223,
                 "identifier": "manga-zd977038",
                 "image": "https://avt.mkklcdnv6temp.com/34/a/15-1583492798.jpg",
                 "malId": 94919,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zd977038"
             }
         },
-        "MangaFire": {
-            "bokutachi-ga-yarimashita.5263m": {
-                "identifier": "bokutachi-ga-yarimashita.5263m",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff7cd1663a0b5bd0e862bbbb2ba087a6.jpg",
-                "malId": 94919,
-                "aniId": 96518,
-                "page": "MangaFire",
-                "title": "Bokutachi ga Yarimashita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokutachi-ga-yarimashita.5263m/"
-            },
-            "bokutachi-ga-yarimashitaa.5263m": {
-                "identifier": "bokutachi-ga-yarimashitaa.5263m",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff7cd1663a0b5bd0e862bbbb2ba087a6.jpg",
-                "malId": 94919,
-                "aniId": 96518,
-                "page": "MangaFire",
-                "title": "Bokutachi ga Yarimashita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bokutachi-ga-yarimashitaa.5263m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8ht95znr8n19p2eyhh": {
+                "id": 210001,
                 "identifier": "01j76xyc8ht95znr8n19p2eyhh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8HT95ZNR8N19P2EYHH.jpg",
                 "malId": 94919,
@@ -86,6 +69,19 @@
                 "title": "Bokutachi ga Yarimashita",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8HT95ZNR8N19P2EYHH"
+            }
+        },
+        "MangaFire": {
+            "5263m": {
+                "id": 225258,
+                "identifier": "5263m",
+                "image": "https://static.mangafire.to/8bb5/i/f/ff/ff7cd1663a0b5bd0e862bbbb2ba087a6.jpg",
+                "malId": 94919,
+                "aniId": 96518,
+                "page": "MangaFire",
+                "title": "Bokutachi ga Yarimashita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bokutachi-ga-yarimashitaa.5263m"
             }
         },
         "Comick": {

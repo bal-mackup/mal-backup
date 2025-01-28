@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9e82933-8f2e-482b-b576-6d698e1d6164": {
+                "id": 38774,
                 "identifier": "e9e82933-8f2e-482b-b576-6d698e1d6164",
                 "image": "https://uploads.mangadex.org/covers/e9e82933-8f2e-482b-b576-6d698e1d6164/c3ccf59f-1e38-4515-9e76-1a0f96bce15b.jpg",
                 "malId": 125256,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ochikazuki_ni_naritai_miyazen_san": {
+                "id": 81206,
                 "identifier": "ochikazuki_ni_naritai_miyazen_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35452/cover.jpg",
                 "malId": 125256,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ex982132": {
+                "id": 81356,
                 "identifier": "manga-ex982132",
                 "image": "https://avt.mkklcdnv6temp.com/3/o/31-1690953137.jpg",
                 "malId": 125256,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "miss-miyazen-would-love-to-get-closer-to-you": {
+                "id": 116054,
                 "identifier": "miss-miyazen-would-love-to-get-closer-to-you",
                 "image": "https://temp.compsci88.com/cover/Miss-Miyazen-Would-Love-to-Get-Closer-to-You.jpg",
                 "malId": 125256,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Miss-Miyazen-Would-Love-to-Get-Closer-to-You"
             }
         },
-        "MangaFire": {
-            "ochikazuki-ni-naritai-miyazen-san.xjpx3": {
-                "identifier": "ochikazuki-ni-naritai-miyazen-san.xjpx3",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/8727e1d8861a2465ab9f54ae002fa957.jpg",
-                "malId": 125256,
-                "aniId": 128997,
-                "page": "MangaFire",
-                "title": "Miss Miyazen Would Love to Get Closer to You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ochikazuki-ni-naritai-miyazen-san.xjpx3/"
-            },
-            "ochikazuki-ni-naritai-miyazen-sann.xjpx3": {
-                "identifier": "ochikazuki-ni-naritai-miyazen-sann.xjpx3",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/8727e1d8861a2465ab9f54ae002fa957.jpg",
-                "malId": 125256,
-                "aniId": 128997,
-                "page": "MangaFire",
-                "title": "Miss Miyazen Would Love to Get Closer to You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ochikazuki-ni-naritai-miyazen-sann.xjpx3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfpwaz9nhh53cz2k6p7n": {
+                "id": 208935,
                 "identifier": "01j76xyfpwaz9nhh53cz2k6p7n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFPWAZ9NHH53CZ2K6P7N.jpg",
                 "malId": 125256,
@@ -86,6 +69,19 @@
                 "title": "Miss Miyazen Would Love to Get Closer to You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFPWAZ9NHH53CZ2K6P7N"
+            }
+        },
+        "MangaFire": {
+            "xjpx3": {
+                "id": 241011,
+                "identifier": "xjpx3",
+                "image": "https://static.mangafire.to/df58/i/8/87/8727e1d8861a2465ab9f54ae002fa957.jpg",
+                "malId": 125256,
+                "aniId": 128997,
+                "page": "MangaFire",
+                "title": "Miss Miyazen Would Love to Get Closer to You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ochikazuki-ni-naritai-miyazen-sann.xjpx3"
             }
         },
         "Comick": {

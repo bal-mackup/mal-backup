@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "77f90d44-f62f-4423-8d40-ba0595ea2cd7": {
+                "id": 11666,
                 "identifier": "77f90d44-f62f-4423-8d40-ba0595ea2cd7",
                 "image": "https://uploads.mangadex.org/covers/77f90d44-f62f-4423-8d40-ba0595ea2cd7/24d35aae-b1e0-4047-ac12-0ffb1190c1aa.jpg",
                 "malId": 80721,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ano-musume-ni-kiss-to-shirayuri-o": {
+                "id": 63948,
                 "identifier": "ano-musume-ni-kiss-to-shirayuri-o",
                 "image": "https://temp.compsci88.com/cover/Ano-Musume-Ni-Kiss-To-Shirayuri-O.jpg",
                 "malId": 80721,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ba978535": {
+                "id": 73990,
                 "identifier": "manga-ba978535",
                 "image": "https://avt.mkklcdnv6temp.com/11/l/16-1583493886.jpg",
                 "malId": 80721,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ba978535"
             }
         },
-        "MangaFire": {
-            "ano-ko-ni-kiss-to-shirayuri-wo.3688": {
-                "identifier": "ano-ko-ni-kiss-to-shirayuri-wo.3688",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/90e17a44a0fe761b872a5d6fc1250d0a.jpg",
-                "malId": 80721,
-                "aniId": 86235,
-                "page": "MangaFire",
-                "title": "Kiss & White Lily for My Dearest Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ano-ko-ni-kiss-to-shirayuri-wo.3688/"
-            },
-            "ano-ko-ni-kiss-to-shirayuri-woo.3688": {
-                "identifier": "ano-ko-ni-kiss-to-shirayuri-woo.3688",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/90e17a44a0fe761b872a5d6fc1250d0a.jpg",
-                "malId": 80721,
-                "aniId": 86235,
-                "page": "MangaFire",
-                "title": "Kiss & White Lily for My Dearest Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ano-ko-ni-kiss-to-shirayuri-woo.3688/"
-            }
-        },
         "Weebcentral": {
             "01j76xybjbkyhr8nhakzz7ydbv": {
+                "id": 212749,
                 "identifier": "01j76xybjbkyhr8nhakzz7ydbv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJBKYHR8NHAKZZ7YDBV.jpg",
                 "malId": 80721,
@@ -74,6 +56,19 @@
                 "title": "Kiss and White Lily for My Dearest Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJBKYHR8NHAKZZ7YDBV"
+            }
+        },
+        "MangaFire": {
+            "3688": {
+                "id": 252947,
+                "identifier": "3688",
+                "image": "https://static.mangafire.to/75a7/i/9/90/90e17a44a0fe761b872a5d6fc1250d0a.jpg",
+                "malId": 80721,
+                "aniId": 86235,
+                "page": "MangaFire",
+                "title": "Kiss & White Lily for My Dearest Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ano-ko-ni-kiss-to-shirayuri-woo.3688"
             }
         },
         "Comick": {

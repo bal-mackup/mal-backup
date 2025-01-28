@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "955c730a-9304-4f82-ae96-af48ff5eaa0c": {
+                "id": 91657,
                 "identifier": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
                 "image": "https://uploads.mangadex.org/covers/955c730a-9304-4f82-ae96-af48ff5eaa0c/d1db736e-8e28-42e4-928a-533031f3a21c.jpg",
                 "malId": 146745,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qq994299": {
+                "id": 124912,
                 "identifier": "manga-qq994299",
                 "image": "https://avt.mkklcdnv6temp.com/32/p/28-1676689378.jpg",
                 "malId": 146745,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qq994299"
             }
         },
-        "MangaFire": {
-            "kurai-anoko-to-shitai-koto.ll61z": {
-                "identifier": "kurai-anoko-to-shitai-koto.ll61z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b1b732c8f70fa034ed836494f41b1d9.jpg",
-                "malId": 146745,
-                "aniId": 141658,
-                "page": "MangaFire",
-                "title": "Kurai Anoko to Shitai koto",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurai-anoko-to-shitai-koto.ll61z/"
-            },
-            "kurai-anoko-to-shitai-kotoo.ll61z": {
-                "identifier": "kurai-anoko-to-shitai-kotoo.ll61z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b1b732c8f70fa034ed836494f41b1d9.jpg",
-                "malId": 146745,
-                "aniId": 141658,
-                "page": "MangaFire",
-                "title": "Kurai Anoko to Shitai koto",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurai-anoko-to-shitai-kotoo.ll61z/"
-            }
-        },
         "MangaSee": {
             "kurai-anoko-to-shitai-koto": {
+                "id": 172496,
                 "identifier": "kurai-anoko-to-shitai-koto",
                 "image": "https://temp.compsci88.com/cover/Kurai-Anoko-to-Shitai-koto.jpg",
                 "malId": 146745,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "kurai_anoko_to_shitai_koto": {
+                "id": 182388,
                 "identifier": "kurai_anoko_to_shitai_koto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45598/cover.jpg",
                 "malId": 146745,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygkneq02eqx0bn89qecz": {
+                "id": 212876,
                 "identifier": "01j76xygkneq02eqx0bn89qecz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGKNEQ02EQX0BN89QECZ.jpg",
                 "malId": 146745,
@@ -86,6 +69,19 @@
                 "title": "Kurai Anoko to Shitai koto",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGKNEQ02EQX0BN89QECZ"
+            }
+        },
+        "MangaFire": {
+            "ll61z": {
+                "id": 228423,
+                "identifier": "ll61z",
+                "image": "https://static.mangafire.to/abfb/i/4/4b/4b1b732c8f70fa034ed836494f41b1d9.jpg",
+                "malId": 146745,
+                "aniId": 141658,
+                "page": "MangaFire",
+                "title": "Kurai Anoko to Shitai koto",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kurai-anoko-to-shitai-kotoo.ll61z"
             }
         },
         "Comick": {

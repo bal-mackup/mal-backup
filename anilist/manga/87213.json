@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2ec86196-430e-4afb-95a1-9e509051ab4b": {
+                "id": 15295,
                 "identifier": "2ec86196-430e-4afb-95a1-9e509051ab4b",
                 "image": "https://uploads.mangadex.org/covers/2ec86196-430e-4afb-95a1-9e509051ab4b/1eb07576-e01a-42ee-aeb2-a66bc582c964.jpg",
                 "malId": 96582,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/2ec86196-430e-4afb-95a1-9e509051ab4b"
             },
             "bac0b691-719d-423c-863b-85d83dab0d93": {
+                "id": 19583,
                 "identifier": "bac0b691-719d-423c-863b-85d83dab0d93",
                 "image": "https://uploads.mangadex.org/covers/bac0b691-719d-423c-863b-85d83dab0d93/71786915-bd17-4f32-a8b6-b1dba33253c4.jpg",
                 "malId": 96582,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "yuragi-sou-no-yuuna-san": {
+                "id": 56708,
                 "identifier": "yuragi-sou-no-yuuna-san",
                 "image": "https://temp.compsci88.com/cover/Yuragi-Sou-No-Yuuna-San.jpg",
                 "malId": 96582,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "yuragi_sou_no_yuuna_san": {
+                "id": 58913,
                 "identifier": "yuragi_sou_no_yuuna_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19809/cover.jpg",
                 "malId": 96582,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-tc971137": {
+                "id": 74388,
                 "identifier": "manga-tc971137",
                 "image": "https://avt.mkklcdnv6temp.com/39/y/13-1583489233.jpg",
                 "malId": 96582,
@@ -64,60 +69,9 @@
                 "url": "https://chapmanganato.com/manga-tc971137"
             }
         },
-        "MangaFire": {
-            "yuragi-sou-no-yuuna-san.mvmo8": {
-                "identifier": "yuragi-sou-no-yuuna-san.mvmo8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a1f5252c2ba7fb03c560d9f3019cebf.jpg",
-                "malId": 96582,
-                "aniId": 87213,
-                "page": "MangaFire",
-                "title": "Yuuna and the Haunted Hot Springs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-san.mvmo8/"
-            },
-            "yuragi-sou-no-yuuna-san-digital-colored-comicss.0r7": {
-                "identifier": "yuragi-sou-no-yuuna-san-digital-colored-comicss.0r7",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a06db62315754f229b7ad0bf4cbe313e.jpg",
-                "malId": 96582,
-                "aniId": 87213,
-                "page": "MangaFire",
-                "title": "Yuuna and the Haunted Hot Springs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-san-digital-colored-comicss.0r7/"
-            },
-            "yuragi-sou-no-yuuna-sann.mvmo8": {
-                "identifier": "yuragi-sou-no-yuuna-sann.mvmo8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a1f5252c2ba7fb03c560d9f3019cebf.jpg",
-                "malId": 96582,
-                "aniId": 87213,
-                "page": "MangaFire",
-                "title": "Yuuna and the Haunted Hot Springs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-sann.mvmo8/"
-            },
-            "mvmo8": {
-                "identifier": "mvmo8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a1f5252c2ba7fb03c560d9f3019cebf.jpg",
-                "malId": 96582,
-                "aniId": 87213,
-                "page": "MangaFire",
-                "title": "Yuuna and the Haunted Hot Springs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-sann.mvmo8/"
-            },
-            "0r7": {
-                "identifier": "0r7",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a06db62315754f229b7ad0bf4cbe313e.jpg",
-                "malId": 96582,
-                "aniId": 87213,
-                "page": "MangaFire",
-                "title": "Yuuna and the Haunted Hot Springs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-san-digital-colored-comicss.0r7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybpyfrnbcm4b3a2822ng": {
+                "id": 210489,
                 "identifier": "01j76xybpyfrnbcm4b3a2822ng",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBPYFRNBCM4B3A2822NG.jpg",
                 "malId": 96582,
@@ -126,6 +80,30 @@
                 "title": "Yuuna and the Haunted Hot Springs",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBPYFRNBCM4B3A2822NG"
+            }
+        },
+        "MangaFire": {
+            "mvmo8": {
+                "id": 224270,
+                "identifier": "mvmo8",
+                "image": "https://static.mangafire.to/eb3c/i/3/3a/3a1f5252c2ba7fb03c560d9f3019cebf.jpg",
+                "malId": 96582,
+                "aniId": 87213,
+                "page": "MangaFire",
+                "title": "Yuuna and the Haunted Hot Springs",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-sann.mvmo8"
+            },
+            "0r7": {
+                "id": 224383,
+                "identifier": "0r7",
+                "image": "https://static.mangafire.to/82b6/i/a/a0/a06db62315754f229b7ad0bf4cbe313e.jpg",
+                "malId": 96582,
+                "aniId": 87213,
+                "page": "MangaFire",
+                "title": "Yuuna and the Haunted Hot Springs",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuragi-sou-no-yuuna-san-digital-colored-comicss.0r7"
             }
         },
         "Comick": {

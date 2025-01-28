@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "21027f93-002a-46c5-83d6-249bff0f8ab7": {
+                "id": 11181,
                 "identifier": "21027f93-002a-46c5-83d6-249bff0f8ab7",
                 "image": "https://uploads.mangadex.org/covers/21027f93-002a-46c5-83d6-249bff0f8ab7/1a99dc10-e12f-475d-9c95-d83f3c3334a4.jpg",
                 "malId": 154192,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lf962962": {
+                "id": 95599,
                 "identifier": "manga-lf962962",
                 "image": "https://avt.mkklcdnv6temp.com/fld/84/j/4-1732764427-nw.webp",
                 "malId": 154192,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-lf962962"
             }
         },
-        "MangaFire": {
-            "when-i-woke-up-i-became-a-bagel-girl.742j": {
-                "identifier": "when-i-woke-up-i-became-a-bagel-girl.742j",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f45cd016ba1808215506cffa30de3906.jpg",
-                "malId": 154192,
-                "aniId": 141957,
-                "page": "MangaFire",
-                "title": "When I Woke Up, I Became A Bagel Girl!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/when-i-woke-up-i-became-a-bagel-girl.742j/"
-            }
-        },
         "MangaFox": {
             "when_i_woke_up_i_became_a_bagel_girl": {
+                "id": 159550,
                 "identifier": "when_i_woke_up_i_became_a_bagel_girl",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14030/cover.jpg",
                 "malId": 154192,
@@ -52,6 +43,19 @@
                 "title": "When I Woke Up I Became a Bagel Girl",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/when_i_woke_up_i_became_a_bagel_girl/"
+            }
+        },
+        "MangaFire": {
+            "742j": {
+                "id": 230951,
+                "identifier": "742j",
+                "image": "https://static.mangafire.to/19e7/i/f/f4/f45cd016ba1808215506cffa30de3906.jpg",
+                "malId": 154192,
+                "aniId": 141957,
+                "page": "MangaFire",
+                "title": "When I Woke Up, I Became A Bagel Girl!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/when-i-woke-up-i-became-a-bagel-girll.742j"
             }
         },
         "Comick": {

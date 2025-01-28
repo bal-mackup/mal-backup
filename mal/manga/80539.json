@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "127820bd-8fc5-47b8-8782-e680317bf41d": {
+                "id": 13724,
                 "identifier": "127820bd-8fc5-47b8-8782-e680317bf41d",
                 "image": "https://uploads.mangadex.org/covers/127820bd-8fc5-47b8-8782-e680317bf41d/32e6d981-2b7e-4386-827a-75fc4274ea4b.jpg",
                 "malId": 80539,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boku-wa-ohime-sama-ni-narenai": {
+                "id": 60667,
                 "identifier": "boku-wa-ohime-sama-ni-narenai",
                 "image": "https://temp.compsci88.com/cover/Boku-Wa-Ohime-Sama-Ni-Narenai.jpg",
                 "malId": 80539,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ns952275": {
+                "id": 97078,
                 "identifier": "manga-ns952275",
                 "image": "https://avt.mkklcdnv6temp.com/fld/36/q/1-1732717823-nw.webp",
                 "malId": 80539,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-ns952275"
             }
         },
-        "MangaFire": {
-            "boku-wa-ohime-sama-ni-narenai.qxl6j": {
-                "identifier": "boku-wa-ohime-sama-ni-narenai.qxl6j",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df76541f5013105528d0fcacfcd2c2c7.jpg",
-                "malId": 80539,
-                "aniId": 86578,
-                "page": "MangaFire",
-                "title": "Boku wa Ohime-sama ni Narenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-ohime-sama-ni-narenai.qxl6j/"
-            }
-        },
         "Weebcentral": {
             "01j76xybefg7bmywf0kgzw3ds1": {
+                "id": 214339,
                 "identifier": "01j76xybefg7bmywf0kgzw3ds1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEFG7BMYWF0KGZW3DS1.jpg",
                 "malId": 80539,
@@ -64,6 +56,19 @@
                 "title": "Boku wa Ohime-sama ni Narenai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEFG7BMYWF0KGZW3DS1"
+            }
+        },
+        "MangaFire": {
+            "qxl6j": {
+                "id": 252519,
+                "identifier": "qxl6j",
+                "image": "https://static.mangafire.to/48b9/i/d/df/df76541f5013105528d0fcacfcd2c2c7.jpg",
+                "malId": 80539,
+                "aniId": 86578,
+                "page": "MangaFire",
+                "title": "Boku wa Ohime-sama ni Narenai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-wa-ohime-sama-ni-narenaii.qxl6j"
             }
         },
         "Comick": {

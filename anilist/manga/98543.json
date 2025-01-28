@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "64ed4d14-9e00-4b63-8799-547a508f5344": {
+                "id": 17396,
                 "identifier": "64ed4d14-9e00-4b63-8799-547a508f5344",
-                "image": "https://uploads.mangadex.org/covers/64ed4d14-9e00-4b63-8799-547a508f5344/b82be954-17ae-4fde-a5da-92b0c6ae8797.jpg",
+                "image": "https://uploads.mangadex.org/covers/64ed4d14-9e00-4b63-8799-547a508f5344/ff6b43b4-356f-4394-b32f-56027023c9a0.jpg",
                 "malId": 105029,
                 "aniId": 98543,
                 "page": "Mangadex",
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/64ed4d14-9e00-4b63-8799-547a508f5344"
             },
             "2c249462-b7a1-40e8-9c09-b93b2887ea94": {
+                "id": 189614,
                 "identifier": "2c249462-b7a1-40e8-9c09-b93b2887ea94",
                 "image": "https://uploads.mangadex.org/covers/2c249462-b7a1-40e8-9c09-b93b2887ea94/9e9a4e8f-caac-4473-825a-d67785108fdc.jpg",
                 "malId": 105029,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "parallel-paradise": {
+                "id": 52006,
                 "identifier": "parallel-paradise",
                 "image": "https://temp.compsci88.com/cover/Parallel-Paradise.jpg",
                 "malId": 105029,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "parallel_paradise": {
+                "id": 54390,
                 "identifier": "parallel_paradise",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24693/cover.jpg",
                 "malId": 105029,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-yz975634": {
+                "id": 72847,
                 "identifier": "manga-yz975634",
                 "image": "https://avt.mkklcdnv6temp.com/13/x/15-1583491961.jpg",
                 "malId": 105029,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-yz975634"
             }
         },
-        "MangaFire": {
-            "parallel-paradise.2oq04": {
-                "identifier": "parallel-paradise.2oq04",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6997e87bbf4783a9bb7015c047c7cf00.jpg",
-                "malId": 105029,
-                "aniId": 98543,
-                "page": "MangaFire",
-                "title": "Parallel Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/parallel-paradise.2oq04/"
-            },
-            "parallel-paradisee.2oq04": {
-                "identifier": "parallel-paradisee.2oq04",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6997e87bbf4783a9bb7015c047c7cf00.jpg",
-                "malId": 105029,
-                "aniId": 98543,
-                "page": "MangaFire",
-                "title": "Parallel Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/parallel-paradisee.2oq04/"
-            },
-            "2oq04": {
-                "identifier": "2oq04",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6997e87bbf4783a9bb7015c047c7cf00.jpg",
-                "malId": 105029,
-                "aniId": 98543,
-                "page": "MangaFire",
-                "title": "Parallel Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/parallel-paradisee.2oq04/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc3mveyyp9qz95dx8xzq": {
+                "id": 207394,
                 "identifier": "01j76xyc3mveyyp9qz95dx8xzq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC3MVEYYP9QZ95DX8XZQ.jpg",
                 "malId": 105029,
@@ -106,6 +80,19 @@
                 "title": "Parallel Paradise",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC3MVEYYP9QZ95DX8XZQ"
+            }
+        },
+        "MangaFire": {
+            "2oq04": {
+                "id": 228148,
+                "identifier": "2oq04",
+                "image": "https://static.mangafire.to/47fa/i/6/69/6997e87bbf4783a9bb7015c047c7cf00.jpg",
+                "malId": 105029,
+                "aniId": 98543,
+                "page": "MangaFire",
+                "title": "Parallel Paradise",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/parallel-paradisee.2oq04"
             }
         },
         "Comick": {

@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "a29bd145-116e-49c8-bc2f-b15857299304": {
+                "id": 14181,
                 "identifier": "a29bd145-116e-49c8-bc2f-b15857299304",
-                "image": "https://uploads.mangadex.org/covers/a29bd145-116e-49c8-bc2f-b15857299304/406c8bdb-a7c4-4dd8-a011-8fcf0e061e76.jpg",
+                "image": "https://uploads.mangadex.org/covers/a29bd145-116e-49c8-bc2f-b15857299304/c879c7ce-108a-4e0e-b5a0-9a2263cb1d97.jpg",
                 "malId": 93287,
                 "aniId": 87134,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ginga-eiyuu-densetsu-fujisaki-ryuu": {
+                "id": 62979,
                 "identifier": "ginga-eiyuu-densetsu-fujisaki-ryuu",
                 "image": "https://temp.compsci88.com/cover/Ginga-Eiyuu-Densetsu-fujisaki-Ryuu.jpg",
                 "malId": 93287,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ginga_eiyuu_densetsu_fujisaki_ryuu": {
+                "id": 67893,
                 "identifier": "ginga_eiyuu_densetsu_fujisaki_ryuu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28226/cover.jpg",
                 "malId": 93287,
@@ -42,50 +45,9 @@
                 "url": "https://fanfox.net/manga/ginga_eiyuu_densetsu_fujisaki_ryuu/"
             }
         },
-        "MangaFire": {
-            "ginga-eiyuu-densetsu.5k8vj": {
-                "identifier": "ginga-eiyuu-densetsu.5k8vj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a80c1029ff14d8d29e422e059b412354.jpg",
-                "malId": 93287,
-                "aniId": 87134,
-                "page": "MangaFire",
-                "title": "Ginga Eiyuu Densetsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ginga-eiyuu-densetsu.5k8vj/"
-            },
-            "legend-of-the-galactic-heroes-fujisaki-ryuu.7w3q1": {
-                "identifier": "legend-of-the-galactic-heroes-fujisaki-ryuu.7w3q1",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22b8df5615775cdb0ef8386f56c843d5.jpg",
-                "malId": 93287,
-                "aniId": 87134,
-                "page": "MangaFire",
-                "title": "Legend of the Galactic Heroes (FUJISAKI Ryu)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/legend-of-the-galactic-heroes-fujisaki-ryuu.7w3q1/"
-            },
-            "7w3q1": {
-                "identifier": "7w3q1",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22b8df5615775cdb0ef8386f56c843d5.jpg",
-                "malId": 93287,
-                "aniId": 87134,
-                "page": "MangaFire",
-                "title": "Legend of the Galactic Heroes (FUJISAKI Ryu)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/legend-of-the-galactic-heroes-fujisaki-ryuu.7w3q1/"
-            },
-            "5k8vj": {
-                "identifier": "5k8vj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a80c1029ff14d8d29e422e059b412354.jpg",
-                "malId": 93287,
-                "aniId": 87134,
-                "page": "MangaFire",
-                "title": "Ginga Eiyuu Densetsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ginga-eiyuu-densetsu.5k8vj/"
-            }
-        },
         "Weebcentral": {
             "01j76xychtxksd2wq38xtc3bz6": {
+                "id": 206189,
                 "identifier": "01j76xychtxksd2wq38xtc3bz6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCHTXKSD2WQ38XTC3BZ6.jpg",
                 "malId": 93287,
@@ -94,6 +56,30 @@
                 "title": "Ginga Eiyuu Densetsu (FUJISAKI Ryuu)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCHTXKSD2WQ38XTC3BZ6"
+            }
+        },
+        "MangaFire": {
+            "7w3q1": {
+                "id": 225690,
+                "identifier": "7w3q1",
+                "image": "https://static.mangafire.to/5063/i/2/22/22b8df5615775cdb0ef8386f56c843d5.jpg",
+                "malId": 93287,
+                "aniId": 87134,
+                "page": "MangaFire",
+                "title": "Legend of the Galactic Heroes (FUJISAKI Ryu)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/legend-of-the-galactic-heroes-fujisaki-ryuu.7w3q1"
+            },
+            "5k8vj": {
+                "id": 241560,
+                "identifier": "5k8vj",
+                "image": "https://static.mangafire.to/555c/i/a/a8/a80c1029ff14d8d29e422e059b412354.jpg",
+                "malId": 93287,
+                "aniId": 87134,
+                "page": "MangaFire",
+                "title": "Ginga Eiyuu Densetsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ginga-eiyuu-densetsuu.5k8vj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "579cfcf1-10fc-48fa-895a-689aae889847": {
+                "id": 24681,
                 "identifier": "579cfcf1-10fc-48fa-895a-689aae889847",
                 "image": "https://uploads.mangadex.org/covers/579cfcf1-10fc-48fa-895a-689aae889847/335e3556-0222-4f51-a98e-b42d5d07c066.jpg",
                 "malId": 116702,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "blue-hearts": {
+                "id": 56111,
                 "identifier": "blue-hearts",
                 "image": "https://temp.compsci88.com/cover/Blue-Hearts.jpg",
                 "malId": 116702,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-di980817": {
+                "id": 77868,
                 "identifier": "manga-di980817",
                 "image": "https://avt.mkklcdnv6temp.com/42/t/17-1583496800.jpg",
                 "malId": 116702,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-di980817"
             }
         },
-        "MangaFire": {
-            "blue-hearts.7jx3j": {
-                "identifier": "blue-hearts.7jx3j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05522bacb08ad0a0d4ec5633dfc2d839.jpg",
-                "malId": 116702,
-                "aniId": 105281,
-                "page": "MangaFire",
-                "title": "Blue Hearts",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blue-hearts.7jx3j/"
-            },
-            "blue-heartss.7jx3j": {
-                "identifier": "blue-heartss.7jx3j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05522bacb08ad0a0d4ec5633dfc2d839.jpg",
-                "malId": 116702,
-                "aniId": 105281,
-                "page": "MangaFire",
-                "title": "Blue Hearts",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blue-heartss.7jx3j/"
-            }
-        },
         "Weebcentral": {
             "01j76xycna2pyvkngv39kdkzyy": {
+                "id": 207700,
                 "identifier": "01j76xycna2pyvkngv39kdkzyy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCNA2PYVKNGV39KDKZYY.jpg",
                 "malId": 116702,
@@ -74,6 +56,19 @@
                 "title": "Blue Hearts",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCNA2PYVKNGV39KDKZYY"
+            }
+        },
+        "MangaFire": {
+            "7jx3j": {
+                "id": 240834,
+                "identifier": "7jx3j",
+                "image": "https://static.mangafire.to/61bf/i/0/05/05522bacb08ad0a0d4ec5633dfc2d839.jpg",
+                "malId": 116702,
+                "aniId": 105281,
+                "page": "MangaFire",
+                "title": "Blue Hearts",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/blue-heartss.7jx3j"
             }
         },
         "Comick": {

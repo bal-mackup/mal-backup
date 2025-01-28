@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e0966537-58a1-421b-8ea9-3e7f02d703c4": {
+                "id": 97439,
                 "identifier": "e0966537-58a1-421b-8ea9-3e7f02d703c4",
                 "image": "https://uploads.mangadex.org/covers/e0966537-58a1-421b-8ea9-3e7f02d703c4/5cef80fc-a670-45ad-bfdb-3c9869445691.jpg",
                 "malId": 150455,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ni990665": {
+                "id": 100021,
                 "identifier": "manga-ni990665",
                 "image": "https://avt.mkklcdnv6temp.com/33/y/25-1648355236.jpg",
                 "malId": 150455,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_hero_returns": {
+                "id": 100027,
                 "identifier": "the_hero_returns",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41681/cover.jpg",
                 "malId": 150455,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "the-hero-returns": {
+                "id": 100589,
                 "identifier": "the-hero-returns",
                 "image": "https://temp.compsci88.com/cover/The-Hero-Returns.jpg",
                 "malId": 150455,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/The-Hero-Returns"
             }
         },
-        "MangaFire": {
-            "the-hero-returns.mqpxz": {
-                "identifier": "the-hero-returns.mqpxz",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/07668d12f9356c32cf6ed28ee1225024.jpg",
-                "malId": 150455,
-                "aniId": 146017,
-                "page": "MangaFire",
-                "title": "The Hero Returns",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-hero-returns.mqpxz/"
-            },
-            "the-hero-returnss.mqpxz": {
-                "identifier": "the-hero-returnss.mqpxz",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/07668d12f9356c32cf6ed28ee1225024.jpg",
-                "malId": 150455,
-                "aniId": 146017,
-                "page": "MangaFire",
-                "title": "The Hero Returns",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-hero-returnss.mqpxz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfd2yjaqyb34n5zaa4xq": {
+                "id": 213900,
                 "identifier": "01j76xyfd2yjaqyb34n5zaa4xq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFD2YJAQYB34N5ZAA4XQ.jpg",
                 "malId": 150455,
@@ -86,6 +69,19 @@
                 "title": "The Hero Returns",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFD2YJAQYB34N5ZAA4XQ"
+            }
+        },
+        "MangaFire": {
+            "mqpxz": {
+                "id": 226782,
+                "identifier": "mqpxz",
+                "image": "https://static.mangafire.to/031d/i/0/07/07668d12f9356c32cf6ed28ee1225024.jpg",
+                "malId": 150455,
+                "aniId": 146017,
+                "page": "MangaFire",
+                "title": "The Hero Returns",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-hero-returnss.mqpxz"
             }
         },
         "Comick": {

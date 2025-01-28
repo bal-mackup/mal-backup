@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fe17c1f0-798d-48b2-bb8f-70f475cda79d": {
+                "id": 157582,
                 "identifier": "fe17c1f0-798d-48b2-bb8f-70f475cda79d",
                 "image": "https://uploads.mangadex.org/covers/fe17c1f0-798d-48b2-bb8f-70f475cda79d/0241fbfe-2fbd-4663-8042-a9afe72b0059.jpg",
                 "malId": 158648,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/fe17c1f0-798d-48b2-bb8f-70f475cda79d"
             }
         },
-        "MangaFire": {
-            "sora-wo-matotte.3p9p6": {
-                "identifier": "sora-wo-matotte.3p9p6",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17f6f045180ceffad9352751f201968d.jpg",
-                "malId": 158648,
-                "aniId": 164134,
-                "page": "MangaFire",
-                "title": "Sora wo Matotte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sora-wo-matotte.3p9p6/"
-            },
-            "sora-wo-matottee.3p9p6": {
-                "identifier": "sora-wo-matottee.3p9p6",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17f6f045180ceffad9352751f201968d.jpg",
-                "malId": 158648,
-                "aniId": 164134,
-                "page": "MangaFire",
-                "title": "Sora wo Matotte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sora-wo-matottee.3p9p6/"
-            }
-        },
         "MangaNato": {
             "manga-tg996763": {
+                "id": 161446,
                 "identifier": "manga-tg996763",
                 "image": "https://avt.mkklcdnv6temp.com/fld/28/w/15-1733308325-nw.webp",
                 "malId": 158648,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "sora-wo-matotte": {
+                "id": 178317,
                 "identifier": "sora-wo-matotte",
                 "image": "https://temp.compsci88.com/cover/Sora-wo-Matotte.jpg",
                 "malId": 158648,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygt5mvx50d3sa1sa1c2c": {
+                "id": 210751,
                 "identifier": "01j76xygt5mvx50d3sa1sa1c2c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGT5MVX50D3SA1SA1C2C.jpg",
                 "malId": 158648,
@@ -74,6 +56,19 @@
                 "title": "Sora wo Matotte",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGT5MVX50D3SA1SA1C2C"
+            }
+        },
+        "MangaFire": {
+            "3p9p6": {
+                "id": 228666,
+                "identifier": "3p9p6",
+                "image": "https://static.mangafire.to/379f/i/1/17/17f6f045180ceffad9352751f201968d.jpg",
+                "malId": 158648,
+                "aniId": 164134,
+                "page": "MangaFire",
+                "title": "Sora wo Matotte",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sora-wo-matottee.3p9p6"
             }
         },
         "Comick": {

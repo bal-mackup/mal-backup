@@ -6,30 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/282298.jpg",
     "Sites": {
-        "MangaFire": {
-            "terminally-ill-genius-dark-knight.mvv9x": {
-                "identifier": "terminally-ill-genius-dark-knight.mvv9x",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2df20b2592a9f0f599a439c0fbc29874.jpg",
-                "malId": 159015,
-                "aniId": 165182,
-                "page": "MangaFire",
-                "title": "Terminally-Ill Genius Dark Knight",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/terminally-ill-genius-dark-knight.mvv9x/"
-            },
-            "terminally-ill-genius-dark-knightt.mvv9x": {
-                "identifier": "terminally-ill-genius-dark-knightt.mvv9x",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2df20b2592a9f0f599a439c0fbc29874.jpg",
-                "malId": 159015,
-                "aniId": 165182,
-                "page": "MangaFire",
-                "title": "Terminally-Ill Genius Dark Knight",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/terminally-ill-genius-dark-knightt.mvv9x/"
-            }
-        },
         "MangaNato": {
             "manga-th996442": {
+                "id": 158222,
                 "identifier": "manga-th996442",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/r/15-1733307571-nw.webp",
                 "malId": 159015,
@@ -42,6 +21,7 @@
         },
         "Mangadex": {
             "10c548ad-f7ce-47c3-8db8-b8863440a07b": {
+                "id": 158347,
                 "identifier": "10c548ad-f7ce-47c3-8db8-b8863440a07b",
                 "image": "https://uploads.mangadex.org/covers/10c548ad-f7ce-47c3-8db8-b8863440a07b/1915ba70-06be-4857-a2f6-2ab8abf30c29.png",
                 "malId": 159015,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "time-limited-genius-dark-knight": {
+                "id": 186100,
                 "identifier": "time-limited-genius-dark-knight",
                 "image": "https://temp.compsci88.com/cover/Time-Limited-Genius-Dark-Knight.jpg",
                 "malId": 159015,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh4yze7qvys4vtw0r1kw": {
+                "id": 214095,
                 "identifier": "01j76xyh4yze7qvys4vtw0r1kw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH4YZE7QVYS4VTW0R1KW.jpg",
                 "malId": 159015,
@@ -74,6 +56,19 @@
                 "title": "Time-Limited Genius Dark Knight",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH4YZE7QVYS4VTW0R1KW"
+            }
+        },
+        "MangaFire": {
+            "mvv9x": {
+                "id": 228586,
+                "identifier": "mvv9x",
+                "image": "https://static.mangafire.to/6327/i/2/2d/2df20b2592a9f0f599a439c0fbc29874.jpg",
+                "malId": 159015,
+                "aniId": 165182,
+                "page": "MangaFire",
+                "title": "Terminally-Ill Genius Dark Knight",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/terminally-ill-genius-dark-knightt.mvv9x"
             }
         },
         "Comick": {

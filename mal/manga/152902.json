@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b67225a6-9482-4b98-9c01-a610e7a1f10f": {
+                "id": 127383,
                 "identifier": "b67225a6-9482-4b98-9c01-a610e7a1f10f",
                 "image": "https://uploads.mangadex.org/covers/b67225a6-9482-4b98-9c01-a610e7a1f10f/926a9181-0273-4ed9-a1c7-e7d26b5bc0ec.jpg",
                 "malId": 152902,
@@ -20,8 +21,9 @@
         },
         "MangaNato": {
             "manga-wz999408": {
+                "id": 175770,
                 "identifier": "manga-wz999408",
-                "image": "https://avt.mkklcdnv6temp.com/36/a/32-1700451524.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/29/q/16-1733315064-nw.webp",
                 "malId": 152902,
                 "aniId": 159294,
                 "page": "MangaNato",
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-wz999408"
             }
         },
-        "MangaFire": {
-            "tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-ka.v903l": {
-                "identifier": "tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-ka.v903l",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b2b449e468a0a0ba58a8720fd0a234e.jpg",
-                "malId": 152902,
-                "aniId": 159294,
-                "page": "MangaFire",
-                "title": "Tsuihou Sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen ka?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-ka.v903l/"
-            },
-            "tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-kaa.v903l": {
-                "identifier": "tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-kaa.v903l",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b2b449e468a0a0ba58a8720fd0a234e.jpg",
-                "malId": 152902,
-                "aniId": 159294,
-                "page": "MangaFire",
-                "title": "Tsuihou Sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen ka?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-kaa.v903l/"
-            }
-        },
         "MangaFox": {
             "tsuihou_sareta_renkinjutsushi_san_saikyou_no_dungeon_wo_tsukurimasen_ka": {
+                "id": 189147,
                 "identifier": "tsuihou_sareta_renkinjutsushi_san_saikyou_no_dungeon_wo_tsukurimasen_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46127/cover.jpg",
                 "malId": 152902,
@@ -62,6 +43,19 @@
                 "title": "Tsuihou Sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen ka?",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tsuihou_sareta_renkinjutsushi_san_saikyou_no_dungeon_wo_tsukurimasen_ka/"
+            }
+        },
+        "MangaFire": {
+            "v903l": {
+                "id": 239029,
+                "identifier": "v903l",
+                "image": "https://static.mangafire.to/8fbe/i/0/0b/0b2b449e468a0a0ba58a8720fd0a234e.jpg",
+                "malId": 152902,
+                "aniId": 159294,
+                "page": "MangaFire",
+                "title": "Tsuihou Sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen ka?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsuihou-sareta-renkinjutsushi-san-saikyou-no-dungeon-wo-tsukurimasen-kaa.v903l"
             }
         },
         "Comick": {

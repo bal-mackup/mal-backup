@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "82776fc3-0a5f-4d20-8cc0-4a33eea06a75": {
+                "id": 24493,
                 "identifier": "82776fc3-0a5f-4d20-8cc0-4a33eea06a75",
                 "image": "https://uploads.mangadex.org/covers/82776fc3-0a5f-4d20-8cc0-4a33eea06a75/739c457b-b9df-420d-a58c-e1c6df54832e.jpg",
                 "malId": 147258,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ei981865": {
+                "id": 111394,
                 "identifier": "manga-ei981865",
                 "image": "https://avt.mkklcdnv6temp.com/fld/75/z/9-1732796557-nw.webp",
                 "malId": 147258,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ei981865"
             }
         },
-        "MangaFire": {
-            "the-eyes-of-sora.vvl32": {
-                "identifier": "the-eyes-of-sora.vvl32",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/28c50ae3adf5b0e8074e0824bc5146cc.jpg",
-                "malId": 147258,
-                "aniId": 100920,
-                "page": "MangaFire",
-                "title": "Sora's Eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-eyes-of-sora.vvl32/"
-            },
-            "the-eyes-of-soraa.vvl32": {
-                "identifier": "the-eyes-of-soraa.vvl32",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/28c50ae3adf5b0e8074e0824bc5146cc.jpg",
-                "malId": 147258,
-                "aniId": 100920,
-                "page": "MangaFire",
-                "title": "Sora's Eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-eyes-of-soraa.vvl32/"
-            }
-        },
         "MangaFox": {
             "the_eyes_of_sora": {
+                "id": 185520,
                 "identifier": "the_eyes_of_sora",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29065/cover.jpg",
                 "malId": 147258,
@@ -62,6 +43,19 @@
                 "title": "The Eyes of Sora",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_eyes_of_sora/"
+            }
+        },
+        "MangaFire": {
+            "vvl32": {
+                "id": 224671,
+                "identifier": "vvl32",
+                "image": "https://static.mangafire.to/f384/i/2/28/28c50ae3adf5b0e8074e0824bc5146cc.jpg",
+                "malId": 147258,
+                "aniId": 100920,
+                "page": "MangaFire",
+                "title": "Sora's Eyes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-eyes-of-soraa.vvl32"
             }
         },
         "Comick": {

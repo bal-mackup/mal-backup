@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "48377d98-be55-4241-b352-3329b8815c8f": {
+                "id": 11887,
                 "identifier": "48377d98-be55-4241-b352-3329b8815c8f",
                 "image": "https://uploads.mangadex.org/covers/48377d98-be55-4241-b352-3329b8815c8f/3c8f8f92-4c1a-4b0a-bbf2-66b9ac8f9a23.jpg",
                 "malId": 80907,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "watashi-no-ookami-kun": {
+                "id": 58548,
                 "identifier": "watashi-no-ookami-kun",
                 "image": "https://temp.compsci88.com/cover/Watashi-No-Ookami-Kun.jpg",
                 "malId": 80907,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "watashi_no_ookami_kun": {
+                "id": 68142,
                 "identifier": "watashi_no_ookami_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14517/cover.jpg",
                 "malId": 80907,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zn953896": {
+                "id": 85274,
                 "identifier": "manga-zn953896",
                 "image": "https://avt.mkklcdnv6temp.com/fld/91/p/1-1732720119-nw.webp",
                 "malId": 80907,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zn953896"
             }
         },
-        "MangaFire": {
-            "that-wolf-boy-is-mine.kwlr9": {
-                "identifier": "that-wolf-boy-is-mine.kwlr9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3cd6a8e669b1362d8aaabfb261489baf.jpg",
-                "malId": 80907,
-                "aniId": 85632,
-                "page": "MangaFire",
-                "title": "That Wolf-Boy Is Mine!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/that-wolf-boy-is-mine.kwlr9/"
-            },
-            "kwlr9": {
-                "identifier": "kwlr9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3cd6a8e669b1362d8aaabfb261489baf.jpg",
-                "malId": 80907,
-                "aniId": 85632,
-                "page": "MangaFire",
-                "title": "That Wolf-Boy Is Mine!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/that-wolf-boy-is-mine.kwlr9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyatrzrs0hrdn36zz3ws1": {
+                "id": 211979,
                 "identifier": "01j76xyatrzrs0hrdn36zz3ws1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYATRZRS0HRDN36ZZ3WS1.jpg",
                 "malId": 80907,
@@ -86,6 +69,19 @@
                 "title": "That Wolf-Boy is Mine!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYATRZRS0HRDN36ZZ3WS1"
+            }
+        },
+        "MangaFire": {
+            "kwlr9": {
+                "id": 245596,
+                "identifier": "kwlr9",
+                "image": "https://static.mangafire.to/2c0c/i/3/3c/3cd6a8e669b1362d8aaabfb261489baf.jpg",
+                "malId": 80907,
+                "aniId": 85632,
+                "page": "MangaFire",
+                "title": "That Wolf-Boy Is Mine!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/that-wolf-boy-is-minee.kwlr9"
             }
         },
         "Comick": {

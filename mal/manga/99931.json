@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f6251ecb-8acb-48c4-87dd-ade3a5bb652f": {
+                "id": 16200,
                 "identifier": "f6251ecb-8acb-48c4-87dd-ade3a5bb652f",
                 "image": "https://uploads.mangadex.org/covers/f6251ecb-8acb-48c4-87dd-ade3a5bb652f/06585169-393f-486e-92b1-153617a42090.jpg",
                 "malId": 99931,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "nenene": {
+                "id": 63299,
                 "identifier": "nenene",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21235/cover.jpg",
                 "malId": 99931,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "nenene": {
+                "id": 65482,
                 "identifier": "nenene",
                 "image": "https://temp.compsci88.com/cover/Nenene.jpg",
                 "malId": 99931,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vf972462": {
+                "id": 75918,
                 "identifier": "manga-vf972462",
                 "image": "https://avt.mkklcdnv6temp.com/14/l/14-1583490265.jpg",
                 "malId": 99931,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-vf972462"
             },
             "manga-sv995930": {
+                "id": 164470,
                 "identifier": "manga-sv995930",
                 "image": "https://avt.mkklcdnv6temp.com/fld/96/z/14-1733306381-nw.webp",
                 "malId": 99931,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-sv995930"
             }
         },
-        "MangaFire": {
-            "ne-ne-ne.v5v8l": {
-                "identifier": "ne-ne-ne.v5v8l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c633989ab0630738b706b191b3a8dbea.jpg",
-                "malId": 99931,
-                "aniId": 87408,
-                "page": "MangaFire",
-                "title": "Ne Ne Ne",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ne-ne-ne.v5v8l/"
-            },
-            "v5v8l": {
-                "identifier": "v5v8l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c633989ab0630738b706b191b3a8dbea.jpg",
-                "malId": 99931,
-                "aniId": 87408,
-                "page": "MangaFire",
-                "title": "Ne Ne Ne",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ne-ne-ne.v5v8l/"
-            }
-        },
         "Weebcentral": {
             "01j76xybygcp7xxkn58chpkqk7": {
+                "id": 212688,
                 "identifier": "01j76xybygcp7xxkn58chpkqk7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYGCP7XXKN58CHPKQK7.jpg",
                 "malId": 99931,
@@ -96,6 +80,19 @@
                 "title": "Nenene",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYGCP7XXKN58CHPKQK7"
+            }
+        },
+        "MangaFire": {
+            "v5v8l": {
+                "id": 253376,
+                "identifier": "v5v8l",
+                "image": "https://static.mangafire.to/1707/i/c/c6/c633989ab0630738b706b191b3a8dbea.jpg",
+                "malId": 99931,
+                "aniId": 87408,
+                "page": "MangaFire",
+                "title": "Ne Ne Ne",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ne-ne-nee.v5v8l"
             }
         },
         "Comick": {

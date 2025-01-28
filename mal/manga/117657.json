@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e45eb874-ca93-4d1d-b04a-631e9809969d": {
+                "id": 50783,
                 "identifier": "e45eb874-ca93-4d1d-b04a-631e9809969d",
                 "image": "https://uploads.mangadex.org/covers/e45eb874-ca93-4d1d-b04a-631e9809969d/2e04a049-541f-4f48-8293-c7caf16ac222.jpg",
                 "malId": 117657,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "blood-rain": {
+                "id": 78395,
                 "identifier": "blood-rain",
                 "image": "https://temp.compsci88.com/cover/Blood-Rain.jpg",
                 "malId": 117657,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Blood-Rain"
             }
         },
-        "MangaFire": {
-            "blood-rain2.520lq": {
-                "identifier": "blood-rain2.520lq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fcacc64558bbbb12a0414b8f191dae01.jpg",
-                "malId": 117657,
-                "aniId": 99618,
-                "page": "MangaFire",
-                "title": "Blood Rain",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blood-rain2.520lq/"
-            },
-            "520lq": {
-                "identifier": "520lq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fcacc64558bbbb12a0414b8f191dae01.jpg",
-                "malId": 117657,
-                "aniId": 99618,
-                "page": "MangaFire",
-                "title": "Blood Rain",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blood-rain2.520lq/"
-            }
-        },
         "Weebcentral": {
             "01j76xybzj56wz9qmb592jq6n6": {
+                "id": 208068,
                 "identifier": "01j76xybzj56wz9qmb592jq6n6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBZJ56WZ9QMB592JQ6N6.jpg",
                 "malId": 117657,
@@ -62,6 +43,19 @@
                 "title": "Blood Rain",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBZJ56WZ9QMB592JQ6N6"
+            }
+        },
+        "MangaFire": {
+            "520lq": {
+                "id": 262489,
+                "identifier": "520lq",
+                "image": "https://static.mangafire.to/ed12/i/f/fc/fcacc64558bbbb12a0414b8f191dae01.jpg",
+                "malId": 117657,
+                "aniId": 99618,
+                "page": "MangaFire",
+                "title": "Blood Rain",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/blood-rain22.520lq"
             }
         },
         "Comick": {

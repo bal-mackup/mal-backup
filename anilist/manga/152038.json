@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c8e029ba-0a7e-4ca4-a60d-9dd4365788b2": {
+                "id": 111231,
                 "identifier": "c8e029ba-0a7e-4ca4-a60d-9dd4365788b2",
                 "image": "https://uploads.mangadex.org/covers/c8e029ba-0a7e-4ca4-a60d-9dd4365788b2/61dd1a34-457f-4dfb-8df0-d7e3eb382451.jpg",
                 "malId": 149378,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ui998065": {
+                "id": 170147,
                 "identifier": "manga-ui998065",
                 "image": "https://avt.mkklcdnv6temp.com/fld/78/l/15-1733311483-nw.webp",
                 "malId": 149378,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ui998065"
             }
         },
-        "MangaFire": {
-            "the-queens.6w7q9": {
-                "identifier": "the-queens.6w7q9",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/b73c07d92bc791381d662d61ee3df35f.jpg",
-                "malId": 149378,
-                "aniId": 152038,
-                "page": "MangaFire",
-                "title": "The QUEENS",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-queens.6w7q9/"
-            }
-        },
         "MangaSee": {
             "the-queens": {
+                "id": 189990,
                 "identifier": "the-queens",
                 "image": "https://temp.compsci88.com/cover/The-Queens.jpg",
                 "malId": 149378,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh9q95jv0g614yb33x84": {
+                "id": 207405,
                 "identifier": "01j76xyh9q95jv0g614yb33x84",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH9Q95JV0G614YB33X84.jpg",
                 "malId": 149378,
@@ -64,6 +56,19 @@
                 "title": "The Queens",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH9Q95JV0G614YB33X84"
+            }
+        },
+        "MangaFire": {
+            "6w7q9": {
+                "id": 233799,
+                "identifier": "6w7q9",
+                "image": "https://static.mangafire.to/67b1/i/2/26/b73c07d92bc791381d662d61ee3df35f.jpg",
+                "malId": 149378,
+                "aniId": 152038,
+                "page": "MangaFire",
+                "title": "The QUEENS",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-queenss.6w7q9"
             }
         },
         "Comick": {

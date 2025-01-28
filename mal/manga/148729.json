@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38dc5832-4714-4467-9c7e-fc9689fb149c": {
+                "id": 36521,
                 "identifier": "38dc5832-4714-4467-9c7e-fc9689fb149c",
                 "image": "https://uploads.mangadex.org/covers/38dc5832-4714-4467-9c7e-fc9689fb149c/36c0d115-40ea-4fa8-b69d-909874a26efa.png",
                 "malId": 148729,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "rooftop-sword-master": {
+                "id": 54632,
                 "identifier": "rooftop-sword-master",
                 "image": "https://temp.compsci88.com/cover/Rooftop-Sword-Master.jpg",
                 "malId": 148729,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "rooftop_sword_master": {
+                "id": 60052,
                 "identifier": "rooftop_sword_master",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35295/cover.jpg",
                 "malId": 148729,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-im985995": {
+                "id": 73110,
                 "identifier": "manga-im985995",
                 "image": "https://avt.mkklcdnv6temp.com/39/f/21-1595824568.jpg",
                 "malId": 148729,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-im985995"
             }
         },
-        "MangaFire": {
-            "rooftop-sword-master.ojpjy": {
-                "identifier": "rooftop-sword-master.ojpjy",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d106d8a23734085f3812eef92969bfb.jpg",
-                "malId": 148729,
-                "aniId": 122395,
-                "page": "MangaFire",
-                "title": "Rooftop Sword Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rooftop-sword-master.ojpjy/"
-            },
-            "rooftop-sword-masterr.ojpjy": {
-                "identifier": "rooftop-sword-masterr.ojpjy",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d106d8a23734085f3812eef92969bfb.jpg",
-                "malId": 148729,
-                "aniId": 122395,
-                "page": "MangaFire",
-                "title": "Rooftop Sword Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rooftop-sword-masterr.ojpjy/"
-            }
-        },
         "Weebcentral": {
             "01j76xydt9m2jv82y94j0cwhna": {
+                "id": 209544,
                 "identifier": "01j76xydt9m2jv82y94j0cwhna",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDT9M2JV82Y94J0CWHNA.jpg",
                 "malId": 148729,
@@ -86,6 +69,19 @@
                 "title": "Rooftop Sword Master",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDT9M2JV82Y94J0CWHNA"
+            }
+        },
+        "MangaFire": {
+            "ojpjy": {
+                "id": 224339,
+                "identifier": "ojpjy",
+                "image": "https://static.mangafire.to/1fb6/i/6/6d/6d106d8a23734085f3812eef92969bfb.jpg",
+                "malId": 148729,
+                "aniId": 122395,
+                "page": "MangaFire",
+                "title": "Rooftop Sword Master",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rooftop-sword-masterr.ojpjy"
             }
         },
         "Comick": {

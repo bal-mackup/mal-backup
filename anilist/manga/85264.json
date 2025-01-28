@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dfd85da5-86ff-4a60-8351-81c2fea65ce8": {
+                "id": 9584,
                 "identifier": "dfd85da5-86ff-4a60-8351-81c2fea65ce8",
                 "image": "https://uploads.mangadex.org/covers/dfd85da5-86ff-4a60-8351-81c2fea65ce8/d888e30c-8004-4b18-8702-624a3676ecd8.jpg",
                 "malId": 60881,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hamatora": {
+                "id": 69647,
                 "identifier": "hamatora",
                 "image": "https://temp.compsci88.com/cover/Hamatora.jpg",
                 "malId": 60881,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kc961637": {
+                "id": 83628,
                 "identifier": "manga-kc961637",
                 "image": "https://avt.mkklcdnv6temp.com/fld/45/r/4-1732762110-nw.webp",
                 "malId": 60881,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-kc961637"
             }
         },
-        "MangaFire": {
-            "hamatora.kpjr": {
-                "identifier": "hamatora.kpjr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1cf7b8c83bcfc220e00c2295418b37b2.jpg",
-                "malId": 60881,
-                "aniId": 85264,
-                "page": "MangaFire",
-                "title": "Hamatora",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hamatora.kpjr/"
-            },
-            "kpjr": {
-                "identifier": "kpjr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1cf7b8c83bcfc220e00c2295418b37b2.jpg",
-                "malId": 60881,
-                "aniId": 85264,
-                "page": "MangaFire",
-                "title": "Hamatora",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hamatora.kpjr/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9zeaqexqncmjfe0nerr": {
+                "id": 206553,
                 "identifier": "01j76xy9zeaqexqncmjfe0nerr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9ZEAQEXQNCMJFE0NERR.jpg",
                 "malId": 60881,
@@ -74,6 +56,19 @@
                 "title": "Hamatora - The Comic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9ZEAQEXQNCMJFE0NERR"
+            }
+        },
+        "MangaFire": {
+            "kpjr": {
+                "id": 251136,
+                "identifier": "kpjr",
+                "image": "https://static.mangafire.to/5490/i/1/1c/1cf7b8c83bcfc220e00c2295418b37b2.jpg",
+                "malId": 60881,
+                "aniId": 85264,
+                "page": "MangaFire",
+                "title": "Hamatora",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hamatoraa.kpjr"
             }
         },
         "Comick": {

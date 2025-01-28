@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f39246a-8b05-4b19-b822-727e748723dc": {
+                "id": 17649,
                 "identifier": "9f39246a-8b05-4b19-b822-727e748723dc",
                 "image": "https://uploads.mangadex.org/covers/9f39246a-8b05-4b19-b822-727e748723dc/b6629423-44ff-4942-a270-4e6935ca3911.jpg",
                 "malId": 103939,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "aharen-san-wa-hakarenai": {
+                "id": 61435,
                 "identifier": "aharen-san-wa-hakarenai",
                 "image": "https://temp.compsci88.com/cover/Aharen-san-Wa-Hakarenai.jpg",
                 "malId": 103939,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "aharen_san_wa_hakarenai": {
+                "id": 68909,
                 "identifier": "aharen_san_wa_hakarenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25117/cover.jpg",
                 "malId": 103939,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yp976198": {
+                "id": 75305,
                 "identifier": "manga-yp976198",
                 "image": "https://avt.mkklcdnv6temp.com/22/k/15-1583492263.jpg",
                 "malId": 103939,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-yp976198"
             }
         },
-        "MangaFire": {
-            "aharen-san-wa-hakarenaii.pr656": {
-                "identifier": "aharen-san-wa-hakarenaii.pr656",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f7e136cf5c59231b34a33fbec9a1f590.jpg",
-                "malId": 103939,
-                "aniId": 98686,
-                "page": "MangaFire",
-                "title": "Aharen-san wa Hakarenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aharen-san-wa-hakarenaii.pr656/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2v9ec8dj68mp3h22x3": {
+                "id": 214340,
                 "identifier": "01j76xyc2v9ec8dj68mp3h22x3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2V9EC8DJ68MP3H22X3.jpg",
                 "malId": 103939,
@@ -76,6 +69,19 @@
                 "title": "Aharen-san wa Hakarenai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2V9EC8DJ68MP3H22X3"
+            }
+        },
+        "MangaFire": {
+            "pr656": {
+                "id": 228575,
+                "identifier": "pr656",
+                "image": "https://static.mangafire.to/9a01/i/f/f7/f7e136cf5c59231b34a33fbec9a1f590.jpg",
+                "malId": 103939,
+                "aniId": 98686,
+                "page": "MangaFire",
+                "title": "Aharen-san wa Hakarenai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aharen-san-wa-hakarenaii.pr656"
             }
         },
         "Comick": {

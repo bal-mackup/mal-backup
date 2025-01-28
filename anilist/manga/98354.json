@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "936771f7-eec8-45bd-b1fa-d5802a9cfd06": {
+                "id": 17252,
                 "identifier": "936771f7-eec8-45bd-b1fa-d5802a9cfd06",
                 "image": "https://uploads.mangadex.org/covers/936771f7-eec8-45bd-b1fa-d5802a9cfd06/6cf1f548-a45c-4f3f-9bd8-4f86fc98e828.jpg",
                 "malId": 102785,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/936771f7-eec8-45bd-b1fa-d5802a9cfd06"
             },
             "96818419-90d6-4e45-8f48-aefa30d3739d": {
+                "id": 52532,
                 "identifier": "96818419-90d6-4e45-8f48-aefa30d3739d",
                 "image": "https://uploads.mangadex.org/covers/96818419-90d6-4e45-8f48-aefa30d3739d/c396e901-f393-44f3-b977-e4b97a8d27c6.jpg",
                 "malId": 102785,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "ningyou-no-kuni": {
+                "id": 61285,
                 "identifier": "ningyou-no-kuni",
                 "image": "https://temp.compsci88.com/cover/Ningyou-No-Kuni.jpg",
                 "malId": 102785,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "ningyou_no_kuni": {
+                "id": 66299,
                 "identifier": "ningyou_no_kuni",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20079/cover.jpg",
                 "malId": 102785,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-uq971373": {
+                "id": 74336,
                 "identifier": "manga-uq971373",
                 "image": "https://avt.mkklcdnv6temp.com/44/e/13-1583489380.jpg",
                 "malId": 102785,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-uq971373"
             }
         },
-        "MangaFire": {
-            "aposimzz.vvj5v": {
-                "identifier": "aposimzz.vvj5v",
-                "image": "https://static.mangafire.to/3b2d5/i/3/31/31dfa28cb8f1f694258ed9eb061159f8.jpg",
-                "malId": 102785,
-                "aniId": 98354,
-                "page": "MangaFire",
-                "title": "APOSIMZ",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aposimzz.vvj5v/"
-            }
-        },
         "Weebcentral": {
             "01j76xycd25v7jkdc4tfxrvy2c": {
+                "id": 209452,
                 "identifier": "01j76xycd25v7jkdc4tfxrvy2c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCD25V7JKDC4TFXRVY2C.jpg",
                 "malId": 102785,
@@ -86,6 +80,19 @@
                 "title": "APOSIMZ",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCD25V7JKDC4TFXRVY2C"
+            }
+        },
+        "MangaFire": {
+            "vvj5v": {
+                "id": 224324,
+                "identifier": "vvj5v",
+                "image": "https://static.mangafire.to/f83d/i/3/31/31dfa28cb8f1f694258ed9eb061159f8.jpg",
+                "malId": 102785,
+                "aniId": 98354,
+                "page": "MangaFire",
+                "title": "APOSIMZ",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aposimzz.vvj5v"
             }
         },
         "Comick": {

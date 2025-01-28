@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ffcdd90b-2f8e-4ae9-b4b0-3abb1ddb6407": {
+                "id": 51188,
                 "identifier": "ffcdd90b-2f8e-4ae9-b4b0-3abb1ddb6407",
                 "image": "https://uploads.mangadex.org/covers/ffcdd90b-2f8e-4ae9-b4b0-3abb1ddb6407/f94af67e-420b-4458-be30-25b3a89b7dd8.jpg",
                 "malId": 146857,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/ffcdd90b-2f8e-4ae9-b4b0-3abb1ddb6407"
             }
         },
-        "MangaFire": {
-            "ogi-kun-no-natsuyasumi.prrj4": {
-                "identifier": "ogi-kun-no-natsuyasumi.prrj4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b216f3e43834ac01496b6827e71cf765.jpg",
-                "malId": 146857,
-                "aniId": 118580,
-                "page": "MangaFire",
-                "title": "Ogi's Summer Break",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ogi-kun-no-natsuyasumi.prrj4/"
-            }
-        },
         "MangaNato": {
             "manga-si995491": {
+                "id": 153658,
                 "identifier": "manga-si995491",
                 "image": "https://avt.mkklcdnv6temp.com/fld/80/e/14-1733305388-nw.webp",
                 "malId": 146857,
@@ -40,6 +30,19 @@
                 "title": "Ogi-Kun No Natsuyasumi",
                 "type": "manga",
                 "url": "https://manganato.com/manga-si995491"
+            }
+        },
+        "MangaFire": {
+            "prrj4": {
+                "id": 250008,
+                "identifier": "prrj4",
+                "image": "https://static.mangafire.to/c33c/i/b/b2/b216f3e43834ac01496b6827e71cf765.jpg",
+                "malId": 146857,
+                "aniId": 118580,
+                "page": "MangaFire",
+                "title": "Ogi's Summer Break",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ogi-kun-no-natsuyasumii.prrj4"
             }
         },
         "Comick": {

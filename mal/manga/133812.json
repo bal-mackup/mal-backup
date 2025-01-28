@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "932b6c0e-a1af-462c-af17-900b75878914": {
+                "id": 58714,
                 "identifier": "932b6c0e-a1af-462c-af17-900b75878914",
                 "image": "https://uploads.mangadex.org/covers/932b6c0e-a1af-462c-af17-900b75878914/194e5608-0c1b-4e21-96e3-b877228e3c10.jpg",
                 "malId": 133812,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/932b6c0e-a1af-462c-af17-900b75878914"
             }
         },
-        "MangaFire": {
-            "konbini-of-the-dead-100-nichi-go-ni-kyuujo-sareru-konbini-tenin.2om84": {
-                "identifier": "konbini-of-the-dead-100-nichi-go-ni-kyuujo-sareru-konbini-tenin.2om84",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9df7a3787a846a7e4b7f828a1917d5c1.jpg",
-                "malId": 133812,
-                "aniId": 128981,
-                "page": "MangaFire",
-                "title": "Konbini of the Dead: 100-nichi Go ni Kyuujo Sareru Konbini Tenin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/konbini-of-the-dead-100-nichi-go-ni-kyuujo-sareru-konbini-tenin.2om84/"
-            }
-        },
         "MangaNato": {
             "manga-yn1001570": {
+                "id": 185479,
                 "identifier": "manga-yn1001570",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/l/17-1733321918-nw.webp",
                 "malId": 133812,
@@ -40,6 +30,19 @@
                 "title": "Convenience Store Of The Dead ~The Convenience Store Clerk Will Get Rescued In 100 Days~",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-yn1001570"
+            }
+        },
+        "MangaFire": {
+            "2om84": {
+                "id": 260748,
+                "identifier": "2om84",
+                "image": "https://static.mangafire.to/f695/i/9/9d/9df7a3787a846a7e4b7f828a1917d5c1.jpg",
+                "malId": 133812,
+                "aniId": 128981,
+                "page": "MangaFire",
+                "title": "Konbini of the Dead: 100-nichi Go ni Kyuujo Sareru Konbini Tenin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/konbini-of-the-dead-100-nichi-go-ni-kyuujo-sareru-konbini-teninn.2om84"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "df87d7ad-69b3-445b-90be-619e311b1182": {
+                "id": 32993,
                 "identifier": "df87d7ad-69b3-445b-90be-619e311b1182",
                 "image": "https://uploads.mangadex.org/covers/df87d7ad-69b3-445b-90be-619e311b1182/d9285de8-f93d-42a4-a41f-0c138548870c.jpg",
                 "malId": 124067,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cube-arts": {
+                "id": 66174,
                 "identifier": "cube-arts",
                 "image": "https://temp.compsci88.com/cover/Cube-Arts.jpg",
                 "malId": 124067,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "cube_arts": {
+                "id": 66230,
                 "identifier": "cube_arts",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35566/cover.jpg",
                 "malId": 124067,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/cube_arts/"
             }
         },
-        "MangaFire": {
-            "cube-arts.wo2xk": {
-                "identifier": "cube-arts.wo2xk",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c096e21af59e00677b6e86514fe5abd9.jpg",
-                "malId": 124067,
-                "aniId": 106350,
-                "page": "MangaFire",
-                "title": "Cube Arts",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cube-arts.wo2xk/"
-            },
-            "cube-artss.wo2xk": {
-                "identifier": "cube-artss.wo2xk",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c096e21af59e00677b6e86514fe5abd9.jpg",
-                "malId": 124067,
-                "aniId": 106350,
-                "page": "MangaFire",
-                "title": "Cube Arts",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cube-artss.wo2xk/"
-            }
-        },
         "Weebcentral": {
             "01j76xydtg08a3ffb29k6fpqse": {
+                "id": 210261,
                 "identifier": "01j76xydtg08a3ffb29k6fpqse",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDTG08A3FFB29K6FPQSE.jpg",
                 "malId": 124067,
@@ -74,6 +56,19 @@
                 "title": "Cube Arts",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDTG08A3FFB29K6FPQSE"
+            }
+        },
+        "MangaFire": {
+            "wo2xk": {
+                "id": 224580,
+                "identifier": "wo2xk",
+                "image": "https://static.mangafire.to/8987/i/c/c0/c096e21af59e00677b6e86514fe5abd9.jpg",
+                "malId": 124067,
+                "aniId": 106350,
+                "page": "MangaFire",
+                "title": "Cube Arts",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cube-artss.wo2xk"
             }
         },
         "Comick": {

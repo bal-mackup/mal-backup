@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c6bf9888-c8a3-400f-b14c-783e9ff9af5d": {
+                "id": 106374,
                 "identifier": "c6bf9888-c8a3-400f-b14c-783e9ff9af5d",
                 "image": "https://uploads.mangadex.org/covers/c6bf9888-c8a3-400f-b14c-783e9ff9af5d/5f0e30ab-beb3-40ef-b190-7c6da7381f1f.jpg",
                 "malId": 154754,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/c6bf9888-c8a3-400f-b14c-783e9ff9af5d"
             }
         },
-        "MangaFire": {
-            "super-cub-rei.oonlz": {
-                "identifier": "super-cub-rei.oonlz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d6545d1866e56b4536bb6e51e5e44173.jpg",
-                "malId": 154754,
-                "aniId": 148178,
-                "page": "MangaFire",
-                "title": "Super Cub Rei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/super-cub-rei.oonlz/"
-            },
-            "super-cub-reii.oonlz": {
-                "identifier": "super-cub-reii.oonlz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d6545d1866e56b4536bb6e51e5e44173.jpg",
-                "malId": 154754,
-                "aniId": 148178,
-                "page": "MangaFire",
-                "title": "Super Cub Rei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/super-cub-reii.oonlz/"
-            }
-        },
         "MangaNato": {
             "manga-zc1002385": {
+                "id": 190624,
                 "identifier": "manga-zc1002385",
                 "image": "https://avt.mkklcdnv6temp.com/fld/43/s/17-1733323816-nw.webp",
                 "malId": 154754,
@@ -50,6 +30,19 @@
                 "title": "Super Cub Rei",
                 "type": "manga",
                 "url": "https://manganato.com/manga-zc1002385"
+            }
+        },
+        "MangaFire": {
+            "oonlz": {
+                "id": 246195,
+                "identifier": "oonlz",
+                "image": "https://static.mangafire.to/807a/i/d/d6/d6545d1866e56b4536bb6e51e5e44173.jpg",
+                "malId": 154754,
+                "aniId": 148178,
+                "page": "MangaFire",
+                "title": "Super Cub Rei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/super-cub-reii.oonlz"
             }
         },
         "Comick": {

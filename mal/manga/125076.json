@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "00446151-d199-45d6-8671-821db1151e6c": {
+                "id": 33821,
                 "identifier": "00446151-d199-45d6-8671-821db1151e6c",
                 "image": "https://uploads.mangadex.org/covers/00446151-d199-45d6-8671-821db1151e6c/ab44f350-e6b8-48f7-8e7f-8f30702ff64f.jpg",
                 "malId": 125076,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "juujika-no-rokunin": {
+                "id": 56513,
                 "identifier": "juujika-no-rokunin",
                 "image": "https://temp.compsci88.com/cover/Juujika-no-Rokunin.jpg",
                 "malId": 125076,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "juujika_no_rokunin": {
+                "id": 67688,
                 "identifier": "juujika_no_rokunin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35269/cover.jpg",
                 "malId": 125076,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jt986528": {
+                "id": 73437,
                 "identifier": "manga-jt986528",
                 "image": "https://avt.mkklcdnv6temp.com/10/n/22-1599502374.jpg",
                 "malId": 125076,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jt986528"
             }
         },
-        "MangaFire": {
-            "juujika-no-rokunin.9810": {
-                "identifier": "juujika-no-rokunin.9810",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/7543d03320fc958be026e25a48ed4f16.jpg",
-                "malId": 125076,
-                "aniId": 116671,
-                "page": "MangaFire",
-                "title": "Juujika no Rokunin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/juujika-no-rokunin.9810/"
-            },
-            "juujika-no-rokuninn.9810": {
-                "identifier": "juujika-no-rokuninn.9810",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/7543d03320fc958be026e25a48ed4f16.jpg",
-                "malId": 125076,
-                "aniId": 116671,
-                "page": "MangaFire",
-                "title": "Juujika no Rokunin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/juujika-no-rokuninn.9810/"
-            }
-        },
         "Weebcentral": {
             "01j76xye6xqctnqm696zss7221": {
+                "id": 212376,
                 "identifier": "01j76xye6xqctnqm696zss7221",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE6XQCTNQM696ZSS7221.jpg",
                 "malId": 125076,
@@ -86,6 +69,19 @@
                 "title": "Juujika no Rokunin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE6XQCTNQM696ZSS7221"
+            }
+        },
+        "MangaFire": {
+            "9810": {
+                "id": 228604,
+                "identifier": "9810",
+                "image": "https://static.mangafire.to/65dc/i/7/75/7543d03320fc958be026e25a48ed4f16.jpg",
+                "malId": 125076,
+                "aniId": 116671,
+                "page": "MangaFire",
+                "title": "Juujika no Rokunin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/juujika-no-rokuninn.9810"
             }
         },
         "Comick": {

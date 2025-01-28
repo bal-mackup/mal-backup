@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-final-raid-boss": {
+                "id": 100960,
                 "identifier": "the-final-raid-boss",
                 "image": "https://temp.compsci88.com/cover/The-Final-Raid-Boss.jpg",
                 "malId": 148520,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "10f38d37-2b5f-4211-a1df-9ee6dbfdd611": {
+                "id": 106101,
                 "identifier": "10f38d37-2b5f-4211-a1df-9ee6dbfdd611",
                 "image": "https://uploads.mangadex.org/covers/10f38d37-2b5f-4211-a1df-9ee6dbfdd611/36f3f0cf-796d-4284-9448-89f1c148d7f1.jpg",
                 "malId": 148520,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/10f38d37-2b5f-4211-a1df-9ee6dbfdd611"
             }
         },
-        "MangaFire": {
-            "the-final-raid-boss.xjmwz": {
-                "identifier": "the-final-raid-boss.xjmwz",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f344f833e2ef2df03fa99cdc0d39172.jpg",
-                "malId": 148520,
-                "aniId": 147561,
-                "page": "MangaFire",
-                "title": "The Final Raid Boss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-final-raid-boss.xjmwz/"
-            },
-            "the-final-raid-bosss.xjmwz": {
-                "identifier": "the-final-raid-bosss.xjmwz",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f344f833e2ef2df03fa99cdc0d39172.jpg",
-                "malId": 148520,
-                "aniId": 147561,
-                "page": "MangaFire",
-                "title": "The Final Raid Boss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-final-raid-bosss.xjmwz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfcqvdhxcbmmdtwtpx81": {
+                "id": 209263,
                 "identifier": "01j76xyfcqvdhxcbmmdtwtpx81",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCQVDHXCBMMDTWTPX81.jpg",
                 "malId": 148520,
@@ -62,6 +43,19 @@
                 "title": "The Final Raid Boss",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCQVDHXCBMMDTWTPX81"
+            }
+        },
+        "MangaFire": {
+            "xjmwz": {
+                "id": 223450,
+                "identifier": "xjmwz",
+                "image": "https://static.mangafire.to/a2e5/i/5/5f/5f344f833e2ef2df03fa99cdc0d39172.jpg",
+                "malId": 148520,
+                "aniId": 147561,
+                "page": "MangaFire",
+                "title": "The Final Raid Boss",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-final-raid-bosss.xjmwz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3055b213-aaee-469c-a233-b97a8eff9494": {
+                "id": 32757,
                 "identifier": "3055b213-aaee-469c-a233-b97a8eff9494",
                 "image": "https://uploads.mangadex.org/covers/3055b213-aaee-469c-a233-b97a8eff9494/72a2cdbc-ba29-41c0-b35e-b9fdec087301.jpg",
                 "malId": 147987,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "no-longer-a-heroine": {
+                "id": 58122,
                 "identifier": "no-longer-a-heroine",
                 "image": "https://temp.compsci88.com/cover/No-Longer-A-Heroine.jpg",
                 "malId": 147987,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "no_longer_a_heroine": {
+                "id": 67643,
                 "identifier": "no_longer_a_heroine",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32903/cover.jpg",
                 "malId": 147987,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gu984355": {
+                "id": 78194,
                 "identifier": "manga-gu984355",
                 "image": "https://avt.mkklcdnv6temp.com/23/a/20-1583501909.jpg",
                 "malId": 147987,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-gu984355"
             }
         },
-        "MangaFire": {
-            "no-longer-a-heroine2.qxzpj": {
-                "identifier": "no-longer-a-heroine2.qxzpj",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/804b1182fe0c3913dfea49453cccb6b3.jpg",
-                "malId": 147987,
-                "aniId": 123489,
-                "page": "MangaFire",
-                "title": "No Longer A Heroine!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-longer-a-heroine2.qxzpj/"
-            },
-            "no-longer-a-heroine22.qxzpj": {
-                "identifier": "no-longer-a-heroine22.qxzpj",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/804b1182fe0c3913dfea49453cccb6b3.jpg",
-                "malId": 147987,
-                "aniId": 123489,
-                "page": "MangaFire",
-                "title": "No Longer A Heroine!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-longer-a-heroine22.qxzpj/"
-            }
-        },
         "Weebcentral": {
             "01j76xye89vyek4r2b89neg3p8": {
+                "id": 206407,
                 "identifier": "01j76xye89vyek4r2b89neg3p8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE89VYEK4R2B89NEG3P8.jpg",
                 "malId": 147987,
@@ -86,6 +69,19 @@
                 "title": "No Longer a Heroine!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE89VYEK4R2B89NEG3P8"
+            }
+        },
+        "MangaFire": {
+            "qxzpj": {
+                "id": 231541,
+                "identifier": "qxzpj",
+                "image": "https://static.mangafire.to/6843/i/8/80/804b1182fe0c3913dfea49453cccb6b3.jpg",
+                "malId": 147987,
+                "aniId": 123489,
+                "page": "MangaFire",
+                "title": "No Longer A Heroine!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-longer-a-heroine22.qxzpj"
             }
         },
         "Comick": {

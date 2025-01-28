@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ba8f3c08-ccf4-49cc-b356-e63f8595cf6c": {
+                "id": 62298,
                 "identifier": "ba8f3c08-ccf4-49cc-b356-e63f8595cf6c",
                 "image": "https://uploads.mangadex.org/covers/ba8f3c08-ccf4-49cc-b356-e63f8595cf6c/d0039b3d-38fd-49ea-944f-748f20ef6604.jpg",
                 "malId": 131625,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "unicorns-arent-horny": {
+                "id": 67083,
                 "identifier": "unicorns-arent-horny",
                 "image": "https://temp.compsci88.com/cover/Unicorns-Arent-Horny.jpg",
                 "malId": 131625,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Unicorns-Arent-Horny"
             }
         },
-        "MangaFire": {
-            "ikkakujuu-wa-tsuranukanai.0q4pr": {
-                "identifier": "ikkakujuu-wa-tsuranukanai.0q4pr",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2ba49333a212f84cf6a31ba4def711dd.jpg",
-                "malId": 131625,
-                "aniId": 115890,
-                "page": "MangaFire",
-                "title": "Ikkakujuu wa Tsuranukanai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ikkakujuu-wa-tsuranukanai.0q4pr/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4q5mnr68vz1t6np0pf": {
+                "id": 206417,
                 "identifier": "01j76xye4q5mnr68vz1t6np0pf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4Q5MNR68VZ1T6NP0PF.jpg",
                 "malId": 131625,
@@ -52,6 +43,19 @@
                 "title": "Unicorns Aren't Horny",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4Q5MNR68VZ1T6NP0PF"
+            }
+        },
+        "MangaFire": {
+            "0q4pr": {
+                "id": 239013,
+                "identifier": "0q4pr",
+                "image": "https://static.mangafire.to/e181/i/2/2b/2ba49333a212f84cf6a31ba4def711dd.jpg",
+                "malId": 131625,
+                "aniId": 115890,
+                "page": "MangaFire",
+                "title": "Ikkakujuu wa Tsuranukanai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ikkakujuu-wa-tsuranukanaii.0q4pr"
             }
         },
         "MangaReader": {

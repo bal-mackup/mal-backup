@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d2df017b-c003-4de6-9625-4f1fba7aef97": {
+                "id": 35629,
                 "identifier": "d2df017b-c003-4de6-9625-4f1fba7aef97",
                 "image": "https://uploads.mangadex.org/covers/d2df017b-c003-4de6-9625-4f1fba7aef97/4602ab68-0eb7-42a3-bfba-5d90ec19ca40.jpg",
                 "malId": 139164,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "viral-hit": {
+                "id": 58368,
                 "identifier": "viral-hit",
                 "image": "https://temp.compsci88.com/cover/Viral-Hit.jpg",
                 "malId": 139164,
@@ -30,8 +32,22 @@
                 "url": "https://mangasee123.com/manga/Viral-Hit"
             }
         },
+        "MangaFox": {
+            "how_to_fight": {
+                "id": 62451,
+                "identifier": "how_to_fight",
+                "image": "https://fmcdn.mfcdn.net/store/manga/34700/cover.jpg",
+                "malId": 139164,
+                "aniId": 121991,
+                "page": "MangaFox",
+                "title": "How to Fight",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/how_to_fight/"
+            }
+        },
         "MangaNato": {
             "manga-ip985924": {
+                "id": 74243,
                 "identifier": "manga-ip985924",
                 "image": "https://avt.mkklcdnv6temp.com/36/l/21-1595608307.jpg",
                 "malId": 139164,
@@ -42,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ip985924"
             }
         },
-        "MangaFire": {
-            "how-to-fightt.pr959": {
-                "identifier": "how-to-fightt.pr959",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/705c2126a15c0cfa251b67e7c3766610.jpg",
-                "malId": 139164,
-                "aniId": 121991,
-                "page": "MangaFire",
-                "title": "How to Fight",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/how-to-fightt.pr959/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8hkq5kfpy5mrr9cncr": {
+                "id": 206096,
                 "identifier": "01j76xye8hkq5kfpy5mrr9cncr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8HKQ5KFPY5MRR9CNCR.jpg",
                 "malId": 139164,
@@ -64,6 +69,19 @@
                 "title": "Viral Hit",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8HKQ5KFPY5MRR9CNCR"
+            }
+        },
+        "MangaFire": {
+            "pr959": {
+                "id": 224035,
+                "identifier": "pr959",
+                "image": "https://static.mangafire.to/a67a/i/7/70/705c2126a15c0cfa251b67e7c3766610.jpg",
+                "malId": 139164,
+                "aniId": 121991,
+                "page": "MangaFire",
+                "title": "How to Fight",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/how-to-fightt.pr959"
             }
         },
         "Comick": {

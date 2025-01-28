@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b4615bd9-7cbd-4243-a8a2-5c24671663e0": {
+                "id": 30232,
                 "identifier": "b4615bd9-7cbd-4243-a8a2-5c24671663e0",
                 "image": "https://uploads.mangadex.org/covers/b4615bd9-7cbd-4243-a8a2-5c24671663e0/0f7dfe3b-18b5-43a5-9dfd-0eecd7aa30ee.jpg",
                 "malId": 120309,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yajin-tensei-karate-survivor-in-another-world": {
+                "id": 65140,
                 "identifier": "yajin-tensei-karate-survivor-in-another-world",
                 "image": "https://temp.compsci88.com/cover/Yajin-Tensei-Karate-Survivor-in-Another-World.jpg",
                 "malId": 120309,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-im986069": {
+                "id": 73283,
                 "identifier": "manga-im986069",
                 "image": "https://avt.mkklcdnv6temp.com/42/c/21-1596255851.jpg",
                 "malId": 120309,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-im986069"
             }
         },
-        "MangaFire": {
-            "yajin-tensei-karate-survivor-in-another-world.zlzq2": {
-                "identifier": "yajin-tensei-karate-survivor-in-another-world.zlzq2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e453a3e8a765263183e445b4ffc29c5.jpg",
-                "malId": 120309,
-                "aniId": 125726,
-                "page": "MangaFire",
-                "title": "Karate Survivor in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yajin-tensei-karate-survivor-in-another-world.zlzq2/"
-            },
-            "yajin-tensei-karate-survivor-in-another-worldd.zlzq2": {
-                "identifier": "yajin-tensei-karate-survivor-in-another-worldd.zlzq2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e453a3e8a765263183e445b4ffc29c5.jpg",
-                "malId": 120309,
-                "aniId": 125726,
-                "page": "MangaFire",
-                "title": "Karate Survivor in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yajin-tensei-karate-survivor-in-another-worldd.zlzq2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyef45kv6pst060rwnghx": {
+                "id": 209969,
                 "identifier": "01j76xyef45kv6pst060rwnghx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEF45KV6PST060RWNGHX.jpg",
                 "malId": 120309,
@@ -74,6 +56,19 @@
                 "title": "Karate Survivor in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEF45KV6PST060RWNGHX"
+            }
+        },
+        "MangaFire": {
+            "zlzq2": {
+                "id": 226422,
+                "identifier": "zlzq2",
+                "image": "https://static.mangafire.to/69fc/i/0/0e/0e453a3e8a765263183e445b4ffc29c5.jpg",
+                "malId": 120309,
+                "aniId": 125726,
+                "page": "MangaFire",
+                "title": "Karate Survivor in Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yajin-tensei-karate-survivor-in-another-worldd.zlzq2"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e8748409-955b-4e6f-a288-e8f8fd2d22cd": {
+                "id": 111717,
                 "identifier": "e8748409-955b-4e6f-a288-e8f8fd2d22cd",
                 "image": "https://uploads.mangadex.org/covers/e8748409-955b-4e6f-a288-e8f8fd2d22cd/b360169b-ef07-445f-9b8e-8d8f861f998b.jpg",
                 "malId": 151096,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/e8748409-955b-4e6f-a288-e8f8fd2d22cd"
             }
         },
-        "MangaFire": {
-            "joshi-kousei-joreishi-akane.jj5y2": {
-                "identifier": "joshi-kousei-joreishi-akane.jj5y2",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/06e9d5b2710042c559cea3607f5c1a6f.jpg",
-                "malId": 151096,
-                "aniId": 153240,
-                "page": "MangaFire",
-                "title": "Joshi kousei joreishi Akane!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/joshi-kousei-joreishi-akane.jj5y2/"
-            },
-            "joshi-kousei-joreishi-akanee.jj5y2": {
-                "identifier": "joshi-kousei-joreishi-akanee.jj5y2",
-                "image": "https://static.mangafire.to/db42/i/0/06/06e9d5b2710042c559cea3607f5c1a6f.jpg",
-                "malId": 151096,
-                "aniId": 153240,
-                "page": "MangaFire",
-                "title": "Joshi kousei joreishi Akane!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/joshi-kousei-joreishi-akanee.jj5y2/"
-            }
-        },
         "MangaNato": {
             "manga-ta996683": {
+                "id": 160242,
                 "identifier": "manga-ta996683",
                 "image": "https://avt.mkklcdnv6temp.com/fld/25/u/15-1733308129-nw.webp",
                 "malId": 151096,
@@ -50,6 +30,19 @@
                 "title": "Joshi Kousei Joreishi Akane!",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ta996683"
+            }
+        },
+        "MangaFire": {
+            "jj5y2": {
+                "id": 223149,
+                "identifier": "jj5y2",
+                "image": "https://static.mangafire.to/db42/i/0/06/06e9d5b2710042c559cea3607f5c1a6f.jpg",
+                "malId": 151096,
+                "aniId": 153240,
+                "page": "MangaFire",
+                "title": "Joshi kousei joreishi Akane!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/joshi-kousei-joreishi-akanee.jj5y2"
             }
         },
         "Comick": {

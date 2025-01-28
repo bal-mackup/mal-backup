@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "823446ed-df4c-4ece-a2a5-6e0692868368": {
+                "id": 25587,
                 "identifier": "823446ed-df4c-4ece-a2a5-6e0692868368",
                 "image": "https://uploads.mangadex.org/covers/823446ed-df4c-4ece-a2a5-6e0692868368/71740870-f935-45fd-affb-4531fafbf38a.jpg",
                 "malId": 122143,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/823446ed-df4c-4ece-a2a5-6e0692868368"
             }
         },
-        "MangaFire": {
-            "europe-eseo-100-il.rj28m": {
-                "identifier": "europe-eseo-100-il.rj28m",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/0343f02de97548c5d3d2c49a26f0cd77.jpg",
-                "malId": 122143,
-                "aniId": 112395,
-                "page": "MangaFire",
-                "title": "100 Days in Europe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/europe-eseo-100-il.rj28m/"
-            }
-        },
         "MangaSee": {
             "100-days-in-europe": {
+                "id": 159417,
                 "identifier": "100-days-in-europe",
                 "image": "https://temp.compsci88.com/cover/100-Days-in-Europe.jpg",
                 "malId": 122143,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg6c4dvb6sg00frrcpbt": {
+                "id": 212126,
                 "identifier": "01j76xyg6c4dvb6sg00frrcpbt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6C4DVB6SG00FRRCPBT.jpg",
                 "malId": 122143,
@@ -52,6 +43,19 @@
                 "title": "100 Days in Europe",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6C4DVB6SG00FRRCPBT"
+            }
+        },
+        "MangaFire": {
+            "rj28m": {
+                "id": 252297,
+                "identifier": "rj28m",
+                "image": "https://static.mangafire.to/7b65/i/0/03/0343f02de97548c5d3d2c49a26f0cd77.jpg",
+                "malId": 122143,
+                "aniId": 112395,
+                "page": "MangaFire",
+                "title": "100 Days in Europe",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/europe-eseo-100-ill.rj28m"
             }
         },
         "Comick": {

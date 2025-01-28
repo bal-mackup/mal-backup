@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab44f11b-a02c-427e-84ee-cce4bb6e77ef": {
+                "id": 28027,
                 "identifier": "ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
                 "image": "https://uploads.mangadex.org/covers/ab44f11b-a02c-427e-84ee-cce4bb6e77ef/ea671679-ce86-471b-97ae-a265d286d086.jpg",
                 "malId": 121798,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-duchess-of-the-attic": {
+                "id": 67806,
                 "identifier": "the-duchess-of-the-attic",
                 "image": "https://temp.compsci88.com/cover/The-Duchess-of-the-Attic.jpg",
                 "malId": 121798,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ff982562": {
+                "id": 80441,
                 "identifier": "manga-ff982562",
                 "image": "https://avt.mkklcdnv6temp.com/6/g/19-1583499319.jpg",
                 "malId": 121798,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "the_duchess_of_the_attic": {
+                "id": 83454,
                 "identifier": "the_duchess_of_the_attic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30476/cover.jpg",
                 "malId": 121798,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/the_duchess_of_the_attic/"
             }
         },
-        "MangaFire": {
-            "yane-urabeya-no-koushaku-fujin.vv0n6": {
-                "identifier": "yane-urabeya-no-koushaku-fujin.vv0n6",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c3/c38f72447d45104cb3b059b9e31f7726.jpg",
-                "malId": 121798,
-                "aniId": 111595,
-                "page": "MangaFire",
-                "title": "Duchess in the Attic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yane-urabeya-no-koushaku-fujin.vv0n6/"
-            },
-            "yane-urabeya-no-koushaku-fujinn.vv0n6": {
-                "identifier": "yane-urabeya-no-koushaku-fujinn.vv0n6",
-                "image": "https://static.mangafire.to/c72d/i/c/c3/c38f72447d45104cb3b059b9e31f7726.jpg",
-                "malId": 121798,
-                "aniId": 111595,
-                "page": "MangaFire",
-                "title": "Duchess in the Attic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yane-urabeya-no-koushaku-fujinn.vv0n6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeepz2b67m1r83jzf9wc": {
+                "id": 213371,
                 "identifier": "01j76xyeepz2b67m1r83jzf9wc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEEPZ2B67M1R83JZF9WC.jpg",
                 "malId": 121798,
@@ -86,6 +69,19 @@
                 "title": "The Duchess of the Attic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEEPZ2B67M1R83JZF9WC"
+            }
+        },
+        "MangaFire": {
+            "vv0n6": {
+                "id": 223717,
+                "identifier": "vv0n6",
+                "image": "https://static.mangafire.to/c72d/i/c/c3/c38f72447d45104cb3b059b9e31f7726.jpg",
+                "malId": 121798,
+                "aniId": 111595,
+                "page": "MangaFire",
+                "title": "Duchess in the Attic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yane-urabeya-no-koushaku-fujinn.vv0n6"
             }
         },
         "Comick": {

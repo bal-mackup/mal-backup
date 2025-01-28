@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "pathfinder": {
+                "id": 72543,
                 "identifier": "pathfinder",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38436/cover.jpg",
                 "malId": 152064,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lj989066": {
+                "id": 74269,
                 "identifier": "manga-lj989066",
                 "image": "https://avt.mkklcdnv6temp.com/14/s/24-1621658627.jpg",
                 "malId": 152064,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "pathfinder": {
+                "id": 82204,
                 "identifier": "pathfinder",
                 "image": "https://temp.compsci88.com/cover/Pathfinder.jpg",
                 "malId": 152064,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "0f581b86-7d9e-4d8f-9974-cd9dcb2ae922": {
+                "id": 104389,
                 "identifier": "0f581b86-7d9e-4d8f-9974-cd9dcb2ae922",
                 "image": "https://uploads.mangadex.org/covers/0f581b86-7d9e-4d8f-9974-cd9dcb2ae922/2e11d27a-133a-44c2-9ef5-fd6609d8fdc2.jpg",
                 "malId": 152064,
@@ -54,20 +58,9 @@
                 "url": "https://mangadex.org/title/0f581b86-7d9e-4d8f-9974-cd9dcb2ae922"
             }
         },
-        "MangaFire": {
-            "pathfinder.xjkj3": {
-                "identifier": "pathfinder.xjkj3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/201ee4123ce73a80d9d0cf6f89682a3d.jpg",
-                "malId": 152064,
-                "aniId": 134730,
-                "page": "MangaFire",
-                "title": "PathFinder",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pathfinder.xjkj3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyexapvzjxyzfjw3vdsnj": {
+                "id": 207049,
                 "identifier": "01j76xyexapvzjxyzfjw3vdsnj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEXAPVZJXYZFJW3VDSNJ.jpg",
                 "malId": 152064,
@@ -76,6 +69,19 @@
                 "title": "Pathfinder",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEXAPVZJXYZFJW3VDSNJ"
+            }
+        },
+        "MangaFire": {
+            "xjkj3": {
+                "id": 253503,
+                "identifier": "xjkj3",
+                "image": "https://static.mangafire.to/f6bc/i/2/20/201ee4123ce73a80d9d0cf6f89682a3d.jpg",
+                "malId": 152064,
+                "aniId": 134730,
+                "page": "MangaFire",
+                "title": "PathFinder",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pathfinderr.xjkj3"
             }
         }
     },

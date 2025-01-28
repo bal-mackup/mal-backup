@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "zo-zo-zombie": {
+                "id": 85545,
                 "identifier": "zo-zo-zombie",
                 "image": "https://temp.compsci88.com/cover/Zo-Zo-Zombie.jpg",
                 "malId": 103883,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Zo-Zo-Zombie"
             }
         },
-        "MangaFire": {
-            "zo-zo-zo-zombie-kun.oxl65": {
-                "identifier": "zo-zo-zo-zombie-kun.oxl65",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2ecee99ab4ead778f9ca9735538178d.jpg",
-                "malId": 103883,
-                "aniId": 111792,
-                "page": "MangaFire",
-                "title": "Zo Zo Zo Zombie-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zo-zo-zo-zombie-kun.oxl65/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeyharesjbf4necv6h4y": {
+                "id": 207489,
                 "identifier": "01j76xyeyharesjbf4necv6h4y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYHARESJBF4NECV6H4Y.jpg",
                 "malId": 103883,
@@ -40,6 +30,19 @@
                 "title": "Zo Zo Zombie",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYHARESJBF4NECV6H4Y"
+            }
+        },
+        "MangaFire": {
+            "oxl65": {
+                "id": 230885,
+                "identifier": "oxl65",
+                "image": "https://static.mangafire.to/b5df/i/a/a2/a2ecee99ab4ead778f9ca9735538178d.jpg",
+                "malId": 103883,
+                "aniId": 111792,
+                "page": "MangaFire",
+                "title": "Zo Zo Zo Zombie-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zo-zo-zo-zombie-kunn.oxl65"
             }
         },
         "MangaReader": {

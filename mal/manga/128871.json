@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4667017b-c0d6-479c-8b27-e1ee674a4351": {
+                "id": 33950,
                 "identifier": "4667017b-c0d6-479c-8b27-e1ee674a4351",
                 "image": "https://uploads.mangadex.org/covers/4667017b-c0d6-479c-8b27-e1ee674a4351/f90e79da-0a07-417c-9d5d-f29d43590233.jpg",
                 "malId": 128871,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/4667017b-c0d6-479c-8b27-e1ee674a4351"
             }
         },
-        "MangaFire": {
-            "parasitic-pandemic.1nj4w": {
-                "identifier": "parasitic-pandemic.1nj4w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dd5c0f2d7343161f326c5ccdf74351c.jpg",
-                "malId": 128871,
-                "aniId": 116463,
-                "page": "MangaFire",
-                "title": "Parasitic Pandemic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/parasitic-pandemic.1nj4w/"
-            },
-            "parasitic-pandemicc.1nj4w": {
-                "identifier": "parasitic-pandemicc.1nj4w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dd5c0f2d7343161f326c5ccdf74351c.jpg",
-                "malId": 128871,
-                "aniId": 116463,
-                "page": "MangaFire",
-                "title": "Parasitic Pandemic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/parasitic-pandemicc.1nj4w/"
-            }
-        },
         "MangaNato": {
             "manga-bj1004592": {
+                "id": 219941,
                 "identifier": "manga-bj1004592",
                 "image": "https://avt.mkklcdnv6temp.com/46/e/36-1726657613.jpg",
                 "malId": 128871,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "kisei_rettou": {
+                "id": 220132,
                 "identifier": "kisei_rettou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39529/cover.jpg",
                 "malId": 128871,
@@ -62,6 +43,19 @@
                 "title": "Kisei Rettou",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kisei_rettou/"
+            }
+        },
+        "MangaFire": {
+            "1nj4w": {
+                "id": 224862,
+                "identifier": "1nj4w",
+                "image": "https://static.mangafire.to/b5a8/i/7/7d/7dd5c0f2d7343161f326c5ccdf74351c.jpg",
+                "malId": 128871,
+                "aniId": 116463,
+                "page": "MangaFire",
+                "title": "Parasitic Pandemic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/parasitic-pandemicc.1nj4w"
             }
         },
         "Comick": {

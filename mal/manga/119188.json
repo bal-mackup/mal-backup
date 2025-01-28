@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cc7d91e6-803f-4421-b6e6-3fee66bd468f": {
+                "id": 33854,
                 "identifier": "cc7d91e6-803f-4421-b6e6-3fee66bd468f",
                 "image": "https://uploads.mangadex.org/covers/cc7d91e6-803f-4421-b6e6-3fee66bd468f/ad74f98b-5c9a-4cb5-bf86-b3613fce7272.jpg",
                 "malId": 119188,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/cc7d91e6-803f-4421-b6e6-3fee66bd468f"
             }
         },
-        "MangaFire": {
-            "zenrazip.6wk9z": {
-                "identifier": "zenrazip.6wk9z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/b48622862b5b522199ff1cdc79659a02.jpg",
-                "malId": 119188,
-                "aniId": 135154,
-                "page": "MangaFire",
-                "title": "All Naked.zip",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zenrazip.6wk9z/"
-            }
-        },
         "MangaNato": {
             "manga-xx1001132": {
+                "id": 182983,
                 "identifier": "manga-xx1001132",
                 "image": "https://avt.mkklcdnv6temp.com/fld/95/s/16-1733320427-nw.webp",
                 "malId": 119188,
@@ -44,6 +34,7 @@
         },
         "MangaFox": {
             "zenra_zip": {
+                "id": 184319,
                 "identifier": "zenra_zip",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45969/cover.jpg",
                 "malId": 119188,
@@ -52,6 +43,19 @@
                 "title": "Zenra.zip",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/zenra_zip/"
+            }
+        },
+        "MangaFire": {
+            "6wk9z": {
+                "id": 236789,
+                "identifier": "6wk9z",
+                "image": "https://static.mangafire.to/c424/i/d/dc/b48622862b5b522199ff1cdc79659a02.jpg",
+                "malId": 119188,
+                "aniId": 135154,
+                "page": "MangaFire",
+                "title": "All Naked.zip",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zenrazipp.6wk9z"
             }
         },
         "Comick": {

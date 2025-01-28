@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "agatha": {
+                "id": 94563,
                 "identifier": "agatha",
                 "image": "https://temp.compsci88.com/cover/Agatha.jpg",
                 "malId": 147919,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "d42c89cc-4d79-45e3-9f1e-b8a420bbec5b": {
+                "id": 184005,
                 "identifier": "d42c89cc-4d79-45e3-9f1e-b8a420bbec5b",
                 "image": "https://uploads.mangadex.org/covers/d42c89cc-4d79-45e3-9f1e-b8a420bbec5b/92b8a065-cfc8-4963-b184-4f54cc0939c0.jpg",
                 "malId": 147919,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/d42c89cc-4d79-45e3-9f1e-b8a420bbec5b"
             }
         },
-        "MangaFire": {
-            "agatha.lr7qn": {
-                "identifier": "agatha.lr7qn",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/3d90ea15adf3106c0036688526dbd2f9.jpg",
-                "malId": 147919,
-                "aniId": 135998,
-                "page": "MangaFire",
-                "title": "Agatha",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/agatha.lr7qn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf8d18axt5evnfgz92d5": {
+                "id": 209371,
                 "identifier": "01j76xyf8d18axt5evnfgz92d5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF8D18AXT5EVNFGZ92D5.jpg",
                 "malId": 147919,
@@ -52,6 +43,19 @@
                 "title": "Agatha",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF8D18AXT5EVNFGZ92D5"
+            }
+        },
+        "MangaFire": {
+            "lr7qn": {
+                "id": 236044,
+                "identifier": "lr7qn",
+                "image": "https://static.mangafire.to/635d/i/2/22/3d90ea15adf3106c0036688526dbd2f9.jpg",
+                "malId": 147919,
+                "aniId": 135998,
+                "page": "MangaFire",
+                "title": "Agatha",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/agathaa.lr7qn"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dee582b2-2633-4287-86c5-e7a9e51e8bba": {
+                "id": 23398,
                 "identifier": "dee582b2-2633-4287-86c5-e7a9e51e8bba",
                 "image": "https://uploads.mangadex.org/covers/dee582b2-2633-4287-86c5-e7a9e51e8bba/35c28842-ab85-4264-be27-e04092f18278.jpg",
                 "malId": 114754,
@@ -18,40 +19,9 @@
                 "url": "https://mangadex.org/title/dee582b2-2633-4287-86c5-e7a9e51e8bba"
             }
         },
-        "MangaFire": {
-            "yuusha-goikkou-no-kaerimichi.oorw4": {
-                "identifier": "yuusha-goikkou-no-kaerimichi.oorw4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/009bf8e924da6f96d2cf577aaea84566.jpg",
-                "malId": 114754,
-                "aniId": 103687,
-                "page": "MangaFire",
-                "title": "Yuusha Goikkou no Kaerimichi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-goikkou-no-kaerimichi.oorw4/"
-            },
-            "yuusha-goikkou-no-kaerimichii.oorw4": {
-                "identifier": "yuusha-goikkou-no-kaerimichii.oorw4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/009bf8e924da6f96d2cf577aaea84566.jpg",
-                "malId": 114754,
-                "aniId": 103687,
-                "page": "MangaFire",
-                "title": "Yuusha Goikkou no Kaerimichi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-goikkou-no-kaerimichii.oorw4/"
-            },
-            "oorw4": {
-                "identifier": "oorw4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/009bf8e924da6f96d2cf577aaea84566.jpg",
-                "malId": 114754,
-                "aniId": 103687,
-                "page": "MangaFire",
-                "title": "Yuusha Goikkou no Kaerimichi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-goikkou-no-kaerimichii.oorw4/"
-            }
-        },
         "MangaNato": {
             "manga-wb1000036": {
+                "id": 178803,
                 "identifier": "manga-wb1000036",
                 "image": "https://avt.mkklcdnv6temp.com/fld/53/r/16-1733316929-nw.webp",
                 "malId": 114754,
@@ -60,6 +30,19 @@
                 "title": "Yuusha Goikkou No Kaerimichi",
                 "type": "manga",
                 "url": "https://manganato.com/manga-wb1000036"
+            }
+        },
+        "MangaFire": {
+            "oorw4": {
+                "id": 231292,
+                "identifier": "oorw4",
+                "image": "https://static.mangafire.to/39d2/i/0/00/009bf8e924da6f96d2cf577aaea84566.jpg",
+                "malId": 114754,
+                "aniId": 103687,
+                "page": "MangaFire",
+                "title": "Yuusha Goikkou no Kaerimichi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuusha-goikkou-no-kaerimichii.oorw4"
             }
         },
         "Comick": {

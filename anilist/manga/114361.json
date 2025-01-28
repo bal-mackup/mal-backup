@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2b6e26fd-d1d6-4000-958c-ca15e7c9715a": {
+                "id": 32495,
                 "identifier": "2b6e26fd-d1d6-4000-958c-ca15e7c9715a",
                 "image": "https://uploads.mangadex.org/covers/2b6e26fd-d1d6-4000-958c-ca15e7c9715a/a032976c-1318-4a88-834d-1fce547ab70c.jpg",
                 "malId": 139873,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/2b6e26fd-d1d6-4000-958c-ca15e7c9715a"
             },
             "6409e499-bb36-4efa-9888-a08b52b86988": {
+                "id": 150936,
                 "identifier": "6409e499-bb36-4efa-9888-a08b52b86988",
                 "image": "https://uploads.mangadex.org/covers/6409e499-bb36-4efa-9888-a08b52b86988/47b7b23e-c2e8-4b17-b3ca-ff08cab53f1d.jpg",
                 "malId": 139873,
@@ -28,20 +30,9 @@
                 "url": "https://mangadex.org/title/6409e499-bb36-4efa-9888-a08b52b86988"
             }
         },
-        "MangaFire": {
-            "watashi-idol-sengen.6l8op": {
-                "identifier": "watashi-idol-sengen.6l8op",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/270b8d4b92f1f7a45b626bf3e334c3cc.jpg",
-                "malId": 139873,
-                "aniId": 114361,
-                "page": "MangaFire",
-                "title": "I'm an Idol",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-idol-sengen.6l8op/"
-            }
-        },
         "MangaNato": {
             "manga-so995823": {
+                "id": 155593,
                 "identifier": "manga-so995823",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/w/14-1733306141-nw.webp",
                 "malId": 139873,
@@ -50,6 +41,19 @@
                 "title": "Watashi, Idol Sengen",
                 "type": "manga",
                 "url": "https://manganato.com/manga-so995823"
+            }
+        },
+        "MangaFire": {
+            "6l8op": {
+                "id": 258720,
+                "identifier": "6l8op",
+                "image": "https://static.mangafire.to/90df/i/2/27/270b8d4b92f1f7a45b626bf3e334c3cc.jpg",
+                "malId": 139873,
+                "aniId": 114361,
+                "page": "MangaFire",
+                "title": "I'm an Idol",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-idol-sengenn.6l8op"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ec514ef4-fb77-43b9-b9b4-528229de1308": {
+                "id": 13850,
                 "identifier": "ec514ef4-fb77-43b9-b9b4-528229de1308",
                 "image": "https://uploads.mangadex.org/covers/ec514ef4-fb77-43b9-b9b4-528229de1308/f395b9a0-b6f0-4b16-bf3c-2bdbdd9a5c54.jpg",
                 "malId": 91037,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/ec514ef4-fb77-43b9-b9b4-528229de1308"
             },
             "5e6fc7ba-5af9-4f74-b439-9c487b6f635b": {
+                "id": 28862,
                 "identifier": "5e6fc7ba-5af9-4f74-b439-9c487b6f635b",
                 "image": "https://uploads.mangadex.org/covers/5e6fc7ba-5af9-4f74-b439-9c487b6f635b/68182cd6-582e-47b3-87c2-233daa79475e.jpg",
                 "malId": 91037,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "fire-brigade-of-flames": {
+                "id": 52010,
                 "identifier": "fire-brigade-of-flames",
                 "image": "https://temp.compsci88.com/cover/Fire-Brigade-Of-Flames.jpg",
                 "malId": 91037,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "enen_no_shouboutai": {
+                "id": 54300,
                 "identifier": "enen_no_shouboutai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17045/cover.jpg",
                 "malId": 91037,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-jh951716": {
+                "id": 73095,
                 "identifier": "manga-jh951716",
                 "image": "https://avt.mkklcdnv6temp.com/14/l/1-1583464238.jpg",
                 "malId": 91037,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-jh951716"
             }
         },
-        "MangaFire": {
-            "fire-force.z1r3l": {
-                "identifier": "fire-force.z1r3l",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/be8c0352526f99803e3c14736c10d883.jpg",
-                "malId": 91037,
-                "aniId": 86310,
-                "page": "MangaFire",
-                "title": "Fire Force",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fire-force.z1r3l/"
-            },
-            "fire-forcee.z1r3l": {
-                "identifier": "fire-forcee.z1r3l",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/be8c0352526f99803e3c14736c10d883.jpg",
-                "malId": 91037,
-                "aniId": 86310,
-                "page": "MangaFire",
-                "title": "Fire Force",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fire-forcee.z1r3l/"
-            }
-        },
         "Weebcentral": {
             "01j76xybemj5bbfy9gx6y9wetr": {
+                "id": 207526,
                 "identifier": "01j76xybemj5bbfy9gx6y9wetr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEMJ5BBFY9GX6Y9WETR.jpg",
                 "malId": 91037,
@@ -96,6 +80,19 @@
                 "title": "Fire Force",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEMJ5BBFY9GX6Y9WETR"
+            }
+        },
+        "MangaFire": {
+            "z1r3l": {
+                "id": 228346,
+                "identifier": "z1r3l",
+                "image": "https://static.mangafire.to/221c/i/b/be/be8c0352526f99803e3c14736c10d883.jpg",
+                "malId": 91037,
+                "aniId": 86310,
+                "page": "MangaFire",
+                "title": "Fire Force",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fire-forcee.z1r3l"
             }
         },
         "Comick": {

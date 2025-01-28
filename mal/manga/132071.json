@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "83acc901-c42e-4468-a6dd-f5d8b9d48567": {
+                "id": 54594,
                 "identifier": "83acc901-c42e-4468-a6dd-f5d8b9d48567",
                 "image": "https://uploads.mangadex.org/covers/83acc901-c42e-4468-a6dd-f5d8b9d48567/f88acd35-5ddd-429c-b2c2-a5c785d72971.jpg",
                 "malId": 132071,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "trillion_game": {
+                "id": 68446,
                 "identifier": "trillion_game",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37439/cover.jpg",
                 "malId": 132071,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kz987508": {
+                "id": 73825,
                 "identifier": "manga-kz987508",
                 "image": "https://avt.mkklcdnv6temp.com/50/p/22-1609688882.jpg",
                 "malId": 132071,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "trillion-game": {
+                "id": 118886,
                 "identifier": "trillion-game",
                 "image": "https://temp.compsci88.com/cover/Trillion-Game.jpg",
                 "malId": 132071,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Trillion-Game"
             }
         },
-        "MangaFire": {
-            "trillion-game.8nmx3": {
-                "identifier": "trillion-game.8nmx3",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f0/f042df100f3456a86294ea5b9a96855c.jpg",
-                "malId": 132071,
-                "aniId": 126056,
-                "page": "MangaFire",
-                "title": "Trillion Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/trillion-game.8nmx3/"
-            },
-            "trillion-gamee.8nmx3": {
-                "identifier": "trillion-gamee.8nmx3",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f0/f042df100f3456a86294ea5b9a96855c.jpg",
-                "malId": 132071,
-                "aniId": 126056,
-                "page": "MangaFire",
-                "title": "Trillion Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/trillion-gamee.8nmx3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyft83arqmta5t11hgghk": {
+                "id": 209476,
                 "identifier": "01j76xyft83arqmta5t11hgghk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFT83ARQMTA5T11HGGHK.jpg",
                 "malId": 132071,
@@ -86,6 +69,19 @@
                 "title": "Trillion Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFT83ARQMTA5T11HGGHK"
+            }
+        },
+        "MangaFire": {
+            "8nmx3": {
+                "id": 228260,
+                "identifier": "8nmx3",
+                "image": "https://static.mangafire.to/129a/i/f/f0/f042df100f3456a86294ea5b9a96855c.jpg",
+                "malId": 132071,
+                "aniId": 126056,
+                "page": "MangaFire",
+                "title": "Trillion Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/trillion-gamee.8nmx3"
             }
         },
         "Comick": {

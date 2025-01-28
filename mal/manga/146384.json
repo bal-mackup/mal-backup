@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c07693dd-19d1-4951-a9e5-522bc5a70c07": {
+                "id": 104720,
                 "identifier": "c07693dd-19d1-4951-a9e5-522bc5a70c07",
                 "image": "https://uploads.mangadex.org/covers/c07693dd-19d1-4951-a9e5-522bc5a70c07/8da7eb7d-5608-4156-aa22-8db82739d69d.jpg",
                 "malId": 146384,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/c07693dd-19d1-4951-a9e5-522bc5a70c07"
             }
         },
-        "MangaFire": {
-            "kono-manga-no-heroine-wa-morisaki-amane-desu.qx3oj": {
-                "identifier": "kono-manga-no-heroine-wa-morisaki-amane-desu.qx3oj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a16677f3241bd9905c7f303fa5d4c1b.jpg",
-                "malId": 146384,
-                "aniId": 147458,
-                "page": "MangaFire",
-                "title": "Morisaki Amane Is a Heroine of This Comic.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-manga-no-heroine-wa-morisaki-amane-desu.qx3oj/"
-            },
-            "kono-manga-no-heroine-wa-morisaki-amane-desuu.qx3oj": {
-                "identifier": "kono-manga-no-heroine-wa-morisaki-amane-desuu.qx3oj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a16677f3241bd9905c7f303fa5d4c1b.jpg",
-                "malId": 146384,
-                "aniId": 147458,
-                "page": "MangaFire",
-                "title": "Morisaki Amane Is a Heroine of This Comic.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-manga-no-heroine-wa-morisaki-amane-desuu.qx3oj/"
-            }
-        },
         "MangaFox": {
             "kono_manga_no_heroine_wa_morisaki_amane_desu": {
+                "id": 160453,
                 "identifier": "kono_manga_no_heroine_wa_morisaki_amane_desu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42607/cover.jpg",
                 "malId": 146384,
@@ -54,6 +34,7 @@
         },
         "MangaNato": {
             "manga-we1000139": {
+                "id": 178677,
                 "identifier": "manga-we1000139",
                 "image": "https://avt.mkklcdnv6temp.com/fld/57/q/16-1733317244-nw.webp",
                 "malId": 146384,
@@ -62,6 +43,19 @@
                 "title": "Kono Manga No Heroine Wa Morisaki Amane Desu.",
                 "type": "manga",
                 "url": "https://manganato.com/manga-we1000139"
+            }
+        },
+        "MangaFire": {
+            "qx3oj": {
+                "id": 227019,
+                "identifier": "qx3oj",
+                "image": "https://static.mangafire.to/ff15/i/5/5a/5a16677f3241bd9905c7f303fa5d4c1b.jpg",
+                "malId": 146384,
+                "aniId": 147458,
+                "page": "MangaFire",
+                "title": "Morisaki Amane Is a Heroine of This Comic.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kono-manga-no-heroine-wa-morisaki-amane-desuu.qx3oj"
             }
         },
         "Comick": {

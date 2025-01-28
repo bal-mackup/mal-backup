@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "df08d30e-6d53-4b40-9075-ee3404fcbf3d": {
+                "id": 38258,
                 "identifier": "df08d30e-6d53-4b40-9075-ee3404fcbf3d",
                 "image": "https://uploads.mangadex.org/covers/df08d30e-6d53-4b40-9075-ee3404fcbf3d/bf54d4b5-729f-4081-88d6-1fcf73925025.jpg",
                 "malId": 136655,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "to-strip-the-flesh": {
+                "id": 108226,
                 "identifier": "to-strip-the-flesh",
                 "image": "https://temp.compsci88.com/cover/To-Strip-the-Flesh.jpg",
                 "malId": 136655,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/To-Strip-the-Flesh"
             }
         },
-        "MangaFire": {
-            "tooda-oto-tanpenshuu-niku-wo-hagu.37on6": {
-                "identifier": "tooda-oto-tanpenshuu-niku-wo-hagu.37on6",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f99ad73ccf68ae751e28e854522891e2.jpg",
-                "malId": 136655,
-                "aniId": 122278,
-                "page": "MangaFire",
-                "title": "Tooda Oto Tanpenshuu: Niku wo Hagu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tooda-oto-tanpenshuu-niku-wo-hagu.37on6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfgtp1xr61rjnbwzae6w": {
+                "id": 212401,
                 "identifier": "01j76xyfgtp1xr61rjnbwzae6w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFGTP1XR61RJNBWZAE6W.jpg",
                 "malId": 136655,
@@ -52,6 +43,19 @@
                 "title": "To Strip the Flesh",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFGTP1XR61RJNBWZAE6W"
+            }
+        },
+        "MangaFire": {
+            "37on6": {
+                "id": 239766,
+                "identifier": "37on6",
+                "image": "https://static.mangafire.to/e0fb/i/f/f9/f99ad73ccf68ae751e28e854522891e2.jpg",
+                "malId": 136655,
+                "aniId": 122278,
+                "page": "MangaFire",
+                "title": "Tooda Oto Tanpenshuu: Niku wo Hagu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tooda-oto-tanpenshuu-niku-wo-haguu.37on6"
             }
         },
         "Comick": {

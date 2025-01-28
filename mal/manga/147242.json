@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "293365c8-aae7-4dbf-a12c-36e3f2edae99": {
+                "id": 106506,
                 "identifier": "293365c8-aae7-4dbf-a12c-36e3f2edae99",
                 "image": "https://uploads.mangadex.org/covers/293365c8-aae7-4dbf-a12c-36e3f2edae99/ae43cc88-d01a-4388-83b9-7f9cb4714512.jpg",
                 "malId": 147242,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "aliens-area": {
+                "id": 108171,
                 "identifier": "aliens-area",
                 "image": "https://temp.compsci88.com/cover/Aliens-Area.jpg",
                 "malId": 147242,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ns991201": {
+                "id": 108379,
                 "identifier": "manga-ns991201",
                 "image": "https://avt.mkklcdnv6temp.com/5/r/26-1655224022.jpg",
                 "malId": 147242,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "aliens_area": {
+                "id": 113917,
                 "identifier": "aliens_area",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43087/cover.jpg",
                 "malId": 147242,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/aliens_area/"
             }
         },
-        "MangaFire": {
-            "aliens-area.prmp4": {
-                "identifier": "aliens-area.prmp4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f554b16f70d116b997df1ab564e64cc.jpg",
-                "malId": 147242,
-                "aniId": 150441,
-                "page": "MangaFire",
-                "title": "Aliens Area",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aliens-area.prmp4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfh4bbrt8natyb63ah0t": {
+                "id": 210697,
                 "identifier": "01j76xyfh4bbrt8natyb63ah0t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFH4BBRT8NATYB63AH0T.jpg",
                 "malId": 147242,
@@ -76,6 +69,19 @@
                 "title": "Aliens Area",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFH4BBRT8NATYB63AH0T"
+            }
+        },
+        "MangaFire": {
+            "prmp4": {
+                "id": 262983,
+                "identifier": "prmp4",
+                "image": "https://static.mangafire.to/b67e/i/8/8f/8f554b16f70d116b997df1ab564e64cc.jpg",
+                "malId": 147242,
+                "aniId": 150441,
+                "page": "MangaFire",
+                "title": "Aliens Area",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aliens-areaa.prmp4"
             }
         },
         "Comick": {

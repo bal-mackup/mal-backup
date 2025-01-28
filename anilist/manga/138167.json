@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "68615a94-8fd2-4ff7-b634-76c09ab0bdb6": {
+                "id": 59032,
                 "identifier": "68615a94-8fd2-4ff7-b634-76c09ab0bdb6",
                 "image": "https://uploads.mangadex.org/covers/68615a94-8fd2-4ff7-b634-76c09ab0bdb6/2894b354-221a-4bd6-bf8b-ed53cac3093c.jpg",
                 "malId": 137530,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/68615a94-8fd2-4ff7-b634-76c09ab0bdb6"
             }
         },
-        "MangaFire": {
-            "isekai-nanpaa.vvr8v": {
-                "identifier": "isekai-nanpaa.vvr8v",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/efced0172a0fa90f1e0eeaeb2d7126eb.jpg",
-                "malId": 137530,
-                "aniId": 138167,
-                "page": "MangaFire",
-                "title": "Isekai Nanpa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-nanpaa.vvr8v/"
-            }
-        },
         "MangaNato": {
             "manga-cc1005585": {
+                "id": 214884,
                 "identifier": "manga-cc1005585",
                 "image": "https://avt.mkklcdnv6temp.com/fld/67/c/18-1733381108-nw.webp",
                 "malId": 137530,
@@ -40,6 +30,19 @@
                 "title": "Isekai Nanpa ~Mushoku Hikikomori No Ore Ga Sukiru Wo Kushi Shite Neko Ningen Ya Fuka Uchuu Dragon Ni Koe Wo Katte Mimashita~",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-cc1005585"
+            }
+        },
+        "MangaFire": {
+            "vvr8v": {
+                "id": 224634,
+                "identifier": "vvr8v",
+                "image": "https://static.mangafire.to/9fcb/i/e/ef/efced0172a0fa90f1e0eeaeb2d7126eb.jpg",
+                "malId": 137530,
+                "aniId": 138167,
+                "page": "MangaFire",
+                "title": "Isekai Nanpa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-nanpaa.vvr8v"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "talent-swallowing-magician": {
+                "id": 94308,
                 "identifier": "talent-swallowing-magician",
                 "image": "https://temp.compsci88.com/cover/Talent-Swallowing-Magician.jpg",
                 "malId": 149465,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ni990391": {
+                "id": 94615,
                 "identifier": "manga-ni990391",
                 "image": "https://avt.mkklcdnv6temp.com/22/p/25-1642061211.jpg",
                 "malId": 149465,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "b0e04bbb-8293-4f47-a34c-bc4d868a3d85": {
+                "id": 105514,
                 "identifier": "b0e04bbb-8293-4f47-a34c-bc4d868a3d85",
                 "image": "https://uploads.mangadex.org/covers/b0e04bbb-8293-4f47-a34c-bc4d868a3d85/16fb2792-eb50-4859-847b-094aa6044d18.png",
                 "malId": 149465,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/b0e04bbb-8293-4f47-a34c-bc4d868a3d85"
             }
         },
-        "MangaFire": {
-            "jaeneung-samkin-mabeopsa.xjzjv": {
-                "identifier": "jaeneung-samkin-mabeopsa.xjzjv",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b907bded5ffc18c2bf9e84b4c3c34cb.jpg",
-                "malId": 149465,
-                "aniId": 144079,
-                "page": "MangaFire",
-                "title": "Demon Devourer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jaeneung-samkin-mabeopsa.xjzjv/"
-            },
-            "jaeneung-samkin-mabeopsaa.xjzjv": {
-                "identifier": "jaeneung-samkin-mabeopsaa.xjzjv",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b907bded5ffc18c2bf9e84b4c3c34cb.jpg",
-                "malId": 149465,
-                "aniId": 144079,
-                "page": "MangaFire",
-                "title": "Demon Devourer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jaeneung-samkin-mabeopsaa.xjzjv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf88mx1t9ts48yj0y5em": {
+                "id": 209402,
                 "identifier": "01j76xyf88mx1t9ts48yj0y5em",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF88MX1T9TS48YJ0Y5EM.jpg",
                 "malId": 149465,
@@ -74,6 +56,19 @@
                 "title": "Demon Devourer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF88MX1T9TS48YJ0Y5EM"
+            }
+        },
+        "MangaFire": {
+            "xjzjv": {
+                "id": 226742,
+                "identifier": "xjzjv",
+                "image": "https://static.mangafire.to/db70/i/5/5b/5b907bded5ffc18c2bf9e84b4c3c34cb.jpg",
+                "malId": 149465,
+                "aniId": 144079,
+                "page": "MangaFire",
+                "title": "Demon Devourer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jaeneung-samkin-mabeopsaa.xjzjv"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4fbc0e1c-6eef-49fe-8a82-b09186601643": {
+                "id": 18047,
                 "identifier": "4fbc0e1c-6eef-49fe-8a82-b09186601643",
                 "image": "https://uploads.mangadex.org/covers/4fbc0e1c-6eef-49fe-8a82-b09186601643/8d88e61c-6477-4784-8811-a8f50bc1bac4.jpg",
                 "malId": 102675,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kunoichi-no-ichi": {
+                "id": 58895,
                 "identifier": "kunoichi-no-ichi",
                 "image": "https://temp.compsci88.com/cover/Kunoichi-No-Ichi.jpg",
                 "malId": 102675,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kunoichi_no_ichi": {
+                "id": 76901,
                 "identifier": "kunoichi_no_ichi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26031/cover.jpg",
                 "malId": 102675,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zi977243": {
+                "id": 76976,
                 "identifier": "manga-zi977243",
                 "image": "https://avt.mkklcdnv6temp.com/38/q/15-1583492962.jpg",
                 "malId": 102675,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zi977243"
             }
         },
-        "MangaFire": {
-            "kunoichi-no-ichi.w16wk": {
-                "identifier": "kunoichi-no-ichi.w16wk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98c5f7dd57fe4e431a2d2a3bd364014b.jpg",
-                "malId": 102675,
-                "aniId": 99878,
-                "page": "MangaFire",
-                "title": "Kunoichi no Ichi!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kunoichi-no-ichi.w16wk/"
-            },
-            "w16wk": {
-                "identifier": "w16wk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98c5f7dd57fe4e431a2d2a3bd364014b.jpg",
-                "malId": 102675,
-                "aniId": 99878,
-                "page": "MangaFire",
-                "title": "Kunoichi no Ichi!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kunoichi-no-ichi.w16wk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5k9r1sj8xx6kfqwnh6": {
+                "id": 206582,
                 "identifier": "01j76xyc5k9r1sj8xx6kfqwnh6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5K9R1SJ8XX6KFQWNH6.jpg",
                 "malId": 102675,
@@ -86,6 +69,19 @@
                 "title": "Kunoichi no Ichi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5K9R1SJ8XX6KFQWNH6"
+            }
+        },
+        "MangaFire": {
+            "w16wk": {
+                "id": 258537,
+                "identifier": "w16wk",
+                "image": "https://static.mangafire.to/c855/i/9/98/98c5f7dd57fe4e431a2d2a3bd364014b.jpg",
+                "malId": 102675,
+                "aniId": 99878,
+                "page": "MangaFire",
+                "title": "Kunoichi no Ichi!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kunoichi-no-ichii.w16wk"
             }
         },
         "Comick": {

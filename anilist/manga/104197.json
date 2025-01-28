@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "32f49758-8c0d-46f3-959f-78c8306359ca": {
+                "id": 21257,
                 "identifier": "32f49758-8c0d-46f3-959f-78c8306359ca",
                 "image": "https://uploads.mangadex.org/covers/32f49758-8c0d-46f3-959f-78c8306359ca/ca8bc82a-83f3-4ff2-a22a-d064f45fc7ae.jpg",
                 "malId": 106603,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "onee-san-wa-joshi-shougakusei-ni-kyoumi-ga-arimasu": {
+                "id": 60931,
                 "identifier": "onee-san-wa-joshi-shougakusei-ni-kyoumi-ga-arimasu",
                 "image": "https://temp.compsci88.com/cover/Onee-san-wa-Joshi-Shougakusei-ni-Kyoumi-ga-arimasu.jpg",
                 "malId": 106603,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "onee_san_wa_joshi_shougakusei_ni_kyoumi_ga_arimasu": {
+                "id": 61993,
                 "identifier": "onee_san_wa_joshi_shougakusei_ni_kyoumi_ga_arimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28458/cover.jpg",
                 "malId": 106603,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cq979699": {
+                "id": 77357,
                 "identifier": "manga-cq979699",
                 "image": "https://avt.mkklcdnv6temp.com/1/j/16-1583495312.jpg",
                 "malId": 106603,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cq979699"
             }
         },
-        "MangaFire": {
-            "onee-san-wa-joshi-shougakusei-ni-kyoumi-ga-arimasu.zmo3": {
-                "identifier": "onee-san-wa-joshi-shougakusei-ni-kyoumi-ga-arimasu.zmo3",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3e51edb3594d22f5957bf8f085aff7a2.jpg",
-                "malId": 106603,
-                "aniId": 104197,
-                "page": "MangaFire",
-                "title": "Onee-san wa Joshi Shougakusei ni Kyoumi ga arimasu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onee-san-wa-joshi-shougakusei-ni-kyoumi-ga-arimasu.zmo3/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrvre3wrc93vpcp9esd": {
+                "id": 206188,
                 "identifier": "01j76xydrvre3wrc93vpcp9esd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRVRE3WRC93VPCP9ESD.jpg",
                 "malId": 106603,
@@ -76,6 +69,19 @@
                 "title": "Onee-san wa Joshi Shougakusei ni Kyoumi ga arimasu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRVRE3WRC93VPCP9ESD"
+            }
+        },
+        "MangaFire": {
+            "zmo3": {
+                "id": 249930,
+                "identifier": "zmo3",
+                "image": "https://static.mangafire.to/8207/i/3/3e/3e51edb3594d22f5957bf8f085aff7a2.jpg",
+                "malId": 106603,
+                "aniId": 104197,
+                "page": "MangaFire",
+                "title": "Onee-san wa Joshi Shougakusei ni Kyoumi ga arimasu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/onee-san-wa-joshi-shougakusei-ni-kyoumi-ga-arimasuu.zmo3"
             }
         },
         "Comick": {

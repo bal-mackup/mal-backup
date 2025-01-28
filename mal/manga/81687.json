@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "22d86b53-9cd8-40a9-b941-1e03d0f84744": {
+                "id": 11864,
                 "identifier": "22d86b53-9cd8-40a9-b941-1e03d0f84744",
                 "image": "https://uploads.mangadex.org/covers/22d86b53-9cd8-40a9-b941-1e03d0f84744/a5fa8098-2087-4ce4-b758-3e0ea12e9a1c.jpg",
                 "malId": 81687,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hana-no-niwa-ame-no-mai": {
+                "id": 84905,
                 "identifier": "hana-no-niwa-ame-no-mai",
                 "image": "https://temp.compsci88.com/cover/Hana-No-Niwa-Ame-No-Mai.jpg",
                 "malId": 81687,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hana-No-Niwa-Ame-No-Mai"
             }
         },
-        "MangaFire": {
-            "hana-no-niwa-ame-no-mai.3rrr6": {
-                "identifier": "hana-no-niwa-ame-no-mai.3rrr6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bd477226cabd8ad4c055d47a4f65970.jpg",
-                "malId": 81687,
-                "aniId": 93164,
-                "page": "MangaFire",
-                "title": "Hana no Niwa Ame no Mai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hana-no-niwa-ame-no-mai.3rrr6/"
-            },
-            "3rrr6": {
-                "identifier": "3rrr6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bd477226cabd8ad4c055d47a4f65970.jpg",
-                "malId": 81687,
-                "aniId": 93164,
-                "page": "MangaFire",
-                "title": "Hana no Niwa Ame no Mai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hana-no-niwa-ame-no-mai.3rrr6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaneb8qj3g1d9avqds37": {
+                "id": 211607,
                 "identifier": "01j76xyaneb8qj3g1d9avqds37",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYANEB8QJ3G1D9AVQDS37.jpg",
                 "malId": 81687,
@@ -62,6 +43,19 @@
                 "title": "Hana no Niwa Ame no Mai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYANEB8QJ3G1D9AVQDS37"
+            }
+        },
+        "MangaFire": {
+            "3rrr6": {
+                "id": 252710,
+                "identifier": "3rrr6",
+                "image": "https://static.mangafire.to/dc2f/i/2/2b/2bd477226cabd8ad4c055d47a4f65970.jpg",
+                "malId": 81687,
+                "aniId": 93164,
+                "page": "MangaFire",
+                "title": "Hana no Niwa Ame no Mai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hana-no-niwa-ame-no-maii.3rrr6"
             }
         },
         "Comick": {

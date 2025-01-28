@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2d636944-cec1-4a32-81de-f7816a2f50bf": {
+                "id": 29620,
                 "identifier": "2d636944-cec1-4a32-81de-f7816a2f50bf",
                 "image": "https://uploads.mangadex.org/covers/2d636944-cec1-4a32-81de-f7816a2f50bf/e5a72d4e-17fc-4136-9cd8-ffea0acec375.jpg",
                 "malId": 149025,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-tentative-name": {
+                "id": 114194,
                 "identifier": "my-tentative-name",
                 "image": "https://temp.compsci88.com/cover/My-Tentative-Name.jpg",
                 "malId": 149025,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/My-Tentative-Name"
             }
         },
-        "MangaFire": {
-            "my-tentative-name.3r8z6": {
-                "identifier": "my-tentative-name.3r8z6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b4a3b4cf1e54e768c42490f6cf1584c8.jpg",
-                "malId": 149025,
-                "aniId": 116011,
-                "page": "MangaFire",
-                "title": "My Tentative Name",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-tentative-name.3r8z6/"
-            },
-            "my-tentative-namee.3r8z6": {
-                "identifier": "my-tentative-namee.3r8z6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b4a3b4cf1e54e768c42490f6cf1584c8.jpg",
-                "malId": 149025,
-                "aniId": 116011,
-                "page": "MangaFire",
-                "title": "My Tentative Name",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-tentative-namee.3r8z6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfn0a6e1bzczej6cv9be": {
+                "id": 206684,
                 "identifier": "01j76xyfn0a6e1bzczej6cv9be",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFN0A6E1BZCZEJ6CV9BE.jpg",
                 "malId": 149025,
@@ -62,6 +43,19 @@
                 "title": "My Tentative Name",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFN0A6E1BZCZEJ6CV9BE"
+            }
+        },
+        "MangaFire": {
+            "3r8z6": {
+                "id": 238015,
+                "identifier": "3r8z6",
+                "image": "https://static.mangafire.to/d1f8/i/b/b4/b4a3b4cf1e54e768c42490f6cf1584c8.jpg",
+                "malId": 149025,
+                "aniId": 116011,
+                "page": "MangaFire",
+                "title": "My Tentative Name",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-tentative-namee.3r8z6"
             }
         },
         "Comick": {

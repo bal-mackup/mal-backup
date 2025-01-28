@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aca89ce3-6e52-496e-8e2c-07e5b611915c": {
+                "id": 21235,
                 "identifier": "aca89ce3-6e52-496e-8e2c-07e5b611915c",
                 "image": "https://uploads.mangadex.org/covers/aca89ce3-6e52-496e-8e2c-07e5b611915c/26358df5-be4f-409b-bf63-f532fb95f725.png",
                 "malId": 103804,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jinrouki-winvurga": {
+                "id": 56568,
                 "identifier": "jinrouki-winvurga",
                 "image": "https://temp.compsci88.com/cover/Jinrouki-Winvurga.jpg",
                 "malId": 103804,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jinrouki_winvurga": {
+                "id": 57825,
                 "identifier": "jinrouki_winvurga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33526/cover.jpg",
                 "malId": 103804,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cm979421": {
+                "id": 81329,
                 "identifier": "manga-cm979421",
                 "image": "https://avt.mkklcdnv6temp.com/40/v/16-1583494930.jpg",
                 "malId": 103804,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-cm979421"
             }
         },
-        "MangaFire": {
-            "jinrouki-winvurga.ylzp": {
-                "identifier": "jinrouki-winvurga.ylzp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f419186c62d3d2c4f5e2d6d35532a8b.jpg",
-                "malId": 103804,
-                "aniId": 103236,
-                "page": "MangaFire",
-                "title": "Jinrouki Winvurga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrouki-winvurga.ylzp/"
-            },
-            "jinrouki-winvurgaa.ylzp": {
-                "identifier": "jinrouki-winvurgaa.ylzp",
-                "image": "https://static.mangafire.to/ae54/i/1/1f/1f419186c62d3d2c4f5e2d6d35532a8b.jpg",
-                "malId": 103804,
-                "aniId": 103236,
-                "page": "MangaFire",
-                "title": "Jinrouki Winvurga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrouki-winvurgaa.ylzp/"
-            },
-            "ylzp": {
-                "identifier": "ylzp",
-                "image": "https://static.mangafire.to/ae54/i/1/1f/1f419186c62d3d2c4f5e2d6d35532a8b.jpg",
-                "malId": 103804,
-                "aniId": 103236,
-                "page": "MangaFire",
-                "title": "Jinrouki Winvurga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrouki-winvurgaa.ylzp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydpg4qta06khyn0cnb9n": {
+                "id": 214218,
                 "identifier": "01j76xydpg4qta06khyn0cnb9n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDPG4QTA06KHYN0CNB9N.jpg",
                 "malId": 103804,
@@ -96,6 +69,19 @@
                 "title": "Jinrouki Winvurga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDPG4QTA06KHYN0CNB9N"
+            }
+        },
+        "MangaFire": {
+            "ylzp": {
+                "id": 223494,
+                "identifier": "ylzp",
+                "image": "https://static.mangafire.to/ae54/i/1/1f/1f419186c62d3d2c4f5e2d6d35532a8b.jpg",
+                "malId": 103804,
+                "aniId": 103236,
+                "page": "MangaFire",
+                "title": "Jinrouki Winvurga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jinrouki-winvurgaa.ylzp"
             }
         },
         "Comick": {

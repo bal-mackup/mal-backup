@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "560e41b7-2910-4788-b399-bc290b934cf3": {
+                "id": 34283,
                 "identifier": "560e41b7-2910-4788-b399-bc290b934cf3",
                 "image": "https://uploads.mangadex.org/covers/560e41b7-2910-4788-b399-bc290b934cf3/9b7e71d5-a77a-4ecb-aabc-14dc84a49652.jpg",
                 "malId": 131014,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nidoto-ie-ni-wa-kaerimasen": {
+                "id": 65146,
                 "identifier": "nidoto-ie-ni-wa-kaerimasen",
                 "image": "https://temp.compsci88.com/cover/Nidoto-Ie-ni-wa-Kaerimasen.jpg",
                 "malId": 131014,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-iq986051": {
+                "id": 82888,
                 "identifier": "manga-iq986051",
                 "image": "https://avt.mkklcdnv6temp.com/41/k/21-1596166841.jpg",
                 "malId": 131014,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-iq986051"
             }
         },
-        "MangaFire": {
-            "nidoto-ie-ni-wa-kaerimasen.2oxx5": {
-                "identifier": "nidoto-ie-ni-wa-kaerimasen.2oxx5",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d526906fc53d80224e7869256bdf928.jpg",
-                "malId": 131014,
-                "aniId": 123756,
-                "page": "MangaFire",
-                "title": "I'll Never Set Foot in That House Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nidoto-ie-ni-wa-kaerimasen.2oxx5/"
-            },
-            "nidoto-ie-ni-wa-kaerimasenn.2oxx5": {
-                "identifier": "nidoto-ie-ni-wa-kaerimasenn.2oxx5",
-                "image": "https://static.mangafire.to/1917/i/2/2d/2d526906fc53d80224e7869256bdf928.jpg",
-                "malId": 131014,
-                "aniId": 123756,
-                "page": "MangaFire",
-                "title": "I'll Never Set Foot in That House Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nidoto-ie-ni-wa-kaerimasenn.2oxx5/"
-            }
-        },
         "Weebcentral": {
             "01j76xydvv25yzh9444rgbp2jj": {
+                "id": 210166,
                 "identifier": "01j76xydvv25yzh9444rgbp2jj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDVV25YZH9444RGBP2JJ.jpg",
                 "malId": 131014,
@@ -74,6 +56,19 @@
                 "title": "I'll Never Set Foot in That House Again!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDVV25YZH9444RGBP2JJ"
+            }
+        },
+        "MangaFire": {
+            "2oxx5": {
+                "id": 223367,
+                "identifier": "2oxx5",
+                "image": "https://static.mangafire.to/1917/i/2/2d/2d526906fc53d80224e7869256bdf928.jpg",
+                "malId": 131014,
+                "aniId": 123756,
+                "page": "MangaFire",
+                "title": "I'll Never Set Foot in That House Again",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nidoto-ie-ni-wa-kaerimasenn.2oxx5"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "214777d6-5561-4db5-bd21-997dae4761be": {
+                "id": 552,
                 "identifier": "214777d6-5561-4db5-bd21-997dae4761be",
                 "image": "https://uploads.mangadex.org/covers/214777d6-5561-4db5-bd21-997dae4761be/34f8f87b-1fa4-43dd-84bd-7dd30fe1c16d.jpg",
                 "malId": 86934,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "paradise-residence": {
+                "id": 86249,
                 "identifier": "paradise-residence",
                 "image": "https://temp.compsci88.com/cover/Paradise-Residence.jpg",
                 "malId": 86934,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Paradise-Residence"
             }
         },
-        "MangaFire": {
-            "paradise-residence.prj4": {
-                "identifier": "paradise-residence.prj4",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/790a05973b96390823570f150d65051c.jpg",
-                "malId": 86934,
-                "aniId": 40985,
-                "page": "MangaFire",
-                "title": "Paradise Residence",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/paradise-residence.prj4/"
-            },
-            "prj4": {
-                "identifier": "prj4",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/790a05973b96390823570f150d65051c.jpg",
-                "malId": 86934,
-                "aniId": 40985,
-                "page": "MangaFire",
-                "title": "Paradise Residence",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/paradise-residence.prj4/"
-            }
-        },
         "Weebcentral": {
             "01j76xya4wm8506785r0wt15g7": {
+                "id": 213767,
                 "identifier": "01j76xya4wm8506785r0wt15g7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA4WM8506785R0WT15G7.jpg",
                 "malId": 86934,
@@ -62,6 +43,19 @@
                 "title": "Paradise Residence",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA4WM8506785R0WT15G7"
+            }
+        },
+        "MangaFire": {
+            "prj4": {
+                "id": 255225,
+                "identifier": "prj4",
+                "image": "https://static.mangafire.to/1249/i/7/79/790a05973b96390823570f150d65051c.jpg",
+                "malId": 86934,
+                "aniId": 40985,
+                "page": "MangaFire",
+                "title": "Paradise Residence",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/paradise-residencee.prj4"
             }
         },
         "Comick": {

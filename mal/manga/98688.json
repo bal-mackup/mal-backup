@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "itihasa": {
+                "id": 75410,
                 "identifier": "itihasa",
                 "image": "https://temp.compsci88.com/cover/Itihasa.jpg",
                 "malId": 98688,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "89c51c81-c890-41c3-a512-30a838df9e04": {
+                "id": 83520,
                 "identifier": "89c51c81-c890-41c3-a512-30a838df9e04",
                 "image": "https://uploads.mangadex.org/covers/89c51c81-c890-41c3-a512-30a838df9e04/560857ae-4ea2-419f-9319-4585da6df5d0.jpg",
                 "malId": 98688,
@@ -32,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xycgde7xh35q0pyq1v6fj": {
+                "id": 210889,
                 "identifier": "01j76xycgde7xh35q0pyq1v6fj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGDE7XH35Q0PYQ1V6FJ.jpg",
                 "malId": 98688,
@@ -40,6 +43,19 @@
                 "title": "Itihasa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGDE7XH35Q0PYQ1V6FJ"
+            }
+        },
+        "MangaFox": {
+            "itihasa": {
+                "id": 267359,
+                "identifier": "itihasa",
+                "image": "https://fmcdn.mfcdn.net/store/manga/27984/cover.jpg",
+                "malId": 98688,
+                "aniId": 97267,
+                "page": "MangaFox",
+                "title": "Itihasa",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/itihasa/"
             }
         },
         "Comick": {

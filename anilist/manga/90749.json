@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-jc951711": {
+                "id": 80638,
                 "identifier": "manga-jc951711",
                 "image": "https://avt.mkklcdnv6temp.com/fld/17/d/1-1732717047-nw.webp",
                 "malId": 67943,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "azumi": {
+                "id": 97820,
                 "identifier": "azumi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/12852/cover.jpg",
                 "malId": 67943,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "e765a5c0-52a0-430c-81b7-15f69f1a1839": {
+                "id": 173739,
                 "identifier": "e765a5c0-52a0-430c-81b7-15f69f1a1839",
                 "image": "https://uploads.mangadex.org/covers/e765a5c0-52a0-430c-81b7-15f69f1a1839/72ec508c-d270-49f6-9e39-03c8dfc37f32.jpg",
                 "malId": 67943,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/e765a5c0-52a0-430c-81b7-15f69f1a1839"
             }
         },
-        "MangaFire": {
-            "azumi-2.mvl2p": {
-                "identifier": "azumi-2.mvl2p",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9f/9fa572b86e3f56c077911948c6bdaaaf.jpg",
-                "malId": 67943,
-                "aniId": 90749,
-                "page": "MangaFire",
-                "title": "Azumi 2",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/azumi-2.mvl2p/"
-            },
-            "mvl2p": {
-                "identifier": "mvl2p",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9f/9fa572b86e3f56c077911948c6bdaaaf.jpg",
-                "malId": 67943,
-                "aniId": 90749,
-                "page": "MangaFire",
-                "title": "Azumi 2",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/azumi-2.mvl2p/"
-            }
-        },
         "MangaSee": {
             "azumi-2": {
+                "id": 177525,
                 "identifier": "azumi-2",
                 "image": "https://temp.compsci88.com/cover/Azumi-2.jpg",
                 "malId": 67943,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygr3dtcgwb67qnmba8j8": {
+                "id": 209990,
                 "identifier": "01j76xygr3dtcgwb67qnmba8j8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGR3DTCGWB67QNMBA8J8.jpg",
                 "malId": 67943,
@@ -86,6 +69,19 @@
                 "title": "Azumi 2",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGR3DTCGWB67QNMBA8J8"
+            }
+        },
+        "MangaFire": {
+            "mvl2p": {
+                "id": 239006,
+                "identifier": "mvl2p",
+                "image": "https://static.mangafire.to/1d1e/i/9/9f/9fa572b86e3f56c077911948c6bdaaaf.jpg",
+                "malId": 67943,
+                "aniId": 90749,
+                "page": "MangaFire",
+                "title": "Azumi 2",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/azumi-22.mvl2p"
             }
         },
         "Comick": {

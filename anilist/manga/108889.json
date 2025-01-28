@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6fa4e986-29d4-408c-96cd-242440a469bb": {
+                "id": 23529,
                 "identifier": "6fa4e986-29d4-408c-96cd-242440a469bb",
                 "image": "https://uploads.mangadex.org/covers/6fa4e986-29d4-408c-96cd-242440a469bb/22feed47-6252-4e87-b66e-639ad9d04775.jpg",
                 "malId": 118659,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cj979592": {
+                "id": 95452,
                 "identifier": "manga-cj979592",
                 "image": "https://avt.mkklcdnv6temp.com/fld/94/r/8-1732792103-nw.webp",
                 "malId": 118659,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-cj979592"
             }
         },
-        "MangaFire": {
-            "tsukumogami-pompom.yqp3x": {
-                "identifier": "tsukumogami-pompom.yqp3x",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19f00b747d60af597d4df76d04bc1573.jpg",
-                "malId": 118659,
-                "aniId": 108889,
-                "page": "MangaFire",
-                "title": "Tsukumogami Pompom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsukumogami-pompom.yqp3x/"
-            }
-        },
         "MangaFox": {
             "tsukumogami_pompom": {
+                "id": 185542,
                 "identifier": "tsukumogami_pompom",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28221/cover.jpg",
                 "malId": 118659,
@@ -52,6 +43,19 @@
                 "title": "Tsukumogami Pompom",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tsukumogami_pompom/"
+            }
+        },
+        "MangaFire": {
+            "yqp3x": {
+                "id": 231021,
+                "identifier": "yqp3x",
+                "image": "https://static.mangafire.to/ea01/i/1/19/19f00b747d60af597d4df76d04bc1573.jpg",
+                "malId": 118659,
+                "aniId": 108889,
+                "page": "MangaFire",
+                "title": "Tsukumogami Pompom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsukumogami-pompomm.yqp3x"
             }
         },
         "Comick": {

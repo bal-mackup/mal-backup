@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c538a02d-4903-4f0e-8c01-c1918f805470": {
+                "id": 95732,
                 "identifier": "c538a02d-4903-4f0e-8c01-c1918f805470",
                 "image": "https://uploads.mangadex.org/covers/c538a02d-4903-4f0e-8c01-c1918f805470/54d73a8d-5170-4ffb-93d7-cdd7173682e1.jpg",
                 "malId": 147480,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-heart-for-the-emperor": {
+                "id": 105035,
                 "identifier": "a-heart-for-the-emperor",
                 "image": "https://temp.compsci88.com/cover/A-Heart-for-the-Emperor.jpg",
                 "malId": 147480,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/A-Heart-for-the-Emperor"
             }
         },
-        "MangaFire": {
-            "hwangjeege-hateureul-sim-eojuseyo.02z79": {
-                "identifier": "hwangjeege-hateureul-sim-eojuseyo.02z79",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea4a6d5449e16daf5cbdd3aea8766823.jpg",
-                "malId": 147480,
-                "aniId": 133466,
-                "page": "MangaFire",
-                "title": "A Heart for the Emperor",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hwangjeege-hateureul-sim-eojuseyo.02z79/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfdxw5h9w79zeca37gkw": {
+                "id": 208592,
                 "identifier": "01j76xyfdxw5h9w79zeca37gkw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFDXW5H9W79ZECA37GKW.jpg",
                 "malId": 147480,
@@ -52,6 +43,19 @@
                 "title": "A Heart for the Emperor",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFDXW5H9W79ZECA37GKW"
+            }
+        },
+        "MangaFire": {
+            "02z79": {
+                "id": 250318,
+                "identifier": "02z79",
+                "image": "https://static.mangafire.to/c4d2/i/e/ea/ea4a6d5449e16daf5cbdd3aea8766823.jpg",
+                "malId": 147480,
+                "aniId": 133466,
+                "page": "MangaFire",
+                "title": "A Heart for the Emperor",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hwangjeege-hateureul-sim-eojuseyoo.02z79"
             }
         },
         "Comick": {

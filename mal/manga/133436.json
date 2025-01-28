@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f2d8a9aa-3617-4034-91bf-05c494fd7516": {
+                "id": 60576,
                 "identifier": "f2d8a9aa-3617-4034-91bf-05c494fd7516",
                 "image": "https://uploads.mangadex.org/covers/f2d8a9aa-3617-4034-91bf-05c494fd7516/a4a7664c-6d28-425f-8fc4-ee29280d7abd.jpg",
                 "malId": 133436,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nz990734": {
+                "id": 101421,
                 "identifier": "manga-nz990734",
                 "image": "https://avt.mkklcdnv6temp.com/35/j/36-1726198813.jpg",
                 "malId": 133436,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-nz990734"
             }
         },
-        "MangaFire": {
-            "ossan-teihen-chiyu-shi-to-manasume-no-henkyou-life.jjvnn": {
-                "identifier": "ossan-teihen-chiyu-shi-to-manasume-no-henkyou-life.jjvnn",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6acbfd289543c38e1eec312789e1226a.jpg",
-                "malId": 133436,
-                "aniId": 124761,
-                "page": "MangaFire",
-                "title": "The Frontier Life of the Low-Class Ossan Healer and the Lovely Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ossan-teihen-chiyu-shi-to-manasume-no-henkyou-life.jjvnn/"
-            },
-            "ossan-teihen-chiyu-shi-to-manasume-no-henkyou-lifee.jjvnn": {
-                "identifier": "ossan-teihen-chiyu-shi-to-manasume-no-henkyou-lifee.jjvnn",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6acbfd289543c38e1eec312789e1226a.jpg",
-                "malId": 133436,
-                "aniId": 124761,
-                "page": "MangaFire",
-                "title": "The Frontier Life of the Low-Class Ossan Healer and the Lovely Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ossan-teihen-chiyu-shi-to-manasume-no-henkyou-lifee.jjvnn/"
-            }
-        },
         "MangaFox": {
             "ossan_teihen_chiyushi_to_mana_musume_no_henkyou_raifu": {
+                "id": 199108,
                 "identifier": "ossan_teihen_chiyushi_to_mana_musume_no_henkyou_raifu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42220/cover.jpg",
                 "malId": 133436,
@@ -62,6 +43,19 @@
                 "title": "Ossan Teihen Chiyushi to Mana Musume no Henkyou Raifu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/ossan_teihen_chiyushi_to_mana_musume_no_henkyou_raifu/"
+            }
+        },
+        "MangaFire": {
+            "jjvnn": {
+                "id": 247995,
+                "identifier": "jjvnn",
+                "image": "https://static.mangafire.to/3161/i/6/6a/6acbfd289543c38e1eec312789e1226a.jpg",
+                "malId": 133436,
+                "aniId": 124761,
+                "page": "MangaFire",
+                "title": "The Frontier Life of the Low-Class Ossan Healer and the Lovely Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ossan-teihen-chiyu-shi-to-manasume-no-henkyou-lifee.jjvnn"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "10ea7852-418e-4945-bfd3-5c1c58a17b38": {
+                "id": 126372,
                 "identifier": "10ea7852-418e-4945-bfd3-5c1c58a17b38",
                 "image": "https://uploads.mangadex.org/covers/10ea7852-418e-4945-bfd3-5c1c58a17b38/c13efb52-6d70-4909-9ac5-f13f7418f03b.jpg",
                 "malId": 156372,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/10ea7852-418e-4945-bfd3-5c1c58a17b38"
             }
         },
-        "MangaFire": {
-            "ishigami-senki.0q2w9": {
-                "identifier": "ishigami-senki.0q2w9",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80a2c0f83b0c21540309efd37d1b3666.jpg",
-                "malId": 156372,
-                "aniId": 162160,
-                "page": "MangaFire",
-                "title": "Ishigami Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ishigami-senki.0q2w9/"
-            },
-            "ishigami-senkii.0q2w9": {
-                "identifier": "ishigami-senkii.0q2w9",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80a2c0f83b0c21540309efd37d1b3666.jpg",
-                "malId": 156372,
-                "aniId": 162160,
-                "page": "MangaFire",
-                "title": "Ishigami Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ishigami-senkii.0q2w9/"
-            }
-        },
         "MangaNato": {
             "manga-so995723": {
+                "id": 155819,
                 "identifier": "manga-so995723",
                 "image": "https://avt.mkklcdnv6temp.com/fld/89/b/14-1733305924-nw.webp",
                 "malId": 156372,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "ishigami_senki": {
+                "id": 194328,
                 "identifier": "ishigami_senki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45589/cover.jpg",
                 "malId": 156372,
@@ -62,6 +43,19 @@
                 "title": "Ishigami Senki",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/ishigami_senki/"
+            }
+        },
+        "MangaFire": {
+            "0q2w9": {
+                "id": 244987,
+                "identifier": "0q2w9",
+                "image": "https://static.mangafire.to/4a5f/i/8/80/80a2c0f83b0c21540309efd37d1b3666.jpg",
+                "malId": 156372,
+                "aniId": 162160,
+                "page": "MangaFire",
+                "title": "Ishigami Senki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ishigami-senkii.0q2w9"
             }
         },
         "Comick": {

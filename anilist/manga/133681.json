@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lc989037": {
+                "id": 76634,
                 "identifier": "manga-lc989037",
                 "image": "https://avt.mkklcdnv6temp.com/13/o/24-1621401019.jpg",
                 "malId": 137500,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "at-that-time-the-battle-began": {
+                "id": 80424,
                 "identifier": "at-that-time-the-battle-began",
                 "image": "https://temp.compsci88.com/cover/At-That-Time-The-Battle-Began.jpg",
                 "malId": 137500,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "205af4ae-fac1-4fa0-abbe-16e885e79606": {
+                "id": 88500,
                 "identifier": "205af4ae-fac1-4fa0-abbe-16e885e79606",
                 "image": "https://uploads.mangadex.org/covers/205af4ae-fac1-4fa0-abbe-16e885e79606/4527c22b-6efc-43c9-aeaa-ed0755728108.jpg",
                 "malId": 137500,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/205af4ae-fac1-4fa0-abbe-16e885e79606"
             }
         },
-        "MangaFire": {
-            "at-that-time-the-battle-began.mpo7": {
-                "identifier": "at-that-time-the-battle-began.mpo7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/166a491c1b551b579d5238c4efc11a72.jpg",
-                "malId": 137500,
-                "aniId": 133681,
-                "page": "MangaFire",
-                "title": "At That Time, the Battle Began",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/at-that-time-the-battle-began.mpo7/"
-            },
-            "at-that-time-the-battle-begann.mpo7": {
-                "identifier": "at-that-time-the-battle-begann.mpo7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/166a491c1b551b579d5238c4efc11a72.jpg",
-                "malId": 137500,
-                "aniId": 133681,
-                "page": "MangaFire",
-                "title": "At That Time, the Battle Began",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/at-that-time-the-battle-begann.mpo7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyevntbk844prrzyhrjtp": {
+                "id": 207458,
                 "identifier": "01j76xyevntbk844prrzyhrjtp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEVNTBK844PRRZYHRJTP.jpg",
                 "malId": 137500,
@@ -74,6 +56,19 @@
                 "title": "At That Time, the Battle Began",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEVNTBK844PRRZYHRJTP"
+            }
+        },
+        "MangaFire": {
+            "mpo7": {
+                "id": 239059,
+                "identifier": "mpo7",
+                "image": "https://static.mangafire.to/3afa/i/1/16/166a491c1b551b579d5238c4efc11a72.jpg",
+                "malId": 137500,
+                "aniId": 133681,
+                "page": "MangaFire",
+                "title": "At That Time, the Battle Began",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/at-that-time-the-battle-begann.mpo7"
             }
         },
         "Comick": {

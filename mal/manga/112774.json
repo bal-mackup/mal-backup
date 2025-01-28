@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8cc979c5-9c2d-4c16-9e83-e0a30dbcc6c7": {
+                "id": 19204,
                 "identifier": "8cc979c5-9c2d-4c16-9e83-e0a30dbcc6c7",
                 "image": "https://uploads.mangadex.org/covers/8cc979c5-9c2d-4c16-9e83-e0a30dbcc6c7/66243962-592a-4543-b1f6-d0e9df35459f.jpg",
                 "malId": 112774,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-man-and-his-cat": {
+                "id": 60477,
                 "identifier": "a-man-and-his-cat",
                 "image": "https://temp.compsci88.com/cover/A-Man-and-His-Cat.jpg",
                 "malId": 112774,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bs979101": {
+                "id": 73156,
                 "identifier": "manga-bs979101",
                 "image": "https://avt.mkklcdnv6temp.com/28/w/16-1583494504.jpg",
                 "malId": 112774,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ojisama_to_neko": {
+                "id": 92995,
                 "identifier": "ojisama_to_neko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27252/cover.jpg",
                 "malId": 112774,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/ojisama_to_neko/"
             }
         },
-        "MangaFire": {
-            "ojisama-to-neko.jv938": {
-                "identifier": "ojisama-to-neko.jv938",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/ef3160c66bf15f96e3838d0eae2f9895.jpg",
-                "malId": 112774,
-                "aniId": 101176,
-                "page": "MangaFire",
-                "title": "A Man and His Cat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ojisama-to-neko.jv938/"
-            }
-        },
         "Weebcentral": {
             "01j76xye2k7e132qt91tdmzdpk": {
+                "id": 208149,
                 "identifier": "01j76xye2k7e132qt91tdmzdpk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE2K7E132QT91TDMZDPK.jpg",
                 "malId": 112774,
@@ -76,6 +69,19 @@
                 "title": "A Man and His Cat",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE2K7E132QT91TDMZDPK"
+            }
+        },
+        "MangaFire": {
+            "jv938": {
+                "id": 261976,
+                "identifier": "jv938",
+                "image": "https://static.mangafire.to/2cad/i/e/ef/ef3160c66bf15f96e3838d0eae2f9895.jpg",
+                "malId": 112774,
+                "aniId": 101176,
+                "page": "MangaFire",
+                "title": "A Man and His Cat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ojisama-to-nekoo.jv938"
             }
         },
         "Comick": {

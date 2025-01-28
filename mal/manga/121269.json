@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "722a45c0-5e55-40f2-929b-ff69b0989edb": {
+                "id": 25094,
                 "identifier": "722a45c0-5e55-40f2-929b-ff69b0989edb",
                 "image": "https://uploads.mangadex.org/covers/722a45c0-5e55-40f2-929b-ff69b0989edb/3c6e1941-4116-46ea-bc4d-085468cfcc9f.jpg",
                 "malId": 121269,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "suddenly_became_a_princess_one_day": {
+                "id": 55295,
                 "identifier": "suddenly_became_a_princess_one_day",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29427/cover.jpg",
                 "malId": 121269,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/suddenly_became_a_princess_one_day/"
             },
             "who_made_me_a_princess": {
+                "id": 127109,
                 "identifier": "who_made_me_a_princess",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42825/cover.jpg",
                 "malId": 121269,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "who-made-me-a-princess": {
+                "id": 56530,
                 "identifier": "who-made-me-a-princess",
                 "image": "https://temp.compsci88.com/cover/Who-Made-Me-A-Princess.jpg",
                 "malId": 121269,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-gi983517": {
+                "id": 73538,
                 "identifier": "manga-gi983517",
                 "image": "https://avt.mkklcdnv6temp.com/41/p/19-1583500688.jpg",
                 "malId": 121269,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-gi983517"
             }
         },
-        "MangaFire": {
-            "who-made-me-a-princess.52zq9": {
-                "identifier": "who-made-me-a-princess.52zq9",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5ee991b5ae0f0b94e78eeb06c3039f08.jpg",
-                "malId": 121269,
-                "aniId": 107521,
-                "page": "MangaFire",
-                "title": "Who Made Me a Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/who-made-me-a-princess.52zq9/"
-            },
-            "who-made-me-a-princesss.52zq9": {
-                "identifier": "who-made-me-a-princesss.52zq9",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5ee991b5ae0f0b94e78eeb06c3039f08.jpg",
-                "malId": 121269,
-                "aniId": 107521,
-                "page": "MangaFire",
-                "title": "Who Made Me a Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/who-made-me-a-princesss.52zq9/"
-            }
-        },
         "Weebcentral": {
             "01j76xydqpcqqr5dqxxf8nhkwk": {
+                "id": 212958,
                 "identifier": "01j76xydqpcqqr5dqxxf8nhkwk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQPCQQR5DQXXF8NHKWK.jpg",
                 "malId": 121269,
@@ -96,6 +80,19 @@
                 "title": "Who Made Me A Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQPCQQR5DQXXF8NHKWK"
+            }
+        },
+        "MangaFire": {
+            "52zq9": {
+                "id": 226142,
+                "identifier": "52zq9",
+                "image": "https://static.mangafire.to/0392/i/5/5e/5ee991b5ae0f0b94e78eeb06c3039f08.jpg",
+                "malId": 121269,
+                "aniId": 107521,
+                "page": "MangaFire",
+                "title": "Who Made Me a Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/who-made-me-a-princesss.52zq9"
             }
         },
         "Comick": {

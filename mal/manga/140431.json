@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a391e4c7-b2b7-4f45-99ef-d4c6195963a9": {
+                "id": 90558,
                 "identifier": "a391e4c7-b2b7-4f45-99ef-d4c6195963a9",
                 "image": "https://uploads.mangadex.org/covers/a391e4c7-b2b7-4f45-99ef-d4c6195963a9/80606a9e-5c76-42f0-bb8d-076fc0485c1e.jpg",
                 "malId": 140431,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/a391e4c7-b2b7-4f45-99ef-d4c6195963a9"
             }
         },
-        "MangaFire": {
-            "psycho-world.zljnw": {
-                "identifier": "psycho-world.zljnw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8ff962708c42db77e2d01589883bb59e.jpg",
-                "malId": 140431,
-                "aniId": 140533,
-                "page": "MangaFire",
-                "title": "World of Psycho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/psycho-world.zljnw/"
-            },
-            "psycho-worldd.zljnw": {
-                "identifier": "psycho-worldd.zljnw",
-                "image": "https://static.mangafire.to/9dad/i/8/8f/8ff962708c42db77e2d01589883bb59e.jpg",
-                "malId": 140431,
-                "aniId": 140533,
-                "page": "MangaFire",
-                "title": "World of Psycho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/psycho-worldd.zljnw/"
-            }
-        },
         "MangaSee": {
             "a-psychos-world": {
+                "id": 161497,
                 "identifier": "a-psychos-world",
                 "image": "https://temp.compsci88.com/cover/A-Psychos-World.jpg",
                 "malId": 140431,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg98hq8yamdztdz4272p": {
+                "id": 213191,
                 "identifier": "01j76xyg98hq8yamdztdz4272p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG98HQ8YAMDZTDZ4272P.jpg",
                 "malId": 140431,
@@ -62,6 +43,19 @@
                 "title": "A Psycho's World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG98HQ8YAMDZTDZ4272P"
+            }
+        },
+        "MangaFire": {
+            "zljnw": {
+                "id": 223658,
+                "identifier": "zljnw",
+                "image": "https://static.mangafire.to/9dad/i/8/8f/8ff962708c42db77e2d01589883bb59e.jpg",
+                "malId": 140431,
+                "aniId": 140533,
+                "page": "MangaFire",
+                "title": "World of Psycho",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/psycho-worldd.zljnw"
             }
         },
         "Comick": {

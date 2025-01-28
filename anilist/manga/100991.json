@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2": {
+                "id": 19007,
                 "identifier": "f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2",
                 "image": "https://uploads.mangadex.org/covers/f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2/7de35268-d02c-4147-9e8d-5690585b616d.jpg",
                 "malId": 112115,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "act-age": {
+                "id": 56621,
                 "identifier": "act-age",
                 "image": "https://temp.compsci88.com/cover/Act-Age.jpg",
                 "malId": 112115,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "act_age": {
+                "id": 56953,
                 "identifier": "act_age",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27144/cover.jpg",
                 "malId": 112115,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bi979117": {
+                "id": 75287,
                 "identifier": "manga-bi979117",
                 "image": "https://avt.mkklcdnv6temp.com/29/m/16-1583494528.jpg",
                 "malId": 112115,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bi979117"
             }
         },
-        "MangaFire": {
-            "act-age.xjyr3": {
-                "identifier": "act-age.xjyr3",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04592cfb00e3f835c6688037f7f74591.jpg",
-                "malId": 112115,
-                "aniId": 100991,
-                "page": "MangaFire",
-                "title": "ACT-AGE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/act-age.xjyr3/"
-            },
-            "act-agee.xjyr3": {
-                "identifier": "act-agee.xjyr3",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04592cfb00e3f835c6688037f7f74591.jpg",
-                "malId": 112115,
-                "aniId": 100991,
-                "page": "MangaFire",
-                "title": "ACT-AGE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/act-agee.xjyr3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyca7ssm1wbqptnntgk4p": {
+                "id": 207626,
                 "identifier": "01j76xyca7ssm1wbqptnntgk4p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCA7SSM1WBQPTNNTGK4P.jpg",
                 "malId": 112115,
@@ -86,6 +69,19 @@
                 "title": "Act-Age",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCA7SSM1WBQPTNNTGK4P"
+            }
+        },
+        "MangaFire": {
+            "xjyr3": {
+                "id": 224485,
+                "identifier": "xjyr3",
+                "image": "https://static.mangafire.to/f969/i/0/04/04592cfb00e3f835c6688037f7f74591.jpg",
+                "malId": 112115,
+                "aniId": 100991,
+                "page": "MangaFire",
+                "title": "ACT-AGE",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/act-agee.xjyr3"
             }
         },
         "Comick": {

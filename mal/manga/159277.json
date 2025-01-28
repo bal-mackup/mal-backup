@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "be35df55-adc2-46e6-83cf-0e9f0356ea39": {
+                "id": 121446,
                 "identifier": "be35df55-adc2-46e6-83cf-0e9f0356ea39",
                 "image": "https://uploads.mangadex.org/covers/be35df55-adc2-46e6-83cf-0e9f0356ea39/51bf8b6e-3c18-4dca-a22c-33725fedddff.jpg",
                 "malId": 159277,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/be35df55-adc2-46e6-83cf-0e9f0356ea39"
             },
             "561b2ced-8dfc-4577-ab2d-21c9a834a9e8": {
+                "id": 164686,
                 "identifier": "561b2ced-8dfc-4577-ab2d-21c9a834a9e8",
                 "image": "https://uploads.mangadex.org/covers/561b2ced-8dfc-4577-ab2d-21c9a834a9e8/364c9c11-798c-432a-9335-1039835e7f33.jpg",
                 "malId": 159277,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-re995087": {
+                "id": 127431,
                 "identifier": "manga-re995087",
                 "image": "https://avt.mkklcdnv6temp.com/13/v/29-1679458442.jpg",
                 "malId": 159277,
@@ -40,30 +43,9 @@
                 "url": "https://manganato.com/manga-re995087"
             }
         },
-        "MangaFire": {
-            "catenaccio.yv1jx": {
-                "identifier": "catenaccio.yv1jx",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/361cfc908aec48ef1bfb4cbefbd0b89b.jpg",
-                "malId": 159277,
-                "aniId": 159025,
-                "page": "MangaFire",
-                "title": "Catenaccio",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/catenaccio.yv1jx/"
-            },
-            "catenaccioo.yv1jx": {
-                "identifier": "catenaccioo.yv1jx",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/361cfc908aec48ef1bfb4cbefbd0b89b.jpg",
-                "malId": 159277,
-                "aniId": 159025,
-                "page": "MangaFire",
-                "title": "Catenaccio",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/catenaccioo.yv1jx/"
-            }
-        },
         "MangaSee": {
             "catenaccio": {
+                "id": 184344,
                 "identifier": "catenaccio",
                 "image": "https://temp.compsci88.com/cover/Catenaccio.jpg",
                 "malId": 159277,
@@ -76,6 +58,7 @@
         },
         "Weebcentral": {
             "01j76xyh269g8pvc6d09cs3kgd": {
+                "id": 206902,
                 "identifier": "01j76xyh269g8pvc6d09cs3kgd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH269G8PVC6D09CS3KGD.jpg",
                 "malId": 159277,
@@ -84,6 +67,19 @@
                 "title": "Catenaccio",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH269G8PVC6D09CS3KGD"
+            }
+        },
+        "MangaFire": {
+            "yv1jx": {
+                "id": 227032,
+                "identifier": "yv1jx",
+                "image": "https://static.mangafire.to/f351/i/3/36/361cfc908aec48ef1bfb4cbefbd0b89b.jpg",
+                "malId": 159277,
+                "aniId": 159025,
+                "page": "MangaFire",
+                "title": "Catenaccio",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/catenaccioo.yv1jx"
             }
         },
         "Comick": {

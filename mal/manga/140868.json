@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "show-ha-shoten": {
+                "id": 90732,
                 "identifier": "show-ha-shoten",
                 "image": "https://temp.compsci88.com/cover/Show-ha-Shoten.jpg",
                 "malId": 140868,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "d880ae9a-f400-4ff7-9251-ba3de6bed450": {
+                "id": 106208,
                 "identifier": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
                 "image": "https://uploads.mangadex.org/covers/d880ae9a-f400-4ff7-9251-ba3de6bed450/4bf617de-69e8-49d9-b445-ba792ed20b14.jpg",
                 "malId": 140868,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/d880ae9a-f400-4ff7-9251-ba3de6bed450"
             }
         },
-        "MangaFire": {
-            "show-ha-shou-ten.pr3k4": {
-                "identifier": "show-ha-shou-ten.pr3k4",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8d2bb819b195fca6d5b103d697fdeee.jpg",
-                "malId": 140868,
-                "aniId": 138816,
-                "page": "MangaFire",
-                "title": "Show-ha Shoten!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/show-ha-shou-ten.pr3k4/"
-            }
-        },
         "MangaNato": {
             "manga-ne990939": {
+                "id": 157078,
                 "identifier": "manga-ne990939",
                 "image": "https://avt.mkklcdnv6temp.com/fld/7/n/13-1733292317-nw.webp",
                 "malId": 140868,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyf557bxbkfrsza2p48vy": {
+                "id": 209659,
                 "identifier": "01j76xyf557bxbkfrsza2p48vy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF557BXBKFRSZA2P48VY.jpg",
                 "malId": 140868,
@@ -64,6 +56,19 @@
                 "title": "Show-ha Shoten!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF557BXBKFRSZA2P48VY"
+            }
+        },
+        "MangaFire": {
+            "pr3k4": {
+                "id": 249437,
+                "identifier": "pr3k4",
+                "image": "https://static.mangafire.to/e8b4/i/b/96/c9133a68682a09f2e4e8a0467f7dcab9.jpg",
+                "malId": 140868,
+                "aniId": 138816,
+                "page": "MangaFire",
+                "title": "Show-ha Shoten!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/show-ha-shou-tenn.pr3k4"
             }
         },
         "Comick": {

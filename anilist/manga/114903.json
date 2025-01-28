@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6bae5c8c-d5ff-43df-acf7-b7670532c8b1": {
+                "id": 31599,
                 "identifier": "6bae5c8c-d5ff-43df-acf7-b7670532c8b1",
                 "image": "https://uploads.mangadex.org/covers/6bae5c8c-d5ff-43df-acf7-b7670532c8b1/7a4013a0-cf08-4e10-957e-09fc09e8072b.jpg",
                 "malId": 122782,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-dont-really-get-it-but-it-looks-like-i-was-reincarnated-in-another-world": {
+                "id": 57504,
                 "identifier": "i-dont-really-get-it-but-it-looks-like-i-was-reincarnated-in-another-world",
                 "image": "https://temp.compsci88.com/cover/I-Dont-Really-Get-It-but-It-Looks-Like-I-Was-Reincarnated-in-Another-World.jpg",
                 "malId": 122782,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gy983607": {
+                "id": 74487,
                 "identifier": "manga-gy983607",
                 "image": "https://avt.mkklcdnv6temp.com/44/x/19-1583500809.jpg",
                 "malId": 122782,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-gy983607"
             }
         },
-        "MangaFire": {
-            "yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desu.3r53y": {
-                "identifier": "yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desu.3r53y",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1df12a1c439ad3722804ec289de1dac7.jpg",
-                "malId": 122782,
-                "aniId": 114903,
-                "page": "MangaFire",
-                "title": "This is Screwed Up, but I Was Reincarnated as a GIRL in Another World!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desu.3r53y/"
-            },
-            "yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desuu.3r53y": {
-                "identifier": "yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desuu.3r53y",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1df12a1c439ad3722804ec289de1dac7.jpg",
-                "malId": 122782,
-                "aniId": 114903,
-                "page": "MangaFire",
-                "title": "This is Screwed Up, but I Was Reincarnated as a GIRL in Another World!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desuu.3r53y/"
-            }
-        },
         "Weebcentral": {
             "01j76xydpap1pba86nkspz9mdm": {
+                "id": 211327,
                 "identifier": "01j76xydpap1pba86nkspz9mdm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDPAP1PBA86NKSPZ9MDM.jpg",
                 "malId": 122782,
@@ -74,6 +56,19 @@
                 "title": "This Is Screwed Up, but I Was Reincarnated as a GIRL in Another World!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDPAP1PBA86NKSPZ9MDM"
+            }
+        },
+        "MangaFire": {
+            "3r53y": {
+                "id": 228434,
+                "identifier": "3r53y",
+                "image": "https://static.mangafire.to/7bae/i/1/1d/1df12a1c439ad3722804ec289de1dac7.jpg",
+                "malId": 122782,
+                "aniId": 114903,
+                "page": "MangaFire",
+                "title": "This is Screwed Up, but I Was Reincarnated as a GIRL in Another World!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desuu.3r53y"
             }
         },
         "Comick": {

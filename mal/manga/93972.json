@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a8aabcc9-0531-4f32-b202-1589fbc5fde3": {
+                "id": 13934,
                 "identifier": "a8aabcc9-0531-4f32-b202-1589fbc5fde3",
                 "image": "https://uploads.mangadex.org/covers/a8aabcc9-0531-4f32-b202-1589fbc5fde3/cb71eb7a-48ba-439d-8e79-5bb702b06103.jpg",
                 "malId": 93972,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "totsukuni-no-shoujo": {
+                "id": 58282,
                 "identifier": "totsukuni-no-shoujo",
                 "image": "https://temp.compsci88.com/cover/Totsukuni-No-Shoujo.jpg",
                 "malId": 93972,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "totsukuni_no_shoujo": {
+                "id": 71277,
                 "identifier": "totsukuni_no_shoujo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17451/cover.jpg",
                 "malId": 93972,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-df980440": {
+                "id": 75919,
                 "identifier": "manga-df980440",
                 "image": "https://avt.mkklcdnv6temp.com/28/u/17-1583496291.jpg",
                 "malId": 93972,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-df980440"
             },
             "manga-ve952087": {
+                "id": 78336,
                 "identifier": "manga-ve952087",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/c/1-1732717554-nw.webp",
                 "malId": 93972,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-ve952087"
             }
         },
-        "MangaFire": {
-            "totsukuni-no-shoujo-siuil-a-run.vv1k4": {
-                "identifier": "totsukuni-no-shoujo-siuil-a-run.vv1k4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d281d23519a4c696331c1f56f4d36b77.jpg",
-                "malId": 93972,
-                "aniId": 86770,
-                "page": "MangaFire",
-                "title": "The Girl From the Other Side: Siúil, a Rún",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsukuni-no-shoujo-siuil-a-run.vv1k4/"
-            },
-            "totsukuni-no-shoujo-siuil-a-runn.vv1k4": {
-                "identifier": "totsukuni-no-shoujo-siuil-a-runn.vv1k4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d281d23519a4c696331c1f56f4d36b77.jpg",
-                "malId": 93972,
-                "aniId": 86770,
-                "page": "MangaFire",
-                "title": "The Girl From the Other Side: Siúil, a Rún",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsukuni-no-shoujo-siuil-a-runn.vv1k4/"
-            }
-        },
         "Weebcentral": {
             "01j76xybs709ymsf9mzac72vjm": {
+                "id": 211650,
                 "identifier": "01j76xybs709ymsf9mzac72vjm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBS709YMSF9MZAC72VJM.jpg",
                 "malId": 93972,
@@ -96,6 +80,19 @@
                 "title": "The Girl From the Other Side - Siúil, a Rún",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBS709YMSF9MZAC72VJM"
+            }
+        },
+        "MangaFire": {
+            "vv1k4": {
+                "id": 229533,
+                "identifier": "vv1k4",
+                "image": "https://static.mangafire.to/6071/i/d/d2/d281d23519a4c696331c1f56f4d36b77.jpg",
+                "malId": 93972,
+                "aniId": 86770,
+                "page": "MangaFire",
+                "title": "The Girl From the Other Side: Siúil, a Rún",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/totsukuni-no-shoujo-siuil-a-runn.vv1k4"
             }
         },
         "Comick": {

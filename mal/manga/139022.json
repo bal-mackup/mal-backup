@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8d90d411-8ead-49bd-9d16-0139f6b76700": {
+                "id": 59944,
                 "identifier": "8d90d411-8ead-49bd-9d16-0139f6b76700",
                 "image": "https://uploads.mangadex.org/covers/8d90d411-8ead-49bd-9d16-0139f6b76700/6a26e7a6-626c-4650-beef-c810b15a7fda.jpg",
                 "malId": 139022,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "from-misunderstandings-to-marriage": {
+                "id": 82585,
                 "identifier": "from-misunderstandings-to-marriage",
                 "image": "https://temp.compsci88.com/cover/From-Misunderstandings-to-Marriage.jpg",
                 "malId": 139022,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-mi989717": {
+                "id": 88026,
                 "identifier": "manga-mi989717",
                 "image": "https://avt.mkklcdnv6temp.com/43/s/24-1633365132.jpg",
                 "malId": 139022,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-mi989717"
             }
         },
-        "MangaFire": {
-            "from-misunderstandings-to-marriage.0ryk5": {
-                "identifier": "from-misunderstandings-to-marriage.0ryk5",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9f/9f3006cd4402e064faa5f6c8e61216fd.jpg",
-                "malId": 139022,
-                "aniId": 134187,
-                "page": "MangaFire",
-                "title": "From Misunderstandings to Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/from-misunderstandings-to-marriage.0ryk5/"
-            },
-            "from-misunderstandings-to-marriagee.0ryk5": {
-                "identifier": "from-misunderstandings-to-marriagee.0ryk5",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9f/9f3006cd4402e064faa5f6c8e61216fd.jpg",
-                "malId": 139022,
-                "aniId": 134187,
-                "page": "MangaFire",
-                "title": "From Misunderstandings to Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/from-misunderstandings-to-marriagee.0ryk5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyexvqbxvcf855w7x3abg": {
+                "id": 211112,
                 "identifier": "01j76xyexvqbxvcf855w7x3abg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEXVQBXVCF855W7X3ABG.jpg",
                 "malId": 139022,
@@ -74,6 +56,19 @@
                 "title": "From Misunderstandings to Marriage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEXVQBXVCF855W7X3ABG"
+            }
+        },
+        "MangaFire": {
+            "0ryk5": {
+                "id": 224680,
+                "identifier": "0ryk5",
+                "image": "https://static.mangafire.to/5912/i/9/9f/9f3006cd4402e064faa5f6c8e61216fd.jpg",
+                "malId": 139022,
+                "aniId": 134187,
+                "page": "MangaFire",
+                "title": "From Misunderstandings to Marriage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/from-misunderstandings-to-marriagee.0ryk5"
             }
         },
         "Comick": {

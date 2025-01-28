@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99e16a63-6ec4-4760-85ed-e2f42f1b8d06": {
+                "id": 38341,
                 "identifier": "99e16a63-6ec4-4760-85ed-e2f42f1b8d06",
                 "image": "https://uploads.mangadex.org/covers/99e16a63-6ec4-4760-85ed-e2f42f1b8d06/2cb85a42-9df2-443e-8906-8a7c00dfa90e.jpg",
                 "malId": 137055,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "level-1-demon-lord-one-room-hero": {
+                "id": 86996,
                 "identifier": "level-1-demon-lord-one-room-hero",
                 "image": "https://temp.compsci88.com/cover/Level-1-Demon-Lord-One-Room-Hero.jpg",
                 "malId": 137055,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Level-1-Demon-Lord-One-Room-Hero"
             }
         },
-        "MangaFire": {
-            "lv1-maou-to-one-room-yuusha.oo2kj": {
-                "identifier": "lv1-maou-to-one-room-yuusha.oo2kj",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3010eac68714fd82eea0869880a060ae.jpg",
-                "malId": 137055,
-                "aniId": 130631,
-                "page": "MangaFire",
-                "title": "Level 1 Demon Lord and One Room Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lv1-maou-to-one-room-yuusha.oo2kj/"
-            },
-            "lv1-maou-to-one-room-yuushaa.oo2kj": {
-                "identifier": "lv1-maou-to-one-room-yuushaa.oo2kj",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/3010eac68714fd82eea0869880a060ae.jpg",
-                "malId": 137055,
-                "aniId": 130631,
-                "page": "MangaFire",
-                "title": "Level 1 Demon Lord and One Room Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lv1-maou-to-one-room-yuushaa.oo2kj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf0qzpkegd0zkxe2ps8p": {
+                "id": 213009,
                 "identifier": "01j76xyf0qzpkegd0zkxe2ps8p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF0QZPKEGD0ZKXE2PS8P.jpg",
                 "malId": 137055,
@@ -62,6 +43,19 @@
                 "title": "Level 1 Demon Lord & One Room Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF0QZPKEGD0ZKXE2PS8P"
+            }
+        },
+        "MangaFire": {
+            "oo2kj": {
+                "id": 226984,
+                "identifier": "oo2kj",
+                "image": "https://static.mangafire.to/c76d/i/3/30/3010eac68714fd82eea0869880a060ae.jpg",
+                "malId": 137055,
+                "aniId": 130631,
+                "page": "MangaFire",
+                "title": "Level 1 Demon Lord and One Room Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lv1-maou-to-one-room-yuushaa.oo2kj"
             }
         },
         "Comick": {

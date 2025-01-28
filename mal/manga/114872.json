@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "de4b3c43-5243-4399-9fc3-68a3c0747138": {
+                "id": 23305,
                 "identifier": "de4b3c43-5243-4399-9fc3-68a3c0747138",
                 "image": "https://uploads.mangadex.org/covers/de4b3c43-5243-4399-9fc3-68a3c0747138/3d12f854-85e6-49f8-b556-700fc38bbb01.jpg",
                 "malId": 114872,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kaguya-sama-wo-kataritai": {
+                "id": 57846,
                 "identifier": "kaguya-sama-wo-kataritai",
                 "image": "https://temp.compsci88.com/cover/Kaguya-sama-wo-Kataritai.jpg",
                 "malId": 114872,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "we_want_to_talk_about_kaguya": {
+                "id": 62059,
                 "identifier": "we_want_to_talk_about_kaguya",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27999/cover.jpg",
                 "malId": 114872,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cz979482": {
+                "id": 75469,
                 "identifier": "manga-cz979482",
                 "image": "https://avt.mkklcdnv6temp.com/48/y/25-1654344690.jpg",
                 "malId": 114872,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cz979482"
             }
         },
-        "MangaFire": {
-            "kaguya-sama-wo-kataritai.6vr77": {
-                "identifier": "kaguya-sama-wo-kataritai.6vr77",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c08b323ff8f7d3e625b0ed731d56185.jpg",
-                "malId": 114872,
-                "aniId": 102423,
-                "page": "MangaFire",
-                "title": "Kaguya-sama wo Kataritai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaguya-sama-wo-kataritai.6vr77/"
-            },
-            "kaguya-sama-wo-kataritaii.6vr77": {
-                "identifier": "kaguya-sama-wo-kataritaii.6vr77",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c08b323ff8f7d3e625b0ed731d56185.jpg",
-                "malId": 114872,
-                "aniId": 102423,
-                "page": "MangaFire",
-                "title": "Kaguya-sama wo Kataritai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaguya-sama-wo-kataritaii.6vr77/"
-            },
-            "6vr77": {
-                "identifier": "6vr77",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c08b323ff8f7d3e625b0ed731d56185.jpg",
-                "malId": 114872,
-                "aniId": 102423,
-                "page": "MangaFire",
-                "title": "Kaguya-sama wo Kataritai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaguya-sama-wo-kataritai.6vr77/"
-            }
-        },
         "Weebcentral": {
             "01j76xydkqnh87mn118wq5h6er": {
+                "id": 214154,
                 "identifier": "01j76xydkqnh87mn118wq5h6er",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDKQNH87MN118WQ5H6ER.jpg",
                 "malId": 114872,
@@ -96,6 +69,19 @@
                 "title": "Kaguya-sama wo Kataritai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDKQNH87MN118WQ5H6ER"
+            }
+        },
+        "MangaFire": {
+            "6vr77": {
+                "id": 244226,
+                "identifier": "6vr77",
+                "image": "https://static.mangafire.to/7cf2/i/1/1c/1c08b323ff8f7d3e625b0ed731d56185.jpg",
+                "malId": 114872,
+                "aniId": 102423,
+                "page": "MangaFire",
+                "title": "Kaguya-sama wo Kataritai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaguya-sama-wo-kataritaii.6vr77"
             }
         },
         "Comick": {

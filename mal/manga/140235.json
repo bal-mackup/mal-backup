@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "kijin_gentoushou": {
+                "id": 105424,
                 "identifier": "kijin_gentoushou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40906/cover.jpg",
                 "malId": 140235,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "dfd7e5e0-d638-4f1d-9f38-ffc626c4167e": {
+                "id": 106963,
                 "identifier": "dfd7e5e0-d638-4f1d-9f38-ffc626c4167e",
                 "image": "https://uploads.mangadex.org/covers/dfd7e5e0-d638-4f1d-9f38-ffc626c4167e/7b2968b3-3723-4a3a-95ce-1c658ef5c590.jpg",
                 "malId": 140235,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-pn993070": {
+                "id": 118161,
                 "identifier": "manga-pn993070",
                 "image": "https://avt.mkklcdnv6temp.com/32/z/27-1668794918.jpg",
                 "malId": 140235,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-pn993070"
             },
             "manga-pv993304": {
+                "id": 120227,
                 "identifier": "manga-pv993304",
                 "image": "https://avt.mkklcdnv6temp.com/45/d/27-1672592239.jpg",
                 "malId": 140235,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "sword-of-the-demon-hunter-kijin-gentosho": {
+                "id": 123660,
                 "identifier": "sword-of-the-demon-hunter-kijin-gentosho",
                 "image": "https://temp.compsci88.com/cover/Sword-of-the-Demon-Hunter-Kijin-Gentosho.jpg",
                 "malId": 140235,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Sword-of-the-Demon-Hunter-Kijin-Gentosho"
             }
         },
-        "MangaFire": {
-            "kijin-gentoushou.l3own": {
-                "identifier": "kijin-gentoushou.l3own",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df487b01fcd1ead0e7da0c2b63e90df2.jpg",
-                "malId": 140235,
-                "aniId": 139499,
-                "page": "MangaFire",
-                "title": "Sword of the Demon Hunter: Kijin Gentosho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kijin-gentoushou.l3own/"
-            },
-            "kijin-gentoushouu.l3own": {
-                "identifier": "kijin-gentoushouu.l3own",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df487b01fcd1ead0e7da0c2b63e90df2.jpg",
-                "malId": 140235,
-                "aniId": 139499,
-                "page": "MangaFire",
-                "title": "Sword of the Demon Hunter: Kijin Gentosho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kijin-gentoushouu.l3own/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfx2f845zteexc73bkmh": {
+                "id": 206474,
                 "identifier": "01j76xyfx2f845zteexc73bkmh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFX2F845ZTEEXC73BKMH.jpg",
                 "malId": 140235,
@@ -96,6 +80,19 @@
                 "title": "Sword of the Demon Hunter - Kijin Gentosho",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFX2F845ZTEEXC73BKMH"
+            }
+        },
+        "MangaFire": {
+            "l3own": {
+                "id": 229636,
+                "identifier": "l3own",
+                "image": "https://static.mangafire.to/fca2/i/d/df/df487b01fcd1ead0e7da0c2b63e90df2.jpg",
+                "malId": 140235,
+                "aniId": 139499,
+                "page": "MangaFire",
+                "title": "Sword of the Demon Hunter: Kijin Gentosho",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kijin-gentoushouu.l3own"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a3986b2c-892f-4e68-b553-9c1090ee0518": {
+                "id": 27215,
                 "identifier": "a3986b2c-892f-4e68-b553-9c1090ee0518",
                 "image": "https://uploads.mangadex.org/covers/a3986b2c-892f-4e68-b553-9c1090ee0518/e7cb1ef1-96b3-4e21-b919-3bf6de686b5b.jpg",
                 "malId": 147667,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-roommate-is-a-gumiho": {
+                "id": 72094,
                 "identifier": "my-roommate-is-a-gumiho",
                 "image": "https://temp.compsci88.com/cover/My-Roommate-is-a-Gumiho.jpg",
                 "malId": 147667,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "a_falling_cohabitation": {
+                "id": 105255,
                 "identifier": "a_falling_cohabitation",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30223/cover.jpg",
                 "malId": 147667,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/a_falling_cohabitation/"
             }
         },
-        "MangaFire": {
-            "gan-tteoreojineun-donggeo.2on3q": {
-                "identifier": "gan-tteoreojineun-donggeo.2on3q",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/499598bbf8a71c100118b352259bea67.jpg",
-                "malId": 147667,
-                "aniId": 119881,
-                "page": "MangaFire",
-                "title": "My Roommate Is A Gumiho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gan-tteoreojineun-donggeo.2on3q/"
-            },
-            "gan-tteoreojineun-donggeoo.2on3q": {
-                "identifier": "gan-tteoreojineun-donggeoo.2on3q",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/499598bbf8a71c100118b352259bea67.jpg",
-                "malId": 147667,
-                "aniId": 119881,
-                "page": "MangaFire",
-                "title": "My Roommate Is A Gumiho",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gan-tteoreojineun-donggeoo.2on3q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyercpmtkx3qt3q0f6c2f": {
+                "id": 211252,
                 "identifier": "01j76xyercpmtkx3qt3q0f6c2f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYERCPMTKX3QT3Q0F6C2F.jpg",
                 "malId": 147667,
@@ -74,6 +56,19 @@
                 "title": "My Roommate is a Gumiho",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYERCPMTKX3QT3Q0F6C2F"
+            }
+        },
+        "MangaFire": {
+            "2on3q": {
+                "id": 239718,
+                "identifier": "2on3q",
+                "image": "https://static.mangafire.to/6871/i/4/49/499598bbf8a71c100118b352259bea67.jpg",
+                "malId": 147667,
+                "aniId": 119881,
+                "page": "MangaFire",
+                "title": "My Roommate Is A Gumiho",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gan-tteoreojineun-donggeoo.2on3q"
             }
         }
     },

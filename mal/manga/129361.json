@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "22d6d048-9f9f-4c3a-95c2-3b145f110e20": {
+                "id": 35776,
                 "identifier": "22d6d048-9f9f-4c3a-95c2-3b145f110e20",
                 "image": "https://uploads.mangadex.org/covers/22d6d048-9f9f-4c3a-95c2-3b145f110e20/70ca1081-8f6c-4c68-b18c-95e3f49d985d.jpg",
                 "malId": 129361,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "watashi_no_oshi_wa_akuyaku_reijou": {
+                "id": 61340,
                 "identifier": "watashi_no_oshi_wa_akuyaku_reijou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35758/cover.jpg",
                 "malId": 129361,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "im-in-love-with-the-villainess": {
+                "id": 71824,
                 "identifier": "im-in-love-with-the-villainess",
                 "image": "https://temp.compsci88.com/cover/Im-in-Love-with-the-Villainess.jpg",
                 "malId": 129361,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ib986110": {
+                "id": 73441,
                 "identifier": "manga-ib986110",
                 "image": "https://avt.mkklcdnv6temp.com/43/s/21-1596445435.jpg",
                 "malId": 129361,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-ib986110"
             },
             "manga-le988987": {
+                "id": 75524,
                 "identifier": "manga-le988987",
                 "image": "https://avt.mkklcdnv6temp.com/11/k/24-1620225788.jpg",
                 "malId": 129361,
@@ -64,6 +69,7 @@
                 "url": "https://manganato.com/manga-le988987"
             },
             "manga-uc997485": {
+                "id": 165489,
                 "identifier": "manga-uc997485",
                 "image": "https://avt.mkklcdnv6temp.com/fld/56/i/15-1733310020-nw.webp",
                 "malId": 129361,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-uc997485"
             }
         },
-        "MangaFire": {
-            "watashi-no-oshi-wa-akuyaku-reijou.2ooo5": {
-                "identifier": "watashi-no-oshi-wa-akuyaku-reijou.2ooo5",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f4792ec9667b38010addad48eb03f2e.jpg",
-                "malId": 129361,
-                "aniId": 118695,
-                "page": "MangaFire",
-                "title": "I'm in Love with the Villainess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-no-oshi-wa-akuyaku-reijou.2ooo5/"
-            },
-            "watashi-no-oshi-wa-akuyaku-reijouu.2ooo5": {
-                "identifier": "watashi-no-oshi-wa-akuyaku-reijouu.2ooo5",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f4792ec9667b38010addad48eb03f2e.jpg",
-                "malId": 129361,
-                "aniId": 118695,
-                "page": "MangaFire",
-                "title": "I'm in Love with the Villainess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-no-oshi-wa-akuyaku-reijouu.2ooo5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeqdffka4bbbkc3naqyq": {
+                "id": 210830,
                 "identifier": "01j76xyeqdffka4bbbkc3naqyq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEQDFFKA4BBBKC3NAQYQ.jpg",
                 "malId": 129361,
@@ -106,6 +91,19 @@
                 "title": "I'm in Love with the Villainess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEQDFFKA4BBBKC3NAQYQ"
+            }
+        },
+        "MangaFire": {
+            "2ooo5": {
+                "id": 228110,
+                "identifier": "2ooo5",
+                "image": "https://static.mangafire.to/c2cd/i/8/8f/8f4792ec9667b38010addad48eb03f2e.jpg",
+                "malId": 129361,
+                "aniId": 118695,
+                "page": "MangaFire",
+                "title": "I'm in Love with the Villainess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-no-oshi-wa-akuyaku-reijouu.2ooo5"
             }
         },
         "Comick": {

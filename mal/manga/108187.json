@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ddcebfa2-05a0-4fcd-9cd4-60d779c38f2c": {
+                "id": 18012,
                 "identifier": "ddcebfa2-05a0-4fcd-9cd4-60d779c38f2c",
                 "image": "https://uploads.mangadex.org/covers/ddcebfa2-05a0-4fcd-9cd4-60d779c38f2c/d1ae5186-f108-4983-ac17-b2dbe6a38ae3.jpg",
                 "malId": 108187,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "karakai-jouzu-no-moto-takagi-san": {
+                "id": 57113,
                 "identifier": "karakai-jouzu-no-moto-takagi-san",
                 "image": "https://temp.compsci88.com/cover/Karakai-Jouzu-No-moto-Takagi-san.jpg",
                 "malId": 108187,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "karakai_jouzu_no_moto_takagi_san": {
+                "id": 58311,
                 "identifier": "karakai_jouzu_no_moto_takagi_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26291/cover.jpg",
                 "malId": 108187,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ad977486": {
+                "id": 73027,
                 "identifier": "manga-ad977486",
                 "image": "https://avt.mkklcdnv6temp.com/43/q/15-1583493227.jpg",
                 "malId": 108187,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ad977486"
             }
         },
-        "MangaFire": {
-            "karakai-jouzu-no-moto-takagi-san.llv5m": {
-                "identifier": "karakai-jouzu-no-moto-takagi-san.llv5m",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0cb565dd77eff548968eb11ac31ee96f.jpg",
-                "malId": 108187,
-                "aniId": 99549,
-                "page": "MangaFire",
-                "title": "Karakai Jouzu no (Moto) Takagi-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karakai-jouzu-no-moto-takagi-san.llv5m/"
-            },
-            "karakai-jouzu-no-moto-takagi-sann.llv5m": {
-                "identifier": "karakai-jouzu-no-moto-takagi-sann.llv5m",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0cb565dd77eff548968eb11ac31ee96f.jpg",
-                "malId": 108187,
-                "aniId": 99549,
-                "page": "MangaFire",
-                "title": "Karakai Jouzu no (Moto) Takagi-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karakai-jouzu-no-moto-takagi-sann.llv5m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycev4q1sqjesyy5a5zsz": {
+                "id": 206945,
                 "identifier": "01j76xycev4q1sqjesyy5a5zsz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCEV4Q1SQJESYY5A5ZSZ.jpg",
                 "malId": 108187,
@@ -86,6 +69,19 @@
                 "title": "Karakai Jouzu no (Moto) Takagi-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCEV4Q1SQJESYY5A5ZSZ"
+            }
+        },
+        "MangaFire": {
+            "llv5m": {
+                "id": 225279,
+                "identifier": "llv5m",
+                "image": "https://static.mangafire.to/9aa0/i/0/0c/0cb565dd77eff548968eb11ac31ee96f.jpg",
+                "malId": 108187,
+                "aniId": 99549,
+                "page": "MangaFire",
+                "title": "Karakai Jouzu no (Moto) Takagi-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karakai-jouzu-no-moto-takagi-sann.llv5m"
             }
         },
         "Comick": {

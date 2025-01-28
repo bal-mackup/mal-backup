@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "66e5da17-3052-4ea1-889d-e678d14f1c74": {
+                "id": 22871,
                 "identifier": "66e5da17-3052-4ea1-889d-e678d14f1c74",
                 "image": "https://uploads.mangadex.org/covers/66e5da17-3052-4ea1-889d-e678d14f1c74/82fbafdf-4f17-46f2-819c-bab76e48138b.jpg",
                 "malId": 72439,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "setoutsumi": {
+                "id": 70173,
                 "identifier": "setoutsumi",
                 "image": "https://temp.compsci88.com/cover/Setoutsumi.jpg",
                 "malId": 72439,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ff982488": {
+                "id": 81100,
                 "identifier": "manga-ff982488",
                 "image": "https://avt.mkklcdnv6temp.com/3/r/19-1583499212.jpg",
                 "malId": 72439,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "setoutsumi": {
+                "id": 81333,
                 "identifier": "setoutsumi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29575/cover.jpg",
                 "malId": 72439,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/setoutsumi/"
             }
         },
-        "MangaFire": {
-            "setoutsumi.1r00x": {
-                "identifier": "setoutsumi.1r00x",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/407f9d52cab18a54b7f366cbe39d015f.jpg",
-                "malId": 72439,
-                "aniId": 91616,
-                "page": "MangaFire",
-                "title": "Seto Utsumi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/setoutsumi.1r00x/"
-            },
-            "setoutsumii.1r00x": {
-                "identifier": "setoutsumii.1r00x",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/407f9d52cab18a54b7f366cbe39d015f.jpg",
-                "malId": 72439,
-                "aniId": 91616,
-                "page": "MangaFire",
-                "title": "Seto Utsumi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/setoutsumii.1r00x/"
-            },
-            "1r00x": {
-                "identifier": "1r00x",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/407f9d52cab18a54b7f366cbe39d015f.jpg",
-                "malId": 72439,
-                "aniId": 91616,
-                "page": "MangaFire",
-                "title": "Seto Utsumi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/setoutsumii.1r00x/"
-            }
-        },
         "Weebcentral": {
             "01j76xycrdj846cghcnh48p9gk": {
+                "id": 207084,
                 "identifier": "01j76xycrdj846cghcnh48p9gk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCRDJ846CGHCNH48P9GK.jpg",
                 "malId": 72439,
@@ -96,6 +69,19 @@
                 "title": "Seto Utsumi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCRDJ846CGHCNH48P9GK"
+            }
+        },
+        "MangaFire": {
+            "1r00x": {
+                "id": 225485,
+                "identifier": "1r00x",
+                "image": "https://static.mangafire.to/a5ac/i/4/40/407f9d52cab18a54b7f366cbe39d015f.jpg",
+                "malId": 72439,
+                "aniId": 91616,
+                "page": "MangaFire",
+                "title": "Seto Utsumi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/setoutsumii.1r00x"
             }
         },
         "Comick": {

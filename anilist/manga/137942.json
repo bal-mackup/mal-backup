@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9afe47ee-5c8b-4572-b7c0-efa4f83da432": {
+                "id": 97202,
                 "identifier": "9afe47ee-5c8b-4572-b7c0-efa4f83da432",
                 "image": "https://uploads.mangadex.org/covers/9afe47ee-5c8b-4572-b7c0-efa4f83da432/af4d8dc3-21a6-448a-a16a-8b94c85f9b53.jpg",
                 "malId": 140520,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pd992686": {
+                "id": 115673,
                 "identifier": "manga-pd992686",
                 "image": "https://avt.mkklcdnv6temp.com/17/p/27-1664857156.jpg",
                 "malId": 140520,
@@ -28,20 +30,11 @@
                 "title": "Fun Territory Defense By The Optimistic Lord",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-pd992686"
-            },
-            "manga-xa1000709": {
-                "identifier": "manga-xa1000709",
-                "image": "https://avt.mkklcdnv6temp.com/37/z/33-1707192799.jpg",
-                "malId": 140520,
-                "aniId": 137942,
-                "page": "MangaNato",
-                "title": "Easygoing Territory Defense By The Optimistic Lord: Production Magic Turns A Nameless Village Into The Strongest Fortified City",
-                "type": "manga",
-                "url": "https://chapmanganato.to/manga-xa1000709"
             }
         },
         "MangaSee": {
             "okiraku-ryoushu-no-tanoshii-ryouchi-bouei": {
+                "id": 128637,
                 "identifier": "okiraku-ryoushu-no-tanoshii-ryouchi-bouei",
                 "image": "https://temp.compsci88.com/cover/Okiraku-Ryoushu-no-Tanoshii-Ryouchi-Bouei.jpg",
                 "malId": 140520,
@@ -54,6 +47,7 @@
         },
         "MangaFox": {
             "okiraku_ryoushu_no_tanoshii_ryouchi_bouei": {
+                "id": 163895,
                 "identifier": "okiraku_ryoushu_no_tanoshii_ryouchi_bouei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45048/cover.jpg",
                 "malId": 140520,
@@ -64,20 +58,9 @@
                 "url": "https://fanfox.net/manga/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/"
             }
         },
-        "MangaFire": {
-            "okiraku-ryoushu-no-tanoshii-ryouchi-boueii.rlxln": {
-                "identifier": "okiraku-ryoushu-no-tanoshii-ryouchi-boueii.rlxln",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/020207e4688e25a513ee4b2a7c200579.jpg",
-                "malId": 140520,
-                "aniId": 137942,
-                "page": "MangaFire",
-                "title": "Fun Territory Defense by the Optimistic Lord",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/okiraku-ryoushu-no-tanoshii-ryouchi-boueii.rlxln/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1zq9ftphjt1g6gapyq": {
+                "id": 210258,
                 "identifier": "01j76xyg1zq9ftphjt1g6gapyq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1ZQ9FTPHJT1G6GAPYQ.jpg",
                 "malId": 140520,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYG1ZQ9FTPHJT1G6GAPYQ"
             }
         },
+        "MangaFire": {
+            "rlxln": {
+                "id": 229730,
+                "identifier": "rlxln",
+                "image": "https://static.mangafire.to/8c6f/i/0/02/020207e4688e25a513ee4b2a7c200579.jpg",
+                "malId": 140520,
+                "aniId": 137942,
+                "page": "MangaFire",
+                "title": "Fun Territory Defense by the Optimistic Lord",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/okiraku-ryoushu-no-tanoshii-ryouchi-boueii.rlxln"
+            }
+        },
         "Comick": {
             "QgUcS9Uc": {
                 "identifier": "QgUcS9Uc",
                 "malId": 140520,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei ~Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni~",
+                "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
                 "url": "https://comick.io/comic/okiraku-ryoushu-no-tanoshii-ryouchi-bouei",
                 "aniId": 137942
             }

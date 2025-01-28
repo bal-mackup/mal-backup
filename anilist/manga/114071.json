@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "43db3f55-fc94-4bf0-a765-f0d17982159c": {
+                "id": 37511,
                 "identifier": "43db3f55-fc94-4bf0-a765-f0d17982159c",
                 "image": "https://uploads.mangadex.org/covers/43db3f55-fc94-4bf0-a765-f0d17982159c/04e72ed6-1ed9-44a0-a124-61b7f862f049.jpg",
                 "malId": 128416,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pn993322": {
+                "id": 120208,
                 "identifier": "manga-pn993322",
                 "image": "https://avt.mkklcdnv6temp.com/43/f/28-1671676604.jpg",
                 "malId": 128416,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-pn993322"
             }
         },
-        "MangaFire": {
-            "jingi-naki-mukotori.v553v": {
-                "identifier": "jingi-naki-mukotori.v553v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/644f6e0e06806c92c20c264999cdd5bb.jpg",
-                "malId": 128416,
-                "aniId": 114071,
-                "page": "MangaFire",
-                "title": "Jingi Naki Mukotori",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jingi-naki-mukotori.v553v/"
-            },
-            "jingi-naki-mukotorii.v553v": {
-                "identifier": "jingi-naki-mukotorii.v553v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/644f6e0e06806c92c20c264999cdd5bb.jpg",
-                "malId": 128416,
-                "aniId": 114071,
-                "page": "MangaFire",
-                "title": "Jingi Naki Mukotori",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jingi-naki-mukotorii.v553v/"
-            }
-        },
         "MangaFox": {
             "jingi_naki_mukotori": {
+                "id": 189962,
                 "identifier": "jingi_naki_mukotori",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34729/cover.jpg",
                 "malId": 128416,
@@ -62,6 +43,19 @@
                 "title": "Jingi Naki Mukotori",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/jingi_naki_mukotori/"
+            }
+        },
+        "MangaFire": {
+            "v553v": {
+                "id": 237820,
+                "identifier": "v553v",
+                "image": "https://static.mangafire.to/aae6/i/6/64/644f6e0e06806c92c20c264999cdd5bb.jpg",
+                "malId": 128416,
+                "aniId": 114071,
+                "page": "MangaFire",
+                "title": "Jingi Naki Mukotori",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jingi-naki-mukotorii.v553v"
             }
         },
         "Comick": {

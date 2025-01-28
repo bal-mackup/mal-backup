@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "10b5a02d-937c-42fd-8330-8f6f45dcbaa0": {
+                "id": 19441,
                 "identifier": "10b5a02d-937c-42fd-8330-8f6f45dcbaa0",
                 "image": "https://uploads.mangadex.org/covers/10b5a02d-937c-42fd-8330-8f6f45dcbaa0/c0662be5-5b97-45aa-99fc-83e71b8e47a8.png",
                 "malId": 86204,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kageki-shoujo-the-curtain-rises": {
+                "id": 76504,
                 "identifier": "kageki-shoujo-the-curtain-rises",
                 "image": "https://temp.compsci88.com/cover/Kageki-Shoujo-The-Curtain-Rises.jpg",
                 "malId": 86204,
@@ -30,40 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kageki-Shoujo-The-Curtain-Rises"
             }
         },
-        "MangaFire": {
-            "kageki-shoujo.3rqx2": {
-                "identifier": "kageki-shoujo.3rqx2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/46f8d5c37f14c9a25b9f6da458416e28.jpg",
-                "malId": 86204,
-                "aniId": 93901,
-                "page": "MangaFire",
-                "title": "Kageki Shojo!! The Curtain Rises",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kageki-shoujo.3rqx2/"
-            },
-            "kageki-shoujoo.3rqx2": {
-                "identifier": "kageki-shoujoo.3rqx2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/46f8d5c37f14c9a25b9f6da458416e28.jpg",
-                "malId": 86204,
-                "aniId": 93901,
-                "page": "MangaFire",
-                "title": "Kageki Shojo!! The Curtain Rises",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kageki-shoujoo.3rqx2/"
-            },
-            "3rqx2": {
-                "identifier": "3rqx2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/46f8d5c37f14c9a25b9f6da458416e28.jpg",
-                "malId": 86204,
-                "aniId": 93901,
-                "page": "MangaFire",
-                "title": "Kageki Shojo!! The Curtain Rises",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kageki-shoujoo.3rqx2/"
-            }
-        },
         "Weebcentral": {
             "01j76xye47fpn9zxvfae8xeg9d": {
+                "id": 213155,
                 "identifier": "01j76xye47fpn9zxvfae8xeg9d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE47FPN9ZXVFAE8XEG9D.jpg",
                 "malId": 86204,
@@ -72,6 +43,19 @@
                 "title": "Kageki Shojo!! The Curtain Rises",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE47FPN9ZXVFAE8XEG9D"
+            }
+        },
+        "MangaFire": {
+            "3rqx2": {
+                "id": 236943,
+                "identifier": "3rqx2",
+                "image": "https://static.mangafire.to/2579/i/4/46/46f8d5c37f14c9a25b9f6da458416e28.jpg",
+                "malId": 86204,
+                "aniId": 93901,
+                "page": "MangaFire",
+                "title": "Kageki Shojo!! The Curtain Rises",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kageki-shoujoo.3rqx2"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8312a27e-e5cc-49fe-b643-a25f167ea385": {
+                "id": 35261,
                 "identifier": "8312a27e-e5cc-49fe-b643-a25f167ea385",
                 "image": "https://uploads.mangadex.org/covers/8312a27e-e5cc-49fe-b643-a25f167ea385/e5d3c19b-41e9-4c6a-b0f0-968dea3cb437.png",
                 "malId": 115799,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "our-torsos-align-human-x-monster-love": {
+                "id": 120496,
                 "identifier": "our-torsos-align-human-x-monster-love",
                 "image": "https://temp.compsci88.com/cover/Our-Torsos-Align-Human-x-Monster-Love.jpg",
                 "malId": 115799,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Our-Torsos-Align-Human-x-Monster-Love"
             }
         },
-        "MangaFire": {
-            "our-torsos.qx0o3": {
-                "identifier": "our-torsos.qx0o3",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c8608ce261517fdf86a4fa4a8d463490.jpg",
-                "malId": 115799,
-                "aniId": 111424,
-                "page": "MangaFire",
-                "title": "Our Torsos Align: Human x Monster Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/our-torsos.qx0o3/"
-            },
-            "qx0o3": {
-                "identifier": "qx0o3",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c8608ce261517fdf86a4fa4a8d463490.jpg",
-                "malId": 115799,
-                "aniId": 111424,
-                "page": "MangaFire",
-                "title": "Our Torsos Align: Human x Monster Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/our-torsos.qx0o3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfthtgw1x8dfp5j314wx": {
+                "id": 211846,
                 "identifier": "01j76xyfthtgw1x8dfp5j314wx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFTHTGW1X8DFP5J314WX.jpg",
                 "malId": 115799,
@@ -62,6 +43,19 @@
                 "title": "Our Torsos Align - Human x Monster Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFTHTGW1X8DFP5J314WX"
+            }
+        },
+        "MangaFire": {
+            "qx0o3": {
+                "id": 253727,
+                "identifier": "qx0o3",
+                "image": "https://static.mangafire.to/b6b8/i/c/c8/c8608ce261517fdf86a4fa4a8d463490.jpg",
+                "malId": 115799,
+                "aniId": 111424,
+                "page": "MangaFire",
+                "title": "Our Torsos Align: Human x Monster Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/our-torsoss.qx0o3"
             }
         }
     },

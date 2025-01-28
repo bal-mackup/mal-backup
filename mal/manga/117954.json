@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9c0621c9-6ab2-4fd3-9dd1-6bec29bf60d4": {
+                "id": 104932,
                 "identifier": "9c0621c9-6ab2-4fd3-9dd1-6bec29bf60d4",
                 "image": "https://uploads.mangadex.org/covers/9c0621c9-6ab2-4fd3-9dd1-6bec29bf60d4/8efcb61b-0a9c-491c-bbb3-98b2e4528832.jpg",
                 "malId": 117954,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/9c0621c9-6ab2-4fd3-9dd1-6bec29bf60d4"
             }
         },
-        "MangaFire": {
-            "kotarou-wa-hitorigurashi.xrl88": {
-                "identifier": "kotarou-wa-hitorigurashi.xrl88",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/61102d673c05bdef794ec12af514d41b.jpg",
-                "malId": 117954,
-                "aniId": 130035,
-                "page": "MangaFire",
-                "title": "Kotarou wa Hitorigurashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kotarou-wa-hitorigurashi.xrl88/"
-            }
-        },
         "MangaNato": {
             "manga-xp1000872": {
+                "id": 187103,
                 "identifier": "manga-xp1000872",
                 "image": "https://avt.mkklcdnv6temp.com/fld/85/s/16-1733319563-nw.webp",
                 "malId": 117954,
@@ -40,6 +30,19 @@
                 "title": "Kotaro Lives Alone",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xp1000872"
+            }
+        },
+        "MangaFire": {
+            "xrl88": {
+                "id": 250631,
+                "identifier": "xrl88",
+                "image": "https://static.mangafire.to/058e/i/6/61/61102d673c05bdef794ec12af514d41b.jpg",
+                "malId": 117954,
+                "aniId": 130035,
+                "page": "MangaFire",
+                "title": "Kotarou wa Hitorigurashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kotarou-wa-hitorigurashii.xrl88"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4e5544e2-d756-4d00-888d-7376cbcdbcd7": {
+                "id": 111093,
                 "identifier": "4e5544e2-d756-4d00-888d-7376cbcdbcd7",
                 "image": "https://uploads.mangadex.org/covers/4e5544e2-d756-4d00-888d-7376cbcdbcd7/0e331de8-b000-4046-bf75-d78cb71c2756.jpg",
                 "malId": 145714,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/4e5544e2-d756-4d00-888d-7376cbcdbcd7"
             }
         },
-        "MangaFire": {
-            "my-dear-agent.rlrwo": {
-                "identifier": "my-dear-agent.rlrwo",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/eadf86ad82ffe982c47ea5534bc5087c.jpg",
-                "malId": 145714,
-                "aniId": 147142,
-                "page": "MangaFire",
-                "title": "My Dear Agent",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-dear-agent.rlrwo/"
-            }
-        },
         "MangaNato": {
             "manga-sn995796": {
+                "id": 165535,
                 "identifier": "manga-sn995796",
                 "image": "https://avt.mkklcdnv6temp.com/fld/91/v/14-1733306083-nw.webp",
                 "malId": 145714,
@@ -40,6 +30,19 @@
                 "title": "My Dear Agent",
                 "type": "manga",
                 "url": "https://manganato.com/manga-sn995796"
+            }
+        },
+        "MangaFire": {
+            "rlrwo": {
+                "id": 254924,
+                "identifier": "rlrwo",
+                "image": "https://static.mangafire.to/dca1/i/e/ea/eadf86ad82ffe982c47ea5534bc5087c.jpg",
+                "malId": 145714,
+                "aniId": 147142,
+                "page": "MangaFire",
+                "title": "My Dear Agent",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-dear-agentt.rlrwo"
             }
         },
         "Comick": {

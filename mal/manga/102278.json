@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "3da17cce-8094-4947-a215-e04340beaa5d": {
+                "id": 16789,
                 "identifier": "3da17cce-8094-4947-a215-e04340beaa5d",
-                "image": "https://uploads.mangadex.org/covers/3da17cce-8094-4947-a215-e04340beaa5d/c9e4371b-7e60-49ea-9d2b-90666981e51d.jpg",
+                "image": "https://uploads.mangadex.org/covers/3da17cce-8094-4947-a215-e04340beaa5d/9ccb736f-3cfc-4017-af71-f30d23700a66.jpg",
                 "malId": 102278,
                 "aniId": 98563,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shinju-no-nectar": {
+                "id": 58088,
                 "identifier": "shinju-no-nectar",
                 "image": "https://temp.compsci88.com/cover/Shinju-No-Nectar.jpg",
                 "malId": 102278,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shinju_no_nectar": {
+                "id": 59983,
                 "identifier": "shinju_no_nectar",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22861/cover.jpg",
                 "malId": 102278,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-wr974052": {
+                "id": 73572,
                 "identifier": "manga-wr974052",
                 "image": "https://avt.mkklcdnv6temp.com/12/o/36-1725186565.jpg",
                 "malId": 102278,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-wr974052"
             }
         },
-        "MangaFire": {
-            "shinju-no-nectar.xr8xz": {
-                "identifier": "shinju-no-nectar.xr8xz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71ea4ac99fdca1da259e545404a04cb7.jpg",
-                "malId": 102278,
-                "aniId": 98563,
-                "page": "MangaFire",
-                "title": "Shinju no Nectar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinju-no-nectar.xr8xz/"
-            },
-            "shinju-no-nectarr.xr8xz": {
-                "identifier": "shinju-no-nectarr.xr8xz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71ea4ac99fdca1da259e545404a04cb7.jpg",
-                "malId": 102278,
-                "aniId": 98563,
-                "page": "MangaFire",
-                "title": "Shinju no Nectar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinju-no-nectarr.xr8xz/"
-            },
-            "xr8xz": {
-                "identifier": "xr8xz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71ea4ac99fdca1da259e545404a04cb7.jpg",
-                "malId": 102278,
-                "aniId": 98563,
-                "page": "MangaFire",
-                "title": "Shinju no Nectar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinju-no-nectarr.xr8xz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2c45yhgkahw2wb5w12": {
+                "id": 213750,
                 "identifier": "01j76xyc2c45yhgkahw2wb5w12",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2C45YHGKAHW2WB5W12.jpg",
                 "malId": 102278,
@@ -96,6 +69,19 @@
                 "title": "Shinju no Nectar",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2C45YHGKAHW2WB5W12"
+            }
+        },
+        "MangaFire": {
+            "xr8xz": {
+                "id": 225306,
+                "identifier": "xr8xz",
+                "image": "https://static.mangafire.to/5c54/i/7/71/71ea4ac99fdca1da259e545404a04cb7.jpg",
+                "malId": 102278,
+                "aniId": 98563,
+                "page": "MangaFire",
+                "title": "Shinju no Nectar",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinju-no-nectarr.xr8xz"
             }
         },
         "Comick": {

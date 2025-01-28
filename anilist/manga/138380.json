@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee96e2b7-9af2-4864-9656-649f4d3b6fec": {
+                "id": 99858,
                 "identifier": "ee96e2b7-9af2-4864-9656-649f4d3b6fec",
                 "image": "https://uploads.mangadex.org/covers/ee96e2b7-9af2-4864-9656-649f4d3b6fec/4b87e456-0243-4dfe-abda-d0f41c91141a.jpg",
                 "malId": 144152,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rg995289": {
+                "id": 128140,
                 "identifier": "manga-rg995289",
                 "image": "https://avt.mkklcdnv6temp.com/21/x/29-1680154638.jpg",
                 "malId": 144152,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rg995289"
             }
         },
-        "MangaFire": {
-            "otaku-ni-yasashii-gal-wa-inai.nrnqn": {
-                "identifier": "otaku-ni-yasashii-gal-wa-inai.nrnqn",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/33e02d6ddac763ed9bfca1acb60e0922.jpg",
-                "malId": 144152,
-                "aniId": 138380,
-                "page": "MangaFire",
-                "title": "Gal Can't be Kind to Otaku!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otaku-ni-yasashii-gal-wa-inai.nrnqn/"
-            },
-            "otaku-ni-yasashii-gal-wa-inaii.nrnqn": {
-                "identifier": "otaku-ni-yasashii-gal-wa-inaii.nrnqn",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/33e02d6ddac763ed9bfca1acb60e0922.jpg",
-                "malId": 144152,
-                "aniId": 138380,
-                "page": "MangaFire",
-                "title": "Gal Can't be Kind to Otaku!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otaku-ni-yasashii-gal-wa-inaii.nrnqn/"
-            }
-        },
         "MangaFox": {
             "otaku_ni_yasashii_gal_wa_inai": {
+                "id": 173824,
                 "identifier": "otaku_ni_yasashii_gal_wa_inai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41885/cover.jpg",
                 "malId": 144152,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "otaku-ni-yasashii-gal-wa-inai": {
+                "id": 178248,
                 "identifier": "otaku-ni-yasashii-gal-wa-inai",
                 "image": "https://temp.compsci88.com/cover/Otaku-ni-Yasashii-Gal-wa-Inai.jpg",
                 "malId": 144152,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygsxqn8bntpr0qxwqd2s": {
+                "id": 208491,
                 "identifier": "01j76xygsxqn8bntpr0qxwqd2s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGSXQN8BNTPR0QXWQD2S.jpg",
                 "malId": 144152,
@@ -86,6 +69,19 @@
                 "title": "Otaku ni Yasashii Gal wa Inai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGSXQN8BNTPR0QXWQD2S"
+            }
+        },
+        "MangaFire": {
+            "nrnqn": {
+                "id": 228154,
+                "identifier": "nrnqn",
+                "image": "https://static.mangafire.to/50de/i/3/33/33e02d6ddac763ed9bfca1acb60e0922.jpg",
+                "malId": 144152,
+                "aniId": 138380,
+                "page": "MangaFire",
+                "title": "Gal Can't be Kind to Otaku!?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otaku-ni-yasashii-gal-wa-inaii.nrnqn"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1a6808a3-2041-4f0e-9029-33be97db135d": {
+                "id": 100306,
                 "identifier": "1a6808a3-2041-4f0e-9029-33be97db135d",
                 "image": "https://uploads.mangadex.org/covers/1a6808a3-2041-4f0e-9029-33be97db135d/26859530-b52f-47c2-bbd6-f12e673794ee.jpg",
                 "malId": 144895,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ry994533": {
+                "id": 128745,
                 "identifier": "manga-ry994533",
                 "image": "https://avt.mkklcdnv6temp.com/41/u/28-1677295214.jpg",
                 "malId": 144895,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-ry994533"
             }
         },
-        "MangaFire": {
-            "doukyonin-no-sano-kun-wa-tada-no-yuunou-na-tantou-henshuu-desu.vvn3v": {
-                "identifier": "doukyonin-no-sano-kun-wa-tada-no-yuunou-na-tantou-henshuu-desu.vvn3v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/92/9220c8d31704efbbfb4bc5eee85c8d3a.jpg",
-                "malId": 144895,
-                "aniId": 147844,
-                "page": "MangaFire",
-                "title": "My Housemate Sano-kun Is Just My Editor",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/doukyonin-no-sano-kun-wa-tada-no-yuunou-na-tantou-henshuu-desu.vvn3v/"
-            }
-        },
         "MangaSee": {
             "my-housemate-sano-kun-is-just-my-editor": {
+                "id": 172689,
                 "identifier": "my-housemate-sano-kun-is-just-my-editor",
                 "image": "https://temp.compsci88.com/cover/My-Housemate-Sano-kun-Is-Just-My-Editor.jpg",
                 "malId": 144895,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygktvx1yybwdgtem8yr0": {
+                "id": 210868,
                 "identifier": "01j76xygktvx1yybwdgtem8yr0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGKTVX1YYBWDGTEM8YR0.jpg",
                 "malId": 144895,
@@ -64,6 +56,19 @@
                 "title": "My Housemate Sano-kun Is Just My Editor",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGKTVX1YYBWDGTEM8YR0"
+            }
+        },
+        "MangaFire": {
+            "vvn3v": {
+                "id": 257228,
+                "identifier": "vvn3v",
+                "image": "https://static.mangafire.to/2d21/i/9/92/9220c8d31704efbbfb4bc5eee85c8d3a.jpg",
+                "malId": 144895,
+                "aniId": 147844,
+                "page": "MangaFire",
+                "title": "My Housemate Sano-kun Is Just My Editor",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/doukyonin-no-sano-kun-wa-tada-no-yuunou-na-tantou-henshuu-desuu.vvn3v"
             }
         },
         "Comick": {

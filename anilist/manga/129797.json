@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2f1f6c17-8a83-4d64-8677-e79cabb5c031": {
+                "id": 61310,
                 "identifier": "2f1f6c17-8a83-4d64-8677-e79cabb5c031",
                 "image": "https://uploads.mangadex.org/covers/2f1f6c17-8a83-4d64-8677-e79cabb5c031/00078333-105d-4996-979b-9889aad5fe75.jpg",
                 "malId": 147329,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "his-majestys-proposal": {
+                "id": 77953,
                 "identifier": "his-majestys-proposal",
                 "image": "https://temp.compsci88.com/cover/His-Majestys-Proposal.jpg",
                 "malId": 147329,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hwangjewaui_harutbam": {
+                "id": 96447,
                 "identifier": "hwangjewaui_harutbam",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37944/cover.jpg",
                 "malId": 147329,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/hwangjewaui_harutbam/"
             },
             "his_majesty_s_proposal": {
+                "id": 105765,
                 "identifier": "his_majesty_s_proposal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38521/cover.jpg",
                 "malId": 147329,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/his_majesty_s_proposal/"
             }
         },
-        "MangaFire": {
-            "his-majestys-proposal.pr5v6": {
-                "identifier": "his-majestys-proposal.pr5v6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4beff894b3e795f296fc36dd67a20254.jpg",
-                "malId": 147329,
-                "aniId": 129797,
-                "page": "MangaFire",
-                "title": "His Majesty's Proposal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/his-majestys-proposal.pr5v6/"
-            },
-            "his-majestys-proposall.pr5v6": {
-                "identifier": "his-majestys-proposall.pr5v6",
-                "image": "https://static.mangafire.to/92aa/i/4/4b/4beff894b3e795f296fc36dd67a20254.jpg",
-                "malId": 147329,
-                "aniId": 129797,
-                "page": "MangaFire",
-                "title": "His Majesty's Proposal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/his-majestys-proposall.pr5v6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyesxdmrhrhs0np699k2b": {
+                "id": 210374,
                 "identifier": "01j76xyesxdmrhrhs0np699k2b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYESXDMRHRHS0NP699K2B.jpg",
                 "malId": 147329,
@@ -84,6 +67,19 @@
                 "title": "His Majesty's Proposal",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYESXDMRHRHS0NP699K2B"
+            }
+        },
+        "MangaFire": {
+            "pr5v6": {
+                "id": 223037,
+                "identifier": "pr5v6",
+                "image": "https://static.mangafire.to/92aa/i/4/4b/4beff894b3e795f296fc36dd67a20254.jpg",
+                "malId": 147329,
+                "aniId": 129797,
+                "page": "MangaFire",
+                "title": "His Majesty's Proposal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/his-majestys-proposall.pr5v6"
             }
         },
         "Comick": {

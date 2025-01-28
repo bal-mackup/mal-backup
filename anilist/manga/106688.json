@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e572564d-3e18-46d3-8ecf-c050635b62c0": {
+                "id": 25349,
                 "identifier": "e572564d-3e18-46d3-8ecf-c050635b62c0",
                 "image": "https://uploads.mangadex.org/covers/e572564d-3e18-46d3-8ecf-c050635b62c0/b9403991-afa3-44d7-8861-5ad6a9a3e6ce.jpg",
                 "malId": 123990,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/e572564d-3e18-46d3-8ecf-c050635b62c0"
             },
             "696e0e21-6c5f-4709-9105-0db02caf62dd": {
+                "id": 28859,
                 "identifier": "696e0e21-6c5f-4709-9105-0db02caf62dd",
                 "image": "https://uploads.mangadex.org/covers/696e0e21-6c5f-4709-9105-0db02caf62dd/7a640ff8-4024-4fb2-836a-5a1a8f5c5b99.jpg",
                 "malId": 123990,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "shachiku_succubus_no_hanashi": {
+                "id": 55261,
                 "identifier": "shachiku_succubus_no_hanashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29486/cover.jpg",
                 "malId": 123990,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "shachiku-succubus-no-hanashi": {
+                "id": 65905,
                 "identifier": "shachiku-succubus-no-hanashi",
                 "image": "https://temp.compsci88.com/cover/Shachiku-Succubus-no-Hanashi.jpg",
                 "malId": 123990,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-dl980494": {
+                "id": 74527,
                 "identifier": "manga-dl980494",
                 "image": "https://avt.mkklcdnv6temp.com/30/u/17-1583496366.jpg",
                 "malId": 123990,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-dl980494"
             },
             "manga-eb982110": {
+                "id": 76148,
                 "identifier": "manga-eb982110",
                 "image": "https://avt.mkklcdnv6temp.com/39/n/18-1583498630.jpg",
                 "malId": 123990,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-eb982110"
             }
         },
-        "MangaFire": {
-            "shachiku-succubus-no-hanashi.5kr2q": {
-                "identifier": "shachiku-succubus-no-hanashi.5kr2q",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/5563d05e824c0c6df3af276a4ed48a00.jpg",
-                "malId": 123990,
-                "aniId": 106688,
-                "page": "MangaFire",
-                "title": "Shachiku Succubus no Hanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shachiku-succubus-no-hanashi.5kr2q/"
-            },
-            "shachiku-succubus-no-hanashii.5kr2q": {
-                "identifier": "shachiku-succubus-no-hanashii.5kr2q",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/5563d05e824c0c6df3af276a4ed48a00.jpg",
-                "malId": 123990,
-                "aniId": 106688,
-                "page": "MangaFire",
-                "title": "Shachiku Succubus no Hanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shachiku-succubus-no-hanashii.5kr2q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3ewhdm7zrgnx0v6j0m": {
+                "id": 209822,
                 "identifier": "01j76xyd3ewhdm7zrgnx0v6j0m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3EWHDM7ZRGNX0V6J0M.jpg",
                 "malId": 123990,
@@ -106,6 +91,19 @@
                 "title": "Shachiku Succubus no Hanashi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3EWHDM7ZRGNX0V6J0M"
+            }
+        },
+        "MangaFire": {
+            "5kr2q": {
+                "id": 227666,
+                "identifier": "5kr2q",
+                "image": "https://static.mangafire.to/f949/i/5/55/5563d05e824c0c6df3af276a4ed48a00.jpg",
+                "malId": 123990,
+                "aniId": 106688,
+                "page": "MangaFire",
+                "title": "Shachiku Succubus no Hanashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shachiku-succubus-no-hanashii.5kr2q"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "542a0639-b8d8-48da-8a70-28cccdb0e3f2": {
+                "id": 104276,
                 "identifier": "542a0639-b8d8-48da-8a70-28cccdb0e3f2",
                 "image": "https://uploads.mangadex.org/covers/542a0639-b8d8-48da-8a70-28cccdb0e3f2/61ae06e1-3451-4484-8989-53eccc7be345.jpg",
                 "malId": 146706,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "sugoi_smartphone": {
+                "id": 104603,
                 "identifier": "sugoi_smartphone",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42638/cover.jpg",
                 "malId": 146706,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "super-smartphone": {
+                "id": 105462,
                 "identifier": "super-smartphone",
                 "image": "https://temp.compsci88.com/cover/Super-Smartphone.jpg",
                 "malId": 146706,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-oo991771": {
+                "id": 110692,
                 "identifier": "manga-oo991771",
                 "image": "https://avt.mkklcdnv6temp.com/30/r/26-1658163212.jpg",
                 "malId": 146706,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-oo991771"
             }
         },
-        "MangaFire": {
-            "sugoi-smartphone.02x85": {
-                "identifier": "sugoi-smartphone.02x85",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6a9e5fc914a0d2d3518de74b18dd1cbd.jpg",
-                "malId": 146706,
-                "aniId": 148138,
-                "page": "MangaFire",
-                "title": "Super Smartphone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sugoi-smartphone.02x85/"
-            },
-            "sugoi-smartphonee.02x85": {
-                "identifier": "sugoi-smartphonee.02x85",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6a/6a9e5fc914a0d2d3518de74b18dd1cbd.jpg",
-                "malId": 146706,
-                "aniId": 148138,
-                "page": "MangaFire",
-                "title": "Super Smartphone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sugoi-smartphonee.02x85/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfex96rm8kr22vhs8v7x": {
+                "id": 214146,
                 "identifier": "01j76xyfex96rm8kr22vhs8v7x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFEX96RM8KR22VHS8V7X.jpg",
                 "malId": 146706,
@@ -86,6 +69,19 @@
                 "title": "Super Smartphone",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFEX96RM8KR22VHS8V7X"
+            }
+        },
+        "MangaFire": {
+            "02x85": {
+                "id": 227316,
+                "identifier": "02x85",
+                "image": "https://static.mangafire.to/3282/i/6/6a/6a9e5fc914a0d2d3518de74b18dd1cbd.jpg",
+                "malId": 146706,
+                "aniId": 148138,
+                "page": "MangaFire",
+                "title": "Super Smartphone",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sugoi-smartphonee.02x85"
             }
         },
         "Comick": {

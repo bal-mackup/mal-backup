@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0f4e9922-e84f-46f2-958b-e34a4e27a4a8": {
+                "id": 37784,
                 "identifier": "0f4e9922-e84f-46f2-958b-e34a4e27a4a8",
                 "image": "https://uploads.mangadex.org/covers/0f4e9922-e84f-46f2-958b-e34a4e27a4a8/d5156b1b-1826-481a-9ea3-12bd3a779581.jpg",
                 "malId": 128463,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ik986345": {
+                "id": 75479,
                 "identifier": "manga-ik986345",
                 "image": "https://avt.mkklcdnv6temp.com/3/a/22-1598242580.jpg",
                 "malId": 128463,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "in-the-clear-moonlit-dusk": {
+                "id": 85544,
                 "identifier": "in-the-clear-moonlit-dusk",
                 "image": "https://temp.compsci88.com/cover/In-the-Clear-Moonlit-Dusk.jpg",
                 "malId": 128463,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "uruwashi_no_yoi_no_tsuki": {
+                "id": 90154,
                 "identifier": "uruwashi_no_yoi_no_tsuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34826/cover.jpg",
                 "malId": 128463,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/uruwashi_no_yoi_no_tsuki/"
             }
         },
-        "MangaFire": {
-            "uruwashi-no-yoi-no-tsuki.zlrxp": {
-                "identifier": "uruwashi-no-yoi-no-tsuki.zlrxp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd7c77285cb567e5e768701c8d166bbc.jpg",
-                "malId": 128463,
-                "aniId": 120502,
-                "page": "MangaFire",
-                "title": "In the Clear Moonlit Dusk",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uruwashi-no-yoi-no-tsuki.zlrxp/"
-            },
-            "uruwashi-no-yoi-no-tsukii.zlrxp": {
-                "identifier": "uruwashi-no-yoi-no-tsukii.zlrxp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd7c77285cb567e5e768701c8d166bbc.jpg",
-                "malId": 128463,
-                "aniId": 120502,
-                "page": "MangaFire",
-                "title": "In the Clear Moonlit Dusk",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uruwashi-no-yoi-no-tsukii.zlrxp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeykqhdeezn3n7sp6n2e": {
+                "id": 207459,
                 "identifier": "01j76xyeykqhdeezn3n7sp6n2e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYKQHDEEZN3N7SP6N2E.jpg",
                 "malId": 128463,
@@ -86,6 +69,19 @@
                 "title": "In the Clear Moonlit Dusk",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYKQHDEEZN3N7SP6N2E"
+            }
+        },
+        "MangaFire": {
+            "zlrxp": {
+                "id": 225855,
+                "identifier": "zlrxp",
+                "image": "https://static.mangafire.to/6c17/i/f/fd/fd7c77285cb567e5e768701c8d166bbc.jpg",
+                "malId": 128463,
+                "aniId": 120502,
+                "page": "MangaFire",
+                "title": "In the Clear Moonlit Dusk",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uruwashi-no-yoi-no-tsukii.zlrxp"
             }
         },
         "Comick": {

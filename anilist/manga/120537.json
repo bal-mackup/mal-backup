@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5227abca-3d3d-4456-92ff-e67f6e8eb0ee": {
+                "id": 31906,
                 "identifier": "5227abca-3d3d-4456-92ff-e67f6e8eb0ee",
                 "image": "https://uploads.mangadex.org/covers/5227abca-3d3d-4456-92ff-e67f6e8eb0ee/5e8adb8a-31f3-445a-b334-fa48459fb1fc.jpg",
                 "malId": 120403,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-go983771": {
+                "id": 72977,
                 "identifier": "manga-go983771",
                 "image": "https://avt.mkklcdnv6temp.com/1/e/19-1583501037.jpg",
                 "malId": 120403,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "school-zone-girls": {
+                "id": 77261,
                 "identifier": "school-zone-girls",
                 "image": "https://temp.compsci88.com/cover/School-Zone-Girls.jpg",
                 "malId": 120403,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/School-Zone-Girls"
             }
         },
-        "MangaFire": {
-            "school-zone.qxv93": {
-                "identifier": "school-zone.qxv93",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f659361594594bbdd4f502fdcc2b11f.jpg",
-                "malId": 120403,
-                "aniId": 120537,
-                "page": "MangaFire",
-                "title": "SCHOOL ZONE GIRLS",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/school-zone.qxv93/"
-            }
-        },
         "Weebcentral": {
             "01j76xyes4e1xdvcb0rmk13m36": {
+                "id": 212762,
                 "identifier": "01j76xyes4e1xdvcb0rmk13m36",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYES4E1XDVCB0RMK13M36.jpg",
                 "malId": 120403,
@@ -64,6 +56,19 @@
                 "title": "School Zone Girls",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYES4E1XDVCB0RMK13M36"
+            }
+        },
+        "MangaFire": {
+            "qxv93": {
+                "id": 248519,
+                "identifier": "qxv93",
+                "image": "https://static.mangafire.to/2c46/i/8/8f/8f659361594594bbdd4f502fdcc2b11f.jpg",
+                "malId": 120403,
+                "aniId": 120537,
+                "page": "MangaFire",
+                "title": "SCHOOL ZONE GIRLS",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/school-zonee.qxv93"
             }
         },
         "Comick": {

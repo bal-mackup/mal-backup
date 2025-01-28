@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e710f350-93a6-47fc-af29-7c5e0fcdc1f0": {
+                "id": 20295,
                 "identifier": "e710f350-93a6-47fc-af29-7c5e0fcdc1f0",
                 "image": "https://uploads.mangadex.org/covers/e710f350-93a6-47fc-af29-7c5e0fcdc1f0/3de92829-a1d7-4bc7-a140-41cadd17654a.jpg",
                 "malId": 105390,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "sousei_no_taiga": {
+                "id": 57366,
                 "identifier": "sousei_no_taiga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29961/cover.jpg",
                 "malId": 105390,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "sousei-no-taiga": {
+                "id": 59973,
                 "identifier": "sousei-no-taiga",
                 "image": "https://temp.compsci88.com/cover/Sousei-No-Taiga.jpg",
                 "malId": 105390,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bn978848": {
+                "id": 76044,
                 "identifier": "manga-bn978848",
                 "image": "https://avt.mkklcdnv6temp.com/19/h/16-1583494166.jpg",
                 "malId": 105390,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-bn978848"
             }
         },
-        "MangaFire": {
-            "sousei-no-taiga.rjm3q": {
-                "identifier": "sousei-no-taiga.rjm3q",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf0922811e7b2e22a2f1d14e28842065.jpg",
-                "malId": 105390,
-                "aniId": 99300,
-                "page": "MangaFire",
-                "title": "Taiga of Genesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sousei-no-taiga.rjm3q/"
-            },
-            "sousei-no-taigaa.rjm3q": {
-                "identifier": "sousei-no-taigaa.rjm3q",
-                "image": "https://static.mangafire.to/a92d/i/c/cf/cf0922811e7b2e22a2f1d14e28842065.jpg",
-                "malId": 105390,
-                "aniId": 99300,
-                "page": "MangaFire",
-                "title": "Taiga of Genesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sousei-no-taigaa.rjm3q/"
-            },
-            "rjm3q": {
-                "identifier": "rjm3q",
-                "image": "https://static.mangafire.to/a92d/i/c/cf/cf0922811e7b2e22a2f1d14e28842065.jpg",
-                "malId": 105390,
-                "aniId": 99300,
-                "page": "MangaFire",
-                "title": "Taiga of Genesis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sousei-no-taigaa.rjm3q/"
-            }
-        },
         "Weebcentral": {
             "01j76xycw027hss73qez14qvd4": {
+                "id": 208402,
                 "identifier": "01j76xycw027hss73qez14qvd4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCW027HSS73QEZ14QVD4.jpg",
                 "malId": 105390,
@@ -96,6 +69,19 @@
                 "title": "Sousei no Taiga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCW027HSS73QEZ14QVD4"
+            }
+        },
+        "MangaFire": {
+            "rjm3q": {
+                "id": 223497,
+                "identifier": "rjm3q",
+                "image": "https://static.mangafire.to/a92d/i/c/cf/cf0922811e7b2e22a2f1d14e28842065.jpg",
+                "malId": 105390,
+                "aniId": 99300,
+                "page": "MangaFire",
+                "title": "Taiga of Genesis",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sousei-no-taigaa.rjm3q"
             }
         },
         "Comick": {

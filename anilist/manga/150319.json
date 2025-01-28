@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "54e1b971-fe2c-4720-b96b-4dc049863ae7": {
+                "id": 106033,
                 "identifier": "54e1b971-fe2c-4720-b96b-4dc049863ae7",
                 "image": "https://uploads.mangadex.org/covers/54e1b971-fe2c-4720-b96b-4dc049863ae7/a421797d-f755-48b4-a357-b5d0b1c7a94e.jpg",
                 "malId": 153399,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nd991112": {
+                "id": 106815,
                 "identifier": "manga-nd991112",
                 "image": "https://avt.mkklcdnv6temp.com/1/u/25-1654742733.jpg",
                 "malId": 153399,
@@ -30,50 +32,9 @@
                 "url": "https://chapmanganato.com/manga-nd991112"
             }
         },
-        "MangaFire": {
-            "chronicles-of-a-returner.w1pql": {
-                "identifier": "chronicles-of-a-returner.w1pql",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7abf30f41477fac0e0bdc2b0cd7cecff.jpg",
-                "malId": 153399,
-                "aniId": 150319,
-                "page": "MangaFire",
-                "title": "Chronicles of a Returner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chronicles-of-a-returner.w1pql/"
-            },
-            "musingwihwallok.v9o6l": {
-                "identifier": "musingwihwallok.v9o6l",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/8d1831c0e371182672e65a2884d9ce2c.jpg",
-                "malId": 153399,
-                "aniId": 150319,
-                "page": "MangaFire",
-                "title": "Return of the War God",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/musingwihwallok.v9o6l/"
-            },
-            "musingwihwallokk.v9o6l": {
-                "identifier": "musingwihwallokk.v9o6l",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/8d1831c0e371182672e65a2884d9ce2c.jpg",
-                "malId": 153399,
-                "aniId": 150319,
-                "page": "MangaFire",
-                "title": "Return of the War God",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/musingwihwallokk.v9o6l/"
-            },
-            "chronicles-of-a-returnerr.w1pql": {
-                "identifier": "chronicles-of-a-returnerr.w1pql",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7abf30f41477fac0e0bdc2b0cd7cecff.jpg",
-                "malId": 153399,
-                "aniId": 150319,
-                "page": "MangaFire",
-                "title": "Chronicles of a Returner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chronicles-of-a-returnerr.w1pql/"
-            }
-        },
         "MangaSee": {
             "return-of-the-war-god": {
+                "id": 185887,
                 "identifier": "return-of-the-war-god",
                 "image": "https://temp.compsci88.com/cover/Return-of-the-War-God.jpg",
                 "malId": 153399,
@@ -86,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh3ha51b7p4sfsfbjsx5": {
+                "id": 207164,
                 "identifier": "01j76xyh3ha51b7p4sfsfbjsx5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH3HA51B7P4SFSFBJSX5.jpg",
                 "malId": 153399,
@@ -94,6 +56,30 @@
                 "title": "Return of the War God",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH3HA51B7P4SFSFBJSX5"
+            }
+        },
+        "MangaFire": {
+            "w1pql": {
+                "id": 224341,
+                "identifier": "w1pql",
+                "image": "https://static.mangafire.to/aa5f/i/7/7a/7abf30f41477fac0e0bdc2b0cd7cecff.jpg",
+                "malId": 153399,
+                "aniId": 150319,
+                "page": "MangaFire",
+                "title": "Chronicles of a Returner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chronicles-of-a-returnerr.w1pql"
+            },
+            "v9o6l": {
+                "id": 228317,
+                "identifier": "v9o6l",
+                "image": "https://static.mangafire.to/777b/i/7/76/8d1831c0e371182672e65a2884d9ce2c.jpg",
+                "malId": 153399,
+                "aniId": 150319,
+                "page": "MangaFire",
+                "title": "Return of the War God",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/musingwihwallokk.v9o6l"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9553621b-247d-4962-9412-f4027e0e90a6": {
+                "id": 96272,
                 "identifier": "9553621b-247d-4962-9412-f4027e0e90a6",
                 "image": "https://uploads.mangadex.org/covers/9553621b-247d-4962-9412-f4027e0e90a6/5e24206a-1903-4e62-8c34-cb7b024397d1.jpg",
                 "malId": 148963,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nx990606": {
+                "id": 99900,
                 "identifier": "manga-nx990606",
                 "image": "https://avt.mkklcdnv6temp.com/31/o/25-1648051124.jpg",
                 "malId": 148963,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "estio": {
+                "id": 100958,
                 "identifier": "estio",
                 "image": "https://temp.compsci88.com/cover/Estio.jpg",
                 "malId": 148963,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "estio_ppungppa": {
+                "id": 102503,
                 "identifier": "estio_ppungppa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42011/cover.jpg",
                 "malId": 148963,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/estio_ppungppa/"
             }
         },
-        "MangaFire": {
-            "estio.8031v": {
-                "identifier": "estio.8031v",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b1d7d961aed63cdd5496a2cb1bc5327f.jpg",
-                "malId": 148963,
-                "aniId": 144767,
-                "page": "MangaFire",
-                "title": "Estio",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/estio.8031v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfcx1vknb2n9h0pkts5w": {
+                "id": 209187,
                 "identifier": "01j76xyfcx1vknb2n9h0pkts5w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCX1VKNB2N9H0PKTS5W.jpg",
                 "malId": 148963,
@@ -76,6 +69,19 @@
                 "title": "Estio",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCX1VKNB2N9H0PKTS5W"
+            }
+        },
+        "MangaFire": {
+            "8031v": {
+                "id": 245154,
+                "identifier": "8031v",
+                "image": "https://static.mangafire.to/4d14/i/b/b1/b1d7d961aed63cdd5496a2cb1bc5327f.jpg",
+                "malId": 148963,
+                "aniId": 144767,
+                "page": "MangaFire",
+                "title": "Estio",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/estioo.8031v"
             }
         },
         "Comick": {

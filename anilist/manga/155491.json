@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "11c172c6-dd5d-46d8-9794-1aa60d6e77d3": {
+                "id": 116865,
                 "identifier": "11c172c6-dd5d-46d8-9794-1aa60d6e77d3",
                 "image": "https://uploads.mangadex.org/covers/11c172c6-dd5d-46d8-9794-1aa60d6e77d3/ace87bac-904d-4893-bfd4-72ec34d66e89.jpg",
                 "malId": 152530,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rd994386": {
+                "id": 125222,
                 "identifier": "manga-rd994386",
                 "image": "https://avt.mkklcdnv6temp.com/36/a/28-1676950018.jpg",
                 "malId": 152530,
@@ -31,35 +33,29 @@
             }
         },
         "MangaFire": {
-            "ryuugoroshi-no-brunhild.rlm9n": {
-                "identifier": "ryuugoroshi-no-brunhild.rlm9n",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/7971167951b8471ba09dee349f207eeb.jpg",
-                "malId": 152530,
-                "aniId": 155491,
-                "page": "MangaFire",
-                "title": "Brunhild the Dragonslayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryuugoroshi-no-brunhild.rlm9n/"
-            },
-            "Brunhild-the-Dragonslayer.rlm9n": {
-                "identifier": "Brunhild-the-Dragonslayer.rlm9n",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/7971167951b8471ba09dee349f207eeb.jpg",
-                "malId": 152530,
-                "aniId": 155491,
-                "page": "MangaFire",
-                "title": "Brunhild the Dragonslayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Brunhild-the-Dragonslayer.rlm9n/"
-            },
-            "ryuugoroshi-no-brunhildd.rlm9n": {
-                "identifier": "ryuugoroshi-no-brunhildd.rlm9n",
+            "rlm9n": {
+                "id": 223347,
+                "identifier": "rlm9n",
                 "image": "https://static.mangafire.to/8dcc/i/7/79/7971167951b8471ba09dee349f207eeb.jpg",
                 "malId": 152530,
                 "aniId": 155491,
                 "page": "MangaFire",
                 "title": "Brunhild the Dragonslayer",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/ryuugoroshi-no-brunhildd.rlm9n/"
+                "url": "https://mangafire.to/manga/ryuugoroshi-no-brunhildd.rlm9n"
+            }
+        },
+        "Weebcentral": {
+            "01jentabrssdxzxhg7nqpht845": {
+                "id": 267279,
+                "identifier": "01jentabrssdxzxhg7nqpht845",
+                "image": "https://temp.compsci88.com/cover/fallback/01JENTABRSSDXZXHG7NQPHT845.jpg",
+                "malId": 152530,
+                "aniId": 155491,
+                "page": "Weebcentral",
+                "title": "Brunhild the Dragonslayer",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JENTABRSSDXZXHG7NQPHT845"
             }
         },
         "Comick": {

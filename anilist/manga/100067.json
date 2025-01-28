@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9fc2fb34-90e7-4bed-9b19-4eba80de6d74": {
+                "id": 18244,
                 "identifier": "9fc2fb34-90e7-4bed-9b19-4eba80de6d74",
                 "image": "https://uploads.mangadex.org/covers/9fc2fb34-90e7-4bed-9b19-4eba80de6d74/19d42292-b408-480b-ab84-b9d2076743a0.jpg",
                 "malId": 109232,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "curse-blood": {
+                "id": 67332,
                 "identifier": "curse-blood",
                 "image": "https://temp.compsci88.com/cover/Curse-Blood.jpg",
                 "malId": 109232,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Curse-Blood"
             }
         },
-        "MangaFire": {
-            "curse-blood.w1k44": {
-                "identifier": "curse-blood.w1k44",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/089af0fccaa478491499b9130d77a280.jpg",
-                "malId": 109232,
-                "aniId": 100067,
-                "page": "MangaFire",
-                "title": "Curse Blood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/curse-blood.w1k44/"
-            },
-            "w1k44": {
-                "identifier": "w1k44",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/089af0fccaa478491499b9130d77a280.jpg",
-                "malId": 109232,
-                "aniId": 100067,
-                "page": "MangaFire",
-                "title": "Curse Blood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/curse-blood.w1k44/"
-            }
-        },
         "Weebcentral": {
             "01j76xycc7wxbgw8ha4z9yt534": {
+                "id": 206195,
                 "identifier": "01j76xycc7wxbgw8ha4z9yt534",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCC7WXBGW8HA4Z9YT534.jpg",
                 "malId": 109232,
@@ -62,6 +43,19 @@
                 "title": "Curse Blood",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCC7WXBGW8HA4Z9YT534"
+            }
+        },
+        "MangaFire": {
+            "w1k44": {
+                "id": 258346,
+                "identifier": "w1k44",
+                "image": "https://static.mangafire.to/beff/i/0/08/089af0fccaa478491499b9130d77a280.jpg",
+                "malId": 109232,
+                "aniId": 100067,
+                "page": "MangaFire",
+                "title": "Curse Blood",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/curse-bloodd.w1k44"
             }
         },
         "Comick": {

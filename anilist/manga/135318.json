@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-ld989138": {
+                "id": 77452,
                 "identifier": "manga-ld989138",
                 "image": "https://avt.mkklcdnv6temp.com/17/z/24-1623241500.jpg",
                 "malId": 147945,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hero-has-returned": {
+                "id": 87143,
                 "identifier": "hero-has-returned",
                 "image": "https://temp.compsci88.com/cover/Hero-Has-Returned.jpg",
                 "malId": 147945,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "718d9146-8c9e-4ff3-9dc4-e4736a1239bb": {
+                "id": 105796,
                 "identifier": "718d9146-8c9e-4ff3-9dc4-e4736a1239bb",
                 "image": "https://uploads.mangadex.org/covers/718d9146-8c9e-4ff3-9dc4-e4736a1239bb/04917b57-eeef-48ae-9147-a7e6b4bae0eb.jpg",
                 "malId": 147945,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/718d9146-8c9e-4ff3-9dc4-e4736a1239bb"
             }
         },
-        "MangaFire": {
-            "the-warrior-returns.m2yw8": {
-                "identifier": "the-warrior-returns.m2yw8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a61ba63c2c3cae4a468a1be435a6d60a.jpg",
-                "malId": 147945,
-                "aniId": 135318,
-                "page": "MangaFire",
-                "title": "The Warrior Returns",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-warrior-returns.m2yw8/"
-            },
-            "the-warrior-returnss.m2yw8": {
-                "identifier": "the-warrior-returnss.m2yw8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a61ba63c2c3cae4a468a1be435a6d60a.jpg",
-                "malId": 147945,
-                "aniId": 135318,
-                "page": "MangaFire",
-                "title": "The Warrior Returns",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-warrior-returnss.m2yw8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf1q8najaj456yz67g6s": {
+                "id": 209498,
                 "identifier": "01j76xyf1q8najaj456yz67g6s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF1Q8NAJAJ456YZ67G6S.jpg",
                 "malId": 147945,
@@ -74,6 +56,19 @@
                 "title": "The Warrior Returns",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF1Q8NAJAJ456YZ67G6S"
+            }
+        },
+        "MangaFire": {
+            "m2yw8": {
+                "id": 229627,
+                "identifier": "m2yw8",
+                "image": "https://static.mangafire.to/0185/i/a/a6/a61ba63c2c3cae4a468a1be435a6d60a.jpg",
+                "malId": 147945,
+                "aniId": 135318,
+                "page": "MangaFire",
+                "title": "The Warrior Returns",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-warrior-returnss.m2yw8"
             }
         },
         "Comick": {

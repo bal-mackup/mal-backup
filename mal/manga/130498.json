@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9c756e83-1032-4338-82ca-47ae9d7f999a": {
+                "id": 39070,
                 "identifier": "9c756e83-1032-4338-82ca-47ae9d7f999a",
                 "image": "https://uploads.mangadex.org/covers/9c756e83-1032-4338-82ca-47ae9d7f999a/5a8f9a68-76d0-4383-a51d-85185c7a76fb.jpg",
                 "malId": 130498,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hello_i_am_a_witch_and_my_crush_wants_me_to_make_a_love_potion": {
+                "id": 63861,
                 "identifier": "hello_i_am_a_witch_and_my_crush_wants_me_to_make_a_love_potion",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35372/cover.jpg",
                 "malId": 130498,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion": {
+                "id": 78639,
                 "identifier": "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion",
                 "image": "https://temp.compsci88.com/cover/Hello-I-Am-a-Witch-and-My-Crush-Wants-Me-to-Make-a-Love-Potion.jpg",
                 "malId": 130498,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jh986964": {
+                "id": 80853,
                 "identifier": "manga-jh986964",
                 "image": "https://avt.mkklcdnv6temp.com/28/e/22-1602906658.jpg",
                 "malId": 130498,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-jh986964"
             }
         },
-        "MangaFire": {
-            "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potionn.oj63j": {
-                "identifier": "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potionn.oj63j",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b54dd0e2410675ffa19c014cf2bfec41.jpg",
-                "malId": 130498,
-                "aniId": 123545,
-                "page": "MangaFire",
-                "title": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potionn.oj63j/"
-            }
-        },
         "Weebcentral": {
             "01j76xye518c3bwhvrddz4mnch": {
+                "id": 207684,
                 "identifier": "01j76xye518c3bwhvrddz4mnch",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE518C3BWHVRDDZ4MNCH.jpg",
                 "malId": 130498,
@@ -76,6 +69,19 @@
                 "title": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE518C3BWHVRDDZ4MNCH"
+            }
+        },
+        "MangaFire": {
+            "oj63j": {
+                "id": 229537,
+                "identifier": "oj63j",
+                "image": "https://static.mangafire.to/ba14/i/b/b5/b54dd0e2410675ffa19c014cf2bfec41.jpg",
+                "malId": 130498,
+                "aniId": 123545,
+                "page": "MangaFire",
+                "title": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potionn.oj63j"
             }
         },
         "Comick": {

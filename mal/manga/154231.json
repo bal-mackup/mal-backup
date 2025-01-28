@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-of991862": {
+                "id": 111645,
                 "identifier": "manga-of991862",
                 "image": "https://avt.mkklcdnv6temp.com/34/j/26-1659413101.jpg",
                 "malId": 154231,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "surviving-a-fantasy-adventure-comic": {
+                "id": 179139,
                 "identifier": "surviving-a-fantasy-adventure-comic",
                 "image": "https://temp.compsci88.com/cover/Surviving-a-Fantasy-Adventure-Comic.jpg",
                 "malId": 154231,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Surviving-a-Fantasy-Adventure-Comic"
             }
         },
-        "MangaFire": {
-            "surviving-a-fantasy-adventure-comic.6w8r0": {
-                "identifier": "surviving-a-fantasy-adventure-comic.6w8r0",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/868d3ec2b57128d51a2ea9427b4aeecb.jpg",
-                "malId": 154231,
-                "aniId": 148278,
-                "page": "MangaFire",
-                "title": "Surviving a Fantasy Adventure Comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/surviving-a-fantasy-adventure-comic.6w8r0/"
-            },
-            "surviving-a-fantasy-adventure-comicc.6w8r0": {
-                "identifier": "surviving-a-fantasy-adventure-comicc.6w8r0",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/868d3ec2b57128d51a2ea9427b4aeecb.jpg",
-                "malId": 154231,
-                "aniId": 148278,
-                "page": "MangaFire",
-                "title": "Surviving a Fantasy Adventure Comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/surviving-a-fantasy-adventure-comicc.6w8r0/"
-            }
-        },
         "Weebcentral": {
             "01j76xygvd2ed2mnh0rg8jn6j2": {
+                "id": 212436,
                 "identifier": "01j76xygvd2ed2mnh0rg8jn6j2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGVD2ED2MNH0RG8JN6J2.jpg",
                 "malId": 154231,
@@ -62,6 +43,19 @@
                 "title": "Surviving a Fantasy Adventure Comic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGVD2ED2MNH0RG8JN6J2"
+            }
+        },
+        "MangaFire": {
+            "6w8r0": {
+                "id": 224304,
+                "identifier": "6w8r0",
+                "image": "https://static.mangafire.to/94a0/i/8/86/868d3ec2b57128d51a2ea9427b4aeecb.jpg",
+                "malId": 154231,
+                "aniId": 148278,
+                "page": "MangaFire",
+                "title": "Surviving a Fantasy Adventure Comic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/surviving-a-fantasy-adventure-comicc.6w8r0"
             }
         }
     },

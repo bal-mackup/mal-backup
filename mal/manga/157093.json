@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9b12ac90-9407-4fe8-9de8-c8f4fe65df6f": {
+                "id": 127223,
                 "identifier": "9b12ac90-9407-4fe8-9de8-c8f4fe65df6f",
                 "image": "https://uploads.mangadex.org/covers/9b12ac90-9407-4fe8-9de8-c8f4fe65df6f/aabc6f2c-1678-431b-9ff5-e226ac92c2d3.jpg",
                 "malId": 157093,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ri995291": {
+                "id": 128066,
                 "identifier": "manga-ri995291",
                 "image": "https://avt.mkklcdnv6temp.com/21/z/29-1680155509.jpg",
                 "malId": 157093,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ri995291"
             }
         },
-        "MangaFire": {
-            "easy-survival-in-another-world.3pqly": {
-                "identifier": "easy-survival-in-another-world.3pqly",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1da4cba5f214d17ea97556679863fb3.jpg",
-                "malId": 157093,
-                "aniId": 164076,
-                "page": "MangaFire",
-                "title": "I’ll Live on an Uninhabited Island With Four Beautiful Girls~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/easy-survival-in-another-world.3pqly/"
-            },
-            "easy-survival-in-another-worldd.3pqly": {
-                "identifier": "easy-survival-in-another-worldd.3pqly",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1da4cba5f214d17ea97556679863fb3.jpg",
-                "malId": 157093,
-                "aniId": 164076,
-                "page": "MangaFire",
-                "title": "I’ll Live on an Uninhabited Island With Four Beautiful Girls~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/easy-survival-in-another-worldd.3pqly/"
-            }
-        },
         "MangaSee": {
             "easy-survival-in-another-world": {
+                "id": 161521,
                 "identifier": "easy-survival-in-another-world",
                 "image": "https://temp.compsci88.com/cover/Easy-Survival-in-Another-World.jpg",
                 "malId": 157093,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg9hy6dvkc67y6nw611m": {
+                "id": 214002,
                 "identifier": "01j76xyg9hy6dvkc67y6nw611m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG9HY6DVKC67Y6NW611M.jpg",
                 "malId": 157093,
@@ -74,6 +56,19 @@
                 "title": "Easy Survival in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG9HY6DVKC67Y6NW611M"
+            }
+        },
+        "MangaFire": {
+            "3pqly": {
+                "id": 228359,
+                "identifier": "3pqly",
+                "image": "https://static.mangafire.to/1c4a/i/f/f1/f1da4cba5f214d17ea97556679863fb3.jpg",
+                "malId": 157093,
+                "aniId": 164076,
+                "page": "MangaFire",
+                "title": "I’ll Live on an Uninhabited Island With Four Beautiful Girls~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/easy-survival-in-another-worldd.3pqly"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-nf990588": {
+                "id": 98065,
                 "identifier": "manga-nf990588",
                 "image": "https://avt.mkklcdnv6temp.com/43/i/26-1661675770.jpg",
                 "malId": 141245,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "10af9328-da40-4f82-8965-f01ffd74d04d": {
+                "id": 104076,
                 "identifier": "10af9328-da40-4f82-8965-f01ffd74d04d",
                 "image": "https://uploads.mangadex.org/covers/10af9328-da40-4f82-8965-f01ffd74d04d/baf067a3-f932-4bd6-8167-78d71fa00b83.jpg",
                 "malId": 141245,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kuroneko_to_heishi": {
+                "id": 104522,
                 "identifier": "kuroneko_to_heishi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41298/cover.jpg",
                 "malId": 141245,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "kuroneko-to-heishi": {
+                "id": 108484,
                 "identifier": "kuroneko-to-heishi",
                 "image": "https://temp.compsci88.com/cover/Kuroneko-to-Heishi.jpg",
                 "malId": 141245,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Kuroneko-to-Heishi"
             }
         },
-        "MangaFire": {
-            "kuroneko-to-heishi.2o2xl": {
-                "identifier": "kuroneko-to-heishi.2o2xl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/39863a41640de972d63987f89d7c9462.jpg",
-                "malId": 141245,
-                "aniId": 151000,
-                "page": "MangaFire",
-                "title": "Black Cat and Soldier",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuroneko-to-heishi.2o2xl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfhgt0dpsvxdpvzhq16b": {
+                "id": 212473,
                 "identifier": "01j76xyfhgt0dpsvxdpvzhq16b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFHGT0DPSVXDPVZHQ16B.jpg",
                 "malId": 141245,
@@ -76,6 +69,19 @@
                 "title": "Kuroneko to Heishi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFHGT0DPSVXDPVZHQ16B"
+            }
+        },
+        "MangaFire": {
+            "2o2xl": {
+                "id": 262651,
+                "identifier": "2o2xl",
+                "image": "https://static.mangafire.to/d052/i/3/39/39863a41640de972d63987f89d7c9462.jpg",
+                "malId": 141245,
+                "aniId": 151000,
+                "page": "MangaFire",
+                "title": "Black Cat and Soldier",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuroneko-to-heishii.2o2xl"
             }
         },
         "Comick": {

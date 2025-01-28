@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb": {
+                "id": 155048,
                 "identifier": "7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb",
                 "image": "https://uploads.mangadex.org/covers/7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb/a0d7ea9a-8a53-4e08-9f28-41cd63f86b7e.jpg",
                 "malId": 156933,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-tw996705": {
+                "id": 161132,
                 "identifier": "manga-tw996705",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/q/15-1733308183-nw.webp",
                 "malId": 156933,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-tw996705"
             }
         },
-        "MangaFire": {
-            "saiaku-no-avalon.oxj14": {
-                "identifier": "saiaku-no-avalon.oxj14",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff8987b74b467b188778bfc68254001a.jpg",
-                "malId": 156933,
-                "aniId": 170106,
-                "page": "MangaFire",
-                "title": "Saiaku No Avalon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saiaku-no-avalon.oxj14/"
-            },
-            "saiaku-no-avalonn.oxj14": {
-                "identifier": "saiaku-no-avalonn.oxj14",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff8987b74b467b188778bfc68254001a.jpg",
-                "malId": 156933,
-                "aniId": 170106,
-                "page": "MangaFire",
-                "title": "Saiaku No Avalon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saiaku-no-avalonn.oxj14/"
-            }
-        },
         "MangaFox": {
             "saiaku_no_avalon": {
+                "id": 186770,
                 "identifier": "saiaku_no_avalon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45968/cover.jpg",
                 "malId": 156933,
@@ -66,6 +47,7 @@
         },
         "MangaSee": {
             "saiaku-no-avalon": {
+                "id": 189898,
                 "identifier": "saiaku-no-avalon",
                 "image": "https://temp.compsci88.com/cover/Saiaku-no-Avalon.jpg",
                 "malId": 156933,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyha5mqm4v158zjaqebxa": {
+                "id": 212680,
                 "identifier": "01j76xyha5mqm4v158zjaqebxa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHA5MQM4V158ZJAQEBXA.jpg",
                 "malId": 156933,
@@ -86,6 +69,19 @@
                 "title": "Saiaku no Avalon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHA5MQM4V158ZJAQEBXA"
+            }
+        },
+        "MangaFire": {
+            "oxj14": {
+                "id": 224450,
+                "identifier": "oxj14",
+                "image": "https://static.mangafire.to/0c7c/i/f/ff/ff8987b74b467b188778bfc68254001a.jpg",
+                "malId": 156933,
+                "aniId": 170106,
+                "page": "MangaFire",
+                "title": "Saiaku No Avalon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saiaku-no-avalonn.oxj14"
             }
         },
         "Comick": {

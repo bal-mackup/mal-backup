@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f5f72be6-5ebb-4dff-bdb4-2bec0fcdf1b4": {
+                "id": 22882,
                 "identifier": "f5f72be6-5ebb-4dff-bdb4-2bec0fcdf1b4",
                 "image": "https://uploads.mangadex.org/covers/f5f72be6-5ebb-4dff-bdb4-2bec0fcdf1b4/112f98e7-d8e3-474a-9014-95548696489a.jpg",
                 "malId": 128275,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cs979875": {
+                "id": 81855,
                 "identifier": "manga-cs979875",
                 "image": "https://avt.mkklcdnv6temp.com/7/x/17-1583495548.jpg",
                 "malId": 128275,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "bestia-sanda-makoto": {
+                "id": 86232,
                 "identifier": "bestia-sanda-makoto",
                 "image": "https://temp.compsci88.com/cover/Bestia-SANDA-Makoto.jpg",
                 "malId": 128275,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "bestia_sanda_makoto": {
+                "id": 90057,
                 "identifier": "bestia_sanda_makoto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28308/cover.jpg",
                 "malId": 128275,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/bestia_sanda_makoto/"
             }
         },
-        "MangaFire": {
-            "bestia.jjvz2": {
-                "identifier": "bestia.jjvz2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc666c06f68c697db795050d57bbb8b9.jpg",
-                "malId": 128275,
-                "aniId": 107238,
-                "page": "MangaFire",
-                "title": "Bestia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bestia.jjvz2/"
-            },
-            "bestiaa.jjvz2": {
-                "identifier": "bestiaa.jjvz2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc666c06f68c697db795050d57bbb8b9.jpg",
-                "malId": 128275,
-                "aniId": 107238,
-                "page": "MangaFire",
-                "title": "Bestia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bestiaa.jjvz2/"
-            }
-        },
         "Weebcentral": {
             "01j76xydk64dvz09qwxqdb2kst": {
+                "id": 213157,
                 "identifier": "01j76xydk64dvz09qwxqdb2kst",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDK64DVZ09QWXQDB2KST.jpg",
                 "malId": 128275,
@@ -86,6 +69,19 @@
                 "title": "Bestia (SANDA Makoto)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDK64DVZ09QWXQDB2KST"
+            }
+        },
+        "MangaFire": {
+            "jjvz2": {
+                "id": 255662,
+                "identifier": "jjvz2",
+                "image": "https://static.mangafire.to/c4f2/i/c/cc/cc666c06f68c697db795050d57bbb8b9.jpg",
+                "malId": 128275,
+                "aniId": 107238,
+                "page": "MangaFire",
+                "title": "Bestia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bestiaa.jjvz2"
             }
         },
         "Comick": {

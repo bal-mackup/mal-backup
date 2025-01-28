@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "03001a9c-857d-4435-8742-2d0be10ab531": {
+                "id": 61968,
                 "identifier": "03001a9c-857d-4435-8742-2d0be10ab531",
                 "image": "https://uploads.mangadex.org/covers/03001a9c-857d-4435-8742-2d0be10ab531/f22819c9-d7b8-4d3c-baf0-969f5302b95e.jpg",
                 "malId": 173088,
-                "aniId": null,
+                "aniId": 185664,
                 "page": "Mangadex",
                 "title": "Asuka",
                 "type": "manga",
@@ -25,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Asuka",
-                "url": "https://comick.io/comic/asuka"
+                "url": "https://comick.io/comic/asuka",
+                "aniId": 185664
             }
         }
-    }
+    },
+    "aniId": 185664
 }

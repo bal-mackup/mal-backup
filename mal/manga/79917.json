@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b68b9cfa-9bf4-4f2e-9d68-380dac9f3a8e": {
+                "id": 32580,
                 "identifier": "b68b9cfa-9bf4-4f2e-9d68-380dac9f3a8e",
                 "image": "https://uploads.mangadex.org/covers/b68b9cfa-9bf4-4f2e-9d68-380dac9f3a8e/11d33554-5457-43aa-96be-3aa2ba2a0180.jpg",
                 "malId": 79917,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hi-fi-cluster": {
+                "id": 93376,
                 "identifier": "hi-fi-cluster",
                 "image": "https://temp.compsci88.com/cover/Hi-Fi-Cluster.jpg",
                 "malId": 79917,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hi-Fi-Cluster"
             }
         },
-        "MangaFire": {
-            "hi-fi-cluster.8xnov": {
-                "identifier": "hi-fi-cluster.8xnov",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b7b31b6f4f336304707eb2eddd06d7f.jpg",
-                "malId": 79917,
-                "aniId": 108281,
-                "page": "MangaFire",
-                "title": "HI-Fi Cluster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hi-fi-cluster.8xnov/"
-            },
-            "8xnov": {
-                "identifier": "8xnov",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b7b31b6f4f336304707eb2eddd06d7f.jpg",
-                "malId": 79917,
-                "aniId": 108281,
-                "page": "MangaFire",
-                "title": "HI-Fi Cluster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hi-fi-cluster.8xnov/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd99dkjvkhyp8v0j9rh0": {
+                "id": 212341,
                 "identifier": "01j76xyd99dkjvkhyp8v0j9rh0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD99DKJVKHYP8V0J9RH0.jpg",
                 "malId": 79917,
@@ -62,6 +43,19 @@
                 "title": "Hi-Fi Cluster",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD99DKJVKHYP8V0J9RH0"
+            }
+        },
+        "MangaFire": {
+            "8xnov": {
+                "id": 242090,
+                "identifier": "8xnov",
+                "image": "https://static.mangafire.to/51a4/i/2/2b/2b7b31b6f4f336304707eb2eddd06d7f.jpg",
+                "malId": 79917,
+                "aniId": 108281,
+                "page": "MangaFire",
+                "title": "HI-Fi Cluster",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hi-fi-clusterr.8xnov"
             }
         },
         "Comick": {

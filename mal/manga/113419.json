@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ec5eccdd-723b-43eb-a10a-8a2c40bf9141": {
+                "id": 20991,
                 "identifier": "ec5eccdd-723b-43eb-a10a-8a2c40bf9141",
                 "image": "https://uploads.mangadex.org/covers/ec5eccdd-723b-43eb-a10a-8a2c40bf9141/89f81dce-4cda-4def-94e2-17445059ae1c.jpg",
                 "malId": 113419,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/ec5eccdd-723b-43eb-a10a-8a2c40bf9141"
             }
         },
-        "MangaFire": {
-            "boku-no-orion.wjq7": {
-                "identifier": "boku-no-orion.wjq7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf9908d969c110d474b557472979096e.jpg",
-                "malId": 113419,
-                "aniId": 101847,
-                "page": "MangaFire",
-                "title": "You are My brightest star",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-orion.wjq7/"
-            }
-        },
         "MangaNato": {
             "manga-bk979019": {
+                "id": 170446,
                 "identifier": "manga-bk979019",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/e/8-1732791159-nw.webp",
                 "malId": 113419,
@@ -40,6 +30,19 @@
                 "title": "Boku No Orion",
                 "type": "manga",
                 "url": "https://manganato.com/manga-bk979019"
+            }
+        },
+        "MangaFire": {
+            "wjq7": {
+                "id": 233877,
+                "identifier": "wjq7",
+                "image": "https://static.mangafire.to/bd0d/i/c/cf/cf9908d969c110d474b557472979096e.jpg",
+                "malId": 113419,
+                "aniId": 101847,
+                "page": "MangaFire",
+                "title": "You are My brightest star",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-orionn.wjq7"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6205a65a-97d5-49d1-bdcd-f3fac1e95f5e": {
+                "id": 66090,
                 "identifier": "6205a65a-97d5-49d1-bdcd-f3fac1e95f5e",
                 "image": "https://uploads.mangadex.org/covers/6205a65a-97d5-49d1-bdcd-f3fac1e95f5e/8caa5691-93f5-4a6d-a653-fc6829737f9c.jpg",
                 "malId": 133173,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/6205a65a-97d5-49d1-bdcd-f3fac1e95f5e"
             }
         },
-        "MangaFire": {
-            "miraculous-ladybug-cat-noir.xr8wv": {
-                "identifier": "miraculous-ladybug-cat-noir.xr8wv",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/120e5268616727ca5b060510fe6ed769.jpg",
-                "malId": 133173,
-                "aniId": 127664,
-                "page": "MangaFire",
-                "title": "Miraculous: Tales of Ladybug & Chat Noir",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/miraculous-ladybug-cat-noir.xr8wv/"
-            }
-        },
         "MangaSee": {
             "miraculous-tales-of-ladybug-cat-noir": {
+                "id": 172191,
                 "identifier": "miraculous-tales-of-ladybug-cat-noir",
                 "image": "https://temp.compsci88.com/cover/Miraculous-Tales-of-LadyBug-Cat-Noir.jpg",
                 "malId": 133173,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygjpaxx83gh2xsg5dr0b": {
+                "id": 211292,
                 "identifier": "01j76xygjpaxx83gh2xsg5dr0b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGJPAXX83GH2XSG5DR0B.jpg",
                 "malId": 133173,
@@ -52,6 +43,19 @@
                 "title": "Miraculous: Lady Bug & Chat Noir",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGJPAXX83GH2XSG5DR0B"
+            }
+        },
+        "MangaFire": {
+            "xr8wv": {
+                "id": 237551,
+                "identifier": "xr8wv",
+                "image": "https://static.mangafire.to/277b/i/1/12/120e5268616727ca5b060510fe6ed769.jpg",
+                "malId": 133173,
+                "aniId": 127664,
+                "page": "MangaFire",
+                "title": "Miraculous: Tales of Ladybug & Chat Noir",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/miraculous-ladybug-cat-noirr.xr8wv"
             }
         },
         "Comick": {

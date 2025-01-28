@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7dcf0c15-aded-45c2-9eb1-69360424cae9": {
+                "id": 19173,
                 "identifier": "7dcf0c15-aded-45c2-9eb1-69360424cae9",
                 "image": "https://uploads.mangadex.org/covers/7dcf0c15-aded-45c2-9eb1-69360424cae9/12116810-f2f8-48eb-90da-3d735dd5977e.jpg",
                 "malId": 112740,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/7dcf0c15-aded-45c2-9eb1-69360424cae9"
             }
         },
-        "MangaFire": {
-            "shinizokonai-agape.zl282": {
-                "identifier": "shinizokonai-agape.zl282",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5ce4be4d9e37e3476657f43ce771a840.jpg",
-                "malId": 112740,
-                "aniId": 101806,
-                "page": "MangaFire",
-                "title": "Agape you lose to death",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinizokonai-agape.zl282/"
-            }
-        },
         "MangaNato": {
             "manga-bo978771": {
+                "id": 218957,
                 "identifier": "manga-bo978771",
-                "image": "https://avt.mkklcdnv6temp.com/16/l/16-1583494062.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/63/y/8-1732790739-nw.webp",
                 "malId": 112740,
                 "aniId": 101806,
                 "page": "MangaNato",
                 "title": "Shinizokonai Agape",
                 "type": "manga",
                 "url": "https://manganato.com/manga-bo978771"
+            }
+        },
+        "MangaFire": {
+            "zl282": {
+                "id": 252364,
+                "identifier": "zl282",
+                "image": "https://static.mangafire.to/602b/i/5/5c/5ce4be4d9e37e3476657f43ce771a840.jpg",
+                "malId": 112740,
+                "aniId": 101806,
+                "page": "MangaFire",
+                "title": "Agape you lose to death",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinizokonai-agapee.zl282"
             }
         },
         "Comick": {

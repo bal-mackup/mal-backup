@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d8f1d7da-8bb1-407b-8be3-10ac2894d3c6": {
+                "id": 24472,
                 "identifier": "d8f1d7da-8bb1-407b-8be3-10ac2894d3c6",
                 "image": "https://uploads.mangadex.org/covers/d8f1d7da-8bb1-407b-8be3-10ac2894d3c6/37a193b8-588d-4e98-9e0c-a627443754b9.jpg",
                 "malId": 120177,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-ojisan": {
+                "id": 58865,
                 "identifier": "isekai-ojisan",
                 "image": "https://temp.compsci88.com/cover/Isekai-Ojisan.jpg",
                 "malId": 120177,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_ojisan": {
+                "id": 58965,
                 "identifier": "isekai_ojisan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29057/cover.jpg",
                 "malId": 120177,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-es982201": {
+                "id": 75482,
                 "identifier": "manga-es982201",
                 "image": "https://avt.mkklcdnv6temp.com/42/w/18-1583498761.jpg",
                 "malId": 120177,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-es982201"
             }
         },
-        "MangaFire": {
-            "isekai-ojisan.zl0lp": {
-                "identifier": "isekai-ojisan.zl0lp",
-                "image": "https://static.mangafire.to/3b2d5/i/9/92/92a5e1ce26747e199d3002f666dd96fe.jpg",
-                "malId": 120177,
-                "aniId": 104617,
-                "page": "MangaFire",
-                "title": "Uncle from Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ojisan.zl0lp/"
-            },
-            "isekai-ojisann.zl0lp": {
-                "identifier": "isekai-ojisann.zl0lp",
-                "image": "https://static.mangafire.to/3b2d5/i/9/92/92a5e1ce26747e199d3002f666dd96fe.jpg",
-                "malId": 120177,
-                "aniId": 104617,
-                "page": "MangaFire",
-                "title": "Uncle from Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ojisann.zl0lp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd18m3vvthaewacjce7d": {
+                "id": 214009,
                 "identifier": "01j76xyd18m3vvthaewacjce7d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD18M3VVTHAEWACJCE7D.jpg",
                 "malId": 120177,
@@ -86,6 +69,19 @@
                 "title": "Uncle from Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD18M3VVTHAEWACJCE7D"
+            }
+        },
+        "MangaFire": {
+            "zl0lp": {
+                "id": 224421,
+                "identifier": "zl0lp",
+                "image": "https://static.mangafire.to/bfa4/i/9/92/92a5e1ce26747e199d3002f666dd96fe.jpg",
+                "malId": 120177,
+                "aniId": 104617,
+                "page": "MangaFire",
+                "title": "Uncle from Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-ojisann.zl0lp"
             }
         },
         "Comick": {

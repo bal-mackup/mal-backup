@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "23a84f79-368c-44ca-8a8f-57103b9a5628": {
+                "id": 21650,
                 "identifier": "23a84f79-368c-44ca-8a8f-57103b9a5628",
-                "image": "https://uploads.mangadex.org/covers/23a84f79-368c-44ca-8a8f-57103b9a5628/f7c3794c-d9fc-4e56-b4a4-392cbc7ca13c.jpg",
+                "image": "https://uploads.mangadex.org/covers/23a84f79-368c-44ca-8a8f-57103b9a5628/451aa517-6067-485d-bc03-08c279bbaff5.jpg",
                 "malId": 115369,
                 "aniId": 103736,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tono_no_kanri_o_shite_miyou": {
+                "id": 54113,
                 "identifier": "tono_no_kanri_o_shite_miyou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29747/cover.jpg",
                 "malId": 115369,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tou-no-kanri-o-shite-miyou": {
+                "id": 61569,
                 "identifier": "tou-no-kanri-o-shite-miyou",
                 "image": "https://temp.compsci88.com/cover/Tou-no-Kanri-o-Shite-Miyou.jpg",
                 "malId": 115369,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-he985187": {
+                "id": 73177,
                 "identifier": "manga-he985187",
                 "image": "https://avt.mkklcdnv6temp.com/4/w/21-1587315660.jpg",
                 "malId": 115369,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-he985187"
             },
             "manga-dg980789": {
+                "id": 73232,
                 "identifier": "manga-dg980789",
                 "image": "https://avt.mkklcdnv6temp.com/41/u/17-1583496767.jpg",
                 "malId": 115369,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-dg980789"
             }
         },
-        "MangaFire": {
-            "tou-no-kanri-o-shite-miyou.n11k": {
-                "identifier": "tou-no-kanri-o-shite-miyou.n11k",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d14cb7c2b9e525331c0a0bff4d2a6566.jpg",
-                "malId": 115369,
-                "aniId": 103736,
-                "page": "MangaFire",
-                "title": "Tou no Kanri wo Shite Miyou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tou-no-kanri-o-shite-miyou.n11k/"
-            },
-            "tou-no-kanri-o-shite-miyouu.n11k": {
-                "identifier": "tou-no-kanri-o-shite-miyouu.n11k",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d14cb7c2b9e525331c0a0bff4d2a6566.jpg",
-                "malId": 115369,
-                "aniId": 103736,
-                "page": "MangaFire",
-                "title": "Tou no Kanri wo Shite Miyou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tou-no-kanri-o-shite-miyouu.n11k/"
-            }
-        },
         "Weebcentral": {
             "01j76xydgp9s8b7357ewsdp89c": {
+                "id": 210395,
                 "identifier": "01j76xydgp9s8b7357ewsdp89c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDGP9S8B7357EWSDP89C.jpg",
                 "malId": 115369,
@@ -96,6 +80,19 @@
                 "title": "Tou no Kanri o Shite Miyou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDGP9S8B7357EWSDP89C"
+            }
+        },
+        "MangaFire": {
+            "n11k": {
+                "id": 224563,
+                "identifier": "n11k",
+                "image": "https://static.mangafire.to/685b/i/d/d1/d14cb7c2b9e525331c0a0bff4d2a6566.jpg",
+                "malId": 115369,
+                "aniId": 103736,
+                "page": "MangaFire",
+                "title": "Tou no Kanri wo Shite Miyou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tou-no-kanri-o-shite-miyouu.n11k"
             }
         },
         "Comick": {

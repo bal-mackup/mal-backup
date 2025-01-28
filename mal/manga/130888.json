@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2b37189e-0bb2-4586-9757-b3fe6acd77b3": {
+                "id": 51208,
                 "identifier": "2b37189e-0bb2-4586-9757-b3fe6acd77b3",
                 "image": "https://uploads.mangadex.org/covers/2b37189e-0bb2-4586-9757-b3fe6acd77b3/42401da9-7563-4d50-a455-f70ca2b427e7.jpg",
                 "malId": 130888,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "majo_taisen": {
+                "id": 71754,
                 "identifier": "majo_taisen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36364/cover.jpg",
                 "malId": 130888,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kc987359": {
+                "id": 80197,
                 "identifier": "manga-kc987359",
                 "image": "https://avt.mkklcdnv6temp.com/44/p/22-1607597483.jpg",
                 "malId": 130888,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "majo-taisen-the-war-of-greedy-witches": {
+                "id": 112571,
                 "identifier": "majo-taisen-the-war-of-greedy-witches",
                 "image": "https://temp.compsci88.com/cover/Majo-Taisen-The-War-of-Greedy-Witches.jpg",
                 "malId": 130888,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Majo-Taisen-The-War-of-Greedy-Witches"
             }
         },
-        "MangaFire": {
-            "majo-taisen-the-war-of-greedy-witches.jv2zn": {
-                "identifier": "majo-taisen-the-war-of-greedy-witches.jv2zn",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df996d81241a17d3b8287d77e4b78788.jpg",
-                "malId": 130888,
-                "aniId": 124409,
-                "page": "MangaFire",
-                "title": "The War of Greedy Witches",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-taisen-the-war-of-greedy-witches.jv2zn/"
-            },
-            "majo-taisen-the-war-of-greedy-witchess.jv2zn": {
-                "identifier": "majo-taisen-the-war-of-greedy-witchess.jv2zn",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df996d81241a17d3b8287d77e4b78788.jpg",
-                "malId": 130888,
-                "aniId": 124409,
-                "page": "MangaFire",
-                "title": "The War of Greedy Witches",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-taisen-the-war-of-greedy-witchess.jv2zn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfkfd724xjwdawers9g0": {
+                "id": 212188,
                 "identifier": "01j76xyfkfd724xjwdawers9g0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFKFD724XJWDAWERS9G0.jpg",
                 "malId": 130888,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYFKFD724XJWDAWERS9G0"
             }
         },
+        "MangaFire": {
+            "jv2zn": {
+                "id": 229588,
+                "identifier": "jv2zn",
+                "image": "https://static.mangafire.to/b0a9/i/d/df/df996d81241a17d3b8287d77e4b78788.jpg",
+                "malId": 130888,
+                "aniId": 124409,
+                "page": "MangaFire",
+                "title": "The War of Greedy Witches",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-taisen-the-war-of-greedy-witchess.jv2zn"
+            }
+        },
         "Comick": {
             "vMRYlvSi": {
                 "identifier": "vMRYlvSi",
                 "malId": 130888,
                 "type": "manga",
                 "page": "Comick",
-                "title": "The War of Greedy Witches: 32 of the Wickedest Women Duel to the Death",
+                "title": "Majo Taisen - 32-nin no Isai no Majo wa Koroshiau",
                 "url": "https://comick.io/comic/majo-taisen-the-war-of-greedy-witches",
                 "aniId": 124409
             }

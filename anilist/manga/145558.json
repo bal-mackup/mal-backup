@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-ke987987": {
+                "id": 113592,
                 "identifier": "manga-ke987987",
                 "image": "https://avt.mkklcdnv6temp.com/20/e/23-1612413902.jpg",
                 "malId": 150166,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "366caa51-2983-48c1-846d-9abbaa32a908": {
+                "id": 116247,
                 "identifier": "366caa51-2983-48c1-846d-9abbaa32a908",
                 "image": "https://uploads.mangadex.org/covers/366caa51-2983-48c1-846d-9abbaa32a908/f27478a7-b54e-41a5-9cad-b33dc169f256.png",
                 "malId": 150166,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/366caa51-2983-48c1-846d-9abbaa32a908"
             }
         },
-        "MangaFire": {
-            "pick-me-my-queen.v5yol": {
-                "identifier": "pick-me-my-queen.v5yol",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26b1bd8dc9c111535e32aaaeefbbdf4d.jpg",
-                "malId": 150166,
-                "aniId": 145558,
-                "page": "MangaFire",
-                "title": "Pick Me, My Queen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pick-me-my-queen.v5yol/"
-            },
-            "pick-me-my-queenn.v5yol": {
-                "identifier": "pick-me-my-queenn.v5yol",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26b1bd8dc9c111535e32aaaeefbbdf4d.jpg",
-                "malId": 150166,
-                "aniId": 145558,
-                "page": "MangaFire",
-                "title": "Pick Me, My Queen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pick-me-my-queenn.v5yol/"
-            }
-        },
         "MangaFox": {
             "queen_you_mustn_t": {
+                "id": 165746,
                 "identifier": "queen_you_mustn_t",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41071/cover.jpg",
                 "malId": 150166,
@@ -62,6 +43,19 @@
                 "title": "Queen, You Mustn't!",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/queen_you_mustn_t/"
+            }
+        },
+        "MangaFire": {
+            "v5yol": {
+                "id": 237343,
+                "identifier": "v5yol",
+                "image": "https://static.mangafire.to/9476/i/2/26/26b1bd8dc9c111535e32aaaeefbbdf4d.jpg",
+                "malId": 150166,
+                "aniId": 145558,
+                "page": "MangaFire",
+                "title": "Pick Me, My Queen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pick-me-my-queenn.v5yol"
             }
         },
         "Comick": {

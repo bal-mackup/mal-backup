@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b008fe69-1b64-4e2b-820a-ce513979ab17": {
+                "id": 33286,
                 "identifier": "b008fe69-1b64-4e2b-820a-ce513979ab17",
                 "image": "https://uploads.mangadex.org/covers/b008fe69-1b64-4e2b-820a-ce513979ab17/e4cab766-ac5f-414e-807c-87a875fd4d27.jpg",
                 "malId": 124380,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-will-leisurely-become-a-healer-in-another-world": {
+                "id": 60821,
                 "identifier": "i-will-leisurely-become-a-healer-in-another-world",
                 "image": "https://temp.compsci88.com/cover/I-Will-Leisurely-Become-a-Healer-in-Another-World.jpg",
                 "malId": 124380,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hb985110": {
+                "id": 79352,
                 "identifier": "manga-hb985110",
                 "image": "https://avt.mkklcdnv6temp.com/1/w/20-1586363652.jpg",
                 "malId": 124380,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "isekai_de_nonbiri_iyashi_te_hajimemasu_doku_ni_mo_kusuri_ni_mo_naranai_kara_tensei_shita_ohanashi": {
+                "id": 90423,
                 "identifier": "isekai_de_nonbiri_iyashi_te_hajimemasu_doku_ni_mo_kusuri_ni_mo_naranai_kara_tensei_shita_ohanashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32797/cover.jpg",
                 "malId": 124380,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/isekai_de_nonbiri_iyashi_te_hajimemasu_doku_ni_mo_kusuri_ni_mo_naranai_kara_tensei_shita_ohanashi/"
             }
         },
-        "MangaFire": {
-            "isekai-de-nonbiri-iyashi-te-hajimemasu.kw5m4": {
-                "identifier": "isekai-de-nonbiri-iyashi-te-hajimemasu.kw5m4",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fa/fa6bb4d86145498270cc68dfdbe928ce.jpg",
-                "malId": 124380,
-                "aniId": 115324,
-                "page": "MangaFire",
-                "title": "Isekai de Nonbiri Iyashi te Hajimemasu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-de-nonbiri-iyashi-te-hajimemasu.kw5m4/"
-            },
-            "isekai-de-nonbiri-iyashi-te-hajimemasuu.kw5m4": {
-                "identifier": "isekai-de-nonbiri-iyashi-te-hajimemasuu.kw5m4",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fa/fa6bb4d86145498270cc68dfdbe928ce.jpg",
-                "malId": 124380,
-                "aniId": 115324,
-                "page": "MangaFire",
-                "title": "Isekai de Nonbiri Iyashi te Hajimemasu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-de-nonbiri-iyashi-te-hajimemasuu.kw5m4/"
-            }
-        },
         "Weebcentral": {
             "01j76xydfpw30e6q70z3k2vjcm": {
+                "id": 211002,
                 "identifier": "01j76xydfpw30e6q70z3k2vjcm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDFPW30E6Q70Z3K2VJCM.jpg",
                 "malId": 124380,
@@ -86,6 +69,19 @@
                 "title": "I Will Leisurely Become a Healer in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDFPW30E6Q70Z3K2VJCM"
+            }
+        },
+        "MangaFire": {
+            "kw5m4": {
+                "id": 225175,
+                "identifier": "kw5m4",
+                "image": "https://static.mangafire.to/528c/i/f/fa/fa6bb4d86145498270cc68dfdbe928ce.jpg",
+                "malId": 124380,
+                "aniId": 115324,
+                "page": "MangaFire",
+                "title": "Isekai de Nonbiri Iyashi te Hajimemasu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-de-nonbiri-iyashi-te-hajimemasuu.kw5m4"
             }
         },
         "Comick": {

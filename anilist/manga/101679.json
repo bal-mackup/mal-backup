@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "77c8cc57-95c1-4f9b-8843-493eb2697566": {
+                "id": 18899,
                 "identifier": "77c8cc57-95c1-4f9b-8843-493eb2697566",
                 "image": "https://uploads.mangadex.org/covers/77c8cc57-95c1-4f9b-8843-493eb2697566/d1afe9b9-256a-4c6a-9759-c7b9c5da77db.jpg",
                 "malId": 111631,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "souzai-saishuka-no-isekai-ryokouki": {
+                "id": 60633,
                 "identifier": "souzai-saishuka-no-isekai-ryokouki",
                 "image": "https://temp.compsci88.com/cover/Souzai-Saishuka-No-Isekai-Ryokouki.jpg",
                 "malId": 111631,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sozai_saishuka_no_isekai_ryokouki": {
+                "id": 60692,
                 "identifier": "sozai_saishuka_no_isekai_ryokouki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27078/cover.jpg",
                 "malId": 111631,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/sozai_saishuka_no_isekai_ryokouki/"
             },
             "souzai_saishuka_no_isekai_ryokouki": {
+                "id": 78000,
                 "identifier": "souzai_saishuka_no_isekai_ryokouki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34927/cover.jpg",
                 "malId": 111631,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-br978726": {
+                "id": 72902,
                 "identifier": "manga-br978726",
                 "image": "https://avt.mkklcdnv6temp.com/14/y/16-1583494011.jpg",
                 "malId": 111631,
@@ -64,6 +69,7 @@
                 "url": "https://manganato.com/manga-br978726"
             },
             "manga-nt990976": {
+                "id": 106305,
                 "identifier": "manga-nt990976",
                 "image": "https://avt.mkklcdnv6temp.com/46/k/25-1654304430.jpg",
                 "malId": 111631,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-nt990976"
             }
         },
-        "MangaFire": {
-            "souzai-saishuka-no-isekai-ryokouki.80923": {
-                "identifier": "souzai-saishuka-no-isekai-ryokouki.80923",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7c5b7a9d69cec293e488bc43e3b807a3.jpg",
-                "malId": 111631,
-                "aniId": 101679,
-                "page": "MangaFire",
-                "title": "A Gatherer's Adventure in Isekai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/souzai-saishuka-no-isekai-ryokouki.80923/"
-            },
-            "souzai-saishuka-no-isekai-ryokoukii.80923": {
-                "identifier": "souzai-saishuka-no-isekai-ryokoukii.80923",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7c5b7a9d69cec293e488bc43e3b807a3.jpg",
-                "malId": 111631,
-                "aniId": 101679,
-                "page": "MangaFire",
-                "title": "A Gatherer's Adventure in Isekai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/souzai-saishuka-no-isekai-ryokoukii.80923/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfex5zzfxky4nnx3f26": {
+                "id": 213210,
                 "identifier": "01j76xycfex5zzfxky4nnx3f26",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFEX5ZZFXKY4NNX3F26.jpg",
                 "malId": 111631,
@@ -106,6 +91,19 @@
                 "title": "A Gatherer's Adventure in Isekai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFEX5ZZFXKY4NNX3F26"
+            }
+        },
+        "MangaFire": {
+            "80923": {
+                "id": 224527,
+                "identifier": "80923",
+                "image": "https://static.mangafire.to/a38e/i/7/7c/7c5b7a9d69cec293e488bc43e3b807a3.jpg",
+                "malId": 111631,
+                "aniId": 101679,
+                "page": "MangaFire",
+                "title": "A Gatherer's Adventure in Isekai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/souzai-saishuka-no-isekai-ryokoukii.80923"
             }
         },
         "Comick": {

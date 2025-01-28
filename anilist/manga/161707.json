@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "22ffa469-b138-4df3-bb46-085635bdd3e4": {
+                "id": 124942,
                 "identifier": "22ffa469-b138-4df3-bb46-085635bdd3e4",
                 "image": "https://uploads.mangadex.org/covers/22ffa469-b138-4df3-bb46-085635bdd3e4/011f6dbf-5f7e-4290-b6aa-7bea019b5b82.jpg",
                 "malId": 156623,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rl995320": {
+                "id": 128159,
                 "identifier": "manga-rl995320",
                 "image": "https://avt.mkklcdnv6temp.com/23/e/29-1680238494.jpg",
                 "malId": 156623,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-rl995320"
             }
         },
-        "MangaFire": {
-            "my-wife-could-be-a-magical-girl.z10km": {
-                "identifier": "my-wife-could-be-a-magical-girl.z10km",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f4b335b48816c2810875648557d892f4.jpg",
-                "malId": 156623,
-                "aniId": 161707,
-                "page": "MangaFire",
-                "title": "My Wife Could Be A Magical Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-wife-could-be-a-magical-girl.z10km/"
-            }
-        },
         "MangaSee": {
             "my-wife-could-be-a-magical-girl": {
+                "id": 178249,
                 "identifier": "my-wife-could-be-a-magical-girl",
                 "image": "https://temp.compsci88.com/cover/My-Wife-Could-Be-A-Magical-Girl.jpg",
                 "malId": 156623,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygsq1z5dg8bcmk33ntnv": {
+                "id": 208526,
                 "identifier": "01j76xygsq1z5dg8bcmk33ntnv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGSQ1Z5DG8BCMK33NTNV.jpg",
                 "malId": 156623,
@@ -64,6 +56,19 @@
                 "title": "My Wife Could Be a Magical Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGSQ1Z5DG8BCMK33NTNV"
+            }
+        },
+        "MangaFire": {
+            "z10km": {
+                "id": 262418,
+                "identifier": "z10km",
+                "image": "https://static.mangafire.to/80f0/i/f/f4/f4b335b48816c2810875648557d892f4.jpg",
+                "malId": 156623,
+                "aniId": 161707,
+                "page": "MangaFire",
+                "title": "My Wife Could Be A Magical Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-wife-could-be-a-magical-girll.z10km"
             }
         },
         "Comick": {

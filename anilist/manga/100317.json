@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4beb73b3-13c8-4b2a-8bbc-8e42514b3b38": {
+                "id": 17093,
                 "identifier": "4beb73b3-13c8-4b2a-8bbc-8e42514b3b38",
                 "image": "https://uploads.mangadex.org/covers/4beb73b3-13c8-4b2a-8bbc-8e42514b3b38/1ed5bc33-e308-445a-bfca-942480efe8e3.jpg",
                 "malId": 91148,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-dq981199": {
+                "id": 116560,
                 "identifier": "manga-dq981199",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/e/9-1732795124-nw.webp",
                 "malId": 91148,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-dq981199"
             }
         },
-        "MangaFire": {
-            "kin-no-kuni-mizu-no-kuni.ll1wq": {
-                "identifier": "kin-no-kuni-mizu-no-kuni.ll1wq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f6cd9a2f3effadca57f43efa53cc211.jpg",
-                "malId": 91148,
-                "aniId": 100317,
-                "page": "MangaFire",
-                "title": "Country of Gold, Country of Water",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kin-no-kuni-mizu-no-kuni.ll1wq/"
-            },
-            "ll1wq": {
-                "identifier": "ll1wq",
-                "image": "https://static.mangafire.to/2dc0/i/8/8f/8f6cd9a2f3effadca57f43efa53cc211.jpg",
-                "malId": 91148,
-                "aniId": 100317,
-                "page": "MangaFire",
-                "title": "Country of Gold, Country of Water",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kin-no-kuni-mizu-no-kunii.ll1wq"
-            }
-        },
         "MangaSee": {
             "gold-kingdom-and-water-kingdom": {
+                "id": 177953,
                 "identifier": "gold-kingdom-and-water-kingdom",
                 "image": "https://temp.compsci88.com/cover/Gold-Kingdom-and-Water-Kingdom.jpg",
                 "malId": 91148,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygrj5yge0atv265ttkej": {
+                "id": 207211,
                 "identifier": "01j76xygrj5yge0atv265ttkej",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGRJ5YGE0ATV265TTKEJ.jpg",
                 "malId": 91148,
@@ -74,6 +56,19 @@
                 "title": "Gold Kingdom and Water Kingdom",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGRJ5YGE0ATV265TTKEJ"
+            }
+        },
+        "MangaFire": {
+            "ll1wq": {
+                "id": 259998,
+                "identifier": "ll1wq",
+                "image": "https://static.mangafire.to/2dc0/i/8/8f/8f6cd9a2f3effadca57f43efa53cc211.jpg",
+                "malId": 91148,
+                "aniId": 100317,
+                "page": "MangaFire",
+                "title": "Country of Gold, Country of Water",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kin-no-kuni-mizu-no-kunii.ll1wq"
             }
         },
         "Comick": {

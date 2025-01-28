@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5ad23128-34e8-408c-a08f-004be955e5e1": {
+                "id": 29481,
                 "identifier": "5ad23128-34e8-408c-a08f-004be955e5e1",
                 "image": "https://uploads.mangadex.org/covers/5ad23128-34e8-408c-a08f-004be955e5e1/94e4c9b9-9026-436f-9f7e-d64ce5c3e16c.jpg",
                 "malId": 157784,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qf993740": {
+                "id": 123439,
                 "identifier": "manga-qf993740",
                 "image": "https://avt.mkklcdnv6temp.com/9/y/28-1675041363.jpg",
                 "malId": 157784,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-diary-of-a-middle-aged-teachers-carefree-life-in-another-world": {
+                "id": 123930,
                 "identifier": "the-diary-of-a-middle-aged-teachers-carefree-life-in-another-world",
                 "image": "https://temp.compsci88.com/cover/The-Diary-of-a-Middle-Aged-Teachers-Carefree-Life-in-Another-World.jpg",
                 "malId": 157784,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Diary-of-a-Middle-Aged-Teachers-Carefree-Life-in-Another-World"
             }
         },
-        "MangaFire": {
-            "around-40-kenja-no-isekai-seikatsu-nikki-kimama-na-isekai-kyoushi-life.2pw7q": {
-                "identifier": "around-40-kenja-no-isekai-seikatsu-nikki-kimama-na-isekai-kyoushi-life.2pw7q",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6f83efc09f51041e6e9967344c9a320.jpg",
-                "malId": 157784,
-                "aniId": 164730,
-                "page": "MangaFire",
-                "title": "The Diary of a Middle-Aged Teacher's Carefree Life in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/around-40-kenja-no-isekai-seikatsu-nikki-kimama-na-isekai-kyoushi-life.2pw7q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfyepbf3305aa8w0kmc9": {
+                "id": 206992,
                 "identifier": "01j76xyfyepbf3305aa8w0kmc9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFYEPBF3305AA8W0KMC9.jpg",
                 "malId": 157784,
@@ -64,6 +56,19 @@
                 "title": "The Diary of a Middle-Aged Teacher's Carefree Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFYEPBF3305AA8W0KMC9"
+            }
+        },
+        "MangaFire": {
+            "2pw7q": {
+                "id": 241313,
+                "identifier": "2pw7q",
+                "image": "https://static.mangafire.to/952b/i/c/c6/c6f83efc09f51041e6e9967344c9a320.jpg",
+                "malId": 157784,
+                "aniId": 164730,
+                "page": "MangaFire",
+                "title": "The Diary of a Middle-Aged Teacher's Carefree Life in Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/around-40-kenja-no-isekai-seikatsu-nikki-kimama-na-isekai-kyoushi-lifee.2pw7q"
             }
         },
         "Comick": {

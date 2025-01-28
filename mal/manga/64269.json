@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fe3becef-dd07-4dfd-840a-617c8c97b9a4": {
+                "id": 9491,
                 "identifier": "fe3becef-dd07-4dfd-840a-617c8c97b9a4",
                 "image": "https://uploads.mangadex.org/covers/fe3becef-dd07-4dfd-840a-617c8c97b9a4/e553d629-ad25-4890-bd4e-31d4f6222eed.jpg",
                 "malId": 64269,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tsubasa-to-hotaru": {
+                "id": 66513,
                 "identifier": "tsubasa-to-hotaru",
                 "image": "https://temp.compsci88.com/cover/Tsubasa-To-Hotaru.jpg",
                 "malId": 64269,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jl951968": {
+                "id": 85696,
                 "identifier": "manga-jl951968",
                 "image": "https://avt.mkklcdnv6temp.com/fld/25/v/1-1732717383-nw.webp",
                 "malId": 64269,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-jl951968"
             }
         },
-        "MangaFire": {
-            "tsubasa-to-hotaru.pzn4": {
-                "identifier": "tsubasa-to-hotaru.pzn4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/83202e819bcc559ac5046d1d1ffbd700.jpg",
-                "malId": 64269,
-                "aniId": 85953,
-                "page": "MangaFire",
-                "title": "Tsubasa to Hotaru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsubasa-to-hotaru.pzn4/"
-            },
-            "tsubasa-to-hotaruu.pzn4": {
-                "identifier": "tsubasa-to-hotaruu.pzn4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/83202e819bcc559ac5046d1d1ffbd700.jpg",
-                "malId": 64269,
-                "aniId": 85953,
-                "page": "MangaFire",
-                "title": "Tsubasa to Hotaru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsubasa-to-hotaruu.pzn4/"
-            },
-            "pzn4": {
-                "identifier": "pzn4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/83202e819bcc559ac5046d1d1ffbd700.jpg",
-                "malId": 64269,
-                "aniId": 85953,
-                "page": "MangaFire",
-                "title": "Tsubasa to Hotaru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsubasa-to-hotaru.pzn4/"
-            }
-        },
         "MangaFox": {
             "tsubasa_to_hotaru": {
+                "id": 178297,
                 "identifier": "tsubasa_to_hotaru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13575/cover.jpg",
                 "malId": 64269,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyb79p4q61syb0cfbzyt0": {
+                "id": 212893,
                 "identifier": "01j76xyb79p4q61syb0cfbzyt0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB79P4Q61SYB0CFBZYT0.jpg",
                 "malId": 64269,
@@ -96,6 +69,19 @@
                 "title": "Tsubasa to Hotaru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB79P4Q61SYB0CFBZYT0"
+            }
+        },
+        "MangaFire": {
+            "pzn4": {
+                "id": 237541,
+                "identifier": "pzn4",
+                "image": "https://static.mangafire.to/6e7e/i/8/83/83202e819bcc559ac5046d1d1ffbd700.jpg",
+                "malId": 64269,
+                "aniId": 85953,
+                "page": "MangaFire",
+                "title": "Tsubasa to Hotaru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsubasa-to-hotaruu.pzn4"
             }
         },
         "Comick": {

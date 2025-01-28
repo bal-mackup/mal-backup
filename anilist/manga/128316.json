@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9dba8d1f-9fe7-48e7-9c1b-868ca4144068": {
+                "id": 62000,
                 "identifier": "9dba8d1f-9fe7-48e7-9c1b-868ca4144068",
                 "image": "https://uploads.mangadex.org/covers/9dba8d1f-9fe7-48e7-9c1b-868ca4144068/5013096f-f48a-4ee8-b848-ea09e3e8c3ed.jpg",
                 "malId": 134533,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lz988582": {
+                "id": 75201,
                 "identifier": "manga-lz988582",
                 "image": "https://avt.mkklcdnv6temp.com/44/s/23-1616214585.jpg",
                 "malId": 134533,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "strategic-lovers": {
+                "id": 92702,
                 "identifier": "strategic-lovers",
                 "image": "https://temp.compsci88.com/cover/Strategic-Lovers.jpg",
                 "malId": 134533,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Strategic-Lovers"
             }
         },
-        "MangaFire": {
-            "strategic-lovers.n366k": {
-                "identifier": "strategic-lovers.n366k",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f604e3f985252e8eb50ea6a4d4b35a84.jpg",
-                "malId": 134533,
-                "aniId": 128316,
-                "page": "MangaFire",
-                "title": "Strategic Lovers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strategic-lovers.n366k/"
-            },
-            "strategic-loverss.n366k": {
-                "identifier": "strategic-loverss.n366k",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f604e3f985252e8eb50ea6a4d4b35a84.jpg",
-                "malId": 134533,
-                "aniId": 128316,
-                "page": "MangaFire",
-                "title": "Strategic Lovers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strategic-loverss.n366k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf7t80y3d70r8hkq5p8n": {
+                "id": 207128,
                 "identifier": "01j76xyf7t80y3d70r8hkq5p8n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF7T80Y3D70R8HKQ5P8N.jpg",
                 "malId": 134533,
@@ -74,6 +56,19 @@
                 "title": "Strategic Lovers",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF7T80Y3D70R8HKQ5P8N"
+            }
+        },
+        "MangaFire": {
+            "n366k": {
+                "id": 224204,
+                "identifier": "n366k",
+                "image": "https://static.mangafire.to/634d/i/f/f6/f604e3f985252e8eb50ea6a4d4b35a84.jpg",
+                "malId": 134533,
+                "aniId": 128316,
+                "page": "MangaFire",
+                "title": "Strategic Lovers",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/strategic-loverss.n366k"
             }
         },
         "Comick": {

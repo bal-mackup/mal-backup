@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "db231da5-78e6-4422-b1b1-24e64e57159b": {
+                "id": 34455,
                 "identifier": "db231da5-78e6-4422-b1b1-24e64e57159b",
                 "image": "https://uploads.mangadex.org/covers/db231da5-78e6-4422-b1b1-24e64e57159b/97fdcb26-f479-4396-b218-f8199c9e6271.jpg",
                 "malId": 147444,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "your-smile-is-a-trap": {
+                "id": 62580,
                 "identifier": "your-smile-is-a-trap",
                 "image": "https://temp.compsci88.com/cover/Your-Smile-is-a-Trap.jpg",
                 "malId": 147444,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ms989753": {
+                "id": 88211,
                 "identifier": "manga-ms989753",
                 "image": "https://avt.mkklcdnv6temp.com/45/c/24-1633682919.jpg",
                 "malId": 147444,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ms989753"
             }
         },
-        "MangaFire": {
-            "your-smile-is-a-trap.806yy": {
-                "identifier": "your-smile-is-a-trap.806yy",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/7894fe418e1e78fda07da86c5b198544.jpg",
-                "malId": 147444,
-                "aniId": 117663,
-                "page": "MangaFire",
-                "title": "Your Smile is a Trap",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-smile-is-a-trap.806yy/"
-            },
-            "your-smile-is-a-trapp.806yy": {
-                "identifier": "your-smile-is-a-trapp.806yy",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/7894fe418e1e78fda07da86c5b198544.jpg",
-                "malId": 147444,
-                "aniId": 117663,
-                "page": "MangaFire",
-                "title": "Your Smile is a Trap",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-smile-is-a-trapp.806yy/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8j22996q0tfxz1w4wj": {
+                "id": 209963,
                 "identifier": "01j76xye8j22996q0tfxz1w4wj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8J22996Q0TFXZ1W4WJ.jpg",
                 "malId": 147444,
@@ -74,6 +56,19 @@
                 "title": "Your Smile Is a Trap",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8J22996Q0TFXZ1W4WJ"
+            }
+        },
+        "MangaFire": {
+            "806yy": {
+                "id": 223850,
+                "identifier": "806yy",
+                "image": "https://static.mangafire.to/73c9/i/7/78/7894fe418e1e78fda07da86c5b198544.jpg",
+                "malId": 147444,
+                "aniId": 117663,
+                "page": "MangaFire",
+                "title": "Your Smile is a Trap",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/your-smile-is-a-trapp.806yy"
             }
         }
     },

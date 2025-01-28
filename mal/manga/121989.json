@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c9bed72c-d680-4409-a954-5fdadde27b74": {
+                "id": 30865,
                 "identifier": "c9bed72c-d680-4409-a954-5fdadde27b74",
                 "image": "https://uploads.mangadex.org/covers/c9bed72c-d680-4409-a954-5fdadde27b74/49b742a2-8451-403b-bead-8adc361754c2.jpg",
                 "malId": 121989,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru": {
+                "id": 57265,
                 "identifier": "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru",
                 "image": "https://temp.compsci88.com/cover/Shi-ni-Modori-Subete-wo-Sukuu-Tame-ni-Saikyou-He-to-Itaru.jpg",
                 "malId": 121989,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shi_ni_modori_subete_wo_sukuu_tame_ni_saikyou_he_to_itaru": {
+                "id": 59319,
                 "identifier": "shi_ni_modori_subete_wo_sukuu_tame_ni_saikyou_he_to_itaru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31546/cover.jpg",
                 "malId": 121989,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fy983207": {
+                "id": 73162,
                 "identifier": "manga-fy983207",
                 "image": "https://avt.mkklcdnv6temp.com/29/y/19-1583500268.jpg",
                 "malId": 121989,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fy983207"
             }
         },
-        "MangaFire": {
-            "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru.jvrrn": {
-                "identifier": "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru.jvrrn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f92f8193db8a27b55b62c766f0e49303.jpg",
-                "malId": 121989,
-                "aniId": 112147,
-                "page": "MangaFire",
-                "title": "The Strongest Savior's Second Chance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru.jvrrn/"
-            },
-            "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaruu.jvrrn": {
-                "identifier": "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaruu.jvrrn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f92f8193db8a27b55b62c766f0e49303.jpg",
-                "malId": 121989,
-                "aniId": 112147,
-                "page": "MangaFire",
-                "title": "The Strongest Savior's Second Chance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaruu.jvrrn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd6wdy5ag4pwxx534fmx": {
+                "id": 211874,
                 "identifier": "01j76xyd6wdy5ag4pwxx534fmx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD6WDY5AG4PWXX534FMX.jpg",
                 "malId": 121989,
@@ -86,6 +69,19 @@
                 "title": "The Strongest Savior's Second Chance",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD6WDY5AG4PWXX534FMX"
+            }
+        },
+        "MangaFire": {
+            "jvrrn": {
+                "id": 224975,
+                "identifier": "jvrrn",
+                "image": "https://static.mangafire.to/f8eb/i/f/f9/f92f8193db8a27b55b62c766f0e49303.jpg",
+                "malId": 121989,
+                "aniId": 112147,
+                "page": "MangaFire",
+                "title": "The Strongest Savior's Second Chance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaruu.jvrrn"
             }
         },
         "Comick": {

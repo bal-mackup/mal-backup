@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7c8f676f-e193-4e64-a0b7-31c57f26c762": {
+                "id": 104511,
                 "identifier": "7c8f676f-e193-4e64-a0b7-31c57f26c762",
                 "image": "https://uploads.mangadex.org/covers/7c8f676f-e193-4e64-a0b7-31c57f26c762/093543b2-ca6b-4a34-8633-fb72e510ea0c.jpg",
                 "malId": 144012,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-om992347": {
+                "id": 117132,
                 "identifier": "manga-om992347",
                 "image": "https://avt.mkklcdnv6temp.com/3/q/27-1663347609.jpg",
                 "malId": 144012,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-om992347"
             }
         },
-        "MangaFire": {
-            "pink-to-habanero.v5282": {
-                "identifier": "pink-to-habanero.v5282",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1af076d7e0b9d9971c6971dacd18903.jpg",
-                "malId": 144012,
-                "aniId": 144383,
-                "page": "MangaFire",
-                "title": "Pink to Habanero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pink-to-habanero.v5282/"
-            },
-            "pink-to-habaneroo.v5282": {
-                "identifier": "pink-to-habaneroo.v5282",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1af076d7e0b9d9971c6971dacd18903.jpg",
-                "malId": 144012,
-                "aniId": 144383,
-                "page": "MangaFire",
-                "title": "Pink to Habanero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pink-to-habaneroo.v5282/"
-            }
-        },
         "Weebcentral": {
             "01jbhkwtcw4n76q0gx15p08end": {
+                "id": 215353,
                 "identifier": "01jbhkwtcw4n76q0gx15p08end",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBHKWTCW4N76Q0GX15P08END.jpg",
                 "malId": 144012,
@@ -62,6 +43,19 @@
                 "title": "Pink & Habanero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBHKWTCW4N76Q0GX15P08END"
+            }
+        },
+        "MangaFire": {
+            "v5282": {
+                "id": 225401,
+                "identifier": "v5282",
+                "image": "https://static.mangafire.to/da90/i/c/c1/c1af076d7e0b9d9971c6971dacd18903.jpg",
+                "malId": 144012,
+                "aniId": 144383,
+                "page": "MangaFire",
+                "title": "Pink to Habanero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pink-to-habaneroo.v5282"
             }
         },
         "Comick": {

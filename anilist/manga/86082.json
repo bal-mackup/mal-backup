@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "d90ea6cb-7bc3-4d80-8af0-28557e6c4e17": {
+                "id": 12020,
                 "identifier": "d90ea6cb-7bc3-4d80-8af0-28557e6c4e17",
-                "image": "https://uploads.mangadex.org/covers/d90ea6cb-7bc3-4d80-8af0-28557e6c4e17/d3430039-ea47-48c3-9b8b-cf80200d7f0b.jpg",
+                "image": "https://uploads.mangadex.org/covers/d90ea6cb-7bc3-4d80-8af0-28557e6c4e17/77eadf71-b37a-4cc1-bacd-e33713fd8cbf.jpg",
                 "malId": 85781,
                 "aniId": 86082,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "dungeon_meshi": {
+                "id": 54598,
                 "identifier": "dungeon_meshi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15514/cover.jpg",
                 "malId": 85781,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "dungeon-meshi": {
+                "id": 54719,
                 "identifier": "dungeon-meshi",
                 "image": "https://temp.compsci88.com/cover/Dungeon-Meshi.jpg",
                 "malId": 85781,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vs951827": {
+                "id": 72956,
                 "identifier": "manga-vs951827",
                 "image": "https://avt.mkklcdnv6temp.com/17/v/1-1583464391.jpg",
                 "malId": 85781,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vs951827"
             }
         },
-        "MangaFire": {
-            "dungeon-meshi.52020": {
-                "identifier": "dungeon-meshi.52020",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4ae804dbf464560f50a1e93323b42dc8.jpg",
-                "malId": 85781,
-                "aniId": 86082,
-                "page": "MangaFire",
-                "title": "Delicious in Dungeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-meshi.52020/"
-            },
-            "dungeon-meshii.52020": {
-                "identifier": "dungeon-meshii.52020",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4ae804dbf464560f50a1e93323b42dc8.jpg",
-                "malId": 85781,
-                "aniId": 86082,
-                "page": "MangaFire",
-                "title": "Delicious in Dungeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-meshii.52020/"
-            }
-        },
         "Weebcentral": {
             "01j76xybavfj3wewwf3994r74z": {
+                "id": 212316,
                 "identifier": "01j76xybavfj3wewwf3994r74z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBAVFJ3WEWWF3994R74Z.jpg",
                 "malId": 85781,
@@ -86,6 +69,19 @@
                 "title": "Delicious in Dungeon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBAVFJ3WEWWF3994R74Z"
+            }
+        },
+        "MangaFire": {
+            "52020": {
+                "id": 228618,
+                "identifier": "52020",
+                "image": "https://static.mangafire.to/b577/i/4/4a/4ae804dbf464560f50a1e93323b42dc8.jpg",
+                "malId": 85781,
+                "aniId": 86082,
+                "page": "MangaFire",
+                "title": "Delicious in Dungeon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dungeon-meshii.52020"
             }
         },
         "Comick": {

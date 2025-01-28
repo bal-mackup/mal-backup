@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9eb78304-0436-484d-9a79-a925b45e2731": {
+                "id": 58804,
                 "identifier": "9eb78304-0436-484d-9a79-a925b45e2731",
                 "image": "https://uploads.mangadex.org/covers/9eb78304-0436-484d-9a79-a925b45e2731/e5f76272-75ce-41a0-a38c-6dc031cb698e.jpg",
                 "malId": 133081,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "wind-breaker-nii-satoru": {
+                "id": 90624,
                 "identifier": "wind-breaker-nii-satoru",
                 "image": "https://temp.compsci88.com/cover/Wind-Breaker-NII-Satoru.jpg",
                 "malId": 133081,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-sr995652": {
+                "id": 139938,
                 "identifier": "manga-sr995652",
                 "image": "https://avt.mkklcdnv6temp.com/fld/86/i/14-1733305769-nw.webp",
                 "malId": 133081,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-sr995652"
             }
         },
-        "MangaFire": {
-            "wind-breaker2.n36mk": {
-                "identifier": "wind-breaker2.n36mk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5f1cbe036f9502153d8e691245a1844.jpg",
-                "malId": 133081,
-                "aniId": 135083,
-                "page": "MangaFire",
-                "title": "WIND BREAKER",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wind-breaker2.n36mk/"
-            },
-            "wind-breaker22.n36mk": {
-                "identifier": "wind-breaker22.n36mk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5f1cbe036f9502153d8e691245a1844.jpg",
-                "malId": 133081,
-                "aniId": 135083,
-                "page": "MangaFire",
-                "title": "WIND BREAKER",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wind-breaker22.n36mk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5zdzx41x5s64wqhfxz": {
+                "id": 206086,
                 "identifier": "01j76xyf5zdzx41x5s64wqhfxz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5ZDZX41X5S64WQHFXZ.jpg",
                 "malId": 133081,
@@ -74,6 +56,19 @@
                 "title": "Wind Breaker (NII Satoru)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF5ZDZX41X5S64WQHFXZ"
+            }
+        },
+        "MangaFire": {
+            "n36mk": {
+                "id": 228543,
+                "identifier": "n36mk",
+                "image": "https://static.mangafire.to/363a/i/d/d5/d5f1cbe036f9502153d8e691245a1844.jpg",
+                "malId": 133081,
+                "aniId": 135083,
+                "page": "MangaFire",
+                "title": "WIND BREAKER",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wind-breaker22.n36mk"
             }
         },
         "Comick": {

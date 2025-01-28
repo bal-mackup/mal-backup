@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7de9a871-27e3-4e26-a2db-7179ad963ce5": {
+                "id": 108617,
                 "identifier": "7de9a871-27e3-4e26-a2db-7179ad963ce5",
                 "image": "https://uploads.mangadex.org/covers/7de9a871-27e3-4e26-a2db-7179ad963ce5/87f5fce1-8220-4cf9-83ae-4e7923659e8e.jpg",
                 "malId": 148768,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/7de9a871-27e3-4e26-a2db-7179ad963ce5"
             }
         },
-        "MangaFire": {
-            "behind-the-curtain.prz4x": {
-                "identifier": "behind-the-curtain.prz4x",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/de43f1d20492bc5a06e6fc0c975294f6.jpg",
-                "malId": 148768,
-                "aniId": 138839,
-                "page": "MangaFire",
-                "title": "Behind the Curtain",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/behind-the-curtain.prz4x/"
-            }
-        },
         "MangaSee": {
             "behind-the-curtain": {
+                "id": 180892,
                 "identifier": "behind-the-curtain",
                 "image": "https://temp.compsci88.com/cover/Behind-the-Curtain.jpg",
                 "malId": 148768,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygwk29575gam7dv8xdzj": {
+                "id": 211203,
                 "identifier": "01j76xygwk29575gam7dv8xdzj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWK29575GAM7DV8XDZJ.jpg",
                 "malId": 148768,
@@ -52,6 +43,19 @@
                 "title": "Behind the Curtain",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWK29575GAM7DV8XDZJ"
+            }
+        },
+        "MangaFire": {
+            "prz4x": {
+                "id": 261419,
+                "identifier": "prz4x",
+                "image": "https://static.mangafire.to/e928/i/d/de/de43f1d20492bc5a06e6fc0c975294f6.jpg",
+                "malId": 148768,
+                "aniId": 138839,
+                "page": "MangaFire",
+                "title": "Behind the Curtain",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/behind-the-curtainn.prz4x"
             }
         }
     },

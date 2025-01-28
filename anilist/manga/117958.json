@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "863ed97e-045a-4df0-8831-769fb26379ce": {
+                "id": 30608,
                 "identifier": "863ed97e-045a-4df0-8831-769fb26379ce",
                 "image": "https://uploads.mangadex.org/covers/863ed97e-045a-4df0-8831-769fb26379ce/c60b849d-7fa6-4b48-8396-aa26b736daa6.jpg",
                 "malId": 126254,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bone-collection": {
+                "id": 57886,
                 "identifier": "bone-collection",
                 "image": "https://temp.compsci88.com/cover/Bone-Collection.jpg",
                 "malId": 126254,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Bone-Collection"
             }
         },
-        "MangaFire": {
-            "bone-collection.xr60q": {
-                "identifier": "bone-collection.xr60q",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc868573120e26baeaf480182ea09695.jpg",
-                "malId": 126254,
-                "aniId": 117958,
-                "page": "MangaFire",
-                "title": "Bone Collection",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bone-collection.xr60q/"
-            }
-        },
         "MangaFox": {
             "bone_collection": {
+                "id": 198690,
                 "identifier": "bone_collection",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34335/cover.jpg",
                 "malId": 126254,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xydf29rnjncfw3rgaqk56": {
+                "id": 207139,
                 "identifier": "01j76xydf29rnjncfw3rgaqk56",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDF29RNJNCFW3RGAQK56.jpg",
                 "malId": 126254,
@@ -64,6 +56,19 @@
                 "title": "Bone Collection",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDF29RNJNCFW3RGAQK56"
+            }
+        },
+        "MangaFire": {
+            "xr60q": {
+                "id": 261765,
+                "identifier": "xr60q",
+                "image": "https://static.mangafire.to/0bcf/i/c/cc/cc868573120e26baeaf480182ea09695.jpg",
+                "malId": 126254,
+                "aniId": 117958,
+                "page": "MangaFire",
+                "title": "Bone Collection",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bone-collectionn.xr60q"
             }
         },
         "Comick": {

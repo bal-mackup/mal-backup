@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fa7e1e08-44dc-4ef3-bf31-8ed7ae981c04": {
+                "id": 33079,
                 "identifier": "fa7e1e08-44dc-4ef3-bf31-8ed7ae981c04",
                 "image": "https://uploads.mangadex.org/covers/fa7e1e08-44dc-4ef3-bf31-8ed7ae981c04/aa0ea215-7834-4a1a-bbde-92ad8bdfd7f8.jpg",
                 "malId": 124214,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/fa7e1e08-44dc-4ef3-bf31-8ed7ae981c04"
             },
             "9b459019-06df-463d-a140-8fe9af42556e": {
+                "id": 34670,
                 "identifier": "9b459019-06df-463d-a140-8fe9af42556e",
                 "image": "https://uploads.mangadex.org/covers/9b459019-06df-463d-a140-8fe9af42556e/15439cd1-b468-4d3b-bbd6-d7972f52f8dd.jpg",
                 "malId": 124214,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "guardian-of-the-witch": {
+                "id": 68339,
                 "identifier": "guardian-of-the-witch",
                 "image": "https://temp.compsci88.com/cover/Guardian-of-the-Witch.jpg",
                 "malId": 124214,
@@ -40,20 +43,9 @@
                 "url": "https://mangasee123.com/manga/Guardian-of-the-Witch"
             }
         },
-        "MangaFire": {
-            "guardian-of-the-witch.529n9": {
-                "identifier": "guardian-of-the-witch.529n9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c80302fde98c4e06efea214ff6d66df.jpg",
-                "malId": 124214,
-                "aniId": 115106,
-                "page": "MangaFire",
-                "title": "Guardian of the Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/guardian-of-the-witch.529n9/"
-            }
-        },
         "Weebcentral": {
             "01j76xydbkant3q9k38rxkv1c4": {
+                "id": 214047,
                 "identifier": "01j76xydbkant3q9k38rxkv1c4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDBKANT3Q9K38RXKV1C4.jpg",
                 "malId": 124214,
@@ -62,6 +54,19 @@
                 "title": "Guardian of the Witch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDBKANT3Q9K38RXKV1C4"
+            }
+        },
+        "MangaFire": {
+            "529n9": {
+                "id": 260164,
+                "identifier": "529n9",
+                "image": "https://static.mangafire.to/b77d/i/1/1c/1c80302fde98c4e06efea214ff6d66df.jpg",
+                "malId": 124214,
+                "aniId": 115106,
+                "page": "MangaFire",
+                "title": "Guardian of the Witch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/guardian-of-the-witchh.529n9"
             }
         },
         "Comick": {

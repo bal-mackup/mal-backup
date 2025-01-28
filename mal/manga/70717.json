@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f1e48531-cf26-4b6d-adef-b4641d77447d": {
+                "id": 11246,
                 "identifier": "f1e48531-cf26-4b6d-adef-b4641d77447d",
                 "image": "https://uploads.mangadex.org/covers/f1e48531-cf26-4b6d-adef-b4641d77447d/a8c3c62a-8200-4cc4-b11d-7cc39ecde23b.jpg",
                 "malId": 70717,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-bp959324": {
+                "id": 74425,
                 "identifier": "manga-bp959324",
                 "image": "https://avt.mkklcdnv6temp.com/9/p/6-1583474492.jpg",
                 "malId": 70717,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-bp959324"
             }
         },
-        "MangaFire": {
-            "opapagoto.pj5nq": {
-                "identifier": "opapagoto.pj5nq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3abd029237605bd8e81b684c88a2b0e4.jpg",
-                "malId": 70717,
-                "aniId": 85685,
-                "page": "MangaFire",
-                "title": "Opapagoto",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/opapagoto.pj5nq/"
-            }
-        },
         "MangaFox": {
             "opapagoto": {
+                "id": 221874,
                 "identifier": "opapagoto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14083/cover.jpg",
                 "malId": 70717,
@@ -52,6 +43,19 @@
                 "title": "Opapagoto",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/opapagoto/"
+            }
+        },
+        "MangaFire": {
+            "pj5nq": {
+                "id": 251286,
+                "identifier": "pj5nq",
+                "image": "https://static.mangafire.to/21bd/i/3/3a/3abd029237605bd8e81b684c88a2b0e4.jpg",
+                "malId": 70717,
+                "aniId": 85685,
+                "page": "MangaFire",
+                "title": "Opapagoto",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/opapagotoo.pj5nq"
             }
         },
         "Comick": {

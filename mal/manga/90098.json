@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "69112197-579e-4320-a394-e8822e4aa8d1": {
+                "id": 13805,
                 "identifier": "69112197-579e-4320-a394-e8822e4aa8d1",
                 "image": "https://uploads.mangadex.org/covers/69112197-579e-4320-a394-e8822e4aa8d1/de1b542a-1f02-4873-9085-fdada6a0e626.jpg",
                 "malId": 90098,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "masou-gakuen-hxh": {
+                "id": 62452,
                 "identifier": "masou-gakuen-hxh",
                 "image": "https://temp.compsci88.com/cover/Masou-Gakuen-Hxh.jpg",
                 "malId": 90098,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bo978897": {
+                "id": 74619,
                 "identifier": "manga-bo978897",
                 "image": "https://avt.mkklcdnv6temp.com/21/c/16-1583494226.jpg",
                 "malId": 90098,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-bo978897"
             }
         },
-        "MangaFire": {
-            "masou-gakuen-hxh.pjy66": {
-                "identifier": "masou-gakuen-hxh.pjy66",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20462df0c575f88e2d34631538eee567.jpg",
-                "malId": 90098,
-                "aniId": 95197,
-                "page": "MangaFire",
-                "title": "Hybrid x Heart Magias Academy Ataraxia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/masou-gakuen-hxh.pjy66/"
-            },
-            "pjy66": {
-                "identifier": "pjy66",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20462df0c575f88e2d34631538eee567.jpg",
-                "malId": 90098,
-                "aniId": 95197,
-                "page": "MangaFire",
-                "title": "Hybrid x Heart Magias Academy Ataraxia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/masou-gakuen-hxh.pjy66/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc9q0qfxsyf3ss7fzzee": {
+                "id": 214101,
                 "identifier": "01j76xyc9q0qfxsyf3ss7fzzee",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC9Q0QFXSYF3SS7FZZEE.jpg",
                 "malId": 90098,
@@ -74,6 +56,19 @@
                 "title": "Hybrid x Heart Magias Academy Ataraxia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC9Q0QFXSYF3SS7FZZEE"
+            }
+        },
+        "MangaFire": {
+            "pjy66": {
+                "id": 244020,
+                "identifier": "pjy66",
+                "image": "https://static.mangafire.to/9197/i/2/20/20462df0c575f88e2d34631538eee567.jpg",
+                "malId": 90098,
+                "aniId": 95197,
+                "page": "MangaFire",
+                "title": "Hybrid x Heart Magias Academy Ataraxia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/masou-gakuen-hxhh.pjy66"
             }
         },
         "Comick": {

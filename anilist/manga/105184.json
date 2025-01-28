@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-fox-little-tanuki": {
+                "id": 92593,
                 "identifier": "the-fox-little-tanuki",
                 "image": "https://temp.compsci88.com/cover/The-Fox-Little-Tanuki.jpg",
                 "malId": 125546,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/The-Fox-Little-Tanuki"
             }
         },
-        "MangaFire": {
-            "kori-senman.4211o": {
-                "identifier": "kori-senman.4211o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/539f6b4b0d4d38f856b2db7cc2bc7ac5.jpg",
-                "malId": 125546,
-                "aniId": 105184,
-                "page": "MangaFire",
-                "title": "The Fox and the Little Tanuki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kori-senman.4211o/"
-            },
-            "kori-senmann.4211o": {
-                "identifier": "kori-senmann.4211o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/539f6b4b0d4d38f856b2db7cc2bc7ac5.jpg",
-                "malId": 125546,
-                "aniId": 105184,
-                "page": "MangaFire",
-                "title": "The Fox and the Little Tanuki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kori-senmann.4211o/"
-            }
-        },
         "Mangadex": {
             "e2e9d43b-aece-4ac5-9a7a-3d6d0dec51e2": {
+                "id": 182492,
                 "identifier": "e2e9d43b-aece-4ac5-9a7a-3d6d0dec51e2",
                 "image": "https://uploads.mangadex.org/covers/e2e9d43b-aece-4ac5-9a7a-3d6d0dec51e2/065a4dce-2cda-4718-be40-5f34e1bd4b62.png",
                 "malId": 125546,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyf6p6fxy5vxbdrwvbmch": {
+                "id": 211864,
                 "identifier": "01j76xyf6p6fxy5vxbdrwvbmch",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF6P6FXY5VXBDRWVBMCH.jpg",
                 "malId": 125546,
@@ -62,6 +43,19 @@
                 "title": "The Fox & Little Tanuki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF6P6FXY5VXBDRWVBMCH"
+            }
+        },
+        "MangaFire": {
+            "4211o": {
+                "id": 225831,
+                "identifier": "4211o",
+                "image": "https://static.mangafire.to/400c/i/5/53/539f6b4b0d4d38f856b2db7cc2bc7ac5.jpg",
+                "malId": 125546,
+                "aniId": 105184,
+                "page": "MangaFire",
+                "title": "The Fox and the Little Tanuki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kori-senmann.4211o"
             }
         },
         "MangaReader": {

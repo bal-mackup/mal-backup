@@ -3,13 +3,14 @@
     "type": "manga",
     "title": "Jujutsu Kaisen",
     "url": "https://myanimelist.net/manga/113138/Jujutsu_Kaisen",
-    "total": 271,
+    "total": 272,
     "image": "https://cdn.myanimelist.net/images/manga/3/210341.jpg",
     "Sites": {
         "Mangadex": {
             "c52b2ce3-7f95-469c-96b0-479524fb7a1a": {
+                "id": 22476,
                 "identifier": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
-                "image": "https://uploads.mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/30359c3a-f612-43ea-866e-e8c46e9659a8.jpg",
+                "image": "https://uploads.mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/7dc752c3-8c90-468e-8c75-6903e38d7c7f.jpg",
                 "malId": 113138,
                 "aniId": 101517,
                 "page": "Mangadex",
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/c52b2ce3-7f95-469c-96b0-479524fb7a1a"
             },
             "35731f33-27fa-4794-b6ee-3b60da8b994d": {
+                "id": 37085,
                 "identifier": "35731f33-27fa-4794-b6ee-3b60da8b994d",
                 "image": "https://uploads.mangadex.org/covers/35731f33-27fa-4794-b6ee-3b60da8b994d/e62af438-4704-47c2-b4a1-86407834f7f4.png",
                 "malId": 113138,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/35731f33-27fa-4794-b6ee-3b60da8b994d"
             },
             "979920eb-5a86-4536-bc9a-8decd889eec1": {
+                "id": 104168,
                 "identifier": "979920eb-5a86-4536-bc9a-8decd889eec1",
                 "image": "https://uploads.mangadex.org/covers/979920eb-5a86-4536-bc9a-8decd889eec1/a1eecd65-0cd9-4a6f-86a8-f1bb44c6310b.jpg",
                 "malId": 113138,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "jujutsu-kaisen": {
+                "id": 53903,
                 "identifier": "jujutsu-kaisen",
                 "image": "https://temp.compsci88.com/cover/Jujutsu-Kaisen.jpg",
                 "malId": 113138,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "jujutsu_kaisen": {
+                "id": 54191,
                 "identifier": "jujutsu_kaisen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27861/cover.jpg",
                 "malId": 113138,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-ba979135": {
+                "id": 73462,
                 "identifier": "manga-ba979135",
                 "image": "https://avt.mkklcdnv6temp.com/30/d/16-1583494554.jpg",
                 "malId": 113138,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-ba979135"
             }
         },
-        "MangaFire": {
-            "jujutsu-kaisen.rl2vm": {
-                "identifier": "jujutsu-kaisen.rl2vm",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/40825b829a241fd494d765e2baa4f227.jpg",
-                "malId": 113138,
-                "aniId": 101517,
-                "page": "MangaFire",
-                "title": "Jujutsu Kaisen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jujutsu-kaisen.rl2vm/"
-            },
-            "jujutsu-kaisenn.rl2vm": {
-                "identifier": "jujutsu-kaisenn.rl2vm",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/40825b829a241fd494d765e2baa4f227.jpg",
-                "malId": 113138,
-                "aniId": 101517,
-                "page": "MangaFire",
-                "title": "Jujutsu Kaisen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jujutsu-kaisenn.rl2vm/"
-            }
-        },
         "Weebcentral": {
             "01j76xycerxe60t7fkxvccaq0h": {
+                "id": 210814,
                 "identifier": "01j76xycerxe60t7fkxvccaq0h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCERXE60T7FKXVCCAQ0H.jpg",
                 "malId": 113138,
@@ -106,6 +91,19 @@
                 "title": "Jujutsu Kaisen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCERXE60T7FKXVCCAQ0H"
+            }
+        },
+        "MangaFire": {
+            "rl2vm": {
+                "id": 228089,
+                "identifier": "rl2vm",
+                "image": "https://static.mangafire.to/020a/i/3/30/40825b829a241fd494d765e2baa4f227.jpg",
+                "malId": 113138,
+                "aniId": 101517,
+                "page": "MangaFire",
+                "title": "Jujutsu Kaisen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jujutsu-kaisenn.rl2vm"
             }
         },
         "Comick": {

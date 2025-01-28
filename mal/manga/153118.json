@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e1e57186-b3f4-4540-b707-722c8382f7a4": {
+                "id": 119425,
                 "identifier": "e1e57186-b3f4-4540-b707-722c8382f7a4",
                 "image": "https://uploads.mangadex.org/covers/e1e57186-b3f4-4540-b707-722c8382f7a4/54a3b559-56a1-49c9-92f8-1606f3e6abaa.jpg",
                 "malId": 153118,
@@ -19,15 +20,29 @@
             }
         },
         "MangaFire": {
-            "lady-isabellas-path-to-happiness.qk9n5": {
-                "identifier": "lady-isabellas-path-to-happiness.qk9n5",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/328b348e9a212ab295173d1d701d25a7.jpg",
+            "qk9n5": {
+                "id": 236671,
+                "identifier": "qk9n5",
+                "image": "https://static.mangafire.to/0923/i/3/32/328b348e9a212ab295173d1d701d25a7.jpg",
                 "malId": 153118,
                 "aniId": 151426,
                 "page": "MangaFire",
                 "title": "Lady Isabella's Path to Happiness",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/lady-isabellas-path-to-happiness.qk9n5/"
+                "url": "https://mangafire.to/manga/lady-isabellas-path-to-happinesss.qk9n5"
+            }
+        },
+        "MangaFox": {
+            "the_flower_road_life_of_the_grand_duchess_at_the_end_of_time": {
+                "id": 267752,
+                "identifier": "the_flower_road_life_of_the_grand_duchess_at_the_end_of_time",
+                "image": "https://fmcdn.mfcdn.net/store/manga/42518/cover.jpg",
+                "malId": 153118,
+                "aniId": 151426,
+                "page": "MangaFox",
+                "title": "The Flower Road Life of the Grand Duchess at the End of Time",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/the_flower_road_life_of_the_grand_duchess_at_the_end_of_time/"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "135d3cb6-dfa0-4de0-966c-ce0b96d1c84a": {
+                "id": 13935,
                 "identifier": "135d3cb6-dfa0-4de0-966c-ce0b96d1c84a",
                 "image": "https://uploads.mangadex.org/covers/135d3cb6-dfa0-4de0-966c-ce0b96d1c84a/b4bfef3b-bd14-4ce6-8fcf-33923435e9c4.jpg",
                 "malId": 99179,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-springtime-with-ninjas": {
+                "id": 54635,
                 "identifier": "a-springtime-with-ninjas",
                 "image": "https://temp.compsci88.com/cover/A-Springtime-With-Ninjas.jpg",
                 "malId": 99179,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/A-Springtime-With-Ninjas"
             }
         },
-        "MangaFire": {
-            "hana-to-shinobi.jvn88": {
-                "identifier": "hana-to-shinobi.jvn88",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d2d10f34cf1f2905e7c6ffa322b43d07.jpg",
-                "malId": 99179,
-                "aniId": 98594,
-                "page": "MangaFire",
-                "title": "A Springtime with Ninjas",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hana-to-shinobi.jvn88/"
-            },
-            "jvn88": {
-                "identifier": "jvn88",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d2d10f34cf1f2905e7c6ffa322b43d07.jpg",
-                "malId": 99179,
-                "aniId": 98594,
-                "page": "MangaFire",
-                "title": "A Springtime with Ninjas",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hana-to-shinobi.jvn88/"
-            }
-        },
         "MangaNato": {
             "manga-bw978805": {
+                "id": 164237,
                 "identifier": "manga-bw978805",
                 "image": "https://avt.mkklcdnv6temp.com/fld/65/g/8-1732790805-nw.webp",
                 "malId": 99179,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyc2w6hmjhky8fypkd3na": {
+                "id": 209631,
                 "identifier": "01j76xyc2w6hmjhky8fypkd3na",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2W6HMJHKY8FYPKD3NA.jpg",
                 "malId": 99179,
@@ -74,6 +56,19 @@
                 "title": "A Springtime With Ninjas",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2W6HMJHKY8FYPKD3NA"
+            }
+        },
+        "MangaFire": {
+            "jvn88": {
+                "id": 261975,
+                "identifier": "jvn88",
+                "image": "https://static.mangafire.to/c8bb/i/d/d2/d2d10f34cf1f2905e7c6ffa322b43d07.jpg",
+                "malId": 99179,
+                "aniId": 98594,
+                "page": "MangaFire",
+                "title": "A Springtime with Ninjas",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hana-to-shinobii.jvn88"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fd21b080-26c6-4ef7-84f3-c65a8838bcdf": {
+                "id": 11477,
                 "identifier": "fd21b080-26c6-4ef7-84f3-c65a8838bcdf",
                 "image": "https://uploads.mangadex.org/covers/fd21b080-26c6-4ef7-84f3-c65a8838bcdf/2676bd58-d654-426a-8a2e-39b3e2fa25f5.jpg",
                 "malId": 79145,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "unionn": {
+                "id": 71675,
                 "identifier": "unionn",
                 "image": "https://temp.compsci88.com/cover/Unionn.jpg",
                 "malId": 79145,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Unionn"
             }
         },
-        "MangaFire": {
-            "union.52k5v": {
-                "identifier": "union.52k5v",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d344c651eaab2c028b79792aaebce2c.jpg",
-                "malId": 79145,
-                "aniId": 85579,
-                "page": "MangaFire",
-                "title": "Union!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/union.52k5v/"
-            },
-            "52k5v": {
-                "identifier": "52k5v",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d344c651eaab2c028b79792aaebce2c.jpg",
-                "malId": 79145,
-                "aniId": 85579,
-                "page": "MangaFire",
-                "title": "Union!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/union.52k5v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyatj2jvxtg9yjngx18f4": {
+                "id": 214309,
                 "identifier": "01j76xyatj2jvxtg9yjngx18f4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYATJ2JVXTG9YJNGX18F4.jpg",
                 "malId": 79145,
@@ -62,6 +43,19 @@
                 "title": "Union!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYATJ2JVXTG9YJNGX18F4"
+            }
+        },
+        "MangaFire": {
+            "52k5v": {
+                "id": 237517,
+                "identifier": "52k5v",
+                "image": "https://static.mangafire.to/50ce/i/2/2d/2d344c651eaab2c028b79792aaebce2c.jpg",
+                "malId": 79145,
+                "aniId": 85579,
+                "page": "MangaFire",
+                "title": "Union!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/unionn.52k5v"
             }
         },
         "Comick": {

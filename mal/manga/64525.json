@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "64c98508-97b4-42f9-840e-23aa2cab7fc8": {
+                "id": 19654,
                 "identifier": "64c98508-97b4-42f9-840e-23aa2cab7fc8",
                 "image": "https://uploads.mangadex.org/covers/64c98508-97b4-42f9-840e-23aa2cab7fc8/16791d9b-7877-44ac-8f0b-fc75e9d322b1.png",
                 "malId": 64525,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "akoya-tsutaya": {
+                "id": 51999,
                 "identifier": "akoya-tsutaya",
                 "image": "https://temp.compsci88.com/cover/Akoya-Tsutaya.jpg",
                 "malId": 64525,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Akoya-Tsutaya"
             }
         },
-        "MangaFire": {
-            "akoya-tsutaya.xro18": {
-                "identifier": "akoya-tsutaya.xro18",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5afb32bdab119aa73aa52482f5e30d3.jpg",
-                "malId": 64525,
-                "aniId": 85530,
-                "page": "MangaFire",
-                "title": "The Chronicle of Akoya",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akoya-tsutaya.xro18/"
-            },
-            "xro18": {
-                "identifier": "xro18",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5afb32bdab119aa73aa52482f5e30d3.jpg",
-                "malId": 64525,
-                "aniId": 85530,
-                "page": "MangaFire",
-                "title": "The Chronicle of Akoya",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akoya-tsutaya.xro18/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaw4g107xf7z868ke90d": {
+                "id": 207162,
                 "identifier": "01j76xyaw4g107xf7z868ke90d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAW4G107XF7Z868KE90D.jpg",
                 "malId": 64525,
@@ -62,6 +43,19 @@
                 "title": "Akoya Tsutaya",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAW4G107XF7Z868KE90D"
+            }
+        },
+        "MangaFire": {
+            "xro18": {
+                "id": 246274,
+                "identifier": "xro18",
+                "image": "https://static.mangafire.to/f7d6/i/e/e5/e5afb32bdab119aa73aa52482f5e30d3.jpg",
+                "malId": 64525,
+                "aniId": 85530,
+                "page": "MangaFire",
+                "title": "The Chronicle of Akoya",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/akoya-tsutayaa.xro18"
             }
         },
         "Comick": {

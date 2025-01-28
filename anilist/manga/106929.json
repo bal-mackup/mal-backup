@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e544761-7d3d-4fce-8137-719814d7d138": {
+                "id": 24172,
                 "identifier": "7e544761-7d3d-4fce-8137-719814d7d138",
                 "image": "https://uploads.mangadex.org/covers/7e544761-7d3d-4fce-8137-719814d7d138/248fb53b-45da-4f0f-b7e0-0be6f3eb1025.jpg",
                 "malId": 147171,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eleceed": {
+                "id": 55425,
                 "identifier": "eleceed",
                 "image": "https://temp.compsci88.com/cover/Eleceed.jpg",
                 "malId": 147171,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "eleceed": {
+                "id": 56400,
                 "identifier": "eleceed",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28830/cover.jpg",
                 "malId": 147171,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-de980813": {
+                "id": 73438,
                 "identifier": "manga-de980813",
                 "image": "https://avt.mkklcdnv6temp.com/42/q/17-1583496796.jpg",
                 "malId": 147171,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-de980813"
             }
         },
-        "MangaFire": {
-            "eleceed.qx0v5": {
-                "identifier": "eleceed.qx0v5",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/613c8add0a6267938e2baa194f6dc07c.jpg",
-                "malId": 147171,
-                "aniId": 106929,
-                "page": "MangaFire",
-                "title": "Eleceed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eleceed.qx0v5/"
-            },
-            "eleceedd.qx0v5": {
-                "identifier": "eleceedd.qx0v5",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/613c8add0a6267938e2baa194f6dc07c.jpg",
-                "malId": 147171,
-                "aniId": 106929,
-                "page": "MangaFire",
-                "title": "Eleceed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eleceedd.qx0v5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3q2q7hyymb3fsdpskc": {
+                "id": 210388,
                 "identifier": "01j76xyd3q2q7hyymb3fsdpskc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3Q2Q7HYYMB3FSDPSKC.jpg",
                 "malId": 147171,
@@ -86,6 +69,19 @@
                 "title": "Eleceed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3Q2Q7HYYMB3FSDPSKC"
+            }
+        },
+        "MangaFire": {
+            "qx0v5": {
+                "id": 228669,
+                "identifier": "qx0v5",
+                "image": "https://static.mangafire.to/17fe/i/6/61/613c8add0a6267938e2baa194f6dc07c.jpg",
+                "malId": 147171,
+                "aniId": 106929,
+                "page": "MangaFire",
+                "title": "Eleceed",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eleceedd.qx0v5"
             }
         },
         "Comick": {

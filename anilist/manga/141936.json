@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ea8cf38b-3295-4f2b-aab5-1227985a3588": {
+                "id": 52630,
                 "identifier": "ea8cf38b-3295-4f2b-aab5-1227985a3588",
                 "image": "https://uploads.mangadex.org/covers/ea8cf38b-3295-4f2b-aab5-1227985a3588/4dbfc2f9-024d-474d-85c0-f2ef00d194a9.jpg",
                 "malId": 142015,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-geek-ex-hitman": {
+                "id": 114364,
                 "identifier": "the-geek-ex-hitman",
                 "image": "https://temp.compsci88.com/cover/The-Geek-Ex-Hitman.jpg",
                 "malId": 142015,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/The-Geek-Ex-Hitman"
             }
         },
-        "MangaFire": {
-            "sono-otaku-moto-koroshi-ya.oo935": {
-                "identifier": "sono-otaku-moto-koroshi-ya.oo935",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3d5c601616911c3866723375fa6acb6.jpg",
-                "malId": 142015,
-                "aniId": 141936,
-                "page": "MangaFire",
-                "title": "The Geek Ex-Hitman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sono-otaku-moto-koroshi-ya.oo935/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnbaxmkh9xrc32d0jjn": {
+                "id": 212222,
                 "identifier": "01j76xyfnbaxmkh9xrc32d0jjn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNBAXMKH9XRC32D0JJN.jpg",
                 "malId": 142015,
@@ -52,6 +43,19 @@
                 "title": "The Geek Ex-Hitman",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNBAXMKH9XRC32D0JJN"
+            }
+        },
+        "MangaFire": {
+            "oo935": {
+                "id": 249087,
+                "identifier": "oo935",
+                "image": "https://static.mangafire.to/6fd2/i/b/b3/b3d5c601616911c3866723375fa6acb6.jpg",
+                "malId": 142015,
+                "aniId": 141936,
+                "page": "MangaFire",
+                "title": "The Geek Ex-Hitman",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sono-otaku-moto-koroshi-yaa.oo935"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "42f62ab4-8fdb-4710-956d-999e3c55f7ad": {
+                "id": 50041,
                 "identifier": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
                 "image": "https://uploads.mangadex.org/covers/42f62ab4-8fdb-4710-956d-999e3c55f7ad/e52d6143-56b1-4bdc-b3f8-8d6937500e55.jpg",
                 "malId": 139761,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kx987380": {
+                "id": 73639,
                 "identifier": "manga-kx987380",
                 "image": "https://avt.mkklcdnv6temp.com/45/k/22-1607877298.jpg",
                 "malId": 139761,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ore-wa-subete-o-parry-suru": {
+                "id": 82600,
                 "identifier": "ore-wa-subete-o-parry-suru",
                 "image": "https://temp.compsci88.com/cover/Ore-wa-Subete-o-Parry-Suru.jpg",
                 "malId": 139761,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Ore-wa-Subete-o-Parry-Suru"
             }
         },
-        "MangaFire": {
-            "ore-wa-subete-wo-parry-suru.6l170": {
-                "identifier": "ore-wa-subete-wo-parry-suru.6l170",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc3c263d8f4b748423c101bedfbc698b.jpg",
-                "malId": 139761,
-                "aniId": 131041,
-                "page": "MangaFire",
-                "title": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-wa-subete-wo-parry-suru.6l170/"
-            },
-            "ore-wa-subete-wo-parry-suruu.6l170": {
-                "identifier": "ore-wa-subete-wo-parry-suruu.6l170",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc3c263d8f4b748423c101bedfbc698b.jpg",
-                "malId": 139761,
-                "aniId": 131041,
-                "page": "MangaFire",
-                "title": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-wa-subete-wo-parry-suruu.6l170/"
-            }
-        },
         "Weebcentral": {
             "01j76xyey3kq567wmd5h0zhf0d": {
+                "id": 211576,
                 "identifier": "01j76xyey3kq567wmd5h0zhf0d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEY3KQ567WMD5H0ZHF0D.jpg",
                 "malId": 139761,
@@ -74,6 +56,19 @@
                 "title": "I Parry Everything - What Do You Mean I'm the Strongest I'm Not Even an Adventurer Yet!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEY3KQ567WMD5H0ZHF0D"
+            }
+        },
+        "MangaFire": {
+            "6l170": {
+                "id": 226747,
+                "identifier": "6l170",
+                "image": "https://static.mangafire.to/7151/i/f/fc/fc3c263d8f4b748423c101bedfbc698b.jpg",
+                "malId": 139761,
+                "aniId": 131041,
+                "page": "MangaFire",
+                "title": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-wa-subete-wo-parry-suruu.6l170"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "469171aa-78cd-475c-98c5-68475d059dc1": {
+                "id": 13098,
                 "identifier": "469171aa-78cd-475c-98c5-68475d059dc1",
                 "image": "https://uploads.mangadex.org/covers/469171aa-78cd-475c-98c5-68475d059dc1/780de745-aa80-4f0a-b862-59f772f11cde.jpg",
                 "malId": 89703,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-tensei-soudouki": {
+                "id": 54782,
                 "identifier": "isekai-tensei-soudouki",
                 "image": "https://temp.compsci88.com/cover/Isekai-Tensei-Soudouki.jpg",
                 "malId": 89703,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_tensei_soudouki": {
+                "id": 57155,
                 "identifier": "isekai_tensei_soudouki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15776/cover.jpg",
                 "malId": 89703,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lc952485": {
+                "id": 73573,
                 "identifier": "manga-lc952485",
                 "image": "https://avt.mkklcdnv6temp.com/41/a/1-1583465320.jpg",
                 "malId": 89703,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-lc952485"
             }
         },
-        "MangaFire": {
-            "isekai-tensei-soudouki.m2n5v": {
-                "identifier": "isekai-tensei-soudouki.m2n5v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c45f56fbe314a1f1fd3a492d3834d803.jpg",
-                "malId": 89703,
-                "aniId": 95098,
-                "page": "MangaFire",
-                "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-tensei-soudouki.m2n5v/"
-            },
-            "isekai-tensei-soudoukii.m2n5v": {
-                "identifier": "isekai-tensei-soudoukii.m2n5v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c45f56fbe314a1f1fd3a492d3834d803.jpg",
-                "malId": 89703,
-                "aniId": 95098,
-                "page": "MangaFire",
-                "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-tensei-soudoukii.m2n5v/"
-            },
-            "m2n5v": {
-                "identifier": "m2n5v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c45f56fbe314a1f1fd3a492d3834d803.jpg",
-                "malId": 89703,
-                "aniId": 95098,
-                "page": "MangaFire",
-                "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-tensei-soudoukii.m2n5v/"
-            }
-        },
         "Weebcentral": {
             "01j76xybh6a1jqaejm2aa0pg3s": {
+                "id": 214422,
                 "identifier": "01j76xybh6a1jqaejm2aa0pg3s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBH6A1JQAEJM2AA0PG3S.jpg",
                 "malId": 89703,
@@ -96,6 +69,19 @@
                 "title": "Multi-Mind Mayhem - Isekai Tensei Soudouki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBH6A1JQAEJM2AA0PG3S"
+            }
+        },
+        "MangaFire": {
+            "m2n5v": {
+                "id": 226561,
+                "identifier": "m2n5v",
+                "image": "https://static.mangafire.to/3468/i/c/c4/c45f56fbe314a1f1fd3a492d3834d803.jpg",
+                "malId": 89703,
+                "aniId": 95098,
+                "page": "MangaFire",
+                "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-tensei-soudoukii.m2n5v"
             }
         },
         "Comick": {

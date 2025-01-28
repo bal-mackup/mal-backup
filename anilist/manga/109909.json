@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "efd744d7-fc6b-4ec4-bdb0-304c4899ce56": {
+                "id": 52822,
                 "identifier": "efd744d7-fc6b-4ec4-bdb0-304c4899ce56",
                 "image": "https://uploads.mangadex.org/covers/efd744d7-fc6b-4ec4-bdb0-304c4899ce56/381b9a46-ce1e-4d82-af1b-1aebbb19e9d3.jpg",
                 "malId": 131623,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gajuu-the-beast": {
+                "id": 58071,
                 "identifier": "gajuu-the-beast",
                 "image": "https://temp.compsci88.com/cover/Gajuu-The-Beast.jpg",
                 "malId": 131623,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jc987311": {
+                "id": 72877,
                 "identifier": "manga-jc987311",
                 "image": "https://avt.mkklcdnv6temp.com/42/m/22-1607140195.jpg",
                 "malId": 131623,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-jc987311"
             }
         },
-        "MangaFire": {
-            "gajuu-the-beast.6vpjz": {
-                "identifier": "gajuu-the-beast.6vpjz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cbb56c30e2bea773ef3a5f2ec8cfd7d0.jpg",
-                "malId": 131623,
-                "aniId": 109909,
-                "page": "MangaFire",
-                "title": "Gajuu: The Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gajuu-the-beast.6vpjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8r0bmyr559b6zw7d64": {
+                "id": 213139,
                 "identifier": "01j76xye8r0bmyr559b6zw7d64",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8R0BMYR559B6ZW7D64.jpg",
                 "malId": 131623,
@@ -64,6 +56,19 @@
                 "title": "Gajuu: The Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8R0BMYR559B6ZW7D64"
+            }
+        },
+        "MangaFire": {
+            "6vpjz": {
+                "id": 258206,
+                "identifier": "6vpjz",
+                "image": "https://static.mangafire.to/9cd6/i/c/cb/cbb56c30e2bea773ef3a5f2ec8cfd7d0.jpg",
+                "malId": 131623,
+                "aniId": 109909,
+                "page": "MangaFire",
+                "title": "Gajuu: The Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gajuu-the-beastt.6vpjz"
             }
         },
         "Comick": {

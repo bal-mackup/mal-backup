@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "48e41a5a-ad7d-4f1f-bd93-776b0db79996": {
+                "id": 31037,
                 "identifier": "48e41a5a-ad7d-4f1f-bd93-776b0db79996",
                 "image": "https://uploads.mangadex.org/covers/48e41a5a-ad7d-4f1f-bd93-776b0db79996/eba8588f-b5d6-4ac6-839e-7a83c44c7e0f.jpg",
                 "malId": 110560,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-white-rose-in-bloom": {
+                "id": 57822,
                 "identifier": "a-white-rose-in-bloom",
                 "image": "https://temp.compsci88.com/cover/A-White-Rose-in-Bloom.jpg",
                 "malId": 110560,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/A-White-Rose-in-Bloom"
             }
         },
-        "MangaFire": {
-            "mejirobana-no-saku.xnq8": {
-                "identifier": "mejirobana-no-saku.xnq8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/99baebd5bef40322d61aed51c6414103.jpg",
-                "malId": 110560,
-                "aniId": 108360,
-                "page": "MangaFire",
-                "title": "A White Rose in Bloom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mejirobana-no-saku.xnq8/"
-            }
-        },
         "Weebcentral": {
             "01j76xye7we7sdc0wpyagpsqtn": {
+                "id": 213399,
                 "identifier": "01j76xye7we7sdc0wpyagpsqtn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE7WE7SDC0WPYAGPSQTN.jpg",
                 "malId": 110560,
@@ -52,6 +43,32 @@
                 "title": "A White Rose in Bloom",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE7WE7SDC0WPYAGPSQTN"
+            }
+        },
+        "MangaFire": {
+            "xnq8": {
+                "id": 262926,
+                "identifier": "xnq8",
+                "image": "https://static.mangafire.to/d80a/i/9/99/99baebd5bef40322d61aed51c6414103.jpg",
+                "malId": 110560,
+                "aniId": 108360,
+                "page": "MangaFire",
+                "title": "A White Rose in Bloom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mejirobana-no-sakuu.xnq8"
+            }
+        },
+        "MangaNato": {
+            "manga-bu1004929": {
+                "id": 268048,
+                "identifier": "manga-bu1004929",
+                "image": "https://avt.mkklcdnv6temp.com/fld/40/z/18-1733329681-nw.webp",
+                "malId": 110560,
+                "aniId": 108360,
+                "page": "MangaNato",
+                "title": "A White Rose In Bloom",
+                "type": "manga",
+                "url": "https://manganato.com/manga-bu1004929"
             }
         },
         "MangaReader": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cffe8e9c-bfb8-47a1-909c-f877d947df3b": {
+                "id": 40207,
                 "identifier": "cffe8e9c-bfb8-47a1-909c-f877d947df3b",
                 "image": "https://uploads.mangadex.org/covers/cffe8e9c-bfb8-47a1-909c-f877d947df3b/51cdf3e9-10d8-44c7-bfa1-3c1e2d72957a.jpg",
                 "malId": 132949,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kn987696": {
+                "id": 80239,
                 "identifier": "manga-kn987696",
                 "image": "https://avt.mkklcdnv6temp.com/8/k/23-1611113294.jpg",
                 "malId": 132949,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kaodake_ja_suki_ni_narimasen": {
+                "id": 86200,
                 "identifier": "kaodake_ja_suki_ni_narimasen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39143/cover.jpg",
                 "malId": 132949,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "it-takes-more-than-a-pretty-face-to-fall-in-love": {
+                "id": 128640,
                 "identifier": "it-takes-more-than-a-pretty-face-to-fall-in-love",
                 "image": "https://temp.compsci88.com/cover/It-Takes-More-than-a-Pretty-Face-to-Fall-in-Love.jpg",
                 "malId": 132949,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/It-Takes-More-than-a-Pretty-Face-to-Fall-in-Love"
             }
         },
-        "MangaFire": {
-            "kao-dake-ja-suki-ni-narimasen.m20o8": {
-                "identifier": "kao-dake-ja-suki-ni-narimasen.m20o8",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f9a8bc1e4a5b9e4cb30e9a8dfc03e64.jpg",
-                "malId": 132949,
-                "aniId": 122226,
-                "page": "MangaFire",
-                "title": "It Takes More than a Pretty Face to Fall in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kao-dake-ja-suki-ni-narimasen.m20o8/"
-            },
-            "kao-dake-ja-suki-ni-narimasenn.m20o8": {
-                "identifier": "kao-dake-ja-suki-ni-narimasenn.m20o8",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f9a8bc1e4a5b9e4cb30e9a8dfc03e64.jpg",
-                "malId": 132949,
-                "aniId": 122226,
-                "page": "MangaFire",
-                "title": "It Takes More than a Pretty Face to Fall in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kao-dake-ja-suki-ni-narimasenn.m20o8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1sf8ppse7kvnddkw62": {
+                "id": 210362,
                 "identifier": "01j76xyg1sf8ppse7kvnddkw62",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1SF8PPSE7KVNDDKW62.jpg",
                 "malId": 132949,
@@ -86,6 +69,19 @@
                 "title": "It Takes More Than a Pretty Face to Fall in Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1SF8PPSE7KVNDDKW62"
+            }
+        },
+        "MangaFire": {
+            "m20o8": {
+                "id": 227576,
+                "identifier": "m20o8",
+                "image": "https://static.mangafire.to/d4cd/i/7/7f/7f9a8bc1e4a5b9e4cb30e9a8dfc03e64.jpg",
+                "malId": 132949,
+                "aniId": 122226,
+                "page": "MangaFire",
+                "title": "It Takes More than a Pretty Face to Fall in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kao-dake-ja-suki-ni-narimasenn.m20o8"
             }
         },
         "Comick": {

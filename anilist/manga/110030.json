@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4d12b7ee-d834-4214-999a-bd824b8d9470": {
+                "id": 30299,
                 "identifier": "4d12b7ee-d834-4214-999a-bd824b8d9470",
                 "image": "https://uploads.mangadex.org/covers/4d12b7ee-d834-4214-999a-bd824b8d9470/1c932cc9-9d4f-4a72-9a8c-162c4c233835.jpg",
                 "malId": 123125,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ijimeru-yabai-yatsu": {
+                "id": 69080,
                 "identifier": "ijimeru-yabai-yatsu",
                 "image": "https://temp.compsci88.com/cover/Ijimeru-Yabai-Yatsu.jpg",
                 "malId": 123125,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fa983335": {
+                "id": 74197,
                 "identifier": "manga-fa983335",
                 "image": "https://avt.mkklcdnv6temp.com/34/q/19-1583500452.jpg",
                 "malId": 123125,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ijimeru_yabai_yatsu": {
+                "id": 90599,
                 "identifier": "ijimeru_yabai_yatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31661/cover.jpg",
                 "malId": 123125,
@@ -54,6 +58,7 @@
                 "url": "https://fanfox.net/manga/ijimeru_yabai_yatsu/"
             },
             "ijima_yabai_yatsu": {
+                "id": 118914,
                 "identifier": "ijima_yabai_yatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31643/cover.jpg",
                 "malId": 123125,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/ijima_yabai_yatsu/"
             }
         },
-        "MangaFire": {
-            "ijimeru-yabai-yatsu.xj2mv": {
-                "identifier": "ijimeru-yabai-yatsu.xj2mv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4d153c179e1796f7550392a02f797b3.jpg",
-                "malId": 123125,
-                "aniId": 110030,
-                "page": "MangaFire",
-                "title": "Ijimeru Yabai Yatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ijimeru-yabai-yatsu.xj2mv/"
-            },
-            "ijimeru-yabai-yatsuu.xj2mv": {
-                "identifier": "ijimeru-yabai-yatsuu.xj2mv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4d153c179e1796f7550392a02f797b3.jpg",
-                "malId": 123125,
-                "aniId": 110030,
-                "page": "MangaFire",
-                "title": "Ijimeru Yabai Yatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ijimeru-yabai-yatsuu.xj2mv/"
-            }
-        },
         "Weebcentral": {
             "01j76xydbtbaw6z21jctw0s1cg": {
+                "id": 213148,
                 "identifier": "01j76xydbtbaw6z21jctw0s1cg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDBTBAW6Z21JCTW0S1CG.jpg",
                 "malId": 123125,
@@ -96,6 +80,19 @@
                 "title": "Ijimeru Yabai Yatsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDBTBAW6Z21JCTW0S1CG"
+            }
+        },
+        "MangaFire": {
+            "xj2mv": {
+                "id": 224217,
+                "identifier": "xj2mv",
+                "image": "https://static.mangafire.to/be9c/i/c/c4/c4d153c179e1796f7550392a02f797b3.jpg",
+                "malId": 123125,
+                "aniId": 110030,
+                "page": "MangaFire",
+                "title": "Ijimeru Yabai Yatsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ijimeru-yabai-yatsuu.xj2mv"
             }
         },
         "Comick": {

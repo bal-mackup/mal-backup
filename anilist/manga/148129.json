@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "this-vampire-wont-give-up": {
+                "id": 107042,
                 "identifier": "this-vampire-wont-give-up",
                 "image": "https://temp.compsci88.com/cover/This-Vampire-Wont-Give-Up.jpg",
                 "malId": 148057,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "bee0880b-09d3-470c-8df5-ca7859d72d54": {
+                "id": 107332,
                 "identifier": "bee0880b-09d3-470c-8df5-ca7859d72d54",
                 "image": "https://uploads.mangadex.org/covers/bee0880b-09d3-470c-8df5-ca7859d72d54/8dca6dfe-f5db-4378-a4f6-0ed4c0bb5a1c.jpg",
                 "malId": 148057,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/bee0880b-09d3-470c-8df5-ca7859d72d54"
             }
         },
-        "MangaFire": {
-            "vampire-sama-ga-akiramenai.kky94": {
-                "identifier": "vampire-sama-ga-akiramenai.kky94",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/ad22e1fd595b438ef28f5babad87ca91.jpg",
-                "malId": 148057,
-                "aniId": 148129,
-                "page": "MangaFire",
-                "title": "This Vampire Won't Give Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampire-sama-ga-akiramenai.kky94/"
-            }
-        },
         "MangaNato": {
             "manga-rw994405": {
+                "id": 162286,
                 "identifier": "manga-rw994405",
                 "image": "https://avt.mkklcdnv6temp.com/fld/38/z/14-1733302843-nw.webp",
                 "malId": 148057,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfgn4j89d8chvk0ccx31": {
+                "id": 207243,
                 "identifier": "01j76xyfgn4j89d8chvk0ccx31",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFGN4J89D8CHVK0CCX31.jpg",
                 "malId": 148057,
@@ -64,6 +56,19 @@
                 "title": "This Vampire Won't Give Up!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFGN4J89D8CHVK0CCX31"
+            }
+        },
+        "MangaFire": {
+            "kky94": {
+                "id": 233897,
+                "identifier": "kky94",
+                "image": "https://static.mangafire.to/5e84/i/a/ad/ad22e1fd595b438ef28f5babad87ca91.jpg",
+                "malId": 148057,
+                "aniId": 148129,
+                "page": "MangaFire",
+                "title": "This Vampire Won't Give Up!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/vampire-sama-ga-akiramenaii.kky94"
             }
         }
     },

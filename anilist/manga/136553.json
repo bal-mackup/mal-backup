@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "810e7c3a-200e-41f7-a5b0-ba2f8083ffd8": {
+                "id": 64210,
                 "identifier": "810e7c3a-200e-41f7-a5b0-ba2f8083ffd8",
                 "image": "https://uploads.mangadex.org/covers/810e7c3a-200e-41f7-a5b0-ba2f8083ffd8/d7c6f8f8-c7e0-43c3-a608-abed58a24156.jpg",
                 "malId": 130464,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "goodbye-eden": {
+                "id": 120568,
                 "identifier": "goodbye-eden",
                 "image": "https://temp.compsci88.com/cover/Goodbye-Eden.jpg",
                 "malId": 130464,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Goodbye-Eden"
             }
         },
-        "MangaFire": {
-            "sayonara-eden.kwrlv": {
-                "identifier": "sayonara-eden.kwrlv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2ab342820ad3a136a8f36cad9fc347ae.jpg",
-                "malId": 130464,
-                "aniId": 136553,
-                "page": "MangaFire",
-                "title": "Goodbye, Eden",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sayonara-eden.kwrlv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfw0rrdgpacwag5a5r8r": {
+                "id": 214215,
                 "identifier": "01j76xyfw0rrdgpacwag5a5r8r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFW0RRDGPACWAG5A5R8R.jpg",
                 "malId": 130464,
@@ -52,6 +43,19 @@
                 "title": "Goodbye, Eden",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFW0RRDGPACWAG5A5R8R"
+            }
+        },
+        "MangaFire": {
+            "kwrlv": {
+                "id": 260522,
+                "identifier": "kwrlv",
+                "image": "https://static.mangafire.to/68d0/i/2/2a/2ab342820ad3a136a8f36cad9fc347ae.jpg",
+                "malId": 130464,
+                "aniId": 136553,
+                "page": "MangaFire",
+                "title": "Goodbye, Eden",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sayonara-edenn.kwrlv"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "622d9a81-11d3-433b-819b-d3d882c8213d": {
+                "id": 10769,
                 "identifier": "622d9a81-11d3-433b-819b-d3d882c8213d",
                 "image": "https://uploads.mangadex.org/covers/622d9a81-11d3-433b-819b-d3d882c8213d/860f941b-1533-45d5-9339-84b7a91fe84e.jpg",
                 "malId": 63535,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "amaama-to-inazuma": {
+                "id": 57096,
                 "identifier": "amaama-to-inazuma",
                 "image": "https://temp.compsci88.com/cover/Amaama-To-Inazuma.jpg",
                 "malId": 63535,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sweetness_and_lightning": {
+                "id": 66181,
                 "identifier": "sweetness_and_lightning",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15193/cover.jpg",
                 "malId": 63535,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/sweetness_and_lightning/"
             },
             "amaama_to_inazuma": {
+                "id": 69895,
                 "identifier": "amaama_to_inazuma",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27795/cover.jpg",
                 "malId": 63535,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-xh952116": {
+                "id": 75743,
                 "identifier": "manga-xh952116",
                 "image": "https://avt.mkklcdnv6temp.com/28/i/1-1583464803.jpg",
                 "malId": 63535,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-xh952116"
             }
         },
-        "MangaFire": {
-            "sweetness-and-lightning.xk78": {
-                "identifier": "sweetness-and-lightning.xk78",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/715e83a2c1413f5580e9ad96d1edafa0.jpg",
-                "malId": 63535,
-                "aniId": 86044,
-                "page": "MangaFire",
-                "title": "Sweetness and Lightning",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sweetness-and-lightning.xk78/"
-            },
-            "sweetness-and-lightningg.xk78": {
-                "identifier": "sweetness-and-lightningg.xk78",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/715e83a2c1413f5580e9ad96d1edafa0.jpg",
-                "malId": 63535,
-                "aniId": 86044,
-                "page": "MangaFire",
-                "title": "Sweetness and Lightning",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sweetness-and-lightningg.xk78/"
-            },
-            "xk78": {
-                "identifier": "xk78",
-                "image": "https://static.mangafire.to/c03e/i/7/71/715e83a2c1413f5580e9ad96d1edafa0.jpg",
-                "malId": 63535,
-                "aniId": 86044,
-                "page": "MangaFire",
-                "title": "Sweetness and Lightning",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sweetness-and-lightningg.xk78"
-            }
-        },
         "Weebcentral": {
             "01j76xybj73j612fzy6njxdbs8": {
+                "id": 206337,
                 "identifier": "01j76xybj73j612fzy6njxdbs8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJ73J612FZY6NJXDBS8.jpg",
                 "malId": 63535,
@@ -106,6 +80,19 @@
                 "title": "Sweetness and Lightning",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJ73J612FZY6NJXDBS8"
+            }
+        },
+        "MangaFire": {
+            "xk78": {
+                "id": 227977,
+                "identifier": "xk78",
+                "image": "https://static.mangafire.to/c03e/i/7/71/715e83a2c1413f5580e9ad96d1edafa0.jpg",
+                "malId": 63535,
+                "aniId": 86044,
+                "page": "MangaFire",
+                "title": "Sweetness and Lightning",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sweetness-and-lightningg.xk78"
             }
         },
         "Comick": {

@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "a3d681d7-a239-45a9-8446-5bfc61ca48fa": {
+                "id": 13352,
                 "identifier": "a3d681d7-a239-45a9-8446-5bfc61ca48fa",
-                "image": "https://uploads.mangadex.org/covers/a3d681d7-a239-45a9-8446-5bfc61ca48fa/f6c8523e-cc60-410a-8709-99fd3020c6e3.jpg",
+                "image": "https://uploads.mangadex.org/covers/a3d681d7-a239-45a9-8446-5bfc61ca48fa/aa05ab0f-3f6d-4ea8-82a5-78b3b70cac8b.jpg",
                 "malId": 88639,
                 "aniId": 87350,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ohayou_ibarahime": {
+                "id": 55099,
                 "identifier": "ohayou_ibarahime",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26233/cover.jpg",
                 "malId": 88639,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ohayou-ibarahime": {
+                "id": 55312,
                 "identifier": "ohayou-ibarahime",
                 "image": "https://temp.compsci88.com/cover/Ohayou-Ibarahime.jpg",
                 "malId": 88639,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ei954443": {
+                "id": 76564,
                 "identifier": "manga-ei954443",
                 "image": "https://avt.mkklcdnv6temp.com/7/w/3-1583467947.jpg",
                 "malId": 88639,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ei954443"
             }
         },
-        "MangaFire": {
-            "good-morning-sleeping-beauty.n3q6l": {
-                "identifier": "good-morning-sleeping-beauty.n3q6l",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/1202537f2eb4d74645eede943467b141.jpg",
-                "malId": 88639,
-                "aniId": 87350,
-                "page": "MangaFire",
-                "title": "Wake up, Sleeping Beauty",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/good-morning-sleeping-beauty.n3q6l/"
-            },
-            "good-morning-sleeping-beautyy.n3q6l": {
-                "identifier": "good-morning-sleeping-beautyy.n3q6l",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/1202537f2eb4d74645eede943467b141.jpg",
-                "malId": 88639,
-                "aniId": 87350,
-                "page": "MangaFire",
-                "title": "Wake up, Sleeping Beauty",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/good-morning-sleeping-beautyy.n3q6l/"
-            },
-            "n3q6l": {
-                "identifier": "n3q6l",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/1202537f2eb4d74645eede943467b141.jpg",
-                "malId": 88639,
-                "aniId": 87350,
-                "page": "MangaFire",
-                "title": "Wake up, Sleeping Beauty",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/good-morning-sleeping-beautyy.n3q6l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyca1fvgdy80v4abj5cqp": {
+                "id": 206620,
                 "identifier": "01j76xyca1fvgdy80v4abj5cqp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCA1FVGDY80V4ABJ5CQP.jpg",
                 "malId": 88639,
@@ -96,6 +69,19 @@
                 "title": "Wake Up, Sleeping Beauty",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCA1FVGDY80V4ABJ5CQP"
+            }
+        },
+        "MangaFire": {
+            "n3q6l": {
+                "id": 224168,
+                "identifier": "n3q6l",
+                "image": "https://static.mangafire.to/bf39/i/1/12/1202537f2eb4d74645eede943467b141.jpg",
+                "malId": 88639,
+                "aniId": 87350,
+                "page": "MangaFire",
+                "title": "Wake up, Sleeping Beauty",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/good-morning-sleeping-beautyy.n3q6l"
             }
         },
         "Comick": {

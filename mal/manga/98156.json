@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0eefe0f3-ecd6-4766-8ad5-55efd0bee50b": {
+                "id": 15934,
                 "identifier": "0eefe0f3-ecd6-4766-8ad5-55efd0bee50b",
                 "image": "https://uploads.mangadex.org/covers/0eefe0f3-ecd6-4766-8ad5-55efd0bee50b/22baa047-73fa-4db1-b5ec-aa568a864b5c.jpg",
                 "malId": 98156,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "maken-no-daydreamer": {
+                "id": 56273,
                 "identifier": "maken-no-daydreamer",
                 "image": "https://temp.compsci88.com/cover/Maken-No-Daydreamer.jpg",
                 "malId": 98156,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "maken_no_daydreamer": {
+                "id": 59853,
                 "identifier": "maken_no_daydreamer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20999/cover.jpg",
                 "malId": 98156,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ua972183": {
+                "id": 73258,
                 "identifier": "manga-ua972183",
                 "image": "https://avt.mkklcdnv6temp.com/9/t/14-1583490062.jpg",
                 "malId": 98156,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ua972183"
             }
         },
-        "MangaFire": {
-            "maken-no-daydreamer.kwo3w": {
-                "identifier": "maken-no-daydreamer.kwo3w",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/debe1687c5b21381d101ca538190d5b3.jpg",
-                "malId": 98156,
-                "aniId": 97150,
-                "page": "MangaFire",
-                "title": "Demon Fist Daydreamer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maken-no-daydreamer.kwo3w/"
-            },
-            "maken-no-daydreamerr.kwo3w": {
-                "identifier": "maken-no-daydreamerr.kwo3w",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/debe1687c5b21381d101ca538190d5b3.jpg",
-                "malId": 98156,
-                "aniId": 97150,
-                "page": "MangaFire",
-                "title": "Demon Fist Daydreamer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maken-no-daydreamerr.kwo3w/"
-            }
-        },
         "Weebcentral": {
             "01j76xybwmk011b7y15v1fp44j": {
+                "id": 212920,
                 "identifier": "01j76xybwmk011b7y15v1fp44j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBWMK011B7Y15V1FP44J.jpg",
                 "malId": 98156,
@@ -86,6 +69,19 @@
                 "title": "Maken no Daydreamer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBWMK011B7Y15V1FP44J"
+            }
+        },
+        "MangaFire": {
+            "kwo3w": {
+                "id": 243863,
+                "identifier": "kwo3w",
+                "image": "https://static.mangafire.to/569c/i/d/de/debe1687c5b21381d101ca538190d5b3.jpg",
+                "malId": 98156,
+                "aniId": 97150,
+                "page": "MangaFire",
+                "title": "Demon Fist Daydreamer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maken-no-daydreamerr.kwo3w"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8d7b815d-c34c-4f24-8a52-348181b936ad": {
+                "id": 50070,
                 "identifier": "8d7b815d-c34c-4f24-8a52-348181b936ad",
                 "image": "https://uploads.mangadex.org/covers/8d7b815d-c34c-4f24-8a52-348181b936ad/129143c0-c08d-4965-a6a7-5968c7a7afea.jpg",
                 "malId": 109222,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pompo-the-cinphile": {
+                "id": 85840,
                 "identifier": "pompo-the-cinphile",
                 "image": "https://temp.compsci88.com/cover/Pompo-The-Cinphile.jpg",
                 "malId": 109222,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Pompo-The-Cinphile"
             }
         },
-        "MangaFire": {
-            "eiga-daisuki-pompo-san.0rn95": {
-                "identifier": "eiga-daisuki-pompo-san.0rn95",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8c74a8855d291d1cad04866f56ceb128.jpg",
-                "malId": 109222,
-                "aniId": 105451,
-                "page": "MangaFire",
-                "title": "Pompo: The Cinéphile",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eiga-daisuki-pompo-san.0rn95/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeys8vekb847126a5vns": {
+                "id": 208748,
                 "identifier": "01j76xyeys8vekb847126a5vns",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYS8VEKB847126A5VNS.jpg",
                 "malId": 109222,
@@ -52,6 +43,19 @@
                 "title": "Pompo - The Cinéphile",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYS8VEKB847126A5VNS"
+            }
+        },
+        "MangaFire": {
+            "0rn95": {
+                "id": 255070,
+                "identifier": "0rn95",
+                "image": "https://static.mangafire.to/7a77/i/8/8c/8c74a8855d291d1cad04866f56ceb128.jpg",
+                "malId": 109222,
+                "aniId": 105451,
+                "page": "MangaFire",
+                "title": "Pompo: The Cinéphile",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eiga-daisuki-pompo-sann.0rn95"
             }
         },
         "Comick": {

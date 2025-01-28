@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8f66ebd9-e17f-4d70-9814-a4ebf1e1d453": {
+                "id": 29167,
                 "identifier": "8f66ebd9-e17f-4d70-9814-a4ebf1e1d453",
                 "image": "https://uploads.mangadex.org/covers/8f66ebd9-e17f-4d70-9814-a4ebf1e1d453/dbca6f30-59f9-4c41-b1b7-437bd6d14c9a.jpg",
                 "malId": 149251,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "beatrice": {
+                "id": 61675,
                 "identifier": "beatrice",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30999/cover.jpg",
                 "malId": 149251,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "beatrice": {
+                "id": 65497,
                 "identifier": "beatrice",
                 "image": "https://temp.compsci88.com/cover/Beatrice.jpg",
                 "malId": 149251,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-er982274": {
+                "id": 73626,
                 "identifier": "manga-er982274",
                 "image": "https://avt.mkklcdnv6temp.com/45/p/18-1583498871.jpg",
                 "malId": 149251,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-er982274"
             }
         },
-        "MangaFire": {
-            "beatrice.293oq": {
-                "identifier": "beatrice.293oq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b75cdb20db3e20933095f0612b0b13ea.jpg",
-                "malId": 149251,
-                "aniId": 110978,
-                "page": "MangaFire",
-                "title": "Beatrice",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beatrice.293oq/"
-            },
-            "beatricee.293oq": {
-                "identifier": "beatricee.293oq",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b75cdb20db3e20933095f0612b0b13ea.jpg",
-                "malId": 149251,
-                "aniId": 110978,
-                "page": "MangaFire",
-                "title": "Beatrice",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beatricee.293oq/"
-            }
-        },
         "Weebcentral": {
             "01j76xye9wmevqh0d36zrn8dcy": {
+                "id": 213214,
                 "identifier": "01j76xye9wmevqh0d36zrn8dcy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE9WMEVQH0D36ZRN8DCY.jpg",
                 "malId": 149251,
@@ -86,6 +69,19 @@
                 "title": "Beatrice",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE9WMEVQH0D36ZRN8DCY"
+            }
+        },
+        "MangaFire": {
+            "293oq": {
+                "id": 226313,
+                "identifier": "293oq",
+                "image": "https://static.mangafire.to/6747/i/b/b7/b75cdb20db3e20933095f0612b0b13ea.jpg",
+                "malId": 149251,
+                "aniId": 110978,
+                "page": "MangaFire",
+                "title": "Beatrice",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beatricee.293oq"
             }
         },
         "Comick": {

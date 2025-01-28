@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c322dbd7-bf69-468a-b6c8-41e110e1e0ff": {
+                "id": 106691,
                 "identifier": "c322dbd7-bf69-468a-b6c8-41e110e1e0ff",
                 "image": "https://uploads.mangadex.org/covers/c322dbd7-bf69-468a-b6c8-41e110e1e0ff/982dfb2d-36c3-4660-b219-706bbe381b75.jpg",
                 "malId": 149463,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nf991214": {
+                "id": 107416,
                 "identifier": "manga-nf991214",
                 "image": "https://avt.mkklcdnv6temp.com/6/e/26-1655340682.jpg",
                 "malId": 149463,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "superhuman_battlefield": {
+                "id": 107945,
                 "identifier": "superhuman_battlefield",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42963/cover.jpg",
                 "malId": 149463,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/superhuman_battlefield/"
             }
         },
-        "MangaFire": {
-            "choinui-game.xrkow": {
-                "identifier": "choinui-game.xrkow",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/4081215d2c21bd38fb68d8affd8765e2.jpg",
-                "malId": 149463,
-                "aniId": 150744,
-                "page": "MangaFire",
-                "title": "The Esper's Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choinui-game.xrkow/"
-            },
-            "choinui-gamee.xrkow": {
-                "identifier": "choinui-gamee.xrkow",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/4081215d2c21bd38fb68d8affd8765e2.jpg",
-                "malId": 149463,
-                "aniId": 150744,
-                "page": "MangaFire",
-                "title": "The Esper's Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choinui-gamee.xrkow/"
-            }
-        },
         "MangaSee": {
             "the-espers-game": {
+                "id": 159164,
                 "identifier": "the-espers-game",
                 "image": "https://temp.compsci88.com/cover/The-Espers-Game.jpg",
                 "malId": 149463,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg6q8gh395veca1yreg6": {
+                "id": 212218,
                 "identifier": "01j76xyg6q8gh395veca1yreg6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6Q8GH395VECA1YREG6.jpg",
                 "malId": 149463,
@@ -86,6 +69,19 @@
                 "title": "The Esper's Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6Q8GH395VECA1YREG6"
+            }
+        },
+        "MangaFire": {
+            "xrkow": {
+                "id": 228699,
+                "identifier": "xrkow",
+                "image": "https://static.mangafire.to/cb17/i/4/40/4081215d2c21bd38fb68d8affd8765e2.jpg",
+                "malId": 149463,
+                "aniId": 150744,
+                "page": "MangaFire",
+                "title": "The Esper's Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/choinui-gamee.xrkow"
             }
         },
         "Comick": {

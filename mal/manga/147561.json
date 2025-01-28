@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0cfcda3b-0dcb-459b-9931-aa823e7bf403": {
+                "id": 106479,
                 "identifier": "0cfcda3b-0dcb-459b-9931-aa823e7bf403",
                 "image": "https://uploads.mangadex.org/covers/0cfcda3b-0dcb-459b-9931-aa823e7bf403/0daaf8be-8dee-4fcc-aa75-d4c5c92d8192.jpg",
                 "malId": 147561,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ne991139": {
+                "id": 107019,
                 "identifier": "manga-ne991139",
                 "image": "https://avt.mkklcdnv6temp.com/2/v/26-1654829481.jpg",
                 "malId": 147561,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ne991139"
             }
         },
-        "MangaFire": {
-            "nine-peaks.m2l8v": {
-                "identifier": "nine-peaks.m2l8v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/0126c0b0fbdd4a70a7cf70eb9c95484f.jpg",
-                "malId": 147561,
-                "aniId": 150633,
-                "page": "MangaFire",
-                "title": "Nine Peaks",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nine-peaks.m2l8v/"
-            },
-            "nine-peakss.m2l8v": {
-                "identifier": "nine-peakss.m2l8v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/0126c0b0fbdd4a70a7cf70eb9c95484f.jpg",
-                "malId": 147561,
-                "aniId": 150633,
-                "page": "MangaFire",
-                "title": "Nine Peaks",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nine-peakss.m2l8v/"
-            }
-        },
         "MangaSee": {
             "nine-peaks": {
+                "id": 181312,
                 "identifier": "nine-peaks",
                 "image": "https://temp.compsci88.com/cover/Nine-Peaks.jpg",
                 "malId": 147561,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygy6ky1xqbkzkx2whp6r": {
+                "id": 208247,
                 "identifier": "01j76xygy6ky1xqbkzkx2whp6r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGY6KY1XQBKZKX2WHP6R.jpg",
                 "malId": 147561,
@@ -74,6 +56,19 @@
                 "title": "Nine Peaks",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGY6KY1XQBKZKX2WHP6R"
+            }
+        },
+        "MangaFire": {
+            "m2l8v": {
+                "id": 223791,
+                "identifier": "m2l8v",
+                "image": "https://static.mangafire.to/0b4a/i/0/01/0126c0b0fbdd4a70a7cf70eb9c95484f.jpg",
+                "malId": 147561,
+                "aniId": 150633,
+                "page": "MangaFire",
+                "title": "Nine Peaks",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nine-peakss.m2l8v"
             }
         },
         "Comick": {

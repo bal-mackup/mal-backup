@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "23c2820c-a236-43ac-a0b3-1e575eae9828": {
+                "id": 4826,
                 "identifier": "23c2820c-a236-43ac-a0b3-1e575eae9828",
                 "image": "https://uploads.mangadex.org/covers/23c2820c-a236-43ac-a0b3-1e575eae9828/84da7082-eb64-4b00-967e-899ec0a41b64.jpg",
                 "malId": 4101,
@@ -20,14 +21,28 @@
         },
         "MangaFire": {
             "3y36": {
+                "id": 261745,
                 "identifier": "3y36",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/62dee8fd5ef09b0f3fdf87f42ef8f926.jpg",
+                "image": "https://static.mangafire.to/895d/i/6/62/62dee8fd5ef09b0f3fdf87f42ef8f926.jpg",
                 "malId": 4101,
                 "aniId": 34101,
                 "page": "MangaFire",
                 "title": "Blizzard Axel",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/blizzard-axel.3y36/"
+                "url": "https://mangafire.to/manga/blizzard-axell.3y36"
+            }
+        },
+        "MangaFox": {
+            "blizzard_axel": {
+                "id": 268184,
+                "identifier": "blizzard_axel",
+                "image": "https://fmcdn.mfcdn.net/store/manga/5079/cover.jpg",
+                "malId": 4101,
+                "aniId": 34101,
+                "page": "MangaFox",
+                "title": "Blizzard Axel",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/blizzard_axel/"
             }
         },
         "Comick": {

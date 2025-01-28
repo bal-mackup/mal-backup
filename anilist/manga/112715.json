@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "997d322b-22de-4875-a1a4-2a80dba21d4c": {
+                "id": 29849,
                 "identifier": "997d322b-22de-4875-a1a4-2a80dba21d4c",
                 "image": "https://uploads.mangadex.org/covers/997d322b-22de-4875-a1a4-2a80dba21d4c/b329d23d-fa9c-4358-8450-7c3c9edb5f9d.jpg",
                 "malId": 123777,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "boushoku_hi_no_ken": {
+                "id": 55113,
                 "identifier": "boushoku_hi_no_ken",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31673/cover.jpg",
                 "malId": 123777,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "boushoku-hi-no-ken": {
+                "id": 55120,
                 "identifier": "boushoku-hi-no-ken",
                 "image": "https://temp.compsci88.com/cover/Boushoku-Hi-no-Ken.jpg",
                 "malId": 123777,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fk982519": {
+                "id": 76509,
                 "identifier": "manga-fk982519",
                 "image": "https://avt.mkklcdnv6temp.com/19/a/35-1722395850.jpg",
                 "malId": 123777,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-fk982519"
             }
         },
-        "MangaFire": {
-            "boushoku-hi-no-ken.xr7kq": {
-                "identifier": "boushoku-hi-no-ken.xr7kq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/7580a22dc561d89c8946063c849af565.jpg",
-                "malId": 123777,
-                "aniId": 112715,
-                "page": "MangaFire",
-                "title": "The Sword of Princess Gluttony",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boushoku-hi-no-ken.xr7kq/"
-            },
-            "boushoku-hi-no-kenn.xr7kq": {
-                "identifier": "boushoku-hi-no-kenn.xr7kq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/7580a22dc561d89c8946063c849af565.jpg",
-                "malId": 123777,
-                "aniId": 112715,
-                "page": "MangaFire",
-                "title": "The Sword of Princess Gluttony",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boushoku-hi-no-kenn.xr7kq/"
-            }
-        },
         "Weebcentral": {
             "01j76xydr7nakrg62rpe8yxw3s": {
+                "id": 208760,
                 "identifier": "01j76xydr7nakrg62rpe8yxw3s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDR7NAKRG62RPE8YXW3S.jpg",
                 "malId": 123777,
@@ -86,6 +69,19 @@
                 "title": "Boushoku-Hi no Ken",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDR7NAKRG62RPE8YXW3S"
+            }
+        },
+        "MangaFire": {
+            "xr7kq": {
+                "id": 224709,
+                "identifier": "xr7kq",
+                "image": "https://static.mangafire.to/4d52/i/7/75/7580a22dc561d89c8946063c849af565.jpg",
+                "malId": 123777,
+                "aniId": 112715,
+                "page": "MangaFire",
+                "title": "The Sword of Princess Gluttony",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boushoku-hi-no-kenn.xr7kq"
             }
         },
         "Comick": {

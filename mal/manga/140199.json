@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "pppppp": {
+                "id": 88282,
                 "identifier": "pppppp",
                 "image": "https://temp.compsci88.com/cover/PPPPPP.jpg",
                 "malId": 140199,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "pppppp": {
+                "id": 89096,
                 "identifier": "pppppp",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39614/cover.jpg",
                 "malId": 140199,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "13d5ac2b-e606-4f81-81f6-198de2af8536": {
+                "id": 90330,
                 "identifier": "13d5ac2b-e606-4f81-81f6-198de2af8536",
                 "image": "https://uploads.mangadex.org/covers/13d5ac2b-e606-4f81-81f6-198de2af8536/8210932d-9439-4ebc-afb1-70e94ed4c33e.jpg",
                 "malId": 140199,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ng990389": {
+                "id": 94620,
                 "identifier": "manga-ng990389",
                 "image": "https://avt.mkklcdnv6temp.com/22/t/25-1642064530.jpg",
                 "malId": 140199,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ng990389"
             }
         },
-        "MangaFire": {
-            "pppppp.5kkrq": {
-                "identifier": "pppppp.5kkrq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e798defc5568c999a031d0e0511475a9.jpg",
-                "malId": 140199,
-                "aniId": 139358,
-                "page": "MangaFire",
-                "title": "PPPPPP",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pppppp.5kkrq/"
-            },
-            "ppppppp.5kkrq": {
-                "identifier": "ppppppp.5kkrq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e798defc5568c999a031d0e0511475a9.jpg",
-                "malId": 140199,
-                "aniId": 139358,
-                "page": "MangaFire",
-                "title": "PPPPPP",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ppppppp.5kkrq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf30vr7kae0j50jcx6s9": {
+                "id": 213231,
                 "identifier": "01j76xyf30vr7kae0j50jcx6s9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF30VR7KAE0J50JCX6S9.jpg",
                 "malId": 140199,
@@ -86,6 +69,19 @@
                 "title": "PPPPPP",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF30VR7KAE0J50JCX6S9"
+            }
+        },
+        "MangaFire": {
+            "5kkrq": {
+                "id": 227921,
+                "identifier": "5kkrq",
+                "image": "https://static.mangafire.to/a928/i/e/e7/e798defc5568c999a031d0e0511475a9.jpg",
+                "malId": 140199,
+                "aniId": 139358,
+                "page": "MangaFire",
+                "title": "PPPPPP",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ppppppp.5kkrq"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "34019331-7377-4e2c-837e-f6e1ab2b5ef7": {
+                "id": 59931,
                 "identifier": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
                 "image": "https://uploads.mangadex.org/covers/34019331-7377-4e2c-837e-f6e1ab2b5ef7/c1080745-b3b0-4398-a94e-add0f9557388.jpg",
                 "malId": 128691,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mokushiroku_no_yonkishi": {
+                "id": 60345,
                 "identifier": "mokushiroku_no_yonkishi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37442/cover.jpg",
                 "malId": 128691,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/mokushiroku_no_yonkishi/"
             },
             "the_seven_deadly_sins_four_knights_of_the_apocalypse": {
+                "id": 183043,
                 "identifier": "the_seven_deadly_sins_four_knights_of_the_apocalypse",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45560/cover.jpg",
                 "malId": 128691,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "four-knights-of-the-apocalypse": {
+                "id": 62632,
                 "identifier": "four-knights-of-the-apocalypse",
                 "image": "https://temp.compsci88.com/cover/Four-Knights-of-the-Apocalypse.jpg",
                 "malId": 128691,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ko987971": {
+                "id": 75574,
                 "identifier": "manga-ko987971",
                 "image": "https://avt.mkklcdnv6temp.com/19/o/23-1612322402.jpg",
                 "malId": 128691,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ko987971"
             }
         },
-        "MangaFire": {
-            "mokushiroku-no-yonkishii.qxz15": {
-                "identifier": "mokushiroku-no-yonkishii.qxz15",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/33d19e506f28ac741dc1db06cd3d6252.jpg",
-                "malId": 128691,
-                "aniId": 129117,
-                "page": "MangaFire",
-                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mokushiroku-no-yonkishii.qxz15/"
-            }
-        },
         "Weebcentral": {
             "01j76xyecfn6rwj8pjqhsb67sk": {
+                "id": 211596,
                 "identifier": "01j76xyecfn6rwj8pjqhsb67sk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECFN6RWJ8PJQHSB67SK.jpg",
                 "malId": 128691,
@@ -86,6 +80,19 @@
                 "title": "The Seven Deadly Sins - Four Knights of the Apocalypse",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECFN6RWJ8PJQHSB67SK"
+            }
+        },
+        "MangaFire": {
+            "qxz15": {
+                "id": 225846,
+                "identifier": "qxz15",
+                "image": "https://static.mangafire.to/2a88/i/3/33/33d19e506f28ac741dc1db06cd3d6252.jpg",
+                "malId": 128691,
+                "aniId": 129117,
+                "page": "MangaFire",
+                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mokushiroku-no-yonkishii.qxz15"
             }
         },
         "Comick": {

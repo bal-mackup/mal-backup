@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5c5e7c75-ac68-4b8c-83fb-85a96c786ddb": {
+                "id": 29802,
                 "identifier": "5c5e7c75-ac68-4b8c-83fb-85a96c786ddb",
                 "image": "https://uploads.mangadex.org/covers/5c5e7c75-ac68-4b8c-83fb-85a96c786ddb/16131c93-fc0b-43fa-a4b1-ea103160bbda.jpg",
                 "malId": 147511,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "as_you_wish_prince": {
+                "id": 62514,
                 "identifier": "as_you_wish_prince",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30856/cover.jpg",
                 "malId": 147511,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/as_you_wish_prince/"
             }
         },
-        "MangaFire": {
-            "hwangja-ne-mueosii-doego-sipeunya.pr7q4": {
-                "identifier": "hwangja-ne-mueosii-doego-sipeunya.pr7q4",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/48954139882fb37d22151d9e9f18275d.jpg",
-                "malId": 147511,
-                "aniId": 109219,
-                "page": "MangaFire",
-                "title": "As You Wish, Prince",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hwangja-ne-mueosii-doego-sipeunya.pr7q4/"
-            }
-        },
         "MangaSee": {
             "what-do-you-want-to-be-prince": {
+                "id": 158148,
                 "identifier": "what-do-you-want-to-be-prince",
                 "image": "https://temp.compsci88.com/cover/What-Do-You-Want-to-Be-Prince.jpg",
                 "malId": 147511,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg5nytsnye7mnz9a2ayf": {
+                "id": 212468,
                 "identifier": "01j76xyg5nytsnye7mnz9a2ayf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5NYTSNYE7MNZ9A2AYF.jpg",
                 "malId": 147511,
@@ -64,6 +56,19 @@
                 "title": "What Do You Want to Be, Prince",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5NYTSNYE7MNZ9A2AYF"
+            }
+        },
+        "MangaFire": {
+            "pr7q4": {
+                "id": 235247,
+                "identifier": "pr7q4",
+                "image": "https://static.mangafire.to/975b/i/4/48/48954139882fb37d22151d9e9f18275d.jpg",
+                "malId": 147511,
+                "aniId": 109219,
+                "page": "MangaFire",
+                "title": "As You Wish, Prince",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hwangja-ne-mueosii-doego-sipeunyaa.pr7q4"
             }
         }
     },

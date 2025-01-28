@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a36beba-1365-46de-8220-28c193572ac7": {
+                "id": 34443,
                 "identifier": "7a36beba-1365-46de-8220-28c193572ac7",
                 "image": "https://uploads.mangadex.org/covers/7a36beba-1365-46de-8220-28c193572ac7/9a5ee30c-e800-422f-a069-25285c5d4f66.jpg",
                 "malId": 126798,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ushiro-no-shoumen-kamui-san": {
+                "id": 58374,
                 "identifier": "ushiro-no-shoumen-kamui-san",
                 "image": "https://temp.compsci88.com/cover/Ushiro-no-Shoumen-Kamui-san.jpg",
                 "malId": 126798,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kg988115": {
+                "id": 75716,
                 "identifier": "manga-kg988115",
                 "image": "https://avt.mkklcdnv6temp.com/25/l/23-1613264476.jpg",
                 "malId": 126798,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ushiro_no_shoumen_kamui_san": {
+                "id": 117492,
                 "identifier": "ushiro_no_shoumen_kamui_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35591/cover.jpg",
                 "malId": 126798,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ushiro_no_shoumen_kamui_san/"
             }
         },
-        "MangaFire": {
-            "kamui-the-one-standing-behind-you.7jym8": {
-                "identifier": "kamui-the-one-standing-behind-you.7jym8",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bfddef49916498f8a70be17658c11688.jpg",
-                "malId": 126798,
-                "aniId": 123898,
-                "page": "MangaFire",
-                "title": "Kamui, the One Standing Behind You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamui-the-one-standing-behind-you.7jym8/"
-            },
-            "kamui-the-one-standing-behind-youu.7jym8": {
-                "identifier": "kamui-the-one-standing-behind-youu.7jym8",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bfddef49916498f8a70be17658c11688.jpg",
-                "malId": 126798,
-                "aniId": 123898,
-                "page": "MangaFire",
-                "title": "Kamui, the One Standing Behind You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamui-the-one-standing-behind-youu.7jym8/"
-            }
-        },
         "Weebcentral": {
             "01j76xye9h83qw0ebxapcer4a6": {
+                "id": 206277,
                 "identifier": "01j76xye9h83qw0ebxapcer4a6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE9H83QW0EBXAPCER4A6.jpg",
                 "malId": 126798,
@@ -86,6 +69,19 @@
                 "title": "Ushiro no Shoumen Kamui-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE9H83QW0EBXAPCER4A6"
+            }
+        },
+        "MangaFire": {
+            "7jym8": {
+                "id": 255546,
+                "identifier": "7jym8",
+                "image": "https://static.mangafire.to/4977/i/b/bf/bfddef49916498f8a70be17658c11688.jpg",
+                "malId": 126798,
+                "aniId": 123898,
+                "page": "MangaFire",
+                "title": "Kamui, the One Standing Behind You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kamui-the-one-standing-behind-youu.7jym8"
             }
         },
         "Comick": {

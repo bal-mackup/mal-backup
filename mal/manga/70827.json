@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3a7d8665-6f45-4f66-b556-663104e935ab": {
+                "id": 9034,
                 "identifier": "3a7d8665-6f45-4f66-b556-663104e935ab",
                 "image": "https://uploads.mangadex.org/covers/3a7d8665-6f45-4f66-b556-663104e935ab/7e3a976d-c664-4fde-bb72-f42548a0e6f9.jpg",
                 "malId": 70827,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "futari-no-table": {
+                "id": 87273,
                 "identifier": "futari-no-table",
                 "image": "https://temp.compsci88.com/cover/Futari-No-Table.jpg",
                 "malId": 70827,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "futari_no_table": {
+                "id": 92713,
                 "identifier": "futari_no_table",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13853/cover.jpg",
                 "malId": 70827,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zu953929": {
+                "id": 122257,
                 "identifier": "manga-zu953929",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/u/1-1732720172-nw.webp",
                 "malId": 70827,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zu953929"
             }
         },
-        "MangaFire": {
-            "5500": {
-                "identifier": "5500",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69426fa12c65aaed91e0c832edee3172.jpg",
-                "malId": 70827,
-                "aniId": 86602,
-                "page": "MangaFire",
-                "title": "Table for Two",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-no-table.5500/"
-            },
-            "futari-no-table.5500": {
-                "identifier": "futari-no-table.5500",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69426fa12c65aaed91e0c832edee3172.jpg",
-                "malId": 70827,
-                "aniId": 86602,
-                "page": "MangaFire",
-                "title": "Table for Two",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-no-table.5500/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaerqz2c110abyws24gd": {
+                "id": 213769,
                 "identifier": "01j76xyaerqz2c110abyws24gd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAERQZ2C110ABYWS24GD.jpg",
                 "malId": 70827,
@@ -86,6 +69,19 @@
                 "title": "Futari no Table",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAERQZ2C110ABYWS24GD"
+            }
+        },
+        "MangaFire": {
+            "5500": {
+                "id": 245622,
+                "identifier": "5500",
+                "image": "https://static.mangafire.to/331d/i/6/69/69426fa12c65aaed91e0c832edee3172.jpg",
+                "malId": 70827,
+                "aniId": 86602,
+                "page": "MangaFire",
+                "title": "Table for Two",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futari-no-tablee.5500"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "45d563b6-b416-4ab3-b371-cad254b49d35": {
+                "id": 12621,
                 "identifier": "45d563b6-b416-4ab3-b371-cad254b49d35",
                 "image": "https://uploads.mangadex.org/covers/45d563b6-b416-4ab3-b371-cad254b49d35/32301051-47cb-4e16-a78e-cc7dc8699c6f.jpg",
                 "malId": 67123,
@@ -18,18 +19,20 @@
                 "url": "https://mangadex.org/title/45d563b6-b416-4ab3-b371-cad254b49d35"
             },
             "64cc506c-3eec-4495-a246-5d1cd2b1af1b": {
+                "id": 35364,
                 "identifier": "64cc506c-3eec-4495-a246-5d1cd2b1af1b",
                 "image": "https://uploads.mangadex.org/covers/64cc506c-3eec-4495-a246-5d1cd2b1af1b/004be211-172f-4819-872b-f479362fcebf.jpg",
                 "malId": 67123,
                 "aniId": 85906,
                 "page": "Mangadex",
-                "title": "Touhou - Your Doppelganger",
+                "title": "Touhou - Kimi no Doppelganger (Doujinshi)",
                 "type": "manga",
                 "url": "https://mangadex.org/title/64cc506c-3eec-4495-a246-5d1cd2b1af1b"
             }
         },
         "MangaFox": {
             "yokohamasen_doppelganger": {
+                "id": 70515,
                 "identifier": "yokohamasen_doppelganger",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15185/cover.jpg",
                 "malId": 67123,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "yokohamasen-doppelganger": {
+                "id": 71958,
                 "identifier": "yokohamasen-doppelganger",
                 "image": "https://temp.compsci88.com/cover/Yokohamasen-Doppelganger.jpg",
                 "malId": 67123,
@@ -52,30 +56,9 @@
                 "url": "https://mangasee123.com/manga/Yokohamasen-Doppelganger"
             }
         },
-        "MangaFire": {
-            "yokohamasen-doppelganger.nr43n": {
-                "identifier": "yokohamasen-doppelganger.nr43n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80f345eaecfeebec101c0cb3c767489c.jpg",
-                "malId": 67123,
-                "aniId": 85906,
-                "page": "MangaFire",
-                "title": "Yokohamasen Doppelganger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokohamasen-doppelganger.nr43n/"
-            },
-            "nr43n": {
-                "identifier": "nr43n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80f345eaecfeebec101c0cb3c767489c.jpg",
-                "malId": 67123,
-                "aniId": 85906,
-                "page": "MangaFire",
-                "title": "Yokohamasen Doppelganger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokohamasen-doppelganger.nr43n/"
-            }
-        },
         "Weebcentral": {
             "01j76xybf2d2dyyh9q6sg60ejd": {
+                "id": 206813,
                 "identifier": "01j76xybf2d2dyyh9q6sg60ejd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBF2D2DYYH9Q6SG60EJD.jpg",
                 "malId": 67123,
@@ -84,6 +67,19 @@
                 "title": "Yokohamasen Doppelganger",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBF2D2DYYH9Q6SG60EJD"
+            }
+        },
+        "MangaFire": {
+            "nr43n": {
+                "id": 228875,
+                "identifier": "nr43n",
+                "image": "https://static.mangafire.to/52f0/i/8/80/80f345eaecfeebec101c0cb3c767489c.jpg",
+                "malId": 67123,
+                "aniId": 85906,
+                "page": "MangaFire",
+                "title": "Yokohamasen Doppelganger",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yokohamasen-doppelgangerr.nr43n"
             }
         },
         "Comick": {

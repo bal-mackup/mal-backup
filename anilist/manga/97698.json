@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67ca1083-ec62-4f66-a2f5-355a2702f6e3": {
+                "id": 12719,
                 "identifier": "67ca1083-ec62-4f66-a2f5-355a2702f6e3",
                 "image": "https://uploads.mangadex.org/covers/67ca1083-ec62-4f66-a2f5-355a2702f6e3/97685961-fc41-40e5-a61a-1fe8765fe8fe.jpg",
                 "malId": 85205,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "only-sense-online": {
+                "id": 54383,
                 "identifier": "only-sense-online",
                 "image": "https://temp.compsci88.com/cover/Only-Sense-Online.jpg",
                 "malId": 85205,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "only_sense_online": {
+                "id": 57276,
                 "identifier": "only_sense_online",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18219/cover.jpg",
                 "malId": 85205,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-sd970138": {
+                "id": 77744,
                 "identifier": "manga-sd970138",
                 "image": "https://avt.mkklcdnv6temp.com/22/c/13-1583488544.jpg",
                 "malId": 85205,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-sd970138"
             }
         },
-        "MangaFire": {
-            "only-sense-online.5251v": {
-                "identifier": "only-sense-online.5251v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9d2ffc7647a3f043592d8b706340922d.jpg",
-                "malId": 85205,
-                "aniId": 97698,
-                "page": "MangaFire",
-                "title": "Only Sense Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/only-sense-online.5251v/"
-            },
-            "only-sense-onlinee.5251v": {
-                "identifier": "only-sense-onlinee.5251v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9d2ffc7647a3f043592d8b706340922d.jpg",
-                "malId": 85205,
-                "aniId": 97698,
-                "page": "MangaFire",
-                "title": "Only Sense Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/only-sense-onlinee.5251v/"
-            },
-            "5251v": {
-                "identifier": "5251v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9d2ffc7647a3f043592d8b706340922d.jpg",
-                "malId": 85205,
-                "aniId": 97698,
-                "page": "MangaFire",
-                "title": "Only Sense Online",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/only-sense-onlinee.5251v/"
-            }
-        },
         "Weebcentral": {
             "01j76xybtm1y7fwtpjk8z5s6c5": {
+                "id": 209771,
                 "identifier": "01j76xybtm1y7fwtpjk8z5s6c5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBTM1Y7FWTPJK8Z5S6C5.jpg",
                 "malId": 85205,
@@ -96,6 +69,19 @@
                 "title": "Only Sense Online",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBTM1Y7FWTPJK8Z5S6C5"
+            }
+        },
+        "MangaFire": {
+            "5251v": {
+                "id": 227418,
+                "identifier": "5251v",
+                "image": "https://static.mangafire.to/aee4/i/9/9d/9d2ffc7647a3f043592d8b706340922d.jpg",
+                "malId": 85205,
+                "aniId": 97698,
+                "page": "MangaFire",
+                "title": "Only Sense Online",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/only-sense-onlinee.5251v"
             }
         },
         "Comick": {

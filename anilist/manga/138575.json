@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-pa992709": {
+                "id": 119416,
                 "identifier": "manga-pa992709",
                 "image": "https://avt.mkklcdnv6temp.com/18/m/27-1665027246.jpg",
                 "malId": 147187,
@@ -18,30 +19,9 @@
                 "url": "https://chapmanganato.com/manga-pa992709"
             }
         },
-        "MangaFire": {
-            "infinity-2o.6wvz0": {
-                "identifier": "infinity-2o.6wvz0",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e4e4cc6ae9a73f0d00ace2ae5133927.jpg",
-                "malId": 147187,
-                "aniId": 138575,
-                "page": "MangaFire",
-                "title": "Infinity (2O)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/infinity-2o.6wvz0/"
-            },
-            "infinity-2oo.6wvz0": {
-                "identifier": "infinity-2oo.6wvz0",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e4e4cc6ae9a73f0d00ace2ae5133927.jpg",
-                "malId": 147187,
-                "aniId": 138575,
-                "page": "MangaFire",
-                "title": "Infinity (2O)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/infinity-2oo.6wvz0/"
-            }
-        },
         "MangaSee": {
             "infinity-2o": {
+                "id": 191005,
                 "identifier": "infinity-2o",
                 "image": "https://temp.compsci88.com/cover/Infinity-2O.jpg",
                 "malId": 147187,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhan4gn5h7h4k5zhnj94": {
+                "id": 207105,
                 "identifier": "01j76xyhan4gn5h7h4k5zhnj94",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAN4GN5H7H4K5ZHNJ94.jpg",
                 "malId": 147187,
@@ -62,6 +43,19 @@
                 "title": "Infinity (2O)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAN4GN5H7H4K5ZHNJ94"
+            }
+        },
+        "MangaFire": {
+            "6wvz0": {
+                "id": 235189,
+                "identifier": "6wvz0",
+                "image": "https://static.mangafire.to/beff/i/2/2e/2e4e4cc6ae9a73f0d00ace2ae5133927.jpg",
+                "malId": 147187,
+                "aniId": 138575,
+                "page": "MangaFire",
+                "title": "Infinity (2O)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/infinity-2oo.6wvz0"
             }
         }
     },

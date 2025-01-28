@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "30f33cd0-a65b-4b13-a660-bee2940bc551": {
+                "id": 13085,
                 "identifier": "30f33cd0-a65b-4b13-a660-bee2940bc551",
                 "image": "https://uploads.mangadex.org/covers/30f33cd0-a65b-4b13-a660-bee2940bc551/49722ee1-ce41-4e1a-b63d-0ec488d07b64.jpg",
                 "malId": 87466,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "henjo-hen-na-joshi-kousei-amaguri-chiko": {
+                "id": 57010,
                 "identifier": "henjo-hen-na-joshi-kousei-amaguri-chiko",
                 "image": "https://temp.compsci88.com/cover/Henjo-Hen-Na-Joshi-Kousei-Amaguri-Chiko.jpg",
                 "malId": 87466,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "henjyo_hen_na_jyoshi_kousei_amaguri_senko": {
+                "id": 70060,
                 "identifier": "henjyo_hen_na_jyoshi_kousei_amaguri_senko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15790/cover.jpg",
                 "malId": 87466,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-sx970132": {
+                "id": 73326,
                 "identifier": "manga-sx970132",
                 "image": "https://avt.mkklcdnv6temp.com/21/z/13-1583488538.jpg",
                 "malId": 87466,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-sx970132"
             },
             "manga-hh984890": {
+                "id": 73964,
                 "identifier": "manga-hh984890",
                 "image": "https://avt.mkklcdnv6temp.com/43/g/20-1583931296.jpg",
                 "malId": 87466,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-hh984890"
             }
         },
-        "MangaFire": {
-            "henjo-hen-na-joshi-kousei-amaguri-senko.xrjjz": {
-                "identifier": "henjo-hen-na-joshi-kousei-amaguri-senko.xrjjz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/84718797c55c140d27d4bad4d97b768b.jpg",
-                "malId": 87466,
-                "aniId": 86590,
-                "page": "MangaFire",
-                "title": "Henjo - Hen na Joshi Kousei Amaguri Senko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henjo-hen-na-joshi-kousei-amaguri-senko.xrjjz/"
-            },
-            "henjo-hen-na-joshi-kousei-amaguri-senkoo.xrjjz": {
-                "identifier": "henjo-hen-na-joshi-kousei-amaguri-senkoo.xrjjz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/84718797c55c140d27d4bad4d97b768b.jpg",
-                "malId": 87466,
-                "aniId": 86590,
-                "page": "MangaFire",
-                "title": "Henjo - Hen na Joshi Kousei Amaguri Senko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henjo-hen-na-joshi-kousei-amaguri-senkoo.xrjjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybmdh28f84smj7bm23pn": {
+                "id": 211906,
                 "identifier": "01j76xybmdh28f84smj7bm23pn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMDH28F84SMJ7BM23PN.jpg",
                 "malId": 87466,
@@ -96,6 +80,19 @@
                 "title": "Henjo - Hen na Joshi Kousei Amaguri Chiko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMDH28F84SMJ7BM23PN"
+            }
+        },
+        "MangaFire": {
+            "xrjjz": {
+                "id": 224698,
+                "identifier": "xrjjz",
+                "image": "https://static.mangafire.to/06f2/i/8/84/84718797c55c140d27d4bad4d97b768b.jpg",
+                "malId": 87466,
+                "aniId": 86590,
+                "page": "MangaFire",
+                "title": "Henjo - Hen na Joshi Kousei Amaguri Senko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/henjo-hen-na-joshi-kousei-amaguri-senkoo.xrjjz"
             }
         },
         "Comick": {

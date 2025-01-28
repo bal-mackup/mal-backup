@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b76a0506-5168-431b-8acc-fa340a042f93": {
+                "id": 57779,
                 "identifier": "b76a0506-5168-431b-8acc-fa340a042f93",
                 "image": "https://uploads.mangadex.org/covers/b76a0506-5168-431b-8acc-fa340a042f93/eca93e11-a8e4-44b7-ab1e-c3a031e70d98.jpg",
                 "malId": 139395,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenkaichi-nihon-saikyou-bugeisha-ketteisen": {
+                "id": 88719,
                 "identifier": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
                 "image": "https://temp.compsci88.com/cover/Tenkaichi-Nihon-Saikyou-Bugeisha-Ketteisen.jpg",
                 "malId": 139395,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-mj990344": {
+                "id": 93990,
                 "identifier": "manga-mj990344",
                 "image": "https://avt.mkklcdnv6temp.com/20/o/25-1640941940.jpg",
                 "malId": 139395,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tenkaichi_nihon_saikyou_bugeisha_ketteisen": {
+                "id": 93999,
                 "identifier": "tenkaichi_nihon_saikyou_bugeisha_ketteisen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39508/cover.jpg",
                 "malId": 139395,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tenkaichi_nihon_saikyou_bugeisha_ketteisen/"
             }
         },
-        "MangaFire": {
-            "tenkaichi-nihon-saikyou-bugeisha-ketteisen.7jolj": {
-                "identifier": "tenkaichi-nihon-saikyou-bugeisha-ketteisen.7jolj",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b34761edf72e620d12f0f1cfccc82b78.jpg",
-                "malId": 139395,
-                "aniId": 137158,
-                "page": "MangaFire",
-                "title": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen.7jolj/"
-            },
-            "tenkaichi-nihon-saikyou-bugeisha-ketteisenn.7jolj": {
-                "identifier": "tenkaichi-nihon-saikyou-bugeisha-ketteisenn.7jolj",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b34761edf72e620d12f0f1cfccc82b78.jpg",
-                "malId": 139395,
-                "aniId": 137158,
-                "page": "MangaFire",
-                "title": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisenn.7jolj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf471jab2r7m4qjtawn1": {
+                "id": 210805,
                 "identifier": "01j76xyf471jab2r7m4qjtawn1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF471JAB2R7M4QJTAWN1.jpg",
                 "malId": 139395,
@@ -86,6 +69,19 @@
                 "title": "Tenkaichi - The Greatest Warrior Under the Rising Sun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF471JAB2R7M4QJTAWN1"
+            }
+        },
+        "MangaFire": {
+            "7jolj": {
+                "id": 226456,
+                "identifier": "7jolj",
+                "image": "https://static.mangafire.to/4799/i/b/b3/b34761edf72e620d12f0f1cfccc82b78.jpg",
+                "malId": 139395,
+                "aniId": 137158,
+                "page": "MangaFire",
+                "title": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisenn.7jolj"
             }
         },
         "Comick": {

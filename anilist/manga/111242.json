@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb24ecc9-155b-448d-aa74-bf31eb25e480": {
+                "id": 26282,
                 "identifier": "bb24ecc9-155b-448d-aa74-bf31eb25e480",
                 "image": "https://uploads.mangadex.org/covers/bb24ecc9-155b-448d-aa74-bf31eb25e480/c03e0dbf-cc48-4281-861e-806874af5740.jpg",
                 "malId": 147348,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fr982652": {
+                "id": 73851,
                 "identifier": "manga-fr982652",
                 "image": "https://avt.mkklcdnv6temp.com/14/m/26-1656325683.jpg",
                 "malId": 147348,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "housekeeper": {
+                "id": 105211,
                 "identifier": "housekeeper",
                 "image": "https://temp.compsci88.com/cover/Housekeeper.jpg",
                 "malId": 147348,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "housekeeper_chae_yong_taek": {
+                "id": 105708,
                 "identifier": "housekeeper_chae_yong_taek",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30612/cover.jpg",
                 "malId": 147348,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/housekeeper_chae_yong_taek/"
             }
         },
-        "MangaFire": {
-            "housekeeper.kkp96": {
-                "identifier": "housekeeper.kkp96",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b13364ca479859fe309699870dd9fc5.jpg",
-                "malId": 147348,
-                "aniId": 111242,
-                "page": "MangaFire",
-                "title": "Housekeeper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/housekeeper.kkp96/"
-            },
-            "housekeeperr.kkp96": {
-                "identifier": "housekeeperr.kkp96",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b13364ca479859fe309699870dd9fc5.jpg",
-                "malId": 147348,
-                "aniId": 111242,
-                "page": "MangaFire",
-                "title": "Housekeeper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/housekeeperr.kkp96/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfe5k9d34f28kqazsdqg": {
+                "id": 214323,
                 "identifier": "01j76xyfe5k9d34f28kqazsdqg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFE5K9D34F28KQAZSDQG.jpg",
                 "malId": 147348,
@@ -86,6 +69,19 @@
                 "title": "Housekeeper",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFE5K9D34F28KQAZSDQG"
+            }
+        },
+        "MangaFire": {
+            "kkp96": {
+                "id": 223901,
+                "identifier": "kkp96",
+                "image": "https://static.mangafire.to/eab6/i/0/0b/0b13364ca479859fe309699870dd9fc5.jpg",
+                "malId": 147348,
+                "aniId": 111242,
+                "page": "MangaFire",
+                "title": "Housekeeper",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/housekeeperr.kkp96"
             }
         },
         "Comick": {

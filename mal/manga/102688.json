@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f581626-7df8-4358-849b-ea1e6a7cc50c": {
+                "id": 16810,
                 "identifier": "9f581626-7df8-4358-849b-ea1e6a7cc50c",
                 "image": "https://uploads.mangadex.org/covers/9f581626-7df8-4358-849b-ea1e6a7cc50c/84e81d0e-1cd7-4718-a791-73841907b8f4.jpg",
                 "malId": 102688,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "boku_dake_shitteru_ichinomiya_san": {
+                "id": 62009,
                 "identifier": "boku_dake_shitteru_ichinomiya_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25061/cover.jpg",
                 "malId": 102688,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "boku-dake-shitteru-ichinomiya-san": {
+                "id": 65573,
                 "identifier": "boku-dake-shitteru-ichinomiya-san",
                 "image": "https://temp.compsci88.com/cover/Boku-Dake-Shitteru-Ichinomiya-san.jpg",
                 "malId": 102688,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yu976155": {
+                "id": 89758,
                 "identifier": "manga-yu976155",
                 "image": "https://avt.mkklcdnv6temp.com/fld/19/n/8-1732788606-nw.webp",
                 "malId": 102688,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yu976155"
             }
         },
-        "MangaFire": {
-            "boku-dake-shitteru-ichinomiya-san.ojrqy": {
-                "identifier": "boku-dake-shitteru-ichinomiya-san.ojrqy",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/833cdba516e48b8f113105d874380249.jpg",
-                "malId": 102688,
-                "aniId": 98499,
-                "page": "MangaFire",
-                "title": "The Ichimiya-san Only I Know",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-dake-shitteru-ichinomiya-san.ojrqy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2yye663bcmeqfg039p": {
+                "id": 207343,
                 "identifier": "01j76xyc2yye663bcmeqfg039p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2YYE663BCMEQFG039P.jpg",
                 "malId": 102688,
@@ -76,6 +69,19 @@
                 "title": "Boku Dake Shitteru Ichinomiya-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2YYE663BCMEQFG039P"
+            }
+        },
+        "MangaFire": {
+            "ojrqy": {
+                "id": 246191,
+                "identifier": "ojrqy",
+                "image": "https://static.mangafire.to/c807/i/8/83/833cdba516e48b8f113105d874380249.jpg",
+                "malId": 102688,
+                "aniId": 98499,
+                "page": "MangaFire",
+                "title": "The Ichimiya-san Only I Know",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-dake-shitteru-ichinomiya-sann.ojrqy"
             }
         },
         "Comick": {

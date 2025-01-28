@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b3a9c1f8-93d2-49ba-96e2-84727c1031a6": {
+                "id": 40353,
                 "identifier": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
                 "image": "https://uploads.mangadex.org/covers/b3a9c1f8-93d2-49ba-96e2-84727c1031a6/ad9cd8b6-7ba4-4504-9f80-9c9e677c16b1.jpg",
                 "malId": 132139,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-js986927": {
+                "id": 73807,
                 "identifier": "manga-js986927",
                 "image": "https://avt.mkklcdnv6temp.com/26/r/22-1602174169.jpg",
                 "malId": 132139,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "isekai-ni-otosareta-jouka-wa-kihon": {
+                "id": 86156,
                 "identifier": "isekai-ni-otosareta-jouka-wa-kihon",
                 "image": "https://temp.compsci88.com/cover/Isekai-ni-Otosareta-Jouka-wa-Kihon.jpg",
                 "malId": 132139,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Isekai-ni-Otosareta-Jouka-wa-Kihon"
             }
         },
-        "MangaFire": {
-            "isekai-ni-otosareta-jouka-wa-kihon.9oqyx": {
-                "identifier": "isekai-ni-otosareta-jouka-wa-kihon.9oqyx",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/624e7ed6eafc85ceb3fe7427452b0bff.jpg",
-                "malId": 132139,
-                "aniId": 127666,
-                "page": "MangaFire",
-                "title": "Dropped Into Another World... @comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ni-otosareta-jouka-wa-kihon.9oqyx/"
-            },
-            "isekai-ni-otosareta-jouka-wa-kihonn.9oqyx": {
-                "identifier": "isekai-ni-otosareta-jouka-wa-kihonn.9oqyx",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/624e7ed6eafc85ceb3fe7427452b0bff.jpg",
-                "malId": 132139,
-                "aniId": 127666,
-                "page": "MangaFire",
-                "title": "Dropped Into Another World... @comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ni-otosareta-jouka-wa-kihonn.9oqyx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf04cnnm9ftmft3gjtsj": {
+                "id": 210719,
                 "identifier": "01j76xyf04cnnm9ftmft3gjtsj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF04CNNM9FTMFT3GJTSJ.jpg",
                 "malId": 132139,
@@ -74,6 +56,19 @@
                 "title": "Isekai ni Otosareta... Jouka wa Kihon!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF04CNNM9FTMFT3GJTSJ"
+            }
+        },
+        "MangaFire": {
+            "9oqyx": {
+                "id": 228340,
+                "identifier": "9oqyx",
+                "image": "https://static.mangafire.to/a8bd/i/6/62/624e7ed6eafc85ceb3fe7427452b0bff.jpg",
+                "malId": 132139,
+                "aniId": 127666,
+                "page": "MangaFire",
+                "title": "Dropped Into Another World... @comic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-ni-otosareta-jouka-wa-kihonn.9oqyx"
             }
         },
         "Comick": {

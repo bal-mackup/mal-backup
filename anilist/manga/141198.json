@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9dc08c5f-be0e-4fd3-800e-75a45321dcdf": {
+                "id": 113144,
                 "identifier": "9dc08c5f-be0e-4fd3-800e-75a45321dcdf",
                 "image": "https://uploads.mangadex.org/covers/9dc08c5f-be0e-4fd3-800e-75a45321dcdf/416ef174-9f86-4427-9685-510b780da368.jpg",
                 "malId": 148554,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/9dc08c5f-be0e-4fd3-800e-75a45321dcdf"
             }
         },
-        "MangaFire": {
-            "rinko-chan-to-himosugara.kk5jr": {
-                "identifier": "rinko-chan-to-himosugara.kk5jr",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63437ee6d76aee20e1697886970e8525.jpg",
-                "malId": 148554,
-                "aniId": 141198,
-                "page": "MangaFire",
-                "title": "Rinko-chan to Himosugara",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rinko-chan-to-himosugara.kk5jr/"
-            },
-            "rinko-chan-to-himosugaraa.kk5jr": {
-                "identifier": "rinko-chan-to-himosugaraa.kk5jr",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63437ee6d76aee20e1697886970e8525.jpg",
-                "malId": 148554,
-                "aniId": 141198,
-                "page": "MangaFire",
-                "title": "Rinko-chan to Himosugara",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rinko-chan-to-himosugaraa.kk5jr/"
-            }
-        },
         "MangaNato": {
             "manga-th996716": {
+                "id": 161301,
                 "identifier": "manga-th996716",
                 "image": "https://avt.mkklcdnv6temp.com/fld/27/b/15-1733308211-nw.webp",
                 "malId": 148554,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "rinko_chan_to_himosugara": {
+                "id": 183021,
                 "identifier": "rinko_chan_to_himosugara",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45898/cover.jpg",
                 "malId": 148554,
@@ -62,6 +43,19 @@
                 "title": "Rinko-chan to Himosugara",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/rinko_chan_to_himosugara/"
+            }
+        },
+        "MangaFire": {
+            "kk5jr": {
+                "id": 228673,
+                "identifier": "kk5jr",
+                "image": "https://static.mangafire.to/a437/i/6/63/63437ee6d76aee20e1697886970e8525.jpg",
+                "malId": 148554,
+                "aniId": 141198,
+                "page": "MangaFire",
+                "title": "Rinko-chan to Himosugara",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rinko-chan-to-himosugaraa.kk5jr"
             }
         },
         "Comick": {

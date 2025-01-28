@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a9baffb-505e-49c1-9b28-94521fdd5b2b": {
+                "id": 53973,
                 "identifier": "6a9baffb-505e-49c1-9b28-94521fdd5b2b",
                 "image": "https://uploads.mangadex.org/covers/6a9baffb-505e-49c1-9b28-94521fdd5b2b/0b6eccff-1a90-446d-82fa-62731cc1029a.jpg",
                 "malId": 143627,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-gently-raised-beast": {
+                "id": 72210,
                 "identifier": "my-gently-raised-beast",
                 "image": "https://temp.compsci88.com/cover/My-Gently-Raised-Beast.jpg",
                 "malId": 143627,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kp987398": {
+                "id": 73148,
                 "identifier": "manga-kp987398",
                 "image": "https://avt.mkklcdnv6temp.com/46/c/22-1608190333.jpg",
                 "malId": 143627,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-kp987398"
             }
         },
-        "MangaFire": {
-            "i-raised-the-beast-well.6vz70": {
-                "identifier": "i-raised-the-beast-well.6vz70",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cdeef18e4b785ef64168d4e708980106.jpg",
-                "malId": 143627,
-                "aniId": 127868,
-                "page": "MangaFire",
-                "title": "My Gently Raised Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-raised-the-beast-well.6vz70/"
-            },
-            "i-raised-the-beast-welll.6vz70": {
-                "identifier": "i-raised-the-beast-welll.6vz70",
-                "image": "https://static.mangafire.to/bc25/i/c/cd/cdeef18e4b785ef64168d4e708980106.jpg",
-                "malId": 143627,
-                "aniId": 127868,
-                "page": "MangaFire",
-                "title": "My Gently Raised Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-raised-the-beast-welll.6vz70/"
-            }
-        },
         "Weebcentral": {
             "01j76xyerbgn34732y61m7fqv8": {
+                "id": 206673,
                 "identifier": "01j76xyerbgn34732y61m7fqv8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYERBGN34732Y61M7FQV8.jpg",
                 "malId": 143627,
@@ -74,6 +56,19 @@
                 "title": "My Gently Raised Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYERBGN34732Y61M7FQV8"
+            }
+        },
+        "MangaFire": {
+            "6vz70": {
+                "id": 223236,
+                "identifier": "6vz70",
+                "image": "https://static.mangafire.to/bc25/i/c/cd/cdeef18e4b785ef64168d4e708980106.jpg",
+                "malId": 143627,
+                "aniId": 127868,
+                "page": "MangaFire",
+                "title": "My Gently Raised Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-raised-the-beast-welll.6vz70"
             }
         },
         "Comick": {

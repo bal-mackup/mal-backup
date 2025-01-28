@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c5ebc94c-33a3-49ea-b476-83c4422b8a8b": {
+                "id": 119880,
                 "identifier": "c5ebc94c-33a3-49ea-b476-83c4422b8a8b",
                 "image": "https://uploads.mangadex.org/covers/c5ebc94c-33a3-49ea-b476-83c4422b8a8b/740f6f7a-3561-4acb-a70d-1632a6dfaf88.jpg",
                 "malId": 153300,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sm996321": {
+                "id": 157879,
                 "identifier": "manga-sm996321",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/a/15-1733307291-nw.webp",
                 "malId": 153300,
@@ -30,40 +32,9 @@
                 "url": "https://chapmanganato.com/manga-sm996321"
             }
         },
-        "MangaFire": {
-            "shuumatsu-no-hanayome-sama.0qq8r": {
-                "identifier": "shuumatsu-no-hanayome-sama.0qq8r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/985d9b3870e74e833c0567eec6c24b26.jpg",
-                "malId": 153300,
-                "aniId": 157587,
-                "page": "MangaFire",
-                "title": "Shuumatsu no Hanayome-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-no-hanayome-sama.0qq8r/"
-            },
-            "Apocalypse-Bride-Sweet-Home-Melty-Life.0qq8r": {
-                "identifier": "Apocalypse-Bride-Sweet-Home-Melty-Life.0qq8r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/985d9b3870e74e833c0567eec6c24b26.jpg",
-                "malId": 153300,
-                "aniId": 157587,
-                "page": "MangaFire",
-                "title": "Shuumatsu no Hanayome-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Apocalypse-Bride-Sweet-Home-Melty-Life.0qq8r/"
-            },
-            "Bride-of-the-End.0qq8r": {
-                "identifier": "Bride-of-the-End.0qq8r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/985d9b3870e74e833c0567eec6c24b26.jpg",
-                "malId": 153300,
-                "aniId": 157587,
-                "page": "MangaFire",
-                "title": "Shuumatsu no Hanayome-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Bride-of-the-End.0qq8r/"
-            }
-        },
         "MangaFox": {
             "shuumatsu_no_hanayome_sama": {
+                "id": 205513,
                 "identifier": "shuumatsu_no_hanayome_sama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46660/cover.jpg",
                 "malId": 153300,
@@ -72,6 +43,19 @@
                 "title": "Shuumatsu no Hanayome-sama",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/shuumatsu_no_hanayome_sama/"
+            }
+        },
+        "MangaFire": {
+            "0qq8r": {
+                "id": 241966,
+                "identifier": "0qq8r",
+                "image": "https://static.mangafire.to/9887/i/9/98/985d9b3870e74e833c0567eec6c24b26.jpg",
+                "malId": 153300,
+                "aniId": 157587,
+                "page": "MangaFire",
+                "title": "Shuumatsu no Hanayome-sama",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shuumatsu-no-hanayome-samaa.0qq8r"
             }
         },
         "Comick": {

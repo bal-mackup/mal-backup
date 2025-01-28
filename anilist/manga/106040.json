@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d79e3d76-30e2-476a-bd16-0fc96f0f0c9c": {
+                "id": 108179,
                 "identifier": "d79e3d76-30e2-476a-bd16-0fc96f0f0c9c",
                 "image": "https://uploads.mangadex.org/covers/d79e3d76-30e2-476a-bd16-0fc96f0f0c9c/083a1159-4abf-448b-b408-363fcba48062.jpg",
                 "malId": 109680,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/d79e3d76-30e2-476a-bd16-0fc96f0f0c9c"
             }
         },
-        "MangaFire": {
-            "zatsuon.92kl0": {
-                "identifier": "zatsuon.92kl0",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6ca86291d17e8097251df066cc216aa2.jpg",
-                "malId": 109680,
-                "aniId": 106040,
-                "page": "MangaFire",
-                "title": "The Noise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zatsuon.92kl0/"
-            },
-            "92kl0": {
-                "identifier": "92kl0",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6ca86291d17e8097251df066cc216aa2.jpg",
-                "malId": 109680,
-                "aniId": 106040,
-                "page": "MangaFire",
-                "title": "The Noise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zatsuon.92kl0/"
-            }
-        },
         "MangaNato": {
             "manga-xh1000942": {
+                "id": 191197,
                 "identifier": "manga-xh1000942",
                 "image": "https://avt.mkklcdnv6temp.com/fld/88/k/16-1733319786-nw.webp",
                 "malId": 109680,
@@ -50,6 +30,19 @@
                 "title": "Zatsuon",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xh1000942"
+            }
+        },
+        "MangaFire": {
+            "92kl0": {
+                "id": 245039,
+                "identifier": "92kl0",
+                "image": "https://static.mangafire.to/63aa/i/6/6c/6ca86291d17e8097251df066cc216aa2.jpg",
+                "malId": 109680,
+                "aniId": 106040,
+                "page": "MangaFire",
+                "title": "The Noise",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zatsuonn.92kl0"
             }
         },
         "Comick": {

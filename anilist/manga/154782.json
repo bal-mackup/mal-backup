@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-om992195": {
+                "id": 113610,
                 "identifier": "manga-om992195",
                 "image": "https://avt.mkklcdnv6temp.com/47/s/26-1661959418.jpg",
                 "malId": 151242,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "a9630bbe-6b68-437f-8624-bdb89fd61aa7": {
+                "id": 114021,
                 "identifier": "a9630bbe-6b68-437f-8624-bdb89fd61aa7",
                 "image": "https://uploads.mangadex.org/covers/a9630bbe-6b68-437f-8624-bdb89fd61aa7/a2a4fedd-ca98-45b7-a9b3-308ead322461.jpg",
                 "malId": 151242,
@@ -30,40 +32,9 @@
                 "url": "https://mangadex.org/title/a9630bbe-6b68-437f-8624-bdb89fd61aa7"
             }
         },
-        "MangaFire": {
-            "helmut-the-forsaken-child.5k4mm": {
-                "identifier": "helmut-the-forsaken-child.5k4mm",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5bf7d9283b26a413305eef9c94918210.jpg",
-                "malId": 151242,
-                "aniId": 154782,
-                "page": "MangaFire",
-                "title": "Helmut: The Forsaken Child",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/helmut-the-forsaken-child.5k4mm/"
-            },
-            "helmut.5k4mm": {
-                "identifier": "helmut.5k4mm",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5bf7d9283b26a413305eef9c94918210.jpg",
-                "malId": 151242,
-                "aniId": 154782,
-                "page": "MangaFire",
-                "title": "Helmut: The Forsaken Child",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/helmut.5k4mm/"
-            },
-            "helmut-the-forsaken-childd.5k4mm": {
-                "identifier": "helmut-the-forsaken-childd.5k4mm",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5bf7d9283b26a413305eef9c94918210.jpg",
-                "malId": 151242,
-                "aniId": 154782,
-                "page": "MangaFire",
-                "title": "Helmut: The Forsaken Child",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/helmut-the-forsaken-childd.5k4mm/"
-            }
-        },
         "MangaFox": {
             "helmut_the_forsaken_child": {
+                "id": 164664,
                 "identifier": "helmut_the_forsaken_child",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44191/cover.jpg",
                 "malId": 151242,
@@ -72,6 +43,19 @@
                 "title": "Helmut: The Forsaken Child",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/helmut_the_forsaken_child/"
+            }
+        },
+        "MangaFire": {
+            "5k4mm": {
+                "id": 226424,
+                "identifier": "5k4mm",
+                "image": "https://static.mangafire.to/6f94/i/5/5b/5bf7d9283b26a413305eef9c94918210.jpg",
+                "malId": 151242,
+                "aniId": 154782,
+                "page": "MangaFire",
+                "title": "Helmut: The Forsaken Child",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/helmut-the-forsaken-childd.5k4mm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mn990222": {
+                "id": 92962,
                 "identifier": "manga-mn990222",
                 "image": "https://avt.mkklcdnv6temp.com/15/i/25-1639287849.jpg",
                 "malId": 148958,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "heavenly-demon-instructor": {
+                "id": 94299,
                 "identifier": "heavenly-demon-instructor",
                 "image": "https://temp.compsci88.com/cover/Heavenly-Demon-Instructor.jpg",
                 "malId": 148958,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "e56e4c26-584d-49be-90d0-1c1c07f5f233": {
+                "id": 104803,
                 "identifier": "e56e4c26-584d-49be-90d0-1c1c07f5f233",
                 "image": "https://uploads.mangadex.org/covers/e56e4c26-584d-49be-90d0-1c1c07f5f233/17682550-a126-4a29-9239-8e812a59cc42.jpg",
                 "malId": 148958,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/e56e4c26-584d-49be-90d0-1c1c07f5f233"
             }
         },
-        "MangaFire": {
-            "heavenly-demon-instructor.4jrqo": {
-                "identifier": "heavenly-demon-instructor.4jrqo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb971a8d0ac962d7c2bd5e3cc0731750.jpg",
-                "malId": 148958,
-                "aniId": 143352,
-                "page": "MangaFire",
-                "title": "My Master is a Backseat Gamer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/heavenly-demon-instructor.4jrqo/"
-            },
-            "heavenly-demon-instructorr.4jrqo": {
-                "identifier": "heavenly-demon-instructorr.4jrqo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb971a8d0ac962d7c2bd5e3cc0731750.jpg",
-                "malId": 148958,
-                "aniId": 143352,
-                "page": "MangaFire",
-                "title": "My Master is a Backseat Gamer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/heavenly-demon-instructorr.4jrqo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf81eqjqfjbny062nd0m": {
+                "id": 209092,
                 "identifier": "01j76xyf81eqjqfjbny062nd0m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF81EQJQFJBNY062ND0M.jpg",
                 "malId": 148958,
@@ -74,6 +56,19 @@
                 "title": "My Master is a Backseat Gamer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF81EQJQFJBNY062ND0M"
+            }
+        },
+        "MangaFire": {
+            "4jrqo": {
+                "id": 225966,
+                "identifier": "4jrqo",
+                "image": "https://static.mangafire.to/82a4/i/b/bb/bb971a8d0ac962d7c2bd5e3cc0731750.jpg",
+                "malId": 148958,
+                "aniId": 143352,
+                "page": "MangaFire",
+                "title": "My Master is a Backseat Gamer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/heavenly-demon-instructorr.4jrqo"
             }
         },
         "Comick": {

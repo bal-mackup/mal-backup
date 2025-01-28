@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f549d78-ddcd-4868-95c5-f7fe6c6d7bf5": {
+                "id": 123791,
                 "identifier": "9f549d78-ddcd-4868-95c5-f7fe6c6d7bf5",
                 "image": "https://uploads.mangadex.org/covers/9f549d78-ddcd-4868-95c5-f7fe6c6d7bf5/9409267c-9356-45cf-a86c-ae147fd0b668.jpg",
                 "malId": 155565,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/9f549d78-ddcd-4868-95c5-f7fe6c6d7bf5"
             }
         },
-        "MangaFire": {
-            "mechanical-buddy-universe.291l5": {
-                "identifier": "mechanical-buddy-universe.291l5",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1f1efc4a8e0aadc0e89e7b5ef533e59.jpg",
-                "malId": 155565,
-                "aniId": 155886,
-                "page": "MangaFire",
-                "title": "Mechanical Buddy Universe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mechanical-buddy-universe.291l5/"
-            }
-        },
         "MangaNato": {
             "manga-ah1004042": {
+                "id": 196894,
                 "identifier": "manga-ah1004042",
-                "image": "https://avt.mkklcdnv6temp.com/23/p/36-1725640189.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/7/c/18-1733327686-nw.webp",
                 "malId": 155565,
                 "aniId": 155886,
                 "page": "MangaNato",
                 "title": "Mechanical Buddy Universe",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-ah1004042"
+            }
+        },
+        "MangaFire": {
+            "291l5": {
+                "id": 238176,
+                "identifier": "291l5",
+                "image": "https://static.mangafire.to/8c99/i/f/f1/f1f1efc4a8e0aadc0e89e7b5ef533e59.jpg",
+                "malId": 155565,
+                "aniId": 155886,
+                "page": "MangaFire",
+                "title": "Mechanical Buddy Universe",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mechanical-buddy-universee.291l5"
             }
         },
         "Comick": {

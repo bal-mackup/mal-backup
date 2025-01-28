@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "27febc29-6fb2-4d29-93c0-198ec873582d": {
+                "id": 33605,
                 "identifier": "27febc29-6fb2-4d29-93c0-198ec873582d",
                 "image": "https://uploads.mangadex.org/covers/27febc29-6fb2-4d29-93c0-198ec873582d/58935355-6e7e-485d-9da8-1f291bc21cab.jpg",
                 "malId": 113012,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kukulcan---shijousaidai-no-sakusen": {
+                "id": 86739,
                 "identifier": "kukulcan---shijousaidai-no-sakusen",
                 "image": "https://temp.compsci88.com/cover/Kukulcan---Shijousaidai-No-Sakusen.jpg",
                 "malId": 113012,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kukulcan---Shijousaidai-No-Sakusen"
             }
         },
-        "MangaFire": {
-            "kukulcan-shijousaidai-no-sakusen.lryxz": {
-                "identifier": "kukulcan-shijousaidai-no-sakusen.lryxz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/809ea8781ed738c6b0c728901dacf6e1.jpg",
-                "malId": 113012,
-                "aniId": 100405,
-                "page": "MangaFire",
-                "title": "Kukulcan The Greatest Strategy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kukulcan-shijousaidai-no-sakusen.lryxz/"
-            }
-        },
         "Weebcentral": {
             "01j76xycaqt1yadgt06kkwxqve": {
+                "id": 212978,
                 "identifier": "01j76xycaqt1yadgt06kkwxqve",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCAQT1YADGT06KKWXQVE.jpg",
                 "malId": 113012,
@@ -52,6 +43,19 @@
                 "title": "Kukulcan - The Greatest Strategy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCAQT1YADGT06KKWXQVE"
+            }
+        },
+        "MangaFire": {
+            "lryxz": {
+                "id": 234746,
+                "identifier": "lryxz",
+                "image": "https://static.mangafire.to/7d6e/i/8/80/809ea8781ed738c6b0c728901dacf6e1.jpg",
+                "malId": 113012,
+                "aniId": 100405,
+                "page": "MangaFire",
+                "title": "Kukulcan The Greatest Strategy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kukulcan-shijousaidai-no-sakusenn.lryxz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "a-chance-at-last": {
+                "id": 96905,
                 "identifier": "a-chance-at-last",
                 "image": "https://temp.compsci88.com/cover/A-Chance-At-Last.jpg",
                 "malId": 148997,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "4334ffdc-4234-4fa8-ab63-2391d62ea671": {
+                "id": 161718,
                 "identifier": "4334ffdc-4234-4fa8-ab63-2391d62ea671",
                 "image": "https://uploads.mangadex.org/covers/4334ffdc-4234-4fa8-ab63-2391d62ea671/d80f24a6-a348-49a8-9ee6-510cb195e324.png",
                 "malId": 148997,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/4334ffdc-4234-4fa8-ab63-2391d62ea671"
             }
         },
-        "MangaFire": {
-            "a-chance-at-last.7wxvy": {
-                "identifier": "a-chance-at-last.7wxvy",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fea0a570b2cb8b01c1cb37e268c766c.jpg",
-                "malId": 148997,
-                "aniId": 142878,
-                "page": "MangaFire",
-                "title": "A Chance at Last",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-chance-at-last.7wxvy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfa559bhcvrqjpya8hgn": {
+                "id": 210646,
                 "identifier": "01j76xyfa559bhcvrqjpya8hgn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFA559BHCVRQJPYA8HGN.jpg",
                 "malId": 148997,
@@ -52,6 +43,19 @@
                 "title": "A Chance at Last",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFA559BHCVRQJPYA8HGN"
+            }
+        },
+        "MangaFire": {
+            "7wxvy": {
+                "id": 241091,
+                "identifier": "7wxvy",
+                "image": "https://static.mangafire.to/9d3a/i/7/7f/7fea0a570b2cb8b01c1cb37e268c766c.jpg",
+                "malId": 148997,
+                "aniId": 142878,
+                "page": "MangaFire",
+                "title": "A Chance at Last",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-chance-at-lastt.7wxvy"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "20ced4e2-2cb6-48d7-aa5b-d0a45755307c": {
+                "id": 15783,
                 "identifier": "20ced4e2-2cb6-48d7-aa5b-d0a45755307c",
                 "image": "https://uploads.mangadex.org/covers/20ced4e2-2cb6-48d7-aa5b-d0a45755307c/ffa37538-a611-43c3-8a0f-97089d96280e.jpg",
                 "malId": 99157,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koe-koi": {
+                "id": 89945,
                 "identifier": "koe-koi",
                 "image": "https://temp.compsci88.com/cover/Koe-Koi.jpg",
                 "malId": 99157,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Koe-Koi"
             }
         },
-        "MangaFire": {
-            "koe-koi.xjj1q": {
-                "identifier": "koe-koi.xjj1q",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/0205dd3dfc6e7e62da2c295f989a235f.jpg",
-                "malId": 99157,
-                "aniId": 87492,
-                "page": "MangaFire",
-                "title": "Koekoi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koe-koi.xjj1q/"
-            },
-            "xjj1q": {
-                "identifier": "xjj1q",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/0205dd3dfc6e7e62da2c295f989a235f.jpg",
-                "malId": 99157,
-                "aniId": 87492,
-                "page": "MangaFire",
-                "title": "Koekoi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koe-koi.xjj1q/"
-            }
-        },
         "Weebcentral": {
             "01j76xybrq1dzefn68ktc3d3mx": {
+                "id": 209026,
                 "identifier": "01j76xybrq1dzefn68ktc3d3mx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBRQ1DZEFN68KTC3D3MX.jpg",
                 "malId": 99157,
@@ -62,6 +43,19 @@
                 "title": "Koe Koi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBRQ1DZEFN68KTC3D3MX"
+            }
+        },
+        "MangaFire": {
+            "xjj1q": {
+                "id": 242602,
+                "identifier": "xjj1q",
+                "image": "https://static.mangafire.to/0687/i/0/02/0205dd3dfc6e7e62da2c295f989a235f.jpg",
+                "malId": 99157,
+                "aniId": 87492,
+                "page": "MangaFire",
+                "title": "Koekoi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koe-koii.xjj1q"
             }
         },
         "Comick": {

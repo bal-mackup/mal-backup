@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6f82c3a0-3c2e-48f7-8399-c993a5ebc963": {
+                "id": 38446,
                 "identifier": "6f82c3a0-3c2e-48f7-8399-c993a5ebc963",
                 "image": "https://uploads.mangadex.org/covers/6f82c3a0-3c2e-48f7-8399-c993a5ebc963/eca4205d-76df-463a-8dcc-9c2cc2af7488.jpg",
                 "malId": 129125,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jk986719": {
+                "id": 80754,
                 "identifier": "manga-jk986719",
                 "image": "https://avt.mkklcdnv6temp.com/17/z/22-1600573599.jpg",
                 "malId": 129125,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "chihiro-kun-only-has-eyes-for-me": {
+                "id": 86921,
                 "identifier": "chihiro-kun-only-has-eyes-for-me",
                 "image": "https://temp.compsci88.com/cover/Chihiro-kun-Only-Has-Eyes-for-Me.jpg",
                 "malId": 129125,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Chihiro-kun-Only-Has-Eyes-for-Me"
             }
         },
-        "MangaFire": {
-            "chihiro-kun-wa-atashi-holic.vvm44": {
-                "identifier": "chihiro-kun-wa-atashi-holic.vvm44",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af3c19a7206cf4e49825ecfd95ff0fa5.jpg",
-                "malId": 129125,
-                "aniId": 122721,
-                "page": "MangaFire",
-                "title": "Chihiro-kun Only Has Eyes For Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chihiro-kun-wa-atashi-holic.vvm44/"
-            },
-            "chihiro-kun-wa-atashi-holicc.vvm44": {
-                "identifier": "chihiro-kun-wa-atashi-holicc.vvm44",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af3c19a7206cf4e49825ecfd95ff0fa5.jpg",
-                "malId": 129125,
-                "aniId": 122721,
-                "page": "MangaFire",
-                "title": "Chihiro-kun Only Has Eyes For Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chihiro-kun-wa-atashi-holicc.vvm44/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf0n9qesvs8se8d2z4md": {
+                "id": 210641,
                 "identifier": "01j76xyf0n9qesvs8se8d2z4md",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF0N9QESVS8SE8D2Z4MD.jpg",
                 "malId": 129125,
@@ -74,6 +56,19 @@
                 "title": "Chihiro-kun Only Has Eyes for Me",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF0N9QESVS8SE8D2Z4MD"
+            }
+        },
+        "MangaFire": {
+            "vvm44": {
+                "id": 224931,
+                "identifier": "vvm44",
+                "image": "https://static.mangafire.to/4be6/i/a/af/af3c19a7206cf4e49825ecfd95ff0fa5.jpg",
+                "malId": 129125,
+                "aniId": 122721,
+                "page": "MangaFire",
+                "title": "Chihiro-kun Only Has Eyes For Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chihiro-kun-wa-atashi-holicc.vvm44"
             }
         },
         "Comick": {

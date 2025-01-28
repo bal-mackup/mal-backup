@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52b63e5d-03a5-4a3a-b5e1-23ce9b4ff557": {
+                "id": 11509,
                 "identifier": "52b63e5d-03a5-4a3a-b5e1-23ce9b4ff557",
                 "image": "https://uploads.mangadex.org/covers/52b63e5d-03a5-4a3a-b5e1-23ce9b4ff557/752ec1e8-aef8-4eab-af55-7a7159e341c6.jpg",
                 "malId": 79143,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jinrou-game": {
+                "id": 65094,
                 "identifier": "jinrou-game",
                 "image": "https://temp.compsci88.com/cover/Jinrou-Game.jpg",
                 "malId": 79143,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Jinrou-Game"
             }
         },
-        "MangaFire": {
-            "jinrou-game.kw2l4": {
-                "identifier": "jinrou-game.kw2l4",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea0a7b7f61d210e5f575eab11970e16a.jpg",
-                "malId": 79143,
-                "aniId": 85598,
-                "page": "MangaFire",
-                "title": "Jinrou Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrou-game.kw2l4/"
-            },
-            "kw2l4": {
-                "identifier": "kw2l4",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea0a7b7f61d210e5f575eab11970e16a.jpg",
-                "malId": 79143,
-                "aniId": 85598,
-                "page": "MangaFire",
-                "title": "Jinrou Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrou-game.kw2l4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaf5m6e7jhkkyrjtw7ph": {
+                "id": 208437,
                 "identifier": "01j76xyaf5m6e7jhkkyrjtw7ph",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAF5M6E7JHKKYRJTW7PH.jpg",
                 "malId": 79143,
@@ -62,6 +43,19 @@
                 "title": "Jinrou Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAF5M6E7JHKKYRJTW7PH"
+            }
+        },
+        "MangaFire": {
+            "kw2l4": {
+                "id": 244245,
+                "identifier": "kw2l4",
+                "image": "https://static.mangafire.to/00d1/i/e/ea/ea0a7b7f61d210e5f575eab11970e16a.jpg",
+                "malId": 79143,
+                "aniId": 85598,
+                "page": "MangaFire",
+                "title": "Jinrou Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jinrou-gamee.kw2l4"
             }
         },
         "Comick": {

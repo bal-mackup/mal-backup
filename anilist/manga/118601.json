@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "87ee91f5-144d-4112-9e80-940f4b473c21": {
+                "id": 26757,
                 "identifier": "87ee91f5-144d-4112-9e80-940f4b473c21",
                 "image": "https://uploads.mangadex.org/covers/87ee91f5-144d-4112-9e80-940f4b473c21/eb7e230a-df5a-414c-8bb9-85ca5397ea09.jpg",
                 "malId": 147150,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "its-mine": {
+                "id": 59398,
                 "identifier": "its-mine",
                 "image": "https://temp.compsci88.com/cover/Its-Mine.jpg",
                 "malId": 147150,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Its-Mine"
             }
         },
-        "MangaFire": {
-            "its-mine.zl2vp": {
-                "identifier": "its-mine.zl2vp",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3b40336ee3d68444c28c211a849c470f.jpg",
-                "malId": 147150,
-                "aniId": 118601,
-                "page": "MangaFire",
-                "title": "It's Mine",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/its-mine.zl2vp/"
-            },
-            "its-minee.zl2vp": {
-                "identifier": "its-minee.zl2vp",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3b40336ee3d68444c28c211a849c470f.jpg",
-                "malId": 147150,
-                "aniId": 118601,
-                "page": "MangaFire",
-                "title": "It's Mine",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/its-minee.zl2vp/"
-            }
-        },
         "Weebcentral": {
             "01j76xye83bp19a6p4ewwbxgad": {
+                "id": 206279,
                 "identifier": "01j76xye83bp19a6p4ewwbxgad",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE83BP19A6P4EWWBXGAD.jpg",
                 "malId": 147150,
@@ -62,6 +43,19 @@
                 "title": "It's Mine",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE83BP19A6P4EWWBXGAD"
+            }
+        },
+        "MangaFire": {
+            "zl2vp": {
+                "id": 230588,
+                "identifier": "zl2vp",
+                "image": "https://static.mangafire.to/736b/i/3/3b/3b40336ee3d68444c28c211a849c470f.jpg",
+                "malId": 147150,
+                "aniId": 118601,
+                "page": "MangaFire",
+                "title": "It's Mine",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/its-minee.zl2vp"
             }
         },
         "Comick": {

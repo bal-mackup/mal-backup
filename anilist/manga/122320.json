@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97": {
+                "id": 38026,
                 "identifier": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
                 "image": "https://uploads.mangadex.org/covers/9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97/54fc8a07-63d8-4d6d-acea-30be4f5176db.jpg",
                 "malId": 131563,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kage-no-eiyuu-no-nichijou-tan": {
+                "id": 54417,
                 "identifier": "kage-no-eiyuu-no-nichijou-tan",
                 "image": "https://temp.compsci88.com/cover/Kage-no-Eiyuu-no-Nichijou-tan.jpg",
                 "malId": 131563,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kage_no_eiyuu_no_nichijou_tan": {
+                "id": 64331,
                 "identifier": "kage_no_eiyuu_no_nichijou_tan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35526/cover.jpg",
                 "malId": 131563,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jz986508": {
+                "id": 74386,
                 "identifier": "manga-jz986508",
                 "image": "https://avt.mkklcdnv6temp.com/9/s/22-1599462297.jpg",
                 "malId": 131563,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-jz986508"
             }
         },
-        "MangaFire": {
-            "kage-no-eiyuu-no-nichijou-tan.2o38l": {
-                "identifier": "kage-no-eiyuu-no-nichijou-tan.2o38l",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/788994dcfd8061b8aa10031a2e44a514.jpg",
-                "malId": 131563,
-                "aniId": 122320,
-                "page": "MangaFire",
-                "title": "Shadow Hero's Daily Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-eiyuu-no-nichijou-tan.2o38l/"
-            },
-            "Shadow-Heros-Daily-Life.2o38l": {
-                "identifier": "Shadow-Heros-Daily-Life.2o38l",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/788994dcfd8061b8aa10031a2e44a514.jpg",
-                "malId": 131563,
-                "aniId": 122320,
-                "page": "MangaFire",
-                "title": "Shadow Hero's Daily Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Shadow-Heros-Daily-Life.2o38l/"
-            },
-            "kage-no-eiyuu-no-nichijou-tann.2o38l": {
-                "identifier": "kage-no-eiyuu-no-nichijou-tann.2o38l",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/788994dcfd8061b8aa10031a2e44a514.jpg",
-                "malId": 131563,
-                "aniId": 122320,
-                "page": "MangaFire",
-                "title": "Shadow Hero's Daily Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-eiyuu-no-nichijou-tann.2o38l/"
-            }
-        },
         "Weebcentral": {
             "01j76xye59azx4rmfnr3z98ks4": {
+                "id": 210872,
                 "identifier": "01j76xye59azx4rmfnr3z98ks4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE59AZX4RMFNR3Z98KS4.jpg",
                 "malId": 131563,
@@ -96,6 +69,19 @@
                 "title": "Kage no Eiyuu no Nichijou-tan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE59AZX4RMFNR3Z98KS4"
+            }
+        },
+        "MangaFire": {
+            "2o38l": {
+                "id": 229506,
+                "identifier": "2o38l",
+                "image": "https://static.mangafire.to/5b55/i/7/78/788994dcfd8061b8aa10031a2e44a514.jpg",
+                "malId": 131563,
+                "aniId": 122320,
+                "page": "MangaFire",
+                "title": "Shadow Hero's Daily Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kage-no-eiyuu-no-nichijou-tann.2o38l"
             }
         },
         "Comick": {

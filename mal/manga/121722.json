@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bd27fe2c-e023-4f70-9541-6a60cd7b5839": {
+                "id": 105872,
                 "identifier": "bd27fe2c-e023-4f70-9541-6a60cd7b5839",
                 "image": "https://uploads.mangadex.org/covers/bd27fe2c-e023-4f70-9541-6a60cd7b5839/3aad139f-c8d2-4bdf-ab3b-d0bef6c40040.jpg",
                 "malId": 121722,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rg994963": {
+                "id": 129070,
                 "identifier": "manga-rg994963",
                 "image": "https://avt.mkklcdnv6temp.com/8/y/29-1679286016.jpg",
                 "malId": 121722,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rg994963"
             }
         },
-        "MangaFire": {
-            "watashi-wa-s-ni-sakaraenai.wo7ko": {
-                "identifier": "watashi-wa-s-ni-sakaraenai.wo7ko",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8fc7119386292afd88dfe4fef370521c.jpg",
-                "malId": 121722,
-                "aniId": 118409,
-                "page": "MangaFire",
-                "title": "I Can't Refuse S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-wa-s-ni-sakaraenai.wo7ko/"
-            }
-        },
         "MangaSee": {
             "i-cant-refuse-s": {
+                "id": 189719,
                 "identifier": "i-cant-refuse-s",
                 "image": "https://temp.compsci88.com/cover/I-Cant-Refuse-S.jpg",
                 "malId": 121722,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh8dkr9rm5qj5nqks5b2": {
+                "id": 206871,
                 "identifier": "01j76xyh8dkr9rm5qj5nqks5b2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH8DKR9RM5QJ5NQKS5B2.jpg",
                 "malId": 121722,
@@ -64,6 +56,19 @@
                 "title": "I Can't Refuse S",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH8DKR9RM5QJ5NQKS5B2"
+            }
+        },
+        "MangaFire": {
+            "wo7ko": {
+                "id": 244185,
+                "identifier": "wo7ko",
+                "image": "https://static.mangafire.to/e644/i/8/8f/8fc7119386292afd88dfe4fef370521c.jpg",
+                "malId": 121722,
+                "aniId": 118409,
+                "page": "MangaFire",
+                "title": "I Can't Refuse S",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-wa-s-ni-sakaraenaii.wo7ko"
             }
         },
         "Comick": {

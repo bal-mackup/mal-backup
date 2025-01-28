@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1f7d7d28-03c8-4587-b2da-3415dcf99278": {
+                "id": 91905,
                 "identifier": "1f7d7d28-03c8-4587-b2da-3415dcf99278",
                 "image": "https://uploads.mangadex.org/covers/1f7d7d28-03c8-4587-b2da-3415dcf99278/ca88e98c-3408-4085-82cf-f7aa239d1834.jpg",
                 "malId": 142152,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "yomotsu_hegui_shisha_no_kuni_no_kajitsu": {
+                "id": 97228,
                 "identifier": "yomotsu_hegui_shisha_no_kuni_no_kajitsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41009/cover.jpg",
                 "malId": 142152,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "yomotsuhegui-shisha-no-kuni-no-kajitsu": {
+                "id": 114490,
                 "identifier": "yomotsuhegui-shisha-no-kuni-no-kajitsu",
                 "image": "https://temp.compsci88.com/cover/Yomotsuhegui-Shisha-no-Kuni-no-Kajitsu.jpg",
                 "malId": 142152,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ri995091": {
+                "id": 127413,
                 "identifier": "manga-ri995091",
                 "image": "https://avt.mkklcdnv6temp.com/13/z/29-1679458688.jpg",
                 "malId": 142152,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ri995091"
             }
         },
-        "MangaFire": {
-            "yomotsuhegui-shisha-no-kuni-no-kajitsu.pr5rx": {
-                "identifier": "yomotsuhegui-shisha-no-kuni-no-kajitsu.pr5rx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5ccd36c9d7df35028cbdbe0f695c72f3.jpg",
-                "malId": 142152,
-                "aniId": 142171,
-                "page": "MangaFire",
-                "title": "The Tree of Death: Yomotsuhegui",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yomotsuhegui-shisha-no-kuni-no-kajitsu.pr5rx/"
-            },
-            "yomotsuhegui-shisha-no-kuni-no-kajitsuu.pr5rx": {
-                "identifier": "yomotsuhegui-shisha-no-kuni-no-kajitsuu.pr5rx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5ccd36c9d7df35028cbdbe0f695c72f3.jpg",
-                "malId": 142152,
-                "aniId": 142171,
-                "page": "MangaFire",
-                "title": "The Tree of Death: Yomotsuhegui",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yomotsuhegui-shisha-no-kuni-no-kajitsuu.pr5rx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfpa8nwsmhr0zk0a5gek": {
+                "id": 208041,
                 "identifier": "01j76xyfpa8nwsmhr0zk0a5gek",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFPA8NWSMHR0ZK0A5GEK.jpg",
                 "malId": 142152,
@@ -86,6 +69,19 @@
                 "title": "The Tree of Death - Yomotsuhegui",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFPA8NWSMHR0ZK0A5GEK"
+            }
+        },
+        "MangaFire": {
+            "pr5rx": {
+                "id": 225821,
+                "identifier": "pr5rx",
+                "image": "https://static.mangafire.to/a562/i/5/5c/5ccd36c9d7df35028cbdbe0f695c72f3.jpg",
+                "malId": 142152,
+                "aniId": 142171,
+                "page": "MangaFire",
+                "title": "The Tree of Death: Yomotsuhegui",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yomotsuhegui-shisha-no-kuni-no-kajitsuu.pr5rx"
             }
         },
         "Comick": {

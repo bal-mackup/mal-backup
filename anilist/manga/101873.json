@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "55a96d76-10a2-4c4b-bc60-3a4aa8325e50": {
+                "id": 21815,
                 "identifier": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
                 "image": "https://uploads.mangadex.org/covers/55a96d76-10a2-4c4b-bc60-3a4aa8325e50/c4b24719-8137-4fba-a685-b22834bd1177.jpg",
                 "malId": 113644,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "orient": {
+                "id": 57243,
                 "identifier": "orient",
                 "image": "https://temp.compsci88.com/cover/Orient.jpg",
                 "malId": 113644,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "orient": {
+                "id": 69939,
                 "identifier": "orient",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27593/cover.jpg",
                 "malId": 113644,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ba979083": {
+                "id": 80761,
                 "identifier": "manga-ba979083",
                 "image": "https://avt.mkklcdnv6temp.com/28/e/16-1583494481.jpg",
                 "malId": 113644,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ba979083"
             }
         },
-        "MangaFire": {
-            "orient.9oy18": {
-                "identifier": "orient.9oy18",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13e8e013701baa1ddcd40b6d4b300393.jpg",
-                "malId": 113644,
-                "aniId": 101873,
-                "page": "MangaFire",
-                "title": "Orient",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/orient.9oy18/"
-            },
-            "orientt.9oy18": {
-                "identifier": "orientt.9oy18",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13e8e013701baa1ddcd40b6d4b300393.jpg",
-                "malId": 113644,
-                "aniId": 101873,
-                "page": "MangaFire",
-                "title": "Orient",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/orientt.9oy18/"
-            }
-        },
         "Weebcentral": {
             "01j76xycgz3c73rqnfcxpqpyjd": {
+                "id": 211179,
                 "identifier": "01j76xycgz3c73rqnfcxpqpyjd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGZ3C73RQNFCXPQPYJD.jpg",
                 "malId": 113644,
@@ -86,6 +69,19 @@
                 "title": "Orient",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGZ3C73RQNFCXPQPYJD"
+            }
+        },
+        "MangaFire": {
+            "9oy18": {
+                "id": 226471,
+                "identifier": "9oy18",
+                "image": "https://static.mangafire.to/911c/i/1/13/13e8e013701baa1ddcd40b6d4b300393.jpg",
+                "malId": 113644,
+                "aniId": 101873,
+                "page": "MangaFire",
+                "title": "Orient",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/orientt.9oy18"
             }
         },
         "Comick": {

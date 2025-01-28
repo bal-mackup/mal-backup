@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aac380f1-6a3b-48b9-8c25-850b7286165e": {
+                "id": 171799,
                 "identifier": "aac380f1-6a3b-48b9-8c25-850b7286165e",
                 "image": "https://uploads.mangadex.org/covers/aac380f1-6a3b-48b9-8c25-850b7286165e/76991e55-7f4c-40e7-be9a-77a57cc03615.jpg",
                 "malId": 151024,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/aac380f1-6a3b-48b9-8c25-850b7286165e"
             }
         },
-        "MangaFire": {
-            "hajimete-no-ojou-sama.w5zrl": {
-                "identifier": "hajimete-no-ojou-sama.w5zrl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2cc5720b962f7b580d362b77a7fbd6de.jpg",
-                "malId": 151024,
-                "aniId": 151532,
-                "page": "MangaFire",
-                "title": "Hajimete no Ojou-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hajimete-no-ojou-sama.w5zrl/"
-            },
-            "hajimete-no-ojou-samaa.w5zrl": {
-                "identifier": "hajimete-no-ojou-samaa.w5zrl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2cc5720b962f7b580d362b77a7fbd6de.jpg",
-                "malId": 151024,
-                "aniId": 151532,
-                "page": "MangaFire",
-                "title": "Hajimete no Ojou-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hajimete-no-ojou-samaa.w5zrl/"
-            }
-        },
         "MangaNato": {
             "manga-wk999519": {
+                "id": 176205,
                 "identifier": "manga-wk999519",
                 "image": "https://avt.mkklcdnv6temp.com/fld/33/w/16-1733315398-nw.webp",
                 "malId": 151024,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "hajimete-no-ojou-sama": {
+                "id": 191399,
                 "identifier": "hajimete-no-ojou-sama",
                 "image": "https://temp.compsci88.com/cover/Hajimete-no-Ojou-sama.jpg",
                 "malId": 151024,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "hajimete_no_ojou_sama": {
+                "id": 192554,
                 "identifier": "hajimete_no_ojou_sama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46284/cover.jpg",
                 "malId": 151024,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhbyeczcr9m0b62d7yvz": {
+                "id": 211564,
                 "identifier": "01j76xyhbyeczcr9m0b62d7yvz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHBYECZCR9M0B62D7YVZ.jpg",
                 "malId": 151024,
@@ -86,6 +69,19 @@
                 "title": "Hajimete no Ojou-sama",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHBYECZCR9M0B62D7YVZ"
+            }
+        },
+        "MangaFire": {
+            "w5zrl": {
+                "id": 239052,
+                "identifier": "w5zrl",
+                "image": "https://static.mangafire.to/b455/i/2/2c/2cc5720b962f7b580d362b77a7fbd6de.jpg",
+                "malId": 151024,
+                "aniId": 151532,
+                "page": "MangaFire",
+                "title": "Hajimete no Ojou-sama",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hajimete-no-ojou-samaa.w5zrl"
             }
         },
         "Comick": {

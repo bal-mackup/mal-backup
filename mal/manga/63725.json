@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "480389e2-279b-4900-902c-fe7d4ff5f47b": {
+                "id": 9635,
                 "identifier": "480389e2-279b-4900-902c-fe7d4ff5f47b",
                 "image": "https://uploads.mangadex.org/covers/480389e2-279b-4900-902c-fe7d4ff5f47b/ab1c4b89-7702-446f-bc6a-1ce270c4571e.jpg",
                 "malId": 63725,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nanoka-no-kare": {
+                "id": 63584,
                 "identifier": "nanoka-no-kare",
                 "image": "https://temp.compsci88.com/cover/Nanoka-No-Kare.jpg",
                 "malId": 63725,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "nanohana_no_kare": {
+                "id": 69934,
                 "identifier": "nanohana_no_kare",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13436/cover.jpg",
                 "malId": 63725,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-wi951843": {
+                "id": 89018,
                 "identifier": "manga-wi951843",
                 "image": "https://avt.mkklcdnv6temp.com/fld/21/g/1-1732717206-nw.webp",
                 "malId": 63725,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-wi951843"
             }
         },
-        "MangaFire": {
-            "nanoka-no-kare.rzvo": {
-                "identifier": "nanoka-no-kare.rzvo",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54dd5a87dbabc7a7278d57bf36d9e94e.jpg",
-                "malId": 63725,
-                "aniId": 85305,
-                "page": "MangaFire",
-                "title": "Nanoka no Kare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanoka-no-kare.rzvo/"
-            },
-            "rzvo": {
-                "identifier": "rzvo",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54dd5a87dbabc7a7278d57bf36d9e94e.jpg",
-                "malId": 63725,
-                "aniId": 85305,
-                "page": "MangaFire",
-                "title": "Nanoka no Kare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanoka-no-kare.rzvo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb66xqd2raqmdeh3ya8g": {
+                "id": 209279,
                 "identifier": "01j76xyb66xqd2raqmdeh3ya8g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB66XQD2RAQMDEH3YA8G.jpg",
                 "malId": 63725,
@@ -86,6 +69,19 @@
                 "title": "Nanoka no Kare",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB66XQD2RAQMDEH3YA8G"
+            }
+        },
+        "MangaFire": {
+            "rzvo": {
+                "id": 255298,
+                "identifier": "rzvo",
+                "image": "https://static.mangafire.to/9049/i/5/54/54dd5a87dbabc7a7278d57bf36d9e94e.jpg",
+                "malId": 63725,
+                "aniId": 85305,
+                "page": "MangaFire",
+                "title": "Nanoka no Kare",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nanoka-no-karee.rzvo"
             }
         },
         "Comick": {

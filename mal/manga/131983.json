@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b8a86d9b-b721-4123-a57e-6e40e9c3fc26": {
+                "id": 53200,
                 "identifier": "b8a86d9b-b721-4123-a57e-6e40e9c3fc26",
                 "image": "https://uploads.mangadex.org/covers/b8a86d9b-b721-4123-a57e-6e40e9c3fc26/268152fa-ddf1-4048-a82b-5c843a897194.jpg",
                 "malId": 131983,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hitogoto_desu_kara": {
+                "id": 119990,
                 "identifier": "hitogoto_desu_kara",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36664/cover.jpg",
                 "malId": 131983,
@@ -30,28 +32,30 @@
                 "url": "https://fanfox.net/manga/hitogoto_desu_kara/"
             }
         },
-        "MangaFire": {
-            "its-personnel.1nw8m": {
-                "identifier": "its-personnel.1nw8m",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0dc06da5426035690834be308f5de43e.jpg",
-                "malId": 131983,
-                "aniId": 118546,
-                "page": "MangaFire",
-                "title": "It's Personnel!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/its-personnel.1nw8m/"
-            }
-        },
         "MangaNato": {
             "manga-kz987382": {
+                "id": 192206,
                 "identifier": "manga-kz987382",
-                "image": "https://avt.mkklcdnv6temp.com/45/m/22-1607915641.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/80/g/11-1733284932-nw.webp",
                 "malId": 131983,
                 "aniId": 118546,
                 "page": "MangaNato",
                 "title": "Hitogoto Desukara!",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-kz987382"
+            }
+        },
+        "MangaFire": {
+            "1nw8m": {
+                "id": 260378,
+                "identifier": "1nw8m",
+                "image": "https://static.mangafire.to/8565/i/0/0d/0dc06da5426035690834be308f5de43e.jpg",
+                "malId": 131983,
+                "aniId": 118546,
+                "page": "MangaFire",
+                "title": "It's Personnel!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/its-personnell.1nw8m"
             }
         },
         "Comick": {

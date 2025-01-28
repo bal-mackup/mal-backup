@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6956503c-4a74-4eab-913e-1d1cc16bf4d1": {
+                "id": 9492,
                 "identifier": "6956503c-4a74-4eab-913e-1d1cc16bf4d1",
                 "image": "https://uploads.mangadex.org/covers/6956503c-4a74-4eab-913e-1d1cc16bf4d1/06d7f709-46c9-4234-8dbf-ad7610c405a4.png",
                 "malId": 75995,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yuki-ni-tsubasa": {
+                "id": 70686,
                 "identifier": "yuki-ni-tsubasa",
                 "image": "https://temp.compsci88.com/cover/Yuki-Ni-Tsubasa.jpg",
                 "malId": 75995,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fi952191": {
+                "id": 92809,
                 "identifier": "manga-fi952191",
                 "image": "https://avt.mkklcdnv6temp.com/fld/33/v/1-1732717709-nw.webp",
                 "malId": 75995,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-fi952191"
             }
         },
-        "MangaFire": {
-            "yuki-ni-tsubasa.oym4": {
-                "identifier": "yuki-ni-tsubasa.oym4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d39b8fbf844d1ee22f2969ea86932706.jpg",
-                "malId": 75995,
-                "aniId": 86608,
-                "page": "MangaFire",
-                "title": "Yuki ni Tsubasa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuki-ni-tsubasa.oym4/"
-            }
-        },
         "Weebcentral": {
             "01j76xybnrrdsse61asads6gzt": {
+                "id": 207119,
                 "identifier": "01j76xybnrrdsse61asads6gzt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBNRRDSSE61ASADS6GZT.jpg",
                 "malId": 75995,
@@ -64,6 +56,19 @@
                 "title": "Yuki ni Tsubasa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBNRRDSSE61ASADS6GZT"
+            }
+        },
+        "MangaFire": {
+            "oym4": {
+                "id": 239156,
+                "identifier": "oym4",
+                "image": "https://static.mangafire.to/f03b/i/d/d3/d39b8fbf844d1ee22f2969ea86932706.jpg",
+                "malId": 75995,
+                "aniId": 86608,
+                "page": "MangaFire",
+                "title": "Yuki ni Tsubasa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuki-ni-tsubasaa.oym4"
             }
         },
         "Comick": {

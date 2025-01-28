@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d10bb878-a835-445c-9f69-c3dbe70f0241": {
+                "id": 14361,
                 "identifier": "d10bb878-a835-445c-9f69-c3dbe70f0241",
                 "image": "https://uploads.mangadex.org/covers/d10bb878-a835-445c-9f69-c3dbe70f0241/e9dc0936-edeb-45d1-bdd7-df2a229b1092.jpg",
                 "malId": 94110,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boku-no-hero-academia-smash": {
+                "id": 61032,
                 "identifier": "boku-no-hero-academia-smash",
                 "image": "https://temp.compsci88.com/cover/Boku-No-Hero-Academia-Smash.jpg",
                 "malId": 94110,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Boku-No-Hero-Academia-Smash"
             }
         },
-        "MangaFire": {
-            "boku-no-hero-academia-smash.4qk9x": {
-                "identifier": "boku-no-hero-academia-smash.4qk9x",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d5464f2a1b4c575019299b6e00270bf.jpg",
-                "malId": 94110,
-                "aniId": 86652,
-                "page": "MangaFire",
-                "title": "My Hero Academia Smash!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-hero-academia-smash.4qk9x/"
-            },
-            "boku-no-hero-academia-smashh.4qk9x": {
-                "identifier": "boku-no-hero-academia-smashh.4qk9x",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d5464f2a1b4c575019299b6e00270bf.jpg",
-                "malId": 94110,
-                "aniId": 86652,
-                "page": "MangaFire",
-                "title": "My Hero Academia Smash!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-hero-academia-smashh.4qk9x/"
-            }
-        },
         "Weebcentral": {
             "01j76xybgrfww472avw9vqgghj": {
+                "id": 209552,
                 "identifier": "01j76xybgrfww472avw9vqgghj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBGRFWW472AVW9VQGGHJ.jpg",
                 "malId": 94110,
@@ -62,6 +43,19 @@
                 "title": "My Hero Academia - Smash!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBGRFWW472AVW9VQGGHJ"
+            }
+        },
+        "MangaFire": {
+            "4qk9x": {
+                "id": 226106,
+                "identifier": "4qk9x",
+                "image": "https://static.mangafire.to/32d2/i/1/1d/1d5464f2a1b4c575019299b6e00270bf.jpg",
+                "malId": 94110,
+                "aniId": 86652,
+                "page": "MangaFire",
+                "title": "My Hero Academia Smash!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-hero-academia-smashh.4qk9x"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38c53d3a-73f5-4d90-a0f3-2b42513eb07b": {
+                "id": 19658,
                 "identifier": "38c53d3a-73f5-4d90-a0f3-2b42513eb07b",
                 "image": "https://uploads.mangadex.org/covers/38c53d3a-73f5-4d90-a0f3-2b42513eb07b/fb20196a-8efd-42d6-93f5-e25d7e6bd66c.jpg",
                 "malId": 82211,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kaitou-le-vin": {
+                "id": 95722,
                 "identifier": "kaitou-le-vin",
                 "image": "https://temp.compsci88.com/cover/Kaitou-Le-Vin.jpg",
                 "malId": 82211,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kaitou-Le-Vin"
             }
         },
-        "MangaFire": {
-            "kaitou-le-vin.xrx3w": {
-                "identifier": "kaitou-le-vin.xrx3w",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/9773bdd9891758bfe110d51f91f58177.jpg",
-                "malId": 82211,
-                "aniId": 93239,
-                "page": "MangaFire",
-                "title": "Le Vin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaitou-le-vin.xrx3w/"
-            },
-            "xrx3w": {
-                "identifier": "xrx3w",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/9773bdd9891758bfe110d51f91f58177.jpg",
-                "malId": 82211,
-                "aniId": 93239,
-                "page": "MangaFire",
-                "title": "Le Vin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaitou-le-vin.xrx3w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaprk1ve5gq06yq9rrh3": {
+                "id": 213805,
                 "identifier": "01j76xyaprk1ve5gq06yq9rrh3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAPRK1VE5GQ06YQ9RRH3.jpg",
                 "malId": 82211,
@@ -62,6 +43,19 @@
                 "title": "Le Vin Wine Burglar",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAPRK1VE5GQ06YQ9RRH3"
+            }
+        },
+        "MangaFire": {
+            "xrx3w": {
+                "id": 242732,
+                "identifier": "xrx3w",
+                "image": "https://static.mangafire.to/841f/i/9/97/9773bdd9891758bfe110d51f91f58177.jpg",
+                "malId": 82211,
+                "aniId": 93239,
+                "page": "MangaFire",
+                "title": "Le Vin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaitou-le-vinn.xrx3w"
             }
         },
         "Comick": {

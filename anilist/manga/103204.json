@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "60e6eb5e-6798-4614-928f-064e65aabe16": {
+                "id": 21206,
                 "identifier": "60e6eb5e-6798-4614-928f-064e65aabe16",
                 "image": "https://uploads.mangadex.org/covers/60e6eb5e-6798-4614-928f-064e65aabe16/db104285-23b5-4d5c-b347-5794d2d834b6.jpg",
                 "malId": 114300,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "jishou_akuyaku_reijou_na_konyakusha_no_kansatsu_kiroku": {
+                "id": 58587,
                 "identifier": "jishou_akuyaku_reijou_na_konyakusha_no_kansatsu_kiroku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28202/cover.jpg",
                 "malId": 114300,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku": {
+                "id": 68729,
                 "identifier": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
                 "image": "https://temp.compsci88.com/cover/Jishou-Akuyaku-Reijou-Na-Konyakusha-No-Kansatsu-Kiroku.jpg",
                 "malId": 114300,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bn979096": {
+                "id": 72839,
                 "identifier": "manga-bn979096",
                 "image": "https://avt.mkklcdnv6temp.com/28/r/16-1583494498.jpg",
                 "malId": 114300,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bn979096"
             }
         },
-        "MangaFire": {
-            "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.8jvv": {
-                "identifier": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.8jvv",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/32c8c9ef1a7790c61ae1575e4b8f9d03.jpg",
-                "malId": 114300,
-                "aniId": 103204,
-                "page": "MangaFire",
-                "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.8jvv/"
-            },
-            "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kirokuu.8jvv": {
-                "identifier": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kirokuu.8jvv",
-                "image": "https://static.mangafire.to/4648/i/3/32/32c8c9ef1a7790c61ae1575e4b8f9d03.jpg",
-                "malId": 114300,
-                "aniId": 103204,
-                "page": "MangaFire",
-                "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kirokuu.8jvv/"
-            }
-        },
         "Weebcentral": {
             "01j76xycvkvn778qda1n86gyw8": {
+                "id": 210114,
                 "identifier": "01j76xycvkvn778qda1n86gyw8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCVKVN778QDA1N86GYW8.jpg",
                 "malId": 114300,
@@ -86,6 +69,19 @@
                 "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCVKVN778QDA1N86GYW8"
+            }
+        },
+        "MangaFire": {
+            "8jvv": {
+                "id": 223665,
+                "identifier": "8jvv",
+                "image": "https://static.mangafire.to/4648/i/3/32/32c8c9ef1a7790c61ae1575e4b8f9d03.jpg",
+                "malId": 114300,
+                "aniId": 103204,
+                "page": "MangaFire",
+                "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kirokuu.8jvv"
             }
         },
         "Comick": {

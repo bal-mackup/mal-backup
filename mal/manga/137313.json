@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7e3d081f-30f2-475d-83bb-e247cffea3d6": {
+                "id": 52885,
                 "identifier": "7e3d081f-30f2-475d-83bb-e247cffea3d6",
                 "image": "https://uploads.mangadex.org/covers/7e3d081f-30f2-475d-83bb-e247cffea3d6/98630b5f-2468-4920-834f-527fdd932d67.jpg",
                 "malId": 137313,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oj991566": {
+                "id": 109220,
                 "identifier": "manga-oj991566",
                 "image": "https://avt.mkklcdnv6temp.com/22/b/26-1657364911.jpg",
                 "malId": 137313,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "koutetsu_no_rinna_wa_xx_saretai": {
+                "id": 109706,
                 "identifier": "koutetsu_no_rinna_wa_xx_saretai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40639/cover.jpg",
                 "malId": 137313,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/koutetsu_no_rinna_wa_xx_saretai/"
             }
         },
-        "MangaFire": {
-            "isshiki-san-wa-koi-wo-shiritai.m2wz7": {
-                "identifier": "isshiki-san-wa-koi-wo-shiritai.m2wz7",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e96303abb03f84d18ae529131d1ce66e.jpg",
-                "malId": 137313,
-                "aniId": 120945,
-                "page": "MangaFire",
-                "title": "Isshiki-san wa Koi wo shiritai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isshiki-san-wa-koi-wo-shiritai.m2wz7/"
-            },
-            "Isshikisan-Wants-to-Know-About-Love.m2wz7": {
-                "identifier": "Isshikisan-Wants-to-Know-About-Love.m2wz7",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e96303abb03f84d18ae529131d1ce66e.jpg",
-                "malId": 137313,
-                "aniId": 120945,
-                "page": "MangaFire",
-                "title": "Isshiki-san wa Koi wo shiritai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Isshikisan-Wants-to-Know-About-Love.m2wz7/"
-            },
-            "isshiki-san-wa-koi-wo-shiritaii.m2wz7": {
-                "identifier": "isshiki-san-wa-koi-wo-shiritaii.m2wz7",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e96303abb03f84d18ae529131d1ce66e.jpg",
-                "malId": 137313,
-                "aniId": 120945,
-                "page": "MangaFire",
-                "title": "Isshiki-san wa Koi wo shiritai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isshiki-san-wa-koi-wo-shiritaii.m2wz7/"
-            }
-        },
         "MangaSee": {
             "isshiki-san-wa-koi-wo-shiritai": {
+                "id": 164070,
                 "identifier": "isshiki-san-wa-koi-wo-shiritai",
                 "image": "https://temp.compsci88.com/cover/Isshiki-san-wa-Koi-wo-shiritai.jpg",
                 "malId": 137313,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygbz6j2s9tg7ybwqb8bb": {
+                "id": 213669,
                 "identifier": "01j76xygbz6j2s9tg7ybwqb8bb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGBZ6J2S9TG7YBWQB8BB.jpg",
                 "malId": 137313,
@@ -96,6 +69,19 @@
                 "title": "Isshiki-san wa Koi wo shiritai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGBZ6J2S9TG7YBWQB8BB"
+            }
+        },
+        "MangaFire": {
+            "m2wz7": {
+                "id": 229015,
+                "identifier": "m2wz7",
+                "image": "https://static.mangafire.to/249f/i/e/e9/e96303abb03f84d18ae529131d1ce66e.jpg",
+                "malId": 137313,
+                "aniId": 120945,
+                "page": "MangaFire",
+                "title": "Isshiki-san wa Koi wo shiritai.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isshiki-san-wa-koi-wo-shiritaii.m2wz7"
             }
         },
         "Comick": {

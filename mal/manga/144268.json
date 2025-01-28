@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38f6e2f4-18d9-428e-acb7-4e15180bac7b": {
+                "id": 99922,
                 "identifier": "38f6e2f4-18d9-428e-acb7-4e15180bac7b",
                 "image": "https://uploads.mangadex.org/covers/38f6e2f4-18d9-428e-acb7-4e15180bac7b/4e415755-5ab9-43d6-a98a-c369b9bf7395.jpg",
                 "malId": 144268,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/38f6e2f4-18d9-428e-acb7-4e15180bac7b"
             }
         },
-        "MangaFire": {
-            "rome-futari-gurashi.80yr3": {
-                "identifier": "rome-futari-gurashi.80yr3",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f399ac6aea0b3b324e930af3fbf09814.jpg",
-                "malId": 144268,
-                "aniId": 145303,
-                "page": "MangaFire",
-                "title": "Rome Futari Gurashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rome-futari-gurashi.80yr3/"
-            }
-        },
         "MangaNato": {
             "manga-ud998060": {
+                "id": 169866,
                 "identifier": "manga-ud998060",
                 "image": "https://avt.mkklcdnv6temp.com/fld/78/g/15-1733311471-nw.webp",
                 "malId": 144268,
@@ -40,6 +30,19 @@
                 "title": "Rome Futari Gurashi",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ud998060"
+            }
+        },
+        "MangaFire": {
+            "80yr3": {
+                "id": 249645,
+                "identifier": "80yr3",
+                "image": "https://static.mangafire.to/a3af/i/f/f3/f399ac6aea0b3b324e930af3fbf09814.jpg",
+                "malId": 144268,
+                "aniId": 145303,
+                "page": "MangaFire",
+                "title": "Rome Futari Gurashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rome-futari-gurashii.80yr3"
             }
         },
         "Comick": {

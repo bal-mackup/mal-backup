@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "91cfa2d2-4f61-436a-85c7-bf934afb8395": {
+                "id": 62212,
                 "identifier": "91cfa2d2-4f61-436a-85c7-bf934afb8395",
                 "image": "https://uploads.mangadex.org/covers/91cfa2d2-4f61-436a-85c7-bf934afb8395/8e3da5fa-f434-4742-8487-ca33c61cd247.jpg",
                 "malId": 147363,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fast-forward": {
+                "id": 77636,
                 "identifier": "fast-forward",
                 "image": "https://temp.compsci88.com/cover/Fast-Forward.jpg",
                 "malId": 147363,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "fast_forward": {
+                "id": 105812,
                 "identifier": "fast_forward",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38500/cover.jpg",
                 "malId": 147363,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/fast_forward/"
             }
         },
-        "MangaFire": {
-            "fast-forward.yq9y1": {
-                "identifier": "fast-forward.yq9y1",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fed54d5ca9fc6d4c4031d6aa16b5f1e9.jpg",
-                "malId": 147363,
-                "aniId": 134029,
-                "page": "MangaFire",
-                "title": "Fast Forward",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fast-forward.yq9y1/"
-            },
-            "fast-forwardd.yq9y1": {
-                "identifier": "fast-forwardd.yq9y1",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fed54d5ca9fc6d4c4031d6aa16b5f1e9.jpg",
-                "malId": 147363,
-                "aniId": 134029,
-                "page": "MangaFire",
-                "title": "Fast Forward",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fast-forwardd.yq9y1/"
-            }
-        },
         "Weebcentral": {
             "01j76xyesqdrp3dd35nwkygy6s": {
+                "id": 208351,
                 "identifier": "01j76xyesqdrp3dd35nwkygy6s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYESQDRP3DD35NWKYGY6S.jpg",
                 "malId": 147363,
@@ -74,6 +56,19 @@
                 "title": "Fast Forward",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYESQDRP3DD35NWKYGY6S"
+            }
+        },
+        "MangaFire": {
+            "yq9y1": {
+                "id": 226674,
+                "identifier": "yq9y1",
+                "image": "https://static.mangafire.to/a07b/i/f/fe/fed54d5ca9fc6d4c4031d6aa16b5f1e9.jpg",
+                "malId": 147363,
+                "aniId": 134029,
+                "page": "MangaFire",
+                "title": "Fast Forward",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fast-forwardd.yq9y1"
             }
         },
         "Comick": {

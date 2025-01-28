@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9d685cb5-594b-4891-9f98-e50bfee0ffa4": {
+                "id": 32536,
                 "identifier": "9d685cb5-594b-4891-9f98-e50bfee0ffa4",
                 "image": "https://uploads.mangadex.org/covers/9d685cb5-594b-4891-9f98-e50bfee0ffa4/755d9f02-7e28-4d90-8587-e0711d7508fa.jpg",
                 "malId": 147455,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gy984133": {
+                "id": 73520,
                 "identifier": "manga-gy984133",
                 "image": "https://avt.mkklcdnv6temp.com/14/r/21-1583501591.jpg",
                 "malId": 147455,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-gy984133"
             }
         },
-        "MangaFire": {
-            "masters-of-lightning-knives.mpv8": {
-                "identifier": "masters-of-lightning-knives.mpv8",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1c459c86ab983a8e583140c1ff1144e.jpg",
-                "malId": 147455,
-                "aniId": 127848,
-                "page": "MangaFire",
-                "title": "Masters of Lightning Knives",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/masters-of-lightning-knives.mpv8/"
-            },
-            "masters-of-lightning-knivess.mpv8": {
-                "identifier": "masters-of-lightning-knivess.mpv8",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1c459c86ab983a8e583140c1ff1144e.jpg",
-                "malId": 147455,
-                "aniId": 127848,
-                "page": "MangaFire",
-                "title": "Masters of Lightning Knives",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/masters-of-lightning-knivess.mpv8/"
-            }
-        },
         "MangaSee": {
             "masters-of-lightning-knives": {
+                "id": 163615,
                 "identifier": "masters-of-lightning-knives",
                 "image": "https://temp.compsci88.com/cover/Masters-of-Lightning-Knives.jpg",
                 "malId": 147455,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygapea8j25redg9j5jws": {
+                "id": 207157,
                 "identifier": "01j76xygapea8j25redg9j5jws",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGAPEA8J25REDG9J5JWS.jpg",
                 "malId": 147455,
@@ -74,6 +56,19 @@
                 "title": "Masters of Lightning Knives",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGAPEA8J25REDG9J5JWS"
+            }
+        },
+        "MangaFire": {
+            "mpv8": {
+                "id": 227787,
+                "identifier": "mpv8",
+                "image": "https://static.mangafire.to/10dc/i/d/d1/d1c459c86ab983a8e583140c1ff1144e.jpg",
+                "malId": 147455,
+                "aniId": 127848,
+                "page": "MangaFire",
+                "title": "Masters of Lightning Knives",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/masters-of-lightning-knivess.mpv8"
             }
         },
         "Comick": {

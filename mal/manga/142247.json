@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/1/252962.jpg",
     "Sites": {
-        "MangaFire": {
-            "randen-to-saga.m2z2x": {
-                "identifier": "randen-to-saga.m2z2x",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d30fbede9591c352eebf5bb5f49f687.jpg",
-                "malId": 142247,
-                "aniId": 142416,
-                "page": "MangaFire",
-                "title": "Randen & Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/randen-to-saga.m2z2x/"
-            }
-        },
         "Mangadex": {
             "3b76f296-80c8-4f9f-a904-7897edc9bc81": {
+                "id": 175078,
                 "identifier": "3b76f296-80c8-4f9f-a904-7897edc9bc81",
                 "image": "https://uploads.mangadex.org/covers/3b76f296-80c8-4f9f-a904-7897edc9bc81/36b06dd6-327d-49d8-ae12-5517eb4fe67b.jpg",
                 "malId": 142247,
@@ -28,6 +17,19 @@
                 "title": "Randen to Saga",
                 "type": "manga",
                 "url": "https://mangadex.org/title/3b76f296-80c8-4f9f-a904-7897edc9bc81"
+            }
+        },
+        "MangaFire": {
+            "m2z2x": {
+                "id": 250136,
+                "identifier": "m2z2x",
+                "image": "https://static.mangafire.to/0dbc/i/2/2d/2d30fbede9591c352eebf5bb5f49f687.jpg",
+                "malId": 142247,
+                "aniId": 142416,
+                "page": "MangaFire",
+                "title": "Randen & Saga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/randen-to-sagaa.m2z2x"
             }
         },
         "Comick": {

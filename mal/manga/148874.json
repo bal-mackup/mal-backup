@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-pk992519": {
+                "id": 115724,
                 "identifier": "manga-pk992519",
                 "image": "https://avt.mkklcdnv6temp.com/10/x/27-1663738046.jpg",
                 "malId": 148874,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "superstar_associate_manager": {
+                "id": 174066,
                 "identifier": "superstar_associate_manager",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45230/cover.jpg",
                 "malId": 148874,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/superstar_associate_manager/"
             }
         },
-        "MangaFire": {
-            "superstar-associate-manager.jjrp3": {
-                "identifier": "superstar-associate-manager.jjrp3",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4ecb0cf78769e877e7418a0f3eb4fa53.jpg",
-                "malId": 148874,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Superstar Associate Manager",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/superstar-associate-manager.jjrp3/"
-            }
-        },
         "MangaSee": {
             "superstar-associate-manager": {
+                "id": 186101,
                 "identifier": "superstar-associate-manager",
                 "image": "https://temp.compsci88.com/cover/Superstar-Associate-Manager.jpg",
                 "malId": 148874,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh4ja9j130g3mgrwpqmg": {
+                "id": 214121,
                 "identifier": "01j76xyh4ja9j130g3mgrwpqmg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH4JA9J130G3MGRWPQMG.jpg",
                 "malId": 148874,
@@ -64,6 +56,19 @@
                 "title": "Superstar Associate Manager",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH4JA9J130G3MGRWPQMG"
+            }
+        },
+        "MangaFire": {
+            "jjrp3": {
+                "id": 236304,
+                "identifier": "jjrp3",
+                "image": "https://static.mangafire.to/ef46/i/4/4e/4ecb0cf78769e877e7418a0f3eb4fa53.jpg",
+                "malId": 148874,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Superstar Associate Manager",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/superstar-associate-managerr.jjrp3"
             }
         }
     }

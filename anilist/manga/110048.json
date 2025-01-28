@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "71e6668e-a7e9-47e6-af41-6ea97475d49d": {
+                "id": 28202,
                 "identifier": "71e6668e-a7e9-47e6-af41-6ea97475d49d",
                 "image": "https://uploads.mangadex.org/covers/71e6668e-a7e9-47e6-af41-6ea97475d49d/734254be-d52e-41dd-8c96-7e854fa7d4a6.jpg",
                 "malId": 120464,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "samayoeru-tensei-shatachi-no-relive-game": {
+                "id": 61651,
                 "identifier": "samayoeru-tensei-shatachi-no-relive-game",
                 "image": "https://temp.compsci88.com/cover/Samayoeru-Tensei-shatachi-no-Relive-Game.jpg",
                 "malId": 120464,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "samayoeru_tensei_sha_tachi_no_revival_game": {
+                "id": 64440,
                 "identifier": "samayoeru_tensei_sha_tachi_no_revival_game",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30556/cover.jpg",
                 "malId": 120464,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ed982060": {
+                "id": 73250,
                 "identifier": "manga-ed982060",
                 "image": "https://avt.mkklcdnv6temp.com/37/q/18-1583498556.jpg",
                 "malId": 120464,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-ed982060"
             },
             "manga-fb982758": {
+                "id": 76979,
                 "identifier": "manga-fb982758",
                 "image": "https://avt.mkklcdnv6temp.com/13/l/19-1583499604.jpg",
                 "malId": 120464,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-fb982758"
             }
         },
-        "MangaFire": {
-            "samayoeru-tensei-sha-tachi-no-relive-game.llyq6": {
-                "identifier": "samayoeru-tensei-sha-tachi-no-relive-game.llyq6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4bdf1f9ec84ee29e2e358b974c00e636.jpg",
-                "malId": 120464,
-                "aniId": 110048,
-                "page": "MangaFire",
-                "title": "ReLive Game of Wandering Reincarnations",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/samayoeru-tensei-sha-tachi-no-relive-game.llyq6/"
-            },
-            "samayoeru-tensei-sha-tachi-no-relive-gamee.llyq6": {
-                "identifier": "samayoeru-tensei-sha-tachi-no-relive-gamee.llyq6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4bdf1f9ec84ee29e2e358b974c00e636.jpg",
-                "malId": 120464,
-                "aniId": 110048,
-                "page": "MangaFire",
-                "title": "ReLive Game of Wandering Reincarnations",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/samayoeru-tensei-sha-tachi-no-relive-gamee.llyq6/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrx6762qxfvrz3f0yd9": {
+                "id": 212998,
                 "identifier": "01j76xydrx6762qxfvrz3f0yd9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRX6762QXFVRZ3F0YD9.jpg",
                 "malId": 120464,
@@ -96,6 +80,19 @@
                 "title": "Samayoeru Tensei-sha-tachi no Relive Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRX6762QXFVRZ3F0YD9"
+            }
+        },
+        "MangaFire": {
+            "llyq6": {
+                "id": 226151,
+                "identifier": "llyq6",
+                "image": "https://static.mangafire.to/e94f/i/4/4b/4bdf1f9ec84ee29e2e358b974c00e636.jpg",
+                "malId": 120464,
+                "aniId": 110048,
+                "page": "MangaFire",
+                "title": "ReLive Game of Wandering Reincarnations",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/samayoeru-tensei-sha-tachi-no-relive-gamee.llyq6"
             }
         },
         "Comick": {

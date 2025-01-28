@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a9a71cf3-f412-4a04-8a2c-fe03ed70e35b": {
+                "id": 10562,
                 "identifier": "a9a71cf3-f412-4a04-8a2c-fe03ed70e35b",
                 "image": "https://uploads.mangadex.org/covers/a9a71cf3-f412-4a04-8a2c-fe03ed70e35b/c7c925b7-ffb1-469f-a8fb-4285a70e4519.jpg",
                 "malId": 70589,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a9a71cf3-f412-4a04-8a2c-fe03ed70e35b"
             },
             "3d7e59b3-38a5-4d8c-b94d-5dcf56abfea4": {
+                "id": 191275,
                 "identifier": "3d7e59b3-38a5-4d8c-b94d-5dcf56abfea4",
                 "image": "https://uploads.mangadex.org/covers/3d7e59b3-38a5-4d8c-b94d-5dcf56abfea4/f79d650c-0fb9-41ae-beb0-b016f816cbcd.png",
                 "malId": 70589,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "g-t-o-paradise-lost": {
+                "id": 55465,
                 "identifier": "g-t-o-paradise-lost",
                 "image": "https://temp.compsci88.com/cover/G-T-O-Paradise-Lost.jpg",
                 "malId": 70589,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "gto_paradise_lost": {
+                "id": 70205,
                 "identifier": "gto_paradise_lost",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13812/cover.jpg",
                 "malId": 70589,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ka951457": {
+                "id": 74462,
                 "identifier": "manga-ka951457",
                 "image": "https://avt.mkklcdnv6temp.com/5/l/1-1583463877.jpg",
                 "malId": 70589,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ka951457"
             }
         },
-        "MangaFire": {
-            "gto-paradise-lost.948m": {
-                "identifier": "gto-paradise-lost.948m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f92fc41067379a04dd3f50e2fc0d578.jpg",
-                "malId": 70589,
-                "aniId": 85457,
-                "page": "MangaFire",
-                "title": "GTO: Paradise Lost",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gto-paradise-lost.948m/"
-            },
-            "gto-paradise-lostt.948m": {
-                "identifier": "gto-paradise-lostt.948m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f92fc41067379a04dd3f50e2fc0d578.jpg",
-                "malId": 70589,
-                "aniId": 85457,
-                "page": "MangaFire",
-                "title": "GTO: Paradise Lost",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gto-paradise-lostt.948m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyae20wrn145r853y3dtt": {
+                "id": 211618,
                 "identifier": "01j76xyae20wrn145r853y3dtt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAE20WRN145R853Y3DTT.jpg",
                 "malId": 70589,
@@ -96,6 +80,19 @@
                 "title": "GTO -  Paradise Lost",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAE20WRN145R853Y3DTT"
+            }
+        },
+        "MangaFire": {
+            "948m": {
+                "id": 229535,
+                "identifier": "948m",
+                "image": "https://static.mangafire.to/47fe/i/1/1f/1f92fc41067379a04dd3f50e2fc0d578.jpg",
+                "malId": 70589,
+                "aniId": 85457,
+                "page": "MangaFire",
+                "title": "GTO: Paradise Lost",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gto-paradise-lostt.948m"
             }
         },
         "Comick": {

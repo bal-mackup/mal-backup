@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fcfb3ec9-147f-4d43-aaea-3a73f42c8318": {
+                "id": 37406,
                 "identifier": "fcfb3ec9-147f-4d43-aaea-3a73f42c8318",
                 "image": "https://uploads.mangadex.org/covers/fcfb3ec9-147f-4d43-aaea-3a73f42c8318/15bb1abe-7329-4838-886e-a71db1bfd258.jpg",
                 "malId": 127854,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-iceblade-magician-rules-over-the-world": {
+                "id": 57500,
                 "identifier": "the-iceblade-magician-rules-over-the-world",
                 "image": "https://temp.compsci88.com/cover/The-Iceblade-Magician-Rules-Over-the-World.jpg",
                 "malId": 127854,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_iceblade_magician_rules_over_the_world": {
+                "id": 64465,
                 "identifier": "the_iceblade_magician_rules_over_the_world",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35117/cover.jpg",
                 "malId": 127854,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/the_iceblade_magician_rules_over_the_world/"
             },
             "hyouken_no_majutsushi_ga_sekai_o_suberu_sekai_saikyou_no_majutsushi_de_aru_shounen_wa_majutsu_gakuin": {
+                "id": 176094,
                 "identifier": "hyouken_no_majutsushi_ga_sekai_o_suberu_sekai_saikyou_no_majutsushi_de_aru_shounen_wa_majutsu_gakuin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41355/cover.jpg",
                 "malId": 127854,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-iu986203": {
+                "id": 73467,
                 "identifier": "manga-iu986203",
                 "image": "https://avt.mkklcdnv6temp.com/47/l/21-1597050677.jpg",
                 "malId": 127854,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-iu986203"
             }
         },
-        "MangaFire": {
-            "hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suru.xrjm8": {
-                "identifier": "hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suru.xrjm8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3e416283d0df3db22dbe5fd2a6a5ca5d.jpg",
-                "malId": 127854,
-                "aniId": 123093,
-                "page": "MangaFire",
-                "title": "The Iceblade Sorcerer Shall Rule the World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suru.xrjm8/"
-            },
-            "hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suruu.xrjm8": {
-                "identifier": "hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suruu.xrjm8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3e416283d0df3db22dbe5fd2a6a5ca5d.jpg",
-                "malId": 127854,
-                "aniId": 123093,
-                "page": "MangaFire",
-                "title": "The Iceblade Sorcerer Shall Rule the World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suruu.xrjm8/"
-            }
-        },
         "Weebcentral": {
             "01j76xydwabgq8cscpc7q4ynng": {
+                "id": 211209,
                 "identifier": "01j76xydwabgq8cscpc7q4ynng",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDWABGQ8CSCPC7Q4YNNG.jpg",
                 "malId": 127854,
@@ -96,6 +80,19 @@
                 "title": "The Iceblade Sorcerer Shall Rule the World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDWABGQ8CSCPC7Q4YNNG"
+            }
+        },
+        "MangaFire": {
+            "xrjm8": {
+                "id": 224667,
+                "identifier": "xrjm8",
+                "image": "https://static.mangafire.to/6c7f/i/3/3e/3e416283d0df3db22dbe5fd2a6a5ca5d.jpg",
+                "malId": 127854,
+                "aniId": 123093,
+                "page": "MangaFire",
+                "title": "The Iceblade Sorcerer Shall Rule the World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hyouken-no-majutsushi-ga-sekai-o-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ga-nyuugaku-suruu.xrjm8"
             }
         },
         "Comick": {

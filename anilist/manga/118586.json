@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b0b721ff-c388-4486-aa0f-c2b0bb321512": {
+                "id": 35148,
                 "identifier": "b0b721ff-c388-4486-aa0f-c2b0bb321512",
                 "image": "https://uploads.mangadex.org/covers/b0b721ff-c388-4486-aa0f-c2b0bb321512/f812f3d4-f1df-40ce-bd3c-dcc0fd0eb17b.jpg",
                 "malId": 126287,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sousou-no-frieren": {
+                "id": 55396,
                 "identifier": "sousou-no-frieren",
                 "image": "https://temp.compsci88.com/cover/Sousou-no-Frieren.jpg",
                 "malId": 126287,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sousou_no_frieren": {
+                "id": 55601,
                 "identifier": "sousou_no_frieren",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33957/cover.jpg",
                 "malId": 126287,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-iw985379": {
+                "id": 72948,
                 "identifier": "manga-iw985379",
                 "image": "https://avt.mkklcdnv6temp.com/13/g/21-1589429188.jpg",
                 "malId": 126287,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-iw985379"
             }
         },
-        "MangaFire": {
-            "sousou-no-frieren.2v70": {
-                "identifier": "sousou-no-frieren.2v70",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a939c80708e5458113b48999636ba9f3.jpg",
-                "malId": 126287,
-                "aniId": 118586,
-                "page": "MangaFire",
-                "title": "Frieren: Beyond Journey’s End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sousou-no-frieren.2v70/"
-            },
-            "sousou-no-frierenn.2v70": {
-                "identifier": "sousou-no-frierenn.2v70",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a939c80708e5458113b48999636ba9f3.jpg",
-                "malId": 126287,
-                "aniId": 118586,
-                "page": "MangaFire",
-                "title": "Frieren: Beyond Journey’s End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sousou-no-frierenn.2v70/"
-            }
-        },
         "Weebcentral": {
             "01j76xydgdqerfsk333582bnbz": {
+                "id": 209411,
                 "identifier": "01j76xydgdqerfsk333582bnbz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDGDQERFSK333582BNBZ.jpg",
                 "malId": 126287,
@@ -86,6 +69,19 @@
                 "title": "Frieren - Beyond Journey's End",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDGDQERFSK333582BNBZ"
+            }
+        },
+        "MangaFire": {
+            "2v70": {
+                "id": 228564,
+                "identifier": "2v70",
+                "image": "https://static.mangafire.to/1e5d/i/a/a5/a939c80708e5458113b48999636ba9f3.jpg",
+                "malId": 126287,
+                "aniId": 118586,
+                "page": "MangaFire",
+                "title": "Frieren: Beyond Journey’s End",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sousou-no-frierenn.2v70"
             }
         },
         "Comick": {

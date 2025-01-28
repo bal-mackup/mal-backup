@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67befa8e-adf4-42e3-9958-094e16c86ea7": {
+                "id": 64085,
                 "identifier": "67befa8e-adf4-42e3-9958-094e16c86ea7",
                 "image": "https://uploads.mangadex.org/covers/67befa8e-adf4-42e3-9958-094e16c86ea7/820baac2-858b-46e1-8804-fd9f587c3be2.jpg",
                 "malId": 148410,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kill_the_villainess": {
+                "id": 69887,
                 "identifier": "kill_the_villainess",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38234/cover.jpg",
                 "malId": 148410,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lb988710": {
+                "id": 74143,
                 "identifier": "manga-lb988710",
                 "image": "https://avt.mkklcdnv6temp.com/50/f/23-1617415823.jpg",
                 "malId": 148410,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-lb988710"
             }
         },
-        "MangaFire": {
-            "angnyeoreul-jugyeo-jwo.y050": {
-                "identifier": "angnyeoreul-jugyeo-jwo.y050",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f88ea43d6726f721a336ea936aa9943.jpg",
-                "malId": 148410,
-                "aniId": 132165,
-                "page": "MangaFire",
-                "title": "Kill the Villainess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angnyeoreul-jugyeo-jwo.y050/"
-            },
-            "angnyeoreul-jugyeo-jwoo.y050": {
-                "identifier": "angnyeoreul-jugyeo-jwoo.y050",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2f88ea43d6726f721a336ea936aa9943.jpg",
-                "malId": 148410,
-                "aniId": 132165,
-                "page": "MangaFire",
-                "title": "Kill the Villainess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/angnyeoreul-jugyeo-jwoo.y050/"
-            }
-        },
         "MangaSee": {
             "kill-the-villainess": {
+                "id": 157977,
                 "identifier": "kill-the-villainess",
                 "image": "https://temp.compsci88.com/cover/Kill-the-Villainess.jpg",
                 "malId": 148410,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg4xwwj2xjy348nq23vm": {
+                "id": 206932,
                 "identifier": "01j76xyg4xwwj2xjy348nq23vm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG4XWWJ2XJY348NQ23VM.jpg",
                 "malId": 148410,
@@ -86,6 +69,19 @@
                 "title": "Kill the Villainess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG4XWWJ2XJY348NQ23VM"
+            }
+        },
+        "MangaFire": {
+            "y050": {
+                "id": 228588,
+                "identifier": "y050",
+                "image": "https://static.mangafire.to/0b46/i/2/2f/2f88ea43d6726f721a336ea936aa9943.jpg",
+                "malId": 148410,
+                "aniId": 132165,
+                "page": "MangaFire",
+                "title": "Kill the Villainess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/angnyeoreul-jugyeo-jwoo.y050"
             }
         },
         "Comick": {

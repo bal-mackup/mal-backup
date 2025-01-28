@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "472d3750-89c7-4527-9302-af28398f46fe": {
+                "id": 18094,
                 "identifier": "472d3750-89c7-4527-9302-af28398f46fe",
                 "image": "https://uploads.mangadex.org/covers/472d3750-89c7-4527-9302-af28398f46fe/ad8ddd71-ec4f-4a42-b87b-6824a3d57034.jpg",
                 "malId": 98293,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "nonbiri_vrmmoki": {
+                "id": 61690,
                 "identifier": "nonbiri_vrmmoki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26131/cover.jpg",
                 "malId": 98293,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "nonbiri-vrmmoki": {
+                "id": 71133,
                 "identifier": "nonbiri-vrmmoki",
                 "image": "https://temp.compsci88.com/cover/Nonbiri-Vrmmoki.jpg",
                 "malId": 98293,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zk977319": {
+                "id": 75578,
                 "identifier": "manga-zk977319",
                 "image": "https://avt.mkklcdnv6temp.com/40/n/15-1583493121.jpg",
                 "malId": 98293,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-zk977319"
             }
         },
-        "MangaFire": {
-            "nonbiri-vrmmo-ki.3rll6": {
-                "identifier": "nonbiri-vrmmo-ki.3rll6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2be3e5be3d9028d4f208d85e272da6b7.jpg",
-                "malId": 98293,
-                "aniId": 100316,
-                "page": "MangaFire",
-                "title": "A Diary of Our Leisurely VRMMO Playthrough",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nonbiri-vrmmo-ki.3rll6/"
-            },
-            "nonbiri-vrmmo-kii.3rll6": {
-                "identifier": "nonbiri-vrmmo-kii.3rll6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2be3e5be3d9028d4f208d85e272da6b7.jpg",
-                "malId": 98293,
-                "aniId": 100316,
-                "page": "MangaFire",
-                "title": "A Diary of Our Leisurely VRMMO Playthrough",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nonbiri-vrmmo-kii.3rll6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyca0whm2t5jvevmdxzyz": {
+                "id": 213345,
                 "identifier": "01j76xyca0whm2t5jvevmdxzyz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCA0WHM2T5JVEVMDXZYZ.jpg",
                 "malId": 98293,
@@ -86,6 +69,19 @@
                 "title": "A Diary of Our Leisurely VRMMO Playthrough",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCA0WHM2T5JVEVMDXZYZ"
+            }
+        },
+        "MangaFire": {
+            "3rll6": {
+                "id": 227644,
+                "identifier": "3rll6",
+                "image": "https://static.mangafire.to/268c/i/2/2b/2be3e5be3d9028d4f208d85e272da6b7.jpg",
+                "malId": 98293,
+                "aniId": 100316,
+                "page": "MangaFire",
+                "title": "A Diary of Our Leisurely VRMMO Playthrough",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nonbiri-vrmmo-kii.3rll6"
             }
         },
         "Comick": {

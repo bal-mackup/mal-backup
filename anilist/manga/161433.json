@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "356de811-ae92-48f1-b93b-cfdf0f8d02e4": {
+                "id": 125725,
                 "identifier": "356de811-ae92-48f1-b93b-cfdf0f8d02e4",
                 "image": "https://uploads.mangadex.org/covers/356de811-ae92-48f1-b93b-cfdf0f8d02e4/e9c47c27-6476-4a82-a3f8-5411cf8f211b.jpg",
                 "malId": 155911,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sl995846": {
+                "id": 155658,
                 "identifier": "manga-sl995846",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/t/14-1733306192-nw.webp",
                 "malId": 155911,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-sl995846"
             }
         },
-        "MangaFire": {
-            "kakunaru-ue-wa.oxo94": {
-                "identifier": "kakunaru-ue-wa.oxo94",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/518ae818e7599eace30b6602ee655c2a.jpg",
-                "malId": 155911,
-                "aniId": 161433,
-                "page": "MangaFire",
-                "title": "Now That We Draw",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakunaru-ue-wa.oxo94/"
-            },
-            "kakunaru-ue-waa.oxo94": {
-                "identifier": "kakunaru-ue-waa.oxo94",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/518ae818e7599eace30b6602ee655c2a.jpg",
-                "malId": 155911,
-                "aniId": 161433,
-                "page": "MangaFire",
-                "title": "Now That We Draw",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakunaru-ue-waa.oxo94/"
-            }
-        },
         "MangaSee": {
             "now-that-we-draw": {
+                "id": 172691,
                 "identifier": "now-that-we-draw",
                 "image": "https://temp.compsci88.com/cover/Now-That-We-Draw.jpg",
                 "malId": 155911,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "kakunaru_ue_wa": {
+                "id": 179137,
                 "identifier": "kakunaru_ue_wa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45355/cover.jpg",
                 "malId": 155911,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygkxfs7p02hgkv96w4d4": {
+                "id": 210929,
                 "identifier": "01j76xygkxfs7p02hgkv96w4d4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGKXFS7P02HGKV96W4D4.jpg",
                 "malId": 155911,
@@ -86,6 +69,19 @@
                 "title": "Now That We Draw",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGKXFS7P02HGKV96W4D4"
+            }
+        },
+        "MangaFire": {
+            "oxo94": {
+                "id": 224030,
+                "identifier": "oxo94",
+                "image": "https://static.mangafire.to/198c/i/5/51/518ae818e7599eace30b6602ee655c2a.jpg",
+                "malId": 155911,
+                "aniId": 161433,
+                "page": "MangaFire",
+                "title": "Now That We Draw",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kakunaru-ue-waa.oxo94"
             }
         },
         "Comick": {

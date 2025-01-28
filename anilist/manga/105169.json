@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "93c7cbf2-7a12-4df8-9dde-9ca2b38e7f22": {
+                "id": 108770,
                 "identifier": "93c7cbf2-7a12-4df8-9dde-9ca2b38e7f22",
                 "image": "https://uploads.mangadex.org/covers/93c7cbf2-7a12-4df8-9dde-9ca2b38e7f22/7256784a-ed38-4bd0-b8f2-6db7e18f2a58.jpg",
                 "malId": 127817,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/93c7cbf2-7a12-4df8-9dde-9ca2b38e7f22"
             },
             "76616e0d-d39e-4a73-9541-d49577838e89": {
+                "id": 108773,
                 "identifier": "76616e0d-d39e-4a73-9541-d49577838e89",
                 "image": "https://uploads.mangadex.org/covers/76616e0d-d39e-4a73-9541-d49577838e89/c825828a-553a-4360-87f7-e772f08af34f.jpg",
                 "malId": 127817,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-rf994462": {
+                "id": 127079,
                 "identifier": "manga-rf994462",
                 "image": "https://avt.mkklcdnv6temp.com/39/a/28-1677126881.jpg",
                 "malId": 127817,
@@ -40,20 +43,9 @@
                 "url": "https://manganato.com/manga-rf994462"
             }
         },
-        "MangaFire": {
-            "jaa-kimi-no-kawari-ni-korosou-ka.n36rl": {
-                "identifier": "jaa-kimi-no-kawari-ni-korosou-ka.n36rl",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bdcd8fa51fc942f4079432bbe17cc89c.jpg",
-                "malId": 127817,
-                "aniId": 105169,
-                "page": "MangaFire",
-                "title": "Well, Shall I Murder Instead of You?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jaa-kimi-no-kawari-ni-korosou-ka.n36rl/"
-            }
-        },
         "MangaFox": {
             "jaa_kimi_no_kawari_ni_korosou_ka": {
+                "id": 186430,
                 "identifier": "jaa_kimi_no_kawari_ni_korosou_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43089/cover.jpg",
                 "malId": 127817,
@@ -62,6 +54,19 @@
                 "title": "Jaa, Kimi no Kawari ni Korosou ka?",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/jaa_kimi_no_kawari_ni_korosou_ka/"
+            }
+        },
+        "MangaFire": {
+            "n36rl": {
+                "id": 234270,
+                "identifier": "n36rl",
+                "image": "https://static.mangafire.to/f3a5/i/b/bd/bdcd8fa51fc942f4079432bbe17cc89c.jpg",
+                "malId": 127817,
+                "aniId": 105169,
+                "page": "MangaFire",
+                "title": "Well, Shall I Murder Instead of You?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jaa-kimi-no-kawari-ni-korosou-kaa.n36rl"
             }
         },
         "Comick": {

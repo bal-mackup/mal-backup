@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "020d602f-c43a-4b9f-a4f8-3ac8ddfd99c3": {
+                "id": 94601,
                 "identifier": "020d602f-c43a-4b9f-a4f8-3ac8ddfd99c3",
                 "image": "https://uploads.mangadex.org/covers/020d602f-c43a-4b9f-a4f8-3ac8ddfd99c3/815e466a-cb5a-4c4e-8e8d-ec3a4c3d2eac.jpg",
                 "malId": 140466,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-od991486": {
+                "id": 108865,
                 "identifier": "manga-od991486",
                 "image": "https://avt.mkklcdnv6temp.com/18/x/26-1656954597.jpg",
                 "malId": 140466,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-od991486"
             }
         },
-        "MangaFire": {
-            "amaesasete-hinamori-san.mx48": {
-                "identifier": "amaesasete-hinamori-san.mx48",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1a/1a56c24fcfb9fe80c1d6f52d77048ce6.jpg",
-                "malId": 140466,
-                "aniId": 139399,
-                "page": "MangaFire",
-                "title": "Spoil Me Plzzz Hinamori-san!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amaesasete-hinamori-san.mx48/"
-            }
-        },
         "MangaFox": {
             "please_spoil_me_hinamori_san": {
+                "id": 149634,
                 "identifier": "please_spoil_me_hinamori_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40869/cover.jpg",
                 "malId": 140466,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01jbmvtevrfvqzpx8cvrgr4zft": {
+                "id": 215444,
                 "identifier": "01jbmvtevrfvqzpx8cvrgr4zft",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBMVTEVRFVQZPX8CVRGR4ZFT.jpg",
                 "malId": 140466,
@@ -64,6 +56,19 @@
                 "title": "Spoil Me Plzzz, Hinamori-san!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBMVTEVRFVQZPX8CVRGR4ZFT"
+            }
+        },
+        "MangaFire": {
+            "mx48": {
+                "id": 249322,
+                "identifier": "mx48",
+                "image": "https://static.mangafire.to/e264/i/1/1a/1a56c24fcfb9fe80c1d6f52d77048ce6.jpg",
+                "malId": 140466,
+                "aniId": 139399,
+                "page": "MangaFire",
+                "title": "Spoil Me Plzzz Hinamori-san!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/amaesasete-hinamori-sann.mx48"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lh989042": {
+                "id": 72975,
                 "identifier": "manga-lh989042",
                 "image": "https://avt.mkklcdnv6temp.com/13/t/24-1621486226.jpg",
                 "malId": 148659,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "990k-ex-life-hunter": {
+                "id": 78220,
                 "identifier": "990k-ex-life-hunter",
                 "image": "https://temp.compsci88.com/cover/990k-Ex-Life-Hunter.jpg",
                 "malId": 148659,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "990k_ex_life_hunter": {
+                "id": 81823,
                 "identifier": "990k_ex_life_hunter",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38400/cover.jpg",
                 "malId": 148659,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "58397d46-5c8b-4f3b-af2b-6157d0ac9b5a": {
+                "id": 104391,
                 "identifier": "58397d46-5c8b-4f3b-af2b-6157d0ac9b5a",
                 "image": "https://uploads.mangadex.org/covers/58397d46-5c8b-4f3b-af2b-6157d0ac9b5a/671a28fa-1fb7-43ac-832d-46a7628225a8.jpg",
                 "malId": 148659,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/58397d46-5c8b-4f3b-af2b-6157d0ac9b5a"
             }
         },
-        "MangaFire": {
-            "990k-ex-life-hunter.52x30": {
-                "identifier": "990k-ex-life-hunter.52x30",
-                "image": "https://static.mangafire.to/3b2d5/i/5/56/5615f4ec30aa1d772f8608ed79250893.jpg",
-                "malId": 148659,
-                "aniId": 134327,
-                "page": "MangaFire",
-                "title": "My 990 Thousand Past Lives Help Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/990k-ex-life-hunter.52x30/"
-            },
-            "990k-ex-life-hunterr.52x30": {
-                "identifier": "990k-ex-life-hunterr.52x30",
-                "image": "https://static.mangafire.to/3b2d5/i/5/56/5615f4ec30aa1d772f8608ed79250893.jpg",
-                "malId": 148659,
-                "aniId": 134327,
-                "page": "MangaFire",
-                "title": "My 990 Thousand Past Lives Help Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/990k-ex-life-hunterr.52x30/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeta8jr09fxda33tn4ry": {
+                "id": 210718,
                 "identifier": "01j76xyeta8jr09fxda33tn4ry",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYETA8JR09FXDA33TN4RY.jpg",
                 "malId": 148659,
@@ -86,6 +69,19 @@
                 "title": "My 990 Thousand Past Lives Help Me",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYETA8JR09FXDA33TN4RY"
+            }
+        },
+        "MangaFire": {
+            "52x30": {
+                "id": 226229,
+                "identifier": "52x30",
+                "image": "https://static.mangafire.to/a0ff/i/5/56/5615f4ec30aa1d772f8608ed79250893.jpg",
+                "malId": 148659,
+                "aniId": 134327,
+                "page": "MangaFire",
+                "title": "My 990 Thousand Past Lives Help Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/990k-ex-life-hunterr.52x30"
             }
         },
         "Comick": {

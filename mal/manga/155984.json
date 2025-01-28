@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "12d81610-51d9-407b-b94d-6f50b4cee8d2": {
+                "id": 118356,
                 "identifier": "12d81610-51d9-407b-b94d-6f50b4cee8d2",
                 "image": "https://uploads.mangadex.org/covers/12d81610-51d9-407b-b94d-6f50b4cee8d2/8e45da56-7528-4d36-a0f8-945c275a4aef.jpg",
                 "malId": 155984,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qo994171": {
+                "id": 124657,
                 "identifier": "manga-qo994171",
                 "image": "https://avt.mkklcdnv6temp.com/33/q/32-1700104322.jpg",
                 "malId": 155984,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qo994171"
             }
         },
-        "MangaFire": {
-            "tensai-majo-no-maryoku-kare.8xnpy": {
-                "identifier": "tensai-majo-no-maryoku-kare.8xnpy",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db8d4fbd5338a910d38c1c837187a46c.jpg",
-                "malId": 155984,
-                "aniId": 159488,
-                "page": "MangaFire",
-                "title": "The Genius Witch Lost MP.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensai-majo-no-maryoku-kare.8xnpy/"
-            },
-            "tensai-majo-no-maryoku-karee.8xnpy": {
-                "identifier": "tensai-majo-no-maryoku-karee.8xnpy",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db8d4fbd5338a910d38c1c837187a46c.jpg",
-                "malId": 155984,
-                "aniId": 159488,
-                "page": "MangaFire",
-                "title": "The Genius Witch Lost MP.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensai-majo-no-maryoku-karee.8xnpy/"
-            }
-        },
         "MangaFox": {
             "tensai_majo_no_maryoku_kare": {
+                "id": 191689,
                 "identifier": "tensai_majo_no_maryoku_kare",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46242/cover.jpg",
                 "malId": 155984,
@@ -62,6 +43,19 @@
                 "title": "Tensai Majo no Maryoku Kare",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tensai_majo_no_maryoku_kare/"
+            }
+        },
+        "MangaFire": {
+            "8xnpy": {
+                "id": 226132,
+                "identifier": "8xnpy",
+                "image": "https://static.mangafire.to/341f/i/d/db/db8d4fbd5338a910d38c1c837187a46c.jpg",
+                "malId": 155984,
+                "aniId": 159488,
+                "page": "MangaFire",
+                "title": "The Genius Witch Lost MP.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tensai-majo-no-maryoku-karee.8xnpy"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6315a033-2f68-472c-86dd-dab446b2371d": {
+                "id": 32587,
                 "identifier": "6315a033-2f68-472c-86dd-dab446b2371d",
                 "image": "https://uploads.mangadex.org/covers/6315a033-2f68-472c-86dd-dab446b2371d/3244d560-051e-489b-92f0-2a429ba5237a.jpg",
                 "malId": 147728,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-evil-ladys-hero": {
+                "id": 68836,
                 "identifier": "the-evil-ladys-hero",
                 "image": "https://temp.compsci88.com/cover/The-Evil-Ladys-Hero.jpg",
                 "malId": 147728,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gt984154": {
+                "id": 76627,
                 "identifier": "manga-gt984154",
                 "image": "https://avt.mkklcdnv6temp.com/15/m/20-1583501625.jpg",
                 "malId": 147728,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "villainess_in_love": {
+                "id": 80930,
                 "identifier": "villainess_in_love",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38706/cover.jpg",
                 "malId": 147728,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/villainess_in_love/"
             }
         },
-        "MangaFire": {
-            "villainess-in-love.9ozon": {
-                "identifier": "villainess-in-love.9ozon",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e96ad59d9b562197fcb2ad27ed1a10e2.jpg",
-                "malId": 147728,
-                "aniId": 115387,
-                "page": "MangaFire",
-                "title": "Villainess in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/villainess-in-love.9ozon/"
-            },
-            "villainess-in-lovee.9ozon": {
-                "identifier": "villainess-in-lovee.9ozon",
-                "image": "https://static.mangafire.to/6530/i/e/e9/e96ad59d9b562197fcb2ad27ed1a10e2.jpg",
-                "malId": 147728,
-                "aniId": 115387,
-                "page": "MangaFire",
-                "title": "Villainess in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/villainess-in-lovee.9ozon/"
-            }
-        },
         "Weebcentral": {
             "01j76xye0y117902e7mhyd7kpg": {
+                "id": 213584,
                 "identifier": "01j76xye0y117902e7mhyd7kpg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE0Y117902E7MHYD7KPG.jpg",
                 "malId": 147728,
@@ -86,6 +69,19 @@
                 "title": "Villainess In Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE0Y117902E7MHYD7KPG"
+            }
+        },
+        "MangaFire": {
+            "9ozon": {
+                "id": 223170,
+                "identifier": "9ozon",
+                "image": "https://static.mangafire.to/6530/i/e/e9/e96ad59d9b562197fcb2ad27ed1a10e2.jpg",
+                "malId": 147728,
+                "aniId": 115387,
+                "page": "MangaFire",
+                "title": "Villainess in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/villainess-in-lovee.9ozon"
             }
         },
         "Comick": {

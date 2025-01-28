@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "19798f49-6d62-47ed-a93c-990bc2d1a232": {
+                "id": 32390,
                 "identifier": "19798f49-6d62-47ed-a93c-990bc2d1a232",
                 "image": "https://uploads.mangadex.org/covers/19798f49-6d62-47ed-a93c-990bc2d1a232/c4bc7712-f1f3-4fed-9c43-217cb1874557.jpg",
                 "malId": 126313,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "occult_chan_wa_katarenai": {
+                "id": 64656,
                 "identifier": "occult_chan_wa_katarenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37788/cover.jpg",
                 "malId": 126313,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/occult_chan_wa_katarenai/"
             }
         },
-        "MangaFire": {
-            "occult-chan-wa-katarenai.xrp9v": {
-                "identifier": "occult-chan-wa-katarenai.xrp9v",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af7289b8d7fdde0a4728a2c6ddb1785b.jpg",
-                "malId": 126313,
-                "aniId": 106088,
-                "page": "MangaFire",
-                "title": "Occult-chan wa Katarenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/occult-chan-wa-katarenai.xrp9v/"
-            },
-            "occult-chan-wa-katarenaii.xrp9v": {
-                "identifier": "occult-chan-wa-katarenaii.xrp9v",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af7289b8d7fdde0a4728a2c6ddb1785b.jpg",
-                "malId": 126313,
-                "aniId": 106088,
-                "page": "MangaFire",
-                "title": "Occult-chan wa Katarenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/occult-chan-wa-katarenaii.xrp9v/"
-            }
-        },
         "MangaNato": {
             "manga-sz996108": {
+                "id": 160050,
                 "identifier": "manga-sz996108",
                 "image": "https://avt.mkklcdnv6temp.com/fld/3/v/14-1733306795-nw.webp",
                 "malId": 126313,
@@ -62,6 +43,19 @@
                 "title": "Occult-Chan Wa Katarenai",
                 "type": "manga",
                 "url": "https://manganato.com/manga-sz996108"
+            }
+        },
+        "MangaFire": {
+            "xrp9v": {
+                "id": 226890,
+                "identifier": "xrp9v",
+                "image": "https://static.mangafire.to/9f4f/i/a/af/af7289b8d7fdde0a4728a2c6ddb1785b.jpg",
+                "malId": 126313,
+                "aniId": 106088,
+                "page": "MangaFire",
+                "title": "Occult-chan wa Katarenai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/occult-chan-wa-katarenaii.xrp9v"
             }
         },
         "Comick": {

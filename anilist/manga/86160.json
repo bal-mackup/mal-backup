@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e975e54-d46d-4b86-b64e-7f9ecfd10f8c": {
+                "id": 12689,
                 "identifier": "9e975e54-d46d-4b86-b64e-7f9ecfd10f8c",
                 "image": "https://uploads.mangadex.org/covers/9e975e54-d46d-4b86-b64e-7f9ecfd10f8c/a538c1a8-b6f4-4120-af51-558d44190445.jpg",
                 "malId": 86757,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shokugeki-no-soma-etoile": {
+                "id": 54252,
                 "identifier": "shokugeki-no-soma-etoile",
                 "image": "https://temp.compsci88.com/cover/Shokugeki-No-Soma-Etoile.jpg",
                 "malId": 86757,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shokugeki_no_soma_etoile": {
+                "id": 88853,
                 "identifier": "shokugeki_no_soma_etoile",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15296/cover.jpg",
                 "malId": 86757,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xc953685": {
+                "id": 94439,
                 "identifier": "manga-xc953685",
                 "image": "https://avt.mkklcdnv6temp.com/fld/84/h/1-1732719802-nw.webp",
                 "malId": 86757,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xc953685"
             }
         },
-        "MangaFire": {
-            "shokugeki-no-soma-etoile.803po": {
-                "identifier": "shokugeki-no-soma-etoile.803po",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6c925207809a6bb8849f833e1408bd30.jpg",
-                "malId": 86757,
-                "aniId": 86160,
-                "page": "MangaFire",
-                "title": "Shokugeki no Soma - Etoile",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shokugeki-no-soma-etoile.803po/"
-            },
-            "803po": {
-                "identifier": "803po",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6c925207809a6bb8849f833e1408bd30.jpg",
-                "malId": 86757,
-                "aniId": 86160,
-                "page": "MangaFire",
-                "title": "Shokugeki no Soma - Etoile",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shokugeki-no-soma-etoile.803po/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6sqmdp2wzdvv7j0qz8": {
+                "id": 213872,
                 "identifier": "01j76xyb6sqmdp2wzdvv7j0qz8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6SQMDP2WZDVV7J0QZ8.jpg",
                 "malId": 86757,
@@ -86,6 +69,19 @@
                 "title": "Shokugeki no Soma - Etoile",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6SQMDP2WZDVV7J0QZ8"
+            }
+        },
+        "MangaFire": {
+            "803po": {
+                "id": 249459,
+                "identifier": "803po",
+                "image": "https://static.mangafire.to/bf10/i/6/6c/6c925207809a6bb8849f833e1408bd30.jpg",
+                "malId": 86757,
+                "aniId": 86160,
+                "page": "MangaFire",
+                "title": "Shokugeki no Soma - Etoile",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shokugeki-no-soma-etoilee.803po"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4e4dcaec-05d3-4be0-92ec-8e77617db37c": {
+                "id": 12103,
                 "identifier": "4e4dcaec-05d3-4be0-92ec-8e77617db37c",
                 "image": "https://uploads.mangadex.org/covers/4e4dcaec-05d3-4be0-92ec-8e77617db37c/abede638-260a-4291-995d-b6410058c23f.jpg",
                 "malId": 82295,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fukushuu-kyoushitsu": {
+                "id": 68806,
                 "identifier": "fukushuu-kyoushitsu",
                 "image": "https://temp.compsci88.com/cover/Fukushuu-Kyoushitsu.jpg",
                 "malId": 82295,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "fukushuu_kyoushitsu": {
+                "id": 71491,
                 "identifier": "fukushuu_kyoushitsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14563/cover.jpg",
                 "malId": 82295,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mw951479": {
+                "id": 77611,
                 "identifier": "manga-mw951479",
                 "image": "https://avt.mkklcdnv6temp.com/6/e/1-1583463905.jpg",
                 "malId": 82295,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-mw951479"
             }
         },
-        "MangaFire": {
-            "fukushuu-kyoushitsu.ojqxj": {
-                "identifier": "fukushuu-kyoushitsu.ojqxj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57efe1bba2d3004ec448f27f3ce64968.jpg",
-                "malId": 82295,
-                "aniId": 85848,
-                "page": "MangaFire",
-                "title": "Fukushuu Kyoushitsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukushuu-kyoushitsu.ojqxj/"
-            },
-            "ojqxj": {
-                "identifier": "ojqxj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57efe1bba2d3004ec448f27f3ce64968.jpg",
-                "malId": 82295,
-                "aniId": 85848,
-                "page": "MangaFire",
-                "title": "Fukushuu Kyoushitsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukushuu-kyoushitsu.ojqxj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb3q1bwp3d91m9x29qvs": {
+                "id": 212526,
                 "identifier": "01j76xyb3q1bwp3d91m9x29qvs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB3Q1BWP3D91M9X29QVS.jpg",
                 "malId": 82295,
@@ -86,6 +69,19 @@
                 "title": "Fukushuu Kyoushitsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB3Q1BWP3D91M9X29QVS"
+            }
+        },
+        "MangaFire": {
+            "ojqxj": {
+                "id": 244183,
+                "identifier": "ojqxj",
+                "image": "https://static.mangafire.to/93c1/i/5/57/57efe1bba2d3004ec448f27f3ce64968.jpg",
+                "malId": 82295,
+                "aniId": 85848,
+                "page": "MangaFire",
+                "title": "Fukushuu Kyoushitsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fukushuu-kyoushitsuu.ojqxj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "88f30588-a88c-4934-8274-79eb1851d569": {
+                "id": 23942,
                 "identifier": "88f30588-a88c-4934-8274-79eb1851d569",
                 "image": "https://uploads.mangadex.org/covers/88f30588-a88c-4934-8274-79eb1851d569/62b199b2-0598-4fd2-9413-e502d1f97a5a.jpg",
                 "malId": 115774,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "magia-record-puella-magi-madoka-magica-side-story": {
+                "id": 88420,
                 "identifier": "magia-record-puella-magi-madoka-magica-side-story",
                 "image": "https://temp.compsci88.com/cover/Magia-Record-Puella-Magi-Madoka-Magica-Side-Story.jpg",
                 "malId": 115774,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "magia_record": {
+                "id": 91002,
                 "identifier": "magia_record",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28685/cover.jpg",
                 "malId": 115774,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/magia_record/"
             }
         },
-        "MangaFire": {
-            "magia-record-mahou-shoujo-madokamagica-gaiden.zl2pm": {
-                "identifier": "magia-record-mahou-shoujo-madokamagica-gaiden.zl2pm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5dc44cea7ce2e2203d9f2799c9b9fdd.jpg",
-                "malId": 115774,
-                "aniId": 104273,
-                "page": "MangaFire",
-                "title": "Magia Record: Puella Magi Madoka Magica Side Story",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magia-record-mahou-shoujo-madokamagica-gaiden.zl2pm/"
-            },
-            "magia-record-mahou-shoujo-madokamagica-gaidenn.zl2pm": {
-                "identifier": "magia-record-mahou-shoujo-madokamagica-gaidenn.zl2pm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5dc44cea7ce2e2203d9f2799c9b9fdd.jpg",
-                "malId": 115774,
-                "aniId": 104273,
-                "page": "MangaFire",
-                "title": "Magia Record: Puella Magi Madoka Magica Side Story",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magia-record-mahou-shoujo-madokamagica-gaidenn.zl2pm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf2sjbtwc14r32jffm9h": {
+                "id": 209400,
                 "identifier": "01j76xyf2sjbtwc14r32jffm9h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF2SJBTWC14R32JFFM9H.jpg",
                 "malId": 115774,
@@ -74,6 +56,19 @@
                 "title": "Magia Record - Puella Magi Madoka Magica Side Story",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF2SJBTWC14R32JFFM9H"
+            }
+        },
+        "MangaFire": {
+            "zl2pm": {
+                "id": 225133,
+                "identifier": "zl2pm",
+                "image": "https://static.mangafire.to/78a2/i/a/a5/a5dc44cea7ce2e2203d9f2799c9b9fdd.jpg",
+                "malId": 115774,
+                "aniId": 104273,
+                "page": "MangaFire",
+                "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/magia-record-mahou-shoujo-madokamagica-gaidenn.zl2pm"
             }
         },
         "Comick": {

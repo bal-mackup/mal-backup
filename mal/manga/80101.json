@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0f91a764-4421-4bdc-b971-a4cb2cc6b5fc": {
+                "id": 15807,
                 "identifier": "0f91a764-4421-4bdc-b971-a4cb2cc6b5fc",
                 "image": "https://uploads.mangadex.org/covers/0f91a764-4421-4bdc-b971-a4cb2cc6b5fc/07ee8969-b954-4e3e-bd22-a0b345090f5d.png",
                 "malId": 80101,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kyoukai-no-nai-sekai": {
+                "id": 70302,
                 "identifier": "kyoukai-no-nai-sekai",
                 "image": "https://temp.compsci88.com/cover/Kyoukai-No-Nai-Sekai.jpg",
                 "malId": 80101,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ko961897": {
+                "id": 77229,
                 "identifier": "manga-ko961897",
                 "image": "https://avt.mkklcdnv6temp.com/3/d/8-1583478297.jpg",
                 "malId": 80101,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kyoukai_no_nai_sekai": {
+                "id": 85984,
                 "identifier": "kyoukai_no_nai_sekai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14951/cover.jpg",
                 "malId": 80101,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/kyoukai_no_nai_sekai/"
             }
         },
-        "MangaFire": {
-            "kyoukai-no-nai-sekai.xrp1q": {
-                "identifier": "kyoukai-no-nai-sekai.xrp1q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24eca2b046c6242d28f1217cad97f8f6.jpg",
-                "malId": 80101,
-                "aniId": 85800,
-                "page": "MangaFire",
-                "title": "A World Without Boundaries",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoukai-no-nai-sekai.xrp1q/"
-            },
-            "kyoukai-no-nai-sekaii.xrp1q": {
-                "identifier": "kyoukai-no-nai-sekaii.xrp1q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24eca2b046c6242d28f1217cad97f8f6.jpg",
-                "malId": 80101,
-                "aniId": 85800,
-                "page": "MangaFire",
-                "title": "A World Without Boundaries",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoukai-no-nai-sekaii.xrp1q/"
-            },
-            "xrp1q": {
-                "identifier": "xrp1q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24eca2b046c6242d28f1217cad97f8f6.jpg",
-                "malId": 80101,
-                "aniId": 85800,
-                "page": "MangaFire",
-                "title": "A World Without Boundaries",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoukai-no-nai-sekaii.xrp1q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaq8wt0nay83hkw3tks6": {
+                "id": 211247,
                 "identifier": "01j76xyaq8wt0nay83hkw3tks6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAQ8WT0NAY83HKW3TKS6.jpg",
                 "malId": 80101,
@@ -96,6 +69,19 @@
                 "title": "Kyoukai no Nai Sekai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAQ8WT0NAY83HKW3TKS6"
+            }
+        },
+        "MangaFire": {
+            "xrp1q": {
+                "id": 240681,
+                "identifier": "xrp1q",
+                "image": "https://static.mangafire.to/4176/i/2/24/24eca2b046c6242d28f1217cad97f8f6.jpg",
+                "malId": 80101,
+                "aniId": 85800,
+                "page": "MangaFire",
+                "title": "A World Without Boundaries",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyoukai-no-nai-sekaii.xrp1q"
             }
         },
         "Comick": {

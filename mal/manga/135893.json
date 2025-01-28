@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc57be5d-9f22-4f0f-a7eb-7683231e0147": {
+                "id": 105042,
                 "identifier": "dc57be5d-9f22-4f0f-a7eb-7683231e0147",
                 "image": "https://uploads.mangadex.org/covers/dc57be5d-9f22-4f0f-a7eb-7683231e0147/dd8c61e7-a053-495c-90ef-2d3cb8918984.jpg",
                 "malId": 135893,
@@ -18,40 +19,9 @@
                 "url": "https://mangadex.org/title/dc57be5d-9f22-4f0f-a7eb-7683231e0147"
             }
         },
-        "MangaFire": {
-            "sword-art-online-progressive-kogane-ritsu-no-kanon.4jp8m": {
-                "identifier": "sword-art-online-progressive-kogane-ritsu-no-kanon.4jp8m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/23990ba46bcd289e72e511cec737ddbc.jpg",
-                "malId": 135893,
-                "aniId": 131644,
-                "page": "MangaFire",
-                "title": "Sword Art Online: Progressive - Kogane Ritsu no Kanon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-progressive-kogane-ritsu-no-kanon.4jp8m/"
-            },
-            "sword-art-online-progressive-koganeritsu-no-canon.6wq59": {
-                "identifier": "sword-art-online-progressive-koganeritsu-no-canon.6wq59",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/bd2251b2eed3b1fabcaaf566e8cb2a9f.jpg",
-                "malId": 135893,
-                "aniId": 131644,
-                "page": "MangaFire",
-                "title": "Sword Art Online: Progressive Canon of the Golden Rule",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-progressive-koganeritsu-no-canon.6wq59/"
-            },
-            "sword-art-online-progressive-koganeritsu-no-canonn.6wq59": {
-                "identifier": "sword-art-online-progressive-koganeritsu-no-canonn.6wq59",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/bd2251b2eed3b1fabcaaf566e8cb2a9f.jpg",
-                "malId": 135893,
-                "aniId": 131644,
-                "page": "MangaFire",
-                "title": "Sword Art Online: Progressive Canon of the Golden Rule",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-progressive-koganeritsu-no-canonn.6wq59/"
-            }
-        },
         "MangaSee": {
             "sword-art-online-progressive-canon-of-the-golden-rule": {
+                "id": 186104,
                 "identifier": "sword-art-online-progressive-canon-of-the-golden-rule",
                 "image": "https://temp.compsci88.com/cover/Sword-Art-Online-Progressive-Canon-of-the-Golden-Rule.jpg",
                 "malId": 135893,
@@ -64,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh4kzbt6b4pz6b2596m9": {
+                "id": 214216,
                 "identifier": "01j76xyh4kzbt6b4pz6b2596m9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH4KZBT6B4PZ6B2596M9.jpg",
                 "malId": 135893,
@@ -72,6 +43,30 @@
                 "title": "Sword Art Online - Progressive - Canon of the Golden Rule",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH4KZBT6B4PZ6B2596M9"
+            }
+        },
+        "MangaFire": {
+            "6wq59": {
+                "id": 228063,
+                "identifier": "6wq59",
+                "image": "https://static.mangafire.to/ea29/i/6/60/bd2251b2eed3b1fabcaaf566e8cb2a9f.jpg",
+                "malId": 135893,
+                "aniId": 131644,
+                "page": "MangaFire",
+                "title": "Sword Art Online: Progressive Canon of the Golden Rule",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sword-art-online-progressive-koganeritsu-no-canonn.6wq59"
+            },
+            "4jp8m": {
+                "id": 238064,
+                "identifier": "4jp8m",
+                "image": "https://static.mangafire.to/0aa9/i/2/23/23990ba46bcd289e72e511cec737ddbc.jpg",
+                "malId": 135893,
+                "aniId": 131644,
+                "page": "MangaFire",
+                "title": "Sword Art Online: Progressive - Kogane Ritsu no Kanon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sword-art-online-progressive-kogane-ritsu-no-kanonn.4jp8m"
             }
         },
         "Comick": {

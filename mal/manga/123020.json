@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "17c45eaa-711a-4916-a054-036c5e9dae90": {
+                "id": 31713,
                 "identifier": "17c45eaa-711a-4916-a054-036c5e9dae90",
                 "image": "https://uploads.mangadex.org/covers/17c45eaa-711a-4916-a054-036c5e9dae90/11b3836a-ed01-4711-9e51-8cf03f21d4e9.jpg",
                 "malId": 123020,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "rainbow-and-black": {
+                "id": 68340,
                 "identifier": "rainbow-and-black",
                 "image": "https://temp.compsci88.com/cover/Rainbow-and-Black.jpg",
                 "malId": 123020,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "niji_to_kuro": {
+                "id": 165178,
                 "identifier": "niji_to_kuro",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36834/cover.jpg",
                 "malId": 123020,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/niji_to_kuro/"
             }
         },
-        "MangaFire": {
-            "niji-to-kuro.jp63n": {
-                "identifier": "niji-to-kuro.jp63n",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c205fdd34d69e1cf8032359ed626c7c.jpg",
-                "malId": 123020,
-                "aniId": 113036,
-                "page": "MangaFire",
-                "title": "Rainbow and Black",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/niji-to-kuro.jp63n/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4md6f8k292r4dbq8pp": {
+                "id": 214078,
                 "identifier": "01j76xye4md6f8k292r4dbq8pp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4MD6F8K292R4DBQ8PP.jpg",
                 "malId": 123020,
@@ -64,6 +56,19 @@
                 "title": "Rainbow and Black",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4MD6F8K292R4DBQ8PP"
+            }
+        },
+        "MangaFire": {
+            "jp63n": {
+                "id": 239245,
+                "identifier": "jp63n",
+                "image": "https://static.mangafire.to/ce84/i/2/2c/2c205fdd34d69e1cf8032359ed626c7c.jpg",
+                "malId": 123020,
+                "aniId": 113036,
+                "page": "MangaFire",
+                "title": "Rainbow and Black",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/niji-to-kuroo.jp63n"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6f18c4ef-3eb6-40ee-98a4-507343f05855": {
+                "id": 108577,
                 "identifier": "6f18c4ef-3eb6-40ee-98a4-507343f05855",
                 "image": "https://uploads.mangadex.org/covers/6f18c4ef-3eb6-40ee-98a4-507343f05855/70518b87-726e-4661-a18c-a36d51d1b814.png",
                 "malId": 148985,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-om991521": {
+                "id": 109001,
                 "identifier": "manga-om991521",
                 "image": "https://avt.mkklcdnv6temp.com/20/i/26-1657071067.jpg",
                 "malId": 148985,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_novel_s_extra": {
+                "id": 109716,
                 "identifier": "the_novel_s_extra",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43104/cover.jpg",
                 "malId": 148985,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/the_novel_s_extra/"
             }
         },
-        "MangaFire": {
-            "the-novels-extra.4qz4k": {
-                "identifier": "the-novels-extra.4qz4k",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b211561c560cd99e0894928c2f30eef8.jpg",
-                "malId": 148985,
-                "aniId": 152128,
-                "page": "MangaFire",
-                "title": "The Novel's Extra",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-novels-extra.4qz4k/"
-            },
-            "soseol-sok-extra.4qz4k": {
-                "identifier": "soseol-sok-extra.4qz4k",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b211561c560cd99e0894928c2f30eef8.jpg",
-                "malId": 148985,
-                "aniId": 152128,
-                "page": "MangaFire",
-                "title": "The Novel's Extra",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soseol-sok-extra.4qz4k/"
-            },
-            "the-novels-extraa.4qz4k": {
-                "identifier": "the-novels-extraa.4qz4k",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b211561c560cd99e0894928c2f30eef8.jpg",
-                "malId": 148985,
-                "aniId": 152128,
-                "page": "MangaFire",
-                "title": "The Novel's Extra",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-novels-extraa.4qz4k/"
-            }
-        },
         "MangaSee": {
             "the-novels-extra": {
+                "id": 161386,
                 "identifier": "the-novels-extra",
                 "image": "https://temp.compsci88.com/cover/The-Novels-Extra.jpg",
                 "malId": 148985,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg8efp7x07bc3kcdcs37": {
+                "id": 209599,
                 "identifier": "01j76xyg8efp7x07bc3kcdcs37",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG8EFP7X07BC3KCDCS37.jpg",
                 "malId": 148985,
@@ -96,6 +69,19 @@
                 "title": "The Novel's Extra (2022)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG8EFP7X07BC3KCDCS37"
+            }
+        },
+        "MangaFire": {
+            "4qz4k": {
+                "id": 225803,
+                "identifier": "4qz4k",
+                "image": "https://static.mangafire.to/9d10/i/b/b2/b211561c560cd99e0894928c2f30eef8.jpg",
+                "malId": 148985,
+                "aniId": 152128,
+                "page": "MangaFire",
+                "title": "The Novel's Extra",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-novels-extraa.4qz4k"
             }
         },
         "Comick": {

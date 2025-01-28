@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "01d3b5f5-1809-4b41-9184-69f33aa96f18": {
+                "id": 29013,
                 "identifier": "01d3b5f5-1809-4b41-9184-69f33aa96f18",
                 "image": "https://uploads.mangadex.org/covers/01d3b5f5-1809-4b41-9184-69f33aa96f18/aed896de-eb07-4fb5-8fd2-3606af37e31d.jpg",
                 "malId": 123513,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-emperors-court-lady-is-wanted-as-a-bride": {
+                "id": 68684,
                 "identifier": "the-emperors-court-lady-is-wanted-as-a-bride",
                 "image": "https://temp.compsci88.com/cover/The-Emperors-Court-Lady-is-Wanted-as-a-Bride.jpg",
                 "malId": 123513,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_emperor_hopes_for_the_court_lady_as_his_bride": {
+                "id": 83339,
                 "identifier": "the_emperor_hopes_for_the_court_lady_as_his_bride",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30753/cover.jpg",
                 "malId": 123513,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/the_emperor_hopes_for_the_court_lady_as_his_bride/"
             },
             "koutei_tsuki_nyokan_wa_hanayome_to_shite_nozomare_naka_delete": {
+                "id": 126407,
                 "identifier": "koutei_tsuki_nyokan_wa_hanayome_to_shite_nozomare_naka_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36425/cover.jpg",
                 "malId": 123513,
@@ -52,20 +56,9 @@
                 "url": "https://fanfox.net/manga/koutei_tsuki_nyokan_wa_hanayome_to_shite_nozomare_naka_delete/"
             }
         },
-        "MangaFire": {
-            "the-emperors-court-lady-is-wanted-as-a-bride.yypz": {
-                "identifier": "the-emperors-court-lady-is-wanted-as-a-bride.yypz",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2add922301f48f544c132f88ba97b74e.jpg",
-                "malId": 123513,
-                "aniId": 112367,
-                "page": "MangaFire",
-                "title": "The Emperor's Lady-in-Waiting Is Wanted as a Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-emperors-court-lady-is-wanted-as-a-bride.yypz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydarbm7ddqvh75zhprep": {
+                "id": 208613,
                 "identifier": "01j76xydarbm7ddqvh75zhprep",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDARBM7DDQVH75ZHPREP.jpg",
                 "malId": 123513,
@@ -74,6 +67,19 @@
                 "title": "The Emperor's Lady-in-Waiting Is Wanted as a Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDARBM7DDQVH75ZHPREP"
+            }
+        },
+        "MangaFire": {
+            "yypz": {
+                "id": 248959,
+                "identifier": "yypz",
+                "image": "https://static.mangafire.to/e9c2/i/2/2a/2add922301f48f544c132f88ba97b74e.jpg",
+                "malId": 123513,
+                "aniId": 112367,
+                "page": "MangaFire",
+                "title": "The Emperor's Lady-in-Waiting Is Wanted as a Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-emperors-court-lady-is-wanted-as-a-bridee.yypz"
             }
         },
         "Comick": {

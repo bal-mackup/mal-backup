@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a4ff526-0aea-432b-872c-863493525ddf": {
+                "id": 15242,
                 "identifier": "7a4ff526-0aea-432b-872c-863493525ddf",
                 "image": "https://uploads.mangadex.org/covers/7a4ff526-0aea-432b-872c-863493525ddf/b8ea4003-965b-4a1e-88bf-0f0439d4dd80.png",
                 "malId": 88033,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hero-company": {
+                "id": 80186,
                 "identifier": "hero-company",
                 "image": "https://temp.compsci88.com/cover/Hero-Company.jpg",
                 "malId": 88033,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hero-Company"
             }
         },
-        "MangaFire": {
-            "hero-company.kw4or": {
-                "identifier": "hero-company.kw4or",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/7779c4595bfa6cc11d30216ded28b8cf.jpg",
-                "malId": 88033,
-                "aniId": 94539,
-                "page": "MangaFire",
-                "title": "Hero Company",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hero-company.kw4or/"
-            },
-            "kw4or": {
-                "identifier": "kw4or",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/7779c4595bfa6cc11d30216ded28b8cf.jpg",
-                "malId": 88033,
-                "aniId": 94539,
-                "page": "MangaFire",
-                "title": "Hero Company",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hero-company.kw4or/"
-            }
-        },
         "Weebcentral": {
             "01j76xybmea96bf726raj79d5j": {
+                "id": 208033,
                 "identifier": "01j76xybmea96bf726raj79d5j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMEA96BF726RAJ79D5J.jpg",
                 "malId": 88033,
@@ -62,6 +43,19 @@
                 "title": "Hero Company",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMEA96BF726RAJ79D5J"
+            }
+        },
+        "MangaFire": {
+            "kw4or": {
+                "id": 252633,
+                "identifier": "kw4or",
+                "image": "https://static.mangafire.to/b66d/i/7/77/7779c4595bfa6cc11d30216ded28b8cf.jpg",
+                "malId": 88033,
+                "aniId": 94539,
+                "page": "MangaFire",
+                "title": "Hero Company",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hero-companyy.kw4or"
             }
         },
         "Comick": {

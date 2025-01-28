@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d080f85f-a6ef-4e0a-9569-c0709b60d8c0": {
+                "id": 156460,
                 "identifier": "d080f85f-a6ef-4e0a-9569-c0709b60d8c0",
                 "image": "https://uploads.mangadex.org/covers/d080f85f-a6ef-4e0a-9569-c0709b60d8c0/69ec4c93-150f-407a-a801-cceafac6130c.jpg",
                 "malId": 158356,
@@ -18,40 +19,9 @@
                 "url": "https://mangadex.org/title/d080f85f-a6ef-4e0a-9569-c0709b60d8c0"
             }
         },
-        "MangaFire": {
-            "isshou-senkin.nprln": {
-                "identifier": "isshou-senkin.nprln",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bde0650371dd8773456f96d81f310b12.jpg",
-                "malId": 158356,
-                "aniId": 163923,
-                "page": "MangaFire",
-                "title": "ST✰R: Strike It Rich",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isshou-senkin.nprln/"
-            },
-            "Star-Strike-It-Rich.nprln": {
-                "identifier": "Star-Strike-It-Rich.nprln",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bde0650371dd8773456f96d81f310b12.jpg",
-                "malId": 158356,
-                "aniId": 163923,
-                "page": "MangaFire",
-                "title": "ST✰R: Strike It Rich",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Star-Strike-It-Rich.nprln/"
-            },
-            "isshou-senkinn.nprln": {
-                "identifier": "isshou-senkinn.nprln",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bde0650371dd8773456f96d81f310b12.jpg",
-                "malId": 158356,
-                "aniId": 163923,
-                "page": "MangaFire",
-                "title": "ST✰R: Strike It Rich",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isshou-senkinn.nprln/"
-            }
-        },
         "MangaNato": {
             "manga-sa996209": {
+                "id": 157274,
                 "identifier": "manga-sa996209",
                 "image": "https://avt.mkklcdnv6temp.com/fld/7/s/15-1733307032-nw.webp",
                 "malId": 158356,
@@ -64,6 +34,7 @@
         },
         "MangaSee": {
             "star-strike-it-rich": {
+                "id": 179039,
                 "identifier": "star-strike-it-rich",
                 "image": "https://temp.compsci88.com/cover/STAR-Strike-it-Rich.jpg",
                 "malId": 158356,
@@ -76,6 +47,7 @@
         },
         "MangaFox": {
             "isshou_senkin": {
+                "id": 183897,
                 "identifier": "isshou_senkin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45946/cover.jpg",
                 "malId": 158356,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygw7wxntmf0ey2d7kb18": {
+                "id": 209227,
                 "identifier": "01j76xygw7wxntmf0ey2d7kb18",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGW7WXNTMF0EY2D7KB18.jpg",
                 "malId": 158356,
@@ -96,6 +69,19 @@
                 "title": "STAR: Strike it Rich",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGW7WXNTMF0EY2D7KB18"
+            }
+        },
+        "MangaFire": {
+            "nprln": {
+                "id": 228521,
+                "identifier": "nprln",
+                "image": "https://static.mangafire.to/6f58/i/b/bd/bde0650371dd8773456f96d81f310b12.jpg",
+                "malId": 158356,
+                "aniId": 163923,
+                "page": "MangaFire",
+                "title": "ST✰R: Strike It Rich",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isshou-senkinn.nprln"
             }
         },
         "Comick": {

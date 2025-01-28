@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f2560480-8b67-457b-8895-9de643f681e9": {
+                "id": 25053,
                 "identifier": "f2560480-8b67-457b-8895-9de643f681e9",
                 "image": "https://uploads.mangadex.org/covers/f2560480-8b67-457b-8895-9de643f681e9/4838c181-bb98-42c9-8783-a054e5470bcd.jpg",
                 "malId": 120664,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "soul_land_iv_the_ultimate_combat": {
+                "id": 64943,
                 "identifier": "soul_land_iv_the_ultimate_combat",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29919/cover.jpg",
                 "malId": 120664,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ds981001": {
+                "id": 73351,
                 "identifier": "manga-ds981001",
                 "image": "https://avt.mkklcdnv6temp.com/49/c/17-1583497036.jpg",
                 "malId": 120664,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "soul-land-iv-ultimate-fighting": {
+                "id": 159392,
                 "identifier": "soul-land-iv-ultimate-fighting",
                 "image": "https://temp.compsci88.com/cover/Soul-Land-IV-Ultimate-Fighting.jpg",
                 "malId": 120664,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Soul-Land-IV-Ultimate-Fighting"
             }
         },
-        "MangaFire": {
-            "Soul-Land-IV-Ultimate-Fighting.xj5k3": {
-                "identifier": "Soul-Land-IV-Ultimate-Fighting.xj5k3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c7028c11c8abb22725c41fe2f4b4052.jpg",
-                "malId": 120664,
-                "aniId": 108799,
-                "page": "MangaFire",
-                "title": "Soul Land IV: Ultimate Fighting",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Soul-Land-IV-Ultimate-Fighting.xj5k3/"
-            },
-            "soul-land-iv-the-ultimate-combatt.xj5k3": {
-                "identifier": "soul-land-iv-the-ultimate-combatt.xj5k3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c7028c11c8abb22725c41fe2f4b4052.jpg",
-                "malId": 120664,
-                "aniId": 108799,
-                "page": "MangaFire",
-                "title": "Soul Land IV: Ultimate Fighting",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soul-land-iv-the-ultimate-combatt.xj5k3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg6jjdfdtv54k3vmeshm": {
+                "id": 211317,
                 "identifier": "01j76xyg6jjdfdtv54k3vmeshm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6JJDFDTV54K3VMESHM.jpg",
                 "malId": 120664,
@@ -86,6 +69,19 @@
                 "title": "Soul Land IV - Ultimate Fighting",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6JJDFDTV54K3VMESHM"
+            }
+        },
+        "MangaFire": {
+            "xj5k3": {
+                "id": 228105,
+                "identifier": "xj5k3",
+                "image": "https://static.mangafire.to/b2b6/i/2/2c/2c7028c11c8abb22725c41fe2f4b4052.jpg",
+                "malId": 120664,
+                "aniId": 108799,
+                "page": "MangaFire",
+                "title": "Soul Land IV: Ultimate Fighting",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soul-land-iv-the-ultimate-combatt.xj5k3"
             }
         },
         "Comick": {

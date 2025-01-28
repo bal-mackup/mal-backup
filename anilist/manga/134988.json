@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bbc06354-a4ab-4f44-bb0a-db2e3a58d57c": {
+                "id": 90900,
                 "identifier": "bbc06354-a4ab-4f44-bb0a-db2e3a58d57c",
                 "image": "https://uploads.mangadex.org/covers/bbc06354-a4ab-4f44-bb0a-db2e3a58d57c/68a02bc5-51c3-409b-895f-e0b5f23ef65a.jpg",
                 "malId": 145123,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mr990126": {
+                "id": 92426,
                 "identifier": "manga-mr990126",
                 "image": "https://avt.mkklcdnv6temp.com/11/g/25-1638632358.jpg",
                 "malId": 145123,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-mr990126"
             }
         },
-        "MangaFire": {
-            "we-started-a-so-sweet-newlywed-life.qxo53": {
-                "identifier": "we-started-a-so-sweet-newlywed-life.qxo53",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/974cc8bdb0300d2f57d21761eb809c86.jpg",
-                "malId": 145123,
-                "aniId": 134988,
-                "page": "MangaFire",
-                "title": "We Started a So Sweet Newlywed Life.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/we-started-a-so-sweet-newlywed-life.qxo53/"
-            },
-            "we-started-a-so-sweet-newlywed-lifee.qxo53": {
-                "identifier": "we-started-a-so-sweet-newlywed-lifee.qxo53",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/974cc8bdb0300d2f57d21761eb809c86.jpg",
-                "malId": 145123,
-                "aniId": 134988,
-                "page": "MangaFire",
-                "title": "We Started a So Sweet Newlywed Life.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/we-started-a-so-sweet-newlywed-lifee.qxo53/"
-            }
-        },
         "MangaSee": {
             "tsukushitagari-na-uchi-no-yome-ni-tsuite-derete-mo-ii-ka": {
+                "id": 172927,
                 "identifier": "tsukushitagari-na-uchi-no-yome-ni-tsuite-derete-mo-ii-ka",
                 "image": "https://temp.compsci88.com/cover/Tsukushitagari-na-Uchi-no-Yome-ni-Tsuite-Derete-mo-Ii-ka.jpg",
                 "malId": 145123,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygm9xn3hd7ebxh4wg2q8": {
+                "id": 210303,
                 "identifier": "01j76xygm9xn3hd7ebxh4wg2q8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGM9XN3HD7EBXH4WG2Q8.jpg",
                 "malId": 145123,
@@ -74,6 +56,19 @@
                 "title": "Tsukushitagari na Uchi no Yume Nitsuite Derete mo Ii ka?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGM9XN3HD7EBXH4WG2Q8"
+            }
+        },
+        "MangaFire": {
+            "qxo53": {
+                "id": 227540,
+                "identifier": "qxo53",
+                "image": "https://static.mangafire.to/a85e/i/9/97/974cc8bdb0300d2f57d21761eb809c86.jpg",
+                "malId": 145123,
+                "aniId": 134988,
+                "page": "MangaFire",
+                "title": "We Started a So Sweet Newlywed Life.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/we-started-a-so-sweet-newlywed-lifee.qxo53"
             }
         },
         "Comick": {

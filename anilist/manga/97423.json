@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9fcd6db-1ba2-4140-9813-9028a996ff7c": {
+                "id": 17722,
                 "identifier": "e9fcd6db-1ba2-4140-9813-9028a996ff7c",
                 "image": "https://uploads.mangadex.org/covers/e9fcd6db-1ba2-4140-9813-9028a996ff7c/0482b9b0-3740-4d2c-bf03-8e6c565ff4bf.jpg",
                 "malId": 99696,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fukukaichou-ganbaru": {
+                "id": 63172,
                 "identifier": "fukukaichou-ganbaru",
                 "image": "https://temp.compsci88.com/cover/Fukukaichou-Ganbaru.jpg",
                 "malId": 99696,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zg976441": {
+                "id": 113870,
                 "identifier": "manga-zg976441",
                 "image": "https://avt.mkklcdnv6temp.com/fld/23/i/8-1732788780-nw.webp",
                 "malId": 99696,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-zg976441"
             }
         },
-        "MangaFire": {
-            "fukukaichou-ganbaru.4jrvj": {
-                "identifier": "fukukaichou-ganbaru.4jrvj",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cbfca42d7c8c5b83544d9b255b4ca5d5.jpg",
-                "malId": 99696,
-                "aniId": 97423,
-                "page": "MangaFire",
-                "title": "Shadow Student Council Vice President Gives Her All",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukukaichou-ganbaru.4jrvj/"
-            },
-            "fukukaichou-ganbaruu.4jrvj": {
-                "identifier": "fukukaichou-ganbaruu.4jrvj",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cbfca42d7c8c5b83544d9b255b4ca5d5.jpg",
-                "malId": 99696,
-                "aniId": 97423,
-                "page": "MangaFire",
-                "title": "Shadow Student Council Vice President Gives Her All",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fukukaichou-ganbaruu.4jrvj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd46rktw1tmmbtdy69e2": {
+                "id": 212491,
                 "identifier": "01j76xyd46rktw1tmmbtdy69e2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD46RKTW1TMMBTDY69E2.jpg",
                 "malId": 99696,
@@ -74,6 +56,19 @@
                 "title": "Shadow Student Council Vice President Gives Her All",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD46RKTW1TMMBTDY69E2"
+            }
+        },
+        "MangaFire": {
+            "4jrvj": {
+                "id": 230579,
+                "identifier": "4jrvj",
+                "image": "https://static.mangafire.to/6143/i/c/cb/cbfca42d7c8c5b83544d9b255b4ca5d5.jpg",
+                "malId": 99696,
+                "aniId": 97423,
+                "page": "MangaFire",
+                "title": "Shadow Student Council Vice President Gives Her All",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fukukaichou-ganbaruu.4jrvj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b49a7432-49f8-46fd-8001-eae1efde3ce9": {
+                "id": 119787,
                 "identifier": "b49a7432-49f8-46fd-8001-eae1efde3ce9",
                 "image": "https://uploads.mangadex.org/covers/b49a7432-49f8-46fd-8001-eae1efde3ce9/f0a4eaa6-f1ce-4643-bd9b-25edf9b55bbc.png",
                 "malId": 155026,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/b49a7432-49f8-46fd-8001-eae1efde3ce9"
             }
         },
-        "MangaFire": {
-            "the-maid-wants-to-quit-within-the-reverse-harem-game.8xk83": {
-                "identifier": "the-maid-wants-to-quit-within-the-reverse-harem-game.8xk83",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9193a9be6f284a09c9c8bc1331f55ee.jpg",
-                "malId": 155026,
-                "aniId": 159440,
-                "page": "MangaFire",
-                "title": "The Maid Wants to Quit Within the Reverse Harem Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-maid-wants-to-quit-within-the-reverse-harem-game.8xk83/"
-            },
-            "the-maid-wants-to-quit-within-the-reverse-harem-gamee.8xk83": {
-                "identifier": "the-maid-wants-to-quit-within-the-reverse-harem-gamee.8xk83",
-                "image": "https://static.mangafire.to/3cfe/i/f/f9/f9193a9be6f284a09c9c8bc1331f55ee.jpg",
-                "malId": 155026,
-                "aniId": 159440,
-                "page": "MangaFire",
-                "title": "The Maid Wants to Quit Within the Reverse Harem Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-maid-wants-to-quit-within-the-reverse-harem-gamee.8xk83/"
-            }
-        },
         "MangaFox": {
             "maid_to_love_or_die": {
+                "id": 187398,
                 "identifier": "maid_to_love_or_die",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46042/cover.jpg",
                 "malId": 155026,
@@ -50,6 +30,19 @@
                 "title": "Maid to Love or Die",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/maid_to_love_or_die/"
+            }
+        },
+        "MangaFire": {
+            "8xk83": {
+                "id": 223148,
+                "identifier": "8xk83",
+                "image": "https://static.mangafire.to/3cfe/i/f/f9/f9193a9be6f284a09c9c8bc1331f55ee.jpg",
+                "malId": 155026,
+                "aniId": 159440,
+                "page": "MangaFire",
+                "title": "The Maid Wants to Quit Within the Reverse Harem Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-maid-wants-to-quit-within-the-reverse-harem-gamee.8xk83"
             }
         },
         "Comick": {

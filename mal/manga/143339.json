@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8c21fe3b-4fe6-4f11-b51b-ced00d8aec60": {
+                "id": 89024,
                 "identifier": "8c21fe3b-4fe6-4f11-b51b-ced00d8aec60",
                 "image": "https://uploads.mangadex.org/covers/8c21fe3b-4fe6-4f11-b51b-ced00d8aec60/a6ff5471-1f9d-4fc2-a94a-0b86a0a9a7fe.jpg",
                 "malId": 143339,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-np991072": {
+                "id": 106571,
                 "identifier": "manga-np991072",
                 "image": "https://avt.mkklcdnv6temp.com/50/f/25-1654506082.jpg",
                 "malId": 143339,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "aekanaru": {
+                "id": 112997,
                 "identifier": "aekanaru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42874/cover.jpg",
                 "malId": 143339,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "aekanaru": {
+                "id": 125536,
                 "identifier": "aekanaru",
                 "image": "https://temp.compsci88.com/cover/Aekanaru.jpg",
                 "malId": 143339,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Aekanaru"
             }
         },
-        "MangaFire": {
-            "aekanaruu.rlzrp": {
-                "identifier": "aekanaruu.rlzrp",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/0486ca4fcf7ce02302d1cadc116ea0e2.jpg",
-                "malId": 143339,
-                "aniId": 120675,
-                "page": "MangaFire",
-                "title": "Aekanaru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aekanaruu.rlzrp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfz7v0hk88093kcqw48j": {
+                "id": 209275,
                 "identifier": "01j76xyfz7v0hk88093kcqw48j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFZ7V0HK88093KCQW48J.jpg",
                 "malId": 143339,
@@ -76,6 +69,19 @@
                 "title": "Aekanaru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFZ7V0HK88093KCQW48J"
+            }
+        },
+        "MangaFire": {
+            "rlzrp": {
+                "id": 225020,
+                "identifier": "rlzrp",
+                "image": "https://static.mangafire.to/ab74/i/0/04/0486ca4fcf7ce02302d1cadc116ea0e2.jpg",
+                "malId": 143339,
+                "aniId": 120675,
+                "page": "MangaFire",
+                "title": "Aekanaru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aekanaruu.rlzrp"
             }
         },
         "Comick": {

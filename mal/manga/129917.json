@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/3/237017.jpg",
     "Sites": {
-        "MangaFire": {
-            "torokeru-tamago-to-bed-no-naka-de.6woop": {
-                "identifier": "torokeru-tamago-to-bed-no-naka-de.6woop",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95077c9fe3ae7e4a16d0228e579d6faa.jpg",
-                "malId": 129917,
-                "aniId": 125792,
-                "page": "MangaFire",
-                "title": "Torokeru Tamago to Bed no Naka de",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/torokeru-tamago-to-bed-no-naka-de.6woop/"
-            }
-        },
         "Mangadex": {
             "a48cdfe6-8d56-451c-8914-b878c04ad20a": {
+                "id": 182161,
                 "identifier": "a48cdfe6-8d56-451c-8914-b878c04ad20a",
                 "image": "https://uploads.mangadex.org/covers/a48cdfe6-8d56-451c-8914-b878c04ad20a/b8be873d-c3ab-44d8-8fff-b1e5393878f3.jpg",
                 "malId": 129917,
@@ -32,6 +21,7 @@
         },
         "MangaNato": {
             "manga-xf1001014": {
+                "id": 182713,
                 "identifier": "manga-xf1001014",
                 "image": "https://avt.mkklcdnv6temp.com/fld/91/e/16-1733320026-nw.webp",
                 "malId": 129917,
@@ -40,6 +30,19 @@
                 "title": "Torokeru Tamago To Bed No Naka De",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xf1001014"
+            }
+        },
+        "MangaFire": {
+            "6woop": {
+                "id": 236979,
+                "identifier": "6woop",
+                "image": "https://static.mangafire.to/1dbc/i/9/95/95077c9fe3ae7e4a16d0228e579d6faa.jpg",
+                "malId": 129917,
+                "aniId": 125792,
+                "page": "MangaFire",
+                "title": "Torokeru Tamago to Bed no Naka de",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/torokeru-tamago-to-bed-no-naka-dee.6woop"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f55d2517-e0f8-4035-91a3-55ff23518842": {
+                "id": 24869,
                 "identifier": "f55d2517-e0f8-4035-91a3-55ff23518842",
                 "image": "https://uploads.mangadex.org/covers/f55d2517-e0f8-4035-91a3-55ff23518842/c35ea35e-4d3d-4d2a-9345-edec2d22ebb1.jpg",
                 "malId": 148992,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "king-of-the-east": {
+                "id": 105209,
                 "identifier": "king-of-the-east",
                 "image": "https://temp.compsci88.com/cover/King-of-the-East.jpg",
                 "malId": 148992,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dx980506": {
+                "id": 109061,
                 "identifier": "manga-dx980506",
                 "image": "https://avt.mkklcdnv6temp.com/fld/27/w/9-1732793639-nw.webp",
                 "malId": 148992,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "dong_gun": {
+                "id": 116600,
                 "identifier": "dong_gun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29412/cover.jpg",
                 "malId": 148992,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/dong_gun/"
             }
         },
-        "MangaFire": {
-            "king-of-the-east.5k27v": {
-                "identifier": "king-of-the-east.5k27v",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b187f0eafcb937db2c6261443a4a66a.jpg",
-                "malId": 148992,
-                "aniId": 148337,
-                "page": "MangaFire",
-                "title": "King of the East",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/king-of-the-east.5k27v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfe763ezgagm8rkf1qr4": {
+                "id": 214247,
                 "identifier": "01j76xyfe763ezgagm8rkf1qr4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFE763EZGAGM8RKF1QR4.jpg",
                 "malId": 148992,
@@ -76,6 +69,19 @@
                 "title": "King of the East",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFE763EZGAGM8RKF1QR4"
+            }
+        },
+        "MangaFire": {
+            "5k27v": {
+                "id": 240736,
+                "identifier": "5k27v",
+                "image": "https://static.mangafire.to/0cfd/i/8/8b/8b187f0eafcb937db2c6261443a4a66a.jpg",
+                "malId": 148992,
+                "aniId": 148337,
+                "page": "MangaFire",
+                "title": "King of the East",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/king-of-the-eastt.5k27v"
             }
         }
     },

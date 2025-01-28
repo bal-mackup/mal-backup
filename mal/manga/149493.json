@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mz989982": {
+                "id": 90648,
                 "identifier": "manga-mz989982",
                 "image": "https://avt.mkklcdnv6temp.com/4/u/25-1636558643.jpg",
                 "malId": 149493,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "daytime_star": {
+                "id": 94220,
                 "identifier": "daytime_star",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40028/cover.jpg",
                 "malId": 149493,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "daytime-star": {
+                "id": 96894,
                 "identifier": "daytime-star",
                 "image": "https://temp.compsci88.com/cover/Daytime-Star.jpg",
                 "malId": 149493,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "e3da26d8-f20f-4336-b5c6-faf4f342cb91": {
+                "id": 112546,
                 "identifier": "e3da26d8-f20f-4336-b5c6-faf4f342cb91",
                 "image": "https://uploads.mangadex.org/covers/e3da26d8-f20f-4336-b5c6-faf4f342cb91/d4bbb87a-b0f3-42c6-8830-104210dc265b.jpg",
                 "malId": 149493,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/e3da26d8-f20f-4336-b5c6-faf4f342cb91"
             }
         },
-        "MangaFire": {
-            "daytime-star.rj5wn": {
-                "identifier": "daytime-star.rj5wn",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4a2a6472eb9f2040268c42a900b6eba7.jpg",
-                "malId": 149493,
-                "aniId": 143003,
-                "page": "MangaFire",
-                "title": "Daytime Star",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daytime-star.rj5wn/"
-            },
-            "daytime-starr.rj5wn": {
-                "identifier": "daytime-starr.rj5wn",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4a/4a2a6472eb9f2040268c42a900b6eba7.jpg",
-                "malId": 149493,
-                "aniId": 143003,
-                "page": "MangaFire",
-                "title": "Daytime Star",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daytime-starr.rj5wn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfa8qwqxqjzpxr99mdn6": {
+                "id": 210274,
                 "identifier": "01j76xyfa8qwqxqjzpxr99mdn6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFA8QWQXQJZPXR99MDN6.jpg",
                 "malId": 149493,
@@ -86,6 +69,19 @@
                 "title": "Daytime Star",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFA8QWQXQJZPXR99MDN6"
+            }
+        },
+        "MangaFire": {
+            "rj5wn": {
+                "id": 224000,
+                "identifier": "rj5wn",
+                "image": "https://static.mangafire.to/8177/i/4/4a/4a2a6472eb9f2040268c42a900b6eba7.jpg",
+                "malId": 149493,
+                "aniId": 143003,
+                "page": "MangaFire",
+                "title": "Daytime Star",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/daytime-starr.rj5wn"
             }
         }
     },

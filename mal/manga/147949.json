@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "534c1b5b-aff6-44fd-bf68-7294e6526fb3": {
+                "id": 51192,
                 "identifier": "534c1b5b-aff6-44fd-bf68-7294e6526fb3",
                 "image": "https://uploads.mangadex.org/covers/534c1b5b-aff6-44fd-bf68-7294e6526fb3/959195f7-8ce7-4d5b-81e2-9c34cfac12f9.png",
                 "malId": 147949,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "taming_master": {
+                "id": 56628,
                 "identifier": "taming_master",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36368/cover.jpg",
                 "malId": 147949,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "taming-master": {
+                "id": 59781,
                 "identifier": "taming-master",
                 "image": "https://temp.compsci88.com/cover/Taming-Master.jpg",
                 "malId": 147949,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jh987116": {
+                "id": 72943,
                 "identifier": "manga-jh987116",
                 "image": "https://avt.mkklcdnv6temp.com/34/i/22-1604373003.jpg",
                 "malId": 147949,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jh987116"
             }
         },
-        "MangaFire": {
-            "taming-master.pr87q": {
-                "identifier": "taming-master.pr87q",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bd407dbdac16455a5f04cf15c8978304.jpg",
-                "malId": 147949,
-                "aniId": 125816,
-                "page": "MangaFire",
-                "title": "Taming Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/taming-master.pr87q/"
-            },
-            "taming-masterr.pr87q": {
-                "identifier": "taming-masterr.pr87q",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bd407dbdac16455a5f04cf15c8978304.jpg",
-                "malId": 147949,
-                "aniId": 125816,
-                "page": "MangaFire",
-                "title": "Taming Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/taming-masterr.pr87q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeafbraks2vqaym69x4s": {
+                "id": 210526,
                 "identifier": "01j76xyeafbraks2vqaym69x4s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEAFBRAKS2VQAYM69X4S.jpg",
                 "malId": 147949,
@@ -86,6 +69,19 @@
                 "title": "Taming Master",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEAFBRAKS2VQAYM69X4S"
+            }
+        },
+        "MangaFire": {
+            "pr87q": {
+                "id": 228675,
+                "identifier": "pr87q",
+                "image": "https://static.mangafire.to/bac7/i/b/bd/bd407dbdac16455a5f04cf15c8978304.jpg",
+                "malId": 147949,
+                "aniId": 125816,
+                "page": "MangaFire",
+                "title": "Taming Master",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/taming-masterr.pr87q"
             }
         },
         "Comick": {

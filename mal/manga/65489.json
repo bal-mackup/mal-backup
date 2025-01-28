@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "962cbd34-6816-43ca-8754-256c01ef42c0": {
+                "id": 9845,
                 "identifier": "962cbd34-6816-43ca-8754-256c01ef42c0",
                 "image": "https://uploads.mangadex.org/covers/962cbd34-6816-43ca-8754-256c01ef42c0/034801e6-e0ff-4478-a209-1accc341af10.jpg",
                 "malId": 65489,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "katayoku-no-labyrinth": {
+                "id": 55234,
                 "identifier": "katayoku-no-labyrinth",
                 "image": "https://temp.compsci88.com/cover/Katayoku-No-Labyrinth.jpg",
                 "malId": 65489,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ld962560": {
+                "id": 80313,
                 "identifier": "manga-ld962560",
                 "image": "https://avt.mkklcdnv6temp.com/22/m/8-1583479030.jpg",
                 "malId": 65489,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ld962560"
             }
         },
-        "MangaFire": {
-            "katayoku-no-labyrinth.kno9": {
-                "identifier": "katayoku-no-labyrinth.kno9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d9b64c0ac4ae975f4b674f2c3d94d12.jpg",
-                "malId": 65489,
-                "aniId": 85354,
-                "page": "MangaFire",
-                "title": "The Wandering Single Wing",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/katayoku-no-labyrinth.kno9/"
-            },
-            "kno9": {
-                "identifier": "kno9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d9b64c0ac4ae975f4b674f2c3d94d12.jpg",
-                "malId": 65489,
-                "aniId": 85354,
-                "page": "MangaFire",
-                "title": "The Wandering Single Wing",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/katayoku-no-labyrinth.kno9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyafb553ks56nhmjd1aje": {
+                "id": 212405,
                 "identifier": "01j76xyafb553ks56nhmjd1aje",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAFB553KS56NHMJD1AJE.jpg",
                 "malId": 65489,
@@ -74,6 +56,19 @@
                 "title": "Katayoku no Labyrinth",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAFB553KS56NHMJD1AJE"
+            }
+        },
+        "MangaFire": {
+            "kno9": {
+                "id": 244738,
+                "identifier": "kno9",
+                "image": "https://static.mangafire.to/8030/i/6/6d/6d9b64c0ac4ae975f4b674f2c3d94d12.jpg",
+                "malId": 65489,
+                "aniId": 85354,
+                "page": "MangaFire",
+                "title": "The Wandering Single Wing",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/katayoku-no-labyrinthh.kno9"
             }
         },
         "Comick": {

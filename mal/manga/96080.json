@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d794d976-5fad-4752-b3ad-8fcc36096bd8": {
+                "id": 35964,
                 "identifier": "d794d976-5fad-4752-b3ad-8fcc36096bd8",
                 "image": "https://uploads.mangadex.org/covers/d794d976-5fad-4752-b3ad-8fcc36096bd8/536f71ef-a105-4aa8-be6f-039372ba706a.jpg",
                 "malId": 96080,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-le988613": {
+                "id": 76836,
                 "identifier": "manga-le988613",
                 "image": "https://avt.mkklcdnv6temp.com/46/a/23-1617076753.jpg",
                 "malId": 96080,
@@ -30,40 +32,9 @@
                 "url": "https://manganato.com/manga-le988613"
             }
         },
-        "MangaFire": {
-            "mushinuyun.378q9": {
-                "identifier": "mushinuyun.378q9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d34fe23b67872416393b71e35583ea1c.jpg",
-                "malId": 96080,
-                "aniId": 104783,
-                "page": "MangaFire",
-                "title": "MUSHINUYUN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushinuyun.378q9/"
-            },
-            "mushinuyunn.378q9": {
-                "identifier": "mushinuyunn.378q9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d34fe23b67872416393b71e35583ea1c.jpg",
-                "malId": 96080,
-                "aniId": 104783,
-                "page": "MangaFire",
-                "title": "MUSHINUYUN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushinuyunn.378q9/"
-            },
-            "378q9": {
-                "identifier": "378q9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d34fe23b67872416393b71e35583ea1c.jpg",
-                "malId": 96080,
-                "aniId": 104783,
-                "page": "MangaFire",
-                "title": "MUSHINUYUN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushinuyunn.378q9/"
-            }
-        },
         "MangaFox": {
             "mushinuyun": {
+                "id": 185209,
                 "identifier": "mushinuyun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37715/cover.jpg",
                 "malId": 96080,
@@ -72,6 +43,19 @@
                 "title": "Mushinuyun",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mushinuyun/"
+            }
+        },
+        "MangaFire": {
+            "378q9": {
+                "id": 229006,
+                "identifier": "378q9",
+                "image": "https://static.mangafire.to/2a6f/i/d/d3/d34fe23b67872416393b71e35583ea1c.jpg",
+                "malId": 96080,
+                "aniId": 104783,
+                "page": "MangaFire",
+                "title": "MUSHINUYUN",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mushinuyunn.378q9"
             }
         },
         "Comick": {

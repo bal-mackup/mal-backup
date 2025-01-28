@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4ffd1f8f-ab82-4de4-9dea-e0608c043d7b": {
+                "id": 29239,
                 "identifier": "4ffd1f8f-ab82-4de4-9dea-e0608c043d7b",
                 "image": "https://uploads.mangadex.org/covers/4ffd1f8f-ab82-4de4-9dea-e0608c043d7b/66c1d076-f616-465e-8f65-82284d54b122.jpg",
                 "malId": 129808,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mookhyang-dark-lady": {
+                "id": 65811,
                 "identifier": "mookhyang-dark-lady",
                 "image": "https://temp.compsci88.com/cover/MookHyang-Dark-Lady.jpg",
                 "malId": 129808,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ei982217": {
+                "id": 74802,
                 "identifier": "manga-ei982217",
                 "image": "https://avt.mkklcdnv6temp.com/5/f/35-1718961472.jpg",
                 "malId": 129808,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ei982217"
             }
         },
-        "MangaFire": {
-            "mookhyang-dark-lady.zl40m": {
-                "identifier": "mookhyang-dark-lady.zl40m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/247c2296a4c563c07d24d3200041f90c.jpg",
-                "malId": 129808,
-                "aniId": 111025,
-                "page": "MangaFire",
-                "title": "Mookhyang: Dark Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mookhyang-dark-lady.zl40m/"
-            },
-            "muk-hyang-dark-lady.zl40m": {
-                "identifier": "muk-hyang-dark-lady.zl40m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/247c2296a4c563c07d24d3200041f90c.jpg",
-                "malId": 129808,
-                "aniId": 111025,
-                "page": "MangaFire",
-                "title": "Mookhyang: Dark Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/muk-hyang-dark-lady.zl40m/"
-            },
-            "mookhyang-dark-ladyy.zl40m": {
-                "identifier": "mookhyang-dark-ladyy.zl40m",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/247c2296a4c563c07d24d3200041f90c.jpg",
-                "malId": 129808,
-                "aniId": 111025,
-                "page": "MangaFire",
-                "title": "Mookhyang: Dark Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mookhyang-dark-ladyy.zl40m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeg4kj77aq1avqw2hfzm": {
+                "id": 206698,
                 "identifier": "01j76xyeg4kj77aq1avqw2hfzm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEG4KJ77AQ1AVQW2HFZM.jpg",
                 "malId": 129808,
@@ -84,6 +56,19 @@
                 "title": "MookHyang - Dark Lady",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEG4KJ77AQ1AVQW2HFZM"
+            }
+        },
+        "MangaFire": {
+            "zl40m": {
+                "id": 228640,
+                "identifier": "zl40m",
+                "image": "https://static.mangafire.to/3f2c/i/2/24/247c2296a4c563c07d24d3200041f90c.jpg",
+                "malId": 129808,
+                "aniId": 111025,
+                "page": "MangaFire",
+                "title": "Mookhyang: Dark Lady",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mookhyang-dark-ladyy.zl40m"
             }
         },
         "Comick": {

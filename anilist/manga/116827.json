@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2ab11b28-0203-47cc-8a78-1edf6bd5a3ae": {
+                "id": 23052,
                 "identifier": "2ab11b28-0203-47cc-8a78-1edf6bd5a3ae",
                 "image": "https://uploads.mangadex.org/covers/2ab11b28-0203-47cc-8a78-1edf6bd5a3ae/5aa666ec-6257-4c87-8397-0315695c1722.jpg",
                 "malId": 129370,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "burn-the-witch": {
+                "id": 54563,
                 "identifier": "burn-the-witch",
                 "image": "https://temp.compsci88.com/cover/Burn-the-Witch.jpg",
                 "malId": 129370,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "burn_the_witch": {
+                "id": 64056,
                 "identifier": "burn_the_witch",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33360/cover.jpg",
                 "malId": 129370,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jn986396": {
+                "id": 79487,
                 "identifier": "manga-jn986396",
                 "image": "https://avt.mkklcdnv6temp.com/5/g/22-1598624873.jpg",
                 "malId": 129370,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jn986396"
             }
         },
-        "MangaFire": {
-            "burn-the-witch.xr1xz": {
-                "identifier": "burn-the-witch.xr1xz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c85e5e827d6966b170618065797991de.jpg",
-                "malId": 129370,
-                "aniId": 116827,
-                "page": "MangaFire",
-                "title": "Burn the Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/burn-the-witch.xr1xz/"
-            },
-            "burn-the-witchh.xr1xz": {
-                "identifier": "burn-the-witchh.xr1xz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c85e5e827d6966b170618065797991de.jpg",
-                "malId": 129370,
-                "aniId": 116827,
-                "page": "MangaFire",
-                "title": "Burn the Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/burn-the-witchh.xr1xz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydbjemk16z5jqs37cshr": {
+                "id": 207285,
                 "identifier": "01j76xydbjemk16z5jqs37cshr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDBJEMK16Z5JQS37CSHR.jpg",
                 "malId": 129370,
@@ -86,6 +69,19 @@
                 "title": "Burn the Witch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDBJEMK16Z5JQS37CSHR"
+            }
+        },
+        "MangaFire": {
+            "xr1xz": {
+                "id": 224896,
+                "identifier": "xr1xz",
+                "image": "https://static.mangafire.to/9029/i/c/c8/c85e5e827d6966b170618065797991de.jpg",
+                "malId": 129370,
+                "aniId": 116827,
+                "page": "MangaFire",
+                "title": "Burn the Witch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/burn-the-witchh.xr1xz"
             }
         },
         "Comick": {

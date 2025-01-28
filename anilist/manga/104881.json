@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "933f0d25-a46e-4ce0-b878-7a81636a34a4": {
+                "id": 24698,
                 "identifier": "933f0d25-a46e-4ce0-b878-7a81636a34a4",
                 "image": "https://uploads.mangadex.org/covers/933f0d25-a46e-4ce0-b878-7a81636a34a4/7a444f3c-6c29-4eef-b07c-72d42b3a7699.jpg",
                 "malId": 116669,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mama-akuma": {
+                "id": 64720,
                 "identifier": "mama-akuma",
                 "image": "https://temp.compsci88.com/cover/Mama-Akuma.jpg",
                 "malId": 116669,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dg980563": {
+                "id": 86799,
                 "identifier": "manga-dg980563",
                 "image": "https://avt.mkklcdnv6temp.com/33/k/17-1583496456.jpg",
                 "malId": 116669,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "akuma_no_mama": {
+                "id": 109378,
                 "identifier": "akuma_no_mama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29571/cover.jpg",
                 "malId": 116669,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/akuma_no_mama/"
             }
         },
-        "MangaFire": {
-            "akuma-no-mama.ll6lq": {
-                "identifier": "akuma-no-mama.ll6lq",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e00186e39dddb9bd48c3cab0a29912b.jpg",
-                "malId": 116669,
-                "aniId": 104881,
-                "page": "MangaFire",
-                "title": "Mama Akuma",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akuma-no-mama.ll6lq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyebphen9qtcrdsmafjrh": {
+                "id": 212892,
                 "identifier": "01j76xyebphen9qtcrdsmafjrh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEBPHEN9QTCRDSMAFJRH.jpg",
                 "malId": 116669,
@@ -76,6 +69,19 @@
                 "title": "Mama Akuma",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEBPHEN9QTCRDSMAFJRH"
+            }
+        },
+        "MangaFire": {
+            "ll6lq": {
+                "id": 257484,
+                "identifier": "ll6lq",
+                "image": "https://static.mangafire.to/4d24/i/2/2e/2e00186e39dddb9bd48c3cab0a29912b.jpg",
+                "malId": 116669,
+                "aniId": 104881,
+                "page": "MangaFire",
+                "title": "Mama Akuma",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/akuma-no-mamaa.ll6lq"
             }
         },
         "Comick": {

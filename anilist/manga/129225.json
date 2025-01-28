@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "05bd710c-d94a-45eb-be99-2109d58f1006": {
+                "id": 61736,
                 "identifier": "05bd710c-d94a-45eb-be99-2109d58f1006",
                 "image": "https://uploads.mangadex.org/covers/05bd710c-d94a-45eb-be99-2109d58f1006/ad7798e0-8774-40f4-8d53-8f9e907c00f1.jpg",
                 "malId": 134339,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hajirau_kimi_ga_mitainda": {
+                "id": 66517,
                 "identifier": "hajirau_kimi_ga_mitainda",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37958/cover.jpg",
                 "malId": 134339,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hajirau-kimi-ga-mitainda": {
+                "id": 90993,
                 "identifier": "hajirau-kimi-ga-mitainda",
                 "image": "https://temp.compsci88.com/cover/Hajirau-Kimi-ga-Mitainda.jpg",
                 "malId": 134339,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-nw990505": {
+                "id": 96285,
                 "identifier": "manga-nw990505",
                 "image": "https://avt.mkklcdnv6temp.com/27/p/25-1644926241.jpg",
                 "malId": 134339,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-nw990505"
             }
         },
-        "MangaFire": {
-            "hajirau-kimi-ga-mitainda.869q": {
-                "identifier": "hajirau-kimi-ga-mitainda.869q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b7cb8b5ec22d040c0ea663bc664547c.jpg",
-                "malId": 134339,
-                "aniId": 129225,
-                "page": "MangaFire",
-                "title": "Hajirau Kimi ga Mitainda",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hajirau-kimi-ga-mitainda.869q/"
-            },
-            "hajirau-kimi-ga-mitaindaa.869q": {
-                "identifier": "hajirau-kimi-ga-mitaindaa.869q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b7cb8b5ec22d040c0ea663bc664547c.jpg",
-                "malId": 134339,
-                "aniId": 129225,
-                "page": "MangaFire",
-                "title": "Hajirau Kimi ga Mitainda",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hajirau-kimi-ga-mitaindaa.869q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5bdttg0zdms7bwzq03": {
+                "id": 209838,
                 "identifier": "01j76xyf5bdttg0zdms7bwzq03",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5BDTTG0ZDMS7BWZQ03.jpg",
                 "malId": 134339,
@@ -86,6 +69,19 @@
                 "title": "Hajirau Kimi ga Mitainda",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF5BDTTG0ZDMS7BWZQ03"
+            }
+        },
+        "MangaFire": {
+            "869q": {
+                "id": 229564,
+                "identifier": "869q",
+                "image": "https://static.mangafire.to/6ac6/i/1/1b/1b7cb8b5ec22d040c0ea663bc664547c.jpg",
+                "malId": 134339,
+                "aniId": 129225,
+                "page": "MangaFire",
+                "title": "Hajirau Kimi ga Mitainda",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hajirau-kimi-ga-mitaindaa.869q"
             }
         },
         "Comick": {

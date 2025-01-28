@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6fe9a526-e05e-48c4-8adf-af38ab4d4aec": {
+                "id": 36581,
                 "identifier": "6fe9a526-e05e-48c4-8adf-af38ab4d4aec",
                 "image": "https://uploads.mangadex.org/covers/6fe9a526-e05e-48c4-8adf-af38ab4d4aec/8510c6e3-baae-4d26-a52e-e0e61a45018b.jpg",
                 "malId": 147992,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "3cm_hunter": {
+                "id": 57947,
                 "identifier": "3cm_hunter",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34426/cover.jpg",
                 "malId": 147992,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "3cm-hunter": {
+                "id": 60324,
                 "identifier": "3cm-hunter",
                 "image": "https://temp.compsci88.com/cover/3cm-Hunter.jpg",
                 "malId": 147992,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-it985728": {
+                "id": 77041,
                 "identifier": "manga-it985728",
                 "image": "https://avt.mkklcdnv6temp.com/28/m/21-1592295646.jpg",
                 "malId": 147992,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-it985728"
             }
         },
-        "MangaFire": {
-            "3cm-hunter.llymn": {
-                "identifier": "3cm-hunter.llymn",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e3d7a545be6da4c76d753071bd01ea95.jpg",
-                "malId": 147992,
-                "aniId": 120235,
-                "page": "MangaFire",
-                "title": "microHUNTER",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/3cm-hunter.llymn/"
-            }
-        },
         "Weebcentral": {
             "01j76xydsqsd1aqq9s8a3xq5ft": {
+                "id": 211469,
                 "identifier": "01j76xydsqsd1aqq9s8a3xq5ft",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDSQSD1AQQ9S8A3XQ5FT.jpg",
                 "malId": 147992,
@@ -76,6 +69,19 @@
                 "title": "microHUNTER",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDSQSD1AQQ9S8A3XQ5FT"
+            }
+        },
+        "MangaFire": {
+            "llymn": {
+                "id": 237524,
+                "identifier": "llymn",
+                "image": "https://static.mangafire.to/7f3b/i/e/e3/e3d7a545be6da4c76d753071bd01ea95.jpg",
+                "malId": 147992,
+                "aniId": 120235,
+                "page": "MangaFire",
+                "title": "microHUNTER",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/3cm-hunterr.llymn"
             }
         },
         "Comick": {

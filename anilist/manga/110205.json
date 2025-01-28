@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d59b465c-43ac-4754-8d7c-6d1b34e2cca5": {
+                "id": 59160,
                 "identifier": "d59b465c-43ac-4754-8d7c-6d1b34e2cca5",
                 "image": "https://uploads.mangadex.org/covers/d59b465c-43ac-4754-8d7c-6d1b34e2cca5/199525e4-ac4c-44ff-b68c-9e6ea78b4247.jpg",
                 "malId": 122889,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-love-you-so-much-i-hate-you": {
+                "id": 64215,
                 "identifier": "i-love-you-so-much-i-hate-you",
                 "image": "https://temp.compsci88.com/cover/I-Love-You-So-Much-I-Hate-You.jpg",
                 "malId": 122889,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/I-Love-You-So-Much-I-Hate-You"
             }
         },
-        "MangaFire": {
-            "nikurashii-hodo-aishiteru.xv1jz": {
-                "identifier": "nikurashii-hodo-aishiteru.xv1jz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f9df829a30f5b19848311b806259729c.jpg",
-                "malId": 122889,
-                "aniId": 110205,
-                "page": "MangaFire",
-                "title": "Nikurashii Hodo Aishiteru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nikurashii-hodo-aishiteru.xv1jz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydqsqjmjad6t71mpjgsp": {
+                "id": 213145,
                 "identifier": "01j76xydqsqjmjad6t71mpjgsp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQSQJMJAD6T71MPJGSP.jpg",
                 "malId": 122889,
@@ -52,6 +43,19 @@
                 "title": "I Love You So Much, I Hate You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQSQJMJAD6T71MPJGSP"
+            }
+        },
+        "MangaFire": {
+            "xv1jz": {
+                "id": 240657,
+                "identifier": "xv1jz",
+                "image": "https://static.mangafire.to/cc97/i/f/f9/f9df829a30f5b19848311b806259729c.jpg",
+                "malId": 122889,
+                "aniId": 110205,
+                "page": "MangaFire",
+                "title": "Nikurashii Hodo Aishiteru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nikurashii-hodo-aishiteruu.xv1jz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "ya-boy-kongming": {
+                "id": 80114,
                 "identifier": "ya-boy-kongming",
                 "image": "https://temp.compsci88.com/cover/Ya-Boy-Kongming.jpg",
                 "malId": 137109,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "8d420fe4-feb4-489e-b37f-6c75771fe8e3": {
+                "id": 101712,
                 "identifier": "8d420fe4-feb4-489e-b37f-6c75771fe8e3",
                 "image": "https://uploads.mangadex.org/covers/8d420fe4-feb4-489e-b37f-6c75771fe8e3/62dd012c-c9b2-4b88-9edb-257f093caaf7.jpg",
                 "malId": 137109,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nv991278": {
+                "id": 107817,
                 "identifier": "manga-nv991278",
                 "image": "https://avt.mkklcdnv6temp.com/8/x/26-1655743093.jpg",
                 "malId": 137109,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-nv991278"
             }
         },
-        "MangaFire": {
-            "paripi-koumei.j33n": {
-                "identifier": "paripi-koumei.j33n",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c8f8b7bafe5c6b030685e31f438656d.jpg",
-                "malId": 137109,
-                "aniId": 123034,
-                "page": "MangaFire",
-                "title": "Ya Boy Kongming!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/paripi-koumei.j33n/"
-            },
-            "paripi-koumeii.j33n": {
-                "identifier": "paripi-koumeii.j33n",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c8f8b7bafe5c6b030685e31f438656d.jpg",
-                "malId": 137109,
-                "aniId": 123034,
-                "page": "MangaFire",
-                "title": "Ya Boy Kongming!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/paripi-koumeii.j33n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyev7xnwzr89krdjz0h7q": {
+                "id": 214025,
                 "identifier": "01j76xyev7xnwzr89krdjz0h7q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEV7XNWZR89KRDJZ0H7Q.jpg",
                 "malId": 137109,
@@ -74,6 +56,19 @@
                 "title": "Ya Boy Kongming!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEV7XNWZR89KRDJZ0H7Q"
+            }
+        },
+        "MangaFire": {
+            "j33n": {
+                "id": 240869,
+                "identifier": "j33n",
+                "image": "https://static.mangafire.to/caac/i/9/9c/9c8f8b7bafe5c6b030685e31f438656d.jpg",
+                "malId": 137109,
+                "aniId": 123034,
+                "page": "MangaFire",
+                "title": "Ya Boy Kongming!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/paripi-koumeii.j33n"
             }
         },
         "Comick": {

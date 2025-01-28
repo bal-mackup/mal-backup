@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "81d4736b-00e5-44cf-a25e-964748f591ea": {
+                "id": 16396,
                 "identifier": "81d4736b-00e5-44cf-a25e-964748f591ea",
                 "image": "https://uploads.mangadex.org/covers/81d4736b-00e5-44cf-a25e-964748f591ea/7d0be42c-c2f0-480b-8cee-326427090b8a.jpg",
                 "malId": 99733,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-vr972900": {
+                "id": 81371,
                 "identifier": "manga-vr972900",
                 "image": "https://avt.mkklcdnv6temp.com/23/h/14-1583490576.jpg",
                 "malId": 99733,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kuhime": {
+                "id": 81432,
                 "identifier": "kuhime",
                 "image": "https://temp.compsci88.com/cover/Kuhime.jpg",
                 "malId": 99733,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kuhime": {
+                "id": 112525,
                 "identifier": "kuhime",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21725/cover.jpg",
                 "malId": 99733,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/kuhime/"
             }
         },
-        "MangaFire": {
-            "kuhime.kwrrw": {
-                "identifier": "kuhime.kwrrw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88d3581c4fe0766c04f8a5b6ffd68461.jpg",
-                "malId": 99733,
-                "aniId": 97433,
-                "page": "MangaFire",
-                "title": "Kuhime",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuhime.kwrrw/"
-            },
-            "kwrrw": {
-                "identifier": "kwrrw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88d3581c4fe0766c04f8a5b6ffd68461.jpg",
-                "malId": 99733,
-                "aniId": 97433,
-                "page": "MangaFire",
-                "title": "Kuhime",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuhime.kwrrw/"
-            }
-        },
         "Weebcentral": {
             "01j76xyby4m22eddf0vtgym2y9": {
+                "id": 206889,
                 "identifier": "01j76xyby4m22eddf0vtgym2y9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBY4M22EDDF0VTGYM2Y9.jpg",
                 "malId": 99733,
@@ -86,6 +69,19 @@
                 "title": "Kuhime",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBY4M22EDDF0VTGYM2Y9"
+            }
+        },
+        "MangaFire": {
+            "kwrrw": {
+                "id": 244343,
+                "identifier": "kwrrw",
+                "image": "https://static.mangafire.to/c02c/i/8/88/88d3581c4fe0766c04f8a5b6ffd68461.jpg",
+                "malId": 99733,
+                "aniId": 97433,
+                "page": "MangaFire",
+                "title": "Kuhime",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuhimee.kwrrw"
             }
         },
         "Comick": {

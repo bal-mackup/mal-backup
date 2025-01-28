@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "95aa6275-3a71-460b-af9f-33ee9b93bebc": {
+                "id": 157381,
                 "identifier": "95aa6275-3a71-460b-af9f-33ee9b93bebc",
                 "image": "https://uploads.mangadex.org/covers/95aa6275-3a71-460b-af9f-33ee9b93bebc/890f2c4c-f6c9-45f1-a1b9-a8b8e77cc6d1.jpg",
                 "malId": 158849,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/95aa6275-3a71-460b-af9f-33ee9b93bebc"
             }
         },
-        "MangaFire": {
-            "nues-exorcist.4228x": {
-                "identifier": "nues-exorcist.4228x",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/44c9d377a598db31833b56a785f89bad.jpg",
-                "malId": 158849,
-                "aniId": 163497,
-                "page": "MangaFire",
-                "title": "Nue's Exorcist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nues-exorcist.4228x/"
-            },
-            "nues-exorcistt.4228x": {
-                "identifier": "nues-exorcistt.4228x",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/44c9d377a598db31833b56a785f89bad.jpg",
-                "malId": 158849,
-                "aniId": 163497,
-                "page": "MangaFire",
-                "title": "Nue's Exorcist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nues-exorcistt.4228x/"
-            }
-        },
         "MangaSee": {
             "nues-exorcist": {
+                "id": 157710,
                 "identifier": "nues-exorcist",
                 "image": "https://temp.compsci88.com/cover/Nues-Exorcist.jpg",
                 "malId": 158849,
@@ -54,6 +34,7 @@
         },
         "MangaNato": {
             "manga-to996449": {
+                "id": 161050,
                 "identifier": "manga-to996449",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/y/15-1733307587-nw.webp",
                 "malId": 158849,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "nue_no_onmyouji": {
+                "id": 185815,
                 "identifier": "nue_no_onmyouji",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44859/cover.jpg",
                 "malId": 158849,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg5wmrxm4stx4habm6b1": {
+                "id": 206529,
                 "identifier": "01j76xyg5wmrxm4stx4habm6b1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5WMRXM4STX4HABM6B1.jpg",
                 "malId": 158849,
@@ -86,6 +69,19 @@
                 "title": "Nue's Exorcist",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5WMRXM4STX4HABM6B1"
+            }
+        },
+        "MangaFire": {
+            "4228x": {
+                "id": 226678,
+                "identifier": "4228x",
+                "image": "https://static.mangafire.to/f0fc/i/4/47/44c9d377a598db31833b56a785f89bad.jpg",
+                "malId": 158849,
+                "aniId": 163497,
+                "page": "MangaFire",
+                "title": "Nue's Exorcist",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nues-exorcistt.4228x"
             }
         },
         "Comick": {

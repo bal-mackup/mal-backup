@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e3fa25bc-23eb-46c3-af17-36ec9200456e": {
+                "id": 100658,
                 "identifier": "e3fa25bc-23eb-46c3-af17-36ec9200456e",
                 "image": "https://uploads.mangadex.org/covers/e3fa25bc-23eb-46c3-af17-36ec9200456e/9d09a8ba-8fa7-4270-856b-4fa80f1e9f21.jpg",
                 "malId": 149162,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/e3fa25bc-23eb-46c3-af17-36ec9200456e"
             }
         },
-        "MangaFire": {
-            "keiyaku-shimai.9o8kx": {
-                "identifier": "keiyaku-shimai.9o8kx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/09a2e93c1e92ba7cc1ccb255f7414e73.jpg",
-                "malId": 149162,
-                "aniId": 146682,
-                "page": "MangaFire",
-                "title": "Contract Sisters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/keiyaku-shimai.9o8kx/"
-            },
-            "keiyaku-shimaii.9o8kx": {
-                "identifier": "keiyaku-shimaii.9o8kx",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/09a2e93c1e92ba7cc1ccb255f7414e73.jpg",
-                "malId": 149162,
-                "aniId": 146682,
-                "page": "MangaFire",
-                "title": "Contract Sisters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/keiyaku-shimaii.9o8kx/"
-            }
-        },
         "MangaNato": {
             "manga-rh995316": {
+                "id": 151461,
                 "identifier": "manga-rh995316",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/n/14-1733304992-nw.webp",
                 "malId": 149162,
@@ -50,6 +30,19 @@
                 "title": "Keiyaku Shimai",
                 "type": "manga",
                 "url": "https://manganato.com/manga-rh995316"
+            }
+        },
+        "MangaFire": {
+            "9o8kx": {
+                "id": 236005,
+                "identifier": "9o8kx",
+                "image": "https://static.mangafire.to/14c6/i/0/09/09a2e93c1e92ba7cc1ccb255f7414e73.jpg",
+                "malId": 149162,
+                "aniId": 146682,
+                "page": "MangaFire",
+                "title": "Contract Sisters",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/keiyaku-shimaii.9o8kx"
             }
         },
         "Comick": {

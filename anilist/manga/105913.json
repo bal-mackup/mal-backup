@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b0c50912-623b-4bd7-84fc-7811f7961518": {
+                "id": 24884,
                 "identifier": "b0c50912-623b-4bd7-84fc-7811f7961518",
                 "image": "https://uploads.mangadex.org/covers/b0c50912-623b-4bd7-84fc-7811f7961518/9bf7cd2f-52d0-4f3e-95ee-e35e5b27d65c.jpg",
                 "malId": 116831,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "wandering-witch": {
+                "id": 54901,
                 "identifier": "wandering-witch",
                 "image": "https://temp.compsci88.com/cover/Wandering-Witch.jpg",
                 "malId": 116831,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "majo_no_tabitabi_the_journey_of_elaina": {
+                "id": 68618,
                 "identifier": "majo_no_tabitabi_the_journey_of_elaina",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29538/cover.jpg",
                 "malId": 116831,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/majo_no_tabitabi_the_journey_of_elaina/"
             },
             "majo_no_tabitabi_novel": {
+                "id": 68619,
                 "identifier": "majo_no_tabitabi_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34184/cover.jpg",
                 "malId": 116831,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-dh980390": {
+                "id": 78875,
                 "identifier": "manga-dh980390",
                 "image": "https://avt.mkklcdnv6temp.com/26/w/17-1583496219.jpg",
                 "malId": 116831,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-dh980390"
             }
         },
-        "MangaFire": {
-            "majo-no-tabitabi.02jor": {
-                "identifier": "majo-no-tabitabi.02jor",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c52b0885073ebebaa8c1a8e86750d97a.jpg",
-                "malId": 116831,
-                "aniId": 105913,
-                "page": "MangaFire",
-                "title": "Wandering Witch: The Journey of Elaina",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-no-tabitabi.02jor/"
-            },
-            "majo-no-tabitabii.02jor": {
-                "identifier": "majo-no-tabitabii.02jor",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c52b0885073ebebaa8c1a8e86750d97a.jpg",
-                "malId": 116831,
-                "aniId": 105913,
-                "page": "MangaFire",
-                "title": "Wandering Witch: The Journey of Elaina",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-no-tabitabii.02jor/"
-            }
-        },
         "Weebcentral": {
             "01j76xyddh2fj5vbmw9nhewyv6": {
+                "id": 209994,
                 "identifier": "01j76xyddh2fj5vbmw9nhewyv6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDDH2FJ5VBMW9NHEWYV6.jpg",
                 "malId": 116831,
@@ -96,6 +80,19 @@
                 "title": "Wandering Witch - The Journey of Elaina",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDDH2FJ5VBMW9NHEWYV6"
+            }
+        },
+        "MangaFire": {
+            "02jor": {
+                "id": 227492,
+                "identifier": "02jor",
+                "image": "https://static.mangafire.to/0b04/i/c/c5/c52b0885073ebebaa8c1a8e86750d97a.jpg",
+                "malId": 116831,
+                "aniId": 105913,
+                "page": "MangaFire",
+                "title": "Wandering Witch: The Journey of Elaina",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-no-tabitabii.02jor"
             }
         },
         "Comick": {

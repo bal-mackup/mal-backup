@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1c7395cf-9e3d-4f78-be0a-4e219807015f": {
+                "id": 108624,
                 "identifier": "1c7395cf-9e3d-4f78-be0a-4e219807015f",
                 "image": "https://uploads.mangadex.org/covers/1c7395cf-9e3d-4f78-be0a-4e219807015f/7703c117-244f-44db-aad6-2aef24785c4d.jpg",
                 "malId": 139555,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oa991457": {
+                "id": 108782,
                 "identifier": "manga-oa991457",
                 "image": "https://avt.mkklcdnv6temp.com/17/n/26-1656648854.jpg",
                 "malId": 139555,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-oa991457"
             }
         },
-        "MangaFire": {
-            "mermaid-melody-pichi-pichi-pitch-aqua.n3n1n": {
-                "identifier": "mermaid-melody-pichi-pichi-pitch-aqua.n3n1n",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17f220c4434abb9d75cedff9b5243ee1.jpg",
-                "malId": 139555,
-                "aniId": 136317,
-                "page": "MangaFire",
-                "title": "Mermaid Melody Pichi Pichi Pitch Aqua",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mermaid-melody-pichi-pichi-pitch-aqua.n3n1n/"
-            }
-        },
         "MangaSee": {
             "mermaid-melody-pichi-pichi-pitch-aqua": {
+                "id": 161418,
                 "identifier": "mermaid-melody-pichi-pichi-pitch-aqua",
                 "image": "https://temp.compsci88.com/cover/Mermaid-Melody-Pichi-Pichi-Pitch-Aqua.jpg",
                 "malId": 139555,
@@ -56,6 +47,7 @@
         },
         "MangaFox": {
             "pichi_pichi_pitch_aqua": {
+                "id": 189105,
                 "identifier": "pichi_pichi_pitch_aqua",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41644/cover.jpg",
                 "malId": 139555,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg8k804c34atxmjdvm7j": {
+                "id": 210667,
                 "identifier": "01j76xyg8k804c34atxmjdvm7j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG8K804C34ATXMJDVM7J.jpg",
                 "malId": 139555,
@@ -76,6 +69,19 @@
                 "title": "Mermaid Melody Pichi Pichi Pitch - Aqua",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG8K804C34ATXMJDVM7J"
+            }
+        },
+        "MangaFire": {
+            "n3n1n": {
+                "id": 255457,
+                "identifier": "n3n1n",
+                "image": "https://static.mangafire.to/3959/i/1/17/17f220c4434abb9d75cedff9b5243ee1.jpg",
+                "malId": 139555,
+                "aniId": 136317,
+                "page": "MangaFire",
+                "title": "Mermaid Melody Pichi Pichi Pitch Aqua",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mermaid-melody-pichi-pichi-pitch-aquaa.n3n1n"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ec97e9ee-1d49-49d2-b185-89c01e62a9bd": {
+                "id": 36193,
                 "identifier": "ec97e9ee-1d49-49d2-b185-89c01e62a9bd",
                 "image": "https://uploads.mangadex.org/covers/ec97e9ee-1d49-49d2-b185-89c01e62a9bd/ca90de02-f504-4563-8cd1-d5a1cb55a499.jpg",
                 "malId": 127775,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cinderella-wa-sagasanai": {
+                "id": 62604,
                 "identifier": "cinderella-wa-sagasanai",
                 "image": "https://temp.compsci88.com/cover/Cinderella-wa-Sagasanai.jpg",
                 "malId": 127775,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "cinderella_wa_sagasanai": {
+                "id": 69947,
                 "identifier": "cinderella_wa_sagasanai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34326/cover.jpg",
                 "malId": 127775,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-il985668": {
+                "id": 72829,
                 "identifier": "manga-il985668",
                 "image": "https://avt.mkklcdnv6temp.com/25/v/21-1591716170.jpg",
                 "malId": 127775,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-il985668"
             }
         },
-        "MangaFire": {
-            "cinderella-wa-sagasanai.z1r4l": {
-                "identifier": "cinderella-wa-sagasanai.z1r4l",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b32a6dcfe6361b8bb092096ff081bebd.jpg",
-                "malId": 127775,
-                "aniId": 119311,
-                "page": "MangaFire",
-                "title": "Cinderella wa Sagasanai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cinderella-wa-sagasanai.z1r4l/"
-            },
-            "cinderella-wa-sagasanaii.z1r4l": {
-                "identifier": "cinderella-wa-sagasanaii.z1r4l",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b32a6dcfe6361b8bb092096ff081bebd.jpg",
-                "malId": 127775,
-                "aniId": 119311,
-                "page": "MangaFire",
-                "title": "Cinderella wa Sagasanai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cinderella-wa-sagasanaii.z1r4l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyecaac7vjbt6ptz574nw": {
+                "id": 210734,
                 "identifier": "01j76xyecaac7vjbt6ptz574nw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECAAC7VJBT6PTZ574NW.jpg",
                 "malId": 127775,
@@ -86,6 +69,19 @@
                 "title": "Cinderella wa Sagasanai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECAAC7VJBT6PTZ574NW"
+            }
+        },
+        "MangaFire": {
+            "z1r4l": {
+                "id": 238957,
+                "identifier": "z1r4l",
+                "image": "https://static.mangafire.to/2b5f/i/b/b3/b32a6dcfe6361b8bb092096ff081bebd.jpg",
+                "malId": 127775,
+                "aniId": 119311,
+                "page": "MangaFire",
+                "title": "Cinderella wa Sagasanai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cinderella-wa-sagasanaii.z1r4l"
             }
         },
         "Comick": {

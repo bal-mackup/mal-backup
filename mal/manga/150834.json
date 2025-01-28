@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7eabe852-5454-48a1-976a-9aaa2b9ca7b0": {
+                "id": 112757,
                 "identifier": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
                 "image": "https://uploads.mangadex.org/covers/7eabe852-5454-48a1-976a-9aaa2b9ca7b0/4439dd23-93a5-487b-9e20-1fea08a4b620.jpg",
                 "malId": 150834,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/7eabe852-5454-48a1-976a-9aaa2b9ca7b0"
             }
         },
-        "MangaFire": {
-            "kimi-no-yokogao-wo-miteita.kwr8r": {
-                "identifier": "kimi-no-yokogao-wo-miteita.kwr8r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/98e3da370ca3057838af2042f0a9d0ce.jpg",
-                "malId": 150834,
-                "aniId": 146314,
-                "page": "MangaFire",
-                "title": "Looking at Your Profile",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-yokogao-wo-miteita.kwr8r/"
-            }
-        },
         "MangaSee": {
             "i-see-your-face-turned-away": {
+                "id": 189720,
                 "identifier": "i-see-your-face-turned-away",
                 "image": "https://temp.compsci88.com/cover/I-See-Your-Face-Turned-Away.jpg",
                 "malId": 150834,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh8e8fjg0r5w03jxbx9v": {
+                "id": 206910,
                 "identifier": "01j76xyh8e8fjg0r5w03jxbx9v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH8E8FJG0R5W03JXBX9V.jpg",
                 "malId": 150834,
@@ -52,6 +43,19 @@
                 "title": "I See Your Face, Turned Away",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH8E8FJG0R5W03JXBX9V"
+            }
+        },
+        "MangaFire": {
+            "kwr8r": {
+                "id": 257906,
+                "identifier": "kwr8r",
+                "image": "https://static.mangafire.to/435a/i/9/98/98e3da370ca3057838af2042f0a9d0ce.jpg",
+                "malId": 150834,
+                "aniId": 146314,
+                "page": "MangaFire",
+                "title": "Looking at Your Profile",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-no-yokogao-wo-miteitaa.kwr8r"
             }
         },
         "Comick": {

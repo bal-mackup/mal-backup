@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-rd995160": {
+                "id": 127741,
                 "identifier": "manga-rd995160",
                 "image": "https://avt.mkklcdnv6temp.com/16/t/29-1679851351.jpg",
                 "malId": 157591,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "365d291e-277e-45fd-b364-956d0c6b11c8": {
+                "id": 155805,
                 "identifier": "365d291e-277e-45fd-b364-956d0c6b11c8",
                 "image": "https://uploads.mangadex.org/covers/365d291e-277e-45fd-b364-956d0c6b11c8/fe038c04-8c7a-442b-9183-758a2a5783a0.jpg",
                 "malId": 157591,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/365d291e-277e-45fd-b364-956d0c6b11c8"
             }
         },
-        "MangaFire": {
-            "chronicles-of-the-demon-faction.rwm4n": {
-                "identifier": "chronicles-of-the-demon-faction.rwm4n",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9aca417d7a82a705aab155cddd14d388.jpg",
-                "malId": 157591,
-                "aniId": 164222,
-                "page": "MangaFire",
-                "title": "Chronicles of the Demon Faction",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chronicles-of-the-demon-faction.rwm4n/"
-            },
-            "chronicles-of-the-demon-factionn.rwm4n": {
-                "identifier": "chronicles-of-the-demon-factionn.rwm4n",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9aca417d7a82a705aab155cddd14d388.jpg",
-                "malId": 157591,
-                "aniId": 164222,
-                "page": "MangaFire",
-                "title": "Chronicles of the Demon Faction",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chronicles-of-the-demon-factionn.rwm4n/"
-            }
-        },
         "MangaSee": {
             "chronicles-of-the-demon-faction": {
+                "id": 161502,
                 "identifier": "chronicles-of-the-demon-faction",
                 "image": "https://temp.compsci88.com/cover/Chronicles-of-the-Demon-Faction.jpg",
                 "malId": 157591,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "chronicles_of_the_demon_faction": {
+                "id": 189017,
                 "identifier": "chronicles_of_the_demon_faction",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44642/cover.jpg",
                 "malId": 157591,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg8zbk4vb4rrnvkcmkr2": {
+                "id": 213385,
                 "identifier": "01j76xyg8zbk4vb4rrnvkcmkr2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG8ZBK4VB4RRNVKCMKR2.jpg",
                 "malId": 157591,
@@ -86,6 +69,19 @@
                 "title": "Chronicles of the Demon Faction",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG8ZBK4VB4RRNVKCMKR2"
+            }
+        },
+        "MangaFire": {
+            "rwm4n": {
+                "id": 226486,
+                "identifier": "rwm4n",
+                "image": "https://static.mangafire.to/b44d/i/9/9a/9aca417d7a82a705aab155cddd14d388.jpg",
+                "malId": 157591,
+                "aniId": 164222,
+                "page": "MangaFire",
+                "title": "Chronicles of the Demon Faction",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chronicles-of-the-demon-factionn.rwm4n"
             }
         },
         "Comick": {

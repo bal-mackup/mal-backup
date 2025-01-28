@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "544240b7-557d-4f86-bcc0-28ad5fa99795": {
+                "id": 32465,
                 "identifier": "544240b7-557d-4f86-bcc0-28ad5fa99795",
                 "image": "https://uploads.mangadex.org/covers/544240b7-557d-4f86-bcc0-28ad5fa99795/05d1a032-0605-48ce-91fc-c27ea0a62416.jpg",
                 "malId": 123959,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "i_have_a_slow_living_in_different_world_i_wish": {
+                "id": 62620,
                 "identifier": "i_have_a_slow_living_in_different_world_i_wish",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32571/cover.jpg",
                 "malId": 123959,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/i_have_a_slow_living_in_different_world_i_wish/"
             },
             "isekai_de_slow_life_o_ganbou": {
+                "id": 121141,
                 "identifier": "isekai_de_slow_life_o_ganbou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39659/cover.jpg",
                 "malId": 123959,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "isekai-de-slow-life-wo-ganbou": {
+                "id": 63993,
                 "identifier": "isekai-de-slow-life-wo-ganbou",
                 "image": "https://temp.compsci88.com/cover/Isekai-de-Slow-Life-wo-Ganbou.jpg",
                 "malId": 123959,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-gf984062": {
+                "id": 73707,
                 "identifier": "manga-gf984062",
                 "image": "https://avt.mkklcdnv6temp.com/34/m/36-1726157463.jpg",
                 "malId": 123959,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-gf984062"
             }
         },
-        "MangaFire": {
-            "isekai-de-slow-life-wo-ganbou.52jwv": {
-                "identifier": "isekai-de-slow-life-wo-ganbou.52jwv",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7fc62bbfd88789e4ad487dfe835aad7.jpg",
-                "malId": 123959,
-                "aniId": 115455,
-                "page": "MangaFire",
-                "title": "Slow Life In Another World (I Wish!)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-de-slow-life-wo-ganbou.52jwv/"
-            },
-            "isekai-de-slow-life-wo-ganbouu.52jwv": {
-                "identifier": "isekai-de-slow-life-wo-ganbouu.52jwv",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7fc62bbfd88789e4ad487dfe835aad7.jpg",
-                "malId": 123959,
-                "aniId": 115455,
-                "page": "MangaFire",
-                "title": "Slow Life In Another World (I Wish!)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-de-slow-life-wo-ganbouu.52jwv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd7ycm9g6g27zd45gzvw": {
+                "id": 214261,
                 "identifier": "01j76xyd7ycm9g6g27zd45gzvw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD7YCM9G6G27ZD45GZVW.jpg",
                 "malId": 123959,
@@ -96,6 +80,19 @@
                 "title": "Slow Life in Another World (I Wish!)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD7YCM9G6G27ZD45GZVW"
+            }
+        },
+        "MangaFire": {
+            "52jwv": {
+                "id": 225884,
+                "identifier": "52jwv",
+                "image": "https://static.mangafire.to/2182/i/d/d7/d7fc62bbfd88789e4ad487dfe835aad7.jpg",
+                "malId": 123959,
+                "aniId": 115455,
+                "page": "MangaFire",
+                "title": "Slow Life In Another World (I Wish!)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-de-slow-life-wo-ganbouu.52jwv"
             }
         },
         "Comick": {

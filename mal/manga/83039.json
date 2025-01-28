@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac": {
+                "id": 124083,
                 "identifier": "8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac",
                 "image": "https://uploads.mangadex.org/covers/8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac/2c715d34-2fee-4708-8b38-47d2058d5e40.jpg",
                 "malId": 83039,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac"
             }
         },
-        "MangaFire": {
-            "onimushi.5kl5j": {
-                "identifier": "onimushi.5kl5j",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/176d7dd17f1f5fe5ec0917475e07e4a4.jpg",
-                "malId": 83039,
-                "aniId": 93345,
-                "page": "MangaFire",
-                "title": "Onimushi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onimushi.5kl5j/"
-            },
-            "5kl5j": {
-                "identifier": "5kl5j",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/176d7dd17f1f5fe5ec0917475e07e4a4.jpg",
-                "malId": 83039,
-                "aniId": 93345,
-                "page": "MangaFire",
-                "title": "Onimushi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onimushi.5kl5j/"
-            }
-        },
         "MangaNato": {
             "manga-rt994928": {
+                "id": 180129,
                 "identifier": "manga-rt994928",
                 "image": "https://avt.mkklcdnv6temp.com/fld/58/y/14-1733304140-nw.webp",
                 "malId": 83039,
@@ -50,6 +30,19 @@
                 "title": "Onimushi",
                 "type": "manga",
                 "url": "https://manganato.com/manga-rt994928"
+            }
+        },
+        "MangaFire": {
+            "5kl5j": {
+                "id": 254202,
+                "identifier": "5kl5j",
+                "image": "https://static.mangafire.to/33c2/i/1/17/176d7dd17f1f5fe5ec0917475e07e4a4.jpg",
+                "malId": 83039,
+                "aniId": 93345,
+                "page": "MangaFire",
+                "title": "Onimushi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/onimushii.5kl5j"
             }
         },
         "Comick": {

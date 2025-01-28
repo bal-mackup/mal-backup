@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cb114a5d-56ed-4288-a2ab-671a9d9702c4": {
+                "id": 101952,
                 "identifier": "cb114a5d-56ed-4288-a2ab-671a9d9702c4",
                 "image": "https://uploads.mangadex.org/covers/cb114a5d-56ed-4288-a2ab-671a9d9702c4/1e9681c1-43cf-4084-abc7-b6f37e2d1830.png",
                 "malId": 151053,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nj990918": {
+                "id": 105910,
                 "identifier": "manga-nj990918",
                 "image": "https://avt.mkklcdnv6temp.com/44/d/25-1653917556.jpg",
                 "malId": 151053,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "barbarian_quest": {
+                "id": 106144,
                 "identifier": "barbarian_quest",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42245/cover.jpg",
                 "malId": 151053,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/barbarian_quest/"
             }
         },
-        "MangaFire": {
-            "barbarian-quest.kwyow": {
-                "identifier": "barbarian-quest.kwyow",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80ddc3dea99f5dbe33edec302f056d17.jpg",
-                "malId": 151053,
-                "aniId": 148091,
-                "page": "MangaFire",
-                "title": "Barbarian Quest",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/barbarian-quest.kwyow/"
-            },
-            "barbarian-questt.kwyow": {
-                "identifier": "barbarian-questt.kwyow",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80ddc3dea99f5dbe33edec302f056d17.jpg",
-                "malId": 151053,
-                "aniId": 148091,
-                "page": "MangaFire",
-                "title": "Barbarian Quest",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/barbarian-questt.kwyow/"
-            }
-        },
         "MangaSee": {
             "barbarian-quest": {
+                "id": 192891,
                 "identifier": "barbarian-quest",
                 "image": "https://temp.compsci88.com/cover/Barbarian-Quest.jpg",
                 "malId": 151053,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhcd5g0bcsb19b8b93eh": {
+                "id": 210194,
                 "identifier": "01j76xyhcd5g0bcsb19b8b93eh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHCD5G0BCSB19B8B93EH.jpg",
                 "malId": 151053,
@@ -86,6 +69,19 @@
                 "title": "Barbarian Quest",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHCD5G0BCSB19B8B93EH"
+            }
+        },
+        "MangaFire": {
+            "kwyow": {
+                "id": 227493,
+                "identifier": "kwyow",
+                "image": "https://static.mangafire.to/0821/i/8/80/80ddc3dea99f5dbe33edec302f056d17.jpg",
+                "malId": 151053,
+                "aniId": 148091,
+                "page": "MangaFire",
+                "title": "Barbarian Quest",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/barbarian-questt.kwyow"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a911ce8c-317a-48ee-9713-31b9c1807004": {
+                "id": 13602,
                 "identifier": "a911ce8c-317a-48ee-9713-31b9c1807004",
                 "image": "https://uploads.mangadex.org/covers/a911ce8c-317a-48ee-9713-31b9c1807004/e62708c8-a3ff-4453-b219-5b85c057b241.jpg",
                 "malId": 92194,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "chikotan_kowareru": {
+                "id": 63890,
                 "identifier": "chikotan_kowareru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16579/cover.jpg",
                 "malId": 92194,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "chikotan-kowareru": {
+                "id": 66515,
                 "identifier": "chikotan-kowareru",
                 "image": "https://temp.compsci88.com/cover/Chikotan-Kowareru.jpg",
                 "malId": 92194,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mh952616": {
+                "id": 79232,
                 "identifier": "manga-mh952616",
                 "image": "https://avt.mkklcdnv6temp.com/fld/48/j/1-1732718301-nw.webp",
                 "malId": 92194,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-mh952616"
             }
         },
-        "MangaFire": {
-            "chikotan-kowareru.yqmzz": {
-                "identifier": "chikotan-kowareru.yqmzz",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21b09ec06bd40d6998ed650a478a0c09.jpg",
-                "malId": 92194,
-                "aniId": 99773,
-                "page": "MangaFire",
-                "title": "Chikotan, Kowareru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikotan-kowareru.yqmzz/"
-            },
-            "chikotan-kowareruu.yqmzz": {
-                "identifier": "chikotan-kowareruu.yqmzz",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21b09ec06bd40d6998ed650a478a0c09.jpg",
-                "malId": 92194,
-                "aniId": 99773,
-                "page": "MangaFire",
-                "title": "Chikotan, Kowareru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikotan-kowareruu.yqmzz/"
-            },
-            "yqmzz": {
-                "identifier": "yqmzz",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21b09ec06bd40d6998ed650a478a0c09.jpg",
-                "malId": 92194,
-                "aniId": 99773,
-                "page": "MangaFire",
-                "title": "Chikotan, Kowareru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikotan-kowareru.yqmzz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybekdkkt78ksaqbrp0a3": {
+                "id": 212966,
                 "identifier": "01j76xybekdkkt78ksaqbrp0a3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEKDKKT78KSAQBRP0A3.jpg",
                 "malId": 92194,
@@ -96,6 +69,19 @@
                 "title": "Chikotan, Kowareru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEKDKKT78KSAQBRP0A3"
+            }
+        },
+        "MangaFire": {
+            "yqmzz": {
+                "id": 260039,
+                "identifier": "yqmzz",
+                "image": "https://static.mangafire.to/f312/i/2/21/21b09ec06bd40d6998ed650a478a0c09.jpg",
+                "malId": 92194,
+                "aniId": 99773,
+                "page": "MangaFire",
+                "title": "Chikotan, Kowareru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chikotan-kowareruu.yqmzz"
             }
         },
         "Comick": {

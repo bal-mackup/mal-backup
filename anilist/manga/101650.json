@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "11957b6b-a544-4d7b-bbb1-16f074d83be6": {
+                "id": 18062,
                 "identifier": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
                 "image": "https://uploads.mangadex.org/covers/11957b6b-a544-4d7b-bbb1-16f074d83be6/f3870ddd-b521-427f-9879-3fd6eb5601cf.jpg",
                 "malId": 112511,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cold-game": {
+                "id": 60618,
                 "identifier": "cold-game",
                 "image": "https://temp.compsci88.com/cover/Cold-Game.jpg",
                 "malId": 112511,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "cold_game": {
+                "id": 68283,
                 "identifier": "cold_game",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27950/cover.jpg",
                 "malId": 112511,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bm979269": {
+                "id": 87318,
                 "identifier": "manga-bm979269",
                 "image": "https://avt.mkklcdnv6temp.com/35/c/16-1583494730.jpg",
                 "malId": 112511,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bm979269"
             }
         },
-        "MangaFire": {
-            "cold-game.9ol7m": {
-                "identifier": "cold-game.9ol7m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c48aedb3d389f3792217c7f4090b1d1.jpg",
-                "malId": 112511,
-                "aniId": 101650,
-                "page": "MangaFire",
-                "title": "Cold Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cold-game.9ol7m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfvtarwm7kftmr76cdw": {
+                "id": 212683,
                 "identifier": "01j76xycfvtarwm7kftmr76cdw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFVTARWM7KFTMR76CDW.jpg",
                 "malId": 112511,
@@ -76,6 +69,19 @@
                 "title": "Cold Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFVTARWM7KFTMR76CDW"
+            }
+        },
+        "MangaFire": {
+            "9ol7m": {
+                "id": 247316,
+                "identifier": "9ol7m",
+                "image": "https://static.mangafire.to/048e/i/9/9c/9c48aedb3d389f3792217c7f4090b1d1.jpg",
+                "malId": 112511,
+                "aniId": 101650,
+                "page": "MangaFire",
+                "title": "Cold Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cold-gamee.9ol7m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "559be949-4475-4f06-b8bf-a1a7343489bc": {
+                "id": 38361,
                 "identifier": "559be949-4475-4f06-b8bf-a1a7343489bc",
                 "image": "https://uploads.mangadex.org/covers/559be949-4475-4f06-b8bf-a1a7343489bc/9f02c4ed-0c65-4a1f-b705-1318fd18d654.jpg",
                 "malId": 130798,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "her_majesty_s_swarm": {
+                "id": 54985,
                 "identifier": "her_majesty_s_swarm",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35602/cover.jpg",
                 "malId": 130798,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "her-majestys-swarm": {
+                "id": 55580,
                 "identifier": "her-majestys-swarm",
                 "image": "https://temp.compsci88.com/cover/Her-Majestys-Swarm.jpg",
                 "malId": 130798,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ju986403": {
+                "id": 76228,
                 "identifier": "manga-ju986403",
                 "image": "https://avt.mkklcdnv6temp.com/5/n/22-1598679147.jpg",
                 "malId": 130798,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ju986403"
             }
         },
-        "MangaFire": {
-            "her-majestys-swarmm.k48v": {
-                "identifier": "her-majestys-swarmm.k48v",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1ffd6119069da7f72053e55a96cc554f.jpg",
-                "malId": 130798,
-                "aniId": 123261,
-                "page": "MangaFire",
-                "title": "Her Majesty’s Swarm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/her-majestys-swarmm.k48v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydz2r69yf7he3kmwybr3": {
+                "id": 207065,
                 "identifier": "01j76xydz2r69yf7he3kmwybr3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZ2R69YF7HE3KMWYBR3.jpg",
                 "malId": 130798,
@@ -76,6 +69,19 @@
                 "title": "Her Majesty's Swarm",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZ2R69YF7HE3KMWYBR3"
+            }
+        },
+        "MangaFire": {
+            "k48v": {
+                "id": 228280,
+                "identifier": "k48v",
+                "image": "https://static.mangafire.to/8492/i/1/1f/1ffd6119069da7f72053e55a96cc554f.jpg",
+                "malId": 130798,
+                "aniId": 123261,
+                "page": "MangaFire",
+                "title": "Her Majesty’s Swarm",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/her-majestys-swarmm.k48v"
             }
         },
         "Comick": {

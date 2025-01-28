@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "25ce6f0e-51ae-467e-8519-fe90060586dc": {
+                "id": 65287,
                 "identifier": "25ce6f0e-51ae-467e-8519-fe90060586dc",
                 "image": "https://uploads.mangadex.org/covers/25ce6f0e-51ae-467e-8519-fe90060586dc/31cff245-4c44-4c04-bce7-422bca198bff.jpg",
                 "malId": 147574,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ls988501": {
+                "id": 74131,
                 "identifier": "manga-ls988501",
                 "image": "https://avt.mkklcdnv6temp.com/41/k/23-1615772638.jpg",
                 "malId": 147574,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-ls988501"
             },
             "manga-mj989544": {
+                "id": 85876,
                 "identifier": "manga-mj989544",
                 "image": "https://avt.mkklcdnv6temp.com/35/v/24-1629474320.jpg",
                 "malId": 147574,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "from-a-knight-to-a-lady": {
+                "id": 87101,
                 "identifier": "from-a-knight-to-a-lady",
                 "image": "https://temp.compsci88.com/cover/From-a-Knight-to-a-Lady.jpg",
                 "malId": 147574,
@@ -54,6 +58,7 @@
         },
         "Weebcentral": {
             "01j76xyf1d3m4mgrj5s4h21s6q": {
+                "id": 208134,
                 "identifier": "01j76xyf1d3m4mgrj5s4h21s6q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF1D3M4MGRJ5S4H21S6Q.jpg",
                 "malId": 147574,
@@ -64,20 +69,9 @@
                 "url": "https://weebcentral.com/series/01J76XYF1D3M4MGRJ5S4H21S6Q"
             }
         },
-        "MangaFire": {
-            "from-a-knight-to-a-ladyy.377x2": {
-                "identifier": "from-a-knight-to-a-ladyy.377x2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/2318084eac60a70e506f50edc9b47813.jpg",
-                "malId": 147574,
-                "aniId": 131376,
-                "page": "MangaFire",
-                "title": "From a Knight to a Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/from-a-knight-to-a-ladyy.377x2/"
-            }
-        },
         "MangaFox": {
             "from_a_knight_to_a_lady": {
+                "id": 221871,
                 "identifier": "from_a_knight_to_a_lady",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40297/cover.jpg",
                 "malId": 147574,
@@ -86,6 +80,19 @@
                 "title": "From a Knight to a Lady",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/from_a_knight_to_a_lady/"
+            }
+        },
+        "MangaFire": {
+            "377x2": {
+                "id": 260892,
+                "identifier": "377x2",
+                "image": "https://static.mangafire.to/5f77/i/2/23/2318084eac60a70e506f50edc9b47813.jpg",
+                "malId": 147574,
+                "aniId": 131376,
+                "page": "MangaFire",
+                "title": "From a Knight to a Lady",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/from-a-knight-to-a-ladyy.377x2"
             }
         },
         "Comick": {

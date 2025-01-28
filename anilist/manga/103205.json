@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "1c575d9c-d326-43fa-b22a-5fccee6ef4eb": {
+                "id": 23019,
                 "identifier": "1c575d9c-d326-43fa-b22a-5fccee6ef4eb",
-                "image": "https://uploads.mangadex.org/covers/1c575d9c-d326-43fa-b22a-5fccee6ef4eb/febc45f2-d2af-4d1a-b808-cb0b330e1374.jpg",
+                "image": "https://uploads.mangadex.org/covers/1c575d9c-d326-43fa-b22a-5fccee6ef4eb/8a1d1751-5f98-4fd0-a3d6-5bcb071f543e.jpg",
                 "malId": 115396,
                 "aniId": 103205,
                 "page": "Mangadex",
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/1c575d9c-d326-43fa-b22a-5fccee6ef4eb"
             }
         },
-        "MangaFire": {
-            "kanojo-wa-otou-san.6l957": {
-                "identifier": "kanojo-wa-otou-san.6l957",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/25ef3022e1a086cfef72cf9108c7e2f0.jpg",
-                "malId": 115396,
-                "aniId": 103205,
-                "page": "MangaFire",
-                "title": "Kanojo wa Otou-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-wa-otou-san.6l957/"
-            },
-            "kanojo-wa-otou-sann.6l957": {
-                "identifier": "kanojo-wa-otou-sann.6l957",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/25ef3022e1a086cfef72cf9108c7e2f0.jpg",
-                "malId": 115396,
-                "aniId": 103205,
-                "page": "MangaFire",
-                "title": "Kanojo wa Otou-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-wa-otou-sann.6l957/"
-            }
-        },
         "MangaNato": {
             "manga-ba979309": {
+                "id": 186870,
                 "identifier": "manga-ba979309",
                 "image": "https://avt.mkklcdnv6temp.com/fld/84/b/8-1732791646-nw.webp",
                 "malId": 115396,
@@ -50,6 +30,19 @@
                 "title": "My Girlfriend Is Her Dad",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ba979309"
+            }
+        },
+        "MangaFire": {
+            "6l957": {
+                "id": 255887,
+                "identifier": "6l957",
+                "image": "https://static.mangafire.to/7890/i/2/25/25ef3022e1a086cfef72cf9108c7e2f0.jpg",
+                "malId": 115396,
+                "aniId": 103205,
+                "page": "MangaFire",
+                "title": "Kanojo wa Otou-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-wa-otou-sann.6l957"
             }
         },
         "Comick": {

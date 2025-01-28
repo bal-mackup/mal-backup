@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0123dd7a-8fb9-4004-a001-787598f93d38": {
+                "id": 15599,
                 "identifier": "0123dd7a-8fb9-4004-a001-787598f93d38",
                 "image": "https://uploads.mangadex.org/covers/0123dd7a-8fb9-4004-a001-787598f93d38/a1763635-91da-4535-a9d4-ca9fa3e9783f.jpg",
                 "malId": 98034,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nanashi-no-asterism": {
+                "id": 69822,
                 "identifier": "nanashi-no-asterism",
                 "image": "https://temp.compsci88.com/cover/Nanashi-No-Asterism.jpg",
                 "malId": 98034,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tw971131": {
+                "id": 75132,
                 "identifier": "manga-tw971131",
                 "image": "https://avt.mkklcdnv6temp.com/39/w/13-1583489230.jpg",
                 "malId": 98034,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-tw971131"
             }
         },
-        "MangaFire": {
-            "nanashi-no-asterism.74k1": {
-                "identifier": "nanashi-no-asterism.74k1",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/caccd82486e474b31fbb4321d89a11ee.jpg",
-                "malId": 98034,
-                "aniId": 97127,
-                "page": "MangaFire",
-                "title": "Nameless Asterism",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanashi-no-asterism.74k1/"
-            },
-            "74k1": {
-                "identifier": "74k1",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/caccd82486e474b31fbb4321d89a11ee.jpg",
-                "malId": 98034,
-                "aniId": 97127,
-                "page": "MangaFire",
-                "title": "Nameless Asterism",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanashi-no-asterism.74k1/"
-            }
-        },
         "MangaFox": {
             "nanashi_no_asterism": {
+                "id": 165326,
                 "identifier": "nanashi_no_asterism",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19805/cover.jpg",
                 "malId": 98034,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xybyef14gv89d89c5hdzq": {
+                "id": 212272,
                 "identifier": "01j76xybyef14gv89d89c5hdzq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYEF14GV89D89C5HDZQ.jpg",
                 "malId": 98034,
@@ -86,6 +69,19 @@
                 "title": "Nameless Asterism",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYEF14GV89D89C5HDZQ"
+            }
+        },
+        "MangaFire": {
+            "74k1": {
+                "id": 250955,
+                "identifier": "74k1",
+                "image": "https://static.mangafire.to/d187/i/c/ca/caccd82486e474b31fbb4321d89a11ee.jpg",
+                "malId": 98034,
+                "aniId": 97127,
+                "page": "MangaFire",
+                "title": "Nameless Asterism",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nanashi-no-asterismm.74k1"
             }
         },
         "Comick": {

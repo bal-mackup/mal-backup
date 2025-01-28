@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "de2fd373-31ea-4239-9d97-b1b8b10943b1": {
+                "id": 24624,
                 "identifier": "de2fd373-31ea-4239-9d97-b1b8b10943b1",
                 "image": "https://uploads.mangadex.org/covers/de2fd373-31ea-4239-9d97-b1b8b10943b1/4fe56665-17ff-441b-88d4-7fe29747f31b.jpg",
                 "malId": 117632,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "strike-or-gutter": {
+                "id": 68660,
                 "identifier": "strike-or-gutter",
                 "image": "https://temp.compsci88.com/cover/Strike-or-Gutter.jpg",
                 "malId": 117632,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dg980941": {
+                "id": 75848,
                 "identifier": "manga-dg980941",
                 "image": "https://avt.mkklcdnv6temp.com/47/b/17-1583496960.jpg",
                 "malId": 117632,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-dg980941"
             }
         },
-        "MangaFire": {
-            "strike-or-gutter.yk4xp": {
-                "identifier": "strike-or-gutter.yk4xp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12486c74b0002232de0f015822cc679b.jpg",
-                "malId": 117632,
-                "aniId": 107379,
-                "page": "MangaFire",
-                "title": "Strike or Gutter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strike-or-gutter.yk4xp/"
-            },
-            "strike-or-gutterr.yk4xp": {
-                "identifier": "strike-or-gutterr.yk4xp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12486c74b0002232de0f015822cc679b.jpg",
-                "malId": 117632,
-                "aniId": 107379,
-                "page": "MangaFire",
-                "title": "Strike or Gutter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strike-or-gutterr.yk4xp/"
-            },
-            "yk4xp": {
-                "identifier": "yk4xp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12486c74b0002232de0f015822cc679b.jpg",
-                "malId": 117632,
-                "aniId": 107379,
-                "page": "MangaFire",
-                "title": "Strike or Gutter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/strike-or-gutterr.yk4xp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydm94a9ef1xn7dtkm8y2": {
+                "id": 207834,
                 "identifier": "01j76xydm94a9ef1xn7dtkm8y2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDM94A9EF1XN7DTKM8Y2.jpg",
                 "malId": 117632,
@@ -84,6 +56,19 @@
                 "title": "Strike or Gutter",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDM94A9EF1XN7DTKM8Y2"
+            }
+        },
+        "MangaFire": {
+            "yk4xp": {
+                "id": 225991,
+                "identifier": "yk4xp",
+                "image": "https://static.mangafire.to/0a99/i/1/12/12486c74b0002232de0f015822cc679b.jpg",
+                "malId": 117632,
+                "aniId": 107379,
+                "page": "MangaFire",
+                "title": "Strike or Gutter",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/strike-or-gutterr.yk4xp"
             }
         },
         "Comick": {

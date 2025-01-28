@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-ro994597": {
+                "id": 125921,
                 "identifier": "manga-ro994597",
                 "image": "https://avt.mkklcdnv6temp.com/44/g/28-1677643929.jpg",
                 "malId": 156735,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "81efb7a4-6f66-4072-a5a9-f95e614367b3": {
+                "id": 126156,
                 "identifier": "81efb7a4-6f66-4072-a5a9-f95e614367b3",
                 "image": "https://uploads.mangadex.org/covers/81efb7a4-6f66-4072-a5a9-f95e614367b3/b80ccecc-d0fc-4064-9bf3-7278ccffa9a1.png",
                 "malId": 156735,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/81efb7a4-6f66-4072-a5a9-f95e614367b3"
             }
         },
-        "MangaFire": {
-            "medicine-genius-wizard.rj7mq": {
-                "identifier": "medicine-genius-wizard.rj7mq",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a91264c936feba460fb686eb0f788df1.jpg",
-                "malId": 156735,
-                "aniId": 162190,
-                "page": "MangaFire",
-                "title": "The Genius Medicinal Mage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/medicine-genius-wizard.rj7mq/"
-            },
-            "medicine-genius-wizardd.rj7mq": {
-                "identifier": "medicine-genius-wizardd.rj7mq",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a91264c936feba460fb686eb0f788df1.jpg",
-                "malId": 156735,
-                "aniId": 162190,
-                "page": "MangaFire",
-                "title": "The Genius Medicinal Mage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/medicine-genius-wizardd.rj7mq/"
-            }
-        },
         "MangaSee": {
             "drug-eating-genius-mage": {
+                "id": 161508,
                 "identifier": "drug-eating-genius-mage",
                 "image": "https://temp.compsci88.com/cover/Drug-Eating-Genius-Mage.jpg",
                 "malId": 156735,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg90z7yfjrdyrkpq47h2": {
+                "id": 213596,
                 "identifier": "01j76xyg90z7yfjrdyrkpq47h2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG90Z7YFJRDYRKPQ47H2.jpg",
                 "malId": 156735,
@@ -74,6 +56,19 @@
                 "title": "Drug-Eating Genius Mage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG90Z7YFJRDYRKPQ47H2"
+            }
+        },
+        "MangaFire": {
+            "rj7mq": {
+                "id": 228196,
+                "identifier": "rj7mq",
+                "image": "https://static.mangafire.to/4127/i/a/a9/a91264c936feba460fb686eb0f788df1.jpg",
+                "malId": 156735,
+                "aniId": 162190,
+                "page": "MangaFire",
+                "title": "The Genius Medicinal Mage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/medicine-genius-wizardd.rj7mq"
             }
         },
         "Comick": {

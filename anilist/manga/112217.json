@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "78ccd6df-51db-46d2-8f9f-1a55a13bfac2": {
+                "id": 58668,
                 "identifier": "78ccd6df-51db-46d2-8f9f-1a55a13bfac2",
                 "image": "https://uploads.mangadex.org/covers/78ccd6df-51db-46d2-8f9f-1a55a13bfac2/24823751-53a8-49af-ae22-3c7033f87ada.jpg",
                 "malId": 123608,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "chuu_boss_san_level_99_saikyou_no_buka_tachi_to_tomo_ni_nishuume_totsunyuu": {
+                "id": 59062,
                 "identifier": "chuu_boss_san_level_99_saikyou_no_buka_tachi_to_tomo_ni_nishuume_totsunyuu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37301/cover.jpg",
                 "malId": 123608,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "chuu-boss-san-level-99-saikyou-no-bukatachi-to-tomo-ni-nishuume-totsunyuu": {
+                "id": 64719,
                 "identifier": "chuu-boss-san-level-99-saikyou-no-bukatachi-to-tomo-ni-nishuume-totsunyuu",
                 "image": "https://temp.compsci88.com/cover/Chuu-Boss-san-Level-99-Saikyou-no-Bukatachi-to-Tomo-ni-Nishuume-Totsunyuu.jpg",
                 "malId": 123608,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kv988004": {
+                "id": 79191,
                 "identifier": "manga-kv988004",
                 "image": "https://avt.mkklcdnv6temp.com/20/y/23-1612573620.jpg",
                 "malId": 123608,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-kv988004"
             }
         },
-        "MangaFire": {
-            "chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuu.rly2p": {
-                "identifier": "chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuu.rly2p",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc9127d96d42bc6f455807c7b865bb65.jpg",
-                "malId": 123608,
-                "aniId": 112217,
-                "page": "MangaFire",
-                "title": "The Middle Manager Lv.99 Stars His Second Life With His Best Team!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuu.rly2p/"
-            },
-            "chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuuu.rly2p": {
-                "identifier": "chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuuu.rly2p",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc9127d96d42bc6f455807c7b865bb65.jpg",
-                "malId": 123608,
-                "aniId": 112217,
-                "page": "MangaFire",
-                "title": "The Middle Manager Lv.99 Stars His Second Life With His Best Team!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuuu.rly2p/"
-            }
-        },
         "Weebcentral": {
             "01j76xyec9v0ax5kbrgkkcy7kn": {
+                "id": 212860,
                 "identifier": "01j76xyec9v0ax5kbrgkkcy7kn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEC9V0AX5KBRGKKCY7KN.jpg",
                 "malId": 123608,
@@ -86,6 +69,19 @@
                 "title": "Chuu Boss-san Level 99, Saikyou no Buka-tachi to Tomo ni Nishuume Totsunyuu!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEC9V0AX5KBRGKKCY7KN"
+            }
+        },
+        "MangaFire": {
+            "rly2p": {
+                "id": 225465,
+                "identifier": "rly2p",
+                "image": "https://static.mangafire.to/4664/i/b/bc/bc9127d96d42bc6f455807c7b865bb65.jpg",
+                "malId": 123608,
+                "aniId": 112217,
+                "page": "MangaFire",
+                "title": "The Middle Manager Lv.99 Stars His Second Life With His Best Team!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chu-boss-san-level-99-saikyou-no-buka-tachi-to-tomo-ni-nishuume-totsunyuuu.rly2p"
             }
         },
         "Comick": {

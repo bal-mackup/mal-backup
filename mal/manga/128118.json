@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "174c8745-af83-4a7d-bd20-3c1f9abc5f5d": {
+                "id": 35766,
                 "identifier": "174c8745-af83-4a7d-bd20-3c1f9abc5f5d",
                 "image": "https://uploads.mangadex.org/covers/174c8745-af83-4a7d-bd20-3c1f9abc5f5d/92e77bf6-9a8b-4e77-af5f-bfd4fccdf946.jpg",
                 "malId": 128118,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sugar-dog-life": {
+                "id": 92462,
                 "identifier": "sugar-dog-life",
                 "image": "https://temp.compsci88.com/cover/Sugar-Dog-Life.jpg",
                 "malId": 128118,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sugar_dog_life": {
+                "id": 95474,
                 "identifier": "sugar_dog_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33993/cover.jpg",
                 "malId": 128118,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/sugar_dog_life/"
             }
         },
-        "MangaFire": {
-            "sugar-dog-life.mqq2v": {
-                "identifier": "sugar-dog-life.mqq2v",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/87f61ce67f0438ebbfdb6cd1524becab.jpg",
-                "malId": 128118,
-                "aniId": 119462,
-                "page": "MangaFire",
-                "title": "Sugar Dog Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sugar-dog-life.mqq2v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf6a8qtn2c2pe5y381gh": {
+                "id": 207648,
                 "identifier": "01j76xyf6a8qtn2c2pe5y381gh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF6A8QTN2C2PE5Y381GH.jpg",
                 "malId": 128118,
@@ -64,6 +56,19 @@
                 "title": "Sugar Dog Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF6A8QTN2C2PE5Y381GH"
+            }
+        },
+        "MangaFire": {
+            "mqq2v": {
+                "id": 248632,
+                "identifier": "mqq2v",
+                "image": "https://static.mangafire.to/6973/i/8/87/87f61ce67f0438ebbfdb6cd1524becab.jpg",
+                "malId": 128118,
+                "aniId": 119462,
+                "page": "MangaFire",
+                "title": "Sugar Dog Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sugar-dog-lifee.mqq2v"
             }
         }
     },

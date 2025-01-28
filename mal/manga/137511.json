@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "415a3211-c660-4fcc-8c5a-3f22bf2657b7": {
+                "id": 90852,
                 "identifier": "415a3211-c660-4fcc-8c5a-3f22bf2657b7",
                 "image": "https://uploads.mangadex.org/covers/415a3211-c660-4fcc-8c5a-3f22bf2657b7/711d6513-871c-48c1-af52-8f1a26c27da4.jpg",
                 "malId": 137511,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ingoku-danchi": {
+                "id": 92436,
                 "identifier": "ingoku-danchi",
                 "image": "https://temp.compsci88.com/cover/Ingoku-Danchi.jpg",
                 "malId": 137511,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ingoku_danchi": {
+                "id": 105832,
                 "identifier": "ingoku_danchi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39989/cover.jpg",
                 "malId": 137511,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-nw991105": {
+                "id": 108097,
                 "identifier": "manga-nw991105",
                 "image": "https://avt.mkklcdnv6temp.com/1/n/25-1654741164.jpg",
                 "malId": 137511,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-nw991105"
             }
         },
-        "MangaFire": {
-            "ingoku-danchi.ll1k6": {
-                "identifier": "ingoku-danchi.ll1k6",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/35044cf0b0859ea9ca42a011090228a4.jpg",
-                "malId": 137511,
-                "aniId": 135523,
-                "page": "MangaFire",
-                "title": "Ingoku Danchi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ingoku-danchi.ll1k6/"
-            },
-            "ingoku-danchii.ll1k6": {
-                "identifier": "ingoku-danchii.ll1k6",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/35044cf0b0859ea9ca42a011090228a4.jpg",
-                "malId": 137511,
-                "aniId": 135523,
-                "page": "MangaFire",
-                "title": "Ingoku Danchi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ingoku-danchii.ll1k6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf7f82j6d669x88f52ws": {
+                "id": 206752,
                 "identifier": "01j76xyf7f82j6d669x88f52ws",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF7F82J6D669X88F52WS.jpg",
                 "malId": 137511,
@@ -86,6 +69,19 @@
                 "title": "Ingoku Danchi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF7F82J6D669X88F52WS"
+            }
+        },
+        "MangaFire": {
+            "ll1k6": {
+                "id": 263452,
+                "identifier": "ll1k6",
+                "image": "https://static.mangafire.to/b574/i/3/35/35044cf0b0859ea9ca42a011090228a4.jpg",
+                "malId": 137511,
+                "aniId": 135523,
+                "page": "MangaFire",
+                "title": "Ingoku Danchi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ingoku-danchii.ll1k6"
             }
         },
         "Comick": {

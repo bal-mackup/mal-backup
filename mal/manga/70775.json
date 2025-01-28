@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9c59841-3386-4cbb-a581-b4e250cdc4ac": {
+                "id": 10509,
                 "identifier": "e9c59841-3386-4cbb-a581-b4e250cdc4ac",
                 "image": "https://uploads.mangadex.org/covers/e9c59841-3386-4cbb-a581-b4e250cdc4ac/91510393-238d-4741-9e61-ad3679e52ef9.jpg",
                 "malId": 70775,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "youkai-shoujo-monsuga": {
+                "id": 58710,
                 "identifier": "youkai-shoujo-monsuga",
                 "image": "https://temp.compsci88.com/cover/Youkai-Shoujo-Monsuga.jpg",
                 "malId": 70775,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "youkai_shoujo_monsuga": {
+                "id": 62409,
                 "identifier": "youkai_shoujo_monsuga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13789/cover.jpg",
                 "malId": 70775,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-nd952712": {
+                "id": 77227,
                 "identifier": "manga-nd952712",
                 "image": "https://avt.mkklcdnv6temp.com/49/a/1-1583465640.jpg",
                 "malId": 70775,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-nd952712"
             }
         },
-        "MangaFire": {
-            "youkai-shoujo-monsuga.4nko": {
-                "identifier": "youkai-shoujo-monsuga.4nko",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a997e961c84c9a49a6bb9be3e0b6cfa8.jpg",
-                "malId": 70775,
-                "aniId": 85369,
-                "page": "MangaFire",
-                "title": "Yokai Girls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/youkai-shoujo-monsuga.4nko/"
-            },
-            "youkai-shoujo-monsugaa.4nko": {
-                "identifier": "youkai-shoujo-monsugaa.4nko",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a997e961c84c9a49a6bb9be3e0b6cfa8.jpg",
-                "malId": 70775,
-                "aniId": 85369,
-                "page": "MangaFire",
-                "title": "Yokai Girls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/youkai-shoujo-monsugaa.4nko/"
-            }
-        },
         "Weebcentral": {
             "01j76xya5ttvbhngjgfrm32551": {
+                "id": 208945,
                 "identifier": "01j76xya5ttvbhngjgfrm32551",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA5TTVBHNGJGFRM32551.jpg",
                 "malId": 70775,
@@ -86,6 +69,19 @@
                 "title": "Yokai Girls",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA5TTVBHNGJGFRM32551"
+            }
+        },
+        "MangaFire": {
+            "4nko": {
+                "id": 231237,
+                "identifier": "4nko",
+                "image": "https://static.mangafire.to/4cae/i/a/a9/a997e961c84c9a49a6bb9be3e0b6cfa8.jpg",
+                "malId": 70775,
+                "aniId": 85369,
+                "page": "MangaFire",
+                "title": "Yokai Girls",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/youkai-shoujo-monsugaa.4nko"
             }
         },
         "Comick": {

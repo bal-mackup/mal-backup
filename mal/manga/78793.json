@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b9370e9a-ed6e-4ad9-a28c-a122ba96a9f9": {
+                "id": 11341,
                 "identifier": "b9370e9a-ed6e-4ad9-a28c-a122ba96a9f9",
                 "image": "https://uploads.mangadex.org/covers/b9370e9a-ed6e-4ad9-a28c-a122ba96a9f9/1355afc4-800c-42a3-9a24-c6bce4ee62a5.jpg",
                 "malId": 78793,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "takahashi-san-ga-kiite-iru": {
+                "id": 118851,
                 "identifier": "takahashi-san-ga-kiite-iru",
                 "image": "https://temp.compsci88.com/cover/Takahashi-San-Ga-Kiite-Iru.jpg",
                 "malId": 78793,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "takahashi_san_ga_kiite_iru": {
+                "id": 123875,
                 "identifier": "takahashi_san_ga_kiite_iru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14335/cover.jpg",
                 "malId": 78793,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/takahashi_san_ga_kiite_iru/"
             }
         },
-        "MangaFire": {
-            "takahashi-san-ga-kiite-iru.w1xv6": {
-                "identifier": "takahashi-san-ga-kiite-iru.w1xv6",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e73dcbbc601a529708c39d2721830805.jpg",
-                "malId": 78793,
-                "aniId": 85994,
-                "page": "MangaFire",
-                "title": "Takahashi-san is listening",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takahashi-san-ga-kiite-iru.w1xv6/"
-            },
-            "takahashi-san-ga-kiite-iruu.w1xv6": {
-                "identifier": "takahashi-san-ga-kiite-iruu.w1xv6",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e73dcbbc601a529708c39d2721830805.jpg",
-                "malId": 78793,
-                "aniId": 85994,
-                "page": "MangaFire",
-                "title": "Takahashi-san is listening",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takahashi-san-ga-kiite-iruu.w1xv6/"
-            },
-            "w1xv6": {
-                "identifier": "w1xv6",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e7/e73dcbbc601a529708c39d2721830805.jpg",
-                "malId": 78793,
-                "aniId": 85994,
-                "page": "MangaFire",
-                "title": "Takahashi-san is listening",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takahashi-san-ga-kiite-iruu.w1xv6/"
-            }
-        },
         "MangaNato": {
             "manga-zn951870": {
+                "id": 157877,
                 "identifier": "manga-zn951870",
                 "image": "https://avt.mkklcdnv6temp.com/fld/22/h/1-1732717246-nw.webp",
                 "malId": 78793,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyb6wf90epkr8n3prgpb1": {
+                "id": 208330,
                 "identifier": "01j76xyb6wf90epkr8n3prgpb1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6WF90EPKR8N3PRGPB1.jpg",
                 "malId": 78793,
@@ -96,6 +69,19 @@
                 "title": "Takahashi-san ga Kiite Iru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6WF90EPKR8N3PRGPB1"
+            }
+        },
+        "MangaFire": {
+            "w1xv6": {
+                "id": 226634,
+                "identifier": "w1xv6",
+                "image": "https://static.mangafire.to/8113/i/e/e7/e73dcbbc601a529708c39d2721830805.jpg",
+                "malId": 78793,
+                "aniId": 85994,
+                "page": "MangaFire",
+                "title": "Takahashi-san is listening",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/takahashi-san-ga-kiite-iruu.w1xv6"
             }
         },
         "Comick": {

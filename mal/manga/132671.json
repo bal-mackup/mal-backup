@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8456d1a6-11af-4f8a-a8cb-c87133e48201": {
+                "id": 105235,
                 "identifier": "8456d1a6-11af-4f8a-a8cb-c87133e48201",
                 "image": "https://uploads.mangadex.org/covers/8456d1a6-11af-4f8a-a8cb-c87133e48201/0861e540-f9a7-4467-92c1-65ff4600c038.png",
                 "malId": 132671,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-liminal-zone": {
+                "id": 112394,
                 "identifier": "the-liminal-zone",
                 "image": "https://temp.compsci88.com/cover/The-Liminal-Zone.jpg",
                 "malId": 132671,
@@ -30,32 +32,11 @@
                 "url": "https://mangasee123.com/manga/The-Liminal-Zone"
             }
         },
-        "MangaFire": {
-            "genkai-chitai.lnzm": {
-                "identifier": "genkai-chitai.lnzm",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f0/f049e6d410865883fc3cef7bf9d02fd0.jpg",
-                "malId": 132671,
-                "aniId": 120031,
-                "page": "MangaFire",
-                "title": "The Liminal Zone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkai-chitai.lnzm/"
-            },
-            "genkai-chitai2.ykrwj": {
-                "identifier": "genkai-chitai2.ykrwj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/003e505230289391246a94b42f2779a7.jpg",
-                "malId": 132671,
-                "aniId": 120031,
-                "page": "MangaFire",
-                "title": "Genkai Chitai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genkai-chitai2.ykrwj/"
-            }
-        },
         "MangaNato": {
             "manga-wk1000319": {
+                "id": 188905,
                 "identifier": "manga-wk1000319",
-                "image": "https://avt.mkklcdnv6temp.com/22/l/33-1705289598.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/64/n/16-1733317791-nw.webp",
                 "malId": 132671,
                 "aniId": 120031,
                 "page": "MangaNato",
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfj6c300zk3m2tm2tsnz": {
+                "id": 206400,
                 "identifier": "01j76xyfj6c300zk3m2tm2tsnz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFJ6C300ZK3M2TM2TSNZ.jpg",
                 "malId": 132671,
@@ -74,6 +56,30 @@
                 "title": "The Liminal Zone",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFJ6C300ZK3M2TM2TSNZ"
+            }
+        },
+        "MangaFire": {
+            "lnzm": {
+                "id": 230512,
+                "identifier": "lnzm",
+                "image": "https://static.mangafire.to/0c87/i/f/f0/f049e6d410865883fc3cef7bf9d02fd0.jpg",
+                "malId": 132671,
+                "aniId": 120031,
+                "page": "MangaFire",
+                "title": "The Liminal Zone",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genkai-chitaii.lnzm"
+            },
+            "ykrwj": {
+                "id": 242268,
+                "identifier": "ykrwj",
+                "image": "https://static.mangafire.to/e6bf/i/0/00/003e505230289391246a94b42f2779a7.jpg",
+                "malId": 132671,
+                "aniId": 120031,
+                "page": "MangaFire",
+                "title": "Genkai Chitai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genkai-chitai22.ykrwj"
             }
         },
         "Comick": {

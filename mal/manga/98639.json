@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7c418a1c-9241-451e-995a-31f673b4340a": {
+                "id": 15985,
                 "identifier": "7c418a1c-9241-451e-995a-31f673b4340a",
                 "image": "https://uploads.mangadex.org/covers/7c418a1c-9241-451e-995a-31f673b4340a/a4e7a5e7-9ca5-47b2-97f0-53143435c4cf.jpg",
                 "malId": 98639,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "maou-jou-de-oyasumi": {
+                "id": 54534,
                 "identifier": "maou-jou-de-oyasumi",
                 "image": "https://temp.compsci88.com/cover/Maou-Jou-De-Oyasumi.jpg",
                 "malId": 98639,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "maou_jou_de_oyasumi": {
+                "id": 59637,
                 "identifier": "maou_jou_de_oyasumi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20655/cover.jpg",
                 "malId": 98639,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uq971925": {
+                "id": 73703,
                 "identifier": "manga-uq971925",
                 "image": "https://avt.mkklcdnv6temp.com/4/i/14-1583489841.jpg",
                 "malId": 98639,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-uq971925"
             }
         },
-        "MangaFire": {
-            "maou-jou-de-oyasumi.xr618": {
-                "identifier": "maou-jou-de-oyasumi.xr618",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/3fe19e9d6882b7ebce1596346894d6bb.jpg",
-                "malId": 98639,
-                "aniId": 87510,
-                "page": "MangaFire",
-                "title": "Sleepy Princess in the Demon Castle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maou-jou-de-oyasumi.xr618/"
-            },
-            "Sleepy-Princess-in-the-Demon-Castle.xr618": {
-                "identifier": "Sleepy-Princess-in-the-Demon-Castle.xr618",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/3fe19e9d6882b7ebce1596346894d6bb.jpg",
-                "malId": 98639,
-                "aniId": 87510,
-                "page": "MangaFire",
-                "title": "Sleepy Princess in the Demon Castle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Sleepy-Princess-in-the-Demon-Castle.xr618/"
-            },
-            "maou-jou-de-oyasumii.xr618": {
-                "identifier": "maou-jou-de-oyasumii.xr618",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/3fe19e9d6882b7ebce1596346894d6bb.jpg",
-                "malId": 98639,
-                "aniId": 87510,
-                "page": "MangaFire",
-                "title": "Sleepy Princess in the Demon Castle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maou-jou-de-oyasumii.xr618/"
-            }
-        },
         "Weebcentral": {
             "01j76xybwn9mga6h8tdpszwcsr": {
+                "id": 206270,
                 "identifier": "01j76xybwn9mga6h8tdpszwcsr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBWN9MGA6H8TDPSZWCSR.jpg",
                 "malId": 98639,
@@ -96,6 +69,19 @@
                 "title": "Sleepy Princess in the Demon Castle",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBWN9MGA6H8TDPSZWCSR"
+            }
+        },
+        "MangaFire": {
+            "xr618": {
+                "id": 223918,
+                "identifier": "xr618",
+                "image": "https://static.mangafire.to/7a6a/i/8/84/3fe19e9d6882b7ebce1596346894d6bb.jpg",
+                "malId": 98639,
+                "aniId": 87510,
+                "page": "MangaFire",
+                "title": "Sleepy Princess in the Demon Castle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maou-jou-de-oyasumii.xr618"
             }
         },
         "Comick": {

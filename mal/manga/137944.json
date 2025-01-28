@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "box-of-light": {
+                "id": 116137,
                 "identifier": "box-of-light",
                 "image": "https://temp.compsci88.com/cover/Box-of-Light.jpg",
                 "malId": 137944,
@@ -20,6 +21,7 @@
         },
         "Weebcentral": {
             "01j76xyfpma8tr99zn6kajgbrb": {
+                "id": 211614,
                 "identifier": "01j76xyfpma8tr99zn6kajgbrb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFPMA8TR99ZN6KAJGBRB.jpg",
                 "malId": 137944,
@@ -28,6 +30,43 @@
                 "title": "Box of Light",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFPMA8TR99ZN6KAJGBRB"
+            }
+        },
+        "MangaFire": {
+            "k3oj6": {
+                "id": 263818,
+                "identifier": "k3oj6",
+                "image": "https://static.mangafire.to/4f8d/i/a/ab/ab63a0fe3d099c01f48eb08e05fc4953.jpg",
+                "malId": 137944,
+                "aniId": 132279,
+                "page": "MangaFire",
+                "title": "Box of Light",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hikari-no-hakoo.k3oj6"
+            }
+        },
+        "Mangadex": {
+            "3c610d34-b048-4971-bde7-876583c84e56": {
+                "id": 268222,
+                "identifier": "3c610d34-b048-4971-bde7-876583c84e56",
+                "image": "https://uploads.mangadex.org/covers/3c610d34-b048-4971-bde7-876583c84e56/ea636415-68bd-40c5-895e-4e2a0915329d.jpg",
+                "malId": 137944,
+                "aniId": 132279,
+                "page": "Mangadex",
+                "title": "Box of Light",
+                "type": "manga",
+                "url": "https://mangadex.org/title/3c610d34-b048-4971-bde7-876583c84e56"
+            }
+        },
+        "Comick": {
+            "YEIyCl1m": {
+                "identifier": "YEIyCl1m",
+                "malId": 137944,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Box of Light",
+                "url": "https://comick.io/comic/box-of-light",
+                "aniId": 132279
             }
         }
     },

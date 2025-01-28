@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d36d2563-d963-48a7-83f5-5f5584dae80b": {
+                "id": 166795,
                 "identifier": "d36d2563-d963-48a7-83f5-5f5584dae80b",
                 "image": "https://uploads.mangadex.org/covers/d36d2563-d963-48a7-83f5-5f5584dae80b/4437ff96-83c7-4cbe-aba5-c3ce1a9d76a6.jpg",
                 "malId": 159888,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/d36d2563-d963-48a7-83f5-5f5584dae80b"
             }
         },
-        "MangaFire": {
-            "daikaijuu-gaea-tima.k34p4": {
-                "identifier": "daikaijuu-gaea-tima.k34p4",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/6377978703c131fbec879be5d114fa55.jpg",
-                "malId": 159888,
-                "aniId": 167839,
-                "page": "MangaFire",
-                "title": "Daikaijuu Gaea-Tima",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/daikaijuu-gaea-tima.k34p4/"
-            }
-        },
         "MangaNato": {
             "manga-vd998886": {
+                "id": 174342,
                 "identifier": "manga-vd998886",
                 "image": "https://avt.mkklcdnv6temp.com/fld/9/s/16-1733313625-nw.webp",
                 "malId": 159888,
@@ -44,6 +34,7 @@
         },
         "MangaSee": {
             "gaea-tima-the-gigantis": {
+                "id": 196948,
                 "identifier": "gaea-tima-the-gigantis",
                 "image": "https://temp.compsci88.com/cover/GAEA-TIMA-the-Gigantis.jpg",
                 "malId": 159888,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhhrb1vrtreesept3w2q": {
+                "id": 208857,
                 "identifier": "01j76xyhhrb1vrtreesept3w2q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHHRB1VRTREESEPT3W2Q.jpg",
                 "malId": 159888,
@@ -64,6 +56,19 @@
                 "title": "GAEA-TIMA the Gigantis",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHHRB1VRTREESEPT3W2Q"
+            }
+        },
+        "MangaFire": {
+            "k34p4": {
+                "id": 239297,
+                "identifier": "k34p4",
+                "image": "https://static.mangafire.to/dddb/i/6/63/6377978703c131fbec879be5d114fa55.jpg",
+                "malId": 159888,
+                "aniId": 167839,
+                "page": "MangaFire",
+                "title": "Daikaijuu Gaea-Tima",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/daikaijuu-gaea-timaa.k34p4"
             }
         },
         "Comick": {

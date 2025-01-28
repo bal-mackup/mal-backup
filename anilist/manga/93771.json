@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b651c701-dcec-49a7-bfa9-cf6034712288": {
+                "id": 33250,
                 "identifier": "b651c701-dcec-49a7-bfa9-cf6034712288",
                 "image": "https://uploads.mangadex.org/covers/b651c701-dcec-49a7-bfa9-cf6034712288/8b7fab9f-dde4-4d6b-84ea-ba0a5d78d04e.jpg",
                 "malId": 85818,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "appleseed-alpha": {
+                "id": 76798,
                 "identifier": "appleseed-alpha",
                 "image": "https://temp.compsci88.com/cover/Appleseed-Alpha.jpg",
                 "malId": 85818,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Appleseed-Alpha"
             }
         },
-        "MangaFire": {
-            "appleseed-a.72j2j": {
-                "identifier": "appleseed-a.72j2j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04a20c66764ee7800b644a817732862a.jpg",
-                "malId": 85818,
-                "aniId": 93771,
-                "page": "MangaFire",
-                "title": "Appleseed Alpha Omnibus",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/appleseed-a.72j2j/"
-            }
-        },
         "Weebcentral": {
             "01j76xycwq26xk3t1ra5c6k77z": {
+                "id": 214409,
                 "identifier": "01j76xycwq26xk3t1ra5c6k77z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCWQ26XK3T1RA5C6K77Z.jpg",
                 "malId": 85818,
@@ -52,6 +43,19 @@
                 "title": "Appleseed Alpha",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCWQ26XK3T1RA5C6K77Z"
+            }
+        },
+        "MangaFire": {
+            "72j2j": {
+                "id": 262671,
+                "identifier": "72j2j",
+                "image": "https://static.mangafire.to/32f5/i/0/04/04a20c66764ee7800b644a817732862a.jpg",
+                "malId": 85818,
+                "aniId": 93771,
+                "page": "MangaFire",
+                "title": "Appleseed Alpha Omnibus",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/appleseed-aa.72j2j"
             }
         },
         "MangaReader": {

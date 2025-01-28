@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dcac494a-0633-466a-9f7d-15a6c108effa": {
+                "id": 12400,
                 "identifier": "dcac494a-0633-466a-9f7d-15a6c108effa",
                 "image": "https://uploads.mangadex.org/covers/dcac494a-0633-466a-9f7d-15a6c108effa/3c3aca5f-0e58-46d3-9337-bc0ea6458cb2.png",
                 "malId": 85505,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/dcac494a-0633-466a-9f7d-15a6c108effa"
             },
             "7759baae-b741-4bbe-85fa-2684abc4e1a1": {
+                "id": 16926,
                 "identifier": "7759baae-b741-4bbe-85fa-2684abc4e1a1",
                 "image": "https://uploads.mangadex.org/covers/7759baae-b741-4bbe-85fa-2684abc4e1a1/5ec5c5b5-6db1-49bd-9090-a9687b5e60e4.jpg",
                 "malId": 85505,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "boy-skirt": {
+                "id": 67299,
                 "identifier": "boy-skirt",
                 "image": "https://temp.compsci88.com/cover/Boy-Skirt.jpg",
                 "malId": 85505,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "boy_skirt": {
+                "id": 76726,
                 "identifier": "boy_skirt",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14938/cover.jpg",
                 "malId": 85505,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-pj952918": {
+                "id": 93929,
                 "identifier": "manga-pj952918",
                 "image": "https://avt.mkklcdnv6temp.com/fld/58/b/1-1732718696-nw.webp",
                 "malId": 85505,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-pj952918"
             }
         },
-        "MangaFire": {
-            "boy-skirt.pr36x": {
-                "identifier": "boy-skirt.pr36x",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/11ec6af7b84efa4fb02eae275a42e706.jpg",
-                "malId": 85505,
-                "aniId": 87052,
-                "page": "MangaFire",
-                "title": "Boy Skirt",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boy-skirt.pr36x/"
-            },
-            "boy-skirtt.pr36x": {
-                "identifier": "boy-skirtt.pr36x",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/11ec6af7b84efa4fb02eae275a42e706.jpg",
-                "malId": 85505,
-                "aniId": 87052,
-                "page": "MangaFire",
-                "title": "Boy Skirt",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boy-skirtt.pr36x/"
-            }
-        },
         "Weebcentral": {
             "01j76xybjdh3sfdp5cdsc22h95": {
+                "id": 213546,
                 "identifier": "01j76xybjdh3sfdp5cdsc22h95",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJDH3SFDP5CDSC22H95.jpg",
                 "malId": 85505,
@@ -96,6 +80,19 @@
                 "title": "Boy Skirt",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJDH3SFDP5CDSC22H95"
+            }
+        },
+        "MangaFire": {
+            "pr36x": {
+                "id": 229556,
+                "identifier": "pr36x",
+                "image": "https://static.mangafire.to/bf02/i/1/11/11ec6af7b84efa4fb02eae275a42e706.jpg",
+                "malId": 85505,
+                "aniId": 87052,
+                "page": "MangaFire",
+                "title": "Boy Skirt",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boy-skirtt.pr36x"
             }
         },
         "Comick": {

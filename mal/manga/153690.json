@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4fb8e8e0-971d-44a1-846a-038cd3129e41": {
+                "id": 109826,
                 "identifier": "4fb8e8e0-971d-44a1-846a-038cd3129e41",
                 "image": "https://uploads.mangadex.org/covers/4fb8e8e0-971d-44a1-846a-038cd3129e41/f1084282-31b0-466a-82d9-e5e5d5d0ffed.jpg",
                 "malId": 153690,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pn992622": {
+                "id": 115430,
                 "identifier": "manga-pn992622",
                 "image": "https://avt.mkklcdnv6temp.com/15/c/27-1664465937.jpg",
                 "malId": 153690,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-pn992622"
             }
         },
-        "MangaFire": {
-            "dakkou-suru-made-ochimasen.rlr3y": {
-                "identifier": "dakkou-suru-made-ochimasen.rlr3y",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/edc582e548268538c4a8c97c247a4838.jpg",
-                "malId": 153690,
-                "aniId": 144207,
-                "page": "MangaFire",
-                "title": "Dakkou Suru Made Ochimasen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dakkou-suru-made-ochimasen.rlr3y/"
-            }
-        },
         "MangaSee": {
             "dakkou-suru-made-ochimasen": {
+                "id": 172336,
                 "identifier": "dakkou-suru-made-ochimasen",
                 "image": "https://temp.compsci88.com/cover/Dakkou-Suru-Made-Ochimasen.jpg",
                 "malId": 153690,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygk5tg1rrkc6zzbdbs8q": {
+                "id": 207732,
                 "identifier": "01j76xygk5tg1rrkc6zzbdbs8q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGK5TG1RRKC6ZZBDBS8Q.jpg",
                 "malId": 153690,
@@ -64,6 +56,19 @@
                 "title": "Dakkou Suru Made Ochimasen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGK5TG1RRKC6ZZBDBS8Q"
+            }
+        },
+        "MangaFire": {
+            "rlr3y": {
+                "id": 258276,
+                "identifier": "rlr3y",
+                "image": "https://static.mangafire.to/7662/i/e/ed/edc582e548268538c4a8c97c247a4838.jpg",
+                "malId": 153690,
+                "aniId": 144207,
+                "page": "MangaFire",
+                "title": "Dakkou Suru Made Ochimasen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dakkou-suru-made-ochimasenn.rlr3y"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f30bbb86-f7e7-4499-abf0-4a046ff3c3a3": {
+                "id": 34672,
                 "identifier": "f30bbb86-f7e7-4499-abf0-4a046ff3c3a3",
                 "image": "https://uploads.mangadex.org/covers/f30bbb86-f7e7-4499-abf0-4a046ff3c3a3/e44edc0e-5469-49a7-b912-e34e4f87054d.jpg",
                 "malId": 122191,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mars-red": {
+                "id": 63939,
                 "identifier": "mars-red",
                 "image": "https://temp.compsci88.com/cover/Mars-Red.jpg",
                 "malId": 122191,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mars_red": {
+                "id": 66205,
                 "identifier": "mars_red",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33560/cover.jpg",
                 "malId": 122191,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hh985190": {
+                "id": 75362,
                 "identifier": "manga-hh985190",
                 "image": "https://avt.mkklcdnv6temp.com/5/j/21-1587427281.jpg",
                 "malId": 122191,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-hh985190"
             }
         },
-        "MangaFire": {
-            "mars-red.ykq10": {
-                "identifier": "mars-red.ykq10",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f255c57cc7229a771ad80eaf81950090.jpg",
-                "malId": 122191,
-                "aniId": 115415,
-                "page": "MangaFire",
-                "title": "Mars Red",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mars-red.ykq10/"
-            }
-        },
         "Weebcentral": {
             "01j76xyed1z4e0rywft6pfrgxf": {
+                "id": 212448,
                 "identifier": "01j76xyed1z4e0rywft6pfrgxf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYED1Z4E0RYWFT6PFRGXF.jpg",
                 "malId": 122191,
@@ -76,6 +69,19 @@
                 "title": "Mars Red",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYED1Z4E0RYWFT6PFRGXF"
+            }
+        },
+        "MangaFire": {
+            "ykq10": {
+                "id": 252981,
+                "identifier": "ykq10",
+                "image": "https://static.mangafire.to/6e4f/i/f/f2/f255c57cc7229a771ad80eaf81950090.jpg",
+                "malId": 122191,
+                "aniId": 115415,
+                "page": "MangaFire",
+                "title": "Mars Red",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mars-redd.ykq10"
             }
         },
         "Comick": {

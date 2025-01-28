@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe": {
+                "id": 12747,
                 "identifier": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
                 "image": "https://uploads.mangadex.org/covers/2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe/8980a16c-e38b-4434-9732-c7fe2a6152d3.jpg",
                 "malId": 87201,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "major2nd": {
+                "id": 65956,
                 "identifier": "major2nd",
                 "image": "https://temp.compsci88.com/cover/Major2nd.jpg",
                 "malId": 87201,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "major_2nd": {
+                "id": 67277,
                 "identifier": "major_2nd",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15396/cover.jpg",
                 "malId": 87201,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ew954405": {
+                "id": 81281,
                 "identifier": "manga-ew954405",
                 "image": "https://avt.mkklcdnv6temp.com/fld/8/n/2-1732720890-nw.webp",
                 "malId": 87201,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ew954405"
             }
         },
-        "MangaFire": {
-            "major-2nd.xr1oq": {
-                "identifier": "major-2nd.xr1oq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/153af1ebe069967cd05c76f3100b84ce.jpg",
-                "malId": 87201,
-                "aniId": 86144,
-                "page": "MangaFire",
-                "title": "Major 2nd",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/major-2nd.xr1oq/"
-            },
-            "major-2ndd.xr1oq": {
-                "identifier": "major-2ndd.xr1oq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/153af1ebe069967cd05c76f3100b84ce.jpg",
-                "malId": 87201,
-                "aniId": 86144,
-                "page": "MangaFire",
-                "title": "Major 2nd",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/major-2ndd.xr1oq/"
-            },
-            "xr1oq": {
-                "identifier": "xr1oq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/153af1ebe069967cd05c76f3100b84ce.jpg",
-                "malId": 87201,
-                "aniId": 86144,
-                "page": "MangaFire",
-                "title": "Major 2nd",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/major-2ndd.xr1oq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb9bcw88p986kahqxrkz": {
+                "id": 211443,
                 "identifier": "01j76xyb9bcw88p986kahqxrkz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB9BCW88P986KAHQXRKZ.jpg",
                 "malId": 87201,
@@ -96,6 +69,19 @@
                 "title": "Major 2nd",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB9BCW88P986KAHQXRKZ"
+            }
+        },
+        "MangaFire": {
+            "xr1oq": {
+                "id": 224325,
+                "identifier": "xr1oq",
+                "image": "https://static.mangafire.to/b380/i/1/15/153af1ebe069967cd05c76f3100b84ce.jpg",
+                "malId": 87201,
+                "aniId": 86144,
+                "page": "MangaFire",
+                "title": "Major 2nd",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/major-2ndd.xr1oq"
             }
         },
         "Comick": {

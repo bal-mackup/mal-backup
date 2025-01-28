@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a1c01fa6-8c25-4d5a-b10e-37201f78daf6": {
+                "id": 182833,
                 "identifier": "a1c01fa6-8c25-4d5a-b10e-37201f78daf6",
                 "image": "https://uploads.mangadex.org/covers/a1c01fa6-8c25-4d5a-b10e-37201f78daf6/334a4f69-69da-487c-ada3-bf7c6bf2524e.jpg",
                 "malId": 167850,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mechanical-buddy-universe-10": {
+                "id": 190065,
                 "identifier": "mechanical-buddy-universe-10",
                 "image": "https://temp.compsci88.com/cover/Mechanical-Buddy-Universe-10.jpg",
                 "malId": 167850,
@@ -32,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyha2zrbhg7h5jcjccmfa": {
+                "id": 209852,
                 "identifier": "01j76xyha2zrbhg7h5jcjccmfa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHA2ZRBHG7H5JCJCCMFA.jpg",
                 "malId": 167850,
@@ -40,6 +43,17 @@
                 "title": "Mechanical Buddy Universe",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHA2ZRBHG7H5JCJCCMFA"
+            }
+        },
+        "Comick": {
+            "LroHNVM_": {
+                "identifier": "LroHNVM_",
+                "malId": 167850,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Mechanical Buddy Universe 1.0",
+                "url": "https://comick.io/comic/mechanical-buddy-universe-1-0",
+                "aniId": 168948
             }
         }
     },

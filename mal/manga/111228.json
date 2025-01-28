@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4187856d-65a9-4fb4-98ec-84c0bf16631f": {
+                "id": 19354,
                 "identifier": "4187856d-65a9-4fb4-98ec-84c0bf16631f",
                 "image": "https://uploads.mangadex.org/covers/4187856d-65a9-4fb4-98ec-84c0bf16631f/472415c9-2e18-4deb-b583-41f114780aff.jpg",
                 "malId": 111228,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kamitachi-ni-hirowareta-otoko": {
+                "id": 55097,
                 "identifier": "kamitachi-ni-hirowareta-otoko",
                 "image": "https://temp.compsci88.com/cover/Kamitachi-Ni-Hirowareta-Otoko.jpg",
                 "malId": 111228,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kamitachi_ni_hirowareta_otoko": {
+                "id": 55116,
                 "identifier": "kamitachi_ni_hirowareta_otoko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27387/cover.jpg",
                 "malId": 111228,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bk978745": {
+                "id": 73778,
                 "identifier": "manga-bk978745",
                 "image": "https://avt.mkklcdnv6temp.com/15/m/16-1583494029.jpg",
                 "malId": 111228,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-bk978745"
             }
         },
-        "MangaFire": {
-            "kamitachi-ni-hirowareta-otokoo.yqw0z": {
-                "identifier": "kamitachi-ni-hirowareta-otokoo.yqw0z",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3f21d201e1990bcb0f95a1e07478dac3.jpg",
-                "malId": 111228,
-                "aniId": 101793,
-                "page": "MangaFire",
-                "title": "By the Grace of the Gods",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamitachi-ni-hirowareta-otokoo.yqw0z/"
-            },
-            "yqw0z": {
-                "identifier": "yqw0z",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3f21d201e1990bcb0f95a1e07478dac3.jpg",
-                "malId": 111228,
-                "aniId": 101793,
-                "page": "MangaFire",
-                "title": "By the Grace of the Gods",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamitachi-ni-hirowareta-otokoo.yqw0z/"
-            }
-        },
         "Weebcentral": {
             "01j76xycgfhrxh4bkgnvqqej3e": {
+                "id": 208008,
                 "identifier": "01j76xycgfhrxh4bkgnvqqej3e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGFHRXH4BKGNVQQEJ3E.jpg",
                 "malId": 111228,
@@ -86,6 +69,19 @@
                 "title": "By the Grace of the Gods",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGFHRXH4BKGNVQQEJ3E"
+            }
+        },
+        "MangaFire": {
+            "yqw0z": {
+                "id": 228483,
+                "identifier": "yqw0z",
+                "image": "https://static.mangafire.to/020f/i/3/3f/3f21d201e1990bcb0f95a1e07478dac3.jpg",
+                "malId": 111228,
+                "aniId": 101793,
+                "page": "MangaFire",
+                "title": "By the Grace of the Gods",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kamitachi-ni-hirowareta-otokoo.yqw0z"
             }
         },
         "Comick": {

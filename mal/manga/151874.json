@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "68e4ff82-e877-486b-be97-1e4c51064b19": {
+                "id": 108575,
                 "identifier": "68e4ff82-e877-486b-be97-1e4c51064b19",
                 "image": "https://uploads.mangadex.org/covers/68e4ff82-e877-486b-be97-1e4c51064b19/684516e4-0111-4933-827f-dfc906ffdb17.jpg",
                 "malId": 151874,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/68e4ff82-e877-486b-be97-1e4c51064b19"
             },
             "86bedc60-6168-4019-9e9b-4867a4001b0c": {
+                "id": 192507,
                 "identifier": "86bedc60-6168-4019-9e9b-4867a4001b0c",
                 "image": "https://uploads.mangadex.org/covers/86bedc60-6168-4019-9e9b-4867a4001b0c/a36c42a4-37d9-4a7c-8c51-4700c812601d.jpg",
                 "malId": 151874,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-om991495": {
+                "id": 108870,
                 "identifier": "manga-om991495",
                 "image": "https://avt.mkklcdnv6temp.com/19/h/26-1656955808.jpg",
                 "malId": 151874,
@@ -40,6 +43,7 @@
                 "url": "https://chapmanganato.com/manga-om991495"
             },
             "manga-ck1005619": {
+                "id": 216045,
                 "identifier": "manga-ck1005619",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/k/18-1733381189-nw.webp",
                 "malId": 151874,
@@ -50,6 +54,7 @@
                 "url": "https://chapmanganato.to/manga-ck1005619"
             },
             "manga-ac1003385": {
+                "id": 221990,
                 "identifier": "manga-ac1003385",
                 "image": "https://avt.mkklcdnv6temp.com/fld/81/w/17-1733326141-nw.webp",
                 "malId": 151874,
@@ -60,20 +65,9 @@
                 "url": "https://chapmanganato.to/manga-ac1003385"
             }
         },
-        "MangaFire": {
-            "royal-marriage.xr9ov": {
-                "identifier": "royal-marriage.xr9ov",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e1ddab3e7862759fdbe9a7e9c3a21659.jpg",
-                "malId": 151874,
-                "aniId": 153788,
-                "page": "MangaFire",
-                "title": "Royal Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/royal-marriage.xr9ov/"
-            }
-        },
         "MangaSee": {
             "royal-marriage": {
+                "id": 182769,
                 "identifier": "royal-marriage",
                 "image": "https://temp.compsci88.com/cover/Royal-Marriage.jpg",
                 "malId": 151874,
@@ -86,6 +80,7 @@
         },
         "Weebcentral": {
             "01j76xygym0q39xwnf7x8tjs9k": {
+                "id": 214006,
                 "identifier": "01j76xygym0q39xwnf7x8tjs9k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGYM0Q39XWNF7X8TJS9K.jpg",
                 "malId": 151874,
@@ -94,6 +89,19 @@
                 "title": "Royal Marriage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGYM0Q39XWNF7X8TJS9K"
+            }
+        },
+        "MangaFire": {
+            "xr9ov": {
+                "id": 249693,
+                "identifier": "xr9ov",
+                "image": "https://static.mangafire.to/5e62/i/e/e1/e1ddab3e7862759fdbe9a7e9c3a21659.jpg",
+                "malId": 151874,
+                "aniId": 153788,
+                "page": "MangaFire",
+                "title": "Royal Marriage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/royal-marriagee.xr9ov"
             }
         }
     },

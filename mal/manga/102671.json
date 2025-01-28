@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d87de001-99dc-440a-a186-0e313bc82a6b": {
+                "id": 20154,
                 "identifier": "d87de001-99dc-440a-a186-0e313bc82a6b",
                 "image": "https://uploads.mangadex.org/covers/d87de001-99dc-440a-a186-0e313bc82a6b/ae20dd53-e1bf-42d0-a932-0d965fcfaddf.jpg",
                 "malId": 102671,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-shokudou": {
+                "id": 55903,
                 "identifier": "isekai-shokudou",
                 "image": "https://temp.compsci88.com/cover/Isekai-Shokudou.jpg",
                 "malId": 102671,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "isekai_shokudou": {
+                "id": 70262,
                 "identifier": "isekai_shokudou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26437/cover.jpg",
                 "malId": 102671,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-aj977766": {
+                "id": 77686,
                 "identifier": "manga-aj977766",
                 "image": "https://avt.mkklcdnv6temp.com/49/p/15-1583493447.jpg",
                 "malId": 102671,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-aj977766"
             }
         },
-        "MangaFire": {
-            "isekai-shokudou.worq7": {
-                "identifier": "isekai-shokudou.worq7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3c191df331d9747a7f63a3831a31a2a.jpg",
-                "malId": 102671,
-                "aniId": 98911,
-                "page": "MangaFire",
-                "title": "Restaurant to Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-shokudou.worq7/"
-            },
-            "isekai-shokudouu.worq7": {
-                "identifier": "isekai-shokudouu.worq7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3c191df331d9747a7f63a3831a31a2a.jpg",
-                "malId": 102671,
-                "aniId": 98911,
-                "page": "MangaFire",
-                "title": "Restaurant to Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-shokudouu.worq7/"
-            },
-            "worq7": {
-                "identifier": "worq7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3c191df331d9747a7f63a3831a31a2a.jpg",
-                "malId": 102671,
-                "aniId": 98911,
-                "page": "MangaFire",
-                "title": "Restaurant to Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-shokudouu.worq7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyccpjn4pdr96edm6sd4y": {
+                "id": 209234,
                 "identifier": "01j76xyccpjn4pdr96edm6sd4y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCCPJN4PDR96EDM6SD4Y.jpg",
                 "malId": 102671,
@@ -96,6 +69,19 @@
                 "title": "Restaurant to Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCCPJN4PDR96EDM6SD4Y"
+            }
+        },
+        "MangaFire": {
+            "worq7": {
+                "id": 238784,
+                "identifier": "worq7",
+                "image": "https://static.mangafire.to/2b37/i/b/b3/b3c191df331d9747a7f63a3831a31a2a.jpg",
+                "malId": 102671,
+                "aniId": 98911,
+                "page": "MangaFire",
+                "title": "Restaurant to Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-shokudouu.worq7"
             }
         },
         "Comick": {

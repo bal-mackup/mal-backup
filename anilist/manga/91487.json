@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e7fe44cc-aa5e-49df-9d82-acc467070514": {
+                "id": 19616,
                 "identifier": "e7fe44cc-aa5e-49df-9d82-acc467070514",
                 "image": "https://uploads.mangadex.org/covers/e7fe44cc-aa5e-49df-9d82-acc467070514/93a651f8-1147-4be2-85d2-bd0b36a6f97d.jpg",
                 "malId": 71819,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "host-man": {
+                "id": 93161,
                 "identifier": "host-man",
                 "image": "https://temp.compsci88.com/cover/Host-Man.jpg",
                 "malId": 71819,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Host-Man"
             }
         },
-        "MangaFire": {
-            "host-man.yk350": {
-                "identifier": "host-man.yk350",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f850cac24c2dcf51a25ac1060562bc29.jpg",
-                "malId": 71819,
-                "aniId": 91487,
-                "page": "MangaFire",
-                "title": "The Host-man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/host-man.yk350/"
-            },
-            "yk350": {
-                "identifier": "yk350",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f850cac24c2dcf51a25ac1060562bc29.jpg",
-                "malId": 71819,
-                "aniId": 91487,
-                "page": "MangaFire",
-                "title": "The Host-man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/host-man.yk350/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb3tptfj7z0e229dyjaq": {
+                "id": 213772,
                 "identifier": "01j76xyb3tptfj7z0e229dyjaq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB3TPTFJ7Z0E229DYJAQ.jpg",
                 "malId": 71819,
@@ -62,6 +43,19 @@
                 "title": "Host Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB3TPTFJ7Z0E229DYJAQ"
+            }
+        },
+        "MangaFire": {
+            "yk350": {
+                "id": 246474,
+                "identifier": "yk350",
+                "image": "https://static.mangafire.to/6094/i/f/f8/f850cac24c2dcf51a25ac1060562bc29.jpg",
+                "malId": 71819,
+                "aniId": 91487,
+                "page": "MangaFire",
+                "title": "The Host-man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/host-mann.yk350"
             }
         },
         "Comick": {

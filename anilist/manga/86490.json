@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "989512d2-c1af-404b-b410-e570ab3a9378": {
+                "id": 13144,
                 "identifier": "989512d2-c1af-404b-b410-e570ab3a9378",
                 "image": "https://uploads.mangadex.org/covers/989512d2-c1af-404b-b410-e570ab3a9378/bed631ec-5f53-4d4c-9ce0-961ff1298c04.jpg",
                 "malId": 88442,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/989512d2-c1af-404b-b410-e570ab3a9378"
             },
             "0f270228-7c48-4414-b040-e35a2194804a": {
+                "id": 36853,
                 "identifier": "0f270228-7c48-4414-b040-e35a2194804a",
                 "image": "https://uploads.mangadex.org/covers/0f270228-7c48-4414-b040-e35a2194804a/1eb563b6-9b42-462c-9fb7-52018f873a50.jpg",
                 "malId": 88442,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "sesuji-wo-pin": {
+                "id": 65665,
                 "identifier": "sesuji-wo-pin",
                 "image": "https://temp.compsci88.com/cover/Sesuji-Wo-Pin.jpg",
                 "malId": 88442,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-kk952367": {
+                "id": 80562,
                 "identifier": "manga-kk952367",
                 "image": "https://avt.mkklcdnv6temp.com/fld/39/p/1-1732717942-nw.webp",
                 "malId": 88442,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "seshiji_o_pin_to_shikakou_kyougi_dance_bu_e_youkoso": {
+                "id": 123619,
                 "identifier": "seshiji_o_pin_to_shikakou_kyougi_dance_bu_e_youkoso",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15847/cover.jpg",
                 "malId": 88442,
@@ -64,6 +69,7 @@
                 "url": "https://fanfox.net/manga/seshiji_o_pin_to_shikakou_kyougi_dance_bu_e_youkoso/"
             },
             "sesuji_wo_pin_to_shikakou_kyougi_dance_bu_e_youkoso": {
+                "id": 123622,
                 "identifier": "sesuji_wo_pin_to_shikakou_kyougi_dance_bu_e_youkoso",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34477/cover.jpg",
                 "malId": 88442,
@@ -74,30 +80,9 @@
                 "url": "https://fanfox.net/manga/sesuji_wo_pin_to_shikakou_kyougi_dance_bu_e_youkoso/"
             }
         },
-        "MangaFire": {
-            "sesuji-wo-pin-to-shikakou-kyougi-dance-bu-e-youkoso.7wv01": {
-                "identifier": "sesuji-wo-pin-to-shikakou-kyougi-dance-bu-e-youkoso.7wv01",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/038de9d0eead535a36f3465dcc6f7928.jpg",
-                "malId": 88442,
-                "aniId": 86490,
-                "page": "MangaFire",
-                "title": "Straighten Up! Welcome to Shika High's Competitive Dance Club",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sesuji-wo-pin-to-shikakou-kyougi-dance-bu-e-youkoso.7wv01/"
-            },
-            "7wv01": {
-                "identifier": "7wv01",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/038de9d0eead535a36f3465dcc6f7928.jpg",
-                "malId": 88442,
-                "aniId": 86490,
-                "page": "MangaFire",
-                "title": "Straighten Up! Welcome to Shika High's Competitive Dance Club",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sesuji-wo-pin-to-shikakou-kyougi-dance-bu-e-youkoso.7wv01/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb9nqqq73h22tv23t1hf": {
+                "id": 210366,
                 "identifier": "01j76xyb9nqqq73h22tv23t1hf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB9NQQQ73H22TV23T1HF.jpg",
                 "malId": 88442,
@@ -106,6 +91,19 @@
                 "title": "Sesuji wo Pin!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB9NQQQ73H22TV23T1HF"
+            }
+        },
+        "MangaFire": {
+            "7wv01": {
+                "id": 245601,
+                "identifier": "7wv01",
+                "image": "https://static.mangafire.to/c5e1/i/0/03/038de9d0eead535a36f3465dcc6f7928.jpg",
+                "malId": 88442,
+                "aniId": 86490,
+                "page": "MangaFire",
+                "title": "Straighten Up! Welcome to Shika High's Competitive Dance Club",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sesuji-wo-pin-to-shikakou-kyougi-dance-bu-e-youkosoo.7wv01"
             }
         },
         "Comick": {

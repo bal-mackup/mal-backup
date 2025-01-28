@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e0c53c7-16bd-4f98-affe-de4408c4338e": {
+                "id": 104508,
                 "identifier": "9e0c53c7-16bd-4f98-affe-de4408c4338e",
                 "image": "https://uploads.mangadex.org/covers/9e0c53c7-16bd-4f98-affe-de4408c4338e/be860b26-c04d-4f6e-b582-509e88a0d3e7.jpg",
                 "malId": 139104,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qa993509": {
+                "id": 121756,
                 "identifier": "manga-qa993509",
                 "image": "https://avt.mkklcdnv6temp.com/50/u/27-1673486237.jpg",
                 "malId": 139104,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "love-thats-an-understatement": {
+                "id": 157764,
                 "identifier": "love-thats-an-understatement",
                 "image": "https://temp.compsci88.com/cover/Love-Thats-an-Understatement.jpg",
                 "malId": 139104,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Love-Thats-an-Understatement"
             }
         },
-        "MangaFire": {
-            "hikaeme-ni-itte-mo-kore-wa-ai.v9n17": {
-                "identifier": "hikaeme-ni-itte-mo-kore-wa-ai.v9n17",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05af9bdc9d65fcd718a92407f649105f.jpg",
-                "malId": 139104,
-                "aniId": 136943,
-                "page": "MangaFire",
-                "title": "Love, That's an Understatement",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hikaeme-ni-itte-mo-kore-wa-ai.v9n17/"
-            }
-        },
         "MangaFox": {
             "hikaeme_ni_itte_mo_kore_wa_ai": {
+                "id": 171149,
                 "identifier": "hikaeme_ni_itte_mo_kore_wa_ai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40253/cover.jpg",
                 "malId": 139104,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg4k57sjkqp73c660kwm": {
+                "id": 208356,
                 "identifier": "01j76xyg4k57sjkqp73c660kwm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG4K57SJKQP73C660KWM.jpg",
                 "malId": 139104,
@@ -76,6 +69,19 @@
                 "title": "Love, That's an Understatement",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG4K57SJKQP73C660KWM"
+            }
+        },
+        "MangaFire": {
+            "v9n17": {
+                "id": 241802,
+                "identifier": "v9n17",
+                "image": "https://static.mangafire.to/5710/i/0/05/05af9bdc9d65fcd718a92407f649105f.jpg",
+                "malId": 139104,
+                "aniId": 136943,
+                "page": "MangaFire",
+                "title": "Love, That's an Understatement",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hikaeme-ni-itte-mo-kore-wa-aii.v9n17"
             }
         },
         "Comick": {

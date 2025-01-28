@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "182f72c5-1949-4b22-8335-a64cafd128cb": {
+                "id": 30788,
                 "identifier": "182f72c5-1949-4b22-8335-a64cafd128cb",
                 "image": "https://uploads.mangadex.org/covers/182f72c5-1949-4b22-8335-a64cafd128cb/16411201-706d-48e6-8c54-f2860dd73e89.jpg",
                 "malId": 140912,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hiiragi_san_chi_no_kyuuketsu_jijou": {
+                "id": 106158,
                 "identifier": "hiiragi_san_chi_no_kyuuketsu_jijou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39701/cover.jpg",
                 "malId": 140912,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ov991578": {
+                "id": 109391,
                 "identifier": "manga-ov991578",
                 "image": "https://avt.mkklcdnv6temp.com/22/n/26-1657504772.jpg",
                 "malId": 140912,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "hiiragi-san-chi-no-kyuuketsu-jijou": {
+                "id": 123802,
                 "identifier": "hiiragi-san-chi-no-kyuuketsu-jijou",
                 "image": "https://temp.compsci88.com/cover/Hiiragi-san-Chi-no-Kyuuketsu-Jijou.jpg",
                 "malId": 140912,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Hiiragi-san-Chi-no-Kyuuketsu-Jijou"
             }
         },
-        "MangaFire": {
-            "hiiragi-san-chi-no-kyuuketsu-jijou.022l9": {
-                "identifier": "hiiragi-san-chi-no-kyuuketsu-jijou.022l9",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e9d2c68e54278e9d06cb2b16cfa137f.jpg",
-                "malId": 140912,
-                "aniId": 137042,
-                "page": "MangaFire",
-                "title": "Every Day in a Vampire Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hiiragi-san-chi-no-kyuuketsu-jijou.022l9/"
-            },
-            "hiiragi-san-chi-no-kyuuketsu-jijouu.022l9": {
-                "identifier": "hiiragi-san-chi-no-kyuuketsu-jijouu.022l9",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0e/0e9d2c68e54278e9d06cb2b16cfa137f.jpg",
-                "malId": 140912,
-                "aniId": 137042,
-                "page": "MangaFire",
-                "title": "Every Day in a Vampire Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hiiragi-san-chi-no-kyuuketsu-jijouu.022l9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfxks5asbt9t8b2dxpe3": {
+                "id": 211151,
                 "identifier": "01j76xyfxks5asbt9t8b2dxpe3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFXKS5ASBT9T8B2DXPE3.jpg",
                 "malId": 140912,
@@ -86,6 +69,19 @@
                 "title": "Hiragi-san's House of Vampires",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFXKS5ASBT9T8B2DXPE3"
+            }
+        },
+        "MangaFire": {
+            "022l9": {
+                "id": 227574,
+                "identifier": "022l9",
+                "image": "https://static.mangafire.to/ab00/i/0/0e/0e9d2c68e54278e9d06cb2b16cfa137f.jpg",
+                "malId": 140912,
+                "aniId": 137042,
+                "page": "MangaFire",
+                "title": "Every Day in a Vampire Family",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hiiragi-san-chi-no-kyuuketsu-jijouu.022l9"
             }
         },
         "Comick": {

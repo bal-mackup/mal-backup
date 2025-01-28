@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "79b7ce72-347f-406c-87b0-f5e93580d30c": {
+                "id": 31513,
                 "identifier": "79b7ce72-347f-406c-87b0-f5e93580d30c",
                 "image": "https://uploads.mangadex.org/covers/79b7ce72-347f-406c-87b0-f5e93580d30c/c817bc14-cff2-4a2b-88d2-1ca4d1c90f0a.jpg",
                 "malId": 136028,
@@ -18,40 +19,9 @@
                 "url": "https://mangadex.org/title/79b7ce72-347f-406c-87b0-f5e93580d30c"
             }
         },
-        "MangaFire": {
-            "the-blood-of-madam-giselle.80z63": {
-                "identifier": "the-blood-of-madam-giselle.80z63",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4a73553b5a235aa0eaa6983b54e584.jpg",
-                "malId": 136028,
-                "aniId": 114728,
-                "page": "MangaFire",
-                "title": "The Blood of Madam Giselle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blood-of-madam-giselle.80z63/"
-            },
-            "the-blood-of-madam-giselle2.yvo9j": {
-                "identifier": "the-blood-of-madam-giselle2.yvo9j",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e4/27df597361bdfad5b4d48367fb4d7012.jpg",
-                "malId": 136028,
-                "aniId": 114728,
-                "page": "MangaFire",
-                "title": "The Blood of Madam Giselle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blood-of-madam-giselle2.yvo9j/"
-            },
-            "the-blood-of-madam-gisellee.80z63": {
-                "identifier": "the-blood-of-madam-gisellee.80z63",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4a73553b5a235aa0eaa6983b54e584.jpg",
-                "malId": 136028,
-                "aniId": 114728,
-                "page": "MangaFire",
-                "title": "The Blood of Madam Giselle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blood-of-madam-gisellee.80z63/"
-            }
-        },
         "MangaNato": {
             "manga-vv999078": {
+                "id": 174497,
                 "identifier": "manga-vv999078",
                 "image": "https://avt.mkklcdnv6temp.com/fld/17/b/16-1733314146-nw.webp",
                 "malId": 136028,
@@ -60,6 +30,30 @@
                 "title": "The Blood Of Madam Giselle",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-vv999078"
+            }
+        },
+        "MangaFire": {
+            "80z63": {
+                "id": 225626,
+                "identifier": "80z63",
+                "image": "https://static.mangafire.to/e13e/i/5/5d/5d4a73553b5a235aa0eaa6983b54e584.jpg",
+                "malId": 136028,
+                "aniId": 114728,
+                "page": "MangaFire",
+                "title": "The Blood of Madam Giselle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-blood-of-madam-gisellee.80z63"
+            },
+            "yvo9j": {
+                "id": 233398,
+                "identifier": "yvo9j",
+                "image": "https://static.mangafire.to/70aa/i/e/e4/27df597361bdfad5b4d48367fb4d7012.jpg",
+                "malId": 136028,
+                "aniId": 114728,
+                "page": "MangaFire",
+                "title": "The Blood of Madam Giselle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-blood-of-madam-giselle22.yvo9j"
             }
         },
         "Comick": {

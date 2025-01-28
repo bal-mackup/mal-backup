@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "384cf11b-bb14-4ee2-84f8-eca78b3e62c9": {
+                "id": 111808,
                 "identifier": "384cf11b-bb14-4ee2-84f8-eca78b3e62c9",
                 "image": "https://uploads.mangadex.org/covers/384cf11b-bb14-4ee2-84f8-eca78b3e62c9/0dbddba3-84b4-4c76-ad70-c4edf42a326c.jpg",
                 "malId": 152279,
@@ -19,25 +20,16 @@
             }
         },
         "MangaFire": {
-            "seijo-no-chi.yq241": {
-                "identifier": "seijo-no-chi.yq241",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81cd80e8b7436baeb960da42c08e0c62.jpg",
-                "malId": 152279,
-                "aniId": 152169,
-                "page": "MangaFire",
-                "title": "Seijo no Chi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seijo-no-chi.yq241/"
-            },
-            "seijo-no-chii.yq241": {
-                "identifier": "seijo-no-chii.yq241",
+            "yq241": {
+                "id": 223045,
+                "identifier": "yq241",
                 "image": "https://static.mangafire.to/d1af/i/8/81/81cd80e8b7436baeb960da42c08e0c62.jpg",
                 "malId": 152279,
                 "aniId": 152169,
                 "page": "MangaFire",
                 "title": "Seijo no Chi",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/seijo-no-chii.yq241/"
+                "url": "https://mangafire.to/manga/seijo-no-chii.yq241"
             }
         },
         "Comick": {

@@ -6,20 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/253937.jpg",
     "Sites": {
-        "MangaFire": {
-            "toy-complex.jjr8y": {
-                "identifier": "toy-complex.jjr8y",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/135d00dcd030eca6132b650ee1b46860.jpg",
-                "malId": 135327,
-                "aniId": 122130,
-                "page": "MangaFire",
-                "title": "Toy Complex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toy-complex.jjr8y/"
-            }
-        },
         "MangaSee": {
             "toy-complex": {
+                "id": 191404,
                 "identifier": "toy-complex",
                 "image": "https://temp.compsci88.com/cover/Toy-Complex.jpg",
                 "malId": 135327,
@@ -32,6 +21,7 @@
         },
         "Weebcentral": {
             "01j76xyhbnkh7q28w11djawwnx": {
+                "id": 211715,
                 "identifier": "01j76xyhbnkh7q28w11djawwnx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHBNKH7Q28W11DJAWWNX.jpg",
                 "malId": 135327,
@@ -40,6 +30,19 @@
                 "title": "Toy Complex",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHBNKH7Q28W11DJAWWNX"
+            }
+        },
+        "MangaFire": {
+            "jjr8y": {
+                "id": 233600,
+                "identifier": "jjr8y",
+                "image": "https://static.mangafire.to/45b1/i/1/13/135d00dcd030eca6132b650ee1b46860.jpg",
+                "malId": 135327,
+                "aniId": 122130,
+                "page": "MangaFire",
+                "title": "Toy Complex",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/toy-complexx.jjr8y"
             }
         }
     },

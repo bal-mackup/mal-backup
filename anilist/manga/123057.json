@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "shwd": {
+                "id": 116189,
                 "identifier": "shwd",
                 "image": "https://temp.compsci88.com/cover/SHWD.jpg",
                 "malId": 138918,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/SHWD"
             }
         },
-        "MangaFire": {
-            "shwd-special-hazardous-waste-disposal.mqlk8": {
-                "identifier": "shwd-special-hazardous-waste-disposal.mqlk8",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1043231b618f6ba986629d2eb069ea4.jpg",
-                "malId": 138918,
-                "aniId": 123057,
-                "page": "MangaFire",
-                "title": "SHWD - Special Hazardous Waste Disposal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shwd-special-hazardous-waste-disposal.mqlk8/"
-            },
-            "shwd-special-hazardous-waste-disposall.mqlk8": {
-                "identifier": "shwd-special-hazardous-waste-disposall.mqlk8",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1043231b618f6ba986629d2eb069ea4.jpg",
-                "malId": 138918,
-                "aniId": 123057,
-                "page": "MangaFire",
-                "title": "SHWD - Special Hazardous Waste Disposal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shwd-special-hazardous-waste-disposall.mqlk8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfq35jqwrm81dmvmnqk9": {
+                "id": 213354,
                 "identifier": "01j76xyfq35jqwrm81dmvmnqk9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFQ35JQWRM81DMVMNQK9.jpg",
                 "malId": 138918,
@@ -50,6 +30,19 @@
                 "title": "SHWD",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFQ35JQWRM81DMVMNQK9"
+            }
+        },
+        "MangaFire": {
+            "mqlk8": {
+                "id": 231434,
+                "identifier": "mqlk8",
+                "image": "https://static.mangafire.to/6739/i/f/f1/f1043231b618f6ba986629d2eb069ea4.jpg",
+                "malId": 138918,
+                "aniId": 123057,
+                "page": "MangaFire",
+                "title": "SHWD - Special Hazardous Waste Disposal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shwd-special-hazardous-waste-disposall.mqlk8"
             }
         }
     },

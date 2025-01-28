@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6b5c0f78-b030-45f1-a446-b9d7d519a626": {
+                "id": 27172,
                 "identifier": "6b5c0f78-b030-45f1-a446-b9d7d519a626",
                 "image": "https://uploads.mangadex.org/covers/6b5c0f78-b030-45f1-a446-b9d7d519a626/50b8cd9d-9a48-4312-92f4-8299a52d05fe.jpg",
                 "malId": 121151,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "vampire-dormitory": {
+                "id": 59082,
                 "identifier": "vampire-dormitory",
                 "image": "https://temp.compsci88.com/cover/Vampire-Dormitory.jpg",
                 "malId": 121151,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "vampire_dormitory": {
+                "id": 78501,
                 "identifier": "vampire_dormitory",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30239/cover.jpg",
                 "malId": 121151,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dr981300": {
+                "id": 94848,
                 "identifier": "manga-dr981300",
                 "image": "https://avt.mkklcdnv6temp.com/fld/55/p/9-1732795342-nw.webp",
                 "malId": 121151,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dr981300"
             }
         },
-        "MangaFire": {
-            "vampire-dormitory.z1m93": {
-                "identifier": "vampire-dormitory.z1m93",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b360ef8427cdfb51d6b9d7709ee5ad7.jpg",
-                "malId": 121151,
-                "aniId": 105102,
-                "page": "MangaFire",
-                "title": "Vampire Dormitory",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampire-dormitory.z1m93/"
-            },
-            "vampire-dormitoryy.z1m93": {
-                "identifier": "vampire-dormitoryy.z1m93",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b360ef8427cdfb51d6b9d7709ee5ad7.jpg",
-                "malId": 121151,
-                "aniId": 105102,
-                "page": "MangaFire",
-                "title": "Vampire Dormitory",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampire-dormitoryy.z1m93/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczshrxfaqmh68zkbgqc": {
+                "id": 212681,
                 "identifier": "01j76xyczshrxfaqmh68zkbgqc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZSHRXFAQMH68ZKBGQC.jpg",
                 "malId": 121151,
@@ -86,6 +69,19 @@
                 "title": "Vampire Dormitory",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZSHRXFAQMH68ZKBGQC"
+            }
+        },
+        "MangaFire": {
+            "z1m93": {
+                "id": 229608,
+                "identifier": "z1m93",
+                "image": "https://static.mangafire.to/9718/i/8/8b/8b360ef8427cdfb51d6b9d7709ee5ad7.jpg",
+                "malId": 121151,
+                "aniId": 105102,
+                "page": "MangaFire",
+                "title": "Vampire Dormitory",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/vampire-dormitoryy.z1m93"
             }
         },
         "Comick": {

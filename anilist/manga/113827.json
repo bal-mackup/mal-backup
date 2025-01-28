@@ -6,30 +6,9 @@
     "total": 57,
     "image": "https://cdn.myanimelist.net/images/manga/3/145485.jpg",
     "Sites": {
-        "MangaFire": {
-            "no-specialite.lr8wq": {
-                "identifier": "no-specialite.lr8wq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e1bf55c4de0a12662a22c6e7cbcdbe45.jpg",
-                "malId": 83793,
-                "aniId": 113827,
-                "page": "MangaFire",
-                "title": "★★★ no Specialite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-specialite.lr8wq/"
-            },
-            "lr8wq": {
-                "identifier": "lr8wq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e1bf55c4de0a12662a22c6e7cbcdbe45.jpg",
-                "malId": 83793,
-                "aniId": 113827,
-                "page": "MangaFire",
-                "title": "★★★ no Specialite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-specialite.lr8wq/"
-            }
-        },
         "Mangadex": {
             "64ff0ae0-a438-40fb-aa6a-156ca594f948": {
+                "id": 179875,
                 "identifier": "64ff0ae0-a438-40fb-aa6a-156ca594f948",
                 "image": "https://uploads.mangadex.org/covers/64ff0ae0-a438-40fb-aa6a-156ca594f948/a8765cf9-5f93-4f85-9ee2-3cccefea5c84.jpg",
                 "malId": 83793,
@@ -38,6 +17,19 @@
                 "title": "Chef Mitsuboshi",
                 "type": "manga",
                 "url": "https://mangadex.org/title/64ff0ae0-a438-40fb-aa6a-156ca594f948"
+            }
+        },
+        "MangaFire": {
+            "lr8wq": {
+                "id": 239235,
+                "identifier": "lr8wq",
+                "image": "https://static.mangafire.to/b078/i/e/e1/e1bf55c4de0a12662a22c6e7cbcdbe45.jpg",
+                "malId": 83793,
+                "aniId": 113827,
+                "page": "MangaFire",
+                "title": "★★★ no Specialite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-specialitee.lr8wq"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cab9bbbf-5acd-4bc0-83b5-f803bec4a37e": {
+                "id": 60903,
                 "identifier": "cab9bbbf-5acd-4bc0-83b5-f803bec4a37e",
                 "image": "https://uploads.mangadex.org/covers/cab9bbbf-5acd-4bc0-83b5-f803bec4a37e/a87c7d4b-4490-41ee-b18b-d72bcf285003.jpg",
                 "malId": 149141,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mookhyang_the_origin": {
+                "id": 63521,
                 "identifier": "mookhyang_the_origin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37699/cover.jpg",
                 "malId": 149141,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "mookhyang-the-origin": {
+                "id": 65800,
                 "identifier": "mookhyang-the-origin",
                 "image": "https://temp.compsci88.com/cover/MookHyang-The-Origin.jpg",
                 "malId": 149141,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ky987881": {
+                "id": 74414,
                 "identifier": "manga-ky987881",
                 "image": "https://avt.mkklcdnv6temp.com/15/w/23-1612142362.jpg",
                 "malId": 149141,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ky987881"
             }
         },
-        "MangaFire": {
-            "mookhyang-the-origin.w1jrk": {
-                "identifier": "mookhyang-the-origin.w1jrk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9a0e7e0b09abfb10df627bf6211a0900.jpg",
-                "malId": 149141,
-                "aniId": 130222,
-                "page": "MangaFire",
-                "title": "Mookhyang: The Origin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mookhyang-the-origin.w1jrk/"
-            },
-            "mookhyang-the-originn.w1jrk": {
-                "identifier": "mookhyang-the-originn.w1jrk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9a0e7e0b09abfb10df627bf6211a0900.jpg",
-                "malId": 149141,
-                "aniId": 130222,
-                "page": "MangaFire",
-                "title": "Mookhyang: The Origin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mookhyang-the-originn.w1jrk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeg52d7dg6jfbbef9n8a": {
+                "id": 206312,
                 "identifier": "01j76xyeg52d7dg6jfbbef9n8a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEG52D7DG6JFBBEF9N8A.jpg",
                 "malId": 149141,
@@ -86,6 +69,19 @@
                 "title": "MookHyang - The Origin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEG52D7DG6JFBBEF9N8A"
+            }
+        },
+        "MangaFire": {
+            "w1jrk": {
+                "id": 226668,
+                "identifier": "w1jrk",
+                "image": "https://static.mangafire.to/7ee7/i/9/9a/9a0e7e0b09abfb10df627bf6211a0900.jpg",
+                "malId": 149141,
+                "aniId": 130222,
+                "page": "MangaFire",
+                "title": "Mookhyang: The Origin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mookhyang-the-originn.w1jrk"
             }
         },
         "Comick": {

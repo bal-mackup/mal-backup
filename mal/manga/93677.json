@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "7fdca30e-26ef-442e-8157-d81a1fedd5df": {
+                "id": 14475,
                 "identifier": "7fdca30e-26ef-442e-8157-d81a1fedd5df",
-                "image": "https://uploads.mangadex.org/covers/7fdca30e-26ef-442e-8157-d81a1fedd5df/f0d54ee8-ad98-40a8-9b88-d316b042e82f.jpg",
+                "image": "https://uploads.mangadex.org/covers/7fdca30e-26ef-442e-8157-d81a1fedd5df/5dcbcc39-33ba-4818-8922-8f0ba4e38c44.jpg",
                 "malId": 93677,
                 "aniId": 86637,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gantz-g": {
+                "id": 61757,
                 "identifier": "gantz-g",
                 "image": "https://temp.compsci88.com/cover/Gantz-G.jpg",
                 "malId": 93677,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "gantz_g": {
+                "id": 63429,
                 "identifier": "gantz_g",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17793/cover.jpg",
                 "malId": 93677,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cs951901": {
+                "id": 78622,
                 "identifier": "manga-cs951901",
                 "image": "https://avt.mkklcdnv6temp.com/fld/23/k/1-1732717290-nw.webp",
                 "malId": 93677,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cs951901"
             }
         },
-        "MangaFire": {
-            "gantz-g.ll92z": {
-                "identifier": "gantz-g.ll92z",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4d62093ce7b8c53f3171af3dfed2bc6.jpg",
-                "malId": 93677,
-                "aniId": 86637,
-                "page": "MangaFire",
-                "title": "Gantz G",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gantz-g.ll92z/"
-            },
-            "ll92z": {
-                "identifier": "ll92z",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4d62093ce7b8c53f3171af3dfed2bc6.jpg",
-                "malId": 93677,
-                "aniId": 86637,
-                "page": "MangaFire",
-                "title": "Gantz G",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gantz-g.ll92z/"
-            }
-        },
         "Weebcentral": {
             "01j76xybgwrx476f021dmbxx27": {
+                "id": 208151,
                 "identifier": "01j76xybgwrx476f021dmbxx27",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBGWRX476F021DMBXX27.jpg",
                 "malId": 93677,
@@ -86,6 +69,19 @@
                 "title": "Gantz:G",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBGWRX476F021DMBXX27"
+            }
+        },
+        "MangaFire": {
+            "ll92z": {
+                "id": 257109,
+                "identifier": "ll92z",
+                "image": "https://static.mangafire.to/5f2b/i/a/a4/a4d62093ce7b8c53f3171af3dfed2bc6.jpg",
+                "malId": 93677,
+                "aniId": 86637,
+                "page": "MangaFire",
+                "title": "Gantz G",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gantz-gg.ll92z"
             }
         },
         "Comick": {

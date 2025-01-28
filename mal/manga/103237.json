@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c1c408f6-3dec-4d62-b6b3-b57e615d933c": {
+                "id": 9645,
                 "identifier": "c1c408f6-3dec-4d62-b6b3-b57e615d933c",
                 "image": "https://uploads.mangadex.org/covers/c1c408f6-3dec-4d62-b6b3-b57e615d933c/8b279428-fa32-49b2-bd51-4f8d4db7d420.jpg",
                 "malId": 103237,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "wind-breaker": {
+                "id": 56175,
                 "identifier": "wind-breaker",
                 "image": "https://temp.compsci88.com/cover/Wind-Breaker.jpg",
                 "malId": 103237,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "wind_breaker": {
+                "id": 66574,
                 "identifier": "wind_breaker",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13444/cover.jpg",
                 "malId": 103237,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ab951884": {
+                "id": 72864,
                 "identifier": "manga-ab951884",
                 "image": "https://avt.mkklcdnv6temp.com/19/y/1-1583464482.jpg",
                 "malId": 103237,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ab951884"
             }
         },
-        "MangaFire": {
-            "wind-breaker.zkpl": {
-                "identifier": "wind-breaker.zkpl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d2b59abd085cae58566253ed4f0fb37.jpg",
-                "malId": 103237,
-                "aniId": 86099,
-                "page": "MangaFire",
-                "title": "Wind Breaker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wind-breaker.zkpl/"
-            },
-            "wind-breakerr.zkpl": {
-                "identifier": "wind-breakerr.zkpl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2d2b59abd085cae58566253ed4f0fb37.jpg",
-                "malId": 103237,
-                "aniId": 86099,
-                "page": "MangaFire",
-                "title": "Wind Breaker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wind-breakerr.zkpl/"
-            }
-        },
         "Weebcentral": {
             "01j76xya1tqykv6w4bcmr2wd5m": {
+                "id": 209774,
                 "identifier": "01j76xya1tqykv6w4bcmr2wd5m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA1TQYKV6W4BCMR2WD5M.jpg",
                 "malId": 103237,
@@ -86,6 +69,19 @@
                 "title": "Wind Breaker",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA1TQYKV6W4BCMR2WD5M"
+            }
+        },
+        "MangaFire": {
+            "zkpl": {
+                "id": 228251,
+                "identifier": "zkpl",
+                "image": "https://static.mangafire.to/932d/i/2/2d/2d2b59abd085cae58566253ed4f0fb37.jpg",
+                "malId": 103237,
+                "aniId": 86099,
+                "page": "MangaFire",
+                "title": "Wind Breaker",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wind-breakerr.zkpl"
             }
         },
         "Comick": {

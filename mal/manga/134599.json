@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "178d3cd8-4624-4afc-81b0-b2f260a1b28b": {
+                "id": 57830,
                 "identifier": "178d3cd8-4624-4afc-81b0-b2f260a1b28b",
                 "image": "https://uploads.mangadex.org/covers/178d3cd8-4624-4afc-81b0-b2f260a1b28b/1cce73fd-c544-4e45-89f7-e6c969a73552.jpg",
                 "malId": 134599,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kd987812": {
+                "id": 74515,
                 "identifier": "manga-kd987812",
                 "image": "https://avt.mkklcdnv6temp.com/12/y/23-1611987979.jpg",
                 "malId": 134599,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hime-kishi-wa-barbaroi-no-yome": {
+                "id": 101172,
                 "identifier": "hime-kishi-wa-barbaroi-no-yome",
                 "image": "https://temp.compsci88.com/cover/Hime-Kishi-wa-Barbaroi-no-Yome.jpg",
                 "malId": 134599,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Hime-Kishi-wa-Barbaroi-no-Yome"
             }
         },
-        "MangaFire": {
-            "hime-kishi-wa-barbaroi-no-yome.n33xl": {
-                "identifier": "hime-kishi-wa-barbaroi-no-yome.n33xl",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d32839273c46c4d087e7d9c38aeae20.jpg",
-                "malId": 134599,
-                "aniId": 128319,
-                "page": "MangaFire",
-                "title": "The Barbarian's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hime-kishi-wa-barbaroi-no-yome.n33xl/"
-            },
-            "hime-kishi-wa-barbaroi-no-yomee.n33xl": {
-                "identifier": "hime-kishi-wa-barbaroi-no-yomee.n33xl",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d32839273c46c4d087e7d9c38aeae20.jpg",
-                "malId": 134599,
-                "aniId": 128319,
-                "page": "MangaFire",
-                "title": "The Barbarian's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hime-kishi-wa-barbaroi-no-yomee.n33xl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfdcrtmcxyrms44gxvn6": {
+                "id": 207847,
                 "identifier": "01j76xyfdcrtmcxyrms44gxvn6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFDCRTMCXYRMS44GXVN6.jpg",
                 "malId": 134599,
@@ -74,6 +56,19 @@
                 "title": "The Warrior Princess and the Barbaric King",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFDCRTMCXYRMS44GXVN6"
+            }
+        },
+        "MangaFire": {
+            "n33xl": {
+                "id": 225087,
+                "identifier": "n33xl",
+                "image": "https://static.mangafire.to/a680/i/7/7d/7d32839273c46c4d087e7d9c38aeae20.jpg",
+                "malId": 134599,
+                "aniId": 128319,
+                "page": "MangaFire",
+                "title": "The Barbarian's Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hime-kishi-wa-barbaroi-no-yomee.n33xl"
             }
         },
         "Comick": {

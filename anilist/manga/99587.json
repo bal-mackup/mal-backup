@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c101b7dd-1e3f-4563-8ef9-be69cf367129": {
+                "id": 18000,
                 "identifier": "c101b7dd-1e3f-4563-8ef9-be69cf367129",
                 "image": "https://uploads.mangadex.org/covers/c101b7dd-1e3f-4563-8ef9-be69cf367129/3a3a21aa-3d02-4df9-86eb-300280e8d194.jpg",
                 "malId": 108306,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "seirei_gensouki_konna_sekai_de_deaeta_kimi_ni_minazuki_futago": {
+                "id": 55271,
                 "identifier": "seirei_gensouki_konna_sekai_de_deaeta_kimi_ni_minazuki_futago",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26287/cover.jpg",
                 "malId": 108306,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/seirei_gensouki_konna_sekai_de_deaeta_kimi_ni_minazuki_futago/"
             },
             "seirei_gensouki_konna_sekai_de_deaeta_kimi_ni": {
+                "id": 55273,
                 "identifier": "seirei_gensouki_konna_sekai_de_deaeta_kimi_ni",
                 "image": "https://fmcdn.mfcdn.net/store/manga/23685/cover.jpg",
                 "malId": 108306,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/seirei_gensouki_konna_sekai_de_deaeta_kimi_ni/"
             },
             "seirei_gensouki_konna_sekai_de_deaeta_kimi_ni_novel": {
+                "id": 59235,
                 "identifier": "seirei_gensouki_konna_sekai_de_deaeta_kimi_ni_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36592/cover.jpg",
                 "malId": 108306,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "seirei-gensouki": {
+                "id": 58955,
                 "identifier": "seirei-gensouki",
                 "image": "https://temp.compsci88.com/cover/Seirei-Gensouki.jpg",
                 "malId": 108306,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-xe974687": {
+                "id": 74041,
                 "identifier": "manga-xe974687",
                 "image": "https://avt.mkklcdnv6temp.com/48/b/14-1583491410.jpg",
                 "malId": 108306,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-xe974687"
             }
         },
-        "MangaFire": {
-            "seirei-gensouki-spirit-chronicles.n30ym": {
-                "identifier": "seirei-gensouki-spirit-chronicles.n30ym",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7d5b81a9982bd9713c91b6379a003f7.jpg",
-                "malId": 108306,
-                "aniId": 99587,
-                "page": "MangaFire",
-                "title": "Seirei Gensouki: Spirit Chronicles",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seirei-gensouki-spirit-chronicles.n30ym/"
-            },
-            "seirei-gensouki-spirit-chronicless.n30ym": {
-                "identifier": "seirei-gensouki-spirit-chronicless.n30ym",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7d5b81a9982bd9713c91b6379a003f7.jpg",
-                "malId": 108306,
-                "aniId": 99587,
-                "page": "MangaFire",
-                "title": "Seirei Gensouki: Spirit Chronicles",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seirei-gensouki-spirit-chronicless.n30ym/"
-            }
-        },
         "Weebcentral": {
             "01j76xycf9t74en5fyf2kyc7cp": {
+                "id": 208603,
                 "identifier": "01j76xycf9t74en5fyf2kyc7cp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCF9T74EN5FYF2KYC7CP.jpg",
                 "malId": 108306,
@@ -106,6 +91,19 @@
                 "title": "Seirei Gensouki: Spirit Chronicles",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCF9T74EN5FYF2KYC7CP"
+            }
+        },
+        "MangaFire": {
+            "n30ym": {
+                "id": 226711,
+                "identifier": "n30ym",
+                "image": "https://static.mangafire.to/57d8/i/d/d7/d7d5b81a9982bd9713c91b6379a003f7.jpg",
+                "malId": 108306,
+                "aniId": 99587,
+                "page": "MangaFire",
+                "title": "Seirei Gensouki: Spirit Chronicles",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seirei-gensouki-spirit-chronicless.n30ym"
             }
         },
         "Comick": {

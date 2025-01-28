@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-writer-and-his-housekeeper": {
+                "id": 68027,
                 "identifier": "the-writer-and-his-housekeeper",
                 "image": "https://temp.compsci88.com/cover/The-Writer-and-His-Housekeeper.jpg",
                 "malId": 130761,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "095ef34e-b927-4774-8fb8-b57f35b07502": {
+                "id": 106310,
                 "identifier": "095ef34e-b927-4774-8fb8-b57f35b07502",
                 "image": "https://uploads.mangadex.org/covers/095ef34e-b927-4774-8fb8-b57f35b07502/656ca6e3-76dc-408a-a0b5-483f4091adcc.jpg",
                 "malId": 130761,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/095ef34e-b927-4774-8fb8-b57f35b07502"
             }
         },
-        "MangaFire": {
-            "shousetsuka-sama-wa-monmon-shitagaru.mvozv": {
-                "identifier": "shousetsuka-sama-wa-monmon-shitagaru.mvozv",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60e1fecade67b4b8cd9fb47d50b98316.jpg",
-                "malId": 130761,
-                "aniId": 125149,
-                "page": "MangaFire",
-                "title": "The Writer and His Housekeeper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shousetsuka-sama-wa-monmon-shitagaru.mvozv/"
-            }
-        },
         "Weebcentral": {
             "01j76xye1r0d6cbs0ezfkhvyx3": {
+                "id": 212175,
                 "identifier": "01j76xye1r0d6cbs0ezfkhvyx3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE1R0D6CBS0EZFKHVYX3.jpg",
                 "malId": 130761,
@@ -52,6 +43,19 @@
                 "title": "The Writer and His Housekeeper",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE1R0D6CBS0EZFKHVYX3"
+            }
+        },
+        "MangaFire": {
+            "mvozv": {
+                "id": 237641,
+                "identifier": "mvozv",
+                "image": "https://static.mangafire.to/f0ed/i/6/60/60e1fecade67b4b8cd9fb47d50b98316.jpg",
+                "malId": 130761,
+                "aniId": 125149,
+                "page": "MangaFire",
+                "title": "The Writer and His Housekeeper",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shousetsuka-sama-wa-monmon-shitagaruu.mvozv"
             }
         },
         "Comick": {

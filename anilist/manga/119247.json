@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a9dd451c-3c45-4d66-a818-4e1b78855838": {
+                "id": 38441,
                 "identifier": "a9dd451c-3c45-4d66-a818-4e1b78855838",
                 "image": "https://uploads.mangadex.org/covers/a9dd451c-3c45-4d66-a818-4e1b78855838/b27b95b9-43dd-45c5-9cfb-7ccd72503d39.jpg",
                 "malId": 133431,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "uma-musume-cinderella-gray": {
+                "id": 116466,
                 "identifier": "uma-musume-cinderella-gray",
                 "image": "https://temp.compsci88.com/cover/Uma-Musume-Cinderella-Gray.jpg",
                 "malId": 133431,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Uma-Musume-Cinderella-Gray"
             }
         },
-        "MangaFire": {
-            "uma-musume-cinderella-gray.1k2m": {
-                "identifier": "uma-musume-cinderella-gray.1k2m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/5570125be94081e4e60b8bde880417fa.jpg",
-                "malId": 133431,
-                "aniId": 119247,
-                "page": "MangaFire",
-                "title": "Uma Musume: Cinderella Gray",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uma-musume-cinderella-gray.1k2m/"
-            },
-            "uma-musume-cinderella-grayy.1k2m": {
-                "identifier": "uma-musume-cinderella-grayy.1k2m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/5570125be94081e4e60b8bde880417fa.jpg",
-                "malId": 133431,
-                "aniId": 119247,
-                "page": "MangaFire",
-                "title": "Uma Musume: Cinderella Gray",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uma-musume-cinderella-grayy.1k2m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfr5gxcwcyzfp889hjpr": {
+                "id": 214028,
                 "identifier": "01j76xyfr5gxcwcyzfp889hjpr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFR5GXCWCYZFP889HJPR.jpg",
                 "malId": 133431,
@@ -62,6 +43,19 @@
                 "title": "Uma Musume: Cinderella Gray",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFR5GXCWCYZFP889HJPR"
+            }
+        },
+        "MangaFire": {
+            "1k2m": {
+                "id": 239680,
+                "identifier": "1k2m",
+                "image": "https://static.mangafire.to/c280/i/5/55/5570125be94081e4e60b8bde880417fa.jpg",
+                "malId": 133431,
+                "aniId": 119247,
+                "page": "MangaFire",
+                "title": "Uma Musume: Cinderella Gray",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uma-musume-cinderella-grayy.1k2m"
             }
         },
         "Comick": {

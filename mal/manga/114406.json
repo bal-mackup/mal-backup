@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0591023f-4d7d-4959-a81d-135eeacb6604": {
+                "id": 21241,
                 "identifier": "0591023f-4d7d-4959-a81d-135eeacb6604",
                 "image": "https://uploads.mangadex.org/covers/0591023f-4d7d-4959-a81d-135eeacb6604/e706fb06-c465-4087-ace5-5a7556fe0fb3.jpg",
                 "malId": 114406,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gofun-go-no-sekai": {
+                "id": 58956,
                 "identifier": "gofun-go-no-sekai",
                 "image": "https://temp.compsci88.com/cover/Gofun-go-No-Sekai.jpg",
                 "malId": 114406,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cb980158": {
+                "id": 73086,
                 "identifier": "manga-cb980158",
                 "image": "https://avt.mkklcdnv6temp.com/18/h/17-1583495920.jpg",
                 "malId": 114406,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-cb980158"
             }
         },
-        "MangaFire": {
-            "gofun-go-no-sekai.jrrn": {
-                "identifier": "gofun-go-no-sekai.jrrn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00b0cf162aaa2e7bb01b16920fe0729e.jpg",
-                "malId": 114406,
-                "aniId": 105140,
-                "page": "MangaFire",
-                "title": "After the Five Minutes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gofun-go-no-sekai.jrrn/"
-            },
-            "jrrn": {
-                "identifier": "jrrn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00b0cf162aaa2e7bb01b16920fe0729e.jpg",
-                "malId": 114406,
-                "aniId": 105140,
-                "page": "MangaFire",
-                "title": "After the Five Minutes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gofun-go-no-sekai.jrrn/"
-            }
-        },
         "Weebcentral": {
             "01j76xycwk60xazsc0y7599553": {
+                "id": 208643,
                 "identifier": "01j76xycwk60xazsc0y7599553",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCWK60XAZSC0Y7599553.jpg",
                 "malId": 114406,
@@ -74,6 +56,19 @@
                 "title": "Gofun-go no Sekai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCWK60XAZSC0Y7599553"
+            }
+        },
+        "MangaFire": {
+            "jrrn": {
+                "id": 261743,
+                "identifier": "jrrn",
+                "image": "https://static.mangafire.to/333d/i/0/00/00b0cf162aaa2e7bb01b16920fe0729e.jpg",
+                "malId": 114406,
+                "aniId": 105140,
+                "page": "MangaFire",
+                "title": "After the Five Minutes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gofun-go-no-sekaii.jrrn"
             }
         },
         "Comick": {

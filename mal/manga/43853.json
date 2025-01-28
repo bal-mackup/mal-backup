@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3ba8fde2-acf7-4216-838c-51ae7d6d6eec": {
+                "id": 129931,
                 "identifier": "3ba8fde2-acf7-4216-838c-51ae7d6d6eec",
                 "image": "https://uploads.mangadex.org/covers/3ba8fde2-acf7-4216-838c-51ae7d6d6eec/75b15b21-8b6b-4257-b2a1-157a7420ce5d.jpg",
                 "malId": 43853,
@@ -20,14 +21,39 @@
         },
         "MangaFire": {
             "1qm9v": {
+                "id": 232421,
                 "identifier": "1qm9v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/ebc82f8180ae1f3e737a52dd16b10dde.jpg",
+                "image": "https://static.mangafire.to/50d9/i/f/f7/ebc82f8180ae1f3e737a52dd16b10dde.jpg",
                 "malId": 43853,
                 "aniId": 73853,
                 "page": "MangaFire",
                 "title": "Mahou no Tsukaikata",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-no-tsukaikata.1qm9v/"
+                "url": "https://mangafire.to/manga/mahou-no-tsukaikataa.1qm9v"
+            }
+        },
+        "MangaNato": {
+            "manga-dg1006789": {
+                "id": 268298,
+                "identifier": "manga-dg1006789",
+                "image": "https://avt.mkklcdnv6temp.com/fld/8/d/19-1737299714-nw.webp",
+                "malId": 43853,
+                "aniId": 73853,
+                "page": "MangaNato",
+                "title": "Mahou No Tsukaikata",
+                "type": "manga",
+                "url": "https://chapmanganato.to/manga-dg1006789"
+            }
+        },
+        "Comick": {
+            "NRPw1ZJX": {
+                "identifier": "NRPw1ZJX",
+                "malId": 43853,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Mahou no Tsukaikata",
+                "url": "https://comick.io/comic/mahou-no-tsukaikata",
+                "aniId": 73853
             }
         }
     },

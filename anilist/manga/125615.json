@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab5ee43d-b3d2-4d78-8f13-f738f983c35a": {
+                "id": 125048,
                 "identifier": "ab5ee43d-b3d2-4d78-8f13-f738f983c35a",
                 "image": "https://uploads.mangadex.org/covers/ab5ee43d-b3d2-4d78-8f13-f738f983c35a/2c2cc746-c8ab-4eee-9ef3-6db6c6aa89ee.jpg",
                 "malId": 121715,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/ab5ee43d-b3d2-4d78-8f13-f738f983c35a"
             }
         },
-        "MangaFire": {
-            "kaibutsu-shoujo-zukan.zxqnp": {
-                "identifier": "kaibutsu-shoujo-zukan.zxqnp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16c68a792075129b2040cbd3b4ce7f01.jpg",
-                "malId": 121715,
-                "aniId": 125615,
-                "page": "MangaFire",
-                "title": "Kaibutsu Shoujo Zukan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaibutsu-shoujo-zukan.zxqnp/"
-            }
-        },
         "MangaSee": {
             "the-illustrated-guide-to-monster-girls": {
+                "id": 170326,
                 "identifier": "the-illustrated-guide-to-monster-girls",
                 "image": "https://temp.compsci88.com/cover/The-Illustrated-Guide-to-Monster-Girls.jpg",
                 "malId": 121715,
@@ -44,8 +34,9 @@
         },
         "MangaNato": {
             "manga-xn1001148": {
+                "id": 183498,
                 "identifier": "manga-xn1001148",
-                "image": "https://avt.mkklcdnv6temp.com/5/o/34-1709697959.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/96/i/16-1733320479-nw.webp",
                 "malId": 121715,
                 "aniId": 125615,
                 "page": "MangaNato",
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygh860q4c34cwnq86cyc": {
+                "id": 208932,
                 "identifier": "01j76xygh860q4c34cwnq86cyc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGH860Q4C34CWNQ86CYC.jpg",
                 "malId": 121715,
@@ -64,6 +56,19 @@
                 "title": "The Illustrated Guide to Monster Girls",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGH860Q4C34CWNQ86CYC"
+            }
+        },
+        "MangaFire": {
+            "zxqnp": {
+                "id": 239539,
+                "identifier": "zxqnp",
+                "image": "https://static.mangafire.to/393a/i/1/16/16c68a792075129b2040cbd3b4ce7f01.jpg",
+                "malId": 121715,
+                "aniId": 125615,
+                "page": "MangaFire",
+                "title": "Kaibutsu Shoujo Zukan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaibutsu-shoujo-zukann.zxqnp"
             }
         },
         "Comick": {

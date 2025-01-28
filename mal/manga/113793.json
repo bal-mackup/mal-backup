@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4af56a6b-5baf-4fb3-a693-4530cb50bfbe": {
+                "id": 20494,
                 "identifier": "4af56a6b-5baf-4fb3-a693-4530cb50bfbe",
                 "image": "https://uploads.mangadex.org/covers/4af56a6b-5baf-4fb3-a693-4530cb50bfbe/c39c018d-c5ff-4ef7-8fce-238fa0d82917.jpg",
                 "malId": 113793,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-bc978859": {
+                "id": 76820,
                 "identifier": "manga-bc978859",
                 "image": "https://avt.mkklcdnv6temp.com/19/r/16-1583494179.jpg",
                 "malId": 113793,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yjk_no_ijou_na_aijou": {
+                "id": 93090,
                 "identifier": "yjk_no_ijou_na_aijou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31596/cover.jpg",
                 "malId": 113793,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "yjk-no-ijou-na-aijou": {
+                "id": 128813,
                 "identifier": "yjk-no-ijou-na-aijou",
                 "image": "https://temp.compsci88.com/cover/YJK-no-Ijou-na-Aijou.jpg",
                 "malId": 113793,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/YJK-no-Ijou-na-Aijou"
             }
         },
-        "MangaFire": {
-            "yjk-no-ijou-na-aijou.x3yz": {
-                "identifier": "yjk-no-ijou-na-aijou.x3yz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4aa6449dccc28b38ff3ec520acd6574.jpg",
-                "malId": 113793,
-                "aniId": 103114,
-                "page": "MangaFire",
-                "title": "YJK no Ijou na Aijou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yjk-no-ijou-na-aijou.x3yz/"
-            },
-            "yjk-no-ijou-na-aijouu.x3yz": {
-                "identifier": "yjk-no-ijou-na-aijouu.x3yz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4aa6449dccc28b38ff3ec520acd6574.jpg",
-                "malId": 113793,
-                "aniId": 103114,
-                "page": "MangaFire",
-                "title": "YJK no Ijou na Aijou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yjk-no-ijou-na-aijouu.x3yz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg2dgfrkwwr8rgy2wnre": {
+                "id": 207639,
                 "identifier": "01j76xyg2dgfrkwwr8rgy2wnre",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG2DGFRKWWR8RGY2WNRE.jpg",
                 "malId": 113793,
@@ -86,6 +69,19 @@
                 "title": "YJK no Ijou na Aijou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG2DGFRKWWR8RGY2WNRE"
+            }
+        },
+        "MangaFire": {
+            "x3yz": {
+                "id": 227020,
+                "identifier": "x3yz",
+                "image": "https://static.mangafire.to/6642/i/c/c4/c4aa6449dccc28b38ff3ec520acd6574.jpg",
+                "malId": 113793,
+                "aniId": 103114,
+                "page": "MangaFire",
+                "title": "YJK no Ijou na Aijou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yjk-no-ijou-na-aijouu.x3yz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0abe11f8-ad54-4440-b300-8cb5e7bd262b": {
+                "id": 38044,
                 "identifier": "0abe11f8-ad54-4440-b300-8cb5e7bd262b",
                 "image": "https://uploads.mangadex.org/covers/0abe11f8-ad54-4440-b300-8cb5e7bd262b/0106a636-5ea4-41d4-8ff5-655b9c7908d0.jpg",
                 "malId": 126931,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sennen-kitsune": {
+                "id": 62572,
                 "identifier": "sennen-kitsune",
                 "image": "https://temp.compsci88.com/cover/Sennen-Kitsune.jpg",
                 "malId": 126931,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jf986762": {
+                "id": 77543,
                 "identifier": "manga-jf986762",
                 "image": "https://avt.mkklcdnv6temp.com/19/x/22-1600847330.jpg",
                 "malId": 126931,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-jf986762"
             }
         },
-        "MangaFire": {
-            "sennen-kitsune.3r49y": {
-                "identifier": "sennen-kitsune.3r49y",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3dbd0605cd8ed2556535517525ed4270.jpg",
-                "malId": 126931,
-                "aniId": 111013,
-                "page": "MangaFire",
-                "title": "Sennen Kitsune",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sennen-kitsune.3r49y/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzrr1bgqckhavgt3ycd": {
+                "id": 209673,
                 "identifier": "01j76xydzrr1bgqckhavgt3ycd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZRR1BGQCKHAVGT3YCD.jpg",
                 "malId": 126931,
@@ -64,6 +56,19 @@
                 "title": "Sennen Kitsune",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZRR1BGQCKHAVGT3YCD"
+            }
+        },
+        "MangaFire": {
+            "3r49y": {
+                "id": 247868,
+                "identifier": "3r49y",
+                "image": "https://static.mangafire.to/8886/i/3/3d/3dbd0605cd8ed2556535517525ed4270.jpg",
+                "malId": 126931,
+                "aniId": 111013,
+                "page": "MangaFire",
+                "title": "Sennen Kitsune",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sennen-kitsunee.3r49y"
             }
         },
         "Comick": {

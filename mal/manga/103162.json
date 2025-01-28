@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f9448f90-c068-4b6a-8c85-03d739aef255": {
+                "id": 16398,
                 "identifier": "f9448f90-c068-4b6a-8c85-03d739aef255",
                 "image": "https://uploads.mangadex.org/covers/f9448f90-c068-4b6a-8c85-03d739aef255/5df363c5-16aa-471a-97f2-5bf24810a714.jpg",
                 "malId": 103162,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "bright_and_cheery_amnesia": {
+                "id": 63759,
                 "identifier": "bright_and_cheery_amnesia",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21615/cover.jpg",
                 "malId": 103162,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "cheerful-amnesia": {
+                "id": 65102,
                 "identifier": "cheerful-amnesia",
                 "image": "https://temp.compsci88.com/cover/Cheerful-Amnesia.jpg",
                 "malId": 103162,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vt972728": {
+                "id": 74718,
                 "identifier": "manga-vt972728",
                 "image": "https://avt.mkklcdnv6temp.com/19/p/14-1583490448.jpg",
                 "malId": 103162,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vt972728"
             }
         },
-        "MangaFire": {
-            "cheerful-amnesia.n3pzn": {
-                "identifier": "cheerful-amnesia.n3pzn",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66bade3b7f91e59a9464bb179119eb4f.jpg",
-                "malId": 103162,
-                "aniId": 98188,
-                "page": "MangaFire",
-                "title": "Cheerful Amnesia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cheerful-amnesia.n3pzn/"
-            },
-            "cheerful-amnesiaa.n3pzn": {
-                "identifier": "cheerful-amnesiaa.n3pzn",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66bade3b7f91e59a9464bb179119eb4f.jpg",
-                "malId": 103162,
-                "aniId": 98188,
-                "page": "MangaFire",
-                "title": "Cheerful Amnesia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cheerful-amnesiaa.n3pzn/"
-            }
-        },
         "Weebcentral": {
             "01j76xycy6y79xb0q08mjd1sq5": {
+                "id": 208709,
                 "identifier": "01j76xycy6y79xb0q08mjd1sq5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCY6Y79XB0Q08MJD1SQ5.jpg",
                 "malId": 103162,
@@ -86,6 +69,19 @@
                 "title": "Cheerful Amnesia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCY6Y79XB0Q08MJD1SQ5"
+            }
+        },
+        "MangaFire": {
+            "n3pzn": {
+                "id": 225266,
+                "identifier": "n3pzn",
+                "image": "https://static.mangafire.to/ef3b/i/6/66/66bade3b7f91e59a9464bb179119eb4f.jpg",
+                "malId": 103162,
+                "aniId": 98188,
+                "page": "MangaFire",
+                "title": "Cheerful Amnesia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cheerful-amnesiaa.n3pzn"
             }
         },
         "Comick": {

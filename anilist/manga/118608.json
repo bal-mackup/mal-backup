@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0f13d05a-dacf-43ff-93ca-165523e55a46": {
+                "id": 34420,
                 "identifier": "0f13d05a-dacf-43ff-93ca-165523e55a46",
                 "image": "https://uploads.mangadex.org/covers/0f13d05a-dacf-43ff-93ca-165523e55a46/35700a24-c75d-4a1a-b631-3f617c2f1841.jpg",
                 "malId": 147646,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-live": {
+                "id": 60485,
                 "identifier": "the-live",
                 "image": "https://temp.compsci88.com/cover/The-Live.jpg",
                 "malId": 147646,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hu985103": {
+                "id": 73531,
                 "identifier": "manga-hu985103",
                 "image": "https://avt.mkklcdnv6temp.com/1/p/20-1586234951.jpg",
                 "malId": 147646,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-hu985103"
             }
         },
-        "MangaFire": {
-            "the-live.m2mvz": {
-                "identifier": "the-live.m2mvz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe30cf4c559987bf898cfee5aa5494df.jpg",
-                "malId": 147646,
-                "aniId": 118608,
-                "page": "MangaFire",
-                "title": "The Live",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-live.m2mvz/"
-            },
-            "the-livee.m2mvz": {
-                "identifier": "the-livee.m2mvz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe30cf4c559987bf898cfee5aa5494df.jpg",
-                "malId": 147646,
-                "aniId": 118608,
-                "page": "MangaFire",
-                "title": "The Live",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-livee.m2mvz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeaj922p9y4c32n7ed5m": {
+                "id": 208403,
                 "identifier": "01j76xyeaj922p9y4c32n7ed5m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEAJ922P9Y4C32N7ED5M.jpg",
                 "malId": 147646,
@@ -74,6 +56,19 @@
                 "title": "The Live",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEAJ922P9Y4C32N7ED5M"
+            }
+        },
+        "MangaFire": {
+            "m2mvz": {
+                "id": 224008,
+                "identifier": "m2mvz",
+                "image": "https://static.mangafire.to/9fbb/i/f/fe/fe30cf4c559987bf898cfee5aa5494df.jpg",
+                "malId": 147646,
+                "aniId": 118608,
+                "page": "MangaFire",
+                "title": "The Live",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-livee.m2mvz"
             }
         },
         "Comick": {

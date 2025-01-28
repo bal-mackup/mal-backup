@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "64c70b9c-d9cd-4f26-94cc-9d93850181a2": {
+                "id": 91671,
                 "identifier": "64c70b9c-d9cd-4f26-94cc-9d93850181a2",
                 "image": "https://uploads.mangadex.org/covers/64c70b9c-d9cd-4f26-94cc-9d93850181a2/64c0374a-e30d-488a-8681-b6baec454fcb.jpg",
                 "malId": 142176,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/64c70b9c-d9cd-4f26-94cc-9d93850181a2"
             }
         },
-        "MangaFire": {
-            "mahou-shoujo-jihen.w1nq6": {
-                "identifier": "mahou-shoujo-jihen.w1nq6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3d492576c62efcbde25e43e9d357aa9.jpg",
-                "malId": 142176,
-                "aniId": 132443,
-                "page": "MangaFire",
-                "title": "Magical Girl Incident",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-jihen.w1nq6/"
-            },
-            "mahou-shoujo-jihenn.w1nq6": {
-                "identifier": "mahou-shoujo-jihenn.w1nq6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3d492576c62efcbde25e43e9d357aa9.jpg",
-                "malId": 142176,
-                "aniId": 132443,
-                "page": "MangaFire",
-                "title": "Magical Girl Incident",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-jihenn.w1nq6/"
-            }
-        },
         "MangaSee": {
             "magical-girl-incident": {
+                "id": 159556,
                 "identifier": "magical-girl-incident",
                 "image": "https://temp.compsci88.com/cover/Magical-Girl-Incident.jpg",
                 "malId": 142176,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg6ykxgq82q9ccd4r8ze": {
+                "id": 208358,
                 "identifier": "01j76xyg6ykxgq82q9ccd4r8ze",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6YKXGQ82Q9CCD4R8ZE.jpg",
                 "malId": 142176,
@@ -62,6 +43,19 @@
                 "title": "Magical Girl Incident",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6YKXGQ82Q9CCD4R8ZE"
+            }
+        },
+        "MangaFire": {
+            "w1nq6": {
+                "id": 225343,
+                "identifier": "w1nq6",
+                "image": "https://static.mangafire.to/9155/i/b/b3/b3d492576c62efcbde25e43e9d357aa9.jpg",
+                "malId": 142176,
+                "aniId": 132443,
+                "page": "MangaFire",
+                "title": "Magical Girl Incident",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahou-shoujo-jihenn.w1nq6"
             }
         },
         "Comick": {

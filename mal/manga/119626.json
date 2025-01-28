@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a5d7f06b-740e-4901-a3a5-700104c7972f": {
+                "id": 27443,
                 "identifier": "a5d7f06b-740e-4901-a3a5-700104c7972f",
                 "image": "https://uploads.mangadex.org/covers/a5d7f06b-740e-4901-a3a5-700104c7972f/394486cf-50c3-4821-ab3b-d0a3f23346df.jpg",
                 "malId": 119626,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shinsetsu-ookami-to-koushinryou-ookami-to-youhishi": {
+                "id": 55846,
                 "identifier": "shinsetsu-ookami-to-koushinryou-ookami-to-youhishi",
                 "image": "https://temp.compsci88.com/cover/Shinsetsu-Ookami-to-Koushinryou-Ookami-to-Youhishi.jpg",
                 "malId": 119626,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shinsetsu_ookami_to_koushinryou_ookami_to_youhishi_novel": {
+                "id": 67631,
                 "identifier": "shinsetsu_ookami_to_koushinryou_ookami_to_youhishi_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44572/cover.jpg",
                 "malId": 119626,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/shinsetsu_ookami_to_koushinryou_ookami_to_youhishi_novel/"
             },
             "shinsetsu_ookami_to_koushinryou_ookami_to_youhishi": {
+                "id": 90564,
                 "identifier": "shinsetsu_ookami_to_koushinryou_ookami_to_youhishi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31342/cover.jpg",
                 "malId": 119626,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/shinsetsu_ookami_to_koushinryou_ookami_to_youhishi/"
             }
         },
-        "MangaFire": {
-            "shinsetsu-ookami-to-koushinryou-ookami-to-youhishi.v5oo2": {
-                "identifier": "shinsetsu-ookami-to-koushinryou-ookami-to-youhishi.v5oo2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/889cb6a84cb91b1af894ff496f082883.jpg",
-                "malId": 119626,
-                "aniId": 115750,
-                "page": "MangaFire",
-                "title": "Wolf & Parchment",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinsetsu-ookami-to-koushinryou-ookami-to-youhishi.v5oo2/"
-            },
-            "shinsetsu-ookami-to-koushinryou-ookami-to-youhishii.v5oo2": {
-                "identifier": "shinsetsu-ookami-to-koushinryou-ookami-to-youhishii.v5oo2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/889cb6a84cb91b1af894ff496f082883.jpg",
-                "malId": 119626,
-                "aniId": 115750,
-                "page": "MangaFire",
-                "title": "Wolf & Parchment",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinsetsu-ookami-to-koushinryou-ookami-to-youhishii.v5oo2/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzsj059p3d9m01jqt6r": {
+                "id": 207400,
                 "identifier": "01j76xydzsj059p3d9m01jqt6r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZSJ059P3D9M01JQT6R.jpg",
                 "malId": 119626,
@@ -84,6 +67,19 @@
                 "title": "Wolf & Parchment",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZSJ059P3D9M01JQT6R"
+            }
+        },
+        "MangaFire": {
+            "v5oo2": {
+                "id": 231015,
+                "identifier": "v5oo2",
+                "image": "https://static.mangafire.to/3f81/i/8/88/889cb6a84cb91b1af894ff496f082883.jpg",
+                "malId": 119626,
+                "aniId": 115750,
+                "page": "MangaFire",
+                "title": "Wolf & Parchment",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinsetsu-ookami-to-koushinryou-ookami-to-youhishii.v5oo2"
             }
         },
         "Comick": {

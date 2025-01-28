@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "06223ae2-ce16-48d6-aa87-e69e8c3634b9": {
+                "id": 25935,
                 "identifier": "06223ae2-ce16-48d6-aa87-e69e8c3634b9",
                 "image": "https://uploads.mangadex.org/covers/06223ae2-ce16-48d6-aa87-e69e8c3634b9/32781bd5-3f78-42d7-ae5b-886c8a0de6ac.jpg",
                 "malId": 117623,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "soloist-in-a-cage": {
+                "id": 70259,
                 "identifier": "soloist-in-a-cage",
                 "image": "https://temp.compsci88.com/cover/Soloist-in-A-Cage.jpg",
                 "malId": 117623,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "soloist_of_the_prison": {
+                "id": 74623,
                 "identifier": "soloist_of_the_prison",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29659/cover.jpg",
                 "malId": 117623,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dq980699": {
+                "id": 80458,
                 "identifier": "manga-dq980699",
                 "image": "https://avt.mkklcdnv6temp.com/38/n/17-1583496652.jpg",
                 "malId": 117623,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-dq980699"
             }
         },
-        "MangaFire": {
-            "ori-no-naka-no-soloist.4yo7": {
-                "identifier": "ori-no-naka-no-soloist.4yo7",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c526e7694b5de7869ffbfcdb7ef9c2d.jpg",
-                "malId": 117623,
-                "aniId": 107265,
-                "page": "MangaFire",
-                "title": "Soloist in a Cage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ori-no-naka-no-soloist.4yo7/"
-            },
-            "ori-no-naka-no-soloistt.4yo7": {
-                "identifier": "ori-no-naka-no-soloistt.4yo7",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c526e7694b5de7869ffbfcdb7ef9c2d.jpg",
-                "malId": 117623,
-                "aniId": 107265,
-                "page": "MangaFire",
-                "title": "Soloist in a Cage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ori-no-naka-no-soloistt.4yo7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyen0ktab8vw8d5rabj1b": {
+                "id": 209903,
                 "identifier": "01j76xyen0ktab8vw8d5rabj1b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEN0KTAB8VW8D5RABJ1B.jpg",
                 "malId": 117623,
@@ -86,6 +69,19 @@
                 "title": "Soloist in A Cage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEN0KTAB8VW8D5RABJ1B"
+            }
+        },
+        "MangaFire": {
+            "4yo7": {
+                "id": 227865,
+                "identifier": "4yo7",
+                "image": "https://static.mangafire.to/a2d6/i/3/3c/3c526e7694b5de7869ffbfcdb7ef9c2d.jpg",
+                "malId": 117623,
+                "aniId": 107265,
+                "page": "MangaFire",
+                "title": "Soloist in a Cage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ori-no-naka-no-soloistt.4yo7"
             }
         },
         "Comick": {

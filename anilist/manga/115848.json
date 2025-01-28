@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "64e87c04-821e-4bc0-a091-cab9b0ac0901": {
+                "id": 19695,
                 "identifier": "64e87c04-821e-4bc0-a091-cab9b0ac0901",
                 "image": "https://uploads.mangadex.org/covers/64e87c04-821e-4bc0-a091-cab9b0ac0901/127ef90b-f040-406b-8e41-ce39e7b7b034.jpg",
                 "malId": 148136,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gw983479": {
+                "id": 80685,
                 "identifier": "manga-gw983479",
                 "image": "https://avt.mkklcdnv6temp.com/40/e/19-1583500642.jpg",
                 "malId": 148136,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "neolithic-girl": {
+                "id": 82605,
                 "identifier": "neolithic-girl",
                 "image": "https://temp.compsci88.com/cover/Neolithic-Girl.jpg",
                 "malId": 148136,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Neolithic-Girl"
             }
         },
-        "MangaFire": {
-            "neolith-girl.9o5lm": {
-                "identifier": "neolith-girl.9o5lm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0ca9e561e6853049c01563c426e7a2ab.jpg",
-                "malId": 148136,
-                "aniId": 115848,
-                "page": "MangaFire",
-                "title": "Neolithic Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neolith-girl.9o5lm/"
-            },
-            "neolith-girll.9o5lm": {
-                "identifier": "neolith-girll.9o5lm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0ca9e561e6853049c01563c426e7a2ab.jpg",
-                "malId": 148136,
-                "aniId": 115848,
-                "page": "MangaFire",
-                "title": "Neolithic Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neolith-girll.9o5lm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyexk63v8k2jh8sfbjfq3": {
+                "id": 211730,
                 "identifier": "01j76xyexk63v8k2jh8sfbjfq3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEXK63V8K2JH8SFBJFQ3.jpg",
                 "malId": 148136,
@@ -74,6 +56,19 @@
                 "title": "Neolithic Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEXK63V8K2JH8SFBJFQ3"
+            }
+        },
+        "MangaFire": {
+            "9o5lm": {
+                "id": 230069,
+                "identifier": "9o5lm",
+                "image": "https://static.mangafire.to/e44c/i/0/0c/0ca9e561e6853049c01563c426e7a2ab.jpg",
+                "malId": 148136,
+                "aniId": 115848,
+                "page": "MangaFire",
+                "title": "Neolithic Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neolith-girll.9o5lm"
             }
         },
         "Comick": {

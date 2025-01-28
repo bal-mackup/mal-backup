@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aeca902a-33a2-40de-b0ed-7581d42bcd22": {
+                "id": 15303,
                 "identifier": "aeca902a-33a2-40de-b0ed-7581d42bcd22",
                 "image": "https://uploads.mangadex.org/covers/aeca902a-33a2-40de-b0ed-7581d42bcd22/38ec7bb8-bdcb-4cba-855a-e8cbf6619591.jpg",
                 "malId": 93379,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenjin": {
+                "id": 87441,
                 "identifier": "tenjin",
                 "image": "https://temp.compsci88.com/cover/Tenjin.jpg",
                 "malId": 93379,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tj970492": {
+                "id": 114178,
                 "identifier": "manga-tj970492",
                 "image": "https://avt.mkklcdnv6temp.com/fld/27/m/7-1732784549-nw.webp",
                 "malId": 93379,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tenjin": {
+                "id": 117846,
                 "identifier": "tenjin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19181/cover.jpg",
                 "malId": 93379,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tenjin/"
             }
         },
-        "MangaFire": {
-            "tenjin.yqzkz": {
-                "identifier": "tenjin.yqzkz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7c7daf09539691ccdd0bd5f8ceb90d82.jpg",
-                "malId": 93379,
-                "aniId": 96092,
-                "page": "MangaFire",
-                "title": "Tenjin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenjin.yqzkz/"
-            },
-            "yqzkz": {
-                "identifier": "yqzkz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7c7daf09539691ccdd0bd5f8ceb90d82.jpg",
-                "malId": 93379,
-                "aniId": 96092,
-                "page": "MangaFire",
-                "title": "Tenjin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenjin.yqzkz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybv684326vq7zeyjb3nb": {
+                "id": 210861,
                 "identifier": "01j76xybv684326vq7zeyjb3nb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBV684326VQ7ZEYJB3NB.jpg",
                 "malId": 93379,
@@ -86,6 +69,19 @@
                 "title": "Tenjin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBV684326VQ7ZEYJB3NB"
+            }
+        },
+        "MangaFire": {
+            "yqzkz": {
+                "id": 248302,
+                "identifier": "yqzkz",
+                "image": "https://static.mangafire.to/029f/i/7/7c/7c7daf09539691ccdd0bd5f8ceb90d82.jpg",
+                "malId": 93379,
+                "aniId": 96092,
+                "page": "MangaFire",
+                "title": "Tenjin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenjinn.yqzkz"
             }
         },
         "Comick": {

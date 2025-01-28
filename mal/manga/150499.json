@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "celestial-bride": {
+                "id": 70533,
                 "identifier": "celestial-bride",
                 "image": "https://temp.compsci88.com/cover/Celestial-Bride.jpg",
                 "malId": 150499,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Celestial-Bride"
             }
         },
-        "MangaFire": {
-            "celestial-bride.nrjkj": {
-                "identifier": "celestial-bride.nrjkj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8c408e303f839b21163a9f0b4901265.jpg",
-                "malId": 150499,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Celestial Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/celestial-bride.nrjkj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyenw2vhaa78dja9ynh5m": {
+                "id": 210506,
                 "identifier": "01j76xyenw2vhaa78dja9ynh5m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYENW2VHAA78DJA9YNH5M.jpg",
                 "malId": 150499,
@@ -40,6 +30,19 @@
                 "title": "Celestial Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYENW2VHAA78DJA9YNH5M"
+            }
+        },
+        "MangaFire": {
+            "nrjkj": {
+                "id": 234883,
+                "identifier": "nrjkj",
+                "image": "https://static.mangafire.to/4491/i/a/a8/a8c408e303f839b21163a9f0b4901265.jpg",
+                "malId": 150499,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Celestial Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/celestial-bridee.nrjkj"
             }
         }
     }

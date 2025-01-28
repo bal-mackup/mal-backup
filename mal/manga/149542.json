@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e678e1fa-e136-4d1d-867b-53022e5ac5ea": {
+                "id": 95150,
                 "identifier": "e678e1fa-e136-4d1d-867b-53022e5ac5ea",
                 "image": "https://uploads.mangadex.org/covers/e678e1fa-e136-4d1d-867b-53022e5ac5ea/b280ab6c-865d-432e-8570-577271f7e0b5.jpg",
                 "malId": 149542,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/e678e1fa-e136-4d1d-867b-53022e5ac5ea"
             }
         },
-        "MangaFire": {
-            "agyeoginde-ingiga-neomu-manta2.59rnm": {
-                "identifier": "agyeoginde-ingiga-neomu-manta2.59rnm",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2910f3cb43526111bb1bed3fc143c5c.jpg",
-                "malId": 149542,
-                "aniId": 144734,
-                "page": "MangaFire",
-                "title": "Aileen's on Fire!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/agyeoginde-ingiga-neomu-manta2.59rnm/"
-            }
-        },
         "MangaFox": {
             "i_m_a_villainess_but_i_m_so_popular": {
+                "id": 156315,
                 "identifier": "i_m_a_villainess_but_i_m_so_popular",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41095/cover.jpg",
                 "malId": 149542,
@@ -40,6 +30,19 @@
                 "title": "I'm a Villainess but I'm So Popular",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/i_m_a_villainess_but_i_m_so_popular/"
+            }
+        },
+        "MangaFire": {
+            "59rnm": {
+                "id": 263302,
+                "identifier": "59rnm",
+                "image": "https://static.mangafire.to/f85e/i/e/e2/e2910f3cb43526111bb1bed3fc143c5c.jpg",
+                "malId": 149542,
+                "aniId": 144734,
+                "page": "MangaFire",
+                "title": "Aileen's on Fire!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/agyeoginde-ingiga-neomu-manta22.59rnm"
             }
         },
         "Comick": {

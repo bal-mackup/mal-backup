@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d88f684f-6cfe-4d31-9605-9e9f73f7ff11": {
+                "id": 128327,
                 "identifier": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
                 "image": "https://uploads.mangadex.org/covers/d88f684f-6cfe-4d31-9605-9e9f73f7ff11/2fdc246d-6405-46da-9532-0c2476175a75.jpg",
                 "malId": 155844,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-uw997831": {
+                "id": 169342,
                 "identifier": "manga-uw997831",
                 "image": "https://avt.mkklcdnv6temp.com/fld/69/m/15-1733310876-nw.webp",
                 "malId": 155844,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-uw997831"
             }
         },
-        "MangaFire": {
-            "diamond-no-kouzai.k3mqr": {
-                "identifier": "diamond-no-kouzai.k3mqr",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d6d78c7674fcd4770dceb70aafa08571.jpg",
-                "malId": 155844,
-                "aniId": 162084,
-                "page": "MangaFire",
-                "title": "The Days of Diamond",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/diamond-no-kouzai.k3mqr/"
-            },
-            "diamond-no-kouzaii.k3mqr": {
-                "identifier": "diamond-no-kouzaii.k3mqr",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d6d78c7674fcd4770dceb70aafa08571.jpg",
-                "malId": 155844,
-                "aniId": 162084,
-                "page": "MangaFire",
-                "title": "The Days of Diamond",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/diamond-no-kouzaii.k3mqr/"
-            }
-        },
         "MangaSee": {
             "the-days-of-diamond": {
+                "id": 184348,
                 "identifier": "the-days-of-diamond",
                 "image": "https://temp.compsci88.com/cover/The-Days-of-Diamond.jpg",
                 "malId": 155844,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh2k5azyfpnbbjstyqax": {
+                "id": 207062,
                 "identifier": "01j76xyh2k5azyfpnbbjstyqax",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH2K5AZYFPNBBJSTYQAX.jpg",
                 "malId": 155844,
@@ -74,6 +56,19 @@
                 "title": "The Days of Diamond",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH2K5AZYFPNBBJSTYQAX"
+            }
+        },
+        "MangaFire": {
+            "k3mqr": {
+                "id": 228388,
+                "identifier": "k3mqr",
+                "image": "https://static.mangafire.to/25a2/i/d/d6/d6d78c7674fcd4770dceb70aafa08571.jpg",
+                "malId": 155844,
+                "aniId": 162084,
+                "page": "MangaFire",
+                "title": "The Days of Diamond",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/diamond-no-kouzaii.k3mqr"
             }
         },
         "Comick": {

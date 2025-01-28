@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7873b2c3-d16d-42b8-8071-fb87d65b5783": {
+                "id": 13853,
                 "identifier": "7873b2c3-d16d-42b8-8071-fb87d65b5783",
                 "image": "https://uploads.mangadex.org/covers/7873b2c3-d16d-42b8-8071-fb87d65b5783/673e6f31-43f8-47d1-adf6-92eca24087d2.jpg",
                 "malId": 93065,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "samon-the-summoner": {
+                "id": 71624,
                 "identifier": "samon-the-summoner",
                 "image": "https://temp.compsci88.com/cover/Samon-The-Summoner.jpg",
                 "malId": 93065,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-sm970095": {
+                "id": 82283,
                 "identifier": "manga-sm970095",
                 "image": "https://avt.mkklcdnv6temp.com/21/f/13-1583488511.jpg",
                 "malId": 93065,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-sm970095"
             }
         },
-        "MangaFire": {
-            "samon-kun-wa-summoner.rlypp": {
-                "identifier": "samon-kun-wa-summoner.rlypp",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4c6b0e2a49380fab1316ec1ed47b0f2e.jpg",
-                "malId": 93065,
-                "aniId": 86500,
-                "page": "MangaFire",
-                "title": "Samon the Summoner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/samon-kun-wa-summoner.rlypp/"
-            }
-        },
         "MangaFox": {
             "samon_kun_wa_summoner": {
+                "id": 205925,
                 "identifier": "samon_kun_wa_summoner",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18745/cover.jpg",
                 "malId": 93065,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xybg2drfxxqjjnbqhr60z": {
+                "id": 212593,
                 "identifier": "01j76xybg2drfxxqjjnbqhr60z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBG2DRFXXQJJNBQHR60Z.jpg",
                 "malId": 93065,
@@ -76,6 +69,19 @@
                 "title": "Samon The Summoner",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBG2DRFXXQJJNBQHR60Z"
+            }
+        },
+        "MangaFire": {
+            "rlypp": {
+                "id": 245612,
+                "identifier": "rlypp",
+                "image": "https://static.mangafire.to/5dad/i/4/4c/4c6b0e2a49380fab1316ec1ed47b0f2e.jpg",
+                "malId": 93065,
+                "aniId": 86500,
+                "page": "MangaFire",
+                "title": "Samon the Summoner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/samon-kun-wa-summonerr.rlypp"
             }
         },
         "Comick": {

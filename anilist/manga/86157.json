@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c3e2adca-1053-4295-8d4c-feea5f02745c": {
+                "id": 16242,
                 "identifier": "c3e2adca-1053-4295-8d4c-feea5f02745c",
                 "image": "https://uploads.mangadex.org/covers/c3e2adca-1053-4295-8d4c-feea5f02745c/886e36c6-6ea9-4936-b9a9-1341fe8efa8c.jpg",
                 "malId": 85924,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "devilman-saga": {
+                "id": 64357,
                 "identifier": "devilman-saga",
                 "image": "https://temp.compsci88.com/cover/Devilman-Saga.jpg",
                 "malId": 85924,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vi972443": {
+                "id": 81738,
                 "identifier": "manga-vi972443",
                 "image": "https://avt.mkklcdnv6temp.com/14/b/14-1583490251.jpg",
                 "malId": 85924,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "devilman_saga": {
+                "id": 84288,
                 "identifier": "devilman_saga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21267/cover.jpg",
                 "malId": 85924,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/devilman_saga/"
             }
         },
-        "MangaFire": {
-            "devilman-saga.w1jkl": {
-                "identifier": "devilman-saga.w1jkl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3f802c1b9bcd123849aa4c070850cc15.jpg",
-                "malId": 85924,
-                "aniId": 86157,
-                "page": "MangaFire",
-                "title": "Devilman Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devilman-saga.w1jkl/"
-            },
-            "w1jkl": {
-                "identifier": "w1jkl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3f802c1b9bcd123849aa4c070850cc15.jpg",
-                "malId": 85924,
-                "aniId": 86157,
-                "page": "MangaFire",
-                "title": "Devilman Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devilman-saga.w1jkl/"
-            }
-        },
         "Weebcentral": {
             "01j76xybw0zeqfygej9dphc6fw": {
+                "id": 209456,
                 "identifier": "01j76xybw0zeqfygej9dphc6fw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBW0ZEQFYGEJ9DPHC6FW.jpg",
                 "malId": 85924,
@@ -86,6 +69,19 @@
                 "title": "Devilman Saga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBW0ZEQFYGEJ9DPHC6FW"
+            }
+        },
+        "MangaFire": {
+            "w1jkl": {
+                "id": 257337,
+                "identifier": "w1jkl",
+                "image": "https://static.mangafire.to/b761/i/3/3f/3f802c1b9bcd123849aa4c070850cc15.jpg",
+                "malId": 85924,
+                "aniId": 86157,
+                "page": "MangaFire",
+                "title": "Devilman Saga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/devilman-sagaa.w1jkl"
             }
         },
         "Comick": {

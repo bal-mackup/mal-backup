@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6b958848-c885-4735-9201-12ee77abcb3c": {
+                "id": 27122,
                 "identifier": "6b958848-c885-4735-9201-12ee77abcb3c",
                 "image": "https://uploads.mangadex.org/covers/6b958848-c885-4735-9201-12ee77abcb3c/bc9a093b-f67f-454f-9c92-fcdd045f4dc0.jpg",
                 "malId": 119161,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/6b958848-c885-4735-9201-12ee77abcb3c"
             },
             "76eb5273-5869-4f5a-8b43-853f55efd6cd": {
+                "id": 107011,
                 "identifier": "76eb5273-5869-4f5a-8b43-853f55efd6cd",
                 "image": "https://uploads.mangadex.org/covers/76eb5273-5869-4f5a-8b43-853f55efd6cd/c6279b54-0830-4f3c-b8d7-b337c972ea14.jpg",
                 "malId": 119161,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/76eb5273-5869-4f5a-8b43-853f55efd6cd"
             },
             "e45950fb-5e0f-4fd2-b1af-7380c7f8b735": {
+                "id": 185370,
                 "identifier": "e45950fb-5e0f-4fd2-b1af-7380c7f8b735",
                 "image": "https://uploads.mangadex.org/covers/e45950fb-5e0f-4fd2-b1af-7380c7f8b735/6d891af8-f298-4b30-b51a-ac7eb8135998.jpg",
                 "malId": 119161,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "spy-x-family": {
+                "id": 54352,
                 "identifier": "spy-x-family",
                 "image": "https://temp.compsci88.com/cover/Spy-X-Family.jpg",
                 "malId": 119161,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "spy_x_family": {
+                "id": 54931,
                 "identifier": "spy_x_family",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30419/cover.jpg",
                 "malId": 119161,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-em981495": {
+                "id": 89907,
                 "identifier": "manga-em981495",
                 "image": "https://avt.mkklcdnv6temp.com/16/x/18-1583497746.jpg",
                 "malId": 119161,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-em981495"
             }
         },
-        "MangaFire": {
-            "spyfamily.yqxmj": {
-                "identifier": "spyfamily.yqxmj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee.jpg",
-                "malId": 119161,
-                "aniId": 108556,
-                "page": "MangaFire",
-                "title": "SPY x FAMILY",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spyfamily.yqxmj/"
-            },
-            "spyfamilyy.yqxmj": {
-                "identifier": "spyfamilyy.yqxmj",
-                "image": "https://static.mangafire.to/4466/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee.jpg",
-                "malId": 119161,
-                "aniId": 108556,
-                "page": "MangaFire",
-                "title": "SPY x FAMILY",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spyfamilyy.yqxmj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycyj0p680skx3qz0nqd7": {
+                "id": 208758,
                 "identifier": "01j76xycyj0p680skx3qz0nqd7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCYJ0P680SKX3QZ0NQD7.jpg",
                 "malId": 119161,
@@ -106,6 +91,19 @@
                 "title": "Spy x Family",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCYJ0P680SKX3QZ0NQD7"
+            }
+        },
+        "MangaFire": {
+            "yqxmj": {
+                "id": 222804,
+                "identifier": "yqxmj",
+                "image": "https://static.mangafire.to/4466/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee.jpg",
+                "malId": 119161,
+                "aniId": 108556,
+                "page": "MangaFire",
+                "title": "SPY x FAMILY",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/spyfamilyy.yqxmj"
             }
         },
         "Comick": {

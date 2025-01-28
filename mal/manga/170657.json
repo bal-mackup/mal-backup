@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "a221707e-649a-4455-ba76-8e1a44439db9": {
+                "id": 189208,
                 "identifier": "a221707e-649a-4455-ba76-8e1a44439db9",
                 "image": "https://uploads.mangadex.org/covers/a221707e-649a-4455-ba76-8e1a44439db9/67c08713-b24a-4c5d-983e-ae757b8310f3.jpg",
                 "malId": 170657,
-                "aniId": null,
+                "aniId": 179655,
                 "page": "Mangadex",
                 "title": "The Genius Murim Fitness Trainer",
                 "type": "manga",
@@ -20,10 +21,11 @@
         },
         "MangaNato": {
             "manga-zl1003220": {
+                "id": 194624,
                 "identifier": "manga-zl1003220",
                 "image": "https://avt.mkklcdnv6temp.com/fld/75/q/17-1733325773-nw.webp",
                 "malId": 170657,
-                "aniId": null,
+                "aniId": 179655,
                 "page": "MangaNato",
                 "title": "Genius Martial Arts Trainer",
                 "type": "manga",
@@ -37,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "The Genius Murim Fitness Trainer",
-                "url": "https://comick.io/comic/genius-martial-arts-trainer"
+                "url": "https://comick.io/comic/genius-martial-arts-trainer",
+                "aniId": 179655
             }
         }
-    }
+    },
+    "aniId": 179655
 }

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1d2e905c-09a5-40ff-b0b6-7fca01c817c1": {
+                "id": 36095,
                 "identifier": "1d2e905c-09a5-40ff-b0b6-7fca01c817c1",
                 "image": "https://uploads.mangadex.org/covers/1d2e905c-09a5-40ff-b0b6-7fca01c817c1/247aa651-0c5a-486b-afaa-383b5766218c.jpg",
                 "malId": 137505,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dream-life-yume-no-isekai-seikatsu": {
+                "id": 66193,
                 "identifier": "dream-life-yume-no-isekai-seikatsu",
                 "image": "https://temp.compsci88.com/cover/Dream-Life-Yume-no-Isekai-Seikatsu.jpg",
                 "malId": 137505,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jm986895": {
+                "id": 73958,
                 "identifier": "manga-jm986895",
                 "image": "https://avt.mkklcdnv6temp.com/25/h/22-1601784436.jpg",
                 "malId": 137505,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-jm986895"
             }
         },
-        "MangaFire": {
-            "dream-life-yume-no-isekai-seikatsu.ojjrz": {
-                "identifier": "dream-life-yume-no-isekai-seikatsu.ojjrz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1bd5574b9adf2a42ba0e18eeade3269f.jpg",
-                "malId": 137505,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Dream Life: Yume no Isekai Seikatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dream-life-yume-no-isekai-seikatsu.ojjrz/"
-            },
-            "dream-life-yume-no-isekai-seikatsuu.ojjrz": {
-                "identifier": "dream-life-yume-no-isekai-seikatsuu.ojjrz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1bd5574b9adf2a42ba0e18eeade3269f.jpg",
-                "malId": 137505,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Dream Life: Yume no Isekai Seikatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dream-life-yume-no-isekai-seikatsuu.ojjrz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydyzn0hjr5j4m2kewm5g": {
+                "id": 210848,
                 "identifier": "01j76xydyzn0hjr5j4m2kewm5g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDYZN0HJR5J4M2KEWM5G.jpg",
                 "malId": 137505,
@@ -74,6 +56,19 @@
                 "title": "Dream Life: Yume no Isekai Seikatsu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDYZN0HJR5J4M2KEWM5G"
+            }
+        },
+        "MangaFire": {
+            "ojjrz": {
+                "id": 227239,
+                "identifier": "ojjrz",
+                "image": "https://static.mangafire.to/8863/i/1/1b/1bd5574b9adf2a42ba0e18eeade3269f.jpg",
+                "malId": 137505,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Dream Life: Yume no Isekai Seikatsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dream-life-yume-no-isekai-seikatsuu.ojjrz"
             }
         },
         "Comick": {

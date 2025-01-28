@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bd40d291-b66e-4d4c-b02f-d47555d8bd6d": {
+                "id": 13667,
                 "identifier": "bd40d291-b66e-4d4c-b02f-d47555d8bd6d",
                 "image": "https://uploads.mangadex.org/covers/bd40d291-b66e-4d4c-b02f-d47555d8bd6d/bc7ba069-4efb-4c1a-ae97-d95dfab6c886.jpg",
                 "malId": 92499,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yu-gi-oh-arc-v": {
+                "id": 70719,
                 "identifier": "yu-gi-oh-arc-v",
                 "image": "https://temp.compsci88.com/cover/Yu-gi-oh-Arc-v.jpg",
                 "malId": 92499,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yu_gi_oh_arc_v": {
+                "id": 72577,
                 "identifier": "yu_gi_oh_arc_v",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29733/cover.jpg",
                 "malId": 92499,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dp980772": {
+                "id": 89160,
                 "identifier": "manga-dp980772",
                 "image": "https://avt.mkklcdnv6temp.com/41/f/17-1583496748.jpg",
                 "malId": 92499,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dp980772"
             }
         },
-        "MangaFire": {
-            "yu-gi-oh-arc-v.4jo77": {
-                "identifier": "yu-gi-oh-arc-v.4jo77",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/367e8b2687ca905948d94d11b7a9602b.jpg",
-                "malId": 92499,
-                "aniId": 95866,
-                "page": "MangaFire",
-                "title": "Yu-Gi-Oh! Arc-V",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yu-gi-oh-arc-v.4jo77/"
-            },
-            "4jo77": {
-                "identifier": "4jo77",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/367e8b2687ca905948d94d11b7a9602b.jpg",
-                "malId": 92499,
-                "aniId": 95866,
-                "page": "MangaFire",
-                "title": "Yu-Gi-Oh! Arc-V",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yu-gi-oh-arc-v.4jo77/"
-            }
-        },
         "Weebcentral": {
             "01j76xyctc9rtvh7j73hdj7qp1": {
+                "id": 208195,
                 "identifier": "01j76xyctc9rtvh7j73hdj7qp1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCTC9RTVH7J73HDJ7QP1.jpg",
                 "malId": 92499,
@@ -86,6 +69,19 @@
                 "title": "Yu-Gi-Oh! Arc-V",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCTC9RTVH7J73HDJ7QP1"
+            }
+        },
+        "MangaFire": {
+            "4jo77": {
+                "id": 243000,
+                "identifier": "4jo77",
+                "image": "https://static.mangafire.to/62f6/i/3/36/367e8b2687ca905948d94d11b7a9602b.jpg",
+                "malId": 92499,
+                "aniId": 95866,
+                "page": "MangaFire",
+                "title": "Yu-Gi-Oh! Arc-V",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yu-gi-oh-arc-vv.4jo77"
             }
         },
         "Comick": {

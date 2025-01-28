@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-qq993925": {
+                "id": 124075,
                 "identifier": "manga-qq993925",
                 "image": "https://avt.mkklcdnv6temp.com/17/t/28-1675646993.jpg",
                 "malId": 155705,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "c2c6544d-88be-49bf-870a-97191cb7dd49": {
+                "id": 127696,
                 "identifier": "c2c6544d-88be-49bf-870a-97191cb7dd49",
                 "image": "https://uploads.mangadex.org/covers/c2c6544d-88be-49bf-870a-97191cb7dd49/c4c8a73e-1b3d-4717-8cc8-1392909c5a33.jpg",
                 "malId": 155705,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "who-stole-the-empress": {
+                "id": 186173,
                 "identifier": "who-stole-the-empress",
                 "image": "https://temp.compsci88.com/cover/Who-Stole-the-Empress.jpg",
                 "malId": 155705,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Who-Stole-the-Empress"
             }
         },
-        "MangaFire": {
-            "who-stole-the-empress.0qwy3": {
-                "identifier": "who-stole-the-empress.0qwy3",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/d42586b40f9936b2129eff5053fa69b5.jpg",
-                "malId": 155705,
-                "aniId": 165067,
-                "page": "MangaFire",
-                "title": "Who Stole the Empress?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/who-stole-the-empress.0qwy3/"
-            },
-            "who-stole-the-empresss.0qwy3": {
-                "identifier": "who-stole-the-empresss.0qwy3",
-                "image": "https://static.mangafire.to/3b2d5/i/9/98/d42586b40f9936b2129eff5053fa69b5.jpg",
-                "malId": 155705,
-                "aniId": 165067,
-                "page": "MangaFire",
-                "title": "Who Stole the Empress?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/who-stole-the-empresss.0qwy3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyh5119h9ysv1jja5tjhm": {
+                "id": 208143,
                 "identifier": "01j76xyh5119h9ysv1jja5tjhm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH5119H9YSV1JJA5TJHM.jpg",
                 "malId": 155705,
@@ -74,6 +56,19 @@
                 "title": "Who Stole the Empress?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH5119H9YSV1JJA5TJHM"
+            }
+        },
+        "MangaFire": {
+            "0qwy3": {
+                "id": 228104,
+                "identifier": "0qwy3",
+                "image": "https://static.mangafire.to/c4f5/i/9/98/d42586b40f9936b2129eff5053fa69b5.jpg",
+                "malId": 155705,
+                "aniId": 165067,
+                "page": "MangaFire",
+                "title": "Who Stole the Empress?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/who-stole-the-empresss.0qwy3"
             }
         },
         "Comick": {

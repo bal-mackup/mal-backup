@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bcbf0192-149f-4795-995e-d1a54fe383d7": {
+                "id": 10115,
                 "identifier": "bcbf0192-149f-4795-995e-d1a54fe383d7",
                 "image": "https://uploads.mangadex.org/covers/bcbf0192-149f-4795-995e-d1a54fe383d7/473af1d5-69a0-4fe3-89ba-86879f28fe8c.jpg",
                 "malId": 67843,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ka961783": {
+                "id": 99799,
                 "identifier": "manga-ka961783",
                 "image": "https://avt.mkklcdnv6temp.com/fld/49/x/4-1732762348-nw.webp",
                 "malId": 67843,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ka961783"
             }
         },
-        "MangaFire": {
-            "rakunou-milk.y45j": {
-                "identifier": "rakunou-milk.y45j",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbebbc7cf67bb098ba343a97fc600ea6.jpg",
-                "malId": 67843,
-                "aniId": 90727,
-                "page": "MangaFire",
-                "title": "Milk on the Farm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rakunou-milk.y45j/"
-            },
-            "y45j": {
-                "identifier": "y45j",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbebbc7cf67bb098ba343a97fc600ea6.jpg",
-                "malId": 67843,
-                "aniId": 90727,
-                "page": "MangaFire",
-                "title": "Milk on the Farm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rakunou-milk.y45j/"
-            }
-        },
         "MangaFox": {
             "rakunou_milk": {
+                "id": 205927,
                 "identifier": "rakunou_milk",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14184/cover.jpg",
                 "malId": 67843,
@@ -62,6 +43,19 @@
                 "title": "Rakunou Milk!",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/rakunou_milk/"
+            }
+        },
+        "MangaFire": {
+            "y45j": {
+                "id": 255544,
+                "identifier": "y45j",
+                "image": "https://static.mangafire.to/51a3/i/b/bb/bbebbc7cf67bb098ba343a97fc600ea6.jpg",
+                "malId": 67843,
+                "aniId": 90727,
+                "page": "MangaFire",
+                "title": "Milk on the Farm",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rakunou-milkk.y45j"
             }
         },
         "Comick": {

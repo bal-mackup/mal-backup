@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fe754da4-57c9-4c6b-ab10-7c44bc9f261c": {
+                "id": 22377,
                 "identifier": "fe754da4-57c9-4c6b-ab10-7c44bc9f261c",
                 "image": "https://uploads.mangadex.org/covers/fe754da4-57c9-4c6b-ab10-7c44bc9f261c/468e3a82-5363-491e-a6fa-f1a770acbd7b.png",
                 "malId": 87845,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "now-playing": {
+                "id": 68851,
                 "identifier": "now-playing",
                 "image": "https://temp.compsci88.com/cover/Now-Playing.jpg",
                 "malId": 87845,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "now_playing": {
+                "id": 140263,
                 "identifier": "now_playing",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27234/cover.jpg",
                 "malId": 87845,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/now_playing/"
             }
         },
-        "MangaFire": {
-            "now-playing.9o270": {
-                "identifier": "now-playing.9o270",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7754351dad9458127495de3d1fb64ef.jpg",
-                "malId": 87845,
-                "aniId": 106312,
-                "page": "MangaFire",
-                "title": "Now Playing",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/now-playing.9o270/"
-            }
-        },
         "Weebcentral": {
             "01j76xycaxt5xyxf4bj5axhs4w": {
+                "id": 214049,
                 "identifier": "01j76xycaxt5xyxf4bj5axhs4w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCAXT5XYXF4BJ5AXHS4W.jpg",
                 "malId": 87845,
@@ -64,6 +56,19 @@
                 "title": "Now-Playing",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCAXT5XYXF4BJ5AXHS4W"
+            }
+        },
+        "MangaFire": {
+            "9o270": {
+                "id": 254690,
+                "identifier": "9o270",
+                "image": "https://static.mangafire.to/087b/i/d/d7/d7754351dad9458127495de3d1fb64ef.jpg",
+                "malId": 87845,
+                "aniId": 106312,
+                "page": "MangaFire",
+                "title": "Now Playing",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/now-playingg.9o270"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "98f485a7-6c66-4024-b81d-5e2d895c7a65": {
+                "id": 115541,
                 "identifier": "98f485a7-6c66-4024-b81d-5e2d895c7a65",
                 "image": "https://uploads.mangadex.org/covers/98f485a7-6c66-4024-b81d-5e2d895c7a65/1bf91649-9aa5-4c42-aba4-6b0f5a50c29e.jpg",
                 "malId": 158983,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/98f485a7-6c66-4024-b81d-5e2d895c7a65"
             }
         },
-        "MangaFire": {
-            "kage-no-eiyuu-no-chiyu-gakari.zxv33": {
-                "identifier": "kage-no-eiyuu-no-chiyu-gakari.zxv33",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/8558c38d74a47c7afd4bcec3be75ba9c.jpg",
-                "malId": 158983,
-                "aniId": 165197,
-                "page": "MangaFire",
-                "title": "Healer for the Shadow Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-eiyuu-no-chiyu-gakari.zxv33/"
-            }
-        },
         "MangaSee": {
             "healer-for-the-shadow-hero": {
+                "id": 185983,
                 "identifier": "healer-for-the-shadow-hero",
                 "image": "https://temp.compsci88.com/cover/Healer-for-the-Shadow-Hero.jpg",
                 "malId": 158983,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh3zhx2eqwz8z17jp7ap": {
+                "id": 210310,
                 "identifier": "01j76xyh3zhx2eqwz8z17jp7ap",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH3ZHX2EQWZ8Z17JP7AP.jpg",
                 "malId": 158983,
@@ -52,6 +43,19 @@
                 "title": "Healer for the Shadow Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH3ZHX2EQWZ8Z17JP7AP"
+            }
+        },
+        "MangaFire": {
+            "zxv33": {
+                "id": 236334,
+                "identifier": "zxv33",
+                "image": "https://static.mangafire.to/b8ad/i/5/5f/8558c38d74a47c7afd4bcec3be75ba9c.jpg",
+                "malId": 158983,
+                "aniId": 165197,
+                "page": "MangaFire",
+                "title": "Healer for the Shadow Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kage-no-eiyuu-no-chiyu-gakarii.zxv33"
             }
         },
         "Comick": {

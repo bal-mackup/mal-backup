@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a9b8c5ae-b534-45a9-9ef1-bdec077cce70": {
+                "id": 10696,
                 "identifier": "a9b8c5ae-b534-45a9-9ef1-bdec077cce70",
                 "image": "https://uploads.mangadex.org/covers/a9b8c5ae-b534-45a9-9ef1-bdec077cce70/060162d6-393e-436a-9285-36a40dca4c04.jpg",
                 "malId": 72261,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "saihate-no-ao": {
+                "id": 66952,
                 "identifier": "saihate-no-ao",
                 "image": "https://temp.compsci88.com/cover/Saihate-No-Ao.jpg",
                 "malId": 72261,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Saihate-No-Ao"
             }
         },
-        "MangaFire": {
-            "saihate-no-ao.kvj6": {
-                "identifier": "saihate-no-ao.kvj6",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4d48a6ea06044e5a29cbc82c516de29.jpg",
-                "malId": 72261,
-                "aniId": 85581,
-                "page": "MangaFire",
-                "title": "Saihate no Ao",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-no-ao.kvj6/"
-            },
-            "kvj6": {
-                "identifier": "kvj6",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4d48a6ea06044e5a29cbc82c516de29.jpg",
-                "malId": 72261,
-                "aniId": 85581,
-                "page": "MangaFire",
-                "title": "Saihate no Ao",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-no-ao.kvj6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyarxmrdqqx2dsmk5szsh": {
+                "id": 210603,
                 "identifier": "01j76xyarxmrdqqx2dsmk5szsh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYARXMRDQQX2DSMK5SZSH.jpg",
                 "malId": 72261,
@@ -62,6 +43,19 @@
                 "title": "Saihate no Ao",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYARXMRDQQX2DSMK5SZSH"
+            }
+        },
+        "MangaFire": {
+            "kvj6": {
+                "id": 247598,
+                "identifier": "kvj6",
+                "image": "https://static.mangafire.to/7e65/i/c/c4/c4d48a6ea06044e5a29cbc82c516de29.jpg",
+                "malId": 72261,
+                "aniId": 85581,
+                "page": "MangaFire",
+                "title": "Saihate no Ao",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saihate-no-aoo.kvj6"
             }
         },
         "Comick": {

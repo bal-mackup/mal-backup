@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c3da7d29-36ad-47f2-b62c-6c953fe840bd": {
+                "id": 10026,
                 "identifier": "c3da7d29-36ad-47f2-b62c-6c953fe840bd",
                 "image": "https://uploads.mangadex.org/covers/c3da7d29-36ad-47f2-b62c-6c953fe840bd/28580341-c025-4458-b6d4-8fcd40ea8750.jpg",
                 "malId": 67379,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "komori-quintet": {
+                "id": 68322,
                 "identifier": "komori-quintet",
                 "image": "https://temp.compsci88.com/cover/Komori-Quintet.jpg",
                 "malId": 67379,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-uu961229": {
+                "id": 86396,
                 "identifier": "manga-uu961229",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/t/4-1732761307-nw.webp",
                 "malId": 67379,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-uu961229"
             }
         },
-        "MangaFire": {
-            "komori-quintet.nvvk": {
-                "identifier": "komori-quintet.nvvk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9cbfe1ef06cc3186cf86f566665241ac.jpg",
-                "malId": 67379,
-                "aniId": 85293,
-                "page": "MangaFire",
-                "title": "Komori Quintet!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komori-quintet.nvvk/"
-            },
-            "nvvk": {
-                "identifier": "nvvk",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9cbfe1ef06cc3186cf86f566665241ac.jpg",
-                "malId": 67379,
-                "aniId": 85293,
-                "page": "MangaFire",
-                "title": "Komori Quintet!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komori-quintet.nvvk/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9zwzpadt6vjjvdpcsvr": {
+                "id": 213517,
                 "identifier": "01j76xy9zwzpadt6vjjvdpcsvr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9ZWZPADT6VJJVDPCSVR.jpg",
                 "malId": 67379,
@@ -74,6 +56,19 @@
                 "title": "Komori Quintet!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9ZWZPADT6VJJVDPCSVR"
+            }
+        },
+        "MangaFire": {
+            "nvvk": {
+                "id": 243903,
+                "identifier": "nvvk",
+                "image": "https://static.mangafire.to/62cf/i/9/9c/9cbfe1ef06cc3186cf86f566665241ac.jpg",
+                "malId": 67379,
+                "aniId": 85293,
+                "page": "MangaFire",
+                "title": "Komori Quintet!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/komori-quintett.nvvk"
             }
         },
         "Comick": {

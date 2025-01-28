@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab30c57c-ce2e-4c3b-b2a4-fea7b2f02ca1": {
+                "id": 105213,
                 "identifier": "ab30c57c-ce2e-4c3b-b2a4-fea7b2f02ca1",
                 "image": "https://uploads.mangadex.org/covers/ab30c57c-ce2e-4c3b-b2a4-fea7b2f02ca1/8f01e017-0a2c-478f-b4e5-61b379fe624d.jpg",
                 "malId": 142997,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ou991929": {
+                "id": 111857,
                 "identifier": "manga-ou991929",
                 "image": "https://avt.mkklcdnv6temp.com/37/a/26-1659675069.jpg",
                 "malId": 142997,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-fable-the-second-contact": {
+                "id": 114474,
                 "identifier": "the-fable-the-second-contact",
                 "image": "https://temp.compsci88.com/cover/The-Fable-The-Second-Contact.jpg",
                 "malId": 142997,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "the_fable_the_second_contact": {
+                "id": 115950,
                 "identifier": "the_fable_the_second_contact",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43338/cover.jpg",
                 "malId": 142997,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/the_fable_the_second_contact/"
             }
         },
-        "MangaFire": {
-            "the-fable-the-second-contact.oj09y": {
-                "identifier": "the-fable-the-second-contact.oj09y",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/831b3326492ddc98fea153969d2c3b60.jpg",
-                "malId": 142997,
-                "aniId": 135356,
-                "page": "MangaFire",
-                "title": "The Fable - The Second Contact",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-fable-the-second-contact.oj09y/"
-            },
-            "the-fable-the-second-contactt.oj09y": {
-                "identifier": "the-fable-the-second-contactt.oj09y",
-                "image": "https://static.mangafire.to/c975/i/8/83/831b3326492ddc98fea153969d2c3b60.jpg",
-                "malId": 142997,
-                "aniId": 135356,
-                "page": "MangaFire",
-                "title": "The Fable - The Second Contact",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-fable-the-second-contactt.oj09y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfp7f271pvx043xxhpbv": {
+                "id": 207525,
                 "identifier": "01j76xyfp7f271pvx043xxhpbv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFP7F271PVX043XXHPBV.jpg",
                 "malId": 142997,
@@ -86,6 +69,19 @@
                 "title": "The Fable - The Second Contact",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFP7F271PVX043XXHPBV"
+            }
+        },
+        "MangaFire": {
+            "oj09y": {
+                "id": 223224,
+                "identifier": "oj09y",
+                "image": "https://static.mangafire.to/c975/i/8/83/831b3326492ddc98fea153969d2c3b60.jpg",
+                "malId": 142997,
+                "aniId": 135356,
+                "page": "MangaFire",
+                "title": "The Fable - The Second Contact",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-fable-the-second-contactt.oj09y"
             }
         },
         "Comick": {

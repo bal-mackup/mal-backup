@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "a-heartfelt-andante": {
+                "id": 189567,
                 "identifier": "a-heartfelt-andante",
                 "image": "https://temp.compsci88.com/cover/A-Heartfelt-Andante.jpg",
                 "malId": 155095,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/A-Heartfelt-Andante"
             }
         },
-        "MangaFire": {
-            "a-heartfelt-andante.ox064": {
-                "identifier": "a-heartfelt-andante.ox064",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/087c07720c0c118dad1a4514dd247368.jpg",
-                "malId": 155095,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "A Heartfelt Andante",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-heartfelt-andante.ox064/"
-            }
-        },
         "Weebcentral": {
             "01j76xyh841wj0dy8d4c83ng0w": {
+                "id": 210315,
                 "identifier": "01j76xyh841wj0dy8d4c83ng0w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH841WJ0DY8D4C83NG0W.jpg",
                 "malId": 155095,
@@ -40,6 +30,19 @@
                 "title": "A Heartfelt Andante",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH841WJ0DY8D4C83NG0W"
+            }
+        },
+        "MangaFire": {
+            "ox064": {
+                "id": 233214,
+                "identifier": "ox064",
+                "image": "https://static.mangafire.to/79b0/i/0/08/087c07720c0c118dad1a4514dd247368.jpg",
+                "malId": 155095,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "A Heartfelt Andante",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-heartfelt-andantee.ox064"
             }
         }
     }

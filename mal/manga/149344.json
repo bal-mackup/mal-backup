@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6edc2a6a-dfa4-47b7-a87a-f494381ae1c3": {
+                "id": 32715,
                 "identifier": "6edc2a6a-dfa4-47b7-a87a-f494381ae1c3",
                 "image": "https://uploads.mangadex.org/covers/6edc2a6a-dfa4-47b7-a87a-f494381ae1c3/a7c3fbfb-fb73-4335-afcb-ff6a63be2f3e.jpg",
                 "malId": 149344,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lost-princess": {
+                "id": 70782,
                 "identifier": "lost-princess",
                 "image": "https://temp.compsci88.com/cover/Lost-Princess.jpg",
                 "malId": 149344,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hk984545": {
+                "id": 75771,
                 "identifier": "manga-hk984545",
                 "image": "https://avt.mkklcdnv6temp.com/30/e/20-1583502187.jpg",
                 "malId": 149344,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "lost_princess": {
+                "id": 75787,
                 "identifier": "lost_princess",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32970/cover.jpg",
                 "malId": 149344,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/lost_princess/"
             }
         },
-        "MangaFire": {
-            "lost-princess.1qo2w": {
-                "identifier": "lost-princess.1qo2w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77028bdffd3816661edda617b8b6c575.jpg",
-                "malId": 149344,
-                "aniId": 123519,
-                "page": "MangaFire",
-                "title": "Lost Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lost-princess.1qo2w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyepaebnjqy096q73chjh": {
+                "id": 210269,
                 "identifier": "01j76xyepaebnjqy096q73chjh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPAEBNJQY096Q73CHJH.jpg",
                 "malId": 149344,
@@ -76,6 +69,19 @@
                 "title": "Lost Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPAEBNJQY096Q73CHJH"
+            }
+        },
+        "MangaFire": {
+            "1qo2w": {
+                "id": 241245,
+                "identifier": "1qo2w",
+                "image": "https://static.mangafire.to/871d/i/7/77/77028bdffd3816661edda617b8b6c575.jpg",
+                "malId": 149344,
+                "aniId": 123519,
+                "page": "MangaFire",
+                "title": "Lost Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lost-princesss.1qo2w"
             }
         }
     },

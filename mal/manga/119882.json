@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c50c7030-83bd-40a3-b84d-8a452623a2e0": {
+                "id": 29957,
                 "identifier": "c50c7030-83bd-40a3-b84d-8a452623a2e0",
                 "image": "https://uploads.mangadex.org/covers/c50c7030-83bd-40a3-b84d-8a452623a2e0/462417fa-b5a5-4414-a074-39f17139fa16.jpg",
                 "malId": 119882,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fj983118": {
+                "id": 81776,
                 "identifier": "manga-fj983118",
                 "image": "https://avt.mkklcdnv6temp.com/26/s/19-1583500157.jpg",
                 "malId": 119882,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "yoi-no-yomeiri": {
+                "id": 116479,
                 "identifier": "yoi-no-yomeiri",
                 "image": "https://temp.compsci88.com/cover/Yoi-no-Yomeiri.jpg",
                 "malId": 119882,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Yoi-no-Yomeiri"
             }
         },
-        "MangaFire": {
-            "yoru-no-yomeiri.9ok9n": {
-                "identifier": "yoru-no-yomeiri.9ok9n",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/1196b2291e8d48c84556a34cc19845f3.jpg",
-                "malId": 119882,
-                "aniId": 106136,
-                "page": "MangaFire",
-                "title": "Yoru no Yomeiri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoru-no-yomeiri.9ok9n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd95pw0q9kns2cvrcqd2": {
+                "id": 214452,
                 "identifier": "01j76xyd95pw0q9kns2cvrcqd2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD95PW0Q9KNS2CVRCQD2.jpg",
                 "malId": 119882,
@@ -64,6 +56,19 @@
                 "title": "Yoi no Yomeiri",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD95PW0Q9KNS2CVRCQD2"
+            }
+        },
+        "MangaFire": {
+            "9ok9n": {
+                "id": 230508,
+                "identifier": "9ok9n",
+                "image": "https://static.mangafire.to/b9c6/i/1/11/1196b2291e8d48c84556a34cc19845f3.jpg",
+                "malId": 119882,
+                "aniId": 106136,
+                "page": "MangaFire",
+                "title": "Yoru no Yomeiri",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yoru-no-yomeirii.9ok9n"
             }
         },
         "Comick": {

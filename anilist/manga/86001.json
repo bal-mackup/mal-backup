@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3faf00ce-b75e-4d4a-9824-738ad8ac8728": {
+                "id": 11668,
                 "identifier": "3faf00ce-b75e-4d4a-9824-738ad8ac8728",
                 "image": "https://uploads.mangadex.org/covers/3faf00ce-b75e-4d4a-9824-738ad8ac8728/e8cdb2b4-8bfe-4a6b-b5a7-8ca7388a8ac3.jpg",
                 "malId": 68221,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tokyo-d-t-e-d": {
+                "id": 75565,
                 "identifier": "tokyo-d-t-e-d",
                 "image": "https://temp.compsci88.com/cover/Tokyo-D-T-E-D.jpg",
                 "malId": 68221,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yy953833": {
+                "id": 75948,
                 "identifier": "manga-yy953833",
                 "image": "https://avt.mkklcdnv6temp.com/37/d/2-1583467126.jpg",
                 "malId": 68221,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tokyo_dted": {
+                "id": 96602,
                 "identifier": "tokyo_dted",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14376/cover.jpg",
                 "malId": 68221,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tokyo_dted/"
             }
         },
-        "MangaFire": {
-            "tokyo-dted.rl3yq": {
-                "identifier": "tokyo-dted.rl3yq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/160ce98341f7eb1a012b1527d7767cf5.jpg",
-                "malId": 68221,
-                "aniId": 86001,
-                "page": "MangaFire",
-                "title": "Tokyo DTED",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-dted.rl3yq/"
-            },
-            "rl3yq": {
-                "identifier": "rl3yq",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/160ce98341f7eb1a012b1527d7767cf5.jpg",
-                "malId": 68221,
-                "aniId": 86001,
-                "page": "MangaFire",
-                "title": "Tokyo DTED",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-dted.rl3yq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyagybttmy85qw4n4znmy": {
+                "id": 207611,
                 "identifier": "01j76xyagybttmy85qw4n4znmy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAGYBTTMY85QW4N4ZNMY.jpg",
                 "malId": 68221,
@@ -86,6 +69,19 @@
                 "title": "Tokyo DTED",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAGYBTTMY85QW4N4ZNMY"
+            }
+        },
+        "MangaFire": {
+            "rl3yq": {
+                "id": 245083,
+                "identifier": "rl3yq",
+                "image": "https://static.mangafire.to/e148/i/1/16/160ce98341f7eb1a012b1527d7767cf5.jpg",
+                "malId": 68221,
+                "aniId": 86001,
+                "page": "MangaFire",
+                "title": "Tokyo DTED",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-dtedd.rl3yq"
             }
         },
         "Comick": {

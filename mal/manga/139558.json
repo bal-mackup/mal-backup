@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "87a756b4-e4a9-4d38-81a1-d14c8fc90baf": {
+                "id": 53418,
                 "identifier": "87a756b4-e4a9-4d38-81a1-d14c8fc90baf",
                 "image": "https://uploads.mangadex.org/covers/87a756b4-e4a9-4d38-81a1-d14c8fc90baf/31a85c6b-5707-451e-b56a-7df6f1ed7315.jpg",
                 "malId": 139558,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-km987995": {
+                "id": 75136,
                 "identifier": "manga-km987995",
                 "image": "https://avt.mkklcdnv6temp.com/20/o/23-1612512897.jpg",
                 "malId": 139558,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "sono-monban-saikyou-nitsuki": {
+                "id": 79794,
                 "identifier": "sono-monban-saikyou-nitsuki",
                 "image": "https://temp.compsci88.com/cover/Sono-Monban-Saikyou-Nitsuki.jpg",
                 "malId": 139558,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "sono_monban_saikyou_nitsuki": {
+                "id": 85734,
                 "identifier": "sono_monban_saikyou_nitsuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39102/cover.jpg",
                 "malId": 139558,
@@ -54,6 +58,7 @@
                 "url": "https://fanfox.net/manga/sono_monban_saikyou_nitsuki/"
             },
             "sono_monban_saikyou_nitsuki_tsuihou_sareta_bougyo_ryoku_9999_no_senshi_outo_no_monban_toshite_musou_": {
+                "id": 96152,
                 "identifier": "sono_monban_saikyou_nitsuki_tsuihou_sareta_bougyo_ryoku_9999_no_senshi_outo_no_monban_toshite_musou_",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41312/cover.jpg",
                 "malId": 139558,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/sono_monban_saikyou_nitsuki_tsuihou_sareta_bougyo_ryoku_9999_no_senshi_outo_no_monban_toshite_musou_/"
             }
         },
-        "MangaFire": {
-            "sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suru.7jylj": {
-                "identifier": "sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suru.7jylj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d4a6b570e742425aa39ba11e2ba75547.jpg",
-                "malId": 139558,
-                "aniId": 131838,
-                "page": "MangaFire",
-                "title": "Sono Monban, Saikyou Nitsuki: Tsuihou Sareta Bougyo Ryoku 9999 no Senshi, Outo no Monban Toshite Musou Suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suru.7jylj/"
-            },
-            "sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suruu.7jylj": {
-                "identifier": "sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suruu.7jylj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d4a6b570e742425aa39ba11e2ba75547.jpg",
-                "malId": 139558,
-                "aniId": 131838,
-                "page": "MangaFire",
-                "title": "Sono Monban, Saikyou Nitsuki: Tsuihou Sareta Bougyo Ryoku 9999 no Senshi, Outo no Monban Toshite Musou Suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suruu.7jylj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyew639t803h97ytffejq": {
+                "id": 211890,
                 "identifier": "01j76xyew639t803h97ytffejq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEW639T803H97YTFFEJQ.jpg",
                 "malId": 139558,
@@ -96,6 +80,19 @@
                 "title": "Sono Monban, Saikyou Nitsuki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEW639T803H97YTFFEJQ"
+            }
+        },
+        "MangaFire": {
+            "7jylj": {
+                "id": 224037,
+                "identifier": "7jylj",
+                "image": "https://static.mangafire.to/a856/i/d/d4/d4a6b570e742425aa39ba11e2ba75547.jpg",
+                "malId": 139558,
+                "aniId": 131838,
+                "page": "MangaFire",
+                "title": "Sono Monban, Saikyou Nitsuki: Tsuihou Sareta Bougyo Ryoku 9999 no Senshi, Outo no Monban Toshite Musou Suru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sono-monban-saikyou-nitsuki-tsuihou-sareta-bougyo-ryoku-9999-no-senshi-outo-no-monban-toshite-musou-suruu.7jylj"
             }
         },
         "Comick": {

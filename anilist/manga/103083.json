@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "579e453d-4bae-4df6-8854-734adbc1c4ab": {
+                "id": 23154,
                 "identifier": "579e453d-4bae-4df6-8854-734adbc1c4ab",
                 "image": "https://uploads.mangadex.org/covers/579e453d-4bae-4df6-8854-734adbc1c4ab/82d8b0a9-e03d-426a-92b9-7460c5f66501.jpg",
                 "malId": 114659,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "alice-to-taiyou": {
+                "id": 71927,
                 "identifier": "alice-to-taiyou",
                 "image": "https://temp.compsci88.com/cover/Alice-To-Taiyou.jpg",
                 "malId": 114659,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Alice-To-Taiyou"
             }
         },
-        "MangaFire": {
-            "alice-to-taiyou.80y3n": {
-                "identifier": "alice-to-taiyou.80y3n",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05e2384e6d3e82416b22a15f823df546.jpg",
-                "malId": 114659,
-                "aniId": 103083,
-                "page": "MangaFire",
-                "title": "Alice & Taiyo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/alice-to-taiyou.80y3n/"
-            },
-            "80y3n": {
-                "identifier": "80y3n",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05e2384e6d3e82416b22a15f823df546.jpg",
-                "malId": 114659,
-                "aniId": 103083,
-                "page": "MangaFire",
-                "title": "Alice & Taiyo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/alice-to-taiyou.80y3n/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfqz5nn2k23sfmt052v": {
+                "id": 214172,
                 "identifier": "01j76xycfqz5nn2k23sfmt052v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFQZ5NN2K23SFMT052V.jpg",
                 "malId": 114659,
@@ -62,6 +43,19 @@
                 "title": "Alice to Taiyou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFQZ5NN2K23SFMT052V"
+            }
+        },
+        "MangaFire": {
+            "80y3n": {
+                "id": 262092,
+                "identifier": "80y3n",
+                "image": "https://static.mangafire.to/c50b/i/0/05/05e2384e6d3e82416b22a15f823df546.jpg",
+                "malId": 114659,
+                "aniId": 103083,
+                "page": "MangaFire",
+                "title": "Alice & Taiyo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/alice-to-taiyouu.80y3n"
             }
         },
         "Comick": {

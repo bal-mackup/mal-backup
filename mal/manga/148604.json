@@ -6,20 +6,9 @@
     "total": 18,
     "image": "https://cdn.myanimelist.net/images/manga/3/282320.jpg",
     "Sites": {
-        "MangaFire": {
-            "henshoku-joshi-wa-koi-de-onaka-wo-mitashitai.qk05j": {
-                "identifier": "henshoku-joshi-wa-koi-de-onaka-wo-mitashitai.qk05j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3beedfb3258b0f72954ce447aabaf782.jpg",
-                "malId": 148604,
-                "aniId": 149642,
-                "page": "MangaFire",
-                "title": "Henshoku Joshi wa Koi de Onaka wo Mitashitai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henshoku-joshi-wa-koi-de-onaka-wo-mitashitai.qk05j/"
-            }
-        },
         "MangaFox": {
             "henshoku_joshi_wa_koi_de_onaka_wo_mitashitai": {
+                "id": 205908,
                 "identifier": "henshoku_joshi_wa_koi_de_onaka_wo_mitashitai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42617/cover.jpg",
                 "malId": 148604,
@@ -28,6 +17,19 @@
                 "title": "Henshoku Joshi wa Koi de Onaka wo Mitashitai",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/henshoku_joshi_wa_koi_de_onaka_wo_mitashitai/"
+            }
+        },
+        "MangaFire": {
+            "qk05j": {
+                "id": 236436,
+                "identifier": "qk05j",
+                "image": "https://static.mangafire.to/70ae/i/3/3b/3beedfb3258b0f72954ce447aabaf782.jpg",
+                "malId": 148604,
+                "aniId": 149642,
+                "page": "MangaFire",
+                "title": "Henshoku Joshi wa Koi de Onaka wo Mitashitai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/henshoku-joshi-wa-koi-de-onaka-wo-mitashitaii.qk05j"
             }
         }
     },

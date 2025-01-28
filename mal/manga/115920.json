@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a": {
+                "id": 24013,
                 "identifier": "c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a",
                 "image": "https://uploads.mangadex.org/covers/c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a/4f1ddd94-3bca-4013-a931-5057ab778128.jpg",
                 "malId": 115920,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kuro_no_maou": {
+                "id": 55298,
                 "identifier": "kuro_no_maou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28704/cover.jpg",
                 "malId": 115920,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/kuro_no_maou/"
             },
             "kuro_no_maou_novel": {
+                "id": 80242,
                 "identifier": "kuro_no_maou_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33227/cover.jpg",
                 "malId": 115920,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "kuro-no-maou": {
+                "id": 61868,
                 "identifier": "kuro-no-maou",
                 "image": "https://temp.compsci88.com/cover/Kuro-No-Maou.jpg",
                 "malId": 115920,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-cx979880": {
+                "id": 75318,
                 "identifier": "manga-cx979880",
                 "image": "https://avt.mkklcdnv6temp.com/8/b/17-1583495556.jpg",
                 "malId": 115920,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-cx979880"
             }
         },
-        "MangaFire": {
-            "kuro-no-maou.ll2w6": {
-                "identifier": "kuro-no-maou.ll2w6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/712a2aa9e7f52e94d8e71318398410f9.jpg",
-                "malId": 115920,
-                "aniId": 104608,
-                "page": "MangaFire",
-                "title": "Kuro no Maou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuro-no-maou.ll2w6/"
-            },
-            "kuro-no-maouu.ll2w6": {
-                "identifier": "kuro-no-maouu.ll2w6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/712a2aa9e7f52e94d8e71318398410f9.jpg",
-                "malId": 115920,
-                "aniId": 104608,
-                "page": "MangaFire",
-                "title": "Kuro no Maou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuro-no-maouu.ll2w6/"
-            }
-        },
         "Weebcentral": {
             "01j76xycsk8h866me47adp9w7y": {
+                "id": 211717,
                 "identifier": "01j76xycsk8h866me47adp9w7y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCSK8H866ME47ADP9W7Y.jpg",
                 "malId": 115920,
@@ -96,6 +80,19 @@
                 "title": "Kuro no Maou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCSK8H866ME47ADP9W7Y"
+            }
+        },
+        "MangaFire": {
+            "ll2w6": {
+                "id": 247913,
+                "identifier": "ll2w6",
+                "image": "https://static.mangafire.to/cade/i/7/71/712a2aa9e7f52e94d8e71318398410f9.jpg",
+                "malId": 115920,
+                "aniId": 104608,
+                "page": "MangaFire",
+                "title": "Kuro no Maou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuro-no-maouu.ll2w6"
             }
         },
         "Comick": {

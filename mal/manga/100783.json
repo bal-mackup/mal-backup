@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e06c860e-ac12-4b31-aa87-473cf190a24d": {
+                "id": 18088,
                 "identifier": "e06c860e-ac12-4b31-aa87-473cf190a24d",
                 "image": "https://uploads.mangadex.org/covers/e06c860e-ac12-4b31-aa87-473cf190a24d/e0ee2900-128f-4e7e-bcf0-f2d56aee8041.jpg",
                 "malId": 100783,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ikusa-x-koi": {
+                "id": 60224,
                 "identifier": "ikusa-x-koi",
                 "image": "https://temp.compsci88.com/cover/Ikusa-X-Koi.jpg",
                 "malId": 100783,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-zy977307": {
+                "id": 74451,
                 "identifier": "manga-zy977307",
                 "image": "https://avt.mkklcdnv6temp.com/40/g/15-1583493112.jpg",
                 "malId": 100783,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-zy977307"
             }
         },
-        "MangaFire": {
-            "val-x-love.7wm7": {
-                "identifier": "val-x-love.7wm7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00f9d567c71642eae1106ab11c0c573c.jpg",
-                "malId": 100783,
-                "aniId": 99824,
-                "page": "MangaFire",
-                "title": "Val X Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/val-x-love.7wm7/"
-            },
-            "val-x-lovee.7wm7": {
-                "identifier": "val-x-lovee.7wm7",
-                "image": "https://static.mangafire.to/2ada/i/0/00/00f9d567c71642eae1106ab11c0c573c.jpg",
-                "malId": 100783,
-                "aniId": 99824,
-                "page": "MangaFire",
-                "title": "Val X Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/val-x-lovee.7wm7/"
-            },
-            "7wm7": {
-                "identifier": "7wm7",
-                "image": "https://static.mangafire.to/2ada/i/0/00/00f9d567c71642eae1106ab11c0c573c.jpg",
-                "malId": 100783,
-                "aniId": 99824,
-                "page": "MangaFire",
-                "title": "Val X Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/val-x-lovee.7wm7/"
-            }
-        },
         "Weebcentral": {
             "01j76xycah2sw8hpt7kpmfjjew": {
+                "id": 208254,
                 "identifier": "01j76xycah2sw8hpt7kpmfjjew",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCAH2SW8HPT7KPMFJJEW.jpg",
                 "malId": 100783,
@@ -84,6 +56,19 @@
                 "title": "Val x Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCAH2SW8HPT7KPMFJJEW"
+            }
+        },
+        "MangaFire": {
+            "7wm7": {
+                "id": 223532,
+                "identifier": "7wm7",
+                "image": "https://static.mangafire.to/2ada/i/0/00/00f9d567c71642eae1106ab11c0c573c.jpg",
+                "malId": 100783,
+                "aniId": 99824,
+                "page": "MangaFire",
+                "title": "Val X Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/val-x-lovee.7wm7"
             }
         },
         "Comick": {

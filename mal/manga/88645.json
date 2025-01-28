@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4f3d9deb-6b68-44b4-84d2-68998cd957c3": {
+                "id": 12986,
                 "identifier": "4f3d9deb-6b68-44b4-84d2-68998cd957c3",
                 "image": "https://uploads.mangadex.org/covers/4f3d9deb-6b68-44b4-84d2-68998cd957c3/712d7bcb-af67-4e15-baf9-c8a9d6e615e5.jpg",
                 "malId": 88645,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "saeism": {
+                "id": 68343,
                 "identifier": "saeism",
                 "image": "https://temp.compsci88.com/cover/Saeism.jpg",
                 "malId": 88645,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "saeism": {
+                "id": 81003,
                 "identifier": "saeism",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27235/cover.jpg",
                 "malId": 88645,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/saeism/"
             }
         },
-        "MangaFire": {
-            "saeism.52xwj": {
-                "identifier": "saeism.52xwj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f94000f9471b828b7ca4e8a3d4f5f44.jpg",
-                "malId": 88645,
-                "aniId": 94741,
-                "page": "MangaFire",
-                "title": "The Love and Creed of Sae Maki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saeism.52xwj/"
-            },
-            "52xwj": {
-                "identifier": "52xwj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f94000f9471b828b7ca4e8a3d4f5f44.jpg",
-                "malId": 88645,
-                "aniId": 94741,
-                "page": "MangaFire",
-                "title": "The Love and Creed of Sae Maki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saeism.52xwj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycb4k41awptxhencnjbb": {
+                "id": 214168,
                 "identifier": "01j76xycb4k41awptxhencnjbb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCB4K41AWPTXHENCNJBB.jpg",
                 "malId": 88645,
@@ -74,6 +56,19 @@
                 "title": "The Love and Creed of Sae Maki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCB4K41AWPTXHENCNJBB"
+            }
+        },
+        "MangaFire": {
+            "52xwj": {
+                "id": 230765,
+                "identifier": "52xwj",
+                "image": "https://static.mangafire.to/c91d/i/1/1f/1f94000f9471b828b7ca4e8a3d4f5f44.jpg",
+                "malId": 88645,
+                "aniId": 94741,
+                "page": "MangaFire",
+                "title": "The Love and Creed of Sae Maki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saeismm.52xwj"
             }
         },
         "Comick": {

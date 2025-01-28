@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e17122ae-681c-4f99-a945-f37a11165811": {
+                "id": 19229,
                 "identifier": "e17122ae-681c-4f99-a945-f37a11165811",
                 "image": "https://uploads.mangadex.org/covers/e17122ae-681c-4f99-a945-f37a11165811/c1494b55-d492-472c-95dc-a9ff7a6bd8b0.jpg",
                 "malId": 111624,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "megami_no_sprinter": {
+                "id": 56055,
                 "identifier": "megami_no_sprinter",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27944/cover.jpg",
                 "malId": 111624,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "megami-no-sprinter": {
+                "id": 56106,
                 "identifier": "megami-no-sprinter",
                 "image": "https://temp.compsci88.com/cover/Megami-No-Sprinter.jpg",
                 "malId": 111624,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cb980010": {
+                "id": 73457,
                 "identifier": "manga-cb980010",
                 "image": "https://avt.mkklcdnv6temp.com/12/q/17-1583495722.jpg",
                 "malId": 111624,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-cb980010"
             }
         },
-        "MangaFire": {
-            "megami-no-sprinter.w1rpo": {
-                "identifier": "megami-no-sprinter.w1rpo",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/7398bf040711cfbf4278b89b93ccecbe.jpg",
-                "malId": 111624,
-                "aniId": 101617,
-                "page": "MangaFire",
-                "title": "The Goddess's Sprinter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/megami-no-sprinter.w1rpo/"
-            },
-            "megami-no-sprinterr.w1rpo": {
-                "identifier": "megami-no-sprinterr.w1rpo",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/7398bf040711cfbf4278b89b93ccecbe.jpg",
-                "malId": 111624,
-                "aniId": 101617,
-                "page": "MangaFire",
-                "title": "The Goddess's Sprinter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/megami-no-sprinterr.w1rpo/"
-            },
-            "w1rpo": {
-                "identifier": "w1rpo",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/7398bf040711cfbf4278b89b93ccecbe.jpg",
-                "malId": 111624,
-                "aniId": 101617,
-                "page": "MangaFire",
-                "title": "The Goddess's Sprinter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/megami-no-sprinterr.w1rpo/"
-            }
-        },
         "Weebcentral": {
             "01j76xycqvf6vgwx6bd89nhfp0": {
+                "id": 207534,
                 "identifier": "01j76xycqvf6vgwx6bd89nhfp0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCQVF6VGWX6BD89NHFP0.jpg",
                 "malId": 111624,
@@ -96,6 +69,19 @@
                 "title": "Megami no Sprinter",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCQVF6VGWX6BD89NHFP0"
+            }
+        },
+        "MangaFire": {
+            "w1rpo": {
+                "id": 226098,
+                "identifier": "w1rpo",
+                "image": "https://static.mangafire.to/916f/i/7/73/7398bf040711cfbf4278b89b93ccecbe.jpg",
+                "malId": 111624,
+                "aniId": 101617,
+                "page": "MangaFire",
+                "title": "The Goddess's Sprinter",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/megami-no-sprinterr.w1rpo"
             }
         },
         "Comick": {

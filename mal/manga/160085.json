@@ -6,20 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/284138.jpg",
     "Sites": {
-        "MangaFire": {
-            "the-insatiable-man.296vq": {
-                "identifier": "the-insatiable-man.296vq",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/eb2328fa176959d900c92d366eb99cb3.jpg",
-                "malId": 160085,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Insatiable Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-insatiable-man.296vq/"
-            }
-        },
         "Mangadex": {
             "6dec48f8-bf99-4f10-b539-bf94131a5848": {
+                "id": 193556,
                 "identifier": "6dec48f8-bf99-4f10-b539-bf94131a5848",
                 "image": "https://uploads.mangadex.org/covers/6dec48f8-bf99-4f10-b539-bf94131a5848/bb07cd91-2000-4827-a1ab-827bb09c3951.jpg",
                 "malId": 160085,
@@ -28,6 +17,19 @@
                 "title": "The Insatiable Man",
                 "type": "manga",
                 "url": "https://mangadex.org/title/6dec48f8-bf99-4f10-b539-bf94131a5848"
+            }
+        },
+        "MangaFire": {
+            "296vq": {
+                "id": 229820,
+                "identifier": "296vq",
+                "image": "https://static.mangafire.to/3b22/i/e/eb/eb2328fa176959d900c92d366eb99cb3.jpg",
+                "malId": 160085,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Insatiable Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-insatiable-mann.296vq"
             }
         }
     }

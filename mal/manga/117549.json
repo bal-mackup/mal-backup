@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "944f8f69-9a9c-4678-9e0d-c8202de70cb3": {
+                "id": 25870,
                 "identifier": "944f8f69-9a9c-4678-9e0d-c8202de70cb3",
                 "image": "https://uploads.mangadex.org/covers/944f8f69-9a9c-4678-9e0d-c8202de70cb3/dfa427f0-23a9-45ed-acbf-eb2a9a2e940c.jpg",
                 "malId": 117549,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kyuujitsu-no-warumono-san": {
+                "id": 71347,
                 "identifier": "kyuujitsu-no-warumono-san",
                 "image": "https://temp.compsci88.com/cover/Kyuujitsu-no-Warumono-san.jpg",
                 "malId": 117549,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dv980704": {
+                "id": 74204,
                 "identifier": "manga-dv980704",
                 "image": "https://avt.mkklcdnv6temp.com/38/s/17-1583496659.jpg",
                 "malId": 117549,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kyuujitsu_no_warumono_san": {
+                "id": 80199,
                 "identifier": "kyuujitsu_no_warumono_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29646/cover.jpg",
                 "malId": 117549,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/kyuujitsu_no_warumono_san/"
             }
         },
-        "MangaFire": {
-            "kyuujitsu-no-warumono-san.kw13r": {
-                "identifier": "kyuujitsu-no-warumono-san.kw13r",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/849361a85613e2dab8fee295fe26a529.jpg",
-                "malId": 117549,
-                "aniId": 107275,
-                "page": "MangaFire",
-                "title": "Mr. Villain's Day Off",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyuujitsu-no-warumono-san.kw13r/"
-            },
-            "kyuujitsu-no-warumono-sann.kw13r": {
-                "identifier": "kyuujitsu-no-warumono-sann.kw13r",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/849361a85613e2dab8fee295fe26a529.jpg",
-                "malId": 117549,
-                "aniId": 107275,
-                "page": "MangaFire",
-                "title": "Mr. Villain's Day Off",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyuujitsu-no-warumono-sann.kw13r/"
-            }
-        },
         "Weebcentral": {
             "01j76xye5ebbv3vpsr18zewpzz": {
+                "id": 211927,
                 "identifier": "01j76xye5ebbv3vpsr18zewpzz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE5EBBV3VPSR18ZEWPZZ.jpg",
                 "malId": 117549,
@@ -86,6 +69,19 @@
                 "title": "Mr. Villain's Day Off",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE5EBBV3VPSR18ZEWPZZ"
+            }
+        },
+        "MangaFire": {
+            "kw13r": {
+                "id": 239690,
+                "identifier": "kw13r",
+                "image": "https://static.mangafire.to/8150/i/8/84/849361a85613e2dab8fee295fe26a529.jpg",
+                "malId": 117549,
+                "aniId": 107275,
+                "page": "MangaFire",
+                "title": "Mr. Villain's Day Off",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyuujitsu-no-warumono-sann.kw13r"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e1cc34d9-d88d-4322-b420-a973237206cf": {
+                "id": 16863,
                 "identifier": "e1cc34d9-d88d-4322-b420-a973237206cf",
                 "image": "https://uploads.mangadex.org/covers/e1cc34d9-d88d-4322-b420-a973237206cf/91b4c366-e68a-4f81-8e09-398452afe1fb.jpg",
                 "malId": 90418,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ww974179": {
+                "id": 81237,
                 "identifier": "manga-ww974179",
                 "image": "https://avt.mkklcdnv6temp.com/40/w/14-1583491167.jpg",
                 "malId": 90418,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "barbarities": {
+                "id": 81263,
                 "identifier": "barbarities",
                 "image": "https://fmcdn.mfcdn.net/store/manga/23001/cover.jpg",
                 "malId": 90418,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "barbarities": {
+                "id": 123492,
                 "identifier": "barbarities",
                 "image": "https://temp.compsci88.com/cover/BARBARITIES.jpg",
                 "malId": 90418,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/BARBARITIES"
             }
         },
-        "MangaFire": {
-            "barbaritiess.xrw9v": {
-                "identifier": "barbaritiess.xrw9v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f910ced33b8000a75e48cfd2ffa2215a.jpg",
-                "malId": 90418,
-                "aniId": 95290,
-                "page": "MangaFire",
-                "title": "Barbarities",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/barbaritiess.xrw9v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfwq99a17051qp24edg8": {
+                "id": 209414,
                 "identifier": "01j76xyfwq99a17051qp24edg8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFWQ99A17051QP24EDG8.jpg",
                 "malId": 90418,
@@ -76,6 +69,19 @@
                 "title": "BARBARITIES",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFWQ99A17051QP24EDG8"
+            }
+        },
+        "MangaFire": {
+            "xrw9v": {
+                "id": 224120,
+                "identifier": "xrw9v",
+                "image": "https://static.mangafire.to/e3a9/i/f/f9/f910ced33b8000a75e48cfd2ffa2215a.jpg",
+                "malId": 90418,
+                "aniId": 95290,
+                "page": "MangaFire",
+                "title": "Barbarities",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/barbaritiess.xrw9v"
             }
         },
         "Comick": {

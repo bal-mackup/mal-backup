@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "412ab8fe-eca9-47c9-8f5c-f6deb75622e9": {
+                "id": 34139,
                 "identifier": "412ab8fe-eca9-47c9-8f5c-f6deb75622e9",
                 "image": "https://uploads.mangadex.org/covers/412ab8fe-eca9-47c9-8f5c-f6deb75622e9/d9462e79-d0f6-4653-9352-604f3ad0acd5.jpg",
                 "malId": 131287,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-beloved-little-princess": {
+                "id": 70845,
                 "identifier": "the-beloved-little-princess",
                 "image": "https://temp.compsci88.com/cover/The-Beloved-Little-Princess.jpg",
                 "malId": 131287,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hb985010": {
+                "id": 74448,
                 "identifier": "manga-hb985010",
                 "image": "https://avt.mkklcdnv6temp.com/47/z/20-1585238282.jpg",
                 "malId": 131287,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-hb985010"
             },
             "manga-hx985032": {
+                "id": 77304,
                 "identifier": "manga-hx985032",
                 "image": "https://avt.mkklcdnv6temp.com/48/w/20-1585496733.jpg",
                 "malId": 131287,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "the_beloved_little_princess": {
+                "id": 80680,
                 "identifier": "the_beloved_little_princess",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38322/cover.jpg",
                 "malId": 131287,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/the_beloved_little_princess/"
             }
         },
-        "MangaFire": {
-            "the-youngest-princess.3r9k2": {
-                "identifier": "the-youngest-princess.3r9k2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c60fec44be9fa833d06b6251667404.jpg",
-                "malId": 131287,
-                "aniId": 117320,
-                "page": "MangaFire",
-                "title": "The Beloved Little Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-youngest-princess.3r9k2/"
-            },
-            "the-youngest-princesss.3r9k2": {
-                "identifier": "the-youngest-princesss.3r9k2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c60fec44be9fa833d06b6251667404.jpg",
-                "malId": 131287,
-                "aniId": 117320,
-                "page": "MangaFire",
-                "title": "The Beloved Little Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-youngest-princesss.3r9k2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyephx3yedmgvw8m6drfw": {
+                "id": 212241,
                 "identifier": "01j76xyephx3yedmgvw8m6drfw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPHX3YEDMGVW8M6DRFW.jpg",
                 "malId": 131287,
@@ -96,6 +80,19 @@
                 "title": "The Beloved Little Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPHX3YEDMGVW8M6DRFW"
+            }
+        },
+        "MangaFire": {
+            "3r9k2": {
+                "id": 237597,
+                "identifier": "3r9k2",
+                "image": "https://static.mangafire.to/156f/i/2/22/22c60fec44be9fa833d06b6251667404.jpg",
+                "malId": 131287,
+                "aniId": 117320,
+                "page": "MangaFire",
+                "title": "The Beloved Little Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-youngest-princesss.3r9k2"
             }
         },
         "Comick": {

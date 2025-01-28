@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "87acdf66-30a9-4800-8a03-754c64e382b1": {
+                "id": 40125,
                 "identifier": "87acdf66-30a9-4800-8a03-754c64e382b1",
                 "image": "https://uploads.mangadex.org/covers/87acdf66-30a9-4800-8a03-754c64e382b1/16d5173f-e7fe-4089-a8e2-4d4b0168c90e.jpg",
                 "malId": 147779,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "memorize": {
+                "id": 59467,
                 "identifier": "memorize",
                 "image": "https://temp.compsci88.com/cover/Memorize.jpg",
                 "malId": 147779,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jo986949": {
+                "id": 73322,
                 "identifier": "manga-jo986949",
                 "image": "https://avt.mkklcdnv6temp.com/27/p/22-1602825472.jpg",
                 "malId": 147779,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "memorize": {
+                "id": 87094,
                 "identifier": "memorize",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35869/cover.jpg",
                 "malId": 147779,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/memorize/"
             }
         },
-        "MangaFire": {
-            "memorize.9o7n0": {
-                "identifier": "memorize.9o7n0",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d4fd945a807f81276b9d074ec2647f3.jpg",
-                "malId": 147779,
-                "aniId": 124846,
-                "page": "MangaFire",
-                "title": "MEMORIZE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/memorize.9o7n0/"
-            },
-            "memorizee.9o7n0": {
-                "identifier": "memorizee.9o7n0",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d4fd945a807f81276b9d074ec2647f3.jpg",
-                "malId": 147779,
-                "aniId": 124846,
-                "page": "MangaFire",
-                "title": "MEMORIZE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/memorizee.9o7n0/"
-            }
-        },
         "Weebcentral": {
             "01j76xyea82s402sznjmb0pq5q": {
+                "id": 208604,
                 "identifier": "01j76xyea82s402sznjmb0pq5q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEA82S402SZNJMB0PQ5Q.jpg",
                 "malId": 147779,
@@ -86,6 +69,19 @@
                 "title": "Memorize",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEA82S402SZNJMB0PQ5Q"
+            }
+        },
+        "MangaFire": {
+            "9o7n0": {
+                "id": 228463,
+                "identifier": "9o7n0",
+                "image": "https://static.mangafire.to/99c1/i/0/0d/0d4fd945a807f81276b9d074ec2647f3.jpg",
+                "malId": 147779,
+                "aniId": 124846,
+                "page": "MangaFire",
+                "title": "MEMORIZE",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/memorizee.9o7n0"
             }
         },
         "Comick": {

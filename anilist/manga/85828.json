@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f1432158-bb90-457e-a609-aafee951cac5": {
+                "id": 10312,
                 "identifier": "f1432158-bb90-457e-a609-aafee951cac5",
                 "image": "https://uploads.mangadex.org/covers/f1432158-bb90-457e-a609-aafee951cac5/3b1f3f7b-1cf8-4be6-9ce5-2651ba4dee8e.jpg",
                 "malId": 66879,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yurikuma-arashi": {
+                "id": 56283,
                 "identifier": "yurikuma-arashi",
                 "image": "https://temp.compsci88.com/cover/Yurikuma-Arashi.jpg",
                 "malId": 66879,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Yurikuma-Arashi"
             }
         },
-        "MangaFire": {
-            "yuri-kuma-arashi.omvy": {
-                "identifier": "yuri-kuma-arashi.omvy",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/39b161f1eeeb54487bb8cbe236f208bc.jpg",
-                "malId": 66879,
-                "aniId": 85828,
-                "page": "MangaFire",
-                "title": "Yuri Bear Storm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuri-kuma-arashi.omvy/"
-            },
-            "omvy": {
-                "identifier": "omvy",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/39b161f1eeeb54487bb8cbe236f208bc.jpg",
-                "malId": 66879,
-                "aniId": 85828,
-                "page": "MangaFire",
-                "title": "Yuri Bear Storm",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuri-kuma-arashi.omvy/"
-            }
-        },
         "Weebcentral": {
             "01j76xybns4bd542n638jzv4dp": {
+                "id": 213289,
                 "identifier": "01j76xybns4bd542n638jzv4dp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBNS4BD542N638JZV4DP.jpg",
                 "malId": 66879,
@@ -62,6 +43,19 @@
                 "title": "Yuri Bear Storm",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBNS4BD542N638JZV4DP"
+            }
+        },
+        "MangaFire": {
+            "omvy": {
+                "id": 244676,
+                "identifier": "omvy",
+                "image": "https://static.mangafire.to/3ca5/i/3/39/39b161f1eeeb54487bb8cbe236f208bc.jpg",
+                "malId": 66879,
+                "aniId": 85828,
+                "page": "MangaFire",
+                "title": "Yuri Bear Storm",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuri-kuma-arashii.omvy"
             }
         },
         "Comick": {

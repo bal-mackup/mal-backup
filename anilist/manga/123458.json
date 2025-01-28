@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f5c031c8-a9ff-4be1-bb47-d12f3f688bb6": {
+                "id": 51010,
                 "identifier": "f5c031c8-a9ff-4be1-bb47-d12f3f688bb6",
                 "image": "https://uploads.mangadex.org/covers/f5c031c8-a9ff-4be1-bb47-d12f3f688bb6/c59afafb-8dfd-4247-91c4-0710a175eb2d.jpg",
                 "malId": 130154,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "shuumatsu_touring": {
+                "id": 106195,
                 "identifier": "shuumatsu_touring",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42796/cover.jpg",
                 "malId": 130154,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-oc991959": {
+                "id": 112188,
                 "identifier": "manga-oc991959",
                 "image": "https://avt.mkklcdnv6temp.com/38/e/26-1660019803.jpg",
                 "malId": 130154,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "touring-after-the-apocalypse": {
+                "id": 120623,
                 "identifier": "touring-after-the-apocalypse",
                 "image": "https://temp.compsci88.com/cover/Touring-After-the-Apocalypse.jpg",
                 "malId": 130154,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Touring-After-the-Apocalypse"
             }
         },
-        "MangaFire": {
-            "shuumatsu-touring.ykq2x": {
-                "identifier": "shuumatsu-touring.ykq2x",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/6380fa3103a693b8b4eeb9eee1d74da6.jpg",
-                "malId": 130154,
-                "aniId": 123458,
-                "page": "MangaFire",
-                "title": "Touring After the Apocalypse",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-touring.ykq2x/"
-            },
-            "shuumatsu-touringg.ykq2x": {
-                "identifier": "shuumatsu-touringg.ykq2x",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/6380fa3103a693b8b4eeb9eee1d74da6.jpg",
-                "malId": 130154,
-                "aniId": 123458,
-                "page": "MangaFire",
-                "title": "Touring After the Apocalypse",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-touringg.ykq2x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfvenxqg7kwvzbbkx9tx": {
+                "id": 207699,
                 "identifier": "01j76xyfvenxqg7kwvzbbkx9tx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFVENXQG7KWVZBBKX9TX.jpg",
                 "malId": 130154,
@@ -86,6 +69,19 @@
                 "title": "Touring After the Apocalypse",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFVENXQG7KWVZBBKX9TX"
+            }
+        },
+        "MangaFire": {
+            "ykq2x": {
+                "id": 224103,
+                "identifier": "ykq2x",
+                "image": "https://static.mangafire.to/c159/i/6/63/6380fa3103a693b8b4eeb9eee1d74da6.jpg",
+                "malId": 130154,
+                "aniId": 123458,
+                "page": "MangaFire",
+                "title": "Touring After the Apocalypse",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shuumatsu-touringg.ykq2x"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d7acd022-1bc5-447b-94a2-0ff2021aad14": {
+                "id": 123870,
                 "identifier": "d7acd022-1bc5-447b-94a2-0ff2021aad14",
                 "image": "https://uploads.mangadex.org/covers/d7acd022-1bc5-447b-94a2-0ff2021aad14/c31c5f24-7bd0-4294-9a95-a08c8b435c72.jpg",
                 "malId": 154736,
@@ -19,15 +20,29 @@
             }
         },
         "MangaFire": {
-            "shounen-onmyouji-sorakura-shikiji.yv1y0": {
-                "identifier": "shounen-onmyouji-sorakura-shikiji.yv1y0",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74ef548c7e2c6152d70369f2b3c346b8.jpg",
+            "yv1y0": {
+                "id": 247736,
+                "identifier": "yv1y0",
+                "image": "https://static.mangafire.to/c373/i/7/74/74ef548c7e2c6152d70369f2b3c346b8.jpg",
                 "malId": 154736,
                 "aniId": 159785,
                 "page": "MangaFire",
                 "title": "Shounen Onmyouji (SORAKURA Shikiji)",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/shounen-onmyouji-sorakura-shikiji.yv1y0/"
+                "url": "https://mangafire.to/manga/shounen-onmyouji-sorakura-shikijii.yv1y0"
+            }
+        },
+        "Weebcentral": {
+            "01jev1a79mfchey6kjc187ynk1": {
+                "id": 267265,
+                "identifier": "01jev1a79mfchey6kjc187ynk1",
+                "image": "https://temp.compsci88.com/cover/fallback/01JEV1A79MFCHEY6KJC187YNK1.jpg",
+                "malId": 154736,
+                "aniId": 159785,
+                "page": "Weebcentral",
+                "title": "The Teen Exorcist",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JEV1A79MFCHEY6KJC187YNK1"
             }
         },
         "Comick": {

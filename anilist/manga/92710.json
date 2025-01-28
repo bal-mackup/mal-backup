@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "178bd1bc-51cf-4d6f-96ac-63515df21ac1": {
+                "id": 18742,
                 "identifier": "178bd1bc-51cf-4d6f-96ac-63515df21ac1",
                 "image": "https://uploads.mangadex.org/covers/178bd1bc-51cf-4d6f-96ac-63515df21ac1/0a8706a9-e30b-4974-bdcf-46a9ed25d290.jpg",
                 "malId": 78795,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hawkwood": {
+                "id": 72599,
                 "identifier": "hawkwood",
                 "image": "https://temp.compsci88.com/cover/Hawkwood.jpg",
                 "malId": 78795,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ba979183": {
+                "id": 79206,
                 "identifier": "manga-ba979183",
                 "image": "https://avt.mkklcdnv6temp.com/31/w/16-1583494614.jpg",
                 "malId": 78795,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "hawkwood": {
+                "id": 81312,
                 "identifier": "hawkwood",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27043/cover.jpg",
                 "malId": 78795,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/hawkwood/"
             }
         },
-        "MangaFire": {
-            "hawkwood.m22wp": {
-                "identifier": "hawkwood.m22wp",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b5fa1f0d7d4ed19098f96f44791a06a.jpg",
-                "malId": 78795,
-                "aniId": 92710,
-                "page": "MangaFire",
-                "title": "Hawkwood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hawkwood.m22wp/"
-            },
-            "m22wp": {
-                "identifier": "m22wp",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b5fa1f0d7d4ed19098f96f44791a06a.jpg",
-                "malId": 78795,
-                "aniId": 92710,
-                "page": "MangaFire",
-                "title": "Hawkwood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hawkwood.m22wp/"
-            }
-        },
         "Weebcentral": {
             "01j76xycktf6914e8vq3bhbh7r": {
+                "id": 211053,
                 "identifier": "01j76xycktf6914e8vq3bhbh7r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCKTF6914E8VQ3BHBH7R.jpg",
                 "malId": 78795,
@@ -86,6 +69,19 @@
                 "title": "Hawkwood",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCKTF6914E8VQ3BHBH7R"
+            }
+        },
+        "MangaFire": {
+            "m22wp": {
+                "id": 260645,
+                "identifier": "m22wp",
+                "image": "https://static.mangafire.to/3ba3/i/8/8b/8b5fa1f0d7d4ed19098f96f44791a06a.jpg",
+                "malId": 78795,
+                "aniId": 92710,
+                "page": "MangaFire",
+                "title": "Hawkwood",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hawkwoodd.m22wp"
             }
         },
         "Comick": {

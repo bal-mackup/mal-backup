@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8b0145b1-947c-4f72-936e-be87b3d72b5d": {
+                "id": 19434,
                 "identifier": "8b0145b1-947c-4f72-936e-be87b3d72b5d",
                 "image": "https://uploads.mangadex.org/covers/8b0145b1-947c-4f72-936e-be87b3d72b5d/578e1a9f-1d3f-4c86-9f31-2685d80f9acc.jpg",
                 "malId": 89741,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "madowanai-hoshi": {
+                "id": 80851,
                 "identifier": "madowanai-hoshi",
                 "image": "https://temp.compsci88.com/cover/Madowanai-Hoshi.jpg",
                 "malId": 89741,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Madowanai-Hoshi"
             }
         },
-        "MangaFire": {
-            "madowanai-hoshi.rlzwn": {
-                "identifier": "madowanai-hoshi.rlzwn",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9cba292d0cdcb97968334c7576c21631.jpg",
-                "malId": 89741,
-                "aniId": 99053,
-                "page": "MangaFire",
-                "title": "Madowanai Hoshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madowanai-hoshi.rlzwn/"
-            },
-            "rlzwn": {
-                "identifier": "rlzwn",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9cba292d0cdcb97968334c7576c21631.jpg",
-                "malId": 89741,
-                "aniId": 99053,
-                "page": "MangaFire",
-                "title": "Madowanai Hoshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madowanai-hoshi.rlzwn/"
-            }
-        },
         "Weebcentral": {
             "01j76xycf1bs1ggspbn6bezmm6": {
+                "id": 212976,
                 "identifier": "01j76xycf1bs1ggspbn6bezmm6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCF1BS1GGSPBN6BEZMM6.jpg",
                 "malId": 89741,
@@ -62,6 +43,19 @@
                 "title": "Madowanai Hoshi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCF1BS1GGSPBN6BEZMM6"
+            }
+        },
+        "MangaFire": {
+            "rlzwn": {
+                "id": 257957,
+                "identifier": "rlzwn",
+                "image": "https://static.mangafire.to/ddaf/i/9/9c/9cba292d0cdcb97968334c7576c21631.jpg",
+                "malId": 89741,
+                "aniId": 99053,
+                "page": "MangaFire",
+                "title": "Madowanai Hoshi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/madowanai-hoshii.rlzwn"
             }
         },
         "Comick": {

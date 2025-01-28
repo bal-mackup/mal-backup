@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mp989424": {
+                "id": 83743,
                 "identifier": "manga-mp989424",
                 "image": "https://avt.mkklcdnv6temp.com/30/s/24-1627962291.jpg",
                 "malId": 148705,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "cd899926-20df-4f4b-b400-3b9917cf2882": {
+                "id": 88862,
                 "identifier": "cd899926-20df-4f4b-b400-3b9917cf2882",
                 "image": "https://uploads.mangadex.org/covers/cd899926-20df-4f4b-b400-3b9917cf2882/e8e3cf79-0fd8-421a-aeb3-f42dd5a025f5.jpg",
                 "malId": 148705,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/cd899926-20df-4f4b-b400-3b9917cf2882"
             }
         },
-        "MangaFire": {
-            "i-have-no-health.pjloj": {
-                "identifier": "i-have-no-health.pjloj",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb9facf856f0926a9a81aa76c1fdcddd.jpg",
-                "malId": 148705,
-                "aniId": 137868,
-                "page": "MangaFire",
-                "title": "I'm All Out Of Health",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-have-no-health.pjloj/"
-            },
-            "i-have-no-healthh.pjloj": {
-                "identifier": "i-have-no-healthh.pjloj",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb9facf856f0926a9a81aa76c1fdcddd.jpg",
-                "malId": 148705,
-                "aniId": 137868,
-                "page": "MangaFire",
-                "title": "I'm All Out Of Health",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-have-no-healthh.pjloj/"
-            }
-        },
         "MangaSee": {
             "im-all-out-of-health": {
+                "id": 172189,
                 "identifier": "im-all-out-of-health",
                 "image": "https://temp.compsci88.com/cover/Im-All-Out-of-Health.jpg",
                 "malId": 148705,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygjnn4f8m095ff0sg34m": {
+                "id": 211229,
                 "identifier": "01j76xygjnn4f8m095ff0sg34m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGJNN4F8M095FF0SG34M.jpg",
                 "malId": 148705,
@@ -74,6 +56,19 @@
                 "title": "I'm All Out of Health!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGJNN4F8M095FF0SG34M"
+            }
+        },
+        "MangaFire": {
+            "pjloj": {
+                "id": 224675,
+                "identifier": "pjloj",
+                "image": "https://static.mangafire.to/258c/i/c/cb/cb9facf856f0926a9a81aa76c1fdcddd.jpg",
+                "malId": 148705,
+                "aniId": 137868,
+                "page": "MangaFire",
+                "title": "I'm All Out Of Health",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-have-no-healthh.pjloj"
             }
         },
         "Comick": {

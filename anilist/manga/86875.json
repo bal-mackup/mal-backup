@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d5942d2c-c320-4b94-ab21-4fb34c568338": {
+                "id": 13596,
                 "identifier": "d5942d2c-c320-4b94-ab21-4fb34c568338",
                 "image": "https://uploads.mangadex.org/covers/d5942d2c-c320-4b94-ab21-4fb34c568338/744016ad-a723-4a46-93cf-3beda9b9240d.jpg",
                 "malId": 77989,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hanebado": {
+                "id": 69018,
                 "identifier": "hanebado",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16603/cover.jpg",
                 "malId": 77989,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hanebado": {
+                "id": 71644,
                 "identifier": "hanebado",
                 "image": "https://temp.compsci88.com/cover/Hanebado.jpg",
                 "malId": 77989,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-pk952893": {
+                "id": 74660,
                 "identifier": "manga-pk952893",
                 "image": "https://avt.mkklcdnv6temp.com/4/p/2-1583465869.jpg",
                 "malId": 77989,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-pk952893"
             }
         },
-        "MangaFire": {
-            "hanebado.xj0qq": {
-                "identifier": "hanebado.xj0qq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c56bf5daded65948b3b267a59fad1265.jpg",
-                "malId": 77989,
-                "aniId": 86875,
-                "page": "MangaFire",
-                "title": "Hanebado!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanebado.xj0qq/"
-            },
-            "xj0qq": {
-                "identifier": "xj0qq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c56bf5daded65948b3b267a59fad1265.jpg",
-                "malId": 77989,
-                "aniId": 86875,
-                "page": "MangaFire",
-                "title": "Hanebado!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanebado.xj0qq/"
-            }
-        },
         "Weebcentral": {
             "01j76xycg6cpr5rmxrjt4wkg44": {
+                "id": 213306,
                 "identifier": "01j76xycg6cpr5rmxrjt4wkg44",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCG6CPR5RMXRJT4WKG44.jpg",
                 "malId": 77989,
@@ -86,6 +69,19 @@
                 "title": "Hanebado",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCG6CPR5RMXRJT4WKG44"
+            }
+        },
+        "MangaFire": {
+            "xj0qq": {
+                "id": 260678,
+                "identifier": "xj0qq",
+                "image": "https://static.mangafire.to/a3ec/i/c/c5/c56bf5daded65948b3b267a59fad1265.jpg",
+                "malId": 77989,
+                "aniId": 86875,
+                "page": "MangaFire",
+                "title": "Hanebado!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hanebadoo.xj0qq"
             }
         },
         "Comick": {

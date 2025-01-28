@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lb988936": {
+                "id": 78591,
                 "identifier": "manga-lb988936",
                 "image": "https://avt.mkklcdnv6temp.com/9/j/24-1619535071.jpg",
                 "malId": 149277,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec": {
+                "id": 81197,
                 "identifier": "2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec",
                 "image": "https://uploads.mangadex.org/covers/2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec/51c97da6-6835-4286-95c8-bc7f1efe500c.jpg",
                 "malId": 149277,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_wicked_little_princess": {
+                "id": 109712,
                 "identifier": "the_wicked_little_princess",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40255/cover.jpg",
                 "malId": 149277,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/the_wicked_little_princess/"
             },
             "the_wicked_little_princess_delete": {
+                "id": 180357,
                 "identifier": "the_wicked_little_princess_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40255/cover.jpg",
                 "malId": 149277,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/the_wicked_little_princess_delete/"
             }
         },
-        "MangaFire": {
-            "the-wicked-little-princess2.4q8mo": {
-                "identifier": "the-wicked-little-princess2.4q8mo",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12e5ee788bc5ac253b26134abf8f5b97.jpg",
-                "malId": 149277,
-                "aniId": 136053,
-                "page": "MangaFire",
-                "title": "The Wicked Little Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-wicked-little-princess2.4q8mo/"
-            },
-            "the-wicked-little-princess22.4q8mo": {
-                "identifier": "the-wicked-little-princess22.4q8mo",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12e5ee788bc5ac253b26134abf8f5b97.jpg",
-                "malId": 149277,
-                "aniId": 136053,
-                "page": "MangaFire",
-                "title": "The Wicked Little Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-wicked-little-princess22.4q8mo/"
-            }
-        },
         "MangaSee": {
             "the-wicked-little-princess": {
+                "id": 158230,
                 "identifier": "the-wicked-little-princess",
                 "image": "https://temp.compsci88.com/cover/The-Wicked-Little-Princess.jpg",
                 "malId": 149277,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xyg5jxhxc7c5gaa79hgz4": {
+                "id": 206821,
                 "identifier": "01j76xyg5jxhxc7c5gaa79hgz4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5JXHXC7C5GAA79HGZ4.jpg",
                 "malId": 149277,
@@ -96,6 +80,19 @@
                 "title": "The Wicked Little Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5JXHXC7C5GAA79HGZ4"
+            }
+        },
+        "MangaFire": {
+            "4q8mo": {
+                "id": 226460,
+                "identifier": "4q8mo",
+                "image": "https://static.mangafire.to/192b/i/1/12/12e5ee788bc5ac253b26134abf8f5b97.jpg",
+                "malId": 149277,
+                "aniId": 136053,
+                "page": "MangaFire",
+                "title": "The Wicked Little Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-wicked-little-princess22.4q8mo"
             }
         },
         "Comick": {

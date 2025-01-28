@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0953cced-141c-490f-a5d2-a359587be7f1": {
+                "id": 28836,
                 "identifier": "0953cced-141c-490f-a5d2-a359587be7f1",
                 "image": "https://uploads.mangadex.org/covers/0953cced-141c-490f-a5d2-a359587be7f1/5992df71-e03f-4589-8f7f-7b64a44c5c79.png",
                 "malId": 120367,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "futari-ashita-mo-sorenari-ni": {
+                "id": 56495,
                 "identifier": "futari-ashita-mo-sorenari-ni",
                 "image": "https://temp.compsci88.com/cover/Futari-Ashita-mo-Sorenari-ni.jpg",
                 "malId": 120367,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-eg982041": {
+                "id": 73874,
                 "identifier": "manga-eg982041",
                 "image": "https://avt.mkklcdnv6temp.com/36/z/18-1583498529.jpg",
                 "malId": 120367,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-eg982041"
             }
         },
-        "MangaFire": {
-            "futari-ashita-mo-sorenari-ni.52rrq": {
-                "identifier": "futari-ashita-mo-sorenari-ni.52rrq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63814a88a7df06249f26815f0ee4a6fa.jpg",
-                "malId": 120367,
-                "aniId": 110140,
-                "page": "MangaFire",
-                "title": "It Takes Two Tomorrow, Too",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-ashita-mo-sorenari-ni.52rrq/"
-            },
-            "futari-ashita-mo-sorenari-nii.52rrq": {
-                "identifier": "futari-ashita-mo-sorenari-nii.52rrq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63814a88a7df06249f26815f0ee4a6fa.jpg",
-                "malId": 120367,
-                "aniId": 110140,
-                "page": "MangaFire",
-                "title": "It Takes Two Tomorrow, Too",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-ashita-mo-sorenari-nii.52rrq/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrb1mby3f4ya2tpy7j9": {
+                "id": 211816,
                 "identifier": "01j76xydrb1mby3f4ya2tpy7j9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRB1MBY3F4YA2TPY7J9.jpg",
                 "malId": 120367,
@@ -74,6 +56,19 @@
                 "title": "It Takes Two Tomorrow, Too",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRB1MBY3F4YA2TPY7J9"
+            }
+        },
+        "MangaFire": {
+            "52rrq": {
+                "id": 229415,
+                "identifier": "52rrq",
+                "image": "https://static.mangafire.to/86f2/i/6/63/63814a88a7df06249f26815f0ee4a6fa.jpg",
+                "malId": 120367,
+                "aniId": 110140,
+                "page": "MangaFire",
+                "title": "It Takes Two Tomorrow, Too",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futari-ashita-mo-sorenari-nii.52rrq"
             }
         },
         "Comick": {

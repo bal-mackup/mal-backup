@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c26269c7-0f5d-4966-8cd5-b79acb86fb7a": {
+                "id": 18669,
                 "identifier": "c26269c7-0f5d-4966-8cd5-b79acb86fb7a",
                 "image": "https://uploads.mangadex.org/covers/c26269c7-0f5d-4966-8cd5-b79acb86fb7a/3283455e-4c0b-4d79-a7ba-e1f5d38cb582.jpg",
                 "malId": 111276,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sewayaki-kitsune-no-senko-san": {
+                "id": 56550,
                 "identifier": "sewayaki-kitsune-no-senko-san",
                 "image": "https://temp.compsci88.com/cover/Sewayaki-Kitsune-No-Senko-san.jpg",
                 "malId": 111276,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sewayaki_kitsune_no_senko_san": {
+                "id": 66593,
                 "identifier": "sewayaki_kitsune_no_senko_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26889/cover.jpg",
                 "malId": 111276,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ah977942": {
+                "id": 73910,
                 "identifier": "manga-ah977942",
                 "image": "https://avt.mkklcdnv6temp.com/4/q/16-1583493629.jpg",
                 "malId": 111276,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ah977942"
             }
         },
-        "MangaFire": {
-            "sewayaki-kitsune-no-senko-san.524v9": {
-                "identifier": "sewayaki-kitsune-no-senko-san.524v9",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59c705e904656e365bfce1c80dab7e35.jpg",
-                "malId": 111276,
-                "aniId": 100584,
-                "page": "MangaFire",
-                "title": "Sewayaki Kitsune no Senko-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sewayaki-kitsune-no-senko-san.524v9/"
-            },
-            "sewayaki-kitsune-no-senko-sann.524v9": {
-                "identifier": "sewayaki-kitsune-no-senko-sann.524v9",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59c705e904656e365bfce1c80dab7e35.jpg",
-                "malId": 111276,
-                "aniId": 100584,
-                "page": "MangaFire",
-                "title": "Sewayaki Kitsune no Senko-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sewayaki-kitsune-no-senko-sann.524v9/"
-            },
-            "524v9": {
-                "identifier": "524v9",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59c705e904656e365bfce1c80dab7e35.jpg",
-                "malId": 111276,
-                "aniId": 100584,
-                "page": "MangaFire",
-                "title": "Sewayaki Kitsune no Senko-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sewayaki-kitsune-no-senko-sann.524v9/"
-            }
-        },
         "Weebcentral": {
             "01j76xycjr9nmb02bk2wzgaaqa": {
+                "id": 213676,
                 "identifier": "01j76xycjr9nmb02bk2wzgaaqa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJR9NMB02BK2WZGAAQA.jpg",
                 "malId": 111276,
@@ -96,6 +69,19 @@
                 "title": "Sewayaki Kitsune no Senko-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJR9NMB02BK2WZGAAQA"
+            }
+        },
+        "MangaFire": {
+            "524v9": {
+                "id": 231484,
+                "identifier": "524v9",
+                "image": "https://static.mangafire.to/bf69/i/5/59/59c705e904656e365bfce1c80dab7e35.jpg",
+                "malId": 111276,
+                "aniId": 100584,
+                "page": "MangaFire",
+                "title": "Sewayaki Kitsune no Senko-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sewayaki-kitsune-no-senko-sann.524v9"
             }
         },
         "Comick": {

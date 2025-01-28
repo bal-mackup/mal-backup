@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "de2338e5-1240-4fc2-8d2e-23c45e67d78d": {
+                "id": 96338,
                 "identifier": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
                 "image": "https://uploads.mangadex.org/covers/de2338e5-1240-4fc2-8d2e-23c45e67d78d/cd9fde77-7106-4a9b-a6a9-ddf2d6836ad1.jpg",
                 "malId": 139154,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/de2338e5-1240-4fc2-8d2e-23c45e67d78d"
             }
         },
-        "MangaFire": {
-            "snowball-earth.mqp7x": {
-                "identifier": "snowball-earth.mqp7x",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1a/1af8c130d27554b25ee7e55638d5786a.jpg",
-                "malId": 139154,
-                "aniId": 136063,
-                "page": "MangaFire",
-                "title": "Snowball Earth",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/snowball-earth.mqp7x/"
-            }
-        },
         "MangaSee": {
             "snowball-earth": {
+                "id": 188068,
                 "identifier": "snowball-earth",
                 "image": "https://temp.compsci88.com/cover/Snowball-Earth.jpg",
                 "malId": 139154,
@@ -44,8 +34,9 @@
         },
         "MangaNato": {
             "manga-by1004681": {
+                "id": 197787,
                 "identifier": "manga-by1004681",
-                "image": "https://avt.mkklcdnv6temp.com/49/w/36-1726843520.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/31/n/18-1733329113-nw.webp",
                 "malId": 139154,
                 "aniId": 136063,
                 "page": "MangaNato",
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh6racxercefabvmhkn6": {
+                "id": 211464,
                 "identifier": "01j76xyh6racxercefabvmhkn6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH6RACXERCEFABVMHKN6.jpg",
                 "malId": 139154,
@@ -64,6 +56,19 @@
                 "title": "Snowball Earth",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH6RACXERCEFABVMHKN6"
+            }
+        },
+        "MangaFire": {
+            "mqp7x": {
+                "id": 248521,
+                "identifier": "mqp7x",
+                "image": "https://static.mangafire.to/9495/i/1/1a/1af8c130d27554b25ee7e55638d5786a.jpg",
+                "malId": 139154,
+                "aniId": 136063,
+                "page": "MangaFire",
+                "title": "Snowball Earth",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/snowball-earthh.mqp7x"
             }
         },
         "Comick": {

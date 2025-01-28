@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9cc352f9-0708-4726-b570-a3e0312d90ea": {
+                "id": 94671,
                 "identifier": "9cc352f9-0708-4726-b570-a3e0312d90ea",
                 "image": "https://uploads.mangadex.org/covers/9cc352f9-0708-4726-b570-a3e0312d90ea/61068a6d-b321-402c-990d-0c2401e47a55.jpg",
                 "malId": 69077,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rq994799": {
+                "id": 126624,
                 "identifier": "manga-rq994799",
                 "image": "https://avt.mkklcdnv6temp.com/2/j/29-1678334169.jpg",
                 "malId": 69077,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-rq994799"
             }
         },
-        "MangaFire": {
-            "the-blue-world.023o3": {
-                "identifier": "the-blue-world.023o3",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5c9e3499b47f79b5cbe8764ef291b97f.jpg",
-                "malId": 69077,
-                "aniId": 144252,
-                "page": "MangaFire",
-                "title": "Blue World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blue-world.023o3/"
-            },
-            "023o3": {
-                "identifier": "023o3",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5c9e3499b47f79b5cbe8764ef291b97f.jpg",
-                "malId": 69077,
-                "aniId": 144252,
-                "page": "MangaFire",
-                "title": "Blue World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blue-world.023o3/"
-            }
-        },
         "MangaFox": {
             "blue_world": {
+                "id": 220706,
                 "identifier": "blue_world",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40882/cover.jpg",
                 "malId": 69077,
@@ -62,6 +43,19 @@
                 "title": "Blue World",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/blue_world/"
+            }
+        },
+        "MangaFire": {
+            "023o3": {
+                "id": 245555,
+                "identifier": "023o3",
+                "image": "https://static.mangafire.to/725c/i/5/5c/5c9e3499b47f79b5cbe8764ef291b97f.jpg",
+                "malId": 69077,
+                "aniId": 144252,
+                "page": "MangaFire",
+                "title": "Blue World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-blue-worldd.023o3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8b131d61-af72-471d-bf69-90f6bf83f8b2": {
+                "id": 18162,
                 "identifier": "8b131d61-af72-471d-bf69-90f6bf83f8b2",
                 "image": "https://uploads.mangadex.org/covers/8b131d61-af72-471d-bf69-90f6bf83f8b2/313f4a53-3695-4f1e-a875-a42e31474229.jpg",
                 "malId": 109330,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/8b131d61-af72-471d-bf69-90f6bf83f8b2"
             },
             "caf927ff-514a-4f5a-85c1-53b376ca6b6c": {
+                "id": 35339,
                 "identifier": "caf927ff-514a-4f5a-85c1-53b376ca6b6c",
                 "image": "https://uploads.mangadex.org/covers/caf927ff-514a-4f5a-85c1-53b376ca6b6c/cb52d833-6741-4790-95ce-645f21f13967.jpg",
                 "malId": 109330,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "kimi_wa_natsu_no_naka": {
+                "id": 68109,
                 "identifier": "kimi_wa_natsu_no_naka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26343/cover.jpg",
                 "malId": 109330,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "my-summer-of-you": {
+                "id": 82041,
                 "identifier": "my-summer-of-you",
                 "image": "https://temp.compsci88.com/cover/My-Summer-of-You.jpg",
                 "malId": 109330,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ai977543": {
+                "id": 91684,
                 "identifier": "manga-ai977543",
                 "image": "https://avt.mkklcdnv6temp.com/fld/42/k/8-1732789658-nw.webp",
                 "malId": 109330,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-ai977543"
             }
         },
-        "MangaFire": {
-            "kimi-wa-natsu-no-naka.52pw9": {
-                "identifier": "kimi-wa-natsu-no-naka.52pw9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e4f4eb68ec06867730ba3739686d416.jpg",
-                "malId": 109330,
-                "aniId": 100052,
-                "page": "MangaFire",
-                "title": "The Summer of You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-natsu-no-naka.52pw9/"
-            },
-            "52pw9": {
-                "identifier": "52pw9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e4f4eb68ec06867730ba3739686d416.jpg",
-                "malId": 109330,
-                "aniId": 100052,
-                "page": "MangaFire",
-                "title": "The Summer of You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-natsu-no-naka.52pw9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyewnfm6y73gpdk6mpm2k": {
+                "id": 210120,
                 "identifier": "01j76xyewnfm6y73gpdk6mpm2k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEWNFM6Y73GPDK6MPM2K.jpg",
                 "malId": 109330,
@@ -96,6 +80,19 @@
                 "title": "My Summer of You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEWNFM6Y73GPDK6MPM2K"
+            }
+        },
+        "MangaFire": {
+            "52pw9": {
+                "id": 235709,
+                "identifier": "52pw9",
+                "image": "https://static.mangafire.to/4480/i/4/4e/4e4f4eb68ec06867730ba3739686d416.jpg",
+                "malId": 109330,
+                "aniId": 100052,
+                "page": "MangaFire",
+                "title": "The Summer of You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-wa-natsu-no-nakaa.52pw9"
             }
         },
         "Comick": {

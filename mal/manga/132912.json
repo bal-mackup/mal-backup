@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "89ad8e16-ceff-47c4-adce-cc00baa65392": {
+                "id": 53585,
                 "identifier": "89ad8e16-ceff-47c4-adce-cc00baa65392",
                 "image": "https://uploads.mangadex.org/covers/89ad8e16-ceff-47c4-adce-cc00baa65392/b8536454-e1fd-475f-ac26-8aaf72dd7e05.jpg",
                 "malId": 132912,
-                "aniId": 127157,
+                "aniId": 126543,
                 "page": "Mangadex",
                 "title": "#DRCL midnight children",
                 "type": "manga",
@@ -20,48 +21,41 @@
         },
         "MangaFox": {
             "drcl_midnight_children": {
+                "id": 108855,
                 "identifier": "drcl_midnight_children",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37347/cover.jpg",
                 "malId": 132912,
-                "aniId": 127157,
+                "aniId": 126543,
                 "page": "MangaFox",
                 "title": "#DRCL - Midnight Children",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/drcl_midnight_children/"
             }
         },
-        "MangaFire": {
-            "drcl-midnight-children.llqpn": {
-                "identifier": "drcl-midnight-children.llqpn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc51aa5332155cdf02a2c72465d7ad74.jpg",
-                "malId": 132912,
-                "aniId": 127157,
-                "page": "MangaFire",
-                "title": "#DRCL midnight children",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/drcl-midnight-children.llqpn/"
-            },
-            "drcl-midnight-childrenn.llqpn": {
-                "identifier": "drcl-midnight-childrenn.llqpn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc51aa5332155cdf02a2c72465d7ad74.jpg",
-                "malId": 132912,
-                "aniId": 127157,
-                "page": "MangaFire",
-                "title": "#DRCL midnight children",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/drcl-midnight-childrenn.llqpn/"
-            }
-        },
         "MangaSee": {
             "drcl-midnight-children": {
+                "id": 170142,
                 "identifier": "drcl-midnight-children",
                 "image": "https://temp.compsci88.com/cover/DRCL-midnight-children.jpg",
                 "malId": 132912,
-                "aniId": 127157,
+                "aniId": 126543,
                 "page": "MangaSee",
                 "title": "#DRCL midnight children",
                 "type": "manga",
                 "url": "https://mangasee123.com/manga/DRCL-midnight-children"
+            }
+        },
+        "MangaFire": {
+            "llqpn": {
+                "id": 248112,
+                "identifier": "llqpn",
+                "image": "https://static.mangafire.to/2afe/i/b/bc/bc51aa5332155cdf02a2c72465d7ad74.jpg",
+                "malId": 132912,
+                "aniId": 126543,
+                "page": "MangaFire",
+                "title": "#DRCL midnight children",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/drcl-midnight-childrenn.llqpn"
             }
         },
         "Comick": {
@@ -72,7 +66,7 @@
                 "page": "Comick",
                 "title": "#DRCL midnight children",
                 "url": "https://comick.io/comic/drcl-midnight-children",
-                "aniId": 127157
+                "aniId": 126543
             }
         },
         "MangaReader": {
@@ -83,7 +77,7 @@
                 "page": "MangaReader",
                 "title": "#DRCL Midnight Children",
                 "url": "https://mangareader.to/drcl-midnight-children-36967",
-                "aniId": 127157
+                "aniId": 126543
             }
         },
         "VIZ": {
@@ -95,9 +89,9 @@
                 "type": "manga",
                 "page": "VIZ",
                 "external": true,
-                "aniId": 127157
+                "aniId": 126543
             }
         }
     },
-    "aniId": 127157
+    "aniId": 126543
 }

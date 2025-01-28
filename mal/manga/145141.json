@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "until-i-love-myself": {
+                "id": 161496,
                 "identifier": "until-i-love-myself",
                 "image": "https://temp.compsci88.com/cover/Until-I-Love-Myself.jpg",
                 "malId": 145141,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Until-I-Love-Myself"
             }
         },
-        "MangaFire": {
-            "jibun-no-karada-wo-yurusu-made.l3k23": {
-                "identifier": "jibun-no-karada-wo-yurusu-made.l3k23",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df87c66094e20bbaf000ab5a27581b0a.jpg",
-                "malId": 145141,
-                "aniId": 141124,
-                "page": "MangaFire",
-                "title": "Jibun no Karada wo Yurusu made",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jibun-no-karada-wo-yurusu-made.l3k23/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg8q3fsckpeee0nqp6wn": {
+                "id": 213162,
                 "identifier": "01j76xyg8q3fsckpeee0nqp6wn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG8Q3FSCKPEEE0NQP6WN.jpg",
                 "malId": 145141,
@@ -40,6 +30,19 @@
                 "title": "Until I Love Myself",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG8Q3FSCKPEEE0NQP6WN"
+            }
+        },
+        "MangaFire": {
+            "l3k23": {
+                "id": 241117,
+                "identifier": "l3k23",
+                "image": "https://static.mangafire.to/a158/i/d/df/df87c66094e20bbaf000ab5a27581b0a.jpg",
+                "malId": 145141,
+                "aniId": 141124,
+                "page": "MangaFire",
+                "title": "Jibun no Karada wo Yurusu made",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jibun-no-karada-wo-yurusu-madee.l3k23"
             }
         }
     },

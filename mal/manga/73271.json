@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f": {
+                "id": 10823,
                 "identifier": "eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
                 "image": "https://uploads.mangadex.org/covers/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f/5d4b155a-4409-45d9-8932-aa275424d48d.jpg",
                 "malId": 73271,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "re_monster": {
+                "id": 54638,
                 "identifier": "re_monster",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13895/cover.jpg",
                 "malId": 73271,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/re_monster/"
             },
             "re_monster_novel": {
+                "id": 68026,
                 "identifier": "re_monster_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35397/cover.jpg",
                 "malId": 73271,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "re-monster": {
+                "id": 56667,
                 "identifier": "re-monster",
                 "image": "https://temp.compsci88.com/cover/Re-Monster.jpg",
                 "malId": 73271,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-se953187": {
+                "id": 72962,
                 "identifier": "manga-se953187",
                 "image": "https://avt.mkklcdnv6temp.com/14/t/2-1583466269.jpg",
                 "malId": 73271,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-se953187"
             }
         },
-        "MangaFire": {
-            "remonster.xjqw": {
-                "identifier": "remonster.xjqw",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/06a7158e524b851bab1088f67256734b.jpg",
-                "malId": 73271,
-                "aniId": 85495,
-                "page": "MangaFire",
-                "title": "Re:Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/remonster.xjqw/"
-            },
-            "remonsterr.xjqw": {
-                "identifier": "remonsterr.xjqw",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/06a7158e524b851bab1088f67256734b.jpg",
-                "malId": 73271,
-                "aniId": 85495,
-                "page": "MangaFire",
-                "title": "Re:Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/remonsterr.xjqw/"
-            },
-            "xjqw": {
-                "identifier": "xjqw",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/06a7158e524b851bab1088f67256734b.jpg",
-                "malId": 73271,
-                "aniId": 85495,
-                "page": "MangaFire",
-                "title": "Re:Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/remonsterr.xjqw/"
-            }
-        },
         "Weebcentral": {
             "01j76xyacmqxs9g779vycgsc08": {
+                "id": 209101,
                 "identifier": "01j76xyacmqxs9g779vycgsc08",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYACMQXS9G779VYCGSC08.jpg",
                 "malId": 73271,
@@ -106,6 +80,19 @@
                 "title": "Re:Monster",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYACMQXS9G779VYCGSC08"
+            }
+        },
+        "MangaFire": {
+            "xjqw": {
+                "id": 228576,
+                "identifier": "xjqw",
+                "image": "https://static.mangafire.to/f11e/i/0/06/06a7158e524b851bab1088f67256734b.jpg",
+                "malId": 73271,
+                "aniId": 85495,
+                "page": "MangaFire",
+                "title": "Re:Monster",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/remonsterr.xjqw"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "23b51846-bec4-41e4-a9a2-a034064d01eb": {
+                "id": 12089,
                 "identifier": "23b51846-bec4-41e4-a9a2-a034064d01eb",
                 "image": "https://uploads.mangadex.org/covers/23b51846-bec4-41e4-a9a2-a034064d01eb/57be50e8-6ca7-4cc8-b09b-a869c550a80e.jpg",
                 "malId": 80091,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_mougenroku": {
+                "id": 59290,
                 "identifier": "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_mougenroku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/12562/cover.jpg",
                 "malId": 80091,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/yahari_ore_no_seishun_rabukome_wa_machigatte_iru_mougenroku/"
             },
             "yahari_ore_no_seishun_love_come_wa_machigatteiru": {
+                "id": 64195,
                 "identifier": "yahari_ore_no_seishun_love_come_wa_machigatteiru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/12562/cover.jpg",
                 "malId": 80091,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/yahari_ore_no_seishun_love_come_wa_machigatteiru/"
             },
             "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic": {
+                "id": 80408,
                 "identifier": "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14699/cover.jpg",
                 "malId": 80091,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "yahari-ore-no-seishun-rabukome-wa-machigatte-iru-comic": {
+                "id": 59318,
                 "identifier": "yahari-ore-no-seishun-rabukome-wa-machigatte-iru-comic",
                 "image": "https://temp.compsci88.com/cover/Yahari-Ore-no-Seishun-Rabukome-wa-Machigatte-Iru-Comic.jpg",
                 "malId": 80091,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-cs959427": {
+                "id": 78520,
                 "identifier": "manga-cs959427",
                 "image": "https://avt.mkklcdnv6temp.com/alb/4/m/6735-1732712627-nw.webp",
                 "malId": 80091,
@@ -74,6 +80,7 @@
                 "url": "https://manganato.com/manga-cs959427"
             },
             "manga-bb1004884": {
+                "id": 198228,
                 "identifier": "manga-bb1004884",
                 "image": "https://avt.mkklcdnv6temp.com/8/d/37-1727237475.jpg",
                 "malId": 80091,
@@ -84,30 +91,9 @@
                 "url": "https://chapmanganato.to/manga-bb1004884"
             }
         },
-        "MangaFire": {
-            "yahari-ore-no-seishun-love-come-wa-machigatteiru-at-comic.kwwxw": {
-                "identifier": "yahari-ore-no-seishun-love-come-wa-machigatteiru-at-comic.kwwxw",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/7ba8cb0b312590db5ed1117fe27952e9.jpg",
-                "malId": 80091,
-                "aniId": 92954,
-                "page": "MangaFire",
-                "title": "My Youth Romantic Comedy Is Wrong, As I Expected @ comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yahari-ore-no-seishun-love-come-wa-machigatteiru-at-comic.kwwxw/"
-            },
-            "kwwxw": {
-                "identifier": "kwwxw",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/7ba8cb0b312590db5ed1117fe27952e9.jpg",
-                "malId": 80091,
-                "aniId": 92954,
-                "page": "MangaFire",
-                "title": "My Youth Romantic Comedy Is Wrong, As I Expected @ comic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yahari-ore-no-seishun-love-come-wa-machigatteiru-at-comic.kwwxw/"
-            }
-        },
         "Weebcentral": {
             "01j76xydh7v9mwx3dhfjpbpbc4": {
+                "id": 212042,
                 "identifier": "01j76xydh7v9mwx3dhfjpbpbc4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDH7V9MWX3DHFJPBPBC4.jpg",
                 "malId": 80091,
@@ -116,6 +102,19 @@
                 "title": "My Youth Romantic Comedy Is Wrong, As I Expected @ comic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDH7V9MWX3DHFJPBPBC4"
+            }
+        },
+        "MangaFire": {
+            "kwwxw": {
+                "id": 250095,
+                "identifier": "kwwxw",
+                "image": "https://static.mangafire.to/5b09/i/7/7b/7ba8cb0b312590db5ed1117fe27952e9.jpg",
+                "malId": 80091,
+                "aniId": 92954,
+                "page": "MangaFire",
+                "title": "My Youth Romantic Comedy Is Wrong, As I Expected @ comic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yahari-ore-no-seishun-love-come-wa-machigatteiru-at-comicc.kwwxw"
             }
         },
         "Comick": {

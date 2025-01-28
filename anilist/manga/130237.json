@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "34dad1d5-532c-4c66-b0be-127ed041e22e": {
+                "id": 104136,
                 "identifier": "34dad1d5-532c-4c66-b0be-127ed041e22e",
                 "image": "https://uploads.mangadex.org/covers/34dad1d5-532c-4c66-b0be-127ed041e22e/b09ac3e2-1525-4803-b5ad-4d6989d85b94.jpg",
                 "malId": 146861,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-secret-affection": {
+                "id": 123505,
                 "identifier": "my-secret-affection",
                 "image": "https://temp.compsci88.com/cover/My-Secret-Affection.jpg",
                 "malId": 146861,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/My-Secret-Affection"
             }
         },
-        "MangaFire": {
-            "kimi-no-koto-ga-suki-de-ienai.jppl2": {
-                "identifier": "kimi-no-koto-ga-suki-de-ienai.jppl2",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/586cce2ca1c089f390297310e5a2cef1.jpg",
-                "malId": 146861,
-                "aniId": 130237,
-                "page": "MangaFire",
-                "title": "My Secret Affection",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-koto-ga-suki-de-ienai.jppl2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfwg50c1sy8fwsakmc3t": {
+                "id": 209850,
                 "identifier": "01j76xyfwg50c1sy8fwsakmc3t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFWG50C1SY8FWSAKMC3T.jpg",
                 "malId": 146861,
@@ -52,6 +43,19 @@
                 "title": "My Secret Affection",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFWG50C1SY8FWSAKMC3T"
+            }
+        },
+        "MangaFire": {
+            "jppl2": {
+                "id": 234087,
+                "identifier": "jppl2",
+                "image": "https://static.mangafire.to/ec94/i/5/58/586cce2ca1c089f390297310e5a2cef1.jpg",
+                "malId": 146861,
+                "aniId": 130237,
+                "page": "MangaFire",
+                "title": "My Secret Affection",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-no-koto-ga-suki-de-ienaii.jppl2"
             }
         },
         "Comick": {

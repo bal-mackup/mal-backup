@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee9e9071-93c6-45fc-a31b-406e11fcf3d8": {
+                "id": 27714,
                 "identifier": "ee9e9071-93c6-45fc-a31b-406e11fcf3d8",
                 "image": "https://uploads.mangadex.org/covers/ee9e9071-93c6-45fc-a31b-406e11fcf3d8/3dc99037-ebf4-473b-b734-8dbd9070e5fb.jpg",
                 "malId": 127800,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "chiisai_nozomi_to_ooki_na_yume": {
+                "id": 51564,
                 "identifier": "chiisai_nozomi_to_ooki_na_yume",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33730/cover.jpg",
                 "malId": 127800,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hd985212": {
+                "id": 85700,
                 "identifier": "manga-hd985212",
                 "image": "https://avt.mkklcdnv6temp.com/6/o/21-1588305197.jpg",
                 "malId": 127800,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-hd985212"
             }
         },
-        "MangaFire": {
-            "chiisai-nozomi-to-ooki-na-yume.pjkvj": {
-                "identifier": "chiisai-nozomi-to-ooki-na-yume.pjkvj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5188206fe52d3f75c04fbe4e6c4a9f2.jpg",
-                "malId": 127800,
-                "aniId": 112766,
-                "page": "MangaFire",
-                "title": "Small Nozomi and Big Yume",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chiisai-nozomi-to-ooki-na-yume.pjkvj/"
-            }
-        },
         "MangaSee": {
             "small-nozomi-and-big-yume": {
+                "id": 159503,
                 "identifier": "small-nozomi-and-big-yume",
                 "image": "https://temp.compsci88.com/cover/Small-Nozomi-and-Big-Yume.jpg",
                 "malId": 127800,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg745btcj547mtsyha7z": {
+                "id": 206566,
                 "identifier": "01j76xyg745btcj547mtsyha7z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG745BTCJ547MTSYHA7Z.jpg",
                 "malId": 127800,
@@ -76,6 +69,19 @@
                 "title": "Small Nozomi and Big Yume",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG745BTCJ547MTSYHA7Z"
+            }
+        },
+        "MangaFire": {
+            "pjkvj": {
+                "id": 243627,
+                "identifier": "pjkvj",
+                "image": "https://static.mangafire.to/bcf5/i/d/d5/d5188206fe52d3f75c04fbe4e6c4a9f2.jpg",
+                "malId": 127800,
+                "aniId": 112766,
+                "page": "MangaFire",
+                "title": "Small Nozomi and Big Yume",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chiisai-nozomi-to-ooki-na-yumee.pjkvj"
             }
         },
         "Comick": {

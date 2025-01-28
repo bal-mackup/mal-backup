@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d": {
+                "id": 16805,
                 "identifier": "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d",
                 "image": "https://uploads.mangadex.org/covers/d75025c5-f6a9-436e-ad09-8aeb4fdaa13d/538ce658-9e7b-480e-9856-9ece161c5b7e.jpg",
                 "malId": 95277,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kine_san_no_1_ri_de_cinema": {
+                "id": 63535,
                 "identifier": "kine_san_no_1_ri_de_cinema",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22881/cover.jpg",
                 "malId": 95277,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kine-san-no-1ri-de-cinema": {
+                "id": 64705,
                 "identifier": "kine-san-no-1ri-de-cinema",
                 "image": "https://temp.compsci88.com/cover/Kine-san-no-1ri-de-Cinema.jpg",
                 "malId": 95277,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-wk974067": {
+                "id": 92490,
                 "identifier": "manga-wk974067",
                 "image": "https://avt.mkklcdnv6temp.com/fld/87/c/7-1732787172-nw.webp",
                 "malId": 95277,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-wk974067"
             }
         },
-        "MangaFire": {
-            "kine-san-no-1-ri-de-cinema.374w9": {
-                "identifier": "kine-san-no-1-ri-de-cinema.374w9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fd/fd2b22dd10345a10e740d1f3b1145185.jpg",
-                "malId": 95277,
-                "aniId": 98934,
-                "page": "MangaFire",
-                "title": "I love cinema, I am lonely.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kine-san-no-1-ri-de-cinema.374w9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyedy47w1se0700ms7yfw": {
+                "id": 212387,
                 "identifier": "01j76xyedy47w1se0700ms7yfw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEDY47W1SE0700MS7YFW.jpg",
                 "malId": 95277,
@@ -76,6 +69,19 @@
                 "title": "Kine-san no 1-ri de Cinema",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEDY47W1SE0700MS7YFW"
+            }
+        },
+        "MangaFire": {
+            "374w9": {
+                "id": 251173,
+                "identifier": "374w9",
+                "image": "https://static.mangafire.to/7478/i/f/fd/fd2b22dd10345a10e740d1f3b1145185.jpg",
+                "malId": 95277,
+                "aniId": 98934,
+                "page": "MangaFire",
+                "title": "I love cinema, I am lonely.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kine-san-no-1-ri-de-cinemaa.374w9"
             }
         },
         "Comick": {

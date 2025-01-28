@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1379af55-0854-41a9-9177-7a2c5a3fcd6c": {
+                "id": 25302,
                 "identifier": "1379af55-0854-41a9-9177-7a2c5a3fcd6c",
                 "image": "https://uploads.mangadex.org/covers/1379af55-0854-41a9-9177-7a2c5a3fcd6c/6a19e8ec-5545-4cbc-bf27-b1d5de0375f4.jpg",
                 "malId": 111529,
@@ -18,40 +19,9 @@
                 "url": "https://mangadex.org/title/1379af55-0854-41a9-9177-7a2c5a3fcd6c"
             }
         },
-        "MangaFire": {
-            "seikaku-kuzu-de-nani-ga-warui.vvnx6": {
-                "identifier": "seikaku-kuzu-de-nani-ga-warui.vvnx6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71c6ce3767843bc9d5df3432d8420c72.jpg",
-                "malId": 111529,
-                "aniId": 100867,
-                "page": "MangaFire",
-                "title": "Seikaku Kuzu de Nani ga Warui",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seikaku-kuzu-de-nani-ga-warui.vvnx6/"
-            },
-            "seikaku-kuzu-de-nani-ga-waruii.vvnx6": {
-                "identifier": "seikaku-kuzu-de-nani-ga-waruii.vvnx6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71c6ce3767843bc9d5df3432d8420c72.jpg",
-                "malId": 111529,
-                "aniId": 100867,
-                "page": "MangaFire",
-                "title": "Seikaku Kuzu de Nani ga Warui",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seikaku-kuzu-de-nani-ga-waruii.vvnx6/"
-            },
-            "vvnx6": {
-                "identifier": "vvnx6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71c6ce3767843bc9d5df3432d8420c72.jpg",
-                "malId": 111529,
-                "aniId": 100867,
-                "page": "MangaFire",
-                "title": "Seikaku Kuzu de Nani ga Warui",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seikaku-kuzu-de-nani-ga-waruii.vvnx6/"
-            }
-        },
         "MangaNato": {
             "manga-vz998434": {
+                "id": 181451,
                 "identifier": "manga-vz998434",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/m/15-1733312433-nw.webp",
                 "malId": 111529,
@@ -60,6 +30,19 @@
                 "title": "Seikaku Kuzu De Nani Ga Warui",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-vz998434"
+            }
+        },
+        "MangaFire": {
+            "vvnx6": {
+                "id": 230660,
+                "identifier": "vvnx6",
+                "image": "https://static.mangafire.to/fec3/i/7/71/71c6ce3767843bc9d5df3432d8420c72.jpg",
+                "malId": 111529,
+                "aniId": 100867,
+                "page": "MangaFire",
+                "title": "Seikaku Kuzu de Nani ga Warui",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seikaku-kuzu-de-nani-ga-waruii.vvnx6"
             }
         },
         "Comick": {

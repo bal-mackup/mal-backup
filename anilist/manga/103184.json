@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3234c908-ae02-487a-a68a-7f8b2db8c78d": {
+                "id": 21355,
                 "identifier": "3234c908-ae02-487a-a68a-7f8b2db8c78d",
                 "image": "https://uploads.mangadex.org/covers/3234c908-ae02-487a-a68a-7f8b2db8c78d/112be188-da51-4f3f-b0fc-6488702849b6.jpg",
                 "malId": 115488,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/3234c908-ae02-487a-a68a-7f8b2db8c78d"
             },
             "36306bbb-d12a-471d-af54-413c6b00c14e": {
+                "id": 22994,
                 "identifier": "36306bbb-d12a-471d-af54-413c6b00c14e",
                 "image": "https://uploads.mangadex.org/covers/36306bbb-d12a-471d-af54-413c6b00c14e/56d2960d-8676-4ae9-a733-4ffa77785357.jpg",
                 "malId": 115488,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "the_story_of_a_girl_with_sanpaku_eyes": {
+                "id": 58883,
                 "identifier": "the_story_of_a_girl_with_sanpaku_eyes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27537/cover.jpg",
                 "malId": 115488,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/the_story_of_a_girl_with_sanpaku_eyes/"
             },
             "the_feelings_of_a_girl_with_sanpaku_eyes": {
+                "id": 69873,
                 "identifier": "the_feelings_of_a_girl_with_sanpaku_eyes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27921/cover.jpg",
                 "malId": 115488,
@@ -52,6 +56,7 @@
         },
         "MangaNato": {
             "manga-bv979304": {
+                "id": 75474,
                 "identifier": "manga-bv979304",
                 "image": "https://avt.mkklcdnv6temp.com/36/k/16-1583494774.jpg",
                 "malId": 115488,
@@ -64,6 +69,7 @@
         },
         "MangaSee": {
             "the-girl-with-the-sanpaku-eyes": {
+                "id": 86998,
                 "identifier": "the-girl-with-the-sanpaku-eyes",
                 "image": "https://temp.compsci88.com/cover/The-Girl-With-The-Sanpaku-Eyes.jpg",
                 "malId": 115488,
@@ -74,30 +80,9 @@
                 "url": "https://mangasee123.com/manga/The-Girl-With-The-Sanpaku-Eyes"
             }
         },
-        "MangaFire": {
-            "the-feelings-of-a-girl-with-sanpaku-eyes.rl3wo": {
-                "identifier": "the-feelings-of-a-girl-with-sanpaku-eyes.rl3wo",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b38f562297edeb888f0e31ff93efd4d.jpg",
-                "malId": 115488,
-                "aniId": 103184,
-                "page": "MangaFire",
-                "title": "The Girl with the Sanpaku Eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-feelings-of-a-girl-with-sanpaku-eyes.rl3wo/"
-            },
-            "sanpakugan-chan-wa-tsutaetai.ox3jj": {
-                "identifier": "sanpakugan-chan-wa-tsutaetai.ox3jj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/689edc62834eadfd445bb2c151482abd.jpg",
-                "malId": 115488,
-                "aniId": 103184,
-                "page": "MangaFire",
-                "title": "The Girl with the Sanpaku Eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sanpakugan-chan-wa-tsutaetai.ox3jj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf0z2tz9z19f4p4pxa3t": {
+                "id": 213080,
                 "identifier": "01j76xyf0z2tz9z19f4p4pxa3t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF0Z2TZ9Z19F4P4PXA3T.jpg",
                 "malId": 115488,
@@ -106,6 +91,30 @@
                 "title": "The Girl With The Sanpaku Eyes",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF0Z2TZ9Z19F4P4PXA3T"
+            }
+        },
+        "MangaFire": {
+            "ox3jj": {
+                "id": 234784,
+                "identifier": "ox3jj",
+                "image": "https://static.mangafire.to/cd7d/i/6/68/689edc62834eadfd445bb2c151482abd.jpg",
+                "malId": 115488,
+                "aniId": 103184,
+                "page": "MangaFire",
+                "title": "The Girl with the Sanpaku Eyes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sanpakugan-chan-wa-tsutaetaii.ox3jj"
+            },
+            "rl3wo": {
+                "id": 248368,
+                "identifier": "rl3wo",
+                "image": "https://static.mangafire.to/644a/i/2/2b/2b38f562297edeb888f0e31ff93efd4d.jpg",
+                "malId": 115488,
+                "aniId": 103184,
+                "page": "MangaFire",
+                "title": "The Girl with the Sanpaku Eyes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-feelings-of-a-girl-with-sanpaku-eyess.rl3wo"
             }
         },
         "Comick": {

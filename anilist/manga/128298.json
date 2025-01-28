@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ebf7dcc1-53bc-4b25-b057-5ef101a598f7": {
+                "id": 57705,
                 "identifier": "ebf7dcc1-53bc-4b25-b057-5ef101a598f7",
                 "image": "https://uploads.mangadex.org/covers/ebf7dcc1-53bc-4b25-b057-5ef101a598f7/1bd28de6-3fd1-484c-8df6-d822d67aad47.jpg",
                 "malId": 132556,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shin-gunjou-senki": {
+                "id": 82760,
                 "identifier": "shin-gunjou-senki",
                 "image": "https://temp.compsci88.com/cover/Shin-Gunjou-Senki.jpg",
                 "malId": 132556,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shin_gunjou_senki": {
+                "id": 104909,
                 "identifier": "shin_gunjou_senki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40941/cover.jpg",
                 "malId": 132556,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/shin_gunjou_senki/"
             }
         },
-        "MangaFire": {
-            "shin-gunjou-senki.v5n06": {
-                "identifier": "shin-gunjou-senki.v5n06",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/105d447a5c499a1422e5c3deedf49eb2.jpg",
-                "malId": 132556,
-                "aniId": 128298,
-                "page": "MangaFire",
-                "title": "Shin Gunjou Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shin-gunjou-senki.v5n06/"
-            }
-        },
         "Weebcentral": {
             "01j76xyey63yecncg35bk26j9n": {
+                "id": 208482,
                 "identifier": "01j76xyey63yecncg35bk26j9n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEY63YECNCG35BK26J9N.jpg",
                 "malId": 132556,
@@ -64,6 +56,19 @@
                 "title": "Shin Gunjou Senki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEY63YECNCG35BK26J9N"
+            }
+        },
+        "MangaFire": {
+            "v5n06": {
+                "id": 234681,
+                "identifier": "v5n06",
+                "image": "https://static.mangafire.to/a2cd/i/1/10/105d447a5c499a1422e5c3deedf49eb2.jpg",
+                "malId": 132556,
+                "aniId": 128298,
+                "page": "MangaFire",
+                "title": "Shin Gunjou Senki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shin-gunjou-senkii.v5n06"
             }
         },
         "Comick": {

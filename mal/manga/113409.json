@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f43419d-f8a8-4856-8547-3b7053466393": {
+                "id": 24302,
                 "identifier": "9f43419d-f8a8-4856-8547-3b7053466393",
                 "image": "https://uploads.mangadex.org/covers/9f43419d-f8a8-4856-8547-3b7053466393/f90cd48b-1c3d-4e34-92fb-f7bf8294a070.jpg",
                 "malId": 113409,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kin-no-hitsuji": {
+                "id": 57089,
                 "identifier": "kin-no-hitsuji",
                 "image": "https://temp.compsci88.com/cover/Kin-No-Hitsuji.jpg",
                 "malId": 113409,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cl980146": {
+                "id": 80456,
                 "identifier": "manga-cl980146",
                 "image": "https://avt.mkklcdnv6temp.com/17/v/17-1583495903.jpg",
                 "malId": 113409,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-cl980146"
             }
         },
-        "MangaFire": {
-            "kin-no-hitsuji.rl68q": {
-                "identifier": "kin-no-hitsuji.rl68q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/6140504d67d858ffeb11f0827f39e236.jpg",
-                "malId": 113409,
-                "aniId": 100331,
-                "page": "MangaFire",
-                "title": "The Golden Sheep",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kin-no-hitsuji.rl68q/"
-            },
-            "rl68q": {
-                "identifier": "rl68q",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/6140504d67d858ffeb11f0827f39e236.jpg",
-                "malId": 113409,
-                "aniId": 100331,
-                "page": "MangaFire",
-                "title": "The Golden Sheep",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kin-no-hitsuji.rl68q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd0m2kt714degpe96ejp": {
+                "id": 206127,
                 "identifier": "01j76xyd0m2kt714degpe96ejp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD0M2KT714DEGPE96EJP.jpg",
                 "malId": 113409,
@@ -74,6 +56,19 @@
                 "title": "The Golden Sheep",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD0M2KT714DEGPE96EJP"
+            }
+        },
+        "MangaFire": {
+            "rl68q": {
+                "id": 246164,
+                "identifier": "rl68q",
+                "image": "https://static.mangafire.to/5f91/i/6/61/6140504d67d858ffeb11f0827f39e236.jpg",
+                "malId": 113409,
+                "aniId": 100331,
+                "page": "MangaFire",
+                "title": "The Golden Sheep",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kin-no-hitsujii.rl68q"
             }
         },
         "Comick": {

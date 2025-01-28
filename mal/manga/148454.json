@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bdf9539e-c5f0-4ac1-b893-d862f1e83a53": {
+                "id": 55366,
                 "identifier": "bdf9539e-c5f0-4ac1-b893-d862f1e83a53",
                 "image": "https://uploads.mangadex.org/covers/bdf9539e-c5f0-4ac1-b893-d862f1e83a53/6d47da88-6a91-4756-81ef-3ab9387583d0.jpg",
                 "malId": 148454,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "path-of-the-shaman": {
+                "id": 65909,
                 "identifier": "path-of-the-shaman",
                 "image": "https://temp.compsci88.com/cover/Path-of-the-Shaman.jpg",
                 "malId": 148454,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kb987436": {
+                "id": 73512,
                 "identifier": "manga-kb987436",
                 "image": "https://avt.mkklcdnv6temp.com/47/q/22-1608746562.jpg",
                 "malId": 148454,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-kb987436"
             }
         },
-        "MangaFire": {
-            "mudanggihyeop.mqrlx": {
-                "identifier": "mudanggihyeop.mqrlx",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/620cf3e357794dca7066c1432fcfda85.jpg",
-                "malId": 148454,
-                "aniId": 127783,
-                "page": "MangaFire",
-                "title": "The Grand Mudang Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mudanggihyeop.mqrlx/"
-            },
-            "mudanggihyeopp.mqrlx": {
-                "identifier": "mudanggihyeopp.mqrlx",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/620cf3e357794dca7066c1432fcfda85.jpg",
-                "malId": 148454,
-                "aniId": 127783,
-                "page": "MangaFire",
-                "title": "The Grand Mudang Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mudanggihyeopp.mqrlx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeg9tcyjkkf5j715atmm": {
+                "id": 209972,
                 "identifier": "01j76xyeg9tcyjkkf5j715atmm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEG9TCYJKKF5J715ATMM.jpg",
                 "malId": 148454,
@@ -74,6 +56,19 @@
                 "title": "The Grand Mudang Saga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEG9TCYJKKF5J715ATMM"
+            }
+        },
+        "MangaFire": {
+            "mqrlx": {
+                "id": 224416,
+                "identifier": "mqrlx",
+                "image": "https://static.mangafire.to/e424/i/6/62/620cf3e357794dca7066c1432fcfda85.jpg",
+                "malId": 148454,
+                "aniId": 127783,
+                "page": "MangaFire",
+                "title": "The Grand Mudang Saga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mudanggihyeopp.mqrlx"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb2b9152-b780-42eb-92d1-e93ff4ef427f": {
+                "id": 39843,
                 "identifier": "bb2b9152-b780-42eb-92d1-e93ff4ef427f",
                 "image": "https://uploads.mangadex.org/covers/bb2b9152-b780-42eb-92d1-e93ff4ef427f/c3add29d-2f11-4d01-9451-9123cbb521f0.jpg",
                 "malId": 131600,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jd987312": {
+                "id": 86443,
                 "identifier": "manga-jd987312",
                 "image": "https://avt.mkklcdnv6temp.com/42/n/22-1607142361.jpg",
                 "malId": 131600,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-jd987312"
             }
         },
-        "MangaFire": {
-            "nogizaka-asuka-no-himitsu.2ol15": {
-                "identifier": "nogizaka-asuka-no-himitsu.2ol15",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5dd5c660164e8c326f93a0d675f6430.jpg",
-                "malId": 131600,
-                "aniId": 117331,
-                "page": "MangaFire",
-                "title": "Nogizaka Asuka no Himitsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nogizaka-asuka-no-himitsu.2ol15/"
-            }
-        },
         "MangaFox": {
             "nogizaka_asuka_no_himitsu": {
+                "id": 185674,
                 "identifier": "nogizaka_asuka_no_himitsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35962/cover.jpg",
                 "malId": 131600,
@@ -52,6 +43,19 @@
                 "title": "Nogizaka Asuka no Himitsu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/nogizaka_asuka_no_himitsu/"
+            }
+        },
+        "MangaFire": {
+            "2ol15": {
+                "id": 255361,
+                "identifier": "2ol15",
+                "image": "https://static.mangafire.to/88fe/i/a/a5/a5dd5c660164e8c326f93a0d675f6430.jpg",
+                "malId": 131600,
+                "aniId": 117331,
+                "page": "MangaFire",
+                "title": "Nogizaka Asuka no Himitsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nogizaka-asuka-no-himitsuu.2ol15"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e5d2ffb0-b7b8-4b30-b95a-70b0f29e64f6": {
+                "id": 19140,
                 "identifier": "e5d2ffb0-b7b8-4b30-b95a-70b0f29e64f6",
                 "image": "https://uploads.mangadex.org/covers/e5d2ffb0-b7b8-4b30-b95a-70b0f29e64f6/2cfe157c-b273-4369-b4c2-6cfb5dd65979.jpg",
                 "malId": 104947,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lion-to-hanayome": {
+                "id": 90665,
                 "identifier": "lion-to-hanayome",
                 "image": "https://temp.compsci88.com/cover/Lion-To-Hanayome.jpg",
                 "malId": 104947,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Lion-To-Hanayome"
             }
         },
-        "MangaFire": {
-            "lion-to-hanayome.wo9o4": {
-                "identifier": "lion-to-hanayome.wo9o4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c46d78f3d57fd29b896ee219e85d824e.jpg",
-                "malId": 104947,
-                "aniId": 87266,
-                "page": "MangaFire",
-                "title": "The Lion and the Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lion-to-hanayome.wo9o4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyccvea6sj3nm5pq06kf2": {
+                "id": 207491,
                 "identifier": "01j76xyccvea6sj3nm5pq06kf2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCCVEA6SJ3NM5PQ06KF2.jpg",
                 "malId": 104947,
@@ -52,6 +43,19 @@
                 "title": "The Lion and The Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCCVEA6SJ3NM5PQ06KF2"
+            }
+        },
+        "MangaFire": {
+            "wo9o4": {
+                "id": 230376,
+                "identifier": "wo9o4",
+                "image": "https://static.mangafire.to/6cb0/i/c/c4/c46d78f3d57fd29b896ee219e85d824e.jpg",
+                "malId": 104947,
+                "aniId": 87266,
+                "page": "MangaFire",
+                "title": "The Lion and the Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lion-to-hanayomee.wo9o4"
             }
         },
         "Comick": {

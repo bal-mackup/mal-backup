@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "87ebd557-8394-4f16-8afe-a8644e555ddc": {
+                "id": 88608,
                 "identifier": "87ebd557-8394-4f16-8afe-a8644e555ddc",
                 "image": "https://uploads.mangadex.org/covers/87ebd557-8394-4f16-8afe-a8644e555ddc/ea694830-a252-4988-a0e4-b69a374f776e.jpg",
                 "malId": 137303,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hirayasumi": {
+                "id": 90837,
                 "identifier": "hirayasumi",
                 "image": "https://temp.compsci88.com/cover/Hirayasumi.jpg",
                 "malId": 137303,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ne991213": {
+                "id": 107437,
                 "identifier": "manga-ne991213",
                 "image": "https://avt.mkklcdnv6temp.com/6/d/26-1655340635.jpg",
                 "malId": 137303,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "hirayasumi": {
+                "id": 107884,
                 "identifier": "hirayasumi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39444/cover.jpg",
                 "malId": 137303,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/hirayasumi/"
             }
         },
-        "MangaFire": {
-            "hirayasumi.zjxm": {
-                "identifier": "hirayasumi.zjxm",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/392e7003aec3227fe82a4527fa2407d5.jpg",
-                "malId": 137303,
-                "aniId": 132288,
-                "page": "MangaFire",
-                "title": "Hirayasumi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hirayasumi.zjxm/"
-            },
-            "hirayasumii.zjxm": {
-                "identifier": "hirayasumii.zjxm",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/392e7003aec3227fe82a4527fa2407d5.jpg",
-                "malId": 137303,
-                "aniId": 132288,
-                "page": "MangaFire",
-                "title": "Hirayasumi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hirayasumii.zjxm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5cjw47wa276rd6nngn": {
+                "id": 213045,
                 "identifier": "01j76xyf5cjw47wa276rd6nngn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5CJW47WA276RD6NNGN.jpg",
                 "malId": 137303,
@@ -86,6 +69,19 @@
                 "title": "Hirayasumi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF5CJW47WA276RD6NNGN"
+            }
+        },
+        "MangaFire": {
+            "zjxm": {
+                "id": 224329,
+                "identifier": "zjxm",
+                "image": "https://static.mangafire.to/fc6e/i/3/39/392e7003aec3227fe82a4527fa2407d5.jpg",
+                "malId": 137303,
+                "aniId": 132288,
+                "page": "MangaFire",
+                "title": "Hirayasumi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hirayasumii.zjxm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "563c2d79-2e05-4f5f-8bcf-e10d4c2c9dc0": {
+                "id": 121900,
                 "identifier": "563c2d79-2e05-4f5f-8bcf-e10d4c2c9dc0",
                 "image": "https://uploads.mangadex.org/covers/563c2d79-2e05-4f5f-8bcf-e10d4c2c9dc0/2ae44366-8a39-44c9-817d-31e1321f608f.jpg",
                 "malId": 138553,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cat-on-the-heros-lap": {
+                "id": 180909,
                 "identifier": "cat-on-the-heros-lap",
                 "image": "https://temp.compsci88.com/cover/Cat-on-the-Heros-Lap.jpg",
                 "malId": 138553,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Cat-on-the-Heros-Lap"
             }
         },
-        "MangaFire": {
-            "yuusha-no-hiza-ni-wa-neko-ga-iru.ox7lz": {
-                "identifier": "yuusha-no-hiza-ni-wa-neko-ga-iru.ox7lz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/09bd804e9031d972542ec84bc4474ddf.jpg",
-                "malId": 138553,
-                "aniId": 144972,
-                "page": "MangaFire",
-                "title": "Cat on the Hero’s Lap",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-no-hiza-ni-wa-neko-ga-iru.ox7lz/"
-            }
-        },
         "Weebcentral": {
             "01j76xygwpg1wm2b06yyvfvw2n": {
+                "id": 211738,
                 "identifier": "01j76xygwpg1wm2b06yyvfvw2n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWPG1WM2B06YYVFVW2N.jpg",
                 "malId": 138553,
@@ -52,6 +43,19 @@
                 "title": "Cat on the Hero's Lap",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWPG1WM2B06YYVFVW2N"
+            }
+        },
+        "MangaFire": {
+            "ox7lz": {
+                "id": 236607,
+                "identifier": "ox7lz",
+                "image": "https://static.mangafire.to/4a8b/i/9/9d/09bd804e9031d972542ec84bc4474ddf.jpg",
+                "malId": 138553,
+                "aniId": 144972,
+                "page": "MangaFire",
+                "title": "Cat on the Hero’s Lap",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuusha-no-hiza-ni-wa-neko-ga-iruu.ox7lz"
             }
         },
         "Comick": {

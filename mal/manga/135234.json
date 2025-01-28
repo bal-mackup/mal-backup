@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d723a153-12f9-4a9b-ac0b-4f4488d6b9b5": {
+                "id": 190796,
                 "identifier": "d723a153-12f9-4a9b-ac0b-4f4488d6b9b5",
                 "image": "https://uploads.mangadex.org/covers/d723a153-12f9-4a9b-ac0b-4f4488d6b9b5/2fbb7eac-db77-4390-9307-ad4bce6db962.jpg",
                 "malId": 135234,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/d723a153-12f9-4a9b-ac0b-4f4488d6b9b5"
             }
         },
-        "MangaFire": {
-            "ouji-sama-no-dakimakura.8x95o": {
-                "identifier": "ouji-sama-no-dakimakura.8x95o",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/7a4e10a8d249a91ad4716f547addf7a1.jpg",
-                "malId": 135234,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Ouji-sama no Dakimakura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ouji-sama-no-dakimakura.8x95o/"
-            },
-            "ouji-sama-no-dakimakuraa.8x95o": {
-                "identifier": "ouji-sama-no-dakimakuraa.8x95o",
-                "image": "https://static.mangafire.to/a1c6/i/1/11/7a4e10a8d249a91ad4716f547addf7a1.jpg",
-                "malId": 135234,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Ouji-sama no Dakimakura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ouji-sama-no-dakimakuraa.8x95o/"
-            }
-        },
         "MangaNato": {
             "manga-za1002409": {
+                "id": 204308,
                 "identifier": "manga-za1002409",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/q/17-1733323873-nw.webp",
                 "malId": 135234,
@@ -50,6 +30,19 @@
                 "title": "Ouji-Sama No Dakimakura",
                 "type": "manga",
                 "url": "https://manganato.com/manga-za1002409"
+            }
+        },
+        "MangaFire": {
+            "8x95o": {
+                "id": 223706,
+                "identifier": "8x95o",
+                "image": "https://static.mangafire.to/a1c6/i/1/11/7a4e10a8d249a91ad4716f547addf7a1.jpg",
+                "malId": 135234,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Ouji-sama no Dakimakura",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ouji-sama-no-dakimakuraa.8x95o"
             }
         },
         "Comick": {

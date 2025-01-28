@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b7e2f694-fac8-48c5-af12-b3b6f747dc83": {
+                "id": 123984,
                 "identifier": "b7e2f694-fac8-48c5-af12-b3b6f747dc83",
                 "image": "https://uploads.mangadex.org/covers/b7e2f694-fac8-48c5-af12-b3b6f747dc83/691c7133-7723-4852-a6fc-225088daa6e3.jpg",
                 "malId": 154554,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/b7e2f694-fac8-48c5-af12-b3b6f747dc83"
             }
         },
-        "MangaFire": {
-            "ore-to-mou-ichido-first-love.mv13p": {
-                "identifier": "ore-to-mou-ichido-first-love.mv13p",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/0128e5a631f78d139804277320260b63.jpg",
-                "malId": 154554,
-                "aniId": 159425,
-                "page": "MangaFire",
-                "title": "First Love with Me Again",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-to-mou-ichido-first-love.mv13p/"
-            }
-        },
         "MangaNato": {
             "manga-ym1002021": {
+                "id": 188257,
                 "identifier": "manga-ym1002021",
-                "image": "https://avt.mkklcdnv6temp.com/39/z/34-1715059213.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/29/t/17-1733322973-nw.webp",
                 "malId": 154554,
                 "aniId": 159425,
                 "page": "MangaNato",
                 "title": "Ore To Mou Ichido, Hatsukoi.",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-ym1002021"
+            }
+        },
+        "MangaFire": {
+            "mv13p": {
+                "id": 236003,
+                "identifier": "mv13p",
+                "image": "https://static.mangafire.to/6750/i/2/2d/0128e5a631f78d139804277320260b63.jpg",
+                "malId": 154554,
+                "aniId": 159425,
+                "page": "MangaFire",
+                "title": "First Love with Me Again",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-to-mou-ichido-first-lovee.mv13p"
             }
         },
         "Comick": {

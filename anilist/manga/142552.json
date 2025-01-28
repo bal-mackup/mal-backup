@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b00f5d5f-0801-4ad5-b343-1f229a7bd404": {
+                "id": 65240,
                 "identifier": "b00f5d5f-0801-4ad5-b343-1f229a7bd404",
                 "image": "https://uploads.mangadex.org/covers/b00f5d5f-0801-4ad5-b343-1f229a7bd404/541bf88e-0c37-4658-9cb6-4f3602eb8f1f.jpg",
                 "malId": 145629,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mz989882": {
+                "id": 89465,
                 "identifier": "manga-mz989882",
                 "image": "https://avt.mkklcdnv6temp.com/50/s/24-1635181128.jpg",
                 "malId": 145629,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-mz989882"
             }
         },
-        "MangaFire": {
-            "jukokuin-no-tensei-boukensha.m2ko7": {
-                "identifier": "jukokuin-no-tensei-boukensha.m2ko7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13d423772b0578b5045a6a0a4791e0fe.jpg",
-                "malId": 145629,
-                "aniId": 142552,
-                "page": "MangaFire",
-                "title": "Reincarnated Adventurer of the Curse Mark",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jukokuin-no-tensei-boukensha.m2ko7/"
-            },
-            "jukokuin-no-tensei-boukenshaa.m2ko7": {
-                "identifier": "jukokuin-no-tensei-boukenshaa.m2ko7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/13d423772b0578b5045a6a0a4791e0fe.jpg",
-                "malId": 145629,
-                "aniId": 142552,
-                "page": "MangaFire",
-                "title": "Reincarnated Adventurer of the Curse Mark",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jukokuin-no-tensei-boukenshaa.m2ko7/"
-            }
-        },
         "MangaSee": {
             "reincarnated-adventurer-of-the-curse-mark": {
+                "id": 158537,
                 "identifier": "reincarnated-adventurer-of-the-curse-mark",
                 "image": "https://temp.compsci88.com/cover/Reincarnated-Adventurer-of-the-Curse-Mark.jpg",
                 "malId": 145629,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg6bvakfnxhw6wveh1vw": {
+                "id": 208522,
                 "identifier": "01j76xyg6bvakfnxhw6wveh1vw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6BVAKFNXHW6WVEH1VW.jpg",
                 "malId": 145629,
@@ -74,6 +56,19 @@
                 "title": "Reincarnated Adventurer of the Curse Mark",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6BVAKFNXHW6WVEH1VW"
+            }
+        },
+        "MangaFire": {
+            "m2ko7": {
+                "id": 248176,
+                "identifier": "m2ko7",
+                "image": "https://static.mangafire.to/2865/i/1/13/13d423772b0578b5045a6a0a4791e0fe.jpg",
+                "malId": 145629,
+                "aniId": 142552,
+                "page": "MangaFire",
+                "title": "Reincarnated Adventurer of the Curse Mark",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jukokuin-no-tensei-boukenshaa.m2ko7"
             }
         },
         "Comick": {

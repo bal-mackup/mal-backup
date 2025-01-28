@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4413d794-e0da-4a6e-b61a-afd5758914e6": {
+                "id": 156720,
                 "identifier": "4413d794-e0da-4a6e-b61a-afd5758914e6",
                 "image": "https://uploads.mangadex.org/covers/4413d794-e0da-4a6e-b61a-afd5758914e6/080815fb-5008-42e7-9e38-387fc8840eed.jpg",
                 "malId": 158779,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sg996189": {
+                "id": 157221,
                 "identifier": "manga-sg996189",
                 "image": "https://avt.mkklcdnv6temp.com/fld/6/y/15-1733306985-nw.webp",
                 "malId": 158779,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "blooming-love": {
+                "id": 157715,
                 "identifier": "blooming-love",
                 "image": "https://temp.compsci88.com/cover/Blooming-Love.jpg",
                 "malId": 158779,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Blooming-Love"
             }
         },
-        "MangaFire": {
-            "hanninmae-no-koibito.oxx48": {
-                "identifier": "hanninmae-no-koibito.oxx48",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7a55372ac7cb13e28c8e54cee0f385a.jpg",
-                "malId": 158779,
-                "aniId": 164708,
-                "page": "MangaFire",
-                "title": "Blooming Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanninmae-no-koibito.oxx48/"
-            },
-            "hanninmae-no-koibitoo.oxx48": {
-                "identifier": "hanninmae-no-koibitoo.oxx48",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d7a55372ac7cb13e28c8e54cee0f385a.jpg",
-                "malId": 158779,
-                "aniId": 164708,
-                "page": "MangaFire",
-                "title": "Blooming Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanninmae-no-koibitoo.oxx48/"
-            }
-        },
         "MangaFox": {
             "hanninmae_no_koibito": {
+                "id": 164924,
                 "identifier": "hanninmae_no_koibito",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44840/cover.jpg",
                 "malId": 158779,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg5pkjp54c92gh388ekb": {
+                "id": 206711,
                 "identifier": "01j76xyg5pkjp54c92gh388ekb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5PKJP54C92GH388EKB.jpg",
                 "malId": 158779,
@@ -86,6 +69,19 @@
                 "title": "Blooming Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5PKJP54C92GH388EKB"
+            }
+        },
+        "MangaFire": {
+            "oxx48": {
+                "id": 226386,
+                "identifier": "oxx48",
+                "image": "https://static.mangafire.to/e907/i/d/d7/d7a55372ac7cb13e28c8e54cee0f385a.jpg",
+                "malId": 158779,
+                "aniId": 164708,
+                "page": "MangaFire",
+                "title": "Blooming Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hanninmae-no-koibitoo.oxx48"
             }
         },
         "Comick": {

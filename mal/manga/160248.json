@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/3/284404.jpg",
     "Sites": {
-        "MangaFire": {
-            "beastrings.3pl86": {
-                "identifier": "beastrings.3pl86",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/155847386c4139eb6b5c1e24499575de.jpg",
-                "malId": 160248,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Beastrings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beastrings.3pl86/"
-            }
-        },
         "MangaSee": {
             "beastrings": {
+                "id": 182762,
                 "identifier": "beastrings",
                 "image": "https://temp.compsci88.com/cover/Beastrings.jpg",
                 "malId": 160248,
@@ -32,6 +21,7 @@
         },
         "Weebcentral": {
             "01j76xygyve3bzaer9fff6azsx": {
+                "id": 213809,
                 "identifier": "01j76xygyve3bzaer9fff6azsx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGYVE3BZAER9FFF6AZSX.jpg",
                 "malId": 160248,
@@ -40,6 +30,19 @@
                 "title": "Beastrings",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGYVE3BZAER9FFF6AZSX"
+            }
+        },
+        "MangaFire": {
+            "3pl86": {
+                "id": 236999,
+                "identifier": "3pl86",
+                "image": "https://static.mangafire.to/31be/i/1/15/155847386c4139eb6b5c1e24499575de.jpg",
+                "malId": 160248,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Beastrings",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beastringss.3pl86"
             }
         }
     }

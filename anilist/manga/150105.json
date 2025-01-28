@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "21e80bd8-cabf-4c49-86da-72f92255f248": {
+                "id": 105694,
                 "identifier": "21e80bd8-cabf-4c49-86da-72f92255f248",
                 "image": "https://uploads.mangadex.org/covers/21e80bd8-cabf-4c49-86da-72f92255f248/74bbdf8d-3ffa-44d2-aa74-17ed8db82902.jpg",
                 "malId": 147382,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pn992548": {
+                "id": 115065,
                 "identifier": "manga-pn992548",
                 "image": "https://avt.mkklcdnv6temp.com/12/b/27-1664035989.jpg",
                 "malId": 147382,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tokyo-underworld": {
+                "id": 116241,
                 "identifier": "tokyo-underworld",
                 "image": "https://temp.compsci88.com/cover/Tokyo-Underworld.jpg",
                 "malId": 147382,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Tokyo-Underworld"
             }
         },
-        "MangaFire": {
-            "shin-tokyo.j2v4": {
-                "identifier": "shin-tokyo.j2v4",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/49d17c6611b9996de7b360d1dabe2954.jpg",
-                "malId": 147382,
-                "aniId": 150105,
-                "page": "MangaFire",
-                "title": "Tokyo Underworld",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shin-tokyo.j2v4/"
-            },
-            "shin-tokyoo.j2v4": {
-                "identifier": "shin-tokyoo.j2v4",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/49d17c6611b9996de7b360d1dabe2954.jpg",
-                "malId": 147382,
-                "aniId": 150105,
-                "page": "MangaFire",
-                "title": "Tokyo Underworld",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shin-tokyoo.j2v4/"
-            }
-        },
         "MangaFox": {
             "tokyo_underworld": {
+                "id": 176495,
                 "identifier": "tokyo_underworld",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43849/cover.jpg",
                 "malId": 147382,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyfqfeyck05btkbwnxnp6": {
+                "id": 206649,
                 "identifier": "01j76xyfqfeyck05btkbwnxnp6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFQFEYCK05BTKBWNXNP6.jpg",
                 "malId": 147382,
@@ -86,6 +69,19 @@
                 "title": "Tokyo Underworld",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFQFEYCK05BTKBWNXNP6"
+            }
+        },
+        "MangaFire": {
+            "j2v4": {
+                "id": 223944,
+                "identifier": "j2v4",
+                "image": "https://static.mangafire.to/e45d/i/4/49/49d17c6611b9996de7b360d1dabe2954.jpg",
+                "malId": 147382,
+                "aniId": 150105,
+                "page": "MangaFire",
+                "title": "Tokyo Underworld",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shin-tokyoo.j2v4"
             }
         },
         "Comick": {

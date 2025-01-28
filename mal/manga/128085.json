@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "84fe5a6a-6414-48f3-9d87-175c3b4c6089": {
+                "id": 37399,
                 "identifier": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
                 "image": "https://uploads.mangadex.org/covers/84fe5a6a-6414-48f3-9d87-175c3b4c6089/9d424f7b-ebf5-42fb-b8a8-a16d395e46c3.jpg",
                 "malId": 128085,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "me-roboco": {
+                "id": 70109,
                 "identifier": "me-roboco",
                 "image": "https://temp.compsci88.com/cover/Me-Roboco.jpg",
                 "malId": 128085,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-pq992525": {
+                "id": 114915,
                 "identifier": "manga-pq992525",
                 "image": "https://avt.mkklcdnv6temp.com/11/d/27-1663895729.jpg",
                 "malId": 128085,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "boku_to_roboko": {
+                "id": 116489,
                 "identifier": "boku_to_roboko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34726/cover.jpg",
                 "malId": 128085,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/boku_to_roboko/"
             }
         },
-        "MangaFire": {
-            "me-roboco.1nyyx": {
-                "identifier": "me-roboco.1nyyx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/9544380b48116438626a62adaa0ee911.jpg",
-                "malId": 128085,
-                "aniId": 119499,
-                "page": "MangaFire",
-                "title": "Me & Roboco",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/me-roboco.1nyyx/"
-            }
-        },
         "Weebcentral": {
             "01j76xydnv4qpafb71c3kxrpyq": {
+                "id": 213342,
                 "identifier": "01j76xydnv4qpafb71c3kxrpyq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDNV4QPAFB71C3KXRPYQ.jpg",
                 "malId": 128085,
@@ -76,6 +69,19 @@
                 "title": "Me & Roboco",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDNV4QPAFB71C3KXRPYQ"
+            }
+        },
+        "MangaFire": {
+            "1nyyx": {
+                "id": 257960,
+                "identifier": "1nyyx",
+                "image": "https://static.mangafire.to/4b0c/i/5/5e/9544380b48116438626a62adaa0ee911.jpg",
+                "malId": 128085,
+                "aniId": 119499,
+                "page": "MangaFire",
+                "title": "Me & Roboco",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/me-robocoo.1nyyx"
             }
         },
         "Comick": {

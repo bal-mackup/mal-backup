@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb790a3b-9232-4552-97c4-50040f62c960": {
+                "id": 27452,
                 "identifier": "bb790a3b-9232-4552-97c4-50040f62c960",
                 "image": "https://uploads.mangadex.org/covers/bb790a3b-9232-4552-97c4-50040f62c960/1e0f6638-e6ae-4453-b784-89f01c80e955.jpg",
                 "malId": 119640,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ek981545": {
+                "id": 78344,
                 "identifier": "manga-ek981545",
                 "image": "https://avt.mkklcdnv6temp.com/18/v/18-1583497824.jpg",
                 "malId": 119640,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "sweet-reincarnation": {
+                "id": 82683,
                 "identifier": "sweet-reincarnation",
                 "image": "https://temp.compsci88.com/cover/Sweet-Reincarnation.jpg",
                 "malId": 119640,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Sweet-Reincarnation"
             }
         },
-        "MangaFire": {
-            "okashi-na-tensei.6lpmp": {
-                "identifier": "okashi-na-tensei.6lpmp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/76de2f4132f4099d2be0ace6e94f0c8c.jpg",
-                "malId": 119640,
-                "aniId": 109107,
-                "page": "MangaFire",
-                "title": "Sweet Reincarnation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/okashi-na-tensei.6lpmp/"
-            },
-            "okashi-na-tenseii.6lpmp": {
-                "identifier": "okashi-na-tenseii.6lpmp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/76de2f4132f4099d2be0ace6e94f0c8c.jpg",
-                "malId": 119640,
-                "aniId": 109107,
-                "page": "MangaFire",
-                "title": "Sweet Reincarnation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/okashi-na-tenseii.6lpmp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd2903ztg9v8z92zj0vv": {
+                "id": 214314,
                 "identifier": "01j76xyd2903ztg9v8z92zj0vv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD2903ZTG9V8Z92ZJ0VV.jpg",
                 "malId": 119640,
@@ -74,6 +56,19 @@
                 "title": "Sweet Reincarnation",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD2903ZTG9V8Z92ZJ0VV"
+            }
+        },
+        "MangaFire": {
+            "6lpmp": {
+                "id": 227818,
+                "identifier": "6lpmp",
+                "image": "https://static.mangafire.to/56a6/i/7/76/76de2f4132f4099d2be0ace6e94f0c8c.jpg",
+                "malId": 119640,
+                "aniId": 109107,
+                "page": "MangaFire",
+                "title": "Sweet Reincarnation",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/okashi-na-tenseii.6lpmp"
             }
         },
         "Comick": {

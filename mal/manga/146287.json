@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38c6f934-7558-4d1b-80d1-91114e0419eb": {
+                "id": 99910,
                 "identifier": "38c6f934-7558-4d1b-80d1-91114e0419eb",
                 "image": "https://uploads.mangadex.org/covers/38c6f934-7558-4d1b-80d1-91114e0419eb/165cefc5-4bb1-40c9-8af3-67ec1328c287.jpg",
                 "malId": 146287,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ov991504": {
+                "id": 108911,
                 "identifier": "manga-ov991504",
                 "image": "https://avt.mkklcdnv6temp.com/19/q/26-1656994265.jpg",
                 "malId": 146287,
@@ -30,8 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ov991504"
             },
             "manga-cn1005796": {
+                "id": 217412,
                 "identifier": "manga-cn1005796",
-                "image": "https://avt.mkklcdnv6temp.com/44/y/37-1731486905.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/75/e/18-1733381594-nw.webp",
                 "malId": 146287,
                 "aniId": 157938,
                 "page": "MangaNato",
@@ -40,8 +43,9 @@
                 "url": "https://chapmanganato.to/manga-cn1005796"
             },
             "manga-cl1005846": {
+                "id": 218103,
                 "identifier": "manga-cl1005846",
-                "image": "https://avt.mkklcdnv6temp.com/46/w/37-1731772110.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/77/c/18-1733381705-nw.webp",
                 "malId": 146287,
                 "aniId": 157938,
                 "page": "MangaNato",
@@ -50,30 +54,9 @@
                 "url": "https://chapmanganato.to/manga-cl1005846"
             }
         },
-        "MangaFire": {
-            "level-1-kara-hajimaru-shoukan-musou.yq2z1": {
-                "identifier": "level-1-kara-hajimaru-shoukan-musou.yq2z1",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/394cf3820934bfb53d25aab6f5fa71fe.jpg",
-                "malId": 146287,
-                "aniId": 157938,
-                "page": "MangaFire",
-                "title": "The Invincible Summoner Who Crawled up From Level 1",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/level-1-kara-hajimaru-shoukan-musou.yq2z1/"
-            },
-            "level-1-kara-hajimaru-shoukan-musouu.yq2z1": {
-                "identifier": "level-1-kara-hajimaru-shoukan-musouu.yq2z1",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/394cf3820934bfb53d25aab6f5fa71fe.jpg",
-                "malId": 146287,
-                "aniId": 157938,
-                "page": "MangaFire",
-                "title": "The Invincible Summoner Who Crawled up From Level 1",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/level-1-kara-hajimaru-shoukan-musouu.yq2z1/"
-            }
-        },
         "MangaSee": {
             "level-1-kara-hajimaru-shoukan-musou": {
+                "id": 170702,
                 "identifier": "level-1-kara-hajimaru-shoukan-musou",
                 "image": "https://temp.compsci88.com/cover/Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
                 "malId": 146287,
@@ -84,6 +67,7 @@
                 "url": "https://mangasee123.com/manga/Level-1-kara-Hajimaru-Shoukan-Musou"
             },
             "the-invincible-summoner-who-crawled-up-from-level-1": {
+                "id": 191408,
                 "identifier": "the-invincible-summoner-who-crawled-up-from-level-1",
                 "image": "https://temp.compsci88.com/cover/The-Invincible-Summoner-Who-Crawled-Up-from-Level-1.jpg",
                 "malId": 146287,
@@ -96,6 +80,7 @@
         },
         "MangaFox": {
             "level_1_kara_hajimaru_shoukan_musou": {
+                "id": 172595,
                 "identifier": "level_1_kara_hajimaru_shoukan_musou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45254/cover.jpg",
                 "malId": 146287,
@@ -108,6 +93,7 @@
         },
         "Weebcentral": {
             "01j76xyhbhmm320svxzbn0hfhw": {
+                "id": 211852,
                 "identifier": "01j76xyhbhmm320svxzbn0hfhw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHBHMM320SVXZBN0HFHW.jpg",
                 "malId": 146287,
@@ -118,6 +104,7 @@
                 "url": "https://weebcentral.com/series/01J76XYHBHMM320SVXZBN0HFHW"
             },
             "01j76xyghv5w1k0yb2tv4hpb7j": {
+                "id": 212811,
                 "identifier": "01j76xyghv5w1k0yb2tv4hpb7j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGHV5W1K0YB2TV4HPB7J.jpg",
                 "malId": 146287,
@@ -126,6 +113,19 @@
                 "title": "The Invincible Summoner Who Crawled Up from Level 1",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGHV5W1K0YB2TV4HPB7J"
+            }
+        },
+        "MangaFire": {
+            "yq2z1": {
+                "id": 224839,
+                "identifier": "yq2z1",
+                "image": "https://static.mangafire.to/998f/i/3/39/394cf3820934bfb53d25aab6f5fa71fe.jpg",
+                "malId": 146287,
+                "aniId": 157938,
+                "page": "MangaFire",
+                "title": "The Invincible Summoner Who Crawled up From Level 1",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/level-1-kara-hajimaru-shoukan-musouu.yq2z1"
             }
         },
         "Comick": {

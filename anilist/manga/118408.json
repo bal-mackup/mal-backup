@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "14569f2f-f66a-4c67-ac7f-a37823a0fa23": {
+                "id": 34936,
                 "identifier": "14569f2f-f66a-4c67-ac7f-a37823a0fa23",
                 "image": "https://uploads.mangadex.org/covers/14569f2f-f66a-4c67-ac7f-a37823a0fa23/769c7d0a-d7cb-449d-8b54-aa1c138adb20.jpg",
                 "malId": 133641,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/14569f2f-f66a-4c67-ac7f-a37823a0fa23"
             },
             "73fe02d8-e892-4373-8179-15c79f426083": {
+                "id": 190214,
                 "identifier": "73fe02d8-e892-4373-8179-15c79f426083",
                 "image": "https://uploads.mangadex.org/covers/73fe02d8-e892-4373-8179-15c79f426083/0eacac06-c01f-413c-b2cc-88a7c8c5210a.jpg",
                 "malId": 133641,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "death-is-the-only-ending-for-the-villainess": {
+                "id": 56380,
                 "identifier": "death-is-the-only-ending-for-the-villainess",
                 "image": "https://temp.compsci88.com/cover/Death-Is-the-Only-Ending-for-the-Villainess.jpg",
                 "malId": 133641,
@@ -40,6 +43,7 @@
                 "url": "https://mangasee123.com/manga/Death-Is-the-Only-Ending-for-the-Villainess"
             },
             "villains-are-destined-to-die-volume-version": {
+                "id": 123763,
                 "identifier": "villains-are-destined-to-die-volume-version",
                 "image": "https://temp.compsci88.com/cover/Villains-Are-Destined-to-Die-Volume-Version.jpg",
                 "malId": 133641,
@@ -52,6 +56,7 @@
         },
         "MangaNato": {
             "manga-hs985227": {
+                "id": 73547,
                 "identifier": "manga-hs985227",
                 "image": "https://avt.mkklcdnv6temp.com/7/d/21-1588309429.jpg",
                 "malId": 133641,
@@ -64,6 +69,7 @@
         },
         "MangaFox": {
             "villains_are_destined_to_die": {
+                "id": 86400,
                 "identifier": "villains_are_destined_to_die",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37986/cover.jpg",
                 "malId": 133641,
@@ -74,6 +80,7 @@
                 "url": "https://fanfox.net/manga/villains_are_destined_to_die/"
             },
             "villains_are_destined_to_die_delete": {
+                "id": 115417,
                 "identifier": "villains_are_destined_to_die_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37986/cover.jpg",
                 "malId": 133641,
@@ -84,30 +91,9 @@
                 "url": "https://fanfox.net/manga/villains_are_destined_to_die_delete/"
             }
         },
-        "MangaFire": {
-            "agyeogui-ending-jugeumppun.jp324": {
-                "identifier": "agyeogui-ending-jugeumppun.jp324",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca569587531ab494d6d524555ee36ddd.jpg",
-                "malId": 133641,
-                "aniId": 118408,
-                "page": "MangaFire",
-                "title": "Villains Are Destined to Die",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/agyeogui-ending-jugeumppun.jp324/"
-            },
-            "agyeogui-ending-jugeumppunn.jp324": {
-                "identifier": "agyeogui-ending-jugeumppunn.jp324",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca569587531ab494d6d524555ee36ddd.jpg",
-                "malId": 133641,
-                "aniId": 118408,
-                "page": "MangaFire",
-                "title": "Villains Are Destined to Die",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/agyeogui-ending-jugeumppunn.jp324/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmz059wg12b0qqwryxs": {
+                "id": 208104,
                 "identifier": "01j76xydmz059wg12b0qqwryxs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMZ059WG12B0QQWRYXS.jpg",
                 "malId": 133641,
@@ -118,6 +104,7 @@
                 "url": "https://weebcentral.com/series/01J76XYDMZ059WG12B0QQWRYXS"
             },
             "01j76xyfx6wxy737g1zzq7xpvb": {
+                "id": 209925,
                 "identifier": "01j76xyfx6wxy737g1zzq7xpvb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFX6WXY737G1ZZQ7XPVB.jpg",
                 "malId": 133641,
@@ -126,6 +113,19 @@
                 "title": "Villains Are Destined to Die Volume Version",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFX6WXY737G1ZZQ7XPVB"
+            }
+        },
+        "MangaFire": {
+            "jp324": {
+                "id": 228494,
+                "identifier": "jp324",
+                "image": "https://static.mangafire.to/9844/i/c/ca/ca569587531ab494d6d524555ee36ddd.jpg",
+                "malId": 133641,
+                "aniId": 118408,
+                "page": "MangaFire",
+                "title": "Villains Are Destined to Die",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/agyeogui-ending-jugeumppunn.jp324"
             }
         },
         "Comick": {

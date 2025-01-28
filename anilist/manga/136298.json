@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "kurogane-no-valhallan": {
+                "id": 87303,
                 "identifier": "kurogane-no-valhallan",
                 "image": "https://temp.compsci88.com/cover/Kurogane-no-Valhallan.jpg",
                 "malId": 138356,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "2759019e-5fb7-4f16-8632-a86ea1e4244c": {
+                "id": 88748,
                 "identifier": "2759019e-5fb7-4f16-8632-a86ea1e4244c",
                 "image": "https://uploads.mangadex.org/covers/2759019e-5fb7-4f16-8632-a86ea1e4244c/a6edbbaf-e31f-4902-a71e-68164194902e.jpg",
                 "malId": 138356,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ng991215": {
+                "id": 107413,
                 "identifier": "manga-ng991215",
                 "image": "https://avt.mkklcdnv6temp.com/6/f/26-1655340756.jpg",
                 "malId": 138356,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ng991215"
             }
         },
-        "MangaFire": {
-            "kurogane-no-valhallian.593wj": {
-                "identifier": "kurogane-no-valhallian.593wj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/9712950a838bd5cd5a9752c91c981323.jpg",
-                "malId": 138356,
-                "aniId": 136298,
-                "page": "MangaFire",
-                "title": "Valhallian the Black Iron",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurogane-no-valhallian.593wj/"
-            },
-            "kurogane-no-valhalliann.593wj": {
-                "identifier": "kurogane-no-valhalliann.593wj",
-                "image": "https://static.mangafire.to/a302/i/9/97/9712950a838bd5cd5a9752c91c981323.jpg",
-                "malId": 138356,
-                "aniId": 136298,
-                "page": "MangaFire",
-                "title": "Valhallian the Black Iron",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurogane-no-valhalliann.593wj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf248nxm0ssmhsp18txd": {
+                "id": 206299,
                 "identifier": "01j76xyf248nxm0ssmhsp18txd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF248NXM0SSMHSP18TXD.jpg",
                 "malId": 138356,
@@ -74,6 +56,19 @@
                 "title": "Kurogane no Valhallan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF248NXM0SSMHSP18TXD"
+            }
+        },
+        "MangaFire": {
+            "593wj": {
+                "id": 223258,
+                "identifier": "593wj",
+                "image": "https://static.mangafire.to/a302/i/9/97/9712950a838bd5cd5a9752c91c981323.jpg",
+                "malId": 138356,
+                "aniId": 136298,
+                "page": "MangaFire",
+                "title": "Valhallian the Black Iron",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kurogane-no-valhalliann.593wj"
             }
         },
         "Comick": {

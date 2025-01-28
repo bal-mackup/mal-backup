@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ef473f14-8c4d-435e-9015-b714512e69eb": {
+                "id": 23554,
                 "identifier": "ef473f14-8c4d-435e-9015-b714512e69eb",
                 "image": "https://uploads.mangadex.org/covers/ef473f14-8c4d-435e-9015-b714512e69eb/6e663b72-e515-4d05-aa3e-c8b3c2c786ec.jpg",
                 "malId": 115514,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "japan_summons": {
+                "id": 60829,
                 "identifier": "japan_summons",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28231/cover.jpg",
                 "malId": 115514,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "nihonkoku-shoukan": {
+                "id": 68259,
                 "identifier": "nihonkoku-shoukan",
                 "image": "https://temp.compsci88.com/cover/Nihonkoku-Shoukan.jpg",
                 "malId": 115514,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ca979609": {
+                "id": 72922,
                 "identifier": "manga-ca979609",
                 "image": "https://avt.mkklcdnv6temp.com/47/y/16-1583495190.jpg",
                 "malId": 115514,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ca979609"
             }
         },
-        "MangaFire": {
-            "nihonkoku-shoukann.92lvx": {
-                "identifier": "nihonkoku-shoukann.92lvx",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/11a94505902e84456d885fed6e4fe683.jpg",
-                "malId": 115514,
-                "aniId": 103898,
-                "page": "MangaFire",
-                "title": "Japan Summons",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nihonkoku-shoukann.92lvx/"
-            }
-        },
         "Weebcentral": {
             "01j76xydc9hbasjsxbf5ha40b6": {
+                "id": 211409,
                 "identifier": "01j76xydc9hbasjsxbf5ha40b6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDC9HBASJSXBF5HA40B6.jpg",
                 "malId": 115514,
@@ -76,6 +69,19 @@
                 "title": "Nihonkoku Shoukan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDC9HBASJSXBF5HA40B6"
+            }
+        },
+        "MangaFire": {
+            "92lvx": {
+                "id": 225190,
+                "identifier": "92lvx",
+                "image": "https://static.mangafire.to/6168/i/1/11/11a94505902e84456d885fed6e4fe683.jpg",
+                "malId": 115514,
+                "aniId": 103898,
+                "page": "MangaFire",
+                "title": "Japan Summons",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nihonkoku-shoukann.92lvx"
             }
         },
         "Comick": {

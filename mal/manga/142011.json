@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "d555f227-8fba-4bb8-a732-ef46b8259d85": {
+                "id": 95241,
                 "identifier": "d555f227-8fba-4bb8-a732-ef46b8259d85",
                 "image": "https://uploads.mangadex.org/covers/d555f227-8fba-4bb8-a732-ef46b8259d85/d9b810a2-7e56-4fd0-a3c4-ae00bb546aea.jpg",
                 "malId": 142011,
-                "aniId": null,
+                "aniId": 136325,
                 "page": "Mangadex",
                 "title": "Takara no Biidoro",
                 "type": "manga",
@@ -19,25 +20,16 @@
             }
         },
         "MangaFire": {
-            "takara-no-biidoro.kwyyw": {
-                "identifier": "takara-no-biidoro.kwyyw",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7ae7dcc02145d0230ccdfba0b442e9fa.jpg",
+            "kwyyw": {
+                "id": 223752,
+                "identifier": "kwyyw",
+                "image": "https://static.mangafire.to/235a/i/7/7a/7ae7dcc02145d0230ccdfba0b442e9fa.jpg",
                 "malId": 142011,
-                "aniId": null,
+                "aniId": 136325,
                 "page": "MangaFire",
                 "title": "Takara no Biidoro",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/takara-no-biidoro.kwyyw/"
-            },
-            "takara-no-biidoroo.kwyyw": {
-                "identifier": "takara-no-biidoroo.kwyyw",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7ae7dcc02145d0230ccdfba0b442e9fa.jpg",
-                "malId": 142011,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Takara no Biidoro",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takara-no-biidoroo.kwyyw/"
+                "url": "https://mangafire.to/manga/takara-no-biidoroo.kwyyw"
             }
         },
         "Comick": {
@@ -47,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Takara no Biidoro",
-                "url": "https://comick.io/comic/takara-no-biidoro"
+                "url": "https://comick.io/comic/takara-no-biidoro",
+                "aniId": 136325
             }
         }
-    }
+    },
+    "aniId": 136325
 }

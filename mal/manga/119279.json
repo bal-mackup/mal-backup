@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0f286ac-9ecf-4472-a3d7-1009eb0199e2": {
+                "id": 27892,
                 "identifier": "d0f286ac-9ecf-4472-a3d7-1009eb0199e2",
                 "image": "https://uploads.mangadex.org/covers/d0f286ac-9ecf-4472-a3d7-1009eb0199e2/c054284a-6915-4cca-989c-466d5a7bad39.jpg",
                 "malId": 119279,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ee982339": {
+                "id": 86036,
                 "identifier": "manga-ee982339",
                 "image": "https://avt.mkklcdnv6temp.com/48/c/18-1583498973.jpg",
                 "malId": 119279,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hirano-and-kagiura": {
+                "id": 120541,
                 "identifier": "hirano-and-kagiura",
                 "image": "https://temp.compsci88.com/cover/Hirano-and-Kagiura.jpg",
                 "malId": 119279,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Hirano-and-Kagiura"
             }
         },
-        "MangaFire": {
-            "hirano-to-kagiura.025yr": {
-                "identifier": "hirano-to-kagiura.025yr",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/0820dbfcc18badf0a7cbc21f759ce7cf.jpg",
-                "malId": 119279,
-                "aniId": 108027,
-                "page": "MangaFire",
-                "title": "Hirano and Kagiura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hirano-to-kagiura.025yr/"
-            },
-            "hirano-to-kagiuraa.025yr": {
-                "identifier": "hirano-to-kagiuraa.025yr",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/0820dbfcc18badf0a7cbc21f759ce7cf.jpg",
-                "malId": 119279,
-                "aniId": 108027,
-                "page": "MangaFire",
-                "title": "Hirano and Kagiura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hirano-to-kagiuraa.025yr/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfv08b61xdwhq464pstc": {
+                "id": 213358,
                 "identifier": "01j76xyfv08b61xdwhq464pstc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFV08B61XDWHQ464PSTC.jpg",
                 "malId": 119279,
@@ -74,6 +56,19 @@
                 "title": "Hirano and Kagiura",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFV08B61XDWHQ464PSTC"
+            }
+        },
+        "MangaFire": {
+            "025yr": {
+                "id": 232383,
+                "identifier": "025yr",
+                "image": "https://static.mangafire.to/032f/i/0/08/0820dbfcc18badf0a7cbc21f759ce7cf.jpg",
+                "malId": 119279,
+                "aniId": 108027,
+                "page": "MangaFire",
+                "title": "Hirano and Kagiura",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hirano-to-kagiuraa.025yr"
             }
         },
         "Comick": {

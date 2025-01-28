@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e39eb61f-f538-46fe-b8bf-db115ec51d1d": {
+                "id": 14058,
                 "identifier": "e39eb61f-f538-46fe-b8bf-db115ec51d1d",
                 "image": "https://uploads.mangadex.org/covers/e39eb61f-f538-46fe-b8bf-db115ec51d1d/aea38014-4fbb-47b6-8aca-f118217fc23d.jpg",
                 "malId": 93564,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "reiri": {
+                "id": 60398,
                 "identifier": "reiri",
                 "image": "https://temp.compsci88.com/cover/Reiri.jpg",
                 "malId": 93564,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "reiri": {
+                "id": 69761,
                 "identifier": "reiri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29470/cover.jpg",
                 "malId": 93564,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dm980795": {
+                "id": 108977,
                 "identifier": "manga-dm980795",
                 "image": "https://avt.mkklcdnv6temp.com/fld/38/k/9-1732794278-nw.webp",
                 "malId": 93564,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-dm980795"
             }
         },
-        "MangaFire": {
-            "reiri.520oj": {
-                "identifier": "reiri.520oj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/0957b73006fb6f34101abe249bee7aaa.jpg",
-                "malId": 93564,
-                "aniId": 106035,
-                "page": "MangaFire",
-                "title": "Reiri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reiri.520oj/"
-            },
-            "520oj": {
-                "identifier": "520oj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/0957b73006fb6f34101abe249bee7aaa.jpg",
-                "malId": 93564,
-                "aniId": 106035,
-                "page": "MangaFire",
-                "title": "Reiri",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reiri.520oj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycyfjh60hxn2x2bn4qzn": {
+                "id": 213938,
                 "identifier": "01j76xycyfjh60hxn2x2bn4qzn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCYFJH60HXN2X2BN4QZN.jpg",
                 "malId": 93564,
@@ -86,6 +69,19 @@
                 "title": "Reiri",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCYFJH60HXN2X2BN4QZN"
+            }
+        },
+        "MangaFire": {
+            "520oj": {
+                "id": 254420,
+                "identifier": "520oj",
+                "image": "https://static.mangafire.to/25ee/i/0/09/0957b73006fb6f34101abe249bee7aaa.jpg",
+                "malId": 93564,
+                "aniId": 106035,
+                "page": "MangaFire",
+                "title": "Reiri",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/reirii.520oj"
             }
         },
         "Comick": {

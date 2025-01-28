@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mf989988": {
+                "id": 90533,
                 "identifier": "manga-mf989988",
                 "image": "https://avt.mkklcdnv6temp.com/5/a/25-1636563781.jpg",
                 "malId": 147662,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "914c97e0-2623-4f06-9c0e-664393a15424": {
+                "id": 104219,
                 "identifier": "914c97e0-2623-4f06-9c0e-664393a15424",
                 "image": "https://uploads.mangadex.org/covers/914c97e0-2623-4f06-9c0e-664393a15424/0f4c8387-af5f-418a-9b97-7cec8a752cc0.jpg",
                 "malId": 147662,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "best-teacher-baek": {
+                "id": 105016,
                 "identifier": "best-teacher-baek",
                 "image": "https://temp.compsci88.com/cover/Best-Teacher-Baek.jpg",
                 "malId": 147662,
@@ -42,40 +45,9 @@
                 "url": "https://mangasee123.com/manga/Best-Teacher-Baek"
             }
         },
-        "MangaFire": {
-            "star-instructor-master-baek.w1yjl": {
-                "identifier": "star-instructor-master-baek.w1yjl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/501a60b2bd8030d127c12059ca6471fd.jpg",
-                "malId": 147662,
-                "aniId": 142352,
-                "page": "MangaFire",
-                "title": "Best Teacher Baek",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/star-instructor-master-baek.w1yjl/"
-            },
-            "iltagangsa-baeksabu.w1yjl": {
-                "identifier": "iltagangsa-baeksabu.w1yjl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/501a60b2bd8030d127c12059ca6471fd.jpg",
-                "malId": 147662,
-                "aniId": 142352,
-                "page": "MangaFire",
-                "title": "Best Teacher Baek",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iltagangsa-baeksabu.w1yjl/"
-            },
-            "star-instructor-master-baekk.w1yjl": {
-                "identifier": "star-instructor-master-baekk.w1yjl",
-                "image": "https://static.mangafire.to/7e09/i/5/50/501a60b2bd8030d127c12059ca6471fd.jpg",
-                "malId": 147662,
-                "aniId": 142352,
-                "page": "MangaFire",
-                "title": "Best Teacher Baek",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/star-instructor-master-baekk.w1yjl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfdzm4anbxnrd4rjxy24": {
+                "id": 207970,
                 "identifier": "01j76xyfdzm4anbxnrd4rjxy24",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFDZM4ANBXNRD4RJXY24.jpg",
                 "malId": 147662,
@@ -84,6 +56,19 @@
                 "title": "Best Teacher Baek",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFDZM4ANBXNRD4RJXY24"
+            }
+        },
+        "MangaFire": {
+            "w1yjl": {
+                "id": 223705,
+                "identifier": "w1yjl",
+                "image": "https://static.mangafire.to/7e09/i/5/50/501a60b2bd8030d127c12059ca6471fd.jpg",
+                "malId": 147662,
+                "aniId": 142352,
+                "page": "MangaFire",
+                "title": "Best Teacher Baek",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/star-instructor-master-baekk.w1yjl"
             }
         },
         "Comick": {

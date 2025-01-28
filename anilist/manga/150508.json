@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1eaf0d33-35ba-469e-a73a-d7f6e3c154e5": {
+                "id": 106440,
                 "identifier": "1eaf0d33-35ba-469e-a73a-d7f6e3c154e5",
                 "image": "https://uploads.mangadex.org/covers/1eaf0d33-35ba-469e-a73a-d7f6e3c154e5/56b603ff-3348-4e0e-bb59-60236b90bf56.jpg",
                 "malId": 148456,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nu991077": {
+                "id": 106665,
                 "identifier": "manga-nu991077",
                 "image": "https://avt.mkklcdnv6temp.com/50/k/25-1654563836.jpg",
                 "malId": 148456,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-nu991077"
             }
         },
-        "MangaFire": {
-            "leveling-up-with-the-sword.jvvo4": {
-                "identifier": "leveling-up-with-the-sword.jvvo4",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a95e0acb894841c97a666898b251460a.jpg",
-                "malId": 148456,
-                "aniId": 150508,
-                "page": "MangaFire",
-                "title": "Disciple of the Holy Sword",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/leveling-up-with-the-sword.jvvo4/"
-            },
-            "leveling-up-with-the-swordd.jvvo4": {
-                "identifier": "leveling-up-with-the-swordd.jvvo4",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a95e0acb894841c97a666898b251460a.jpg",
-                "malId": 148456,
-                "aniId": 150508,
-                "page": "MangaFire",
-                "title": "Disciple of the Holy Sword",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/leveling-up-with-the-swordd.jvvo4/"
-            }
-        },
         "MangaSee": {
             "disciple-of-the-holy-sword": {
+                "id": 161385,
                 "identifier": "disciple-of-the-holy-sword",
                 "image": "https://temp.compsci88.com/cover/Disciple-of-the-Holy-Sword.jpg",
                 "malId": 148456,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg88fvhmkzdhnh5szyhf": {
+                "id": 209570,
                 "identifier": "01j76xyg88fvhmkzdhnh5szyhf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG88FVHMKZDHNH5SZYHF.jpg",
                 "malId": 148456,
@@ -74,6 +56,19 @@
                 "title": "Disciple of the Holy Sword",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG88FVHMKZDHNH5SZYHF"
+            }
+        },
+        "MangaFire": {
+            "jvvo4": {
+                "id": 223451,
+                "identifier": "jvvo4",
+                "image": "https://static.mangafire.to/15cd/i/a/a9/a95e0acb894841c97a666898b251460a.jpg",
+                "malId": 148456,
+                "aniId": 150508,
+                "page": "MangaFire",
+                "title": "Disciple of the Holy Sword",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/leveling-up-with-the-swordd.jvvo4"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "22f86931-c9fc-49a8-91b0-f55d618c584a": {
+                "id": 23992,
                 "identifier": "22f86931-c9fc-49a8-91b0-f55d618c584a",
                 "image": "https://uploads.mangadex.org/covers/22f86931-c9fc-49a8-91b0-f55d618c584a/d34fa399-b266-46ee-ab20-ea9c182faaa2.jpg",
                 "malId": 111798,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hu984803": {
+                "id": 96075,
                 "identifier": "manga-hu984803",
                 "image": "https://avt.mkklcdnv6temp.com/fld/81/t/10-1732802906-nw.webp",
                 "malId": 111798,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mono": {
+                "id": 116773,
                 "identifier": "mono",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28675/cover.jpg",
                 "malId": 111798,
@@ -43,25 +46,29 @@
             }
         },
         "MangaFire": {
-            "mono.lll33": {
-                "identifier": "mono.lll33",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8dda7eaf459e54cfe602388d00ae8112.jpg",
-                "malId": 111798,
-                "aniId": 102211,
-                "page": "MangaFire",
-                "title": "Mono",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mono.lll33/"
-            },
             "lll33": {
+                "id": 254318,
                 "identifier": "lll33",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8dda7eaf459e54cfe602388d00ae8112.jpg",
+                "image": "https://static.mangafire.to/ea1f/i/8/8d/8dda7eaf459e54cfe602388d00ae8112.jpg",
                 "malId": 111798,
                 "aniId": 102211,
                 "page": "MangaFire",
                 "title": "Mono",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/mono.lll33/"
+                "url": "https://mangafire.to/manga/monoo.lll33"
+            }
+        },
+        "Weebcentral": {
+            "01jenv1fbf3yt5yee4cskng24s": {
+                "id": 267248,
+                "identifier": "01jenv1fbf3yt5yee4cskng24s",
+                "image": "https://temp.compsci88.com/cover/fallback/01JENV1FBF3YT5YEE4CSKNG24S.jpg",
+                "malId": 111798,
+                "aniId": 102211,
+                "page": "Weebcentral",
+                "title": "mono",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JENV1FBF3YT5YEE4CSKNG24S"
             }
         },
         "Comick": {

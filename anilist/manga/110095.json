@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "80fc5001-aabb-4054-94ba-931a716f226e": {
+                "id": 28028,
                 "identifier": "80fc5001-aabb-4054-94ba-931a716f226e",
                 "image": "https://uploads.mangadex.org/covers/80fc5001-aabb-4054-94ba-931a716f226e/8606878d-2b3c-44c1-8567-e55711f38599.jpg",
                 "malId": 134678,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-business-proposal": {
+                "id": 70256,
                 "identifier": "a-business-proposal",
                 "image": "https://temp.compsci88.com/cover/A-Business-Proposal.jpg",
                 "malId": 134678,
@@ -30,6 +32,7 @@
                 "url": "https://mangasee123.com/manga/A-Business-Proposal"
             },
             "a-business-proposal-volume-version": {
+                "id": 159400,
                 "identifier": "a-business-proposal-volume-version",
                 "image": "https://temp.compsci88.com/cover/A-Business-Proposal-Volume-Version.jpg",
                 "malId": 134678,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-ex982006": {
+                "id": 79878,
                 "identifier": "manga-ex982006",
                 "image": "https://avt.mkklcdnv6temp.com/35/q/18-1583498479.jpg",
                 "malId": 134678,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "a_business_proposal": {
+                "id": 89114,
                 "identifier": "a_business_proposal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38262/cover.jpg",
                 "malId": 134678,
@@ -64,50 +69,9 @@
                 "url": "https://fanfox.net/manga/a_business_proposal/"
             }
         },
-        "MangaFire": {
-            "sanae-matseon.809qv": {
-                "identifier": "sanae-matseon.809qv",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/936c3b121dc27ad6685ce18364ae5e89.jpg",
-                "malId": 134678,
-                "aniId": 110095,
-                "page": "MangaFire",
-                "title": "A Business Proposal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sanae-matseon.809qv/"
-            },
-            "a-business-proposal-comic.w5no6": {
-                "identifier": "a-business-proposal-comic.w5no6",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/8024281f24076916d06d9d075e775dc7.jpg",
-                "malId": 134678,
-                "aniId": 110095,
-                "page": "MangaFire",
-                "title": "A Business Proposal (Comic)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-business-proposal-comic.w5no6/"
-            },
-            "a-business-proposal-comicc.w5no6": {
-                "identifier": "a-business-proposal-comicc.w5no6",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/8024281f24076916d06d9d075e775dc7.jpg",
-                "malId": 134678,
-                "aniId": 110095,
-                "page": "MangaFire",
-                "title": "A Business Proposal (Comic)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-business-proposal-comicc.w5no6/"
-            },
-            "sanae-matseonn.809qv": {
-                "identifier": "sanae-matseonn.809qv",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/936c3b121dc27ad6685ce18364ae5e89.jpg",
-                "malId": 134678,
-                "aniId": 110095,
-                "page": "MangaFire",
-                "title": "A Business Proposal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sanae-matseonn.809qv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyen662ahjvma64rr1474": {
+                "id": 209790,
                 "identifier": "01j76xyen662ahjvma64rr1474",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEN662AHJVMA64RR1474.jpg",
                 "malId": 134678,
@@ -118,6 +82,7 @@
                 "url": "https://weebcentral.com/series/01J76XYEN662AHJVMA64RR1474"
             },
             "01j76xyg6rff5fz6apabw75pxv": {
+                "id": 211579,
                 "identifier": "01j76xyg6rff5fz6apabw75pxv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG6RFF5FZ6APABW75PXV.jpg",
                 "malId": 134678,
@@ -126,6 +91,30 @@
                 "title": "A Business Proposal Volume Version",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG6RFF5FZ6APABW75PXV"
+            }
+        },
+        "MangaFire": {
+            "809qv": {
+                "id": 227440,
+                "identifier": "809qv",
+                "image": "https://static.mangafire.to/8635/i/9/93/936c3b121dc27ad6685ce18364ae5e89.jpg",
+                "malId": 134678,
+                "aniId": 110095,
+                "page": "MangaFire",
+                "title": "A Business Proposal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sanae-matseonn.809qv"
+            },
+            "w5no6": {
+                "id": 227444,
+                "identifier": "w5no6",
+                "image": "https://static.mangafire.to/1903/i/8/80/8024281f24076916d06d9d075e775dc7.jpg",
+                "malId": 134678,
+                "aniId": 110095,
+                "page": "MangaFire",
+                "title": "A Business Proposal (Comic)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-business-proposal-comicc.w5no6"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "913f10b8-be4e-4195-a1cd-c52aa8d6a728": {
+                "id": 62327,
                 "identifier": "913f10b8-be4e-4195-a1cd-c52aa8d6a728",
                 "image": "https://uploads.mangadex.org/covers/913f10b8-be4e-4195-a1cd-c52aa8d6a728/efb4542c-aa71-4a09-9774-c84b01319340.jpg",
                 "malId": 134569,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oi991391": {
+                "id": 108544,
                 "identifier": "manga-oi991391",
                 "image": "https://avt.mkklcdnv6temp.com/14/x/26-1656384559.jpg",
                 "malId": 134569,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-oi991391"
             }
         },
-        "MangaFire": {
-            "sakura-saku.rl92p": {
-                "identifier": "sakura-saku.rl92p",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3cb370afecf0e81e27ecae97544c8dd1.jpg",
-                "malId": 134569,
-                "aniId": 128427,
-                "page": "MangaFire",
-                "title": "\"Love\" Will be in Full Bloom!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakura-saku.rl92p/"
-            },
-            "sakura-sakuu.rl92p": {
-                "identifier": "sakura-sakuu.rl92p",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3cb370afecf0e81e27ecae97544c8dd1.jpg",
-                "malId": 134569,
-                "aniId": 128427,
-                "page": "MangaFire",
-                "title": "\"Love\" Will be in Full Bloom!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakura-sakuu.rl92p/"
-            }
-        },
         "MangaSee": {
             "sakura-saku": {
+                "id": 177382,
                 "identifier": "sakura-saku",
                 "image": "https://temp.compsci88.com/cover/Sakura-Saku.jpg",
                 "malId": 134569,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygq8dk2hab8g6cgqaxqc": {
+                "id": 213672,
                 "identifier": "01j76xygq8dk2hab8g6cgqaxqc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGQ8DK2HAB8G6CGQAXQC.jpg",
                 "malId": 134569,
@@ -74,6 +56,19 @@
                 "title": "Sakura, Saku (SAKISAKA Io)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGQ8DK2HAB8G6CGQAXQC"
+            }
+        },
+        "MangaFire": {
+            "rl92p": {
+                "id": 224513,
+                "identifier": "rl92p",
+                "image": "https://static.mangafire.to/14d4/i/3/3c/3cb370afecf0e81e27ecae97544c8dd1.jpg",
+                "malId": 134569,
+                "aniId": 128427,
+                "page": "MangaFire",
+                "title": "\"Love\" Will be in Full Bloom!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sakura-sakuu.rl92p"
             }
         },
         "Comick": {

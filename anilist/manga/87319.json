@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "376d7b34-b2f9-44e4-9b4c-e1757052b7b9": {
+                "id": 13393,
                 "identifier": "376d7b34-b2f9-44e4-9b4c-e1757052b7b9",
                 "image": "https://uploads.mangadex.org/covers/376d7b34-b2f9-44e4-9b4c-e1757052b7b9/8582e324-35e3-4003-9798-b53fac27dc04.jpg",
                 "malId": 86366,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/376d7b34-b2f9-44e4-9b4c-e1757052b7b9"
             },
             "57158cf2-96b6-4a0e-a90f-6058f81edd8a": {
+                "id": 35045,
                 "identifier": "57158cf2-96b6-4a0e-a90f-6058f81edd8a",
                 "image": "https://uploads.mangadex.org/covers/57158cf2-96b6-4a0e-a90f-6058f81edd8a/423a1ae8-da34-4dd8-a6d9-d48a6c1fcb1c.png",
                 "malId": 86366,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "cider-to-nakimushi": {
+                "id": 59067,
                 "identifier": "cider-to-nakimushi",
                 "image": "https://temp.compsci88.com/cover/Cider-To-Nakimushi.jpg",
                 "malId": 86366,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "cider_to_nakimushi": {
+                "id": 74019,
                 "identifier": "cider_to_nakimushi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20369/cover.jpg",
                 "malId": 86366,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/cider_to_nakimushi/"
             }
         },
-        "MangaFire": {
-            "cider-to-nakimushi.llx56": {
-                "identifier": "cider-to-nakimushi.llx56",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f7d4d644f1dbc3abc81d6c1e4f9c8bf.jpg",
-                "malId": 86366,
-                "aniId": 87319,
-                "page": "MangaFire",
-                "title": "Cider and Crybaby",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cider-to-nakimushi.llx56/"
-            },
-            "llx56": {
-                "identifier": "llx56",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f7d4d644f1dbc3abc81d6c1e4f9c8bf.jpg",
-                "malId": 86366,
-                "aniId": 87319,
-                "page": "MangaFire",
-                "title": "Cider and Crybaby",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cider-to-nakimushi.llx56/"
-            }
-        },
         "Weebcentral": {
             "01j76xybr0nfq78jmpw6ejw2se": {
+                "id": 212199,
                 "identifier": "01j76xybr0nfq78jmpw6ejw2se",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBR0NFQ78JMPW6EJW2SE.jpg",
                 "malId": 86366,
@@ -84,6 +67,19 @@
                 "title": "Cider to Nakimushi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBR0NFQ78JMPW6EJW2SE"
+            }
+        },
+        "MangaFire": {
+            "llx56": {
+                "id": 247218,
+                "identifier": "llx56",
+                "image": "https://static.mangafire.to/66bf/i/1/1f/1f7d4d644f1dbc3abc81d6c1e4f9c8bf.jpg",
+                "malId": 86366,
+                "aniId": 87319,
+                "page": "MangaFire",
+                "title": "Cider and Crybaby",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cider-to-nakimushii.llx56"
             }
         },
         "Comick": {

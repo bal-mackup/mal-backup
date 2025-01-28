@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "tales_of_the_unusual": {
+                "id": 59741,
                 "identifier": "tales_of_the_unusual",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14489/cover.jpg",
                 "malId": 119066,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tales-of-the-unusual": {
+                "id": 62582,
                 "identifier": "tales-of-the-unusual",
                 "image": "https://temp.compsci88.com/cover/Tales-Of-The-Unusual.jpg",
                 "malId": 119066,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-la951735": {
+                "id": 74689,
                 "identifier": "manga-la951735",
                 "image": "https://avt.mkklcdnv6temp.com/15/a/1-1583464262.jpg",
                 "malId": 119066,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-la951735"
             }
         },
-        "MangaFire": {
-            "tales-of-the-unusual.qk95w": {
-                "identifier": "tales-of-the-unusual.qk95w",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/befafc08dce95681290c0347a010f24a.jpg",
-                "malId": 119066,
-                "aniId": 106966,
-                "page": "MangaFire",
-                "title": "Tales of the Unusual",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tales-of-the-unusual.qk95w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6yz4dr0vnxg5jz4bx0": {
+                "id": 210036,
                 "identifier": "01j76xyb6yz4dr0vnxg5jz4bx0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6YZ4DR0VNXG5JZ4BX0.jpg",
                 "malId": 119066,
@@ -64,6 +56,19 @@
                 "title": "Tales of the Unusual",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6YZ4DR0VNXG5JZ4BX0"
+            }
+        },
+        "MangaFire": {
+            "qk95w": {
+                "id": 232885,
+                "identifier": "qk95w",
+                "image": "https://static.mangafire.to/e15c/i/b/be/befafc08dce95681290c0347a010f24a.jpg",
+                "malId": 119066,
+                "aniId": 106966,
+                "page": "MangaFire",
+                "title": "Tales of the Unusual",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tales-of-the-unusuall.qk95w"
             }
         },
         "MangaReader": {

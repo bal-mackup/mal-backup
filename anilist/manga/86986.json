@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a7b2566-aa51-40c6-9329-0cc5b97ebd01": {
+                "id": 11340,
                 "identifier": "6a7b2566-aa51-40c6-9329-0cc5b97ebd01",
                 "image": "https://uploads.mangadex.org/covers/6a7b2566-aa51-40c6-9329-0cc5b97ebd01/8ac3e0b3-611e-4e63-897d-1f2d6185305c.jpg",
                 "malId": 79891,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "behind-the-scenes": {
+                "id": 67617,
                 "identifier": "behind-the-scenes",
                 "image": "https://temp.compsci88.com/cover/Behind-the-Scenes.jpg",
                 "malId": 79891,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Behind-the-Scenes"
             }
         },
-        "MangaFire": {
-            "urakata.ppyjj": {
-                "identifier": "urakata.ppyjj",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f15a383b3164c6213b2a691deef1e3d2.jpg",
-                "malId": 79891,
-                "aniId": 86986,
-                "page": "MangaFire",
-                "title": "Behind the Scenes!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/urakata.ppyjj/"
-            },
-            "ppyjj": {
-                "identifier": "ppyjj",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f15a383b3164c6213b2a691deef1e3d2.jpg",
-                "malId": 79891,
-                "aniId": 86986,
-                "page": "MangaFire",
-                "title": "Behind the Scenes!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/urakata.ppyjj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyddk1aa6e2ta5g3x11by": {
+                "id": 207204,
                 "identifier": "01j76xyddk1aa6e2ta5g3x11by",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDDK1AA6E2TA5G3X11BY.jpg",
                 "malId": 79891,
@@ -62,6 +43,19 @@
                 "title": "Behind the Scenes!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDDK1AA6E2TA5G3X11BY"
+            }
+        },
+        "MangaFire": {
+            "ppyjj": {
+                "id": 232162,
+                "identifier": "ppyjj",
+                "image": "https://static.mangafire.to/0c2e/i/f/f1/f15a383b3164c6213b2a691deef1e3d2.jpg",
+                "malId": 79891,
+                "aniId": 86986,
+                "page": "MangaFire",
+                "title": "Behind the Scenes!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/urakataa.ppyjj"
             }
         },
         "Comick": {

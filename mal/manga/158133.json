@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4e84b064-311e-4fa3-b7fc-f370ac3e9c6c": {
+                "id": 88327,
                 "identifier": "4e84b064-311e-4fa3-b7fc-f370ac3e9c6c",
                 "image": "https://uploads.mangadex.org/covers/4e84b064-311e-4fa3-b7fc-f370ac3e9c6c/1182cf4e-3fbf-464f-bf91-c8d15c352c41.jpg",
                 "malId": 158133,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/4e84b064-311e-4fa3-b7fc-f370ac3e9c6c"
             }
         },
-        "MangaFire": {
-            "yankee-akuyaku-reijou-tensei-tenka-yuiga-dokuson.8x03y": {
-                "identifier": "yankee-akuyaku-reijou-tensei-tenka-yuiga-dokuson.8x03y",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d2c4241d3abc370736c399ffaba69fa.jpg",
-                "malId": 158133,
-                "aniId": 135446,
-                "page": "MangaFire",
-                "title": "Yankee Akuyaku Reijou: Tensei Tenka Yuiga Dokuson",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yankee-akuyaku-reijou-tensei-tenka-yuiga-dokuson.8x03y/"
-            }
-        },
         "MangaSee": {
             "yankee-akuyaku-reijou-tensei-tenka-yuiga-dokuson": {
+                "id": 164179,
                 "identifier": "yankee-akuyaku-reijou-tensei-tenka-yuiga-dokuson",
                 "image": "https://temp.compsci88.com/cover/Yankee-Akuyaku-Reijou-Tensei-Tenka-Yuiga-Dokuson.jpg",
                 "malId": 158133,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygcgttef350qkrjg7r5m": {
+                "id": 208840,
                 "identifier": "01j76xygcgttef350qkrjg7r5m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGCGTTEF350QKRJG7R5M.jpg",
                 "malId": 158133,
@@ -52,6 +43,19 @@
                 "title": "Yankee Akuyaku Reijou: Tensei Tenka Yuiga Dokuson",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGCGTTEF350QKRJG7R5M"
+            }
+        },
+        "MangaFire": {
+            "8x03y": {
+                "id": 235035,
+                "identifier": "8x03y",
+                "image": "https://static.mangafire.to/fb0e/i/6/6d/6d2c4241d3abc370736c399ffaba69fa.jpg",
+                "malId": 158133,
+                "aniId": 135446,
+                "page": "MangaFire",
+                "title": "Yankee Akuyaku Reijou: Tensei Tenka Yuiga Dokuson",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yankee-akuyaku-reijou-tensei-tenka-yuiga-dokusonn.8x03y"
             }
         },
         "Comick": {

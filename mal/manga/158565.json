@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a8d03f5c-956c-44c8-a21e-49e9cfbc7025": {
+                "id": 121024,
                 "identifier": "a8d03f5c-956c-44c8-a21e-49e9cfbc7025",
                 "image": "https://uploads.mangadex.org/covers/a8d03f5c-956c-44c8-a21e-49e9cfbc7025/ef05d57d-8df0-46dc-b97d-64ad8f1495a8.png",
                 "malId": 158565,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a8d03f5c-956c-44c8-a21e-49e9cfbc7025"
             },
             "0976963e-c0b4-4bdc-abde-831e9cb29cc2": {
+                "id": 158556,
                 "identifier": "0976963e-c0b4-4bdc-abde-831e9cb29cc2",
                 "image": "https://uploads.mangadex.org/covers/0976963e-c0b4-4bdc-abde-831e9cb29cc2/7eec5dd1-1211-4b62-b43a-f613ae08701d.jpg",
                 "malId": 158565,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-rw995179": {
+                "id": 127880,
                 "identifier": "manga-rw995179",
                 "image": "https://avt.mkklcdnv6temp.com/27/q/31-1693975831.jpg",
                 "malId": 158565,
@@ -40,30 +43,9 @@
                 "url": "https://chapmanganato.com/manga-rw995179"
             }
         },
-        "MangaFire": {
-            "damedol-to-sekai-ni-1-ri-dake-no-fan.k3x9w": {
-                "identifier": "damedol-to-sekai-ni-1-ri-dake-no-fan.k3x9w",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36ceab38af1c1bc9d57ab3a5ace133f2.jpg",
-                "malId": 158565,
-                "aniId": 165012,
-                "page": "MangaFire",
-                "title": "Damedol to Sekai ni 1-ri Dake no Fan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/damedol-to-sekai-ni-1-ri-dake-no-fan.k3x9w/"
-            },
-            "damedol-to-sekai-ni-1-ri-dake-no-fann.k3x9w": {
-                "identifier": "damedol-to-sekai-ni-1-ri-dake-no-fann.k3x9w",
-                "image": "https://static.mangafire.to/f814/i/3/36/36ceab38af1c1bc9d57ab3a5ace133f2.jpg",
-                "malId": 158565,
-                "aniId": 165012,
-                "page": "MangaFire",
-                "title": "Damedol to Sekai ni 1-ri Dake no Fan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/damedol-to-sekai-ni-1-ri-dake-no-fann.k3x9w/"
-            }
-        },
         "MangaSee": {
             "a-useless-idol-and-the-only-fan-in-the-world": {
+                "id": 166494,
                 "identifier": "a-useless-idol-and-the-only-fan-in-the-world",
                 "image": "https://temp.compsci88.com/cover/A-Useless-Idol-and-the-Only-Fan-in-the-World.jpg",
                 "malId": 158565,
@@ -76,6 +58,7 @@
         },
         "MangaFox": {
             "damedol_to_sekai_ni_hitori_dake_no_fan": {
+                "id": 176258,
                 "identifier": "damedol_to_sekai_ni_hitori_dake_no_fan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45573/cover.jpg",
                 "malId": 158565,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xygdch634a0xr8k6ya08w": {
+                "id": 209188,
                 "identifier": "01j76xygdch634a0xr8k6ya08w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGDCH634A0XR8K6YA08W.jpg",
                 "malId": 158565,
@@ -96,6 +80,19 @@
                 "title": "A Useless Idol and the Only Fan in the World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGDCH634A0XR8K6YA08W"
+            }
+        },
+        "MangaFire": {
+            "k3x9w": {
+                "id": 223715,
+                "identifier": "k3x9w",
+                "image": "https://static.mangafire.to/f814/i/3/36/36ceab38af1c1bc9d57ab3a5ace133f2.jpg",
+                "malId": 158565,
+                "aniId": 165012,
+                "page": "MangaFire",
+                "title": "Damedol to Sekai ni 1-ri Dake no Fan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/damedol-to-sekai-ni-1-ri-dake-no-fann.k3x9w"
             }
         },
         "Comick": {

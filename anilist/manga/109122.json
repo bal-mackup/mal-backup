@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b9b2fbc4-e351-406c-a468-799be14033df": {
+                "id": 26911,
                 "identifier": "b9b2fbc4-e351-406c-a468-799be14033df",
                 "image": "https://uploads.mangadex.org/covers/b9b2fbc4-e351-406c-a468-799be14033df/10578af3-8e60-4664-9fa4-65bf7a59c77f.jpg",
                 "malId": 120643,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "temple": {
+                "id": 53910,
                 "identifier": "temple",
                 "image": "https://temp.compsci88.com/cover/Temple.jpg",
                 "malId": 120643,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "temple_yoshioka_kimitake": {
+                "id": 60827,
                 "identifier": "temple_yoshioka_kimitake",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33370/cover.jpg",
                 "malId": 120643,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-df981240": {
+                "id": 73363,
                 "identifier": "manga-df981240",
                 "image": "https://avt.mkklcdnv6temp.com/7/r/18-1583497381.jpg",
                 "malId": 120643,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-df981240"
             }
         },
-        "MangaFire": {
-            "tenpuru-no-one-can-live-on-loneliness.mjjv": {
-                "identifier": "tenpuru-no-one-can-live-on-loneliness.mjjv",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6237b55a1c0bbd38f1040a20bd871a2.jpg",
-                "malId": 120643,
-                "aniId": 109122,
-                "page": "MangaFire",
-                "title": "TenPuru -No One Can Live on Loneliness-",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenpuru-no-one-can-live-on-loneliness.mjjv/"
-            },
-            "tenpuru-no-one-can-live-on-lonelinesss.mjjv": {
-                "identifier": "tenpuru-no-one-can-live-on-lonelinesss.mjjv",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6237b55a1c0bbd38f1040a20bd871a2.jpg",
-                "malId": 120643,
-                "aniId": 109122,
-                "page": "MangaFire",
-                "title": "TenPuru -No One Can Live on Loneliness-",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenpuru-no-one-can-live-on-lonelinesss.mjjv/"
-            }
-        },
         "Weebcentral": {
             "01j76xydcsp8tbzq4ve4ams35x": {
+                "id": 211024,
                 "identifier": "01j76xydcsp8tbzq4ve4ams35x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDCSP8TBZQ4VE4AMS35X.jpg",
                 "malId": 120643,
@@ -86,6 +69,19 @@
                 "title": "TenPuru - No One Can Live on Loneliness",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDCSP8TBZQ4VE4AMS35X"
+            }
+        },
+        "MangaFire": {
+            "mjjv": {
+                "id": 248972,
+                "identifier": "mjjv",
+                "image": "https://static.mangafire.to/c3e9/i/f/f6/f6237b55a1c0bbd38f1040a20bd871a2.jpg",
+                "malId": 120643,
+                "aniId": 109122,
+                "page": "MangaFire",
+                "title": "TenPuru -No One Can Live on Loneliness-",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenpuru-no-one-can-live-on-lonelinesss.mjjv"
             }
         },
         "Comick": {

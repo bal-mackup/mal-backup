@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "94a87fd5-250d-4058-9d33-88b6885ebfc2": {
+                "id": 31072,
                 "identifier": "94a87fd5-250d-4058-9d33-88b6885ebfc2",
                 "image": "https://uploads.mangadex.org/covers/94a87fd5-250d-4058-9d33-88b6885ebfc2/c0dcee0a-df19-4158-9070-611def12fa2b.jpg",
                 "malId": 128231,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "weak-hero": {
+                "id": 54523,
                 "identifier": "weak-hero",
                 "image": "https://temp.compsci88.com/cover/Weak-Hero.jpg",
                 "malId": 128231,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "weak_hero": {
+                "id": 65440,
                 "identifier": "weak_hero",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32616/cover.jpg",
                 "malId": 128231,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lm989347": {
+                "id": 83030,
                 "identifier": "manga-lm989347",
                 "image": "https://avt.mkklcdnv6temp.com/27/e/24-1627300261.jpg",
                 "malId": 128231,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-lm989347"
             }
         },
-        "MangaFire": {
-            "yakanyeongung.llqmz": {
-                "identifier": "yakanyeongung.llqmz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d8277f2266227da15165ae430e4c30b1.jpg",
-                "malId": 128231,
-                "aniId": 113488,
-                "page": "MangaFire",
-                "title": "Weak Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yakanyeongung.llqmz/"
-            },
-            "yakanyeongungg.llqmz": {
-                "identifier": "yakanyeongungg.llqmz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d8277f2266227da15165ae430e4c30b1.jpg",
-                "malId": 128231,
-                "aniId": 113488,
-                "page": "MangaFire",
-                "title": "Weak Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yakanyeongungg.llqmz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd43svadepb6hpg5tzdh": {
+                "id": 214327,
                 "identifier": "01j76xyd43svadepb6hpg5tzdh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD43SVADEPB6HPG5TZDH.jpg",
                 "malId": 128231,
@@ -86,6 +69,19 @@
                 "title": "Weak Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD43SVADEPB6HPG5TZDH"
+            }
+        },
+        "MangaFire": {
+            "llqmz": {
+                "id": 224075,
+                "identifier": "llqmz",
+                "image": "https://static.mangafire.to/8fa6/i/d/d8/d8277f2266227da15165ae430e4c30b1.jpg",
+                "malId": 128231,
+                "aniId": 113488,
+                "page": "MangaFire",
+                "title": "Weak Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yakanyeongungg.llqmz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc481ed5-4925-4f3c-bac1-e73f1e7ed338": {
+                "id": 93503,
                 "identifier": "dc481ed5-4925-4f3c-bac1-e73f1e7ed338",
                 "image": "https://uploads.mangadex.org/covers/dc481ed5-4925-4f3c-bac1-e73f1e7ed338/53ba992b-ddea-4b45-a70b-440ff0d446d9.jpg",
                 "malId": 142765,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mn990348": {
+                "id": 93991,
                 "identifier": "manga-mn990348",
                 "image": "https://avt.mkklcdnv6temp.com/20/r/25-1640943422.jpg",
                 "malId": 142765,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-mn990348"
             },
             "manga-vo998997": {
+                "id": 173956,
                 "identifier": "manga-vo998997",
                 "image": "https://avt.mkklcdnv6temp.com/fld/13/z/16-1733313931-nw.webp",
                 "malId": 142765,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "mushoku_tensei_depressed_magician": {
+                "id": 94001,
                 "identifier": "mushoku_tensei_depressed_magician",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40713/cover.jpg",
                 "malId": 142765,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushihen": {
+                "id": 112611,
                 "identifier": "mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushihen",
                 "image": "https://temp.compsci88.com/cover/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Shitsui-no-Majutsushihen.jpg",
                 "malId": 142765,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Shitsui-no-Majutsushihen"
             }
         },
-        "MangaFire": {
-            "mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-hen.kwq44": {
-                "identifier": "mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-hen.kwq44",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a142bb697f3119d9b6e80fb5388d7e8.jpg",
-                "malId": 142765,
-                "aniId": 142989,
-                "page": "MangaFire",
-                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-hen.kwq44/"
-            },
-            "mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-henn.kwq44": {
-                "identifier": "mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-henn.kwq44",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5a142bb697f3119d9b6e80fb5388d7e8.jpg",
-                "malId": 142765,
-                "aniId": 142989,
-                "page": "MangaFire",
-                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-henn.kwq44/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfkh7xkb2f6rf15w3va4": {
+                "id": 213563,
                 "identifier": "01j76xyfkh7xkb2f6rf15w3va4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFKH7XKB2F6RF15W3VA4.jpg",
                 "malId": 142765,
@@ -98,13 +82,26 @@
                 "url": "https://weebcentral.com/series/01J76XYFKH7XKB2F6RF15W3VA4"
             }
         },
+        "MangaFire": {
+            "kwq44": {
+                "id": 253802,
+                "identifier": "kwq44",
+                "image": "https://static.mangafire.to/ef84/i/5/5a/5a142bb697f3119d9b6e80fb5388d7e8.jpg",
+                "malId": 142765,
+                "aniId": 142989,
+                "page": "MangaFire",
+                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-henn.kwq44"
+            }
+        },
         "Comick": {
             "PaH5REzT": {
                 "identifier": "PaH5REzT",
                 "malId": 142765,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~ Shitsui no Majutsushi-hen",
+                "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~ Shitsui no Majutsushi Hen",
                 "url": "https://comick.io/comic/00-mushoku-tensei-depressed-magician-arc",
                 "aniId": 142989
             }

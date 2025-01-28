@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "a4b39b6e-a448-4644-a540-64ceff1d8305": {
+                "id": 17608,
                 "identifier": "a4b39b6e-a448-4644-a540-64ceff1d8305",
-                "image": "https://uploads.mangadex.org/covers/a4b39b6e-a448-4644-a540-64ceff1d8305/6b308130-0160-4f8a-a2ca-14270e8bdd9d.jpg",
+                "image": "https://uploads.mangadex.org/covers/a4b39b6e-a448-4644-a540-64ceff1d8305/881c98bd-7050-43e9-87a6-db90db12c30f.jpg",
                 "malId": 105084,
                 "aniId": 98842,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jibaku-shounen-hanako-kun": {
+                "id": 55850,
                 "identifier": "jibaku-shounen-hanako-kun",
                 "image": "https://temp.compsci88.com/cover/Jibaku-Shounen-Hanako-kun.jpg",
                 "malId": 105084,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jibaku_shounen_hanako_kun": {
+                "id": 63634,
                 "identifier": "jibaku_shounen_hanako_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27099/cover.jpg",
                 "malId": 105084,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cp980050": {
+                "id": 73200,
                 "identifier": "manga-cp980050",
                 "image": "https://avt.mkklcdnv6temp.com/14/e/17-1583495776.jpg",
                 "malId": 105084,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cp980050"
             }
         },
-        "MangaFire": {
-            "jibaku-shounen-hanako-kun.kwn6r": {
-                "identifier": "jibaku-shounen-hanako-kun.kwn6r",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c08bf97511a0138cccf44866d864f938.jpg",
-                "malId": 105084,
-                "aniId": 98842,
-                "page": "MangaFire",
-                "title": "Toilet-Bound Hanako-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jibaku-shounen-hanako-kun.kwn6r/"
-            },
-            "jibaku-shounen-hanako-kunn.kwn6r": {
-                "identifier": "jibaku-shounen-hanako-kunn.kwn6r",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c0/c08bf97511a0138cccf44866d864f938.jpg",
-                "malId": 105084,
-                "aniId": 98842,
-                "page": "MangaFire",
-                "title": "Toilet-Bound Hanako-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jibaku-shounen-hanako-kunn.kwn6r/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5ftv65k8xqp2z0a1rf": {
+                "id": 207533,
                 "identifier": "01j76xyc5ftv65k8xqp2z0a1rf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5FTV65K8XQP2Z0A1RF.jpg",
                 "malId": 105084,
@@ -86,6 +69,19 @@
                 "title": "Toilet-bound Hanako-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5FTV65K8XQP2Z0A1RF"
+            }
+        },
+        "MangaFire": {
+            "kwn6r": {
+                "id": 228537,
+                "identifier": "kwn6r",
+                "image": "https://static.mangafire.to/849b/i/c/c0/c08bf97511a0138cccf44866d864f938.jpg",
+                "malId": 105084,
+                "aniId": 98842,
+                "page": "MangaFire",
+                "title": "Toilet-Bound Hanako-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jibaku-shounen-hanako-kunn.kwn6r"
             }
         },
         "Comick": {

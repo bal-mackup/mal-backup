@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "acf9f5f9-2511-4b30-9380-e3dfa3e34cdf": {
+                "id": 22568,
                 "identifier": "acf9f5f9-2511-4b30-9380-e3dfa3e34cdf",
                 "image": "https://uploads.mangadex.org/covers/acf9f5f9-2511-4b30-9380-e3dfa3e34cdf/35f25eee-87d8-4206-ac7b-9d466a68b4e8.jpg",
                 "malId": 73375,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koukoku-no-hiiro": {
+                "id": 82052,
                 "identifier": "koukoku-no-hiiro",
                 "image": "https://temp.compsci88.com/cover/Koukoku-No-Hiiro.jpg",
                 "malId": 73375,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ch980016": {
+                "id": 101603,
                 "identifier": "manga-ch980016",
                 "image": "https://avt.mkklcdnv6temp.com/fld/9/y/9-1732792763-nw.webp",
                 "malId": 73375,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ch980016"
             }
         },
-        "MangaFire": {
-            "koukoku-no-hiiro.0qmk9": {
-                "identifier": "koukoku-no-hiiro.0qmk9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc6c2c14e5753aac0313179e981d0920.jpg",
-                "malId": 73375,
-                "aniId": 91806,
-                "page": "MangaFire",
-                "title": "Scarlet Empire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koukoku-no-hiiro.0qmk9/"
-            },
-            "0qmk9": {
-                "identifier": "0qmk9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc6c2c14e5753aac0313179e981d0920.jpg",
-                "malId": 73375,
-                "aniId": 91806,
-                "page": "MangaFire",
-                "title": "Scarlet Empire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koukoku-no-hiiro.0qmk9/"
-            }
-        },
         "Weebcentral": {
             "01j76xycgk7ma6jj2zyzjk1ph4": {
+                "id": 210482,
                 "identifier": "01j76xycgk7ma6jj2zyzjk1ph4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGK7MA6JJ2ZYZJK1PH4.jpg",
                 "malId": 73375,
@@ -74,6 +56,19 @@
                 "title": "Scarlet Empire",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGK7MA6JJ2ZYZJK1PH4"
+            }
+        },
+        "MangaFire": {
+            "0qmk9": {
+                "id": 238828,
+                "identifier": "0qmk9",
+                "image": "https://static.mangafire.to/ab18/i/f/fc/fc6c2c14e5753aac0313179e981d0920.jpg",
+                "malId": 73375,
+                "aniId": 91806,
+                "page": "MangaFire",
+                "title": "Scarlet Empire",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koukoku-no-hiiroo.0qmk9"
             }
         },
         "Comick": {

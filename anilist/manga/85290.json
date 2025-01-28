@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e52068a-b814-4719-98ea-37a8fa7b3725": {
+                "id": 647,
                 "identifier": "9e52068a-b814-4719-98ea-37a8fa7b3725",
                 "image": "https://uploads.mangadex.org/covers/9e52068a-b814-4719-98ea-37a8fa7b3725/7f767ead-3892-40fa-b4eb-46c482217dee.jpg",
                 "malId": 148101,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "melo-holic": {
+                "id": 68547,
                 "identifier": "melo-holic",
                 "image": "https://temp.compsci88.com/cover/Melo-Holic.jpg",
                 "malId": 148101,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-aw956631": {
+                "id": 77924,
                 "identifier": "manga-aw956631",
                 "image": "https://avt.mkklcdnv6temp.com/22/a/4-1583470582.jpg",
                 "malId": 148101,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-aw956631"
             }
         },
-        "MangaFire": {
-            "melo-holic.kwm9": {
-                "identifier": "melo-holic.kwm9",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e6/e69adea564b59f30f1660a0187f2f5e2.jpg",
-                "malId": 148101,
-                "aniId": 85290,
-                "page": "MangaFire",
-                "title": "Melo Holic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/melo-holic.kwm9/"
-            }
-        },
         "Weebcentral": {
             "01j76xy8k2ta7n8hjz24g6sxy1": {
+                "id": 212423,
                 "identifier": "01j76xy8k2ta7n8hjz24g6sxy1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY8K2TA7N8HJZ24G6SXY1.jpg",
                 "malId": 148101,
@@ -64,6 +56,19 @@
                 "title": "Melo Holic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY8K2TA7N8HJZ24G6SXY1"
+            }
+        },
+        "MangaFire": {
+            "kwm9": {
+                "id": 255543,
+                "identifier": "kwm9",
+                "image": "https://static.mangafire.to/755b/i/e/e6/e69adea564b59f30f1660a0187f2f5e2.jpg",
+                "malId": 148101,
+                "aniId": 85290,
+                "page": "MangaFire",
+                "title": "Melo Holic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/melo-holicc.kwm9"
             }
         }
     },

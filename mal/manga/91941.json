@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "80422e14-b9ad-4fda-970f-de370d5fa4e5": {
+                "id": 13902,
                 "identifier": "80422e14-b9ad-4fda-970f-de370d5fa4e5",
                 "image": "https://uploads.mangadex.org/covers/80422e14-b9ad-4fda-970f-de370d5fa4e5/b7a6b10c-20cf-4c9a-8955-1e79c56ac3fd.jpg",
                 "malId": 91941,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/80422e14-b9ad-4fda-970f-de370d5fa4e5"
             },
             "42b7188b-8e95-4b7e-9177-5eb62938ffb4": {
+                "id": 24579,
                 "identifier": "42b7188b-8e95-4b7e-9177-5eb62938ffb4",
                 "image": "https://uploads.mangadex.org/covers/42b7188b-8e95-4b7e-9177-5eb62938ffb4/15b577d4-4789-4e8c-94ee-8bc5d3410882.jpg",
                 "malId": 91941,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/42b7188b-8e95-4b7e-9177-5eb62938ffb4"
             },
             "3a80d6dc-623b-43b2-a61d-1cb1c3d59bc2": {
+                "id": 34465,
                 "identifier": "3a80d6dc-623b-43b2-a61d-1cb1c3d59bc2",
                 "image": "https://uploads.mangadex.org/covers/3a80d6dc-623b-43b2-a61d-1cb1c3d59bc2/9c9e2c43-410f-46de-8f09-224266e8d738.jpg",
                 "malId": 91941,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "made-in-abyss": {
+                "id": 54099,
                 "identifier": "made-in-abyss",
                 "image": "https://temp.compsci88.com/cover/Made-In-Abyss.jpg",
                 "malId": 91941,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "made_in_abyss": {
+                "id": 57079,
                 "identifier": "made_in_abyss",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17833/cover.jpg",
                 "malId": 91941,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-na952709": {
+                "id": 73768,
                 "identifier": "manga-na952709",
                 "image": "https://avt.mkklcdnv6temp.com/48/y/1-1583465637.jpg",
                 "malId": 91941,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-na952709"
             }
         },
-        "MangaFire": {
-            "made-in-abyss.jpn": {
-                "identifier": "made-in-abyss.jpn",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d6b39bd97471b234c0da4353c6124c1b.jpg",
-                "malId": 91941,
-                "aniId": 86551,
-                "page": "MangaFire",
-                "title": "Made in Abyss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/made-in-abyss.jpn/"
-            },
-            "made-in-abysss.jpn": {
-                "identifier": "made-in-abysss.jpn",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d6b39bd97471b234c0da4353c6124c1b.jpg",
-                "malId": 91941,
-                "aniId": 86551,
-                "page": "MangaFire",
-                "title": "Made in Abyss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/made-in-abysss.jpn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5q6hxqv8a3w4a0kvkn": {
+                "id": 208846,
                 "identifier": "01j76xyc5q6hxqv8a3w4a0kvkn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5Q6HXQV8A3W4A0KVKN.jpg",
                 "malId": 91941,
@@ -106,6 +91,19 @@
                 "title": "Made in Abyss",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC5Q6HXQV8A3W4A0KVKN"
+            }
+        },
+        "MangaFire": {
+            "jpn": {
+                "id": 226466,
+                "identifier": "jpn",
+                "image": "https://static.mangafire.to/be57/i/d/d6/d6b39bd97471b234c0da4353c6124c1b.jpg",
+                "malId": 91941,
+                "aniId": 86551,
+                "page": "MangaFire",
+                "title": "Made in Abyss",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/made-in-abysss.jpn"
             }
         },
         "Comick": {

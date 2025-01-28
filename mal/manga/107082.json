@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2c91af4d-cd02-4716-a414-5ea6958adbd8": {
+                "id": 22429,
                 "identifier": "2c91af4d-cd02-4716-a414-5ea6958adbd8",
                 "image": "https://uploads.mangadex.org/covers/2c91af4d-cd02-4716-a414-5ea6958adbd8/3e6484a6-9b39-4418-861f-f03bb3be2c94.jpg",
                 "malId": 107082,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-witchs-house": {
+                "id": 66840,
                 "identifier": "the-witchs-house",
                 "image": "https://temp.compsci88.com/cover/The-Witchs-House.jpg",
                 "malId": 107082,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "majo_no_ie_ellen_no_nikki": {
+                "id": 68614,
                 "identifier": "majo_no_ie_ellen_no_nikki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27241/cover.jpg",
                 "malId": 107082,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bh978764": {
+                "id": 87087,
                 "identifier": "manga-bh978764",
                 "image": "https://avt.mkklcdnv6temp.com/16/e/16-1583494052.jpg",
                 "malId": 107082,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bh978764"
             }
         },
-        "MangaFire": {
-            "majo-no-ie-ellen-no-nikki.9oj30": {
-                "identifier": "majo-no-ie-ellen-no-nikki.9oj30",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5b95c2842acfa73d4f999347b97b87a.jpg",
-                "malId": 107082,
-                "aniId": 103146,
-                "page": "MangaFire",
-                "title": "The Witch's House: The Diary of Ellen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-no-ie-ellen-no-nikki.9oj30/"
-            },
-            "majo-no-ie-ellen-no-nikkii.9oj30": {
-                "identifier": "majo-no-ie-ellen-no-nikkii.9oj30",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5b95c2842acfa73d4f999347b97b87a.jpg",
-                "malId": 107082,
-                "aniId": 103146,
-                "page": "MangaFire",
-                "title": "The Witch's House: The Diary of Ellen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-no-ie-ellen-no-nikkii.9oj30/"
-            }
-        },
         "Weebcentral": {
             "01j76xycbn9jgp6js0z8kbnrs4": {
+                "id": 206881,
                 "identifier": "01j76xycbn9jgp6js0z8kbnrs4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCBN9JGP6JS0Z8KBNRS4.jpg",
                 "malId": 107082,
@@ -86,6 +69,19 @@
                 "title": "The Witch's House",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCBN9JGP6JS0Z8KBNRS4"
+            }
+        },
+        "MangaFire": {
+            "9oj30": {
+                "id": 227233,
+                "identifier": "9oj30",
+                "image": "https://static.mangafire.to/203a/i/e/e5/e5b95c2842acfa73d4f999347b97b87a.jpg",
+                "malId": 107082,
+                "aniId": 103146,
+                "page": "MangaFire",
+                "title": "The Witch's House: The Diary of Ellen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-no-ie-ellen-no-nikkii.9oj30"
             }
         },
         "Comick": {

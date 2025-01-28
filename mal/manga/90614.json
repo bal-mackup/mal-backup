@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f9385163-a949-4192-85cf-3d6542917e9c": {
+                "id": 15078,
                 "identifier": "f9385163-a949-4192-85cf-3d6542917e9c",
                 "image": "https://uploads.mangadex.org/covers/f9385163-a949-4192-85cf-3d6542917e9c/2cb6bad5-04e9-4402-9d60-8a5ba3031a80.jpg",
                 "malId": 90614,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shinigami-to-gin-no-kishi": {
+                "id": 60422,
                 "identifier": "shinigami-to-gin-no-kishi",
                 "image": "https://temp.compsci88.com/cover/Shinigami-To-Gin-No-Kishi.jpg",
                 "malId": 90614,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-sd970038": {
+                "id": 112999,
                 "identifier": "manga-sd970038",
                 "image": "https://avt.mkklcdnv6temp.com/fld/18/y/7-1732784018-nw.webp",
                 "malId": 90614,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-sd970038"
             }
         },
-        "MangaFire": {
-            "shinigami-to-gin-no-kishi.llrzq": {
-                "identifier": "shinigami-to-gin-no-kishi.llrzq",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8ebcab5204e28fd1fe19cc1f9395564.jpg",
-                "malId": 90614,
-                "aniId": 87078,
-                "page": "MangaFire",
-                "title": "The Grim Reaper and an Argent Cavalier",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinigami-to-gin-no-kishi.llrzq/"
-            }
-        },
         "Weebcentral": {
             "01j76xybyssae6vjdqjpt19xyt": {
+                "id": 206281,
                 "identifier": "01j76xybyssae6vjdqjpt19xyt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYSSAE6VJDQJPT19XYT.jpg",
                 "malId": 90614,
@@ -64,6 +56,19 @@
                 "title": "Shinigami to Gin no Kishi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYSSAE6VJDQJPT19XYT"
+            }
+        },
+        "MangaFire": {
+            "llrzq": {
+                "id": 245756,
+                "identifier": "llrzq",
+                "image": "https://static.mangafire.to/68fa/i/a/a8/a8ebcab5204e28fd1fe19cc1f9395564.jpg",
+                "malId": 90614,
+                "aniId": 87078,
+                "page": "MangaFire",
+                "title": "The Grim Reaper and an Argent Cavalier",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinigami-to-gin-no-kishii.llrzq"
             }
         },
         "Comick": {

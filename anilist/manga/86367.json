@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c7dc4c1f-1758-4f04-bec4-0ca82ed89dc9": {
+                "id": 13033,
                 "identifier": "c7dc4c1f-1758-4f04-bec4-0ca82ed89dc9",
                 "image": "https://uploads.mangadex.org/covers/c7dc4c1f-1758-4f04-bec4-0ca82ed89dc9/b6a8421d-a04d-43eb-8905-101e249bce4e.jpg",
                 "malId": 87637,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "grimgar-of-fantasy-and-ash": {
+                "id": 54422,
                 "identifier": "grimgar-of-fantasy-and-ash",
                 "image": "https://temp.compsci88.com/cover/Grimgar-of-Fantasy-and-Ash.jpg",
                 "malId": 87637,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hai_to_gensou_no_grimgal": {
+                "id": 63094,
                 "identifier": "hai_to_gensou_no_grimgal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16047/cover.jpg",
                 "malId": 87637,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/hai_to_gensou_no_grimgal/"
             },
             "hai_to_gensou_no_grimgal_novel": {
+                "id": 69531,
                 "identifier": "hai_to_gensou_no_grimgal_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32023/cover.jpg",
                 "malId": 87637,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-db954258": {
+                "id": 85536,
                 "identifier": "manga-db954258",
                 "image": "https://avt.mkklcdnv6temp.com/fld/3/y/1-1732720673-nw.webp",
                 "malId": 87637,
@@ -64,40 +69,9 @@
                 "url": "https://manganato.com/manga-db954258"
             }
         },
-        "MangaFire": {
-            "hai-to-gensou-no-grimgar.zlmvw": {
-                "identifier": "hai-to-gensou-no-grimgar.zlmvw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8c429ceb5908c83b097194489b49b19a.jpg",
-                "malId": 87637,
-                "aniId": 86367,
-                "page": "MangaFire",
-                "title": "Grimgar of Fantasy and Ash",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hai-to-gensou-no-grimgar.zlmvw/"
-            },
-            "hai-to-gensou-no-grimgarr.zlmvw": {
-                "identifier": "hai-to-gensou-no-grimgarr.zlmvw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8c429ceb5908c83b097194489b49b19a.jpg",
-                "malId": 87637,
-                "aniId": 86367,
-                "page": "MangaFire",
-                "title": "Grimgar of Fantasy and Ash",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hai-to-gensou-no-grimgarr.zlmvw/"
-            },
-            "zlmvw": {
-                "identifier": "zlmvw",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8c429ceb5908c83b097194489b49b19a.jpg",
-                "malId": 87637,
-                "aniId": 86367,
-                "page": "MangaFire",
-                "title": "Grimgar of Fantasy and Ash",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hai-to-gensou-no-grimgarr.zlmvw/"
-            }
-        },
         "Weebcentral": {
             "01j76xye26tmwatctvfr46x1vr": {
+                "id": 211025,
                 "identifier": "01j76xye26tmwatctvfr46x1vr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE26TMWATCTVFR46X1VR.jpg",
                 "malId": 87637,
@@ -106,6 +80,19 @@
                 "title": "Grimgar of Fantasy and Ash",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE26TMWATCTVFR46X1VR"
+            }
+        },
+        "MangaFire": {
+            "zlmvw": {
+                "id": 224302,
+                "identifier": "zlmvw",
+                "image": "https://static.mangafire.to/02eb/i/8/8c/8c429ceb5908c83b097194489b49b19a.jpg",
+                "malId": 87637,
+                "aniId": 86367,
+                "page": "MangaFire",
+                "title": "Grimgar of Fantasy and Ash",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hai-to-gensou-no-grimgarr.zlmvw"
             }
         },
         "Comick": {

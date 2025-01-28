@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4ca469a9-65f3-462e-9155-f067145cefa8": {
+                "id": 102302,
                 "identifier": "4ca469a9-65f3-462e-9155-f067145cefa8",
                 "image": "https://uploads.mangadex.org/covers/4ca469a9-65f3-462e-9155-f067145cefa8/efa3bd57-b85c-41c3-a371-71a9c6d79a24.jpg",
                 "malId": 148821,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/4ca469a9-65f3-462e-9155-f067145cefa8"
             }
         },
-        "MangaFire": {
-            "power-antoinette.6l124": {
-                "identifier": "power-antoinette.6l124",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/699d1edf08ca8ec38676588c084090b3.jpg",
-                "malId": 148821,
-                "aniId": 148225,
-                "page": "MangaFire",
-                "title": "Power Antoinette",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/power-antoinette.6l124/"
-            },
-            "power-antoinettee.6l124": {
-                "identifier": "power-antoinettee.6l124",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/699d1edf08ca8ec38676588c084090b3.jpg",
-                "malId": 148821,
-                "aniId": 148225,
-                "page": "MangaFire",
-                "title": "Power Antoinette",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/power-antoinettee.6l124/"
-            }
-        },
         "MangaNato": {
             "manga-sp996124": {
+                "id": 157693,
                 "identifier": "manga-sp996124",
                 "image": "https://avt.mkklcdnv6temp.com/fld/4/l/14-1733306835-nw.webp",
                 "malId": 148821,
@@ -50,6 +30,19 @@
                 "title": "Power Antoinette",
                 "type": "manga",
                 "url": "https://manganato.com/manga-sp996124"
+            }
+        },
+        "MangaFire": {
+            "6l124": {
+                "id": 226988,
+                "identifier": "6l124",
+                "image": "https://static.mangafire.to/f8cb/i/6/69/699d1edf08ca8ec38676588c084090b3.jpg",
+                "malId": 148821,
+                "aniId": 148225,
+                "page": "MangaFire",
+                "title": "Power Antoinette",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/power-antoinettee.6l124"
             }
         },
         "Comick": {

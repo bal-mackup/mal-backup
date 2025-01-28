@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6b27cbd8-4cc6-40ca-b010-928da4540be8": {
+                "id": 52106,
                 "identifier": "6b27cbd8-4cc6-40ca-b010-928da4540be8",
                 "image": "https://uploads.mangadex.org/covers/6b27cbd8-4cc6-40ca-b010-928da4540be8/a9923f80-c4cb-4235-8efc-86c55ddf2942.jpg",
                 "malId": 130486,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/6b27cbd8-4cc6-40ca-b010-928da4540be8"
             },
             "f5818aee-080b-42b5-b717-b1dae81f049c": {
+                "id": 121295,
                 "identifier": "f5818aee-080b-42b5-b717-b1dae81f049c",
                 "image": "https://uploads.mangadex.org/covers/f5818aee-080b-42b5-b717-b1dae81f049c/8181cd8b-0f12-420f-9296-7f885b4ea8ed.jpg",
                 "malId": 130486,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/f5818aee-080b-42b5-b717-b1dae81f049c"
             },
             "011ecd60-144f-476f-92e9-278905cb4450": {
+                "id": 155766,
                 "identifier": "011ecd60-144f-476f-92e9-278905cb4450",
                 "image": "https://uploads.mangadex.org/covers/011ecd60-144f-476f-92e9-278905cb4450/58288378-8baf-4520-9c1c-c9e9cb97d6b2.jpg",
                 "malId": 130486,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "getsuyoubi-no-tawawa": {
+                "id": 58073,
                 "identifier": "getsuyoubi-no-tawawa",
                 "image": "https://temp.compsci88.com/cover/Getsuyoubi-no-Tawawa.jpg",
                 "malId": 130486,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "getsuyoubi_no_tawawa": {
+                "id": 68591,
                 "identifier": "getsuyoubi_no_tawawa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22175/cover.jpg",
                 "malId": 130486,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-vi973143": {
+                "id": 73265,
                 "identifier": "manga-vi973143",
                 "image": "https://avt.mkklcdnv6temp.com/28/f/14-1583490742.jpg",
                 "malId": 130486,
@@ -74,6 +80,7 @@
                 "url": "https://chapmanganato.com/manga-vi973143"
             },
             "manga-vw998379": {
+                "id": 171013,
                 "identifier": "manga-vw998379",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/j/15-1733312292-nw.webp",
                 "malId": 130486,
@@ -84,30 +91,9 @@
                 "url": "https://chapmanganato.com/manga-vw998379"
             }
         },
-        "MangaFire": {
-            "getsuyoubi-no-tawawa.oq34": {
-                "identifier": "getsuyoubi-no-tawawa.oq34",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/f959c3428d9f2a5dd0269107d5365dcd.jpg",
-                "malId": 130486,
-                "aniId": 125854,
-                "page": "MangaFire",
-                "title": "Tawawa on Monday",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/getsuyoubi-no-tawawa.oq34/"
-            },
-            "getsuyoubi-no-tawawaa.oq34": {
-                "identifier": "getsuyoubi-no-tawawaa.oq34",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/f959c3428d9f2a5dd0269107d5365dcd.jpg",
-                "malId": 130486,
-                "aniId": 125854,
-                "page": "MangaFire",
-                "title": "Tawawa on Monday",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/getsuyoubi-no-tawawaa.oq34/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8sg4hh0a8vp3xqhafr": {
+                "id": 213205,
                 "identifier": "01j76xye8sg4hh0a8vp3xqhafr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8SG4HH0A8VP3XQHAFR.jpg",
                 "malId": 130486,
@@ -116,6 +102,19 @@
                 "title": "Getsuyoubi no Tawawa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8SG4HH0A8VP3XQHAFR"
+            }
+        },
+        "MangaFire": {
+            "oq34": {
+                "id": 224295,
+                "identifier": "oq34",
+                "image": "https://static.mangafire.to/00e2/i/0/08/f959c3428d9f2a5dd0269107d5365dcd.jpg",
+                "malId": 130486,
+                "aniId": 125854,
+                "page": "MangaFire",
+                "title": "Tawawa on Monday",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/getsuyoubi-no-tawawaa.oq34"
             }
         },
         "Comick": {

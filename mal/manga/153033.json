@@ -6,30 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/278729.jpg",
     "Sites": {
-        "MangaFire": {
-            "yuusha-party-no-nimotsu-mochi.59klj": {
-                "identifier": "yuusha-party-no-nimotsu-mochi.59klj",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/286eac0d67a0be49ffd43031d27857b3.jpg",
-                "malId": 153033,
-                "aniId": 155895,
-                "page": "MangaFire",
-                "title": "Yuusha Party no Nimotsu Mochi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-party-no-nimotsu-mochi.59klj/"
-            },
-            "yuusha-party-no-nimotsumochi.725jy": {
-                "identifier": "yuusha-party-no-nimotsumochi.725jy",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/b2785197909aea935e80c870c3068713.jpg",
-                "malId": 153033,
-                "aniId": 155895,
-                "page": "MangaFire",
-                "title": "Porter of Heroes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-party-no-nimotsumochi.725jy/"
-            }
-        },
         "Mangadex": {
             "ee16d489-9a09-445c-89fc-dd887b0c11f0": {
+                "id": 174395,
                 "identifier": "ee16d489-9a09-445c-89fc-dd887b0c11f0",
                 "image": "https://uploads.mangadex.org/covers/ee16d489-9a09-445c-89fc-dd887b0c11f0/78555f89-301c-4e73-8147-a1169db09d2c.jpg",
                 "malId": 153033,
@@ -42,6 +21,7 @@
         },
         "MangaSee": {
             "porter-of-heroes": {
+                "id": 188279,
                 "identifier": "porter-of-heroes",
                 "image": "https://temp.compsci88.com/cover/Porter-of-Heroes.jpg",
                 "malId": 153033,
@@ -54,18 +34,20 @@
         },
         "MangaNato": {
             "manga-al1003520": {
+                "id": 195364,
                 "identifier": "manga-al1003520",
-                "image": "https://avt.mkklcdnv6temp.com/1/q/35-1724515138.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/87/b/17-1733326447-nw.webp",
                 "malId": 153033,
                 "aniId": 155895,
                 "page": "MangaNato",
                 "title": "Porter Of Heroes",
                 "type": "manga",
-                "url": "https://manganato.com/manga-al1003520"
+                "url": "https://chapmanganato.com/manga-al1003520"
             }
         },
         "Weebcentral": {
             "01j76xyh7s8nkrg1xett3928wg": {
+                "id": 210061,
                 "identifier": "01j76xyh7s8nkrg1xett3928wg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH7S8NKRG1XETT3928WG.jpg",
                 "malId": 153033,
@@ -78,6 +60,7 @@
         },
         "MangaFox": {
             "yuusha_party_no_nimotsu_mochi": {
+                "id": 221268,
                 "identifier": "yuusha_party_no_nimotsu_mochi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46783/cover.jpg",
                 "malId": 153033,
@@ -86,6 +69,30 @@
                 "title": "Yuusha Party no Nimotsu Mochi",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/yuusha_party_no_nimotsu_mochi/"
+            }
+        },
+        "MangaFire": {
+            "59klj": {
+                "id": 235355,
+                "identifier": "59klj",
+                "image": "https://static.mangafire.to/1d8c/i/2/28/286eac0d67a0be49ffd43031d27857b3.jpg",
+                "malId": 153033,
+                "aniId": 155895,
+                "page": "MangaFire",
+                "title": "Yuusha Party no Nimotsu Mochi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuusha-party-no-nimotsu-mochii.59klj"
+            },
+            "725jy": {
+                "id": 236132,
+                "identifier": "725jy",
+                "image": "https://static.mangafire.to/5e8d/i/f/f5/b2785197909aea935e80c870c3068713.jpg",
+                "malId": 153033,
+                "aniId": 155895,
+                "page": "MangaFire",
+                "title": "Porter of Heroes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuusha-party-no-nimotsumochii.725jy"
             }
         },
         "Comick": {

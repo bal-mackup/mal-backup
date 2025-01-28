@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7b533450-8bbd-4fab-bca0-6bd1befbe72c": {
+                "id": 88938,
                 "identifier": "7b533450-8bbd-4fab-bca0-6bd1befbe72c",
                 "image": "https://uploads.mangadex.org/covers/7b533450-8bbd-4fab-bca0-6bd1befbe72c/fd600cb0-00db-4d9a-a46b-980949e07191.jpg",
                 "malId": 139742,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mk990067": {
+                "id": 91565,
                 "identifier": "manga-mk990067",
                 "image": "https://avt.mkklcdnv6temp.com/8/n/25-1637516476.jpg",
                 "malId": 139742,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tonari_no_kuroki_san_wa_nomu_to_yabai": {
+                "id": 91603,
                 "identifier": "tonari_no_kuroki_san_wa_nomu_to_yabai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40102/cover.jpg",
                 "malId": 139742,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/tonari_no_kuroki_san_wa_nomu_to_yabai/"
             }
         },
-        "MangaFire": {
-            "tonari-no-kuroki-san-wa-nomu-to-yabai.mvv68": {
-                "identifier": "tonari-no-kuroki-san-wa-nomu-to-yabai.mvv68",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14a8d0231199c82f847d899b0b9495b6.jpg",
-                "malId": 139742,
-                "aniId": 138029,
-                "page": "MangaFire",
-                "title": "Tonari no Kuroki-san wa Nomu to Yabai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonari-no-kuroki-san-wa-nomu-to-yabai.mvv68/"
-            },
-            "tonari-no-kuroki-san-wa-nomu-to-yabaii.mvv68": {
-                "identifier": "tonari-no-kuroki-san-wa-nomu-to-yabaii.mvv68",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14a8d0231199c82f847d899b0b9495b6.jpg",
-                "malId": 139742,
-                "aniId": 138029,
-                "page": "MangaFire",
-                "title": "Tonari no Kuroki-san wa Nomu to Yabai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonari-no-kuroki-san-wa-nomu-to-yabaii.mvv68/"
-            }
-        },
         "MangaSee": {
             "asami-kurokis-on-another-bender": {
+                "id": 158315,
                 "identifier": "asami-kurokis-on-another-bender",
                 "image": "https://temp.compsci88.com/cover/Asami-Kurokis-on-Another-Bender.jpg",
                 "malId": 139742,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg5zqq2h3p98ea8kg9tf": {
+                "id": 209627,
                 "identifier": "01j76xyg5zqq2h3p98ea8kg9tf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5ZQQ2H3P98EA8KG9TF.jpg",
                 "malId": 139742,
@@ -86,6 +69,19 @@
                 "title": "Asami Kuroki's on A(nother) Bender",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5ZQQ2H3P98EA8KG9TF"
+            }
+        },
+        "MangaFire": {
+            "mvv68": {
+                "id": 226555,
+                "identifier": "mvv68",
+                "image": "https://static.mangafire.to/5701/i/1/14/14a8d0231199c82f847d899b0b9495b6.jpg",
+                "malId": 139742,
+                "aniId": 138029,
+                "page": "MangaFire",
+                "title": "Tonari no Kuroki-san wa Nomu to Yabai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tonari-no-kuroki-san-wa-nomu-to-yabaii.mvv68"
             }
         },
         "Comick": {

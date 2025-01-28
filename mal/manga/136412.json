@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lm989021": {
+                "id": 74563,
                 "identifier": "manga-lm989021",
                 "image": "https://avt.mkklcdnv6temp.com/12/x/24-1620973264.jpg",
                 "malId": 136412,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "don_t_touch_kotesashi": {
+                "id": 78499,
                 "identifier": "don_t_touch_kotesashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38583/cover.jpg",
                 "malId": 136412,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "85127c1f-1131-4fb2-9e36-8b45168a99e5": {
+                "id": 90991,
                 "identifier": "85127c1f-1131-4fb2-9e36-8b45168a99e5",
                 "image": "https://uploads.mangadex.org/covers/85127c1f-1131-4fb2-9e36-8b45168a99e5/7cfd68d6-25cd-4f35-8259-668fee52da41.jpg",
                 "malId": 136412,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/85127c1f-1131-4fb2-9e36-8b45168a99e5"
             }
         },
-        "MangaFire": {
-            "sawaranaide-kotesashi-kun.oxjpz": {
-                "identifier": "sawaranaide-kotesashi-kun.oxjpz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d9212361797da3562a30e4f868077259.jpg",
-                "malId": 136412,
-                "aniId": 133386,
-                "page": "MangaFire",
-                "title": "Don't Touch Kotesashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sawaranaide-kotesashi-kun.oxjpz/"
-            },
-            "sawaranaide-kotesashi-kunn.oxjpz": {
-                "identifier": "sawaranaide-kotesashi-kunn.oxjpz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d9212361797da3562a30e4f868077259.jpg",
-                "malId": 136412,
-                "aniId": 133386,
-                "page": "MangaFire",
-                "title": "Don't Touch Kotesashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sawaranaide-kotesashi-kunn.oxjpz/"
-            }
-        },
         "MangaSee": {
             "sawaranaide-kotesashi-kun": {
+                "id": 170912,
                 "identifier": "sawaranaide-kotesashi-kun",
                 "image": "https://temp.compsci88.com/cover/Sawaranaide-Kotesashi-kun.jpg",
                 "malId": 136412,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygj92g1y5d9m43kq1v1d": {
+                "id": 211320,
                 "identifier": "01j76xygj92g1y5d9m43kq1v1d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGJ92G1Y5D9M43KQ1V1D.jpg",
                 "malId": 136412,
@@ -86,6 +69,19 @@
                 "title": "Sawaranaide Kotesashi-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGJ92G1Y5D9M43KQ1V1D"
+            }
+        },
+        "MangaFire": {
+            "oxjpz": {
+                "id": 225501,
+                "identifier": "oxjpz",
+                "image": "https://static.mangafire.to/0c83/i/d/d9/d9212361797da3562a30e4f868077259.jpg",
+                "malId": 136412,
+                "aniId": 133386,
+                "page": "MangaFire",
+                "title": "Don't Touch Kotesashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sawaranaide-kotesashi-kunn.oxjpz"
             }
         },
         "Comick": {

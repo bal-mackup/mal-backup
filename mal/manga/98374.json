@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "78218ec5-b7ea-4c03-accd-df98c3d8e350": {
+                "id": 15808,
                 "identifier": "78218ec5-b7ea-4c03-accd-df98c3d8e350",
                 "image": "https://uploads.mangadex.org/covers/78218ec5-b7ea-4c03-accd-df98c3d8e350/5b63aa7f-7779-46e2-9924-1eb9bc6d23b6.jpg",
                 "malId": 98374,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cardcaptor-sakura-clear-card-arc": {
+                "id": 67964,
                 "identifier": "cardcaptor-sakura-clear-card-arc",
                 "image": "https://temp.compsci88.com/cover/Cardcaptor-Sakura-Clear-Card-Arc.jpg",
                 "malId": 98374,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "cardcaptor_sakura_clear_card_arc": {
+                "id": 77414,
                 "identifier": "cardcaptor_sakura_clear_card_arc",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20379/cover.jpg",
                 "malId": 98374,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ud971638": {
+                "id": 85947,
                 "identifier": "manga-ud971638",
                 "image": "https://avt.mkklcdnv6temp.com/fld/48/c/7-1732785482-nw.webp",
                 "malId": 98374,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ud971638"
             }
         },
-        "MangaFire": {
-            "cardcaptor-sakura-clear-card.xm8": {
-                "identifier": "cardcaptor-sakura-clear-card.xm8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5c79221853964958de11b9491ec2be1.jpg",
-                "malId": 98374,
-                "aniId": 87296,
-                "page": "MangaFire",
-                "title": "Cardcaptor Sakura: Clear Card Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cardcaptor-sakura-clear-card.xm8/"
-            },
-            "cardcaptor-sakura-clear-cardd.xm8": {
-                "identifier": "cardcaptor-sakura-clear-cardd.xm8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5c79221853964958de11b9491ec2be1.jpg",
-                "malId": 98374,
-                "aniId": 87296,
-                "page": "MangaFire",
-                "title": "Cardcaptor Sakura: Clear Card Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cardcaptor-sakura-clear-cardd.xm8/"
-            },
-            "xm8": {
-                "identifier": "xm8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5c79221853964958de11b9491ec2be1.jpg",
-                "malId": 98374,
-                "aniId": 87296,
-                "page": "MangaFire",
-                "title": "Cardcaptor Sakura: Clear Card Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cardcaptor-sakura-clear-cardd.xm8/"
-            }
-        },
         "Weebcentral": {
             "01j76xybqyfd7b8pkf4gnyjwt7": {
+                "id": 210204,
                 "identifier": "01j76xybqyfd7b8pkf4gnyjwt7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBQYFD7B8PKF4GNYJWT7.jpg",
                 "malId": 98374,
@@ -96,6 +69,19 @@
                 "title": "Cardcaptor Sakura - Clear Card",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBQYFD7B8PKF4GNYJWT7"
+            }
+        },
+        "MangaFire": {
+            "xm8": {
+                "id": 226900,
+                "identifier": "xm8",
+                "image": "https://static.mangafire.to/e4f7/i/a/a5/a5c79221853964958de11b9491ec2be1.jpg",
+                "malId": 98374,
+                "aniId": 87296,
+                "page": "MangaFire",
+                "title": "Cardcaptor Sakura: Clear Card Arc",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cardcaptor-sakura-clear-cardd.xm8"
             }
         },
         "Comick": {

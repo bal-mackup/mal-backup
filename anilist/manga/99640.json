@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c10740eb-12b5-4bfe-b933-56e9fb8fc58d": {
+                "id": 16186,
                 "identifier": "c10740eb-12b5-4bfe-b933-56e9fb8fc58d",
                 "image": "https://uploads.mangadex.org/covers/c10740eb-12b5-4bfe-b933-56e9fb8fc58d/410b102d-8d5e-45de-bd7c-a44f60826967.jpg",
                 "malId": 103562,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mairimashita-senpai": {
+                "id": 56101,
                 "identifier": "mairimashita-senpai",
                 "image": "https://temp.compsci88.com/cover/Mairimashita-Senpai.jpg",
                 "malId": 103562,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cz979408": {
+                "id": 76497,
                 "identifier": "manga-cz979408",
                 "image": "https://avt.mkklcdnv6temp.com/40/j/16-1583494915.jpg",
                 "malId": 103562,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "mairimashita_senpai": {
+                "id": 160823,
                 "identifier": "mairimashita_senpai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28303/cover.jpg",
                 "malId": 103562,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/mairimashita_senpai/"
             }
         },
-        "MangaFire": {
-            "you-got-me-sempaii.oj0z5": {
-                "identifier": "you-got-me-sempaii.oj0z5",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/909aa59054972f5d45a2b5659538f077.jpg",
-                "malId": 103562,
-                "aniId": 99640,
-                "page": "MangaFire",
-                "title": "You Got Me, Sempai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/you-got-me-sempaii.oj0z5/"
-            },
-            "oj0z5": {
-                "identifier": "oj0z5",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/909aa59054972f5d45a2b5659538f077.jpg",
-                "malId": 103562,
-                "aniId": 99640,
-                "page": "MangaFire",
-                "title": "You Got Me, Sempai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/you-got-me-sempaii.oj0z5/"
-            }
-        },
         "Weebcentral": {
             "01j76xycjb1x99d3a37gv75xwr": {
+                "id": 207364,
                 "identifier": "01j76xycjb1x99d3a37gv75xwr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJB1X99D3A37GV75XWR.jpg",
                 "malId": 103562,
@@ -86,6 +69,19 @@
                 "title": "You Got Me, Sempai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJB1X99D3A37GV75XWR"
+            }
+        },
+        "MangaFire": {
+            "oj0z5": {
+                "id": 225862,
+                "identifier": "oj0z5",
+                "image": "https://static.mangafire.to/773f/i/9/90/909aa59054972f5d45a2b5659538f077.jpg",
+                "malId": 103562,
+                "aniId": 99640,
+                "page": "MangaFire",
+                "title": "You Got Me, Sempai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/you-got-me-sempaii.oj0z5"
             }
         },
         "Comick": {

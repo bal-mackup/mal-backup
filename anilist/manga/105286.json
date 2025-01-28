@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b4899b22-825e-4fc4-8e0d-1a6baeb8f3e3": {
+                "id": 28338,
                 "identifier": "b4899b22-825e-4fc4-8e0d-1a6baeb8f3e3",
                 "image": "https://uploads.mangadex.org/covers/b4899b22-825e-4fc4-8e0d-1a6baeb8f3e3/cf5fa3b1-ab77-477a-a2ef-2bb8803431a9.jpg",
                 "malId": 118229,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yoshi-no-zuikara": {
+                "id": 60038,
                 "identifier": "yoshi-no-zuikara",
                 "image": "https://temp.compsci88.com/cover/Yoshi-no-Zuikara.jpg",
                 "malId": 118229,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Yoshi-no-Zuikara"
             }
         },
-        "MangaFire": {
-            "yoshi-no-zui-kara.ox924": {
-                "identifier": "yoshi-no-zui-kara.ox924",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e842d708b33b0f21167a6ef810eb738f.jpg",
-                "malId": 118229,
-                "aniId": 105286,
-                "page": "MangaFire",
-                "title": "Yoshi no Zuikara: The Frog in the Well Does Not Know the Ocean",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoshi-no-zui-kara.ox924/"
-            }
-        },
         "Weebcentral": {
             "01j76xye1vxv1yqbfgvzfdxrqk": {
+                "id": 210561,
                 "identifier": "01j76xye1vxv1yqbfgvzfdxrqk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE1VXV1YQBFGVZFDXRQK.jpg",
                 "malId": 118229,
@@ -52,6 +43,19 @@
                 "title": "Yoshi no Zuikara",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE1VXV1YQBFGVZFDXRQK"
+            }
+        },
+        "MangaFire": {
+            "ox924": {
+                "id": 245089,
+                "identifier": "ox924",
+                "image": "https://static.mangafire.to/cfc0/i/e/e8/e842d708b33b0f21167a6ef810eb738f.jpg",
+                "malId": 118229,
+                "aniId": 105286,
+                "page": "MangaFire",
+                "title": "Yoshi no Zuikara: The Frog in the Well Does Not Know the Ocean",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yoshi-no-zui-karaa.ox924"
             }
         },
         "Comick": {

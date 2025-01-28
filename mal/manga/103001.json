@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4c86f38a-cead-4575-a9c3-acf7261a58ff": {
+                "id": 18035,
                 "identifier": "4c86f38a-cead-4575-a9c3-acf7261a58ff",
                 "image": "https://uploads.mangadex.org/covers/4c86f38a-cead-4575-a9c3-acf7261a58ff/5106c769-40be-43d4-a7e6-dd8729c91fc9.jpg",
                 "malId": 103001,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "meikyuu-black-company": {
+                "id": 59226,
                 "identifier": "meikyuu-black-company",
                 "image": "https://temp.compsci88.com/cover/Meikyuu-Black-Company.jpg",
                 "malId": 103001,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "meikyuu_black_company": {
+                "id": 72763,
                 "identifier": "meikyuu_black_company",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26025/cover.jpg",
                 "malId": 103001,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ze977239": {
+                "id": 74480,
                 "identifier": "manga-ze977239",
                 "image": "https://avt.mkklcdnv6temp.com/38/m/15-1583492957.jpg",
                 "malId": 103001,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ze977239"
             }
         },
-        "MangaFire": {
-            "meikyuu-black-company.020n9": {
-                "identifier": "meikyuu-black-company.020n9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3b629dc6755f1086ba5d5c4357dc193f.jpg",
-                "malId": 103001,
-                "aniId": 99802,
-                "page": "MangaFire",
-                "title": "The Dungeon of Black Company",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meikyuu-black-company.020n9/"
-            },
-            "meikyuu-black-companyy.020n9": {
-                "identifier": "meikyuu-black-companyy.020n9",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3b629dc6755f1086ba5d5c4357dc193f.jpg",
-                "malId": 103001,
-                "aniId": 99802,
-                "page": "MangaFire",
-                "title": "The Dungeon of Black Company",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meikyuu-black-companyy.020n9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc9rzknx6vs8tkzye404": {
+                "id": 209076,
                 "identifier": "01j76xyc9rzknx6vs8tkzye404",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC9RZKNX6VS8TKZYE404.jpg",
                 "malId": 103001,
@@ -86,6 +69,19 @@
                 "title": "The Dungeon of Black Company",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC9RZKNX6VS8TKZYE404"
+            }
+        },
+        "MangaFire": {
+            "020n9": {
+                "id": 223943,
+                "identifier": "020n9",
+                "image": "https://static.mangafire.to/3fb4/i/6/12/bfaab71e8bc22046f19b088d84c6dbeb.jpg",
+                "malId": 103001,
+                "aniId": 99802,
+                "page": "MangaFire",
+                "title": "The Dungeon of Black Company",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/meikyuu-black-companyy.020n9"
             }
         },
         "Comick": {

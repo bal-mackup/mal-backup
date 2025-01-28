@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2f5d6690-1087-4199-bbe3-72ed0e35f739": {
+                "id": 30597,
                 "identifier": "2f5d6690-1087-4199-bbe3-72ed0e35f739",
                 "image": "https://uploads.mangadex.org/covers/2f5d6690-1087-4199-bbe3-72ed0e35f739/80b43a72-0f17-47aa-a7b6-3ad1b800fbbb.jpg",
                 "malId": 121072,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "magaimono-super-magic-action-entertainment": {
+                "id": 92432,
                 "identifier": "magaimono-super-magic-action-entertainment",
                 "image": "https://temp.compsci88.com/cover/Magaimono-Super-Magic-Action-Entertainment.jpg",
                 "malId": 121072,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Magaimono-Super-Magic-Action-Entertainment"
             }
         },
-        "MangaFire": {
-            "magaimono.yvk01": {
-                "identifier": "magaimono.yvk01",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15b69a7bec0b0971f70678cf84723f49.jpg",
-                "malId": 121072,
-                "aniId": 110980,
-                "page": "MangaFire",
-                "title": "Magaimono: Super Magic Action Entertainment",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/magaimono.yvk01/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf65tn45axb1w8rgja5p": {
+                "id": 206607,
                 "identifier": "01j76xyf65tn45axb1w8rgja5p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF65TN45AXB1W8RGJA5P.jpg",
                 "malId": 121072,
@@ -52,6 +43,19 @@
                 "title": "Magaimono - Super Magic Action Entertainment",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF65TN45AXB1W8RGJA5P"
+            }
+        },
+        "MangaFire": {
+            "yvk01": {
+                "id": 231985,
+                "identifier": "yvk01",
+                "image": "https://static.mangafire.to/4881/i/1/15/15b69a7bec0b0971f70678cf84723f49.jpg",
+                "malId": 121072,
+                "aniId": 110980,
+                "page": "MangaFire",
+                "title": "Magaimono: Super Magic Action Entertainment",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/magaimonoo.yvk01"
             }
         },
         "Comick": {

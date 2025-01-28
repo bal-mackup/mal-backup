@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0ce2f37a-0984-42e9-8b1e-78cb56e0ea91": {
+                "id": 52939,
                 "identifier": "0ce2f37a-0984-42e9-8b1e-78cb56e0ea91",
                 "image": "https://uploads.mangadex.org/covers/0ce2f37a-0984-42e9-8b1e-78cb56e0ea91/f13ecda2-b254-4cde-9bf9-282c3cddaa75.jpg",
                 "malId": 147331,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "men-of-the-harem": {
+                "id": 67396,
                 "identifier": "men-of-the-harem",
                 "image": "https://temp.compsci88.com/cover/Men-of-the-Harem.jpg",
                 "malId": 147331,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ld988460": {
+                "id": 77053,
                 "identifier": "manga-ld988460",
                 "image": "https://avt.mkklcdnv6temp.com/39/s/23-1615259533.jpg",
                 "malId": 147331,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ld988460"
             }
         },
-        "MangaFire": {
-            "men-of-the-harem.4q47m": {
-                "identifier": "men-of-the-harem.4q47m",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d9ddbda88e0a71d6168a6a4453ccba90.jpg",
-                "malId": 147331,
-                "aniId": 128366,
-                "page": "MangaFire",
-                "title": "Men of the Harem",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/men-of-the-harem.4q47m/"
-            },
-            "men-of-the-haremm.4q47m": {
-                "identifier": "men-of-the-haremm.4q47m",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d9ddbda88e0a71d6168a6a4453ccba90.jpg",
-                "malId": 147331,
-                "aniId": 128366,
-                "page": "MangaFire",
-                "title": "Men of the Harem",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/men-of-the-haremm.4q47m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyehf5h2xjwmbv7fa282g": {
+                "id": 208339,
                 "identifier": "01j76xyehf5h2xjwmbv7fa282g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEHF5H2XJWMBV7FA282G.jpg",
                 "malId": 147331,
@@ -74,6 +56,19 @@
                 "title": "Men of the Harem",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEHF5H2XJWMBV7FA282G"
+            }
+        },
+        "MangaFire": {
+            "4q47m": {
+                "id": 225072,
+                "identifier": "4q47m",
+                "image": "https://static.mangafire.to/00ec/i/d/d9/d9ddbda88e0a71d6168a6a4453ccba90.jpg",
+                "malId": 147331,
+                "aniId": 128366,
+                "page": "MangaFire",
+                "title": "Men of the Harem",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/men-of-the-haremm.4q47m"
             }
         },
         "Comick": {

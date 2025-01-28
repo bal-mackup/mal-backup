@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b2e64641-cffe-40a9-8d7f-082dca2355c5": {
+                "id": 110212,
                 "identifier": "b2e64641-cffe-40a9-8d7f-082dca2355c5",
                 "image": "https://uploads.mangadex.org/covers/b2e64641-cffe-40a9-8d7f-082dca2355c5/0b447b18-e391-4765-b29a-10c3953bb75d.jpg",
                 "malId": 148801,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pandora-seven": {
+                "id": 123661,
                 "identifier": "pandora-seven",
                 "image": "https://temp.compsci88.com/cover/Pandora-Seven.jpg",
                 "malId": 148801,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Pandora-Seven"
             }
         },
-        "MangaFire": {
-            "pandora-seven.6wzzp": {
-                "identifier": "pandora-seven.6wzzp",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a078195deac2fd1ac0f42da7e26d9dd.jpg",
-                "malId": 148801,
-                "aniId": 139996,
-                "page": "MangaFire",
-                "title": "Pandora Seven",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pandora-seven.6wzzp/"
-            }
-        },
         "MangaNato": {
             "manga-uo997923": {
+                "id": 174740,
                 "identifier": "manga-uo997923",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/a/15-1733311115-nw.webp",
                 "malId": 148801,
@@ -56,6 +47,7 @@
         },
         "MangaFox": {
             "pandora_seven": {
+                "id": 183351,
                 "identifier": "pandora_seven",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44552/cover.jpg",
                 "malId": 148801,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyfwznn2j76794e2krr4s": {
+                "id": 206506,
                 "identifier": "01j76xyfwznn2j76794e2krr4s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFWZNN2J76794E2KRR4S.jpg",
                 "malId": 148801,
@@ -76,6 +69,19 @@
                 "title": "Pandora Seven",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFWZNN2J76794E2KRR4S"
+            }
+        },
+        "MangaFire": {
+            "6wzzp": {
+                "id": 239203,
+                "identifier": "6wzzp",
+                "image": "https://static.mangafire.to/be7f/i/0/0a/0a078195deac2fd1ac0f42da7e26d9dd.jpg",
+                "malId": 148801,
+                "aniId": 139996,
+                "page": "MangaFire",
+                "title": "Pandora Seven",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pandora-sevenn.6wzzp"
             }
         },
         "Comick": {

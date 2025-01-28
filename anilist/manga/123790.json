@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "30a34bd8-b33a-4ff2-94aa-c34670f904d2": {
+                "id": 39330,
                 "identifier": "30a34bd8-b33a-4ff2-94aa-c34670f904d2",
                 "image": "https://uploads.mangadex.org/covers/30a34bd8-b33a-4ff2-94aa-c34670f904d2/3092787d-c273-424c-b496-17a9aa02c6be.jpg",
                 "malId": 129671,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "high-school-family-kokosei-kazoku": {
+                "id": 57135,
                 "identifier": "high-school-family-kokosei-kazoku",
                 "image": "https://temp.compsci88.com/cover/High-School-Family-Kokosei-Kazoku.jpg",
                 "malId": 129671,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-pq992499": {
+                "id": 114876,
                 "identifier": "manga-pq992499",
                 "image": "https://avt.mkklcdnv6temp.com/10/d/27-1663657429.jpg",
                 "malId": 129671,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-pq992499"
             }
         },
-        "MangaFire": {
-            "high-school-family-kokosei-kazoku.6lvlp": {
-                "identifier": "high-school-family-kokosei-kazoku.6lvlp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6e9a3180837d69c99dd956ece15dc65.jpg",
-                "malId": 129671,
-                "aniId": 123790,
-                "page": "MangaFire",
-                "title": "High School Family: Kokosei Kazoku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/high-school-family-kokosei-kazoku.6lvlp/"
-            },
-            "high-school-family-kokosei-kazokuu.6lvlp": {
-                "identifier": "high-school-family-kokosei-kazokuu.6lvlp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/f6e9a3180837d69c99dd956ece15dc65.jpg",
-                "malId": 129671,
-                "aniId": 123790,
-                "page": "MangaFire",
-                "title": "High School Family: Kokosei Kazoku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/high-school-family-kokosei-kazokuu.6lvlp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydwg1zea1d7yr8nnrey6": {
+                "id": 207702,
                 "identifier": "01j76xydwg1zea1d7yr8nnrey6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDWG1ZEA1D7YR8NNREY6.jpg",
                 "malId": 129671,
@@ -74,6 +56,19 @@
                 "title": "High School Family - Kokosei Kazoku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDWG1ZEA1D7YR8NNREY6"
+            }
+        },
+        "MangaFire": {
+            "6lvlp": {
+                "id": 245175,
+                "identifier": "6lvlp",
+                "image": "https://static.mangafire.to/3e55/i/f/f6/f6e9a3180837d69c99dd956ece15dc65.jpg",
+                "malId": 129671,
+                "aniId": 123790,
+                "page": "MangaFire",
+                "title": "High School Family: Kokosei Kazoku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/high-school-family-kokosei-kazokuu.6lvlp"
             }
         },
         "Comick": {

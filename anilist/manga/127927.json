@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "78018909-11b0-4893-a05a-946910852111": {
+                "id": 40225,
                 "identifier": "78018909-11b0-4893-a05a-946910852111",
                 "image": "https://uploads.mangadex.org/covers/78018909-11b0-4893-a05a-946910852111/ad183e9f-f58a-40f9-91b2-d2c4aa8fc9c7.jpg",
                 "malId": 148163,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "devilish-romance": {
+                "id": 66805,
                 "identifier": "devilish-romance",
                 "image": "https://temp.compsci88.com/cover/Devilish-Romance.jpg",
                 "malId": 148163,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "devilish_romance": {
+                "id": 70725,
                 "identifier": "devilish_romance",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38310/cover.jpg",
                 "malId": 148163,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ln988596": {
+                "id": 78248,
                 "identifier": "manga-ln988596",
                 "image": "https://avt.mkklcdnv6temp.com/45/j/23-1616732405.jpg",
                 "malId": 148163,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ln988596"
             }
         },
-        "MangaFire": {
-            "devils-romance.rlyxp": {
-                "identifier": "devils-romance.rlyxp",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c8525fb94a54c7297faa178ccdd12a23.jpg",
-                "malId": 148163,
-                "aniId": 127927,
-                "page": "MangaFire",
-                "title": "Devilish Romance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/devils-romance.rlyxp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeh71v9xw0km7hgf3cy7": {
+                "id": 214106,
                 "identifier": "01j76xyeh71v9xw0km7hgf3cy7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEH71V9XW0KM7HGF3CY7.jpg",
                 "malId": 148163,
@@ -76,6 +69,19 @@
                 "title": "Devilish Romance",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEH71V9XW0KM7HGF3CY7"
+            }
+        },
+        "MangaFire": {
+            "rlyxp": {
+                "id": 259611,
+                "identifier": "rlyxp",
+                "image": "https://static.mangafire.to/5d29/i/c/c8/c8525fb94a54c7297faa178ccdd12a23.jpg",
+                "malId": 148163,
+                "aniId": 127927,
+                "page": "MangaFire",
+                "title": "Devilish Romance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/devils-romancee.rlyxp"
             }
         },
         "Comick": {

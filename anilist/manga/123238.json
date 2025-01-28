@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "01ce66cb-6011-43ac-a91f-2329c66a73e6": {
+                "id": 38806,
                 "identifier": "01ce66cb-6011-43ac-a91f-2329c66a73e6",
                 "image": "https://uploads.mangadex.org/covers/01ce66cb-6011-43ac-a91f-2329c66a73e6/db6c0569-8f85-44d4-a213-478f08e2a2a3.png",
                 "malId": 130238,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hajimete_no_suwa_san": {
+                "id": 68886,
                 "identifier": "hajimete_no_suwa_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36120/cover.jpg",
                 "malId": 130238,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jp986950": {
+                "id": 76143,
                 "identifier": "manga-jp986950",
                 "image": "https://avt.mkklcdnv6temp.com/27/q/22-1602827222.jpg",
                 "malId": 130238,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-jp986950"
             }
         },
-        "MangaFire": {
-            "hajimete-no-suwa-san.wrn7": {
-                "identifier": "hajimete-no-suwa-san.wrn7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/032be0766a4b77a57e7ec936531e96a6.jpg",
-                "malId": 130238,
-                "aniId": 123238,
-                "page": "MangaFire",
-                "title": "My First Times with Suwa-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hajimete-no-suwa-san.wrn7/"
-            },
-            "hajimete-no-suwa-sann.wrn7": {
-                "identifier": "hajimete-no-suwa-sann.wrn7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/032be0766a4b77a57e7ec936531e96a6.jpg",
-                "malId": 130238,
-                "aniId": 123238,
-                "page": "MangaFire",
-                "title": "My First Times with Suwa-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hajimete-no-suwa-sann.wrn7/"
-            }
-        },
         "MangaSee": {
             "my-first-times-with-suwa-san": {
+                "id": 166605,
                 "identifier": "my-first-times-with-suwa-san",
                 "image": "https://temp.compsci88.com/cover/My-First-Times-with-Suwa-san.jpg",
                 "malId": 130238,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyge2mmmtbrcgks1s5kvv": {
+                "id": 212772,
                 "identifier": "01j76xyge2mmmtbrcgks1s5kvv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGE2MMMTBRCGKS1S5KVV.jpg",
                 "malId": 130238,
@@ -86,6 +69,19 @@
                 "title": "My First Times With Suwa-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGE2MMMTBRCGKS1S5KVV"
+            }
+        },
+        "MangaFire": {
+            "wrn7": {
+                "id": 253459,
+                "identifier": "wrn7",
+                "image": "https://static.mangafire.to/4548/i/0/03/032be0766a4b77a57e7ec936531e96a6.jpg",
+                "malId": 130238,
+                "aniId": 123238,
+                "page": "MangaFire",
+                "title": "My First Times with Suwa-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hajimete-no-suwa-sann.wrn7"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b91383b0-c3a1-47fc-8dc4-64eec27ddb6e": {
+                "id": 10403,
                 "identifier": "b91383b0-c3a1-47fc-8dc4-64eec27ddb6e",
                 "image": "https://uploads.mangadex.org/covers/b91383b0-c3a1-47fc-8dc4-64eec27ddb6e/b8609555-e045-4063-b5d8-5c5c51c5ceef.jpg",
                 "malId": 70997,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "to-aru-nichijou-no-index-san": {
+                "id": 63997,
                 "identifier": "to-aru-nichijou-no-index-san",
                 "image": "https://temp.compsci88.com/cover/To-Aru-Nichijou-No-Index-San.jpg",
                 "malId": 70997,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/To-Aru-Nichijou-No-Index-San"
             }
         },
-        "MangaFire": {
-            "toaru-nichijou-no-index-san.wxpo": {
-                "identifier": "toaru-nichijou-no-index-san.wxpo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8ce06714332ffe785905fb43bd85088f.jpg",
-                "malId": 70997,
-                "aniId": 91305,
-                "page": "MangaFire",
-                "title": "Toaru Nichijou no Index-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toaru-nichijou-no-index-san.wxpo/"
-            },
-            "wxpo": {
-                "identifier": "wxpo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8ce06714332ffe785905fb43bd85088f.jpg",
-                "malId": 70997,
-                "aniId": 91305,
-                "page": "MangaFire",
-                "title": "Toaru Nichijou no Index-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toaru-nichijou-no-index-san.wxpo/"
-            }
-        },
         "Weebcentral": {
             "01j76xybf6tktg0hzh2gzf6fja": {
+                "id": 214398,
                 "identifier": "01j76xybf6tktg0hzh2gzf6fja",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBF6TKTG0HZH2GZF6FJA.jpg",
                 "malId": 70997,
@@ -62,6 +43,19 @@
                 "title": "To Aru Nichijou no Index-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBF6TKTG0HZH2GZF6FJA"
+            }
+        },
+        "MangaFire": {
+            "wxpo": {
+                "id": 239200,
+                "identifier": "wxpo",
+                "image": "https://static.mangafire.to/1aef/i/8/8c/8ce06714332ffe785905fb43bd85088f.jpg",
+                "malId": 70997,
+                "aniId": 91305,
+                "page": "MangaFire",
+                "title": "Toaru Nichijou no Index-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/toaru-nichijou-no-index-sann.wxpo"
             }
         },
         "Comick": {

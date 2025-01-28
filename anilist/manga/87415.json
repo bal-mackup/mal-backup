@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "34bb9d07-d5ee-40e5-9524-550230685ace": {
+                "id": 15809,
                 "identifier": "34bb9d07-d5ee-40e5-9524-550230685ace",
                 "image": "https://uploads.mangadex.org/covers/34bb9d07-d5ee-40e5-9524-550230685ace/bb894cbb-c0c0-4ade-82df-a4aa223734e7.jpg",
                 "malId": 95309,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sayounara-ryuusei-konnichiwa-jinsei": {
+                "id": 61403,
                 "identifier": "sayounara-ryuusei-konnichiwa-jinsei",
                 "image": "https://temp.compsci88.com/cover/Sayounara-Ryuusei-Konnichiwa-Jinsei.jpg",
                 "malId": 95309,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sayounara_ryuusei_konnichiwa_jinsei": {
+                "id": 63539,
                 "identifier": "sayounara_ryuusei_konnichiwa_jinsei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20357/cover.jpg",
                 "malId": 95309,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/sayounara_ryuusei_konnichiwa_jinsei/"
             },
             "sayonara_ryuusei_konnichiwa_jinsei_novel": {
+                "id": 85875,
                 "identifier": "sayonara_ryuusei_konnichiwa_jinsei_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43149/cover.jpg",
                 "malId": 95309,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-uk971619": {
+                "id": 72870,
                 "identifier": "manga-uk971619",
                 "image": "https://avt.mkklcdnv6temp.com/49/a/13-1583489650.jpg",
                 "malId": 95309,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-uk971619"
             },
             "manga-yr976100": {
+                "id": 80751,
                 "identifier": "manga-yr976100",
                 "image": "https://avt.mkklcdnv6temp.com/20/w/15-1583492210.jpg",
                 "malId": 95309,
@@ -74,40 +80,9 @@
                 "url": "https://manganato.com/manga-yr976100"
             }
         },
-        "MangaFire": {
-            "sayounara-ryuusei-konnichiwa-jinsei.rx0m": {
-                "identifier": "sayounara-ryuusei-konnichiwa-jinsei.rx0m",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/376065ca296bca9c495169a927b4fdec.jpg",
-                "malId": 95309,
-                "aniId": 87415,
-                "page": "MangaFire",
-                "title": "Good Bye Dragon Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sayounara-ryuusei-konnichiwa-jinsei.rx0m/"
-            },
-            "sayounara-ryuusei-konnichiwa-jinseii.rx0m": {
-                "identifier": "sayounara-ryuusei-konnichiwa-jinseii.rx0m",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/376065ca296bca9c495169a927b4fdec.jpg",
-                "malId": 95309,
-                "aniId": 87415,
-                "page": "MangaFire",
-                "title": "Good Bye Dragon Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sayounara-ryuusei-konnichiwa-jinseii.rx0m/"
-            },
-            "rx0m": {
-                "identifier": "rx0m",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/376065ca296bca9c495169a927b4fdec.jpg",
-                "malId": 95309,
-                "aniId": 87415,
-                "page": "MangaFire",
-                "title": "Good Bye Dragon Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sayounara-ryuusei-konnichiwa-jinseii.rx0m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybtycf7brn6zdgj7a55w": {
+                "id": 213295,
                 "identifier": "01j76xybtycf7brn6zdgj7a55w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBTYCF7BRN6ZDGJ7A55W.jpg",
                 "malId": 95309,
@@ -116,6 +91,19 @@
                 "title": "Goodbye, Dragon Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBTYCF7BRN6ZDGJ7A55W"
+            }
+        },
+        "MangaFire": {
+            "rx0m": {
+                "id": 228977,
+                "identifier": "rx0m",
+                "image": "https://static.mangafire.to/3507/i/3/37/376065ca296bca9c495169a927b4fdec.jpg",
+                "malId": 95309,
+                "aniId": 87415,
+                "page": "MangaFire",
+                "title": "Good Bye Dragon Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sayounara-ryuusei-konnichiwa-jinseii.rx0m"
             }
         },
         "Comick": {

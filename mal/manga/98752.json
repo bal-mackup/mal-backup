@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "308f0355-fedb-4861-a4e0-56fe35ae61d3": {
+                "id": 15668,
                 "identifier": "308f0355-fedb-4861-a4e0-56fe35ae61d3",
                 "image": "https://uploads.mangadex.org/covers/308f0355-fedb-4861-a4e0-56fe35ae61d3/62fe89d3-b6ae-4733-9a49-102b9fa775c3.png",
                 "malId": 98752,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "worlds-end-harem": {
+                "id": 55217,
                 "identifier": "worlds-end-harem",
                 "image": "https://temp.compsci88.com/cover/Worlds-End-Harem.jpg",
                 "malId": 98752,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "world_s_end_harem": {
+                "id": 56153,
                 "identifier": "world_s_end_harem",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20107/cover.jpg",
                 "malId": 98752,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uu971429": {
+                "id": 72857,
                 "identifier": "manga-uu971429",
                 "image": "https://avt.mkklcdnv6temp.com/45/j/13-1583489422.jpg",
                 "malId": 98752,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-uu971429"
             },
             "manga-ov991530": {
+                "id": 109017,
                 "identifier": "manga-ov991530",
                 "image": "https://avt.mkklcdnv6temp.com/20/r/26-1657100293.jpg",
                 "malId": 98752,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ov991530"
             }
         },
-        "MangaFire": {
-            "shuumatsu-no-harem.yqkq0": {
-                "identifier": "shuumatsu-no-harem.yqkq0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14d1dec8d4ed6de8995a84b0561cfe73.jpg",
-                "malId": 98752,
-                "aniId": 87260,
-                "page": "MangaFire",
-                "title": "World's End Harem",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-no-harem.yqkq0/"
-            },
-            "shuumatsu-no-harem-after-world.8xl5y": {
-                "identifier": "shuumatsu-no-harem-after-world.8xl5y",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/4761819f954d3acd82ac4719648f23a8.jpg",
-                "malId": 98752,
-                "aniId": 87260,
-                "page": "MangaFire",
-                "title": "World's End Harem After World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-no-harem-after-world.8xl5y/"
-            },
-            "shuumatsu-no-haremm.yqkq0": {
-                "identifier": "shuumatsu-no-haremm.yqkq0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14d1dec8d4ed6de8995a84b0561cfe73.jpg",
-                "malId": 98752,
-                "aniId": 87260,
-                "page": "MangaFire",
-                "title": "World's End Harem",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shuumatsu-no-haremm.yqkq0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybsbwcc58py13tnbvcgt": {
+                "id": 211870,
                 "identifier": "01j76xybsbwcc58py13tnbvcgt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBSBWCC58PY13TNBVCGT.jpg",
                 "malId": 98752,
@@ -106,6 +80,30 @@
                 "title": "World's End Harem",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBSBWCC58PY13TNBVCGT"
+            }
+        },
+        "MangaFire": {
+            "yqkq0": {
+                "id": 229429,
+                "identifier": "yqkq0",
+                "image": "https://static.mangafire.to/be45/i/1/14/14d1dec8d4ed6de8995a84b0561cfe73.jpg",
+                "malId": 98752,
+                "aniId": 87260,
+                "page": "MangaFire",
+                "title": "World's End Harem",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shuumatsu-no-haremm.yqkq0"
+            },
+            "8xl5y": {
+                "id": 240380,
+                "identifier": "8xl5y",
+                "image": "https://static.mangafire.to/0874/i/4/47/4761819f954d3acd82ac4719648f23a8.jpg",
+                "malId": 98752,
+                "aniId": 87260,
+                "page": "MangaFire",
+                "title": "World's End Harem After World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shuumatsu-no-harem-after-worldd.8xl5y"
             }
         },
         "Comick": {

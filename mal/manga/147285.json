@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "chasing-tails": {
+                "id": 90790,
                 "identifier": "chasing-tails",
                 "image": "https://temp.compsci88.com/cover/Chasing-Tails.jpg",
                 "malId": 147285,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-me990213": {
+                "id": 93046,
                 "identifier": "manga-me990213",
                 "image": "https://avt.mkklcdnv6temp.com/14/u/25-1638981034.jpg",
                 "malId": 147285,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-me990213"
             }
         },
-        "MangaFire": {
-            "chasing-tails.oo2nz": {
-                "identifier": "chasing-tails.oo2nz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f227a1b5cf7afe31942bfeb41ad19597.jpg",
-                "malId": 147285,
-                "aniId": 139639,
-                "page": "MangaFire",
-                "title": "Chasing Tails",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chasing-tails.oo2nz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf4v6s3tzp9b42bjs163": {
+                "id": 211511,
                 "identifier": "01j76xyf4v6s3tzp9b42bjs163",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF4V6S3TZP9B42BJS163.jpg",
                 "malId": 147285,
@@ -52,6 +43,32 @@
                 "title": "Chasing Tails",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF4V6S3TZP9B42BJS163"
+            }
+        },
+        "Mangadex": {
+            "a735a01c-368a-4ce2-9b72-337e0c5d5539": {
+                "id": 222664,
+                "identifier": "a735a01c-368a-4ce2-9b72-337e0c5d5539",
+                "image": "https://uploads.mangadex.org/covers/a735a01c-368a-4ce2-9b72-337e0c5d5539/13df79e8-19f7-404f-a2cf-0b646a0d2e63.jpg",
+                "malId": 147285,
+                "aniId": 139639,
+                "page": "Mangadex",
+                "title": "Chasing Tails",
+                "type": "manga",
+                "url": "https://mangadex.org/title/a735a01c-368a-4ce2-9b72-337e0c5d5539"
+            }
+        },
+        "MangaFire": {
+            "oo2nz": {
+                "id": 229905,
+                "identifier": "oo2nz",
+                "image": "https://static.mangafire.to/7c69/i/f/f2/f227a1b5cf7afe31942bfeb41ad19597.jpg",
+                "malId": 147285,
+                "aniId": 139639,
+                "page": "MangaFire",
+                "title": "Chasing Tails",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chasing-tailss.oo2nz"
             }
         },
         "Comick": {

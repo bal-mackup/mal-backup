@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "683a613e-8aa0-4b98-9a62-4138463d6a49": {
+                "id": 36989,
                 "identifier": "683a613e-8aa0-4b98-9a62-4138463d6a49",
                 "image": "https://uploads.mangadex.org/covers/683a613e-8aa0-4b98-9a62-4138463d6a49/b978dfad-e1e9-4019-96e3-f338f06050e7.jpg",
                 "malId": 129602,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "maid-san-wa-taberu-dake": {
+                "id": 56700,
                 "identifier": "maid-san-wa-taberu-dake",
                 "image": "https://temp.compsci88.com/cover/Maid-san-wa-Taberu-Dake.jpg",
                 "malId": 129602,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "maid_just_simply_love_to_eat": {
+                "id": 66141,
                 "identifier": "maid_just_simply_love_to_eat",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34522/cover.jpg",
                 "malId": 129602,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ix986206": {
+                "id": 79510,
                 "identifier": "manga-ix986206",
                 "image": "https://avt.mkklcdnv6temp.com/47/o/21-1597051499.jpg",
                 "malId": 129602,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ix986206"
             }
         },
-        "MangaFire": {
-            "maid-san-wa-taberu-dake.ll0nm": {
-                "identifier": "maid-san-wa-taberu-dake.ll0nm",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a0f44b59e8207cbae0734c8913a7416.jpg",
-                "malId": 129602,
-                "aniId": 114010,
-                "page": "MangaFire",
-                "title": "The Food Diary of Miss Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maid-san-wa-taberu-dake.ll0nm/"
-            },
-            "maid-san-wa-taberu-dakee.ll0nm": {
-                "identifier": "maid-san-wa-taberu-dakee.ll0nm",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a0f44b59e8207cbae0734c8913a7416.jpg",
-                "malId": 129602,
-                "aniId": 114010,
-                "page": "MangaFire",
-                "title": "The Food Diary of Miss Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maid-san-wa-taberu-dakee.ll0nm/"
-            }
-        },
         "Weebcentral": {
             "01j76xye5jawv4egdjdg9z734b": {
+                "id": 210219,
                 "identifier": "01j76xye5jawv4egdjdg9z734b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE5JAWV4EGDJDG9Z734B.jpg",
                 "malId": 129602,
@@ -86,6 +69,19 @@
                 "title": "The Food Diary of Miss Maid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE5JAWV4EGDJDG9Z734B"
+            }
+        },
+        "MangaFire": {
+            "ll0nm": {
+                "id": 224242,
+                "identifier": "ll0nm",
+                "image": "https://static.mangafire.to/58da/i/2/2a/2a0f44b59e8207cbae0734c8913a7416.jpg",
+                "malId": 129602,
+                "aniId": 114010,
+                "page": "MangaFire",
+                "title": "The Food Diary of Miss Maid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maid-san-wa-taberu-dakee.ll0nm"
             }
         },
         "Comick": {

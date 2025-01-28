@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "014374f6-c420-4361-9ee9-93675f7e36bb": {
+                "id": 17509,
                 "identifier": "014374f6-c420-4361-9ee9-93675f7e36bb",
-                "image": "https://uploads.mangadex.org/covers/014374f6-c420-4361-9ee9-93675f7e36bb/bd2da80f-2d77-4a51-a2e9-f4de5ec31010.jpg",
+                "image": "https://uploads.mangadex.org/covers/014374f6-c420-4361-9ee9-93675f7e36bb/996d1013-de42-4afe-b337-368144abc4b0.jpg",
                 "malId": 106963,
                 "aniId": 100304,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hadacamera": {
+                "id": 66609,
                 "identifier": "hadacamera",
                 "image": "https://temp.compsci88.com/cover/Hadacamera.jpg",
                 "malId": 106963,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hadacamera": {
+                "id": 72058,
                 "identifier": "hadacamera",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26607/cover.jpg",
                 "malId": 106963,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-aj977744": {
+                "id": 81245,
                 "identifier": "manga-aj977744",
                 "image": "https://avt.mkklcdnv6temp.com/49/b/15-1583493429.jpg",
                 "malId": 106963,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-aj977744"
             },
             "manga-xf1000862": {
+                "id": 182959,
                 "identifier": "manga-xf1000862",
                 "image": "https://avt.mkklcdnv6temp.com/fld/85/i/16-1733319530-nw.webp",
                 "malId": 106963,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.to/manga-xf1000862"
             }
         },
-        "MangaFire": {
-            "hadacamera.o1v5": {
-                "identifier": "hadacamera.o1v5",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf22214a10cd355f4826f86f794466d3.jpg",
-                "malId": 106963,
-                "aniId": 100304,
-                "page": "MangaFire",
-                "title": "HadaCamera",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hadacamera.o1v5/"
-            },
-            "hadacameraa.o1v5": {
-                "identifier": "hadacameraa.o1v5",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf22214a10cd355f4826f86f794466d3.jpg",
-                "malId": 106963,
-                "aniId": 100304,
-                "page": "MangaFire",
-                "title": "HadaCamera",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hadacameraa.o1v5/"
-            },
-            "o1v5": {
-                "identifier": "o1v5",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf22214a10cd355f4826f86f794466d3.jpg",
-                "malId": 106963,
-                "aniId": 100304,
-                "page": "MangaFire",
-                "title": "HadaCamera",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hadacameraa.o1v5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc93xme2fqrm9jfgesds": {
+                "id": 207750,
                 "identifier": "01j76xyc93xme2fqrm9jfgesds",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC93XME2FQRM9JFGESDS.jpg",
                 "malId": 106963,
@@ -106,6 +80,19 @@
                 "title": "Hadacamera",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC93XME2FQRM9JFGESDS"
+            }
+        },
+        "MangaFire": {
+            "o1v5": {
+                "id": 230281,
+                "identifier": "o1v5",
+                "image": "https://static.mangafire.to/9788/i/c/cf/cf22214a10cd355f4826f86f794466d3.jpg",
+                "malId": 106963,
+                "aniId": 100304,
+                "page": "MangaFire",
+                "title": "HadaCamera",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hadacameraa.o1v5"
             }
         },
         "Comick": {

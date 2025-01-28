@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a": {
+                "id": 10000,
                 "identifier": "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a",
                 "image": "https://uploads.mangadex.org/covers/bb865d49-0dd4-49b2-b2a8-6b609e3bba4a/31e1bd6b-b343-4147-96f9-edc966643251.jpg",
                 "malId": 67211,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ana-no-mujina": {
+                "id": 66319,
                 "identifier": "ana-no-mujina",
                 "image": "https://temp.compsci88.com/cover/Ana-No-Mujina.jpg",
                 "malId": 67211,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Ana-No-Mujina"
             }
         },
-        "MangaFire": {
-            "ana-no-mujina.9xo0": {
-                "identifier": "ana-no-mujina.9xo0",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70c76e1f96b3f33e2ae8f060fff8bd0a.jpg",
-                "malId": 67211,
-                "aniId": 86606,
-                "page": "MangaFire",
-                "title": "Ana no Mujina",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ana-no-mujina.9xo0/"
-            },
-            "9xo0": {
-                "identifier": "9xo0",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70c76e1f96b3f33e2ae8f060fff8bd0a.jpg",
-                "malId": 67211,
-                "aniId": 86606,
-                "page": "MangaFire",
-                "title": "Ana no Mujina",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ana-no-mujina.9xo0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybj8mms4ms67cfn4nvvs": {
+                "id": 206549,
                 "identifier": "01j76xybj8mms4ms67cfn4nvvs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJ8MMS4MS67CFN4NVVS.jpg",
                 "malId": 67211,
@@ -62,6 +43,19 @@
                 "title": "Ana no Mujina",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJ8MMS4MS67CFN4NVVS"
+            }
+        },
+        "MangaFire": {
+            "9xo0": {
+                "id": 262919,
+                "identifier": "9xo0",
+                "image": "https://static.mangafire.to/e07b/i/7/70/70c76e1f96b3f33e2ae8f060fff8bd0a.jpg",
+                "malId": 67211,
+                "aniId": 86606,
+                "page": "MangaFire",
+                "title": "Ana no Mujina",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ana-no-mujinaa.9xo0"
             }
         },
         "Comick": {

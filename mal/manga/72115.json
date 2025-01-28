@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ad962ad0-5d1d-4a3b-b2a2-3cd0d52b2c0c": {
+                "id": 10678,
                 "identifier": "ad962ad0-5d1d-4a3b-b2a2-3cd0d52b2c0c",
                 "image": "https://uploads.mangadex.org/covers/ad962ad0-5d1d-4a3b-b2a2-3cd0d52b2c0c/62d70af3-ca3f-4bea-a821-7ee608747b5f.jpg",
                 "malId": 72115,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kenkouki": {
+                "id": 71726,
                 "identifier": "kenkouki",
                 "image": "https://temp.compsci88.com/cover/Kenkouki.jpg",
                 "malId": 72115,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kenkouki_hi_no_kuni_daiteikokugun_kurenai_ikki_tousentai": {
+                "id": 86458,
                 "identifier": "kenkouki_hi_no_kuni_daiteikokugun_kurenai_ikki_tousentai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14082/cover.jpg",
                 "malId": 72115,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lh962890": {
+                "id": 90291,
                 "identifier": "manga-lh962890",
                 "image": "https://avt.mkklcdnv6temp.com/fld/82/b/4-1732764282-nw.webp",
                 "malId": 72115,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-lh962890"
             }
         },
-        "MangaFire": {
-            "kenkouki-hinokuni-daiteikokugun-kurenai-ikkitousentai.q16w": {
-                "identifier": "kenkouki-hinokuni-daiteikokugun-kurenai-ikkitousentai.q16w",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/dd842be1510c7a0e796f8ced81c9e323.jpg",
-                "malId": 72115,
-                "aniId": 85716,
-                "page": "MangaFire",
-                "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kenkouki-hinokuni-daiteikokugun-kurenai-ikkitousentai.q16w/"
-            },
-            "q16w": {
-                "identifier": "q16w",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/dd842be1510c7a0e796f8ced81c9e323.jpg",
-                "malId": 72115,
-                "aniId": 85716,
-                "page": "MangaFire",
-                "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kenkouki-hinokuni-daiteikokugun-kurenai-ikkitousentai.q16w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyapybb14p9582kzze9dp": {
+                "id": 207646,
                 "identifier": "01j76xyapybb14p9582kzze9dp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAPYBB14P9582KZZE9DP.jpg",
                 "malId": 72115,
@@ -86,6 +69,19 @@
                 "title": "Kenkouki - Hi no Kuni Daiteikokugun Kurenai Ikki Tousentai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAPYBB14P9582KZZE9DP"
+            }
+        },
+        "MangaFire": {
+            "q16w": {
+                "id": 260869,
+                "identifier": "q16w",
+                "image": "https://static.mangafire.to/3b9e/i/d/dd/dd842be1510c7a0e796f8ced81c9e323.jpg",
+                "malId": 72115,
+                "aniId": 85716,
+                "page": "MangaFire",
+                "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kenkouki-hinokuni-daiteikokugun-kurenai-ikkitousentaii.q16w"
             }
         },
         "Comick": {

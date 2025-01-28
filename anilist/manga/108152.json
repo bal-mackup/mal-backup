@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aafb046c-9de4-4c3d-990c-6d75b079c0b9": {
+                "id": 26453,
                 "identifier": "aafb046c-9de4-4c3d-990c-6d75b079c0b9",
                 "image": "https://uploads.mangadex.org/covers/aafb046c-9de4-4c3d-990c-6d75b079c0b9/ee278e22-9bfb-4b1b-9681-f8782b93e57b.jpg",
                 "malId": 136488,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "release-that-witch": {
+                "id": 56879,
                 "identifier": "release-that-witch",
                 "image": "https://temp.compsci88.com/cover/Release-That-Witch.jpg",
                 "malId": 136488,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "release_that_witch": {
+                "id": 61506,
                 "identifier": "release_that_witch",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29848/cover.jpg",
                 "malId": 136488,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-do980949": {
+                "id": 73093,
                 "identifier": "manga-do980949",
                 "image": "https://avt.mkklcdnv6temp.com/47/i/17-1583496971.jpg",
                 "malId": 136488,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-do980949"
             }
         },
-        "MangaFire": {
-            "release-that-witch.z1v0m": {
-                "identifier": "release-that-witch.z1v0m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9b/9bc1e89f76f339f211e5a3126f3401a0.jpg",
-                "malId": 136488,
-                "aniId": 108152,
-                "page": "MangaFire",
-                "title": "Release that Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/release-that-witch.z1v0m/"
-            },
-            "fangkai-nage-nuwu.z1v0m": {
-                "identifier": "fangkai-nage-nuwu.z1v0m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9b/9bc1e89f76f339f211e5a3126f3401a0.jpg",
-                "malId": 136488,
-                "aniId": 108152,
-                "page": "MangaFire",
-                "title": "Release that Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fangkai-nage-nuwu.z1v0m/"
-            },
-            "release-that-witchh.z1v0m": {
-                "identifier": "release-that-witchh.z1v0m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9b/9bc1e89f76f339f211e5a3126f3401a0.jpg",
-                "malId": 136488,
-                "aniId": 108152,
-                "page": "MangaFire",
-                "title": "Release that Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/release-that-witchh.z1v0m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycvy8a27b00qk4vnnhpa": {
+                "id": 207701,
                 "identifier": "01j76xycvy8a27b00qk4vnnhpa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCVY8A27B00QK4VNNHPA.jpg",
                 "malId": 136488,
@@ -96,6 +69,19 @@
                 "title": "Release That Witch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCVY8A27B00QK4VNNHPA"
+            }
+        },
+        "MangaFire": {
+            "z1v0m": {
+                "id": 226190,
+                "identifier": "z1v0m",
+                "image": "https://static.mangafire.to/0b1b/i/9/9b/9bc1e89f76f339f211e5a3126f3401a0.jpg",
+                "malId": 136488,
+                "aniId": 108152,
+                "page": "MangaFire",
+                "title": "Release that Witch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/release-that-witchh.z1v0m"
             }
         },
         "Comick": {

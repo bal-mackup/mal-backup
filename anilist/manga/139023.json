@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "24910475-a6f2-407c-b8ef-f1335aac494a": {
+                "id": 116829,
                 "identifier": "24910475-a6f2-407c-b8ef-f1335aac494a",
                 "image": "https://uploads.mangadex.org/covers/24910475-a6f2-407c-b8ef-f1335aac494a/0ce28aee-53a9-43cf-ae8b-83ff0657db14.jpg",
                 "malId": 146849,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rz994434": {
+                "id": 125371,
                 "identifier": "manga-rz994434",
                 "image": "https://avt.mkklcdnv6temp.com/37/x/28-1677120224.jpg",
                 "malId": 146849,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-rz994434"
             }
         },
-        "MangaFire": {
-            "watch-dogs-tokyo.lllnn": {
-                "identifier": "watch-dogs-tokyo.lllnn",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/2993b9501352033b31b290540fbc6929.jpg",
-                "malId": 146849,
-                "aniId": 139023,
-                "page": "MangaFire",
-                "title": "Watch Dogs Tokyo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watch-dogs-tokyo.lllnn/"
-            }
-        },
         "MangaSee": {
             "watch-dogs-tokyo": {
+                "id": 183206,
                 "identifier": "watch-dogs-tokyo",
                 "image": "https://temp.compsci88.com/cover/Watch-Dogs-Tokyo.jpg",
                 "malId": 146849,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh0q9j9em8ra2epw1aqg": {
+                "id": 211515,
                 "identifier": "01j76xyh0q9j9em8ra2epw1aqg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH0Q9J9EM8RA2EPW1AQG.jpg",
                 "malId": 146849,
@@ -64,6 +56,19 @@
                 "title": "Watch Dogs Tokyo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH0Q9J9EM8RA2EPW1AQG"
+            }
+        },
+        "MangaFire": {
+            "lllnn": {
+                "id": 230947,
+                "identifier": "lllnn",
+                "image": "https://static.mangafire.to/db4c/i/2/29/2993b9501352033b31b290540fbc6929.jpg",
+                "malId": 146849,
+                "aniId": 139023,
+                "page": "MangaFire",
+                "title": "Watch Dogs Tokyo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watch-dogs-tokyoo.lllnn"
             }
         },
         "Comick": {

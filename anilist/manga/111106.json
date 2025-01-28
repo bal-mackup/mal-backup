@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "658b5bde-e3a7-46b6-8334-909b7fcaa7e0": {
+                "id": 28797,
                 "identifier": "658b5bde-e3a7-46b6-8334-909b7fcaa7e0",
                 "image": "https://uploads.mangadex.org/covers/658b5bde-e3a7-46b6-8334-909b7fcaa7e0/4be2a30f-6966-4859-841e-a1bfe80778eb.jpg",
                 "malId": 149454,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-monsters-bride": {
+                "id": 88764,
                 "identifier": "the-monsters-bride",
                 "image": "https://temp.compsci88.com/cover/The-Monsters-Bride.jpg",
                 "malId": 149454,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/The-Monsters-Bride"
             }
         },
-        "MangaFire": {
-            "the-bride-of-a-monsterr.4q5qj": {
-                "identifier": "the-bride-of-a-monsterr.4q5qj",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fce2ac97e42d3358ecddcac9246dfbf7.jpg",
-                "malId": 149454,
-                "aniId": 111106,
-                "page": "MangaFire",
-                "title": "The Monster's Bride",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-bride-of-a-monsterr.4q5qj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf3n448xhk7yqc4cnbf0": {
+                "id": 212214,
                 "identifier": "01j76xyf3n448xhk7yqc4cnbf0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF3N448XHK7YQC4CNBF0.jpg",
                 "malId": 149454,
@@ -52,6 +43,19 @@
                 "title": "The Monster's Bride",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF3N448XHK7YQC4CNBF0"
+            }
+        },
+        "MangaFire": {
+            "4q5qj": {
+                "id": 228109,
+                "identifier": "4q5qj",
+                "image": "https://static.mangafire.to/7013/i/f/fc/fce2ac97e42d3358ecddcac9246dfbf7.jpg",
+                "malId": 149454,
+                "aniId": 111106,
+                "page": "MangaFire",
+                "title": "The Monster's Bride",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-bride-of-a-monsterr.4q5qj"
             }
         }
     },

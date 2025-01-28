@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "56b59484-a009-45d1-89bc-30d3974b5ae7": {
+                "id": 109684,
                 "identifier": "56b59484-a009-45d1-89bc-30d3974b5ae7",
                 "image": "https://uploads.mangadex.org/covers/56b59484-a009-45d1-89bc-30d3974b5ae7/0d3acaaa-d3f7-4f6c-a04d-6ab9af8327fb.jpg",
                 "malId": 146546,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pc993259": {
+                "id": 119763,
                 "identifier": "manga-pc993259",
                 "image": "https://avt.mkklcdnv6temp.com/40/t/27-1670921884.jpg",
                 "malId": 146546,
@@ -30,8 +32,9 @@
                 "url": "https://chapmanganato.com/manga-pc993259"
             },
             "manga-wq1000199": {
+                "id": 178999,
                 "identifier": "manga-wq1000199",
-                "image": "https://avt.mkklcdnv6temp.com/17/q/33-1704683144.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/59/y/16-1733317430-nw.webp",
                 "malId": 146546,
                 "aniId": 142948,
                 "page": "MangaNato",
@@ -40,30 +43,9 @@
                 "url": "https://chapmanganato.to/manga-wq1000199"
             }
         },
-        "MangaFire": {
-            "koi-wa-futago-de-warikirenai.m2oyv": {
-                "identifier": "koi-wa-futago-de-warikirenai.m2oyv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/42/4293b30592dbcdc6c2cf19d81925b25e.jpg",
-                "malId": 146546,
-                "aniId": 142948,
-                "page": "MangaFire",
-                "title": "Koi wa Futago de Warikirenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-wa-futago-de-warikirenai.m2oyv/"
-            },
-            "koi-wa-futago-de-warikirenaii.m2oyv": {
-                "identifier": "koi-wa-futago-de-warikirenaii.m2oyv",
-                "image": "https://static.mangafire.to/d502/i/4/42/4293b30592dbcdc6c2cf19d81925b25e.jpg",
-                "malId": 146546,
-                "aniId": 142948,
-                "page": "MangaFire",
-                "title": "Koi wa Futago de Warikirenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-wa-futago-de-warikirenaii.m2oyv/"
-            }
-        },
         "MangaSee": {
             "koi-wa-futago-de-warikirenai": {
+                "id": 195570,
                 "identifier": "koi-wa-futago-de-warikirenai",
                 "image": "https://temp.compsci88.com/cover/Koi-wa-Futago-de-Warikirenai.jpg",
                 "malId": 146546,
@@ -76,6 +58,7 @@
         },
         "Weebcentral": {
             "01j76xyhg82364zb09smtqwtf9": {
+                "id": 214042,
                 "identifier": "01j76xyhg82364zb09smtqwtf9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHG82364ZB09SMTQWTF9.jpg",
                 "malId": 146546,
@@ -84,6 +67,19 @@
                 "title": "Koi wa Futago de Warikirenai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHG82364ZB09SMTQWTF9"
+            }
+        },
+        "MangaFire": {
+            "m2oyv": {
+                "id": 223576,
+                "identifier": "m2oyv",
+                "image": "https://static.mangafire.to/d502/i/4/42/4293b30592dbcdc6c2cf19d81925b25e.jpg",
+                "malId": 146546,
+                "aniId": 142948,
+                "page": "MangaFire",
+                "title": "Koi wa Futago de Warikirenai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koi-wa-futago-de-warikirenaii.m2oyv"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "30bb357a-ded5-4b53-a4da-9babb4048f4a": {
+                "id": 18204,
                 "identifier": "30bb357a-ded5-4b53-a4da-9babb4048f4a",
                 "image": "https://uploads.mangadex.org/covers/30bb357a-ded5-4b53-a4da-9babb4048f4a/8a241afa-19a6-4b33-b11e-ee72f76365a0.jpg",
                 "malId": 107808,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "iron-ghost-no-shoujo": {
+                "id": 67892,
                 "identifier": "iron-ghost-no-shoujo",
                 "image": "https://temp.compsci88.com/cover/Iron-Ghost-No-Shoujo.jpg",
                 "malId": 107808,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ao977423": {
+                "id": 96576,
                 "identifier": "manga-ao977423",
                 "image": "https://avt.mkklcdnv6temp.com/fld/40/f/9-1732789551-nw.webp",
                 "malId": 107808,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ao977423"
             }
         },
-        "MangaFire": {
-            "iron-ghost-no-shoujo.kkk66": {
-                "identifier": "iron-ghost-no-shoujo.kkk66",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21db2d7c537a554715def76dd95199dd.jpg",
-                "malId": 107808,
-                "aniId": 101559,
-                "page": "MangaFire",
-                "title": "Iron Ghost no Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iron-ghost-no-shoujo.kkk66/"
-            },
-            "kkk66": {
-                "identifier": "kkk66",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21db2d7c537a554715def76dd95199dd.jpg",
-                "malId": 107808,
-                "aniId": 101559,
-                "page": "MangaFire",
-                "title": "Iron Ghost no Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/iron-ghost-no-shoujo.kkk66/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc74nm41cwm7qz7tbrc0": {
+                "id": 207833,
                 "identifier": "01j76xyc74nm41cwm7qz7tbrc0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC74NM41CWM7QZ7TBRC0.jpg",
                 "malId": 107808,
@@ -74,6 +56,19 @@
                 "title": "Iron Ghost no Shoujo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC74NM41CWM7QZ7TBRC0"
+            }
+        },
+        "MangaFire": {
+            "kkk66": {
+                "id": 257060,
+                "identifier": "kkk66",
+                "image": "https://static.mangafire.to/858a/i/2/21/21db2d7c537a554715def76dd95199dd.jpg",
+                "malId": 107808,
+                "aniId": 101559,
+                "page": "MangaFire",
+                "title": "Iron Ghost no Shoujo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/iron-ghost-no-shoujoo.kkk66"
             }
         },
         "Comick": {

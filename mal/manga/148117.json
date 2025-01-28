@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-prenup": {
+                "id": 100820,
                 "identifier": "the-prenup",
                 "image": "https://temp.compsci88.com/cover/The-Prenup.jpg",
                 "malId": 148117,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "996616d6-9cd1-44bb-af93-10f370bf6ae8": {
+                "id": 107306,
                 "identifier": "996616d6-9cd1-44bb-af93-10f370bf6ae8",
                 "image": "https://uploads.mangadex.org/covers/996616d6-9cd1-44bb-af93-10f370bf6ae8/33bedf33-0f15-430f-8f8d-af2fa22410c8.jpg",
                 "malId": 148117,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_prenup": {
+                "id": 107308,
                 "identifier": "the_prenup",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41739/cover.jpg",
                 "malId": 148117,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/the_prenup/"
             }
         },
-        "MangaFire": {
-            "a-prenuptial-contract.n3vy8": {
-                "identifier": "a-prenuptial-contract.n3vy8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6b/6b17370c16b828eae64620917e3d25dd.jpg",
-                "malId": 148117,
-                "aniId": 146419,
-                "page": "MangaFire",
-                "title": "The Prenup",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-prenuptial-contract.n3vy8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfct71p9hsxyvcwzwq44": {
+                "id": 213015,
                 "identifier": "01j76xyfct71p9hsxyvcwzwq44",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCT71P9HSXYVCWZWQ44.jpg",
                 "malId": 148117,
@@ -64,6 +56,19 @@
                 "title": "The Prenup",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCT71P9HSXYVCWZWQ44"
+            }
+        },
+        "MangaFire": {
+            "n3vy8": {
+                "id": 243220,
+                "identifier": "n3vy8",
+                "image": "https://static.mangafire.to/fb90/i/6/6b/6b17370c16b828eae64620917e3d25dd.jpg",
+                "malId": 148117,
+                "aniId": 146419,
+                "page": "MangaFire",
+                "title": "The Prenup",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-prenuptial-contractt.n3vy8"
             }
         },
         "Comick": {

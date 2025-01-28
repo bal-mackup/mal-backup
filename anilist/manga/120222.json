@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e4d4eef1-3d4f-4d52-9044-31e46016dc77": {
+                "id": 36200,
                 "identifier": "e4d4eef1-3d4f-4d52-9044-31e46016dc77",
                 "image": "https://uploads.mangadex.org/covers/e4d4eef1-3d4f-4d52-9044-31e46016dc77/ee38ff17-b410-4f2e-84a5-ca6fa02c1c49.jpg",
                 "malId": 147694,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "the_twin_siblings_new_life": {
+                "id": 56525,
                 "identifier": "the_twin_siblings_new_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34224/cover.jpg",
                 "malId": 147694,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-twin-siblings-new-life": {
+                "id": 66957,
                 "identifier": "the-twin-siblings-new-life",
                 "image": "https://temp.compsci88.com/cover/The-Twin-Siblings-New-Life.jpg",
                 "malId": 147694,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ij985618": {
+                "id": 75172,
                 "identifier": "manga-ij985618",
                 "image": "https://avt.mkklcdnv6temp.com/23/t/21-1591035760.jpg",
                 "malId": 147694,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ij985618"
             }
         },
-        "MangaFire": {
-            "the-twin-siblings-new-life.mqmmv": {
-                "identifier": "the-twin-siblings-new-life.mqmmv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/27e3087bb9dc47aa9f29f84c2ffe8a99.jpg",
-                "malId": 147694,
-                "aniId": 120222,
-                "page": "MangaFire",
-                "title": "The Twins' New Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-twin-siblings-new-life.mqmmv/"
-            },
-            "the-twin-siblings-new-lifee.mqmmv": {
-                "identifier": "the-twin-siblings-new-lifee.mqmmv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/27e3087bb9dc47aa9f29f84c2ffe8a99.jpg",
-                "malId": 147694,
-                "aniId": 120222,
-                "page": "MangaFire",
-                "title": "The Twins' New Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-twin-siblings-new-lifee.mqmmv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeamm2fryt2s6c51f0d4": {
+                "id": 210739,
                 "identifier": "01j76xyeamm2fryt2s6c51f0d4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEAMM2FRYT2S6C51F0D4.jpg",
                 "malId": 147694,
@@ -86,6 +69,19 @@
                 "title": "The Twins' New Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEAMM2FRYT2S6C51F0D4"
+            }
+        },
+        "MangaFire": {
+            "mqmmv": {
+                "id": 229051,
+                "identifier": "mqmmv",
+                "image": "https://static.mangafire.to/e911/i/2/27/27e3087bb9dc47aa9f29f84c2ffe8a99.jpg",
+                "malId": 147694,
+                "aniId": 120222,
+                "page": "MangaFire",
+                "title": "The Twins' New Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-twin-siblings-new-lifee.mqmmv"
             }
         },
         "Comick": {

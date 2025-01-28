@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "962ed908-bc1b-4592-a08d-63c2ed82132c": {
+                "id": 29792,
                 "identifier": "962ed908-bc1b-4592-a08d-63c2ed82132c",
                 "image": "https://uploads.mangadex.org/covers/962ed908-bc1b-4592-a08d-63c2ed82132c/7aa32820-6ae5-4724-9220-7631a656dd6d.jpg",
                 "malId": 121363,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fb982558": {
+                "id": 75185,
                 "identifier": "manga-fb982558",
                 "image": "https://avt.mkklcdnv6temp.com/6/c/19-1583499313.jpg",
                 "malId": 121363,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-fb982558"
             }
         },
-        "MangaFire": {
-            "hariko-no-otome.rlz1y": {
-                "identifier": "hariko-no-otome.rlz1y",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/801ddeae95ab6b1c32cdb083516ef1f5.jpg",
-                "malId": 121363,
-                "aniId": 121393,
-                "page": "MangaFire",
-                "title": "Maiden of the Needle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hariko-no-otome.rlz1y/"
-            }
-        },
         "MangaSee": {
             "maiden-of-the-needle": {
+                "id": 170170,
                 "identifier": "maiden-of-the-needle",
                 "image": "https://temp.compsci88.com/cover/Maiden-of-the-Needle.jpg",
                 "malId": 121363,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyggyreqgz957mmy6094d": {
+                "id": 212162,
                 "identifier": "01j76xyggyreqgz957mmy6094d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGGYREQGZ957MMY6094D.jpg",
                 "malId": 121363,
@@ -64,6 +56,19 @@
                 "title": "Maiden of the Needle",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGGYREQGZ957MMY6094D"
+            }
+        },
+        "MangaFire": {
+            "rlz1y": {
+                "id": 252069,
+                "identifier": "rlz1y",
+                "image": "https://static.mangafire.to/96dd/i/8/80/801ddeae95ab6b1c32cdb083516ef1f5.jpg",
+                "malId": 121363,
+                "aniId": 121393,
+                "page": "MangaFire",
+                "title": "Maiden of the Needle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hariko-no-otomee.rlz1y"
             }
         },
         "Comick": {

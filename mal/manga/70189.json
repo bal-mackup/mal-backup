@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e5148679-29de-4fff-b1a1-c77c44c41d5a": {
+                "id": 11961,
                 "identifier": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
                 "image": "https://uploads.mangadex.org/covers/e5148679-29de-4fff-b1a1-c77c44c41d5a/09c3fc91-1153-4e18-ae51-cf3ea3dbe507.jpg",
                 "malId": 70189,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "seikai-no-monshou-y-o-n-e-m-u-r-a-kouichirou": {
+                "id": 57134,
                 "identifier": "seikai-no-monshou-y-o-n-e-m-u-r-a-kouichirou",
                 "image": "https://temp.compsci88.com/cover/Seikai-No-Monshou-Y-O-N-E-M-U-R-A-Kouichirou.jpg",
                 "malId": 70189,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-le962461": {
+                "id": 93692,
                 "identifier": "manga-le962461",
                 "image": "https://avt.mkklcdnv6temp.com/fld/69/p/4-1732763518-nw.webp",
                 "malId": 70189,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-le962461"
             }
         },
-        "MangaFire": {
-            "crest-of-the-stars.6v99p": {
-                "identifier": "crest-of-the-stars.6v99p",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b569fbf2d441d8b83339bcf630396f82.jpg",
-                "malId": 70189,
-                "aniId": 91126,
-                "page": "MangaFire",
-                "title": "Crest of the Stars",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/crest-of-the-stars.6v99p/"
-            },
-            "crest-of-the-starss.6v99p": {
-                "identifier": "crest-of-the-starss.6v99p",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b569fbf2d441d8b83339bcf630396f82.jpg",
-                "malId": 70189,
-                "aniId": 91126,
-                "page": "MangaFire",
-                "title": "Crest of the Stars",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/crest-of-the-starss.6v99p/"
-            },
-            "6v99p": {
-                "identifier": "6v99p",
-                "image": "https://static.mangafire.to/2602/i/b/b5/b569fbf2d441d8b83339bcf630396f82.jpg",
-                "malId": 70189,
-                "aniId": 91126,
-                "page": "MangaFire",
-                "title": "Crest of the Stars",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/crest-of-the-starss.6v99p"
-            }
-        },
         "Weebcentral": {
             "01j76xyas41cwp5xzvb9sswq07": {
+                "id": 207662,
                 "identifier": "01j76xyas41cwp5xzvb9sswq07",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAS41CWP5XZVB9SSWQ07.jpg",
                 "malId": 70189,
@@ -84,6 +56,19 @@
                 "title": "Seikai no Monshou (YONEMURA Kouichirou)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAS41CWP5XZVB9SSWQ07"
+            }
+        },
+        "MangaFire": {
+            "6v99p": {
+                "id": 225327,
+                "identifier": "6v99p",
+                "image": "https://static.mangafire.to/2602/i/b/b5/b569fbf2d441d8b83339bcf630396f82.jpg",
+                "malId": 70189,
+                "aniId": 91126,
+                "page": "MangaFire",
+                "title": "Crest of the Stars",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/crest-of-the-starss.6v99p"
             }
         },
         "Comick": {

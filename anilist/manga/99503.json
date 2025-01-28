@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d60051c2-79de-4c72-821c-a2be3fc44580": {
+                "id": 17971,
                 "identifier": "d60051c2-79de-4c72-821c-a2be3fc44580",
                 "image": "https://uploads.mangadex.org/covers/d60051c2-79de-4c72-821c-a2be3fc44580/00734578-76aa-4c26-9002-dbcb80768334.jpg",
                 "malId": 108242,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cylcia--code": {
+                "id": 61183,
                 "identifier": "cylcia--code",
                 "image": "https://temp.compsci88.com/cover/Cylcia--Code.jpg",
                 "malId": 108242,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "cylcia_code": {
+                "id": 62281,
                 "identifier": "cylcia_code",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25863/cover.jpg",
                 "malId": 108242,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zd977112": {
+                "id": 83005,
                 "identifier": "manga-zd977112",
                 "image": "https://avt.mkklcdnv6temp.com/35/p/15-1583492855.jpg",
                 "malId": 108242,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zd977112"
             }
         },
-        "MangaFire": {
-            "cylciacode.yk0ox": {
-                "identifier": "cylciacode.yk0ox",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb5ee2e569d731a43e89e5e5f27369a5.jpg",
-                "malId": 108242,
-                "aniId": 99503,
-                "page": "MangaFire",
-                "title": "Cylcia=Code",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cylciacode.yk0ox/"
-            },
-            "cylciacodee.yk0ox": {
-                "identifier": "cylciacodee.yk0ox",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb5ee2e569d731a43e89e5e5f27369a5.jpg",
-                "malId": 108242,
-                "aniId": 99503,
-                "page": "MangaFire",
-                "title": "Cylcia=Code",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cylciacodee.yk0ox/"
-            },
-            "yk0ox": {
-                "identifier": "yk0ox",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb5ee2e569d731a43e89e5e5f27369a5.jpg",
-                "malId": 108242,
-                "aniId": 99503,
-                "page": "MangaFire",
-                "title": "Cylcia=Code",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cylciacodee.yk0ox/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8qgx5zbx7gjhm96z4w": {
+                "id": 214460,
                 "identifier": "01j76xyc8qgx5zbx7gjhm96z4w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8QGX5ZBX7GJHM96Z4W.jpg",
                 "malId": 108242,
@@ -96,6 +69,19 @@
                 "title": "Cylcia = Code",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC8QGX5ZBX7GJHM96Z4W"
+            }
+        },
+        "MangaFire": {
+            "yk0ox": {
+                "id": 226322,
+                "identifier": "yk0ox",
+                "image": "https://static.mangafire.to/d880/i/b/bb/bb5ee2e569d731a43e89e5e5f27369a5.jpg",
+                "malId": 108242,
+                "aniId": 99503,
+                "page": "MangaFire",
+                "title": "Cylcia=Code",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cylciacodee.yk0ox"
             }
         },
         "Comick": {

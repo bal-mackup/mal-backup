@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "808fdeae-5ea2-4839-8f95-8183dfdddddc": {
+                "id": 9681,
                 "identifier": "808fdeae-5ea2-4839-8f95-8183dfdddddc",
                 "image": "https://uploads.mangadex.org/covers/808fdeae-5ea2-4839-8f95-8183dfdddddc/ed9df415-f578-454a-98d5-c82cbb88155a.jpg",
                 "malId": 61097,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "requiem-of-the-rose-king": {
+                "id": 58465,
                 "identifier": "requiem-of-the-rose-king",
                 "image": "https://temp.compsci88.com/cover/Requiem-of-the-Rose-King.jpg",
                 "malId": 61097,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gi983717": {
+                "id": 85320,
                 "identifier": "manga-gi983717",
                 "image": "https://avt.mkklcdnv6temp.com/49/c/19-1583500960.jpg",
                 "malId": 61097,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "baraou_no_souretsu": {
+                "id": 95595,
                 "identifier": "baraou_no_souretsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13290/cover.jpg",
                 "malId": 61097,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/baraou_no_souretsu/"
             }
         },
-        "MangaFire": {
-            "baraou-no-souretsu.z71m": {
-                "identifier": "baraou-no-souretsu.z71m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f7da622fe0718e7f8da72a786287f33.jpg",
-                "malId": 61097,
-                "aniId": 85296,
-                "page": "MangaFire",
-                "title": "Requiem of the Rose King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/baraou-no-souretsu.z71m/"
-            },
-            "baraou-no-souretsuu.z71m": {
-                "identifier": "baraou-no-souretsuu.z71m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f7da622fe0718e7f8da72a786287f33.jpg",
-                "malId": 61097,
-                "aniId": 85296,
-                "page": "MangaFire",
-                "title": "Requiem of the Rose King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/baraou-no-souretsuu.z71m/"
-            },
-            "z71m": {
-                "identifier": "z71m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f7da622fe0718e7f8da72a786287f33.jpg",
-                "malId": 61097,
-                "aniId": 85296,
-                "page": "MangaFire",
-                "title": "Requiem of the Rose King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/baraou-no-souretsuu.z71m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd27mb0295446ck8bvyt": {
+                "id": 209312,
                 "identifier": "01j76xyd27mb0295446ck8bvyt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD27MB0295446CK8BVYT.jpg",
                 "malId": 61097,
@@ -96,6 +69,19 @@
                 "title": "Requiem of the Rose King",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD27MB0295446CK8BVYT"
+            }
+        },
+        "MangaFire": {
+            "z71m": {
+                "id": 230597,
+                "identifier": "z71m",
+                "image": "https://static.mangafire.to/8b4c/i/1/1f/1f7da622fe0718e7f8da72a786287f33.jpg",
+                "malId": 61097,
+                "aniId": 85296,
+                "page": "MangaFire",
+                "title": "Requiem of the Rose King",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/baraou-no-souretsuu.z71m"
             }
         },
         "Comick": {

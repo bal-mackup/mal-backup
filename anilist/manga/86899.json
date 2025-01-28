@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a6640750-c565-4f34-8272-96639b36bdd1": {
+                "id": 12827,
                 "identifier": "a6640750-c565-4f34-8272-96639b36bdd1",
                 "image": "https://uploads.mangadex.org/covers/a6640750-c565-4f34-8272-96639b36bdd1/448e0004-b9bf-4535-b710-0b28835d8ccb.jpg",
                 "malId": 81971,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mahou-shoujo-ore": {
+                "id": 66953,
                 "identifier": "mahou-shoujo-ore",
                 "image": "https://temp.compsci88.com/cover/Mahou-Shoujo-Ore.jpg",
                 "malId": 81971,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Mahou-Shoujo-Ore"
             }
         },
-        "MangaFire": {
-            "mahou-shoujo-ore.xr3n8": {
-                "identifier": "mahou-shoujo-ore.xr3n8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b6c1a92393b5b33cbd0330461141142.jpg",
-                "malId": 81971,
-                "aniId": 86899,
-                "page": "MangaFire",
-                "title": "Mahou Shoujo Ore",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-ore.xr3n8/"
-            },
-            "xr3n8": {
-                "identifier": "xr3n8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b6c1a92393b5b33cbd0330461141142.jpg",
-                "malId": 81971,
-                "aniId": 86899,
-                "page": "MangaFire",
-                "title": "Mahou Shoujo Ore",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-ore.xr3n8/"
-            }
-        },
         "Weebcentral": {
             "01j76xybfdnpncyjen3vvxebpc": {
+                "id": 210631,
                 "identifier": "01j76xybfdnpncyjen3vvxebpc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBFDNPNCYJEN3VVXEBPC.jpg",
                 "malId": 81971,
@@ -62,6 +43,19 @@
                 "title": "Magical Girl Ore",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBFDNPNCYJEN3VVXEBPC"
+            }
+        },
+        "MangaFire": {
+            "xr3n8": {
+                "id": 257501,
+                "identifier": "xr3n8",
+                "image": "https://static.mangafire.to/bbe8/i/5/5b/5b6c1a92393b5b33cbd0330461141142.jpg",
+                "malId": 81971,
+                "aniId": 86899,
+                "page": "MangaFire",
+                "title": "Mahou Shoujo Ore",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahou-shoujo-oree.xr3n8"
             }
         },
         "Comick": {

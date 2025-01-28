@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "31bdd11c-7a69-4c6c-97fb-a652d1d0840c": {
+                "id": 18739,
                 "identifier": "31bdd11c-7a69-4c6c-97fb-a652d1d0840c",
                 "image": "https://uploads.mangadex.org/covers/31bdd11c-7a69-4c6c-97fb-a652d1d0840c/45e450bc-9f5f-4399-8c6b-db7fac3655bd.jpg",
                 "malId": 111033,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "soukyuu-no-ariadne": {
+                "id": 58868,
                 "identifier": "soukyuu-no-ariadne",
                 "image": "https://temp.compsci88.com/cover/Soukyuu-No-Ariadne.jpg",
                 "malId": 111033,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "soukyuu_no_ariadne": {
+                "id": 66278,
                 "identifier": "soukyuu_no_ariadne",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26994/cover.jpg",
                 "malId": 111033,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-by978681": {
+                "id": 74686,
                 "identifier": "manga-by978681",
                 "image": "https://avt.mkklcdnv6temp.com/13/k/16-1583493956.jpg",
                 "malId": 111033,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-by978681"
             }
         },
-        "MangaFire": {
-            "soukyuu-no-ariadne.n3kjj": {
-                "identifier": "soukyuu-no-ariadne.n3kjj",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/7b5231276511cb5012a7b20b5265a57e.jpg",
-                "malId": 111033,
-                "aniId": 100832,
-                "page": "MangaFire",
-                "title": "Ariadne in the Blue Sky.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soukyuu-no-ariadne.n3kjj/"
-            },
-            "n3kjj": {
-                "identifier": "n3kjj",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/7b5231276511cb5012a7b20b5265a57e.jpg",
-                "malId": 111033,
-                "aniId": 100832,
-                "page": "MangaFire",
-                "title": "Ariadne in the Blue Sky.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soukyuu-no-ariadne.n3kjj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfdatgtbyzvtmda51nd": {
+                "id": 214097,
                 "identifier": "01j76xycfdatgtbyzvtmda51nd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFDATGTBYZVTMDA51ND.jpg",
                 "malId": 111033,
@@ -86,6 +69,19 @@
                 "title": "Soukyuu no Ariadne",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFDATGTBYZVTMDA51ND"
+            }
+        },
+        "MangaFire": {
+            "n3kjj": {
+                "id": 262364,
+                "identifier": "n3kjj",
+                "image": "https://static.mangafire.to/c321/i/7/7b/7b5231276511cb5012a7b20b5265a57e.jpg",
+                "malId": 111033,
+                "aniId": 100832,
+                "page": "MangaFire",
+                "title": "Ariadne in the Blue Sky.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soukyuu-no-ariadnee.n3kjj"
             }
         },
         "Comick": {

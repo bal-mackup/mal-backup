@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a43fc4d1-efb3-41a9-b54b-f58b8fb3ec82": {
+                "id": 22408,
                 "identifier": "a43fc4d1-efb3-41a9-b54b-f58b8fb3ec82",
                 "image": "https://uploads.mangadex.org/covers/a43fc4d1-efb3-41a9-b54b-f58b8fb3ec82/874f4c46-4922-479a-99ba-1847c77178c2.jpg",
                 "malId": 114829,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "saotome_shimai_ha_manga_no_tame_nara": {
+                "id": 54208,
                 "identifier": "saotome_shimai_ha_manga_no_tame_nara",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28080/cover.jpg",
                 "malId": 114829,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "saotome-shimai-wa-manga-no-tame-nara": {
+                "id": 54809,
                 "identifier": "saotome-shimai-wa-manga-no-tame-nara",
                 "image": "https://temp.compsci88.com/cover/Saotome-Shimai-Wa-Manga-No-Tame-Nara.jpg",
                 "malId": 114829,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cm979521": {
+                "id": 73055,
                 "identifier": "manga-cm979521",
                 "image": "https://avt.mkklcdnv6temp.com/44/p/16-1583495073.jpg",
                 "malId": 114829,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cm979521"
             }
         },
-        "MangaFire": {
-            "saotome-shimai-wa-manga-no-tame-nara.zlj6w": {
-                "identifier": "saotome-shimai-wa-manga-no-tame-nara.zlj6w",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b70161bb679b0c0911e1bae0f851d65.jpg",
-                "malId": 114829,
-                "aniId": 103621,
-                "page": "MangaFire",
-                "title": "Saotome Shimai wa Manga no Tame nara!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saotome-shimai-wa-manga-no-tame-nara.zlj6w/"
-            },
-            "saotome-shimai-wa-manga-no-tame-naraa.zlj6w": {
-                "identifier": "saotome-shimai-wa-manga-no-tame-naraa.zlj6w",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b70161bb679b0c0911e1bae0f851d65.jpg",
-                "malId": 114829,
-                "aniId": 103621,
-                "page": "MangaFire",
-                "title": "Saotome Shimai wa Manga no Tame nara!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saotome-shimai-wa-manga-no-tame-naraa.zlj6w/"
-            }
-        },
         "Weebcentral": {
             "01j76xycmkdr5ngmv69hx6tacm": {
+                "id": 206941,
                 "identifier": "01j76xycmkdr5ngmv69hx6tacm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCMKDR5NGMV69HX6TACM.jpg",
                 "malId": 114829,
@@ -86,6 +69,19 @@
                 "title": "Saotome Shimai Wa Manga no Tame Nara!?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCMKDR5NGMV69HX6TACM"
+            }
+        },
+        "MangaFire": {
+            "zlj6w": {
+                "id": 229454,
+                "identifier": "zlj6w",
+                "image": "https://static.mangafire.to/c096/i/1/1b/1b70161bb679b0c0911e1bae0f851d65.jpg",
+                "malId": 114829,
+                "aniId": 103621,
+                "page": "MangaFire",
+                "title": "Saotome Shimai wa Manga no Tame nara!?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saotome-shimai-wa-manga-no-tame-naraa.zlj6w"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7143d818-9512-49e8-b94e-751286898508": {
+                "id": 33947,
                 "identifier": "7143d818-9512-49e8-b94e-751286898508",
                 "image": "https://uploads.mangadex.org/covers/7143d818-9512-49e8-b94e-751286898508/c6a69897-1a7b-47e8-b7e7-cb3b8345903b.jpg",
                 "malId": 102716,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-iw986231": {
+                "id": 86853,
                 "identifier": "manga-iw986231",
                 "image": "https://avt.mkklcdnv6temp.com/48/o/21-1597331295.jpg",
                 "malId": 102716,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hannari-girori-no-yoriko-san": {
+                "id": 86854,
                 "identifier": "hannari-girori-no-yoriko-san",
                 "image": "https://temp.compsci88.com/cover/Hannari-Girori-no-Yoriko-san.jpg",
                 "malId": 102716,
@@ -44,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xye50nzayycsctkhf59hr": {
+                "id": 208420,
                 "identifier": "01j76xye50nzayycsctkhf59hr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE50NZAYYCSCTKHF59HR.jpg",
                 "malId": 102716,
@@ -56,6 +60,7 @@
         },
         "MangaFox": {
             "hannari_girori_no_yoriko_san": {
+                "id": 222621,
                 "identifier": "hannari_girori_no_yoriko_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35136/cover.jpg",
                 "malId": 102716,
@@ -66,13 +71,26 @@
                 "url": "https://fanfox.net/manga/hannari_girori_no_yoriko_san/"
             }
         },
+        "MangaFire": {
+            "yqpxz": {
+                "id": 266092,
+                "identifier": "yqpxz",
+                "image": "https://static.mangafire.to/eeb3/i/c/c2/c2aad4936616d4b3cde8378aeddb8166.jpg",
+                "malId": 102716,
+                "aniId": 116596,
+                "page": "MangaFire",
+                "title": "Hannari Girori no Yoriko-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hannari-girori-no-yoriko-sann.yqpxz"
+            }
+        },
         "Comick": {
             "dnFTO5M4": {
                 "identifier": "dnFTO5M4",
                 "malId": 102716,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Yoriko from Hannari Girori",
+                "title": "Hannari Girori no Yoriko-san",
                 "url": "https://comick.io/comic/hannari-girori-no-yoriko-san",
                 "aniId": 116596
             }

@@ -6,20 +6,9 @@
     "total": 7,
     "image": "https://cdn.myanimelist.net/images/manga/2/254346.jpg",
     "Sites": {
-        "MangaFire": {
-            "rokudenashi-to-ore.prv29": {
-                "identifier": "rokudenashi-to-ore.prv29",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1765008375373ade75f738aa97cc014.jpg",
-                "malId": 143120,
-                "aniId": 143914,
-                "page": "MangaFire",
-                "title": "Troublesome Man and Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rokudenashi-to-ore.prv29/"
-            }
-        },
         "Mangadex": {
             "a377c08b-4cb7-4693-9e87-8e20a27348a2": {
+                "id": 172898,
                 "identifier": "a377c08b-4cb7-4693-9e87-8e20a27348a2",
                 "image": "https://uploads.mangadex.org/covers/a377c08b-4cb7-4693-9e87-8e20a27348a2/e895560d-1e27-4577-83c8-c19513533812.jpg",
                 "malId": 143120,
@@ -28,6 +17,19 @@
                 "title": "Rokudenashi to Ore",
                 "type": "manga",
                 "url": "https://mangadex.org/title/a377c08b-4cb7-4693-9e87-8e20a27348a2"
+            }
+        },
+        "MangaFire": {
+            "prv29": {
+                "id": 243270,
+                "identifier": "prv29",
+                "image": "https://static.mangafire.to/5d87/i/c/c1/c1765008375373ade75f738aa97cc014.jpg",
+                "malId": 143120,
+                "aniId": 143914,
+                "page": "MangaFire",
+                "title": "Troublesome Man and Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rokudenashi-to-oree.prv29"
             }
         },
         "Comick": {

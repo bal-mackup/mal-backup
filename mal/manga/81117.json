@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "59f47645-66a9-443e-8228-788313c3ae3c": {
+                "id": 11777,
                 "identifier": "59f47645-66a9-443e-8228-788313c3ae3c",
                 "image": "https://uploads.mangadex.org/covers/59f47645-66a9-443e-8228-788313c3ae3c/c41d1081-cdb2-4c90-8028-61844823515b.jpg",
                 "malId": 81117,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/59f47645-66a9-443e-8228-788313c3ae3c"
             },
             "25121ee3-f273-4115-bebc-7b9cfd609211": {
+                "id": 39420,
                 "identifier": "25121ee3-f273-4115-bebc-7b9cfd609211",
                 "image": "https://uploads.mangadex.org/covers/25121ee3-f273-4115-bebc-7b9cfd609211/16d639f9-fcc9-417e-af08-c4d719003abb.jpg",
                 "malId": 81117,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "toukyou-kushure": {
+                "id": 55034,
                 "identifier": "toukyou-kushure",
                 "image": "https://temp.compsci88.com/cover/Toukyou-Kushure.jpg",
                 "malId": 81117,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "tokyo_ghoul_re": {
+                "id": 55291,
                 "identifier": "tokyo_ghoul_re",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14425/cover.jpg",
                 "malId": 81117,
@@ -52,6 +56,7 @@
                 "url": "https://fanfox.net/manga/tokyo_ghoul_re/"
             },
             "toukyou_ghoul_re": {
+                "id": 106923,
                 "identifier": "toukyou_ghoul_re",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27106/cover.jpg",
                 "malId": 81117,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-er951926": {
+                "id": 74153,
                 "identifier": "manga-er951926",
                 "image": "https://avt.mkklcdnv6temp.com/21/m/1-1583464542.jpg",
                 "malId": 81117,
@@ -74,6 +80,7 @@
                 "url": "https://chapmanganato.com/manga-er951926"
             },
             "manga-vn972896": {
+                "id": 76860,
                 "identifier": "manga-vn972896",
                 "image": "https://avt.mkklcdnv6temp.com/23/d/14-1583490571.jpg",
                 "malId": 81117,
@@ -84,30 +91,9 @@
                 "url": "https://chapmanganato.com/manga-vn972896"
             }
         },
-        "MangaFire": {
-            "tokyo-ghoulre.jq0y": {
-                "identifier": "tokyo-ghoulre.jq0y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2cf34db7724692dc94d7a5ffac78409d.jpg",
-                "malId": 81117,
-                "aniId": 85611,
-                "page": "MangaFire",
-                "title": "Tokyo Ghoul:re",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-ghoulre.jq0y/"
-            },
-            "tokyo-ghoulree.jq0y": {
-                "identifier": "tokyo-ghoulree.jq0y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2cf34db7724692dc94d7a5ffac78409d.jpg",
-                "malId": 81117,
-                "aniId": 85611,
-                "page": "MangaFire",
-                "title": "Tokyo Ghoul:re",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-ghoulree.jq0y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyadk6g728v2mrk0c5geb": {
+                "id": 214283,
                 "identifier": "01j76xyadk6g728v2mrk0c5geb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYADK6G728V2MRK0C5GEB.jpg",
                 "malId": 81117,
@@ -116,6 +102,19 @@
                 "title": "Tokyo Ghoul:re",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYADK6G728V2MRK0C5GEB"
+            }
+        },
+        "MangaFire": {
+            "jq0y": {
+                "id": 228337,
+                "identifier": "jq0y",
+                "image": "https://static.mangafire.to/12a3/i/2/2c/2cf34db7724692dc94d7a5ffac78409d.jpg",
+                "malId": 81117,
+                "aniId": 85611,
+                "page": "MangaFire",
+                "title": "Tokyo Ghoul:re",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-ghoulree.jq0y"
             }
         },
         "Comick": {

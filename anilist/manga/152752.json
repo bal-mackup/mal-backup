@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9c28be1e-9a78-4f01-80a4-67922797f4ac": {
+                "id": 108881,
                 "identifier": "9c28be1e-9a78-4f01-80a4-67922797f4ac",
                 "image": "https://uploads.mangadex.org/covers/9c28be1e-9a78-4f01-80a4-67922797f4ac/da88c472-2f70-4d4b-a503-370642a43092.jpg",
                 "malId": 155191,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/9c28be1e-9a78-4f01-80a4-67922797f4ac"
             }
         },
-        "MangaFire": {
-            "kusattetemo-kimi-ga-suki.72mv7": {
-                "identifier": "kusattetemo-kimi-ga-suki.72mv7",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36c780069f897ab253b28b1ff39a39af.jpg",
-                "malId": 155191,
-                "aniId": 152752,
-                "page": "MangaFire",
-                "title": "I Fell for a Fujoshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kusattetemo-kimi-ga-suki.72mv7/"
-            },
-            "kusattetemo-kimi-ga-sukii.72mv7": {
-                "identifier": "kusattetemo-kimi-ga-sukii.72mv7",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36c780069f897ab253b28b1ff39a39af.jpg",
-                "malId": 155191,
-                "aniId": 152752,
-                "page": "MangaFire",
-                "title": "I Fell for a Fujoshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kusattetemo-kimi-ga-sukii.72mv7/"
-            }
-        },
         "MangaSee": {
             "i-fell-for-a-fujoshi": {
+                "id": 156346,
                 "identifier": "i-fell-for-a-fujoshi",
                 "image": "https://temp.compsci88.com/cover/I-Fell-for-a-Fujoshi.jpg",
                 "malId": 155191,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg2ttfn86vwtxyapxdah": {
+                "id": 212157,
                 "identifier": "01j76xyg2ttfn86vwtxyapxdah",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG2TTFN86VWTXYAPXDAH.jpg",
                 "malId": 155191,
@@ -62,6 +43,19 @@
                 "title": "I Fell for a Fujoshi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG2TTFN86VWTXYAPXDAH"
+            }
+        },
+        "MangaFire": {
+            "72mv7": {
+                "id": 224118,
+                "identifier": "72mv7",
+                "image": "https://static.mangafire.to/bdf0/i/3/36/36c780069f897ab253b28b1ff39a39af.jpg",
+                "malId": 155191,
+                "aniId": 152752,
+                "page": "MangaFire",
+                "title": "I Fell for a Fujoshi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kusattetemo-kimi-ga-sukii.72mv7"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "920ffa6d-20f8-41fb-809a-7ec37818843c": {
+                "id": 9841,
                 "identifier": "920ffa6d-20f8-41fb-809a-7ec37818843c",
                 "image": "https://uploads.mangadex.org/covers/920ffa6d-20f8-41fb-809a-7ec37818843c/b796549a-db73-41c0-8551-f798e478ec62.jpg",
                 "malId": 65473,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shishunki-bitter-change": {
+                "id": 66190,
                 "identifier": "shishunki-bitter-change",
                 "image": "https://temp.compsci88.com/cover/Shishunki-Bitter-Change.jpg",
                 "malId": 65473,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shishunki_bitter_change": {
+                "id": 66879,
                 "identifier": "shishunki_bitter_change",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13524/cover.jpg",
                 "malId": 65473,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uy953407": {
+                "id": 78095,
                 "identifier": "manga-uy953407",
                 "image": "https://avt.mkklcdnv6temp.com/22/e/2-1583466566.jpg",
                 "malId": 65473,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-uy953407"
             }
         },
-        "MangaFire": {
-            "shishunki-bitter-change.1lpm": {
-                "identifier": "shishunki-bitter-change.1lpm",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dcc34f7a6ad741eac3663e7da762ae3.jpg",
-                "malId": 65473,
-                "aniId": 85404,
-                "page": "MangaFire",
-                "title": "Shishunki Bitter Change",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shishunki-bitter-change.1lpm/"
-            },
-            "shishunki-bitter-changee.1lpm": {
-                "identifier": "shishunki-bitter-changee.1lpm",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dcc34f7a6ad741eac3663e7da762ae3.jpg",
-                "malId": 65473,
-                "aniId": 85404,
-                "page": "MangaFire",
-                "title": "Shishunki Bitter Change",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shishunki-bitter-changee.1lpm/"
-            },
-            "1lpm": {
-                "identifier": "1lpm",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dcc34f7a6ad741eac3663e7da762ae3.jpg",
-                "malId": 65473,
-                "aniId": 85404,
-                "page": "MangaFire",
-                "title": "Shishunki Bitter Change",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shishunki-bitter-change.1lpm/"
-            }
-        },
         "Weebcentral": {
             "01j76xya959ft951jnq9738b5e": {
+                "id": 210771,
                 "identifier": "01j76xya959ft951jnq9738b5e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA959FT951JNQ9738B5E.jpg",
                 "malId": 65473,
@@ -96,6 +69,19 @@
                 "title": "Shishunki Bitter Change",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA959FT951JNQ9738B5E"
+            }
+        },
+        "MangaFire": {
+            "1lpm": {
+                "id": 248935,
+                "identifier": "1lpm",
+                "image": "https://static.mangafire.to/4014/i/7/7d/7dcc34f7a6ad741eac3663e7da762ae3.jpg",
+                "malId": 65473,
+                "aniId": 85404,
+                "page": "MangaFire",
+                "title": "Shishunki Bitter Change",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shishunki-bitter-changee.1lpm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8c88d78c-bb6a-41cd-bcb3-71735f55e0dd": {
+                "id": 50393,
                 "identifier": "8c88d78c-bb6a-41cd-bcb3-71735f55e0dd",
                 "image": "https://uploads.mangadex.org/covers/8c88d78c-bb6a-41cd-bcb3-71735f55e0dd/b69c9413-8bfe-4d9c-8dc8-c36aa2104bee.jpg",
                 "malId": 148959,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "as-you-wish-my-lady": {
+                "id": 77286,
                 "identifier": "as-you-wish-my-lady",
                 "image": "https://temp.compsci88.com/cover/As-You-Wish-My-Lady.jpg",
                 "malId": 148959,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "as_the_lady_wishes": {
+                "id": 108963,
                 "identifier": "as_the_lady_wishes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36264/cover.jpg",
                 "malId": 148959,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/as_the_lady_wishes/"
             },
             "as_you_wish_my_lady": {
+                "id": 108964,
                 "identifier": "as_you_wish_my_lady",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38485/cover.jpg",
                 "malId": 148959,
@@ -52,20 +56,9 @@
                 "url": "https://fanfox.net/manga/as_you_wish_my_lady/"
             }
         },
-        "MangaFire": {
-            "agassi-tteutdaero.yq7p1": {
-                "identifier": "agassi-tteutdaero.yq7p1",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96e45f2a6e1e3882b5256dc5a97634f7.jpg",
-                "malId": 148959,
-                "aniId": 125583,
-                "page": "MangaFire",
-                "title": "As You Wish, My Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/agassi-tteutdaero.yq7p1/"
-            }
-        },
         "Weebcentral": {
             "01j76xyes9p60p06hhnb0dwvxr": {
+                "id": 213662,
                 "identifier": "01j76xyes9p60p06hhnb0dwvxr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYES9P60P06HHNB0DWVXR.jpg",
                 "malId": 148959,
@@ -74,6 +67,19 @@
                 "title": "As You Wish, My Lady",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYES9P60P06HHNB0DWVXR"
+            }
+        },
+        "MangaFire": {
+            "yq7p1": {
+                "id": 262484,
+                "identifier": "yq7p1",
+                "image": "https://static.mangafire.to/015e/i/9/96/96e45f2a6e1e3882b5256dc5a97634f7.jpg",
+                "malId": 148959,
+                "aniId": 125583,
+                "page": "MangaFire",
+                "title": "As You Wish, My Lady",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/agassi-tteutdaeroo.yq7p1"
             }
         }
     },

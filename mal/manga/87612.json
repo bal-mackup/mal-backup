@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "218a0922-f7ef-4f9c-a308-c8ff938f326f": {
+                "id": 12791,
                 "identifier": "218a0922-f7ef-4f9c-a308-c8ff938f326f",
                 "image": "https://uploads.mangadex.org/covers/218a0922-f7ef-4f9c-a308-c8ff938f326f/caf1c0a5-b1ea-40a6-95d9-c67f1cfe0a14.jpg",
                 "malId": 87612,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nemuri-no-fuchi": {
+                "id": 56612,
                 "identifier": "nemuri-no-fuchi",
                 "image": "https://temp.compsci88.com/cover/Nemuri-No-Fuchi.jpg",
                 "malId": 87612,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nk952693": {
+                "id": 119148,
                 "identifier": "manga-nk952693",
                 "image": "https://avt.mkklcdnv6temp.com/fld/50/y/1-1732718406-nw.webp",
                 "malId": 87612,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-nk952693"
             }
         },
-        "MangaFire": {
-            "nemuri-no-fuchi.2990l": {
-                "identifier": "nemuri-no-fuchi.2990l",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/998876fc8663e63be386d25460aca8c3.jpg",
-                "malId": 87612,
-                "aniId": 94412,
-                "page": "MangaFire",
-                "title": "Nemuri no Fuchi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nemuri-no-fuchi.2990l/"
-            },
-            "2990l": {
-                "identifier": "2990l",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/998876fc8663e63be386d25460aca8c3.jpg",
-                "malId": 87612,
-                "aniId": 94412,
-                "page": "MangaFire",
-                "title": "Nemuri no Fuchi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nemuri-no-fuchi.2990l/"
-            }
-        },
         "Weebcentral": {
             "01j76xybbj24pyd07zw26hxfr6": {
+                "id": 207327,
                 "identifier": "01j76xybbj24pyd07zw26hxfr6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBBJ24PYD07ZW26HXFR6.jpg",
                 "malId": 87612,
@@ -74,6 +56,19 @@
                 "title": "Nemuri no Fuchi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBBJ24PYD07ZW26HXFR6"
+            }
+        },
+        "MangaFire": {
+            "2990l": {
+                "id": 247039,
+                "identifier": "2990l",
+                "image": "https://static.mangafire.to/9ce8/i/9/99/998876fc8663e63be386d25460aca8c3.jpg",
+                "malId": 87612,
+                "aniId": 94412,
+                "page": "MangaFire",
+                "title": "Nemuri no Fuchi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nemuri-no-fuchii.2990l"
             }
         },
         "Comick": {

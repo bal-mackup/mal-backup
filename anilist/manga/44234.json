@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0b5a7adc-182e-4ee5-8432-d0b8ef65a60d": {
+                "id": 534,
                 "identifier": "0b5a7adc-182e-4ee5-8432-d0b8ef65a60d",
                 "image": "https://uploads.mangadex.org/covers/0b5a7adc-182e-4ee5-8432-d0b8ef65a60d/90f273e9-8854-4f4b-a553-c606aed0da40.png",
                 "malId": 14234,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "frogman": {
+                "id": 63690,
                 "identifier": "frogman",
                 "image": "https://temp.compsci88.com/cover/Frogman.jpg",
                 "malId": 14234,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-uw955979": {
+                "id": 80735,
                 "identifier": "manga-uw955979",
                 "image": "https://avt.mkklcdnv6temp.com/fld/49/r/2-1732722910-nw.webp",
                 "malId": 14234,
@@ -44,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xy7q43h9dnya6ymazr7gq": {
+                "id": 212686,
                 "identifier": "01j76xy7q43h9dnya6ymazr7gq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY7Q43H9DNYA6YMAZR7GQ.jpg",
                 "malId": 14234,
@@ -56,14 +60,28 @@
         },
         "MangaFire": {
             "yqq0": {
+                "id": 258602,
                 "identifier": "yqq0",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cfc83d221f5d4b62feb30d8ae96ff975.jpg",
+                "image": "https://static.mangafire.to/3d77/i/c/cf/cfc83d221f5d4b62feb30d8ae96ff975.jpg",
                 "malId": 14234,
                 "aniId": 44234,
                 "page": "MangaFire",
                 "title": "Frogman",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/frogman.yqq0/"
+                "url": "https://mangafire.to/manga/frogmann.yqq0"
+            }
+        },
+        "MangaFox": {
+            "frogman": {
+                "id": 268502,
+                "identifier": "frogman",
+                "image": "https://fmcdn.mfcdn.net/store/manga/5981/cover.jpg",
+                "malId": 14234,
+                "aniId": 44234,
+                "page": "MangaFox",
+                "title": "Frogman",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/frogman/"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "893183a0-27f3-4607-ab80-22be51ea25d9": {
+                "id": 29026,
                 "identifier": "893183a0-27f3-4607-ab80-22be51ea25d9",
                 "image": "https://uploads.mangadex.org/covers/893183a0-27f3-4607-ab80-22be51ea25d9/b928603a-eb4a-4425-b081-42f3863cc400.jpg",
                 "malId": 120458,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "chiisana-mori-no-ookami-chan": {
+                "id": 57401,
                 "identifier": "chiisana-mori-no-ookami-chan",
                 "image": "https://temp.compsci88.com/cover/Chiisana-Mori-no-Ookami-chan.jpg",
                 "malId": 120458,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "chiisana_mori_no_ookami_chan": {
+                "id": 84981,
                 "identifier": "chiisana_mori_no_ookami_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30817/cover.jpg",
                 "malId": 120458,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-eq982173": {
+                "id": 114057,
                 "identifier": "manga-eq982173",
                 "image": "https://avt.mkklcdnv6temp.com/fld/86/t/9-1732797184-nw.webp",
                 "malId": 120458,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-eq982173"
             }
         },
-        "MangaFire": {
-            "chiisana-mori-no-ookami-chan.ll4q6": {
-                "identifier": "chiisana-mori-no-ookami-chan.ll4q6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ce71ac67658bd96e6459a139448b548.jpg",
-                "malId": 120458,
-                "aniId": 110365,
-                "page": "MangaFire",
-                "title": "Chiisana Mori no Ookami-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chiisana-mori-no-ookami-chan.ll4q6/"
-            }
-        },
         "Weebcentral": {
             "01j76xydf8qs6ex1aeqxmzrra4": {
+                "id": 208012,
                 "identifier": "01j76xydf8qs6ex1aeqxmzrra4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDF8QS6EX1AEQXMZRRA4.jpg",
                 "malId": 120458,
@@ -76,6 +69,19 @@
                 "title": "Chiisana Mori no Ookami-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDF8QS6EX1AEQXMZRRA4"
+            }
+        },
+        "MangaFire": {
+            "ll4q6": {
+                "id": 245470,
+                "identifier": "ll4q6",
+                "image": "https://static.mangafire.to/9ed5/i/7/7c/7ce71ac67658bd96e6459a139448b548.jpg",
+                "malId": 120458,
+                "aniId": 110365,
+                "page": "MangaFire",
+                "title": "Chiisana Mori no Ookami-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chiisana-mori-no-ookami-chann.ll4q6"
             }
         },
         "Comick": {

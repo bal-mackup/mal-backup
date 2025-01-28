@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9edbc41a-5c25-4f1a-b323-9c0c9552dc34": {
+                "id": 104644,
                 "identifier": "9edbc41a-5c25-4f1a-b323-9c0c9552dc34",
                 "image": "https://uploads.mangadex.org/covers/9edbc41a-5c25-4f1a-b323-9c0c9552dc34/aa91ff1d-cac4-4f60-a1c6-baa8620a17bb.jpg",
                 "malId": 145429,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pl992420": {
+                "id": 114639,
                 "identifier": "manga-pl992420",
                 "image": "https://avt.mkklcdnv6temp.com/6/u/27-1663466604.jpg",
                 "malId": 145429,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-pl992420"
             }
         },
-        "MangaFire": {
-            "kimi-janakya-dame-na-dorei-shoujo.xrl0z": {
-                "identifier": "kimi-janakya-dame-na-dorei-shoujo.xrl0z",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80ea364c23c0d5fd32d63de4de6a2532.jpg",
-                "malId": 145429,
-                "aniId": 146860,
-                "page": "MangaFire",
-                "title": "Kimi janakya Dame na Dorei Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-janakya-dame-na-dorei-shoujo.xrl0z/"
-            },
-            "kimi-janakya-dame-na-dorei-shoujoo.xrl0z": {
-                "identifier": "kimi-janakya-dame-na-dorei-shoujoo.xrl0z",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80ea364c23c0d5fd32d63de4de6a2532.jpg",
-                "malId": 145429,
-                "aniId": 146860,
-                "page": "MangaFire",
-                "title": "Kimi janakya Dame na Dorei Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-janakya-dame-na-dorei-shoujoo.xrl0z/"
-            }
-        },
         "MangaSee": {
             "kimi-janakya-dame-na-dorei-shoujo": {
+                "id": 156545,
                 "identifier": "kimi-janakya-dame-na-dorei-shoujo",
                 "image": "https://temp.compsci88.com/cover/Kimi-Janakya-Dame-na-Dorei-Shoujo.jpg",
                 "malId": 145429,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg40vt1ppffjtf73jdgp": {
+                "id": 210377,
                 "identifier": "01j76xyg40vt1ppffjtf73jdgp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG40VT1PPFFJTF73JDGP.jpg",
                 "malId": 145429,
@@ -74,6 +56,19 @@
                 "title": "Kimi janakya Dame na Dorei Shoujo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG40VT1PPFFJTF73JDGP"
+            }
+        },
+        "MangaFire": {
+            "xrl0z": {
+                "id": 225942,
+                "identifier": "xrl0z",
+                "image": "https://static.mangafire.to/df87/i/8/80/80ea364c23c0d5fd32d63de4de6a2532.jpg",
+                "malId": 145429,
+                "aniId": 146860,
+                "page": "MangaFire",
+                "title": "Kimi janakya Dame na Dorei Shoujo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-janakya-dame-na-dorei-shoujoo.xrl0z"
             }
         },
         "Comick": {

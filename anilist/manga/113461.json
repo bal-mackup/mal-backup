@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496": {
+                "id": 32809,
                 "identifier": "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496",
                 "image": "https://uploads.mangadex.org/covers/d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496/ebe5cbc2-36a0-40fe-9f7a-40a00d8a6eca.jpg",
                 "malId": 123978,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jj987092": {
+                "id": 76692,
                 "identifier": "manga-jj987092",
                 "image": "https://avt.mkklcdnv6temp.com/33/k/22-1604077183.jpg",
                 "malId": 123978,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-jj987092"
             },
             "manga-qq994225": {
+                "id": 158639,
                 "identifier": "manga-qq994225",
                 "image": "https://avt.mkklcdnv6temp.com/fld/32/d/14-1733302215-nw.webp",
                 "malId": 123978,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "saihate_no_solte": {
+                "id": 82705,
                 "identifier": "saihate_no_solte",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32677/cover.jpg",
                 "malId": 123978,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "world-end-solte": {
+                "id": 112537,
                 "identifier": "world-end-solte",
                 "image": "https://temp.compsci88.com/cover/World-End-Solte.jpg",
                 "malId": 123978,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/World-End-Solte"
             }
         },
-        "MangaFire": {
-            "saihate-no-solte.m20kx": {
-                "identifier": "saihate-no-solte.m20kx",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8df4bcf89e394e085a378489c4eec0d.jpg",
-                "malId": 123978,
-                "aniId": 113461,
-                "page": "MangaFire",
-                "title": "World End Solte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-no-solte.m20kx/"
-            },
-            "saihate-no-soltee.m20kx": {
-                "identifier": "saihate-no-soltee.m20kx",
-                "image": "https://static.mangafire.to/c872/i/e/e8/e8df4bcf89e394e085a378489c4eec0d.jpg",
-                "malId": 123978,
-                "aniId": 113461,
-                "page": "MangaFire",
-                "title": "World End Solte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/saihate-no-soltee.m20kx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfk0ktzaqhqz6m7v93nx": {
+                "id": 211121,
                 "identifier": "01j76xyfk0ktzaqhqz6m7v93nx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFK0KTZAQHQZ6M7V93NX.jpg",
                 "malId": 123978,
@@ -96,6 +80,19 @@
                 "title": "World End Solte",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFK0KTZAQHQZ6M7V93NX"
+            }
+        },
+        "MangaFire": {
+            "m20kx": {
+                "id": 223256,
+                "identifier": "m20kx",
+                "image": "https://static.mangafire.to/c872/i/e/e8/e8df4bcf89e394e085a378489c4eec0d.jpg",
+                "malId": 123978,
+                "aniId": 113461,
+                "page": "MangaFire",
+                "title": "World End Solte",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/saihate-no-soltee.m20kx"
             }
         },
         "Comick": {

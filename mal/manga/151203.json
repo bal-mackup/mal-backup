@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6446c85c-d360-4a50-9f33-c4460e17ff28": {
+                "id": 170202,
                 "identifier": "6446c85c-d360-4a50-9f33-c4460e17ff28",
                 "image": "https://uploads.mangadex.org/covers/6446c85c-d360-4a50-9f33-c4460e17ff28/c8fba2bf-4e30-45bf-bb15-117d28af3421.png",
                 "malId": 151203,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-yn1001522": {
+                "id": 185351,
                 "identifier": "manga-yn1001522",
                 "image": "https://avt.mkklcdnv6temp.com/fld/10/p/17-1733321813-nw.webp",
                 "malId": 151203,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "pie-game": {
+                "id": 187958,
                 "identifier": "pie-game",
                 "image": "https://temp.compsci88.com/cover/Pie-Game.jpg",
                 "malId": 151203,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Pie-Game"
             }
         },
-        "MangaFire": {
-            "pie-game.w505o": {
-                "identifier": "pie-game.w505o",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/7459ac893442caf6fc39969d75f0288b.jpg",
-                "malId": 151203,
-                "aniId": 135815,
-                "page": "MangaFire",
-                "title": "Pie Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pie-game.w505o/"
-            }
-        },
         "Weebcentral": {
             "01j76xyh6c7r9kxvgc9a5wzgkh": {
+                "id": 207912,
                 "identifier": "01j76xyh6c7r9kxvgc9a5wzgkh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH6C7R9KXVGC9A5WZGKH.jpg",
                 "malId": 151203,
@@ -64,6 +56,19 @@
                 "title": "Pie Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH6C7R9KXVGC9A5WZGKH"
+            }
+        },
+        "MangaFire": {
+            "w505o": {
+                "id": 232496,
+                "identifier": "w505o",
+                "image": "https://static.mangafire.to/c329/i/7/74/7459ac893442caf6fc39969d75f0288b.jpg",
+                "malId": 151203,
+                "aniId": 135815,
+                "page": "MangaFire",
+                "title": "Pie Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pie-gamee.w505o"
             }
         }
     },

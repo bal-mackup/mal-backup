@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bc41ee4b-9a40-402b-babd-55c230094325": {
+                "id": 29889,
                 "identifier": "bc41ee4b-9a40-402b-babd-55c230094325",
                 "image": "https://uploads.mangadex.org/covers/bc41ee4b-9a40-402b-babd-55c230094325/fb392215-6656-4345-87d5-754bd6a2a85b.jpg",
                 "malId": 121043,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fm983321": {
+                "id": 74791,
                 "identifier": "manga-fm983321",
                 "image": "https://avt.mkklcdnv6temp.com/34/c/19-1583500422.jpg",
                 "malId": 121043,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "touge_oni": {
+                "id": 75193,
                 "identifier": "touge_oni",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31635/cover.jpg",
                 "malId": 121043,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "touge-oni": {
+                "id": 108562,
                 "identifier": "touge-oni",
                 "image": "https://temp.compsci88.com/cover/Touge-Oni.jpg",
                 "malId": 121043,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Touge-Oni"
             }
         },
-        "MangaFire": {
-            "touge-oni.xrkpq": {
-                "identifier": "touge-oni.xrkpq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffa6c84035dadda94bbd6e858e030d24.jpg",
-                "malId": 121043,
-                "aniId": 112456,
-                "page": "MangaFire",
-                "title": "Primal Gods in Ancient Times",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/touge-oni.xrkpq/"
-            },
-            "touge-onii.xrkpq": {
-                "identifier": "touge-onii.xrkpq",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffa6c84035dadda94bbd6e858e030d24.jpg",
-                "malId": 121043,
-                "aniId": 112456,
-                "page": "MangaFire",
-                "title": "Primal Gods in Ancient Times",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/touge-onii.xrkpq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfhxwzw17gvj14y2989e": {
+                "id": 206682,
                 "identifier": "01j76xyfhxwzw17gvj14y2989e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFHXWZW17GVJ14Y2989E.jpg",
                 "malId": 121043,
@@ -86,6 +69,19 @@
                 "title": "Touge Oni - Primal Gods in Ancient Times",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFHXWZW17GVJ14Y2989E"
+            }
+        },
+        "MangaFire": {
+            "xrkpq": {
+                "id": 224561,
+                "identifier": "xrkpq",
+                "image": "https://static.mangafire.to/a51c/i/f/ff/ffa6c84035dadda94bbd6e858e030d24.jpg",
+                "malId": 121043,
+                "aniId": 112456,
+                "page": "MangaFire",
+                "title": "Primal Gods in Ancient Times",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/touge-onii.xrkpq"
             }
         },
         "Comick": {

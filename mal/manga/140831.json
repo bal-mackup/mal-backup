@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cfcc577d-14a3-4332-beaa-346068d2afbd": {
+                "id": 106303,
                 "identifier": "cfcc577d-14a3-4332-beaa-346068d2afbd",
                 "image": "https://uploads.mangadex.org/covers/cfcc577d-14a3-4332-beaa-346068d2afbd/e58455a2-2925-449a-8c70-bef0b66b2055.jpg",
                 "malId": 140831,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tamons-b-side": {
+                "id": 172188,
                 "identifier": "tamons-b-side",
                 "image": "https://temp.compsci88.com/cover/Tamons-B-Side.jpg",
                 "malId": 140831,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tamons-B-Side"
             }
         },
-        "MangaFire": {
-            "tamon-kun-ima-docchi.wovj4": {
-                "identifier": "tamon-kun-ima-docchi.wovj4",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/4756e92b1a3252eba305554a512db56c.jpg",
-                "malId": 140831,
-                "aniId": 140495,
-                "page": "MangaFire",
-                "title": "Tamon-kun Ima Docchi!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tamon-kun-ima-docchi.wovj4/"
-            },
-            "tamon-kun-ima-docchii.wovj4": {
-                "identifier": "tamon-kun-ima-docchii.wovj4",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/4756e92b1a3252eba305554a512db56c.jpg",
-                "malId": 140831,
-                "aniId": 140495,
-                "page": "MangaFire",
-                "title": "Tamon-kun Ima Docchi!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tamon-kun-ima-docchii.wovj4/"
-            }
-        },
         "MangaNato": {
             "manga-yi1001565": {
+                "id": 185939,
                 "identifier": "manga-yi1001565",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/g/17-1733321908-nw.webp",
                 "malId": 140831,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygjqan7eh7q5s1x3k6gk": {
+                "id": 211202,
                 "identifier": "01j76xygjqan7eh7q5s1x3k6gk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGJQAN7EH7Q5S1X3K6GK.jpg",
                 "malId": 140831,
@@ -74,6 +56,19 @@
                 "title": "Tamon's B-Side",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGJQAN7EH7Q5S1X3K6GK"
+            }
+        },
+        "MangaFire": {
+            "wovj4": {
+                "id": 228609,
+                "identifier": "wovj4",
+                "image": "https://static.mangafire.to/4ae8/i/4/47/4756e92b1a3252eba305554a512db56c.jpg",
+                "malId": 140831,
+                "aniId": 140495,
+                "page": "MangaFire",
+                "title": "Tamon-kun Ima Docchi!?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tamon-kun-ima-docchii.wovj4"
             }
         },
         "Comick": {

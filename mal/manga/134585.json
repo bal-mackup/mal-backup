@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "fungus-and-iron": {
+                "id": 100660,
                 "identifier": "fungus-and-iron",
                 "image": "https://temp.compsci88.com/cover/Fungus-and-Iron.jpg",
                 "malId": 134585,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "92e0e745-7615-4f2d-be28-97a302d141e7": {
+                "id": 104638,
                 "identifier": "92e0e745-7615-4f2d-be28-97a302d141e7",
                 "image": "https://uploads.mangadex.org/covers/92e0e745-7615-4f2d-be28-97a302d141e7/297198d6-227e-4400-b8e3-8603ba60a544.jpg",
                 "malId": 134585,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/92e0e745-7615-4f2d-be28-97a302d141e7"
             }
         },
-        "MangaFire": {
-            "kin-to-tetsu.prx5j": {
-                "identifier": "kin-to-tetsu.prx5j",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c4244b5354b0eae3f3b7b4095aab317.jpg",
-                "malId": 134585,
-                "aniId": 130973,
-                "page": "MangaFire",
-                "title": "Fungus and Iron",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kin-to-tetsu.prx5j/"
-            }
-        },
         "MangaNato": {
             "manga-as1003675": {
+                "id": 195692,
                 "identifier": "manga-as1003675",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/a/17-1733326787-nw.webp",
                 "malId": 134585,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfc5y5htz3frn3wcvee1": {
+                "id": 207846,
                 "identifier": "01j76xyfc5y5htz3frn3wcvee1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFC5Y5HTZ3FRN3WCVEE1.jpg",
                 "malId": 134585,
@@ -64,6 +56,19 @@
                 "title": "Fungus and Iron",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFC5Y5HTZ3FRN3WCVEE1"
+            }
+        },
+        "MangaFire": {
+            "prx5j": {
+                "id": 242984,
+                "identifier": "prx5j",
+                "image": "https://static.mangafire.to/cd65/i/1/1c/1c4244b5354b0eae3f3b7b4095aab317.jpg",
+                "malId": 134585,
+                "aniId": 130973,
+                "page": "MangaFire",
+                "title": "Fungus and Iron",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kin-to-tetsuu.prx5j"
             }
         },
         "Comick": {

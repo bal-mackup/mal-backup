@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "ero-ninja-scrolls": {
+                "id": 92499,
                 "identifier": "ero-ninja-scrolls",
                 "image": "https://temp.compsci88.com/cover/Ero-Ninja-Scrolls.jpg",
                 "malId": 128480,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "8547e135-e03f-4688-8841-a3254c2bbc2d": {
+                "id": 104142,
                 "identifier": "8547e135-e03f-4688-8841-a3254c2bbc2d",
                 "image": "https://uploads.mangadex.org/covers/8547e135-e03f-4688-8841-a3254c2bbc2d/089a0289-2aae-4831-8b0c-eac708d95e85.jpg",
                 "malId": 128480,
@@ -30,32 +32,11 @@
                 "url": "https://mangadex.org/title/8547e135-e03f-4688-8841-a3254c2bbc2d"
             }
         },
-        "MangaFire": {
-            "arakusa-ninpouchou.ppmw6": {
-                "identifier": "arakusa-ninpouchou.ppmw6",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/0506813755e3f3ddca603adf074bce4a.jpg",
-                "malId": 128480,
-                "aniId": 122004,
-                "page": "MangaFire",
-                "title": "Ero Ninja Scrolls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arakusa-ninpouchou.ppmw6/"
-            },
-            "arakusa-ninpouchouu.ppmw6": {
-                "identifier": "arakusa-ninpouchouu.ppmw6",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/0506813755e3f3ddca603adf074bce4a.jpg",
-                "malId": 128480,
-                "aniId": 122004,
-                "page": "MangaFire",
-                "title": "Ero Ninja Scrolls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arakusa-ninpouchouu.ppmw6/"
-            }
-        },
         "MangaNato": {
             "manga-ac1004111": {
+                "id": 197380,
                 "identifier": "manga-ac1004111",
-                "image": "https://avt.mkklcdnv6temp.com/26/g/36-1725893272.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/9/t/18-1733327852-nw.webp",
                 "malId": 128480,
                 "aniId": 122004,
                 "page": "MangaNato",
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyf6fzc4vb3ntcpwdbre3": {
+                "id": 208838,
                 "identifier": "01j76xyf6fzc4vb3ntcpwdbre3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF6FZC4VB3NTCPWDBRE3.jpg",
                 "malId": 128480,
@@ -74,6 +56,19 @@
                 "title": "Ero Ninja Scrolls",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF6FZC4VB3NTCPWDBRE3"
+            }
+        },
+        "MangaFire": {
+            "ppmw6": {
+                "id": 228982,
+                "identifier": "ppmw6",
+                "image": "https://static.mangafire.to/a484/i/0/05/0506813755e3f3ddca603adf074bce4a.jpg",
+                "malId": 128480,
+                "aniId": 122004,
+                "page": "MangaFire",
+                "title": "Ero Ninja Scrolls",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/arakusa-ninpouchouu.ppmw6"
             }
         },
         "Comick": {

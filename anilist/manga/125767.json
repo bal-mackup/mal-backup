@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e555e91f-ecb3-496b-8298-f4cbe2064946": {
+                "id": 56886,
                 "identifier": "e555e91f-ecb3-496b-8298-f4cbe2064946",
                 "image": "https://uploads.mangadex.org/covers/e555e91f-ecb3-496b-8298-f4cbe2064946/f8e96a15-0250-4ba1-b30e-eb5b86c7ac60.jpg",
                 "malId": 147068,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-daughter-is-a-zombie": {
+                "id": 181149,
                 "identifier": "my-daughter-is-a-zombie",
                 "image": "https://temp.compsci88.com/cover/My-Daughter-Is-a-Zombie.jpg",
                 "malId": 147068,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/My-Daughter-Is-a-Zombie"
             }
         },
-        "MangaFire": {
-            "zombie-ttal.2pkpq": {
-                "identifier": "zombie-ttal.2pkpq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/8450773497996564925a587b3f851240.jpg",
-                "malId": 147068,
-                "aniId": 125767,
-                "page": "MangaFire",
-                "title": "My Daughter is a Zombie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zombie-ttal.2pkpq/"
-            }
-        },
         "Weebcentral": {
             "01j76xygxj9b79k189t24nqj8e": {
+                "id": 211232,
                 "identifier": "01j76xygxj9b79k189t24nqj8e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXJ9B79K189T24NQJ8E.jpg",
                 "malId": 147068,
@@ -52,6 +43,19 @@
                 "title": "My Daughter Is a Zombie",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXJ9B79K189T24NQJ8E"
+            }
+        },
+        "MangaFire": {
+            "2pkpq": {
+                "id": 233639,
+                "identifier": "2pkpq",
+                "image": "https://static.mangafire.to/0125/i/8/84/8450773497996564925a587b3f851240.jpg",
+                "malId": 147068,
+                "aniId": 125767,
+                "page": "MangaFire",
+                "title": "My Daughter is a Zombie",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zombie-ttall.2pkpq"
             }
         },
         "Comick": {

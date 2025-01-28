@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c4f27c5f-c136-4f86-8aab-f865c32978fd": {
+                "id": 114702,
                 "identifier": "c4f27c5f-c136-4f86-8aab-f865c32978fd",
                 "image": "https://uploads.mangadex.org/covers/c4f27c5f-c136-4f86-8aab-f865c32978fd/d02506ff-0975-47c1-bd22-37fc6481a220.jpg",
                 "malId": 135197,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/c4f27c5f-c136-4f86-8aab-f865c32978fd"
             }
         },
-        "MangaFire": {
-            "shintan-kairou.4q387": {
-                "identifier": "shintan-kairou.4q387",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/dec10d84714ffeb038d35fcd8d24dcc7.jpg",
-                "malId": 135197,
-                "aniId": 134579,
-                "page": "MangaFire",
-                "title": "Shintan Kairou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shintan-kairou.4q387/"
-            },
-            "shintan-kairouu.4q387": {
-                "identifier": "shintan-kairouu.4q387",
-                "image": "https://static.mangafire.to/682d/i/d/de/dec10d84714ffeb038d35fcd8d24dcc7.jpg",
-                "malId": 135197,
-                "aniId": 134579,
-                "page": "MangaFire",
-                "title": "Shintan Kairou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shintan-kairouu.4q387/"
-            }
-        },
         "MangaNato": {
             "manga-qi993743": {
+                "id": 180047,
                 "identifier": "manga-qi993743",
                 "image": "https://avt.mkklcdnv6temp.com/fld/13/r/14-1733300522-nw.webp",
                 "malId": 135197,
@@ -50,6 +30,19 @@
                 "title": "Shintan Kairou",
                 "type": "manga",
                 "url": "https://manganato.com/manga-qi993743"
+            }
+        },
+        "MangaFire": {
+            "4q387": {
+                "id": 223365,
+                "identifier": "4q387",
+                "image": "https://static.mangafire.to/682d/i/d/de/dec10d84714ffeb038d35fcd8d24dcc7.jpg",
+                "malId": 135197,
+                "aniId": 134579,
+                "page": "MangaFire",
+                "title": "Shintan Kairou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shintan-kairouu.4q387"
             }
         },
         "Comick": {

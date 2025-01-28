@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "162146eb-672a-4a05-b3b2-0c6303f9614e": {
+                "id": 93290,
                 "identifier": "162146eb-672a-4a05-b3b2-0c6303f9614e",
                 "image": "https://uploads.mangadex.org/covers/162146eb-672a-4a05-b3b2-0c6303f9614e/37d39e63-d250-40e0-bf46-2ad9cc2cf079.jpg",
                 "malId": 142600,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "takopis-original-sin": {
+                "id": 100662,
                 "identifier": "takopis-original-sin",
                 "image": "https://temp.compsci88.com/cover/Takopis-Original-Sin.jpg",
                 "malId": 142600,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Takopis-Original-Sin"
             }
         },
-        "MangaFire": {
-            "takopis-original-sin.lllmm": {
-                "identifier": "takopis-original-sin.lllmm",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/943faa6ab1c11027a08303c0c433b6a0.jpg",
-                "malId": 142600,
-                "aniId": 142568,
-                "page": "MangaFire",
-                "title": "Takopi's Original Sin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takopis-original-sin.lllmm/"
-            },
-            "takopis-original-sinn.lllmm": {
-                "identifier": "takopis-original-sinn.lllmm",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/943faa6ab1c11027a08303c0c433b6a0.jpg",
-                "malId": 142600,
-                "aniId": 142568,
-                "page": "MangaFire",
-                "title": "Takopi's Original Sin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takopis-original-sinn.lllmm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfcvv034anr8hcya5j3z": {
+                "id": 207899,
                 "identifier": "01j76xyfcvv034anr8hcya5j3z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFCVV034ANR8HCYA5J3Z.jpg",
                 "malId": 142600,
@@ -62,6 +43,19 @@
                 "title": "Takopi's Original Sin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFCVV034ANR8HCYA5J3Z"
+            }
+        },
+        "MangaFire": {
+            "lllmm": {
+                "id": 224436,
+                "identifier": "lllmm",
+                "image": "https://static.mangafire.to/f6d8/i/9/94/943faa6ab1c11027a08303c0c433b6a0.jpg",
+                "malId": 142600,
+                "aniId": 142568,
+                "page": "MangaFire",
+                "title": "Takopi's Original Sin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/takopis-original-sinn.lllmm"
             }
         },
         "Comick": {

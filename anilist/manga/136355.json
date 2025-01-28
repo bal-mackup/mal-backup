@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-lm989269": {
+                "id": 81134,
                 "identifier": "manga-lm989269",
                 "image": "https://avt.mkklcdnv6temp.com/23/k/24-1625632042.jpg",
                 "malId": 148534,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "76b72369-09e9-4f45-8152-dc3cc640b6cb": {
+                "id": 88580,
                 "identifier": "76b72369-09e9-4f45-8152-dc3cc640b6cb",
                 "image": "https://uploads.mangadex.org/covers/76b72369-09e9-4f45-8152-dc3cc640b6cb/e77b421c-9077-46bb-9a5a-2aea6c2c742d.jpg",
                 "malId": 148534,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/76b72369-09e9-4f45-8152-dc3cc640b6cb"
             }
         },
-        "MangaFire": {
-            "if-you-lay-a-hand-on-my-brother-youre-all-dead.026p5": {
-                "identifier": "if-you-lay-a-hand-on-my-brother-youre-all-dead.026p5",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/de9692a9eece01a8ebc5696a860257f0.jpg",
-                "malId": 148534,
-                "aniId": 136355,
-                "page": "MangaFire",
-                "title": "Touch My Little Brother and You're Dead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/if-you-lay-a-hand-on-my-brother-youre-all-dead.026p5/"
-            },
-            "if-you-lay-a-hand-on-my-brother-youre-all-deadd.026p5": {
-                "identifier": "if-you-lay-a-hand-on-my-brother-youre-all-deadd.026p5",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/de9692a9eece01a8ebc5696a860257f0.jpg",
-                "malId": 148534,
-                "aniId": 136355,
-                "page": "MangaFire",
-                "title": "Touch My Little Brother and You're Dead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/if-you-lay-a-hand-on-my-brother-youre-all-deadd.026p5/"
-            }
-        },
         "MangaFox": {
             "touch_my_little_brother_and_you_re_dead": {
+                "id": 179554,
                 "identifier": "touch_my_little_brother_and_you_re_dead",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39006/cover.jpg",
                 "malId": 148534,
@@ -62,6 +43,19 @@
                 "title": "Touch My Little Brother and You're Dead",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/touch_my_little_brother_and_you_re_dead/"
+            }
+        },
+        "MangaFire": {
+            "026p5": {
+                "id": 225484,
+                "identifier": "026p5",
+                "image": "https://static.mangafire.to/1ca7/i/d/de/de9692a9eece01a8ebc5696a860257f0.jpg",
+                "malId": 148534,
+                "aniId": 136355,
+                "page": "MangaFire",
+                "title": "Touch My Little Brother and You're Dead",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/if-you-lay-a-hand-on-my-brother-youre-all-deadd.026p5"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "00fc664e-edfd-42e8-b117-28300e2b1517": {
+                "id": 13380,
                 "identifier": "00fc664e-edfd-42e8-b117-28300e2b1517",
                 "image": "https://uploads.mangadex.org/covers/00fc664e-edfd-42e8-b117-28300e2b1517/82e9a466-771f-4a77-bf1c-345050b904ec.jpg",
                 "malId": 120064,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sheng-wang": {
+                "id": 61312,
                 "identifier": "sheng-wang",
                 "image": "https://temp.compsci88.com/cover/Sheng-Wang.jpg",
                 "malId": 120064,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sheng_wang": {
+                "id": 70791,
                 "identifier": "sheng_wang",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16225/cover.jpg",
                 "malId": 120064,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yt953828": {
+                "id": 75884,
                 "identifier": "manga-yt953828",
                 "image": "https://avt.mkklcdnv6temp.com/36/z/2-1583467121.jpg",
                 "malId": 120064,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-yt953828"
             }
         },
-        "MangaFire": {
-            "sheng-wang.jjj4y": {
-                "identifier": "sheng-wang.jjj4y",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6eed1f1441adef8ab155090706cce7ae.jpg",
-                "malId": 120064,
-                "aniId": 86331,
-                "page": "MangaFire",
-                "title": "Sheng Wang",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sheng-wang.jjj4y/"
-            }
-        },
         "Weebcentral": {
             "01j76xybdv9pat10h97cj3g0jw": {
+                "id": 210359,
                 "identifier": "01j76xybdv9pat10h97cj3g0jw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBDV9PAT10H97CJ3G0JW.jpg",
                 "malId": 120064,
@@ -76,6 +69,19 @@
                 "title": "Sheng Wang",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBDV9PAT10H97CJ3G0JW"
+            }
+        },
+        "MangaFire": {
+            "jjj4y": {
+                "id": 235578,
+                "identifier": "jjj4y",
+                "image": "https://static.mangafire.to/e7bb/i/6/6e/6eed1f1441adef8ab155090706cce7ae.jpg",
+                "malId": 120064,
+                "aniId": 86331,
+                "page": "MangaFire",
+                "title": "Sheng Wang",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sheng-wangg.jjj4y"
             }
         }
     },

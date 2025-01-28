@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a769300-091e-49ab-8cd3-cc32c360ecc0": {
+                "id": 26739,
                 "identifier": "6a769300-091e-49ab-8cd3-cc32c360ecc0",
                 "image": "https://uploads.mangadex.org/covers/6a769300-091e-49ab-8cd3-cc32c360ecc0/a60896cd-e797-4543-9d64-97d1d72531c0.jpg",
                 "malId": 119157,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "isekai_demo_bunan_ni_ikitai_shoukougun": {
+                "id": 55195,
                 "identifier": "isekai_demo_bunan_ni_ikitai_shoukougun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29978/cover.jpg",
                 "malId": 119157,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "isekai-demo-bunan-ni-ikitai-shoukougun": {
+                "id": 59202,
                 "identifier": "isekai-demo-bunan-ni-ikitai-shoukougun",
                 "image": "https://temp.compsci88.com/cover/Isekai-Demo-Bunan-Ni-Ikitai-Shoukougun.jpg",
                 "malId": 119157,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-er981400": {
+                "id": 74000,
                 "identifier": "manga-er981400",
                 "image": "https://avt.mkklcdnv6temp.com/13/l/18-1583497608.jpg",
                 "malId": 119157,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-er981400"
             }
         },
-        "MangaFire": {
-            "isekai-demo-bunan-ni-ikitai-shoukougun.z19v2": {
-                "identifier": "isekai-demo-bunan-ni-ikitai-shoukougun.z19v2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c85c58c4762f30bcd02517d68dcc968a.jpg",
-                "malId": 119157,
-                "aniId": 108324,
-                "page": "MangaFire",
-                "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-demo-bunan-ni-ikitai-shoukougun.z19v2/"
-            },
-            "isekai-demo-bunan-ni-ikitai-shoukougunn.z19v2": {
-                "identifier": "isekai-demo-bunan-ni-ikitai-shoukougunn.z19v2",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c85c58c4762f30bcd02517d68dcc968a.jpg",
-                "malId": 119157,
-                "aniId": 108324,
-                "page": "MangaFire",
-                "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-demo-bunan-ni-ikitai-shoukougunn.z19v2/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxdqs022kcghr9qpa9v": {
+                "id": 208304,
                 "identifier": "01j76xycxdqs022kcghr9qpa9v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXDQS022KCGHR9QPA9V.jpg",
                 "malId": 119157,
@@ -86,6 +69,19 @@
                 "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXDQS022KCGHR9QPA9V"
+            }
+        },
+        "MangaFire": {
+            "z19v2": {
+                "id": 224557,
+                "identifier": "z19v2",
+                "image": "https://static.mangafire.to/841d/i/c/c8/c85c58c4762f30bcd02517d68dcc968a.jpg",
+                "malId": 119157,
+                "aniId": 108324,
+                "page": "MangaFire",
+                "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-demo-bunan-ni-ikitai-shoukougunn.z19v2"
             }
         },
         "Comick": {

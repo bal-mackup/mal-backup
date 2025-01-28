@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6": {
+                "id": 15769,
                 "identifier": "67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6",
                 "image": "https://uploads.mangadex.org/covers/67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6/099c9200-8b35-43aa-b02a-c71efa8b01c2.jpg",
                 "malId": 98720,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "goblin-slayer": {
+                "id": 55782,
                 "identifier": "goblin-slayer",
                 "image": "https://temp.compsci88.com/cover/Goblin-Slayer.jpg",
                 "malId": 98720,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "goblin_slayer": {
+                "id": 57019,
                 "identifier": "goblin_slayer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20569/cover.jpg",
                 "malId": 98720,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-us971827": {
+                "id": 74765,
                 "identifier": "manga-us971827",
                 "image": "https://avt.mkklcdnv6temp.com/2/r/14-1583489781.jpg",
                 "malId": 98720,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-us971827"
             }
         },
-        "MangaFire": {
-            "goblin-slayer.kww": {
-                "identifier": "goblin-slayer.kww",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ec/ec9c6bfcf6e0f9e1a7fd8d16140e60cd.jpg",
-                "malId": 98720,
-                "aniId": 87321,
-                "page": "MangaFire",
-                "title": "Goblin Slayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/goblin-slayer.kww/"
-            },
-            "goblin-slayerr.kww": {
-                "identifier": "goblin-slayerr.kww",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ec/ec9c6bfcf6e0f9e1a7fd8d16140e60cd.jpg",
-                "malId": 98720,
-                "aniId": 87321,
-                "page": "MangaFire",
-                "title": "Goblin Slayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/goblin-slayerr.kww/"
-            },
-            "kww": {
-                "identifier": "kww",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ec/ec9c6bfcf6e0f9e1a7fd8d16140e60cd.jpg",
-                "malId": 98720,
-                "aniId": 87321,
-                "page": "MangaFire",
-                "title": "Goblin Slayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/goblin-slayerr.kww/"
-            }
-        },
         "Weebcentral": {
             "01j76xybsz0pqar4mhfz59sy3y": {
+                "id": 213674,
                 "identifier": "01j76xybsz0pqar4mhfz59sy3y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBSZ0PQAR4MHFZ59SY3Y.jpg",
                 "malId": 98720,
@@ -96,6 +69,19 @@
                 "title": "Goblin Slayer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBSZ0PQAR4MHFZ59SY3Y"
+            }
+        },
+        "MangaFire": {
+            "kww": {
+                "id": 223999,
+                "identifier": "kww",
+                "image": "https://static.mangafire.to/e4d7/i/e/ec/ec9c6bfcf6e0f9e1a7fd8d16140e60cd.jpg",
+                "malId": 98720,
+                "aniId": 87321,
+                "page": "MangaFire",
+                "title": "Goblin Slayer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/goblin-slayerr.kww"
             }
         },
         "Comick": {

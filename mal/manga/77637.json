@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "10a4985d-0713-462e-a9d6-767bf91e4fd7": {
+                "id": 14888,
                 "identifier": "10a4985d-0713-462e-a9d6-767bf91e4fd7",
                 "image": "https://uploads.mangadex.org/covers/10a4985d-0713-462e-a9d6-767bf91e4fd7/3809c2d6-dc5e-4943-bf28-84d319fcfb8e.jpg",
                 "malId": 77637,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "helck": {
+                "id": 58744,
                 "identifier": "helck",
                 "image": "https://temp.compsci88.com/cover/Helck.jpg",
                 "malId": 77637,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "helck": {
+                "id": 64868,
                 "identifier": "helck",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18231/cover.jpg",
                 "malId": 77637,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-pt955554": {
+                "id": 76817,
                 "identifier": "manga-pt955554",
                 "image": "https://avt.mkklcdnv6temp.com/38/v/3-1583469203.jpg",
                 "malId": 77637,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-pt955554"
             }
         },
-        "MangaFire": {
-            "helckk.pm09": {
-                "identifier": "helckk.pm09",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe09282c083984d20a0cff20172c56fc.jpg",
-                "malId": 77637,
-                "aniId": 86720,
-                "page": "MangaFire",
-                "title": "Helck",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/helckk.pm09/"
-            },
-            "pm09": {
-                "identifier": "pm09",
-                "image": "https://static.mangafire.to/ffb4/i/f/fe/fe09282c083984d20a0cff20172c56fc.jpg",
-                "malId": 77637,
-                "aniId": 86720,
-                "page": "MangaFire",
-                "title": "Helck",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/helckk.pm09"
-            }
-        },
         "Weebcentral": {
             "01j76xybjssfkvcp0pkb2dvtsf": {
+                "id": 210100,
                 "identifier": "01j76xybjssfkvcp0pkb2dvtsf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJSSFKVCP0PKB2DVTSF.jpg",
                 "malId": 77637,
@@ -86,6 +69,19 @@
                 "title": "Helck",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJSSFKVCP0PKB2DVTSF"
+            }
+        },
+        "MangaFire": {
+            "pm09": {
+                "id": 224409,
+                "identifier": "pm09",
+                "image": "https://static.mangafire.to/ffb4/i/f/fe/fe09282c083984d20a0cff20172c56fc.jpg",
+                "malId": 77637,
+                "aniId": 86720,
+                "page": "MangaFire",
+                "title": "Helck",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/helckk.pm09"
             }
         },
         "Comick": {

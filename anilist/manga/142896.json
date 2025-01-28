@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "566ba4f6-c26e-4af2-a800-c1fdf5fe17aa": {
+                "id": 98340,
                 "identifier": "566ba4f6-c26e-4af2-a800-c1fdf5fe17aa",
                 "image": "https://uploads.mangadex.org/covers/566ba4f6-c26e-4af2-a800-c1fdf5fe17aa/da6704d2-db98-486d-9e83-0c13085505ea.jpg",
                 "malId": 143903,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "futari_switch": {
+                "id": 99443,
                 "identifier": "futari_switch",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41674/cover.jpg",
                 "malId": 143903,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nl991220": {
+                "id": 107515,
                 "identifier": "manga-nl991220",
                 "image": "https://avt.mkklcdnv6temp.com/6/l/26-1655428554.jpg",
                 "malId": 143903,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "futari-switch": {
+                "id": 112590,
                 "identifier": "futari-switch",
                 "image": "https://temp.compsci88.com/cover/Futari-Switch.jpg",
                 "malId": 143903,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Futari-Switch"
             }
         },
-        "MangaFire": {
-            "futari-switch.1novx": {
-                "identifier": "futari-switch.1novx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/52/527cfcf76bd09e2e6e8ebf3fdf615a41.jpg",
-                "malId": 143903,
-                "aniId": 142896,
-                "page": "MangaFire",
-                "title": "Futari Switch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-switch.1novx/"
-            },
-            "futari-switchh.1novx": {
-                "identifier": "futari-switchh.1novx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/52/527cfcf76bd09e2e6e8ebf3fdf615a41.jpg",
-                "malId": 143903,
-                "aniId": 142896,
-                "page": "MangaFire",
-                "title": "Futari Switch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futari-switchh.1novx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfk8y3smfeb3vhbpjx14": {
+                "id": 212813,
                 "identifier": "01j76xyfk8y3smfeb3vhbpjx14",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFK8Y3SMFEB3VHBPJX14.jpg",
                 "malId": 143903,
@@ -86,6 +69,19 @@
                 "title": "Futari Switch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFK8Y3SMFEB3VHBPJX14"
+            }
+        },
+        "MangaFire": {
+            "1novx": {
+                "id": 229716,
+                "identifier": "1novx",
+                "image": "https://static.mangafire.to/4a03/i/5/52/527cfcf76bd09e2e6e8ebf3fdf615a41.jpg",
+                "malId": 143903,
+                "aniId": 142896,
+                "page": "MangaFire",
+                "title": "Futari Switch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futari-switchh.1novx"
             }
         },
         "Comick": {

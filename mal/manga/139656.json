@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "last-gender": {
+                "id": 118490,
                 "identifier": "last-gender",
                 "image": "https://temp.compsci88.com/cover/Last-Gender.jpg",
                 "malId": 139656,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/Last-Gender"
             }
         },
-        "MangaFire": {
-            "last-gender-nanimono-demonai-watashi-tachi.3r5m2": {
-                "identifier": "last-gender-nanimono-demonai-watashi-tachi.3r5m2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b1aa5df6e9b2046cca526761bd6fe05.jpg",
-                "malId": 139656,
-                "aniId": 126583,
-                "page": "MangaFire",
-                "title": "Last Gender: When We Are Nameless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/last-gender-nanimono-demonai-watashi-tachi.3r5m2/"
-            },
-            "last-gender-nanimono-demonai-watashi-tachii.3r5m2": {
-                "identifier": "last-gender-nanimono-demonai-watashi-tachii.3r5m2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8b1aa5df6e9b2046cca526761bd6fe05.jpg",
-                "malId": 139656,
-                "aniId": 126583,
-                "page": "MangaFire",
-                "title": "Last Gender: When We Are Nameless",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/last-gender-nanimono-demonai-watashi-tachii.3r5m2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfrye0hfdb11pq6zx2g8": {
+                "id": 213237,
                 "identifier": "01j76xyfrye0hfdb11pq6zx2g8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFRYE0HFDB11PQ6ZX2G8.jpg",
                 "malId": 139656,
@@ -50,6 +30,19 @@
                 "title": "Last Gender",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFRYE0HFDB11PQ6ZX2G8"
+            }
+        },
+        "MangaFire": {
+            "3r5m2": {
+                "id": 227924,
+                "identifier": "3r5m2",
+                "image": "https://static.mangafire.to/2ea5/i/8/8b/8b1aa5df6e9b2046cca526761bd6fe05.jpg",
+                "malId": 139656,
+                "aniId": 126583,
+                "page": "MangaFire",
+                "title": "Last Gender: When We Are Nameless",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/last-gender-nanimono-demonai-watashi-tachii.3r5m2"
             }
         }
     },

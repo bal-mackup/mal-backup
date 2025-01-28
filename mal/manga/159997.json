@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3225971b-272f-482f-9f8f-df2a4e466b27": {
+                "id": 107646,
                 "identifier": "3225971b-272f-482f-9f8f-df2a4e466b27",
                 "image": "https://uploads.mangadex.org/covers/3225971b-272f-482f-9f8f-df2a4e466b27/20a18ef5-9349-44b5-a2c1-8eeb0195a509.jpg",
                 "malId": 159997,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sa996083": {
+                "id": 156909,
                 "identifier": "manga-sa996083",
                 "image": "https://avt.mkklcdnv6temp.com/fld/2/w/14-1733306736-nw.webp",
                 "malId": 159997,
@@ -30,50 +32,9 @@
                 "url": "https://chapmanganato.com/manga-sa996083"
             }
         },
-        "MangaFire": {
-            "kimi-wa-nina-janai.422xk": {
-                "identifier": "kimi-wa-nina-janai.422xk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/dd3b2ea9836f591d78b6723e0ec03b6d.jpg",
-                "malId": 159997,
-                "aniId": 150040,
-                "page": "MangaFire",
-                "title": "Kimi wa, Nina janai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-nina-janai.422xk/"
-            },
-            "kimi-wa-nina-ja-nai.w5or6": {
-                "identifier": "kimi-wa-nina-ja-nai.w5or6",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d25f6350c5435ab758fa2b5f2264d02.jpg",
-                "malId": 159997,
-                "aniId": 150040,
-                "page": "MangaFire",
-                "title": "Kimi wa, Nina ja Nai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-nina-ja-nai.w5or6/"
-            },
-            "kimi-wa-nina-ja-naii.w5or6": {
-                "identifier": "kimi-wa-nina-ja-naii.w5or6",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6d/6d25f6350c5435ab758fa2b5f2264d02.jpg",
-                "malId": 159997,
-                "aniId": 150040,
-                "page": "MangaFire",
-                "title": "Kimi wa, Nina ja Nai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-nina-ja-naii.w5or6/"
-            },
-            "kimi-wa-nina-janaii.422xk": {
-                "identifier": "kimi-wa-nina-janaii.422xk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dd/dd3b2ea9836f591d78b6723e0ec03b6d.jpg",
-                "malId": 159997,
-                "aniId": 150040,
-                "page": "MangaFire",
-                "title": "Kimi wa, Nina janai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-nina-janaii.422xk/"
-            }
-        },
         "MangaSee": {
             "kimi-wa-nina-janai": {
+                "id": 170696,
                 "identifier": "kimi-wa-nina-janai",
                 "image": "https://temp.compsci88.com/cover/Kimi-wa-Nina-Janai.jpg",
                 "malId": 159997,
@@ -86,6 +47,7 @@
         },
         "MangaFox": {
             "kimi_wa_nina_janai": {
+                "id": 182209,
                 "identifier": "kimi_wa_nina_janai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45822/cover.jpg",
                 "malId": 159997,
@@ -98,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyghs43wf3d033cd2sp18": {
+                "id": 212603,
                 "identifier": "01j76xyghs43wf3d033cd2sp18",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGHS43WF3D033CD2SP18.jpg",
                 "malId": 159997,
@@ -106,6 +69,30 @@
                 "title": "Kimi wa, Nina Janai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGHS43WF3D033CD2SP18"
+            }
+        },
+        "MangaFire": {
+            "422xk": {
+                "id": 224458,
+                "identifier": "422xk",
+                "image": "https://static.mangafire.to/d8ae/i/d/dd/dd3b2ea9836f591d78b6723e0ec03b6d.jpg",
+                "malId": 159997,
+                "aniId": 150040,
+                "page": "MangaFire",
+                "title": "Kimi wa, Nina janai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-wa-nina-janaii.422xk"
+            },
+            "w5or6": {
+                "id": 224576,
+                "identifier": "w5or6",
+                "image": "https://static.mangafire.to/49b7/i/6/6d/6d25f6350c5435ab758fa2b5f2264d02.jpg",
+                "malId": 159997,
+                "aniId": 150040,
+                "page": "MangaFire",
+                "title": "Kimi wa, Nina ja Nai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-wa-nina-ja-naii.w5or6"
             }
         },
         "Comick": {

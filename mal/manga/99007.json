@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "a96676e5-8ae2-425e-b549-7f15dd34a6d8": {
+                "id": 14018,
                 "identifier": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
-                "image": "https://uploads.mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/dc04f7c6-6794-47f8-86f4-11177b256dc3.jpg",
+                "image": "https://uploads.mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/65fe9149-b068-4567-9d9f-c021824bfdfc.jpg",
                 "malId": 99007,
                 "aniId": 97852,
                 "page": "Mangadex",
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a96676e5-8ae2-425e-b549-7f15dd34a6d8"
             },
             "fb569d12-1e00-47e3-86cd-793b4eae715c": {
+                "id": 35327,
                 "identifier": "fb569d12-1e00-47e3-86cd-793b4eae715c",
                 "image": "https://uploads.mangadex.org/covers/fb569d12-1e00-47e3-86cd-793b4eae715c/c99ad779-a069-40c1-891d-7805f5e35c75.jpg",
                 "malId": 99007,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "komi_san_wa_komyushou_desu": {
+                "id": 51582,
                 "identifier": "komi_san_wa_komyushou_desu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17189/cover.jpg",
                 "malId": 99007,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "komi-san-wa-komyushou-desu": {
+                "id": 54706,
                 "identifier": "komi-san-wa-komyushou-desu",
                 "image": "https://temp.compsci88.com/cover/Komi-san-Wa-Komyushou-Desu.jpg",
                 "malId": 99007,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-va953509": {
+                "id": 72827,
                 "identifier": "manga-va953509",
                 "image": "https://avt.mkklcdnv6temp.com/25/s/2-1583466695.jpg",
                 "malId": 99007,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.to/manga-va953509"
             }
         },
-        "MangaFire": {
-            "komi-san-wa-komyushou-desu.8no": {
-                "identifier": "komi-san-wa-komyushou-desu.8no",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/dac74acc2ac01721e10a29bcb14f49ec.jpg",
-                "malId": 99007,
-                "aniId": 97852,
-                "page": "MangaFire",
-                "title": "Komi Can't Communicate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komi-san-wa-komyushou-desu.8no/"
-            },
-            "komi-san-wa-komyushou-desuu.8no": {
-                "identifier": "komi-san-wa-komyushou-desuu.8no",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/dac74acc2ac01721e10a29bcb14f49ec.jpg",
-                "malId": 99007,
-                "aniId": 97852,
-                "page": "MangaFire",
-                "title": "Komi Can't Communicate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/komi-san-wa-komyushou-desuu.8no/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc01b9dnwsx6mvwn5qfx": {
+                "id": 211899,
                 "identifier": "01j76xyc01b9dnwsx6mvwn5qfx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC01B9DNWSX6MVWN5QFX.jpg",
                 "malId": 99007,
@@ -96,6 +80,19 @@
                 "title": "Komi Can’t Communicate",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC01B9DNWSX6MVWN5QFX"
+            }
+        },
+        "MangaFire": {
+            "8no": {
+                "id": 226722,
+                "identifier": "8no",
+                "image": "https://static.mangafire.to/14b4/i/d/da/dac74acc2ac01721e10a29bcb14f49ec.jpg",
+                "malId": 99007,
+                "aniId": 97852,
+                "page": "MangaFire",
+                "title": "Komi Can't Communicate",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/komi-san-wa-komyushou-desuu.8no"
             }
         },
         "Comick": {

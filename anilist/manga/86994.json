@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "77488c29-1c01-43d9-803e-e132fbb0f9b6": {
+                "id": 11712,
                 "identifier": "77488c29-1c01-43d9-803e-e132fbb0f9b6",
                 "image": "https://uploads.mangadex.org/covers/77488c29-1c01-43d9-803e-e132fbb0f9b6/f2edf0f3-e1be-4f37-a772-62190288edc6.jpg",
                 "malId": 90423,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "no-guns-life": {
+                "id": 59087,
                 "identifier": "no-guns-life",
                 "image": "https://temp.compsci88.com/cover/No-Guns-Life.jpg",
                 "malId": 90423,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "no_guns_life": {
+                "id": 61861,
                 "identifier": "no_guns_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17409/cover.jpg",
                 "malId": 90423,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ky952381": {
+                "id": 80126,
                 "identifier": "manga-ky952381",
                 "image": "https://avt.mkklcdnv6temp.com/fld/40/c/1-1732717961-nw.webp",
                 "malId": 90423,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ky952381"
             }
         },
-        "MangaFire": {
-            "no-guns-life.ojyo5": {
-                "identifier": "no-guns-life.ojyo5",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8bc25f21d7d4311c0dae31c723e65c6c.jpg",
-                "malId": 90423,
-                "aniId": 86994,
-                "page": "MangaFire",
-                "title": "No Guns Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-guns-life.ojyo5/"
-            },
-            "no-guns-lifee.ojyo5": {
-                "identifier": "no-guns-lifee.ojyo5",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8b/8bc25f21d7d4311c0dae31c723e65c6c.jpg",
-                "malId": 90423,
-                "aniId": 86994,
-                "page": "MangaFire",
-                "title": "No Guns Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-guns-lifee.ojyo5/"
-            }
-        },
         "Weebcentral": {
             "01j76xybhe1xd7pyyycp6t3dne": {
+                "id": 212853,
                 "identifier": "01j76xybhe1xd7pyyycp6t3dne",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBHE1XD7PYYYCP6T3DNE.jpg",
                 "malId": 90423,
@@ -86,6 +69,19 @@
                 "title": "No Guns Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBHE1XD7PYYYCP6T3DNE"
+            }
+        },
+        "MangaFire": {
+            "ojyo5": {
+                "id": 227877,
+                "identifier": "ojyo5",
+                "image": "https://static.mangafire.to/0dd0/i/8/8b/8bc25f21d7d4311c0dae31c723e65c6c.jpg",
+                "malId": 90423,
+                "aniId": 86994,
+                "page": "MangaFire",
+                "title": "No Guns Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-guns-lifee.ojyo5"
             }
         },
         "Comick": {

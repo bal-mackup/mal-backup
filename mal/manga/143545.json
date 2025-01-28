@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "51e2f634-12ae-4e8b-bc6f-3e8dad4c1980": {
+                "id": 104501,
                 "identifier": "51e2f634-12ae-4e8b-bc6f-3e8dad4c1980",
                 "image": "https://uploads.mangadex.org/covers/51e2f634-12ae-4e8b-bc6f-3e8dad4c1980/f3a91a01-f5c3-402e-bab3-0be4fb883765.jpg",
                 "malId": 143545,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pk993067": {
+                "id": 118150,
                 "identifier": "manga-pk993067",
                 "image": "https://avt.mkklcdnv6temp.com/32/w/27-1668794266.jpg",
                 "malId": 143545,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-pk993067"
             }
         },
-        "MangaFire": {
-            "inside-the-cave-of-obscenity.3rv42": {
-                "identifier": "inside-the-cave-of-obscenity.3rv42",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/d19796be394453661e276da5bae6ce75.jpg",
-                "malId": 143545,
-                "aniId": 142839,
-                "page": "MangaFire",
-                "title": "Inside the Tentacle Cave",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inside-the-cave-of-obscenity.3rv42/"
-            },
-            "inside-the-cave-of-obscenityy.3rv42": {
-                "identifier": "inside-the-cave-of-obscenityy.3rv42",
-                "image": "https://static.mangafire.to/4169/i/3/3e/d19796be394453661e276da5bae6ce75.jpg",
-                "malId": 143545,
-                "aniId": 142839,
-                "page": "MangaFire",
-                "title": "Inside the Tentacle Cave",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inside-the-cave-of-obscenityy.3rv42/"
-            }
-        },
         "MangaFox": {
             "inbi_na_doukutsu_no_sono_oku_de_novel": {
+                "id": 161148,
                 "identifier": "inbi_na_doukutsu_no_sono_oku_de_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44032/cover.jpg",
                 "malId": 143545,
@@ -64,6 +45,7 @@
                 "url": "https://fanfox.net/manga/inbi_na_doukutsu_no_sono_oku_de_novel/"
             },
             "inside_the_cave_of_obscenity": {
+                "id": 185336,
                 "identifier": "inside_the_cave_of_obscenity",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41254/cover.jpg",
                 "malId": 143545,
@@ -72,10 +54,22 @@
                 "title": "Inside the Cave of Obscenity",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/inside_the_cave_of_obscenity/"
+            },
+            "inbi_na_doukutsu_no_sono_oku_de_delete": {
+                "id": 267718,
+                "identifier": "inbi_na_doukutsu_no_sono_oku_de_delete",
+                "image": "https://fmcdn.mfcdn.net/store/manga/44032/cover.jpg",
+                "malId": 143545,
+                "aniId": 142839,
+                "page": "MangaFox",
+                "title": "Inbi na Doukutsu no Sono Oku de[delete]",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/inbi_na_doukutsu_no_sono_oku_de_delete/"
             }
         },
         "MangaSee": {
             "inside-the-tentacle-cave": {
+                "id": 177946,
                 "identifier": "inside-the-tentacle-cave",
                 "image": "https://temp.compsci88.com/cover/Inside-the-Tentacle-Cave.jpg",
                 "malId": 143545,
@@ -88,6 +82,7 @@
         },
         "Weebcentral": {
             "01j76xygrnmszsbkkj5gfkkrma": {
+                "id": 206980,
                 "identifier": "01j76xygrnmszsbkkj5gfkkrma",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGRNMSZSBKKJ5GFKKRMA.jpg",
                 "malId": 143545,
@@ -96,6 +91,19 @@
                 "title": "Inside the Tentacle Cave",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGRNMSZSBKKJ5GFKKRMA"
+            }
+        },
+        "MangaFire": {
+            "3rv42": {
+                "id": 223097,
+                "identifier": "3rv42",
+                "image": "https://static.mangafire.to/4169/i/3/3e/d19796be394453661e276da5bae6ce75.jpg",
+                "malId": 143545,
+                "aniId": 142839,
+                "page": "MangaFire",
+                "title": "Inside the Tentacle Cave",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/inside-the-cave-of-obscenityy.3rv42"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52829b03-4675-4a1e-a4be-742436a6e306": {
+                "id": 93139,
                 "identifier": "52829b03-4675-4a1e-a4be-742436a6e306",
                 "image": "https://uploads.mangadex.org/covers/52829b03-4675-4a1e-a4be-742436a6e306/0cbc4add-92f5-42b2-8f5c-7c33eaa1fab7.jpg",
                 "malId": 144206,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nj990992": {
+                "id": 106306,
                 "identifier": "manga-nj990992",
                 "image": "https://avt.mkklcdnv6temp.com/47/a/25-1654305763.jpg",
                 "malId": 144206,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-nj990992"
             }
         },
-        "MangaFire": {
-            "sensei-no-koto-kusugutte-ageru.jvzk2": {
-                "identifier": "sensei-no-koto-kusugutte-ageru.jvzk2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8e0afe66b0e2050382f41a7397f69301.jpg",
-                "malId": 144206,
-                "aniId": 140858,
-                "page": "MangaFire",
-                "title": "I'll Give My Teacher a Tickle.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sensei-no-koto-kusugutte-ageru.jvzk2/"
-            },
-            "sensei-no-koto-kusugutte-ageruu.jvzk2": {
-                "identifier": "sensei-no-koto-kusugutte-ageruu.jvzk2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8e0afe66b0e2050382f41a7397f69301.jpg",
-                "malId": 144206,
-                "aniId": 140858,
-                "page": "MangaFire",
-                "title": "I'll Give My Teacher a Tickle.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sensei-no-koto-kusugutte-ageruu.jvzk2/"
-            }
-        },
         "MangaFox": {
             "sensei_no_koto_kusugutte_ageru": {
+                "id": 162277,
                 "identifier": "sensei_no_koto_kusugutte_ageru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40827/cover.jpg",
                 "malId": 144206,
@@ -62,6 +43,19 @@
                 "title": "Sensei No Koto, Kusugutte Ageru",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/sensei_no_koto_kusugutte_ageru/"
+            }
+        },
+        "MangaFire": {
+            "jvzk2": {
+                "id": 229501,
+                "identifier": "jvzk2",
+                "image": "https://static.mangafire.to/fa38/i/8/8e/8e0afe66b0e2050382f41a7397f69301.jpg",
+                "malId": 144206,
+                "aniId": 140858,
+                "page": "MangaFire",
+                "title": "I'll Give My Teacher a Tickle.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sensei-no-koto-kusugutte-ageruu.jvzk2"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9f84e0a7-7bcb-4146-a595-280cb56e7eb3": {
+                "id": 10004,
                 "identifier": "9f84e0a7-7bcb-4146-a595-280cb56e7eb3",
                 "image": "https://uploads.mangadex.org/covers/9f84e0a7-7bcb-4146-a595-280cb56e7eb3/4972e9d5-7697-4204-9794-25be5a525b00.jpg",
                 "malId": 66811,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "stealth-symphony": {
+                "id": 71419,
                 "identifier": "stealth-symphony",
                 "image": "https://temp.compsci88.com/cover/Stealth-Symphony.jpg",
                 "malId": 66811,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "stealth_symphony": {
+                "id": 71449,
                 "identifier": "stealth_symphony",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13691/cover.jpg",
                 "malId": 66811,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-av956630": {
+                "id": 79131,
                 "identifier": "manga-av956630",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/s/2-1732754492-nw.webp",
                 "malId": 66811,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-av956630"
             }
         },
-        "MangaFire": {
-            "stealth-symphony.pvr6": {
-                "identifier": "stealth-symphony.pvr6",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/37b610eb7bb54d699859466497df024f.jpg",
-                "malId": 66811,
-                "aniId": 85276,
-                "page": "MangaFire",
-                "title": "Stealth Symphony",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/stealth-symphony.pvr6/"
-            }
-        },
         "Weebcentral": {
             "01j76xya5fmd8xbcxbcnabm9nw": {
+                "id": 214308,
                 "identifier": "01j76xya5fmd8xbcxbcnabm9nw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA5FMD8XBCXBCNABM9NW.jpg",
                 "malId": 66811,
@@ -76,6 +69,19 @@
                 "title": "Stealth Symphony",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA5FMD8XBCXBCNABM9NW"
+            }
+        },
+        "MangaFire": {
+            "pvr6": {
+                "id": 248716,
+                "identifier": "pvr6",
+                "image": "https://static.mangafire.to/cf5c/i/3/37/37b610eb7bb54d699859466497df024f.jpg",
+                "malId": 66811,
+                "aniId": 85276,
+                "page": "MangaFire",
+                "title": "Stealth Symphony",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/stealth-symphonyy.pvr6"
             }
         },
         "Comick": {

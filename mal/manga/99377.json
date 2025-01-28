@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "835feda4-2db0-4753-8249-4575a3ceffe2": {
+                "id": 15792,
                 "identifier": "835feda4-2db0-4753-8249-4575a3ceffe2",
                 "image": "https://uploads.mangadex.org/covers/835feda4-2db0-4753-8249-4575a3ceffe2/55dc0d8b-b9f6-4069-8e02-c2299236d493.jpg",
                 "malId": 99377,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kenja-no-mago": {
+                "id": 54409,
                 "identifier": "kenja-no-mago",
                 "image": "https://temp.compsci88.com/cover/Kenja-No-Mago.jpg",
                 "malId": 99377,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kenja_no_mago": {
+                "id": 56113,
                 "identifier": "kenja_no_mago",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20299/cover.jpg",
                 "malId": 99377,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/kenja_no_mago/"
             },
             "kenja_no_mago_ss": {
+                "id": 90223,
                 "identifier": "kenja_no_mago_ss",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39854/cover.jpg",
                 "malId": 99377,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ud971560": {
+                "id": 73284,
                 "identifier": "manga-ud971560",
                 "image": "https://avt.mkklcdnv6temp.com/47/z/13-1583489518.jpg",
                 "malId": 99377,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ud971560"
             }
         },
-        "MangaFire": {
-            "kenja-no-mago.m2w9z": {
-                "identifier": "kenja-no-mago.m2w9z",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/b477e5290b77eb629669ad072fc16766.jpg",
-                "malId": 99377,
-                "aniId": 87293,
-                "page": "MangaFire",
-                "title": "Kenja no Mago",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kenja-no-mago.m2w9z/"
-            },
-            "kenja-no-magoo.m2w9z": {
-                "identifier": "kenja-no-magoo.m2w9z",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/b477e5290b77eb629669ad072fc16766.jpg",
-                "malId": 99377,
-                "aniId": 87293,
-                "page": "MangaFire",
-                "title": "Kenja no Mago",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kenja-no-magoo.m2w9z/"
-            }
-        },
         "Weebcentral": {
             "01j76xybtcd15fw69w889wkhb0": {
+                "id": 210648,
                 "identifier": "01j76xybtcd15fw69w889wkhb0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBTCD15FW69W889WKHB0.jpg",
                 "malId": 99377,
@@ -96,6 +80,19 @@
                 "title": "Kenja no Mago",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBTCD15FW69W889WKHB0"
+            }
+        },
+        "MangaFire": {
+            "m2w9z": {
+                "id": 226543,
+                "identifier": "m2w9z",
+                "image": "https://static.mangafire.to/f73f/i/1/15/b477e5290b77eb629669ad072fc16766.jpg",
+                "malId": 99377,
+                "aniId": 87293,
+                "page": "MangaFire",
+                "title": "Kenja no Mago",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kenja-no-magoo.m2w9z"
             }
         },
         "Comick": {

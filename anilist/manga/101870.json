@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5897b512-7097-435f-bcf1-2eb8337f14e1": {
+                "id": 20702,
                 "identifier": "5897b512-7097-435f-bcf1-2eb8337f14e1",
                 "image": "https://uploads.mangadex.org/covers/5897b512-7097-435f-bcf1-2eb8337f14e1/582939ac-3eba-4bde-9e16-a7934ce0544e.jpg",
                 "malId": 112534,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/5897b512-7097-435f-bcf1-2eb8337f14e1"
             },
             "eac579e0-82ec-4f7c-b7e0-3735b3867baa": {
+                "id": 88548,
                 "identifier": "eac579e0-82ec-4f7c-b7e0-3735b3867baa",
                 "image": "https://uploads.mangadex.org/covers/eac579e0-82ec-4f7c-b7e0-3735b3867baa/982f352f-3161-4343-bf5d-e70bafa20789.jpg",
                 "malId": 112534,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "tensei_ouji_wa_daraketai": {
+                "id": 62619,
                 "identifier": "tensei_ouji_wa_daraketai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27858/cover.jpg",
                 "malId": 112534,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-bq978851": {
+                "id": 76324,
                 "identifier": "manga-bq978851",
                 "image": "https://avt.mkklcdnv6temp.com/19/j/16-1583494169.jpg",
                 "malId": 112534,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "tensei-ouji-wa-daraketai": {
+                "id": 76375,
                 "identifier": "tensei-ouji-wa-daraketai",
                 "image": "https://temp.compsci88.com/cover/Tensei-Ouji-Wa-Daraketai.jpg",
                 "malId": 112534,
@@ -64,60 +69,9 @@
                 "url": "https://mangasee123.com/manga/Tensei-Ouji-Wa-Daraketai"
             }
         },
-        "MangaFire": {
-            "tensei-ouji-wa-daraketai.nl2j": {
-                "identifier": "tensei-ouji-wa-daraketai.nl2j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/7250ab1621bf88b92fc64c434494a9a5.jpg",
-                "malId": 112534,
-                "aniId": 101870,
-                "page": "MangaFire",
-                "title": "The Reborn Prince Wants to Be Lazy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-ouji-wa-daraketai.nl2j/"
-            },
-            "tensei-ouji-wa-daraketaii.nl2j": {
-                "identifier": "tensei-ouji-wa-daraketaii.nl2j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/7250ab1621bf88b92fc64c434494a9a5.jpg",
-                "malId": 112534,
-                "aniId": 101870,
-                "page": "MangaFire",
-                "title": "The Reborn Prince Wants to Be Lazy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-ouji-wa-daraketaii.nl2j/"
-            },
-            "tensei-ouji-wa-gakuen-demo-daraketaii.0r6p5": {
-                "identifier": "tensei-ouji-wa-gakuen-demo-daraketaii.0r6p5",
-                "image": "https://static.mangafire.to/b983/i/c/c1/c10a0a9df20dfebeac3cf2c166f2e839.jpg",
-                "malId": 112534,
-                "aniId": 101870,
-                "page": "MangaFire",
-                "title": "Tensei Ouji wa (Gakuen demo) Daraketai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-ouji-wa-gakuen-demo-daraketaii.0r6p5/"
-            },
-            "0r6p5": {
-                "identifier": "0r6p5",
-                "image": "https://static.mangafire.to/b983/i/c/c1/c10a0a9df20dfebeac3cf2c166f2e839.jpg",
-                "malId": 112534,
-                "aniId": 101870,
-                "page": "MangaFire",
-                "title": "Tensei Ouji wa (Gakuen demo) Daraketai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-ouji-wa-gakuen-demo-daraketaii.0r6p5/"
-            },
-            "nl2j": {
-                "identifier": "nl2j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/7250ab1621bf88b92fc64c434494a9a5.jpg",
-                "malId": 112534,
-                "aniId": 101870,
-                "page": "MangaFire",
-                "title": "The Reborn Prince Wants to Be Lazy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tensei-ouji-wa-daraketaii.nl2j/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfg6tx3rw0bw1ckvara": {
+                "id": 208958,
                 "identifier": "01j76xycfg6tx3rw0bw1ckvara",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFG6TX3RW0BW1CKVARA.jpg",
                 "malId": 112534,
@@ -126,6 +80,30 @@
                 "title": "The Reborn Prince Wants to Be Lazy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFG6TX3RW0BW1CKVARA"
+            }
+        },
+        "MangaFire": {
+            "0r6p5": {
+                "id": 223051,
+                "identifier": "0r6p5",
+                "image": "https://static.mangafire.to/b983/i/c/c1/c10a0a9df20dfebeac3cf2c166f2e839.jpg",
+                "malId": 112534,
+                "aniId": 101870,
+                "page": "MangaFire",
+                "title": "Tensei Ouji wa (Gakuen demo) Daraketai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tensei-ouji-wa-gakuen-demo-daraketaii.0r6p5"
+            },
+            "nl2j": {
+                "id": 227110,
+                "identifier": "nl2j",
+                "image": "https://static.mangafire.to/bb93/i/7/72/7250ab1621bf88b92fc64c434494a9a5.jpg",
+                "malId": 112534,
+                "aniId": 101870,
+                "page": "MangaFire",
+                "title": "The Reborn Prince Wants to Be Lazy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tensei-ouji-wa-daraketaii.nl2j"
             }
         },
         "Comick": {

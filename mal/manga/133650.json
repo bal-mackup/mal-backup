@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e279d973-e1dd-4cfc-b643-fda857b6f4a0": {
+                "id": 39248,
                 "identifier": "e279d973-e1dd-4cfc-b643-fda857b6f4a0",
                 "image": "https://uploads.mangadex.org/covers/e279d973-e1dd-4cfc-b643-fda857b6f4a0/5f2f4133-0e39-485f-a698-34adf0d3b285.jpg",
                 "malId": 133650,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "otome-game-no-mob-desura-naindaga": {
+                "id": 66454,
                 "identifier": "otome-game-no-mob-desura-naindaga",
                 "image": "https://temp.compsci88.com/cover/Otome-Game-no-Mob-desura-naindaga.jpg",
                 "malId": 133650,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ky988007": {
+                "id": 73813,
                 "identifier": "manga-ky988007",
                 "image": "https://avt.mkklcdnv6temp.com/21/b/23-1612575733.jpg",
                 "malId": 133650,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ky988007"
             }
         },
-        "MangaFire": {
-            "otome-game-no-mob-desura-naindaga.jvoq4": {
-                "identifier": "otome-game-no-mob-desura-naindaga.jvoq4",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6cef0f99b5e8af95197df625d1861b2e.jpg",
-                "malId": 133650,
-                "aniId": 130868,
-                "page": "MangaFire",
-                "title": "I'm Not Even an NPC In This Otome Game!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-game-no-mob-desura-naindaga.jvoq4/"
-            },
-            "otome-game-no-mob-desura-naindagaa.jvoq4": {
-                "identifier": "otome-game-no-mob-desura-naindagaa.jvoq4",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6cef0f99b5e8af95197df625d1861b2e.jpg",
-                "malId": 133650,
-                "aniId": 130868,
-                "page": "MangaFire",
-                "title": "I'm Not Even an NPC In This Otome Game!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otome-game-no-mob-desura-naindagaa.jvoq4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyee9q9ze0k4x2s6zxb1s": {
+                "id": 211006,
                 "identifier": "01j76xyee9q9ze0k4x2s6zxb1s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEE9Q9ZE0K4X2S6ZXB1S.jpg",
                 "malId": 133650,
@@ -74,6 +56,19 @@
                 "title": "I'm Not Even an NPC In This Otome Game!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEE9Q9ZE0K4X2S6ZXB1S"
+            }
+        },
+        "MangaFire": {
+            "jvoq4": {
+                "id": 224446,
+                "identifier": "jvoq4",
+                "image": "https://static.mangafire.to/2784/i/6/6c/6cef0f99b5e8af95197df625d1861b2e.jpg",
+                "malId": 133650,
+                "aniId": 130868,
+                "page": "MangaFire",
+                "title": "I'm Not Even an NPC In This Otome Game!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otome-game-no-mob-desura-naindagaa.jvoq4"
             }
         },
         "Comick": {

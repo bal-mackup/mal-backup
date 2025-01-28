@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0b73d72-9665-4f1f-9113-16eb163ba619": {
+                "id": 95063,
                 "identifier": "d0b73d72-9665-4f1f-9113-16eb163ba619",
                 "image": "https://uploads.mangadex.org/covers/d0b73d72-9665-4f1f-9113-16eb163ba619/b616fc22-9a57-4d3d-8023-2c648271bce0.jpg",
                 "malId": 143505,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pf993062": {
+                "id": 118133,
                 "identifier": "manga-pf993062",
                 "image": "https://avt.mkklcdnv6temp.com/32/p/27-1668771498.jpg",
                 "malId": 143505,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-pf993062"
             }
         },
-        "MangaFire": {
-            "soredemo-kimi-o-shiawase-ni-shitai.jvx33": {
-                "identifier": "soredemo-kimi-o-shiawase-ni-shitai.jvx33",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f9f2bba8b5e0d1c6f3aee4365bb2048.jpg",
-                "malId": 143505,
-                "aniId": 140051,
-                "page": "MangaFire",
-                "title": "Still, I Want to Make You Happy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/soredemo-kimi-o-shiawase-ni-shitai.jvx33/"
-            }
-        },
         "MangaFox": {
             "soredemo_kimi_wo_shiawaseni_shitai": {
+                "id": 157527,
                 "identifier": "soredemo_kimi_wo_shiawaseni_shitai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42064/cover.jpg",
                 "malId": 143505,
@@ -52,6 +43,19 @@
                 "title": "Soredemo Kimi wo Shiawaseni shitai",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/soredemo_kimi_wo_shiawaseni_shitai/"
+            }
+        },
+        "MangaFire": {
+            "jvx33": {
+                "id": 252588,
+                "identifier": "jvx33",
+                "image": "https://static.mangafire.to/00c6/i/1/1f/1f9f2bba8b5e0d1c6f3aee4365bb2048.jpg",
+                "malId": 143505,
+                "aniId": 140051,
+                "page": "MangaFire",
+                "title": "Still, I Want to Make You Happy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/soredemo-kimi-o-shiawase-ni-shitaii.jvx33"
             }
         },
         "Comick": {

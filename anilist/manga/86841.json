@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fc4ee994-bf15-499c-818d-eec02194cfca": {
+                "id": 13186,
                 "identifier": "fc4ee994-bf15-499c-818d-eec02194cfca",
                 "image": "https://uploads.mangadex.org/covers/fc4ee994-bf15-499c-818d-eec02194cfca/a345115c-00e4-40fb-acde-b749c55386b3.jpg",
                 "malId": 89937,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-do954349": {
+                "id": 119512,
                 "identifier": "manga-do954349",
                 "image": "https://avt.mkklcdnv6temp.com/fld/6/v/2-1732720811-nw.webp",
                 "malId": 89937,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-do954349"
             }
         },
-        "MangaFire": {
-            "mikansei-lovers.6lwl7": {
-                "identifier": "mikansei-lovers.6lwl7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4ae609173e7464952904d8b30f4e054.jpg",
-                "malId": 89937,
-                "aniId": 86841,
-                "page": "MangaFire",
-                "title": "Incomplete Lovers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikansei-lovers.6lwl7/"
-            },
-            "6lwl7": {
-                "identifier": "6lwl7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c4ae609173e7464952904d8b30f4e054.jpg",
-                "malId": 89937,
-                "aniId": 86841,
-                "page": "MangaFire",
-                "title": "Incomplete Lovers",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikansei-lovers.6lwl7/"
-            }
-        },
         "MangaFox": {
             "mikansei_lovers": {
+                "id": 162225,
                 "identifier": "mikansei_lovers",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16471/cover.jpg",
                 "malId": 89937,
@@ -62,6 +43,19 @@
                 "title": "Mikansei Lovers",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mikansei_lovers/"
+            }
+        },
+        "MangaFire": {
+            "6lwl7": {
+                "id": 259356,
+                "identifier": "6lwl7",
+                "image": "https://static.mangafire.to/6683/i/c/c4/c4ae609173e7464952904d8b30f4e054.jpg",
+                "malId": 89937,
+                "aniId": 86841,
+                "page": "MangaFire",
+                "title": "Incomplete Lovers",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mikansei-loverss.6lwl7"
             }
         },
         "Comick": {

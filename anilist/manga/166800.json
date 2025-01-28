@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "suzunari-high-school-detective-club": {
+                "id": 82057,
                 "identifier": "suzunari-high-school-detective-club",
                 "image": "https://temp.compsci88.com/cover/Suzunari-High-School-Detective-Club.jpg",
                 "malId": 126097,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Suzunari-High-School-Detective-Club"
             }
         },
-        "MangaFire": {
-            "kaiketsu-suzunari-gakuen-tantei-bu.qnx9w": {
-                "identifier": "kaiketsu-suzunari-gakuen-tantei-bu.qnx9w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70168219b3b4247e9b8ee81d1f946e2e.jpg",
-                "malId": 126097,
-                "aniId": 166800,
-                "page": "MangaFire",
-                "title": "Suzunari High School Detective Club",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaiketsu-suzunari-gakuen-tantei-bu.qnx9w/"
-            }
-        },
         "Mangadex": {
             "e9a5bc1b-0ddf-4eff-9875-64b8c23b5072": {
+                "id": 186339,
                 "identifier": "e9a5bc1b-0ddf-4eff-9875-64b8c23b5072",
                 "image": "https://uploads.mangadex.org/covers/e9a5bc1b-0ddf-4eff-9875-64b8c23b5072/99aea643-8182-435d-b89c-3d5ba1ad8b23.jpg",
                 "malId": 126097,
@@ -42,6 +32,7 @@
                 "url": "https://mangadex.org/title/e9a5bc1b-0ddf-4eff-9875-64b8c23b5072"
             },
             "cf7720a4-915a-42c5-968d-1e3cee34eb05": {
+                "id": 193367,
                 "identifier": "cf7720a4-915a-42c5-968d-1e3cee34eb05",
                 "image": "https://uploads.mangadex.org/covers/cf7720a4-915a-42c5-968d-1e3cee34eb05/43f379bc-e5af-4c53-8742-cd1b0a5248ac.jpg",
                 "malId": 126097,
@@ -54,6 +45,7 @@
         },
         "Weebcentral": {
             "01j76xyewq2sxhg0zdkkc4nd2p": {
+                "id": 210640,
                 "identifier": "01j76xyewq2sxhg0zdkkc4nd2p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEWQ2SXHG0ZDKKC4ND2P.jpg",
                 "malId": 126097,
@@ -62,6 +54,19 @@
                 "title": "Suzunari High School Detective Club",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEWQ2SXHG0ZDKKC4ND2P"
+            }
+        },
+        "MangaFire": {
+            "qnx9w": {
+                "id": 245628,
+                "identifier": "qnx9w",
+                "image": "https://static.mangafire.to/a9be/i/7/70/70168219b3b4247e9b8ee81d1f946e2e.jpg",
+                "malId": 126097,
+                "aniId": 166800,
+                "page": "MangaFire",
+                "title": "Suzunari High School Detective Club",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaiketsu-suzunari-gakuen-tantei-buu.qnx9w"
             }
         }
     },

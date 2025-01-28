@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6e770ce1-c709-4875-87a4-c9c66aa3f6c5": {
+                "id": 119217,
                 "identifier": "6e770ce1-c709-4875-87a4-c9c66aa3f6c5",
                 "image": "https://uploads.mangadex.org/covers/6e770ce1-c709-4875-87a4-c9c66aa3f6c5/087595ab-283a-42e3-b269-f7f683cb199f.jpg",
                 "malId": 154181,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ra994857": {
+                "id": 126757,
                 "identifier": "manga-ra994857",
                 "image": "https://avt.mkklcdnv6temp.com/4/s/29-1678615588.jpg",
                 "malId": 154181,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ra994857"
             }
         },
-        "MangaFire": {
-            "tengoku-de-akuma-ga-boku-wo-miwaku-suru.xrozq": {
-                "identifier": "tengoku-de-akuma-ga-boku-wo-miwaku-suru.xrozq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/7bb25246fd933689d764999a5eab4f0e.jpg",
-                "malId": 154181,
-                "aniId": 147412,
-                "page": "MangaFire",
-                "title": "The Devil Fascinates Me in Heavenly Prison.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tengoku-de-akuma-ga-boku-wo-miwaku-suru.xrozq/"
-            },
-            "tengoku-de-akuma-ga-boku-wo-miwaku-suruu.xrozq": {
-                "identifier": "tengoku-de-akuma-ga-boku-wo-miwaku-suruu.xrozq",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7b/7bb25246fd933689d764999a5eab4f0e.jpg",
-                "malId": 154181,
-                "aniId": 147412,
-                "page": "MangaFire",
-                "title": "The Devil Fascinates Me in Heavenly Prison.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tengoku-de-akuma-ga-boku-wo-miwaku-suruu.xrozq/"
-            }
-        },
         "MangaSee": {
             "tengoku-de-akuma-ga-boku-wo-miwaku-suru": {
+                "id": 159902,
                 "identifier": "tengoku-de-akuma-ga-boku-wo-miwaku-suru",
                 "image": "https://temp.compsci88.com/cover/Tengoku-de-Akuma-ga-Boku-wo-Miwaku-Suru.jpg",
                 "malId": 154181,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg7ypazh7gnjk8dgm3dh": {
+                "id": 211258,
                 "identifier": "01j76xyg7ypazh7gnjk8dgm3dh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG7YPAZH7GNJK8DGM3DH.jpg",
                 "malId": 154181,
@@ -74,6 +56,32 @@
                 "title": "Tengoku de Akuma ga Boku wo Miwaku Suru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG7YPAZH7GNJK8DGM3DH"
+            }
+        },
+        "MangaFire": {
+            "xrozq": {
+                "id": 226490,
+                "identifier": "xrozq",
+                "image": "https://static.mangafire.to/ec0b/i/7/7b/7bb25246fd933689d764999a5eab4f0e.jpg",
+                "malId": 154181,
+                "aniId": 147412,
+                "page": "MangaFire",
+                "title": "The Devil Fascinates Me in Heavenly Prison.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tengoku-de-akuma-ga-boku-wo-miwaku-suruu.xrozq"
+            }
+        },
+        "MangaFox": {
+            "the_devil_fascinates_me_in_heavenly_prison": {
+                "id": 267715,
+                "identifier": "the_devil_fascinates_me_in_heavenly_prison",
+                "image": "https://fmcdn.mfcdn.net/store/manga/46638/cover.jpg",
+                "malId": 154181,
+                "aniId": 147412,
+                "page": "MangaFox",
+                "title": "The Devil Fascinates Me In Heavenly Prison",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/the_devil_fascinates_me_in_heavenly_prison/"
             }
         },
         "Comick": {

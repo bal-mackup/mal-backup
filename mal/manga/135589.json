@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0dbe42ce-7f4b-439a-9e59-854e21f39500": {
+                "id": 62758,
                 "identifier": "0dbe42ce-7f4b-439a-9e59-854e21f39500",
                 "image": "https://uploads.mangadex.org/covers/0dbe42ce-7f4b-439a-9e59-854e21f39500/779ed70f-043b-49f9-96a6-855accdc6e70.jpg",
                 "malId": 135589,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/0dbe42ce-7f4b-439a-9e59-854e21f39500"
             }
         },
-        "MangaFire": {
-            "blind-play.9o448": {
-                "identifier": "blind-play.9o448",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/260efb13f89cc1bd96e0bb63434925ea.jpg",
-                "malId": 135589,
-                "aniId": 129772,
-                "page": "MangaFire",
-                "title": "Blind Play",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/blind-play.9o448/"
-            }
-        },
         "MangaFox": {
             "blind_play": {
+                "id": 194027,
                 "identifier": "blind_play",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38257/cover.jpg",
                 "malId": 135589,
@@ -40,6 +30,19 @@
                 "title": "Blind Play",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/blind_play/"
+            }
+        },
+        "MangaFire": {
+            "9o448": {
+                "id": 247445,
+                "identifier": "9o448",
+                "image": "https://static.mangafire.to/8868/i/2/26/260efb13f89cc1bd96e0bb63434925ea.jpg",
+                "malId": 135589,
+                "aniId": 129772,
+                "page": "MangaFire",
+                "title": "Blind Play",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/blind-playy.9o448"
             }
         },
         "Comick": {

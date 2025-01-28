@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "636933aa-976e-4455-8082-36751a554be0": {
+                "id": 50550,
                 "identifier": "636933aa-976e-4455-8082-36751a554be0",
                 "image": "https://uploads.mangadex.org/covers/636933aa-976e-4455-8082-36751a554be0/a54fbfb1-a924-4086-b23a-3aaedee9f559.jpg",
                 "malId": 130524,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "unnamed-memory": {
+                "id": 60492,
                 "identifier": "unnamed-memory",
                 "image": "https://temp.compsci88.com/cover/Unnamed-Memory.jpg",
                 "malId": 130524,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ku987677": {
+                "id": 73737,
                 "identifier": "manga-ku987677",
                 "image": "https://avt.mkklcdnv6temp.com/7/p/23-1610851642.jpg",
                 "malId": 130524,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "unnamed_memory": {
+                "id": 88129,
                 "identifier": "unnamed_memory",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37119/cover.jpg",
                 "malId": 130524,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/unnamed_memory/"
             }
         },
-        "MangaFire": {
-            "unnamed-memory.vvokl": {
-                "identifier": "unnamed-memory.vvokl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/30377c4977779afcc46bbe7143ef764b.jpg",
-                "malId": 130524,
-                "aniId": 120039,
-                "page": "MangaFire",
-                "title": "Unnamed Memory",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/unnamed-memory.vvokl/"
-            },
-            "unnamed-memoryy.vvokl": {
-                "identifier": "unnamed-memoryy.vvokl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/30377c4977779afcc46bbe7143ef764b.jpg",
-                "malId": 130524,
-                "aniId": 120039,
-                "page": "MangaFire",
-                "title": "Unnamed Memory",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/unnamed-memoryy.vvokl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyebddnahwd9sxndfp284": {
+                "id": 208648,
                 "identifier": "01j76xyebddnahwd9sxndfp284",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEBDDNAHWD9SXNDFP284.jpg",
                 "malId": 130524,
@@ -86,6 +69,19 @@
                 "title": "Unnamed Memory",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEBDDNAHWD9SXNDFP284"
+            }
+        },
+        "MangaFire": {
+            "vvokl": {
+                "id": 226139,
+                "identifier": "vvokl",
+                "image": "https://static.mangafire.to/6038/i/3/30/30377c4977779afcc46bbe7143ef764b.jpg",
+                "malId": 130524,
+                "aniId": 120039,
+                "page": "MangaFire",
+                "title": "Unnamed Memory",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/unnamed-memoryy.vvokl"
             }
         },
         "Comick": {

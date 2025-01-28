@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3d6ccd3e-f430-4eed-b0bc-59f91803b83f": {
+                "id": 113851,
                 "identifier": "3d6ccd3e-f430-4eed-b0bc-59f91803b83f",
                 "image": "https://uploads.mangadex.org/covers/3d6ccd3e-f430-4eed-b0bc-59f91803b83f/12950b65-e38a-446a-85f6-2ae940f2c477.jpg",
                 "malId": 151358,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qw993631": {
+                "id": 122179,
                 "identifier": "manga-qw993631",
                 "image": "https://avt.mkklcdnv6temp.com/5/q/28-1674058720.jpg",
                 "malId": 151358,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qw993631"
             }
         },
-        "MangaFire": {
-            "welcome-home-papa.kw2mw": {
-                "identifier": "welcome-home-papa.kw2mw",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/1826bbe2080545668e760adf7f85992c.jpg",
-                "malId": 151358,
-                "aniId": 154376,
-                "page": "MangaFire",
-                "title": "Welcome Home, Papa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/welcome-home-papa.kw2mw/"
-            },
-            "welcome-home-papaa.kw2mw": {
-                "identifier": "welcome-home-papaa.kw2mw",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/1826bbe2080545668e760adf7f85992c.jpg",
-                "malId": 151358,
-                "aniId": 154376,
-                "page": "MangaFire",
-                "title": "Welcome Home, Papa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/welcome-home-papaa.kw2mw/"
-            }
-        },
         "MangaSee": {
             "welcome-back-papa": {
+                "id": 175630,
                 "identifier": "welcome-back-papa",
                 "image": "https://temp.compsci88.com/cover/Welcome-Back-Papa.jpg",
                 "malId": 151358,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygpahd9ysm9hx268zybq": {
+                "id": 206531,
                 "identifier": "01j76xygpahd9ysm9hx268zybq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGPAHD9YSM9HX268ZYBQ.jpg",
                 "malId": 151358,
@@ -74,6 +56,19 @@
                 "title": "Welcome Back, Papa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGPAHD9YSM9HX268ZYBQ"
+            }
+        },
+        "MangaFire": {
+            "kw2mw": {
+                "id": 225742,
+                "identifier": "kw2mw",
+                "image": "https://static.mangafire.to/4470/i/1/18/1826bbe2080545668e760adf7f85992c.jpg",
+                "malId": 151358,
+                "aniId": 154376,
+                "page": "MangaFire",
+                "title": "Welcome Home, Papa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/welcome-home-papaa.kw2mw"
             }
         },
         "Comick": {

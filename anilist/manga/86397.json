@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "25615380-1990-4094-916a-d1d64b23f811": {
+                "id": 11390,
                 "identifier": "25615380-1990-4094-916a-d1d64b23f811",
                 "image": "https://uploads.mangadex.org/covers/25615380-1990-4094-916a-d1d64b23f811/cdf74514-a7f3-4e7f-8cea-b00bad67adb6.jpg",
                 "malId": 78011,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mill": {
+                "id": 58924,
                 "identifier": "mill",
                 "image": "https://temp.compsci88.com/cover/Mill.jpg",
                 "malId": 78011,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Mill"
             }
         },
-        "MangaFire": {
-            "mill.woow4": {
-                "identifier": "mill.woow4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd774d1ef79f697f21dc6a65d5c6ab5.jpg",
-                "malId": 78011,
-                "aniId": 86397,
-                "page": "MangaFire",
-                "title": "Mill",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mill.woow4/"
-            },
-            "woow4": {
-                "identifier": "woow4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd774d1ef79f697f21dc6a65d5c6ab5.jpg",
-                "malId": 78011,
-                "aniId": 86397,
-                "page": "MangaFire",
-                "title": "Mill",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mill.woow4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyac4dv67sp136v11p3zc": {
+                "id": 207597,
                 "identifier": "01j76xyac4dv67sp136v11p3zc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAC4DV67SP136V11P3ZC.jpg",
                 "malId": 78011,
@@ -62,6 +43,19 @@
                 "title": "Mill",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAC4DV67SP136V11P3ZC"
+            }
+        },
+        "MangaFire": {
+            "woow4": {
+                "id": 255574,
+                "identifier": "woow4",
+                "image": "https://static.mangafire.to/ba56/i/1/1d/1dd774d1ef79f697f21dc6a65d5c6ab5.jpg",
+                "malId": 78011,
+                "aniId": 86397,
+                "page": "MangaFire",
+                "title": "Mill",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/milll.woow4"
             }
         },
         "Comick": {

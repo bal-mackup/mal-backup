@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4679a233-5cc4-46cd-a3e2-033a071a3f21": {
+                "id": 15824,
                 "identifier": "4679a233-5cc4-46cd-a3e2-033a071a3f21",
                 "image": "https://uploads.mangadex.org/covers/4679a233-5cc4-46cd-a3e2-033a071a3f21/878d7af4-f6d0-4971-9135-643cb26362a2.jpg",
                 "malId": 102458,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "neko-no-otera-no-chion-san": {
+                "id": 56867,
                 "identifier": "neko-no-otera-no-chion-san",
                 "image": "https://temp.compsci88.com/cover/Neko-No-Otera-No-Chion-san.jpg",
                 "malId": 102458,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "neko_no_otera_no_chion_san": {
+                "id": 57550,
                 "identifier": "neko_no_otera_no_chion_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/23367/cover.jpg",
                 "malId": 102458,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xe974487": {
+                "id": 73282,
                 "identifier": "manga-xe974487",
                 "image": "https://avt.mkklcdnv6temp.com/45/a/14-1583491311.jpg",
                 "malId": 102458,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xe974487"
             }
         },
-        "MangaFire": {
-            "neko-no-otera-no-chion-san.80q4v": {
-                "identifier": "neko-no-otera-no-chion-san.80q4v",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d64353e30a5cc5a8e13bb9ee63bff505.jpg",
-                "malId": 102458,
-                "aniId": 98048,
-                "page": "MangaFire",
-                "title": "Neko no Otera no Chion-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-no-otera-no-chion-san.80q4v/"
-            },
-            "neko-no-otera-no-chion-sann.80q4v": {
-                "identifier": "neko-no-otera-no-chion-sann.80q4v",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d6/d64353e30a5cc5a8e13bb9ee63bff505.jpg",
-                "malId": 102458,
-                "aniId": 98048,
-                "page": "MangaFire",
-                "title": "Neko no Otera no Chion-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-no-otera-no-chion-sann.80q4v/"
-            }
-        },
         "Weebcentral": {
             "01j76xycd12t15kmqn8xkszjrr": {
+                "id": 207289,
                 "identifier": "01j76xycd12t15kmqn8xkszjrr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCD12T15KMQN8XKSZJRR.jpg",
                 "malId": 102458,
@@ -86,6 +69,19 @@
                 "title": "Neko no Otera no Chion-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCD12T15KMQN8XKSZJRR"
+            }
+        },
+        "MangaFire": {
+            "80q4v": {
+                "id": 227473,
+                "identifier": "80q4v",
+                "image": "https://static.mangafire.to/df61/i/d/d6/d64353e30a5cc5a8e13bb9ee63bff505.jpg",
+                "malId": 102458,
+                "aniId": 98048,
+                "page": "MangaFire",
+                "title": "Neko no Otera no Chion-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neko-no-otera-no-chion-sann.80q4v"
             }
         },
         "Comick": {

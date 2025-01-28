@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "719634b0-22c0-4eeb-a4a6-504570d36d5b": {
+                "id": 54387,
                 "identifier": "719634b0-22c0-4eeb-a4a6-504570d36d5b",
                 "image": "https://uploads.mangadex.org/covers/719634b0-22c0-4eeb-a4a6-504570d36d5b/861e55f7-e935-478f-8ad4-1a28f7215b6f.jpg",
                 "malId": 125911,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ow991479": {
+                "id": 108926,
                 "identifier": "manga-ow991479",
                 "image": "https://avt.mkklcdnv6temp.com/18/m/26-1656953376.jpg",
                 "malId": 125911,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ow991479"
             }
         },
-        "MangaFire": {
-            "textbook-of-revenge.pryzq": {
-                "identifier": "textbook-of-revenge.pryzq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3b/3be7a823d7ef29d271215cbd97d80821.jpg",
-                "malId": 125911,
-                "aniId": 121359,
-                "page": "MangaFire",
-                "title": "Textbook of Revenge",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/textbook-of-revenge.pryzq/"
-            }
-        },
         "MangaFox": {
             "fukushuu_no_kyoukasho": {
+                "id": 183433,
                 "identifier": "fukushuu_no_kyoukasho",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39937/cover.jpg",
                 "malId": 125911,
@@ -52,6 +43,19 @@
                 "title": "Fukushuu no Kyoukasho",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/fukushuu_no_kyoukasho/"
+            }
+        },
+        "MangaFire": {
+            "pryzq": {
+                "id": 248768,
+                "identifier": "pryzq",
+                "image": "https://static.mangafire.to/ae04/i/3/3b/3be7a823d7ef29d271215cbd97d80821.jpg",
+                "malId": 125911,
+                "aniId": 121359,
+                "page": "MangaFire",
+                "title": "Textbook of Revenge",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/textbook-of-revengee.pryzq"
             }
         },
         "Comick": {

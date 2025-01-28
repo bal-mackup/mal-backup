@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1dee26e0-011c-458b-a62f-32112a96cef0": {
+                "id": 30205,
                 "identifier": "1dee26e0-011c-458b-a62f-32112a96cef0",
                 "image": "https://uploads.mangadex.org/covers/1dee26e0-011c-458b-a62f-32112a96cef0/e52eb069-71e9-4df4-b083-2e2254500a1c.jpg",
                 "malId": 147957,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-girl-downstairs": {
+                "id": 58872,
                 "identifier": "the-girl-downstairs",
                 "image": "https://temp.compsci88.com/cover/The-Girl-Downstairs.jpg",
                 "malId": 147957,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gg984263": {
+                "id": 83965,
                 "identifier": "manga-gg984263",
                 "image": "https://avt.mkklcdnv6temp.com/19/p/20-1583501778.jpg",
                 "malId": 147957,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-gg984263"
             }
         },
-        "MangaFire": {
-            "lee-doona.kwwvv": {
-                "identifier": "lee-doona.kwwvv",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00fb61202ede0dc8cae072dbcbc49557.jpg",
-                "malId": 147957,
-                "aniId": 113328,
-                "page": "MangaFire",
-                "title": "The Girl Downstairs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lee-doona.kwwvv/"
-            },
-            "lee-doonaa.kwwvv": {
-                "identifier": "lee-doonaa.kwwvv",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00fb61202ede0dc8cae072dbcbc49557.jpg",
-                "malId": 147957,
-                "aniId": 113328,
-                "page": "MangaFire",
-                "title": "The Girl Downstairs",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lee-doonaa.kwwvv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd42hsqzjs6m5ata9hq7": {
+                "id": 214225,
                 "identifier": "01j76xyd42hsqzjs6m5ata9hq7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD42HSQZJS6M5ATA9HQ7.jpg",
                 "malId": 147957,
@@ -74,6 +56,19 @@
                 "title": "The Girl Downstairs",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD42HSQZJS6M5ATA9HQ7"
+            }
+        },
+        "MangaFire": {
+            "kwwvv": {
+                "id": 226909,
+                "identifier": "kwwvv",
+                "image": "https://static.mangafire.to/5c30/i/0/00/00fb61202ede0dc8cae072dbcbc49557.jpg",
+                "malId": 147957,
+                "aniId": 113328,
+                "page": "MangaFire",
+                "title": "The Girl Downstairs",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lee-doonaa.kwwvv"
             }
         },
         "Comick": {

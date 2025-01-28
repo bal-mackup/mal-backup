@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "093a607f-5e60-454c-ad23-16797e6bec4b": {
+                "id": 58678,
                 "identifier": "093a607f-5e60-454c-ad23-16797e6bec4b",
                 "image": "https://uploads.mangadex.org/covers/093a607f-5e60-454c-ad23-16797e6bec4b/8c72d2b6-da49-4cc9-bcc4-14073e4435c4.jpg",
                 "malId": 131329,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/093a607f-5e60-454c-ad23-16797e6bec4b"
             }
         },
-        "MangaFire": {
-            "housewife-x-jk.zlrr3": {
-                "identifier": "housewife-x-jk.zlrr3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b89ba1720800fc298a31222cd1b77171.jpg",
-                "malId": 131329,
-                "aniId": 130551,
-                "page": "MangaFire",
-                "title": "Housewife X JK",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/housewife-x-jk.zlrr3/"
-            },
-            "housewife-x-jkk.zlrr3": {
-                "identifier": "housewife-x-jkk.zlrr3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b89ba1720800fc298a31222cd1b77171.jpg",
-                "malId": 131329,
-                "aniId": 130551,
-                "page": "MangaFire",
-                "title": "Housewife X JK",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/housewife-x-jkk.zlrr3/"
-            }
-        },
         "MangaNato": {
             "manga-sl995994": {
+                "id": 156342,
                 "identifier": "manga-sl995994",
                 "image": "https://avt.mkklcdnv6temp.com/fld/99/l/14-1733306527-nw.webp",
                 "malId": 131329,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "hitozuma_to_jk": {
+                "id": 189741,
                 "identifier": "hitozuma_to_jk",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40303/cover.jpg",
                 "malId": 131329,
@@ -62,6 +43,19 @@
                 "title": "Hitozuma to JK",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/hitozuma_to_jk/"
+            }
+        },
+        "MangaFire": {
+            "zlrr3": {
+                "id": 227522,
+                "identifier": "zlrr3",
+                "image": "https://static.mangafire.to/0c20/i/b/b8/b89ba1720800fc298a31222cd1b77171.jpg",
+                "malId": 131329,
+                "aniId": 130551,
+                "page": "MangaFire",
+                "title": "Housewife X JK",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/housewife-x-jkk.zlrr3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38a89cab-9a61-4adb-ad5f-f079064027a0": {
+                "id": 36550,
                 "identifier": "38a89cab-9a61-4adb-ad5f-f079064027a0",
                 "image": "https://uploads.mangadex.org/covers/38a89cab-9a61-4adb-ad5f-f079064027a0/397c1070-1e65-46f9-9a5c-14e07f7baf9f.jpg",
                 "malId": 127449,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-other-worlds-wizard-does-not-chant": {
+                "id": 56683,
                 "identifier": "the-other-worlds-wizard-does-not-chant",
                 "image": "https://temp.compsci88.com/cover/The-Other-Worlds-Wizard-Does-Not-Chant.jpg",
                 "malId": 127449,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_other_world_s_wizard_does_not_chant": {
+                "id": 60361,
                 "identifier": "the_other_world_s_wizard_does_not_chant",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34349/cover.jpg",
                 "malId": 127449,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/the_other_world_s_wizard_does_not_chant/"
             },
             "isekai_majutsu_shi_wa_mahou_wo_tonaenai": {
+                "id": 66863,
                 "identifier": "isekai_majutsu_shi_wa_mahou_wo_tonaenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35918/cover.jpg",
                 "malId": 127449,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-jb986536": {
+                "id": 76377,
                 "identifier": "manga-jb986536",
                 "image": "https://avt.mkklcdnv6temp.com/10/v/22-1599539358.jpg",
                 "malId": 127449,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-jb986536"
             }
         },
-        "MangaFire": {
-            "isekai-majutsushi-wa-mahou-o-tonaenai.rlrxp": {
-                "identifier": "isekai-majutsushi-wa-mahou-o-tonaenai.rlrxp",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/221fe2b61c6a44b2415d83b539177379.jpg",
-                "malId": 127449,
-                "aniId": 119973,
-                "page": "MangaFire",
-                "title": "The another world's wizard does not chant.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-majutsushi-wa-mahou-o-tonaenai.rlrxp/"
-            },
-            "isekai-majutsushi-wa-mahou-o-tonaenaii.rlrxp": {
-                "identifier": "isekai-majutsushi-wa-mahou-o-tonaenaii.rlrxp",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/221fe2b61c6a44b2415d83b539177379.jpg",
-                "malId": 127449,
-                "aniId": 119973,
-                "page": "MangaFire",
-                "title": "The another world's wizard does not chant.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-majutsushi-wa-mahou-o-tonaenaii.rlrxp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydy0pph5jjnfkdz8ax9k": {
+                "id": 209633,
                 "identifier": "01j76xydy0pph5jjnfkdz8ax9k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDY0PPH5JJNFKDZ8AX9K.jpg",
                 "malId": 127449,
@@ -96,6 +80,19 @@
                 "title": "The Other World's Wizard Does Not Chant",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDY0PPH5JJNFKDZ8AX9K"
+            }
+        },
+        "MangaFire": {
+            "rlrxp": {
+                "id": 224706,
+                "identifier": "rlrxp",
+                "image": "https://static.mangafire.to/7611/i/2/22/221fe2b61c6a44b2415d83b539177379.jpg",
+                "malId": 127449,
+                "aniId": 119973,
+                "page": "MangaFire",
+                "title": "The another world's wizard does not chant.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-majutsushi-wa-mahou-o-tonaenaii.rlrxp"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ea875465-a91d-4d99-b9f1-4d96aa1789c5": {
+                "id": 118692,
                 "identifier": "ea875465-a91d-4d99-b9f1-4d96aa1789c5",
                 "image": "https://uploads.mangadex.org/covers/ea875465-a91d-4d99-b9f1-4d96aa1789c5/c59b0e6d-6784-4104-bfa9-04b031e2f6c4.jpg",
                 "malId": 153804,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ichigokis-under-control": {
+                "id": 120673,
                 "identifier": "ichigokis-under-control",
                 "image": "https://temp.compsci88.com/cover/Ichigokis-Under-Control.jpg",
                 "malId": 153804,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Ichigokis-Under-Control"
             }
         },
-        "MangaFire": {
-            "ichigooki-soujuu-chuu.jjrrn": {
-                "identifier": "ichigooki-soujuu-chuu.jjrrn",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b91e4df46cac5e53ffc4622e70e4a982.jpg",
-                "malId": 153804,
-                "aniId": 156668,
-                "page": "MangaFire",
-                "title": "Ichigoki's Under Control!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ichigooki-soujuu-chuu.jjrrn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfvqafzjsq77z5jnvrb0": {
+                "id": 209305,
                 "identifier": "01j76xyfvqafzjsq77z5jnvrb0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFVQAFZJSQ77Z5JNVRB0.jpg",
                 "malId": 153804,
@@ -52,6 +43,19 @@
                 "title": "Ichigoki's Under Control!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFVQAFZJSQ77Z5JNVRB0"
+            }
+        },
+        "MangaFire": {
+            "jjrrn": {
+                "id": 260722,
+                "identifier": "jjrrn",
+                "image": "https://static.mangafire.to/3c0f/i/b/b9/b91e4df46cac5e53ffc4622e70e4a982.jpg",
+                "malId": 153804,
+                "aniId": 156668,
+                "page": "MangaFire",
+                "title": "Ichigoki's Under Control!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ichigooki-soujuu-chuuu.jjrrn"
             }
         },
         "Comick": {

@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "00893d86-c910-4247-b5cb-a2a0e0380012": {
+                "id": 17815,
                 "identifier": "00893d86-c910-4247-b5cb-a2a0e0380012",
                 "image": "https://uploads.mangadex.org/covers/00893d86-c910-4247-b5cb-a2a0e0380012/f0f68fd1-2129-433b-a2a9-d9b6666b8587.jpg",
                 "malId": 103942,
                 "aniId": 98334,
                 "page": "Mangadex",
-                "title": "Ao no Flag",
+                "title": "Blue Flag",
                 "type": "manga",
                 "url": "https://mangadex.org/title/00893d86-c910-4247-b5cb-a2a0e0380012"
             }
         },
         "MangaSee": {
             "ao-no-flag": {
+                "id": 54871,
                 "identifier": "ao-no-flag",
                 "image": "https://temp.compsci88.com/cover/Ao-No-Flag.jpg",
                 "malId": 103942,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ao_no_flag": {
+                "id": 66814,
                 "identifier": "ao_no_flag",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25527/cover.jpg",
                 "malId": 103942,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zs976701": {
+                "id": 73129,
                 "identifier": "manga-zs976701",
                 "image": "https://avt.mkklcdnv6temp.com/29/m/15-1583492552.jpg",
                 "malId": 103942,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zs976701"
             }
         },
-        "MangaFire": {
-            "ao-no-flag.yywx": {
-                "identifier": "ao-no-flag.yywx",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f594d462ee29696d4fb5d5f8b01a1490.jpg",
-                "malId": 103942,
-                "aniId": 98334,
-                "page": "MangaFire",
-                "title": "Blue Flag",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ao-no-flag.yywx/"
-            },
-            "ao-no-flagg.yywx": {
-                "identifier": "ao-no-flagg.yywx",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f594d462ee29696d4fb5d5f8b01a1490.jpg",
-                "malId": 103942,
-                "aniId": 98334,
-                "page": "MangaFire",
-                "title": "Blue Flag",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ao-no-flagg.yywx/"
-            },
-            "yywx": {
-                "identifier": "yywx",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f594d462ee29696d4fb5d5f8b01a1490.jpg",
-                "malId": 103942,
-                "aniId": 98334,
-                "page": "MangaFire",
-                "title": "Blue Flag",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ao-no-flagg.yywx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc4rmjdtdcgj2jqephe7": {
+                "id": 208971,
                 "identifier": "01j76xyc4rmjdtdcgj2jqephe7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC4RMJDTDCGJ2JQEPHE7.jpg",
                 "malId": 103942,
@@ -96,6 +69,19 @@
                 "title": "Blue Flag",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC4RMJDTDCGJ2JQEPHE7"
+            }
+        },
+        "MangaFire": {
+            "yywx": {
+                "id": 224460,
+                "identifier": "yywx",
+                "image": "https://static.mangafire.to/533f/i/f/f5/f594d462ee29696d4fb5d5f8b01a1490.jpg",
+                "malId": 103942,
+                "aniId": 98334,
+                "page": "MangaFire",
+                "title": "Blue Flag",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ao-no-flagg.yywx"
             }
         },
         "Comick": {

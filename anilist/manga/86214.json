@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fcd90c82-eff5-4491-8abb-b529fa803b59": {
+                "id": 13067,
                 "identifier": "fcd90c82-eff5-4491-8abb-b529fa803b59",
                 "image": "https://uploads.mangadex.org/covers/fcd90c82-eff5-4491-8abb-b529fa803b59/a5708e37-ecd3-4c41-874c-a600b589054d.jpg",
                 "malId": 88991,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "skill-of-lure": {
+                "id": 54883,
                 "identifier": "skill-of-lure",
                 "image": "https://temp.compsci88.com/cover/Skill-Of-Lure.jpg",
                 "malId": 88991,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fr951674": {
+                "id": 74206,
                 "identifier": "manga-fr951674",
                 "image": "https://avt.mkklcdnv6temp.com/12/y/1-1583464178.jpg",
                 "malId": 88991,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "skill_of_lure": {
+                "id": 93419,
                 "identifier": "skill_of_lure",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15609/cover.jpg",
                 "malId": 88991,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/skill_of_lure/"
             }
         },
-        "MangaFire": {
-            "yuhogui-gisul.3r7j8": {
-                "identifier": "yuhogui-gisul.3r7j8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/953165633cc16f1b0afe870d079d2651.jpg",
-                "malId": 88991,
-                "aniId": 86214,
-                "page": "MangaFire",
-                "title": "Yuhogui Gisul",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuhogui-gisul.3r7j8/"
-            },
-            "yuhogui-gisull.3r7j8": {
-                "identifier": "yuhogui-gisull.3r7j8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/953165633cc16f1b0afe870d079d2651.jpg",
-                "malId": 88991,
-                "aniId": 86214,
-                "page": "MangaFire",
-                "title": "Yuhogui Gisul",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuhogui-gisull.3r7j8/"
-            },
-            "3r7j8": {
-                "identifier": "3r7j8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/953165633cc16f1b0afe870d079d2651.jpg",
-                "malId": 88991,
-                "aniId": 86214,
-                "page": "MangaFire",
-                "title": "Yuhogui Gisul",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuhogui-gisull.3r7j8/"
-            }
-        },
         "Weebcentral": {
             "01j76xybfaz76zpn54qpa6p4em": {
+                "id": 209377,
                 "identifier": "01j76xybfaz76zpn54qpa6p4em",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBFAZ76ZPN54QPA6P4EM.jpg",
                 "malId": 88991,
@@ -96,6 +69,19 @@
                 "title": "Skill of Lure",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBFAZ76ZPN54QPA6P4EM"
+            }
+        },
+        "MangaFire": {
+            "3r7j8": {
+                "id": 224685,
+                "identifier": "3r7j8",
+                "image": "https://static.mangafire.to/4a14/i/9/95/953165633cc16f1b0afe870d079d2651.jpg",
+                "malId": 88991,
+                "aniId": 86214,
+                "page": "MangaFire",
+                "title": "Yuhogui Gisul",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuhogui-gisull.3r7j8"
             }
         },
         "Comick": {

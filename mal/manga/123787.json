@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52697573-3d2b-4487-bb56-272b000bd7e1": {
+                "id": 27036,
                 "identifier": "52697573-3d2b-4487-bb56-272b000bd7e1",
                 "image": "https://uploads.mangadex.org/covers/52697573-3d2b-4487-bb56-272b000bd7e1/a0a66b9c-e66c-412c-8fde-963e90856901.jpg",
                 "malId": 123787,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-ka": {
+                "id": 61056,
                 "identifier": "choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-ka",
                 "image": "https://temp.compsci88.com/cover/Choppiri-Toshiue-Demo-Kanojo-ni-Shite-Kuremasu-ka.jpg",
                 "malId": 123787,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "choppiri_toshiue_demo_kanojo_ni_shite_kuremasu_ka": {
+                "id": 62228,
                 "identifier": "choppiri_toshiue_demo_kanojo_ni_shite_kuremasu_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31005/cover.jpg",
                 "malId": 123787,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fg982415": {
+                "id": 74187,
                 "identifier": "manga-fg982415",
                 "image": "https://avt.mkklcdnv6temp.com/50/y/18-1583499096.jpg",
                 "malId": 123787,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-fg982415"
             },
             "manga-sg995963": {
+                "id": 156412,
                 "identifier": "manga-sg995963",
                 "image": "https://avt.mkklcdnv6temp.com/fld/98/g/14-1733306455-nw.webp",
                 "malId": 123787,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-sg995963"
             }
         },
-        "MangaFire": {
-            "choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-ka.zlv1l": {
-                "identifier": "choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-ka.zlv1l",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10aabcef0a0e788c80c442820a98be58.jpg",
-                "malId": 123787,
-                "aniId": 110724,
-                "page": "MangaFire",
-                "title": "Are You Okay with a Slightly Older Girlfriend?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-ka.zlv1l/"
-            },
-            "choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-kaa.zlv1l": {
-                "identifier": "choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-kaa.zlv1l",
-                "image": "https://static.mangafire.to/6db3/i/1/10/10aabcef0a0e788c80c442820a98be58.jpg",
-                "malId": 123787,
-                "aniId": 110724,
-                "page": "MangaFire",
-                "title": "Are You Okay with a Slightly Older Girlfriend?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-kaa.zlv1l/"
-            }
-        },
         "Weebcentral": {
             "01j76xydf9945zh6b0qgev2h7q": {
+                "id": 210358,
                 "identifier": "01j76xydf9945zh6b0qgev2h7q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDF9945ZH6B0QGEV2H7Q.jpg",
                 "malId": 123787,
@@ -96,6 +80,19 @@
                 "title": "Are You Okay with a Slightly Older Girlfriend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDF9945ZH6B0QGEV2H7Q"
+            }
+        },
+        "MangaFire": {
+            "zlv1l": {
+                "id": 223729,
+                "identifier": "zlv1l",
+                "image": "https://static.mangafire.to/6db3/i/1/10/10aabcef0a0e788c80c442820a98be58.jpg",
+                "malId": 123787,
+                "aniId": 110724,
+                "page": "MangaFire",
+                "title": "Are You Okay with a Slightly Older Girlfriend?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-kaa.zlv1l"
             }
         },
         "Comick": {

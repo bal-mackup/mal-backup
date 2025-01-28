@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-pn992770": {
+                "id": 116449,
                 "identifier": "manga-pn992770",
                 "image": "https://avt.mkklcdnv6temp.com/21/a/27-1665973689.jpg",
                 "malId": 151622,
@@ -18,20 +19,9 @@
                 "url": "https://manganato.com/manga-pn992770"
             }
         },
-        "MangaFire": {
-            "loaf-app.3pxq8": {
-                "identifier": "loaf-app.3pxq8",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3941b2b9a70b61da017e461ffb2a397.jpg",
-                "malId": 151622,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Loaf App",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/loaf-app.3pxq8/"
-            }
-        },
         "MangaSee": {
             "loaf-app": {
+                "id": 191055,
                 "identifier": "loaf-app",
                 "image": "https://temp.compsci88.com/cover/Loaf-App.jpg",
                 "malId": 151622,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhavbj41jdewk9z2bm4m": {
+                "id": 208734,
                 "identifier": "01j76xyhavbj41jdewk9z2bm4m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAVBJ41JDEWK9Z2BM4M.jpg",
                 "malId": 151622,
@@ -52,6 +43,19 @@
                 "title": "Loaf App",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAVBJ41JDEWK9Z2BM4M"
+            }
+        },
+        "MangaFire": {
+            "3pxq8": {
+                "id": 236695,
+                "identifier": "3pxq8",
+                "image": "https://static.mangafire.to/8618/i/b/b3/b3941b2b9a70b61da017e461ffb2a397.jpg",
+                "malId": 151622,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Loaf App",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/loaf-appp.3pxq8"
             }
         }
     }

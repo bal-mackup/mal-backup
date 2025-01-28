@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1fad2582-24e0-47ff-86b0-f9ba68860123": {
+                "id": 106382,
                 "identifier": "1fad2582-24e0-47ff-86b0-f9ba68860123",
                 "image": "https://uploads.mangadex.org/covers/1fad2582-24e0-47ff-86b0-f9ba68860123/ed443797-8f65-46dc-8951-cb23cc1b8e99.jpg",
                 "malId": 140333,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-girlfriends-child": {
+                "id": 157775,
                 "identifier": "my-girlfriends-child",
                 "image": "https://temp.compsci88.com/cover/My-Girlfriends-Child.jpg",
                 "malId": 140333,
@@ -30,22 +32,11 @@
                 "url": "https://mangasee123.com/manga/My-Girlfriends-Child"
             }
         },
-        "MangaFire": {
-            "ano-ko-no-kodomo.zx18m": {
-                "identifier": "ano-ko-no-kodomo.zx18m",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/be7ed9ccc21fe6a83f6cda397f31389c.jpg",
-                "malId": 140333,
-                "aniId": 132364,
-                "page": "MangaFire",
-                "title": "My Girlfriend's Child",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ano-ko-no-kodomo.zx18m/"
-            }
-        },
         "MangaNato": {
             "manga-an1004222": {
+                "id": 197056,
                 "identifier": "manga-an1004222",
-                "image": "https://avt.mkklcdnv6temp.com/30/t/36-1726071534.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/13/z/18-1733328110-nw.webp",
                 "malId": 140333,
                 "aniId": 132364,
                 "page": "MangaNato",
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg4m0ghbte6ryrr5ae96": {
+                "id": 208721,
                 "identifier": "01j76xyg4m0ghbte6ryrr5ae96",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG4M0GHBTE6RYRR5AE96.jpg",
                 "malId": 140333,
@@ -64,6 +56,19 @@
                 "title": "My Girlfriend's Child",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG4M0GHBTE6RYRR5AE96"
+            }
+        },
+        "MangaFire": {
+            "zx18m": {
+                "id": 241066,
+                "identifier": "zx18m",
+                "image": "https://static.mangafire.to/ccaf/i/b/be/be7ed9ccc21fe6a83f6cda397f31389c.jpg",
+                "malId": 140333,
+                "aniId": 132364,
+                "page": "MangaFire",
+                "title": "My Girlfriend's Child",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ano-ko-no-kodomoo.zx18m"
             }
         },
         "Comick": {

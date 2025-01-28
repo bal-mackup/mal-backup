@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5b2c7a03-ca53-43f0-abc8-031c0c136ae6": {
+                "id": 19034,
                 "identifier": "5b2c7a03-ca53-43f0-abc8-031c0c136ae6",
                 "image": "https://uploads.mangadex.org/covers/5b2c7a03-ca53-43f0-abc8-031c0c136ae6/07917c0d-dd8d-47b7-92b8-ac833c0636ac.jpg",
                 "malId": 112694,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "fushigi_neko_no_kyuu_chan": {
+                "id": 62148,
                 "identifier": "fushigi_neko_no_kyuu_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27160/cover.jpg",
                 "malId": 112694,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "wonder-cat-kyuu-chan": {
+                "id": 66950,
                 "identifier": "wonder-cat-kyuu-chan",
                 "image": "https://temp.compsci88.com/cover/Wonder-Cat-Kyuu-chan.jpg",
                 "malId": 112694,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bw978679": {
+                "id": 76066,
                 "identifier": "manga-bw978679",
                 "image": "https://avt.mkklcdnv6temp.com/13/i/16-1583493953.jpg",
                 "malId": 112694,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bw978679"
             }
         },
-        "MangaFire": {
-            "wonder-cat-kyuu-chan.n370n": {
-                "identifier": "wonder-cat-kyuu-chan.n370n",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da509d43963dabe1ba9004479fe0d91a.jpg",
-                "malId": 112694,
-                "aniId": 101072,
-                "page": "MangaFire",
-                "title": "Wonder Cat Kyuu-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wonder-cat-kyuu-chan.n370n/"
-            },
-            "wonder-cat-kyuu-chann.n370n": {
-                "identifier": "wonder-cat-kyuu-chann.n370n",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da509d43963dabe1ba9004479fe0d91a.jpg",
-                "malId": 112694,
-                "aniId": 101072,
-                "page": "MangaFire",
-                "title": "Wonder Cat Kyuu-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wonder-cat-kyuu-chann.n370n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyejype2vc1hwmm6jcyn2": {
+                "id": 210537,
                 "identifier": "01j76xyejype2vc1hwmm6jcyn2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEJYPE2VC1HWMM6JCYN2.jpg",
                 "malId": 112694,
@@ -86,6 +69,19 @@
                 "title": "Wonder Cat Kyuu-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEJYPE2VC1HWMM6JCYN2"
+            }
+        },
+        "MangaFire": {
+            "n370n": {
+                "id": 224517,
+                "identifier": "n370n",
+                "image": "https://static.mangafire.to/7c4a/i/d/da/da509d43963dabe1ba9004479fe0d91a.jpg",
+                "malId": 112694,
+                "aniId": 101072,
+                "page": "MangaFire",
+                "title": "Wonder Cat Kyuu-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wonder-cat-kyuu-chann.n370n"
             }
         },
         "Comick": {

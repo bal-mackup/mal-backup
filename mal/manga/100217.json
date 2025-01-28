@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "915e4b42-5516-4299-9be7-e0e20acc04e2": {
+                "id": 16508,
                 "identifier": "915e4b42-5516-4299-9be7-e0e20acc04e2",
                 "image": "https://uploads.mangadex.org/covers/915e4b42-5516-4299-9be7-e0e20acc04e2/ec027053-dcca-41b2-8a10-16006ea39140.jpg",
                 "malId": 100217,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "uratarou": {
+                "id": 60304,
                 "identifier": "uratarou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22011/cover.jpg",
                 "malId": 100217,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "uratarou": {
+                "id": 69673,
                 "identifier": "uratarou",
                 "image": "https://temp.compsci88.com/cover/Uratarou.jpg",
                 "malId": 100217,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vj973018": {
+                "id": 87033,
                 "identifier": "manga-vj973018",
                 "image": "https://avt.mkklcdnv6temp.com/fld/74/b/7-1732786608-nw.webp",
                 "malId": 100217,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vj973018"
             }
         },
-        "MangaFire": {
-            "uratarou.3ryj9": {
-                "identifier": "uratarou.3ryj9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f4/f471bd2aa94bfee9ae485924f2efd4c9.jpg",
-                "malId": 100217,
-                "aniId": 97728,
-                "page": "MangaFire",
-                "title": "Uratarou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uratarou.3ryj9/"
-            },
-            "uratarouu.3ryj9": {
-                "identifier": "uratarouu.3ryj9",
-                "image": "https://static.mangafire.to/cccd/i/f/f4/f471bd2aa94bfee9ae485924f2efd4c9.jpg",
-                "malId": 100217,
-                "aniId": 97728,
-                "page": "MangaFire",
-                "title": "Uratarou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uratarouu.3ryj9/"
-            },
-            "3ryj9": {
-                "identifier": "3ryj9",
-                "image": "https://static.mangafire.to/cccd/i/f/f4/f471bd2aa94bfee9ae485924f2efd4c9.jpg",
-                "malId": 100217,
-                "aniId": 97728,
-                "page": "MangaFire",
-                "title": "Uratarou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/uratarouu.3ryj9/"
-            }
-        },
         "Weebcentral": {
             "01j76xybxcwx9tjme6vr8e6zt2": {
+                "id": 207482,
                 "identifier": "01j76xybxcwx9tjme6vr8e6zt2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBXCWX9TJME6VR8E6ZT2.jpg",
                 "malId": 100217,
@@ -96,6 +69,19 @@
                 "title": "Uratarou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBXCWX9TJME6VR8E6ZT2"
+            }
+        },
+        "MangaFire": {
+            "3ryj9": {
+                "id": 222848,
+                "identifier": "3ryj9",
+                "image": "https://static.mangafire.to/cccd/i/f/f4/f471bd2aa94bfee9ae485924f2efd4c9.jpg",
+                "malId": 100217,
+                "aniId": 97728,
+                "page": "MangaFire",
+                "title": "Uratarou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/uratarouu.3ryj9"
             }
         },
         "Comick": {

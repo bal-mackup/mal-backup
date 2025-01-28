@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67780f54-1760-4bc8-998f-268868e668e9": {
+                "id": 36806,
                 "identifier": "67780f54-1760-4bc8-998f-268868e668e9",
                 "image": "https://uploads.mangadex.org/covers/67780f54-1760-4bc8-998f-268868e668e9/df962f0a-e7ba-4c16-9a2f-88986209fce3.jpg",
                 "malId": 123095,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "senki_to_yobareta_otoko_puke_ni_ansatsu_saretara_musume_wo_hiroi_issho_ni_slow_life_wo_hajimeru": {
+                "id": 67953,
                 "identifier": "senki_to_yobareta_otoko_puke_ni_ansatsu_saretara_musume_wo_hiroi_issho_ni_slow_life_wo_hajimeru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34941/cover.jpg",
                 "malId": 123095,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/senki_to_yobareta_otoko_puke_ni_ansatsu_saretara_musume_wo_hiroi_issho_ni_slow_life_wo_hajimeru/"
             },
             "senki_to_yobareta_otoko_ouke_ni_ansatsu_saretara_musume_wo_hiroi_issho_ni_slow_life_wo_hajimeru": {
+                "id": 118877,
                 "identifier": "senki_to_yobareta_otoko_ouke_ni_ansatsu_saretara_musume_wo_hiroi_issho_ni_slow_life_wo_hajimeru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40907/cover.jpg",
                 "malId": 123095,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-kn988322": {
+                "id": 73640,
                 "identifier": "manga-kn988322",
                 "image": "https://avt.mkklcdnv6temp.com/34/a/23-1614392553.jpg",
                 "malId": 123095,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "senki-to-yobareta-otoko": {
+                "id": 87301,
                 "identifier": "senki-to-yobareta-otoko",
                 "image": "https://temp.compsci88.com/cover/Senki-to-Yobareta-Otoko.jpg",
                 "malId": 123095,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Senki-to-Yobareta-Otoko"
             }
         },
-        "MangaFire": {
-            "senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeru.2o500": {
-                "identifier": "senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeru.2o500",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f48440561e5c1ea6fde7f9c28c54375.jpg",
-                "malId": 123095,
-                "aniId": 130057,
-                "page": "MangaFire",
-                "title": "Senki to Yobareta Otoko, Ouke ni Ansatsu Saretara Musume wo Hiroi, Issho ni Slow Life wo Hajimeru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeru.2o500/"
-            },
-            "senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeruu.2o500": {
-                "identifier": "senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeruu.2o500",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7f48440561e5c1ea6fde7f9c28c54375.jpg",
-                "malId": 123095,
-                "aniId": 130057,
-                "page": "MangaFire",
-                "title": "Senki to Yobareta Otoko, Ouke ni Ansatsu Saretara Musume wo Hiroi, Issho ni Slow Life wo Hajimeru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeruu.2o500/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf29fwwaybj3as8knt3w": {
+                "id": 206238,
                 "identifier": "01j76xyf29fwwaybj3as8knt3w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF29FWWAYBJ3AS8KNT3W.jpg",
                 "malId": 123095,
@@ -96,6 +80,19 @@
                 "title": "Senki to Yobareta Otoko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF29FWWAYBJ3AS8KNT3W"
+            }
+        },
+        "MangaFire": {
+            "2o500": {
+                "id": 227790,
+                "identifier": "2o500",
+                "image": "https://static.mangafire.to/aa08/i/7/7f/7f48440561e5c1ea6fde7f9c28c54375.jpg",
+                "malId": 123095,
+                "aniId": 130057,
+                "page": "MangaFire",
+                "title": "Senki to Yobareta Otoko, Ouke ni Ansatsu Saretara Musume wo Hiroi, Issho ni Slow Life wo Hajimeru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeruu.2o500"
             }
         },
         "Comick": {

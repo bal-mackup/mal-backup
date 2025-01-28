@@ -6,20 +6,9 @@
     "total": 5,
     "image": "https://cdn.myanimelist.net/images/manga/1/273122.jpg",
     "Sites": {
-        "MangaFire": {
-            "gwanggong-apartment-complex-blindspot.0rwv3": {
-                "identifier": "gwanggong-apartment-complex-blindspot.0rwv3",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/392f200eecb957c61b07f7f9cc148ed8.jpg",
-                "malId": 151518,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "[GwangGong Apartment Complex] Blindspot",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gwanggong-apartment-complex-blindspot.0rwv3/"
-            }
-        },
         "MangaNato": {
             "manga-tb996636": {
+                "id": 184149,
                 "identifier": "manga-tb996636",
                 "image": "https://avt.mkklcdnv6temp.com/fld/23/z/15-1733308017-nw.webp",
                 "malId": 151518,
@@ -30,6 +19,7 @@
                 "url": "https://chapmanganato.to/manga-tb996636"
             },
             "manga-cy1006307": {
+                "id": 221657,
                 "identifier": "manga-cy1006307",
                 "image": "https://avt.mkklcdnv6temp.com/fld/88/m/18-1734363223.jpg",
                 "malId": 151518,
@@ -38,6 +28,19 @@
                 "title": "Blindspot",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-cy1006307"
+            }
+        },
+        "MangaFire": {
+            "0rwv3": {
+                "id": 238637,
+                "identifier": "0rwv3",
+                "image": "https://static.mangafire.to/3e32/i/3/39/392f200eecb957c61b07f7f9cc148ed8.jpg",
+                "malId": 151518,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "[GwangGong Apartment Complex] Blindspot",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gwanggong-apartment-complex-blindspott.0rwv3"
             }
         }
     }

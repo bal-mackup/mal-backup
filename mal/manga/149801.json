@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d5c0896a-d4d5-4ee0-8bf1-a113cb1b86ac": {
+                "id": 106433,
                 "identifier": "d5c0896a-d4d5-4ee0-8bf1-a113cb1b86ac",
                 "image": "https://uploads.mangadex.org/covers/d5c0896a-d4d5-4ee0-8bf1-a113cb1b86ac/136c7a9d-e081-46c8-9a7a-962c6b600a42.jpg",
                 "malId": 149801,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nk991067": {
+                "id": 106536,
                 "identifier": "manga-nk991067",
                 "image": "https://avt.mkklcdnv6temp.com/50/a/25-1654472802.jpg",
                 "malId": 149801,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "academy_s_undercover_professor": {
+                "id": 107145,
                 "identifier": "academy_s_undercover_professor",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42903/cover.jpg",
                 "malId": 149801,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "the-academys-undercover-professor": {
+                "id": 116240,
                 "identifier": "the-academys-undercover-professor",
                 "image": "https://temp.compsci88.com/cover/The-Academys-Undercover-Professor.jpg",
                 "malId": 149801,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/The-Academys-Undercover-Professor"
             }
         },
-        "MangaFire": {
-            "academys-undercover-professor.oonk8": {
-                "identifier": "academys-undercover-professor.oonk8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/661d9cd966ac9f75eea0b8110fde064f.jpg",
-                "malId": 149801,
-                "aniId": 150836,
-                "page": "MangaFire",
-                "title": "The Academy's Undercover Professor",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/academys-undercover-professor.oonk8/"
-            },
-            "academys-undercover-professorr.oonk8": {
-                "identifier": "academys-undercover-professorr.oonk8",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/661d9cd966ac9f75eea0b8110fde064f.jpg",
-                "malId": 149801,
-                "aniId": 150836,
-                "page": "MangaFire",
-                "title": "The Academy's Undercover Professor",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/academys-undercover-professorr.oonk8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfqbdvr1hq759mgfk2e9": {
+                "id": 206618,
                 "identifier": "01j76xyfqbdvr1hq759mgfk2e9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFQBDVR1HQ759MGFK2E9.jpg",
                 "malId": 149801,
@@ -86,6 +69,19 @@
                 "title": "The Academy's Undercover Professor",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFQBDVR1HQ759MGFK2E9"
+            }
+        },
+        "MangaFire": {
+            "oonk8": {
+                "id": 228099,
+                "identifier": "oonk8",
+                "image": "https://static.mangafire.to/5527/i/6/66/661d9cd966ac9f75eea0b8110fde064f.jpg",
+                "malId": 149801,
+                "aniId": 150836,
+                "page": "MangaFire",
+                "title": "The Academy's Undercover Professor",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/academys-undercover-professorr.oonk8"
             }
         },
         "Comick": {

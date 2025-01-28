@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0d54319a-5200-4c1a-a61b-e9adcbdecb4e": {
+                "id": 31763,
                 "identifier": "0d54319a-5200-4c1a-a61b-e9adcbdecb4e",
                 "image": "https://uploads.mangadex.org/covers/0d54319a-5200-4c1a-a61b-e9adcbdecb4e/2dacfad2-b0ab-4207-a92e-d57a5a01742a.jpg",
                 "malId": 124006,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/0d54319a-5200-4c1a-a61b-e9adcbdecb4e"
             }
         },
-        "MangaFire": {
-            "jikobukken-no-yuurei-chan.qkx4n": {
-                "identifier": "jikobukken-no-yuurei-chan.qkx4n",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d3f8eaf19cd54278e3ab97e0e63b802a.jpg",
-                "malId": 124006,
-                "aniId": 118653,
-                "page": "MangaFire",
-                "title": "Jikobukken no Yuurei-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jikobukken-no-yuurei-chan.qkx4n/"
-            }
-        },
         "MangaFox": {
             "jikobukken_no_yuurei_chan": {
+                "id": 172762,
                 "identifier": "jikobukken_no_yuurei_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42842/cover.jpg",
                 "malId": 124006,
@@ -44,6 +34,7 @@
         },
         "MangaNato": {
             "manga-xa1000809": {
+                "id": 181517,
                 "identifier": "manga-xa1000809",
                 "image": "https://avt.mkklcdnv6temp.com/fld/83/h/16-1733319361-nw.webp",
                 "malId": 124006,
@@ -52,6 +43,19 @@
                 "title": "Jikobukken No Yuurei-Chan",
                 "type": "manga",
                 "url": "https://manganato.com/manga-xa1000809"
+            }
+        },
+        "MangaFire": {
+            "qkx4n": {
+                "id": 258268,
+                "identifier": "qkx4n",
+                "image": "https://static.mangafire.to/6d55/i/d/d3/d3f8eaf19cd54278e3ab97e0e63b802a.jpg",
+                "malId": 124006,
+                "aniId": 118653,
+                "page": "MangaFire",
+                "title": "Jikobukken no Yuurei-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jikobukken-no-yuurei-chann.qkx4n"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7b29f645-7dbf-46b1-8534-b70b5859c49a": {
+                "id": 61805,
                 "identifier": "7b29f645-7dbf-46b1-8534-b70b5859c49a",
                 "image": "https://uploads.mangadex.org/covers/7b29f645-7dbf-46b1-8534-b70b5859c49a/353323c7-bfd2-4111-a9be-8c9b355b39a3.jpg",
                 "malId": 151535,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lg989241": {
+                "id": 80868,
                 "identifier": "manga-lg989241",
                 "image": "https://avt.mkklcdnv6temp.com/22/i/24-1625330272.jpg",
                 "malId": 151535,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "an_animal_hospital_in_the_border_area": {
+                "id": 84872,
                 "identifier": "an_animal_hospital_in_the_border_area",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38805/cover.jpg",
                 "malId": 151535,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/an_animal_hospital_in_the_border_area/"
             }
         },
-        "MangaFire": {
-            "the-legendary-beasts-animal-hospital.4j92m": {
-                "identifier": "the-legendary-beasts-animal-hospital.4j92m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/97d8384983a869aad1ead5c98f520ff0.jpg",
-                "malId": 151535,
-                "aniId": 143373,
-                "page": "MangaFire",
-                "title": "The Legendary Beasts Animal Hospital",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-legendary-beasts-animal-hospital.4j92m/"
-            }
-        },
         "MangaSee": {
             "the-legendary-beasts-animal-hospital": {
+                "id": 181103,
                 "identifier": "the-legendary-beasts-animal-hospital",
                 "image": "https://temp.compsci88.com/cover/The-Legendary-Beasts-Animal-Hospital.jpg",
                 "malId": 151535,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygwg3h1epfpbteajf83w": {
+                "id": 209770,
                 "identifier": "01j76xygwg3h1epfpbteajf83w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWG3H1EPFPBTEAJF83W.jpg",
                 "malId": 151535,
@@ -76,6 +69,19 @@
                 "title": "The Legendary Beasts Animal Hospital",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWG3H1EPFPBTEAJF83W"
+            }
+        },
+        "MangaFire": {
+            "4j92m": {
+                "id": 235256,
+                "identifier": "4j92m",
+                "image": "https://static.mangafire.to/56c6/i/9/97/97d8384983a869aad1ead5c98f520ff0.jpg",
+                "malId": 151535,
+                "aniId": 143373,
+                "page": "MangaFire",
+                "title": "The Legendary Beasts Animal Hospital",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-legendary-beasts-animal-hospitall.4j92m"
             }
         }
     },

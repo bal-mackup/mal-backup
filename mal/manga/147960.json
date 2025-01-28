@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "warrior-executioner": {
+                "id": 105293,
                 "identifier": "warrior-executioner",
                 "image": "https://temp.compsci88.com/cover/Warrior-Executioner.jpg",
                 "malId": 147960,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "21244d13-e54c-4abd-b67e-fcd97bbe45ef": {
+                "id": 121228,
                 "identifier": "21244d13-e54c-4abd-b67e-fcd97bbe45ef",
                 "image": "https://uploads.mangadex.org/covers/21244d13-e54c-4abd-b67e-fcd97bbe45ef/da40879c-c03b-4547-9fcb-eb253e6a3b69.jpg",
                 "malId": 147960,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/21244d13-e54c-4abd-b67e-fcd97bbe45ef"
             }
         },
-        "MangaFire": {
-            "warrior-executioner.ykn3j": {
-                "identifier": "warrior-executioner.ykn3j",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e0/e0f29a9565add67ed611c571ee23c5fe.jpg",
-                "malId": 147960,
-                "aniId": 157558,
-                "page": "MangaFire",
-                "title": "Warrior Executioner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/warrior-executioner.ykn3j/"
-            },
-            "warrior-executionerr.ykn3j": {
-                "identifier": "warrior-executionerr.ykn3j",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e0/e0f29a9565add67ed611c571ee23c5fe.jpg",
-                "malId": 147960,
-                "aniId": 157558,
-                "page": "MangaFire",
-                "title": "Warrior Executioner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/warrior-executionerr.ykn3j/"
-            }
-        },
         "MangaNato": {
             "manga-vu998455": {
+                "id": 171574,
                 "identifier": "manga-vu998455",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/h/15-1733312487-nw.webp",
                 "malId": 147960,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfesnf58ye33eh330tr8": {
+                "id": 208662,
                 "identifier": "01j76xyfesnf58ye33eh330tr8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFESNF58YE33EH330TR8.jpg",
                 "malId": 147960,
@@ -74,6 +56,19 @@
                 "title": "Warrior Executioner",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFESNF58YE33EH330TR8"
+            }
+        },
+        "MangaFire": {
+            "ykn3j": {
+                "id": 226289,
+                "identifier": "ykn3j",
+                "image": "https://static.mangafire.to/6c7f/i/e/e0/e0f29a9565add67ed611c571ee23c5fe.jpg",
+                "malId": 147960,
+                "aniId": 157558,
+                "page": "MangaFire",
+                "title": "Warrior Executioner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/warrior-executionerr.ykn3j"
             }
         }
     },

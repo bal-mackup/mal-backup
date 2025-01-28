@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4674a871-c6e7-4e7e-a304-38586c03bcb1": {
+                "id": 122002,
                 "identifier": "4674a871-c6e7-4e7e-a304-38586c03bcb1",
                 "image": "https://uploads.mangadex.org/covers/4674a871-c6e7-4e7e-a304-38586c03bcb1/cecec63d-69bf-4386-9a41-1438d4368b85.jpg",
                 "malId": 155264,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jiangshi-x": {
+                "id": 123416,
                 "identifier": "jiangshi-x",
                 "image": "https://temp.compsci88.com/cover/Jiangshi-X.jpg",
                 "malId": 155264,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jiangshi_x": {
+                "id": 127255,
                 "identifier": "jiangshi_x",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44391/cover.jpg",
                 "malId": 155264,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/jiangshi_x/"
             }
         },
-        "MangaFire": {
-            "jiangshi-x.kkvvw": {
-                "identifier": "jiangshi-x.kkvvw",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e9d863937623e012ac728f788cf9b701.jpg",
-                "malId": 155264,
-                "aniId": 160595,
-                "page": "MangaFire",
-                "title": "Jiangshi X",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jiangshi-x.kkvvw/"
-            }
-        },
         "MangaNato": {
             "manga-rr994974": {
+                "id": 157073,
                 "identifier": "manga-rr994974",
                 "image": "https://avt.mkklcdnv6temp.com/fld/60/p/14-1733304239-nw.webp",
                 "malId": 155264,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyfxd9ffca44btxy5ehkp": {
+                "id": 206908,
                 "identifier": "01j76xyfxd9ffca44btxy5ehkp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFXD9FFCA44BTXY5EHKP.jpg",
                 "malId": 155264,
@@ -76,6 +69,19 @@
                 "title": "Jiangshi X",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFXD9FFCA44BTXY5EHKP"
+            }
+        },
+        "MangaFire": {
+            "kkvvw": {
+                "id": 260358,
+                "identifier": "kkvvw",
+                "image": "https://static.mangafire.to/b9c0/i/e/e9/e9d863937623e012ac728f788cf9b701.jpg",
+                "malId": 155264,
+                "aniId": 160595,
+                "page": "MangaFire",
+                "title": "Jiangshi X",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jiangshi-xx.kkvvw"
             }
         },
         "Comick": {

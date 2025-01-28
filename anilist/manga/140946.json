@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mi989943": {
+                "id": 89806,
                 "identifier": "manga-mi989943",
                 "image": "https://avt.mkklcdnv6temp.com/3/c/25-1635403126.jpg",
                 "malId": 149009,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "e941c57b-544e-4f4a-83d5-bf30e8a3b073": {
+                "id": 104852,
                 "identifier": "e941c57b-544e-4f4a-83d5-bf30e8a3b073",
                 "image": "https://uploads.mangadex.org/covers/e941c57b-544e-4f4a-83d5-bf30e8a3b073/665e0d2f-3c24-474f-88b5-49a6e829803c.jpg",
                 "malId": 149009,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/e941c57b-544e-4f4a-83d5-bf30e8a3b073"
             }
         },
-        "MangaFire": {
-            "side-characters-deserve-love-too.oo2m4": {
-                "identifier": "side-characters-deserve-love-too.oo2m4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c9267d1752a8b43b920eea35001a7da.jpg",
-                "malId": 149009,
-                "aniId": 140946,
-                "page": "MangaFire",
-                "title": "Side Characters Deserve Love Too",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/side-characters-deserve-love-too.oo2m4/"
-            },
-            "side-characters-deserve-love-tooo.oo2m4": {
-                "identifier": "side-characters-deserve-love-tooo.oo2m4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1c/1c9267d1752a8b43b920eea35001a7da.jpg",
-                "malId": 149009,
-                "aniId": 140946,
-                "page": "MangaFire",
-                "title": "Side Characters Deserve Love Too",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/side-characters-deserve-love-tooo.oo2m4/"
-            }
-        },
         "MangaSee": {
             "side-characters-deserve-love-too": {
+                "id": 182876,
                 "identifier": "side-characters-deserve-love-too",
                 "image": "https://temp.compsci88.com/cover/Side-Characters-Deserve-Love-Too.jpg",
                 "malId": 149009,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygyn8sbc28ptf316s3ds": {
+                "id": 209127,
                 "identifier": "01j76xygyn8sbc28ptf316s3ds",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGYN8SBC28PTF316S3DS.jpg",
                 "malId": 149009,
@@ -74,6 +56,19 @@
                 "title": "Side Characters Deserve Love Too",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGYN8SBC28PTF316S3DS"
+            }
+        },
+        "MangaFire": {
+            "oo2m4": {
+                "id": 227271,
+                "identifier": "oo2m4",
+                "image": "https://static.mangafire.to/5424/i/1/1c/1c9267d1752a8b43b920eea35001a7da.jpg",
+                "malId": 149009,
+                "aniId": 140946,
+                "page": "MangaFire",
+                "title": "Side Characters Deserve Love Too",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/side-characters-deserve-love-tooo.oo2m4"
             }
         },
         "Comick": {

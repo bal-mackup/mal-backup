@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c0bceade-287c-4f81-b157-825cf836c6fb": {
+                "id": 33506,
                 "identifier": "c0bceade-287c-4f81-b157-825cf836c6fb",
                 "image": "https://uploads.mangadex.org/covers/c0bceade-287c-4f81-b157-825cf836c6fb/57d33fd2-c8a1-4b0f-b191-56ed903b1d18.jpg",
                 "malId": 124160,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hz985008": {
+                "id": 100913,
                 "identifier": "manga-hz985008",
                 "image": "https://avt.mkklcdnv6temp.com/fld/89/a/10-1732803356-nw.webp",
                 "malId": 124160,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-case-files-of-jeweler-richard": {
+                "id": 118582,
                 "identifier": "the-case-files-of-jeweler-richard",
                 "image": "https://temp.compsci88.com/cover/The-Case-Files-of-Jeweler-Richard.jpg",
                 "malId": 124160,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Case-Files-of-Jeweler-Richard"
             }
         },
-        "MangaFire": {
-            "housekishou-richard-shi-no-nazo-kantei.02vj5": {
-                "identifier": "housekishou-richard-shi-no-nazo-kantei.02vj5",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/64ada70fbacf63d2546a11bdacc6e660.jpg",
-                "malId": 124160,
-                "aniId": 113900,
-                "page": "MangaFire",
-                "title": "The Case Files of Jeweler Richard",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/housekishou-richard-shi-no-nazo-kantei.02vj5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfs4mgdax4dpd7sz4t6n": {
+                "id": 207906,
                 "identifier": "01j76xyfs4mgdax4dpd7sz4t6n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFS4MGDAX4DPD7SZ4T6N.jpg",
                 "malId": 124160,
@@ -64,6 +56,19 @@
                 "title": "The Case Files of Jeweler Richard",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFS4MGDAX4DPD7SZ4T6N"
+            }
+        },
+        "MangaFire": {
+            "02vj5": {
+                "id": 249026,
+                "identifier": "02vj5",
+                "image": "https://static.mangafire.to/df81/i/6/64/64ada70fbacf63d2546a11bdacc6e660.jpg",
+                "malId": 124160,
+                "aniId": 113900,
+                "page": "MangaFire",
+                "title": "The Case Files of Jeweler Richard",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/housekishou-richard-shi-no-nazo-kanteii.02vj5"
             }
         },
         "Comick": {

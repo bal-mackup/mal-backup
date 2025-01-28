@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "89a793f9-2e2c-4f6c-af42-86eadaf314f8": {
+                "id": 104971,
                 "identifier": "89a793f9-2e2c-4f6c-af42-86eadaf314f8",
                 "image": "https://uploads.mangadex.org/covers/89a793f9-2e2c-4f6c-af42-86eadaf314f8/e7dbcbfe-76f6-4fb3-8ddd-2876b8155930.jpg",
                 "malId": 141953,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/89a793f9-2e2c-4f6c-af42-86eadaf314f8"
             }
         },
-        "MangaFire": {
-            "sword-art-online-re-aincrad.n32qm": {
-                "identifier": "sword-art-online-re-aincrad.n32qm",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/282ca91b8613dd9cb3436d87e3934351.jpg",
-                "malId": 141953,
-                "aniId": 141165,
-                "page": "MangaFire",
-                "title": "Sword Art Online - Re: Aincrad",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-re-aincrad.n32qm/"
-            },
-            "sword-art-online-re-aincradd.n32qm": {
-                "identifier": "sword-art-online-re-aincradd.n32qm",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/282ca91b8613dd9cb3436d87e3934351.jpg",
-                "malId": 141953,
-                "aniId": 141165,
-                "page": "MangaFire",
-                "title": "Sword Art Online - Re: Aincrad",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sword-art-online-re-aincradd.n32qm/"
-            }
-        },
         "MangaNato": {
             "manga-up997498": {
+                "id": 165485,
                 "identifier": "manga-up997498",
                 "image": "https://avt.mkklcdnv6temp.com/fld/56/u/15-1733310050-nw.webp",
                 "malId": 141953,
@@ -52,8 +32,9 @@
                 "url": "https://manganato.com/manga-up997498"
             },
             "manga-bj1004466": {
+                "id": 197386,
                 "identifier": "manga-bj1004466",
-                "image": "https://avt.mkklcdnv6temp.com/41/a/36-1726457022.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/23/h/18-1733328634-nw.webp",
                 "malId": 141953,
                 "aniId": 141165,
                 "page": "MangaNato",
@@ -64,6 +45,7 @@
         },
         "MangaFox": {
             "sword_art_online_re_aincrad": {
+                "id": 173926,
                 "identifier": "sword_art_online_re_aincrad",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42576/cover.jpg",
                 "malId": 141953,
@@ -76,6 +58,7 @@
         },
         "MangaSee": {
             "sword-art-online-re-aincrad": {
+                "id": 191280,
                 "identifier": "sword-art-online-re-aincrad",
                 "image": "https://temp.compsci88.com/cover/Sword-Art-Online-Re-Aincrad.jpg",
                 "malId": 141953,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xyhbf3tj55q0pp489kn2c": {
+                "id": 207747,
                 "identifier": "01j76xyhbf3tj55q0pp489kn2c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHBF3TJ55Q0PP489KN2C.jpg",
                 "malId": 141953,
@@ -96,6 +80,19 @@
                 "title": "Sword Art Online Re-Aincrad",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHBF3TJ55Q0PP489KN2C"
+            }
+        },
+        "MangaFire": {
+            "n32qm": {
+                "id": 229441,
+                "identifier": "n32qm",
+                "image": "https://static.mangafire.to/298c/i/2/28/282ca91b8613dd9cb3436d87e3934351.jpg",
+                "malId": 141953,
+                "aniId": 141165,
+                "page": "MangaFire",
+                "title": "Sword Art Online - Re: Aincrad",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sword-art-online-re-aincradd.n32qm"
             }
         },
         "Comick": {

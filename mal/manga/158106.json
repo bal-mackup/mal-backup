@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e5cde82f-69eb-4308-b632-56b7d4c92bc0": {
+                "id": 152004,
                 "identifier": "e5cde82f-69eb-4308-b632-56b7d4c92bc0",
                 "image": "https://uploads.mangadex.org/covers/e5cde82f-69eb-4308-b632-56b7d4c92bc0/d357f1e9-9b93-4078-9e18-9d5f79179944.jpg",
                 "malId": 158106,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/e5cde82f-69eb-4308-b632-56b7d4c92bc0"
             }
         },
-        "MangaFire": {
-            "vibration-man.qnx4n": {
-                "identifier": "vibration-man.qnx4n",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a7/a7fdd5c81bc21ffe59b8d8acbad4b872.jpg",
-                "malId": 158106,
-                "aniId": 163158,
-                "page": "MangaFire",
-                "title": "VIBRATION MAN",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vibration-man.qnx4n/"
-            }
-        },
         "MangaNato": {
             "manga-sr995826": {
+                "id": 155578,
                 "identifier": "manga-sr995826",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/z/14-1733306149-nw.webp",
                 "malId": 158106,
@@ -44,6 +34,7 @@
         },
         "MangaSee": {
             "vibration-man": {
+                "id": 156456,
                 "identifier": "vibration-man",
                 "image": "https://temp.compsci88.com/cover/VIBRATION-MAN.jpg",
                 "malId": 158106,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg3htspx6gyqrb64yyrh": {
+                "id": 207462,
                 "identifier": "01j76xyg3htspx6gyqrb64yyrh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG3HTSPX6GYQRB64YYRH.jpg",
                 "malId": 158106,
@@ -64,6 +56,19 @@
                 "title": "VIBRATION MAN",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG3HTSPX6GYQRB64YYRH"
+            }
+        },
+        "MangaFire": {
+            "qnx4n": {
+                "id": 230401,
+                "identifier": "qnx4n",
+                "image": "https://static.mangafire.to/ec13/i/a/a7/a7fdd5c81bc21ffe59b8d8acbad4b872.jpg",
+                "malId": 158106,
+                "aniId": 163158,
+                "page": "MangaFire",
+                "title": "VIBRATION MAN",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/vibration-mann.qnx4n"
             }
         },
         "Comick": {

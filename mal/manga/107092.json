@@ -6,30 +6,9 @@
     "total": 23,
     "image": "https://cdn.myanimelist.net/images/manga/2/254184.jpg",
     "Sites": {
-        "MangaFire": {
-            "kouji-hanauta.qkjq5": {
-                "identifier": "kouji-hanauta.qkjq5",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a6d86f0b926e3fc0b8a7e3ed1e03cfea.jpg",
-                "malId": 107092,
-                "aniId": 99011,
-                "page": "MangaFire",
-                "title": "Kouji Hanauta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kouji-hanauta.qkjq5/"
-            },
-            "qkjq5": {
-                "identifier": "qkjq5",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a6d86f0b926e3fc0b8a7e3ed1e03cfea.jpg",
-                "malId": 107092,
-                "aniId": 99011,
-                "page": "MangaFire",
-                "title": "Kouji Hanauta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kouji-hanauta.qkjq5/"
-            }
-        },
         "Mangadex": {
             "850e84c1-cad8-4fa2-bea9-cb41fcedacc5": {
+                "id": 197947,
                 "identifier": "850e84c1-cad8-4fa2-bea9-cb41fcedacc5",
                 "image": "https://uploads.mangadex.org/covers/850e84c1-cad8-4fa2-bea9-cb41fcedacc5/38d84309-361c-4445-b786-c01dc32b7bb7.jpg",
                 "malId": 107092,
@@ -38,6 +17,19 @@
                 "title": "Kouji Hanauta",
                 "type": "manga",
                 "url": "https://mangadex.org/title/850e84c1-cad8-4fa2-bea9-cb41fcedacc5"
+            }
+        },
+        "MangaFire": {
+            "qkjq5": {
+                "id": 256973,
+                "identifier": "qkjq5",
+                "image": "https://static.mangafire.to/83e3/i/a/a6/a6d86f0b926e3fc0b8a7e3ed1e03cfea.jpg",
+                "malId": 107092,
+                "aniId": 99011,
+                "page": "MangaFire",
+                "title": "Kouji Hanauta",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kouji-hanautaa.qkjq5"
             }
         },
         "Comick": {

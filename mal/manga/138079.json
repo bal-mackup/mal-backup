@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fd8f8435-307d-4d75-812c-2d6216983f14": {
+                "id": 112806,
                 "identifier": "fd8f8435-307d-4d75-812c-2d6216983f14",
                 "image": "https://uploads.mangadex.org/covers/fd8f8435-307d-4d75-812c-2d6216983f14/ab33106a-025b-4337-ae3d-f43940d9634f.jpg",
                 "malId": 138079,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/fd8f8435-307d-4d75-812c-2d6216983f14"
             }
         },
-        "MangaFire": {
-            "genshin-comic-anthology.dz3": {
-                "identifier": "genshin-comic-anthology.dz3",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ccc5643f486777bb1d904c3aafd5baf.jpg",
-                "malId": 138079,
-                "aniId": 135973,
-                "page": "MangaFire",
-                "title": "Genshin Comic Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genshin-comic-anthology.dz3/"
-            },
-            "genshin-comic-anthologyy.dz3": {
-                "identifier": "genshin-comic-anthologyy.dz3",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ccc5643f486777bb1d904c3aafd5baf.jpg",
-                "malId": 138079,
-                "aniId": 135973,
-                "page": "MangaFire",
-                "title": "Genshin Comic Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genshin-comic-anthologyy.dz3/"
-            }
-        },
         "MangaFox": {
             "genshin_impact_comic_anthology_dna_media_comics": {
+                "id": 183252,
                 "identifier": "genshin_impact_comic_anthology_dna_media_comics",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45819/cover.jpg",
                 "malId": 138079,
@@ -50,6 +30,19 @@
                 "title": "Genshin Impact Comic Anthology (DNA Media Comics)",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/genshin_impact_comic_anthology_dna_media_comics/"
+            }
+        },
+        "MangaFire": {
+            "dz3": {
+                "id": 226214,
+                "identifier": "dz3",
+                "image": "https://static.mangafire.to/c6bc/i/7/7c/7ccc5643f486777bb1d904c3aafd5baf.jpg",
+                "malId": 138079,
+                "aniId": 135973,
+                "page": "MangaFire",
+                "title": "Genshin Comic Anthology",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genshin-comic-anthologyy.dz3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "de285fba-3f4d-4636-b526-b8f0b7ca3475": {
+                "id": 34860,
                 "identifier": "de285fba-3f4d-4636-b526-b8f0b7ca3475",
                 "image": "https://uploads.mangadex.org/covers/de285fba-3f4d-4636-b526-b8f0b7ca3475/2b849d5e-78bc-4f27-b6b3-f82ece409cb2.png",
                 "malId": 119392,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boy-meets-maria": {
+                "id": 90583,
                 "identifier": "boy-meets-maria",
                 "image": "https://temp.compsci88.com/cover/Boy-Meets-Maria.jpg",
                 "malId": 119392,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Boy-Meets-Maria"
             }
         },
-        "MangaFire": {
-            "boy-meets-maria.qk7v": {
-                "identifier": "boy-meets-maria.qk7v",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51cd9bdc1916bfb59df5b31843f58285.jpg",
-                "malId": 119392,
-                "aniId": 114027,
-                "page": "MangaFire",
-                "title": "Boy Meets Maria",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boy-meets-maria.qk7v/"
-            },
-            "boy-meets-mariaa.qk7v": {
-                "identifier": "boy-meets-mariaa.qk7v",
-                "image": "https://static.mangafire.to/5a30/i/5/51/51cd9bdc1916bfb59df5b31843f58285.jpg",
-                "malId": 119392,
-                "aniId": 114027,
-                "page": "MangaFire",
-                "title": "Boy Meets Maria",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boy-meets-mariaa.qk7v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf4bb1hg26rb8avx120p": {
+                "id": 213125,
                 "identifier": "01j76xyf4bb1hg26rb8avx120p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF4BB1HG26RB8AVX120P.jpg",
                 "malId": 119392,
@@ -62,6 +43,19 @@
                 "title": "Boy Meets Maria",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF4BB1HG26RB8AVX120P"
+            }
+        },
+        "MangaFire": {
+            "qk7v": {
+                "id": 222923,
+                "identifier": "qk7v",
+                "image": "https://static.mangafire.to/5a30/i/5/51/51cd9bdc1916bfb59df5b31843f58285.jpg",
+                "malId": 119392,
+                "aniId": 114027,
+                "page": "MangaFire",
+                "title": "Boy Meets Maria",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boy-meets-mariaa.qk7v"
             }
         },
         "Comick": {

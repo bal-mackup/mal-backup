@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d890935b-2362-4ed9-8ec7-d4733b2583a3": {
+                "id": 11797,
                 "identifier": "d890935b-2362-4ed9-8ec7-d4733b2583a3",
                 "image": "https://uploads.mangadex.org/covers/d890935b-2362-4ed9-8ec7-d4733b2583a3/9f4016c9-9fdf-431c-b4f6-5790f6b3ebba.jpg",
                 "malId": 81321,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "higan-no-ishi": {
+                "id": 76013,
                 "identifier": "higan-no-ishi",
                 "image": "https://temp.compsci88.com/cover/Higan-No-Ishi.jpg",
                 "malId": 81321,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "higan_no_ishi": {
+                "id": 101428,
                 "identifier": "higan_no_ishi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14443/cover.jpg",
                 "malId": 81321,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/higan_no_ishi/"
             }
         },
-        "MangaFire": {
-            "higan-no-ishi.yqy10": {
-                "identifier": "higan-no-ishi.yqy10",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88f7855e28690f1209370c7341276790.jpg",
-                "malId": 81321,
-                "aniId": 85672,
-                "page": "MangaFire",
-                "title": "Higan no Ishi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/higan-no-ishi.yqy10/"
-            },
-            "higan-no-ishii.yqy10": {
-                "identifier": "higan-no-ishii.yqy10",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88f7855e28690f1209370c7341276790.jpg",
-                "malId": 81321,
-                "aniId": 85672,
-                "page": "MangaFire",
-                "title": "Higan no Ishi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/higan-no-ishii.yqy10/"
-            },
-            "yqy10": {
-                "identifier": "yqy10",
-                "image": "https://static.mangafire.to/3b2d5/i/8/88/88f7855e28690f1209370c7341276790.jpg",
-                "malId": 81321,
-                "aniId": 85672,
-                "page": "MangaFire",
-                "title": "Higan no Ishi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/higan-no-ishii.yqy10/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaf227r34p4eds0hcesc": {
+                "id": 213892,
                 "identifier": "01j76xyaf227r34p4eds0hcesc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAF227R34P4EDS0HCESC.jpg",
                 "malId": 81321,
@@ -84,6 +56,19 @@
                 "title": "Higan no Ishi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAF227R34P4EDS0HCESC"
+            }
+        },
+        "MangaFire": {
+            "yqy10": {
+                "id": 224582,
+                "identifier": "yqy10",
+                "image": "https://static.mangafire.to/c90b/i/8/88/88f7855e28690f1209370c7341276790.jpg",
+                "malId": 81321,
+                "aniId": 85672,
+                "page": "MangaFire",
+                "title": "Higan no Ishi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/higan-no-ishii.yqy10"
             }
         },
         "Comick": {

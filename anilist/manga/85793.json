@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0951feea-ba41-4ad0-9cb0-edadc77eae73": {
+                "id": 10710,
                 "identifier": "0951feea-ba41-4ad0-9cb0-edadc77eae73",
                 "image": "https://uploads.mangadex.org/covers/0951feea-ba41-4ad0-9cb0-edadc77eae73/cd1af5cb-231e-40da-bb7f-c9b20b229fe7.jpg",
                 "malId": 73603,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/0951feea-ba41-4ad0-9cb0-edadc77eae73"
             },
             "c293b85b-d790-49e3-a8ed-8147b0dc4d92": {
+                "id": 50505,
                 "identifier": "c293b85b-d790-49e3-a8ed-8147b0dc4d92",
                 "image": "https://uploads.mangadex.org/covers/c293b85b-d790-49e3-a8ed-8147b0dc4d92/8e448921-a3ab-49ae-a7ea-a353b441dc76.jpg",
                 "malId": 73603,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "kakegurui": {
+                "id": 55013,
                 "identifier": "kakegurui",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13904/cover.jpg",
                 "malId": 73603,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "kakegurui": {
+                "id": 55197,
                 "identifier": "kakegurui",
                 "image": "https://temp.compsci88.com/cover/Kakegurui.jpg",
                 "malId": 73603,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-pi952917": {
+                "id": 73389,
                 "identifier": "manga-pi952917",
                 "image": "https://avt.mkklcdnv6temp.com/5/m/2-1583465902.jpg",
                 "malId": 73603,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-pi952917"
             }
         },
-        "MangaFire": {
-            "kakeguruii.zm4w": {
-                "identifier": "kakeguruii.zm4w",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf257dc795fbd4b47310fd2d82e68869.jpg",
-                "malId": 73603,
-                "aniId": 85793,
-                "page": "MangaFire",
-                "title": "Kakegurui: Compulsive Gambler",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakeguruii.zm4w/"
-            },
-            "zm4w": {
-                "identifier": "zm4w",
-                "image": "https://static.mangafire.to/7776/i/b/bf/bf257dc795fbd4b47310fd2d82e68869.jpg",
-                "malId": 73603,
-                "aniId": 85793,
-                "page": "MangaFire",
-                "title": "Kakegurui: Compulsive Gambler",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakeguruii.zm4w"
-            }
-        },
         "Weebcentral": {
             "01j76xyaf9pweakkph8x2j1527": {
+                "id": 211234,
                 "identifier": "01j76xyaf9pweakkph8x2j1527",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAF9PWEAKKPH8X2J1527.jpg",
                 "malId": 73603,
@@ -96,6 +80,19 @@
                 "title": "Kakegurui - Compulsive Gambler",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAF9PWEAKKPH8X2J1527"
+            }
+        },
+        "MangaFire": {
+            "zm4w": {
+                "id": 225202,
+                "identifier": "zm4w",
+                "image": "https://static.mangafire.to/7776/i/b/bf/bf257dc795fbd4b47310fd2d82e68869.jpg",
+                "malId": 73603,
+                "aniId": 85793,
+                "page": "MangaFire",
+                "title": "Kakegurui: Compulsive Gambler",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kakeguruii.zm4w"
             }
         },
         "Comick": {

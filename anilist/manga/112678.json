@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "02792e77-d4e5-4789-a086-9f5609e533f3": {
+                "id": 30927,
                 "identifier": "02792e77-d4e5-4789-a086-9f5609e533f3",
                 "image": "https://uploads.mangadex.org/covers/02792e77-d4e5-4789-a086-9f5609e533f3/10d12af0-9b1d-4bef-afdb-9c6e0fa6c2c3.jpg",
                 "malId": 147776,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ebony": {
+                "id": 57769,
                 "identifier": "ebony",
                 "image": "https://temp.compsci88.com/cover/Ebony.jpg",
                 "malId": 147776,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fz983234": {
+                "id": 73041,
                 "identifier": "manga-fz983234",
                 "image": "https://avt.mkklcdnv6temp.com/30/y/19-1583500319.jpg",
                 "malId": 147776,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ebony_jaiya": {
+                "id": 87049,
                 "identifier": "ebony_jaiya",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31686/cover.jpg",
                 "malId": 147776,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/ebony_jaiya/"
             }
         },
-        "MangaFire": {
-            "eboni.jo13": {
-                "identifier": "eboni.jo13",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/77d71b4c3e57aeedbabc5339daa9a7d3.jpg",
-                "malId": 147776,
-                "aniId": 112678,
-                "page": "MangaFire",
-                "title": "Lady Evony",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eboni.jo13/"
-            }
-        },
         "Weebcentral": {
             "01j76xydsvq9fve79gz0ybd0md": {
+                "id": 211624,
                 "identifier": "01j76xydsvq9fve79gz0ybd0md",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDSVQ9FVE79GZ0YBD0MD.jpg",
                 "malId": 147776,
@@ -76,6 +69,19 @@
                 "title": "Lady Evony",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDSVQ9FVE79GZ0YBD0MD"
+            }
+        },
+        "MangaFire": {
+            "jo13": {
+                "id": 257423,
+                "identifier": "jo13",
+                "image": "https://static.mangafire.to/4ccd/i/7/77/77d71b4c3e57aeedbabc5339daa9a7d3.jpg",
+                "malId": 147776,
+                "aniId": 112678,
+                "page": "MangaFire",
+                "title": "Lady Evony",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ebonii.jo13"
             }
         },
         "Comick": {

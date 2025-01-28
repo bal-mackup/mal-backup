@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "good-luck-hero": {
+                "id": 88630,
                 "identifier": "good-luck-hero",
                 "image": "https://temp.compsci88.com/cover/Good-Luck-Hero.jpg",
                 "malId": 149495,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-np990424": {
+                "id": 94908,
                 "identifier": "manga-np990424",
                 "image": "https://avt.mkklcdnv6temp.com/24/a/25-1642676740.jpg",
                 "malId": 149495,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "4770ee67-cceb-4f16-b1a3-8262937118c5": {
+                "id": 110756,
                 "identifier": "4770ee67-cceb-4f16-b1a3-8262937118c5",
                 "image": "https://uploads.mangadex.org/covers/4770ee67-cceb-4f16-b1a3-8262937118c5/132ae244-8098-4ae7-b168-79ba2e6dcf2f.jpg",
                 "malId": 149495,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "good_luck_hero": {
+                "id": 110758,
                 "identifier": "good_luck_hero",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39110/cover.jpg",
                 "malId": 149495,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/good_luck_hero/"
             }
         },
-        "MangaFire": {
-            "good-luck-hero.nr1ml": {
-                "identifier": "good-luck-hero.nr1ml",
-                "image": "https://static.mangafire.to/3b2d5/i/9/97/97a032e99157e859e3414651f5770fe3.jpg",
-                "malId": 149495,
-                "aniId": 138263,
-                "page": "MangaFire",
-                "title": "Good Luck, Hero!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/good-luck-hero.nr1ml/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf37kqe06gqfkqxxn2jt": {
+                "id": 207895,
                 "identifier": "01j76xyf37kqe06gqfkqxxn2jt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF37KQE06GQFKQXXN2JT.jpg",
                 "malId": 149495,
@@ -76,6 +69,19 @@
                 "title": "Good Luck, Hero!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF37KQE06GQFKQXXN2JT"
+            }
+        },
+        "MangaFire": {
+            "nr1ml": {
+                "id": 241352,
+                "identifier": "nr1ml",
+                "image": "https://static.mangafire.to/7244/i/9/97/97a032e99157e859e3414651f5770fe3.jpg",
+                "malId": 149495,
+                "aniId": 138263,
+                "page": "MangaFire",
+                "title": "Good Luck, Hero!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/good-luck-heroo.nr1ml"
             }
         }
     },

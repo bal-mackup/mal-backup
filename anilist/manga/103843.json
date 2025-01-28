@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5": {
+                "id": 23312,
                 "identifier": "6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5",
                 "image": "https://uploads.mangadex.org/covers/6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5/3204fa62-5b67-4490-aeae-11d785e8de20.jpg",
                 "malId": 107261,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kemono-michi-akatsuki-natsume": {
+                "id": 56406,
                 "identifier": "kemono-michi-akatsuki-natsume",
                 "image": "https://temp.compsci88.com/cover/Kemono-Michi-AKATSUKI-Natsume.jpg",
                 "malId": 107261,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cy979833": {
+                "id": 81410,
                 "identifier": "manga-cy979833",
                 "image": "https://avt.mkklcdnv6temp.com/6/i/17-1583495489.jpg",
                 "malId": 107261,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-cy979833"
             }
         },
-        "MangaFire": {
-            "kemono-michi.xjoq3": {
-                "identifier": "kemono-michi.xjoq3",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df1e9cfe1eae3359ae660dbdd33ad031.jpg",
-                "malId": 107261,
-                "aniId": 103843,
-                "page": "MangaFire",
-                "title": "Kemono Michi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kemono-michi.xjoq3/"
-            },
-            "kemono-michii.xjoq3": {
-                "identifier": "kemono-michii.xjoq3",
-                "image": "https://static.mangafire.to/4dd9/i/d/df/df1e9cfe1eae3359ae660dbdd33ad031.jpg",
-                "malId": 107261,
-                "aniId": 103843,
-                "page": "MangaFire",
-                "title": "Kemono Michi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kemono-michii.xjoq3/"
-            },
-            "xjoq3": {
-                "identifier": "xjoq3",
-                "image": "https://static.mangafire.to/4dd9/i/d/df/df1e9cfe1eae3359ae660dbdd33ad031.jpg",
-                "malId": 107261,
-                "aniId": 103843,
-                "page": "MangaFire",
-                "title": "Kemono Michi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kemono-michii.xjoq3/"
-            }
-        },
         "Weebcentral": {
             "01j76xydbyne7kr7ntcf6aa3a5": {
+                "id": 208942,
                 "identifier": "01j76xydbyne7kr7ntcf6aa3a5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDBYNE7KR7NTCF6AA3A5.jpg",
                 "malId": 107261,
@@ -84,6 +56,19 @@
                 "title": "Kemono Michi (AKATSUKI Natsume)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDBYNE7KR7NTCF6AA3A5"
+            }
+        },
+        "MangaFire": {
+            "xjoq3": {
+                "id": 223315,
+                "identifier": "xjoq3",
+                "image": "https://static.mangafire.to/4dd9/i/d/df/df1e9cfe1eae3359ae660dbdd33ad031.jpg",
+                "malId": 107261,
+                "aniId": 103843,
+                "page": "MangaFire",
+                "title": "Kemono Michi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kemono-michii.xjoq3"
             }
         },
         "Comick": {

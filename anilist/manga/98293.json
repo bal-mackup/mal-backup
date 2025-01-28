@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2a941f75-195b-48b7-ab89-6a3dccf6dac9": {
+                "id": 17173,
                 "identifier": "2a941f75-195b-48b7-ab89-6a3dccf6dac9",
                 "image": "https://uploads.mangadex.org/covers/2a941f75-195b-48b7-ab89-6a3dccf6dac9/792cdb7d-4f62-4a63-8100-551393da1555.jpg",
                 "malId": 100495,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kumika-no-mikaku": {
+                "id": 69295,
                 "identifier": "kumika-no-mikaku",
                 "image": "https://temp.compsci88.com/cover/Kumika-No-Mikaku.jpg",
                 "malId": 100495,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-xo975071": {
+                "id": 86031,
                 "identifier": "manga-xo975071",
                 "image": "https://avt.mkklcdnv6temp.com/3/r/15-1583491599.jpg",
                 "malId": 100495,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-xo975071"
             }
         },
-        "MangaFire": {
-            "kumika-no-mikaku.ojlq4": {
-                "identifier": "kumika-no-mikaku.ojlq4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/30ffa569b8316a34061645158655379c.jpg",
-                "malId": 100495,
-                "aniId": 98293,
-                "page": "MangaFire",
-                "title": "The Many Flavors of Kumika",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kumika-no-mikaku.ojlq4/"
-            }
-        },
         "MangaFox": {
             "kumika_no_mikaku": {
+                "id": 172353,
                 "identifier": "kumika_no_mikaku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24113/cover.jpg",
                 "malId": 100495,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyc3ej1x1n1tcc7y05whz": {
+                "id": 211801,
                 "identifier": "01j76xyc3ej1x1n1tcc7y05whz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC3EJ1X1N1TCC7Y05WHZ.jpg",
                 "malId": 100495,
@@ -76,6 +69,19 @@
                 "title": "Kumika no Mikaku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC3EJ1X1N1TCC7Y05WHZ"
+            }
+        },
+        "MangaFire": {
+            "ojlq4": {
+                "id": 231122,
+                "identifier": "ojlq4",
+                "image": "https://static.mangafire.to/d05c/i/3/30/30ffa569b8316a34061645158655379c.jpg",
+                "malId": 100495,
+                "aniId": 98293,
+                "page": "MangaFire",
+                "title": "The Many Flavors of Kumika",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kumika-no-mikakuu.ojlq4"
             }
         },
         "Comick": {

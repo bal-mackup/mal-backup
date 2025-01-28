@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2e0fdb3b-632c-4f8f-a311-5b56952db647": {
+                "id": 26843,
                 "identifier": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
                 "image": "https://uploads.mangadex.org/covers/2e0fdb3b-632c-4f8f-a311-5b56952db647/acfd5a05-1691-45fc-a5f3-4d0e77347840.jpg",
                 "malId": 118568,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bocchi-the-rock": {
+                "id": 64699,
                 "identifier": "bocchi-the-rock",
                 "image": "https://temp.compsci88.com/cover/Bocchi-the-Rock.jpg",
                 "malId": 118568,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-da981135": {
+                "id": 75692,
                 "identifier": "manga-da981135",
                 "image": "https://avt.mkklcdnv6temp.com/3/z/18-1583497233.jpg",
                 "malId": 118568,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "bocchi_the_rock": {
+                "id": 86174,
                 "identifier": "bocchi_the_rock",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30061/cover.jpg",
                 "malId": 118568,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/bocchi_the_rock/"
             }
         },
-        "MangaFire": {
-            "bocchi-the-rock.1n15m": {
-                "identifier": "bocchi-the-rock.1n15m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/185c70a1e9db0e6592bc5ca781775d95.jpg",
-                "malId": 118568,
-                "aniId": 111258,
-                "page": "MangaFire",
-                "title": "Bocchi the Rock!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bocchi-the-rock.1n15m/"
-            },
-            "bocchi-the-rockk.1n15m": {
-                "identifier": "bocchi-the-rockk.1n15m",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/185c70a1e9db0e6592bc5ca781775d95.jpg",
-                "malId": 118568,
-                "aniId": 111258,
-                "page": "MangaFire",
-                "title": "Bocchi the Rock!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bocchi-the-rockk.1n15m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyedhdj7na7wj1wg3y42s": {
+                "id": 212202,
                 "identifier": "01j76xyedhdj7na7wj1wg3y42s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEDHDJ7NA7WJ1WG3Y42S.jpg",
                 "malId": 118568,
@@ -86,6 +69,19 @@
                 "title": "Bocchi the Rock!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEDHDJ7NA7WJ1WG3Y42S"
+            }
+        },
+        "MangaFire": {
+            "1n15m": {
+                "id": 225610,
+                "identifier": "1n15m",
+                "image": "https://static.mangafire.to/77ef/i/1/18/185c70a1e9db0e6592bc5ca781775d95.jpg",
+                "malId": 118568,
+                "aniId": 111258,
+                "page": "MangaFire",
+                "title": "Bocchi the Rock!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bocchi-the-rockk.1n15m"
             }
         },
         "Comick": {

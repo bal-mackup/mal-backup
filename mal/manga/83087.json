@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a75e100-b8a6-4efc-8162-18461bb2ddef": {
+                "id": 13791,
                 "identifier": "6a75e100-b8a6-4efc-8162-18461bb2ddef",
                 "image": "https://uploads.mangadex.org/covers/6a75e100-b8a6-4efc-8162-18461bb2ddef/ce959fe8-d04c-4e8a-b2de-4ebee4946c5e.jpg",
                 "malId": 83087,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "roppongi-black-cross": {
+                "id": 67460,
                 "identifier": "roppongi-black-cross",
                 "image": "https://temp.compsci88.com/cover/Roppongi-Black-Cross.jpg",
                 "malId": 83087,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "roppongi_black_cross": {
+                "id": 71367,
                 "identifier": "roppongi_black_cross",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15307/cover.jpg",
                 "malId": 83087,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-oa951757": {
+                "id": 85322,
                 "identifier": "manga-oa951757",
                 "image": "https://avt.mkklcdnv6temp.com/fld/18/p/1-1732717104-nw.webp",
                 "malId": 83087,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-oa951757"
             }
         },
-        "MangaFire": {
-            "roppongi-black-cross.mqy78": {
-                "identifier": "roppongi-black-cross.mqy78",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/efa0bf8fea30775aa356d27066c70069.jpg",
-                "malId": 83087,
-                "aniId": 86089,
-                "page": "MangaFire",
-                "title": "Roppongi Black Cross",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/roppongi-black-cross.mqy78/"
-            },
-            "mqy78": {
-                "identifier": "mqy78",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/efa0bf8fea30775aa356d27066c70069.jpg",
-                "malId": 83087,
-                "aniId": 86089,
-                "page": "MangaFire",
-                "title": "Roppongi Black Cross",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/roppongi-black-cross.mqy78/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6hg5r7cqgg97p5f70p": {
+                "id": 210474,
                 "identifier": "01j76xyb6hg5r7cqgg97p5f70p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6HG5R7CQGG97P5F70P.jpg",
                 "malId": 83087,
@@ -86,6 +69,19 @@
                 "title": "Roppongi Black Cross",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6HG5R7CQGG97P5F70P"
+            }
+        },
+        "MangaFire": {
+            "mqy78": {
+                "id": 246905,
+                "identifier": "mqy78",
+                "image": "https://static.mangafire.to/4d11/i/e/ef/efa0bf8fea30775aa356d27066c70069.jpg",
+                "malId": 83087,
+                "aniId": 86089,
+                "page": "MangaFire",
+                "title": "Roppongi Black Cross",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/roppongi-black-crosss.mqy78"
             }
         },
         "Comick": {

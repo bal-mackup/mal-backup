@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "56054f52-ba05-4e01-9c98-2bce09162a8b": {
+                "id": 105607,
                 "identifier": "56054f52-ba05-4e01-9c98-2bce09162a8b",
                 "image": "https://uploads.mangadex.org/covers/56054f52-ba05-4e01-9c98-2bce09162a8b/7c46570a-f1c0-4316-b5a4-e16444349bdb.jpg",
                 "malId": 149080,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/56054f52-ba05-4e01-9c98-2bce09162a8b"
             }
         },
-        "MangaFire": {
-            "sarumane.723m8": {
-                "identifier": "sarumane.723m8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/323a7172ca2f9c0f454b74fa4dbb2308.jpg",
-                "malId": 149080,
-                "aniId": 150041,
-                "page": "MangaFire",
-                "title": "Sarumane",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sarumane.723m8/"
-            },
-            "sarumanee.723m8": {
-                "identifier": "sarumanee.723m8",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/323a7172ca2f9c0f454b74fa4dbb2308.jpg",
-                "malId": 149080,
-                "aniId": 150041,
-                "page": "MangaFire",
-                "title": "Sarumane",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sarumanee.723m8/"
-            }
-        },
         "MangaNato": {
             "manga-zy1002381": {
+                "id": 190617,
                 "identifier": "manga-zy1002381",
                 "image": "https://avt.mkklcdnv6temp.com/fld/43/o/17-1733323808-nw.webp",
                 "malId": 149080,
@@ -50,6 +30,19 @@
                 "title": "Sarumane",
                 "type": "manga",
                 "url": "https://manganato.com/manga-zy1002381"
+            }
+        },
+        "MangaFire": {
+            "723m8": {
+                "id": 237873,
+                "identifier": "723m8",
+                "image": "https://static.mangafire.to/fade/i/3/32/323a7172ca2f9c0f454b74fa4dbb2308.jpg",
+                "malId": 149080,
+                "aniId": 150041,
+                "page": "MangaFire",
+                "title": "Sarumane",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sarumanee.723m8"
             }
         },
         "Comick": {

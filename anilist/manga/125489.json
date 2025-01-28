@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4ad29acb-27ef-4d4c-adcf-f96673fee7c2": {
+                "id": 50845,
                 "identifier": "4ad29acb-27ef-4d4c-adcf-f96673fee7c2",
                 "image": "https://uploads.mangadex.org/covers/4ad29acb-27ef-4d4c-adcf-f96673fee7c2/9e0f775c-7e3e-43bd-8b7f-1f088357636c.jpg",
                 "malId": 130951,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "koi-wa-iikara-nemuritai": {
+                "id": 60652,
                 "identifier": "koi-wa-iikara-nemuritai",
                 "image": "https://temp.compsci88.com/cover/Koi-wa-Iikara-Nemuritai.jpg",
                 "malId": 130951,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "koi_wa_iikara_nemuritai": {
+                "id": 69641,
                 "identifier": "koi_wa_iikara_nemuritai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36435/cover.jpg",
                 "malId": 130951,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jm987147": {
+                "id": 73361,
                 "identifier": "manga-jm987147",
                 "image": "https://avt.mkklcdnv6temp.com/35/o/22-1604765250.jpg",
                 "malId": 130951,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-jm987147"
             }
         },
-        "MangaFire": {
-            "koi-wa-iikara-nemuritai.ll1om": {
-                "identifier": "koi-wa-iikara-nemuritai.ll1om",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45be4188d0604fef5e2b8161953c7173.jpg",
-                "malId": 130951,
-                "aniId": 125489,
-                "page": "MangaFire",
-                "title": "Koi wa Iikara Nemuritai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-wa-iikara-nemuritai.ll1om/"
-            },
-            "koi-wa-iikara-nemuritaii.ll1om": {
-                "identifier": "koi-wa-iikara-nemuritaii.ll1om",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/45be4188d0604fef5e2b8161953c7173.jpg",
-                "malId": 130951,
-                "aniId": 125489,
-                "page": "MangaFire",
-                "title": "Koi wa Iikara Nemuritai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koi-wa-iikara-nemuritaii.ll1om/"
-            }
-        },
         "Weebcentral": {
             "01j76xye90x61dv46d7t8tz21a": {
+                "id": 213877,
                 "identifier": "01j76xye90x61dv46d7t8tz21a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE90X61DV46D7T8TZ21A.jpg",
                 "malId": 130951,
@@ -86,6 +69,19 @@
                 "title": "Koi wa Iikara Nemuritai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE90X61DV46D7T8TZ21A"
+            }
+        },
+        "MangaFire": {
+            "ll1om": {
+                "id": 247402,
+                "identifier": "ll1om",
+                "image": "https://static.mangafire.to/c37d/i/4/45/45be4188d0604fef5e2b8161953c7173.jpg",
+                "malId": 130951,
+                "aniId": 125489,
+                "page": "MangaFire",
+                "title": "Koi wa Iikara Nemuritai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koi-wa-iikara-nemuritaii.ll1om"
             }
         },
         "Comick": {

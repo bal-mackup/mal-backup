@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "479ada4b-2fa6-4465-97ef-734bc3c7d254": {
+                "id": 127754,
                 "identifier": "479ada4b-2fa6-4465-97ef-734bc3c7d254",
                 "image": "https://uploads.mangadex.org/covers/479ada4b-2fa6-4465-97ef-734bc3c7d254/d8228820-4f8d-4bc5-bc10-f5ecacfb2738.jpg",
                 "malId": 157301,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sz995534": {
+                "id": 129281,
                 "identifier": "manga-sz995534",
                 "image": "https://avt.mkklcdnv6temp.com/31/n/29-1681188885.jpg",
                 "malId": 157301,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-sz995534"
             }
         },
-        "MangaFire": {
-            "gachi-koi-maou-sama.0q20k": {
-                "identifier": "gachi-koi-maou-sama.0q20k",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f75007c6101544845483d719d0f32d87.jpg",
-                "malId": 157301,
-                "aniId": 163597,
-                "page": "MangaFire",
-                "title": "Gachi Koi Maou-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gachi-koi-maou-sama.0q20k/"
-            },
-            "gachi-koi-maou-samaa.0q20k": {
-                "identifier": "gachi-koi-maou-samaa.0q20k",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f75007c6101544845483d719d0f32d87.jpg",
-                "malId": 157301,
-                "aniId": 163597,
-                "page": "MangaFire",
-                "title": "Gachi Koi Maou-sama",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gachi-koi-maou-samaa.0q20k/"
-            }
-        },
         "MangaFox": {
             "gachi_koi_maou_sama": {
+                "id": 188499,
                 "identifier": "gachi_koi_maou_sama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45863/cover.jpg",
                 "malId": 157301,
@@ -62,6 +43,19 @@
                 "title": "Gachi Koi Maou-sama",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/gachi_koi_maou_sama/"
+            }
+        },
+        "MangaFire": {
+            "0q20k": {
+                "id": 240959,
+                "identifier": "0q20k",
+                "image": "https://static.mangafire.to/7ab3/i/f/f7/f75007c6101544845483d719d0f32d87.jpg",
+                "malId": 157301,
+                "aniId": 163597,
+                "page": "MangaFire",
+                "title": "Gachi Koi Maou-sama",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gachi-koi-maou-samaa.0q20k"
             }
         },
         "Comick": {

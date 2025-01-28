@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7b8446e7-9905-43d7-a826-a646bdbf60f9": {
+                "id": 38061,
                 "identifier": "7b8446e7-9905-43d7-a826-a646bdbf60f9",
                 "image": "https://uploads.mangadex.org/covers/7b8446e7-9905-43d7-a826-a646bdbf60f9/1b47a426-d5c9-4729-8c44-aa37852e5db6.png",
                 "malId": 132000,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-haunted-bookstore-gateway-to-a-parallel-universe": {
+                "id": 114361,
                 "identifier": "the-haunted-bookstore-gateway-to-a-parallel-universe",
                 "image": "https://temp.compsci88.com/cover/The-Haunted-Bookstore-Gateway-to-a-Parallel-Universe.jpg",
                 "malId": 132000,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-iy986033": {
+                "id": 128212,
                 "identifier": "manga-iy986033",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/r/11-1732805447-nw.webp",
                 "malId": 132000,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-iy986033"
             }
         },
-        "MangaFire": {
-            "our-house-is-a-haunted-rental-bookstore.pr2j9": {
-                "identifier": "our-house-is-a-haunted-rental-bookstore.pr2j9",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd255a4fe078b1600a461e0d5a354909.jpg",
-                "malId": 132000,
-                "aniId": 122212,
-                "page": "MangaFire",
-                "title": "The Haunted Bookstore – Gateway to a Parallel Universe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/our-house-is-a-haunted-rental-bookstore.pr2j9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfnc25x0rz6a9nqfe91e": {
+                "id": 212132,
                 "identifier": "01j76xyfnc25x0rz6a9nqfe91e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNC25X0RZ6A9NQFE91E.jpg",
                 "malId": 132000,
@@ -64,6 +56,19 @@
                 "title": "The Haunted Bookstore - Gateway to a Parallel Universe",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNC25X0RZ6A9NQFE91E"
+            }
+        },
+        "MangaFire": {
+            "pr2j9": {
+                "id": 249072,
+                "identifier": "pr2j9",
+                "image": "https://static.mangafire.to/79ef/i/c/cd/cd255a4fe078b1600a461e0d5a354909.jpg",
+                "malId": 132000,
+                "aniId": 122212,
+                "page": "MangaFire",
+                "title": "The Haunted Bookstore – Gateway to a Parallel Universe",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/our-house-is-a-haunted-rental-bookstoree.pr2j9"
             }
         },
         "Comick": {

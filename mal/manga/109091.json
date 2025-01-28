@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba": {
+                "id": 26113,
                 "identifier": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
                 "image": "https://uploads.mangadex.org/covers/b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba/19c2104c-76df-4545-ab14-4a6c4761564a.jpg",
                 "malId": 109091,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sleepy-barmaid": {
+                "id": 59047,
                 "identifier": "sleepy-barmaid",
                 "image": "https://temp.compsci88.com/cover/Sleepy-Barmaid.jpg",
                 "malId": 109091,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "madoromi_barmaid": {
+                "id": 68721,
                 "identifier": "madoromi_barmaid",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30940/cover.jpg",
                 "malId": 109091,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dl980868": {
+                "id": 76743,
                 "identifier": "manga-dl980868",
                 "image": "https://avt.mkklcdnv6temp.com/44/n/17-1583496866.jpg",
                 "malId": 109091,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-dl980868"
             }
         },
-        "MangaFire": {
-            "madoromi-barmaid.zlzpp": {
-                "identifier": "madoromi-barmaid.zlzpp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19981acca4686ea7cf78660820da5ed4.jpg",
-                "malId": 109091,
-                "aniId": 107724,
-                "page": "MangaFire",
-                "title": "Sleepy Barmaid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madoromi-barmaid.zlzpp/"
-            },
-            "zlzpp": {
-                "identifier": "zlzpp",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/19981acca4686ea7cf78660820da5ed4.jpg",
-                "malId": 109091,
-                "aniId": 107724,
-                "page": "MangaFire",
-                "title": "Sleepy Barmaid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madoromi-barmaid.zlzpp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydage28rdgdty99zqdva": {
+                "id": 211562,
                 "identifier": "01j76xydage28rdgdty99zqdva",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDAGE28RDGDTY99ZQDVA.jpg",
                 "malId": 109091,
@@ -86,6 +69,19 @@
                 "title": "Sleepy Barmaid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDAGE28RDGDTY99ZQDVA"
+            }
+        },
+        "MangaFire": {
+            "zlzpp": {
+                "id": 245797,
+                "identifier": "zlzpp",
+                "image": "https://static.mangafire.to/e31a/i/1/19/19981acca4686ea7cf78660820da5ed4.jpg",
+                "malId": 109091,
+                "aniId": 107724,
+                "page": "MangaFire",
+                "title": "Sleepy Barmaid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/madoromi-barmaidd.zlzpp"
             }
         },
         "Comick": {

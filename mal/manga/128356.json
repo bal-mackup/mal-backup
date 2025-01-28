@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db": {
+                "id": 33752,
                 "identifier": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
                 "image": "https://uploads.mangadex.org/covers/509b1474-cb0a-4f9d-8ca4-95cb44c9b8db/35f5e2d7-f7fc-489d-a0d4-e56319e6454a.jpg",
                 "malId": 128356,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boku-no-tsuma-wa-kanjou-ga-nai": {
+                "id": 68546,
                 "identifier": "boku-no-tsuma-wa-kanjou-ga-nai",
                 "image": "https://temp.compsci88.com/cover/Boku-no-Tsuma-wa-Kanjou-ga-Nai.jpg",
                 "malId": 128356,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "boku_no_tsuma_wa_kanjou_ga_nai": {
+                "id": 70235,
                 "identifier": "boku_no_tsuma_wa_kanjou_ga_nai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33125/cover.jpg",
                 "malId": 128356,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-iw985779": {
+                "id": 75489,
                 "identifier": "manga-iw985779",
                 "image": "https://avt.mkklcdnv6temp.com/30/o/21-1592845341.jpg",
                 "malId": 128356,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-iw985779"
             }
         },
-        "MangaFire": {
-            "boku-no-tsuma-wa-kanjou-ga-nai.qxv2v": {
-                "identifier": "boku-no-tsuma-wa-kanjou-ga-nai.qxv2v",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3afd92ba7d4b46fa68d623232e7d6e07.jpg",
-                "malId": 128356,
-                "aniId": 117480,
-                "page": "MangaFire",
-                "title": "My Wife Has No Emotion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-tsuma-wa-kanjou-ga-nai.qxv2v/"
-            },
-            "boku-no-tsuma-wa-kanjou-ga-naii.qxv2v": {
-                "identifier": "boku-no-tsuma-wa-kanjou-ga-naii.qxv2v",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3afd92ba7d4b46fa68d623232e7d6e07.jpg",
-                "malId": 128356,
-                "aniId": 117480,
-                "page": "MangaFire",
-                "title": "My Wife Has No Emotion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-tsuma-wa-kanjou-ga-naii.qxv2v/"
-            }
-        },
         "Weebcentral": {
             "01j76xye34ewbmmqm68g0a4r4c": {
+                "id": 212390,
                 "identifier": "01j76xye34ewbmmqm68g0a4r4c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE34EWBMMQM68G0A4R4C.jpg",
                 "malId": 128356,
@@ -86,6 +69,19 @@
                 "title": "My Wife Has No Emotion",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE34EWBMMQM68G0A4R4C"
+            }
+        },
+        "MangaFire": {
+            "qxv2v": {
+                "id": 229497,
+                "identifier": "qxv2v",
+                "image": "https://static.mangafire.to/c9ea/i/3/3a/3afd92ba7d4b46fa68d623232e7d6e07.jpg",
+                "malId": 128356,
+                "aniId": 117480,
+                "page": "MangaFire",
+                "title": "My Wife Has No Emotion",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-tsuma-wa-kanjou-ga-naii.qxv2v"
             }
         },
         "Comick": {

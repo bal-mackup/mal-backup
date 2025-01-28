@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6964942d-5920-4e79-bc45-1f798d62b2bd": {
+                "id": 34133,
                 "identifier": "6964942d-5920-4e79-bc45-1f798d62b2bd",
                 "image": "https://uploads.mangadex.org/covers/6964942d-5920-4e79-bc45-1f798d62b2bd/a14fcb77-26e1-408e-99c8-994722b6510d.png",
                 "malId": 146979,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kill-the-hero": {
+                "id": 55809,
                 "identifier": "kill-the-hero",
                 "image": "https://temp.compsci88.com/cover/Kill-The-Hero.jpg",
                 "malId": 146979,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kill_the_hero": {
+                "id": 56166,
                 "identifier": "kill_the_hero",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33316/cover.jpg",
                 "malId": 146979,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ho985023": {
+                "id": 73105,
                 "identifier": "manga-ho985023",
                 "image": "https://avt.mkklcdnv6temp.com/48/n/20-1585327382.jpg",
                 "malId": 146979,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ho985023"
             }
         },
-        "MangaFire": {
-            "kill-the-hero.qk833": {
-                "identifier": "kill-the-hero.qk833",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/753ebbeb7aac76b34b58a6e562cbc5c4.jpg",
-                "malId": 146979,
-                "aniId": 117536,
-                "page": "MangaFire",
-                "title": "Kill the Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kill-the-hero.qk833/"
-            },
-            "kill-the-heroo.qk833": {
-                "identifier": "kill-the-heroo.qk833",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/753ebbeb7aac76b34b58a6e562cbc5c4.jpg",
-                "malId": 146979,
-                "aniId": 117536,
-                "page": "MangaFire",
-                "title": "Kill the Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kill-the-heroo.qk833/"
-            }
-        },
         "Weebcentral": {
             "01j76xydt1aa48eb98jnqppgbd": {
+                "id": 206125,
                 "identifier": "01j76xydt1aa48eb98jnqppgbd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDT1AA48EB98JNQPPGBD.jpg",
                 "malId": 146979,
@@ -86,6 +69,19 @@
                 "title": "Kill The Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDT1AA48EB98JNQPPGBD"
+            }
+        },
+        "MangaFire": {
+            "qk833": {
+                "id": 229021,
+                "identifier": "qk833",
+                "image": "https://static.mangafire.to/87e7/i/7/75/753ebbeb7aac76b34b58a6e562cbc5c4.jpg",
+                "malId": 146979,
+                "aniId": 117536,
+                "page": "MangaFire",
+                "title": "Kill the Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kill-the-heroo.qk833"
             }
         },
         "Comick": {

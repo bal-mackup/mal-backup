@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e1d0056a-fdd3-4f32-af19-50eeb37280ac": {
+                "id": 61842,
                 "identifier": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
                 "image": "https://uploads.mangadex.org/covers/e1d0056a-fdd3-4f32-af19-50eeb37280ac/a6b2568f-2b9a-44fc-881d-07177d98154c.png",
                 "malId": 138516,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "new-normal": {
+                "id": 64797,
                 "identifier": "new-normal",
                 "image": "https://temp.compsci88.com/cover/New-Normal.jpg",
                 "malId": 138516,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kj988166": {
+                "id": 76766,
                 "identifier": "manga-kj988166",
                 "image": "https://avt.mkklcdnv6temp.com/27/o/23-1613752646.jpg",
                 "malId": 138516,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-kj988166"
             }
         },
-        "MangaFire": {
-            "new-normal.yqyxj": {
-                "identifier": "new-normal.yqyxj",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4d/4de5915f2f3fb95994cd09f524e0029a.jpg",
-                "malId": 138516,
-                "aniId": 129725,
-                "page": "MangaFire",
-                "title": "New Normal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/new-normal.yqyxj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyee47qt44eywehxyz7pe": {
+                "id": 207110,
                 "identifier": "01j76xyee47qt44eywehxyz7pe",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEE47QT44EYWEHXYZ7PE.jpg",
                 "malId": 138516,
@@ -64,6 +56,19 @@
                 "title": "New Normal",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEE47QT44EYWEHXYZ7PE"
+            }
+        },
+        "MangaFire": {
+            "yqyxj": {
+                "id": 253922,
+                "identifier": "yqyxj",
+                "image": "https://static.mangafire.to/5274/i/4/4d/4de5915f2f3fb95994cd09f524e0029a.jpg",
+                "malId": 138516,
+                "aniId": 129725,
+                "page": "MangaFire",
+                "title": "New Normal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/new-normall.yqyxj"
             }
         },
         "Comick": {

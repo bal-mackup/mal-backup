@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d": {
+                "id": 26166,
                 "identifier": "b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d",
                 "image": "https://uploads.mangadex.org/covers/b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d/af3fb2c3-cebe-4c81-b5b6-f0ca5927a9e5.jpg",
                 "malId": 112399,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mouryou-shoujo": {
+                "id": 68593,
                 "identifier": "mouryou-shoujo",
                 "image": "https://temp.compsci88.com/cover/Mouryou-Shoujo.jpg",
                 "malId": 112399,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mouryou_shoujo": {
+                "id": 129301,
                 "identifier": "mouryou_shoujo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29780/cover.jpg",
                 "malId": 112399,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/mouryou_shoujo/"
             }
         },
-        "MangaFire": {
-            "mouryou-shoujo.jv4ky": {
-                "identifier": "mouryou-shoujo.jv4ky",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d172318bc7daf2a5f474ffa9a75c1592.jpg",
-                "malId": 112399,
-                "aniId": 105311,
-                "page": "MangaFire",
-                "title": "Mouryou Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mouryou-shoujo.jv4ky/"
-            },
-            "jv4ky": {
-                "identifier": "jv4ky",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d172318bc7daf2a5f474ffa9a75c1592.jpg",
-                "malId": 112399,
-                "aniId": 105311,
-                "page": "MangaFire",
-                "title": "Mouryou Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mouryou-shoujo.jv4ky/"
-            }
-        },
         "MangaNato": {
             "manga-fw982679": {
+                "id": 181326,
                 "identifier": "manga-fw982679",
                 "image": "https://avt.mkklcdnv6temp.com/fld/5/b/10-1732798266-nw.webp",
                 "malId": 112399,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyda71m4c20w37ktbxbgr": {
+                "id": 213994,
                 "identifier": "01j76xyda71m4c20w37ktbxbgr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDA71M4C20W37KTBXBGR.jpg",
                 "malId": 112399,
@@ -86,6 +69,19 @@
                 "title": "Mouryou Shoujo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDA71M4C20W37KTBXBGR"
+            }
+        },
+        "MangaFire": {
+            "jv4ky": {
+                "id": 253298,
+                "identifier": "jv4ky",
+                "image": "https://static.mangafire.to/9cf8/i/d/d1/d172318bc7daf2a5f474ffa9a75c1592.jpg",
+                "malId": 112399,
+                "aniId": 105311,
+                "page": "MangaFire",
+                "title": "Mouryou Shoujo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mouryou-shoujoo.jv4ky"
             }
         },
         "Comick": {

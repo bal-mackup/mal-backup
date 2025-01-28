@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a75fd897-83bf-4825-a4ea-0632071e000e": {
+                "id": 35160,
                 "identifier": "a75fd897-83bf-4825-a4ea-0632071e000e",
                 "image": "https://uploads.mangadex.org/covers/a75fd897-83bf-4825-a4ea-0632071e000e/db57401c-f911-4d5e-a5a1-d6d76b08bc15.jpg",
                 "malId": 127067,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ho985249": {
+                "id": 81926,
                 "identifier": "manga-ho985249",
                 "image": "https://avt.mkklcdnv6temp.com/7/z/21-1588567277.jpg",
                 "malId": 127067,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "toaru_tenin_to_kyaku_no_hanashi": {
+                "id": 87880,
                 "identifier": "toaru_tenin_to_kyaku_no_hanashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33754/cover.jpg",
                 "malId": 127067,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/toaru_tenin_to_kyaku_no_hanashi/"
             }
         },
-        "MangaFire": {
-            "the-story-of-a-waitress-and-her-customer.n3qlk": {
-                "identifier": "the-story-of-a-waitress-and-her-customer.n3qlk",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/016241c360ca62d764e34892b8edab22.jpg",
-                "malId": 127067,
-                "aniId": 118172,
-                "page": "MangaFire",
-                "title": "The Story of a Waitress and Her Customer.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-story-of-a-waitress-and-her-customer.n3qlk/"
-            },
-            "the-story-of-a-waitress-and-her-customerr.n3qlk": {
-                "identifier": "the-story-of-a-waitress-and-her-customerr.n3qlk",
-                "image": "https://static.mangafire.to/4038/i/0/01/016241c360ca62d764e34892b8edab22.jpg",
-                "malId": 127067,
-                "aniId": 118172,
-                "page": "MangaFire",
-                "title": "The Story of a Waitress and Her Customer.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-story-of-a-waitress-and-her-customerr.n3qlk/"
-            }
-        },
         "MangaSee": {
             "the-story-of-a-waitress-and-her-customer": {
+                "id": 164184,
                 "identifier": "the-story-of-a-waitress-and-her-customer",
                 "image": "https://temp.compsci88.com/cover/The-Story-of-a-Waitress-and-Her-Customer.jpg",
                 "malId": 127067,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygcbwc5hjgtbv1ep388c": {
+                "id": 208999,
                 "identifier": "01j76xygcbwc5hjgtbv1ep388c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGCBWC5HJGTBV1EP388C.jpg",
                 "malId": 127067,
@@ -86,6 +69,19 @@
                 "title": "The Story of a Waitress and Her Customer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGCBWC5HJGTBV1EP388C"
+            }
+        },
+        "MangaFire": {
+            "n3qlk": {
+                "id": 223264,
+                "identifier": "n3qlk",
+                "image": "https://static.mangafire.to/4038/i/0/01/016241c360ca62d764e34892b8edab22.jpg",
+                "malId": 127067,
+                "aniId": 118172,
+                "page": "MangaFire",
+                "title": "The Story of a Waitress and Her Customer.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-story-of-a-waitress-and-her-customerr.n3qlk"
             }
         },
         "Comick": {

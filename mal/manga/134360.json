@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0ff40c6f-00ad-4876-9546-7dd657c208d6": {
+                "id": 39390,
                 "identifier": "0ff40c6f-00ad-4876-9546-7dd657c208d6",
                 "image": "https://uploads.mangadex.org/covers/0ff40c6f-00ad-4876-9546-7dd657c208d6/5570394b-6150-4e41-b4e1-2cddada4dbea.jpg",
                 "malId": 134360,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/0ff40c6f-00ad-4876-9546-7dd657c208d6"
             },
             "06b359ef-822f-4e4d-9703-1138ca2fc325": {
+                "id": 186546,
                 "identifier": "06b359ef-822f-4e4d-9703-1138ca2fc325",
                 "image": "https://uploads.mangadex.org/covers/06b359ef-822f-4e4d-9703-1138ca2fc325/d3f909db-1a81-499c-b113-c7d88804d8fd.jpg",
                 "malId": 134360,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "ore-wa-mada-honki-o-dashite-inai": {
+                "id": 58378,
                 "identifier": "ore-wa-mada-honki-o-dashite-inai",
                 "image": "https://temp.compsci88.com/cover/Ore-wa-Mada-Honki-o-Dashite-Inai.jpg",
                 "malId": 134360,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "ore_wa_mada_honki_o_dashite_inai": {
+                "id": 66557,
                 "identifier": "ore_wa_mada_honki_o_dashite_inai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35577/cover.jpg",
                 "malId": 134360,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-jm987047": {
+                "id": 74285,
                 "identifier": "manga-jm987047",
                 "image": "https://avt.mkklcdnv6temp.com/31/m/22-1603561594.jpg",
                 "malId": 134360,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-jm987047"
             }
         },
-        "MangaFire": {
-            "ore-wa-mada-honki-o-dashite-inai.prkw6": {
-                "identifier": "ore-wa-mada-honki-o-dashite-inai.prkw6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43907f71b1e08b3b03508681764d7f23.jpg",
-                "malId": 134360,
-                "aniId": 128212,
-                "page": "MangaFire",
-                "title": "Ore wa Mada, Honki o Dashite Inai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-wa-mada-honki-o-dashite-inai.prkw6/"
-            },
-            "ore-wa-mada-honki-o-dashite-inaii.prkw6": {
-                "identifier": "ore-wa-mada-honki-o-dashite-inaii.prkw6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43907f71b1e08b3b03508681764d7f23.jpg",
-                "malId": 134360,
-                "aniId": 128212,
-                "page": "MangaFire",
-                "title": "Ore wa Mada, Honki o Dashite Inai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-wa-mada-honki-o-dashite-inaii.prkw6/"
-            }
-        },
         "Weebcentral": {
             "01j76xye96916ggr5jv4ghbdyv": {
+                "id": 206408,
                 "identifier": "01j76xye96916ggr5jv4ghbdyv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE96916GGR5JV4GHBDYV.jpg",
                 "malId": 134360,
@@ -96,6 +80,19 @@
                 "title": "Ore wa Mada, Honki o Dashite Inai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE96916GGR5JV4GHBDYV"
+            }
+        },
+        "MangaFire": {
+            "prkw6": {
+                "id": 224480,
+                "identifier": "prkw6",
+                "image": "https://static.mangafire.to/8570/i/4/43/43907f71b1e08b3b03508681764d7f23.jpg",
+                "malId": 134360,
+                "aniId": 128212,
+                "page": "MangaFire",
+                "title": "Ore wa Mada, Honki o Dashite Inai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-wa-mada-honki-o-dashite-inaii.prkw6"
             }
         },
         "Comick": {

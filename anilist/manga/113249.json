@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "01ee4e2b-4e3b-4874-a0ed-7974d33cb02e": {
+                "id": 31883,
                 "identifier": "01ee4e2b-4e3b-4874-a0ed-7974d33cb02e",
                 "image": "https://uploads.mangadex.org/covers/01ee4e2b-4e3b-4874-a0ed-7974d33cb02e/104df634-203a-4271-b87d-51b9d2eddbc7.jpg",
                 "malId": 122949,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-he985239": {
+                "id": 77905,
                 "identifier": "manga-he985239",
                 "image": "https://avt.mkklcdnv6temp.com/7/p/21-1588521876.jpg",
                 "malId": 122949,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mizutamari_ni_ukabu_shima": {
+                "id": 102926,
                 "identifier": "mizutamari_ni_ukabu_shima",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33663/cover.jpg",
                 "malId": 122949,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "island-in-a-puddle": {
+                "id": 106871,
                 "identifier": "island-in-a-puddle",
                 "image": "https://temp.compsci88.com/cover/Island-in-a-Puddle.jpg",
                 "malId": 122949,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Island-in-a-Puddle"
             }
         },
-        "MangaFire": {
-            "mizutamari-ni-ukabu-shima.62y0": {
-                "identifier": "mizutamari-ni-ukabu-shima.62y0",
-                "image": "https://static.mangafire.to/3b2d5/i/9/90/90a3bfbac46f5e2b4bc1dcecc18fcc2f.jpg",
-                "malId": 122949,
-                "aniId": 113249,
-                "page": "MangaFire",
-                "title": "Island in a Puddle",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mizutamari-ni-ukabu-shima.62y0/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfg1nb9pe5jtvr5snr57": {
+                "id": 210053,
                 "identifier": "01j76xyfg1nb9pe5jtvr5snr57",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFG1NB9PE5JTVR5SNR57.jpg",
                 "malId": 122949,
@@ -76,6 +69,19 @@
                 "title": "Island in a Puddle",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFG1NB9PE5JTVR5SNR57"
+            }
+        },
+        "MangaFire": {
+            "62y0": {
+                "id": 252627,
+                "identifier": "62y0",
+                "image": "https://static.mangafire.to/20de/i/9/90/90a3bfbac46f5e2b4bc1dcecc18fcc2f.jpg",
+                "malId": 122949,
+                "aniId": 113249,
+                "page": "MangaFire",
+                "title": "Island in a Puddle",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mizutamari-ni-ukabu-shimaa.62y0"
             }
         },
         "Comick": {

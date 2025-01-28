@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "237d527f-adb5-420e-8e6e-b7dd006fbe47": {
+                "id": 37201,
                 "identifier": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
                 "image": "https://uploads.mangadex.org/covers/237d527f-adb5-420e-8e6e-b7dd006fbe47/1a2b3e4c-1a06-4d77-aa38-48753bc3cb98.jpg",
                 "malId": 127907,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "monster-8": {
+                "id": 55189,
                 "identifier": "monster-8",
                 "image": "https://temp.compsci88.com/cover/Monster-8.jpg",
                 "malId": 127907,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kaiju_no_8": {
+                "id": 58534,
                 "identifier": "kaiju_no_8",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36573/cover.jpg",
                 "malId": 127907,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-in985922": {
+                "id": 73812,
                 "identifier": "manga-in985922",
                 "image": "https://avt.mkklcdnv6temp.com/36/j/21-1595608305.jpg",
                 "malId": 127907,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-in985922"
             }
         },
-        "MangaFire": {
-            "kaiju-no-8.yqqv0": {
-                "identifier": "kaiju-no-8.yqqv0",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/8b76b4aeaa15c06e3e05fa1248668915.jpg",
-                "malId": 127907,
-                "aniId": 120760,
-                "page": "MangaFire",
-                "title": "Monster #8",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaiju-no-8.yqqv0/"
-            },
-            "kaijuu-8-gou.yqqv0": {
-                "identifier": "kaijuu-8-gou.yqqv0",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/8b76b4aeaa15c06e3e05fa1248668915.jpg",
-                "malId": 127907,
-                "aniId": 120760,
-                "page": "MangaFire",
-                "title": "Monster #8",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaijuu-8-gou.yqqv0/"
-            },
-            "kaiju-no-88.yqqv0": {
-                "identifier": "kaiju-no-88.yqqv0",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/8b76b4aeaa15c06e3e05fa1248668915.jpg",
-                "malId": 127907,
-                "aniId": 120760,
-                "page": "MangaFire",
-                "title": "Monster #8",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaiju-no-88.yqqv0/"
-            }
-        },
         "Weebcentral": {
             "01j76xydnxnej72v8b63390cnt": {
+                "id": 210996,
                 "identifier": "01j76xydnxnej72v8b63390cnt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDNXNEJ72V8B63390CNT.jpg",
                 "malId": 127907,
@@ -96,6 +69,19 @@
                 "title": "Kaiju No. 8",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDNXNEJ72V8B63390CNT"
+            }
+        },
+        "MangaFire": {
+            "yqqv0": {
+                "id": 228234,
+                "identifier": "yqqv0",
+                "image": "https://static.mangafire.to/1a45/i/2/2b/8b76b4aeaa15c06e3e05fa1248668915.jpg",
+                "malId": 127907,
+                "aniId": 120760,
+                "page": "MangaFire",
+                "title": "Monster #8",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaiju-no-88.yqqv0"
             }
         },
         "Comick": {

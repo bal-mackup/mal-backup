@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0f8807ec-5502-4769-9599-9799ceaeda03": {
+                "id": 15025,
                 "identifier": "0f8807ec-5502-4769-9599-9799ceaeda03",
                 "image": "https://uploads.mangadex.org/covers/0f8807ec-5502-4769-9599-9799ceaeda03/71b89f20-3d39-402e-81f0-bea1284f0865.jpg",
                 "malId": 99349,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "amentia": {
+                "id": 65790,
                 "identifier": "amentia",
                 "image": "https://temp.compsci88.com/cover/Amentia.jpg",
                 "malId": 99349,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Amentia"
             }
         },
-        "MangaFire": {
-            "amentia.qxlz3": {
-                "identifier": "amentia.qxlz3",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2f417145bb24e543d4536762ab43bd8.jpg",
-                "malId": 99349,
-                "aniId": 86826,
-                "page": "MangaFire",
-                "title": "Amentia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amentia.qxlz3/"
-            },
-            "amentiaa.qxlz3": {
-                "identifier": "amentiaa.qxlz3",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2f417145bb24e543d4536762ab43bd8.jpg",
-                "malId": 99349,
-                "aniId": 86826,
-                "page": "MangaFire",
-                "title": "Amentia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/amentiaa.qxlz3/"
-            }
-        },
         "Weebcentral": {
             "01j76xybm4ngwd8npfr6j9gemv": {
+                "id": 214400,
                 "identifier": "01j76xybm4ngwd8npfr6j9gemv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBM4NGWD8NPFR6J9GEMV.jpg",
                 "malId": 99349,
@@ -62,6 +43,19 @@
                 "title": "Amentia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBM4NGWD8NPFR6J9GEMV"
+            }
+        },
+        "MangaFire": {
+            "qxlz3": {
+                "id": 227622,
+                "identifier": "qxlz3",
+                "image": "https://static.mangafire.to/3f3d/i/a/a2/a2f417145bb24e543d4536762ab43bd8.jpg",
+                "malId": 99349,
+                "aniId": 86826,
+                "page": "MangaFire",
+                "title": "Amentia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/amentiaa.qxlz3"
             }
         },
         "Comick": {

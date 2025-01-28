@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "62a9a899-eb67-43da-a2f4-7e8c41e4c8ee": {
+                "id": 18712,
                 "identifier": "62a9a899-eb67-43da-a2f4-7e8c41e4c8ee",
                 "image": "https://uploads.mangadex.org/covers/62a9a899-eb67-43da-a2f4-7e8c41e4c8ee/dcb6fc91-ab75-4e9f-a1bd-a6ae323fb2a4.jpg",
                 "malId": 107909,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "grashros": {
+                "id": 65150,
                 "identifier": "grashros",
                 "image": "https://temp.compsci88.com/cover/Grashros.jpg",
                 "malId": 107909,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ao977949": {
+                "id": 87781,
                 "identifier": "manga-ao977949",
                 "image": "https://avt.mkklcdnv6temp.com/4/v/16-1583493635.jpg",
                 "malId": 107909,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ao977949"
             }
         },
-        "MangaFire": {
-            "grashros.jv3ny": {
-                "identifier": "grashros.jv3ny",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f082062228fb5f8e6e4109a5788a109.jpg",
-                "malId": 107909,
-                "aniId": 100679,
-                "page": "MangaFire",
-                "title": "Grashros",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grashros.jv3ny/"
-            },
-            "grashross.jv3ny": {
-                "identifier": "grashross.jv3ny",
-                "image": "https://static.mangafire.to/1318/i/0/0f/0f082062228fb5f8e6e4109a5788a109.jpg",
-                "malId": 107909,
-                "aniId": 100679,
-                "page": "MangaFire",
-                "title": "Grashros",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/grashross.jv3ny/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc91p1fnay1rarfr26wj": {
+                "id": 210292,
                 "identifier": "01j76xyc91p1fnay1rarfr26wj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC91P1FNAY1RARFR26WJ.jpg",
                 "malId": 107909,
@@ -74,6 +56,19 @@
                 "title": "Grashros",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC91P1FNAY1RARFR26WJ"
+            }
+        },
+        "MangaFire": {
+            "jv3ny": {
+                "id": 223266,
+                "identifier": "jv3ny",
+                "image": "https://static.mangafire.to/1318/i/0/0f/0f082062228fb5f8e6e4109a5788a109.jpg",
+                "malId": 107909,
+                "aniId": 100679,
+                "page": "MangaFire",
+                "title": "Grashros",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/grashross.jv3ny"
             }
         },
         "Comick": {

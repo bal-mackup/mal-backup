@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d416cb20-3ab4-4ee2-a3a4-ddf8b8f28fe9": {
+                "id": 36149,
                 "identifier": "d416cb20-3ab4-4ee2-a3a4-ddf8b8f28fe9",
                 "image": "https://uploads.mangadex.org/covers/d416cb20-3ab4-4ee2-a3a4-ddf8b8f28fe9/524f53c9-dfb8-4331-abb6-ad46b46d28c8.jpg",
                 "malId": 127482,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jy987281": {
+                "id": 86704,
                 "identifier": "manga-jy987281",
                 "image": "https://avt.mkklcdnv6temp.com/41/m/22-1606616058.jpg",
                 "malId": 127482,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "taiyou_to_tsuki_no_hagane": {
+                "id": 117951,
                 "identifier": "taiyou_to_tsuki_no_hagane",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36269/cover.jpg",
                 "malId": 127482,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/taiyou_to_tsuki_no_hagane/"
             }
         },
-        "MangaFire": {
-            "taiyou-to-tsuki-no-hagane.kwyrv": {
-                "identifier": "taiyou-to-tsuki-no-hagane.kwyrv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8ce4a11d856e431de3fddf8b6a522e71.jpg",
-                "malId": 127482,
-                "aniId": 119004,
-                "page": "MangaFire",
-                "title": "Steel of the Celestial Shadows",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/taiyou-to-tsuki-no-hagane.kwyrv/"
-            },
-            "taiyou-to-tsuki-no-haganee.kwyrv": {
-                "identifier": "taiyou-to-tsuki-no-haganee.kwyrv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8ce4a11d856e431de3fddf8b6a522e71.jpg",
-                "malId": 127482,
-                "aniId": 119004,
-                "page": "MangaFire",
-                "title": "Steel of the Celestial Shadows",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/taiyou-to-tsuki-no-haganee.kwyrv/"
-            }
-        },
         "MangaSee": {
             "steel-of-the-celestial-shadows": {
+                "id": 181212,
                 "identifier": "steel-of-the-celestial-shadows",
                 "image": "https://temp.compsci88.com/cover/Steel-of-the-Celestial-Shadows.jpg",
                 "malId": 127482,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygxw1zgme8h35p1s27de": {
+                "id": 213318,
                 "identifier": "01j76xygxw1zgme8h35p1s27de",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXW1ZGME8H35P1S27DE.jpg",
                 "malId": 127482,
@@ -86,6 +69,19 @@
                 "title": "Steel of the Celestial Shadows",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXW1ZGME8H35P1S27DE"
+            }
+        },
+        "MangaFire": {
+            "kwyrv": {
+                "id": 224530,
+                "identifier": "kwyrv",
+                "image": "https://static.mangafire.to/46b0/i/8/8c/8ce4a11d856e431de3fddf8b6a522e71.jpg",
+                "malId": 127482,
+                "aniId": 119004,
+                "page": "MangaFire",
+                "title": "Steel of the Celestial Shadows",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/taiyou-to-tsuki-no-haganee.kwyrv"
             }
         },
         "Comick": {

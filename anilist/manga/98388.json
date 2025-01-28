@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "78aa39b5-efff-4a83-924b-6be14cb44a2b": {
+                "id": 17082,
                 "identifier": "78aa39b5-efff-4a83-924b-6be14cb44a2b",
                 "image": "https://uploads.mangadex.org/covers/78aa39b5-efff-4a83-924b-6be14cb44a2b/08d21ad0-17fa-4aad-aa57-ceb989508a70.jpg",
                 "malId": 103856,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "living-no-matsunaga-san": {
+                "id": 62756,
                 "identifier": "living-no-matsunaga-san",
                 "image": "https://temp.compsci88.com/cover/Living-No-Matsunaga-san.jpg",
                 "malId": 103856,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "living_no_matsunaga_san": {
+                "id": 66793,
                 "identifier": "living_no_matsunaga_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24895/cover.jpg",
                 "malId": 103856,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yg975815": {
+                "id": 80133,
                 "identifier": "manga-yg975815",
                 "image": "https://avt.mkklcdnv6temp.com/17/x/15-1583492108.jpg",
                 "malId": 103856,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yg975815"
             }
         },
-        "MangaFire": {
-            "living-room-matsunaga-san.9ozkq": {
-                "identifier": "living-room-matsunaga-san.9ozkq",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a377749db4d48c82810848a5cee17e07.jpg",
-                "malId": 103856,
-                "aniId": 98388,
-                "page": "MangaFire",
-                "title": "Living-Room Matsunaga-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/living-room-matsunaga-san.9ozkq/"
-            },
-            "living-room-matsunaga-sann.9ozkq": {
-                "identifier": "living-room-matsunaga-sann.9ozkq",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a377749db4d48c82810848a5cee17e07.jpg",
-                "malId": 103856,
-                "aniId": 98388,
-                "page": "MangaFire",
-                "title": "Living-Room Matsunaga-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/living-room-matsunaga-sann.9ozkq/"
-            },
-            "9ozkq": {
-                "identifier": "9ozkq",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a377749db4d48c82810848a5cee17e07.jpg",
-                "malId": 103856,
-                "aniId": 98388,
-                "page": "MangaFire",
-                "title": "Living-Room Matsunaga-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/living-room-matsunaga-sann.9ozkq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc9j8rw0ptfpkaa34hqr": {
+                "id": 207338,
                 "identifier": "01j76xyc9j8rw0ptfpkaa34hqr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC9J8RW0PTFPKAA34HQR.jpg",
                 "malId": 103856,
@@ -96,6 +69,19 @@
                 "title": "Living-Room Matsunaga-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC9J8RW0PTFPKAA34HQR"
+            }
+        },
+        "MangaFire": {
+            "9ozkq": {
+                "id": 225265,
+                "identifier": "9ozkq",
+                "image": "https://static.mangafire.to/ffb5/i/a/a3/a377749db4d48c82810848a5cee17e07.jpg",
+                "malId": 103856,
+                "aniId": 98388,
+                "page": "MangaFire",
+                "title": "Living-Room Matsunaga-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/living-room-matsunaga-sann.9ozkq"
             }
         },
         "Comick": {

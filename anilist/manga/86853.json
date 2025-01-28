@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a2f2f6b-a6a6-4149-879b-3fc2f6916549": {
+                "id": 11196,
                 "identifier": "7a2f2f6b-a6a6-4149-879b-3fc2f6916549",
                 "image": "https://uploads.mangadex.org/covers/7a2f2f6b-a6a6-4149-879b-3fc2f6916549/c96b9a6e-af63-4cfa-b0f7-58bc03f82fe6.jpg",
                 "malId": 76867,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "oshiete-gyaruko-chan": {
+                "id": 58769,
                 "identifier": "oshiete-gyaruko-chan",
                 "image": "https://temp.compsci88.com/cover/Oshiete-Gyaruko-chan.jpg",
                 "malId": 76867,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-sv970230": {
+                "id": 80134,
                 "identifier": "manga-sv970230",
                 "image": "https://avt.mkklcdnv6temp.com/24/b/13-1583488608.jpg",
                 "malId": 76867,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "oshiete_gyaruko_chan": {
+                "id": 93700,
                 "identifier": "oshiete_gyaruko_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18897/cover.jpg",
                 "malId": 76867,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/oshiete_gyaruko_chan/"
             }
         },
-        "MangaFire": {
-            "oshiete-gyaruko-chan.4q9r7": {
-                "identifier": "oshiete-gyaruko-chan.4q9r7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/141765f21c2d9eddec3cee1672307e99.jpg",
-                "malId": 76867,
-                "aniId": 86853,
-                "page": "MangaFire",
-                "title": "Please Tell Me! Galko-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshiete-gyaruko-chan.4q9r7/"
-            },
-            "4q9r7": {
-                "identifier": "4q9r7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/141765f21c2d9eddec3cee1672307e99.jpg",
-                "malId": 76867,
-                "aniId": 86853,
-                "page": "MangaFire",
-                "title": "Please Tell Me! Galko-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshiete-gyaruko-chan.4q9r7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc7z7rym3hmwbv79fbry": {
+                "id": 210876,
                 "identifier": "01j76xyc7z7rym3hmwbv79fbry",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC7Z7RYM3HMWBV79FBRY.jpg",
                 "malId": 76867,
@@ -86,6 +69,19 @@
                 "title": "Please Tell Me! Galko-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC7Z7RYM3HMWBV79FBRY"
+            }
+        },
+        "MangaFire": {
+            "4q9r7": {
+                "id": 255036,
+                "identifier": "4q9r7",
+                "image": "https://static.mangafire.to/fcfa/i/1/14/141765f21c2d9eddec3cee1672307e99.jpg",
+                "malId": 76867,
+                "aniId": 86853,
+                "page": "MangaFire",
+                "title": "Please Tell Me! Galko-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oshiete-gyaruko-chann.4q9r7"
             }
         },
         "Comick": {

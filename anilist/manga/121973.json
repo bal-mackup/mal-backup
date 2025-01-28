@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a": {
+                "id": 37945,
                 "identifier": "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
                 "image": "https://uploads.mangadex.org/covers/3aa6cd45-a36e-4abd-ab1c-f60f1db0014a/26e17345-b060-4632-b7ca-cd0228e0b5db.jpg",
                 "malId": 130493,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-il985546": {
+                "id": 78018,
                 "identifier": "manga-il985546",
                 "image": "https://avt.mkklcdnv6temp.com/24/o/26-1657773713.jpg",
                 "malId": 130493,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-il985546"
             },
             "manga-vq998951": {
+                "id": 187999,
                 "identifier": "manga-vq998951",
                 "image": "https://avt.mkklcdnv6temp.com/fld/12/f/16-1733313802-nw.webp",
                 "malId": 130493,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "natsume_to_natsume": {
+                "id": 83253,
                 "identifier": "natsume_to_natsume",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36815/cover.jpg",
                 "malId": 130493,
@@ -54,6 +58,7 @@
         },
         "MangaSee": {
             "natsume-natsume": {
+                "id": 123659,
                 "identifier": "natsume-natsume",
                 "image": "https://temp.compsci88.com/cover/Natsume-Natsume.jpg",
                 "malId": 130493,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/Natsume-Natsume"
             }
         },
-        "MangaFire": {
-            "natsume-to-natsume.yq81j": {
-                "identifier": "natsume-to-natsume.yq81j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0aac6b09291f2005bcef285add0750bc.jpg",
-                "malId": 130493,
-                "aniId": 121973,
-                "page": "MangaFire",
-                "title": "Natsume & Natsume",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/natsume-to-natsume.yq81j/"
-            },
-            "natsume-to-natsumee.yq81j": {
-                "identifier": "natsume-to-natsumee.yq81j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0aac6b09291f2005bcef285add0750bc.jpg",
-                "malId": 130493,
-                "aniId": 121973,
-                "page": "MangaFire",
-                "title": "Natsume & Natsume",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/natsume-to-natsumee.yq81j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfwyememcvgfxdfthcj6": {
+                "id": 206442,
                 "identifier": "01j76xyfwyememcvgfxdfthcj6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFWYEMEMCVGFXDFTHCJ6.jpg",
                 "malId": 130493,
@@ -96,6 +80,19 @@
                 "title": "Natsume & Natsume",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFWYEMEMCVGFXDFTHCJ6"
+            }
+        },
+        "MangaFire": {
+            "yq81j": {
+                "id": 224205,
+                "identifier": "yq81j",
+                "image": "https://static.mangafire.to/d8f9/i/0/0a/0aac6b09291f2005bcef285add0750bc.jpg",
+                "malId": 130493,
+                "aniId": 121973,
+                "page": "MangaFire",
+                "title": "Natsume & Natsume",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/natsume-to-natsumee.yq81j"
             }
         },
         "Comick": {

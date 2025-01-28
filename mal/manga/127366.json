@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "17e131f5-666d-4eb5-b039-1e379c3fa9b1": {
+                "id": 36535,
                 "identifier": "17e131f5-666d-4eb5-b039-1e379c3fa9b1",
                 "image": "https://uploads.mangadex.org/covers/17e131f5-666d-4eb5-b039-1e379c3fa9b1/3974e503-6392-4c63-bca7-0702d747e5e5.jpg",
                 "malId": 127366,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "restart-after-coming-back-home": {
+                "id": 92434,
                 "identifier": "restart-after-coming-back-home",
                 "image": "https://temp.compsci88.com/cover/Restart-After-Coming-Back-Home.jpg",
                 "malId": 127366,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Restart-After-Coming-Back-Home"
             }
         },
-        "MangaFire": {
-            "restart-wa-tadaima-no-ato-de.4qqo7": {
-                "identifier": "restart-wa-tadaima-no-ato-de.4qqo7",
-                "image": "https://static.mangafire.to/3b2d5/i/0/08/080d3c0aa335f468e0474e661855fbf4.jpg",
-                "malId": 127366,
-                "aniId": 119664,
-                "page": "MangaFire",
-                "title": "Restart After Coming Back Home",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/restart-wa-tadaima-no-ato-de.4qqo7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf66vs5hxa8p0p0rp505": {
+                "id": 206680,
                 "identifier": "01j76xyf66vs5hxa8p0p0rp505",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF66VS5HXA8P0P0RP505.jpg",
                 "malId": 127366,
@@ -52,6 +43,19 @@
                 "title": "Restart After Coming Back Home",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF66VS5HXA8P0P0RP505"
+            }
+        },
+        "MangaFire": {
+            "4qqo7": {
+                "id": 249996,
+                "identifier": "4qqo7",
+                "image": "https://static.mangafire.to/65b4/i/0/08/080d3c0aa335f468e0474e661855fbf4.jpg",
+                "malId": 127366,
+                "aniId": 119664,
+                "page": "MangaFire",
+                "title": "Restart After Coming Back Home",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/restart-wa-tadaima-no-ato-dee.4qqo7"
             }
         },
         "Comick": {

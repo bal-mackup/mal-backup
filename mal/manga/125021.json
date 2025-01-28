@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aa115187-8923-4e71-9eaf-c5f491db8dd6": {
+                "id": 26226,
                 "identifier": "aa115187-8923-4e71-9eaf-c5f491db8dd6",
                 "image": "https://uploads.mangadex.org/covers/aa115187-8923-4e71-9eaf-c5f491db8dd6/f9fa31f8-22ab-418a-ac9a-9895d38e4678.png",
                 "malId": 125021,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "falling_star_wait_there": {
+                "id": 118967,
                 "identifier": "falling_star_wait_there",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35987/cover.jpg",
                 "malId": 125021,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/falling_star_wait_there/"
             }
         },
-        "MangaFire": {
-            "wait-where-the-shooting-star-has-fallen.pr69x": {
-                "identifier": "wait-where-the-shooting-star-has-fallen.pr69x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57526872186524e1cff22e447cd94dba.jpg",
-                "malId": 125021,
-                "aniId": 110373,
-                "page": "MangaFire",
-                "title": "Wait Where the Shooting Star Falls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wait-where-the-shooting-star-has-fallen.pr69x/"
-            }
-        },
         "MangaSee": {
             "wait-where-the-shooting-star-falls": {
+                "id": 158308,
                 "identifier": "wait-where-the-shooting-star-falls",
                 "image": "https://temp.compsci88.com/cover/Wait-Where-the-Shooting-Star-Falls.jpg",
                 "malId": 125021,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg5k3097fdg9rgzvwezg": {
+                "id": 209401,
                 "identifier": "01j76xyg5k3097fdg9rgzvwezg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5K3097FDG9RGZVWEZG.jpg",
                 "malId": 125021,
@@ -64,6 +56,19 @@
                 "title": "Wait Where the Shooting Star Falls",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG5K3097FDG9RGZVWEZG"
+            }
+        },
+        "MangaFire": {
+            "pr69x": {
+                "id": 230308,
+                "identifier": "pr69x",
+                "image": "https://static.mangafire.to/c29a/i/5/57/57526872186524e1cff22e447cd94dba.jpg",
+                "malId": 125021,
+                "aniId": 110373,
+                "page": "MangaFire",
+                "title": "Wait Where the Shooting Star Falls",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wait-where-the-shooting-star-has-fallenn.pr69x"
             }
         },
         "Comick": {

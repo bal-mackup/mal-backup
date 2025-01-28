@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1ac5eb53-59c7-44f1-ae6a-8047e5e6b43d": {
+                "id": 28015,
                 "identifier": "1ac5eb53-59c7-44f1-ae6a-8047e5e6b43d",
                 "image": "https://uploads.mangadex.org/covers/1ac5eb53-59c7-44f1-ae6a-8047e5e6b43d/5aeb4414-078c-428f-91e0-837263735e7e.jpg",
                 "malId": 88298,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/1ac5eb53-59c7-44f1-ae6a-8047e5e6b43d"
             },
             "b2708533-3411-4289-8610-4983f444ec29": {
+                "id": 39214,
                 "identifier": "b2708533-3411-4289-8610-4983f444ec29",
                 "image": "https://uploads.mangadex.org/covers/b2708533-3411-4289-8610-4983f444ec29/b92da16b-ae43-45b8-800c-95e8a4aeeb81.jpg",
                 "malId": 88298,
@@ -28,20 +30,9 @@
                 "url": "https://mangadex.org/title/b2708533-3411-4289-8610-4983f444ec29"
             }
         },
-        "MangaFire": {
-            "satori-kun-to-tsundere-kun.lljkq": {
-                "identifier": "satori-kun-to-tsundere-kun.lljkq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6c/6c48c48f1ea4dd0dc76e03d41a13480d.jpg",
-                "malId": 88298,
-                "aniId": 94639,
-                "page": "MangaFire",
-                "title": "Satori-kun to Tsundere-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/satori-kun-to-tsundere-kun.lljkq/"
-            }
-        },
         "MangaNato": {
             "manga-yb1001658": {
+                "id": 186844,
                 "identifier": "manga-yb1001658",
                 "image": "https://avt.mkklcdnv6temp.com/fld/15/v/17-1733322122-nw.webp",
                 "malId": 88298,
@@ -50,6 +41,19 @@
                 "title": "Satori-Kun To Tsundere-Kun",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-yb1001658"
+            }
+        },
+        "MangaFire": {
+            "lljkq": {
+                "id": 246821,
+                "identifier": "lljkq",
+                "image": "https://static.mangafire.to/9e56/i/6/6c/6c48c48f1ea4dd0dc76e03d41a13480d.jpg",
+                "malId": 88298,
+                "aniId": 94639,
+                "page": "MangaFire",
+                "title": "Satori-kun to Tsundere-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/satori-kun-to-tsundere-kunn.lljkq"
             }
         },
         "Comick": {

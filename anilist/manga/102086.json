@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9b166a5b-d2a1-4b54-bca3-ef49766a1246": {
+                "id": 26709,
                 "identifier": "9b166a5b-d2a1-4b54-bca3-ef49766a1246",
                 "image": "https://uploads.mangadex.org/covers/9b166a5b-d2a1-4b54-bca3-ef49766a1246/3cb3b763-2ff5-447e-a9cf-6afca544f05e.jpg",
                 "malId": 99945,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "boku_ga_watashi_ni_naru_tame_ni": {
+                "id": 57577,
                 "identifier": "boku_ga_watashi_ni_naru_tame_ni",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31142/cover.jpg",
                 "malId": 99945,
@@ -30,40 +32,9 @@
                 "url": "https://fanfox.net/manga/boku_ga_watashi_ni_naru_tame_ni/"
             }
         },
-        "MangaFire": {
-            "boku-ga-watashi-ni-naru-tame-ni.zljlm": {
-                "identifier": "boku-ga-watashi-ni-naru-tame-ni.zljlm",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e9bd6779d818b1cefb7db555f53c1b1.jpg",
-                "malId": 99945,
-                "aniId": 102086,
-                "page": "MangaFire",
-                "title": "My Journey to He",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-ga-watashi-ni-naru-tame-ni.zljlm/"
-            },
-            "boku-ga-watashi-ni-naru-tame-nii.zljlm": {
-                "identifier": "boku-ga-watashi-ni-naru-tame-nii.zljlm",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e9bd6779d818b1cefb7db555f53c1b1.jpg",
-                "malId": 99945,
-                "aniId": 102086,
-                "page": "MangaFire",
-                "title": "My Journey to He",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-ga-watashi-ni-naru-tame-nii.zljlm/"
-            },
-            "zljlm": {
-                "identifier": "zljlm",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6e9bd6779d818b1cefb7db555f53c1b1.jpg",
-                "malId": 99945,
-                "aniId": 102086,
-                "page": "MangaFire",
-                "title": "My Journey to He",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-ga-watashi-ni-naru-tame-nii.zljlm/"
-            }
-        },
         "MangaNato": {
             "manga-gr983900": {
+                "id": 177027,
                 "identifier": "manga-gr983900",
                 "image": "https://avt.mkklcdnv6temp.com/fld/49/q/10-1732800970-nw.webp",
                 "malId": 99945,
@@ -76,6 +47,7 @@
         },
         "MangaSee": {
             "my-journey-to-her": {
+                "id": 195233,
                 "identifier": "my-journey-to-her",
                 "image": "https://temp.compsci88.com/cover/My-Journey-to-Her.jpg",
                 "malId": 99945,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhf8bcj9xm870y5c3e9r": {
+                "id": 211370,
                 "identifier": "01j76xyhf8bcj9xm870y5c3e9r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHF8BCJ9XM870Y5C3E9R.jpg",
                 "malId": 99945,
@@ -96,6 +69,19 @@
                 "title": "My Journey to Her",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHF8BCJ9XM870Y5C3E9R"
+            }
+        },
+        "MangaFire": {
+            "zljlm": {
+                "id": 237464,
+                "identifier": "zljlm",
+                "image": "https://static.mangafire.to/f83a/i/6/6e/6e9bd6779d818b1cefb7db555f53c1b1.jpg",
+                "malId": 99945,
+                "aniId": 102086,
+                "page": "MangaFire",
+                "title": "My Journey to He",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-ga-watashi-ni-naru-tame-nii.zljlm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0434fdc7-fa28-4bbf-ba95-e2169369e447": {
+                "id": 17231,
                 "identifier": "0434fdc7-fa28-4bbf-ba95-e2169369e447",
                 "image": "https://uploads.mangadex.org/covers/0434fdc7-fa28-4bbf-ba95-e2169369e447/ac753cab-a69d-450a-b967-aa959710afa0.jpg",
                 "malId": 106981,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "houkago-koishita": {
+                "id": 80076,
                 "identifier": "houkago-koishita",
                 "image": "https://temp.compsci88.com/cover/Houkago-Koishita.jpg",
                 "malId": 106981,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ak977367": {
+                "id": 85037,
                 "identifier": "manga-ak977367",
                 "image": "https://avt.mkklcdnv6temp.com/41/u/15-1583493166.jpg",
                 "malId": 106981,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ak977367"
             }
         },
-        "MangaFire": {
-            "houkago-koishita.xw5w": {
-                "identifier": "houkago-koishita.xw5w",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c46b0cb4e7aa61fa584244e2a1e0b895.jpg",
-                "malId": 106981,
-                "aniId": 99890,
-                "page": "MangaFire",
-                "title": "I Fell in Love After School",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/houkago-koishita.xw5w/"
-            },
-            "houkago-koishitaa.xw5w": {
-                "identifier": "houkago-koishitaa.xw5w",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c46b0cb4e7aa61fa584244e2a1e0b895.jpg",
-                "malId": 106981,
-                "aniId": 99890,
-                "page": "MangaFire",
-                "title": "I Fell in Love After School",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/houkago-koishitaa.xw5w/"
-            },
-            "xw5w": {
-                "identifier": "xw5w",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c46b0cb4e7aa61fa584244e2a1e0b895.jpg",
-                "malId": 106981,
-                "aniId": 99890,
-                "page": "MangaFire",
-                "title": "I Fell in Love After School",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/houkago-koishitaa.xw5w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd9avkgtvjz2df81n7e3": {
+                "id": 212731,
                 "identifier": "01j76xyd9avkgtvjz2df81n7e3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD9AVKGTVJZ2DF81N7E3.jpg",
                 "malId": 106981,
@@ -84,6 +56,19 @@
                 "title": "I Fell in Love After School",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD9AVKGTVJZ2DF81N7E3"
+            }
+        },
+        "MangaFire": {
+            "xw5w": {
+                "id": 254333,
+                "identifier": "xw5w",
+                "image": "https://static.mangafire.to/74ae/i/c/c4/c46b0cb4e7aa61fa584244e2a1e0b895.jpg",
+                "malId": 106981,
+                "aniId": 99890,
+                "page": "MangaFire",
+                "title": "I Fell in Love After School",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/houkago-koishitaa.xw5w"
             }
         },
         "Comick": {

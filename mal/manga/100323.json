@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03": {
+                "id": 17630,
                 "identifier": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
                 "image": "https://uploads.mangadex.org/covers/1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03/af557016-024b-45c1-9850-c02324113c95.jpg",
                 "malId": 100323,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yuukoku-no-moriarty": {
+                "id": 54559,
                 "identifier": "yuukoku-no-moriarty",
                 "image": "https://temp.compsci88.com/cover/Yuukoku-No-Moriarty.jpg",
                 "malId": 100323,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yukoku_no_moriarty": {
+                "id": 54739,
                 "identifier": "yukoku_no_moriarty",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24753/cover.jpg",
                 "malId": 100323,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yi975691": {
+                "id": 76234,
                 "identifier": "manga-yi975691",
                 "image": "https://avt.mkklcdnv6temp.com/15/d/15-1583492007.jpg",
                 "malId": 100323,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yi975691"
             }
         },
-        "MangaFire": {
-            "yuukoku-no-moriarty.vvv67": {
-                "identifier": "yuukoku-no-moriarty.vvv67",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7cdd6d240c95bce103c9732089d5a38d.jpg",
-                "malId": 100323,
-                "aniId": 98544,
-                "page": "MangaFire",
-                "title": "Moriarty the Patriot",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuukoku-no-moriarty.vvv67/"
-            }
-        },
         "Weebcentral": {
             "01j76xyck8g6jkxrvx4ag9gjsg": {
+                "id": 207163,
                 "identifier": "01j76xyck8g6jkxrvx4ag9gjsg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCK8G6JKXRVX4AG9GJSG.jpg",
                 "malId": 100323,
@@ -76,6 +69,19 @@
                 "title": "Moriarty the Patriot",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCK8G6JKXRVX4AG9GJSG"
+            }
+        },
+        "MangaFire": {
+            "vvv67": {
+                "id": 254792,
+                "identifier": "vvv67",
+                "image": "https://static.mangafire.to/1a85/i/7/7c/7cdd6d240c95bce103c9732089d5a38d.jpg",
+                "malId": 100323,
+                "aniId": 98544,
+                "page": "MangaFire",
+                "title": "Moriarty the Patriot",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuukoku-no-moriartyy.vvv67"
             }
         },
         "Comick": {

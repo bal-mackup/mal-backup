@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67072481-bf38-4baa-b92e-da6d46e86d96": {
+                "id": 9682,
                 "identifier": "67072481-bf38-4baa-b92e-da6d46e86d96",
                 "image": "https://uploads.mangadex.org/covers/67072481-bf38-4baa-b92e-da6d46e86d96/03127d1d-1958-4569-8ec2-ca027ef9c0c5.png",
                 "malId": 61999,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "k-the-first": {
+                "id": 76361,
                 "identifier": "k-the-first",
                 "image": "https://temp.compsci88.com/cover/K-The-First.jpg",
                 "malId": 61999,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/K-The-First"
             }
         },
-        "MangaFire": {
-            "k-the-first.x7j3": {
-                "identifier": "k-the-first.x7j3",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96b6aec840d64c22824ef857423e9aeb.jpg",
-                "malId": 61999,
-                "aniId": 85261,
-                "page": "MangaFire",
-                "title": "K - The First",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/k-the-first.x7j3/"
-            },
-            "x7j3": {
-                "identifier": "x7j3",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96b6aec840d64c22824ef857423e9aeb.jpg",
-                "malId": 61999,
-                "aniId": 85261,
-                "page": "MangaFire",
-                "title": "K - The First",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/k-the-first.x7j3/"
-            }
-        },
         "MangaFox": {
             "k_the_first": {
+                "id": 185599,
                 "identifier": "k_the_first",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13465/cover.jpg",
                 "malId": 61999,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xya3qtc3ecdkkzt9vnn6a": {
+                "id": 208517,
                 "identifier": "01j76xya3qtc3ecdkkzt9vnn6a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA3QTC3ECDKKZT9VNN6A.jpg",
                 "malId": 61999,
@@ -74,6 +56,19 @@
                 "title": "K - The First",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA3QTC3ECDKKZT9VNN6A"
+            }
+        },
+        "MangaFire": {
+            "x7j3": {
+                "id": 260953,
+                "identifier": "x7j3",
+                "image": "https://static.mangafire.to/b203/i/9/96/96b6aec840d64c22824ef857423e9aeb.jpg",
+                "malId": 61999,
+                "aniId": 85261,
+                "page": "MangaFire",
+                "title": "K - The First",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/k-the-firstt.x7j3"
             }
         },
         "Comick": {

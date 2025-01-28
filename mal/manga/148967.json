@@ -6,30 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/264296.jpg",
     "Sites": {
-        "MangaFire": {
-            "rebirth-in-paradise.6wwlp": {
-                "identifier": "rebirth-in-paradise.6wwlp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73a08da72f216041d7a33517209f8f9b.jpg",
-                "malId": 148967,
-                "aniId": 136180,
-                "page": "MangaFire",
-                "title": "Rebirth in Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rebirth-in-paradise.6wwlp/"
-            },
-            "rebirth-in-paradisee.6wwlp": {
-                "identifier": "rebirth-in-paradisee.6wwlp",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73a08da72f216041d7a33517209f8f9b.jpg",
-                "malId": 148967,
-                "aniId": 136180,
-                "page": "MangaFire",
-                "title": "Rebirth in Paradise",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rebirth-in-paradisee.6wwlp/"
-            }
-        },
         "MangaNato": {
             "manga-wy1000081": {
+                "id": 181734,
                 "identifier": "manga-wy1000081",
                 "image": "https://avt.mkklcdnv6temp.com/fld/55/k/16-1733317062-nw.webp",
                 "malId": 148967,
@@ -42,6 +21,7 @@
         },
         "MangaFox": {
             "rebirth_in_paradise": {
+                "id": 196574,
                 "identifier": "rebirth_in_paradise",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42840/cover.jpg",
                 "malId": 148967,
@@ -50,6 +30,19 @@
                 "title": "Rebirth in Paradise",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/rebirth_in_paradise/"
+            }
+        },
+        "MangaFire": {
+            "6wwlp": {
+                "id": 235443,
+                "identifier": "6wwlp",
+                "image": "https://static.mangafire.to/a468/i/7/73/73a08da72f216041d7a33517209f8f9b.jpg",
+                "malId": 148967,
+                "aniId": 136180,
+                "page": "MangaFire",
+                "title": "Rebirth in Paradise",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rebirth-in-paradisee.6wwlp"
             }
         }
     },

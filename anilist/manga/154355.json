@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1cd7fa45-b477-4c83-876e-20dc1dbabe1f": {
+                "id": 111086,
                 "identifier": "1cd7fa45-b477-4c83-876e-20dc1dbabe1f",
                 "image": "https://uploads.mangadex.org/covers/1cd7fa45-b477-4c83-876e-20dc1dbabe1f/9508e0af-0205-4247-a5ae-8450f5d00897.jpg",
                 "malId": 149667,
@@ -18,38 +19,30 @@
                 "url": "https://mangadex.org/title/1cd7fa45-b477-4c83-876e-20dc1dbabe1f"
             }
         },
-        "MangaFire": {
-            "utsukushii-kare.vvnp7": {
-                "identifier": "utsukushii-kare.vvnp7",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d235439923750941a8c72ef04c68efce.jpg",
-                "malId": 149667,
-                "aniId": 154355,
-                "page": "MangaFire",
-                "title": "My Beautiful Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/utsukushii-kare.vvnp7/"
-            },
-            "utsukushii-karee.vvnp7": {
-                "identifier": "utsukushii-karee.vvnp7",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d235439923750941a8c72ef04c68efce.jpg",
-                "malId": 149667,
-                "aniId": 154355,
-                "page": "MangaFire",
-                "title": "My Beautiful Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/utsukushii-karee.vvnp7/"
-            }
-        },
         "MangaNato": {
             "manga-um997369": {
+                "id": 192086,
                 "identifier": "manga-um997369",
-                "image": "https://avt.mkklcdnv6temp.com/4/a/31-1690959150.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/51/w/15-1733309744-nw.webp",
                 "malId": 149667,
                 "aniId": 154355,
                 "page": "MangaNato",
                 "title": "Utsukushii Kare",
                 "type": "manga",
                 "url": "https://manganato.com/manga-um997369"
+            }
+        },
+        "MangaFire": {
+            "vvnp7": {
+                "id": 228347,
+                "identifier": "vvnp7",
+                "image": "https://static.mangafire.to/39a0/i/d/d2/d235439923750941a8c72ef04c68efce.jpg",
+                "malId": 149667,
+                "aniId": 154355,
+                "page": "MangaFire",
+                "title": "My Beautiful Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/utsukushii-karee.vvnp7"
             }
         },
         "Comick": {

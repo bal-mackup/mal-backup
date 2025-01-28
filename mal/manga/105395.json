@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "22439875-ccf0-435d-917b-e714255e27cc": {
+                "id": 21625,
                 "identifier": "22439875-ccf0-435d-917b-e714255e27cc",
                 "image": "https://uploads.mangadex.org/covers/22439875-ccf0-435d-917b-e714255e27cc/38664380-f43e-4ab2-95c3-a640c4761033.jpg",
                 "malId": 105395,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/22439875-ccf0-435d-917b-e714255e27cc"
             },
             "a12e6df8-c9e4-4ff7-ac4d-f7cc6011969f": {
+                "id": 115129,
                 "identifier": "a12e6df8-c9e4-4ff7-ac4d-f7cc6011969f",
                 "image": "https://uploads.mangadex.org/covers/a12e6df8-c9e4-4ff7-ac4d-f7cc6011969f/ad6846f2-6f07-4d77-9f12-162a2ba83923.jpg",
                 "malId": 105395,
@@ -28,30 +30,9 @@
                 "url": "https://mangadex.org/title/a12e6df8-c9e4-4ff7-ac4d-f7cc6011969f"
             }
         },
-        "MangaFire": {
-            "higyaku-no-noel.xmy8": {
-                "identifier": "higyaku-no-noel.xmy8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b5520484880f1c72197c1aa739d2576.jpg",
-                "malId": 105395,
-                "aniId": 99898,
-                "page": "MangaFire",
-                "title": "Noel the Mortal Fate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/higyaku-no-noel.xmy8/"
-            },
-            "xmy8": {
-                "identifier": "xmy8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b5520484880f1c72197c1aa739d2576.jpg",
-                "malId": 105395,
-                "aniId": 99898,
-                "page": "MangaFire",
-                "title": "Noel the Mortal Fate",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/higyaku-no-noel.xmy8/"
-            }
-        },
         "MangaNato": {
             "manga-ce979987": {
+                "id": 194180,
                 "identifier": "manga-ce979987",
                 "image": "https://avt.mkklcdnv6temp.com/fld/8/x/9-1732792718-nw.webp",
                 "malId": 105395,
@@ -60,6 +41,19 @@
                 "title": "Higyaku No Noel",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ce979987"
+            }
+        },
+        "MangaFire": {
+            "xmy8": {
+                "id": 254990,
+                "identifier": "xmy8",
+                "image": "https://static.mangafire.to/f87c/i/7/a3/46d008d772d659c48012a1075f62d9c6.jpg",
+                "malId": 105395,
+                "aniId": 99898,
+                "page": "MangaFire",
+                "title": "Noel the Mortal Fate",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/higyaku-no-noell.xmy8"
             }
         },
         "Comick": {

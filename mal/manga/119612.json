@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dede935b-dcb4-419d-a3e2-513a444943c5": {
+                "id": 26540,
                 "identifier": "dede935b-dcb4-419d-a3e2-513a444943c5",
                 "image": "https://uploads.mangadex.org/covers/dede935b-dcb4-419d-a3e2-513a444943c5/6c48b681-7c2a-4809-9da0-f06fac3b1e7c.jpg",
                 "malId": 119612,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/dede935b-dcb4-419d-a3e2-513a444943c5"
             }
         },
-        "MangaFire": {
-            "she-likes-homos-not-me.nrqvk": {
-                "identifier": "she-likes-homos-not-me.nrqvk",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a9cfe545644e3539105d88bbe95ba4c.jpg",
-                "malId": 119612,
-                "aniId": 107842,
-                "page": "MangaFire",
-                "title": "She Likes Gays, but Not Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/she-likes-homos-not-me.nrqvk/"
-            }
-        },
         "MangaSee": {
             "she-likes-gays-but-not-me": {
+                "id": 189861,
                 "identifier": "she-likes-gays-but-not-me",
                 "image": "https://temp.compsci88.com/cover/She-Likes-Gays-but-Not-Me.jpg",
                 "malId": 119612,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh976nr15eq9vz1z0jx1": {
+                "id": 211495,
                 "identifier": "01j76xyh976nr15eq9vz1z0jx1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH976NR15EQ9VZ1Z0JX1.jpg",
                 "malId": 119612,
@@ -52,6 +43,19 @@
                 "title": "She Likes Gays, but Not Me",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH976NR15EQ9VZ1Z0JX1"
+            }
+        },
+        "MangaFire": {
+            "nrqvk": {
+                "id": 245920,
+                "identifier": "nrqvk",
+                "image": "https://static.mangafire.to/c1d5/i/3/3a/3a9cfe545644e3539105d88bbe95ba4c.jpg",
+                "malId": 119612,
+                "aniId": 107842,
+                "page": "MangaFire",
+                "title": "She Likes Gays, but Not Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/she-likes-homos-not-mee.nrqvk"
             }
         },
         "Comick": {

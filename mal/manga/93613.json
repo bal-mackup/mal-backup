@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab36d6f6-ef94-4e3e-af4f-de51e48dadeb": {
+                "id": 12333,
                 "identifier": "ab36d6f6-ef94-4e3e-af4f-de51e48dadeb",
                 "image": "https://uploads.mangadex.org/covers/ab36d6f6-ef94-4e3e-af4f-de51e48dadeb/7d4ff768-8e8c-462e-9705-20cd4df2da03.jpg",
                 "malId": 93613,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "aiko-no-maa-chan": {
+                "id": 56671,
                 "identifier": "aiko-no-maa-chan",
                 "image": "https://temp.compsci88.com/cover/Aiko-No-Maa-Chan.jpg",
                 "malId": 93613,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Aiko-No-Maa-Chan"
             }
         },
-        "MangaFire": {
-            "aiko-no-maa-chan.pr1kx": {
-                "identifier": "aiko-no-maa-chan.pr1kx",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/8906d08be73c8972c4cb21c83c398550.jpg",
-                "malId": 93613,
-                "aniId": 86503,
-                "page": "MangaFire",
-                "title": "Aiko no Maa-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aiko-no-maa-chan.pr1kx/"
-            }
-        },
         "Weebcentral": {
             "01j76xybggkfcs7xa1v7xyxq09": {
+                "id": 209236,
                 "identifier": "01j76xybggkfcs7xa1v7xyxq09",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBGGKFCS7XA1V7XYXQ09.jpg",
                 "malId": 93613,
@@ -52,6 +43,19 @@
                 "title": "Aiko no Maa-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBGGKFCS7XA1V7XYXQ09"
+            }
+        },
+        "MangaFire": {
+            "pr1kx": {
+                "id": 252212,
+                "identifier": "pr1kx",
+                "image": "https://static.mangafire.to/95f1/i/8/89/8906d08be73c8972c4cb21c83c398550.jpg",
+                "malId": 93613,
+                "aniId": 86503,
+                "page": "MangaFire",
+                "title": "Aiko no Maa-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aiko-no-maa-chann.pr1kx"
             }
         },
         "Comick": {

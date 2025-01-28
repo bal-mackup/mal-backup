@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-qq993525": {
+                "id": 121834,
                 "identifier": "manga-qq993525",
                 "image": "https://avt.mkklcdnv6temp.com/1/m/27-1673671020.jpg",
                 "malId": 154961,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "504cb09b-6f5d-4a2c-a363-6de16f8d96cc": {
+                "id": 124982,
                 "identifier": "504cb09b-6f5d-4a2c-a363-6de16f8d96cc",
                 "image": "https://uploads.mangadex.org/covers/504cb09b-6f5d-4a2c-a363-6de16f8d96cc/51ebaf79-7c48-4b70-8303-a4d7a40e7887.jpg",
                 "malId": 154961,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/504cb09b-6f5d-4a2c-a363-6de16f8d96cc"
             }
         },
-        "MangaFire": {
-            "when-i-returned-home-my-family-was-ruined.kkyjr": {
-                "identifier": "when-i-returned-home-my-family-was-ruined.kkyjr",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70856fb82c7789af915f608fd953e97d.jpg",
-                "malId": 154961,
-                "aniId": 158440,
-                "page": "MangaFire",
-                "title": "When I Returned Home, My Family Was Ruined",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/when-i-returned-home-my-family-was-ruined.kkyjr/"
-            },
-            "when-i-returned-home-my-family-was-ruinedd.kkyjr": {
-                "identifier": "when-i-returned-home-my-family-was-ruinedd.kkyjr",
-                "image": "https://static.mangafire.to/3b2d5/i/7/70/70856fb82c7789af915f608fd953e97d.jpg",
-                "malId": 154961,
-                "aniId": 158440,
-                "page": "MangaFire",
-                "title": "When I Returned Home, My Family Was Ruined",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/when-i-returned-home-my-family-was-ruinedd.kkyjr/"
-            }
-        },
         "MangaFox": {
             "i_regressed_to_my_ruined_family": {
+                "id": 187623,
                 "identifier": "i_regressed_to_my_ruined_family",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45315/cover.jpg",
                 "malId": 154961,
@@ -62,6 +43,19 @@
                 "title": "I Regressed to My Ruined Family",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/i_regressed_to_my_ruined_family/"
+            }
+        },
+        "MangaFire": {
+            "kkyjr": {
+                "id": 224335,
+                "identifier": "kkyjr",
+                "image": "https://static.mangafire.to/858f/i/7/70/70856fb82c7789af915f608fd953e97d.jpg",
+                "malId": 154961,
+                "aniId": 158440,
+                "page": "MangaFire",
+                "title": "When I Returned Home, My Family Was Ruined",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/when-i-returned-home-my-family-was-ruinedd.kkyjr"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d7576e72-0301-4ed3-9137-722ed768bfda": {
+                "id": 32091,
                 "identifier": "d7576e72-0301-4ed3-9137-722ed768bfda",
                 "image": "https://uploads.mangadex.org/covers/d7576e72-0301-4ed3-9137-722ed768bfda/e37f95d8-a42f-4df5-a623-d99266a60f76.jpg",
                 "malId": 123270,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "lonely_girl_ni_sakaraenai": {
+                "id": 58255,
                 "identifier": "lonely_girl_ni_sakaraenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34566/cover.jpg",
                 "malId": 123270,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gy984007": {
+                "id": 72855,
                 "identifier": "manga-gy984007",
                 "image": "https://avt.mkklcdnv6temp.com/10/b/20-1583501415.jpg",
                 "malId": 123270,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-gy984007"
             }
         },
-        "MangaFire": {
-            "cant-defy-the-lonely-girl.6v42z": {
-                "identifier": "cant-defy-the-lonely-girl.6v42z",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/662ebb44facc0dfb700031ebd1930792.jpg",
-                "malId": 123270,
-                "aniId": 112621,
-                "page": "MangaFire",
-                "title": "I Can't Say No to the Lonely Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cant-defy-the-lonely-girl.6v42z/"
-            },
-            "cant-defy-the-lonely-girll.6v42z": {
-                "identifier": "cant-defy-the-lonely-girll.6v42z",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/662ebb44facc0dfb700031ebd1930792.jpg",
-                "malId": 123270,
-                "aniId": 112621,
-                "page": "MangaFire",
-                "title": "I Can't Say No to the Lonely Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cant-defy-the-lonely-girll.6v42z/"
-            }
-        },
         "MangaSee": {
             "i-cant-say-no-to-the-lonely-girl": {
+                "id": 184189,
                 "identifier": "i-cant-say-no-to-the-lonely-girl",
                 "image": "https://temp.compsci88.com/cover/I-Cant-Say-No-to-the-Lonely-Girl.jpg",
                 "malId": 123270,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh1jjztezw8wkycy7v4r": {
+                "id": 210250,
                 "identifier": "01j76xyh1jjztezw8wkycy7v4r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH1JJZTEZW8WKYCY7V4R.jpg",
                 "malId": 123270,
@@ -86,6 +69,19 @@
                 "title": "I Can’t Say No to the Lonely Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH1JJZTEZW8WKYCY7V4R"
+            }
+        },
+        "MangaFire": {
+            "6v42z": {
+                "id": 226651,
+                "identifier": "6v42z",
+                "image": "https://static.mangafire.to/7f11/i/6/66/662ebb44facc0dfb700031ebd1930792.jpg",
+                "malId": 123270,
+                "aniId": 112621,
+                "page": "MangaFire",
+                "title": "I Can't Say No to the Lonely Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cant-defy-the-lonely-girll.6v42z"
             }
         },
         "Comick": {

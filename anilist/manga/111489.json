@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "68db2889-d80d-4803-8294-b4b4b65e9977": {
+                "id": 30530,
                 "identifier": "68db2889-d80d-4803-8294-b4b4b65e9977",
                 "image": "https://uploads.mangadex.org/covers/68db2889-d80d-4803-8294-b4b4b65e9977/cfca7e92-5b4e-4371-b6bc-5d3754f54a55.jpg",
                 "malId": 131338,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fe983161": {
+                "id": 81794,
                 "identifier": "manga-fe983161",
                 "image": "https://avt.mkklcdnv6temp.com/28/h/19-1583500212.jpg",
                 "malId": 131338,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-fe983161"
             }
         },
-        "MangaFire": {
-            "gorae-byul.5kzyq": {
-                "identifier": "gorae-byul.5kzyq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66052dcec56f71eec090673fcc774212.jpg",
-                "malId": 131338,
-                "aniId": 111489,
-                "page": "MangaFire",
-                "title": "Whale Star: The Gyeongseong Mermaid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gorae-byul.5kzyq/"
-            },
-            "gorae-byull.5kzyq": {
-                "identifier": "gorae-byull.5kzyq",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66052dcec56f71eec090673fcc774212.jpg",
-                "malId": 131338,
-                "aniId": 111489,
-                "page": "MangaFire",
-                "title": "Whale Star: The Gyeongseong Mermaid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gorae-byull.5kzyq/"
-            }
-        },
         "MangaSee": {
             "whale-star-the-gyeongseong-mermaid": {
+                "id": 179159,
                 "identifier": "whale-star-the-gyeongseong-mermaid",
                 "image": "https://temp.compsci88.com/cover/Whale-Star-The-Gyeongseong-Mermaid.jpg",
                 "malId": 131338,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygvkaq7p4qt1w814xfbe": {
+                "id": 213132,
                 "identifier": "01j76xygvkaq7p4qt1w814xfbe",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGVKAQ7P4QT1W814XFBE.jpg",
                 "malId": 131338,
@@ -74,6 +56,19 @@
                 "title": "Whale Star: The Gyeongseong Mermaid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGVKAQ7P4QT1W814XFBE"
+            }
+        },
+        "MangaFire": {
+            "5kzyq": {
+                "id": 230123,
+                "identifier": "5kzyq",
+                "image": "https://static.mangafire.to/0cd9/i/6/66/66052dcec56f71eec090673fcc774212.jpg",
+                "malId": 131338,
+                "aniId": 111489,
+                "page": "MangaFire",
+                "title": "Whale Star: The Gyeongseong Mermaid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gorae-byull.5kzyq"
             }
         },
         "Comick": {

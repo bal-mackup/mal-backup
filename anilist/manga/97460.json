@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "743c3648-a027-493c-a266-814de86336be": {
+                "id": 15758,
                 "identifier": "743c3648-a027-493c-a266-814de86336be",
                 "image": "https://uploads.mangadex.org/covers/743c3648-a027-493c-a266-814de86336be/2ce21cc7-585e-48a0-936e-53ba324cd3b3.jpg",
                 "malId": 99860,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "black_kanojo": {
+                "id": 55049,
                 "identifier": "black_kanojo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21591/cover.jpg",
                 "malId": 99860,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "black-kanojo": {
+                "id": 68091,
                 "identifier": "black-kanojo",
                 "image": "https://temp.compsci88.com/cover/Black-Kanojo.jpg",
                 "malId": 99860,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vg972715": {
+                "id": 80650,
                 "identifier": "manga-vg972715",
                 "image": "https://avt.mkklcdnv6temp.com/19/i/14-1583490439.jpg",
                 "malId": 99860,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-vg972715"
             }
         },
-        "MangaFire": {
-            "black-kanojo.525pq": {
-                "identifier": "black-kanojo.525pq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c9/c9c1fde0c67d2d26dd99c8ee4b4580e4.jpg",
-                "malId": 99860,
-                "aniId": 97460,
-                "page": "MangaFire",
-                "title": "Black Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-kanojo.525pq/"
-            }
-        },
         "Weebcentral": {
             "01j76xybxfs6e3gf1z6pw1vrt3": {
+                "id": 214302,
                 "identifier": "01j76xybxfs6e3gf1z6pw1vrt3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBXFS6E3GF1Z6PW1VRT3.jpg",
                 "malId": 99860,
@@ -76,6 +69,19 @@
                 "title": "Black Kanojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBXFS6E3GF1Z6PW1VRT3"
+            }
+        },
+        "MangaFire": {
+            "525pq": {
+                "id": 252280,
+                "identifier": "525pq",
+                "image": "https://static.mangafire.to/54c6/i/c/c9/c9c1fde0c67d2d26dd99c8ee4b4580e4.jpg",
+                "malId": 99860,
+                "aniId": 97460,
+                "page": "MangaFire",
+                "title": "Black Kanojo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/black-kanojoo.525pq"
             }
         },
         "Comick": {

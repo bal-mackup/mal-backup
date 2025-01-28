@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "danshi-hanayakanare": {
+                "id": 65099,
                 "identifier": "danshi-hanayakanare",
                 "image": "https://temp.compsci88.com/cover/Danshi-Hanayakanare.jpg",
                 "malId": 74449,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/Danshi-Hanayakanare"
             }
         },
-        "MangaFire": {
-            "danshi-hanayakanare.wlzl": {
-                "identifier": "danshi-hanayakanare.wlzl",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6f77e01f17c53a47ff014d5003ad7b36.jpg",
-                "malId": 74449,
-                "aniId": 92013,
-                "page": "MangaFire",
-                "title": "Danshi Hanayakanare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/danshi-hanayakanare.wlzl/"
-            },
-            "wlzl": {
-                "identifier": "wlzl",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6f/6f77e01f17c53a47ff014d5003ad7b36.jpg",
-                "malId": 74449,
-                "aniId": 92013,
-                "page": "MangaFire",
-                "title": "Danshi Hanayakanare",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/danshi-hanayakanare.wlzl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyamq9dm50vg28rjv2q3g": {
+                "id": 208609,
                 "identifier": "01j76xyamq9dm50vg28rjv2q3g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAMQ9DM50VG28RJV2Q3G.jpg",
                 "malId": 74449,
@@ -50,6 +30,19 @@
                 "title": "Danshi Hanayakanare",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAMQ9DM50VG28RJV2Q3G"
+            }
+        },
+        "MangaFire": {
+            "wlzl": {
+                "id": 258074,
+                "identifier": "wlzl",
+                "image": "https://static.mangafire.to/2716/i/6/6f/6f77e01f17c53a47ff014d5003ad7b36.jpg",
+                "malId": 74449,
+                "aniId": 92013,
+                "page": "MangaFire",
+                "title": "Danshi Hanayakanare",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/danshi-hanayakanaree.wlzl"
             }
         },
         "Comick": {

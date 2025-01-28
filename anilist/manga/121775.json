@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "20894236-26bd-44d2-ae47-82b9449b48d6": {
+                "id": 37017,
                 "identifier": "20894236-26bd-44d2-ae47-82b9449b48d6",
                 "image": "https://uploads.mangadex.org/covers/20894236-26bd-44d2-ae47-82b9449b48d6/ff267dfb-211b-434c-b8b8-c9277dbde08c.png",
                 "malId": 147098,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "delusion-hongjacga": {
+                "id": 181012,
                 "identifier": "delusion-hongjacga",
                 "image": "https://temp.compsci88.com/cover/Delusion-Hongjacga.jpg",
                 "malId": 147098,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Delusion-Hongjacga"
             }
         },
-        "MangaFire": {
-            "hyeonhok.yv2zj": {
-                "identifier": "hyeonhok.yv2zj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/18/182171fc5d2a34e210096d6141b65bed.jpg",
-                "malId": 147098,
-                "aniId": 121775,
-                "page": "MangaFire",
-                "title": "Delusion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hyeonhok.yv2zj/"
-            },
-            "hyeonhokk.yv2zj": {
-                "identifier": "hyeonhokk.yv2zj",
-                "image": "https://static.mangafire.to/65aa/i/1/18/182171fc5d2a34e210096d6141b65bed.jpg",
-                "malId": 147098,
-                "aniId": 121775,
-                "page": "MangaFire",
-                "title": "Delusion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hyeonhokk.yv2zj/"
-            }
-        },
         "Weebcentral": {
             "01j76xygww6csxp07awcejb6qh": {
+                "id": 206755,
                 "identifier": "01j76xygww6csxp07awcejb6qh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWW6CSXP07AWCEJB6QH.jpg",
                 "malId": 147098,
@@ -62,6 +43,19 @@
                 "title": "Delusion (Hongjacga)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWW6CSXP07AWCEJB6QH"
+            }
+        },
+        "MangaFire": {
+            "yv2zj": {
+                "id": 223689,
+                "identifier": "yv2zj",
+                "image": "https://static.mangafire.to/65aa/i/1/18/182171fc5d2a34e210096d6141b65bed.jpg",
+                "malId": 147098,
+                "aniId": 121775,
+                "page": "MangaFire",
+                "title": "Delusion",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hyeonhokk.yv2zj"
             }
         },
         "Comick": {

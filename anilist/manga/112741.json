@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d87dd658-2741-493c-905b-fd3fae4fda0c": {
+                "id": 37140,
                 "identifier": "d87dd658-2741-493c-905b-fd3fae4fda0c",
                 "image": "https://uploads.mangadex.org/covers/d87dd658-2741-493c-905b-fd3fae4fda0c/f3e6e639-9f67-42fa-ac85-22f975e7494c.jpg",
                 "malId": 128131,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kimi_ni_todoke_bangai_hen_unmei_no_hito": {
+                "id": 66581,
                 "identifier": "kimi_ni_todoke_bangai_hen_unmei_no_hito",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34679/cover.jpg",
                 "malId": 128131,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/kimi_ni_todoke_bangai_hen_unmei_no_hito/"
             }
         },
-        "MangaFire": {
-            "kimi-ni-todoke-special-soulmate.nrq4j": {
-                "identifier": "kimi-ni-todoke-special-soulmate.nrq4j",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14db499c258bbb3c4811df69539a3ef5.jpg",
-                "malId": 128131,
-                "aniId": 112741,
-                "page": "MangaFire",
-                "title": "Kimi ni Todoke Special ～Soulmate～",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-todoke-special-soulmate.nrq4j/"
-            },
-            "kimi-ni-todoke-special-soulmatee.nrq4j": {
-                "identifier": "kimi-ni-todoke-special-soulmatee.nrq4j",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/14db499c258bbb3c4811df69539a3ef5.jpg",
-                "malId": 128131,
-                "aniId": 112741,
-                "page": "MangaFire",
-                "title": "Kimi ni Todoke Special ～Soulmate～",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-todoke-special-soulmatee.nrq4j/"
-            }
-        },
         "MangaSee": {
             "kimi-ni-todoke-from-me-to-you-soulmate": {
+                "id": 186025,
                 "identifier": "kimi-ni-todoke-from-me-to-you-soulmate",
                 "image": "https://temp.compsci88.com/cover/Kimi-ni-Todoke-From-Me-to-You-Soulmate.jpg",
                 "malId": 128131,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh47pdnj9hq6f6gv247d": {
+                "id": 211617,
                 "identifier": "01j76xyh47pdnj9hq6f6gv247d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH47PDNJ9HQ6F6GV247D.jpg",
                 "malId": 128131,
@@ -74,6 +56,19 @@
                 "title": "Kimi ni Todoke - From Me to You: Soulmate",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH47PDNJ9HQ6F6GV247D"
+            }
+        },
+        "MangaFire": {
+            "nrq4j": {
+                "id": 227606,
+                "identifier": "nrq4j",
+                "image": "https://static.mangafire.to/68d0/i/1/14/14db499c258bbb3c4811df69539a3ef5.jpg",
+                "malId": 128131,
+                "aniId": 112741,
+                "page": "MangaFire",
+                "title": "Kimi ni Todoke Special ～Soulmate～",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ni-todoke-special-soulmatee.nrq4j"
             }
         },
         "Comick": {

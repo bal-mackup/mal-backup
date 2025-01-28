@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6e311761-9dce-432f-adef-c0d74f9b31c9": {
+                "id": 31985,
                 "identifier": "6e311761-9dce-432f-adef-c0d74f9b31c9",
                 "image": "https://uploads.mangadex.org/covers/6e311761-9dce-432f-adef-c0d74f9b31c9/b528bcdd-75f0-44a1-b2cd-e810f2cfdbff.jpg",
                 "malId": 124036,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sakurai-san-wants-to-be-noticed": {
+                "id": 58069,
                 "identifier": "sakurai-san-wants-to-be-noticed",
                 "image": "https://temp.compsci88.com/cover/Sakurai-san-Wants-to-Be-Noticed.jpg",
                 "malId": 124036,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sakurai_san_wa_kidzuite_hoshii": {
+                "id": 70378,
                 "identifier": "sakurai_san_wa_kidzuite_hoshii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33534/cover.jpg",
                 "malId": 124036,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gb983736": {
+                "id": 74637,
                 "identifier": "manga-gb983736",
                 "image": "https://avt.mkklcdnv6temp.com/49/v/19-1583500987.jpg",
                 "malId": 124036,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-gb983736"
             }
         },
-        "MangaFire": {
-            "sakurai-san-wa-kizuite-hoshii.6rjz": {
-                "identifier": "sakurai-san-wa-kizuite-hoshii.6rjz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/879c7c5f5539348e8eac8a674fb837ba.jpg",
-                "malId": 124036,
-                "aniId": 113801,
-                "page": "MangaFire",
-                "title": "Sakurai-san Wants to Be Noticed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakurai-san-wa-kizuite-hoshii.6rjz/"
-            },
-            "sakurai-san-wa-kizuite-hoshiii.6rjz": {
-                "identifier": "sakurai-san-wa-kizuite-hoshiii.6rjz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/879c7c5f5539348e8eac8a674fb837ba.jpg",
-                "malId": 124036,
-                "aniId": 113801,
-                "page": "MangaFire",
-                "title": "Sakurai-san Wants to Be Noticed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakurai-san-wa-kizuite-hoshiii.6rjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydxfhpsdcpn5gxfbs024": {
+                "id": 213060,
                 "identifier": "01j76xydxfhpsdcpn5gxfbs024",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDXFHPSDCPN5GXFBS024.jpg",
                 "malId": 124036,
@@ -86,6 +69,19 @@
                 "title": "Sakurai-san Wants to Be Noticed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDXFHPSDCPN5GXFBS024"
+            }
+        },
+        "MangaFire": {
+            "6rjz": {
+                "id": 239023,
+                "identifier": "6rjz",
+                "image": "https://static.mangafire.to/c22d/i/8/87/879c7c5f5539348e8eac8a674fb837ba.jpg",
+                "malId": 124036,
+                "aniId": 113801,
+                "page": "MangaFire",
+                "title": "Sakurai-san Wants to Be Noticed",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sakurai-san-wa-kizuite-hoshiii.6rjz"
             }
         },
         "Comick": {

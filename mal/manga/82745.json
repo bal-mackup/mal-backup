@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "afc939f8-fea2-4d46-baa3-dd00520abc73": {
+                "id": 14493,
                 "identifier": "afc939f8-fea2-4d46-baa3-dd00520abc73",
                 "image": "https://uploads.mangadex.org/covers/afc939f8-fea2-4d46-baa3-dd00520abc73/5fce96af-2d27-46f1-9466-e0b12f730e88.jpg",
                 "malId": 82745,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "demi-chan-wa-kataritai": {
+                "id": 56162,
                 "identifier": "demi-chan-wa-kataritai",
                 "image": "https://temp.compsci88.com/cover/Demi-Chan-Wa-Kataritai.jpg",
                 "malId": 82745,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ajin_chan_wa_kataritai": {
+                "id": 66570,
                 "identifier": "ajin_chan_wa_kataritai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17799/cover.jpg",
                 "malId": 82745,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ld952512": {
+                "id": 73549,
                 "identifier": "manga-ld952512",
                 "image": "https://avt.mkklcdnv6temp.com/41/y/1-1583465358.jpg",
                 "malId": 82745,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ld952512"
             }
         },
-        "MangaFire": {
-            "demi-chan-wa-kataritai.xry23": {
-                "identifier": "demi-chan-wa-kataritai.xry23",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/7786763a015345be80a094ac3f812634.jpg",
-                "malId": 82745,
-                "aniId": 86898,
-                "page": "MangaFire",
-                "title": "Interviews with Monster Girls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/demi-chan-wa-kataritai.xry23/"
-            },
-            "demi-chan-wa-kataritaii.xry23": {
-                "identifier": "demi-chan-wa-kataritaii.xry23",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/7786763a015345be80a094ac3f812634.jpg",
-                "malId": 82745,
-                "aniId": 86898,
-                "page": "MangaFire",
-                "title": "Interviews with Monster Girls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/demi-chan-wa-kataritaii.xry23/"
-            },
-            "xry23": {
-                "identifier": "xry23",
-                "image": "https://static.mangafire.to/3b2d5/i/7/77/7786763a015345be80a094ac3f812634.jpg",
-                "malId": 82745,
-                "aniId": 86898,
-                "page": "MangaFire",
-                "title": "Interviews with Monster Girls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/demi-chan-wa-kataritaii.xry23/"
-            }
-        },
         "Weebcentral": {
             "01j76xybp8xvzv3sfjq42d3792": {
+                "id": 209344,
                 "identifier": "01j76xybp8xvzv3sfjq42d3792",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBP8XVZV3SFJQ42D3792.jpg",
                 "malId": 82745,
@@ -96,6 +69,19 @@
                 "title": "Interviews with Monster Girls",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBP8XVZV3SFJQ42D3792"
+            }
+        },
+        "MangaFire": {
+            "xry23": {
+                "id": 225859,
+                "identifier": "xry23",
+                "image": "https://static.mangafire.to/f159/i/7/77/7786763a015345be80a094ac3f812634.jpg",
+                "malId": 82745,
+                "aniId": 86898,
+                "page": "MangaFire",
+                "title": "Interviews with Monster Girls",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/demi-chan-wa-kataritaii.xry23"
             }
         },
         "Comick": {

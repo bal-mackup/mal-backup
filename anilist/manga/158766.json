@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e7362bdb-d530-4570-ae47-cd0fc47878e7": {
+                "id": 115731,
                 "identifier": "e7362bdb-d530-4570-ae47-cd0fc47878e7",
                 "image": "https://uploads.mangadex.org/covers/e7362bdb-d530-4570-ae47-cd0fc47878e7/1cc41e28-a166-4f9a-8ab8-31dac7882fe9.jpg",
                 "malId": 154318,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pa992783": {
+                "id": 116996,
                 "identifier": "manga-pa992783",
                 "image": "https://avt.mkklcdnv6temp.com/21/n/27-1665991753.jpg",
                 "malId": 154318,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-pa992783"
             }
         },
-        "MangaFire": {
-            "reborn-rich.37jk9": {
-                "identifier": "reborn-rich.37jk9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/49e95144e2130af5d96f474b7bacb558.jpg",
-                "malId": 154318,
-                "aniId": 158766,
-                "page": "MangaFire",
-                "title": "The Chaebeol's Youngest Son",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reborn-rich.37jk9/"
-            },
-            "reborn-richh.37jk9": {
-                "identifier": "reborn-richh.37jk9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/49e95144e2130af5d96f474b7bacb558.jpg",
-                "malId": 154318,
-                "aniId": 158766,
-                "page": "MangaFire",
-                "title": "The Chaebeol's Youngest Son",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reborn-richh.37jk9/"
-            }
-        },
         "MangaSee": {
             "reborn-rich": {
+                "id": 183026,
                 "identifier": "reborn-rich",
                 "image": "https://temp.compsci88.com/cover/Reborn-Rich.jpg",
                 "malId": 154318,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh00dcg1wv0ccfm07w7w": {
+                "id": 214030,
                 "identifier": "01j76xyh00dcg1wv0ccfm07w7w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH00DCG1WV0CCFM07W7W.jpg",
                 "malId": 154318,
@@ -74,6 +56,19 @@
                 "title": "Reborn Rich",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH00DCG1WV0CCFM07W7W"
+            }
+        },
+        "MangaFire": {
+            "37jk9": {
+                "id": 235361,
+                "identifier": "37jk9",
+                "image": "https://static.mangafire.to/22f0/i/4/49/49e95144e2130af5d96f474b7bacb558.jpg",
+                "malId": 154318,
+                "aniId": 158766,
+                "page": "MangaFire",
+                "title": "The Chaebeol's Youngest Son",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/reborn-richh.37jk9"
             }
         },
         "Comick": {

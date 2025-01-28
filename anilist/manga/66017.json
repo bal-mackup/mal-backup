@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "394af48a-8f81-4ee8-877a-e7514f3b7bfc": {
+                "id": 10321,
                 "identifier": "394af48a-8f81-4ee8-877a-e7514f3b7bfc",
                 "image": "https://uploads.mangadex.org/covers/394af48a-8f81-4ee8-877a-e7514f3b7bfc/5c8acd50-b6b8-41fb-b97c-a5dc24d4381a.jpg",
                 "malId": 36017,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "is-reiroukan-still-alive": {
+                "id": 68876,
                 "identifier": "is-reiroukan-still-alive",
                 "image": "https://temp.compsci88.com/cover/Is-Reiroukan-Still-Alive.jpg",
                 "malId": 36017,
@@ -32,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyb7ya98jq2s1gr2ta01z": {
+                "id": 206457,
                 "identifier": "01j76xyb7ya98jq2s1gr2ta01z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB7YA98JQ2S1GR2TA01Z.jpg",
                 "malId": 36017,
@@ -44,14 +47,28 @@
         },
         "MangaFire": {
             "3m19": {
+                "id": 256851,
                 "identifier": "3m19",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/9126e88603ae61dc79e35a7775a5999b.jpg",
+                "image": "https://static.mangafire.to/9031/i/9/91/9126e88603ae61dc79e35a7775a5999b.jpg",
                 "malId": 36017,
                 "aniId": 66017,
                 "page": "MangaFire",
                 "title": "Is Reiroukan still alive?",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/is-reiroukan-still-alive.3m19/"
+                "url": "https://mangafire.to/manga/is-reiroukan-still-alivee.3m19"
+            }
+        },
+        "MangaFox": {
+            "reiroukan_kenzai_nariya": {
+                "id": 267531,
+                "identifier": "reiroukan_kenzai_nariya",
+                "image": "https://fmcdn.mfcdn.net/store/manga/13732/cover.jpg",
+                "malId": 36017,
+                "aniId": 66017,
+                "page": "MangaFox",
+                "title": "Reiroukan Kenzai Nariya",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/reiroukan_kenzai_nariya/"
             }
         },
         "Comick": {

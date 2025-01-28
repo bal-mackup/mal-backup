@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b6622d86-74c6-47eb-8c92-89bcce50a63b": {
+                "id": 23889,
                 "identifier": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
                 "image": "https://uploads.mangadex.org/covers/b6622d86-74c6-47eb-8c92-89bcce50a63b/714e149c-d9fb-4a5c-983d-df4938417bd0.jpg",
                 "malId": 70557,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "out-mizuta-makoto": {
+                "id": 67775,
                 "identifier": "out-mizuta-makoto",
                 "image": "https://temp.compsci88.com/cover/Out-MIZUTA-Makoto.jpg",
                 "malId": 70557,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ck979819": {
+                "id": 72837,
                 "identifier": "manga-ck979819",
                 "image": "https://avt.mkklcdnv6temp.com/5/w/17-1583495473.jpg",
                 "malId": 70557,
@@ -42,6 +45,7 @@
                 "url": "https://manganato.com/manga-ck979819"
             },
             "manga-md989712": {
+                "id": 88010,
                 "identifier": "manga-md989712",
                 "image": "https://avt.mkklcdnv6temp.com/43/n/24-1633353508.jpg",
                 "malId": 70557,
@@ -52,40 +56,9 @@
                 "url": "https://chapmanganato.com/manga-md989712"
             }
         },
-        "MangaFire": {
-            "out2.oj054": {
-                "identifier": "out2.oj054",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a33135fe10b16fe68da72871b35926a.jpg",
-                "malId": 70557,
-                "aniId": 91203,
-                "page": "MangaFire",
-                "title": "Out",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/out2.oj054/"
-            },
-            "out22.oj054": {
-                "identifier": "out22.oj054",
-                "image": "https://static.mangafire.to/487a/i/2/2a/2a33135fe10b16fe68da72871b35926a.jpg",
-                "malId": 70557,
-                "aniId": 91203,
-                "page": "MangaFire",
-                "title": "Out",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/out22.oj054/"
-            },
-            "oj054": {
-                "identifier": "oj054",
-                "image": "https://static.mangafire.to/487a/i/2/2a/2a33135fe10b16fe68da72871b35926a.jpg",
-                "malId": 70557,
-                "aniId": 91203,
-                "page": "MangaFire",
-                "title": "Out",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/out22.oj054"
-            }
-        },
         "Weebcentral": {
             "01j76xydpq762vgzba5x2qk8sj": {
+                "id": 212301,
                 "identifier": "01j76xydpq762vgzba5x2qk8sj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDPQ762VGZBA5X2QK8SJ.jpg",
                 "malId": 70557,
@@ -94,6 +67,19 @@
                 "title": "Out (MIZUTA Makoto)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDPQ762VGZBA5X2QK8SJ"
+            }
+        },
+        "MangaFire": {
+            "oj054": {
+                "id": 223180,
+                "identifier": "oj054",
+                "image": "https://static.mangafire.to/487a/i/2/2a/2a33135fe10b16fe68da72871b35926a.jpg",
+                "malId": 70557,
+                "aniId": 91203,
+                "page": "MangaFire",
+                "title": "Out",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/out22.oj054"
             }
         },
         "Comick": {

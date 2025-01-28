@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "681c0096-aa0c-48b5-8d30-8239a29f34b1": {
+                "id": 20175,
                 "identifier": "681c0096-aa0c-48b5-8d30-8239a29f34b1",
                 "image": "https://uploads.mangadex.org/covers/681c0096-aa0c-48b5-8d30-8239a29f34b1/edf54731-173d-4a07-bf90-85c2ef6d59d8.png",
                 "malId": 118380,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/681c0096-aa0c-48b5-8d30-8239a29f34b1"
             }
         },
-        "MangaFire": {
-            "olympic-circles.525xv": {
-                "identifier": "olympic-circles.525xv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20e6b47d721605b84ef017e75411b1c3.jpg",
-                "malId": 118380,
-                "aniId": 111578,
-                "page": "MangaFire",
-                "title": "Olympic Circles",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/olympic-circles.525xv/"
-            }
-        },
         "MangaFox": {
             "olympia_kyklo": {
+                "id": 185524,
                 "identifier": "olympia_kyklo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28415/cover.jpg",
                 "malId": 118380,
@@ -40,6 +30,19 @@
                 "title": "Olympia Kyklo",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/olympia_kyklo/"
+            }
+        },
+        "MangaFire": {
+            "525xv": {
+                "id": 251269,
+                "identifier": "525xv",
+                "image": "https://static.mangafire.to/0041/i/2/20/20e6b47d721605b84ef017e75411b1c3.jpg",
+                "malId": 118380,
+                "aniId": 111578,
+                "page": "MangaFire",
+                "title": "Olympic Circles",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/olympic-circless.525xv"
             }
         },
         "Comick": {

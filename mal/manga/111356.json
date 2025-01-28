@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "563355c9-65cc-4011-8665-15bdc013d00a": {
+                "id": 53428,
                 "identifier": "563355c9-65cc-4011-8665-15bdc013d00a",
                 "image": "https://uploads.mangadex.org/covers/563355c9-65cc-4011-8665-15bdc013d00a/158ca2e0-6a7d-4a3d-bad0-44929e76354b.jpg",
                 "malId": 111356,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "police-in-a-pod": {
+                "id": 85429,
                 "identifier": "police-in-a-pod",
                 "image": "https://temp.compsci88.com/cover/Police-in-a-Pod.jpg",
                 "malId": 111356,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Police-in-a-Pod"
             }
         },
-        "MangaFire": {
-            "police-in-a-pod.mq90v": {
-                "identifier": "police-in-a-pod.mq90v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/650fafa7b69dca6253f38c313934f3ca.jpg",
-                "malId": 111356,
-                "aniId": 114732,
-                "page": "MangaFire",
-                "title": "Police in a Pod",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/police-in-a-pod.mq90v/"
-            }
-        },
         "MangaNato": {
             "manga-xp1000472": {
+                "id": 181040,
                 "identifier": "manga-xp1000472",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/k/16-1733318280-nw.webp",
                 "malId": 111356,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyeyr80tsat9be2e04sw6": {
+                "id": 211995,
                 "identifier": "01j76xyeyr80tsat9be2e04sw6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYR80TSAT9BE2E04SW6.jpg",
                 "malId": 111356,
@@ -64,6 +56,19 @@
                 "title": "Police in a Pod",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYR80TSAT9BE2E04SW6"
+            }
+        },
+        "MangaFire": {
+            "mq90v": {
+                "id": 254780,
+                "identifier": "mq90v",
+                "image": "https://static.mangafire.to/a4b6/i/6/65/650fafa7b69dca6253f38c313934f3ca.jpg",
+                "malId": 111356,
+                "aniId": 114732,
+                "page": "MangaFire",
+                "title": "Police in a Pod",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/police-in-a-podd.mq90v"
             }
         },
         "Comick": {

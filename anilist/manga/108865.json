@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b3822494-a989-413c-aa96-41baa045e899": {
+                "id": 25751,
                 "identifier": "b3822494-a989-413c-aa96-41baa045e899",
                 "image": "https://uploads.mangadex.org/covers/b3822494-a989-413c-aa96-41baa045e899/6f3e5c92-e803-493c-90db-3578f49ba577.jpg",
                 "malId": 148306,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-et981654": {
+                "id": 82734,
                 "identifier": "manga-et981654",
                 "image": "https://avt.mkklcdnv6temp.com/22/y/18-1583497993.jpg",
                 "malId": 148306,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-et981654"
             }
         },
-        "MangaFire": {
-            "the-queen.xjzo8": {
-                "identifier": "the-queen.xjzo8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5ad668fe710a217114cb99f381f3d980.jpg",
-                "malId": 148306,
-                "aniId": 108865,
-                "page": "MangaFire",
-                "title": "The Spirit Queen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-queen.xjzo8/"
-            },
-            "the-queenn.xjzo8": {
-                "identifier": "the-queenn.xjzo8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5ad668fe710a217114cb99f381f3d980.jpg",
-                "malId": 148306,
-                "aniId": 108865,
-                "page": "MangaFire",
-                "title": "The Spirit Queen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-queenn.xjzo8/"
-            }
-        },
         "MangaFox": {
             "the_spirit_queen": {
+                "id": 186228,
                 "identifier": "the_spirit_queen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45364/cover.jpg",
                 "malId": 148306,
@@ -62,6 +43,19 @@
                 "title": "The Spirit Queen",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_spirit_queen/"
+            }
+        },
+        "MangaFire": {
+            "xjzo8": {
+                "id": 227449,
+                "identifier": "xjzo8",
+                "image": "https://static.mangafire.to/47d4/i/5/5a/5ad668fe710a217114cb99f381f3d980.jpg",
+                "malId": 148306,
+                "aniId": 108865,
+                "page": "MangaFire",
+                "title": "The Spirit Queen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-queenn.xjzo8"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "da926dec-33f0-4f77-b7e4-b486bf8ed6e2": {
+                "id": 11007,
                 "identifier": "da926dec-33f0-4f77-b7e4-b486bf8ed6e2",
                 "image": "https://uploads.mangadex.org/covers/da926dec-33f0-4f77-b7e4-b486bf8ed6e2/e3cbc8ec-314d-4d92-8dd9-9e49597fd995.jpg",
                 "malId": 114522,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/da926dec-33f0-4f77-b7e4-b486bf8ed6e2"
             }
         },
-        "MangaFire": {
-            "inio-chans-cool-japan.p959": {
-                "identifier": "inio-chans-cool-japan.p959",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43a693e17f74fd6ed341e43b6ebbc8b2.jpg",
-                "malId": 114522,
-                "aniId": 87349,
-                "page": "MangaFire",
-                "title": "Inio-chan's Cool Japan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inio-chans-cool-japan.p959/"
-            }
-        },
         "MangaFox": {
             "inio_chan_s_cool_japan": {
+                "id": 164542,
                 "identifier": "inio_chan_s_cool_japan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17647/cover.jpg",
                 "malId": 114522,
@@ -40,6 +30,19 @@
                 "title": "Inio-chan's Cool Japan",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/inio_chan_s_cool_japan/"
+            }
+        },
+        "MangaFire": {
+            "p959": {
+                "id": 252932,
+                "identifier": "p959",
+                "image": "https://static.mangafire.to/8786/i/4/43/43a693e17f74fd6ed341e43b6ebbc8b2.jpg",
+                "malId": 114522,
+                "aniId": 87349,
+                "page": "MangaFire",
+                "title": "Inio-chan's Cool Japan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/inio-chans-cool-japann.p959"
             }
         },
         "Comick": {

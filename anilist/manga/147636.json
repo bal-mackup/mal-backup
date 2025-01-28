@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "my_daughter_is_the_final_boss": {
+                "id": 101519,
                 "identifier": "my_daughter_is_the_final_boss",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42236/cover.jpg",
                 "malId": 150203,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "a4a4250d-14a0-4b45-83ac-c732091b4eba": {
+                "id": 104301,
                 "identifier": "a4a4250d-14a0-4b45-83ac-c732091b4eba",
                 "image": "https://uploads.mangadex.org/covers/a4a4250d-14a0-4b45-83ac-c732091b4eba/90295f87-e093-4731-8d5e-7e44cb33d0ac.jpg",
                 "malId": 150203,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nm990947": {
+                "id": 106285,
                 "identifier": "manga-nm990947",
                 "image": "https://avt.mkklcdnv6temp.com/45/g/25-1654293245.jpg",
                 "malId": 150203,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-nm990947"
             }
         },
-        "MangaFire": {
-            "nae-ttareun-choejong-boss.z643": {
-                "identifier": "nae-ttareun-choejong-boss.z643",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d2900e97e113169b430bcab4cac1c1df.jpg",
-                "malId": 150203,
-                "aniId": 147636,
-                "page": "MangaFire",
-                "title": "My Daughter Is The Final Boss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nae-ttareun-choejong-boss.z643/"
-            },
-            "nae-ttareun-choejong-bosss.z643": {
-                "identifier": "nae-ttareun-choejong-bosss.z643",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d2900e97e113169b430bcab4cac1c1df.jpg",
-                "malId": 150203,
-                "aniId": 147636,
-                "page": "MangaFire",
-                "title": "My Daughter Is The Final Boss",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nae-ttareun-choejong-bosss.z643/"
-            }
-        },
         "MangaSee": {
             "my-daughter-is-the-final-boss": {
+                "id": 180759,
                 "identifier": "my-daughter-is-the-final-boss",
                 "image": "https://temp.compsci88.com/cover/My-Daughter-Is-the-Final-Boss.jpg",
                 "malId": 150203,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygwex4z09jjg72thr260": {
+                "id": 206863,
                 "identifier": "01j76xygwex4z09jjg72thr260",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWEX4Z09JJG72THR260.jpg",
                 "malId": 150203,
@@ -86,6 +69,19 @@
                 "title": "My Daughter Is the Final Boss",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWEX4Z09JJG72THR260"
+            }
+        },
+        "MangaFire": {
+            "z643": {
+                "id": 225993,
+                "identifier": "z643",
+                "image": "https://static.mangafire.to/4c5a/i/d/d2/d2900e97e113169b430bcab4cac1c1df.jpg",
+                "malId": 150203,
+                "aniId": 147636,
+                "page": "MangaFire",
+                "title": "My Daughter Is The Final Boss",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nae-ttareun-choejong-bosss.z643"
             }
         },
         "Comick": {

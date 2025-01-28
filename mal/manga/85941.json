@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0c3d778-d28d-4e3a-be75-d92149438fff": {
+                "id": 12502,
                 "identifier": "d0c3d778-d28d-4e3a-be75-d92149438fff",
                 "image": "https://uploads.mangadex.org/covers/d0c3d778-d28d-4e3a-be75-d92149438fff/f347ff58-1700-4dac-b52f-c63830eebc91.jpg",
                 "malId": 85941,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yuusha-ga-shinda": {
+                "id": 54391,
                 "identifier": "yuusha-ga-shinda",
                 "image": "https://temp.compsci88.com/cover/Yuusha-Ga-Shinda.jpg",
                 "malId": 85941,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-op951498": {
+                "id": 74126,
                 "identifier": "manga-op951498",
                 "image": "https://avt.mkklcdnv6temp.com/6/v/1-1583463932.jpg",
                 "malId": 85941,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-op951498"
             }
         },
-        "MangaFire": {
-            "yuusha-ga-shinda.jvx38": {
-                "identifier": "yuusha-ga-shinda.jvx38",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c78b6ed65b34a8edcc44e022f9322f14.jpg",
-                "malId": 85941,
-                "aniId": 85952,
-                "page": "MangaFire",
-                "title": "The Legendary Hero Is Dead!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-ga-shinda.jvx38/"
-            },
-            "yuusha-ga-shindaa.jvx38": {
-                "identifier": "yuusha-ga-shindaa.jvx38",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c78b6ed65b34a8edcc44e022f9322f14.jpg",
-                "malId": 85941,
-                "aniId": 85952,
-                "page": "MangaFire",
-                "title": "The Legendary Hero Is Dead!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-ga-shindaa.jvx38/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb7nap3db4749rk9mzhr": {
+                "id": 210056,
                 "identifier": "01j76xyb7nap3db4749rk9mzhr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB7NAP3DB4749RK9MZHR.jpg",
                 "malId": 85941,
@@ -74,6 +56,19 @@
                 "title": "Yuusha ga Shinda!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB7NAP3DB4749RK9MZHR"
+            }
+        },
+        "MangaFire": {
+            "jvx38": {
+                "id": 225983,
+                "identifier": "jvx38",
+                "image": "https://static.mangafire.to/ee06/i/c/c7/c78b6ed65b34a8edcc44e022f9322f14.jpg",
+                "malId": 85941,
+                "aniId": 85952,
+                "page": "MangaFire",
+                "title": "The Legendary Hero Is Dead!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuusha-ga-shindaa.jvx38"
             }
         },
         "Comick": {

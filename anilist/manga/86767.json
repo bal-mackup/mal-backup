@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2f089d85-c3ac-41e1-901f-54e603000d94": {
+                "id": 14151,
                 "identifier": "2f089d85-c3ac-41e1-901f-54e603000d94",
                 "image": "https://uploads.mangadex.org/covers/2f089d85-c3ac-41e1-901f-54e603000d94/8627fd80-01ae-4bb7-b143-79767710d055.jpg",
                 "malId": 67497,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "aoi_uroko_to_suna_no_machi": {
+                "id": 111886,
                 "identifier": "aoi_uroko_to_suna_no_machi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17273/cover.jpg",
                 "malId": 67497,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "mermaid-scales-and-the-town-of-sand": {
+                "id": 125445,
                 "identifier": "mermaid-scales-and-the-town-of-sand",
                 "image": "https://temp.compsci88.com/cover/Mermaid-Scales-and-the-Town-of-Sand.jpg",
                 "malId": 67497,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Mermaid-Scales-and-the-Town-of-Sand"
             }
         },
-        "MangaFire": {
-            "aoi-uroko-to-suna-no-machi.808wn": {
-                "identifier": "aoi-uroko-to-suna-no-machi.808wn",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8cb5fd69a29addfe83101b0b69b248d6.jpg",
-                "malId": 67497,
-                "aniId": 86767,
-                "page": "MangaFire",
-                "title": "Mermaid Scales and the Town of Sand",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aoi-uroko-to-suna-no-machi.808wn/"
-            },
-            "aoi-uroko-to-suna-no-machii.808wn": {
-                "identifier": "aoi-uroko-to-suna-no-machii.808wn",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8cb5fd69a29addfe83101b0b69b248d6.jpg",
-                "malId": 67497,
-                "aniId": 86767,
-                "page": "MangaFire",
-                "title": "Mermaid Scales and the Town of Sand",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aoi-uroko-to-suna-no-machii.808wn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfyjz0d0zxm42c2cmbp2": {
+                "id": 206249,
                 "identifier": "01j76xyfyjz0d0zxm42c2cmbp2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFYJZ0D0ZXM42C2CMBP2.jpg",
                 "malId": 67497,
@@ -74,6 +56,19 @@
                 "title": "Mermaid Scales and the Town of Sand",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFYJZ0D0ZXM42C2CMBP2"
+            }
+        },
+        "MangaFire": {
+            "808wn": {
+                "id": 237364,
+                "identifier": "808wn",
+                "image": "https://static.mangafire.to/acbb/i/8/8c/8cb5fd69a29addfe83101b0b69b248d6.jpg",
+                "malId": 67497,
+                "aniId": 86767,
+                "page": "MangaFire",
+                "title": "Mermaid Scales and the Town of Sand",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aoi-uroko-to-suna-no-machii.808wn"
             }
         },
         "Comick": {

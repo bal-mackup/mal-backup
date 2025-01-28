@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0c7f374e-caf5-4940-8f29-0dbd9aa985e0": {
+                "id": 95916,
                 "identifier": "0c7f374e-caf5-4940-8f29-0dbd9aa985e0",
                 "image": "https://uploads.mangadex.org/covers/0c7f374e-caf5-4940-8f29-0dbd9aa985e0/1dc4ac3f-0f0a-4ce9-9684-aeca85735145.jpg",
                 "malId": 152333,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-dragon-kings-imperial-wrath-falling-in-love-with-the-bookish-princess-of-the-rat-clan": {
+                "id": 159667,
                 "identifier": "the-dragon-kings-imperial-wrath-falling-in-love-with-the-bookish-princess-of-the-rat-clan",
                 "image": "https://temp.compsci88.com/cover/The-Dragon-Kings-Imperial-Wrath-Falling-in-Love-with-the-Bookish-Princess-of-the-Rat-Clan.jpg",
                 "malId": 152333,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ryuuou_heika_no_gekirin_sama_hon_suki_nezumi_himedesuga_naze_ka_ryuuou_no_saiai_ni_narimashita": {
+                "id": 174096,
                 "identifier": "ryuuou_heika_no_gekirin_sama_hon_suki_nezumi_himedesuga_naze_ka_ryuuou_no_saiai_ni_narimashita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41313/cover.jpg",
                 "malId": 152333,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/ryuuou_heika_no_gekirin_sama_hon_suki_nezumi_himedesuga_naze_ka_ryuuou_no_saiai_ni_narimashita/"
             }
         },
-        "MangaFire": {
-            "ryuuou-heika-no-gekirin-sama-hon-suki-nezumi-himedesuga-naze-ka-ryuuou-no-saiai-ni-narimashita.wo5pl": {
-                "identifier": "ryuuou-heika-no-gekirin-sama-hon-suki-nezumi-himedesuga-naze-ka-ryuuou-no-saiai-ni-narimashita.wo5pl",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1d8c012c09d5765f5c558984b2939a7b.jpg",
-                "malId": 152333,
-                "aniId": 134956,
-                "page": "MangaFire",
-                "title": "Ryuuou Heika no Gekirin-sama ~Hon Suki Nezumi Himedesuga, Naze ka Ryuuou no Saiai ni Narimashita~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryuuou-heika-no-gekirin-sama-hon-suki-nezumi-himedesuga-naze-ka-ryuuou-no-saiai-ni-narimashita.wo5pl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg75gq79pve3s8cqsss2": {
+                "id": 211936,
                 "identifier": "01j76xyg75gq79pve3s8cqsss2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG75GQ79PVE3S8CQSSS2.jpg",
                 "malId": 152333,
@@ -64,6 +56,19 @@
                 "title": "The Dragon King's Imperial Wrath - Falling in Love with the Bookish Princess of the Rat Clan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG75GQ79PVE3S8CQSSS2"
+            }
+        },
+        "MangaFire": {
+            "wo5pl": {
+                "id": 236269,
+                "identifier": "wo5pl",
+                "image": "https://static.mangafire.to/d04b/i/1/1d/1d8c012c09d5765f5c558984b2939a7b.jpg",
+                "malId": 152333,
+                "aniId": 134956,
+                "page": "MangaFire",
+                "title": "Ryuuou Heika no Gekirin-sama ~Hon Suki Nezumi Himedesuga, Naze ka Ryuuou no Saiai ni Narimashita~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ryuuou-heika-no-gekirin-sama-hon-suki-nezumi-himedesuga-naze-ka-ryuuou-no-saiai-ni-narimashitaa.wo5pl"
             }
         }
     },

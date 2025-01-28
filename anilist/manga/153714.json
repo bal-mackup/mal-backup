@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0c19b45d-face-484d-bac3-886dcfbf3d65": {
+                "id": 111370,
                 "identifier": "0c19b45d-face-484d-bac3-886dcfbf3d65",
                 "image": "https://uploads.mangadex.org/covers/0c19b45d-face-484d-bac3-886dcfbf3d65/037bbe89-ebfe-4c46-a37b-c5c852e37fda.jpg",
                 "malId": 151109,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-uk997645": {
+                "id": 166591,
                 "identifier": "manga-uk997645",
                 "image": "https://avt.mkklcdnv6temp.com/fld/62/k/15-1733310416-nw.webp",
                 "malId": 151109,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-uk997645"
             }
         },
-        "MangaFire": {
-            "heiwa-no-kuni-no-shimazaki-e.xvvrz": {
-                "identifier": "heiwa-no-kuni-no-shimazaki-e.xvvrz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d8c3f58918d6112702da2d11f3ba0dd4.jpg",
-                "malId": 151109,
-                "aniId": 153714,
-                "page": "MangaFire",
-                "title": "Dear Shimazaki in the Peaceful Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/heiwa-no-kuni-no-shimazaki-e.xvvrz/"
-            }
-        },
         "MangaSee": {
             "shimazaki-in-the-land-of-peace": {
+                "id": 191440,
                 "identifier": "shimazaki-in-the-land-of-peace",
                 "image": "https://temp.compsci88.com/cover/Shimazaki-in-the-Land-of-Peace.jpg",
                 "malId": 151109,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhcajyv1stwzy5g63res": {
+                "id": 212887,
                 "identifier": "01j76xyhcajyv1stwzy5g63res",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHCAJYV1STWZY5G63RES.jpg",
                 "malId": 151109,
@@ -68,6 +60,7 @@
         },
         "MangaFox": {
             "heiwa_no_kuni_no_shimazaki_e": {
+                "id": 216127,
                 "identifier": "heiwa_no_kuni_no_shimazaki_e",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46655/cover.jpg",
                 "malId": 151109,
@@ -76,6 +69,19 @@
                 "title": "Heiwa no Kuni no Shimazaki e",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/heiwa_no_kuni_no_shimazaki_e/"
+            }
+        },
+        "MangaFire": {
+            "xvvrz": {
+                "id": 236599,
+                "identifier": "xvvrz",
+                "image": "https://static.mangafire.to/44a8/i/d/d8/d8c3f58918d6112702da2d11f3ba0dd4.jpg",
+                "malId": 151109,
+                "aniId": 153714,
+                "page": "MangaFire",
+                "title": "Dear Shimazaki in the Peaceful Land",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/heiwa-no-kuni-no-shimazaki-ee.xvvrz"
             }
         },
         "Comick": {

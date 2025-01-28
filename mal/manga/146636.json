@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "savage-hero": {
+                "id": 88872,
                 "identifier": "savage-hero",
                 "image": "https://temp.compsci88.com/cover/Savage-Hero.jpg",
                 "malId": 146636,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "7c062006-5ea7-4fbc-a39d-23e3f66420e4": {
+                "id": 90925,
                 "identifier": "7c062006-5ea7-4fbc-a39d-23e3f66420e4",
                 "image": "https://uploads.mangadex.org/covers/7c062006-5ea7-4fbc-a39d-23e3f66420e4/f3c2ecbe-e425-4e21-bd4c-e7e86d1b2324.jpg",
                 "malId": 146636,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-qb993758": {
+                "id": 123449,
                 "identifier": "manga-qb993758",
                 "image": "https://avt.mkklcdnv6temp.com/10/r/28-1675051432.jpg",
                 "malId": 146636,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "savage_hero": {
+                "id": 123470,
                 "identifier": "savage_hero",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40002/cover.jpg",
                 "malId": 146636,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/savage_hero/"
             }
         },
-        "MangaFire": {
-            "kichiku-eiyuu.kk49v": {
-                "identifier": "kichiku-eiyuu.kk49v",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b84e28cb37163a4d229fbcbe8b9614d3.jpg",
-                "malId": 146636,
-                "aniId": 139415,
-                "page": "MangaFire",
-                "title": "Savage Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kichiku-eiyuu.kk49v/"
-            },
-            "kichiku-eiyuuu.kk49v": {
-                "identifier": "kichiku-eiyuuu.kk49v",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b84e28cb37163a4d229fbcbe8b9614d3.jpg",
-                "malId": 146636,
-                "aniId": 139415,
-                "page": "MangaFire",
-                "title": "Savage Hero",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kichiku-eiyuuu.kk49v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf46mbgfsfrjd3tzeybk": {
+                "id": 207461,
                 "identifier": "01j76xyf46mbgfsfrjd3tzeybk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF46MBGFSFRJD3TZEYBK.jpg",
                 "malId": 146636,
@@ -86,6 +69,19 @@
                 "title": "Savage Hero",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF46MBGFSFRJD3TZEYBK"
+            }
+        },
+        "MangaFire": {
+            "kk49v": {
+                "id": 225180,
+                "identifier": "kk49v",
+                "image": "https://static.mangafire.to/1134/i/b/b8/b84e28cb37163a4d229fbcbe8b9614d3.jpg",
+                "malId": 146636,
+                "aniId": 139415,
+                "page": "MangaFire",
+                "title": "Savage Hero",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kichiku-eiyuuu.kk49v"
             }
         },
         "Comick": {

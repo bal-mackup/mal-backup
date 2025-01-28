@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "54133c41-54a0-4ba7-ba68-0942473edef7": {
+                "id": 50420,
                 "identifier": "54133c41-54a0-4ba7-ba68-0942473edef7",
                 "image": "https://uploads.mangadex.org/covers/54133c41-54a0-4ba7-ba68-0942473edef7/b8f609f4-7596-433f-9df2-427726afde04.jpg",
                 "malId": 151006,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "aire_seoli": {
+                "id": 69813,
                 "identifier": "aire_seoli",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36318/cover.jpg",
                 "malId": 151006,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jb987184": {
+                "id": 73636,
                 "identifier": "manga-jb987184",
                 "image": "https://avt.mkklcdnv6temp.com/37/a/22-1605093257.jpg",
                 "malId": 151006,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "aire": {
+                "id": 86070,
                 "identifier": "aire",
                 "image": "https://temp.compsci88.com/cover/Aire.jpg",
                 "malId": 151006,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Aire"
             }
         },
-        "MangaFire": {
-            "aire.1nx7q": {
-                "identifier": "aire.1nx7q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a177453679d943aac75910b3fc88e535.jpg",
-                "malId": 151006,
-                "aniId": 125272,
-                "page": "MangaFire",
-                "title": "Aire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aire.1nx7q/"
-            },
-            "airee.1nx7q": {
-                "identifier": "airee.1nx7q",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a177453679d943aac75910b3fc88e535.jpg",
-                "malId": 151006,
-                "aniId": 125272,
-                "page": "MangaFire",
-                "title": "Aire",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/airee.1nx7q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyezqk0yjzcycx4ktqbk0": {
+                "id": 207894,
                 "identifier": "01j76xyezqk0yjzcycx4ktqbk0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEZQK0YJZCYCX4KTQBK0.jpg",
                 "malId": 151006,
@@ -86,6 +69,19 @@
                 "title": "Aire",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEZQK0YJZCYCX4KTQBK0"
+            }
+        },
+        "MangaFire": {
+            "1nx7q": {
+                "id": 227698,
+                "identifier": "1nx7q",
+                "image": "https://static.mangafire.to/841c/i/a/a1/a177453679d943aac75910b3fc88e535.jpg",
+                "malId": 151006,
+                "aniId": 125272,
+                "page": "MangaFire",
+                "title": "Aire",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/airee.1nx7q"
             }
         },
         "Comick": {

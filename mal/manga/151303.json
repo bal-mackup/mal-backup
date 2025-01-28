@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cf923481-1e96-4959-b3c1-9518718a4cc2": {
+                "id": 113245,
                 "identifier": "cf923481-1e96-4959-b3c1-9518718a4cc2",
                 "image": "https://uploads.mangadex.org/covers/cf923481-1e96-4959-b3c1-9518718a4cc2/99078baf-8433-4d26-9f88-40acc7bb80aa.jpg",
                 "malId": 151303,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oo992249": {
+                "id": 113774,
                 "identifier": "manga-oo992249",
                 "image": "https://avt.mkklcdnv6temp.com/49/w/26-1662175540.jpg",
                 "malId": 151303,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "turns-out-my-dick-was-a-cute-girl": {
+                "id": 116103,
                 "identifier": "turns-out-my-dick-was-a-cute-girl",
                 "image": "https://temp.compsci88.com/cover/Turns-Out-My-Dick-Was-a-Cute-Girl.jpg",
                 "malId": 151303,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ore_no_kokan_wa_bishoujo_datta_no_ka": {
+                "id": 118540,
                 "identifier": "ore_no_kokan_wa_bishoujo_datta_no_ka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43840/cover.jpg",
                 "malId": 151303,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ore_no_kokan_wa_bishoujo_datta_no_ka/"
             }
         },
-        "MangaFire": {
-            "ore-no-kokan-wa-bishoujo-datta-no-ka.v5rw4": {
-                "identifier": "ore-no-kokan-wa-bishoujo-datta-no-ka.v5rw4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bc/bc6ce34da3d107547676dfb7798169fc.jpg",
-                "malId": 151303,
-                "aniId": 147902,
-                "page": "MangaFire",
-                "title": "Ore no Kokan wa Bishoujo Datta no ka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-no-kokan-wa-bishoujo-datta-no-ka.v5rw4/"
-            },
-            "ore-no-kokan-wa-bishoujo-datta-no-kaa.v5rw4": {
-                "identifier": "ore-no-kokan-wa-bishoujo-datta-no-kaa.v5rw4",
-                "image": "https://static.mangafire.to/0edf/i/b/bc/bc6ce34da3d107547676dfb7798169fc.jpg",
-                "malId": 151303,
-                "aniId": 147902,
-                "page": "MangaFire",
-                "title": "Ore no Kokan wa Bishoujo Datta no ka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-no-kokan-wa-bishoujo-datta-no-kaa.v5rw4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfr4j3dsyfd7vj29adxk": {
+                "id": 210587,
                 "identifier": "01j76xyfr4j3dsyfd7vj29adxk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFR4J3DSYFD7VJ29ADXK.jpg",
                 "malId": 151303,
@@ -86,6 +69,19 @@
                 "title": "Turns Out My Dick Was a Cute Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFR4J3DSYFD7VJ29ADXK"
+            }
+        },
+        "MangaFire": {
+            "v5rw4": {
+                "id": 223739,
+                "identifier": "v5rw4",
+                "image": "https://static.mangafire.to/0edf/i/b/bc/bc6ce34da3d107547676dfb7798169fc.jpg",
+                "malId": 151303,
+                "aniId": 147902,
+                "page": "MangaFire",
+                "title": "Ore no Kokan wa Bishoujo Datta no ka",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-no-kokan-wa-bishoujo-datta-no-kaa.v5rw4"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "71a515ab-19b6-4839-9089-e4caac1f0628": {
+                "id": 30650,
                 "identifier": "71a515ab-19b6-4839-9089-e4caac1f0628",
                 "image": "https://uploads.mangadex.org/covers/71a515ab-19b6-4839-9089-e4caac1f0628/57108bb5-aa7e-4ebe-b9dd-2e7e0997324a.jpg",
                 "malId": 122672,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "handsome_girl_and_sheltered_girl": {
+                "id": 63718,
                 "identifier": "handsome_girl_and_sheltered_girl",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31971/cover.jpg",
                 "malId": 122672,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "handsome-girl-and-sheltered-girl": {
+                "id": 63735,
                 "identifier": "handsome-girl-and-sheltered-girl",
                 "image": "https://temp.compsci88.com/cover/Handsome-Girl-and-Sheltered-Girl.jpg",
                 "malId": 122672,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fp983098": {
+                "id": 78339,
                 "identifier": "manga-fp983098",
                 "image": "https://avt.mkklcdnv6temp.com/25/z/19-1583500131.jpg",
                 "malId": 122672,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-fp983098"
             }
         },
-        "MangaFire": {
-            "handsome-girl-and-sheltered-girl.yqpoz": {
-                "identifier": "handsome-girl-and-sheltered-girl.yqpoz",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed88d41dbf4f4813edb8f412c9a0ea12.jpg",
-                "malId": 122672,
-                "aniId": 111168,
-                "page": "MangaFire",
-                "title": "Handsome Girl and Sheltered Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/handsome-girl-and-sheltered-girl.yqpoz/"
-            },
-            "handsome-girl-and-sheltered-girll.yqpoz": {
-                "identifier": "handsome-girl-and-sheltered-girll.yqpoz",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed88d41dbf4f4813edb8f412c9a0ea12.jpg",
-                "malId": 122672,
-                "aniId": 111168,
-                "page": "MangaFire",
-                "title": "Handsome Girl and Sheltered Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/handsome-girl-and-sheltered-girll.yqpoz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrdmbw7xz2jbjnp0ppm": {
+                "id": 214192,
                 "identifier": "01j76xydrdmbw7xz2jbjnp0ppm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRDMBW7XZ2JBJNP0PPM.jpg",
                 "malId": 122672,
@@ -86,6 +69,19 @@
                 "title": "Handsome Girl and Sheltered Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRDMBW7XZ2JBJNP0PPM"
+            }
+        },
+        "MangaFire": {
+            "yqpoz": {
+                "id": 226489,
+                "identifier": "yqpoz",
+                "image": "https://static.mangafire.to/5a4a/i/e/ed/ed88d41dbf4f4813edb8f412c9a0ea12.jpg",
+                "malId": 122672,
+                "aniId": 111168,
+                "page": "MangaFire",
+                "title": "Handsome Girl and Sheltered Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/handsome-girl-and-sheltered-girll.yqpoz"
             }
         },
         "Comick": {

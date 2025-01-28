@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b51058a1-08e2-4bf5-b655-a81b233b7203": {
+                "id": 56172,
                 "identifier": "b51058a1-08e2-4bf5-b655-a81b233b7203",
                 "image": "https://uploads.mangadex.org/covers/b51058a1-08e2-4bf5-b655-a81b233b7203/a0a5f7e0-cd5c-4633-97c2-2cd7f70dea81.jpg",
                 "malId": 141211,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/b51058a1-08e2-4bf5-b655-a81b233b7203"
             },
             "4b71f392-8110-4b67-94d9-2293568be055": {
+                "id": 161769,
                 "identifier": "4b71f392-8110-4b67-94d9-2293568be055",
                 "image": "https://uploads.mangadex.org/covers/4b71f392-8110-4b67-94d9-2293568be055/ebb49d3b-f95e-4d04-81bb-667c8efa5b6c.jpg",
                 "malId": 141211,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-ok991419": {
+                "id": 116860,
                 "identifier": "manga-ok991419",
                 "image": "https://avt.mkklcdnv6temp.com/16/a/26-1656559059.jpg",
                 "malId": 141211,
@@ -40,20 +43,9 @@
                 "url": "https://manganato.com/manga-ok991419"
             }
         },
-        "MangaFire": {
-            "minato-shouji-coin-laundry.4ql9m": {
-                "identifier": "minato-shouji-coin-laundry.4ql9m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/9690bd35d17bf5ab6edc4e9b9d7c2baa.jpg",
-                "malId": 141211,
-                "aniId": 114797,
-                "page": "MangaFire",
-                "title": "Minato Shouji Coin Laundry",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minato-shouji-coin-laundry.4ql9m/"
-            }
-        },
         "MangaFox": {
             "minato_shouji_coin_laundry": {
+                "id": 180460,
                 "identifier": "minato_shouji_coin_laundry",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40318/cover.jpg",
                 "malId": 141211,
@@ -62,6 +54,19 @@
                 "title": "Minato Shouji Coin Laundry",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/minato_shouji_coin_laundry/"
+            }
+        },
+        "MangaFire": {
+            "4ql9m": {
+                "id": 255407,
+                "identifier": "4ql9m",
+                "image": "https://static.mangafire.to/5cf5/i/9/96/9690bd35d17bf5ab6edc4e9b9d7c2baa.jpg",
+                "malId": 141211,
+                "aniId": 114797,
+                "page": "MangaFire",
+                "title": "Minato's Laundromat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/minato-shouji-coin-laundryy.4ql9m"
             }
         },
         "Comick": {

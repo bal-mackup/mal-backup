@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dd049a9e-05a3-4d3a-8b01-4da911beb2f5": {
+                "id": 37432,
                 "identifier": "dd049a9e-05a3-4d3a-8b01-4da911beb2f5",
                 "image": "https://uploads.mangadex.org/covers/dd049a9e-05a3-4d3a-8b01-4da911beb2f5/ee01fa2c-71c6-4282-a52c-854f383f3b05.jpg",
                 "malId": 128179,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ih986090": {
+                "id": 81165,
                 "identifier": "manga-ih986090",
                 "image": "https://avt.mkklcdnv6temp.com/42/x/21-1596274935.jpg",
                 "malId": 128179,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "onnanoko_ga_daicha_dame_desuka": {
+                "id": 86532,
                 "identifier": "onnanoko_ga_daicha_dame_desuka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34994/cover.jpg",
                 "malId": 128179,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "ladies-on-top": {
+                "id": 116186,
                 "identifier": "ladies-on-top",
                 "image": "https://temp.compsci88.com/cover/Ladies-on-Top.jpg",
                 "malId": 128179,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Ladies-on-Top"
             }
         },
-        "MangaFire": {
-            "onnanoko-ga-daicha-dame-desuka.pr31x": {
-                "identifier": "onnanoko-ga-daicha-dame-desuka.pr31x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e0/e062319eae8553666cedfb435c57e60e.jpg",
-                "malId": 128179,
-                "aniId": 120640,
-                "page": "MangaFire",
-                "title": "Ladies on Top",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onnanoko-ga-daicha-dame-desuka.pr31x/"
-            },
-            "onnanoko-ga-daicha-dame-desukaa.pr31x": {
-                "identifier": "onnanoko-ga-daicha-dame-desukaa.pr31x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e0/e062319eae8553666cedfb435c57e60e.jpg",
-                "malId": 128179,
-                "aniId": 120640,
-                "page": "MangaFire",
-                "title": "Ladies on Top",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/onnanoko-ga-daicha-dame-desukaa.pr31x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfpvz49hesj4ye6qftmk": {
+                "id": 213236,
                 "identifier": "01j76xyfpvz49hesj4ye6qftmk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFPVZ49HESJ4YE6QFTMK.jpg",
                 "malId": 128179,
@@ -86,6 +69,19 @@
                 "title": "Ladies on Top",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFPVZ49HESJ4YE6QFTMK"
+            }
+        },
+        "MangaFire": {
+            "pr31x": {
+                "id": 226792,
+                "identifier": "pr31x",
+                "image": "https://static.mangafire.to/09e2/i/e/e0/e062319eae8553666cedfb435c57e60e.jpg",
+                "malId": 128179,
+                "aniId": 120640,
+                "page": "MangaFire",
+                "title": "Ladies on Top",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/onnanoko-ga-daicha-dame-desukaa.pr31x"
             }
         },
         "Comick": {

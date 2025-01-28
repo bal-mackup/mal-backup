@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-pd992360": {
+                "id": 114577,
                 "identifier": "manga-pd992360",
                 "image": "https://avt.mkklcdnv6temp.com/4/j/27-1663376954.jpg",
                 "malId": 152136,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "7bd45a18-27d4-43ba-b3b9-2293f9a957d0": {
+                "id": 114646,
                 "identifier": "7bd45a18-27d4-43ba-b3b9-2293f9a957d0",
                 "image": "https://uploads.mangadex.org/covers/7bd45a18-27d4-43ba-b3b9-2293f9a957d0/3c760d8c-f073-43ad-b07a-6cdd35d9445c.png",
                 "malId": 152136,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/7bd45a18-27d4-43ba-b3b9-2293f9a957d0"
             }
         },
-        "MangaFire": {
-            "i-stole-the-number-one-rankers-soul.wolpo": {
-                "identifier": "i-stole-the-number-one-rankers-soul.wolpo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8eca8dc9ca08cae3bd0b58a2659b55ad.jpg",
-                "malId": 152136,
-                "aniId": 156477,
-                "page": "MangaFire",
-                "title": "I Stole the Number One Ranker's Soul",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-stole-the-number-one-rankers-soul.wolpo/"
-            },
-            "i-stole-the-number-one-rankers-soull.wolpo": {
-                "identifier": "i-stole-the-number-one-rankers-soull.wolpo",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8e/8eca8dc9ca08cae3bd0b58a2659b55ad.jpg",
-                "malId": 152136,
-                "aniId": 156477,
-                "page": "MangaFire",
-                "title": "I Stole the Number One Ranker's Soul",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-stole-the-number-one-rankers-soull.wolpo/"
-            }
-        },
         "MangaSee": {
             "i-stole-the-first-rankers-soul": {
+                "id": 179021,
                 "identifier": "i-stole-the-first-rankers-soul",
                 "image": "https://temp.compsci88.com/cover/I-Stole-the-First-Rankers-Soul.jpg",
                 "malId": 152136,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygtyb30ma8g1tbgs4bhk": {
+                "id": 208664,
                 "identifier": "01j76xygtyb30ma8g1tbgs4bhk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGTYB30MA8G1TBGS4BHK.jpg",
                 "malId": 152136,
@@ -74,6 +56,19 @@
                 "title": "I Stole the First Ranker's Soul",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGTYB30MA8G1TBGS4BHK"
+            }
+        },
+        "MangaFire": {
+            "wolpo": {
+                "id": 225018,
+                "identifier": "wolpo",
+                "image": "https://static.mangafire.to/2db1/i/8/8e/8eca8dc9ca08cae3bd0b58a2659b55ad.jpg",
+                "malId": 152136,
+                "aniId": 156477,
+                "page": "MangaFire",
+                "title": "I Stole the Number One Ranker's Soul",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-stole-the-number-one-rankers-soull.wolpo"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8c840326-c3fa-43e5-9902-fa18c52b03b8": {
+                "id": 123157,
                 "identifier": "8c840326-c3fa-43e5-9902-fa18c52b03b8",
                 "image": "https://uploads.mangadex.org/covers/8c840326-c3fa-43e5-9902-fa18c52b03b8/83175640-33cc-4ba2-a6bf-841f22c99e54.jpg",
                 "malId": 157678,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/8c840326-c3fa-43e5-9902-fa18c52b03b8"
             }
         },
-        "MangaFire": {
-            "nakigao-yuri-anthology.72jxj": {
-                "identifier": "nakigao-yuri-anthology.72jxj",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7e/7eb0ac76cbd29a193c26b7ce85973f2e.jpg",
-                "malId": 157678,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Anthology of Crying Girls",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nakigao-yuri-anthology.72jxj/"
-            }
-        },
         "MangaNato": {
             "manga-yp1002272": {
+                "id": 193368,
                 "identifier": "manga-yp1002272",
                 "image": "https://avt.mkklcdnv6temp.com/50/g/34-1717822813.jpg",
                 "malId": 157678,
@@ -40,6 +30,19 @@
                 "title": "Nakigao Yuri Anthology",
                 "type": "manga",
                 "url": "https://manganato.com/manga-yp1002272"
+            }
+        },
+        "MangaFire": {
+            "72jxj": {
+                "id": 242313,
+                "identifier": "72jxj",
+                "image": "https://static.mangafire.to/fdfd/i/7/7e/7eb0ac76cbd29a193c26b7ce85973f2e.jpg",
+                "malId": 157678,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Anthology of Crying Girls",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nakigao-yuri-anthologyy.72jxj"
             }
         },
         "Comick": {

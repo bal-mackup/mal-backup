@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6647d058-8edb-4155-b2f1-32910dec053e": {
+                "id": 11893,
                 "identifier": "6647d058-8edb-4155-b2f1-32910dec053e",
                 "image": "https://uploads.mangadex.org/covers/6647d058-8edb-4155-b2f1-32910dec053e/99628b4d-44ea-4874-9d7b-ef87d9cc5c03.jpg",
                 "malId": 68721,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shounen-y": {
+                "id": 71048,
                 "identifier": "shounen-y",
                 "image": "https://temp.compsci88.com/cover/Shounen-Y.jpg",
                 "malId": 68721,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Shounen-Y"
             }
         },
-        "MangaFire": {
-            "shounen-y.kw82w": {
-                "identifier": "shounen-y.kw82w",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/395def79590e79d52c225dd9fa93c30d.jpg",
-                "malId": 68721,
-                "aniId": 90878,
-                "page": "MangaFire",
-                "title": "Shounen Y",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shounen-y.kw82w/"
-            },
-            "kw82w": {
-                "identifier": "kw82w",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/395def79590e79d52c225dd9fa93c30d.jpg",
-                "malId": 68721,
-                "aniId": 90878,
-                "page": "MangaFire",
-                "title": "Shounen Y",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shounen-y.kw82w/"
-            }
-        },
         "Weebcentral": {
             "01j76xych5q0ftsg3fbca5m2ar": {
+                "id": 210609,
                 "identifier": "01j76xych5q0ftsg3fbca5m2ar",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCH5Q0FTSG3FBCA5M2AR.jpg",
                 "malId": 68721,
@@ -62,6 +43,19 @@
                 "title": "Shounen Y",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCH5Q0FTSG3FBCA5M2AR"
+            }
+        },
+        "MangaFire": {
+            "kw82w": {
+                "id": 246739,
+                "identifier": "kw82w",
+                "image": "https://static.mangafire.to/5f5e/i/3/39/395def79590e79d52c225dd9fa93c30d.jpg",
+                "malId": 68721,
+                "aniId": 90878,
+                "page": "MangaFire",
+                "title": "Shounen Y",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shounen-yy.kw82w"
             }
         },
         "Comick": {

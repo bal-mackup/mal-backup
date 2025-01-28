@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bb536112-3de2-4af2-9355-8d913f5a0bf1": {
+                "id": 21162,
                 "identifier": "bb536112-3de2-4af2-9355-8d913f5a0bf1",
                 "image": "https://uploads.mangadex.org/covers/bb536112-3de2-4af2-9355-8d913f5a0bf1/03786f2b-183b-4ef3-8860-4eb189eeea77.jpg",
                 "malId": 114755,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "change-the-world-kanzaki-yuuya": {
+                "id": 55463,
                 "identifier": "change-the-world-kanzaki-yuuya",
                 "image": "https://temp.compsci88.com/cover/Change-The-World-kanzaki-Yuuya.jpg",
                 "malId": 114755,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Change-The-World-kanzaki-Yuuya"
             }
         },
-        "MangaFire": {
-            "change-the-world2.0zw9": {
-                "identifier": "change-the-world2.0zw9",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7a2e87e571ce3ee8ae48bcf3f759ab1c.jpg",
-                "malId": 114755,
-                "aniId": 102177,
-                "page": "MangaFire",
-                "title": "Change the World: Bloodthirsty Killer from Today",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/change-the-world2.0zw9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyce6kbb729ascz9kkp1q": {
+                "id": 211556,
                 "identifier": "01j76xyce6kbb729ascz9kkp1q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCE6KBB729ASCZ9KKP1Q.jpg",
                 "malId": 114755,
@@ -52,6 +43,19 @@
                 "title": "Change the World (KANZAKI Yuuya)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCE6KBB729ASCZ9KKP1Q"
+            }
+        },
+        "MangaFire": {
+            "0zw9": {
+                "id": 259411,
+                "identifier": "0zw9",
+                "image": "https://static.mangafire.to/c8b1/i/7/7a/7a2e87e571ce3ee8ae48bcf3f759ab1c.jpg",
+                "malId": 114755,
+                "aniId": 102177,
+                "page": "MangaFire",
+                "title": "Change the World: Bloodthirsty Killer from Today",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/change-the-world22.0zw9"
             }
         },
         "Comick": {

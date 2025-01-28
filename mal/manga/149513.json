@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-tax-reaper": {
+                "id": 105292,
                 "identifier": "the-tax-reaper",
                 "image": "https://temp.compsci88.com/cover/The-Tax-Reaper.jpg",
                 "malId": 149513,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "2e9a9588-3bf5-4384-8da0-ee18a952048e": {
+                "id": 110771,
                 "identifier": "2e9a9588-3bf5-4384-8da0-ee18a952048e",
                 "image": "https://uploads.mangadex.org/covers/2e9a9588-3bf5-4384-8da0-ee18a952048e/fff24957-48f5-4aac-b488-e57cb4f5b1a2.jpg",
                 "malId": 149513,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-oi992143": {
+                "id": 113546,
                 "identifier": "manga-oi992143",
                 "image": "https://avt.mkklcdnv6temp.com/45/r/26-1661880968.jpg",
                 "malId": 149513,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-oi992143"
             }
         },
-        "MangaFire": {
-            "the-tax-reaper.4q86k": {
-                "identifier": "the-tax-reaper.4q86k",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea1a5ea6a8caa08f91feb6655b586cc.jpg",
-                "malId": 149513,
-                "aniId": 144443,
-                "page": "MangaFire",
-                "title": "The Tax Reaper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-tax-reaper.4q86k/"
-            },
-            "the-tax-reaperr.4q86k": {
-                "identifier": "the-tax-reaperr.4q86k",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea1a5ea6a8caa08f91feb6655b586cc.jpg",
-                "malId": 149513,
-                "aniId": 144443,
-                "page": "MangaFire",
-                "title": "The Tax Reaper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-tax-reaperr.4q86k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfeqykk1p631mkf66fmt": {
+                "id": 208630,
                 "identifier": "01j76xyfeqykk1p631mkf66fmt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFEQYKK1P631MKF66FMT.jpg",
                 "malId": 149513,
@@ -74,6 +56,19 @@
                 "title": "The Tax Reaper",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFEQYKK1P631MKF66FMT"
+            }
+        },
+        "MangaFire": {
+            "4q86k": {
+                "id": 224001,
+                "identifier": "4q86k",
+                "image": "https://static.mangafire.to/0b6e/i/6/6e/6ea1a5ea6a8caa08f91feb6655b586cc.jpg",
+                "malId": 149513,
+                "aniId": 144443,
+                "page": "MangaFire",
+                "title": "The Tax Reaper",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-tax-reaperr.4q86k"
             }
         },
         "Comick": {

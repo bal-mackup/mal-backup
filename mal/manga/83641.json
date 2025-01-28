@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "307c5981-37ad-43e2-b3aa-a62f46d9d1eb": {
+                "id": 12438,
                 "identifier": "307c5981-37ad-43e2-b3aa-a62f46d9d1eb",
                 "image": "https://uploads.mangadex.org/covers/307c5981-37ad-43e2-b3aa-a62f46d9d1eb/e8accf49-4186-4d3d-a12e-5c168efc50fc.jpg",
                 "malId": 83641,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hikari-man": {
+                "id": 64412,
                 "identifier": "hikari-man",
                 "image": "https://temp.compsci88.com/cover/Hikari-Man.jpg",
                 "malId": 83641,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hikari-Man"
             }
         },
-        "MangaFire": {
-            "hikari-man.prjr4": {
-                "identifier": "hikari-man.prjr4",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa987b4a272a928f0bd517375058de6d.jpg",
-                "malId": 83641,
-                "aniId": 93432,
-                "page": "MangaFire",
-                "title": "Hikari-Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hikari-man.prjr4/"
-            },
-            "prjr4": {
-                "identifier": "prjr4",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa987b4a272a928f0bd517375058de6d.jpg",
-                "malId": 83641,
-                "aniId": 93432,
-                "page": "MangaFire",
-                "title": "Hikari-Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hikari-man.prjr4/"
-            }
-        },
         "MangaNato": {
             "manga-kn962096": {
+                "id": 198384,
                 "identifier": "manga-kn962096",
                 "image": "https://avt.mkklcdnv6temp.com/fld/59/d/4-1732762883-nw.webp",
                 "malId": 83641,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xybt33dj2t53axhe3qw1v": {
+                "id": 211215,
                 "identifier": "01j76xybt33dj2t53axhe3qw1v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBT33DJ2T53AXHE3QW1V.jpg",
                 "malId": 83641,
@@ -74,6 +56,19 @@
                 "title": "Hikari-Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBT33DJ2T53AXHE3QW1V"
+            }
+        },
+        "MangaFire": {
+            "prjr4": {
+                "id": 244548,
+                "identifier": "prjr4",
+                "image": "https://static.mangafire.to/33fa/i/a/aa/aa987b4a272a928f0bd517375058de6d.jpg",
+                "malId": 83641,
+                "aniId": 93432,
+                "page": "MangaFire",
+                "title": "Hikari-Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hikari-mann.prjr4"
             }
         },
         "Comick": {

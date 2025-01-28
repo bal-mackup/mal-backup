@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "122be361-1616-4a5d-9ce8-46a746480cc5": {
+                "id": 24090,
                 "identifier": "122be361-1616-4a5d-9ce8-46a746480cc5",
                 "image": "https://uploads.mangadex.org/covers/122be361-1616-4a5d-9ce8-46a746480cc5/ea885da4-e2a2-492e-bb61-833588d32221.jpg",
                 "malId": 104573,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jiken-jaken": {
+                "id": 69611,
                 "identifier": "jiken-jaken",
                 "image": "https://temp.compsci88.com/cover/Jiken-Jaken.jpg",
                 "malId": 104573,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cn979948": {
+                "id": 75057,
                 "identifier": "manga-cn979948",
                 "image": "https://avt.mkklcdnv6temp.com/10/o/17-1583495643.jpg",
                 "malId": 104573,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-cn979948"
             }
         },
-        "MangaFire": {
-            "jiken-jaken.7jm31": {
-                "identifier": "jiken-jaken.7jm31",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/6534ca8e658d19360619934c2935b269.jpg",
-                "malId": 104573,
-                "aniId": 101613,
-                "page": "MangaFire",
-                "title": "Jiken Jaken!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jiken-jaken.7jm31/"
-            },
-            "7jm31": {
-                "identifier": "7jm31",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/6534ca8e658d19360619934c2935b269.jpg",
-                "malId": 104573,
-                "aniId": 101613,
-                "page": "MangaFire",
-                "title": "Jiken Jaken!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jiken-jaken.7jm31/"
-            }
-        },
         "MangaFox": {
             "jiken_jaken": {
+                "id": 205896,
                 "identifier": "jiken_jaken",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28775/cover.jpg",
                 "malId": 104573,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xydkptt30eph1v6edwza4": {
+                "id": 213828,
                 "identifier": "01j76xydkptt30eph1v6edwza4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDKPTT30EPH1V6EDWZA4.jpg",
                 "malId": 104573,
@@ -86,6 +69,19 @@
                 "title": "Jiken Jaken!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDKPTT30EPH1V6EDWZA4"
+            }
+        },
+        "MangaFire": {
+            "7jm31": {
+                "id": 256145,
+                "identifier": "7jm31",
+                "image": "https://static.mangafire.to/87cb/i/6/65/6534ca8e658d19360619934c2935b269.jpg",
+                "malId": 104573,
+                "aniId": 101613,
+                "page": "MangaFire",
+                "title": "Jiken Jaken!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jiken-jakenn.7jm31"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1e03d257-f014-4f96-bc42-d28ed874ff1b": {
+                "id": 16385,
                 "identifier": "1e03d257-f014-4f96-bc42-d28ed874ff1b",
                 "image": "https://uploads.mangadex.org/covers/1e03d257-f014-4f96-bc42-d28ed874ff1b/8126c281-f1ca-412a-9604-2187f05e23d7.jpg",
                 "malId": 98174,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "knights_magic": {
+                "id": 55856,
                 "identifier": "knights_magic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21645/cover.jpg",
                 "malId": 98174,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "knights--magic": {
+                "id": 60451,
                 "identifier": "knights--magic",
                 "image": "https://temp.compsci88.com/cover/Knights--Magic.jpg",
                 "malId": 98174,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-vu972755": {
+                "id": 75007,
                 "identifier": "manga-vu972755",
                 "image": "https://avt.mkklcdnv6temp.com/20/d/14-1583490466.jpg",
                 "malId": 98174,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-vu972755"
             }
         },
-        "MangaFire": {
-            "knights-magic.n331n": {
-                "identifier": "knights-magic.n331n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/890ef67c745a2b8d2475a27a938c685b.jpg",
-                "malId": 98174,
-                "aniId": 97153,
-                "page": "MangaFire",
-                "title": "Knight's & Magic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/knights-magic.n331n/"
-            },
-            "knights-magicc.n331n": {
-                "identifier": "knights-magicc.n331n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/890ef67c745a2b8d2475a27a938c685b.jpg",
-                "malId": 98174,
-                "aniId": 97153,
-                "page": "MangaFire",
-                "title": "Knight's & Magic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/knights-magicc.n331n/"
-            },
-            "n331n": {
-                "identifier": "n331n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/890ef67c745a2b8d2475a27a938c685b.jpg",
-                "malId": 98174,
-                "aniId": 97153,
-                "page": "MangaFire",
-                "title": "Knight's & Magic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/knights-magicc.n331n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyby0wkkvmy8pmhcdj3gj": {
+                "id": 207298,
                 "identifier": "01j76xyby0wkkvmy8pmhcdj3gj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBY0WKKVMY8PMHCDJ3GJ.jpg",
                 "malId": 98174,
@@ -96,6 +69,19 @@
                 "title": "Knight's & Magic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBY0WKKVMY8PMHCDJ3GJ"
+            }
+        },
+        "MangaFire": {
+            "n331n": {
+                "id": 226630,
+                "identifier": "n331n",
+                "image": "https://static.mangafire.to/919b/i/8/89/890ef67c745a2b8d2475a27a938c685b.jpg",
+                "malId": 98174,
+                "aniId": 97153,
+                "page": "MangaFire",
+                "title": "Knight's & Magic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/knights-magicc.n331n"
             }
         },
         "Comick": {

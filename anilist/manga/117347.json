@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "433e77d2-5a58-48a3-95b8-e3c02f309255": {
+                "id": 38597,
                 "identifier": "433e77d2-5a58-48a3-95b8-e3c02f309255",
                 "image": "https://uploads.mangadex.org/covers/433e77d2-5a58-48a3-95b8-e3c02f309255/75d5d044-af20-43cd-9346-b826e8034ed5.jpg",
                 "malId": 136546,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jc986711": {
+                "id": 81750,
                 "identifier": "manga-jc986711",
                 "image": "https://avt.mkklcdnv6temp.com/17/o/22-1600507655.jpg",
                 "malId": 136546,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-jc986711"
             }
         },
-        "MangaFire": {
-            "tamamo-no-koi.xr29w": {
-                "identifier": "tamamo-no-koi.xr29w",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/edf4b850acd9b05655d8cebc3147cbad.jpg",
-                "malId": 136546,
-                "aniId": 117347,
-                "page": "MangaFire",
-                "title": "Tamamo no Koi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tamamo-no-koi.xr29w/"
-            }
-        },
         "MangaFox": {
             "tamamo_no_koi": {
+                "id": 192003,
                 "identifier": "tamamo_no_koi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35704/cover.jpg",
                 "malId": 136546,
@@ -52,6 +43,19 @@
                 "title": "Tamamo no Koi",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tamamo_no_koi/"
+            }
+        },
+        "MangaFire": {
+            "xr29w": {
+                "id": 243608,
+                "identifier": "xr29w",
+                "image": "https://static.mangafire.to/15b8/i/e/ed/edf4b850acd9b05655d8cebc3147cbad.jpg",
+                "malId": 136546,
+                "aniId": 117347,
+                "page": "MangaFire",
+                "title": "Tamamo no Koi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tamamo-no-koii.xr29w"
             }
         },
         "Comick": {

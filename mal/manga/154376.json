@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a": {
+                "id": 118020,
                 "identifier": "b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a",
                 "image": "https://uploads.mangadex.org/covers/b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a/e03c61a0-4e44-4ad3-a582-bba20b167339.jpg",
                 "malId": 154376,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a"
             }
         },
-        "MangaFire": {
-            "yowa-yowa-sensei.qxo95": {
-                "identifier": "yowa-yowa-sensei.qxo95",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3ac14f489df53ddf9201df7d99cb6c06.jpg",
-                "malId": 154376,
-                "aniId": 157128,
-                "page": "MangaFire",
-                "title": "Yowa Yowa Sensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yowa-yowa-sensei.qxo95/"
-            },
-            "yowa-yowa-senseii.qxo95": {
-                "identifier": "yowa-yowa-senseii.qxo95",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3ac14f489df53ddf9201df7d99cb6c06.jpg",
-                "malId": 154376,
-                "aniId": 157128,
-                "page": "MangaFire",
-                "title": "Yowa Yowa Sensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yowa-yowa-senseii.qxo95/"
-            }
-        },
         "MangaNato": {
             "manga-tq996973": {
+                "id": 162533,
                 "identifier": "manga-tq996973",
                 "image": "https://avt.mkklcdnv6temp.com/fld/36/w/15-1733308831-nw.webp",
                 "malId": 154376,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "yowa-yowa-sensei": {
+                "id": 175632,
                 "identifier": "yowa-yowa-sensei",
                 "image": "https://temp.compsci88.com/cover/Yowa-Yowa-Sensei.jpg",
                 "malId": 154376,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygpc68zqectp2kdq9dd0": {
+                "id": 206614,
                 "identifier": "01j76xygpc68zqectp2kdq9dd0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGPC68ZQECTP2KDQ9DD0.jpg",
                 "malId": 154376,
@@ -74,6 +56,19 @@
                 "title": "Yowa Yowa Sensei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGPC68ZQECTP2KDQ9DD0"
+            }
+        },
+        "MangaFire": {
+            "qxo95": {
+                "id": 229023,
+                "identifier": "qxo95",
+                "image": "https://static.mangafire.to/fa33/i/3/3a/3ac14f489df53ddf9201df7d99cb6c06.jpg",
+                "malId": 154376,
+                "aniId": 157128,
+                "page": "MangaFire",
+                "title": "Yowa Yowa Sensei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yowa-yowa-senseii.qxo95"
             }
         },
         "Comick": {

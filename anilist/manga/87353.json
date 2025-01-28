@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "514693dd-a14d-4ecb-a22c-0132aaa8462d": {
+                "id": 13906,
                 "identifier": "514693dd-a14d-4ecb-a22c-0132aaa8462d",
                 "image": "https://uploads.mangadex.org/covers/514693dd-a14d-4ecb-a22c-0132aaa8462d/bddadce9-3deb-49d5-91e7-6a8b0f7e0eb0.jpg",
                 "malId": 88675,
                 "aniId": 87353,
                 "page": "Mangadex",
-                "title": "Kyochuu Rettou",
+                "title": "The Island of Giant Insects",
                 "type": "manga",
                 "url": "https://mangadex.org/title/514693dd-a14d-4ecb-a22c-0132aaa8462d"
             }
         },
         "MangaSee": {
             "kyochuu-rettou": {
+                "id": 67119,
                 "identifier": "kyochuu-rettou",
                 "image": "https://temp.compsci88.com/cover/Kyochuu-Rettou.jpg",
                 "malId": 88675,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kyochuu_rettou": {
+                "id": 68575,
                 "identifier": "kyochuu_rettou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17159/cover.jpg",
                 "malId": 88675,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kh952390": {
+                "id": 77447,
                 "identifier": "manga-kh952390",
                 "image": "https://avt.mkklcdnv6temp.com/37/r/1-1583465177.jpg",
                 "malId": 88675,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-kh952390"
             }
         },
-        "MangaFire": {
-            "kyochuu-rettou.pr816": {
-                "identifier": "kyochuu-rettou.pr816",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d334452210965b0b5c429feae33078fb.jpg",
-                "malId": 88675,
-                "aniId": 87353,
-                "page": "MangaFire",
-                "title": "The Island of Giant Insects",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyochuu-rettou.pr816/"
-            },
-            "kyochuu-rettouu.pr816": {
-                "identifier": "kyochuu-rettouu.pr816",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d334452210965b0b5c429feae33078fb.jpg",
-                "malId": 88675,
-                "aniId": 87353,
-                "page": "MangaFire",
-                "title": "The Island of Giant Insects",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyochuu-rettouu.pr816/"
-            }
-        },
         "Weebcentral": {
             "01j76xybh82z1ekr20aa2padr0": {
+                "id": 207676,
                 "identifier": "01j76xybh82z1ekr20aa2padr0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBH82Z1EKR20AA2PADR0.jpg",
                 "malId": 88675,
@@ -86,6 +69,19 @@
                 "title": "The Island of Giant Insects",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBH82Z1EKR20AA2PADR0"
+            }
+        },
+        "MangaFire": {
+            "pr816": {
+                "id": 225290,
+                "identifier": "pr816",
+                "image": "https://static.mangafire.to/0801/i/d/d3/d334452210965b0b5c429feae33078fb.jpg",
+                "malId": 88675,
+                "aniId": 87353,
+                "page": "MangaFire",
+                "title": "The Island of Giant Insects",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyochuu-rettouu.pr816"
             }
         },
         "Comick": {

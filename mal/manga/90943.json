@@ -6,30 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/2/159636.jpg",
     "Sites": {
-        "MangaFire": {
-            "dreamers-high.xrrrz": {
-                "identifier": "dreamers-high.xrrrz",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa9971d748dfd923a1fb3aa060e0e7bf.jpg",
-                "malId": 90943,
-                "aniId": 95383,
-                "page": "MangaFire",
-                "title": "Dreamers High",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dreamers-high.xrrrz/"
-            },
-            "xrrrz": {
-                "identifier": "xrrrz",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa9971d748dfd923a1fb3aa060e0e7bf.jpg",
-                "malId": 90943,
-                "aniId": 95383,
-                "page": "MangaFire",
-                "title": "Dreamers High",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dreamers-high.xrrrz/"
-            }
-        },
         "Mangadex": {
             "22bb53b9-2e21-448f-b6b3-2ac9cd0bfbac": {
+                "id": 197620,
                 "identifier": "22bb53b9-2e21-448f-b6b3-2ac9cd0bfbac",
                 "image": "https://uploads.mangadex.org/covers/22bb53b9-2e21-448f-b6b3-2ac9cd0bfbac/32a6fb94-9f90-4b34-b028-72084475da09.jpg",
                 "malId": 90943,
@@ -38,6 +17,19 @@
                 "title": "Dreamers High",
                 "type": "manga",
                 "url": "https://mangadex.org/title/22bb53b9-2e21-448f-b6b3-2ac9cd0bfbac"
+            }
+        },
+        "MangaFire": {
+            "xrrrz": {
+                "id": 253043,
+                "identifier": "xrrrz",
+                "image": "https://static.mangafire.to/0fab/i/a/aa/aa9971d748dfd923a1fb3aa060e0e7bf.jpg",
+                "malId": 90943,
+                "aniId": 95383,
+                "page": "MangaFire",
+                "title": "Dreamers High",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dreamers-highh.xrrrz"
             }
         },
         "Comick": {

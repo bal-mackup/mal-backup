@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "da7bb886-7e6b-4174-83a9-2c478475b846": {
+                "id": 16927,
                 "identifier": "da7bb886-7e6b-4174-83a9-2c478475b846",
                 "image": "https://uploads.mangadex.org/covers/da7bb886-7e6b-4174-83a9-2c478475b846/a127caab-b700-4b80-930f-f452f380e21c.jpg",
                 "malId": 103320,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "isekai_yakkyoku": {
+                "id": 54190,
                 "identifier": "isekai_yakkyoku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/23273/cover.jpg",
                 "malId": 103320,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "isekai-yakkyoku": {
+                "id": 57848,
                 "identifier": "isekai-yakkyoku",
                 "image": "https://temp.compsci88.com/cover/Isekai-Yakkyoku.jpg",
                 "malId": 103320,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xu974403": {
+                "id": 72995,
                 "identifier": "manga-xu974403",
                 "image": "https://avt.mkklcdnv6temp.com/43/w/14-1583491268.jpg",
                 "malId": 103320,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xu974403"
             }
         },
-        "MangaFire": {
-            "isekai-yakkyoku.xrw1q": {
-                "identifier": "isekai-yakkyoku.xrw1q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f4f1afe53e959003431210d9d3d72f3.jpg",
-                "malId": 103320,
-                "aniId": 99024,
-                "page": "MangaFire",
-                "title": "Parallel World Pharmacy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-yakkyoku.xrw1q/"
-            },
-            "isekai-yakkyokuu.xrw1q": {
-                "identifier": "isekai-yakkyokuu.xrw1q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f4f1afe53e959003431210d9d3d72f3.jpg",
-                "malId": 103320,
-                "aniId": 99024,
-                "page": "MangaFire",
-                "title": "Parallel World Pharmacy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-yakkyokuu.xrw1q/"
-            },
-            "xrw1q": {
-                "identifier": "xrw1q",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f4f1afe53e959003431210d9d3d72f3.jpg",
-                "malId": 103320,
-                "aniId": 99024,
-                "page": "MangaFire",
-                "title": "Parallel World Pharmacy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-yakkyokuu.xrw1q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc7av1tekpy12nekp1x8": {
+                "id": 214223,
                 "identifier": "01j76xyc7av1tekpy12nekp1x8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC7AV1TEKPY12NEKP1X8.jpg",
                 "malId": 103320,
@@ -96,6 +69,19 @@
                 "title": "Parallel World Pharmacy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC7AV1TEKPY12NEKP1X8"
+            }
+        },
+        "MangaFire": {
+            "xrw1q": {
+                "id": 226880,
+                "identifier": "xrw1q",
+                "image": "https://static.mangafire.to/4809/i/1/1f/1f4f1afe53e959003431210d9d3d72f3.jpg",
+                "malId": 103320,
+                "aniId": 99024,
+                "page": "MangaFire",
+                "title": "Parallel World Pharmacy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-yakkyokuu.xrw1q"
             }
         },
         "Comick": {

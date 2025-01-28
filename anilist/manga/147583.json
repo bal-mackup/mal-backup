@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c9494b8e-9cf0-4d52-a99c-7db2ef255e73": {
+                "id": 105995,
                 "identifier": "c9494b8e-9cf0-4d52-a99c-7db2ef255e73",
                 "image": "https://uploads.mangadex.org/covers/c9494b8e-9cf0-4d52-a99c-7db2ef255e73/1062ee89-7f1f-4cfa-b2e0-cdaa31a982ec.jpg",
                 "malId": 145955,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "meiou_sama_ga_tooru_no_desu_yo": {
+                "id": 106568,
                 "identifier": "meiou_sama_ga_tooru_no_desu_yo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42802/cover.jpg",
                 "malId": 145955,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-pp993124": {
+                "id": 118684,
                 "identifier": "manga-pp993124",
                 "image": "https://avt.mkklcdnv6temp.com/35/d/27-1669538915.jpg",
                 "malId": 145955,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-pp993124"
             }
         },
-        "MangaFire": {
-            "meiou-sama-ga-tooru-no-desu-yo.zlmj2": {
-                "identifier": "meiou-sama-ga-tooru-no-desu-yo.zlmj2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20628b6baebb9af4a6c9fe74ef3a5fd9.jpg",
-                "malId": 145955,
-                "aniId": 147583,
-                "page": "MangaFire",
-                "title": "Meiou-sama ga Tooru no desu yo!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meiou-sama-ga-tooru-no-desu-yo.zlmj2/"
-            },
-            "meiou-sama-ga-tooru-no-desu-yoo.zlmj2": {
-                "identifier": "meiou-sama-ga-tooru-no-desu-yoo.zlmj2",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20628b6baebb9af4a6c9fe74ef3a5fd9.jpg",
-                "malId": 145955,
-                "aniId": 147583,
-                "page": "MangaFire",
-                "title": "Meiou-sama ga Tooru no desu yo!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/meiou-sama-ga-tooru-no-desu-yoo.zlmj2/"
-            }
-        },
         "MangaSee": {
             "meiou-sama-ga-tooru-no-desu-yo": {
+                "id": 166606,
                 "identifier": "meiou-sama-ga-tooru-no-desu-yo",
                 "image": "https://temp.compsci88.com/cover/Meiou-sama-ga-Tooru-no-desu-yo.jpg",
                 "malId": 145955,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyge1d6mnmwm024aa3nm6": {
+                "id": 212810,
                 "identifier": "01j76xyge1d6mnmwm024aa3nm6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGE1D6MNMWM024AA3NM6.jpg",
                 "malId": 145955,
@@ -86,6 +69,19 @@
                 "title": "Meiou-sama ga Tooru no desu yo!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGE1D6MNMWM024AA3NM6"
+            }
+        },
+        "MangaFire": {
+            "zlmj2": {
+                "id": 225121,
+                "identifier": "zlmj2",
+                "image": "https://static.mangafire.to/22e2/i/2/20/20628b6baebb9af4a6c9fe74ef3a5fd9.jpg",
+                "malId": 145955,
+                "aniId": 147583,
+                "page": "MangaFire",
+                "title": "Meiou-sama ga Tooru no desu yo!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/meiou-sama-ga-tooru-no-desu-yoo.zlmj2"
             }
         },
         "Comick": {

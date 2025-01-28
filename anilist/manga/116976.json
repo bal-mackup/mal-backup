@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "45808ba8-343b-4cfb-b48e-3c7408b8bbf5": {
+                "id": 32698,
                 "identifier": "45808ba8-343b-4cfb-b48e-3c7408b8bbf5",
                 "image": "https://uploads.mangadex.org/covers/45808ba8-343b-4cfb-b48e-3c7408b8bbf5/daad71b8-661f-4df1-a6f2-415505700b91.jpg",
                 "malId": 129019,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "maji_de_tsukiau_15_pun_mae": {
+                "id": 85196,
                 "identifier": "maji_de_tsukiau_15_pun_mae",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35884/cover.jpg",
                 "malId": 129019,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-oa991935": {
+                "id": 111847,
                 "identifier": "manga-oa991935",
                 "image": "https://avt.mkklcdnv6temp.com/37/g/26-1659677256.jpg",
                 "malId": 129019,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "15-minutes-til-they-actually-start-dating": {
+                "id": 120678,
                 "identifier": "15-minutes-til-they-actually-start-dating",
                 "image": "https://temp.compsci88.com/cover/15-Minutes-Til-They-Actually-Start-Dating.jpg",
                 "malId": 129019,
@@ -54,6 +58,7 @@
                 "url": "https://mangasee123.com/manga/15-Minutes-Til-They-Actually-Start-Dating"
             },
             "15-minutes-before-we-really-date": {
+                "id": 177145,
                 "identifier": "15-minutes-before-we-really-date",
                 "image": "https://temp.compsci88.com/cover/15-Minutes-Before-We-Really-Date.jpg",
                 "malId": 129019,
@@ -64,30 +69,9 @@
                 "url": "https://mangasee123.com/manga/15-Minutes-Before-We-Really-Date"
             }
         },
-        "MangaFire": {
-            "15-minutes-til-they-actually-start-dating.zl4n2": {
-                "identifier": "15-minutes-til-they-actually-start-dating.zl4n2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/408a9d6455bba749ff1b8aae609da802.jpg",
-                "malId": 129019,
-                "aniId": 116976,
-                "page": "MangaFire",
-                "title": "15 Minutes Before We Really Date",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/15-minutes-til-they-actually-start-dating.zl4n2/"
-            },
-            "15-minutes-til-they-actually-start-datingg.zl4n2": {
-                "identifier": "15-minutes-til-they-actually-start-datingg.zl4n2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/408a9d6455bba749ff1b8aae609da802.jpg",
-                "malId": 129019,
-                "aniId": 116976,
-                "page": "MangaFire",
-                "title": "15 Minutes Before We Really Date",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/15-minutes-til-they-actually-start-datingg.zl4n2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfvsw9wxge78218ak2t5": {
+                "id": 209478,
                 "identifier": "01j76xyfvsw9wxge78218ak2t5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFVSW9WXGE78218AK2T5.jpg",
                 "malId": 129019,
@@ -98,6 +82,7 @@
                 "url": "https://weebcentral.com/series/01J76XYFVSW9WXGE78218AK2T5"
             },
             "01j76xygpndwwxq92peavvvv8j": {
+                "id": 214249,
                 "identifier": "01j76xygpndwwxq92peavvvv8j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGPNDWWXQ92PEAVVVV8J.jpg",
                 "malId": 129019,
@@ -106,6 +91,19 @@
                 "title": "15 Minutes Before We Really Date",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGPNDWWXQ92PEAVVVV8J"
+            }
+        },
+        "MangaFire": {
+            "zl4n2": {
+                "id": 225284,
+                "identifier": "zl4n2",
+                "image": "https://static.mangafire.to/f613/i/4/40/408a9d6455bba749ff1b8aae609da802.jpg",
+                "malId": 129019,
+                "aniId": 116976,
+                "page": "MangaFire",
+                "title": "15 Minutes Before We Really Date",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/15-minutes-til-they-actually-start-datingg.zl4n2"
             }
         },
         "Comick": {

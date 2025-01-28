@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "84231f79-3fff-4e2d-936b-6f0e025640af": {
+                "id": 121579,
                 "identifier": "84231f79-3fff-4e2d-936b-6f0e025640af",
                 "image": "https://uploads.mangadex.org/covers/84231f79-3fff-4e2d-936b-6f0e025640af/c2650d8b-ce8f-4b75-99d4-197418d1dc48.jpg",
                 "malId": 156004,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/84231f79-3fff-4e2d-936b-6f0e025640af"
             }
         },
-        "MangaFire": {
-            "lady-swindler.oxnzy": {
-                "identifier": "lady-swindler.oxnzy",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/eb564f410ee073dae6a48d72c2e20476.jpg",
-                "malId": 156004,
-                "aniId": 160151,
-                "page": "MangaFire",
-                "title": "Lady Swindler",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lady-swindler.oxnzy/"
-            },
-            "lady-swindlerr.oxnzy": {
-                "identifier": "lady-swindlerr.oxnzy",
-                "image": "https://static.mangafire.to/7d3e/i/e/eb/eb564f410ee073dae6a48d72c2e20476.jpg",
-                "malId": 156004,
-                "aniId": 160151,
-                "page": "MangaFire",
-                "title": "Lady Swindler",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lady-swindlerr.oxnzy/"
-            }
-        },
         "MangaNato": {
             "manga-sl995768": {
+                "id": 195855,
                 "identifier": "manga-sl995768",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/t/14-1733306024-nw.webp",
                 "malId": 156004,
@@ -50,6 +30,19 @@
                 "title": "A Con Artist But That’s Okay",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-sl995768"
+            }
+        },
+        "MangaFire": {
+            "oxnzy": {
+                "id": 223301,
+                "identifier": "oxnzy",
+                "image": "https://static.mangafire.to/7d3e/i/e/eb/eb564f410ee073dae6a48d72c2e20476.jpg",
+                "malId": 156004,
+                "aniId": 160151,
+                "page": "MangaFire",
+                "title": "Lady Swindler",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lady-swindlerr.oxnzy"
             }
         }
     },

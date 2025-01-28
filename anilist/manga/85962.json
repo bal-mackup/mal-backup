@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "850ac472-7461-46b0-a2be-f353e408e814": {
+                "id": 11435,
                 "identifier": "850ac472-7461-46b0-a2be-f353e408e814",
                 "image": "https://uploads.mangadex.org/covers/850ac472-7461-46b0-a2be-f353e408e814/09f7b8d8-22e4-4142-bc9a-b9f864df8ebe.jpg",
                 "malId": 78627,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "momo-sora": {
+                "id": 83026,
                 "identifier": "momo-sora",
                 "image": "https://temp.compsci88.com/cover/Momo-Sora.jpg",
                 "malId": 78627,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "momo_sora": {
+                "id": 122016,
                 "identifier": "momo_sora",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14491/cover.jpg",
                 "malId": 78627,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/momo_sora/"
             }
         },
-        "MangaFire": {
-            "momo-sora.7jyy6": {
-                "identifier": "momo-sora.7jyy6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43f26f3c78c2ff6ed5989090d9afae54.jpg",
-                "malId": 78627,
-                "aniId": 85962,
-                "page": "MangaFire",
-                "title": "Momo Sora",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momo-sora.7jyy6/"
-            },
-            "7jyy6": {
-                "identifier": "7jyy6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43f26f3c78c2ff6ed5989090d9afae54.jpg",
-                "malId": 78627,
-                "aniId": 85962,
-                "page": "MangaFire",
-                "title": "Momo Sora",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/momo-sora.7jyy6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaqq9ty2ppgcttd0192s": {
+                "id": 208802,
                 "identifier": "01j76xyaqq9ty2ppgcttd0192s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAQQ9TY2PPGCTTD0192S.jpg",
                 "malId": 78627,
@@ -74,6 +56,19 @@
                 "title": "Momo Sora",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAQQ9TY2PPGCTTD0192S"
+            }
+        },
+        "MangaFire": {
+            "7jyy6": {
+                "id": 237604,
+                "identifier": "7jyy6",
+                "image": "https://static.mangafire.to/31c9/i/4/43/43f26f3c78c2ff6ed5989090d9afae54.jpg",
+                "malId": 78627,
+                "aniId": 85962,
+                "page": "MangaFire",
+                "title": "Momo Sora",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/momo-soraa.7jyy6"
             }
         },
         "Comick": {

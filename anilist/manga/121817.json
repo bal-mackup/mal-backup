@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8325137c-32bf-464c-b716-b4c9b17c0002": {
+                "id": 29259,
                 "identifier": "8325137c-32bf-464c-b716-b4c9b17c0002",
                 "image": "https://uploads.mangadex.org/covers/8325137c-32bf-464c-b716-b4c9b17c0002/9e8defdf-278d-4282-9c30-ab8b01d4f0c5.jpg",
                 "malId": 130277,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "natsume-arata-no-kekkon": {
+                "id": 56869,
                 "identifier": "natsume-arata-no-kekkon",
                 "image": "https://temp.compsci88.com/cover/Natsume-Arata-no-Kekkon.jpg",
                 "malId": 130277,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ju986903": {
+                "id": 79089,
                 "identifier": "manga-ju986903",
                 "image": "https://avt.mkklcdnv6temp.com/25/q/22-1601955850.jpg",
                 "malId": 130277,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "natsume_arata_no_kekkon": {
+                "id": 101619,
                 "identifier": "natsume_arata_no_kekkon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35275/cover.jpg",
                 "malId": 130277,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/natsume_arata_no_kekkon/"
             }
         },
-        "MangaFire": {
-            "natsume-arata-no-kekkon.xrnyq": {
-                "identifier": "natsume-arata-no-kekkon.xrnyq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5effae1038c70467c521c999cef73d6b.jpg",
-                "malId": 130277,
-                "aniId": 121817,
-                "page": "MangaFire",
-                "title": "Arata Natsume Getting Married",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/natsume-arata-no-kekkon.xrnyq/"
-            }
-        },
         "Weebcentral": {
             "01j76xye747r6mycap87t3ymbf": {
+                "id": 207366,
                 "identifier": "01j76xye747r6mycap87t3ymbf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE747R6MYCAP87T3YMBF.jpg",
                 "malId": 130277,
@@ -76,6 +69,19 @@
                 "title": "Natsume Arata no Kekkon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE747R6MYCAP87T3YMBF"
+            }
+        },
+        "MangaFire": {
+            "xrnyq": {
+                "id": 262765,
+                "identifier": "xrnyq",
+                "image": "https://static.mangafire.to/5d4f/i/5/5e/5effae1038c70467c521c999cef73d6b.jpg",
+                "malId": 130277,
+                "aniId": 121817,
+                "page": "MangaFire",
+                "title": "Arata Natsume Getting Married",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/natsume-arata-no-kekkonn.xrnyq"
             }
         },
         "Comick": {

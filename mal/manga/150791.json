@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "08dfe0d5-14ea-4713-bde6-dddcf3513f5b": {
+                "id": 52803,
                 "identifier": "08dfe0d5-14ea-4713-bde6-dddcf3513f5b",
                 "image": "https://uploads.mangadex.org/covers/08dfe0d5-14ea-4713-bde6-dddcf3513f5b/76ccc276-aa6e-4057-bd96-d3269b2c430d.jpg",
                 "malId": 150791,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/08dfe0d5-14ea-4713-bde6-dddcf3513f5b"
             }
         },
-        "MangaFire": {
-            "i-am-no-match-for-my-childhood-friend.xr01v": {
-                "identifier": "i-am-no-match-for-my-childhood-friend.xr01v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68a6b9e8b1e6e47c77f4c0a9dca846de.jpg",
-                "malId": 150791,
-                "aniId": 126290,
-                "page": "MangaFire",
-                "title": "I Am No Match For My Childhood Friend.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-am-no-match-for-my-childhood-friend.xr01v/"
-            }
-        },
         "MangaNato": {
             "manga-sv995730": {
+                "id": 151552,
                 "identifier": "manga-sv995730",
                 "image": "https://avt.mkklcdnv6temp.com/fld/89/i/14-1733305939-nw.webp",
                 "malId": 150791,
@@ -44,6 +34,7 @@
         },
         "MangaFox": {
             "osananajimi_ga_kyoutekidesu": {
+                "id": 183598,
                 "identifier": "osananajimi_ga_kyoutekidesu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42170/cover.jpg",
                 "malId": 150791,
@@ -52,6 +43,19 @@
                 "title": "Osananajimi ga kyoutekidesu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/osananajimi_ga_kyoutekidesu/"
+            }
+        },
+        "MangaFire": {
+            "xr01v": {
+                "id": 243515,
+                "identifier": "xr01v",
+                "image": "https://static.mangafire.to/6dd4/i/6/68/68a6b9e8b1e6e47c77f4c0a9dca846de.jpg",
+                "malId": 150791,
+                "aniId": 126290,
+                "page": "MangaFire",
+                "title": "I Am No Match For My Childhood Friend.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-am-no-match-for-my-childhood-friendd.xr01v"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bd1bf883-c7d4-4f4d-857c-29e2470cb693": {
+                "id": 90123,
                 "identifier": "bd1bf883-c7d4-4f4d-857c-29e2470cb693",
                 "image": "https://uploads.mangadex.org/covers/bd1bf883-c7d4-4f4d-857c-29e2470cb693/5277b54a-ee93-4aec-9c8e-0edd4dc4c2ce.jpg",
                 "malId": 147318,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ma989983": {
+                "id": 90532,
                 "identifier": "manga-ma989983",
                 "image": "https://avt.mkklcdnv6temp.com/4/v/25-1636559063.jpg",
                 "malId": 147318,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "regressor-instruction-manual": {
+                "id": 92832,
                 "identifier": "regressor-instruction-manual",
                 "image": "https://temp.compsci88.com/cover/Regressor-Instruction-Manual.jpg",
                 "malId": 147318,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Regressor-Instruction-Manual"
             }
         },
-        "MangaFire": {
-            "hoegwija-sayongseolmyeongseo2.jjx8y": {
-                "identifier": "hoegwija-sayongseolmyeongseo2.jjx8y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29b5690edf1f1acc8977b8e3d469163c.jpg",
-                "malId": 147318,
-                "aniId": 141007,
-                "page": "MangaFire",
-                "title": "How to Use a Returner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hoegwija-sayongseolmyeongseo2.jjx8y/"
-            },
-            "hoegwija-sayongseolmyeongseo22.jjx8y": {
-                "identifier": "hoegwija-sayongseolmyeongseo22.jjx8y",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29b5690edf1f1acc8977b8e3d469163c.jpg",
-                "malId": 147318,
-                "aniId": 141007,
-                "page": "MangaFire",
-                "title": "How to Use a Returner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hoegwija-sayongseolmyeongseo22.jjx8y/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf75b76rqycjz7zen40z": {
+                "id": 211315,
                 "identifier": "01j76xyf75b76rqycjz7zen40z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF75B76RQYCJZ7ZEN40Z.jpg",
                 "malId": 147318,
@@ -74,6 +56,19 @@
                 "title": "How to Use a Returner",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF75B76RQYCJZ7ZEN40Z"
+            }
+        },
+        "MangaFire": {
+            "jjx8y": {
+                "id": 228547,
+                "identifier": "jjx8y",
+                "image": "https://static.mangafire.to/c55b/i/2/29/29b5690edf1f1acc8977b8e3d469163c.jpg",
+                "malId": 147318,
+                "aniId": 141007,
+                "page": "MangaFire",
+                "title": "How to Use a Returner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hoegwija-sayongseolmyeongseo22.jjx8y"
             }
         },
         "Comick": {

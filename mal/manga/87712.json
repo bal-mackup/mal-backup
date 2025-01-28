@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0566b133-c2dd-4e87-86ef-915050d1eec3": {
+                "id": 12820,
                 "identifier": "0566b133-c2dd-4e87-86ef-915050d1eec3",
                 "image": "https://uploads.mangadex.org/covers/0566b133-c2dd-4e87-86ef-915050d1eec3/b4b07520-ef8b-47f1-950d-31e36da51edc.jpg",
                 "malId": 87712,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "warau-ishi": {
+                "id": 101377,
                 "identifier": "warau-ishi",
                 "image": "https://temp.compsci88.com/cover/Warau-Ishi.jpg",
                 "malId": 87712,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Warau-Ishi"
             }
         },
-        "MangaFire": {
-            "warau-ishi.o1kz": {
-                "identifier": "warau-ishi.o1kz",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/015dcf9e27244a23fbc7be86441cead1.jpg",
-                "malId": 87712,
-                "aniId": 86101,
-                "page": "MangaFire",
-                "title": "Supernatural: A Laughing Stone Ghost",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/warau-ishi.o1kz/"
-            },
-            "o1kz": {
-                "identifier": "o1kz",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/015dcf9e27244a23fbc7be86441cead1.jpg",
-                "malId": 87712,
-                "aniId": 86101,
-                "page": "MangaFire",
-                "title": "Supernatural: A Laughing Stone Ghost",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/warau-ishi.o1kz/"
-            }
-        },
         "MangaNato": {
             "manga-tm953321": {
+                "id": 166090,
                 "identifier": "manga-tm953321",
                 "image": "https://avt.mkklcdnv6temp.com/fld/71/w/1-1732719269-nw.webp",
                 "malId": 87712,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyba22yackmatvx9jmht5": {
+                "id": 206118,
                 "identifier": "01j76xyba22yackmatvx9jmht5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBA22YACKMATVX9JMHT5.jpg",
                 "malId": 87712,
@@ -74,6 +56,19 @@
                 "title": "Warau Ishi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBA22YACKMATVX9JMHT5"
+            }
+        },
+        "MangaFire": {
+            "o1kz": {
+                "id": 246642,
+                "identifier": "o1kz",
+                "image": "https://static.mangafire.to/428c/i/0/01/015dcf9e27244a23fbc7be86441cead1.jpg",
+                "malId": 87712,
+                "aniId": 86101,
+                "page": "MangaFire",
+                "title": "Supernatural: A Laughing Stone Ghost",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/warau-ishii.o1kz"
             }
         },
         "Comick": {

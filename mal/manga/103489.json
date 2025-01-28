@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "680c9fa4-1c12-4838-97c2-765cba78374c": {
+                "id": 18225,
                 "identifier": "680c9fa4-1c12-4838-97c2-765cba78374c",
                 "image": "https://uploads.mangadex.org/covers/680c9fa4-1c12-4838-97c2-765cba78374c/99d1fbef-0153-42ff-ae03-a62ff6406afb.jpg",
                 "malId": 103489,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "issak": {
+                "id": 58049,
                 "identifier": "issak",
                 "image": "https://temp.compsci88.com/cover/Issak.jpg",
                 "malId": 103489,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "issak": {
+                "id": 66259,
                 "identifier": "issak",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27275/cover.jpg",
                 "malId": 103489,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bk978967": {
+                "id": 78361,
                 "identifier": "manga-bk978967",
                 "image": "https://avt.mkklcdnv6temp.com/23/t/16-1583494319.jpg",
                 "malId": 103489,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-bk978967"
             }
         },
-        "MangaFire": {
-            "issak.2o5x0": {
-                "identifier": "issak.2o5x0",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf4d017c581f6303b62be81da372ad3c.jpg",
-                "malId": 103489,
-                "aniId": 99684,
-                "page": "MangaFire",
-                "title": "Issak",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/issak.2o5x0/"
-            },
-            "issakk.2o5x0": {
-                "identifier": "issakk.2o5x0",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf4d017c581f6303b62be81da372ad3c.jpg",
-                "malId": 103489,
-                "aniId": 99684,
-                "page": "MangaFire",
-                "title": "Issak",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/issakk.2o5x0/"
-            },
-            "2o5x0": {
-                "identifier": "2o5x0",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf4d017c581f6303b62be81da372ad3c.jpg",
-                "malId": 103489,
-                "aniId": 99684,
-                "page": "MangaFire",
-                "title": "Issak",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/issakk.2o5x0/"
-            }
-        },
         "Weebcentral": {
             "01j76xycsaeq8dnh4dcr36j15r": {
+                "id": 212378,
                 "identifier": "01j76xycsaeq8dnh4dcr36j15r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCSAEQ8DNH4DCR36J15R.jpg",
                 "malId": 103489,
@@ -96,6 +69,19 @@
                 "title": "Issak",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCSAEQ8DNH4DCR36J15R"
+            }
+        },
+        "MangaFire": {
+            "2o5x0": {
+                "id": 229470,
+                "identifier": "2o5x0",
+                "image": "https://static.mangafire.to/192c/i/c/cf/cf4d017c581f6303b62be81da372ad3c.jpg",
+                "malId": 103489,
+                "aniId": 99684,
+                "page": "MangaFire",
+                "title": "Issak",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/issakk.2o5x0"
             }
         },
         "Comick": {

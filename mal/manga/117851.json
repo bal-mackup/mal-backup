@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "28b5d037-175d-4119-96f8-e860e408ebe9": {
+                "id": 26172,
                 "identifier": "28b5d037-175d-4119-96f8-e860e408ebe9",
                 "image": "https://uploads.mangadex.org/covers/28b5d037-175d-4119-96f8-e860e408ebe9/10fdd70c-4bfa-470c-a821-31d92a00ef47.jpg",
                 "malId": 117851,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/28b5d037-175d-4119-96f8-e860e408ebe9"
             },
             "a9fd87e2-dedc-42ca-a6dd-3093db9c6f53": {
+                "id": 30053,
                 "identifier": "a9fd87e2-dedc-42ca-a6dd-3093db9c6f53",
                 "image": "https://uploads.mangadex.org/covers/a9fd87e2-dedc-42ca-a6dd-3093db9c6f53/c6b20788-b067-4ced-9436-d94a21a76f05.png",
                 "malId": 117851,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/a9fd87e2-dedc-42ca-a6dd-3093db9c6f53"
             },
             "95a00c41-c031-4d2f-a0b4-73ee138116cb": {
+                "id": 128364,
                 "identifier": "95a00c41-c031-4d2f-a0b4-73ee138116cb",
                 "image": "https://uploads.mangadex.org/covers/95a00c41-c031-4d2f-a0b4-73ee138116cb/53108b1e-d625-4a4d-a3e7-bafd796f4cac.jpg",
                 "malId": 117851,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "shimeji-simulation": {
+                "id": 56929,
                 "identifier": "shimeji-simulation",
                 "image": "https://temp.compsci88.com/cover/Shimeji-Simulation.jpg",
                 "malId": 117851,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "shimeji_simulation": {
+                "id": 66644,
                 "identifier": "shimeji_simulation",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29954/cover.jpg",
                 "malId": 117851,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-dx980806": {
+                "id": 74592,
                 "identifier": "manga-dx980806",
                 "image": "https://avt.mkklcdnv6temp.com/42/j/17-1583496786.jpg",
                 "malId": 117851,
@@ -74,30 +80,9 @@
                 "url": "https://manganato.com/manga-dx980806"
             }
         },
-        "MangaFire": {
-            "shimeji-simulation.8020v": {
-                "identifier": "shimeji-simulation.8020v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f91fc3f6e5366685dbe24ffa65045245.jpg",
-                "malId": 117851,
-                "aniId": 106726,
-                "page": "MangaFire",
-                "title": "Shimeji Simulation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimeji-simulation.8020v/"
-            },
-            "shimeji-simulationn.8020v": {
-                "identifier": "shimeji-simulationn.8020v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f91fc3f6e5366685dbe24ffa65045245.jpg",
-                "malId": 117851,
-                "aniId": 106726,
-                "page": "MangaFire",
-                "title": "Shimeji Simulation",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimeji-simulationn.8020v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydg93mg9b1m6ab86g6d2": {
+                "id": 209309,
                 "identifier": "01j76xydg93mg9b1m6ab86g6d2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDG93MG9B1M6AB86G6D2.jpg",
                 "malId": 117851,
@@ -106,6 +91,19 @@
                 "title": "Shimeji Simulation",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDG93MG9B1M6AB86G6D2"
+            }
+        },
+        "MangaFire": {
+            "8020v": {
+                "id": 225358,
+                "identifier": "8020v",
+                "image": "https://static.mangafire.to/187b/i/f/f9/f91fc3f6e5366685dbe24ffa65045245.jpg",
+                "malId": 117851,
+                "aniId": 106726,
+                "page": "MangaFire",
+                "title": "Shimeji Simulation",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shimeji-simulationn.8020v"
             }
         },
         "Comick": {

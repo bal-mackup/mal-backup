@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5fc789b2-cd7e-4b49-9c29-d35e009fc8f9": {
+                "id": 18200,
                 "identifier": "5fc789b2-cd7e-4b49-9c29-d35e009fc8f9",
                 "image": "https://uploads.mangadex.org/covers/5fc789b2-cd7e-4b49-9c29-d35e009fc8f9/ee3f3a2f-3da4-4f9d-811e-039f31192968.jpg",
                 "malId": 110179,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "asahi-sempais-favorite": {
+                "id": 81828,
                 "identifier": "asahi-sempais-favorite",
                 "image": "https://temp.compsci88.com/cover/Asahi-sempais-Favorite.jpg",
                 "malId": 110179,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Asahi-sempais-Favorite"
             }
         },
-        "MangaFire": {
-            "asahi-senpai-no-okiniiri.5k4zv": {
-                "identifier": "asahi-senpai-no-okiniiri.5k4zv",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9aa4df8c7f3363f85c85c085f8dac8d0.jpg",
-                "malId": 110179,
-                "aniId": 106502,
-                "page": "MangaFire",
-                "title": "Asahi-sempai's Favorite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/asahi-senpai-no-okiniiri.5k4zv/"
-            }
-        },
         "MangaNato": {
             "manga-ct980254": {
+                "id": 157080,
                 "identifier": "manga-ct980254",
                 "image": "https://avt.mkklcdnv6temp.com/fld/18/m/9-1732793139-nw.webp",
                 "malId": 110179,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xye24z04e001d73wnqkjf": {
+                "id": 211452,
                 "identifier": "01j76xye24z04e001d73wnqkjf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE24Z04E001D73WNQKJF.jpg",
                 "malId": 110179,
@@ -64,6 +56,19 @@
                 "title": "Asahi-sempai's Favorite",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE24Z04E001D73WNQKJF"
+            }
+        },
+        "MangaFire": {
+            "5k4zv": {
+                "id": 261470,
+                "identifier": "5k4zv",
+                "image": "https://static.mangafire.to/ad54/i/9/9a/9aa4df8c7f3363f85c85c085f8dac8d0.jpg",
+                "malId": 110179,
+                "aniId": 106502,
+                "page": "MangaFire",
+                "title": "Asahi-sempai's Favorite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/asahi-senpai-no-okiniirii.5k4zv"
             }
         },
         "Comick": {

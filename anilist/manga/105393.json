@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a468761-5bd6-4de0-a0cb-47cb456ac2e0": {
+                "id": 24512,
                 "identifier": "6a468761-5bd6-4de0-a0cb-47cb456ac2e0",
                 "image": "https://uploads.mangadex.org/covers/6a468761-5bd6-4de0-a0cb-47cb456ac2e0/98162533-1838-4639-8419-2f19f8af651b.png",
                 "malId": 132247,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-returners-magic-should-be-special": {
+                "id": 54499,
                 "identifier": "a-returners-magic-should-be-special",
                 "image": "https://temp.compsci88.com/cover/A-Returners-Magic-Should-Be-Special.jpg",
                 "malId": 132247,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "a_returner_s_magic_should_be_special": {
+                "id": 55335,
                 "identifier": "a_returner_s_magic_should_be_special",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29090/cover.jpg",
                 "malId": 132247,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ci980191": {
+                "id": 72945,
                 "identifier": "manga-ci980191",
                 "image": "https://avt.mkklcdnv6temp.com/19/m/17-1583495960.jpg",
                 "malId": 132247,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ci980191"
             }
         },
-        "MangaFire": {
-            "gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnida.606z": {
-                "identifier": "gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnida.606z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/41734c44365b532a9e16fbd392705a26.jpg",
-                "malId": 132247,
-                "aniId": 105393,
-                "page": "MangaFire",
-                "title": "A Returner's Magic Should Be Special",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnida.606z/"
-            },
-            "gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnidaa.606z": {
-                "identifier": "gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnidaa.606z",
-                "image": "https://static.mangafire.to/3b2d5/i/4/41/41734c44365b532a9e16fbd392705a26.jpg",
-                "malId": 132247,
-                "aniId": 105393,
-                "page": "MangaFire",
-                "title": "A Returner's Magic Should Be Special",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnidaa.606z/"
-            }
-        },
         "Weebcentral": {
             "01j76xycn4pdfa5czqxhk82pxd": {
+                "id": 213564,
                 "identifier": "01j76xycn4pdfa5czqxhk82pxd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCN4PDFA5CZQXHK82PXD.jpg",
                 "malId": 132247,
@@ -86,6 +69,19 @@
                 "title": "A Returner's Magic Should Be Special",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCN4PDFA5CZQXHK82PXD"
+            }
+        },
+        "MangaFire": {
+            "606z": {
+                "id": 229013,
+                "identifier": "606z",
+                "image": "https://static.mangafire.to/81c5/i/4/41/41734c44365b532a9e16fbd392705a26.jpg",
+                "malId": 132247,
+                "aniId": 105393,
+                "page": "MangaFire",
+                "title": "A Returner's Magic Should Be Special",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gwihwanjaui-mabeobeun-teukbyeolhaeya-hamnidaa.606z"
             }
         },
         "Comick": {

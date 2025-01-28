@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e8c8bc87-0b71-4893-9940-3fbd4bfd386b": {
+                "id": 63512,
                 "identifier": "e8c8bc87-0b71-4893-9940-3fbd4bfd386b",
                 "image": "https://uploads.mangadex.org/covers/e8c8bc87-0b71-4893-9940-3fbd4bfd386b/1bcef884-5af6-4f3a-8306-b2e62c9db5d2.jpg",
                 "malId": 146751,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shotgun-boy": {
+                "id": 67012,
                 "identifier": "shotgun-boy",
                 "image": "https://temp.compsci88.com/cover/Shotgun-Boy.jpg",
                 "malId": 146751,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shotgun_boy": {
+                "id": 71782,
                 "identifier": "shotgun_boy",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38162/cover.jpg",
                 "malId": 146751,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kr988352": {
+                "id": 73228,
                 "identifier": "manga-kr988352",
                 "image": "https://avt.mkklcdnv6temp.com/35/f/23-1614570443.jpg",
                 "malId": 146751,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kr988352"
             }
         },
-        "MangaFire": {
-            "shotgun-boy.z13pp": {
-                "identifier": "shotgun-boy.z13pp",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/451f51947c58334f42cf1c91f1f957e0.jpg",
-                "malId": 146751,
-                "aniId": 130229,
-                "page": "MangaFire",
-                "title": "Shotgun Boy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shotgun-boy.z13pp/"
-            },
-            "shotgun-boyy.z13pp": {
-                "identifier": "shotgun-boyy.z13pp",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/451f51947c58334f42cf1c91f1f957e0.jpg",
-                "malId": 146751,
-                "aniId": 130229,
-                "page": "MangaFire",
-                "title": "Shotgun Boy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shotgun-boyy.z13pp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyehpstbzvnfjdccrqh7p": {
+                "id": 212455,
                 "identifier": "01j76xyehpstbzvnfjdccrqh7p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEHPSTBZVNFJDCCRQH7P.jpg",
                 "malId": 146751,
@@ -86,6 +69,19 @@
                 "title": "Shotgun Boy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEHPSTBZVNFJDCCRQH7P"
+            }
+        },
+        "MangaFire": {
+            "z13pp": {
+                "id": 225491,
+                "identifier": "z13pp",
+                "image": "https://static.mangafire.to/02e6/i/4/45/451f51947c58334f42cf1c91f1f957e0.jpg",
+                "malId": 146751,
+                "aniId": 130229,
+                "page": "MangaFire",
+                "title": "Shotgun Boy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shotgun-boyy.z13pp"
             }
         },
         "Comick": {

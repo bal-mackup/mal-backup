@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ccdd248f-06c4-463c-82af-2ad83953b403": {
+                "id": 9944,
                 "identifier": "ccdd248f-06c4-463c-82af-2ad83953b403",
                 "image": "https://uploads.mangadex.org/covers/ccdd248f-06c4-463c-82af-2ad83953b403/5cb6432f-d052-4572-ac9e-6c1c7dfd5930.jpg",
                 "malId": 66559,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kotonoba-drive": {
+                "id": 72128,
                 "identifier": "kotonoba-drive",
                 "image": "https://temp.compsci88.com/cover/Kotonoba-Drive.jpg",
                 "malId": 66559,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Kotonoba-Drive"
             }
         },
-        "MangaFire": {
-            "kotonoba-drive.ow7j": {
-                "identifier": "kotonoba-drive.ow7j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3fe85ece8528d6b115ce034b32b0a041.jpg",
-                "malId": 66559,
-                "aniId": 85294,
-                "page": "MangaFire",
-                "title": "Kotonoba Drive",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kotonoba-drive.ow7j/"
-            }
-        },
         "MangaNato": {
             "manga-io952223": {
+                "id": 186479,
                 "identifier": "manga-io952223",
                 "image": "https://avt.mkklcdnv6temp.com/fld/34/y/1-1732717754-nw.webp",
                 "malId": 66559,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xya47r8g0kn2cwdcgmacr": {
+                "id": 212333,
                 "identifier": "01j76xya47r8g0kn2cwdcgmacr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA47R8G0KN2CWDCGMACR.jpg",
                 "malId": 66559,
@@ -64,6 +56,19 @@
                 "title": "Kotonoba Drive",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA47R8G0KN2CWDCGMACR"
+            }
+        },
+        "MangaFire": {
+            "ow7j": {
+                "id": 258266,
+                "identifier": "ow7j",
+                "image": "https://static.mangafire.to/212d/i/3/3f/3fe85ece8528d6b115ce034b32b0a041.jpg",
+                "malId": 66559,
+                "aniId": 85294,
+                "page": "MangaFire",
+                "title": "Kotonoba Drive",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kotonoba-drivee.ow7j"
             }
         },
         "Comick": {

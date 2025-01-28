@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0621ecc9-c098-4660-ab53-4816a2cadd29": {
+                "id": 13257,
                 "identifier": "0621ecc9-c098-4660-ab53-4816a2cadd29",
                 "image": "https://uploads.mangadex.org/covers/0621ecc9-c098-4660-ab53-4816a2cadd29/2ebe0b86-bdfc-4020-991b-2b4f88f0aaec.jpg",
                 "malId": 89551,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tendou-ke-monogatari": {
+                "id": 67581,
                 "identifier": "tendou-ke-monogatari",
                 "image": "https://temp.compsci88.com/cover/Tendou-ke-Monogatari.jpg",
                 "malId": 89551,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hr954700": {
+                "id": 89874,
                 "identifier": "manga-hr954700",
                 "image": "https://avt.mkklcdnv6temp.com/fld/17/q/2-1732721319-nw.webp",
                 "malId": 89551,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tendou_ke_monogatari": {
+                "id": 89931,
                 "identifier": "tendou_ke_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16085/cover.jpg",
                 "malId": 89551,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/tendou_ke_monogatari/"
             }
         },
-        "MangaFire": {
-            "tendou-ke-monogatari.2rmq": {
-                "identifier": "tendou-ke-monogatari.2rmq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/37d232b940ef28a6e95140e719a31ead.jpg",
-                "malId": 89551,
-                "aniId": 95040,
-                "page": "MangaFire",
-                "title": "The Tales of Tendo Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tendou-ke-monogatari.2rmq/"
-            },
-            "2rmq": {
-                "identifier": "2rmq",
-                "image": "https://static.mangafire.to/3b2d5/i/3/37/37d232b940ef28a6e95140e719a31ead.jpg",
-                "malId": 89551,
-                "aniId": 95040,
-                "page": "MangaFire",
-                "title": "The Tales of Tendo Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tendou-ke-monogatari.2rmq/"
-            }
-        },
         "Weebcentral": {
             "01j76xydjg97hy42t891y92ppw": {
+                "id": 214375,
                 "identifier": "01j76xydjg97hy42t891y92ppw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJG97HY42T891Y92PPW.jpg",
                 "malId": 89551,
@@ -86,6 +69,19 @@
                 "title": "Tales of the Tendo Family",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJG97HY42T891Y92PPW"
+            }
+        },
+        "MangaFire": {
+            "2rmq": {
+                "id": 234383,
+                "identifier": "2rmq",
+                "image": "https://static.mangafire.to/3874/i/3/37/37d232b940ef28a6e95140e719a31ead.jpg",
+                "malId": 89551,
+                "aniId": 95040,
+                "page": "MangaFire",
+                "title": "The Tales of Tendo Family",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tendou-ke-monogatarii.2rmq"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6cf0d6d4-4a29-462a-9587-ac1961f328ac": {
+                "id": 27434,
                 "identifier": "6cf0d6d4-4a29-462a-9587-ac1961f328ac",
                 "image": "https://uploads.mangadex.org/covers/6cf0d6d4-4a29-462a-9587-ac1961f328ac/1604d995-ccb0-4112-837c-5c16877a789c.jpg",
                 "malId": 112220,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ingoshima": {
+                "id": 54636,
                 "identifier": "ingoshima",
                 "image": "https://temp.compsci88.com/cover/Ingoshima.jpg",
                 "malId": 112220,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ek981919": {
+                "id": 74655,
                 "identifier": "manga-ek981919",
                 "image": "https://avt.mkklcdnv6temp.com/32/n/18-1583498344.jpg",
                 "malId": 112220,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ek981919"
             }
         },
-        "MangaFire": {
-            "ingoshima.4qzzo": {
-                "identifier": "ingoshima.4qzzo",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/ef4f906f751d2337965324431adb029e.jpg",
-                "malId": 112220,
-                "aniId": 109018,
-                "page": "MangaFire",
-                "title": "Ingoshima",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ingoshima.4qzzo/"
-            },
-            "ingoshimaa.4qzzo": {
-                "identifier": "ingoshimaa.4qzzo",
-                "image": "https://static.mangafire.to/aae5/i/e/ef/ef4f906f751d2337965324431adb029e.jpg",
-                "malId": 112220,
-                "aniId": 109018,
-                "page": "MangaFire",
-                "title": "Ingoshima",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ingoshimaa.4qzzo/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxcdaw4am91psfxqw7w": {
+                "id": 209664,
                 "identifier": "01j76xycxcdaw4am91psfxqw7w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXCDAW4AM91PSFXQW7W.jpg",
                 "malId": 112220,
@@ -74,6 +56,19 @@
                 "title": "Ingoshima",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXCDAW4AM91PSFXQW7W"
+            }
+        },
+        "MangaFire": {
+            "4qzzo": {
+                "id": 223642,
+                "identifier": "4qzzo",
+                "image": "https://static.mangafire.to/aae5/i/e/ef/ef4f906f751d2337965324431adb029e.jpg",
+                "malId": 112220,
+                "aniId": 109018,
+                "page": "MangaFire",
+                "title": "Ingoshima",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ingoshimaa.4qzzo"
             }
         },
         "Comick": {

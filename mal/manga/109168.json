@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "69b4df2d-5ca3-4e58-91bd-74827629dcce": {
+                "id": 18216,
                 "identifier": "69b4df2d-5ca3-4e58-91bd-74827629dcce",
                 "image": "https://uploads.mangadex.org/covers/69b4df2d-5ca3-4e58-91bd-74827629dcce/fc271091-58fb-4578-aaae-5aad0de920eb.jpg",
                 "malId": 109168,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "yokubou_pandora": {
+                "id": 54503,
                 "identifier": "yokubou_pandora",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26279/cover.jpg",
                 "malId": 109168,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "desire-pandora": {
+                "id": 86919,
                 "identifier": "desire-pandora",
                 "image": "https://temp.compsci88.com/cover/Desire-Pandora.jpg",
                 "malId": 109168,
@@ -44,8 +47,9 @@
         },
         "MangaNato": {
             "manga-bs1004501": {
+                "id": 197363,
                 "identifier": "manga-bs1004501",
-                "image": "https://avt.mkklcdnv6temp.com/42/l/36-1726467076.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/24/q/18-1733328716-nw.webp",
                 "malId": 109168,
                 "aniId": 112850,
                 "page": "MangaNato",
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.to/manga-bs1004501"
             }
         },
-        "MangaFire": {
-            "yokubou-pandoraa.4jz4k": {
-                "identifier": "yokubou-pandoraa.4jz4k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21e3f9f4141aa65bd927680e5bbf9913.jpg",
-                "malId": 109168,
-                "aniId": 112850,
-                "page": "MangaFire",
-                "title": "Desire Pandora",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokubou-pandoraa.4jz4k/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf0pnbv3np0v01yb7c6g": {
+                "id": 210580,
                 "identifier": "01j76xyf0pnbv3np0v01yb7c6g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF0PNBV3NP0V01YB7C6G.jpg",
                 "malId": 109168,
@@ -76,6 +69,19 @@
                 "title": "Desire Pandora",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF0PNBV3NP0V01YB7C6G"
+            }
+        },
+        "MangaFire": {
+            "4jz4k": {
+                "id": 225885,
+                "identifier": "4jz4k",
+                "image": "https://static.mangafire.to/1a41/i/2/21/21e3f9f4141aa65bd927680e5bbf9913.jpg",
+                "malId": 109168,
+                "aniId": 112850,
+                "page": "MangaFire",
+                "title": "Desire Pandora",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yokubou-pandoraa.4jz4k"
             }
         },
         "Comick": {

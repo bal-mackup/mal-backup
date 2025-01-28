@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c780ebc0-b2af-4f69-bc52-5465c96e4258": {
+                "id": 32060,
                 "identifier": "c780ebc0-b2af-4f69-bc52-5465c96e4258",
                 "image": "https://uploads.mangadex.org/covers/c780ebc0-b2af-4f69-bc52-5465c96e4258/04d14011-544a-438e-90d1-aedc129e1b72.jpg",
                 "malId": 120748,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/c780ebc0-b2af-4f69-bc52-5465c96e4258"
             }
         },
-        "MangaFire": {
-            "wolf-in-the-house.2o1kq": {
-                "identifier": "wolf-in-the-house.2o1kq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/07a3fe17e234de07a7c21d3f54c936d8.jpg",
-                "malId": 120748,
-                "aniId": 99628,
-                "page": "MangaFire",
-                "title": "Wolf in the House",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wolf-in-the-house.2o1kq/"
-            }
-        },
         "MangaNato": {
             "manga-zt977228": {
+                "id": 185982,
                 "identifier": "manga-zt977228",
                 "image": "https://avt.mkklcdnv6temp.com/fld/35/x/8-1732789353-nw.webp",
                 "malId": 120748,
@@ -40,6 +30,19 @@
                 "title": "Wolf In The House",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-zt977228"
+            }
+        },
+        "MangaFire": {
+            "2o1kq": {
+                "id": 230400,
+                "identifier": "2o1kq",
+                "image": "https://static.mangafire.to/7105/i/0/07/07a3fe17e234de07a7c21d3f54c936d8.jpg",
+                "malId": 120748,
+                "aniId": 99628,
+                "page": "MangaFire",
+                "title": "Wolf in the House",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wolf-in-the-housee.2o1kq"
             }
         }
     },

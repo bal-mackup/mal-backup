@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4fb1e3b5-2324-4550-a22f-3a1a9e314fae": {
+                "id": 12838,
                 "identifier": "4fb1e3b5-2324-4550-a22f-3a1a9e314fae",
                 "image": "https://uploads.mangadex.org/covers/4fb1e3b5-2324-4550-a22f-3a1a9e314fae/926d4c4e-3a1f-46d1-b8de-a822b0980481.jpg",
                 "malId": 88320,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "chihoukishi-hans-no-junan": {
+                "id": 61396,
                 "identifier": "chihoukishi-hans-no-junan",
                 "image": "https://temp.compsci88.com/cover/Chihoukishi-Hans-No-Junan.jpg",
                 "malId": 88320,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "chihou_kishi_hans_no_junan": {
+                "id": 66367,
                 "identifier": "chihou_kishi_hans_no_junan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15489/cover.jpg",
                 "malId": 88320,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ms952627": {
+                "id": 77239,
                 "identifier": "manga-ms952627",
                 "image": "https://avt.mkklcdnv6temp.com/46/d/1-1583465523.jpg",
                 "malId": 88320,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ms952627"
             }
         },
-        "MangaFire": {
-            "chihou-kishi-hans-no-junan.pr4w4": {
-                "identifier": "chihou-kishi-hans-no-junan.pr4w4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c249752608d2ef38b9f6d88be8bc120.jpg",
-                "malId": 88320,
-                "aniId": 98117,
-                "page": "MangaFire",
-                "title": "The Ordeals of Regional Knight Hans",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chihou-kishi-hans-no-junan.pr4w4/"
-            },
-            "pr4w4": {
-                "identifier": "pr4w4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3c249752608d2ef38b9f6d88be8bc120.jpg",
-                "malId": 88320,
-                "aniId": 98117,
-                "page": "MangaFire",
-                "title": "The Ordeals of Regional Knight Hans",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chihou-kishi-hans-no-junan.pr4w4/"
-            }
-        },
         "Weebcentral": {
             "01j76xybejkqk0s80vrx37wdtr": {
+                "id": 213029,
                 "identifier": "01j76xybejkqk0s80vrx37wdtr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEJKQK0S80VRX37WDTR.jpg",
                 "malId": 88320,
@@ -86,6 +69,19 @@
                 "title": "The Ordeals of Regional Knight Hans",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEJKQK0S80VRX37WDTR"
+            }
+        },
+        "MangaFire": {
+            "pr4w4": {
+                "id": 245062,
+                "identifier": "pr4w4",
+                "image": "https://static.mangafire.to/180e/i/3/3c/3c249752608d2ef38b9f6d88be8bc120.jpg",
+                "malId": 88320,
+                "aniId": 98117,
+                "page": "MangaFire",
+                "title": "The Ordeals of Regional Knight Hans",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chihou-kishi-hans-no-junann.pr4w4"
             }
         },
         "Comick": {

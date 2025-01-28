@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "came-the-mirror-and-other-tales": {
+                "id": 96880,
                 "identifier": "came-the-mirror-and-other-tales",
                 "image": "https://temp.compsci88.com/cover/Came-the-Mirror-and-Other-Tales.jpg",
                 "malId": 75975,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/Came-the-Mirror-and-Other-Tales"
             }
         },
-        "MangaFire": {
-            "kagami-ga-kita.vp46": {
-                "identifier": "kagami-ga-kita.vp46",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/9432f2ca43c1262bc612774058492641.jpg",
-                "malId": 75975,
-                "aniId": 92275,
-                "page": "MangaFire",
-                "title": "Came the Mirror & Other Tales! Plus",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kagami-ga-kita.vp46/"
-            },
-            "vp46": {
-                "identifier": "vp46",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/9432f2ca43c1262bc612774058492641.jpg",
-                "malId": 75975,
-                "aniId": 92275,
-                "page": "MangaFire",
-                "title": "Came the Mirror & Other Tales! Plus",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kagami-ga-kita.vp46/"
-            }
-        },
         "Mangadex": {
             "e3005991-fad1-4167-8192-402e62ba898c": {
+                "id": 196954,
                 "identifier": "e3005991-fad1-4167-8192-402e62ba898c",
                 "image": "https://uploads.mangadex.org/covers/e3005991-fad1-4167-8192-402e62ba898c/2f9de45d-21f2-48c6-a70d-87fb0b213ee4.png",
                 "malId": 75975,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyfar2d90kz71rws9kg7g": {
+                "id": 209803,
                 "identifier": "01j76xyfar2d90kz71rws9kg7g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFAR2D90KZ71RWS9KG7G.jpg",
                 "malId": 75975,
@@ -62,6 +43,19 @@
                 "title": "Came the Mirror and Other Tales",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFAR2D90KZ71RWS9KG7G"
+            }
+        },
+        "MangaFire": {
+            "vp46": {
+                "id": 252857,
+                "identifier": "vp46",
+                "image": "https://static.mangafire.to/7b2f/i/9/94/9432f2ca43c1262bc612774058492641.jpg",
+                "malId": 75975,
+                "aniId": 92275,
+                "page": "MangaFire",
+                "title": "Came the Mirror & Other Tales! Plus",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kagami-ga-kitaa.vp46"
             }
         },
         "Comick": {

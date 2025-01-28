@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cac1a74c-0b5f-498a-8472-05f0636e1b4d": {
+                "id": 38965,
                 "identifier": "cac1a74c-0b5f-498a-8472-05f0636e1b4d",
                 "image": "https://uploads.mangadex.org/covers/cac1a74c-0b5f-498a-8472-05f0636e1b4d/640f3fb8-676f-4a79-b39f-2d2845f5d235.jpg",
                 "malId": 147538,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "return_to_player": {
+                "id": 59198,
                 "identifier": "return_to_player",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35430/cover.jpg",
                 "malId": 147538,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "return-to-player": {
+                "id": 59247,
                 "identifier": "return-to-player",
                 "image": "https://temp.compsci88.com/cover/Return-to-Player.jpg",
                 "malId": 147538,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jn986422": {
+                "id": 73018,
                 "identifier": "manga-jn986422",
                 "image": "https://avt.mkklcdnv6temp.com/6/g/22-1598783215.jpg",
                 "malId": 147538,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jn986422"
             }
         },
-        "MangaFire": {
-            "return-to-playerr.yqly0": {
-                "identifier": "return-to-playerr.yqly0",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b59ca6c966fb1854ccc4685be13ebc2.jpg",
-                "malId": 147538,
-                "aniId": 124577,
-                "page": "MangaFire",
-                "title": "Return to Player",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/return-to-playerr.yqly0/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeacr3847bbqhp5f6w0h": {
+                "id": 209776,
                 "identifier": "01j76xyeacr3847bbqhp5f6w0h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEACR3847BBQHP5F6W0H.jpg",
                 "malId": 147538,
@@ -76,6 +69,19 @@
                 "title": "Return to Player",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEACR3847BBQHP5F6W0H"
+            }
+        },
+        "MangaFire": {
+            "yqly0": {
+                "id": 226524,
+                "identifier": "yqly0",
+                "image": "https://static.mangafire.to/3f33/i/5/5b/5b59ca6c966fb1854ccc4685be13ebc2.jpg",
+                "malId": 147538,
+                "aniId": 124577,
+                "page": "MangaFire",
+                "title": "Return to Player",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/return-to-playerr.yqly0"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7b5619e6-27c5-4b0d-9e3a-2bb2a79372e3": {
+                "id": 10027,
                 "identifier": "7b5619e6-27c5-4b0d-9e3a-2bb2a79372e3",
                 "image": "https://uploads.mangadex.org/covers/7b5619e6-27c5-4b0d-9e3a-2bb2a79372e3/640ee6bf-d132-4076-9975-368e1db82ab9.jpg",
                 "malId": 66953,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "omaera-zenin-mendokusai": {
+                "id": 66701,
                 "identifier": "omaera-zenin-mendokusai",
                 "image": "https://temp.compsci88.com/cover/Omaera-Zenin-Mendokusai.jpg",
                 "malId": 66953,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-am954021": {
+                "id": 79272,
                 "identifier": "manga-am954021",
                 "image": "https://avt.mkklcdnv6temp.com/fld/95/z/1-1732720312-nw.webp",
                 "malId": 66953,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "omaera_zenin_mendokusai": {
+                "id": 79489,
                 "identifier": "omaera_zenin_mendokusai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13611/cover.jpg",
                 "malId": 66953,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/omaera_zenin_mendokusai/"
             }
         },
-        "MangaFire": {
-            "omaera-zenin-mendokusai.lqq3": {
-                "identifier": "omaera-zenin-mendokusai.lqq3",
-                "image": "https://static.mangafire.to/3b2d5/i/4/42/42906d54211b721696a5ec8a20a13a1c.jpg",
-                "malId": 66953,
-                "aniId": 85325,
-                "page": "MangaFire",
-                "title": "Omaera Zenin Mendokusai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/omaera-zenin-mendokusai.lqq3/"
-            },
-            "omaera-zenin-mendokusaii.lqq3": {
-                "identifier": "omaera-zenin-mendokusaii.lqq3",
-                "image": "https://static.mangafire.to/3b2d5/i/4/42/42906d54211b721696a5ec8a20a13a1c.jpg",
-                "malId": 66953,
-                "aniId": 85325,
-                "page": "MangaFire",
-                "title": "Omaera Zenin Mendokusai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/omaera-zenin-mendokusaii.lqq3/"
-            },
-            "lqq3": {
-                "identifier": "lqq3",
-                "image": "https://static.mangafire.to/1b9b/i/4/42/42906d54211b721696a5ec8a20a13a1c.jpg",
-                "malId": 66953,
-                "aniId": 85325,
-                "page": "MangaFire",
-                "title": "Omaera Zenin Mendokusai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/omaera-zenin-mendokusaii.lqq3"
-            }
-        },
         "Weebcentral": {
             "01j76xya0t6en4kwxy19c1dr45": {
+                "id": 210738,
                 "identifier": "01j76xya0t6en4kwxy19c1dr45",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA0T6EN4KWXY19C1DR45.jpg",
                 "malId": 66953,
@@ -96,6 +69,19 @@
                 "title": "Omaera Zenin Mendokusai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA0T6EN4KWXY19C1DR45"
+            }
+        },
+        "MangaFire": {
+            "lqq3": {
+                "id": 225926,
+                "identifier": "lqq3",
+                "image": "https://static.mangafire.to/1b9b/i/4/42/42906d54211b721696a5ec8a20a13a1c.jpg",
+                "malId": 66953,
+                "aniId": 85325,
+                "page": "MangaFire",
+                "title": "Omaera Zenin Mendokusai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/omaera-zenin-mendokusaii.lqq3"
             }
         },
         "Comick": {

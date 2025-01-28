@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b690f9f5-fda1-4d09-ac65-d2ca914a2ae5": {
+                "id": 11759,
                 "identifier": "b690f9f5-fda1-4d09-ac65-d2ca914a2ae5",
                 "image": "https://uploads.mangadex.org/covers/b690f9f5-fda1-4d09-ac65-d2ca914a2ae5/7705c514-0b91-44e9-9a37-9c5ba91ced57.jpg",
                 "malId": 81283,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "akai-mi-hajiketa": {
+                "id": 71175,
                 "identifier": "akai-mi-hajiketa",
                 "image": "https://temp.compsci88.com/cover/Akai-Mi-Hajiketa.jpg",
                 "malId": 81283,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ul953394": {
+                "id": 87139,
                 "identifier": "manga-ul953394",
                 "image": "https://avt.mkklcdnv6temp.com/fld/74/e/1-1732719367-nw.webp",
                 "malId": 81283,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ul953394"
             }
         },
-        "MangaFire": {
-            "akai-mi-hajiketa.xrz5z": {
-                "identifier": "akai-mi-hajiketa.xrz5z",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/836e93965405c226801a6c297516dd33.jpg",
-                "malId": 81283,
-                "aniId": 85817,
-                "page": "MangaFire",
-                "title": "Akai Mi Hajiketa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akai-mi-hajiketa.xrz5z/"
-            },
-            "xrz5z": {
-                "identifier": "xrz5z",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/836e93965405c226801a6c297516dd33.jpg",
-                "malId": 81283,
-                "aniId": 85817,
-                "page": "MangaFire",
-                "title": "Akai Mi Hajiketa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akai-mi-hajiketa.xrz5z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyanjsj45a2k99nwf5m1t": {
+                "id": 206291,
                 "identifier": "01j76xyanjsj45a2k99nwf5m1t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYANJSJ45A2K99NWF5M1T.jpg",
                 "malId": 81283,
@@ -74,6 +56,19 @@
                 "title": "Akai Mi Hajiketa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYANJSJ45A2K99NWF5M1T"
+            }
+        },
+        "MangaFire": {
+            "xrz5z": {
+                "id": 262314,
+                "identifier": "xrz5z",
+                "image": "https://static.mangafire.to/466e/i/8/83/836e93965405c226801a6c297516dd33.jpg",
+                "malId": 81283,
+                "aniId": 85817,
+                "page": "MangaFire",
+                "title": "Akai Mi Hajiketa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/akai-mi-hajiketaa.xrz5z"
             }
         },
         "Comick": {

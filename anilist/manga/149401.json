@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "37536724-111d-4a99-b13c-76ec22600789": {
+                "id": 101795,
                 "identifier": "37536724-111d-4a99-b13c-76ec22600789",
                 "image": "https://uploads.mangadex.org/covers/37536724-111d-4a99-b13c-76ec22600789/171c707a-1f63-4aa0-a0f5-3a16ad1c1dba.jpg",
                 "malId": 146818,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nm990821": {
+                "id": 104140,
                 "identifier": "manga-nm990821",
                 "image": "https://avt.mkklcdnv6temp.com/40/e/25-1652068445.jpg",
                 "malId": 146818,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-nm990821"
             }
         },
-        "MangaFire": {
-            "kamigami-no-kago-de-seisan-kakumei.7j081": {
-                "identifier": "kamigami-no-kago-de-seisan-kakumei.7j081",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c507c943dea764306149a55219f29df2.jpg",
-                "malId": 146818,
-                "aniId": 149401,
-                "page": "MangaFire",
-                "title": "Production Revolution by Blessing of Gods",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamigami-no-kago-de-seisan-kakumei.7j081/"
-            },
-            "kamigami-no-kago-de-seisan-kakumeii.7j081": {
-                "identifier": "kamigami-no-kago-de-seisan-kakumeii.7j081",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c5/c507c943dea764306149a55219f29df2.jpg",
-                "malId": 146818,
-                "aniId": 149401,
-                "page": "MangaFire",
-                "title": "Production Revolution by Blessing of Gods",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamigami-no-kago-de-seisan-kakumeii.7j081/"
-            }
-        },
         "MangaSee": {
             "kamigami-no-kago-de-seisan-kakumei": {
+                "id": 191442,
                 "identifier": "kamigami-no-kago-de-seisan-kakumei",
                 "image": "https://temp.compsci88.com/cover/Kamigami-no-Kago-de-Seisan-Kakumei.jpg",
                 "malId": 146818,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhc245dc51kqd3bc7xcy": {
+                "id": 212962,
                 "identifier": "01j76xyhc245dc51kqd3bc7xcy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHC245DC51KQD3BC7XCY.jpg",
                 "malId": 146818,
@@ -74,6 +56,19 @@
                 "title": "Kamigami no Kago de Seisan Kakumei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHC245DC51KQD3BC7XCY"
+            }
+        },
+        "MangaFire": {
+            "7j081": {
+                "id": 224969,
+                "identifier": "7j081",
+                "image": "https://static.mangafire.to/b044/i/c/c5/c507c943dea764306149a55219f29df2.jpg",
+                "malId": 146818,
+                "aniId": 149401,
+                "page": "MangaFire",
+                "title": "Production Revolution by Blessing of Gods",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kamigami-no-kago-de-seisan-kakumeii.7j081"
             }
         },
         "Comick": {

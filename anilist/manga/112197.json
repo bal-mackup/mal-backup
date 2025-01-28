@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f19ee5ce-5b4a-4808-ba31-9374fa7900c2": {
+                "id": 30655,
                 "identifier": "f19ee5ce-5b4a-4808-ba31-9374fa7900c2",
                 "image": "https://uploads.mangadex.org/covers/f19ee5ce-5b4a-4808-ba31-9374fa7900c2/25874017-9b10-445b-99ae-c499a1b81894.png",
                 "malId": 147069,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "medical_return": {
+                "id": 54818,
                 "identifier": "medical_return",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31521/cover.jpg",
                 "malId": 147069,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "medical-return": {
+                "id": 55826,
                 "identifier": "medical-return",
                 "image": "https://temp.compsci88.com/cover/Medical-Return.jpg",
                 "malId": 147069,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fj983092": {
+                "id": 73464,
                 "identifier": "manga-fj983092",
                 "image": "https://avt.mkklcdnv6temp.com/25/t/19-1583500123.jpg",
                 "malId": 147069,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fj983092"
             }
         },
-        "MangaFire": {
-            "medical-return.1rknp": {
-                "identifier": "medical-return.1rknp",
-                "image": "https://static.mangafire.to/3b2d5/i/2/28/28d44978889548aa154ff7de597c8478.jpg",
-                "malId": 147069,
-                "aniId": 112197,
-                "page": "MangaFire",
-                "title": "Medical Return",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/medical-return.1rknp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmyv4v1hk1f1xyd51ks": {
+                "id": 206687,
                 "identifier": "01j76xydmyv4v1hk1f1xyd51ks",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMYV4V1HK1F1XYD51KS.jpg",
                 "malId": 147069,
@@ -76,6 +69,19 @@
                 "title": "Medical Return",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMYV4V1HK1F1XYD51KS"
+            }
+        },
+        "MangaFire": {
+            "1rknp": {
+                "id": 257810,
+                "identifier": "1rknp",
+                "image": "https://static.mangafire.to/159b/i/2/28/28d44978889548aa154ff7de597c8478.jpg",
+                "malId": 147069,
+                "aniId": 112197,
+                "page": "MangaFire",
+                "title": "Medical Return",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/medical-returnn.1rknp"
             }
         },
         "Comick": {

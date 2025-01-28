@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "710a534c-2d53-4bb1-a13c-c8d6864eaab5": {
+                "id": 105488,
                 "identifier": "710a534c-2d53-4bb1-a13c-c8d6864eaab5",
                 "image": "https://uploads.mangadex.org/covers/710a534c-2d53-4bb1-a13c-c8d6864eaab5/1aed97ba-bb31-4c12-84c5-ef1438011779.jpg",
                 "malId": 147216,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "alice-in-kyoto-forest": {
+                "id": 106600,
                 "identifier": "alice-in-kyoto-forest",
                 "image": "https://temp.compsci88.com/cover/Alice-in-Kyoto-Forest.jpg",
                 "malId": 147216,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Alice-in-Kyoto-Forest"
             }
         },
-        "MangaFire": {
-            "kyouraku-no-mori-no-alice.n38jm": {
-                "identifier": "kyouraku-no-mori-no-alice.n38jm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5f00087b781894f2dfd5613e419a00b.jpg",
-                "malId": 147216,
-                "aniId": 107056,
-                "page": "MangaFire",
-                "title": "Alice in Kyoto Forest",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyouraku-no-mori-no-alice.n38jm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfey7vvgtjf8v6fmh994": {
+                "id": 209541,
                 "identifier": "01j76xyfey7vvgtjf8v6fmh994",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFEY7VVGTJF8V6FMH994.jpg",
                 "malId": 147216,
@@ -52,6 +43,19 @@
                 "title": "Alice in Kyoto Forest",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFEY7VVGTJF8V6FMH994"
+            }
+        },
+        "MangaFire": {
+            "n38jm": {
+                "id": 243448,
+                "identifier": "n38jm",
+                "image": "https://static.mangafire.to/f699/i/a/a5/a5f00087b781894f2dfd5613e419a00b.jpg",
+                "malId": 147216,
+                "aniId": 107056,
+                "page": "MangaFire",
+                "title": "Alice in Kyoto Forest",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyouraku-no-mori-no-alicee.n38jm"
             }
         },
         "Comick": {

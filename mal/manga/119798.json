@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "31067b1a-f95e-4c09-b4d6-26373118a9f2": {
+                "id": 27292,
                 "identifier": "31067b1a-f95e-4c09-b4d6-26373118a9f2",
                 "image": "https://uploads.mangadex.org/covers/31067b1a-f95e-4c09-b4d6-26373118a9f2/707cb031-8ae9-483e-98a1-8df9437c2326.jpg",
                 "malId": 119798,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "boku_no_kanojo_sensei": {
+                "id": 56379,
                 "identifier": "boku_no_kanojo_sensei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31204/cover.jpg",
                 "malId": 119798,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "boku-no-kanojo-sensei": {
+                "id": 59076,
                 "identifier": "boku-no-kanojo-sensei",
                 "image": "https://temp.compsci88.com/cover/Boku-no-Kanojo-Sensei.jpg",
                 "malId": 119798,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ej981392": {
+                "id": 73753,
                 "identifier": "manga-ej981392",
                 "image": "https://avt.mkklcdnv6temp.com/13/d/18-1583497596.jpg",
                 "malId": 119798,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-ej981392"
             },
             "manga-ff983288": {
+                "id": 77269,
                 "identifier": "manga-ff983288",
                 "image": "https://avt.mkklcdnv6temp.com/32/w/19-1583500383.jpg",
                 "malId": 119798,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-ff983288"
             }
         },
-        "MangaFire": {
-            "boku-no-kanojo-sensei.4qjjo": {
-                "identifier": "boku-no-kanojo-sensei.4qjjo",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e53642ca354508daa594cdad5c946df4.jpg",
-                "malId": 119798,
-                "aniId": 108924,
-                "page": "MangaFire",
-                "title": "Boku no Kanojo Sensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-kanojo-sensei.4qjjo/"
-            },
-            "boku-no-kanojo-senseii.4qjjo": {
-                "identifier": "boku-no-kanojo-senseii.4qjjo",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e53642ca354508daa594cdad5c946df4.jpg",
-                "malId": 119798,
-                "aniId": 108924,
-                "page": "MangaFire",
-                "title": "Boku no Kanojo Sensei",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-kanojo-senseii.4qjjo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd9jw5qdcc5x0t1chad9": {
+                "id": 212485,
                 "identifier": "01j76xyd9jw5qdcc5x0t1chad9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD9JW5QDCC5X0T1CHAD9.jpg",
                 "malId": 119798,
@@ -96,6 +80,19 @@
                 "title": "Boku no Kanojo Sensei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD9JW5QDCC5X0T1CHAD9"
+            }
+        },
+        "MangaFire": {
+            "4qjjo": {
+                "id": 226492,
+                "identifier": "4qjjo",
+                "image": "https://static.mangafire.to/ac25/i/e/e5/e53642ca354508daa594cdad5c946df4.jpg",
+                "malId": 119798,
+                "aniId": 108924,
+                "page": "MangaFire",
+                "title": "Boku no Kanojo Sensei",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-kanojo-senseii.4qjjo"
             }
         },
         "Comick": {

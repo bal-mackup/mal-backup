@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f43aab98-8bfe-4275-97cc-9a7b7635eb80": {
+                "id": 15993,
                 "identifier": "f43aab98-8bfe-4275-97cc-9a7b7635eb80",
                 "image": "https://uploads.mangadex.org/covers/f43aab98-8bfe-4275-97cc-9a7b7635eb80/e0b3bbb8-ecd4-40f6-a619-719cbea9a2e4.jpg",
                 "malId": 99528,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "rike_ga_koi_ni_ochita_no_de_shoumeishitemita": {
+                "id": 57407,
                 "identifier": "rike_ga_koi_ni_ochita_no_de_shoumeishitemita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20657/cover.jpg",
                 "malId": 99528,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/rike_ga_koi_ni_ochita_no_de_shoumeishitemita/"
             },
             "rikei_ga_koi_ni_ochita_no_de_shoumei_shitemita": {
+                "id": 71145,
                 "identifier": "rikei_ga_koi_ni_ochita_no_de_shoumei_shitemita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38332/cover.jpg",
                 "malId": 99528,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "rikei-ga-koi-ni-ochita-no-de-shoumeishitemita": {
+                "id": 62050,
                 "identifier": "rikei-ga-koi-ni-ochita-no-de-shoumeishitemita",
                 "image": "https://temp.compsci88.com/cover/Rikei-Ga-Koi-Ni-Ochita-No-De-Shoumeishitemita.jpg",
                 "malId": 99528,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ll988994": {
+                "id": 74659,
                 "identifier": "manga-ll988994",
                 "image": "https://avt.mkklcdnv6temp.com/11/r/24-1620228901.jpg",
                 "malId": 99528,
@@ -64,6 +69,7 @@
                 "url": "https://manganato.com/manga-ll988994"
             },
             "manga-up971924": {
+                "id": 75731,
                 "identifier": "manga-up971924",
                 "image": "https://avt.mkklcdnv6temp.com/4/h/14-1583489840.jpg",
                 "malId": 99528,
@@ -74,30 +80,9 @@
                 "url": "https://manganato.com/manga-up971924"
             }
         },
-        "MangaFire": {
-            "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita.qkxn3": {
-                "identifier": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita.qkxn3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/2577b2e1d30fcd08f04184edfe548abe.jpg",
-                "malId": 99528,
-                "aniId": 87377,
-                "page": "MangaFire",
-                "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita.qkxn3/"
-            },
-            "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemitaa.qkxn3": {
-                "identifier": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemitaa.qkxn3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/2577b2e1d30fcd08f04184edfe548abe.jpg",
-                "malId": 99528,
-                "aniId": 87377,
-                "page": "MangaFire",
-                "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemitaa.qkxn3/"
-            }
-        },
         "Weebcentral": {
             "01j76xybttvhcsra0vktyfyra8": {
+                "id": 209348,
                 "identifier": "01j76xybttvhcsra0vktyfyra8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBTTVHCSRA0VKTYFYRA8.jpg",
                 "malId": 99528,
@@ -106,6 +91,19 @@
                 "title": "Rikei ga Koi ni Ochita no de Shoumeishitemita",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBTTVHCSRA0VKTYFYRA8"
+            }
+        },
+        "MangaFire": {
+            "qkxn3": {
+                "id": 227659,
+                "identifier": "qkxn3",
+                "image": "https://static.mangafire.to/72c3/i/2/25/2577b2e1d30fcd08f04184edfe548abe.jpg",
+                "malId": 99528,
+                "aniId": 87377,
+                "page": "MangaFire",
+                "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemitaa.qkxn3"
             }
         },
         "Comick": {

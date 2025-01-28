@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "40dc36d1-2f92-4b46-a69a-9728d5815e7d": {
+                "id": 26015,
                 "identifier": "40dc36d1-2f92-4b46-a69a-9728d5815e7d",
                 "image": "https://uploads.mangadex.org/covers/40dc36d1-2f92-4b46-a69a-9728d5815e7d/c566871d-1792-4ce8-a714-d6b7bd6f71e9.jpg",
                 "malId": 121246,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ossan_boukensha_kein_no_zenkou": {
+                "id": 55287,
                 "identifier": "ossan_boukensha_kein_no_zenkou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30937/cover.jpg",
                 "malId": 121246,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ossan-boukensha-kein-no-zenkou": {
+                "id": 57799,
                 "identifier": "ossan-boukensha-kein-no-zenkou",
                 "image": "https://temp.compsci88.com/cover/Ossan-Boukensha-Kein-no-Zenkou.jpg",
                 "malId": 121246,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ev982330": {
+                "id": 77106,
                 "identifier": "manga-ev982330",
                 "image": "https://avt.mkklcdnv6temp.com/47/t/18-1583498959.jpg",
                 "malId": 121246,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ev982330"
             }
         },
-        "MangaFire": {
-            "ossan-boukensha-kane-no-zenkou.52130": {
-                "identifier": "ossan-boukensha-kane-no-zenkou.52130",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b97ce22d68fe378bebca69da140a825e.jpg",
-                "malId": 121246,
-                "aniId": 111228,
-                "page": "MangaFire",
-                "title": "The Good Deeds of Old Adventurer Kane",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ossan-boukensha-kane-no-zenkou.52130/"
-            },
-            "ossan-boukensha-kane-no-zenkouu.52130": {
-                "identifier": "ossan-boukensha-kane-no-zenkouu.52130",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b9/b97ce22d68fe378bebca69da140a825e.jpg",
-                "malId": 121246,
-                "aniId": 111228,
-                "page": "MangaFire",
-                "title": "The Good Deeds of Old Adventurer Kane",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ossan-boukensha-kane-no-zenkouu.52130/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd377qgsm8e32hv12fjp": {
+                "id": 212577,
                 "identifier": "01j76xyd377qgsm8e32hv12fjp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD377QGSM8E32HV12FJP.jpg",
                 "malId": 121246,
@@ -86,6 +69,19 @@
                 "title": "The Good Deeds of Old Adventurer Kane",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD377QGSM8E32HV12FJP"
+            }
+        },
+        "MangaFire": {
+            "52130": {
+                "id": 223916,
+                "identifier": "52130",
+                "image": "https://static.mangafire.to/5eb0/i/b/b9/b97ce22d68fe378bebca69da140a825e.jpg",
+                "malId": 121246,
+                "aniId": 111228,
+                "page": "MangaFire",
+                "title": "The Good Deeds of Old Adventurer Kane",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ossan-boukensha-kane-no-zenkouu.52130"
             }
         },
         "Comick": {

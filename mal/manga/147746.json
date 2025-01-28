@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "41e3711a-1fc5-4047-b88d-880c7d66c7c5": {
+                "id": 53632,
                 "identifier": "41e3711a-1fc5-4047-b88d-880c7d66c7c5",
                 "image": "https://uploads.mangadex.org/covers/41e3711a-1fc5-4047-b88d-880c7d66c7c5/8b09c7bf-b0ac-4dd2-9361-717463906202.jpg",
                 "malId": 147746,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "outbride-beauty-and-the-beasts": {
+                "id": 112459,
                 "identifier": "outbride-beauty-and-the-beasts",
                 "image": "https://temp.compsci88.com/cover/Outbride-Beauty-and-the-Beasts.jpg",
                 "malId": 147746,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Outbride-Beauty-and-the-Beasts"
             }
         },
-        "MangaFire": {
-            "out-bride-ikei-konin.vv74l": {
-                "identifier": "out-bride-ikei-konin.vv74l",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/99646a11ce1d5123dde2e9c1d75f5d77.jpg",
-                "malId": 147746,
-                "aniId": 128218,
-                "page": "MangaFire",
-                "title": "Outbride: Beauty and the Beasts",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/out-bride-ikei-konin.vv74l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfjn2ewye817cah2bgkm": {
+                "id": 208594,
                 "identifier": "01j76xyfjn2ewye817cah2bgkm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFJN2EWYE817CAH2BGKM.jpg",
                 "malId": 147746,
@@ -52,6 +43,19 @@
                 "title": "Outbride - Beauty and the Beasts",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFJN2EWYE817CAH2BGKM"
+            }
+        },
+        "MangaFire": {
+            "vv74l": {
+                "id": 253524,
+                "identifier": "vv74l",
+                "image": "https://static.mangafire.to/d162/i/9/99/99646a11ce1d5123dde2e9c1d75f5d77.jpg",
+                "malId": 147746,
+                "aniId": 128218,
+                "page": "MangaFire",
+                "title": "Outbride: Beauty and the Beasts",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/out-bride-ikei-koninn.vv74l"
             }
         },
         "Comick": {

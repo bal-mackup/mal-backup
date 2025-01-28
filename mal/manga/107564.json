@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "47e3639e-2da3-45ba-bce0-4049871e7b8b": {
+                "id": 21514,
                 "identifier": "47e3639e-2da3-45ba-bce0-4049871e7b8b",
                 "image": "https://uploads.mangadex.org/covers/47e3639e-2da3-45ba-bce0-4049871e7b8b/91b9d5ed-3ed5-495d-bc3a-0dfbb621a780.jpg",
                 "malId": 107564,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mina_sama_no_omocha_desu": {
+                "id": 56190,
                 "identifier": "mina_sama_no_omocha_desu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27955/cover.jpg",
                 "malId": 107564,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "mina-sama-no-omocha-desu": {
+                "id": 59864,
                 "identifier": "mina-sama-no-omocha-desu",
                 "image": "https://temp.compsci88.com/cover/Mina-sama-No-Omocha-Desu.jpg",
                 "malId": 107564,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bo979297": {
+                "id": 74720,
                 "identifier": "manga-bo979297",
                 "image": "https://avt.mkklcdnv6temp.com/8/a/26-1655691767.jpg",
                 "malId": 107564,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-bo979297"
             }
         },
-        "MangaFire": {
-            "mina-sama-no-omocha-desu.q495": {
-                "identifier": "mina-sama-no-omocha-desu.q495",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f74ced33123ade0db127c9873f70c66.jpg",
-                "malId": 107564,
-                "aniId": 99176,
-                "page": "MangaFire",
-                "title": "Minasama no Omocha desu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mina-sama-no-omocha-desu.q495/"
-            },
-            "mina-sama-no-omocha-desuu.q495": {
-                "identifier": "mina-sama-no-omocha-desuu.q495",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f74ced33123ade0db127c9873f70c66.jpg",
-                "malId": 107564,
-                "aniId": 99176,
-                "page": "MangaFire",
-                "title": "Minasama no Omocha desu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mina-sama-no-omocha-desuu.q495/"
-            },
-            "q495": {
-                "identifier": "q495",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5f/5f74ced33123ade0db127c9873f70c66.jpg",
-                "malId": 107564,
-                "aniId": 99176,
-                "page": "MangaFire",
-                "title": "Minasama no Omocha desu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mina-sama-no-omocha-desuu.q495/"
-            }
-        },
         "Weebcentral": {
             "01j76xycsvq8wnktpjqxv4x81x": {
+                "id": 213177,
                 "identifier": "01j76xycsvq8wnktpjqxv4x81x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCSVQ8WNKTPJQXV4X81X.jpg",
                 "malId": 107564,
@@ -96,6 +69,19 @@
                 "title": "Mina-sama no Omocha desu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCSVQ8WNKTPJQXV4X81X"
+            }
+        },
+        "MangaFire": {
+            "q495": {
+                "id": 228511,
+                "identifier": "q495",
+                "image": "https://static.mangafire.to/0a83/i/5/5f/5f74ced33123ade0db127c9873f70c66.jpg",
+                "malId": 107564,
+                "aniId": 99176,
+                "page": "MangaFire",
+                "title": "Minasama no Omocha desu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mina-sama-no-omocha-desuu.q495"
             }
         },
         "Comick": {

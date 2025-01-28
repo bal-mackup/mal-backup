@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cb41ec0f-5990-40b2-9293-5168a3cfe16d": {
+                "id": 16434,
                 "identifier": "cb41ec0f-5990-40b2-9293-5168a3cfe16d",
                 "image": "https://uploads.mangadex.org/covers/cb41ec0f-5990-40b2-9293-5168a3cfe16d/4bbdff06-b0b7-4be5-b30a-31b05a92bf50.jpg",
                 "malId": 90632,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "sunoharasou_no_kanrinin_san": {
+                "id": 60812,
                 "identifier": "sunoharasou_no_kanrinin_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27870/cover.jpg",
                 "malId": 90632,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "sunoharasou-no-kanrinin-san": {
+                "id": 63304,
                 "identifier": "sunoharasou-no-kanrinin-san",
                 "image": "https://temp.compsci88.com/cover/Sunoharasou-no-Kanrinin-san.jpg",
                 "malId": 90632,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bt979302": {
+                "id": 74846,
                 "identifier": "manga-bt979302",
                 "image": "https://avt.mkklcdnv6temp.com/36/i/16-1583494772.jpg",
                 "malId": 90632,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-bt979302"
             }
         },
-        "MangaFire": {
-            "sunoharasou-no-kanrinin-san.yqn1x": {
-                "identifier": "sunoharasou-no-kanrinin-san.yqn1x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e83a44a9b224b9c7b397e44cce00fc6e.jpg",
-                "malId": 90632,
-                "aniId": 95332,
-                "page": "MangaFire",
-                "title": "Sunoharasou no Kanrinin-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sunoharasou-no-kanrinin-san.yqn1x/"
-            },
-            "sunoharasou-no-kanrinin-sann.yqn1x": {
-                "identifier": "sunoharasou-no-kanrinin-sann.yqn1x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e83a44a9b224b9c7b397e44cce00fc6e.jpg",
-                "malId": 90632,
-                "aniId": 95332,
-                "page": "MangaFire",
-                "title": "Sunoharasou no Kanrinin-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sunoharasou-no-kanrinin-sann.yqn1x/"
-            },
-            "yqn1x": {
-                "identifier": "yqn1x",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e83a44a9b224b9c7b397e44cce00fc6e.jpg",
-                "malId": 90632,
-                "aniId": 95332,
-                "page": "MangaFire",
-                "title": "Sunoharasou no Kanrinin-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sunoharasou-no-kanrinin-sann.yqn1x/"
-            }
-        },
         "Weebcentral": {
             "01j76xydjfem82rxgjrwjr7nsq": {
+                "id": 208501,
                 "identifier": "01j76xydjfem82rxgjrwjr7nsq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJFEM82RXGJRWJR7NSQ.jpg",
                 "malId": 90632,
@@ -96,6 +69,19 @@
                 "title": "Sunoharasou no Kanrinin-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJFEM82RXGJRWJR7NSQ"
+            }
+        },
+        "MangaFire": {
+            "yqn1x": {
+                "id": 229357,
+                "identifier": "yqn1x",
+                "image": "https://static.mangafire.to/1e51/i/e/e8/e83a44a9b224b9c7b397e44cce00fc6e.jpg",
+                "malId": 90632,
+                "aniId": 95332,
+                "page": "MangaFire",
+                "title": "Sunoharasou no Kanrinin-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sunoharasou-no-kanrinin-sann.yqn1x"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "32853bb5-3d40-4224-872a-99ce17deb3a3": {
+                "id": 9668,
                 "identifier": "32853bb5-3d40-4224-872a-99ce17deb3a3",
                 "image": "https://uploads.mangadex.org/covers/32853bb5-3d40-4224-872a-99ce17deb3a3/b9349cc4-f076-4ae5-bda0-672d2fa687b3.jpg",
                 "malId": 63579,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "aizawa-san-zoushoku": {
+                "id": 55320,
                 "identifier": "aizawa-san-zoushoku",
                 "image": "https://temp.compsci88.com/cover/Aizawa-San-Zoushoku.jpg",
                 "malId": 63579,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "aizawa_san_zoushoku": {
+                "id": 63897,
                 "identifier": "aizawa_san_zoushoku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13459/cover.jpg",
                 "malId": 63579,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lp952472": {
+                "id": 79616,
                 "identifier": "manga-lp952472",
                 "image": "https://avt.mkklcdnv6temp.com/fld/43/h/1-1732718090-nw.webp",
                 "malId": 63579,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-lp952472"
             }
         },
-        "MangaFire": {
-            "aizawa-san-zoushoku.0k25": {
-                "identifier": "aizawa-san-zoushoku.0k25",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea15b5a28ba9c5c34e107896c074fab9.jpg",
-                "malId": 63579,
-                "aniId": 85262,
-                "page": "MangaFire",
-                "title": "Aizawa-san Multiplies",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aizawa-san-zoushoku.0k25/"
-            },
-            "aizawa-san-zoushokuu.0k25": {
-                "identifier": "aizawa-san-zoushokuu.0k25",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea15b5a28ba9c5c34e107896c074fab9.jpg",
-                "malId": 63579,
-                "aniId": 85262,
-                "page": "MangaFire",
-                "title": "Aizawa-san Multiplies",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aizawa-san-zoushokuu.0k25/"
-            },
-            "0k25": {
-                "identifier": "0k25",
-                "image": "https://static.mangafire.to/153f/i/e/ea/ea15b5a28ba9c5c34e107896c074fab9.jpg",
-                "malId": 63579,
-                "aniId": 85262,
-                "page": "MangaFire",
-                "title": "Aizawa-san Multiplies",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/aizawa-san-zoushokuu.0k25"
-            }
-        },
         "Weebcentral": {
             "01j76xya2fgh6mqhg2r8jx0g6k": {
+                "id": 206904,
                 "identifier": "01j76xya2fgh6mqhg2r8jx0g6k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA2FGH6MQHG2R8JX0G6K.jpg",
                 "malId": 63579,
@@ -96,6 +69,19 @@
                 "title": "Aizawa-san Zoushoku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA2FGH6MQHG2R8JX0G6K"
+            }
+        },
+        "MangaFire": {
+            "0k25": {
+                "id": 227305,
+                "identifier": "0k25",
+                "image": "https://static.mangafire.to/153f/i/e/ea/ea15b5a28ba9c5c34e107896c074fab9.jpg",
+                "malId": 63579,
+                "aniId": 85262,
+                "page": "MangaFire",
+                "title": "Aizawa-san Multiplies",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/aizawa-san-zoushokuu.0k25"
             }
         },
         "Comick": {

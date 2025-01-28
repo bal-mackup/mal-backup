@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "springtime-by-the-window": {
+                "id": 85835,
                 "identifier": "springtime-by-the-window",
                 "image": "https://temp.compsci88.com/cover/Springtime-by-the-Window.jpg",
                 "malId": 139831,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "228ce94a-c2f3-4ed6-96a5-a9a1d3ba7d04": {
+                "id": 118070,
                 "identifier": "228ce94a-c2f3-4ed6-96a5-a9a1d3ba7d04",
                 "image": "https://uploads.mangadex.org/covers/228ce94a-c2f3-4ed6-96a5-a9a1d3ba7d04/aa9d65ec-20d7-43e2-b8ab-d1e3d7f3701f.jpg",
                 "malId": 139831,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/228ce94a-c2f3-4ed6-96a5-a9a1d3ba7d04"
             }
         },
-        "MangaFire": {
-            "springtime-by-the-window.m222v": {
-                "identifier": "springtime-by-the-window.m222v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1686ba6ec7ec2b69f7dce8116b5cc90.jpg",
-                "malId": 139831,
-                "aniId": 128727,
-                "page": "MangaFire",
-                "title": "Springtime by the Window",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/springtime-by-the-window.m222v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeyxsq40t579nqd3e1cc": {
+                "id": 208587,
                 "identifier": "01j76xyeyxsq40t579nqd3e1cc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYXSQ40T579NQD3E1CC.jpg",
                 "malId": 139831,
@@ -52,6 +43,19 @@
                 "title": "Springtime by the Window",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYXSQ40T579NQD3E1CC"
+            }
+        },
+        "MangaFire": {
+            "m222v": {
+                "id": 249153,
+                "identifier": "m222v",
+                "image": "https://static.mangafire.to/55bf/i/c/c1/c1686ba6ec7ec2b69f7dce8116b5cc90.jpg",
+                "malId": 139831,
+                "aniId": 128727,
+                "page": "MangaFire",
+                "title": "Springtime by the Window",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/springtime-by-the-windoww.m222v"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9422a147-c0c8-400d-9106-57cb8ece3dba": {
+                "id": 37830,
                 "identifier": "9422a147-c0c8-400d-9106-57cb8ece3dba",
                 "image": "https://uploads.mangadex.org/covers/9422a147-c0c8-400d-9106-57cb8ece3dba/b70aa6b6-03a3-403e-9c14-91f7cc126ab2.jpg",
                 "malId": 127941,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kimi-wa-meido-sama": {
+                "id": 57484,
                 "identifier": "kimi-wa-meido-sama",
                 "image": "https://temp.compsci88.com/cover/Kimi-wa-Meido-sama.jpg",
                 "malId": 127941,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kimi_wa_meido_sama": {
+                "id": 70155,
                 "identifier": "kimi_wa_meido_sama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35015/cover.jpg",
                 "malId": 127941,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ic986137": {
+                "id": 73692,
                 "identifier": "manga-ic986137",
                 "image": "https://avt.mkklcdnv6temp.com/44/t/21-1596605732.jpg",
                 "malId": 127941,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ic986137"
             }
         },
-        "MangaFire": {
-            "kimi-wa-meido-sama.4q727": {
-                "identifier": "kimi-wa-meido-sama.4q727",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b146fd440c30cc7837e871d35a5841b.jpg",
-                "malId": 127941,
-                "aniId": 121700,
-                "page": "MangaFire",
-                "title": "You are Ms. Servant.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-meido-sama.4q727/"
-            },
-            "kimi-wa-meido-samaa.4q727": {
-                "identifier": "kimi-wa-meido-samaa.4q727",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2b146fd440c30cc7837e871d35a5841b.jpg",
-                "malId": 127941,
-                "aniId": 121700,
-                "page": "MangaFire",
-                "title": "You are Ms. Servant.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-meido-samaa.4q727/"
-            }
-        },
         "Weebcentral": {
             "01j76xye5bsy9gcpt2z02sjre1": {
+                "id": 210728,
                 "identifier": "01j76xye5bsy9gcpt2z02sjre1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE5BSY9GCPT2Z02SJRE1.jpg",
                 "malId": 127941,
@@ -86,6 +69,19 @@
                 "title": "Kimi wa Meido-sama",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE5BSY9GCPT2Z02SJRE1"
+            }
+        },
+        "MangaFire": {
+            "4q727": {
+                "id": 225675,
+                "identifier": "4q727",
+                "image": "https://static.mangafire.to/391b/i/2/2b/2b146fd440c30cc7837e871d35a5841b.jpg",
+                "malId": 127941,
+                "aniId": 121700,
+                "page": "MangaFire",
+                "title": "You are Ms. Servant.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-wa-meido-samaa.4q727"
             }
         },
         "Comick": {

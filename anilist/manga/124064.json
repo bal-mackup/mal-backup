@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7ed819b7-85bd-4262-bab5-107b6e54714a": {
+                "id": 104502,
                 "identifier": "7ed819b7-85bd-4262-bab5-107b6e54714a",
                 "image": "https://uploads.mangadex.org/covers/7ed819b7-85bd-4262-bab5-107b6e54714a/4ee056f3-ab67-4d62-aa9b-b3a311b59fa0.png",
                 "malId": 140596,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/7ed819b7-85bd-4262-bab5-107b6e54714a"
             }
         },
-        "MangaFire": {
-            "hades-sama-no-mujihi-na-konin.yqo9j": {
-                "identifier": "hades-sama-no-mujihi-na-konin.yqo9j",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5c/5cffa2837f5172b62d1591823919534c.jpg",
-                "malId": 140596,
-                "aniId": 124064,
-                "page": "MangaFire",
-                "title": "Mercilessness of Hades's Marriage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hades-sama-no-mujihi-na-konin.yqo9j/"
-            }
-        },
         "MangaSee": {
             "lord-hadess-ruthless-marriage": {
+                "id": 177319,
                 "identifier": "lord-hadess-ruthless-marriage",
                 "image": "https://temp.compsci88.com/cover/Lord-Hadess-Ruthless-Marriage.jpg",
                 "malId": 140596,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygq1nw51n1kmkbf5xfjw": {
+                "id": 211549,
                 "identifier": "01j76xygq1nw51n1kmkbf5xfjw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGQ1NW51N1KMKBF5XFJW.jpg",
                 "malId": 140596,
@@ -52,6 +43,19 @@
                 "title": "Lord Hades's Ruthless Marriage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGQ1NW51N1KMKBF5XFJW"
+            }
+        },
+        "MangaFire": {
+            "yqo9j": {
+                "id": 253538,
+                "identifier": "yqo9j",
+                "image": "https://static.mangafire.to/df46/i/5/5c/5cffa2837f5172b62d1591823919534c.jpg",
+                "malId": 140596,
+                "aniId": 124064,
+                "page": "MangaFire",
+                "title": "Mercilessness of Hades's Marriage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hades-sama-no-mujihi-na-koninn.yqo9j"
             }
         },
         "Comick": {

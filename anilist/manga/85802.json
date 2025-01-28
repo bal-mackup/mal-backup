@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4f9eab7d-a2b2-4ee5-9d59-6744f0df4e12": {
+                "id": 11883,
                 "identifier": "4f9eab7d-a2b2-4ee5-9d59-6744f0df4e12",
                 "image": "https://uploads.mangadex.org/covers/4f9eab7d-a2b2-4ee5-9d59-6744f0df4e12/7129edad-f454-4b06-aee7-518a17259967.jpg",
                 "malId": 70941,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "domestic-na-kanojo": {
+                "id": 54650,
                 "identifier": "domestic-na-kanojo",
                 "image": "https://temp.compsci88.com/cover/Domestic-Na-Kanojo.jpg",
                 "malId": 70941,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "domestic_na_kanojo": {
+                "id": 56270,
                 "identifier": "domestic_na_kanojo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14099/cover.jpg",
                 "malId": 70941,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-on952770": {
+                "id": 74570,
                 "identifier": "manga-on952770",
                 "image": "https://avt.mkklcdnv6temp.com/1/a/1-1583465724.jpg",
                 "malId": 70941,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-on952770"
             }
         },
-        "MangaFire": {
-            "domestic-na-kanojo.m4yx": {
-                "identifier": "domestic-na-kanojo.m4yx",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/46430f3526ca78e5b3aeca2b7b0f6e22.jpg",
-                "malId": 70941,
-                "aniId": 85802,
-                "page": "MangaFire",
-                "title": "Domestic Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/domestic-na-kanojo.m4yx/"
-            },
-            "domestic-na-kanojoo.m4yx": {
-                "identifier": "domestic-na-kanojoo.m4yx",
-                "image": "https://static.mangafire.to/3b2d5/i/4/46/46430f3526ca78e5b3aeca2b7b0f6e22.jpg",
-                "malId": 70941,
-                "aniId": 85802,
-                "page": "MangaFire",
-                "title": "Domestic Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/domestic-na-kanojoo.m4yx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb3m8pgmnes8wn5hm44a": {
+                "id": 210158,
                 "identifier": "01j76xyb3m8pgmnes8wn5hm44a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB3M8PGMNES8WN5HM44A.jpg",
                 "malId": 70941,
@@ -86,6 +69,19 @@
                 "title": "Domestic Girlfriend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB3M8PGMNES8WN5HM44A"
+            }
+        },
+        "MangaFire": {
+            "m4yx": {
+                "id": 228178,
+                "identifier": "m4yx",
+                "image": "https://static.mangafire.to/d753/i/4/46/46430f3526ca78e5b3aeca2b7b0f6e22.jpg",
+                "malId": 70941,
+                "aniId": 85802,
+                "page": "MangaFire",
+                "title": "Domestic Girlfriend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/domestic-na-kanojoo.m4yx"
             }
         },
         "Comick": {

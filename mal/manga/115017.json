@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "23da4242-44f4-4c51-b80a-132a29c2a6d9": {
+                "id": 25642,
                 "identifier": "23da4242-44f4-4c51-b80a-132a29c2a6d9",
                 "image": "https://uploads.mangadex.org/covers/23da4242-44f4-4c51-b80a-132a29c2a6d9/ff80be34-7dff-4852-8da9-ed188baa80ad.jpg",
                 "malId": 115017,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ec981659": {
+                "id": 80422,
                 "identifier": "manga-ec981659",
                 "image": "https://avt.mkklcdnv6temp.com/23/c/18-1583497998.jpg",
                 "malId": 115017,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ec981659"
             }
         },
-        "MangaFire": {
-            "mahouka-koukou-no-rettousei-kaichou-senkyo-hen.ojjl8": {
-                "identifier": "mahouka-koukou-no-rettousei-kaichou-senkyo-hen.ojjl8",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b1ac974ede008530268181ffd19df34e.jpg",
-                "malId": 115017,
-                "aniId": 107825,
-                "page": "MangaFire",
-                "title": "Mahouka Koukou no Rettousei - Kaichou Senkyo-hen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahouka-koukou-no-rettousei-kaichou-senkyo-hen.ojjl8/"
-            },
-            "ojjl8": {
-                "identifier": "ojjl8",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b1ac974ede008530268181ffd19df34e.jpg",
-                "malId": 115017,
-                "aniId": 107825,
-                "page": "MangaFire",
-                "title": "Mahouka Koukou no Rettousei - Kaichou Senkyo-hen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahouka-koukou-no-rettousei-kaichou-senkyo-hen.ojjl8/"
-            }
-        },
         "MangaFox": {
             "mahouka_koukou_no_rettousei_kaichou_senkyo_hen": {
+                "id": 162343,
                 "identifier": "mahouka_koukou_no_rettousei_kaichou_senkyo_hen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30383/cover.jpg",
                 "malId": 115017,
@@ -62,6 +43,19 @@
                 "title": "Mahouka Koukou no Rettousei - Kaichou Senkyo-hen",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mahouka_koukou_no_rettousei_kaichou_senkyo_hen/"
+            }
+        },
+        "MangaFire": {
+            "ojjl8": {
+                "id": 257583,
+                "identifier": "ojjl8",
+                "image": "https://static.mangafire.to/a7f3/i/b/b1/b1ac974ede008530268181ffd19df34e.jpg",
+                "malId": 115017,
+                "aniId": 107825,
+                "page": "MangaFire",
+                "title": "Mahouka Koukou no Rettousei - Kaichou Senkyo-hen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahouka-koukou-no-rettousei-kaichou-senkyo-henn.ojjl8"
             }
         },
         "Comick": {

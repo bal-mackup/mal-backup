@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "00e911ff-0443-4c2d-bb4f-c89740df4a2d": {
+                "id": 197696,
                 "identifier": "00e911ff-0443-4c2d-bb4f-c89740df4a2d",
                 "image": "https://uploads.mangadex.org/covers/00e911ff-0443-4c2d-bb4f-c89740df4a2d/f5d57d7b-67a4-42a4-b623-85004818fee5.jpg",
                 "malId": 168814,
-                "aniId": null,
+                "aniId": 183004,
                 "page": "Mangadex",
                 "title": "Watashi to Kanojo no Kawaii Koi no Hajime Kata",
                 "type": "manga",
@@ -20,10 +21,11 @@
         },
         "MangaFox": {
             "watashi_no_kanojo_no_kawaii_koi_hajimekata": {
+                "id": 222317,
                 "identifier": "watashi_no_kanojo_no_kawaii_koi_hajimekata",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46846/cover.jpg",
                 "malId": 168814,
-                "aniId": null,
+                "aniId": 183004,
                 "page": "MangaFox",
                 "title": "Watashi no Kanojo no Kawaii Koi Hajimekata",
                 "type": "manga",
@@ -32,14 +34,28 @@
         },
         "MangaNato": {
             "manga-dc1006511": {
+                "id": 222552,
                 "identifier": "manga-dc1006511",
                 "image": "https://avt.mkklcdnv6temp.com/fld/97/d/18-1735874114.jpg",
                 "malId": 168814,
-                "aniId": null,
+                "aniId": 183004,
                 "page": "MangaNato",
                 "title": "Watashi To Kanojo No Kawaii Koi No Hajime Kata",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-dc1006511"
+            }
+        },
+        "MangaFire": {
+            "0q5nk": {
+                "id": 267946,
+                "identifier": "0q5nk",
+                "image": "https://static.mangafire.to/3a73/i/7/40/65b905bbeb49c2b5d1f90a5ae4c52b4a.jpg",
+                "malId": 168814,
+                "aniId": 183004,
+                "page": "MangaFire",
+                "title": "Watashi no Kanojo no Kawaii Koi Hajimekata",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-no-kanojo-no-kawaii-koi-hajimekata.0q5nk"
             }
         },
         "Comick": {
@@ -49,8 +65,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Watashi to Kanojo no Kawaii Koi no Hajime Kata",
-                "url": "https://comick.io/comic/tonokawaiinohajime"
+                "url": "https://comick.io/comic/tonokawaiinohajime",
+                "aniId": 183004
             }
         }
-    }
+    },
+    "aniId": 183004
 }

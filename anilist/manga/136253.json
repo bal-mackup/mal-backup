@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bc998000-171b-4fbe-9dd8-570e56c0845d": {
+                "id": 88480,
                 "identifier": "bc998000-171b-4fbe-9dd8-570e56c0845d",
                 "image": "https://uploads.mangadex.org/covers/bc998000-171b-4fbe-9dd8-570e56c0845d/1f005e1c-ea2f-4a78-acce-a4436eb0acea.jpg",
                 "malId": 139138,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sw995405": {
+                "id": 128925,
                 "identifier": "manga-sw995405",
                 "image": "https://avt.mkklcdnv6temp.com/26/l/29-1680581875.jpg",
                 "malId": 139138,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-sw995405"
             }
         },
-        "MangaFire": {
-            "maitsuki-niwa-tsuki-ouya-tsuki.z10o3": {
-                "identifier": "maitsuki-niwa-tsuki-ouya-tsuki.z10o3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b6/b6bb96860765d68776b6e56e028f620b.jpg",
-                "malId": 139138,
-                "aniId": 136253,
-                "page": "MangaFire",
-                "title": "Monthly in the Garden with My Landlord",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maitsuki-niwa-tsuki-ouya-tsuki.z10o3/"
-            }
-        },
         "MangaSee": {
             "monthly-in-the-garden-with-my-landlord": {
+                "id": 175053,
                 "identifier": "monthly-in-the-garden-with-my-landlord",
                 "image": "https://temp.compsci88.com/cover/Monthly-in-the-Garden-with-My-Landlord.jpg",
                 "malId": 139138,
@@ -56,8 +47,9 @@
         },
         "MangaFox": {
             "maitsuki_niwa_tsuki_ooya_tsuki": {
+                "id": 192877,
                 "identifier": "maitsuki_niwa_tsuki_ooya_tsuki",
-                "image": "https://fmcdn.mfcdn.net/store/manga/45868/cover.jpg",
+                "image": "http://fmcdn.mfcdn.net/store/manga/45868/cover.jpg",
                 "malId": 139138,
                 "aniId": 136253,
                 "page": "MangaFox",
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygn48nks5rw32k24wa6z": {
+                "id": 212776,
                 "identifier": "01j76xygn48nks5rw32k24wa6z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGN48NKS5RW32K24WA6Z.jpg",
                 "malId": 139138,
@@ -76,6 +69,19 @@
                 "title": "Monthly in the Garden With My Landlord",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGN48NKS5RW32K24WA6Z"
+            }
+        },
+        "MangaFire": {
+            "z10o3": {
+                "id": 255360,
+                "identifier": "z10o3",
+                "image": "https://static.mangafire.to/80aa/i/b/b6/b6bb96860765d68776b6e56e028f620b.jpg",
+                "malId": 139138,
+                "aniId": 136253,
+                "page": "MangaFire",
+                "title": "Monthly in the Garden with My Landlord",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maitsuki-niwa-tsuki-ouya-tsukii.z10o3"
             }
         },
         "Comick": {

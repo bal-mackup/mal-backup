@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f89d44b5-69df-4f17-8d68-c56a0bf125c6": {
+                "id": 91051,
                 "identifier": "f89d44b5-69df-4f17-8d68-c56a0bf125c6",
                 "image": "https://uploads.mangadex.org/covers/f89d44b5-69df-4f17-8d68-c56a0bf125c6/069ee57c-d88b-4773-9dfb-6c9b63d78f57.jpg",
                 "malId": 156743,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/f89d44b5-69df-4f17-8d68-c56a0bf125c6"
             },
             "d2d22b38-4b3f-4ffb-9387-d18f870d5a91": {
+                "id": 178165,
                 "identifier": "d2d22b38-4b3f-4ffb-9387-d18f870d5a91",
                 "image": "https://uploads.mangadex.org/covers/d2d22b38-4b3f-4ffb-9387-d18f870d5a91/974eb006-62c4-47b1-b3e2-ea2d09bbacd7.jpg",
                 "malId": 156743,
@@ -28,40 +30,9 @@
                 "url": "https://mangadex.org/title/d2d22b38-4b3f-4ffb-9387-d18f870d5a91"
             }
         },
-        "MangaFire": {
-            "nee-chan-no-tomodachi-ga-uzai-banashi.xrxnw": {
-                "identifier": "nee-chan-no-tomodachi-ga-uzai-banashi.xrxnw",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6b/6b4844a9987c8fdda714ff1a2176eb44.jpg",
-                "malId": 156743,
-                "aniId": 145203,
-                "page": "MangaFire",
-                "title": "The Story of my Sister's annoying friend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nee-chan-no-tomodachi-ga-uzai-banashi.xrxnw/"
-            },
-            "nee-chan-no-tomodachi-ga-uzai-hanashi.npm1j": {
-                "identifier": "nee-chan-no-tomodachi-ga-uzai-hanashi.npm1j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/352ee52feed693bc4413f2d08abb4242.jpg",
-                "malId": 156743,
-                "aniId": 145203,
-                "page": "MangaFire",
-                "title": "Nee-chan no Tomodachi ga Uzai Hanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nee-chan-no-tomodachi-ga-uzai-hanashi.npm1j/"
-            },
-            "nee-chan-no-tomodachi-ga-uzai-hanashii.npm1j": {
-                "identifier": "nee-chan-no-tomodachi-ga-uzai-hanashii.npm1j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/352ee52feed693bc4413f2d08abb4242.jpg",
-                "malId": 156743,
-                "aniId": 145203,
-                "page": "MangaFire",
-                "title": "Nee-chan no Tomodachi ga Uzai Hanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nee-chan-no-tomodachi-ga-uzai-hanashii.npm1j/"
-            }
-        },
         "MangaFox": {
             "nee_chan_no_tomodachi_ga_uzai_banashi": {
+                "id": 176827,
                 "identifier": "nee_chan_no_tomodachi_ga_uzai_banashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40060/cover.jpg",
                 "malId": 156743,
@@ -74,6 +45,7 @@
         },
         "MangaNato": {
             "manga-wv1000104": {
+                "id": 180446,
                 "identifier": "manga-wv1000104",
                 "image": "https://avt.mkklcdnv6temp.com/fld/56/h/16-1733317134-nw.webp",
                 "malId": 156743,
@@ -82,6 +54,19 @@
                 "title": "Nee-Chan No Tomodachi Ga Uzai-Banashi",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-wv1000104"
+            }
+        },
+        "MangaFire": {
+            "npm1j": {
+                "id": 232528,
+                "identifier": "npm1j",
+                "image": "https://static.mangafire.to/ffad/i/3/35/352ee52feed693bc4413f2d08abb4242.jpg",
+                "malId": 156743,
+                "aniId": 145203,
+                "page": "MangaFire",
+                "title": "Nee-chan no Tomodachi ga Uzai Hanashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nee-chan-no-tomodachi-ga-uzai-hanashii.npm1j"
             }
         },
         "Comick": {

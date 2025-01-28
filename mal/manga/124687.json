@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "283f87ea-d708-4d47-9301-b487fe49b678": {
+                "id": 32800,
                 "identifier": "283f87ea-d708-4d47-9301-b487fe49b678",
                 "image": "https://uploads.mangadex.org/covers/283f87ea-d708-4d47-9301-b487fe49b678/53b751c6-cdf6-46e3-a928-3a7404e77e3b.jpg",
                 "malId": 124687,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ore_wa_lolicon_ja_nai": {
+                "id": 66712,
                 "identifier": "ore_wa_lolicon_ja_nai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32576/cover.jpg",
                 "malId": 124687,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gs984301": {
+                "id": 74559,
                 "identifier": "manga-gs984301",
                 "image": "https://avt.mkklcdnv6temp.com/21/b/20-1583501830.jpg",
                 "malId": 124687,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-gs984301"
             },
             "manga-hj984666": {
+                "id": 78833,
                 "identifier": "manga-hj984666",
                 "image": "https://avt.mkklcdnv6temp.com/34/u/20-1583502371.jpg",
                 "malId": 124687,
@@ -52,30 +56,9 @@
                 "url": "https://manganato.com/manga-hj984666"
             }
         },
-        "MangaFire": {
-            "ore-wa-lolicon-ja-nai.m2jmx": {
-                "identifier": "ore-wa-lolicon-ja-nai.m2jmx",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9e34f826b42e448558f4d2031892e24c.jpg",
-                "malId": 124687,
-                "aniId": 115209,
-                "page": "MangaFire",
-                "title": "I'm Not a Lolita Complex!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-wa-lolicon-ja-nai.m2jmx/"
-            },
-            "ore-wa-lolicon-ja-naii.m2jmx": {
-                "identifier": "ore-wa-lolicon-ja-naii.m2jmx",
-                "image": "https://static.mangafire.to/24d6/i/9/9e/9e34f826b42e448558f4d2031892e24c.jpg",
-                "malId": 124687,
-                "aniId": 115209,
-                "page": "MangaFire",
-                "title": "I'm Not a Lolita Complex!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-wa-lolicon-ja-naii.m2jmx/"
-            }
-        },
         "MangaSee": {
             "ore-wa-lolicon-ja-nai": {
+                "id": 156755,
                 "identifier": "ore-wa-lolicon-ja-nai",
                 "image": "https://temp.compsci88.com/cover/Ore-wa-Lolicon-ja-nai.jpg",
                 "malId": 124687,
@@ -88,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xyg46eq47ed1nhpdyrtrg": {
+                "id": 208836,
                 "identifier": "01j76xyg46eq47ed1nhpdyrtrg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG46EQ47ED1NHPDYRTRG.jpg",
                 "malId": 124687,
@@ -96,6 +80,19 @@
                 "title": "Ore wa Lolicon ja nai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG46EQ47ED1NHPDYRTRG"
+            }
+        },
+        "MangaFire": {
+            "m2jmx": {
+                "id": 223125,
+                "identifier": "m2jmx",
+                "image": "https://static.mangafire.to/24d6/i/9/9e/9e34f826b42e448558f4d2031892e24c.jpg",
+                "malId": 124687,
+                "aniId": 115209,
+                "page": "MangaFire",
+                "title": "I'm Not a Lolita Complex!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-wa-lolicon-ja-naii.m2jmx"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-world-of-summoning": {
+                "id": 96883,
                 "identifier": "the-world-of-summoning",
                 "image": "https://temp.compsci88.com/cover/The-World-of-Summoning.jpg",
                 "malId": 143259,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "8a500297-2b16-460a-b357-7920ef1ba3cd": {
+                "id": 104241,
                 "identifier": "8a500297-2b16-460a-b357-7920ef1ba3cd",
                 "image": "https://uploads.mangadex.org/covers/8a500297-2b16-460a-b357-7920ef1ba3cd/4dbba231-4bd4-466d-9e98-484b674b2f0b.jpg",
                 "malId": 143259,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shoukan_suru_sekai": {
+                "id": 116475,
                 "identifier": "shoukan_suru_sekai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42132/cover.jpg",
                 "malId": 143259,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/shoukan_suru_sekai/"
             }
         },
-        "MangaFire": {
-            "shoukan-suru-sekai.yq7qz": {
-                "identifier": "shoukan-suru-sekai.yq7qz",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d816d4d806b686fcbb19b12cfec6461.jpg",
-                "malId": 143259,
-                "aniId": 144670,
-                "page": "MangaFire",
-                "title": "The World of Summoning",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shoukan-suru-sekai.yq7qz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfbw713n4edat47ssd5a": {
+                "id": 209911,
                 "identifier": "01j76xyfbw713n4edat47ssd5a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFBW713N4EDAT47SSD5A.jpg",
                 "malId": 143259,
@@ -64,6 +56,19 @@
                 "title": "The World of Summoning",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFBW713N4EDAT47SSD5A"
+            }
+        },
+        "MangaFire": {
+            "yq7qz": {
+                "id": 234361,
+                "identifier": "yq7qz",
+                "image": "https://static.mangafire.to/6463/i/7/7d/7d816d4d806b686fcbb19b12cfec6461.jpg",
+                "malId": 143259,
+                "aniId": 144670,
+                "page": "MangaFire",
+                "title": "The World of Summoning",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shoukan-suru-sekaii.yq7qz"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2622e747-9a58-4a34-b8b9-f3c683ae70eb": {
+                "id": 11476,
                 "identifier": "2622e747-9a58-4a34-b8b9-f3c683ae70eb",
                 "image": "https://uploads.mangadex.org/covers/2622e747-9a58-4a34-b8b9-f3c683ae70eb/32ff1a85-0f37-465d-98ee-a37b46fc1717.jpg",
                 "malId": 67315,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/2622e747-9a58-4a34-b8b9-f3c683ae70eb"
             }
         },
-        "MangaFire": {
-            "shiroi-majo.299vl": {
-                "identifier": "shiroi-majo.299vl",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/01b1f13629d3737bcc8818ad1367e048.jpg",
-                "malId": 67315,
-                "aniId": 90611,
-                "page": "MangaFire",
-                "title": "The White Witch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shiroi-majo.299vl/"
-            }
-        },
         "MangaFox": {
             "shiroi_majo": {
+                "id": 169014,
                 "identifier": "shiroi_majo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15179/cover.jpg",
                 "malId": 67315,
@@ -40,6 +30,19 @@
                 "title": "Shiroi Majo",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/shiroi_majo/"
+            }
+        },
+        "MangaFire": {
+            "299vl": {
+                "id": 244931,
+                "identifier": "299vl",
+                "image": "https://static.mangafire.to/9a08/i/0/01/01b1f13629d3737bcc8818ad1367e048.jpg",
+                "malId": 67315,
+                "aniId": 90611,
+                "page": "MangaFire",
+                "title": "The White Witch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shiroi-majoo.299vl"
             }
         },
         "Comick": {

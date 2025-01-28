@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b62659e0-fb91-4cf1-a62f-c4e058f9917a": {
+                "id": 15006,
                 "identifier": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
                 "image": "https://uploads.mangadex.org/covers/b62659e0-fb91-4cf1-a62f-c4e058f9917a/5d3a0aa3-8c56-452e-850e-dc8f17a68935.png",
                 "malId": 62673,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/b62659e0-fb91-4cf1-a62f-c4e058f9917a"
             }
         },
-        "MangaFire": {
-            "mahou-shoujo-suzunemagica.yq600": {
-                "identifier": "mahou-shoujo-suzunemagica.yq600",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/edcd028dc9e56ed9858eee302930b0e3.jpg",
-                "malId": 62673,
-                "aniId": 86388,
-                "page": "MangaFire",
-                "title": "Puella Magi Suzune Magica",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-suzunemagica.yq600/"
-            },
-            "yq600": {
-                "identifier": "yq600",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/edcd028dc9e56ed9858eee302930b0e3.jpg",
-                "malId": 62673,
-                "aniId": 86388,
-                "page": "MangaFire",
-                "title": "Puella Magi Suzune Magica",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mahou-shoujo-suzunemagica.yq600/"
-            }
-        },
         "MangaSee": {
             "puella-magi-suzune-magica": {
+                "id": 196535,
                 "identifier": "puella-magi-suzune-magica",
                 "image": "https://temp.compsci88.com/cover/Puella-Magi-Suzune-Magica.jpg",
                 "malId": 62673,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhgzzq6b8j9yffkp8me2": {
+                "id": 212086,
                 "identifier": "01j76xyhgzzq6b8j9yffkp8me2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHGZZQ6B8J9YFFKP8ME2.jpg",
                 "malId": 62673,
@@ -62,6 +43,19 @@
                 "title": "Puella Magi Suzune Magica",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHGZZQ6B8J9YFFKP8ME2"
+            }
+        },
+        "MangaFire": {
+            "yq600": {
+                "id": 254685,
+                "identifier": "yq600",
+                "image": "https://static.mangafire.to/cec1/i/e/ed/edcd028dc9e56ed9858eee302930b0e3.jpg",
+                "malId": 62673,
+                "aniId": 86388,
+                "page": "MangaFire",
+                "title": "Puella Magi Suzune Magica",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mahou-shoujo-suzunemagicaa.yq600"
             }
         },
         "Comick": {

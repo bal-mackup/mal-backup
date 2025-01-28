@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "8b8c1916-82f2-4638-b0a8-1d6e1397c8de": {
+                "id": 196607,
                 "identifier": "8b8c1916-82f2-4638-b0a8-1d6e1397c8de",
                 "image": "https://uploads.mangadex.org/covers/8b8c1916-82f2-4638-b0a8-1d6e1397c8de/8b6dde5a-4fe2-4313-af8e-122aa651ed36.jpg",
                 "malId": 173829,
-                "aniId": null,
+                "aniId": 181925,
                 "page": "Mangadex",
                 "title": "COCOON",
                 "type": "manga",
@@ -25,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "COCOON",
-                "url": "https://comick.io/comic/cocoon"
+                "url": "https://comick.io/comic/cocoon",
+                "aniId": 181925
             }
         }
-    }
+    },
+    "aniId": 181925
 }

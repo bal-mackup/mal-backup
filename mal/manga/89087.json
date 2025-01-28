@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "65263bf9-4f87-4513-b72f-ad6436b3911c": {
+                "id": 14350,
                 "identifier": "65263bf9-4f87-4513-b72f-ad6436b3911c",
                 "image": "https://uploads.mangadex.org/covers/65263bf9-4f87-4513-b72f-ad6436b3911c/b7f78e11-c910-48bb-a842-798e04f0f92f.jpg",
                 "malId": 89087,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "its-difficult-to-love-an-otaku": {
+                "id": 54712,
                 "identifier": "its-difficult-to-love-an-otaku",
                 "image": "https://temp.compsci88.com/cover/Its-Difficult-To-Love-An-Otaku.jpg",
                 "malId": 89087,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "wotaku_ni_koi_wa_muzukashii": {
+                "id": 55275,
                 "identifier": "wotaku_ni_koi_wa_muzukashii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17563/cover.jpg",
                 "malId": 89087,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mm952647": {
+                "id": 74671,
                 "identifier": "manga-mm952647",
                 "image": "https://avt.mkklcdnv6temp.com/46/u/1-1583465548.jpg",
                 "malId": 89087,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-mm952647"
             }
         },
-        "MangaFire": {
-            "wotaku-ni-koi-wa-muzukashii.lrvz": {
-                "identifier": "wotaku-ni-koi-wa-muzukashii.lrvz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/639ac077c6ae857dbe999e6ee3493c48.jpg",
-                "malId": 89087,
-                "aniId": 86717,
-                "page": "MangaFire",
-                "title": "Wotakoi: Love is Hard for Otaku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wotaku-ni-koi-wa-muzukashii.lrvz/"
-            },
-            "otaku-ni-koi-wa-muzukashiii.lrvz": {
-                "identifier": "otaku-ni-koi-wa-muzukashiii.lrvz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/639ac077c6ae857dbe999e6ee3493c48.jpg",
-                "malId": 89087,
-                "aniId": 86717,
-                "page": "MangaFire",
-                "title": "Wotakoi: Love is Hard for Otaku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otaku-ni-koi-wa-muzukashiii.lrvz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybh76k1k39jbqqwdax32": {
+                "id": 212107,
                 "identifier": "01j76xybh76k1k39jbqqwdax32",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBH76K1K39JBQQWDAX32.jpg",
                 "malId": 89087,
@@ -86,6 +69,19 @@
                 "title": "Wotakoi - Love Is Hard for Otaku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBH76K1K39JBQQWDAX32"
+            }
+        },
+        "MangaFire": {
+            "lrvz": {
+                "id": 227550,
+                "identifier": "lrvz",
+                "image": "https://static.mangafire.to/6452/i/6/63/639ac077c6ae857dbe999e6ee3493c48.jpg",
+                "malId": 89087,
+                "aniId": 86717,
+                "page": "MangaFire",
+                "title": "Wotakoi: Love is Hard for Otaku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otaku-ni-koi-wa-muzukashiii.lrvz"
             }
         },
         "Comick": {

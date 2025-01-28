@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9496f98c-78b9-46d0-a092-d4ccc6759cc9": {
+                "id": 37575,
                 "identifier": "9496f98c-78b9-46d0-a092-d4ccc6759cc9",
                 "image": "https://uploads.mangadex.org/covers/9496f98c-78b9-46d0-a092-d4ccc6759cc9/f4f12a19-6b86-462b-b140-74a5f7df1962.jpg",
                 "malId": 130641,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jb987284": {
+                "id": 81819,
                 "identifier": "manga-jb987284",
                 "image": "https://avt.mkklcdnv6temp.com/41/k/22-1606536421.jpg",
                 "malId": 130641,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "otonari_ni_ginga": {
+                "id": 83276,
                 "identifier": "otonari_ni_ginga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36663/cover.jpg",
                 "malId": 130641,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "a-galaxy-next-door": {
+                "id": 106786,
                 "identifier": "a-galaxy-next-door",
                 "image": "https://temp.compsci88.com/cover/A-Galaxy-Next-Door.jpg",
                 "malId": 130641,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/A-Galaxy-Next-Door"
             }
         },
-        "MangaFire": {
-            "a-galaxy-next-door.m2q9x": {
-                "identifier": "a-galaxy-next-door.m2q9x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/556eaa228072c2e022db1f6a674ebfea.jpg",
-                "malId": 130641,
-                "aniId": 116411,
-                "page": "MangaFire",
-                "title": "A Galaxy Next Door",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-galaxy-next-door.m2q9x/"
-            },
-            "a-galaxy-next-doorr.m2q9x": {
-                "identifier": "a-galaxy-next-doorr.m2q9x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/556eaa228072c2e022db1f6a674ebfea.jpg",
-                "malId": 130641,
-                "aniId": 116411,
-                "page": "MangaFire",
-                "title": "A Galaxy Next Door",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-galaxy-next-doorr.m2q9x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyffned7wzcs6t05mec7c": {
+                "id": 207242,
                 "identifier": "01j76xyffned7wzcs6t05mec7c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFFNED7WZCS6T05MEC7C.jpg",
                 "malId": 130641,
@@ -86,6 +69,19 @@
                 "title": "A Galaxy Next Door",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFFNED7WZCS6T05MEC7C"
+            }
+        },
+        "MangaFire": {
+            "m2q9x": {
+                "id": 238869,
+                "identifier": "m2q9x",
+                "image": "https://static.mangafire.to/4592/i/5/55/556eaa228072c2e022db1f6a674ebfea.jpg",
+                "malId": 130641,
+                "aniId": 116411,
+                "page": "MangaFire",
+                "title": "A Galaxy Next Door",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-galaxy-next-doorr.m2q9x"
             }
         },
         "Comick": {

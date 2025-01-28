@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "44f84cc1-819c-47a6-a59f-43d016f72b43": {
+                "id": 22858,
                 "identifier": "44f84cc1-819c-47a6-a59f-43d016f72b43",
                 "image": "https://uploads.mangadex.org/covers/44f84cc1-819c-47a6-a59f-43d016f72b43/73312f00-92d7-4d4c-b6a5-79e1b64c113e.jpg",
                 "malId": 134230,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "versatile_mage": {
+                "id": 54324,
                 "identifier": "versatile_mage",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27761/cover.jpg",
                 "malId": 134230,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "versatile-mage": {
+                "id": 69275,
                 "identifier": "versatile-mage",
                 "image": "https://temp.compsci88.com/cover/Versatile-Mage.jpg",
                 "malId": 134230,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bf979214": {
+                "id": 72804,
                 "identifier": "manga-bf979214",
                 "image": "https://avt.mkklcdnv6temp.com/33/a/16-1583494657.jpg",
                 "malId": 134230,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bf979214"
             }
         },
-        "MangaFire": {
-            "quanzhi-fashi.ojp8j": {
-                "identifier": "quanzhi-fashi.ojp8j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/ab0673d0200c351202360fc1d4cd0108.jpg",
-                "malId": 134230,
-                "aniId": 108984,
-                "page": "MangaFire",
-                "title": "Versatile Mage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/quanzhi-fashi.ojp8j/"
-            },
-            "quanzhi-fashii.ojp8j": {
-                "identifier": "quanzhi-fashii.ojp8j",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ab/ab0673d0200c351202360fc1d4cd0108.jpg",
-                "malId": 134230,
-                "aniId": 108984,
-                "page": "MangaFire",
-                "title": "Versatile Mage",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/quanzhi-fashii.ojp8j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyemtvde6zycb6wh21yfb": {
+                "id": 211163,
                 "identifier": "01j76xyemtvde6zycb6wh21yfb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEMTVDE6ZYCB6WH21YFB.jpg",
                 "malId": 134230,
@@ -86,6 +69,19 @@
                 "title": "Versatile Mage",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEMTVDE6ZYCB6WH21YFB"
+            }
+        },
+        "MangaFire": {
+            "ojp8j": {
+                "id": 228266,
+                "identifier": "ojp8j",
+                "image": "https://static.mangafire.to/f036/i/a/ab/ab0673d0200c351202360fc1d4cd0108.jpg",
+                "malId": 134230,
+                "aniId": 108984,
+                "page": "MangaFire",
+                "title": "Versatile Mage",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/quanzhi-fashii.ojp8j"
             }
         },
         "Comick": {

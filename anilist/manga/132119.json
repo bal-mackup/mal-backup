@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5d6474ca-d337-49c9-b42f-48c172a43602": {
+                "id": 37506,
                 "identifier": "5d6474ca-d337-49c9-b42f-48c172a43602",
                 "image": "https://uploads.mangadex.org/covers/5d6474ca-d337-49c9-b42f-48c172a43602/f5f6cb12-c607-4041-9628-fd84cabdd295.jpg",
                 "malId": 148223,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jg986463": {
+                "id": 82893,
                 "identifier": "manga-jg986463",
                 "image": "https://avt.mkklcdnv6temp.com/7/y/22-1599066851.jpg",
                 "malId": 148223,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-blood-of-the-butterfly": {
+                "id": 87140,
                 "identifier": "the-blood-of-the-butterfly",
                 "image": "https://temp.compsci88.com/cover/The-Blood-of-the-Butterfly.jpg",
                 "malId": 148223,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Blood-of-the-Butterfly"
             }
         },
-        "MangaFire": {
-            "the-blood-of-the-butterfly.1rjvv": {
-                "identifier": "the-blood-of-the-butterfly.1rjvv",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/78161d8f4dd4a6454022b2a2510c63a1.jpg",
-                "malId": 148223,
-                "aniId": 132119,
-                "page": "MangaFire",
-                "title": "The Blood of the Butterfly",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blood-of-the-butterfly.1rjvv/"
-            },
-            "the-blood-of-the-butterflyy.1rjvv": {
-                "identifier": "the-blood-of-the-butterflyy.1rjvv",
-                "image": "https://static.mangafire.to/3b2d5/i/7/78/78161d8f4dd4a6454022b2a2510c63a1.jpg",
-                "malId": 148223,
-                "aniId": 132119,
-                "page": "MangaFire",
-                "title": "The Blood of the Butterfly",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-blood-of-the-butterflyy.1rjvv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf1jr2dc3f9j4qb0wkvx": {
+                "id": 209399,
                 "identifier": "01j76xyf1jr2dc3f9j4qb0wkvx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF1JR2DC3F9J4QB0WKVX.jpg",
                 "malId": 148223,
@@ -74,6 +56,19 @@
                 "title": "The Blood of the Butterfly",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF1JR2DC3F9J4QB0WKVX"
+            }
+        },
+        "MangaFire": {
+            "1rjvv": {
+                "id": 225454,
+                "identifier": "1rjvv",
+                "image": "https://static.mangafire.to/24cf/i/7/78/78161d8f4dd4a6454022b2a2510c63a1.jpg",
+                "malId": 148223,
+                "aniId": 132119,
+                "page": "MangaFire",
+                "title": "The Blood of the Butterfly",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-blood-of-the-butterflyy.1rjvv"
             }
         }
     },

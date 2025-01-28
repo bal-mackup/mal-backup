@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4a433d6b-f51a-4c2f-a183-85419fe98efc": {
+                "id": 39198,
                 "identifier": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
                 "image": "https://uploads.mangadex.org/covers/4a433d6b-f51a-4c2f-a183-85419fe98efc/d6ea3b81-bac6-4d2b-8a79-907552fc4557.jpg",
                 "malId": 129621,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "medalist": {
+                "id": 60730,
                 "identifier": "medalist",
                 "image": "https://temp.compsci88.com/cover/Medalist.jpg",
                 "malId": 129621,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "medarisuto": {
+                "id": 69787,
                 "identifier": "medarisuto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35440/cover.jpg",
                 "malId": 129621,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jz986908": {
+                "id": 78244,
                 "identifier": "manga-jz986908",
                 "image": "https://avt.mkklcdnv6temp.com/25/y/22-1601973796.jpg",
                 "malId": 129621,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jz986908"
             }
         },
-        "MangaFire": {
-            "medalist.521pv": {
-                "identifier": "medalist.521pv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b257ee0f13b75d3058bfaf276325bf0.jpg",
-                "malId": 129621,
-                "aniId": 118371,
-                "page": "MangaFire",
-                "title": "Medalist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/medalist.521pv/"
-            },
-            "medalistt.521pv": {
-                "identifier": "medalistt.521pv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4b/4b257ee0f13b75d3058bfaf276325bf0.jpg",
-                "malId": 129621,
-                "aniId": 118371,
-                "page": "MangaFire",
-                "title": "Medalist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/medalistt.521pv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeb4bnmxcr7tp6yy0vn0": {
+                "id": 208055,
                 "identifier": "01j76xyeb4bnmxcr7tp6yy0vn0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEB4BNMXCR7TP6YY0VN0.jpg",
                 "malId": 129621,
@@ -86,6 +69,19 @@
                 "title": "Medalist",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEB4BNMXCR7TP6YY0VN0"
+            }
+        },
+        "MangaFire": {
+            "521pv": {
+                "id": 226115,
+                "identifier": "521pv",
+                "image": "https://static.mangafire.to/87cf/i/4/4b/4b257ee0f13b75d3058bfaf276325bf0.jpg",
+                "malId": 129621,
+                "aniId": 118371,
+                "page": "MangaFire",
+                "title": "Medalist",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/medalistt.521pv"
             }
         },
         "Comick": {

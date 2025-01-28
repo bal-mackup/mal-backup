@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aaf22f74-1244-4125-8e2e-382245819cfc": {
+                "id": 23146,
                 "identifier": "aaf22f74-1244-4125-8e2e-382245819cfc",
                 "image": "https://uploads.mangadex.org/covers/aaf22f74-1244-4125-8e2e-382245819cfc/17503b50-8f73-4cae-90dd-3dbc3fa8e3a5.jpg",
                 "malId": 131799,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "romance-101": {
+                "id": 67906,
                 "identifier": "romance-101",
                 "image": "https://temp.compsci88.com/cover/Romance-101.jpg",
                 "malId": 131799,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cq979873": {
+                "id": 83968,
                 "identifier": "manga-cq979873",
                 "image": "https://avt.mkklcdnv6temp.com/7/v/17-1583495544.jpg",
                 "malId": 131799,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-cq979873"
             }
         },
-        "MangaFire": {
-            "a-guide-to-proper-dating.zlzrl": {
-                "identifier": "a-guide-to-proper-dating.zlzrl",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/ed50c1e14f1d877eba1f45e371f74191.jpg",
-                "malId": 131799,
-                "aniId": 104533,
-                "page": "MangaFire",
-                "title": "Romance 101",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-guide-to-proper-dating.zlzrl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyehmmxqhgvakgpwf28rm": {
+                "id": 208284,
                 "identifier": "01j76xyehmmxqhgvakgpwf28rm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEHMMXQHGVAKGPWF28RM.jpg",
                 "malId": 131799,
@@ -64,6 +56,19 @@
                 "title": "Romance 101",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEHMMXQHGVAKGPWF28RM"
+            }
+        },
+        "MangaFire": {
+            "zlzrl": {
+                "id": 249649,
+                "identifier": "zlzrl",
+                "image": "https://static.mangafire.to/a7ed/i/e/ed/ed50c1e14f1d877eba1f45e371f74191.jpg",
+                "malId": 131799,
+                "aniId": 104533,
+                "page": "MangaFire",
+                "title": "Romance 101",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-guide-to-proper-datingg.zlzrl"
             }
         },
         "Comick": {

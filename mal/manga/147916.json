@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "781032ee-4bbc-4f08-9464-903821acac7a": {
+                "id": 50227,
                 "identifier": "781032ee-4bbc-4f08-9464-903821acac7a",
                 "image": "https://uploads.mangadex.org/covers/781032ee-4bbc-4f08-9464-903821acac7a/b84c79ec-6ba9-4c40-a946-0b0866c939e7.jpg",
                 "malId": 147916,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "max-level-returner": {
+                "id": 54447,
                 "identifier": "max-level-returner",
                 "image": "https://temp.compsci88.com/cover/Max-Level-Returner.jpg",
                 "malId": 147916,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "max_level_returner": {
+                "id": 56701,
                 "identifier": "max_level_returner",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36193/cover.jpg",
                 "malId": 147916,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/max_level_returner/"
             },
             "the_max_level_returner_delete": {
+                "id": 100324,
                 "identifier": "the_max_level_returner_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38821/cover.jpg",
                 "malId": 147916,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-jy987133": {
+                "id": 73226,
                 "identifier": "manga-jy987133",
                 "image": "https://avt.mkklcdnv6temp.com/35/a/22-1604634594.jpg",
                 "malId": 147916,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-jy987133"
             }
         },
-        "MangaFire": {
-            "max-level-returner.n3xkj": {
-                "identifier": "max-level-returner.n3xkj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16c9da9cab4b24249054667f0df7108c.jpg",
-                "malId": 147916,
-                "aniId": 125377,
-                "page": "MangaFire",
-                "title": "The Max Level Returner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/max-level-returner.n3xkj/"
-            },
-            "max-level-returnerr.n3xkj": {
-                "identifier": "max-level-returnerr.n3xkj",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16c9da9cab4b24249054667f0df7108c.jpg",
-                "malId": 147916,
-                "aniId": 125377,
-                "page": "MangaFire",
-                "title": "The Max Level Returner",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/max-level-returnerr.n3xkj/"
-            }
-        },
         "Weebcentral": {
             "01j76xye2071tmq2zmqq3syn65": {
+                "id": 211813,
                 "identifier": "01j76xye2071tmq2zmqq3syn65",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE2071TMQ2ZMQQ3SYN65.jpg",
                 "malId": 147916,
@@ -96,6 +80,19 @@
                 "title": "The Max Level Returner",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE2071TMQ2ZMQQ3SYN65"
+            }
+        },
+        "MangaFire": {
+            "n3xkj": {
+                "id": 244617,
+                "identifier": "n3xkj",
+                "image": "https://static.mangafire.to/c2b2/i/1/16/16c9da9cab4b24249054667f0df7108c.jpg",
+                "malId": 147916,
+                "aniId": 125377,
+                "page": "MangaFire",
+                "title": "The Max Level Returner",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/max-level-returnerr.n3xkj"
             }
         },
         "Comick": {

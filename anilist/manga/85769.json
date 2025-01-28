@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c610d3d8-3a65-4654-b1a5-d90437d356f3": {
+                "id": 19201,
                 "identifier": "c610d3d8-3a65-4654-b1a5-d90437d356f3",
                 "image": "https://uploads.mangadex.org/covers/c610d3d8-3a65-4654-b1a5-d90437d356f3/498fdc7b-8252-453e-9fe1-3040b7364479.jpg",
                 "malId": 70527,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eyami-no-kami": {
+                "id": 90687,
                 "identifier": "eyami-no-kami",
                 "image": "https://temp.compsci88.com/cover/Eyami-No-Kami.jpg",
                 "malId": 70527,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kk962019": {
+                "id": 118806,
                 "identifier": "manga-kk962019",
                 "image": "https://avt.mkklcdnv6temp.com/fld/56/y/4-1732762758-nw.webp",
                 "malId": 70527,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-kk962019"
             }
         },
-        "MangaFire": {
-            "eyami-no-kami.2949q": {
-                "identifier": "eyami-no-kami.2949q",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5ca904461b6f3bd1e5d217e8c8e9079.jpg",
-                "malId": 70527,
-                "aniId": 85769,
-                "page": "MangaFire",
-                "title": "Eyaminokami - The Plague Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eyami-no-kami.2949q/"
-            },
-            "2949q": {
-                "identifier": "2949q",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5ca904461b6f3bd1e5d217e8c8e9079.jpg",
-                "malId": 70527,
-                "aniId": 85769,
-                "page": "MangaFire",
-                "title": "Eyaminokami - The Plague Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eyami-no-kami.2949q/"
-            }
-        },
         "Weebcentral": {
             "01j76xyamyrs30yqjsx06dh7hv": {
+                "id": 208206,
                 "identifier": "01j76xyamyrs30yqjsx06dh7hv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAMYRS30YQJSX06DH7HV.jpg",
                 "malId": 70527,
@@ -74,6 +56,19 @@
                 "title": "Eyami no Kami",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAMYRS30YQJSX06DH7HV"
+            }
+        },
+        "MangaFire": {
+            "2949q": {
+                "id": 245194,
+                "identifier": "2949q",
+                "image": "https://static.mangafire.to/c7bd/i/d/d5/d5ca904461b6f3bd1e5d217e8c8e9079.jpg",
+                "malId": 70527,
+                "aniId": 85769,
+                "page": "MangaFire",
+                "title": "Eyaminokami - The Plague Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eyami-no-kamii.2949q"
             }
         },
         "Comick": {

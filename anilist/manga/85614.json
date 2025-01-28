@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "074b0e5d-d67b-400d-98bb-27e70f259416": {
+                "id": 9256,
                 "identifier": "074b0e5d-d67b-400d-98bb-27e70f259416",
                 "image": "https://uploads.mangadex.org/covers/074b0e5d-d67b-400d-98bb-27e70f259416/c9f34732-e0e2-4f9e-b851-5b85632248cd.jpg",
                 "malId": 73435,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cherry-boy-that-girl": {
+                "id": 70853,
                 "identifier": "cherry-boy-that-girl",
                 "image": "https://temp.compsci88.com/cover/Cherry-Boy-That-Girl.jpg",
                 "malId": 73435,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bx951632": {
+                "id": 88873,
                 "identifier": "manga-bx951632",
                 "image": "https://avt.mkklcdnv6temp.com/fld/14/g/1-1732716935-nw.webp",
                 "malId": 73435,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "cherry_boy_that_girl": {
+                "id": 92891,
                 "identifier": "cherry_boy_that_girl",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13207/cover.jpg",
                 "malId": 73435,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/cherry_boy_that_girl/"
             }
         },
-        "MangaFire": {
-            "cherry-boy-that-girl.q013": {
-                "identifier": "cherry-boy-that-girl.q013",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a1966fd11060382a3f482a3c30245b32.jpg",
-                "malId": 73435,
-                "aniId": 85614,
-                "page": "MangaFire",
-                "title": "Cherry Boy, That Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cherry-boy-that-girl.q013/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9j7k0zpknexd69az6qk": {
+                "id": 212501,
                 "identifier": "01j76xy9j7k0zpknexd69az6qk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9J7K0ZPKNEXD69AZ6QK.jpg",
                 "malId": 73435,
@@ -76,6 +69,19 @@
                 "title": "Cherry Boy, That Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9J7K0ZPKNEXD69AZ6QK"
+            }
+        },
+        "MangaFire": {
+            "q013": {
+                "id": 247378,
+                "identifier": "q013",
+                "image": "https://static.mangafire.to/ca33/i/a/a1/a1966fd11060382a3f482a3c30245b32.jpg",
+                "malId": 73435,
+                "aniId": 85614,
+                "page": "MangaFire",
+                "title": "Cherry Boy, That Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cherry-boy-that-girll.q013"
             }
         },
         "Comick": {

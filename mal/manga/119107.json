@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "01765d63-02ae-4080-a3e4-b4e0552ac0d6": {
+                "id": 100408,
                 "identifier": "01765d63-02ae-4080-a3e4-b4e0552ac0d6",
                 "image": "https://uploads.mangadex.org/covers/01765d63-02ae-4080-a3e4-b4e0552ac0d6/e742987c-1e3d-4287-ab6e-d4055417d62d.jpg",
                 "malId": 119107,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pc992885": {
+                "id": 116867,
                 "identifier": "manga-pc992885",
                 "image": "https://avt.mkklcdnv6temp.com/25/l/27-1666790680.jpg",
                 "malId": 119107,
@@ -31,25 +33,29 @@
             }
         },
         "MangaFire": {
-            "deokure-tamer-no-sonohigurashi.50z9": {
-                "identifier": "deokure-tamer-no-sonohigurashi.50z9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/4328dbb43a00bf617e450b674f612ccf.jpg",
-                "malId": 119107,
-                "aniId": 105866,
-                "page": "MangaFire",
-                "title": "Deokure Tamer no Sonohigurashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/deokure-tamer-no-sonohigurashi.50z9/"
-            },
-            "deokure-tamer-no-sonohigurashii.50z9": {
-                "identifier": "deokure-tamer-no-sonohigurashii.50z9",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/4328dbb43a00bf617e450b674f612ccf.jpg",
+            "50z9": {
+                "id": 225029,
+                "identifier": "50z9",
+                "image": "https://static.mangafire.to/2e76/i/4/43/4328dbb43a00bf617e450b674f612ccf.jpg",
                 "malId": 119107,
                 "aniId": 105866,
                 "page": "MangaFire",
                 "title": "A Late-Start Tamer's Laid-Back Life",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/deokure-tamer-no-sonohigurashii.50z9/"
+                "url": "https://mangafire.to/manga/deokure-tamer-no-sonohigurashii.50z9"
+            }
+        },
+        "Weebcentral": {
+            "01jczr8ny6rn55az763k9p48rq": {
+                "id": 267230,
+                "identifier": "01jczr8ny6rn55az763k9p48rq",
+                "image": "https://temp.compsci88.com/cover/fallback/01JCZR8NY6RN55AZ763K9P48RQ.jpg",
+                "malId": 119107,
+                "aniId": 105866,
+                "page": "Weebcentral",
+                "title": "A Late-Start Tamer's Laid-Back Life",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JCZR8NY6RN55AZ763K9P48RQ"
             }
         },
         "Comick": {

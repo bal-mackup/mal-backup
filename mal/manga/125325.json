@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "61b0d21c-b703-4999-910d-ebffc44791bb": {
+                "id": 34003,
                 "identifier": "61b0d21c-b703-4999-910d-ebffc44791bb",
                 "image": "https://uploads.mangadex.org/covers/61b0d21c-b703-4999-910d-ebffc44791bb/1c3221b0-eb43-4f3a-b37a-fd1870806231.jpg",
                 "malId": 125325,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "akuyaku-reijou-tensei-oji-san": {
+                "id": 67559,
                 "identifier": "akuyaku-reijou-tensei-oji-san",
                 "image": "https://temp.compsci88.com/cover/Akuyaku-Reijou-Tensei-Oji-san.jpg",
                 "malId": 125325,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gv983704": {
+                "id": 77210,
                 "identifier": "manga-gv983704",
                 "image": "https://avt.mkklcdnv6temp.com/12/v/32-1697776149.jpg",
                 "malId": 125325,
@@ -42,6 +45,7 @@
                 "url": "https://manganato.com/manga-gv983704"
             },
             "manga-tr997226": {
+                "id": 164106,
                 "identifier": "manga-tr997226",
                 "image": "https://avt.mkklcdnv6temp.com/fld/46/l/15-1733309423-nw.webp",
                 "malId": 125325,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "akuyaku_reijou_tensei_oji_san": {
+                "id": 99773,
                 "identifier": "akuyaku_reijou_tensei_oji_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33240/cover.jpg",
                 "malId": 125325,
@@ -64,6 +69,7 @@
                 "url": "https://fanfox.net/manga/akuyaku_reijou_tensei_oji_san/"
             },
             "middle_aged_man_s_noble_daughter_reincarnation": {
+                "id": 179807,
                 "identifier": "middle_aged_man_s_noble_daughter_reincarnation",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32140/cover.jpg",
                 "malId": 125325,
@@ -74,30 +80,9 @@
                 "url": "https://fanfox.net/manga/middle_aged_man_s_noble_daughter_reincarnation/"
             }
         },
-        "MangaFire": {
-            "akuyaku-reijou-tensei-oji-san.80lo3": {
-                "identifier": "akuyaku-reijou-tensei-oji-san.80lo3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b47c5b3c5859d6122730c154d438f20a.jpg",
-                "malId": 125325,
-                "aniId": 117903,
-                "page": "MangaFire",
-                "title": "Akuyaku Reijou Tensei Oji-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akuyaku-reijou-tensei-oji-san.80lo3/"
-            },
-            "akuyaku-reijou-tensei-oji-sann.80lo3": {
-                "identifier": "akuyaku-reijou-tensei-oji-sann.80lo3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b47c5b3c5859d6122730c154d438f20a.jpg",
-                "malId": 125325,
-                "aniId": 117903,
-                "page": "MangaFire",
-                "title": "Akuyaku Reijou Tensei Oji-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/akuyaku-reijou-tensei-oji-sann.80lo3/"
-            }
-        },
         "Weebcentral": {
             "01j76xydv4hw5a58sy3v7x8cnj": {
+                "id": 213693,
                 "identifier": "01j76xydv4hw5a58sy3v7x8cnj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDV4HW5A58SY3V7X8CNJ.jpg",
                 "malId": 125325,
@@ -106,6 +91,19 @@
                 "title": "From Bureaucrat to Villainess - Dad's Been Reincarnated!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDV4HW5A58SY3V7X8CNJ"
+            }
+        },
+        "MangaFire": {
+            "80lo3": {
+                "id": 226319,
+                "identifier": "80lo3",
+                "image": "https://static.mangafire.to/9d44/i/b/b4/b47c5b3c5859d6122730c154d438f20a.jpg",
+                "malId": 125325,
+                "aniId": 117903,
+                "page": "MangaFire",
+                "title": "Akuyaku Reijou Tensei Oji-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/akuyaku-reijou-tensei-oji-sann.80lo3"
             }
         },
         "Comick": {

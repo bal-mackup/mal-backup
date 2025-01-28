@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "64e28451-122e-48a9-9a60-dc61a50556ce": {
+                "id": 27396,
                 "identifier": "64e28451-122e-48a9-9a60-dc61a50556ce",
                 "image": "https://uploads.mangadex.org/covers/64e28451-122e-48a9-9a60-dc61a50556ce/d2a72209-cb64-439b-bd2b-4348d1fb748c.jpg",
                 "malId": 128677,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gc984185": {
+                "id": 80683,
                 "identifier": "manga-gc984185",
                 "image": "https://avt.mkklcdnv6temp.com/16/q/20-1583501670.jpg",
                 "malId": 128677,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-gc984185"
             }
         },
-        "MangaFire": {
-            "hp-lovecrafts-the-call-of-cthulhu.805ky": {
-                "identifier": "hp-lovecrafts-the-call-of-cthulhu.805ky",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2dc51f3f6223fbf23410bc29e6690fb5.jpg",
-                "malId": 128677,
-                "aniId": 111899,
-                "page": "MangaFire",
-                "title": "H.P. Lovecraft's The Call of Cthulhu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hp-lovecrafts-the-call-of-cthulhu.805ky/"
-            },
-            "hp-lovecrafts-the-call-of-cthulhuu.805ky": {
-                "identifier": "hp-lovecrafts-the-call-of-cthulhuu.805ky",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2dc51f3f6223fbf23410bc29e6690fb5.jpg",
-                "malId": 128677,
-                "aniId": 111899,
-                "page": "MangaFire",
-                "title": "H.P. Lovecraft's The Call of Cthulhu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hp-lovecrafts-the-call-of-cthulhuu.805ky/"
-            }
-        },
         "Weebcentral": {
             "01jbfwc0cce59f6ak8nr841r1n": {
+                "id": 215217,
                 "identifier": "01jbfwc0cce59f6ak8nr841r1n",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBFWC0CCE59F6AK8NR841R1N.jpg",
                 "malId": 128677,
@@ -62,6 +43,19 @@
                 "title": "H.P. Lovecraft's The Call of Cthulhu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBFWC0CCE59F6AK8NR841R1N"
+            }
+        },
+        "MangaFire": {
+            "805ky": {
+                "id": 224683,
+                "identifier": "805ky",
+                "image": "https://static.mangafire.to/e171/i/2/2d/2dc51f3f6223fbf23410bc29e6690fb5.jpg",
+                "malId": 128677,
+                "aniId": 111899,
+                "page": "MangaFire",
+                "title": "H.P. Lovecraft's The Call of Cthulhu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hp-lovecrafts-the-call-of-cthulhuu.805ky"
             }
         },
         "Comick": {

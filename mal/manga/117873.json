@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d4b99a69-f4ac-460a-910a-b578ba17cf17": {
+                "id": 22932,
                 "identifier": "d4b99a69-f4ac-460a-910a-b578ba17cf17",
                 "image": "https://uploads.mangadex.org/covers/d4b99a69-f4ac-460a-910a-b578ba17cf17/f732599d-f98a-4f84-bd47-013a53f9b37b.jpg",
                 "malId": 117873,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jank-runk-family": {
+                "id": 57860,
                 "identifier": "jank-runk-family",
                 "image": "https://temp.compsci88.com/cover/Jank-Runk-Family.jpg",
                 "malId": 117873,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ds980801": {
+                "id": 96443,
                 "identifier": "manga-ds980801",
                 "image": "https://avt.mkklcdnv6temp.com/fld/38/q/9-1732794292-nw.webp",
                 "malId": 117873,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ds980801"
             }
         },
-        "MangaFire": {
-            "jank-runk-family.kwynv": {
-                "identifier": "jank-runk-family.kwynv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c81d32cd540c71126ddfacefef40fcb.jpg",
-                "malId": 117873,
-                "aniId": 109787,
-                "page": "MangaFire",
-                "title": "Jank Runk Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jank-runk-family.kwynv/"
-            },
-            "kwynv": {
-                "identifier": "kwynv",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c81d32cd540c71126ddfacefef40fcb.jpg",
-                "malId": 117873,
-                "aniId": 109787,
-                "page": "MangaFire",
-                "title": "Jank Runk Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jank-runk-family.kwynv/"
-            }
-        },
         "Weebcentral": {
             "01j76xycya8nkmhjags0h6dg8k": {
+                "id": 206216,
                 "identifier": "01j76xycya8nkmhjags0h6dg8k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCYA8NKMHJAGS0H6DG8K.jpg",
                 "malId": 117873,
@@ -74,6 +56,19 @@
                 "title": "Jank Runk Family",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCYA8NKMHJAGS0H6DG8K"
+            }
+        },
+        "MangaFire": {
+            "kwynv": {
+                "id": 244307,
+                "identifier": "kwynv",
+                "image": "https://static.mangafire.to/a0ca/i/2/2c/2c81d32cd540c71126ddfacefef40fcb.jpg",
+                "malId": 117873,
+                "aniId": 109787,
+                "page": "MangaFire",
+                "title": "Jank Runk Family",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jank-runk-familyy.kwynv"
             }
         },
         "Comick": {

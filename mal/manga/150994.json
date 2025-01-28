@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "daf4d5b5-3444-47b7-baf6-7b0e99102d3c": {
+                "id": 113208,
                 "identifier": "daf4d5b5-3444-47b7-baf6-7b0e99102d3c",
                 "image": "https://uploads.mangadex.org/covers/daf4d5b5-3444-47b7-baf6-7b0e99102d3c/c0ddbb75-1408-4ed8-a330-aedb58aeaccb.jpg",
                 "malId": 150994,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qh994016": {
+                "id": 124245,
                 "identifier": "manga-qh994016",
                 "image": "https://avt.mkklcdnv6temp.com/21/g/28-1675917677.jpg",
                 "malId": 150994,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qh994016"
             }
         },
-        "MangaFire": {
-            "assassin-cinderella.oj145": {
-                "identifier": "assassin-cinderella.oj145",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dbc4365eddc825770b6a85766f601c4.jpg",
-                "malId": 150994,
-                "aniId": 153669,
-                "page": "MangaFire",
-                "title": "Assassin & Cinderella",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/assassin-cinderella.oj145/"
-            },
-            "assassin-cinderellaa.oj145": {
-                "identifier": "assassin-cinderellaa.oj145",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7dbc4365eddc825770b6a85766f601c4.jpg",
-                "malId": 150994,
-                "aniId": 153669,
-                "page": "MangaFire",
-                "title": "Assassin & Cinderella",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/assassin-cinderellaa.oj145/"
-            }
-        },
         "MangaSee": {
             "assassin-cinderella": {
+                "id": 163944,
                 "identifier": "assassin-cinderella",
                 "image": "https://temp.compsci88.com/cover/Assassin-Cinderella.jpg",
                 "malId": 150994,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygbjqzzvcvkc7vwdda6b": {
+                "id": 209539,
                 "identifier": "01j76xygbjqzzvcvkc7vwdda6b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGBJQZZVCVKC7VWDDA6B.jpg",
                 "malId": 150994,
@@ -74,6 +56,19 @@
                 "title": "Assassin & Cinderella",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGBJQZZVCVKC7VWDDA6B"
+            }
+        },
+        "MangaFire": {
+            "oj145": {
+                "id": 226392,
+                "identifier": "oj145",
+                "image": "https://static.mangafire.to/48f0/i/7/7d/7dbc4365eddc825770b6a85766f601c4.jpg",
+                "malId": 150994,
+                "aniId": 153669,
+                "page": "MangaFire",
+                "title": "Assassin & Cinderella",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/assassin-cinderellaa.oj145"
             }
         },
         "Comick": {

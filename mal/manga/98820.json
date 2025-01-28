@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ca7b19f3-7752-490c-9a0c-607d9afeedc8": {
+                "id": 15935,
                 "identifier": "ca7b19f3-7752-490c-9a0c-607d9afeedc8",
                 "image": "https://uploads.mangadex.org/covers/ca7b19f3-7752-490c-9a0c-607d9afeedc8/878e4e2b-eae2-4515-9b41-3552e386d91d.jpg",
                 "malId": 98820,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "dungeon_seeker": {
+                "id": 54959,
                 "identifier": "dungeon_seeker",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20609/cover.jpg",
                 "malId": 98820,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "dungeon-seeker": {
+                "id": 60063,
                 "identifier": "dungeon-seeker",
                 "image": "https://temp.compsci88.com/cover/Dungeon-Seeker.jpg",
                 "malId": 98820,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-us971853": {
+                "id": 74908,
                 "identifier": "manga-us971853",
                 "image": "https://avt.mkklcdnv6temp.com/3/h/14-1583489806.jpg",
                 "malId": 98820,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-us971853"
             }
         },
-        "MangaFire": {
-            "dungeon-seekerr.80joo": {
-                "identifier": "dungeon-seekerr.80joo",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/43089f14c1063bc20a98f6316ec6f946.jpg",
-                "malId": 98820,
-                "aniId": 97999,
-                "page": "MangaFire",
-                "title": "Dungeon Seeker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dungeon-seekerr.80joo/"
-            }
-        },
         "Weebcentral": {
             "01j76xybstm7th3xttenxxgygk": {
+                "id": 211301,
                 "identifier": "01j76xybstm7th3xttenxxgygk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBSTM7TH3XTTENXXGYGK.jpg",
                 "malId": 98820,
@@ -76,6 +69,19 @@
                 "title": "Dungeon Seeker",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBSTM7TH3XTTENXXGYGK"
+            }
+        },
+        "MangaFire": {
+            "80joo": {
+                "id": 226321,
+                "identifier": "80joo",
+                "image": "https://static.mangafire.to/2d95/i/4/43/43089f14c1063bc20a98f6316ec6f946.jpg",
+                "malId": 98820,
+                "aniId": 97999,
+                "page": "MangaFire",
+                "title": "Dungeon Seeker",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dungeon-seekerr.80joo"
             }
         },
         "Comick": {

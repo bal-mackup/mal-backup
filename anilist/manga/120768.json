@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d620c533-73ce-40a3-93d8-0d7a96768cc9": {
+                "id": 38742,
                 "identifier": "d620c533-73ce-40a3-93d8-0d7a96768cc9",
                 "image": "https://uploads.mangadex.org/covers/d620c533-73ce-40a3-93d8-0d7a96768cc9/618142ec-00ae-4627-b2ec-22bcae0b04c8.jpg",
                 "malId": 130155,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jn987148": {
+                "id": 77786,
                 "identifier": "manga-jn987148",
                 "image": "https://avt.mkklcdnv6temp.com/35/p/22-1604766099.jpg",
                 "malId": 130155,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hayaku_shitai_futari": {
+                "id": 81633,
                 "identifier": "hayaku_shitai_futari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35252/cover.jpg",
                 "malId": 130155,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/hayaku_shitai_futari/"
             }
         },
-        "MangaFire": {
-            "hayaku-shitai-futari.924w0": {
-                "identifier": "hayaku-shitai-futari.924w0",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3cbcb8f787e9298c2bef26a5aea4cf18.jpg",
-                "malId": 130155,
-                "aniId": 120768,
-                "page": "MangaFire",
-                "title": "Let's do it already",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hayaku-shitai-futari.924w0/"
-            },
-            "hayaku-shitai-futarii.924w0": {
-                "identifier": "hayaku-shitai-futarii.924w0",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3c/3cbcb8f787e9298c2bef26a5aea4cf18.jpg",
-                "malId": 130155,
-                "aniId": 120768,
-                "page": "MangaFire",
-                "title": "Let's do it already",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hayaku-shitai-futarii.924w0/"
-            }
-        },
         "MangaSee": {
             "lets-do-it-already": {
+                "id": 191053,
                 "identifier": "lets-do-it-already",
                 "image": "https://temp.compsci88.com/cover/Lets-Do-It-Already.jpg",
                 "malId": 130155,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhasjvbgwm6w69dj5rfp": {
+                "id": 208673,
                 "identifier": "01j76xyhasjvbgwm6w69dj5rfp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHASJVBGWM6W69DJ5RFP.jpg",
                 "malId": 130155,
@@ -86,6 +69,19 @@
                 "title": "Let's Do It Already!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHASJVBGWM6W69DJ5RFP"
+            }
+        },
+        "MangaFire": {
+            "924w0": {
+                "id": 225933,
+                "identifier": "924w0",
+                "image": "https://static.mangafire.to/1bb0/i/3/3c/3cbcb8f787e9298c2bef26a5aea4cf18.jpg",
+                "malId": 130155,
+                "aniId": 120768,
+                "page": "MangaFire",
+                "title": "Let's do it already",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hayaku-shitai-futarii.924w0"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3def8845-d230-4ce0-950d-175765692986": {
+                "id": 9714,
                 "identifier": "3def8845-d230-4ce0-950d-175765692986",
                 "image": "https://uploads.mangadex.org/covers/3def8845-d230-4ce0-950d-175765692986/d9a3fa0f-3092-4612-9b31-19ce4be953a4.png",
                 "malId": 64547,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "setting-up-to-fail": {
+                "id": 64011,
                 "identifier": "setting-up-to-fail",
                 "image": "https://temp.compsci88.com/cover/Setting-Up-To-Fail.jpg",
                 "malId": 64547,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Setting-Up-To-Fail"
             }
         },
-        "MangaFire": {
-            "setting-up-to-fail.2mm5": {
-                "identifier": "setting-up-to-fail.2mm5",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/872cacc0db4b27121e1a91a059da572d.jpg",
-                "malId": 64547,
-                "aniId": 89999,
-                "page": "MangaFire",
-                "title": "Setting Up to Fail",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/setting-up-to-fail.2mm5/"
-            },
-            "2mm5": {
-                "identifier": "2mm5",
-                "image": "https://static.mangafire.to/3b2d5/i/8/87/872cacc0db4b27121e1a91a059da572d.jpg",
-                "malId": 64547,
-                "aniId": 89999,
-                "page": "MangaFire",
-                "title": "Setting Up to Fail",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/setting-up-to-fail.2mm5/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb2rabamfa9vr43dekws": {
+                "id": 206450,
                 "identifier": "01j76xyb2rabamfa9vr43dekws",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB2RABAMFA9VR43DEKWS.jpg",
                 "malId": 64547,
@@ -62,6 +43,19 @@
                 "title": "Setting Up To Fail",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB2RABAMFA9VR43DEKWS"
+            }
+        },
+        "MangaFire": {
+            "2mm5": {
+                "id": 246577,
+                "identifier": "2mm5",
+                "image": "https://static.mangafire.to/6275/i/8/87/872cacc0db4b27121e1a91a059da572d.jpg",
+                "malId": 64547,
+                "aniId": 89999,
+                "page": "MangaFire",
+                "title": "Setting Up to Fail",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/setting-up-to-faill.2mm5"
             }
         },
         "Comick": {

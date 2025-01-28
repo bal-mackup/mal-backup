@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-sb996310": {
+                "id": 157689,
                 "identifier": "manga-sb996310",
                 "image": "https://avt.mkklcdnv6temp.com/fld/11/p/15-1733307264-nw.webp",
                 "malId": 158560,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "f461e344-2385-46b5-83b8-8776f5ea65d0": {
+                "id": 163632,
                 "identifier": "f461e344-2385-46b5-83b8-8776f5ea65d0",
                 "image": "https://uploads.mangadex.org/covers/f461e344-2385-46b5-83b8-8776f5ea65d0/88c8bf13-56be-42df-af48-8be959d3f768.jpg",
                 "malId": 158560,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/f461e344-2385-46b5-83b8-8776f5ea65d0"
             }
         },
-        "MangaFire": {
-            "only-i-farm-in-the-dungeon.zx57l": {
-                "identifier": "only-i-farm-in-the-dungeon.zx57l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/25b2af69401cd8d0ba66ea00b3885166.jpg",
-                "malId": 158560,
-                "aniId": 166658,
-                "page": "MangaFire",
-                "title": "Only I Farm in the Dungeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/only-i-farm-in-the-dungeon.zx57l/"
-            },
-            "only-i-farm-in-the-dungeonn.zx57l": {
-                "identifier": "only-i-farm-in-the-dungeonn.zx57l",
-                "image": "https://static.mangafire.to/3b2d5/i/2/25/25b2af69401cd8d0ba66ea00b3885166.jpg",
-                "malId": 158560,
-                "aniId": 166658,
-                "page": "MangaFire",
-                "title": "Only I Farm in the Dungeon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/only-i-farm-in-the-dungeonn.zx57l/"
-            }
-        },
         "MangaFox": {
             "the_top_dungeon_farmer": {
+                "id": 178858,
                 "identifier": "the_top_dungeon_farmer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45668/cover.jpg",
                 "malId": 158560,
@@ -62,6 +43,19 @@
                 "title": "The Top Dungeon Farmer",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_top_dungeon_farmer/"
+            }
+        },
+        "MangaFire": {
+            "zx57l": {
+                "id": 226451,
+                "identifier": "zx57l",
+                "image": "https://static.mangafire.to/eeff/i/2/25/25b2af69401cd8d0ba66ea00b3885166.jpg",
+                "malId": 158560,
+                "aniId": 166658,
+                "page": "MangaFire",
+                "title": "Only I Farm in the Dungeon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/only-i-farm-in-the-dungeonn.zx57l"
             }
         },
         "Comick": {

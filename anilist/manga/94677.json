@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "818bf114-81fc-4918-8f80-82dfc4e2fbb2": {
+                "id": 15884,
                 "identifier": "818bf114-81fc-4918-8f80-82dfc4e2fbb2",
                 "image": "https://uploads.mangadex.org/covers/818bf114-81fc-4918-8f80-82dfc4e2fbb2/f31a4962-942f-41bb-9bd7-d7842658d4fe.jpg",
                 "malId": 88427,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/818bf114-81fc-4918-8f80-82dfc4e2fbb2"
             },
             "a3dafc2a-73a3-4c74-a5e2-a8acfc67b35f": {
+                "id": 16447,
                 "identifier": "a3dafc2a-73a3-4c74-a5e2-a8acfc67b35f",
                 "image": "https://uploads.mangadex.org/covers/a3dafc2a-73a3-4c74-a5e2-a8acfc67b35f/859b79b6-a551-4403-9cfa-731038c1c8c0.jpg",
                 "malId": 88427,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "frau-faust": {
+                "id": 58618,
                 "identifier": "frau-faust",
                 "image": "https://temp.compsci88.com/cover/Frau-Faust.jpg",
                 "malId": 88427,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "frau_faust": {
+                "id": 95346,
                 "identifier": "frau_faust",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20515/cover.jpg",
                 "malId": 88427,
@@ -52,30 +56,9 @@
                 "url": "https://fanfox.net/manga/frau_faust/"
             }
         },
-        "MangaFire": {
-            "frau-faust.qx0mv": {
-                "identifier": "frau-faust.qx0mv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c64d56755cf2e1e8f04c7c5bc15c08b7.jpg",
-                "malId": 88427,
-                "aniId": 94677,
-                "page": "MangaFire",
-                "title": "Frau Faust",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/frau-faust.qx0mv/"
-            },
-            "qx0mv": {
-                "identifier": "qx0mv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c64d56755cf2e1e8f04c7c5bc15c08b7.jpg",
-                "malId": 88427,
-                "aniId": 94677,
-                "page": "MangaFire",
-                "title": "Frau Faust",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/frau-faust.qx0mv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc8waa63maxdc5r9yz6r": {
+                "id": 214290,
                 "identifier": "01j76xyc8waa63maxdc5r9yz6r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC8WAA63MAXDC5R9YZ6R.jpg",
                 "malId": 88427,
@@ -88,6 +71,7 @@
         },
         "MangaNato": {
             "manga-uc971759": {
+                "id": 221775,
                 "identifier": "manga-uc971759",
                 "image": "https://avt.mkklcdnv6temp.com/fld/50/h/7-1732785578-nw.webp",
                 "malId": 88427,
@@ -96,6 +80,19 @@
                 "title": "Frau Faust",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-uc971759"
+            }
+        },
+        "MangaFire": {
+            "qx0mv": {
+                "id": 257209,
+                "identifier": "qx0mv",
+                "image": "https://static.mangafire.to/bf93/i/c/c6/c64d56755cf2e1e8f04c7c5bc15c08b7.jpg",
+                "malId": 88427,
+                "aniId": 94677,
+                "page": "MangaFire",
+                "title": "Frau Faust",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/frau-faustt.qx0mv"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ecf03a97-2194-4e4b-b4cd-741b98015957": {
+                "id": 109090,
                 "identifier": "ecf03a97-2194-4e4b-b4cd-741b98015957",
                 "image": "https://uploads.mangadex.org/covers/ecf03a97-2194-4e4b-b4cd-741b98015957/c0db99b7-ec6b-42b8-bb33-128733673720.jpg",
                 "malId": 149083,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/ecf03a97-2194-4e4b-b4cd-741b98015957"
             },
             "1cf72b44-dfee-4278-a263-d60686652b81": {
+                "id": 154826,
                 "identifier": "1cf72b44-dfee-4278-a263-d60686652b81",
                 "image": "https://uploads.mangadex.org/covers/1cf72b44-dfee-4278-a263-d60686652b81/b0bb306f-6010-45db-ac9b-4576244b5712.jpg",
                 "malId": 149083,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-og991915": {
+                "id": 111826,
                 "identifier": "manga-og991915",
                 "image": "https://avt.mkklcdnv6temp.com/36/m/26-1659668540.jpg",
                 "malId": 149083,
@@ -40,6 +43,7 @@
                 "url": "https://manganato.com/manga-og991915"
             },
             "manga-sq995851": {
+                "id": 155642,
                 "identifier": "manga-sq995851",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/y/14-1733306203-nw.webp",
                 "malId": 149083,
@@ -50,20 +54,9 @@
                 "url": "https://manganato.com/manga-sq995851"
             }
         },
-        "MangaFire": {
-            "kaya-chan-wa-kowakunai.nrnol": {
-                "identifier": "kaya-chan-wa-kowakunai.nrnol",
-                "image": "https://static.mangafire.to/3b2d5/i/7/79/795d16c20c829df0dedf93eab9016549.jpg",
-                "malId": 149083,
-                "aniId": 147441,
-                "page": "MangaFire",
-                "title": "Kaya-chan wa Kowakunai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaya-chan-wa-kowakunai.nrnol/"
-            }
-        },
         "MangaSee": {
             "kaya-chan-wa-kowakunai": {
+                "id": 178107,
                 "identifier": "kaya-chan-wa-kowakunai",
                 "image": "https://temp.compsci88.com/cover/Kaya-chan-wa-Kowakunai.jpg",
                 "malId": 149083,
@@ -76,6 +69,7 @@
         },
         "Weebcentral": {
             "01j76xygsg8tyrfg504pqpeazs": {
+                "id": 212189,
                 "identifier": "01j76xygsg8tyrfg504pqpeazs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGSG8TYRFG504PQPEAZS.jpg",
                 "malId": 149083,
@@ -84,6 +78,19 @@
                 "title": "Kaya-chan wa Kowakunai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGSG8TYRFG504PQPEAZS"
+            }
+        },
+        "MangaFire": {
+            "nrnol": {
+                "id": 260173,
+                "identifier": "nrnol",
+                "image": "https://static.mangafire.to/04d3/i/7/79/795d16c20c829df0dedf93eab9016549.jpg",
+                "malId": 149083,
+                "aniId": 147441,
+                "page": "MangaFire",
+                "title": "Kaya-chan wa Kowakunai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaya-chan-wa-kowakunaii.nrnol"
             }
         },
         "Comick": {

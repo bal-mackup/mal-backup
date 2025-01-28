@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ac4e2459-d995-45ae-8421-4c4cf4a87770": {
+                "id": 12146,
                 "identifier": "ac4e2459-d995-45ae-8421-4c4cf4a87770",
                 "image": "https://uploads.mangadex.org/covers/ac4e2459-d995-45ae-8421-4c4cf4a87770/08f9e6f5-4cfa-4c10-9b92-5b8ed667f3d7.jpg",
                 "malId": 81667,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "overlord": {
+                "id": 56541,
                 "identifier": "overlord",
                 "image": "https://temp.compsci88.com/cover/Overlord.jpg",
                 "malId": 81667,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "overlord": {
+                "id": 58554,
                 "identifier": "overlord",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14765/cover.jpg",
                 "malId": 81667,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fh952190": {
+                "id": 74084,
                 "identifier": "manga-fh952190",
                 "image": "https://avt.mkklcdnv6temp.com/30/y/1-1583464912.jpg",
                 "malId": 81667,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fh952190"
             }
         },
-        "MangaFire": {
-            "overlord.d25": {
-                "identifier": "overlord.d25",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4c086ffd0ac766fec3346ade972570c5.jpg",
-                "malId": 81667,
-                "aniId": 85934,
-                "page": "MangaFire",
-                "title": "Overlord",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/overlord.d25/"
-            },
-            "overlordd.d25": {
-                "identifier": "overlordd.d25",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4c086ffd0ac766fec3346ade972570c5.jpg",
-                "malId": 81667,
-                "aniId": 85934,
-                "page": "MangaFire",
-                "title": "Overlord",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/overlordd.d25/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6f9wyzmeqrhhb3dp8e": {
+                "id": 213362,
                 "identifier": "01j76xyb6f9wyzmeqrhhb3dp8e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6F9WYZMEQRHHB3DP8E.jpg",
                 "malId": 81667,
@@ -86,6 +69,19 @@
                 "title": "Overlord",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6F9WYZMEQRHHB3DP8E"
+            }
+        },
+        "MangaFire": {
+            "d25": {
+                "id": 226180,
+                "identifier": "d25",
+                "image": "https://static.mangafire.to/a2b5/i/4/4c/4c086ffd0ac766fec3346ade972570c5.jpg",
+                "malId": 81667,
+                "aniId": 85934,
+                "page": "MangaFire",
+                "title": "Overlord",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/overlordd.d25"
             }
         },
         "Comick": {

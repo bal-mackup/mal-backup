@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3964e40a-019b-4fa3-a8c6-ad9696281fbf": {
+                "id": 21899,
                 "identifier": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
                 "image": "https://uploads.mangadex.org/covers/3964e40a-019b-4fa3-a8c6-ad9696281fbf/c0136b36-688c-4d74-ae98-808319f0e3fc.jpg",
                 "malId": 94523,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ki987591": {
+                "id": 93275,
                 "identifier": "manga-ki987591",
                 "image": "https://avt.mkklcdnv6temp.com/4/c/23-1610249983.jpg",
                 "malId": 94523,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "golden-gold": {
+                "id": 118477,
                 "identifier": "golden-gold",
                 "image": "https://temp.compsci88.com/cover/Golden-Gold.jpg",
                 "malId": 94523,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Golden-Gold"
             }
         },
-        "MangaFire": {
-            "golden-gold.m2o97": {
-                "identifier": "golden-gold.m2o97",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b348a1ed3a6a543b573d3bda1b9e410f.jpg",
-                "malId": 94523,
-                "aniId": 100724,
-                "page": "MangaFire",
-                "title": "Golden Gold",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/golden-gold.m2o97/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfrt3fr76b6eg1e19706": {
+                "id": 212777,
                 "identifier": "01j76xyfrt3fr76b6eg1e19706",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFRT3FR76B6EG1E19706.jpg",
                 "malId": 94523,
@@ -64,6 +56,19 @@
                 "title": "Golden Gold",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFRT3FR76B6EG1E19706"
+            }
+        },
+        "MangaFire": {
+            "m2o97": {
+                "id": 250498,
+                "identifier": "m2o97",
+                "image": "https://static.mangafire.to/c676/i/b/b3/b348a1ed3a6a543b573d3bda1b9e410f.jpg",
+                "malId": 94523,
+                "aniId": 100724,
+                "page": "MangaFire",
+                "title": "Golden Gold",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/golden-goldd.m2o97"
             }
         },
         "Comick": {

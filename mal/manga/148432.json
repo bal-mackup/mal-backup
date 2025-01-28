@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f5b91016-cd11-4435-996a-37b11e78d486": {
+                "id": 96415,
                 "identifier": "f5b91016-cd11-4435-996a-37b11e78d486",
                 "image": "https://uploads.mangadex.org/covers/f5b91016-cd11-4435-996a-37b11e78d486/ab3bb96d-837f-49c6-84bc-ef9e52deaa5a.jpg",
                 "malId": 148432,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nr990774": {
+                "id": 101874,
                 "identifier": "manga-nr990774",
                 "image": "https://avt.mkklcdnv6temp.com/7/h/26-1655637609.jpg",
                 "malId": 148432,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-crows-prince": {
+                "id": 170155,
                 "identifier": "the-crows-prince",
                 "image": "https://temp.compsci88.com/cover/The-Crows-Prince.jpg",
                 "malId": 148432,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/The-Crows-Prince"
             }
         },
-        "MangaFire": {
-            "hapirimyeon-kkamagwiga-doeeobeoryeotdaa.v5vy4": {
-                "identifier": "hapirimyeon-kkamagwiga-doeeobeoryeotdaa.v5vy4",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/4980bf3910d9be768542830046e2fe1b.jpg",
-                "malId": 148432,
-                "aniId": 145538,
-                "page": "MangaFire",
-                "title": "The Crow's Prince",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hapirimyeon-kkamagwiga-doeeobeoryeotdaa.v5vy4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyggpzds2xbcwzd8cbesw": {
+                "id": 211674,
                 "identifier": "01j76xyggpzds2xbcwzd8cbesw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGGPZDS2XBCWZD8CBESW.jpg",
                 "malId": 148432,
@@ -64,6 +56,19 @@
                 "title": "The Crow's Prince",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGGPZDS2XBCWZD8CBESW"
+            }
+        },
+        "MangaFire": {
+            "v5vy4": {
+                "id": 228344,
+                "identifier": "v5vy4",
+                "image": "https://static.mangafire.to/a4d3/i/4/49/4980bf3910d9be768542830046e2fe1b.jpg",
+                "malId": 148432,
+                "aniId": 145538,
+                "page": "MangaFire",
+                "title": "The Crow's Prince",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hapirimyeon-kkamagwiga-doeeobeoryeotdaa.v5vy4"
             }
         },
         "Comick": {

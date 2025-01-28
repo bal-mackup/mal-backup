@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505": {
+                "id": 39870,
                 "identifier": "dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505",
                 "image": "https://uploads.mangadex.org/covers/dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505/3de81f94-8ad2-42ef-8d15-e5a54b65c301.jpg",
                 "malId": 120694,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505"
             }
         },
-        "MangaFire": {
-            "kimi-ga-tokubetsu.yqym1": {
-                "identifier": "kimi-ga-tokubetsu.yqym1",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4d/4dbad263fc714d1b68d939a3c6c165e4.jpg",
-                "malId": 120694,
-                "aniId": 108792,
-                "page": "MangaFire",
-                "title": "My Special One",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ga-tokubetsu.yqym1/"
-            }
-        },
         "MangaNato": {
             "manga-xh1000590": {
+                "id": 188812,
                 "identifier": "manga-xh1000590",
-                "image": "https://avt.mkklcdnv6temp.com/33/f/33-1706675513.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/74/y/16-1733318671-nw.webp",
                 "malId": 120694,
                 "aniId": 108792,
                 "page": "MangaNato",
                 "title": "Kimi Ga Tokubetsu",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xh1000590"
+            }
+        },
+        "MangaFire": {
+            "yqym1": {
+                "id": 247047,
+                "identifier": "yqym1",
+                "image": "https://static.mangafire.to/879a/i/4/4d/4dbad263fc714d1b68d939a3c6c165e4.jpg",
+                "malId": 120694,
+                "aniId": 108792,
+                "page": "MangaFire",
+                "title": "My Special One",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ga-tokubetsuu.yqym1"
             }
         },
         "Comick": {

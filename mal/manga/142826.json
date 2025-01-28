@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aed198a4-8c78-4f05-872a-4e722d38c033": {
+                "id": 91809,
                 "identifier": "aed198a4-8c78-4f05-872a-4e722d38c033",
                 "image": "https://uploads.mangadex.org/covers/aed198a4-8c78-4f05-872a-4e722d38c033/986525fc-4c3a-4007-b122-7621a1337b6a.jpg",
                 "malId": 142826,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/aed198a4-8c78-4f05-872a-4e722d38c033"
             }
         },
-        "MangaFire": {
-            "no-game-no-life-part-2-eastern-union-arc.02jr5": {
-                "identifier": "no-game-no-life-part-2-eastern-union-arc.02jr5",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f5e6a98b7031a587e07bcce1e0b08bf.jpg",
-                "malId": 142826,
-                "aniId": 142204,
-                "page": "MangaFire",
-                "title": "No Game No Life Part 2: Eastern Union Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-game-no-life-part-2-eastern-union-arc.02jr5/"
-            },
-            "no-game-no-life-part-2-eastern-union-arcc.02jr5": {
-                "identifier": "no-game-no-life-part-2-eastern-union-arcc.02jr5",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f5e6a98b7031a587e07bcce1e0b08bf.jpg",
-                "malId": 142826,
-                "aniId": 142204,
-                "page": "MangaFire",
-                "title": "No Game No Life Part 2: Eastern Union Arc",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-game-no-life-part-2-eastern-union-arcc.02jr5/"
-            }
-        },
         "MangaSee": {
             "no-game-no-life-chapter-2-eastern-union-ar": {
+                "id": 191047,
                 "identifier": "no-game-no-life-chapter-2-eastern-union-ar",
                 "image": "https://temp.compsci88.com/cover/No-Game-No-Life-Chapter-2-Eastern-Union-Ar.jpg",
                 "malId": 142826,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhb1jwa1hzf8yn30xhj6": {
+                "id": 208465,
                 "identifier": "01j76xyhb1jwa1hzf8yn30xhj6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHB1JWA1HZF8YN30XHJ6.jpg",
                 "malId": 142826,
@@ -62,6 +43,19 @@
                 "title": "No Game No Life Chapter 2 - Eastern Union Arc",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHB1JWA1HZF8YN30XHJ6"
+            }
+        },
+        "MangaFire": {
+            "02jr5": {
+                "id": 226004,
+                "identifier": "02jr5",
+                "image": "https://static.mangafire.to/a5ea/i/0/0f/0f5e6a98b7031a587e07bcce1e0b08bf.jpg",
+                "malId": 142826,
+                "aniId": 142204,
+                "page": "MangaFire",
+                "title": "No Game No Life Part 2: Eastern Union Arc",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-game-no-life-part-2-eastern-union-arcc.02jr5"
             }
         },
         "Comick": {

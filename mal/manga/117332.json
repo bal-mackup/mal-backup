@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1": {
+                "id": 25192,
                 "identifier": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
                 "image": "https://uploads.mangadex.org/covers/6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1/e56be766-2872-4edf-a3b3-74d32ecd9096.jpg",
                 "malId": 117332,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1"
             },
             "47c274dc-3abc-48ad-adc7-aefa5fe5c0a3": {
+                "id": 192163,
                 "identifier": "47c274dc-3abc-48ad-adc7-aefa5fe5c0a3",
                 "image": "https://uploads.mangadex.org/covers/47c274dc-3abc-48ad-adc7-aefa5fe5c0a3/1e3e3bc5-c25e-47db-954a-f31c56f0ae38.jpg",
                 "malId": 117332,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "sukinako-ga-megane-wo-wasureta": {
+                "id": 54480,
                 "identifier": "sukinako-ga-megane-wo-wasureta",
                 "image": "https://temp.compsci88.com/cover/Sukinako-ga-Megane-wo-Wasureta.jpg",
                 "malId": 117332,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "sukinako_ga_megane_wo_wasureta": {
+                "id": 67890,
                 "identifier": "sukinako_ga_megane_wo_wasureta",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29435/cover.jpg",
                 "malId": 117332,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ea981357": {
+                "id": 73219,
                 "identifier": "manga-ea981357",
                 "image": "https://avt.mkklcdnv6temp.com/11/u/18-1583497539.jpg",
                 "malId": 117332,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ea981357"
             }
         },
-        "MangaFire": {
-            "suki-na-ko-ga-megane-wo-wasureta.xr958": {
-                "identifier": "suki-na-ko-ga-megane-wo-wasureta.xr958",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0959e313e6012b533d50d87c0ca48b9.jpg",
-                "malId": 117332,
-                "aniId": 105641,
-                "page": "MangaFire",
-                "title": "The Girl I Like Forgot Her Glasses",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suki-na-ko-ga-megane-wo-wasureta.xr958/"
-            }
-        },
         "Weebcentral": {
             "01j76xydcpz82np3pcg4r036ny": {
+                "id": 212881,
                 "identifier": "01j76xydcpz82np3pcg4r036ny",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDCPZ82NP3PCG4R036NY.jpg",
                 "malId": 117332,
@@ -86,6 +80,19 @@
                 "title": "The Girl I Like Forgot Her Glasses",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDCPZ82NP3PCG4R036NY"
+            }
+        },
+        "MangaFire": {
+            "xr958": {
+                "id": 247727,
+                "identifier": "xr958",
+                "image": "https://static.mangafire.to/bc20/i/b/b0/b0959e313e6012b533d50d87c0ca48b9.jpg",
+                "malId": 117332,
+                "aniId": 105641,
+                "page": "MangaFire",
+                "title": "The Girl I Like Forgot Her Glasses",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/suki-na-ko-ga-megane-wo-wasuretaa.xr958"
             }
         },
         "Comick": {

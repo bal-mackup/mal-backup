@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "kaijin_kaihatsubu_no_kuroitsu_san": {
+                "id": 88845,
                 "identifier": "kaijin_kaihatsubu_no_kuroitsu_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39573/cover.jpg",
                 "malId": 138485,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "f721d5ed-7667-4ff5-8a2f-5e46afaea7d6": {
+                "id": 94445,
                 "identifier": "f721d5ed-7667-4ff5-8a2f-5e46afaea7d6",
                 "image": "https://uploads.mangadex.org/covers/f721d5ed-7667-4ff5-8a2f-5e46afaea7d6/3e84a8b4-6713-4a94-9c4d-b3775ef9941b.jpg",
                 "malId": 138485,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kaijin-kaihatsubu-no-kuroitsu-san": {
+                "id": 125799,
                 "identifier": "kaijin-kaihatsubu-no-kuroitsu-san",
                 "image": "https://temp.compsci88.com/cover/Kaijin-Kaihatsubu-no-Kuroitsu-san.jpg",
                 "malId": 138485,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Kaijin-Kaihatsubu-no-Kuroitsu-san"
             }
         },
-        "MangaFire": {
-            "kaijin-kaihatsubu-no-kuroitsu-san.xjw83": {
-                "identifier": "kaijin-kaihatsubu-no-kuroitsu-san.xjw83",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4b1007e944e7737f65d90f1a5a23bf1.jpg",
-                "malId": 138485,
-                "aniId": 128442,
-                "page": "MangaFire",
-                "title": "Kuroitsu-san from the Monster Development Department",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaijin-kaihatsubu-no-kuroitsu-san.xjw83/"
-            },
-            "kaijin-kaihatsubu-no-kuroitsu-sann.xjw83": {
-                "identifier": "kaijin-kaihatsubu-no-kuroitsu-sann.xjw83",
-                "image": "https://static.mangafire.to/b97c/i/a/a4/a4b1007e944e7737f65d90f1a5a23bf1.jpg",
-                "malId": 138485,
-                "aniId": 128442,
-                "page": "MangaFire",
-                "title": "Kuroitsu-san from the Monster Development Department",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaijin-kaihatsubu-no-kuroitsu-sann.xjw83/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfzqd9akn75g13r3v314": {
+                "id": 209514,
                 "identifier": "01j76xyfzqd9akn75g13r3v314",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFZQD9AKN75G13R3V314.jpg",
                 "malId": 138485,
@@ -74,6 +56,19 @@
                 "title": "Kaijin Kaihatsubu no Kuroitsu-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFZQD9AKN75G13R3V314"
+            }
+        },
+        "MangaFire": {
+            "xjw83": {
+                "id": 223124,
+                "identifier": "xjw83",
+                "image": "https://static.mangafire.to/b97c/i/a/a4/a4b1007e944e7737f65d90f1a5a23bf1.jpg",
+                "malId": 138485,
+                "aniId": 128442,
+                "page": "MangaFire",
+                "title": "Kuroitsu-san from the Monster Development Department",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaijin-kaihatsubu-no-kuroitsu-sann.xjw83"
             }
         },
         "Comick": {

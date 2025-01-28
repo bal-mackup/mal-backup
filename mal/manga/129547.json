@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3a3db59a-aafd-452e-8282-8b61ae60b012": {
+                "id": 27107,
                 "identifier": "3a3db59a-aafd-452e-8282-8b61ae60b012",
                 "image": "https://uploads.mangadex.org/covers/3a3db59a-aafd-452e-8282-8b61ae60b012/c5eafccd-f746-4d90-b25c-17659086b6e3.jpg",
                 "malId": 129547,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "phantom-seer": {
+                "id": 54090,
                 "identifier": "phantom-seer",
                 "image": "https://temp.compsci88.com/cover/Phantom-Seer.jpg",
                 "malId": 129547,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "phantom_seer": {
+                "id": 55796,
                 "identifier": "phantom_seer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35518/cover.jpg",
                 "malId": 129547,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ld988560": {
+                "id": 76135,
                 "identifier": "manga-ld988560",
                 "image": "https://avt.mkklcdnv6temp.com/43/v/23-1616143959.jpg",
                 "malId": 129547,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ld988560"
             }
         },
-        "MangaFire": {
-            "hono-mieru-shonen.nrr7j": {
-                "identifier": "hono-mieru-shonen.nrr7j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/3903856cf8ad6b9dec73a4d91e64e60c.jpg",
-                "malId": 129547,
-                "aniId": 122823,
-                "page": "MangaFire",
-                "title": "Phantom Seer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hono-mieru-shonen.nrr7j/"
-            },
-            "hono-mieru-shonenn.nrr7j": {
-                "identifier": "hono-mieru-shonenn.nrr7j",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/3903856cf8ad6b9dec73a4d91e64e60c.jpg",
-                "malId": 129547,
-                "aniId": 122823,
-                "page": "MangaFire",
-                "title": "Phantom Seer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hono-mieru-shonenn.nrr7j/"
-            }
-        },
         "Weebcentral": {
             "01j76xydv2nrazhnaqn95m2kzy": {
+                "id": 208565,
                 "identifier": "01j76xydv2nrazhnaqn95m2kzy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDV2NRAZHNAQN95M2KZY.jpg",
                 "malId": 129547,
@@ -86,6 +69,19 @@
                 "title": "Phantom Seer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDV2NRAZHNAQN95M2KZY"
+            }
+        },
+        "MangaFire": {
+            "nrr7j": {
+                "id": 227385,
+                "identifier": "nrr7j",
+                "image": "https://static.mangafire.to/2670/i/3/39/3903856cf8ad6b9dec73a4d91e64e60c.jpg",
+                "malId": 129547,
+                "aniId": 122823,
+                "page": "MangaFire",
+                "title": "Phantom Seer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hono-mieru-shonenn.nrr7j"
             }
         },
         "Comick": {

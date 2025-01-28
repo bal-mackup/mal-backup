@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d64b0768-bebe-433c-b923-99870503c0a3": {
+                "id": 28080,
                 "identifier": "d64b0768-bebe-433c-b923-99870503c0a3",
                 "image": "https://uploads.mangadex.org/covers/d64b0768-bebe-433c-b923-99870503c0a3/e75ae3d4-b2b9-4476-b51f-9fd24bf7bf44.jpg",
                 "malId": 118668,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ev982204": {
+                "id": 73593,
                 "identifier": "manga-ev982204",
                 "image": "https://avt.mkklcdnv6temp.com/42/z/18-1583498765.jpg",
                 "malId": 118668,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "dark-gathering": {
+                "id": 97054,
                 "identifier": "dark-gathering",
                 "image": "https://temp.compsci88.com/cover/Dark-Gathering.jpg",
                 "malId": 118668,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Dark-Gathering"
             }
         },
-        "MangaFire": {
-            "dark-gathering.yk07z": {
-                "identifier": "dark-gathering.yk07z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/951aa7737fdb963f56c8aae9b6091dc6.jpg",
-                "malId": 118668,
-                "aniId": 109608,
-                "page": "MangaFire",
-                "title": "Dark Gathering",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dark-gathering.yk07z/"
-            },
-            "dark-gatheringg.yk07z": {
-                "identifier": "dark-gatheringg.yk07z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/951aa7737fdb963f56c8aae9b6091dc6.jpg",
-                "malId": 118668,
-                "aniId": 109608,
-                "page": "MangaFire",
-                "title": "Dark Gathering",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dark-gatheringg.yk07z/"
-            }
-        },
         "MangaFox": {
             "dark_gathering": {
+                "id": 164669,
                 "identifier": "dark_gathering",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35835/cover.jpg",
                 "malId": 118668,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyfbpthtmnfy0a8ve6h76": {
+                "id": 207131,
                 "identifier": "01j76xyfbpthtmnfy0a8ve6h76",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFBPTHTMNFY0A8VE6H76.jpg",
                 "malId": 118668,
@@ -86,6 +69,19 @@
                 "title": "Dark Gathering",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFBPTHTMNFY0A8VE6H76"
+            }
+        },
+        "MangaFire": {
+            "yk07z": {
+                "id": 229420,
+                "identifier": "yk07z",
+                "image": "https://static.mangafire.to/e47f/i/9/95/951aa7737fdb963f56c8aae9b6091dc6.jpg",
+                "malId": 118668,
+                "aniId": 109608,
+                "page": "MangaFire",
+                "title": "Dark Gathering",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dark-gatheringg.yk07z"
             }
         },
         "Comick": {

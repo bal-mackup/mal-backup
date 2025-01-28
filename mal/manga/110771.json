@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "da36a727-7686-4e92-8fac-94bc292b8e91": {
+                "id": 19132,
                 "identifier": "da36a727-7686-4e92-8fac-94bc292b8e91",
                 "image": "https://uploads.mangadex.org/covers/da36a727-7686-4e92-8fac-94bc292b8e91/ee21bae7-726c-4807-b705-43d1398fb305.jpg",
                 "malId": 110771,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "toshokan_no_daimajutsushi": {
+                "id": 61575,
                 "identifier": "toshokan_no_daimajutsushi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27214/cover.jpg",
                 "malId": 110771,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "toshokan-no-daimajutsushi": {
+                "id": 63958,
                 "identifier": "toshokan-no-daimajutsushi",
                 "image": "https://temp.compsci88.com/cover/Toshokan-No-Daimajutsushi.jpg",
                 "malId": 110771,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cg979889": {
+                "id": 74721,
                 "identifier": "manga-cg979889",
                 "image": "https://avt.mkklcdnv6temp.com/8/k/17-1583495568.jpg",
                 "malId": 110771,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-cg979889"
             }
         },
-        "MangaFire": {
-            "toshokan-no-daimajutsushi.m2xjz": {
-                "identifier": "toshokan-no-daimajutsushi.m2xjz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93de7cb7e74f2077f3f6bdf543e3bca2.jpg",
-                "malId": 110771,
-                "aniId": 101131,
-                "page": "MangaFire",
-                "title": "Magus of the Library",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toshokan-no-daimajutsushi.m2xjz/"
-            },
-            "toshokan-no-daimajutsushii.m2xjz": {
-                "identifier": "toshokan-no-daimajutsushii.m2xjz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93de7cb7e74f2077f3f6bdf543e3bca2.jpg",
-                "malId": 110771,
-                "aniId": 101131,
-                "page": "MangaFire",
-                "title": "Magus of the Library",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toshokan-no-daimajutsushii.m2xjz/"
-            },
-            "m2xjz": {
-                "identifier": "m2xjz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93de7cb7e74f2077f3f6bdf543e3bca2.jpg",
-                "malId": 110771,
-                "aniId": 101131,
-                "page": "MangaFire",
-                "title": "Magus of the Library",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toshokan-no-daimajutsushii.m2xjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczpmx8hf5fw8122g40w": {
+                "id": 213108,
                 "identifier": "01j76xyczpmx8hf5fw8122g40w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZPMX8HF5FW8122G40W.jpg",
                 "malId": 110771,
@@ -96,6 +69,19 @@
                 "title": "Magus of the Library",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZPMX8HF5FW8122G40W"
+            }
+        },
+        "MangaFire": {
+            "m2xjz": {
+                "id": 225797,
+                "identifier": "m2xjz",
+                "image": "https://static.mangafire.to/bf9a/i/9/93/93de7cb7e74f2077f3f6bdf543e3bca2.jpg",
+                "malId": 110771,
+                "aniId": 101131,
+                "page": "MangaFire",
+                "title": "Magus of the Library",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/toshokan-no-daimajutsushii.m2xjz"
             }
         },
         "Comick": {

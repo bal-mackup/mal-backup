@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f0e00a5f-2a96-4a74-af56-e5c29c559c46": {
+                "id": 10394,
                 "identifier": "f0e00a5f-2a96-4a74-af56-e5c29c559c46",
                 "image": "https://uploads.mangadex.org/covers/f0e00a5f-2a96-4a74-af56-e5c29c559c46/4afdb81a-bf7f-42ff-809d-f6c97a79413f.jpg",
                 "malId": 67673,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/f0e00a5f-2a96-4a74-af56-e5c29c559c46"
             }
         },
-        "MangaFire": {
-            "touch-me.ompz": {
-                "identifier": "touch-me.ompz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f783fc5b2c2319a9b2776a8c29c2091c.jpg",
-                "malId": 67673,
-                "aniId": 90689,
-                "page": "MangaFire",
-                "title": "Touch Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/touch-me.ompz/"
-            },
-            "ompz": {
-                "identifier": "ompz",
-                "image": "https://static.mangafire.to/decb/i/f/f7/f783fc5b2c2319a9b2776a8c29c2091c.jpg",
-                "malId": 67673,
-                "aniId": 90689,
-                "page": "MangaFire",
-                "title": "Touch Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/touch-mee.ompz"
-            }
-        },
         "MangaFox": {
             "touch_me_minase_ruruu": {
+                "id": 163856,
                 "identifier": "touch_me_minase_ruruu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/22355/cover.jpg",
                 "malId": 67673,
@@ -50,6 +30,19 @@
                 "title": "Touch Me (MINASE Ruruu)",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/touch_me_minase_ruruu/"
+            }
+        },
+        "MangaFire": {
+            "ompz": {
+                "id": 245343,
+                "identifier": "ompz",
+                "image": "https://static.mangafire.to/decb/i/f/f7/f783fc5b2c2319a9b2776a8c29c2091c.jpg",
+                "malId": 67673,
+                "aniId": 90689,
+                "page": "MangaFire",
+                "title": "Touch Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/touch-mee.ompz"
             }
         },
         "Comick": {

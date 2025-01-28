@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "all-of-us-are-dead": {
+                "id": 180751,
                 "identifier": "all-of-us-are-dead",
                 "image": "https://temp.compsci88.com/cover/All-of-Us-Are-Dead.jpg",
                 "malId": 139803,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/All-of-Us-Are-Dead"
             }
         },
-        "MangaFire": {
-            "all-of-us-are-dead.nponj": {
-                "identifier": "all-of-us-are-dead.nponj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65e71e3fe7d327a6286924368a10bff7.jpg",
-                "malId": 139803,
-                "aniId": 126348,
-                "page": "MangaFire",
-                "title": "All of Us Are Dead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/all-of-us-are-dead.nponj/"
-            },
-            "all-of-us-are-deadd.nponj": {
-                "identifier": "all-of-us-are-deadd.nponj",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65e71e3fe7d327a6286924368a10bff7.jpg",
-                "malId": 139803,
-                "aniId": 126348,
-                "page": "MangaFire",
-                "title": "All of Us Are Dead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/all-of-us-are-deadd.nponj/"
-            }
-        },
         "Mangadex": {
             "cd31d76d-13ff-4840-8293-5977f9454499": {
+                "id": 185757,
                 "identifier": "cd31d76d-13ff-4840-8293-5977f9454499",
                 "image": "https://uploads.mangadex.org/covers/cd31d76d-13ff-4840-8293-5977f9454499/4473f47e-52ab-4d12-a7c1-912dc9881a33.jpg",
                 "malId": 139803,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygwjgk6zwjbjf4t1jyek": {
+                "id": 206570,
                 "identifier": "01j76xygwjgk6zwjbjf4t1jyek",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWJGK6ZWJBJF4T1JYEK.jpg",
                 "malId": 139803,
@@ -62,6 +43,19 @@
                 "title": "All of Us Are Dead",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWJGK6ZWJBJF4T1JYEK"
+            }
+        },
+        "MangaFire": {
+            "nponj": {
+                "id": 224572,
+                "identifier": "nponj",
+                "image": "https://static.mangafire.to/d60f/i/6/65/65e71e3fe7d327a6286924368a10bff7.jpg",
+                "malId": 139803,
+                "aniId": 126348,
+                "page": "MangaFire",
+                "title": "All of Us Are Dead",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/all-of-us-are-deadd.nponj"
             }
         },
         "Comick": {

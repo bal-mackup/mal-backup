@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d9e058ac-6b01-4f53-b985-fa4e84735842": {
+                "id": 36839,
                 "identifier": "d9e058ac-6b01-4f53-b985-fa4e84735842",
                 "image": "https://uploads.mangadex.org/covers/d9e058ac-6b01-4f53-b985-fa4e84735842/cef2c94c-1a47-4032-930e-71bd664ca8a0.jpg",
                 "malId": 112385,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ayashi-kotogatari": {
+                "id": 60299,
                 "identifier": "ayashi-kotogatari",
                 "image": "https://temp.compsci88.com/cover/Ayashi-Kotogatari.jpg",
                 "malId": 112385,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ayashi_kotogatari": {
+                "id": 68708,
                 "identifier": "ayashi_kotogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32147/cover.jpg",
                 "malId": 112385,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fj983292": {
+                "id": 125044,
                 "identifier": "manga-fj983292",
                 "image": "https://avt.mkklcdnv6temp.com/fld/26/z/10-1732799600-nw.webp",
                 "malId": 112385,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-fj983292"
             }
         },
-        "MangaFire": {
-            "ayashi-kotogatari.n3zp8": {
-                "identifier": "ayashi-kotogatari.n3zp8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54d68eb722b73143c4639009d4fbc0cf.jpg",
-                "malId": 112385,
-                "aniId": 102217,
-                "page": "MangaFire",
-                "title": "Ghostly Things",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayashi-kotogatari.n3zp8/"
-            },
-            "n3zp8": {
-                "identifier": "n3zp8",
-                "image": "https://static.mangafire.to/3b2d5/i/5/54/54d68eb722b73143c4639009d4fbc0cf.jpg",
-                "malId": 112385,
-                "aniId": 102217,
-                "page": "MangaFire",
-                "title": "Ghostly Things",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayashi-kotogatari.n3zp8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd01k9s2bvfahmdx0z3j": {
+                "id": 210708,
                 "identifier": "01j76xyd01k9s2bvfahmdx0z3j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD01K9S2BVFAHMDX0Z3J.jpg",
                 "malId": 112385,
@@ -86,6 +69,19 @@
                 "title": "Ghostly Things",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD01K9S2BVFAHMDX0Z3J"
+            }
+        },
+        "MangaFire": {
+            "n3zp8": {
+                "id": 258946,
+                "identifier": "n3zp8",
+                "image": "https://static.mangafire.to/4e8e/i/5/54/54d68eb722b73143c4639009d4fbc0cf.jpg",
+                "malId": 112385,
+                "aniId": 102217,
+                "page": "MangaFire",
+                "title": "Ghostly Things",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ayashi-kotogatarii.n3zp8"
             }
         },
         "Comick": {

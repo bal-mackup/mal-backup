@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f9972c2d-b8e0-45e6-a069-8410614e03e7": {
+                "id": 2833,
                 "identifier": "f9972c2d-b8e0-45e6-a069-8410614e03e7",
                 "image": "https://uploads.mangadex.org/covers/f9972c2d-b8e0-45e6-a069-8410614e03e7/635a99ad-558f-4eef-b988-5dc36b6a4496.jpg",
                 "malId": 148097,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "city-of-dead-sorcerer": {
+                "id": 56663,
                 "identifier": "city-of-dead-sorcerer",
                 "image": "https://temp.compsci88.com/cover/City-Of-Dead-Sorcerer.jpg",
                 "malId": 148097,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "city_of_dead_sorcerer": {
+                "id": 59387,
                 "identifier": "city_of_dead_sorcerer",
                 "image": "https://fmcdn.mfcdn.net/store/manga/9799/cover.jpg",
                 "malId": 148097,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/city_of_dead_sorcerer/"
             },
             "jugeun_mabeopsaui_dosi": {
+                "id": 109326,
                 "identifier": "jugeun_mabeopsaui_dosi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31946/cover.jpg",
                 "malId": 148097,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-kl952420": {
+                "id": 76184,
                 "identifier": "manga-kl952420",
                 "image": "https://avt.mkklcdnv6temp.com/38/r/1-1583465216.jpg",
                 "malId": 148097,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-kl952420"
             }
         },
-        "MangaFire": {
-            "jugeun-mabeopsaui-dosi.m358": {
-                "identifier": "jugeun-mabeopsaui-dosi.m358",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/35fc7abe63f52a6802baa05a54fd1c8d.jpg",
-                "malId": 148097,
-                "aniId": 85174,
-                "page": "MangaFire",
-                "title": "Jugeun Mabeopsaui Dosi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jugeun-mabeopsaui-dosi.m358/"
-            }
-        },
         "Weebcentral": {
             "01j76xy7zhbrb4ckwbx55y04t0": {
+                "id": 208973,
                 "identifier": "01j76xy7zhbrb4ckwbx55y04t0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY7ZHBRB4CKWBX55Y04T0.jpg",
                 "malId": 148097,
@@ -86,6 +80,19 @@
                 "title": "City of Dead Sorcerer",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY7ZHBRB4CKWBX55Y04T0"
+            }
+        },
+        "MangaFire": {
+            "m358": {
+                "id": 258634,
+                "identifier": "m358",
+                "image": "https://static.mangafire.to/f841/i/3/35/35fc7abe63f52a6802baa05a54fd1c8d.jpg",
+                "malId": 148097,
+                "aniId": 85174,
+                "page": "MangaFire",
+                "title": "Jugeun Mabeopsaui Dosi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jugeun-mabeopsaui-dosii.m358"
             }
         }
     },

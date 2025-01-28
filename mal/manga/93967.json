@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "30c9ffb1-fa0d-447b-be6f-41e90469b6bc": {
+                "id": 13923,
                 "identifier": "30c9ffb1-fa0d-447b-be6f-41e90469b6bc",
                 "image": "https://uploads.mangadex.org/covers/30c9ffb1-fa0d-447b-be6f-41e90469b6bc/f4ba3328-1073-4c0b-a8cd-a89dae610ebf.jpg",
                 "malId": 93967,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mori-no-takuma-san": {
+                "id": 94800,
                 "identifier": "mori-no-takuma-san",
                 "image": "https://temp.compsci88.com/cover/Mori-No-Takuma-san.jpg",
                 "malId": 93967,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Mori-No-Takuma-san"
             }
         },
-        "MangaFire": {
-            "mori-no-takuma-san.m2qqv": {
-                "identifier": "mori-no-takuma-san.m2qqv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/401e69c7a6fdbdff81f3c87101aaa272.jpg",
-                "malId": 93967,
-                "aniId": 87241,
-                "page": "MangaFire",
-                "title": "Mori no Takuma-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mori-no-takuma-san.m2qqv/"
-            },
-            "m2qqv": {
-                "identifier": "m2qqv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/401e69c7a6fdbdff81f3c87101aaa272.jpg",
-                "malId": 93967,
-                "aniId": 87241,
-                "page": "MangaFire",
-                "title": "Mori no Takuma-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mori-no-takuma-san.m2qqv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc0c4t0an0ak1w6wha66": {
+                "id": 208754,
                 "identifier": "01j76xyc0c4t0an0ak1w6wha66",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC0C4T0AN0AK1W6WHA66.jpg",
                 "malId": 93967,
@@ -62,6 +43,19 @@
                 "title": "Mori no Takuma-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC0C4T0AN0AK1W6WHA66"
+            }
+        },
+        "MangaFire": {
+            "m2qqv": {
+                "id": 254614,
+                "identifier": "m2qqv",
+                "image": "https://static.mangafire.to/8e13/i/4/40/401e69c7a6fdbdff81f3c87101aaa272.jpg",
+                "malId": 93967,
+                "aniId": 87241,
+                "page": "MangaFire",
+                "title": "Mori no Takuma-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mori-no-takuma-sann.m2qqv"
             }
         },
         "Comick": {

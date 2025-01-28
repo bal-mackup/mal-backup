@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7a4b79af-8103-4804-98a3-7181845594c2": {
+                "id": 32895,
                 "identifier": "7a4b79af-8103-4804-98a3-7181845594c2",
                 "image": "https://uploads.mangadex.org/covers/7a4b79af-8103-4804-98a3-7181845594c2/eacfc9b0-5c50-407e-a8e3-85793b41ab51.jpg",
                 "malId": 120808,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "oda-cinnamon-nobunaga": {
+                "id": 159529,
                 "identifier": "oda-cinnamon-nobunaga",
                 "image": "https://temp.compsci88.com/cover/Oda-Cinnamon-Nobunaga.jpg",
                 "malId": 120808,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tq996499": {
+                "id": 181297,
                 "identifier": "manga-tq996499",
                 "image": "https://avt.mkklcdnv6temp.com/fld/18/v/15-1733307706-nw.webp",
                 "malId": 120808,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.to/manga-tq996499"
             }
         },
-        "MangaFire": {
-            "oda-shinamon-nobunaga.k3x49": {
-                "identifier": "oda-shinamon-nobunaga.k3x49",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/ebea4545a70340be73ab77b7e066dfa1.jpg",
-                "malId": 120808,
-                "aniId": 110614,
-                "page": "MangaFire",
-                "title": "Oda Shinamon Nobunaga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oda-shinamon-nobunaga.k3x49/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg73saymgapbkhtqam64": {
+                "id": 207493,
                 "identifier": "01j76xyg73saymgapbkhtqam64",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG73SAYMGAPBKHTQAM64.jpg",
                 "malId": 120808,
@@ -64,6 +56,19 @@
                 "title": "Oda Cinnamon Nobunaga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG73SAYMGAPBKHTQAM64"
+            }
+        },
+        "MangaFire": {
+            "k3x49": {
+                "id": 236603,
+                "identifier": "k3x49",
+                "image": "https://static.mangafire.to/662c/i/e/eb/ebea4545a70340be73ab77b7e066dfa1.jpg",
+                "malId": 120808,
+                "aniId": 110614,
+                "page": "MangaFire",
+                "title": "Oda Shinamon Nobunaga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oda-shinamon-nobunagaa.k3x49"
             }
         }
     },

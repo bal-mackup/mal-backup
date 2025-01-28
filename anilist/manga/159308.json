@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cf7b7869-3d9a-4c4d-bd06-249eba113558": {
+                "id": 120393,
                 "identifier": "cf7b7869-3d9a-4c4d-bd06-249eba113558",
                 "image": "https://uploads.mangadex.org/covers/cf7b7869-3d9a-4c4d-bd06-249eba113558/5b978b74-b18f-4039-a972-fa51d15e5d12.jpg",
                 "malId": 154486,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qz993934": {
+                "id": 124129,
                 "identifier": "manga-qz993934",
                 "image": "https://avt.mkklcdnv6temp.com/18/c/28-1675773076.jpg",
                 "malId": 154486,
@@ -30,40 +32,9 @@
                 "url": "https://manganato.com/manga-qz993934"
             }
         },
-        "MangaFire": {
-            "boku-to-gal-ga-fuufu-ni-naru-made.lrp9z": {
-                "identifier": "boku-to-gal-ga-fuufu-ni-naru-made.lrp9z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/91c824cbaba3783a0053f36567d90e5b.jpg",
-                "malId": 154486,
-                "aniId": 159308,
-                "page": "MangaFire",
-                "title": "Boku to Gal ga Fuufu ni Naru made",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-to-gal-ga-fuufu-ni-naru-made.lrp9z/"
-            },
-            "Until-the-Gyaru-and-I-Become-a-Married-Couple.lrp9z": {
-                "identifier": "Until-the-Gyaru-and-I-Become-a-Married-Couple.lrp9z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/91c824cbaba3783a0053f36567d90e5b.jpg",
-                "malId": 154486,
-                "aniId": 159308,
-                "page": "MangaFire",
-                "title": "Boku to Gal ga Fuufu ni Naru made",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Until-the-Gyaru-and-I-Become-a-Married-Couple.lrp9z/"
-            },
-            "boku-to-gal-ga-fuufu-ni-naru-madee.lrp9z": {
-                "identifier": "boku-to-gal-ga-fuufu-ni-naru-madee.lrp9z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/91c824cbaba3783a0053f36567d90e5b.jpg",
-                "malId": 154486,
-                "aniId": 159308,
-                "page": "MangaFire",
-                "title": "Boku to Gal ga Fuufu ni Naru made",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-to-gal-ga-fuufu-ni-naru-madee.lrp9z/"
-            }
-        },
         "MangaSee": {
             "boku-to-gal-ga-fufu-ni-narumade": {
+                "id": 170534,
                 "identifier": "boku-to-gal-ga-fufu-ni-narumade",
                 "image": "https://temp.compsci88.com/cover/Boku-to-GAL-ga-Fufu-ni-Narumade.jpg",
                 "malId": 154486,
@@ -76,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyghfd3pnaqch5y09bzrd": {
+                "id": 207390,
                 "identifier": "01j76xyghfd3pnaqch5y09bzrd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGHFD3PNAQCH5Y09BZRD.jpg",
                 "malId": 154486,
@@ -84,6 +56,19 @@
                 "title": "Boku to GAL ga Fufu ni Narumade",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGHFD3PNAQCH5Y09BZRD"
+            }
+        },
+        "MangaFire": {
+            "lrp9z": {
+                "id": 223969,
+                "identifier": "lrp9z",
+                "image": "https://static.mangafire.to/6039/i/9/91/91c824cbaba3783a0053f36567d90e5b.jpg",
+                "malId": 154486,
+                "aniId": 159308,
+                "page": "MangaFire",
+                "title": "Boku to Gal ga Fuufu ni Naru made",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-to-gal-ga-fuufu-ni-naru-madee.lrp9z"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "789642f8-ca89-4e4e-8f7b-eee4d17ea08b": {
+                "id": 15253,
                 "identifier": "789642f8-ca89-4e4e-8f7b-eee4d17ea08b",
                 "image": "https://uploads.mangadex.org/covers/789642f8-ca89-4e4e-8f7b-eee4d17ea08b/60530e72-f76f-45d5-b6f9-f95e05058fc3.png",
                 "malId": 96792,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/789642f8-ca89-4e4e-8f7b-eee4d17ea08b"
             },
             "62040a44-0935-46b7-a691-5ae5833af0ae": {
+                "id": 25361,
                 "identifier": "62040a44-0935-46b7-a691-5ae5833af0ae",
                 "image": "https://uploads.mangadex.org/covers/62040a44-0935-46b7-a691-5ae5833af0ae/d8022dd1-6c26-4619-9683-1a0e9a04ae29.jpg",
                 "malId": 96792,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "kimetsu_no_yaiba": {
+                "id": 51572,
                 "identifier": "kimetsu_no_yaiba",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19287/cover.jpg",
                 "malId": 96792,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "kimetsu-no-yaiba": {
+                "id": 54562,
                 "identifier": "kimetsu-no-yaiba",
                 "image": "https://temp.compsci88.com/cover/Kimetsu-No-Yaiba.jpg",
                 "malId": 96792,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-to970571": {
+                "id": 73026,
                 "identifier": "manga-to970571",
                 "image": "https://avt.mkklcdnv6temp.com/30/e/13-1583488820.jpg",
                 "malId": 96792,
@@ -64,50 +69,9 @@
                 "url": "https://chapmanganato.com/manga-to970571"
             }
         },
-        "MangaFire": {
-            "kimetsu-no-yaiba.7j6": {
-                "identifier": "kimetsu-no-yaiba.7j6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bd4f518bcd9511455b411241c4121633.jpg",
-                "malId": 96792,
-                "aniId": 87216,
-                "page": "MangaFire",
-                "title": "Demon Slayer: Kimetsu no Yaiba",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimetsu-no-yaiba.7j6/"
-            },
-            "kimetsu-no-yaiba2.4jy2k": {
-                "identifier": "kimetsu-no-yaiba2.4jy2k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26a2d0fa60a5ede2e92bc37dae14c7ef.jpg",
-                "malId": 96792,
-                "aniId": 87216,
-                "page": "MangaFire",
-                "title": "Demon Slayer: Kimetsu no Yaiba",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimetsu-no-yaiba2.4jy2k/"
-            },
-            "kimetsu-no-yaiba22.4jy2k": {
-                "identifier": "kimetsu-no-yaiba22.4jy2k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26a2d0fa60a5ede2e92bc37dae14c7ef.jpg",
-                "malId": 96792,
-                "aniId": 87216,
-                "page": "MangaFire",
-                "title": "Demon Slayer: Kimetsu no Yaiba",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimetsu-no-yaiba22.4jy2k/"
-            },
-            "kimetsu-no-yaibaa.7j6": {
-                "identifier": "kimetsu-no-yaibaa.7j6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bd4f518bcd9511455b411241c4121633.jpg",
-                "malId": 96792,
-                "aniId": 87216,
-                "page": "MangaFire",
-                "title": "Demon Slayer: Kimetsu no Yaiba",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimetsu-no-yaibaa.7j6/"
-            }
-        },
         "Weebcentral": {
             "01j76xybpp2a7d38xgf4psqvpd": {
+                "id": 207249,
                 "identifier": "01j76xybpp2a7d38xgf4psqvpd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBPP2A7D38XGF4PSQVPD.jpg",
                 "malId": 96792,
@@ -116,6 +80,30 @@
                 "title": "Demon Slayer - Kimetsu no Yaiba",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBPP2A7D38XGF4PSQVPD"
+            }
+        },
+        "MangaFire": {
+            "7j6": {
+                "id": 224558,
+                "identifier": "7j6",
+                "image": "https://static.mangafire.to/be71/i/b/bd/bd4f518bcd9511455b411241c4121633.jpg",
+                "malId": 96792,
+                "aniId": 87216,
+                "page": "MangaFire",
+                "title": "Demon Slayer: Kimetsu no Yaiba",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimetsu-no-yaibaa.7j6"
+            },
+            "4jy2k": {
+                "id": 225989,
+                "identifier": "4jy2k",
+                "image": "https://static.mangafire.to/3bbe/i/2/26/26a2d0fa60a5ede2e92bc37dae14c7ef.jpg",
+                "malId": 96792,
+                "aniId": 87216,
+                "page": "MangaFire",
+                "title": "Demon Slayer: Kimetsu no Yaiba",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimetsu-no-yaiba22.4jy2k"
             }
         },
         "Comick": {

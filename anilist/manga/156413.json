@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d5eab46f-8698-4e0f-9fe4-3b2d821aaa29": {
+                "id": 116956,
                 "identifier": "d5eab46f-8698-4e0f-9fe4-3b2d821aaa29",
                 "image": "https://uploads.mangadex.org/covers/d5eab46f-8698-4e0f-9fe4-3b2d821aaa29/86cd8d68-5c96-4346-b95a-e7f7d9b43fbc.jpg",
                 "malId": 156081,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qg993363": {
+                "id": 120602,
                 "identifier": "manga-qg993363",
                 "image": "https://avt.mkklcdnv6temp.com/44/w/27-1672218312.jpg",
                 "malId": 156081,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qg993363"
             }
         },
-        "MangaFire": {
-            "the-tyrant-wants-to-live-a-virtuous-life.mqlwz": {
-                "identifier": "the-tyrant-wants-to-live-a-virtuous-life.mqlwz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f96775c7c8dbb037decfad165a3188fc.jpg",
-                "malId": 156081,
-                "aniId": 156413,
-                "page": "MangaFire",
-                "title": "The Tyrant Wants to Live a Virtuous Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-tyrant-wants-to-live-a-virtuous-life.mqlwz/"
-            },
-            "the-tyrant-wants-to-live-a-virtuous-lifee.mqlwz": {
-                "identifier": "the-tyrant-wants-to-live-a-virtuous-lifee.mqlwz",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f96775c7c8dbb037decfad165a3188fc.jpg",
-                "malId": 156081,
-                "aniId": 156413,
-                "page": "MangaFire",
-                "title": "The Tyrant Wants to Live a Virtuous Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-tyrant-wants-to-live-a-virtuous-lifee.mqlwz/"
-            }
-        },
         "MangaSee": {
             "the-tyrant-wants-to-be-good": {
+                "id": 168040,
                 "identifier": "the-tyrant-wants-to-be-good",
                 "image": "https://temp.compsci88.com/cover/The-Tyrant-Wants-to-Be-Good.jpg",
                 "malId": 156081,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygetbmwk95d0gzvf0fta": {
+                "id": 209540,
                 "identifier": "01j76xygetbmwk95d0gzvf0fta",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGETBMWK95D0GZVF0FTA.jpg",
                 "malId": 156081,
@@ -74,6 +56,19 @@
                 "title": "The Tyrant Wants to Be Good",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGETBMWK95D0GZVF0FTA"
+            }
+        },
+        "MangaFire": {
+            "mqlwz": {
+                "id": 226552,
+                "identifier": "mqlwz",
+                "image": "https://static.mangafire.to/2972/i/f/f9/f96775c7c8dbb037decfad165a3188fc.jpg",
+                "malId": 156081,
+                "aniId": 156413,
+                "page": "MangaFire",
+                "title": "The Tyrant Wants to Live a Virtuous Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-tyrant-wants-to-live-a-virtuous-lifee.mqlwz"
             }
         },
         "Comick": {

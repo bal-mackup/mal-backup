@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bffa75d5-a0a0-49c3-98e8-50bc5355c604": {
+                "id": 22161,
                 "identifier": "bffa75d5-a0a0-49c3-98e8-50bc5355c604",
                 "image": "https://uploads.mangadex.org/covers/bffa75d5-a0a0-49c3-98e8-50bc5355c604/4b501966-7bf2-42af-bdaa-4b1cfdae7bb8.jpg",
                 "malId": 72451,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-tenth-prism": {
+                "id": 58925,
                 "identifier": "the-tenth-prism",
                 "image": "https://temp.compsci88.com/cover/The-Tenth-Prism.jpg",
                 "malId": 72451,
@@ -30,6 +32,7 @@
                 "url": "https://mangasee123.com/manga/The-Tenth-Prism"
             },
             "the-tenth-prism-full-color": {
+                "id": 78278,
                 "identifier": "the-tenth-prism-full-color",
                 "image": "https://temp.compsci88.com/cover/The-Tenth-Prism-Full-Color.jpg",
                 "malId": 72451,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-ur951826": {
+                "id": 100688,
                 "identifier": "manga-ur951826",
                 "image": "https://avt.mkklcdnv6temp.com/fld/20/q/1-1732717183-nw.webp",
                 "malId": 72451,
@@ -52,30 +56,9 @@
                 "url": "https://manganato.com/manga-ur951826"
             }
         },
-        "MangaFire": {
-            "ten-prism.7wnq6": {
-                "identifier": "ten-prism.7wnq6",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc852fef2a41f49d8d7e53c427522597.jpg",
-                "malId": 72451,
-                "aniId": 85501,
-                "page": "MangaFire",
-                "title": "The Tenth Prism",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ten-prism.7wnq6/"
-            },
-            "7wnq6": {
-                "identifier": "7wnq6",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fc852fef2a41f49d8d7e53c427522597.jpg",
-                "malId": 72451,
-                "aniId": 85501,
-                "page": "MangaFire",
-                "title": "The Tenth Prism",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ten-prism.7wnq6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaswyzydt1cbv5mqpn66": {
+                "id": 207632,
                 "identifier": "01j76xyaswyzydt1cbv5mqpn66",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYASWYZYDT1CBV5MQPN66.jpg",
                 "malId": 72451,
@@ -86,6 +69,7 @@
                 "url": "https://weebcentral.com/series/01J76XYASWYZYDT1CBV5MQPN66"
             },
             "01j76xye2g97rkzv9s1c8sjrhn": {
+                "id": 212534,
                 "identifier": "01j76xye2g97rkzv9s1c8sjrhn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE2G97RKZV9S1C8SJRHN.jpg",
                 "malId": 72451,
@@ -94,6 +78,19 @@
                 "title": "The Tenth Prism - Color",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE2G97RKZV9S1C8SJRHN"
+            }
+        },
+        "MangaFire": {
+            "7wnq6": {
+                "id": 230197,
+                "identifier": "7wnq6",
+                "image": "https://static.mangafire.to/6734/i/f/fc/fc852fef2a41f49d8d7e53c427522597.jpg",
+                "malId": 72451,
+                "aniId": 85501,
+                "page": "MangaFire",
+                "title": "The Tenth Prism",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ten-prismm.7wnq6"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b868ca98-440e-4ffb-a6d9-05d2f79b4ed1": {
+                "id": 92982,
                 "identifier": "b868ca98-440e-4ffb-a6d9-05d2f79b4ed1",
                 "image": "https://uploads.mangadex.org/covers/b868ca98-440e-4ffb-a6d9-05d2f79b4ed1/3b80685a-0522-4d8a-aca0-ed94d97d4bd7.jpg",
                 "malId": 136642,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eisen-no-lovelock": {
+                "id": 95447,
                 "identifier": "eisen-no-lovelock",
                 "image": "https://temp.compsci88.com/cover/Eisen-no-Lovelock.jpg",
                 "malId": 136642,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "eisen_no_lovelock": {
+                "id": 95555,
                 "identifier": "eisen_no_lovelock",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41108/cover.jpg",
                 "malId": 136642,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/eisen_no_lovelock/"
             }
         },
-        "MangaFire": {
-            "eisen-no-lovelock.9oq60": {
-                "identifier": "eisen-no-lovelock.9oq60",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2f/2ff098f00b8326baee492324a030fa9b.jpg",
-                "malId": 136642,
-                "aniId": 132353,
-                "page": "MangaFire",
-                "title": "Lovelock of Majestic War",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eisen-no-lovelock.9oq60/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf9hv3v6e5zkezx2wvbr": {
+                "id": 213128,
                 "identifier": "01j76xyf9hv3v6e5zkezx2wvbr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF9HV3V6E5ZKEZX2WVBR.jpg",
                 "malId": 136642,
@@ -64,6 +56,19 @@
                 "title": "Eisen no Lovelock",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF9HV3V6E5ZKEZX2WVBR"
+            }
+        },
+        "MangaFire": {
+            "9oq60": {
+                "id": 257518,
+                "identifier": "9oq60",
+                "image": "https://static.mangafire.to/f103/i/2/2f/2ff098f00b8326baee492324a030fa9b.jpg",
+                "malId": 136642,
+                "aniId": 132353,
+                "page": "MangaFire",
+                "title": "Lovelock of Majestic War",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eisen-no-lovelockk.9oq60"
             }
         },
         "Comick": {

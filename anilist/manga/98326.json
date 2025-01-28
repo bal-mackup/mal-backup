@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "356a389d-6a14-4c33-ba66-bdecdbed0458": {
+                "id": 17178,
                 "identifier": "356a389d-6a14-4c33-ba66-bdecdbed0458",
                 "image": "https://uploads.mangadex.org/covers/356a389d-6a14-4c33-ba66-bdecdbed0458/9650aaca-42a2-4ec8-90d1-17d21d550cf3.jpg",
                 "malId": 103900,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "u19": {
+                "id": 67041,
                 "identifier": "u19",
                 "image": "https://temp.compsci88.com/cover/U19.jpg",
                 "malId": 103900,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "u19": {
+                "id": 115590,
                 "identifier": "u19",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24145/cover.jpg",
                 "malId": 103900,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/u19/"
             }
         },
-        "MangaFire": {
-            "u19.5212j": {
-                "identifier": "u19.5212j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/767c876b0ca3831d0bc3be7a75a4497e.jpg",
-                "malId": 103900,
-                "aniId": 98326,
-                "page": "MangaFire",
-                "title": "U19",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/u19.5212j/"
-            },
-            "5212j": {
-                "identifier": "5212j",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/767c876b0ca3831d0bc3be7a75a4497e.jpg",
-                "malId": 103900,
-                "aniId": 98326,
-                "page": "MangaFire",
-                "title": "U19",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/u19.5212j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2nkdbkda77zqqe0189": {
+                "id": 213479,
                 "identifier": "01j76xyc2nkdbkda77zqqe0189",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2NKDBKDA77ZQQE0189.jpg",
                 "malId": 103900,
@@ -74,6 +56,19 @@
                 "title": "U19",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2NKDBKDA77ZQQE0189"
+            }
+        },
+        "MangaFire": {
+            "5212j": {
+                "id": 230108,
+                "identifier": "5212j",
+                "image": "https://static.mangafire.to/155a/i/7/76/767c876b0ca3831d0bc3be7a75a4497e.jpg",
+                "malId": 103900,
+                "aniId": 98326,
+                "page": "MangaFire",
+                "title": "U19",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/u199.5212j"
             }
         },
         "Comick": {

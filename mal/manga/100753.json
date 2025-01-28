@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a670fa43-0472-4736-af30-785d8c08fb1c": {
+                "id": 40103,
                 "identifier": "a670fa43-0472-4736-af30-785d8c08fb1c",
                 "image": "https://uploads.mangadex.org/covers/a670fa43-0472-4736-af30-785d8c08fb1c/117fb573-ed16-447a-bb36-afc8c56053d9.jpg",
                 "malId": 100753,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "subaru-to-suu-san": {
+                "id": 58253,
                 "identifier": "subaru-to-suu-san",
                 "image": "https://temp.compsci88.com/cover/Subaru-to-Suu-san.jpg",
                 "malId": 100753,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jt986854": {
+                "id": 86949,
                 "identifier": "manga-jt986854",
                 "image": "https://avt.mkklcdnv6temp.com/23/p/22-1601638858.jpg",
                 "malId": 100753,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-jt986854"
             }
         },
-        "MangaFire": {
-            "subaru-to-suu-san.52q6j": {
-                "identifier": "subaru-to-suu-san.52q6j",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df9fc6efeefd176cf75e3d31fd4597d8.jpg",
-                "malId": 100753,
-                "aniId": 111685,
-                "page": "MangaFire",
-                "title": "Subaru to Suu-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/subaru-to-suu-san.52q6j/"
-            },
-            "subaru-to-suu-sann.52q6j": {
-                "identifier": "subaru-to-suu-sann.52q6j",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df9fc6efeefd176cf75e3d31fd4597d8.jpg",
-                "malId": 100753,
-                "aniId": 111685,
-                "page": "MangaFire",
-                "title": "Subaru to Suu-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/subaru-to-suu-sann.52q6j/"
-            },
-            "52q6j": {
-                "identifier": "52q6j",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df9fc6efeefd176cf75e3d31fd4597d8.jpg",
-                "malId": 100753,
-                "aniId": 111685,
-                "page": "MangaFire",
-                "title": "Subaru to Suu-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/subaru-to-suu-sann.52q6j/"
-            }
-        },
         "MangaFox": {
             "subaru_to_suu_san": {
+                "id": 188541,
                 "identifier": "subaru_to_suu_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35860/cover.jpg",
                 "malId": 100753,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xydzt0884p0v50qxevrfn": {
+                "id": 210762,
                 "identifier": "01j76xydzt0884p0v50qxevrfn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZT0884P0V50QXEVRFN.jpg",
                 "malId": 100753,
@@ -96,6 +69,19 @@
                 "title": "Subaru to Suu-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZT0884P0V50QXEVRFN"
+            }
+        },
+        "MangaFire": {
+            "52q6j": {
+                "id": 225909,
+                "identifier": "52q6j",
+                "image": "https://static.mangafire.to/f18a/i/d/df/df9fc6efeefd176cf75e3d31fd4597d8.jpg",
+                "malId": 100753,
+                "aniId": 111685,
+                "page": "MangaFire",
+                "title": "Subaru to Suu-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/subaru-to-suu-sann.52q6j"
             }
         },
         "Comick": {

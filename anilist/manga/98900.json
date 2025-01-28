@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1f5a94b3-08f9-4b58-8354-db5cf22043d6": {
+                "id": 17188,
                 "identifier": "1f5a94b3-08f9-4b58-8354-db5cf22043d6",
                 "image": "https://uploads.mangadex.org/covers/1f5a94b3-08f9-4b58-8354-db5cf22043d6/00a8ccd5-ecbc-48ff-9143-c82f3c3122f5.jpg",
                 "malId": 105328,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gaikotsu-kishi-sama-tadaima": {
+                "id": 57686,
                 "identifier": "gaikotsu-kishi-sama-tadaima",
                 "image": "https://temp.compsci88.com/cover/Gaikotsu-Kishi-sama-Tadaima.jpg",
                 "malId": 105328,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "gaikotsu_kishi_sama_tadaima_isekai_e_o_dekake_chuu": {
+                "id": 57698,
                 "identifier": "gaikotsu_kishi_sama_tadaima_isekai_e_o_dekake_chuu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24815/cover.jpg",
                 "malId": 105328,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yz975582": {
+                "id": 73579,
                 "identifier": "manga-yz975582",
                 "image": "https://avt.mkklcdnv6temp.com/12/x/15-1583491928.jpg",
                 "malId": 105328,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yz975582"
             }
         },
-        "MangaFire": {
-            "gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu.6l27": {
-                "identifier": "gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu.6l27",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b73cb10b6516a2d79032be102d822fc4.jpg",
-                "malId": 105328,
-                "aniId": 98900,
-                "page": "MangaFire",
-                "title": "Skeleton Knight in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu.6l27/"
-            },
-            "gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuuu.6l27": {
-                "identifier": "gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuuu.6l27",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b73cb10b6516a2d79032be102d822fc4.jpg",
-                "malId": 105328,
-                "aniId": 98900,
-                "page": "MangaFire",
-                "title": "Skeleton Knight in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuuu.6l27/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc588pkvwnw533jt57z2": {
+                "id": 208944,
                 "identifier": "01j76xyc588pkvwnw533jt57z2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC588PKVWNW533JT57Z2.jpg",
                 "malId": 105328,
@@ -86,6 +69,19 @@
                 "title": "Skeleton Knight in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC588PKVWNW533JT57Z2"
+            }
+        },
+        "MangaFire": {
+            "6l27": {
+                "id": 229499,
+                "identifier": "6l27",
+                "image": "https://static.mangafire.to/878a/i/b/b7/b73cb10b6516a2d79032be102d822fc4.jpg",
+                "malId": 105328,
+                "aniId": 98900,
+                "page": "MangaFire",
+                "title": "Skeleton Knight in Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuuu.6l27"
             }
         },
         "Comick": {

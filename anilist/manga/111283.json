@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "655716aa-3e62-4121-abb3-ee1dede684ec": {
+                "id": 22826,
                 "identifier": "655716aa-3e62-4121-abb3-ee1dede684ec",
                 "image": "https://uploads.mangadex.org/covers/655716aa-3e62-4121-abb3-ee1dede684ec/88d76fc1-1529-4a39-8f67-8d4a2e9d9450.jpg",
                 "malId": 112950,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "promise_cinderella": {
+                "id": 63864,
                 "identifier": "promise_cinderella",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31116/cover.jpg",
                 "malId": 112950,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fm982569": {
+                "id": 81284,
                 "identifier": "manga-fm982569",
                 "image": "https://avt.mkklcdnv6temp.com/6/n/19-1583499329.jpg",
                 "malId": 112950,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "promise-cinderella": {
+                "id": 100666,
                 "identifier": "promise-cinderella",
                 "image": "https://temp.compsci88.com/cover/Promise-Cinderella.jpg",
                 "malId": 112950,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Promise-Cinderella"
             }
         },
-        "MangaFire": {
-            "promise-cinderella.zlyrm": {
-                "identifier": "promise-cinderella.zlyrm",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da9f2a4b0be6ddbc81db80c436aaa7d7.jpg",
-                "malId": 112950,
-                "aniId": 111283,
-                "page": "MangaFire",
-                "title": "Promise Cinderella",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/promise-cinderella.zlyrm/"
-            },
-            "promise-cinderellaa.zlyrm": {
-                "identifier": "promise-cinderellaa.zlyrm",
-                "image": "https://static.mangafire.to/3b2d5/i/d/da/da9f2a4b0be6ddbc81db80c436aaa7d7.jpg",
-                "malId": 112950,
-                "aniId": 111283,
-                "page": "MangaFire",
-                "title": "Promise Cinderella",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/promise-cinderellaa.zlyrm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfdkmge8xm3nhjnsj88q": {
+                "id": 208038,
                 "identifier": "01j76xyfdkmge8xm3nhjnsj88q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFDKMGE8XM3NHJNSJ88Q.jpg",
                 "malId": 112950,
@@ -86,6 +69,19 @@
                 "title": "Promise Cinderella",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFDKMGE8XM3NHJNSJ88Q"
+            }
+        },
+        "MangaFire": {
+            "zlyrm": {
+                "id": 225494,
+                "identifier": "zlyrm",
+                "image": "https://static.mangafire.to/25e3/i/d/da/da9f2a4b0be6ddbc81db80c436aaa7d7.jpg",
+                "malId": 112950,
+                "aniId": 111283,
+                "page": "MangaFire",
+                "title": "Promise Cinderella",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/promise-cinderellaa.zlyrm"
             }
         },
         "Comick": {

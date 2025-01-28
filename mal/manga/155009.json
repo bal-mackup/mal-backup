@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mt989976": {
+                "id": 90527,
                 "identifier": "manga-mt989976",
                 "image": "https://avt.mkklcdnv6temp.com/4/o/25-1636552858.jpg",
                 "malId": 155009,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "47a54583-a16f-4480-a6c3-b90248f91983": {
+                "id": 116255,
                 "identifier": "47a54583-a16f-4480-a6c3-b90248f91983",
                 "image": "https://uploads.mangadex.org/covers/47a54583-a16f-4480-a6c3-b90248f91983/35d89939-97e0-4fa6-96a8-5bdd09e1705d.jpg",
                 "malId": 155009,
@@ -31,25 +33,16 @@
             }
         },
         "MangaFire": {
-            "never-die-extra.qk435": {
-                "identifier": "never-die-extra.qk435",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e5/e5b72ef3639f23966949a6c12cea13ec.jpg",
-                "malId": 155009,
-                "aniId": 155490,
-                "page": "MangaFire",
-                "title": "Never Die Extra",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/never-die-extra.qk435/"
-            },
-            "never-die-extraa.qk435": {
-                "identifier": "never-die-extraa.qk435",
+            "qk435": {
+                "id": 222988,
+                "identifier": "qk435",
                 "image": "https://static.mangafire.to/1091/i/e/e5/e5b72ef3639f23966949a6c12cea13ec.jpg",
                 "malId": 155009,
                 "aniId": 155490,
                 "page": "MangaFire",
                 "title": "Never Die Extra",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/never-die-extraa.qk435/"
+                "url": "https://mangafire.to/manga/never-die-extraa.qk435"
             }
         },
         "Comick": {

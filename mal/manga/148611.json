@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "monster_duke_s_daughter": {
+                "id": 70696,
                 "identifier": "monster_duke_s_daughter",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36487/cover.jpg",
                 "malId": 148611,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jt987176": {
+                "id": 75780,
                 "identifier": "manga-jt987176",
                 "image": "https://avt.mkklcdnv6temp.com/12/g/27-1664097734.jpg",
                 "malId": 148611,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "monster-dukes-daughter": {
+                "id": 96275,
                 "identifier": "monster-dukes-daughter",
                 "image": "https://temp.compsci88.com/cover/Monster-Dukes-Daughter.jpg",
                 "malId": 148611,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "e7b92d8b-ae1d-4968-aab4-de5d62213075": {
+                "id": 108296,
                 "identifier": "e7b92d8b-ae1d-4968-aab4-de5d62213075",
                 "image": "https://uploads.mangadex.org/covers/e7b92d8b-ae1d-4968-aab4-de5d62213075/919adc00-ba2a-4b7a-9418-fdc11981bff8.jpg",
                 "malId": 148611,
@@ -54,40 +58,9 @@
                 "url": "https://mangadex.org/title/e7b92d8b-ae1d-4968-aab4-de5d62213075"
             }
         },
-        "MangaFire": {
-            "monster-dukes-daughter.yk330": {
-                "identifier": "monster-dukes-daughter.yk330",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/633eefa33e7a88eaa1c23750eff2d262.jpg",
-                "malId": 148611,
-                "aniId": 136937,
-                "page": "MangaFire",
-                "title": "Monster Duke's Daughter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monster-dukes-daughter.yk330/"
-            },
-            "monster-dukes-daughter-pre-serialization.z1k02": {
-                "identifier": "monster-dukes-daughter-pre-serialization.z1k02",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e4/e4d3c57ff3017c35e740e7eb789c4c4f.jpg",
-                "malId": 148611,
-                "aniId": 136937,
-                "page": "MangaFire",
-                "title": "Monster Duke's Daughter (Pre-serialization)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monster-dukes-daughter-pre-serialization.z1k02/"
-            },
-            "monster-dukes-daughterr.yk330": {
-                "identifier": "monster-dukes-daughterr.yk330",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/633eefa33e7a88eaa1c23750eff2d262.jpg",
-                "malId": 148611,
-                "aniId": 136937,
-                "page": "MangaFire",
-                "title": "Monster Duke's Daughter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monster-dukes-daughterr.yk330/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfa0pfgmjf2jcwhjtwy4": {
+                "id": 206713,
                 "identifier": "01j76xyfa0pfgmjf2jcwhjtwy4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFA0PFGMJF2JCWHJTWY4.jpg",
                 "malId": 148611,
@@ -96,6 +69,30 @@
                 "title": "Monster Duke's Daughter",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFA0PFGMJF2JCWHJTWY4"
+            }
+        },
+        "MangaFire": {
+            "yk330": {
+                "id": 226418,
+                "identifier": "yk330",
+                "image": "https://static.mangafire.to/d0a1/i/6/63/633eefa33e7a88eaa1c23750eff2d262.jpg",
+                "malId": 148611,
+                "aniId": 136937,
+                "page": "MangaFire",
+                "title": "Monster Duke's Daughter",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/monster-dukes-daughterr.yk330"
+            },
+            "z1k02": {
+                "id": 240480,
+                "identifier": "z1k02",
+                "image": "https://static.mangafire.to/92cc/i/e/e4/e4d3c57ff3017c35e740e7eb789c4c4f.jpg",
+                "malId": 148611,
+                "aniId": 136937,
+                "page": "MangaFire",
+                "title": "Monster Duke's Daughter (Pre-serialization)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/monster-dukes-daughter-pre-serializationn.z1k02"
             }
         },
         "Comick": {

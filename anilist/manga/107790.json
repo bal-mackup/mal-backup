@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "48563de8-7669-4cd3-9dc0-7cbc945e8a8a": {
+                "id": 21201,
                 "identifier": "48563de8-7669-4cd3-9dc0-7cbc945e8a8a",
                 "image": "https://uploads.mangadex.org/covers/48563de8-7669-4cd3-9dc0-7cbc945e8a8a/d860edae-be60-4cfc-a01f-50286fd1b6c9.jpg",
                 "malId": 106609,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "no-longer-human-itou-junji": {
+                "id": 58318,
                 "identifier": "no-longer-human-itou-junji",
                 "image": "https://temp.compsci88.com/cover/No-Longer-Human-ITOU-Junji.jpg",
                 "malId": 106609,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "no_longer_human": {
+                "id": 62075,
                 "identifier": "no_longer_human",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29398/cover.jpg",
                 "malId": 106609,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dj980444": {
+                "id": 77217,
                 "identifier": "manga-dj980444",
                 "image": "https://avt.mkklcdnv6temp.com/28/x/17-1583496295.jpg",
                 "malId": 106609,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dj980444"
             }
         },
-        "MangaFire": {
-            "no-longer-human-ito-junji.oll4": {
-                "identifier": "no-longer-human-ito-junji.oll4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b4adf879b1f0c6b3d03864c53329b75e.jpg",
-                "malId": 106609,
-                "aniId": 107790,
-                "page": "MangaFire",
-                "title": "No Longer Human",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-longer-human-ito-junji.oll4/"
-            },
-            "no-longer-human-ito-junjii.oll4": {
-                "identifier": "no-longer-human-ito-junjii.oll4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b4/b4adf879b1f0c6b3d03864c53329b75e.jpg",
-                "malId": 106609,
-                "aniId": 107790,
-                "page": "MangaFire",
-                "title": "No Longer Human",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-longer-human-ito-junjii.oll4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd24yghp61a66rgb4qc6": {
+                "id": 212819,
                 "identifier": "01j76xyd24yghp61a66rgb4qc6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD24YGHP61A66RGB4QC6.jpg",
                 "malId": 106609,
@@ -86,6 +69,19 @@
                 "title": "No Longer Human (ITOU Junji)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD24YGHP61A66RGB4QC6"
+            }
+        },
+        "MangaFire": {
+            "oll4": {
+                "id": 223422,
+                "identifier": "oll4",
+                "image": "https://static.mangafire.to/e4a1/i/b/b4/b4adf879b1f0c6b3d03864c53329b75e.jpg",
+                "malId": 106609,
+                "aniId": 107790,
+                "page": "MangaFire",
+                "title": "No Longer Human",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-longer-human-ito-junjii.oll4"
             }
         },
         "Comick": {

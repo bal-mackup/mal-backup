@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d7862895-2632-4376-9eea-609d43587f18": {
+                "id": 18996,
                 "identifier": "d7862895-2632-4376-9eea-609d43587f18",
                 "image": "https://uploads.mangadex.org/covers/d7862895-2632-4376-9eea-609d43587f18/a743488d-ed1c-4c97-8616-a923916b2566.png",
                 "malId": 116897,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "wu_dong_qian_kun": {
+                "id": 56907,
                 "identifier": "wu_dong_qian_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34805/cover.jpg",
                 "malId": 116897,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/wu_dong_qian_kun/"
             },
             "martial_movement_upheaval": {
+                "id": 67415,
                 "identifier": "martial_movement_upheaval",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16551/cover.jpg",
                 "malId": 116897,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "martial-movement-upheaval": {
+                "id": 64432,
                 "identifier": "martial-movement-upheaval",
                 "image": "https://temp.compsci88.com/cover/Martial-Movement-Upheaval.jpg",
                 "malId": 116897,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-zt952128": {
+                "id": 72970,
                 "identifier": "manga-zt952128",
                 "image": "https://avt.mkklcdnv6temp.com/28/s/1-1583464818.jpg",
                 "malId": 116897,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-zt952128"
             }
         },
-        "MangaFire": {
-            "martial-universe.v5xp6": {
-                "identifier": "martial-universe.v5xp6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26b49782a967040f08fe2f98427346a2.jpg",
-                "malId": 116897,
-                "aniId": 86624,
-                "page": "MangaFire",
-                "title": "Martial Universe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/martial-universe.v5xp6/"
-            },
-            "martial-universee.v5xp6": {
-                "identifier": "martial-universee.v5xp6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26b49782a967040f08fe2f98427346a2.jpg",
-                "malId": 116897,
-                "aniId": 86624,
-                "page": "MangaFire",
-                "title": "Martial Universe",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/martial-universee.v5xp6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc08w231vervxf5rd548": {
+                "id": 211856,
                 "identifier": "01j76xyc08w231vervxf5rd548",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC08W231VERVXF5RD548.jpg",
                 "malId": 116897,
@@ -96,6 +80,19 @@
                 "title": "Martial Universe",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC08W231VERVXF5RD548"
+            }
+        },
+        "MangaFire": {
+            "v5xp6": {
+                "id": 229479,
+                "identifier": "v5xp6",
+                "image": "https://static.mangafire.to/04f5/i/2/26/26b49782a967040f08fe2f98427346a2.jpg",
+                "malId": 116897,
+                "aniId": 86624,
+                "page": "MangaFire",
+                "title": "Martial Universe",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/martial-universee.v5xp6"
             }
         },
         "Comick": {

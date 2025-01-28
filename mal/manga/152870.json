@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-tk996893": {
+                "id": 162105,
                 "identifier": "manga-tk996893",
                 "image": "https://avt.mkklcdnv6temp.com/fld/33/u/15-1733308652-nw.webp",
                 "malId": 152870,
@@ -18,20 +19,9 @@
                 "url": "https://manganato.com/manga-tk996893"
             }
         },
-        "MangaFire": {
-            "ningen-yametai-yonezawa-san.8x1jq": {
-                "identifier": "ningen-yametai-yonezawa-san.8x1jq",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/09dd7c6bc64590e253679ac6c21308fe.jpg",
-                "malId": 152870,
-                "aniId": 154357,
-                "page": "MangaFire",
-                "title": "Ningen Yametai Yonezawa-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ningen-yametai-yonezawa-san.8x1jq/"
-            }
-        },
         "Mangadex": {
             "919af845-098a-4713-94ec-c1e5dc3b8c10": {
+                "id": 164990,
                 "identifier": "919af845-098a-4713-94ec-c1e5dc3b8c10",
                 "image": "https://uploads.mangadex.org/covers/919af845-098a-4713-94ec-c1e5dc3b8c10/e7563d7a-bce7-4397-adef-eed005e42e08.jpg",
                 "malId": 152870,
@@ -40,6 +30,19 @@
                 "title": "Yonezawa-san Is Done Being Human",
                 "type": "manga",
                 "url": "https://mangadex.org/title/919af845-098a-4713-94ec-c1e5dc3b8c10"
+            }
+        },
+        "MangaFire": {
+            "8x1jq": {
+                "id": 241309,
+                "identifier": "8x1jq",
+                "image": "https://static.mangafire.to/10f2/i/0/09/09dd7c6bc64590e253679ac6c21308fe.jpg",
+                "malId": 152870,
+                "aniId": 154357,
+                "page": "MangaFire",
+                "title": "Ningen Yametai Yonezawa-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ningen-yametai-yonezawa-sann.8x1jq"
             }
         }
     },

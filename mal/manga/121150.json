@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1968fae7-483b-4827-ba39-a16c548d4a58": {
+                "id": 32306,
                 "identifier": "1968fae7-483b-4827-ba39-a16c548d4a58",
                 "image": "https://uploads.mangadex.org/covers/1968fae7-483b-4827-ba39-a16c548d4a58/a559e3df-67f4-4561-8b1e-79448de31eb0.jpg",
                 "malId": 121150,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-knight-cartoonist-and-her-orc-editor": {
+                "id": 60604,
                 "identifier": "the-knight-cartoonist-and-her-orc-editor",
                 "image": "https://temp.compsci88.com/cover/The-Knight-Cartoonist-and-Her-Orc-Editor.jpg",
                 "malId": 121150,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fw982731": {
+                "id": 84893,
                 "identifier": "manga-fw982731",
                 "image": "https://avt.mkklcdnv6temp.com/12/k/19-1583499564.jpg",
                 "malId": 121150,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-fw982731"
             }
         },
-        "MangaFire": {
-            "orc-henshuu-to-onna-kishi-mangaka-san.oj97z": {
-                "identifier": "orc-henshuu-to-onna-kishi-mangaka-san.oj97z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc9b4879768e86ceacadc5b75267c3a1.jpg",
-                "malId": 121150,
-                "aniId": 103804,
-                "page": "MangaFire",
-                "title": "The Knight Cartoonist and her Orc Editor",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/orc-henshuu-to-onna-kishi-mangaka-san.oj97z/"
-            },
-            "orc-henshuu-to-onna-kishi-mangaka-sann.oj97z": {
-                "identifier": "orc-henshuu-to-onna-kishi-mangaka-sann.oj97z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc9b4879768e86ceacadc5b75267c3a1.jpg",
-                "malId": 121150,
-                "aniId": 103804,
-                "page": "MangaFire",
-                "title": "The Knight Cartoonist and her Orc Editor",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/orc-henshuu-to-onna-kishi-mangaka-sann.oj97z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd5dc4kp66y4a0cr5z3g": {
+                "id": 212233,
                 "identifier": "01j76xyd5dc4kp66y4a0cr5z3g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD5DC4KP66Y4A0CR5Z3G.jpg",
                 "malId": 121150,
@@ -74,6 +56,19 @@
                 "title": "The Knight Cartoonist and Her Orc Editor",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD5DC4KP66Y4A0CR5Z3G"
+            }
+        },
+        "MangaFire": {
+            "oj97z": {
+                "id": 227809,
+                "identifier": "oj97z",
+                "image": "https://static.mangafire.to/4ce8/i/d/dc/dc9b4879768e86ceacadc5b75267c3a1.jpg",
+                "malId": 121150,
+                "aniId": 103804,
+                "page": "MangaFire",
+                "title": "The Knight Cartoonist and her Orc Editor",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/orc-henshuu-to-onna-kishi-mangaka-sann.oj97z"
             }
         },
         "Comick": {

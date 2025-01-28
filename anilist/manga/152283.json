@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a99fdf6b-c4ce-4e0f-b0da-a977c13b8b11": {
+                "id": 109304,
                 "identifier": "a99fdf6b-c4ce-4e0f-b0da-a977c13b8b11",
                 "image": "https://uploads.mangadex.org/covers/a99fdf6b-c4ce-4e0f-b0da-a977c13b8b11/85abc9f5-33c6-47ac-a82f-ac7e2b905f89.jpg",
                 "malId": 151780,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/a99fdf6b-c4ce-4e0f-b0da-a977c13b8b11"
             }
         },
-        "MangaFire": {
-            "gal-nipa-chan-wa-semararetai.mq79z": {
-                "identifier": "gal-nipa-chan-wa-semararetai.mq79z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94281ef9447e09bb90eff39943346818.jpg",
-                "malId": 151780,
-                "aniId": 152283,
-                "page": "MangaFire",
-                "title": "Gal niPA-chan wa Semararetai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gal-nipa-chan-wa-semararetai.mq79z/"
-            },
-            "gal-nipa-chan-wa-semararetaii.mq79z": {
-                "identifier": "gal-nipa-chan-wa-semararetaii.mq79z",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94281ef9447e09bb90eff39943346818.jpg",
-                "malId": 151780,
-                "aniId": 152283,
-                "page": "MangaFire",
-                "title": "Gal niPA-chan wa Semararetai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gal-nipa-chan-wa-semararetaii.mq79z/"
-            }
-        },
         "MangaSee": {
             "gal-nipa-chan-wa-semararetai": {
+                "id": 168105,
                 "identifier": "gal-nipa-chan-wa-semararetai",
                 "image": "https://temp.compsci88.com/cover/Gal-niPA-chan-wa-Semararetai.jpg",
                 "malId": 151780,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygfjr1v658wqxv6kcqrq": {
+                "id": 211612,
                 "identifier": "01j76xygfjr1v658wqxv6kcqrq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGFJR1V658WQXV6KCQRQ.jpg",
                 "malId": 151780,
@@ -62,6 +43,19 @@
                 "title": "Gal niPA-chan wa Semararetai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGFJR1V658WQXV6KCQRQ"
+            }
+        },
+        "MangaFire": {
+            "mq79z": {
+                "id": 234381,
+                "identifier": "mq79z",
+                "image": "https://static.mangafire.to/2a79/i/9/94/94281ef9447e09bb90eff39943346818.jpg",
+                "malId": 151780,
+                "aniId": 152283,
+                "page": "MangaFire",
+                "title": "Gal niPA-chan wa Semararetai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gal-nipa-chan-wa-semararetaii.mq79z"
             }
         },
         "Comick": {

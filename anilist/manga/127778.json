@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "88bd7fe5-7c21-4d9e-84c9-06b9c7cce236": {
+                "id": 57066,
                 "identifier": "88bd7fe5-7c21-4d9e-84c9-06b9c7cce236",
                 "image": "https://uploads.mangadex.org/covers/88bd7fe5-7c21-4d9e-84c9-06b9c7cce236/e638f123-7438-4894-bb5f-f35166edbb1c.jpg",
                 "malId": 132519,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dont-blush-sekime-san": {
+                "id": 62381,
                 "identifier": "dont-blush-sekime-san",
                 "image": "https://temp.compsci88.com/cover/Dont-Blush-Sekime-san.jpg",
                 "malId": 132519,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "sekimen_shinaide_sekime_san": {
+                "id": 67873,
                 "identifier": "sekimen_shinaide_sekime_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35786/cover.jpg",
                 "malId": 132519,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-me989361": {
+                "id": 83129,
                 "identifier": "manga-me989361",
                 "image": "https://avt.mkklcdnv6temp.com/27/w/24-1627386772.jpg",
                 "malId": 132519,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-me989361"
             }
         },
-        "MangaFire": {
-            "sekimen-shinaide-sekime-san.kw4r4": {
-                "identifier": "sekimen-shinaide-sekime-san.kw4r4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b28bc44502c34e2e8755726dfd67ccdd.jpg",
-                "malId": 132519,
-                "aniId": 127778,
-                "page": "MangaFire",
-                "title": "Don't Blush, Sekime-san!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sekimen-shinaide-sekime-san.kw4r4/"
-            },
-            "sekimen-shinaide-sekime-sann.kw4r4": {
-                "identifier": "sekimen-shinaide-sekime-sann.kw4r4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b28bc44502c34e2e8755726dfd67ccdd.jpg",
-                "malId": 132519,
-                "aniId": 127778,
-                "page": "MangaFire",
-                "title": "Don't Blush, Sekime-san!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sekimen-shinaide-sekime-sann.kw4r4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeby0bs20q1nfyw3ghxm": {
+                "id": 211751,
                 "identifier": "01j76xyeby0bs20q1nfyw3ghxm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEBY0BS20Q1NFYW3GHXM.jpg",
                 "malId": 132519,
@@ -86,6 +69,19 @@
                 "title": "Don't Blush, Sekime-san!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEBY0BS20Q1NFYW3GHXM"
+            }
+        },
+        "MangaFire": {
+            "kw4r4": {
+                "id": 226619,
+                "identifier": "kw4r4",
+                "image": "https://static.mangafire.to/a09f/i/b/b2/b28bc44502c34e2e8755726dfd67ccdd.jpg",
+                "malId": 132519,
+                "aniId": 127778,
+                "page": "MangaFire",
+                "title": "Don't Blush, Sekime-san!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sekimen-shinaide-sekime-sann.kw4r4"
             }
         },
         "Comick": {

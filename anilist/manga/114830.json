@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "98bee7a0-4af1-4ecf-ad0b-3dcc7d4e1e47": {
+                "id": 31463,
                 "identifier": "98bee7a0-4af1-4ecf-ad0b-3dcc7d4e1e47",
                 "image": "https://uploads.mangadex.org/covers/98bee7a0-4af1-4ecf-ad0b-3dcc7d4e1e47/817c1fef-886d-4037-bc4f-f10c3f043e1f.jpg",
                 "malId": 122584,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shishidou-san-ni-shikararetai": {
+                "id": 57829,
                 "identifier": "shishidou-san-ni-shikararetai",
                 "image": "https://temp.compsci88.com/cover/Shishidou-san-ni-Shikararetai.jpg",
                 "malId": 122584,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shishidou_san_ni_shikararetai": {
+                "id": 71759,
                 "identifier": "shishidou_san_ni_shikararetai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31839/cover.jpg",
                 "malId": 122584,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gn983470": {
+                "id": 77002,
                 "identifier": "manga-gn983470",
                 "image": "https://avt.mkklcdnv6temp.com/39/v/19-1583500629.jpg",
                 "malId": 122584,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-gn983470"
             }
         },
-        "MangaFire": {
-            "shishidou-san-ni-shikararetai.mqpj7": {
-                "identifier": "shishidou-san-ni-shikararetai.mqpj7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1a/1ae5b760ea132d13b71ad622fabed839.jpg",
-                "malId": 122584,
-                "aniId": 114830,
-                "page": "MangaFire",
-                "title": "Shishidou-san ni Shikararetai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shishidou-san-ni-shikararetai.mqpj7/"
-            },
-            "shishidou-san-ni-shikararetaii.mqpj7": {
-                "identifier": "shishidou-san-ni-shikararetaii.mqpj7",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1a/1ae5b760ea132d13b71ad622fabed839.jpg",
-                "malId": 122584,
-                "aniId": 114830,
-                "page": "MangaFire",
-                "title": "Shishidou-san ni Shikararetai.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shishidou-san-ni-shikararetaii.mqpj7/"
-            }
-        },
         "Weebcentral": {
             "01j76xydcgahrc5hbp5bx5mn4p": {
+                "id": 213640,
                 "identifier": "01j76xydcgahrc5hbp5bx5mn4p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDCGAHRC5HBP5BX5MN4P.jpg",
                 "malId": 122584,
@@ -86,6 +69,19 @@
                 "title": "Shishidou-san ni Shikararetai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDCGAHRC5HBP5BX5MN4P"
+            }
+        },
+        "MangaFire": {
+            "mqpj7": {
+                "id": 227315,
+                "identifier": "mqpj7",
+                "image": "https://static.mangafire.to/8c74/i/1/1a/1ae5b760ea132d13b71ad622fabed839.jpg",
+                "malId": 122584,
+                "aniId": 114830,
+                "page": "MangaFire",
+                "title": "Shishidou-san ni Shikararetai.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shishidou-san-ni-shikararetaii.mqpj7"
             }
         },
         "Comick": {

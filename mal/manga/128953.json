@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b208eebd-1e7e-4c45-9ec5-2858a0e420c3": {
+                "id": 36925,
                 "identifier": "b208eebd-1e7e-4c45-9ec5-2858a0e420c3",
                 "image": "https://uploads.mangadex.org/covers/b208eebd-1e7e-4c45-9ec5-2858a0e420c3/fa2c9531-df66-4176-ab52-7b5ef16b9ad3.jpg",
                 "malId": 128953,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ankoku_kishi_no_ore_desu_ga_saikyou_no_seikishi_wo_mezashimasu": {
+                "id": 62764,
                 "identifier": "ankoku_kishi_no_ore_desu_ga_saikyou_no_seikishi_wo_mezashimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35516/cover.jpg",
                 "malId": 128953,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu": {
+                "id": 72010,
                 "identifier": "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu",
                 "image": "https://temp.compsci88.com/cover/Ankoku-Kishi-no-Ore-desu-Ga-Saikyou-no-Seikishi-wo-Mezashimasu.jpg",
                 "malId": 128953,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-id986060": {
+                "id": 74756,
                 "identifier": "manga-id986060",
                 "image": "https://avt.mkklcdnv6temp.com/41/t/21-1596208983.jpg",
                 "malId": 128953,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-id986060"
             }
         },
-        "MangaFire": {
-            "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu.kw50r": {
-                "identifier": "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu.kw50r",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eede1b8398058053e970c60411cd83c4.jpg",
-                "malId": 128953,
-                "aniId": 123906,
-                "page": "MangaFire",
-                "title": "The Unholy Paladin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu.kw50r/"
-            },
-            "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasuu.kw50r": {
-                "identifier": "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasuu.kw50r",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/eede1b8398058053e970c60411cd83c4.jpg",
-                "malId": 128953,
-                "aniId": 123906,
-                "page": "MangaFire",
-                "title": "The Unholy Paladin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasuu.kw50r/"
-            }
-        },
         "Weebcentral": {
             "01j76xydnye2455a0x0ppfd8n8": {
+                "id": 208549,
                 "identifier": "01j76xydnye2455a0x0ppfd8n8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDNYE2455A0X0PPFD8N8.jpg",
                 "malId": 128953,
@@ -86,6 +69,19 @@
                 "title": "The Unholy Paladin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDNYE2455A0X0PPFD8N8"
+            }
+        },
+        "MangaFire": {
+            "kw50r": {
+                "id": 225473,
+                "identifier": "kw50r",
+                "image": "https://static.mangafire.to/96de/i/e/ee/eede1b8398058053e970c60411cd83c4.jpg",
+                "malId": 128953,
+                "aniId": 123906,
+                "page": "MangaFire",
+                "title": "The Unholy Paladin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasuu.kw50r"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "21afb191-2f9d-4d7e-bef5-6c0216162a71": {
+                "id": 22234,
                 "identifier": "21afb191-2f9d-4d7e-bef5-6c0216162a71",
                 "image": "https://uploads.mangadex.org/covers/21afb191-2f9d-4d7e-bef5-6c0216162a71/ec894d14-37a4-4443-82bd-b5b218916034.jpg",
                 "malId": 149305,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "the_red_book": {
+                "id": 109725,
                 "identifier": "the_red_book",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15755/cover.jpg",
                 "malId": 149305,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dm954295": {
+                "id": 109727,
                 "identifier": "manga-dm954295",
                 "image": "https://avt.mkklcdnv6temp.com/fld/5/e/2-1732720731-nw.webp",
                 "malId": 149305,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-dm954295"
             }
         },
-        "MangaFire": {
-            "the-red-book.kw62v": {
-                "identifier": "the-red-book.kw62v",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb124ee5b76431552aea46eb6352c794.jpg",
-                "malId": 149305,
-                "aniId": 86343,
-                "page": "MangaFire",
-                "title": "The Red Book",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-red-book.kw62v/"
-            }
-        },
         "MangaSee": {
             "the-red-book": {
+                "id": 177480,
                 "identifier": "the-red-book",
                 "image": "https://temp.compsci88.com/cover/The-Red-Book.jpg",
                 "malId": 149305,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygqm3ye3gk2xhx71rsh6": {
+                "id": 208489,
                 "identifier": "01j76xygqm3ye3gk2xhx71rsh6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGQM3YE3GK2XHX71RSH6.jpg",
                 "malId": 149305,
@@ -76,6 +69,19 @@
                 "title": "The Red Book",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGQM3YE3GK2XHX71RSH6"
+            }
+        },
+        "MangaFire": {
+            "kw62v": {
+                "id": 245024,
+                "identifier": "kw62v",
+                "image": "https://static.mangafire.to/7e04/i/c/cb/cb124ee5b76431552aea46eb6352c794.jpg",
+                "malId": 149305,
+                "aniId": 86343,
+                "page": "MangaFire",
+                "title": "The Red Book",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-red-bookk.kw62v"
             }
         }
     },

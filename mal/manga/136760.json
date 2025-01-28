@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a7c117a-a473-4a93-903b-34189c4261c8": {
+                "id": 32624,
                 "identifier": "6a7c117a-a473-4a93-903b-34189c4261c8",
                 "image": "https://uploads.mangadex.org/covers/6a7c117a-a473-4a93-903b-34189c4261c8/c0f2fc0b-0a8e-40b7-9c44-89fd516baa46.jpg",
                 "malId": 136760,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gokufuri-kyohi-shite-tesaguri-start": {
+                "id": 57496,
                 "identifier": "gokufuri-kyohi-shite-tesaguri-start",
                 "image": "https://temp.compsci88.com/cover/Gokufuri-Kyohi-Shite-Tesaguri-Start.jpg",
                 "malId": 136760,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "gokufuri_kyohi_shite_tesaguri_sutato_toku_ka_shinai_hira_nakama_to_wakarete_tabi_ni_deru": {
+                "id": 61171,
                 "identifier": "gokufuri_kyohi_shite_tesaguri_sutato_toku_ka_shinai_hira_nakama_to_wakarete_tabi_ni_deru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34583/cover.jpg",
                 "malId": 136760,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/gokufuri_kyohi_shite_tesaguri_sutato_toku_ka_shinai_hira_nakama_to_wakarete_tabi_ni_deru/"
             },
             "gokufuri_kyohi_shite_tesaguri_start_tokka_shinai_healer_nakama_to_wakarete_tabi_ni_deru": {
+                "id": 84108,
                 "identifier": "gokufuri_kyohi_shite_tesaguri_start_tokka_shinai_healer_nakama_to_wakarete_tabi_ni_deru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37409/cover.jpg",
                 "malId": 136760,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-gq984199": {
+                "id": 76058,
                 "identifier": "manga-gq984199",
                 "image": "https://avt.mkklcdnv6temp.com/17/e/20-1583501691.jpg",
                 "malId": 136760,
@@ -64,6 +69,7 @@
                 "url": "https://manganato.com/manga-gq984199"
             },
             "manga-ku987955": {
+                "id": 83947,
                 "identifier": "manga-ku987955",
                 "image": "https://avt.mkklcdnv6temp.com/18/y/23-1612287123.jpg",
                 "malId": 136760,
@@ -74,30 +80,9 @@
                 "url": "https://manganato.com/manga-ku987955"
             }
         },
-        "MangaFire": {
-            "gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deru.rjykn": {
-                "identifier": "gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deru.rjykn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5a6a9af0d27c93a1bc601d02d0fe035.jpg",
-                "malId": 136760,
-                "aniId": 112538,
-                "page": "MangaFire",
-                "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deru.rjykn/"
-            },
-            "gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deruu.rjykn": {
-                "identifier": "gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deruu.rjykn",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5a6a9af0d27c93a1bc601d02d0fe035.jpg",
-                "malId": 136760,
-                "aniId": 112538,
-                "page": "MangaFire",
-                "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deruu.rjykn/"
-            }
-        },
         "Weebcentral": {
             "01j76xydp738xkvc661jban2q9": {
+                "id": 211098,
                 "identifier": "01j76xydp738xkvc661jban2q9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDP738XKVC661JBAN2Q9.jpg",
                 "malId": 136760,
@@ -106,6 +91,19 @@
                 "title": "Gokufuri Kyohi Shite Tesaguri Start!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDP738XKVC661JBAN2Q9"
+            }
+        },
+        "MangaFire": {
+            "rjykn": {
+                "id": 227461,
+                "identifier": "rjykn",
+                "image": "https://static.mangafire.to/116f/i/f/f5/f5a6a9af0d27c93a1bc601d02d0fe035.jpg",
+                "malId": 136760,
+                "aniId": 112538,
+                "page": "MangaFire",
+                "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deruu.rjykn"
             }
         },
         "Comick": {

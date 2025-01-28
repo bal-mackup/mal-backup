@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "78d896fd-6d9a-4667-b2f5-c44bc149d1d2": {
+                "id": 13508,
                 "identifier": "78d896fd-6d9a-4667-b2f5-c44bc149d1d2",
                 "image": "https://uploads.mangadex.org/covers/78d896fd-6d9a-4667-b2f5-c44bc149d1d2/feff15c9-57a0-4071-b95c-08f269fe9132.jpg",
                 "malId": 88228,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "karada-sagashi": {
+                "id": 78047,
                 "identifier": "karada-sagashi",
                 "image": "https://temp.compsci88.com/cover/Karada-Sagashi.jpg",
                 "malId": 88228,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tc970659": {
+                "id": 112839,
                 "identifier": "manga-tc970659",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/a/7-1732784717-nw.webp",
                 "malId": 88228,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "karada_sagashi": {
+                "id": 122101,
                 "identifier": "karada_sagashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19341/cover.jpg",
                 "malId": 88228,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/karada_sagashi/"
             }
         },
-        "MangaFire": {
-            "karada-sagashi.w1njl": {
-                "identifier": "karada-sagashi.w1njl",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b169109eb7fe0668be0a22ee525dd96.jpg",
-                "malId": 88228,
-                "aniId": 86868,
-                "page": "MangaFire",
-                "title": "Karada Sagashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karada-sagashi.w1njl/"
-            },
-            "w1njl": {
-                "identifier": "w1njl",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b169109eb7fe0668be0a22ee525dd96.jpg",
-                "malId": 88228,
-                "aniId": 86868,
-                "page": "MangaFire",
-                "title": "Karada Sagashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karada-sagashi.w1njl/"
-            }
-        },
         "Weebcentral": {
             "01j76xycetdxfv8ederjrcgvf4": {
+                "id": 213417,
                 "identifier": "01j76xycetdxfv8ederjrcgvf4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCETDXFV8EDERJRCGVF4.jpg",
                 "malId": 88228,
@@ -86,6 +69,19 @@
                 "title": "Karada Sagashi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCETDXFV8EDERJRCGVF4"
+            }
+        },
+        "MangaFire": {
+            "w1njl": {
+                "id": 251875,
+                "identifier": "w1njl",
+                "image": "https://static.mangafire.to/0b1e/i/1/1b/1b169109eb7fe0668be0a22ee525dd96.jpg",
+                "malId": 88228,
+                "aniId": 86868,
+                "page": "MangaFire",
+                "title": "Karada Sagashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karada-sagashii.w1njl"
             }
         },
         "Comick": {

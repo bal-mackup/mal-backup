@@ -6,32 +6,11 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/284129.jpg",
     "Sites": {
-        "MangaFire": {
-            "introvert.jp3zn": {
-                "identifier": "introvert.jp3zn",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/5773ab25e58dffc5ab8151585a8d2942.jpg",
-                "malId": 160080,
-                "aniId": 167579,
-                "page": "MangaFire",
-                "title": "Introvert",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/introvert.jp3zn/"
-            },
-            "introvertt.jp3zn": {
-                "identifier": "introvertt.jp3zn",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/5773ab25e58dffc5ab8151585a8d2942.jpg",
-                "malId": 160080,
-                "aniId": 167579,
-                "page": "MangaFire",
-                "title": "Introvert",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/introvertt.jp3zn/"
-            }
-        },
         "MangaNato": {
             "manga-vg998715": {
+                "id": 175805,
                 "identifier": "manga-vg998715",
-                "image": "https://avt.mkklcdnv6temp.com/7/p/32-1697424964.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/3/e/15-1733313170-nw.webp",
                 "malId": 160080,
                 "aniId": 167579,
                 "page": "MangaNato",
@@ -42,6 +21,7 @@
         },
         "Mangadex": {
             "d2c5fb99-e398-4e01-a158-1dd693bc79c9": {
+                "id": 181818,
                 "identifier": "d2c5fb99-e398-4e01-a158-1dd693bc79c9",
                 "image": "https://uploads.mangadex.org/covers/d2c5fb99-e398-4e01-a158-1dd693bc79c9/938a10d6-1dbd-4c17-8ece-3401a5afb98a.jpg",
                 "malId": 160080,
@@ -50,6 +30,19 @@
                 "title": "My Introverted Boy",
                 "type": "manga",
                 "url": "https://mangadex.org/title/d2c5fb99-e398-4e01-a158-1dd693bc79c9"
+            }
+        },
+        "MangaFire": {
+            "jp3zn": {
+                "id": 226367,
+                "identifier": "jp3zn",
+                "image": "https://static.mangafire.to/4f11/i/5/57/5773ab25e58dffc5ab8151585a8d2942.jpg",
+                "malId": 160080,
+                "aniId": 167579,
+                "page": "MangaFire",
+                "title": "Introvert",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/introvertt.jp3zn"
             }
         },
         "Comick": {

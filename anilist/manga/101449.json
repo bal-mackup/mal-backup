@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0e017a08-835a-4cbe-ba63-576d5010a5a0": {
+                "id": 19790,
                 "identifier": "0e017a08-835a-4cbe-ba63-576d5010a5a0",
                 "image": "https://uploads.mangadex.org/covers/0e017a08-835a-4cbe-ba63-576d5010a5a0/ac8f02fa-8306-40bd-9c05-8bbe52599ea6.jpg",
                 "malId": 113752,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kuma_kuma_kuma_bear": {
+                "id": 55710,
                 "identifier": "kuma_kuma_kuma_bear",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27454/cover.jpg",
                 "malId": 113752,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kuma-kuma-kuma-bear": {
+                "id": 62491,
                 "identifier": "kuma-kuma-kuma-bear",
                 "image": "https://temp.compsci88.com/cover/Kuma-Kuma-Kuma-Bear.jpg",
                 "malId": 113752,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bj978818": {
+                "id": 73019,
                 "identifier": "manga-bj978818",
                 "image": "https://avt.mkklcdnv6temp.com/18/e/16-1583494126.jpg",
                 "malId": 113752,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bj978818"
             }
         },
-        "MangaFire": {
-            "kuma-kuma-kuma-bear.1rn6w": {
-                "identifier": "kuma-kuma-kuma-bear.1rn6w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74e8bf1645689e34bb263f05b6a4b935.jpg",
-                "malId": 113752,
-                "aniId": 101449,
-                "page": "MangaFire",
-                "title": "Kuma Kuma Kuma Bear",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuma-kuma-kuma-bear.1rn6w/"
-            },
-            "kuma-kuma-kuma-bearr.1rn6w": {
-                "identifier": "kuma-kuma-kuma-bearr.1rn6w",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74e8bf1645689e34bb263f05b6a4b935.jpg",
-                "malId": 113752,
-                "aniId": 101449,
-                "page": "MangaFire",
-                "title": "Kuma Kuma Kuma Bear",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuma-kuma-kuma-bearr.1rn6w/"
-            }
-        },
         "Weebcentral": {
             "01j76xydd9z1rxnbcevgmg85pe": {
+                "id": 207031,
                 "identifier": "01j76xydd9z1rxnbcevgmg85pe",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDD9Z1RXNBCEVGMG85PE.jpg",
                 "malId": 113752,
@@ -86,6 +69,19 @@
                 "title": "Kuma Kuma Kuma Bear",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDD9Z1RXNBCEVGMG85PE"
+            }
+        },
+        "MangaFire": {
+            "1rn6w": {
+                "id": 225939,
+                "identifier": "1rn6w",
+                "image": "https://static.mangafire.to/48ff/i/7/74/74e8bf1645689e34bb263f05b6a4b935.jpg",
+                "malId": 113752,
+                "aniId": 101449,
+                "page": "MangaFire",
+                "title": "Kuma Kuma Kuma Bear",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuma-kuma-kuma-bearr.1rn6w"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "596191eb-69ee-4401-983e-cc07e277fa17": {
+                "id": 12423,
                 "identifier": "596191eb-69ee-4401-983e-cc07e277fa17",
                 "image": "https://uploads.mangadex.org/covers/596191eb-69ee-4401-983e-cc07e277fa17/6df15145-f15b-43f0-b87b-22fd3694eaca.jpg",
                 "malId": 111202,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lookism": {
+                "id": 55686,
                 "identifier": "lookism",
                 "image": "https://temp.compsci88.com/cover/Lookism.jpg",
                 "malId": 111202,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "lookism": {
+                "id": 59740,
                 "identifier": "lookism",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14973/cover.jpg",
                 "malId": 111202,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zw952131": {
+                "id": 74549,
                 "identifier": "manga-zw952131",
                 "image": "https://avt.mkklcdnv6temp.com/28/v/1-1583464823.jpg",
                 "malId": 111202,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zw952131"
             }
         },
-        "MangaFire": {
-            "lookism.rjoy": {
-                "identifier": "lookism.rjoy",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c2f8ee962b6ccd9e443f05c79a531a56.jpg",
-                "malId": 111202,
-                "aniId": 86848,
-                "page": "MangaFire",
-                "title": "Lookism",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lookism.rjoy/"
-            },
-            "lookismm.rjoy": {
-                "identifier": "lookismm.rjoy",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c2f8ee962b6ccd9e443f05c79a531a56.jpg",
-                "malId": 111202,
-                "aniId": 86848,
-                "page": "MangaFire",
-                "title": "Lookism",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lookismm.rjoy/"
-            }
-        },
         "Weebcentral": {
             "01j76xybd282y3xkx0krgd64q5": {
+                "id": 210556,
                 "identifier": "01j76xybd282y3xkx0krgd64q5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBD282Y3XKX0KRGD64Q5.jpg",
                 "malId": 111202,
@@ -86,6 +69,19 @@
                 "title": "Lookism",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBD282Y3XKX0KRGD64Q5"
+            }
+        },
+        "MangaFire": {
+            "rjoy": {
+                "id": 226679,
+                "identifier": "rjoy",
+                "image": "https://static.mangafire.to/cadf/i/c/c2/c2f8ee962b6ccd9e443f05c79a531a56.jpg",
+                "malId": 111202,
+                "aniId": 86848,
+                "page": "MangaFire",
+                "title": "Lookism",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lookismm.rjoy"
             }
         },
         "Comick": {

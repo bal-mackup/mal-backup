@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "d773c8be-8e82-4ff1-a4e9-46171395319b": {
+                "id": 15679,
                 "identifier": "d773c8be-8e82-4ff1-a4e9-46171395319b",
-                "image": "https://uploads.mangadex.org/covers/d773c8be-8e82-4ff1-a4e9-46171395319b/80c10fec-1e00-4768-b8bc-f72ae8a7b93c.jpg",
+                "image": "https://uploads.mangadex.org/covers/d773c8be-8e82-4ff1-a4e9-46171395319b/0015a93d-3e81-4063-9861-2acddc3f3a04.jpg",
                 "malId": 98436,
                 "aniId": 97216,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "youjo-senki": {
+                "id": 54911,
                 "identifier": "youjo-senki",
                 "image": "https://temp.compsci88.com/cover/Youjo-Senki.jpg",
                 "malId": 98436,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "youjo_senki": {
+                "id": 55426,
                 "identifier": "youjo_senki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20065/cover.jpg",
                 "malId": 98436,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-um971369": {
+                "id": 73185,
                 "identifier": "manga-um971369",
                 "image": "https://avt.mkklcdnv6temp.com/44/a/13-1583489376.jpg",
                 "malId": 98436,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-um971369"
             }
         },
-        "MangaFire": {
-            "youjo-senki.jjrn2": {
-                "identifier": "youjo-senki.jjrn2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/7b48b12b91e138da3efaae9b5e44e088.jpg",
-                "malId": 98436,
-                "aniId": 97216,
-                "page": "MangaFire",
-                "title": "The Saga of Tanya the Evil",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/youjo-senki.jjrn2/"
-            },
-            "youjo-senkii.jjrn2": {
-                "identifier": "youjo-senkii.jjrn2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ee/7b48b12b91e138da3efaae9b5e44e088.jpg",
-                "malId": 98436,
-                "aniId": 97216,
-                "page": "MangaFire",
-                "title": "The Saga of Tanya the Evil",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/youjo-senkii.jjrn2/"
-            }
-        },
         "Weebcentral": {
             "01j76xybz2vyhsch4xathb91sk": {
+                "id": 210309,
                 "identifier": "01j76xybz2vyhsch4xathb91sk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBZ2VYHSCH4XATHB91SK.jpg",
                 "malId": 98436,
@@ -86,6 +69,19 @@
                 "title": "The Saga of Tanya the Evil",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBZ2VYHSCH4XATHB91SK"
+            }
+        },
+        "MangaFire": {
+            "jjrn2": {
+                "id": 225973,
+                "identifier": "jjrn2",
+                "image": "https://static.mangafire.to/4407/i/e/ee/7b48b12b91e138da3efaae9b5e44e088.jpg",
+                "malId": 98436,
+                "aniId": 97216,
+                "page": "MangaFire",
+                "title": "The Saga of Tanya the Evil",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/youjo-senkii.jjrn2"
             }
         },
         "Comick": {

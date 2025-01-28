@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "18af854b-e3b7-4e03-8a8a-63a33abcd03b": {
+                "id": 11977,
                 "identifier": "18af854b-e3b7-4e03-8a8a-63a33abcd03b",
                 "image": "https://uploads.mangadex.org/covers/18af854b-e3b7-4e03-8a8a-63a33abcd03b/e8efd310-164f-4836-a01f-d95072b14b1c.jpg",
                 "malId": 76987,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yoakemono": {
+                "id": 89478,
                 "identifier": "yoakemono",
                 "image": "https://temp.compsci88.com/cover/Yoakemono.jpg",
                 "malId": 76987,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Yoakemono"
             }
         },
-        "MangaFire": {
-            "yoakemono.w193l": {
-                "identifier": "yoakemono.w193l",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f36446a738af5c412462408a843b7dea.jpg",
-                "malId": 76987,
-                "aniId": 102856,
-                "page": "MangaFire",
-                "title": "Yoakemono",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoakemono.w193l/"
-            },
-            "w193l": {
-                "identifier": "w193l",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f36446a738af5c412462408a843b7dea.jpg",
-                "malId": 76987,
-                "aniId": 102856,
-                "page": "MangaFire",
-                "title": "Yoakemono",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoakemono.w193l/"
-            }
-        },
         "MangaFox": {
             "yoakemono": {
+                "id": 185606,
                 "identifier": "yoakemono",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14595/cover.jpg",
                 "malId": 76987,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyatw3vjvcz54swzs58dg": {
+                "id": 210549,
                 "identifier": "01j76xyatw3vjvcz54swzs58dg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYATW3VJVCZ54SWZS58DG.jpg",
                 "malId": 76987,
@@ -74,6 +56,19 @@
                 "title": "Yoakemono",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYATW3VJVCZ54SWZS58DG"
+            }
+        },
+        "MangaFire": {
+            "w193l": {
+                "id": 239300,
+                "identifier": "w193l",
+                "image": "https://static.mangafire.to/46d7/i/f/f3/f36446a738af5c412462408a843b7dea.jpg",
+                "malId": 76987,
+                "aniId": 102856,
+                "page": "MangaFire",
+                "title": "Yoakemono",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yoakemonoo.w193l"
             }
         },
         "Comick": {

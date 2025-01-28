@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a5f50025-d093-48c8-89da-35e23e289705": {
+                "id": 30864,
                 "identifier": "a5f50025-d093-48c8-89da-35e23e289705",
                 "image": "https://uploads.mangadex.org/covers/a5f50025-d093-48c8-89da-35e23e289705/b36f14b5-dfdb-4f58-8eb6-b71dad9e28b8.jpg",
                 "malId": 139163,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "charlotte-and-her-5-disciples": {
+                "id": 57689,
                 "identifier": "charlotte-and-her-5-disciples",
                 "image": "https://temp.compsci88.com/cover/Charlotte-and-Her-5-Disciples.jpg",
                 "malId": 139163,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "charlotte_has_five_disciples": {
+                "id": 59717,
                 "identifier": "charlotte_has_five_disciples",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31555/cover.jpg",
                 "malId": 139163,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/charlotte_has_five_disciples/"
             }
         },
-        "MangaFire": {
-            "charlotte-and-her-5-disciples.6lr77": {
-                "identifier": "charlotte-and-her-5-disciples.6lr77",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/327aa59517a1592168fe440a95357049.jpg",
-                "malId": 139163,
-                "aniId": 113258,
-                "page": "MangaFire",
-                "title": "Charlotte and Her 5 Disciples",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/charlotte-and-her-5-disciples.6lr77/"
-            },
-            "charlotte-and-her-5-discipless.6lr77": {
-                "identifier": "charlotte-and-her-5-discipless.6lr77",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/327aa59517a1592168fe440a95357049.jpg",
-                "malId": 139163,
-                "aniId": 113258,
-                "page": "MangaFire",
-                "title": "Charlotte and Her 5 Disciples",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/charlotte-and-her-5-discipless.6lr77/"
-            }
-        },
         "Weebcentral": {
             "01j76xye0abe2sv13t2edqnh01": {
+                "id": 209041,
                 "identifier": "01j76xye0abe2sv13t2edqnh01",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE0ABE2SV13T2EDQNH01.jpg",
                 "malId": 139163,
@@ -74,6 +56,19 @@
                 "title": "Charlotte and Her 5 Disciples",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE0ABE2SV13T2EDQNH01"
+            }
+        },
+        "MangaFire": {
+            "6lr77": {
+                "id": 225845,
+                "identifier": "6lr77",
+                "image": "https://static.mangafire.to/4725/i/3/32/327aa59517a1592168fe440a95357049.jpg",
+                "malId": 139163,
+                "aniId": 113258,
+                "page": "MangaFire",
+                "title": "Charlotte and Her 5 Disciples",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/charlotte-and-her-5-discipless.6lr77"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "33a103ce-d6c4-4da8-af5a-42f80ae4fe41": {
+                "id": 10764,
                 "identifier": "33a103ce-d6c4-4da8-af5a-42f80ae4fe41",
                 "image": "https://uploads.mangadex.org/covers/33a103ce-d6c4-4da8-af5a-42f80ae4fe41/9c4a9e1a-a502-4bb6-9c16-4e56d9efb6ff.jpg",
                 "malId": 62547,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yugami-kun-ni-wa-tomodachi-ga-inai": {
+                "id": 55647,
                 "identifier": "yugami-kun-ni-wa-tomodachi-ga-inai",
                 "image": "https://temp.compsci88.com/cover/Yugami-Kun-Ni-Wa-Tomodachi-Ga-Inai.jpg",
                 "malId": 62547,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "yugami_kun_ni_wa_tomodachi_ga_inai": {
+                "id": 64592,
                 "identifier": "yugami_kun_ni_wa_tomodachi_ga_inai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13939/cover.jpg",
                 "malId": 62547,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yf953788": {
+                "id": 74906,
                 "identifier": "manga-yf953788",
                 "image": "https://avt.mkklcdnv6temp.com/35/p/2-1583467067.jpg",
                 "malId": 62547,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-yf953788"
             }
         },
-        "MangaFire": {
-            "yugami-kun-ni-wa-tomodachi-ga-inai.yjmx": {
-                "identifier": "yugami-kun-ni-wa-tomodachi-ga-inai.yjmx",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bdb7393348a78ac1081c75f8c40b815d.jpg",
-                "malId": 62547,
-                "aniId": 85413,
-                "page": "MangaFire",
-                "title": "He does not have any friends.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yugami-kun-ni-wa-tomodachi-ga-inai.yjmx/"
-            },
-            "yugami-kun-ni-wa-tomodachi-ga-inaii.yjmx": {
-                "identifier": "yugami-kun-ni-wa-tomodachi-ga-inaii.yjmx",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bd/bdb7393348a78ac1081c75f8c40b815d.jpg",
-                "malId": 62547,
-                "aniId": 85413,
-                "page": "MangaFire",
-                "title": "He does not have any friends.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yugami-kun-ni-wa-tomodachi-ga-inaii.yjmx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaty13gcdgpfwxkjay2z": {
+                "id": 209233,
                 "identifier": "01j76xyaty13gcdgpfwxkjay2z",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYATY13GCDGPFWXKJAY2Z.jpg",
                 "malId": 62547,
@@ -86,6 +69,19 @@
                 "title": "Yugami-kun ni wa Tomodachi ga Inai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYATY13GCDGPFWXKJAY2Z"
+            }
+        },
+        "MangaFire": {
+            "yjmx": {
+                "id": 243948,
+                "identifier": "yjmx",
+                "image": "https://static.mangafire.to/f1fa/i/b/bd/bdb7393348a78ac1081c75f8c40b815d.jpg",
+                "malId": 62547,
+                "aniId": 85413,
+                "page": "MangaFire",
+                "title": "He does not have any friends.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yugami-kun-ni-wa-tomodachi-ga-inaii.yjmx"
             }
         },
         "Comick": {

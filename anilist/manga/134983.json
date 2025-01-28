@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "09fc3c69-5b21-493e-83a1-f9486c46a19f": {
+                "id": 124046,
                 "identifier": "09fc3c69-5b21-493e-83a1-f9486c46a19f",
                 "image": "https://uploads.mangadex.org/covers/09fc3c69-5b21-493e-83a1-f9486c46a19f/e1a0c33f-bda6-4d59-b118-c57a10319a62.jpg",
                 "malId": 139018,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/09fc3c69-5b21-493e-83a1-f9486c46a19f"
             }
         },
-        "MangaFire": {
-            "kidou-senshi-gundam-seed-eclipse.6wr1z": {
-                "identifier": "kidou-senshi-gundam-seed-eclipse.6wr1z",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/c37e43e47f013d80752a420b8b7a45a0.jpg",
-                "malId": 139018,
-                "aniId": 134983,
-                "page": "MangaFire",
-                "title": "Mobile Suit Gundam SEED ECLIPSE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kidou-senshi-gundam-seed-eclipse.6wr1z/"
-            }
-        },
         "MangaNato": {
             "manga-zf1003088": {
+                "id": 195940,
                 "identifier": "manga-zf1003088",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/q/17-1733325480-nw.webp",
                 "malId": 139018,
@@ -40,6 +30,19 @@
                 "title": "Mobile Suit Gundam Seed Eclipse",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-zf1003088"
+            }
+        },
+        "MangaFire": {
+            "6wr1z": {
+                "id": 230857,
+                "identifier": "6wr1z",
+                "image": "https://static.mangafire.to/7802/i/1/10/c37e43e47f013d80752a420b8b7a45a0.jpg",
+                "malId": 139018,
+                "aniId": 134983,
+                "page": "MangaFire",
+                "title": "Mobile Suit Gundam SEED ECLIPSE",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kidou-senshi-gundam-seed-eclipsee.6wr1z"
             }
         },
         "Comick": {

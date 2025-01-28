@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d23bb4bd-b695-4334-a7ff-d08231120789": {
+                "id": 13741,
                 "identifier": "d23bb4bd-b695-4334-a7ff-d08231120789",
                 "image": "https://uploads.mangadex.org/covers/d23bb4bd-b695-4334-a7ff-d08231120789/985be210-9856-4818-8e63-0fc62332babd.png",
                 "malId": 90313,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shinobi-no-ban": {
+                "id": 72597,
                 "identifier": "shinobi-no-ban",
                 "image": "https://temp.compsci88.com/cover/Shinobi-No-Ban.jpg",
                 "malId": 90313,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-wh953616": {
+                "id": 87444,
                 "identifier": "manga-wh953616",
                 "image": "https://avt.mkklcdnv6temp.com/fld/81/v/1-1732719694-nw.webp",
                 "malId": 90313,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-wh953616"
             }
         },
-        "MangaFire": {
-            "shinobi-no-ban.6lm4z": {
-                "identifier": "shinobi-no-ban.6lm4z",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c1a619285a92614e716a002a9c99b5.jpg",
-                "malId": 90313,
-                "aniId": 86732,
-                "page": "MangaFire",
-                "title": "Shinobi no Ban",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinobi-no-ban.6lm4z/"
-            },
-            "6lm4z": {
-                "identifier": "6lm4z",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c1a619285a92614e716a002a9c99b5.jpg",
-                "malId": 90313,
-                "aniId": 86732,
-                "page": "MangaFire",
-                "title": "Shinobi no Ban",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinobi-no-ban.6lm4z/"
-            }
-        },
         "Weebcentral": {
             "01j76xybg5352qyp7bb6exm37h": {
+                "id": 210978,
                 "identifier": "01j76xybg5352qyp7bb6exm37h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBG5352QYP7BB6EXM37H.jpg",
                 "malId": 90313,
@@ -74,6 +56,19 @@
                 "title": "Shinobi no Ban",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBG5352QYP7BB6EXM37H"
+            }
+        },
+        "MangaFire": {
+            "6lm4z": {
+                "id": 248357,
+                "identifier": "6lm4z",
+                "image": "https://static.mangafire.to/172b/i/2/22/22c1a619285a92614e716a002a9c99b5.jpg",
+                "malId": 90313,
+                "aniId": 86732,
+                "page": "MangaFire",
+                "title": "Shinobi no Ban",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinobi-no-bann.6lm4z"
             }
         },
         "Comick": {

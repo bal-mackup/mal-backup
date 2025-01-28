@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "52022fa7-36a6-47ac-902e-f8c26d1818b1": {
+                "id": 104648,
                 "identifier": "52022fa7-36a6-47ac-902e-f8c26d1818b1",
                 "image": "https://uploads.mangadex.org/covers/52022fa7-36a6-47ac-902e-f8c26d1818b1/b91aaab5-bb70-40ce-9b42-2cc64a134ece.jpg",
                 "malId": 128829,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/52022fa7-36a6-47ac-902e-f8c26d1818b1"
             }
         },
-        "MangaFire": {
-            "takahashi-kun-is-peeping.kw269": {
-                "identifier": "takahashi-kun-is-peeping.kw269",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57a088eafa4d872397a59889baf1ecf9.jpg",
-                "malId": 128829,
-                "aniId": 146786,
-                "page": "MangaFire",
-                "title": "Takahashi-kun Is Peeping",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takahashi-kun-is-peeping.kw269/"
-            },
-            "takahashi-kun-is-peepingg.kw269": {
-                "identifier": "takahashi-kun-is-peepingg.kw269",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57a088eafa4d872397a59889baf1ecf9.jpg",
-                "malId": 128829,
-                "aniId": 146786,
-                "page": "MangaFire",
-                "title": "Takahashi-kun Is Peeping",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/takahashi-kun-is-peepingg.kw269/"
-            }
-        },
         "MangaNato": {
             "manga-su996129": {
+                "id": 157375,
                 "identifier": "manga-su996129",
                 "image": "https://avt.mkklcdnv6temp.com/fld/4/q/14-1733306846-nw.webp",
                 "malId": 128829,
@@ -50,6 +30,19 @@
                 "title": "Takahashi-Kun Is Peeping",
                 "type": "manga",
                 "url": "https://manganato.com/manga-su996129"
+            }
+        },
+        "MangaFire": {
+            "kw269": {
+                "id": 225537,
+                "identifier": "kw269",
+                "image": "https://static.mangafire.to/09f2/i/5/57/57a088eafa4d872397a59889baf1ecf9.jpg",
+                "malId": 128829,
+                "aniId": 146786,
+                "page": "MangaFire",
+                "title": "Takahashi-kun Is Peeping",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/takahashi-kun-is-peepingg.kw269"
             }
         },
         "Comick": {

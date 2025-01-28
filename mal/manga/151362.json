@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "686243d3-fe2a-4f62-8f68-ae3a5a1bcbe6": {
+                "id": 104211,
                 "identifier": "686243d3-fe2a-4f62-8f68-ae3a5a1bcbe6",
                 "image": "https://uploads.mangadex.org/covers/686243d3-fe2a-4f62-8f68-ae3a5a1bcbe6/7360a33c-0c5d-4a29-a11e-781cff40b3ba.jpg",
                 "malId": 151362,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/686243d3-fe2a-4f62-8f68-ae3a5a1bcbe6"
             }
         },
-        "MangaFire": {
-            "finding-camellia.v9nv4": {
-                "identifier": "finding-camellia.v9nv4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf4167a871e98cd1bcbdc0653fbbeee3.jpg",
-                "malId": 151362,
-                "aniId": 139661,
-                "page": "MangaFire",
-                "title": "Finding Camellia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/finding-camellia.v9nv4/"
-            },
-            "finding-camelliaa.v9nv4": {
-                "identifier": "finding-camelliaa.v9nv4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf4167a871e98cd1bcbdc0653fbbeee3.jpg",
-                "malId": 151362,
-                "aniId": 139661,
-                "page": "MangaFire",
-                "title": "Finding Camellia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/finding-camelliaa.v9nv4/"
-            }
-        },
         "Weebcentral": {
             "01jbfw97c8yje1g1fpttx7fbv5": {
+                "id": 215214,
                 "identifier": "01jbfw97c8yje1g1fpttx7fbv5",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBFW97C8YJE1G1FPTTX7FBV5.jpg",
                 "malId": 151362,
@@ -50,6 +30,19 @@
                 "title": "Finding Camellia Volume Version",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBFW97C8YJE1G1FPTTX7FBV5"
+            }
+        },
+        "MangaFire": {
+            "v9nv4": {
+                "id": 227050,
+                "identifier": "v9nv4",
+                "image": "https://static.mangafire.to/7074/i/b/bf/bf4167a871e98cd1bcbdc0653fbbeee3.jpg",
+                "malId": 151362,
+                "aniId": 139661,
+                "page": "MangaFire",
+                "title": "Finding Camellia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/finding-camelliaa.v9nv4"
             }
         },
         "Comick": {

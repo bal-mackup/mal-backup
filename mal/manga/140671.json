@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "248807b9-f596-4f87-820c-407b175fe8cc": {
+                "id": 104424,
                 "identifier": "248807b9-f596-4f87-820c-407b175fe8cc",
                 "image": "https://uploads.mangadex.org/covers/248807b9-f596-4f87-820c-407b175fe8cc/ed3661ff-9664-4f0e-b301-52a99a3445ed.jpg",
                 "malId": 140671,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/248807b9-f596-4f87-820c-407b175fe8cc"
             }
         },
-        "MangaFire": {
-            "god-bless-the-mistaken.mqq3z": {
-                "identifier": "god-bless-the-mistaken.mqq3z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d27f017ffcd561976b1ddeb7bc61a689.jpg",
-                "malId": 140671,
-                "aniId": 139700,
-                "page": "MangaFire",
-                "title": "God Bless the Mistaken",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/god-bless-the-mistaken.mqq3z/"
-            },
-            "god-bless-the-mistakenn.mqq3z": {
-                "identifier": "god-bless-the-mistakenn.mqq3z",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d2/d27f017ffcd561976b1ddeb7bc61a689.jpg",
-                "malId": 140671,
-                "aniId": 139700,
-                "page": "MangaFire",
-                "title": "God Bless the Mistaken",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/god-bless-the-mistakenn.mqq3z/"
-            }
-        },
         "MangaSee": {
             "god-bless-the-mistaken": {
+                "id": 182867,
                 "identifier": "god-bless-the-mistaken",
                 "image": "https://temp.compsci88.com/cover/God-Bless-the-Mistaken.jpg",
                 "malId": 140671,
@@ -54,6 +34,7 @@
         },
         "MangaNato": {
             "manga-aj1003566": {
+                "id": 195591,
                 "identifier": "manga-aj1003566",
                 "image": "https://avt.mkklcdnv6temp.com/fld/88/v/17-1733326550-nw.webp",
                 "malId": 140671,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygzersa9acg9v26teps8": {
+                "id": 208845,
                 "identifier": "01j76xygzersa9acg9v26teps8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGZERSA9ACG9V26TEPS8.jpg",
                 "malId": 140671,
@@ -74,6 +56,19 @@
                 "title": "God Bless the Mistaken",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGZERSA9ACG9V26TEPS8"
+            }
+        },
+        "MangaFire": {
+            "mqq3z": {
+                "id": 225656,
+                "identifier": "mqq3z",
+                "image": "https://static.mangafire.to/3a75/i/d/d2/d27f017ffcd561976b1ddeb7bc61a689.jpg",
+                "malId": 140671,
+                "aniId": 139700,
+                "page": "MangaFire",
+                "title": "God Bless the Mistaken",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/god-bless-the-mistakenn.mqq3z"
             }
         },
         "Comick": {

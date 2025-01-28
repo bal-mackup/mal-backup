@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a4dd1270-a645-4cec-b104-315d85c51308": {
+                "id": 30617,
                 "identifier": "a4dd1270-a645-4cec-b104-315d85c51308",
                 "image": "https://uploads.mangadex.org/covers/a4dd1270-a645-4cec-b104-315d85c51308/a583d65d-9964-4530-927f-0263dbbf9645.jpg",
                 "malId": 108665,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fy983081": {
+                "id": 105523,
                 "identifier": "manga-fy983081",
                 "image": "https://avt.mkklcdnv6temp.com/fld/19/p/10-1732799149-nw.webp",
                 "malId": 108665,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-fy983081"
             }
         },
-        "MangaFire": {
-            "the-ruins-of-the-fire-that-bind-us.xr348": {
-                "identifier": "the-ruins-of-the-fire-that-bind-us.xr348",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5e3e83d0994342ce82963ad7fc21004f.jpg",
-                "malId": 108665,
-                "aniId": 111528,
-                "page": "MangaFire",
-                "title": "The Ruins of the Fire that Bind Us",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-ruins-of-the-fire-that-bind-us.xr348/"
-            },
-            "xr348": {
-                "identifier": "xr348",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5e3e83d0994342ce82963ad7fc21004f.jpg",
-                "malId": 108665,
-                "aniId": 111528,
-                "page": "MangaFire",
-                "title": "The Ruins of the Fire that Bind Us",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-ruins-of-the-fire-that-bind-us.xr348/"
-            }
-        },
         "MangaFox": {
             "musubaru_yakeato": {
+                "id": 160506,
                 "identifier": "musubaru_yakeato",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31440/cover.jpg",
                 "malId": 108665,
@@ -62,6 +43,19 @@
                 "title": "Musubaru Yakeato",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/musubaru_yakeato/"
+            }
+        },
+        "MangaFire": {
+            "xr348": {
+                "id": 231105,
+                "identifier": "xr348",
+                "image": "https://static.mangafire.to/4cd3/i/5/5e/5e3e83d0994342ce82963ad7fc21004f.jpg",
+                "malId": 108665,
+                "aniId": 111528,
+                "page": "MangaFire",
+                "title": "The Ruins of the Fire that Bind Us",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-ruins-of-the-fire-that-bind-uss.xr348"
             }
         },
         "Comick": {

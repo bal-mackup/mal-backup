@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ee6264df-0a88-46a8-bb64-5bc64446813c": {
+                "id": 63644,
                 "identifier": "ee6264df-0a88-46a8-bb64-5bc64446813c",
                 "image": "https://uploads.mangadex.org/covers/ee6264df-0a88-46a8-bb64-5bc64446813c/5de03ea0-dca0-4e3e-8925-08e3729907ae.jpg",
                 "malId": 91134,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "la-la-la": {
+                "id": 123806,
                 "identifier": "la-la-la",
                 "image": "https://temp.compsci88.com/cover/La-La-La.jpg",
                 "malId": 91134,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/La-La-La"
             }
         },
-        "MangaFire": {
-            "la-la-la.6v9q4": {
-                "identifier": "la-la-la.6v9q4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/009350d821598745455167c4e93ed582.jpg",
-                "malId": 91134,
-                "aniId": 95434,
-                "page": "MangaFire",
-                "title": "La La La",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/la-la-la.6v9q4/"
-            },
-            "6v9q4": {
-                "identifier": "6v9q4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/009350d821598745455167c4e93ed582.jpg",
-                "malId": 91134,
-                "aniId": 95434,
-                "page": "MangaFire",
-                "title": "La La La",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/la-la-la.6v9q4/"
-            }
-        },
         "MangaNato": {
             "manga-te996687": {
+                "id": 162028,
                 "identifier": "manga-te996687",
                 "image": "https://avt.mkklcdnv6temp.com/fld/25/y/15-1733308139-nw.webp",
                 "malId": 91134,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfy10rytc6h8m7r15g37": {
+                "id": 211269,
                 "identifier": "01j76xyfy10rytc6h8m7r15g37",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFY10RYTC6H8M7R15G37.jpg",
                 "malId": 91134,
@@ -74,6 +56,19 @@
                 "title": "La La La",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFY10RYTC6H8M7R15G37"
+            }
+        },
+        "MangaFire": {
+            "6v9q4": {
+                "id": 243867,
+                "identifier": "6v9q4",
+                "image": "https://static.mangafire.to/8cfc/i/0/00/009350d821598745455167c4e93ed582.jpg",
+                "malId": 91134,
+                "aniId": 95434,
+                "page": "MangaFire",
+                "title": "La La La",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/la-la-laa.6v9q4"
             }
         },
         "Comick": {

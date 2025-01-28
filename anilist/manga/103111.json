@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "af38f328-8df1-4b4c-a272-e737625c3ddc": {
+                "id": 19451,
                 "identifier": "af38f328-8df1-4b4c-a272-e737625c3ddc",
-                "image": "https://uploads.mangadex.org/covers/af38f328-8df1-4b4c-a272-e737625c3ddc/1e4d90bc-3fae-4e8b-9ce3-ec2fdb1db8ae.jpg",
+                "image": "https://uploads.mangadex.org/covers/af38f328-8df1-4b4c-a272-e737625c3ddc/86e4fa67-7b85-4bb0-9476-3fb8a9847557.jpg",
                 "malId": 113560,
                 "aniId": 103111,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-senpai-is-annoying": {
+                "id": 56193,
                 "identifier": "my-senpai-is-annoying",
                 "image": "https://temp.compsci88.com/cover/My-Senpai-Is-Annoying.jpg",
                 "malId": 113560,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-bq978951": {
+                "id": 73714,
                 "identifier": "manga-bq978951",
                 "image": "https://avt.mkklcdnv6temp.com/23/d/16-1583494298.jpg",
                 "malId": 113560,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-bq978951"
             },
             "manga-md989860": {
+                "id": 89257,
                 "identifier": "manga-md989860",
                 "image": "https://avt.mkklcdnv6temp.com/49/w/24-1635010516.jpg",
                 "malId": 113560,
@@ -52,20 +56,9 @@
                 "url": "https://chapmanganato.com/manga-md989860"
             }
         },
-        "MangaFire": {
-            "senpai-ga-uzai-kouhai-no-hanashi.52ow9": {
-                "identifier": "senpai-ga-uzai-kouhai-no-hanashi.52ow9",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a41a1858714f1aee282638f21f884924.jpg",
-                "malId": 113560,
-                "aniId": 103111,
-                "page": "MangaFire",
-                "title": "My Senpai is Annoying",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senpai-ga-uzai-kouhai-no-hanashi.52ow9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyddbdv1b0eet4ymsn8mv": {
+                "id": 210389,
                 "identifier": "01j76xyddbdv1b0eet4ymsn8mv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDDBDV1B0EET4YMSN8MV.jpg",
                 "malId": 113560,
@@ -74,6 +67,19 @@
                 "title": "My Senpai Is Annoying",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDDBDV1B0EET4YMSN8MV"
+            }
+        },
+        "MangaFire": {
+            "52ow9": {
+                "id": 250001,
+                "identifier": "52ow9",
+                "image": "https://static.mangafire.to/0702/i/a/a4/a41a1858714f1aee282638f21f884924.jpg",
+                "malId": 113560,
+                "aniId": 103111,
+                "page": "MangaFire",
+                "title": "My Senpai is Annoying",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/senpai-ga-uzai-kouhai-no-hanashii.52ow9"
             }
         },
         "Comick": {

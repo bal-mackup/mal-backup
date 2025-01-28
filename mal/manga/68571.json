@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d3bf5c5d-5280-443f-9a8c-2be7277479d1": {
+                "id": 10380,
                 "identifier": "d3bf5c5d-5280-443f-9a8c-2be7277479d1",
                 "image": "https://uploads.mangadex.org/covers/d3bf5c5d-5280-443f-9a8c-2be7277479d1/9138202e-9a54-43d9-9126-083c17772b4e.jpg",
                 "malId": 68571,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/d3bf5c5d-5280-443f-9a8c-2be7277479d1"
             },
             "133919a2-3f08-4d34-bd60-c5ad3ec0a0ec": {
+                "id": 36250,
                 "identifier": "133919a2-3f08-4d34-bd60-c5ad3ec0a0ec",
                 "image": "https://uploads.mangadex.org/covers/133919a2-3f08-4d34-bd60-c5ad3ec0a0ec/9464e311-a2bb-428b-979f-b1ce64f5564a.png",
                 "malId": 68571,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "shimoneta_to_iu_gainen_ga_sonzai_shinai_taikutsu_na_sekai_manmaruban": {
+                "id": 59230,
                 "identifier": "shimoneta_to_iu_gainen_ga_sonzai_shinai_taikutsu_na_sekai_manmaruban",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15450/cover.jpg",
                 "malId": 68571,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/shimoneta_to_iu_gainen_ga_sonzai_shinai_taikutsu_na_sekai_manmaruban/"
             },
             "shimoneta_to_iu_gainen_ga_sonzai_shinai_taikutsu_na_sekai_manmaru_hen": {
+                "id": 59231,
                 "identifier": "shimoneta_to_iu_gainen_ga_sonzai_shinai_taikutsu_na_sekai_manmaru_hen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31467/cover.jpg",
                 "malId": 68571,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "shimoneta-to-iu-gainen": {
+                "id": 65912,
                 "identifier": "shimoneta-to-iu-gainen",
                 "image": "https://temp.compsci88.com/cover/Shimoneta-To-Iu-Gainen.jpg",
                 "malId": 68571,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-rc953137": {
+                "id": 74811,
                 "identifier": "manga-rc953137",
                 "image": "https://avt.mkklcdnv6temp.com/12/x/2-1583466200.jpg",
                 "malId": 68571,
@@ -74,6 +80,7 @@
                 "url": "https://chapmanganato.com/manga-rc953137"
             },
             "manga-kr988226": {
+                "id": 86694,
                 "identifier": "manga-kr988226",
                 "image": "https://avt.mkklcdnv6temp.com/29/x/23-1613926643.jpg",
                 "malId": 68571,
@@ -84,30 +91,9 @@
                 "url": "https://chapmanganato.com/manga-kr988226"
             }
         },
-        "MangaFire": {
-            "shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhen.vwzv": {
-                "identifier": "shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhen.vwzv",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e96e9ee3b53f15b1ae04e0e5ac584dbc.jpg",
-                "malId": 68571,
-                "aniId": 86320,
-                "page": "MangaFire",
-                "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhen.vwzv/"
-            },
-            "shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhenn.vwzv": {
-                "identifier": "shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhenn.vwzv",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e96e9ee3b53f15b1ae04e0e5ac584dbc.jpg",
-                "malId": 68571,
-                "aniId": 86320,
-                "page": "MangaFire",
-                "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhenn.vwzv/"
-            }
-        },
         "Weebcentral": {
             "01j76xybg47h2178keaf4y7862": {
+                "id": 210072,
                 "identifier": "01j76xybg47h2178keaf4y7862",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBG47H2178KEAF4Y7862.jpg",
                 "malId": 68571,
@@ -116,6 +102,19 @@
                 "title": "Shimoneta to Iu Gainen Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBG47H2178KEAF4Y7862"
+            }
+        },
+        "MangaFire": {
+            "vwzv": {
+                "id": 239603,
+                "identifier": "vwzv",
+                "image": "https://static.mangafire.to/d844/i/e/e9/e96e9ee3b53f15b1ae04e0e5ac584dbc.jpg",
+                "malId": 68571,
+                "aniId": 86320,
+                "page": "MangaFire",
+                "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manhenn.vwzv"
             }
         },
         "Comick": {

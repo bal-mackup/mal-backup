@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "75c9afb9-3758-4ebe-85ca-16c75508b1ce": {
+                "id": 13480,
                 "identifier": "75c9afb9-3758-4ebe-85ca-16c75508b1ce",
                 "image": "https://uploads.mangadex.org/covers/75c9afb9-3758-4ebe-85ca-16c75508b1ce/1a190b44-80e3-4fe9-9182-94481367b43e.jpg",
                 "malId": 88664,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-isolator": {
+                "id": 60427,
                 "identifier": "the-isolator",
                 "image": "https://temp.compsci88.com/cover/The-Isolator.jpg",
                 "malId": 88664,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-st970228": {
+                "id": 105983,
                 "identifier": "manga-st970228",
                 "image": "https://avt.mkklcdnv6temp.com/fld/22/v/7-1732784258-nw.webp",
                 "malId": 88664,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-st970228"
             }
         },
-        "MangaFire": {
-            "the-isolator-realization-of-absolute-solitudee.prl96": {
-                "identifier": "the-isolator-realization-of-absolute-solitudee.prl96",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/601d3e1e5f55ead0e3763cf6d84ad76c.jpg",
-                "malId": 88664,
-                "aniId": 94745,
-                "page": "MangaFire",
-                "title": "The Isolator",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-isolator-realization-of-absolute-solitudee.prl96/"
-            },
-            "prl96": {
-                "identifier": "prl96",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/601d3e1e5f55ead0e3763cf6d84ad76c.jpg",
-                "malId": 88664,
-                "aniId": 94745,
-                "page": "MangaFire",
-                "title": "The Isolator",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-isolator-realization-of-absolute-solitudee.prl96/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc2gbhncgzbmybmn2axg": {
+                "id": 206446,
                 "identifier": "01j76xyc2gbhncgzbmybmn2axg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC2GBHNCGZBMYBMN2AXG.jpg",
                 "malId": 88664,
@@ -74,6 +56,19 @@
                 "title": "The Isolator",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC2GBHNCGZBMYBMN2AXG"
+            }
+        },
+        "MangaFire": {
+            "prl96": {
+                "id": 225107,
+                "identifier": "prl96",
+                "image": "https://static.mangafire.to/5b33/i/6/60/601d3e1e5f55ead0e3763cf6d84ad76c.jpg",
+                "malId": 88664,
+                "aniId": 94745,
+                "page": "MangaFire",
+                "title": "The Isolator",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-isolator-realization-of-absolute-solitudee.prl96"
             }
         },
         "Comick": {

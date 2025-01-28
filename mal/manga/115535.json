@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "7253378d-bf07-4017-8c3e-13be2ec87c9a": {
+                "id": 23561,
                 "identifier": "7253378d-bf07-4017-8c3e-13be2ec87c9a",
                 "image": "https://uploads.mangadex.org/covers/7253378d-bf07-4017-8c3e-13be2ec87c9a/0eeb9459-bb23-4dfb-b4e6-80ce1481baea.jpg",
                 "malId": 115535,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cg979589": {
+                "id": 85748,
                 "identifier": "manga-cg979589",
                 "image": "https://avt.mkklcdnv6temp.com/47/e/16-1583495163.jpg",
                 "malId": 115535,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-cg979589"
             }
         },
-        "MangaFire": {
-            "otokonoko-doushi-renai-chuu.xr9nz": {
-                "identifier": "otokonoko-doushi-renai-chuu.xr9nz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/cecdd896c6fb22c754e4779ad16036d5.jpg",
-                "malId": 115535,
-                "aniId": 104195,
-                "page": "MangaFire",
-                "title": "Otokonoko Doushi Renai Chuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otokonoko-doushi-renai-chuu.xr9nz/"
-            },
-            "xr9nz": {
-                "identifier": "xr9nz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/cecdd896c6fb22c754e4779ad16036d5.jpg",
-                "malId": 115535,
-                "aniId": 104195,
-                "page": "MangaFire",
-                "title": "Otokonoko Doushi Renai Chuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/otokonoko-doushi-renai-chuu.xr9nz/"
-            }
-        },
         "MangaFox": {
             "otokonoko_doushi_renai_chuu": {
+                "id": 167355,
                 "identifier": "otokonoko_doushi_renai_chuu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28238/cover.jpg",
                 "malId": 115535,
@@ -62,6 +43,19 @@
                 "title": "Otokonoko Doushi Renai Chuu.",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/otokonoko_doushi_renai_chuu/"
+            }
+        },
+        "MangaFire": {
+            "xr9nz": {
+                "id": 253243,
+                "identifier": "xr9nz",
+                "image": "https://static.mangafire.to/113c/i/c/ce/cecdd896c6fb22c754e4779ad16036d5.jpg",
+                "malId": 115535,
+                "aniId": 104195,
+                "page": "MangaFire",
+                "title": "Otokonoko Doushi Renai Chuu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/otokonoko-doushi-renai-chuuu.xr9nz"
             }
         },
         "Comick": {

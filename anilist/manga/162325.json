@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "13d2856e-9163-43a1-86f9-cd66d41db09b": {
+                "id": 125396,
                 "identifier": "13d2856e-9163-43a1-86f9-cd66d41db09b",
                 "image": "https://uploads.mangadex.org/covers/13d2856e-9163-43a1-86f9-cd66d41db09b/41e3dda4-210c-4d9f-a363-7aadebbf1882.jpg",
                 "malId": 159610,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/13d2856e-9163-43a1-86f9-cd66d41db09b"
             }
         },
-        "MangaFire": {
-            "isekai-samurai.v9792": {
-                "identifier": "isekai-samurai.v9792",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4c1101f36ad8f027d286e066d663fcdb.jpg",
-                "malId": 159610,
-                "aniId": 162325,
-                "page": "MangaFire",
-                "title": "Isekai Samurai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-samurai.v9792/"
-            },
-            "isekai-samuraii.v9792": {
-                "identifier": "isekai-samuraii.v9792",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4c/4c1101f36ad8f027d286e066d663fcdb.jpg",
-                "malId": 159610,
-                "aniId": 162325,
-                "page": "MangaFire",
-                "title": "Isekai Samurai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-samuraii.v9792/"
-            }
-        },
         "MangaNato": {
             "manga-tt996976": {
+                "id": 162609,
                 "identifier": "manga-tt996976",
                 "image": "https://avt.mkklcdnv6temp.com/fld/36/z/15-1733308837-nw.webp",
                 "malId": 159610,
@@ -54,6 +34,7 @@
         },
         "MangaSee": {
             "isekai-samurai": {
+                "id": 166608,
                 "identifier": "isekai-samurai",
                 "image": "https://temp.compsci88.com/cover/Isekai-Samurai.jpg",
                 "malId": 159610,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "isekai_samurai": {
+                "id": 196501,
                 "identifier": "isekai_samurai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46404/cover.jpg",
                 "malId": 159610,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygdwf96d6k56zxx82vpv": {
+                "id": 212874,
                 "identifier": "01j76xygdwf96d6k56zxx82vpv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGDWF96D6K56ZXX82VPV.jpg",
                 "malId": 159610,
@@ -86,6 +69,19 @@
                 "title": "Isekai Samurai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGDWF96D6K56ZXX82VPV"
+            }
+        },
+        "MangaFire": {
+            "v9792": {
+                "id": 223843,
+                "identifier": "v9792",
+                "image": "https://static.mangafire.to/eb02/i/4/4c/4c1101f36ad8f027d286e066d663fcdb.jpg",
+                "malId": 159610,
+                "aniId": 162325,
+                "page": "MangaFire",
+                "title": "Isekai Samurai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-samuraii.v9792"
             }
         },
         "Comick": {

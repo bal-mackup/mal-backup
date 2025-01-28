@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "16e1767d-a8d5-4173-b87f-f7023f6c4578": {
+                "id": 29152,
                 "identifier": "16e1767d-a8d5-4173-b87f-f7023f6c4578",
                 "image": "https://uploads.mangadex.org/covers/16e1767d-a8d5-4173-b87f-f7023f6c4578/a7959d46-cc3d-40cd-9a49-d3cded838058.jpg",
                 "malId": 130216,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tomb-raider-king": {
+                "id": 53858,
                 "identifier": "tomb-raider-king",
                 "image": "https://temp.compsci88.com/cover/Tomb-Raider-King.jpg",
                 "malId": 130216,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tomb_raider_king": {
+                "id": 58027,
                 "identifier": "tomb_raider_king",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30869/cover.jpg",
                 "malId": 130216,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-eu982203": {
+                "id": 72965,
                 "identifier": "manga-eu982203",
                 "image": "https://avt.mkklcdnv6temp.com/42/y/18-1583498764.jpg",
                 "malId": 130216,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-eu982203"
             }
         },
-        "MangaFire": {
-            "dogul-wang.85y3": {
-                "identifier": "dogul-wang.85y3",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/937a4a976b97a391f4ecf095985093ad.jpg",
-                "malId": 130216,
-                "aniId": 110462,
-                "page": "MangaFire",
-                "title": "Tomb Raider King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dogul-wang.85y3/"
-            },
-            "dogul-wangg.85y3": {
-                "identifier": "dogul-wangg.85y3",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/937a4a976b97a391f4ecf095985093ad.jpg",
-                "malId": 130216,
-                "aniId": 110462,
-                "page": "MangaFire",
-                "title": "Tomb Raider King",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dogul-wangg.85y3/"
-            }
-        },
         "Weebcentral": {
             "01j76xye14axq7b8gycxj9cv8p": {
+                "id": 209341,
                 "identifier": "01j76xye14axq7b8gycxj9cv8p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE14AXQ7B8GYCXJ9CV8P.jpg",
                 "malId": 130216,
@@ -86,6 +69,19 @@
                 "title": "Tomb Raider King",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE14AXQ7B8GYCXJ9CV8P"
+            }
+        },
+        "MangaFire": {
+            "85y3": {
+                "id": 225588,
+                "identifier": "85y3",
+                "image": "https://static.mangafire.to/0cbc/i/9/93/937a4a976b97a391f4ecf095985093ad.jpg",
+                "malId": 130216,
+                "aniId": 110462,
+                "page": "MangaFire",
+                "title": "Tomb Raider King",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dogul-wangg.85y3"
             }
         },
         "Comick": {

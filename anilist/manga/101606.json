@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c8aebcc7-678e-4682-a727-48febbc325fd": {
+                "id": 19312,
                 "identifier": "c8aebcc7-678e-4682-a727-48febbc325fd",
                 "image": "https://uploads.mangadex.org/covers/c8aebcc7-678e-4682-a727-48febbc325fd/424ca66a-8296-4d53-a504-c11d54e4bf0c.jpg",
                 "malId": 112236,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "86-eightysix": {
+                "id": 60814,
                 "identifier": "86-eightysix",
                 "image": "https://temp.compsci88.com/cover/86-EIGHTYSIX.jpg",
                 "malId": 112236,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "86": {
+                "id": 66984,
                 "identifier": "86",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27808/cover.jpg",
                 "malId": 112236,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bf979262": {
+                "id": 75435,
                 "identifier": "manga-bf979262",
                 "image": "https://avt.mkklcdnv6temp.com/34/w/16-1583494722.jpg",
                 "malId": 112236,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-bf979262"
             }
         },
-        "MangaFire": {
-            "86-eighty-six.7j677": {
-                "identifier": "86-eighty-six.7j677",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f514a1df54f9b44f3ef379ac9ddbf549.jpg",
-                "malId": 112236,
-                "aniId": 101606,
-                "page": "MangaFire",
-                "title": "86―EIGHTY-SIX",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/86-eighty-six.7j677/"
-            },
-            "86-eighty-sixx.7j677": {
-                "identifier": "86-eighty-sixx.7j677",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f514a1df54f9b44f3ef379ac9ddbf549.jpg",
-                "malId": 112236,
-                "aniId": 101606,
-                "page": "MangaFire",
-                "title": "86―EIGHTY-SIX",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/86-eighty-sixx.7j677/"
-            }
-        },
         "Weebcentral": {
             "01j76xye69jbep9hr46rx7wqkn": {
+                "id": 210793,
                 "identifier": "01j76xye69jbep9hr46rx7wqkn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE69JBEP9HR46RX7WQKN.jpg",
                 "malId": 112236,
@@ -86,6 +69,19 @@
                 "title": "86--EIGHTY-SIX",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE69JBEP9HR46RX7WQKN"
+            }
+        },
+        "MangaFire": {
+            "7j677": {
+                "id": 225236,
+                "identifier": "7j677",
+                "image": "https://static.mangafire.to/a4d5/i/f/f5/f514a1df54f9b44f3ef379ac9ddbf549.jpg",
+                "malId": 112236,
+                "aniId": 101606,
+                "page": "MangaFire",
+                "title": "86―EIGHTY-SIX",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/86-eighty-sixx.7j677"
             }
         },
         "Comick": {

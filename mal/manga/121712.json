@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "79d75145-3b24-44e2-9bf0-8632131d0cc9": {
+                "id": 28818,
                 "identifier": "79d75145-3b24-44e2-9bf0-8632131d0cc9",
                 "image": "https://uploads.mangadex.org/covers/79d75145-3b24-44e2-9bf0-8632131d0cc9/79caf413-7b4c-4878-81d9-746b9914d148.jpg",
                 "malId": 121712,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "star-crossed": {
+                "id": 66327,
                 "identifier": "star-crossed",
                 "image": "https://temp.compsci88.com/cover/Star-Crossed.jpg",
                 "malId": 121712,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Star-Crossed"
             }
         },
-        "MangaFire": {
-            "wotadoru-oshi-ga-watashi-de-watashi-ga-oshi-de.72wo1": {
-                "identifier": "wotadoru-oshi-ga-watashi-de-watashi-ga-oshi-de.72wo1",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/654544c6502de45ecf34943245303d68.jpg",
-                "malId": 121712,
-                "aniId": 109373,
-                "page": "MangaFire",
-                "title": "Star⇄Crossed!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wotadoru-oshi-ga-watashi-de-watashi-ga-oshi-de.72wo1/"
-            }
-        },
         "Weebcentral": {
             "01j76xydb9mp7wpbh1kz2akzrq": {
+                "id": 206841,
                 "identifier": "01j76xydb9mp7wpbh1kz2akzrq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDB9MP7WPBH1KZ2AKZRQ.jpg",
                 "malId": 121712,
@@ -52,6 +43,19 @@
                 "title": "Star-Crossed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDB9MP7WPBH1KZ2AKZRQ"
+            }
+        },
+        "MangaFire": {
+            "72wo1": {
+                "id": 242247,
+                "identifier": "72wo1",
+                "image": "https://static.mangafire.to/cea5/i/6/65/654544c6502de45ecf34943245303d68.jpg",
+                "malId": 121712,
+                "aniId": 109373,
+                "page": "MangaFire",
+                "title": "Star⇄Crossed!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wotadoru-oshi-ga-watashi-de-watashi-ga-oshi-dee.72wo1"
             }
         }
     },

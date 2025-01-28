@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8a2e20cc-bdc8-47f1-80fd-b6da4b2703df": {
+                "id": 28029,
                 "identifier": "8a2e20cc-bdc8-47f1-80fd-b6da4b2703df",
                 "image": "https://uploads.mangadex.org/covers/8a2e20cc-bdc8-47f1-80fd-b6da4b2703df/64dbd78d-0b3e-4dcf-9657-95019715558f.jpg",
                 "malId": 127559,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "insos-law": {
+                "id": 54860,
                 "identifier": "insos-law",
                 "image": "https://temp.compsci88.com/cover/Insos-Law.jpg",
                 "malId": 127559,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ey982007": {
+                "id": 76370,
                 "identifier": "manga-ey982007",
                 "image": "https://avt.mkklcdnv6temp.com/35/r/18-1583498481.jpg",
                 "malId": 127559,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "my_life_as_an_internet_novel": {
+                "id": 96929,
                 "identifier": "my_life_as_an_internet_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38631/cover.jpg",
                 "malId": 127559,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/my_life_as_an_internet_novel/"
             }
         },
-        "MangaFire": {
-            "insoui-beopchik.m2r28": {
-                "identifier": "insoui-beopchik.m2r28",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2a4b2bf14748de3a9f557cf08e0318d.jpg",
-                "malId": 127559,
-                "aniId": 110059,
-                "page": "MangaFire",
-                "title": "My Life as an Internet Novel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/insoui-beopchik.m2r28/"
-            },
-            "insoui-beopchikk.m2r28": {
-                "identifier": "insoui-beopchikk.m2r28",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2a4b2bf14748de3a9f557cf08e0318d.jpg",
-                "malId": 127559,
-                "aniId": 110059,
-                "page": "MangaFire",
-                "title": "My Life as an Internet Novel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/insoui-beopchikk.m2r28/"
-            }
-        },
         "Weebcentral": {
             "01j76xye0ed9vkbb59j1beppnn": {
+                "id": 208637,
                 "identifier": "01j76xye0ed9vkbb59j1beppnn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE0ED9VKBB59J1BEPPNN.jpg",
                 "malId": 127559,
@@ -86,6 +69,19 @@
                 "title": "My Life as an Internet Novel",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE0ED9VKBB59J1BEPPNN"
+            }
+        },
+        "MangaFire": {
+            "m2r28": {
+                "id": 226256,
+                "identifier": "m2r28",
+                "image": "https://static.mangafire.to/6f5c/i/e/e2/e2a4b2bf14748de3a9f557cf08e0318d.jpg",
+                "malId": 127559,
+                "aniId": 110059,
+                "page": "MangaFire",
+                "title": "My Life as an Internet Novel",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/insoui-beopchikk.m2r28"
             }
         },
         "Comick": {

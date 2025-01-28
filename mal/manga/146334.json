@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9da1aa3e-6bca-4423-89c2-af657f93ff78": {
+                "id": 37342,
                 "identifier": "9da1aa3e-6bca-4423-89c2-af657f93ff78",
                 "image": "https://uploads.mangadex.org/covers/9da1aa3e-6bca-4423-89c2-af657f93ff78/2471028e-b1c7-4664-b022-ec347d529d38.jpg",
                 "malId": 146334,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qs993375": {
+                "id": 121052,
                 "identifier": "manga-qs993375",
                 "image": "https://avt.mkklcdnv6temp.com/45/l/27-1672750068.jpg",
                 "malId": 146334,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qs993375"
             }
         },
-        "MangaFire": {
-            "gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panic.jv11n": {
-                "identifier": "gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panic.jv11n",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16b44c632174e0ff0fd73a2e2f6dddeb.jpg",
-                "malId": 146334,
-                "aniId": 142980,
-                "page": "MangaFire",
-                "title": "Gori-sen ~The type of PE teacher to die first during a panic~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panic.jv11n/"
-            },
-            "gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panicc.jv11n": {
-                "identifier": "gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panicc.jv11n",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/16b44c632174e0ff0fd73a2e2f6dddeb.jpg",
-                "malId": 146334,
-                "aniId": 142980,
-                "page": "MangaFire",
-                "title": "Gori-sen ~The type of PE teacher to die first during a panic~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panicc.jv11n/"
-            }
-        },
         "MangaSee": {
             "gori-sen": {
+                "id": 158532,
                 "identifier": "gori-sen",
                 "image": "https://temp.compsci88.com/cover/Gori-sen.jpg",
                 "malId": 146334,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg668mfgzecbvte8qh5p": {
+                "id": 208357,
                 "identifier": "01j76xyg668mfgzecbvte8qh5p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG668MFGZECBVTE8QH5P.jpg",
                 "malId": 146334,
@@ -74,6 +56,19 @@
                 "title": "Gori-sen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG668MFGZECBVTE8QH5P"
+            }
+        },
+        "MangaFire": {
+            "jv11n": {
+                "id": 229418,
+                "identifier": "jv11n",
+                "image": "https://static.mangafire.to/5688/i/1/16/16b44c632174e0ff0fd73a2e2f6dddeb.jpg",
+                "malId": 146334,
+                "aniId": 142980,
+                "page": "MangaFire",
+                "title": "Gori-sen ~The type of PE teacher to die first during a panic~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gori-sen-the-type-of-pe-teacher-to-die-first-during-a-panicc.jv11n"
             }
         },
         "Comick": {

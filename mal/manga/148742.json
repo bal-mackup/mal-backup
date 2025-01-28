@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a5971ece-d568-493a-bf8c-b2155c3ed405": {
+                "id": 108021,
                 "identifier": "a5971ece-d568-493a-bf8c-b2155c3ed405",
                 "image": "https://uploads.mangadex.org/covers/a5971ece-d568-493a-bf8c-b2155c3ed405/adfd8f45-576a-4437-b0f7-4070b5305ccd.jpg",
                 "malId": 148742,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-villainess-tames-the-beast": {
+                "id": 128787,
                 "identifier": "the-villainess-tames-the-beast",
                 "image": "https://temp.compsci88.com/cover/The-Villainess-Tames-The-Beast.jpg",
                 "malId": 148742,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/The-Villainess-Tames-The-Beast"
             }
         },
-        "MangaFire": {
-            "a-beast-tamed-by-the-villainess.jvm74": {
-                "identifier": "a-beast-tamed-by-the-villainess.jvm74",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/5099dcbbf2c45d32a99f33f73920abe2.jpg",
-                "malId": 148742,
-                "aniId": 152130,
-                "page": "MangaFire",
-                "title": "The Villainess Tames The Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-beast-tamed-by-the-villainess.jvm74/"
-            },
-            "a-beast-tamed-by-the-villainesss.jvm74": {
-                "identifier": "a-beast-tamed-by-the-villainesss.jvm74",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/5099dcbbf2c45d32a99f33f73920abe2.jpg",
-                "malId": 148742,
-                "aniId": 152130,
-                "page": "MangaFire",
-                "title": "The Villainess Tames The Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-beast-tamed-by-the-villainesss.jvm74/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1dv39thfakvsb8dy2v": {
+                "id": 206734,
                 "identifier": "01j76xyg1dv39thfakvsb8dy2v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1DV39THFAKVSB8DY2V.jpg",
                 "malId": 148742,
@@ -62,6 +43,19 @@
                 "title": "The Villainess Tames the Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1DV39THFAKVSB8DY2V"
+            }
+        },
+        "MangaFire": {
+            "jvm74": {
+                "id": 225723,
+                "identifier": "jvm74",
+                "image": "https://static.mangafire.to/3ae3/i/5/50/5099dcbbf2c45d32a99f33f73920abe2.jpg",
+                "malId": 148742,
+                "aniId": 152130,
+                "page": "MangaFire",
+                "title": "The Villainess Tames The Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-beast-tamed-by-the-villainesss.jvm74"
             }
         },
         "Comick": {

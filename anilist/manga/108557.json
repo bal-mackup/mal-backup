@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "397232c1-4ae1-486b-8517-769ade1ddc0b": {
+                "id": 23900,
                 "identifier": "397232c1-4ae1-486b-8517-769ade1ddc0b",
                 "image": "https://uploads.mangadex.org/covers/397232c1-4ae1-486b-8517-769ade1ddc0b/2a00bb59-7610-46b4-8083-7c185a72dccb.png",
                 "malId": 113314,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/397232c1-4ae1-486b-8517-769ade1ddc0b"
             }
         },
-        "MangaFire": {
-            "minori-100-ladies.kwmvr": {
-                "identifier": "minori-100-ladies.kwmvr",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29cdcd6c95584c46dfc338ff688d1a9d.jpg",
-                "malId": 113314,
-                "aniId": 108557,
-                "page": "MangaFire",
-                "title": "Minori & 100 Ladies",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minori-100-ladies.kwmvr/"
-            },
-            "kwmvr": {
-                "identifier": "kwmvr",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/29cdcd6c95584c46dfc338ff688d1a9d.jpg",
-                "malId": 113314,
-                "aniId": 108557,
-                "page": "MangaFire",
-                "title": "Minori & 100 Ladies",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minori-100-ladies.kwmvr/"
-            }
-        },
         "MangaNato": {
             "manga-ca979957": {
+                "id": 162482,
                 "identifier": "manga-ca979957",
                 "image": "https://avt.mkklcdnv6temp.com/fld/7/y/9-1732792677-nw.webp",
                 "malId": 113314,
@@ -54,6 +34,7 @@
         },
         "MangaFox": {
             "minori_to_100_nin_no_ojou_sama": {
+                "id": 221872,
                 "identifier": "minori_to_100_nin_no_ojou_sama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28605/cover.jpg",
                 "malId": 113314,
@@ -62,6 +43,19 @@
                 "title": "Minori to 100-nin no Ojou-sama",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/minori_to_100_nin_no_ojou_sama/"
+            }
+        },
+        "MangaFire": {
+            "kwmvr": {
+                "id": 255596,
+                "identifier": "kwmvr",
+                "image": "https://static.mangafire.to/4591/i/2/29/29cdcd6c95584c46dfc338ff688d1a9d.jpg",
+                "malId": 113314,
+                "aniId": 108557,
+                "page": "MangaFire",
+                "title": "Minori & 100 Ladies",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/minori-100-ladiess.kwmvr"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ec387b13-b35c-4abe-a089-5b69ff429118": {
+                "id": 117203,
                 "identifier": "ec387b13-b35c-4abe-a089-5b69ff429118",
                 "image": "https://uploads.mangadex.org/covers/ec387b13-b35c-4abe-a089-5b69ff429118/092f54e9-1908-46db-8076-d378fcd58320.jpg",
                 "malId": 157067,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-sa995383": {
+                "id": 128383,
                 "identifier": "manga-sa995383",
                 "image": "https://avt.mkklcdnv6temp.com/25/p/29-1680496781.jpg",
                 "malId": 157067,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-sa995383"
             }
         },
-        "MangaFire": {
-            "ouji-sama-no-tomodachi.ppjx9": {
-                "identifier": "ouji-sama-no-tomodachi.ppjx9",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/ebd00ed2d4c3a0c322fedb318d5444c5.jpg",
-                "malId": 157067,
-                "aniId": 156130,
-                "page": "MangaFire",
-                "title": "A Prince of a Friend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ouji-sama-no-tomodachi.ppjx9/"
-            },
-            "ouji-sama-no-tomodachii.ppjx9": {
-                "identifier": "ouji-sama-no-tomodachii.ppjx9",
-                "image": "https://static.mangafire.to/7daa/i/e/eb/ebd00ed2d4c3a0c322fedb318d5444c5.jpg",
-                "malId": 157067,
-                "aniId": 156130,
-                "page": "MangaFire",
-                "title": "A Prince of a Friend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ouji-sama-no-tomodachii.ppjx9/"
-            }
-        },
         "MangaSee": {
             "ouji-sama-no-tomodachi": {
+                "id": 184534,
                 "identifier": "ouji-sama-no-tomodachi",
                 "image": "https://temp.compsci88.com/cover/Ouji-sama-no-Tomodachi.jpg",
                 "malId": 157067,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh356vdgfpgj35xe886c": {
+                "id": 213091,
                 "identifier": "01j76xyh356vdgfpgj35xe886c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH356VDGFPGJ35XE886C.jpg",
                 "malId": 157067,
@@ -74,6 +56,19 @@
                 "title": "Ouji-sama no Tomodachi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH356VDGFPGJ35XE886C"
+            }
+        },
+        "MangaFire": {
+            "ppjx9": {
+                "id": 223421,
+                "identifier": "ppjx9",
+                "image": "https://static.mangafire.to/7daa/i/e/eb/ebd00ed2d4c3a0c322fedb318d5444c5.jpg",
+                "malId": 157067,
+                "aniId": 156130,
+                "page": "MangaFire",
+                "title": "A Prince of a Friend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ouji-sama-no-tomodachii.ppjx9"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "47f1436c-cb88-4645-bbf7-605873c567f3": {
+                "id": 40296,
                 "identifier": "47f1436c-cb88-4645-bbf7-605873c567f3",
                 "image": "https://uploads.mangadex.org/covers/47f1436c-cb88-4645-bbf7-605873c567f3/c270cff0-e85d-4123-9295-b2cbb1b46c95.jpg",
                 "malId": 132501,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-jd986986": {
+                "id": 74599,
                 "identifier": "manga-jd986986",
                 "image": "https://avt.mkklcdnv6temp.com/29/b/22-1603097905.jpg",
                 "malId": 132501,
@@ -31,25 +33,42 @@
             }
         },
         "MangaFire": {
-            "koushaku-reijou-theresia-no-fukushuu.zl4y3": {
-                "identifier": "koushaku-reijou-theresia-no-fukushuu.zl4y3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b17767df92fa942112cf59f6a01fdcde.jpg",
+            "zl4y3": {
+                "id": 257550,
+                "identifier": "zl4y3",
+                "image": "https://static.mangafire.to/954e/i/f/a3/38060b435ab1890ef536c594587e58e2.jpg",
                 "malId": 132501,
                 "aniId": 127511,
                 "page": "MangaFire",
-                "title": "Koushaku Reijou Theresia no Fukushuu",
+                "title": "The Duke's Daughter Tiaresia Takes Revenge",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/koushaku-reijou-theresia-no-fukushuu.zl4y3/"
-            },
-            "koushaku-reijou-theresia-no-fukushuuu.zl4y3": {
-                "identifier": "koushaku-reijou-theresia-no-fukushuuu.zl4y3",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b1/b17767df92fa942112cf59f6a01fdcde.jpg",
+                "url": "https://mangafire.to/manga/koushaku-reijou-theresia-no-fukushuuu.zl4y3"
+            }
+        },
+        "Weebcentral": {
+            "01jbwascdppxzwfyns92tj2d1r": {
+                "id": 267200,
+                "identifier": "01jbwascdppxzwfyns92tj2d1r",
+                "image": "https://temp.compsci88.com/cover/fallback/01JBWASCDPPXZWFYNS92TJ2D1R.jpg",
                 "malId": 132501,
                 "aniId": 127511,
-                "page": "MangaFire",
-                "title": "Koushaku Reijou Theresia no Fukushuu",
+                "page": "Weebcentral",
+                "title": "The Duke's Daughter Tiaresia Takes Revenge",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/koushaku-reijou-theresia-no-fukushuuu.zl4y3/"
+                "url": "https://weebcentral.com/series/01JBWASCDPPXZWFYNS92TJ2D1R"
+            }
+        },
+        "MangaFox": {
+            "the_revenge_of_the_duke_s_daughter_theresia": {
+                "id": 267749,
+                "identifier": "the_revenge_of_the_duke_s_daughter_theresia",
+                "image": "https://fmcdn.mfcdn.net/store/manga/36165/cover.jpg",
+                "malId": 132501,
+                "aniId": 127511,
+                "page": "MangaFox",
+                "title": "The Revenge of the Duke's Daughter Theresia",
+                "type": "manga",
+                "url": "https://fanfox.net/manga/the_revenge_of_the_duke_s_daughter_theresia/"
             }
         },
         "Comick": {
@@ -60,6 +79,17 @@
                 "page": "Comick",
                 "title": "Koushaku Reijou Theresia no Fukushuu: Akuma no Chikara, Okarishimasu",
                 "url": "https://comick.io/comic/the-revenge-of-the-duke-s-daughter-theresia",
+                "aniId": 127511
+            }
+        },
+        "MangaReader": {
+            "36898": {
+                "identifier": "36898",
+                "malId": 132501,
+                "type": "manga",
+                "page": "MangaReader",
+                "title": "Koushaku Reijou Theresia no Fukushuu: Akuma no Chikara, Okari Shimasu",
+                "url": "https://mangareader.to/the-revenge-of-the-dukes-daughter-theresia-36898",
                 "aniId": 127511
             }
         }

@@ -6,20 +6,9 @@
     "total": 70,
     "image": "https://cdn.myanimelist.net/images/manga/2/292581.jpg",
     "Sites": {
-        "MangaFire": {
-            "byeoreul-jjonneun-sonyeondeul.zx45w": {
-                "identifier": "byeoreul-jjonneun-sonyeondeul.zx45w",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb818385304f1f61e410437dd3dfe846.jpg",
-                "malId": 147654,
-                "aniId": 141145,
-                "page": "MangaFire",
-                "title": "THE STAR SEEKERS",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/byeoreul-jjonneun-sonyeondeul.zx45w/"
-            }
-        },
         "Mangadex": {
             "c25fb00c-be7f-46d2-aef4-436e9a5fd9d9": {
+                "id": 181464,
                 "identifier": "c25fb00c-be7f-46d2-aef4-436e9a5fd9d9",
                 "image": "https://uploads.mangadex.org/covers/c25fb00c-be7f-46d2-aef4-436e9a5fd9d9/ca1f0a68-2521-4c63-87db-be42a84b6981.jpg",
                 "malId": 147654,
@@ -28,6 +17,19 @@
                 "title": "THE STAR SEEKERS",
                 "type": "manga",
                 "url": "https://mangadex.org/title/c25fb00c-be7f-46d2-aef4-436e9a5fd9d9"
+            }
+        },
+        "MangaFire": {
+            "zx45w": {
+                "id": 237193,
+                "identifier": "zx45w",
+                "image": "https://static.mangafire.to/5778/i/b/bb/bb818385304f1f61e410437dd3dfe846.jpg",
+                "malId": 147654,
+                "aniId": 141145,
+                "page": "MangaFire",
+                "title": "THE STAR SEEKERS",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/byeoreul-jjonneun-sonyeondeull.zx45w"
             }
         }
     },

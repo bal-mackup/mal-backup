@@ -6,20 +6,9 @@
     "total": 60,
     "image": "https://cdn.myanimelist.net/images/manga/1/265277.jpg",
     "Sites": {
-        "MangaFire": {
-            "will-you-be-my-male-lead.v9qm4": {
-                "identifier": "will-you-be-my-male-lead.v9qm4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/148058a95260b67e4d5d6982c4dae5a5.jpg",
-                "malId": 148732,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Will You Be My Male Lead?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/will-you-be-my-male-lead.v9qm4/"
-            }
-        },
         "Mangadex": {
             "720639f9-eed5-484d-a06c-439d41d6bb81": {
+                "id": 174511,
                 "identifier": "720639f9-eed5-484d-a06c-439d41d6bb81",
                 "image": "https://uploads.mangadex.org/covers/720639f9-eed5-484d-a06c-439d41d6bb81/94077f96-9991-4e85-b70f-4c0b4cd7be3d.jpg",
                 "malId": 148732,
@@ -28,6 +17,19 @@
                 "title": "Will You Be My Male Lead?",
                 "type": "manga",
                 "url": "https://mangadex.org/title/720639f9-eed5-484d-a06c-439d41d6bb81"
+            }
+        },
+        "MangaFire": {
+            "v9qm4": {
+                "id": 235002,
+                "identifier": "v9qm4",
+                "image": "https://static.mangafire.to/162e/i/1/14/148058a95260b67e4d5d6982c4dae5a5.jpg",
+                "malId": 148732,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Will You Be My Male Lead?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/will-you-be-my-male-leadd.v9qm4"
             }
         }
     }

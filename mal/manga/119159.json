@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f7bd1566-5b2e-4ffa-8895-ee61884cda98": {
+                "id": 24041,
                 "identifier": "f7bd1566-5b2e-4ffa-8895-ee61884cda98",
                 "image": "https://uploads.mangadex.org/covers/f7bd1566-5b2e-4ffa-8895-ee61884cda98/4ed11c68-b771-400b-8dda-16fb3d3a1429.jpg",
                 "malId": 119159,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "an_oldman_in_counterworld": {
+                "id": 64446,
                 "identifier": "an_oldman_in_counterworld",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29727/cover.jpg",
                 "malId": 119159,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "jiisama-ga-iku": {
+                "id": 64505,
                 "identifier": "jiisama-ga-iku",
                 "image": "https://temp.compsci88.com/cover/Jiisama-ga-Iku.jpg",
                 "malId": 119159,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dq980773": {
+                "id": 76899,
                 "identifier": "manga-dq980773",
                 "image": "https://avt.mkklcdnv6temp.com/41/g/17-1583496749.jpg",
                 "malId": 119159,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dq980773"
             }
         },
-        "MangaFire": {
-            "jiisama-ga-iku.pry16": {
-                "identifier": "jiisama-ga-iku.pry16",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fc836738e2afe8d7209734804b53544.jpg",
-                "malId": 119159,
-                "aniId": 107414,
-                "page": "MangaFire",
-                "title": "Grandpa is Summoned",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jiisama-ga-iku.pry16/"
-            },
-            "jiisama-ga-ikuu.pry16": {
-                "identifier": "jiisama-ga-ikuu.pry16",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7f/7fc836738e2afe8d7209734804b53544.jpg",
-                "malId": 119159,
-                "aniId": 107414,
-                "page": "MangaFire",
-                "title": "Grandpa is Summoned",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jiisama-ga-ikuu.pry16/"
-            }
-        },
         "Weebcentral": {
             "01j76xydpf2zwq00a9axsw16ks": {
+                "id": 214262,
                 "identifier": "01j76xydpf2zwq00a9axsw16ks",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDPF2ZWQ00A9AXSW16KS.jpg",
                 "malId": 119159,
@@ -86,6 +69,19 @@
                 "title": "Grandpa is Summoned",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDPF2ZWQ00A9AXSW16KS"
+            }
+        },
+        "MangaFire": {
+            "pry16": {
+                "id": 259863,
+                "identifier": "pry16",
+                "image": "https://static.mangafire.to/4831/i/7/7f/7fc836738e2afe8d7209734804b53544.jpg",
+                "malId": 119159,
+                "aniId": 107414,
+                "page": "MangaFire",
+                "title": "Grandpa is Summoned",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jiisama-ga-ikuu.pry16"
             }
         },
         "Comick": {

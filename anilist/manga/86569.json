@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "7bb7e5ae-a784-4009-98b2-8ad4a7541548": {
+                "id": 13679,
                 "identifier": "7bb7e5ae-a784-4009-98b2-8ad4a7541548",
                 "image": "https://uploads.mangadex.org/covers/7bb7e5ae-a784-4009-98b2-8ad4a7541548/63c9b16e-e1f3-4eb2-ac6d-191e74d0a05a.jpg",
                 "malId": 92559,
                 "aniId": 86569,
                 "page": "Mangadex",
-                "title": "Ace of Diamond - Act II",
+                "title": "Diamond no Ace: Act II",
                 "type": "manga",
                 "url": "https://mangadex.org/title/7bb7e5ae-a784-4009-98b2-8ad4a7541548"
             }
         },
         "MangaSee": {
             "diamond-no-ace-act-i-i": {
+                "id": 54885,
                 "identifier": "diamond-no-ace-act-i-i",
                 "image": "https://temp.compsci88.com/cover/Diamond-No-Ace-Act-I-I.jpg",
                 "malId": 92559,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "daiya_no_a_act_ii": {
+                "id": 62222,
                 "identifier": "daiya_no_a_act_ii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16755/cover.jpg",
                 "malId": 92559,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/daiya_no_a_act_ii/"
             },
             "diamond_no_ace_act_ii": {
+                "id": 187700,
                 "identifier": "diamond_no_ace_act_ii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16755/cover.jpg",
                 "malId": 92559,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-uj971692": {
+                "id": 75218,
                 "identifier": "manga-uj971692",
                 "image": "https://avt.mkklcdnv6temp.com/50/k/13-1583489698.jpg",
                 "malId": 92559,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-uj971692"
             }
         },
-        "MangaFire": {
-            "ace-of-diamond-act-ii.1nyqv": {
-                "identifier": "ace-of-diamond-act-ii.1nyqv",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a0ec3755438a49673331f66e0f4245a4.jpg",
-                "malId": 92559,
-                "aniId": 86569,
-                "page": "MangaFire",
-                "title": "Ace of Diamond - Act II",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ace-of-diamond-act-ii.1nyqv/"
-            },
-            "ace-of-diamond-act-iii.1nyqv": {
-                "identifier": "ace-of-diamond-act-iii.1nyqv",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a0ec3755438a49673331f66e0f4245a4.jpg",
-                "malId": 92559,
-                "aniId": 86569,
-                "page": "MangaFire",
-                "title": "Ace of Diamond - Act II",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ace-of-diamond-act-iii.1nyqv/"
-            }
-        },
         "Weebcentral": {
             "01j76xybasvmf7xxj2vmgc2rrt": {
+                "id": 209444,
                 "identifier": "01j76xybasvmf7xxj2vmgc2rrt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBASVMF7XXJ2VMGC2RRT.jpg",
                 "malId": 92559,
@@ -96,6 +80,19 @@
                 "title": "Diamond no Ace Act II",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBASVMF7XXJ2VMGC2RRT"
+            }
+        },
+        "MangaFire": {
+            "1nyqv": {
+                "id": 226079,
+                "identifier": "1nyqv",
+                "image": "https://static.mangafire.to/79b4/i/a/a0/a0ec3755438a49673331f66e0f4245a4.jpg",
+                "malId": 92559,
+                "aniId": 86569,
+                "page": "MangaFire",
+                "title": "Ace of Diamond - Act II",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ace-of-diamond-act-iii.1nyqv"
             }
         },
         "Comick": {

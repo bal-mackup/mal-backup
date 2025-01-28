@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3ad8d2f2-1afe-43da-a88b-0a790c64939e": {
+                "id": 156941,
                 "identifier": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
                 "image": "https://uploads.mangadex.org/covers/3ad8d2f2-1afe-43da-a88b-0a790c64939e/29a3172d-861a-41ee-9819-1d2801e3bac1.jpg",
                 "malId": 158707,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-th996364": {
+                "id": 158000,
                 "identifier": "manga-th996364",
                 "image": "https://avt.mkklcdnv6temp.com/fld/13/r/15-1733307395-nw.webp",
                 "malId": 158707,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-th996364"
             }
         },
-        "MangaFire": {
-            "maria-no-danzai.oxlo4": {
-                "identifier": "maria-no-danzai.oxlo4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05b130d29b132ccc7ef20f7a19020e81.jpg",
-                "malId": 158707,
-                "aniId": 164303,
-                "page": "MangaFire",
-                "title": "Maria no Danzai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maria-no-danzai.oxlo4/"
-            },
-            "maria-no-danzaii.oxlo4": {
-                "identifier": "maria-no-danzaii.oxlo4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/05b130d29b132ccc7ef20f7a19020e81.jpg",
-                "malId": 158707,
-                "aniId": 164303,
-                "page": "MangaFire",
-                "title": "Maria no Danzai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maria-no-danzaii.oxlo4/"
-            }
-        },
         "MangaSee": {
             "maria-no-danzai": {
+                "id": 164068,
                 "identifier": "maria-no-danzai",
                 "image": "https://temp.compsci88.com/cover/Maria-no-Danzai.jpg",
                 "malId": 158707,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "maria_no_danzai": {
+                "id": 169895,
                 "identifier": "maria_no_danzai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45221/cover.jpg",
                 "malId": 158707,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygc29nq1gwss8sxch0a4": {
+                "id": 213597,
                 "identifier": "01j76xygc29nq1gwss8sxch0a4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGC29NQ1GWSS8SXCH0A4.jpg",
                 "malId": 158707,
@@ -86,6 +69,19 @@
                 "title": "Maria no Danzai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGC29NQ1GWSS8SXCH0A4"
+            }
+        },
+        "MangaFire": {
+            "oxlo4": {
+                "id": 226348,
+                "identifier": "oxlo4",
+                "image": "https://static.mangafire.to/efeb/i/0/05/05b130d29b132ccc7ef20f7a19020e81.jpg",
+                "malId": 158707,
+                "aniId": 164303,
+                "page": "MangaFire",
+                "title": "Maria no Danzai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maria-no-danzaii.oxlo4"
             }
         },
         "Comick": {

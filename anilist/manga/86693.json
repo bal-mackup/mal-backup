@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "047b49ae-7390-44e5-8a4d-5324c928e351": {
+                "id": 17137,
                 "identifier": "047b49ae-7390-44e5-8a4d-5324c928e351",
                 "image": "https://uploads.mangadex.org/covers/047b49ae-7390-44e5-8a4d-5324c928e351/812d5b0f-1e0b-4c94-9890-9604839ba2d5.jpg",
                 "malId": 93398,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nanbaka": {
+                "id": 61046,
                 "identifier": "nanbaka",
                 "image": "https://temp.compsci88.com/cover/Nanbaka.jpg",
                 "malId": 93398,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "nanbaka": {
+                "id": 68174,
                 "identifier": "nanbaka",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18197/cover.jpg",
                 "malId": 93398,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-pq951773": {
+                "id": 77034,
                 "identifier": "manga-pq951773",
                 "image": "https://avt.mkklcdnv6temp.com/16/j/1-1583464330.jpg",
                 "malId": 93398,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-pq951773"
             }
         },
-        "MangaFire": {
-            "nanbaka.mxn7": {
-                "identifier": "nanbaka.mxn7",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/913883d5793d2bc951afd206974cb297.jpg",
-                "malId": 93398,
-                "aniId": 86693,
-                "page": "MangaFire",
-                "title": "Nanbaka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanbaka.mxn7/"
-            },
-            "nanbakaa.mxn7": {
-                "identifier": "nanbakaa.mxn7",
-                "image": "https://static.mangafire.to/3b2d5/i/9/91/913883d5793d2bc951afd206974cb297.jpg",
-                "malId": 93398,
-                "aniId": 86693,
-                "page": "MangaFire",
-                "title": "Nanbaka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nanbakaa.mxn7/"
-            }
-        },
         "Weebcentral": {
             "01j76xybwrey35sv3ncstzwj34": {
+                "id": 210035,
                 "identifier": "01j76xybwrey35sv3ncstzwj34",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBWREY35SV3NCSTZWJ34.jpg",
                 "malId": 93398,
@@ -86,6 +69,19 @@
                 "title": "Nanbaka",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBWREY35SV3NCSTZWJ34"
+            }
+        },
+        "MangaFire": {
+            "mxn7": {
+                "id": 223914,
+                "identifier": "mxn7",
+                "image": "https://static.mangafire.to/2f85/i/9/91/913883d5793d2bc951afd206974cb297.jpg",
+                "malId": 93398,
+                "aniId": 86693,
+                "page": "MangaFire",
+                "title": "Nanbaka",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nanbakaa.mxn7"
             }
         },
         "Comick": {

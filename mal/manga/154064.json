@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fa938045-2957-48d3-abba-4b7e34557baf": {
+                "id": 117391,
                 "identifier": "fa938045-2957-48d3-abba-4b7e34557baf",
                 "image": "https://uploads.mangadex.org/covers/fa938045-2957-48d3-abba-4b7e34557baf/3574b958-9822-4160-8509-4aa2a35c01bd.jpg",
                 "malId": 154064,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rd994860": {
+                "id": 127058,
                 "identifier": "manga-rd994860",
                 "image": "https://avt.mkklcdnv6temp.com/4/v/29-1678616551.jpg",
                 "malId": 154064,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rd994860"
             }
         },
-        "MangaFire": {
-            "i-thought-it-was-time.n3p5m": {
-                "identifier": "i-thought-it-was-time.n3p5m",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8cf8253b782e4895acf3294d7621639b.jpg",
-                "malId": 154064,
-                "aniId": 156601,
-                "page": "MangaFire",
-                "title": "I Thought It Was Time!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-thought-it-was-time.n3p5m/"
-            },
-            "i-thought-it-was-timee.n3p5m": {
-                "identifier": "i-thought-it-was-timee.n3p5m",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8c/8cf8253b782e4895acf3294d7621639b.jpg",
-                "malId": 154064,
-                "aniId": 156601,
-                "page": "MangaFire",
-                "title": "I Thought It Was Time!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-thought-it-was-timee.n3p5m/"
-            }
-        },
         "MangaSee": {
             "i-thought-my-time-was-up": {
+                "id": 185730,
                 "identifier": "i-thought-my-time-was-up",
                 "image": "https://temp.compsci88.com/cover/I-Thought-My-Time-Was-Up.jpg",
                 "malId": 154064,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh45g1wcdg744qa58s24": {
+                "id": 210424,
                 "identifier": "01j76xyh45g1wcdg744qa58s24",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH45G1WCDG744QA58S24.jpg",
                 "malId": 154064,
@@ -74,6 +56,19 @@
                 "title": "I Thought My Time Was Up",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH45G1WCDG744QA58S24"
+            }
+        },
+        "MangaFire": {
+            "n3p5m": {
+                "id": 227705,
+                "identifier": "n3p5m",
+                "image": "https://static.mangafire.to/8c6a/i/8/8c/8cf8253b782e4895acf3294d7621639b.jpg",
+                "malId": 154064,
+                "aniId": 156601,
+                "page": "MangaFire",
+                "title": "I Thought It Was Time!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-thought-it-was-timee.n3p5m"
             }
         },
         "Comick": {

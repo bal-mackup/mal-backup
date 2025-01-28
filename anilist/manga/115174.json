@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-walking-cat-a-catseye-view-of-the-zombie-apocalypse": {
+                "id": 90586,
                 "identifier": "the-walking-cat-a-catseye-view-of-the-zombie-apocalypse",
                 "image": "https://temp.compsci88.com/cover/The-Walking-Cat-A-CatsEye-View-of-the-Zombie-Apocalypse.jpg",
                 "malId": 130169,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "2877575d-1636-4114-b970-c3ec5294241c": {
+                "id": 106395,
                 "identifier": "2877575d-1636-4114-b970-c3ec5294241c",
                 "image": "https://uploads.mangadex.org/covers/2877575d-1636-4114-b970-c3ec5294241c/d2351a1b-8036-4748-9aec-6758fda8a862.jpg",
                 "malId": 130169,
@@ -30,20 +32,9 @@
                 "url": "https://mangadex.org/title/2877575d-1636-4114-b970-c3ec5294241c"
             }
         },
-        "MangaFire": {
-            "walking-cat.nrr6m": {
-                "identifier": "walking-cat.nrr6m",
-                "image": "https://static.mangafire.to/3b2d5/i/8/89/89fe80c9a2e885f0fef4e36afddaf1b6.jpg",
-                "malId": 130169,
-                "aniId": 115174,
-                "page": "MangaFire",
-                "title": "The Walking Cat: A Cat’s-Eye-View of the Zombie Apocalypse",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/walking-cat.nrr6m/"
-            }
-        },
         "MangaFox": {
             "walking_cat": {
+                "id": 183284,
                 "identifier": "walking_cat",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41373/cover.jpg",
                 "malId": 130169,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyf4jg6b01hjac6qhyz25": {
+                "id": 213232,
                 "identifier": "01j76xyf4jg6b01hjac6qhyz25",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF4JG6B01HJAC6QHYZ25.jpg",
                 "malId": 130169,
@@ -64,6 +56,19 @@
                 "title": "The Walking Cat - A Cats-Eye View of the Zombie Apocalypse",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF4JG6B01HJAC6QHYZ25"
+            }
+        },
+        "MangaFire": {
+            "nrr6m": {
+                "id": 234413,
+                "identifier": "nrr6m",
+                "image": "https://static.mangafire.to/2c58/i/8/89/89fe80c9a2e885f0fef4e36afddaf1b6.jpg",
+                "malId": 130169,
+                "aniId": 115174,
+                "page": "MangaFire",
+                "title": "The Walking Cat: A Cat’s-Eye-View of the Zombie Apocalypse",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/walking-catt.nrr6m"
             }
         },
         "Comick": {

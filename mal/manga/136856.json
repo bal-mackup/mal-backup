@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99daf7bc-3a3b-4fe8-b10d-951b32bfea64": {
+                "id": 88251,
                 "identifier": "99daf7bc-3a3b-4fe8-b10d-951b32bfea64",
                 "image": "https://uploads.mangadex.org/covers/99daf7bc-3a3b-4fe8-b10d-951b32bfea64/5c787c1c-24b9-4efc-b6fc-de7af72a7e5a.jpg",
                 "malId": 136856,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mi989765": {
+                "id": 88253,
                 "identifier": "manga-mi989765",
                 "image": "https://avt.mkklcdnv6temp.com/45/o/24-1633790868.jpg",
                 "malId": 136856,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "gimai_seikatsu": {
+                "id": 93264,
                 "identifier": "gimai_seikatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39392/cover.jpg",
                 "malId": 136856,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/gimai_seikatsu/"
             }
         },
-        "MangaFire": {
-            "gimai-seikatsu.mqx1p": {
-                "identifier": "gimai-seikatsu.mqx1p",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8fba47ad7f95636bf66c88fa3fa37aee.jpg",
-                "malId": 136856,
-                "aniId": 130837,
-                "page": "MangaFire",
-                "title": "Days with My Step Sister",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gimai-seikatsu.mqx1p/"
-            },
-            "gimai-seikatsuu.mqx1p": {
-                "identifier": "gimai-seikatsuu.mqx1p",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8fba47ad7f95636bf66c88fa3fa37aee.jpg",
-                "malId": 136856,
-                "aniId": 130837,
-                "page": "MangaFire",
-                "title": "Days with My Step Sister",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gimai-seikatsuu.mqx1p/"
-            }
-        },
         "MangaSee": {
             "gimai-seikatsu": {
+                "id": 175023,
                 "identifier": "gimai-seikatsu",
                 "image": "https://temp.compsci88.com/cover/Gimai-Seikatsu.jpg",
                 "malId": 136856,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygnp04z8byvt69wbc8dg": {
+                "id": 211811,
                 "identifier": "01j76xygnp04z8byvt69wbc8dg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGNP04Z8BYVT69WBC8DG.jpg",
                 "malId": 136856,
@@ -86,6 +69,19 @@
                 "title": "Days with My Stepsister",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGNP04Z8BYVT69WBC8DG"
+            }
+        },
+        "MangaFire": {
+            "mqx1p": {
+                "id": 228447,
+                "identifier": "mqx1p",
+                "image": "https://static.mangafire.to/446a/i/8/8f/8fba47ad7f95636bf66c88fa3fa37aee.jpg",
+                "malId": 136856,
+                "aniId": 130837,
+                "page": "MangaFire",
+                "title": "Days with My Step Sister",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gimai-seikatsuu.mqx1p"
             }
         },
         "Comick": {

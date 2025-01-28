@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "45b0ce64-680d-4754-a7a3-74a660e5c300": {
+                "id": 32966,
                 "identifier": "45b0ce64-680d-4754-a7a3-74a660e5c300",
                 "image": "https://uploads.mangadex.org/covers/45b0ce64-680d-4754-a7a3-74a660e5c300/e4d01d98-fbdb-4825-b289-ef66a4b9ec43.jpg",
                 "malId": 124020,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fushi-no-sougishi": {
+                "id": 57505,
                 "identifier": "fushi-no-sougishi",
                 "image": "https://temp.compsci88.com/cover/Fushi-no-Sougishi.jpg",
                 "malId": 124020,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "fushi_no_sougishi": {
+                "id": 59353,
                 "identifier": "fushi_no_sougishi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33756/cover.jpg",
                 "malId": 124020,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kf987788": {
+                "id": 73328,
                 "identifier": "manga-kf987788",
                 "image": "https://avt.mkklcdnv6temp.com/12/e/23-1611977058.jpg",
                 "malId": 124020,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-kf987788"
             }
         },
-        "MangaFire": {
-            "fushi-no-sougishi.92mln": {
-                "identifier": "fushi-no-sougishi.92mln",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a43251dcc87a8069652695b33f7f7204.jpg",
-                "malId": 124020,
-                "aniId": 114529,
-                "page": "MangaFire",
-                "title": "Immortal Undertaker",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fushi-no-sougishi.92mln/"
-            }
-        },
         "Weebcentral": {
             "01j76xydp6bdmnk68wm6mhfhj7": {
+                "id": 211362,
                 "identifier": "01j76xydp6bdmnk68wm6mhfhj7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDP6BDMNK68WM6MHFHJ7.jpg",
                 "malId": 124020,
@@ -76,6 +69,19 @@
                 "title": "Fushi no Sougishi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDP6BDMNK68WM6MHFHJ7"
+            }
+        },
+        "MangaFire": {
+            "92mln": {
+                "id": 259395,
+                "identifier": "92mln",
+                "image": "https://static.mangafire.to/44c6/i/a/a4/a43251dcc87a8069652695b33f7f7204.jpg",
+                "malId": 124020,
+                "aniId": 114529,
+                "page": "MangaFire",
+                "title": "Immortal Undertaker",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fushi-no-sougishii.92mln"
             }
         },
         "Comick": {

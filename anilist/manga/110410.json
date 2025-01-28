@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "primitive-boyfriend": {
+                "id": 72164,
                 "identifier": "primitive-boyfriend",
                 "image": "https://temp.compsci88.com/cover/Primitive-Boyfriend.jpg",
                 "malId": 110170,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "8ec03746-1e9d-4fce-aab8-0436ef264944": {
+                "id": 109499,
                 "identifier": "8ec03746-1e9d-4fce-aab8-0436ef264944",
                 "image": "https://uploads.mangadex.org/covers/8ec03746-1e9d-4fce-aab8-0436ef264944/2375d4d3-b9a0-4f75-a598-3a0f4bc1e8db.jpg",
                 "malId": 110170,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/8ec03746-1e9d-4fce-aab8-0436ef264944"
             }
         },
-        "MangaFire": {
-            "genshijin-kareshi.woyll": {
-                "identifier": "genshijin-kareshi.woyll",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca295dbc6c92574534cb099d1bf95592.jpg",
-                "malId": 110170,
-                "aniId": 110410,
-                "page": "MangaFire",
-                "title": "Primitive Boyfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genshijin-kareshi.woyll/"
-            },
-            "woyll": {
-                "identifier": "woyll",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca295dbc6c92574534cb099d1bf95592.jpg",
-                "malId": 110170,
-                "aniId": 110410,
-                "page": "MangaFire",
-                "title": "Primitive Boyfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/genshijin-kareshi.woyll/"
-            }
-        },
         "Weebcentral": {
             "01j76xydng8fme5qrdq4383998": {
+                "id": 213589,
                 "identifier": "01j76xydng8fme5qrdq4383998",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDNG8FME5QRDQ4383998.jpg",
                 "malId": 110170,
@@ -62,6 +43,19 @@
                 "title": "Primitive Boyfriend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDNG8FME5QRDQ4383998"
+            }
+        },
+        "MangaFire": {
+            "woyll": {
+                "id": 255160,
+                "identifier": "woyll",
+                "image": "https://static.mangafire.to/40b4/i/c/ca/ca295dbc6c92574534cb099d1bf95592.jpg",
+                "malId": 110170,
+                "aniId": 110410,
+                "page": "MangaFire",
+                "title": "Primitive Boyfriend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/genshijin-kareshii.woyll"
             }
         },
         "Comick": {

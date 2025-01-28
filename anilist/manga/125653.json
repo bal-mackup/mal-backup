@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c615f226-4608-4a12-a340-a974e2a429dd": {
+                "id": 40358,
                 "identifier": "c615f226-4608-4a12-a340-a974e2a429dd",
                 "image": "https://uploads.mangadex.org/covers/c615f226-4608-4a12-a340-a974e2a429dd/1f0533ae-0c62-4aa9-ab97-3844374e39a5.jpg",
                 "malId": 148170,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "spirit-farmer": {
+                "id": 65910,
                 "identifier": "spirit-farmer",
                 "image": "https://temp.compsci88.com/cover/Spirit-Farmer.jpg",
                 "malId": 148170,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-je987061": {
+                "id": 77842,
                 "identifier": "manga-je987061",
                 "image": "https://avt.mkklcdnv6temp.com/32/f/22-1603700640.jpg",
                 "malId": 148170,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-je987061"
             }
         },
-        "MangaFire": {
-            "jeonglyeong-nongsakkun.4j4j7": {
-                "identifier": "jeonglyeong-nongsakkun.4j4j7",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea4d91337e27fae9494d5ef0e9f5887.jpg",
-                "malId": 148170,
-                "aniId": 125653,
-                "page": "MangaFire",
-                "title": "Farmer Of Spirits",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jeonglyeong-nongsakkun.4j4j7/"
-            },
-            "spirit-farmerr.nryz8": {
-                "identifier": "spirit-farmerr.nryz8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1e/1e1ffc0a38185d20106d135e18e67956.jpg",
-                "malId": 148170,
-                "aniId": 125653,
-                "page": "MangaFire",
-                "title": "Farmer Of Spirits",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/spirit-farmerr.nryz8/"
-            },
-            "jeonglyeong-nongsakkunn.4j4j7": {
-                "identifier": "jeonglyeong-nongsakkunn.4j4j7",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6e/6ea4d91337e27fae9494d5ef0e9f5887.jpg",
-                "malId": 148170,
-                "aniId": 125653,
-                "page": "MangaFire",
-                "title": "Farmer Of Spirits",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jeonglyeong-nongsakkunn.4j4j7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeggrm1pm112mp0jftah": {
+                "id": 210008,
                 "identifier": "01j76xyeggrm1pm112mp0jftah",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEGGRM1PM112MP0JFTAH.jpg",
                 "malId": 148170,
@@ -84,6 +56,30 @@
                 "title": "Farmer of Spirits",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEGGRM1PM112MP0JFTAH"
+            }
+        },
+        "MangaFire": {
+            "4j4j7": {
+                "id": 229416,
+                "identifier": "4j4j7",
+                "image": "https://static.mangafire.to/a2bb/i/6/6e/6ea4d91337e27fae9494d5ef0e9f5887.jpg",
+                "malId": 148170,
+                "aniId": 125653,
+                "page": "MangaFire",
+                "title": "Farmer Of Spirits",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jeonglyeong-nongsakkunn.4j4j7"
+            },
+            "nryz8": {
+                "id": 229551,
+                "identifier": "nryz8",
+                "image": "https://static.mangafire.to/c80f/i/1/1e/1e1ffc0a38185d20106d135e18e67956.jpg",
+                "malId": 148170,
+                "aniId": 125653,
+                "page": "MangaFire",
+                "title": "Farmer Of Spirits",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/spirit-farmerr.nryz8"
             }
         },
         "Comick": {

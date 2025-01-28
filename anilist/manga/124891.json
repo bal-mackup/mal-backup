@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f436d3ae-3aa8-47fa-948e-489440e2cfae": {
+                "id": 63813,
                 "identifier": "f436d3ae-3aa8-47fa-948e-489440e2cfae",
                 "image": "https://uploads.mangadex.org/covers/f436d3ae-3aa8-47fa-948e-489440e2cfae/0e9cb238-5bb7-4460-887d-d0111071d976.jpg",
                 "malId": 130471,
@@ -19,15 +20,29 @@
             }
         },
         "MangaFire": {
-            "kujou-no-taizai.oojx8": {
-                "identifier": "kujou-no-taizai.oojx8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/994f17d67282aa72996b8d3b773ab6ca.jpg",
+            "oojx8": {
+                "id": 255973,
+                "identifier": "oojx8",
+                "image": "https://static.mangafire.to/ad3c/i/9/99/994f17d67282aa72996b8d3b773ab6ca.jpg",
                 "malId": 130471,
                 "aniId": 124891,
                 "page": "MangaFire",
                 "title": "Kujou no Taizai",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/kujou-no-taizai.oojx8/"
+                "url": "https://mangafire.to/manga/kujou-no-taizaii.oojx8"
+            }
+        },
+        "MangaNato": {
+            "manga-sr996026": {
+                "id": 267915,
+                "identifier": "manga-sr996026",
+                "image": "https://avt.mkklcdnv6temp.com/fld/100/r/14-1733306601-nw.webp",
+                "malId": 130471,
+                "aniId": 124891,
+                "page": "MangaNato",
+                "title": "Kujou No Taizai",
+                "type": "manga",
+                "url": "https://manganato.com/manga-sr996026"
             }
         },
         "Comick": {

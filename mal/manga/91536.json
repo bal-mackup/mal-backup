@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "75b5bcf9-2197-4d6c-80f5-40b070b79697": {
+                "id": 16308,
                 "identifier": "75b5bcf9-2197-4d6c-80f5-40b070b79697",
                 "image": "https://uploads.mangadex.org/covers/75b5bcf9-2197-4d6c-80f5-40b070b79697/6029728c-53b8-4ee9-bd08-2736e5ad160d.jpg",
                 "malId": 91536,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "imawa-no-michi-no-alice": {
+                "id": 65959,
                 "identifier": "imawa-no-michi-no-alice",
                 "image": "https://temp.compsci88.com/cover/Imawa-No-Michi-No-Alice.jpg",
                 "malId": 91536,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ag977863": {
+                "id": 89126,
                 "identifier": "manga-ag977863",
                 "image": "https://avt.mkklcdnv6temp.com/1/v/15-1583493528.jpg",
                 "malId": 91536,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "imawa_no_michi_no_alice": {
+                "id": 127630,
                 "identifier": "imawa_no_michi_no_alice",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26741/cover.jpg",
                 "malId": 91536,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/imawa_no_michi_no_alice/"
             }
         },
-        "MangaFire": {
-            "52540": {
-                "identifier": "52540",
-                "image": "https://static.mangafire.to/20f0/i/b/b2/b247cf3a359789a49766e5578f5367b2.jpg",
-                "malId": 91536,
-                "aniId": 100354,
-                "page": "MangaFire",
-                "title": "Alice on Border Road",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/alice-on-border-roadd.52540"
-            },
-            "alice-on-border-road.52540": {
-                "identifier": "alice-on-border-road.52540",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b2/b247cf3a359789a49766e5578f5367b2.jpg",
-                "malId": 91536,
-                "aniId": 100354,
-                "page": "MangaFire",
-                "title": "Alice on Border Road",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/alice-on-border-road.52540/"
-            }
-        },
         "Weebcentral": {
             "01j76xycekdqfz2g93hhd67rh0": {
+                "id": 211533,
                 "identifier": "01j76xycekdqfz2g93hhd67rh0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCEKDQFZ2G93HHD67RH0.jpg",
                 "malId": 91536,
@@ -86,6 +69,19 @@
                 "title": "Imawa no Michi no Alice",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCEKDQFZ2G93HHD67RH0"
+            }
+        },
+        "MangaFire": {
+            "52540": {
+                "id": 261288,
+                "identifier": "52540",
+                "image": "https://static.mangafire.to/20f0/i/b/b2/b247cf3a359789a49766e5578f5367b2.jpg",
+                "malId": 91536,
+                "aniId": 100354,
+                "page": "MangaFire",
+                "title": "Alice on Border Road",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/alice-on-border-roadd.52540"
             }
         },
         "Comick": {

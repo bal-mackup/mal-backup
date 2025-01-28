@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a1620de1-6eb6-4948-b228-b232f910155a": {
+                "id": 28374,
                 "identifier": "a1620de1-6eb6-4948-b228-b232f910155a",
                 "image": "https://uploads.mangadex.org/covers/a1620de1-6eb6-4948-b228-b232f910155a/6f2a9f65-4af9-4d37-8c43-686c5c284db3.jpg",
                 "malId": 120071,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "adachi-and-shimamura": {
+                "id": 67737,
                 "identifier": "adachi-and-shimamura",
                 "image": "https://temp.compsci88.com/cover/Adachi-and-Shimamura.jpg",
                 "malId": 120071,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fo982449": {
+                "id": 79739,
                 "identifier": "manga-fo982449",
                 "image": "https://avt.mkklcdnv6temp.com/2/f/19-1583499149.jpg",
                 "malId": 120071,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-fo982449"
             }
         },
-        "MangaFire": {
-            "adachi-to-shimamura.2o3m2": {
-                "identifier": "adachi-to-shimamura.2o3m2",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffb5b596093463e3de7fa7f1406928fa.jpg",
-                "malId": 120071,
-                "aniId": 109302,
-                "page": "MangaFire",
-                "title": "Adachi and Shimamura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/adachi-to-shimamura.2o3m2/"
-            },
-            "adachi-to-shimamuraa.2o3m2": {
-                "identifier": "adachi-to-shimamuraa.2o3m2",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffb5b596093463e3de7fa7f1406928fa.jpg",
-                "malId": 120071,
-                "aniId": 109302,
-                "page": "MangaFire",
-                "title": "Adachi and Shimamura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/adachi-to-shimamuraa.2o3m2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyej5h809wz1vnhpzk9hq": {
+                "id": 211103,
                 "identifier": "01j76xyej5h809wz1vnhpzk9hq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEJ5H809WZ1VNHPZK9HQ.jpg",
                 "malId": 120071,
@@ -74,6 +56,19 @@
                 "title": "Adachi and Shimamura",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEJ5H809WZ1VNHPZK9HQ"
+            }
+        },
+        "MangaFire": {
+            "2o3m2": {
+                "id": 227313,
+                "identifier": "2o3m2",
+                "image": "https://static.mangafire.to/c403/i/f/ff/ffb5b596093463e3de7fa7f1406928fa.jpg",
+                "malId": 120071,
+                "aniId": 109302,
+                "page": "MangaFire",
+                "title": "Adachi and Shimamura",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/adachi-to-shimamuraa.2o3m2"
             }
         },
         "Comick": {

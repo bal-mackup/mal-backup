@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "892c7a72-f14c-4a15-9be2-f96230893ac7": {
+                "id": 65002,
                 "identifier": "892c7a72-f14c-4a15-9be2-f96230893ac7",
                 "image": "https://uploads.mangadex.org/covers/892c7a72-f14c-4a15-9be2-f96230893ac7/5999f786-139a-4c9b-bc08-92cae0b06884.jpg",
                 "malId": 144043,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/892c7a72-f14c-4a15-9be2-f96230893ac7"
             }
         },
-        "MangaFire": {
-            "yuuki-aru-mono-yori-chire.9o7wm": {
-                "identifier": "yuuki-aru-mono-yori-chire.9o7wm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/068125f92410660b94fe171b6bb0d92b.jpg",
-                "malId": 144043,
-                "aniId": 128234,
-                "page": "MangaFire",
-                "title": "The Valiant Must Fall",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuuki-aru-mono-yori-chire.9o7wm/"
-            }
-        },
         "MangaSee": {
             "the-valiant-must-fall": {
+                "id": 156351,
                 "identifier": "the-valiant-must-fall",
                 "image": "https://temp.compsci88.com/cover/The-Valiant-Must-Fall.jpg",
                 "malId": 144043,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyg342e9vr9tex1g85g3n": {
+                "id": 212312,
                 "identifier": "01j76xyg342e9vr9tex1g85g3n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG342E9VR9TEX1G85G3N.jpg",
                 "malId": 144043,
@@ -52,6 +43,19 @@
                 "title": "The Valiant Must Fall",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG342E9VR9TEX1G85G3N"
+            }
+        },
+        "MangaFire": {
+            "9o7wm": {
+                "id": 230212,
+                "identifier": "9o7wm",
+                "image": "https://static.mangafire.to/7b99/i/0/06/068125f92410660b94fe171b6bb0d92b.jpg",
+                "malId": 144043,
+                "aniId": 128234,
+                "page": "MangaFire",
+                "title": "The Valiant Must Fall",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuuki-aru-mono-yori-chiree.9o7wm"
             }
         },
         "Comick": {

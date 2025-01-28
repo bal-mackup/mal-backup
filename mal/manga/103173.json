@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d204fdc9-8e05-4279-91ca-aaecf5f9e003": {
+                "id": 36646,
                 "identifier": "d204fdc9-8e05-4279-91ca-aaecf5f9e003",
                 "image": "https://uploads.mangadex.org/covers/d204fdc9-8e05-4279-91ca-aaecf5f9e003/9ea31a60-a972-413d-a92b-d8f73e447d9a.jpg",
                 "malId": 103173,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-house-in-fata-morgana-the-veil-over-your-eyes": {
+                "id": 68338,
                 "identifier": "the-house-in-fata-morgana-the-veil-over-your-eyes",
                 "image": "https://temp.compsci88.com/cover/The-House-in-Fata-Morgana-The-Veil-Over-Your-Eyes.jpg",
                 "malId": 103173,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "fata_morgana_no_yakata_anata_no_hitomi_o_tozasu_monogatari": {
+                "id": 90399,
                 "identifier": "fata_morgana_no_yakata_anata_no_hitomi_o_tozasu_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34277/cover.jpg",
                 "malId": 103173,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/fata_morgana_no_yakata_anata_no_hitomi_o_tozasu_monogatari/"
             }
         },
-        "MangaFire": {
-            "fata-morgana-no-yakata-anata-no-hitomi-wo-tozasu-monogatari.5995v": {
-                "identifier": "fata-morgana-no-yakata-anata-no-hitomi-wo-tozasu-monogatari.5995v",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/de64cd7ef261eb4546b96ee0bbffad1d.jpg",
-                "malId": 103173,
-                "aniId": 101987,
-                "page": "MangaFire",
-                "title": "The House in Fata Morgana: The Veil Over Your Eyes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fata-morgana-no-yakata-anata-no-hitomi-wo-tozasu-monogatari.5995v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydesa45wc8swzw1gny96": {
+                "id": 214016,
                 "identifier": "01j76xydesa45wc8swzw1gny96",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDESA45WC8SWZW1GNY96.jpg",
                 "malId": 103173,
@@ -64,6 +56,19 @@
                 "title": "The House in Fata Morgana - The Veil Over Your Eyes",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDESA45WC8SWZW1GNY96"
+            }
+        },
+        "MangaFire": {
+            "5995v": {
+                "id": 235289,
+                "identifier": "5995v",
+                "image": "https://static.mangafire.to/0903/i/d/de/de64cd7ef261eb4546b96ee0bbffad1d.jpg",
+                "malId": 103173,
+                "aniId": 101987,
+                "page": "MangaFire",
+                "title": "The House in Fata Morgana: The Veil Over Your Eyes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fata-morgana-no-yakata-anata-no-hitomi-wo-tozasu-monogatarii.5995v"
             }
         },
         "Comick": {

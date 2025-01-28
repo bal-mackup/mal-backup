@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9154fa32-e98c-4c79-ae5c-a3a65ca5b13b": {
+                "id": 19619,
                 "identifier": "9154fa32-e98c-4c79-ae5c-a3a65ca5b13b",
                 "image": "https://uploads.mangadex.org/covers/9154fa32-e98c-4c79-ae5c-a3a65ca5b13b/e9525b3f-bdb7-43a5-9846-7b0b312d6499.jpg",
                 "malId": 68985,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "old-man-frog": {
+                "id": 77174,
                 "identifier": "old-man-frog",
                 "image": "https://temp.compsci88.com/cover/Old-Man-Frog.jpg",
                 "malId": 68985,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Old-Man-Frog"
             }
         },
-        "MangaFire": {
-            "kaeru-no-ossan.zl2ol": {
-                "identifier": "kaeru-no-ossan.zl2ol",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94a886444fa456f4901dbe76c8b29b96.jpg",
-                "malId": 68985,
-                "aniId": 90922,
-                "page": "MangaFire",
-                "title": "Old Man Frog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaeru-no-ossan.zl2ol/"
-            },
-            "zl2ol": {
-                "identifier": "zl2ol",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94a886444fa456f4901dbe76c8b29b96.jpg",
-                "malId": 68985,
-                "aniId": 90922,
-                "page": "MangaFire",
-                "title": "Old Man Frog",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaeru-no-ossan.zl2ol/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb6cqs2je9w5gmk6z3qw": {
+                "id": 210015,
                 "identifier": "01j76xyb6cqs2je9w5gmk6z3qw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB6CQS2JE9W5GMK6Z3QW.jpg",
                 "malId": 68985,
@@ -62,6 +43,19 @@
                 "title": "Old Man Frog",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB6CQS2JE9W5GMK6Z3QW"
+            }
+        },
+        "MangaFire": {
+            "zl2ol": {
+                "id": 250050,
+                "identifier": "zl2ol",
+                "image": "https://static.mangafire.to/e967/i/9/94/94a886444fa456f4901dbe76c8b29b96.jpg",
+                "malId": 68985,
+                "aniId": 90922,
+                "page": "MangaFire",
+                "title": "Old Man Frog",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaeru-no-ossann.zl2ol"
             }
         },
         "Comick": {

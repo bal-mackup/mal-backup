@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mi989391": {
+                "id": 83360,
                 "identifier": "manga-mi989391",
                 "image": "https://avt.mkklcdnv6temp.com/29/b/24-1627650672.jpg",
                 "malId": 147487,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "wished-you-were-dead": {
+                "id": 92683,
                 "identifier": "wished-you-were-dead",
                 "image": "https://temp.compsci88.com/cover/Wished-You-Were-Dead.jpg",
                 "malId": 147487,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "c1764cdc-45ef-4fcc-b593-c01ae97ded58": {
+                "id": 95096,
                 "identifier": "c1764cdc-45ef-4fcc-b593-c01ae97ded58",
                 "image": "https://uploads.mangadex.org/covers/c1764cdc-45ef-4fcc-b593-c01ae97ded58/b60c96d0-2d67-45e4-9d51-e90924a8763c.jpg",
                 "malId": 147487,
@@ -42,20 +45,9 @@
                 "url": "https://mangadex.org/title/c1764cdc-45ef-4fcc-b593-c01ae97ded58"
             }
         },
-        "MangaFire": {
-            "there-were-times-when-i-wished-you-were-dead.jv0x3": {
-                "identifier": "there-were-times-when-i-wished-you-were-dead.jv0x3",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f596875927f5597985e1737941803d35.jpg",
-                "malId": 147487,
-                "aniId": 141843,
-                "page": "MangaFire",
-                "title": "Wished You Were Dead",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/there-were-times-when-i-wished-you-were-dead.jv0x3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf6xrrv6at94r8pqn6xx": {
+                "id": 206432,
                 "identifier": "01j76xyf6xrrv6at94r8pqn6xx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF6XRRV6AT94R8PQN6XX.jpg",
                 "malId": 147487,
@@ -64,6 +56,19 @@
                 "title": "Wished You Were Dead",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF6XRRV6AT94R8PQN6XX"
+            }
+        },
+        "MangaFire": {
+            "jv0x3": {
+                "id": 244595,
+                "identifier": "jv0x3",
+                "image": "https://static.mangafire.to/a418/i/f/f5/f596875927f5597985e1737941803d35.jpg",
+                "malId": 147487,
+                "aniId": 141843,
+                "page": "MangaFire",
+                "title": "Wished You Were Dead",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/there-were-times-when-i-wished-you-were-deadd.jv0x3"
             }
         },
         "Comick": {

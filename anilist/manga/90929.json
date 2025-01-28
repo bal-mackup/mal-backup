@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "70f1cbbb-7ffc-4f38-9975-0ce9c60f0035": {
+                "id": 13574,
                 "identifier": "70f1cbbb-7ffc-4f38-9975-0ce9c60f0035",
                 "image": "https://uploads.mangadex.org/covers/70f1cbbb-7ffc-4f38-9975-0ce9c60f0035/eacac1f3-4a96-488c-a063-6b914f5623cc.jpg",
                 "malId": 69015,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gangsta-cursed": {
+                "id": 79159,
                 "identifier": "gangsta-cursed",
                 "image": "https://temp.compsci88.com/cover/Gangsta-Cursed.jpg",
                 "malId": 69015,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hl951694": {
+                "id": 80501,
                 "identifier": "manga-hl951694",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/n/1-1732717023-nw.webp",
                 "malId": 69015,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-hl951694"
             }
         },
-        "MangaFire": {
-            "gangsta-cursed-ep-marco-adriano.9oz5m": {
-                "identifier": "gangsta-cursed-ep-marco-adriano.9oz5m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66965500b9187be7d5e3601927ec6ba9.jpg",
-                "malId": 69015,
-                "aniId": 90929,
-                "page": "MangaFire",
-                "title": "Gangsta: Cursed.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gangsta-cursed-ep-marco-adriano.9oz5m/"
-            },
-            "9oz5m": {
-                "identifier": "9oz5m",
-                "image": "https://static.mangafire.to/3b2d5/i/6/66/66965500b9187be7d5e3601927ec6ba9.jpg",
-                "malId": 69015,
-                "aniId": 90929,
-                "page": "MangaFire",
-                "title": "Gangsta: Cursed.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gangsta-cursed-ep-marco-adriano.9oz5m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybenvt79xeqybb93v95j": {
+                "id": 207928,
                 "identifier": "01j76xybenvt79xeqybb93v95j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBENVT79XEQYBB93V95J.jpg",
                 "malId": 69015,
@@ -74,6 +56,19 @@
                 "title": "Gangsta. Cursed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBENVT79XEQYBB93V95J"
+            }
+        },
+        "MangaFire": {
+            "9oz5m": {
+                "id": 256096,
+                "identifier": "9oz5m",
+                "image": "https://static.mangafire.to/dc36/i/6/66/66965500b9187be7d5e3601927ec6ba9.jpg",
+                "malId": 69015,
+                "aniId": 90929,
+                "page": "MangaFire",
+                "title": "Gangsta: Cursed.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gangsta-cursed-ep-marco-adrianoo.9oz5m"
             }
         },
         "Comick": {

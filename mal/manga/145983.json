@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "564046e1-2919-4f8b-93cc-907b36256534": {
+                "id": 104732,
                 "identifier": "564046e1-2919-4f8b-93cc-907b36256534",
                 "image": "https://uploads.mangadex.org/covers/564046e1-2919-4f8b-93cc-907b36256534/83128f84-b89b-4bd1-8e26-13bf2b06d40a.jpg",
                 "malId": 145983,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pb992784": {
+                "id": 116428,
                 "identifier": "manga-pb992784",
                 "image": "https://avt.mkklcdnv6temp.com/21/o/27-1665991842.jpg",
                 "malId": 145983,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-pb992784"
             }
         },
-        "MangaFire": {
-            "boku-wa-kimitachi-wo-shihai-suru.ojqv4": {
-                "identifier": "boku-wa-kimitachi-wo-shihai-suru.ojqv4",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96c0c00d5ce2a0d1b11d5111869a461c.jpg",
-                "malId": 145983,
-                "aniId": 146731,
-                "page": "MangaFire",
-                "title": "Boku wa Kimitachi wo Shihai suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-kimitachi-wo-shihai-suru.ojqv4/"
-            },
-            "boku-wa-kimitachi-wo-shihai-suruu.ojqv4": {
-                "identifier": "boku-wa-kimitachi-wo-shihai-suruu.ojqv4",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/96c0c00d5ce2a0d1b11d5111869a461c.jpg",
-                "malId": 145983,
-                "aniId": 146731,
-                "page": "MangaFire",
-                "title": "Boku wa Kimitachi wo Shihai suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-kimitachi-wo-shihai-suruu.ojqv4/"
-            }
-        },
         "MangaSee": {
             "boku-wa-kimitachi-wo-shihai-suru": {
+                "id": 184313,
                 "identifier": "boku-wa-kimitachi-wo-shihai-suru",
                 "image": "https://temp.compsci88.com/cover/Boku-wa-Kimitachi-wo-Shihai-suru.jpg",
                 "malId": 145983,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh2v5r8mdqxpecexec7y": {
+                "id": 214250,
                 "identifier": "01j76xyh2v5r8mdqxpecexec7y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH2V5R8MDQXPECEXEC7Y.jpg",
                 "malId": 145983,
@@ -74,6 +56,19 @@
                 "title": "Boku wa Kimitachi wo Shihai suru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH2V5R8MDQXPECEXEC7Y"
+            }
+        },
+        "MangaFire": {
+            "ojqv4": {
+                "id": 224948,
+                "identifier": "ojqv4",
+                "image": "https://static.mangafire.to/7a71/i/9/96/96c0c00d5ce2a0d1b11d5111869a461c.jpg",
+                "malId": 145983,
+                "aniId": 146731,
+                "page": "MangaFire",
+                "title": "Boku wa Kimitachi wo Shihai suru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-wa-kimitachi-wo-shihai-suruu.ojqv4"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "bakumeshi": {
+                "id": 70473,
                 "identifier": "bakumeshi",
                 "image": "https://temp.compsci88.com/cover/Bakumeshi.jpg",
                 "malId": 123392,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Bakumeshi"
             }
         },
-        "MangaFire": {
-            "yururira.v592": {
-                "identifier": "yururira.v592",
-                "image": "https://static.mangafire.to/3b2d5/i/0/06/439d0b8e6506ac111e49db4a101753af.jpg",
-                "malId": 123392,
-                "aniId": 125614,
-                "page": "MangaFire",
-                "title": "Food Explosion!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yururira.v592/"
-            }
-        },
         "Mangadex": {
             "53f8318c-b0dd-491f-a9b5-4440f0f24aab": {
+                "id": 180675,
                 "identifier": "53f8318c-b0dd-491f-a9b5-4440f0f24aab",
                 "image": "https://uploads.mangadex.org/covers/53f8318c-b0dd-491f-a9b5-4440f0f24aab/a7bf8809-16e0-4d76-86c1-41362c495841.jpg",
                 "malId": 123392,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xycwrtaz5pfcqr1gqxwdj": {
+                "id": 208513,
                 "identifier": "01j76xycwrtaz5pfcqr1gqxwdj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCWRTAZ5PFCQR1GQXWDJ.jpg",
                 "malId": 123392,
@@ -52,6 +43,19 @@
                 "title": "Food Explosion",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCWRTAZ5PFCQR1GQXWDJ"
+            }
+        },
+        "MangaFire": {
+            "v592": {
+                "id": 230414,
+                "identifier": "v592",
+                "image": "https://static.mangafire.to/9f33/i/0/06/439d0b8e6506ac111e49db4a101753af.jpg",
+                "malId": 123392,
+                "aniId": 125614,
+                "page": "MangaFire",
+                "title": "Food Explosion!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yururiraa.v592"
             }
         },
         "Comick": {

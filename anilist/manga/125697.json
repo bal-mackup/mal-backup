@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "49cdb2d0-8f93-4307-881f-0dea243d4da8": {
+                "id": 51172,
                 "identifier": "49cdb2d0-8f93-4307-881f-0dea243d4da8",
                 "image": "https://uploads.mangadex.org/covers/49cdb2d0-8f93-4307-881f-0dea243d4da8/140a8073-a821-4d6d-999c-c56e3fa798d0.jpg",
                 "malId": 147782,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "am-i-the-daughter": {
+                "id": 59179,
                 "identifier": "am-i-the-daughter",
                 "image": "https://temp.compsci88.com/cover/Am-I-the-Daughter.jpg",
                 "malId": 147782,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ln988622": {
+                "id": 73597,
                 "identifier": "manga-ln988622",
                 "image": "https://avt.mkklcdnv6temp.com/46/l/23-1617089282.jpg",
                 "malId": 147782,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-ln988622"
             },
             "manga-jr987100": {
+                "id": 75932,
                 "identifier": "manga-jr987100",
                 "image": "https://avt.mkklcdnv6temp.com/33/r/22-1604365714.jpg",
                 "malId": 147782,
@@ -52,30 +56,9 @@
                 "url": "https://chapmanganato.com/manga-jr987100"
             }
         },
-        "MangaFire": {
-            "naega-ttarieyo.6lo59": {
-                "identifier": "naega-ttarieyo.6lo59",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/61b0f77ab49e9828c48cc016d0f95f9d.jpg",
-                "malId": 147782,
-                "aniId": 125697,
-                "page": "MangaFire",
-                "title": "Am I Your Daughter?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/naega-ttarieyo.6lo59/"
-            },
-            "naega-ttarieyoo.6lo59": {
-                "identifier": "naega-ttarieyoo.6lo59",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/61b0f77ab49e9828c48cc016d0f95f9d.jpg",
-                "malId": 147782,
-                "aniId": 125697,
-                "page": "MangaFire",
-                "title": "Am I Your Daughter?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/naega-ttarieyoo.6lo59/"
-            }
-        },
         "Weebcentral": {
             "01j76xye9vfgea4thwvz291fr7": {
+                "id": 207571,
                 "identifier": "01j76xye9vfgea4thwvz291fr7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE9VFGEA4THWVZ291FR7.jpg",
                 "malId": 147782,
@@ -84,6 +67,19 @@
                 "title": "Am I Your Daughter?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE9VFGEA4THWVZ291FR7"
+            }
+        },
+        "MangaFire": {
+            "6lo59": {
+                "id": 228657,
+                "identifier": "6lo59",
+                "image": "https://static.mangafire.to/8697/i/6/61/61b0f77ab49e9828c48cc016d0f95f9d.jpg",
+                "malId": 147782,
+                "aniId": 125697,
+                "page": "MangaFire",
+                "title": "Am I Your Daughter?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/naega-ttarieyoo.6lo59"
             }
         },
         "Comick": {

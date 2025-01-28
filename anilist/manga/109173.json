@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5c0094b6-ae83-4298-814d-48b99059aedc": {
+                "id": 28356,
                 "identifier": "5c0094b6-ae83-4298-814d-48b99059aedc",
                 "image": "https://uploads.mangadex.org/covers/5c0094b6-ae83-4298-814d-48b99059aedc/a84d61c7-4431-443e-b38d-a64ffa5587c3.jpg",
                 "malId": 120062,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "beast-children": {
+                "id": 79242,
                 "identifier": "beast-children",
                 "image": "https://temp.compsci88.com/cover/Beast-Children.jpg",
                 "malId": 120062,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ee981913": {
+                "id": 100794,
                 "identifier": "manga-ee981913",
                 "image": "https://avt.mkklcdnv6temp.com/fld/77/q/9-1732796650-nw.webp",
                 "malId": 120062,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ee981913"
             }
         },
-        "MangaFire": {
-            "beast-children.9on4x": {
-                "identifier": "beast-children.9on4x",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f21af0b9be1172bba04e4a1bc2f489b2.jpg",
-                "malId": 120062,
-                "aniId": 109173,
-                "page": "MangaFire",
-                "title": "Beast Children",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beast-children.9on4x/"
-            }
-        },
         "Weebcentral": {
             "01j76xydtfcn83m915ybnpsgae": {
+                "id": 210662,
                 "identifier": "01j76xydtfcn83m915ybnpsgae",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDTFCN83M915YBNPSGAE.jpg",
                 "malId": 120062,
@@ -64,6 +56,19 @@
                 "title": "Beast Children",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDTFCN83M915YBNPSGAE"
+            }
+        },
+        "MangaFire": {
+            "9on4x": {
+                "id": 250250,
+                "identifier": "9on4x",
+                "image": "https://static.mangafire.to/bae0/i/f/f2/f21af0b9be1172bba04e4a1bc2f489b2.jpg",
+                "malId": 120062,
+                "aniId": 109173,
+                "page": "MangaFire",
+                "title": "Beast Children",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beast-childrenn.9on4x"
             }
         },
         "Comick": {

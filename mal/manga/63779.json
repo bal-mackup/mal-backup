@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "07e57a6e-ea06-4350-908a-2aa000d15c3c": {
+                "id": 9580,
                 "identifier": "07e57a6e-ea06-4350-908a-2aa000d15c3c",
                 "image": "https://uploads.mangadex.org/covers/07e57a6e-ea06-4350-908a-2aa000d15c3c/04867c7b-9c8d-4633-9119-29cce743d7d8.jpg",
                 "malId": 63779,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/07e57a6e-ea06-4350-908a-2aa000d15c3c"
             }
         },
-        "MangaFire": {
-            "yurikamone.4o47": {
-                "identifier": "yurikamone.4o47",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24a00a964eeaae2d33d7fcbdfde0b322.jpg",
-                "malId": 63779,
-                "aniId": 100323,
-                "page": "MangaFire",
-                "title": "Yurikamone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yurikamone.4o47/"
-            },
-            "4o47": {
-                "identifier": "4o47",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24a00a964eeaae2d33d7fcbdfde0b322.jpg",
-                "malId": 63779,
-                "aniId": 100323,
-                "page": "MangaFire",
-                "title": "Yurikamone",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yurikamone.4o47/"
-            }
-        },
         "MangaFox": {
             "after_life": {
+                "id": 185602,
                 "identifier": "after_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13404/cover.jpg",
                 "malId": 63779,
@@ -50,6 +30,19 @@
                 "title": "After Life",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/after_life/"
+            }
+        },
+        "MangaFire": {
+            "4o47": {
+                "id": 244741,
+                "identifier": "4o47",
+                "image": "https://static.mangafire.to/0cf9/i/2/24/24a00a964eeaae2d33d7fcbdfde0b322.jpg",
+                "malId": 63779,
+                "aniId": 100323,
+                "page": "MangaFire",
+                "title": "Yurikamone",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yurikamonee.4o47"
             }
         },
         "Comick": {

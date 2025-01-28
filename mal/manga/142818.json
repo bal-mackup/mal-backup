@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "da25c95f-e062-48ea-b5a0-9b51aeeddc05": {
+                "id": 104753,
                 "identifier": "da25c95f-e062-48ea-b5a0-9b51aeeddc05",
                 "image": "https://uploads.mangadex.org/covers/da25c95f-e062-48ea-b5a0-9b51aeeddc05/8d0aae40-e68c-475c-8efe-3419fb188980.jpg",
                 "malId": 142818,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pc992911": {
+                "id": 117018,
                 "identifier": "manga-pc992911",
                 "image": "https://avt.mkklcdnv6temp.com/26/n/27-1667034272.jpg",
                 "malId": 142818,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-pc992911"
             }
         },
-        "MangaFire": {
-            "zeikin-de-katta-hon.9o8j0": {
-                "identifier": "zeikin-de-katta-hon.9o8j0",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/739f19538de1044482501f999a29881f.jpg",
-                "malId": 142818,
-                "aniId": 142165,
-                "page": "MangaFire",
-                "title": "Zeikin de Katta Hon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zeikin-de-katta-hon.9o8j0/"
-            }
-        },
         "MangaSee": {
             "zeikin-de-katta-hon": {
+                "id": 156754,
                 "identifier": "zeikin-de-katta-hon",
                 "image": "https://temp.compsci88.com/cover/Zeikin-de-Katta-Hon.jpg",
                 "malId": 142818,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg4dzr7krcxx32hkcyp5": {
+                "id": 208805,
                 "identifier": "01j76xyg4dzr7krcxx32hkcyp5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG4DZR7KRCXX32HKCYP5.jpg",
                 "malId": 142818,
@@ -64,6 +56,30 @@
                 "title": "Zeikin de Katta Hon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG4DZR7KRCXX32HKCYP5"
+            }
+        },
+        "MangaFire": {
+            "nqVR": {
+                "id": 222787,
+                "identifier": "nqVR",
+                "image": "https://static.mangafire.to/b363/i/3/46/ce983bdd07bd8f78462722c7cbf61e4e.jpg",
+                "malId": 142818,
+                "aniId": 142165,
+                "page": "MangaFire",
+                "title": "I Bought A Rude Elf Slave At The Market",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-bought-a-rude-elf-slave-at-the-market.nqVR"
+            },
+            "9o8j0": {
+                "id": 230482,
+                "identifier": "9o8j0",
+                "image": "https://static.mangafire.to/221d/i/7/73/739f19538de1044482501f999a29881f.jpg",
+                "malId": 142818,
+                "aniId": 142165,
+                "page": "MangaFire",
+                "title": "Zeikin de Katta Hon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zeikin-de-katta-honn.9o8j0"
             }
         },
         "Comick": {

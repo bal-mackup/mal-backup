@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "305c5759-4e7e-43d3-9d99-5360c6d9d6e1": {
+                "id": 23243,
                 "identifier": "305c5759-4e7e-43d3-9d99-5360c6d9d6e1",
                 "image": "https://uploads.mangadex.org/covers/305c5759-4e7e-43d3-9d99-5360c6d9d6e1/9b116481-ed13-44c0-b5cc-72ad93b85026.jpg",
                 "malId": 114935,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "houkago-no-goumon-shoujo": {
+                "id": 58177,
                 "identifier": "houkago-no-goumon-shoujo",
                 "image": "https://temp.compsci88.com/cover/Houkago-no-Goumon-Shoujo.jpg",
                 "malId": 114935,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "houkago_no_goumon_shoujo": {
+                "id": 60540,
                 "identifier": "houkago_no_goumon_shoujo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28658/cover.jpg",
                 "malId": 114935,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cv979504": {
+                "id": 73083,
                 "identifier": "manga-cv979504",
                 "image": "https://avt.mkklcdnv6temp.com/43/y/16-1583495048.jpg",
                 "malId": 114935,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cv979504"
             }
         },
-        "MangaFire": {
-            "houkago-no-goumon-shoujo.80nkv": {
-                "identifier": "houkago-no-goumon-shoujo.80nkv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4eec2fcb58f28045f5e22ab0613fb5fe.jpg",
-                "malId": 114935,
-                "aniId": 104263,
-                "page": "MangaFire",
-                "title": "Houkago no Goumon Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/houkago-no-goumon-shoujo.80nkv/"
-            },
-            "houkago-no-goumon-shoujoo.80nkv": {
-                "identifier": "houkago-no-goumon-shoujoo.80nkv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4eec2fcb58f28045f5e22ab0613fb5fe.jpg",
-                "malId": 114935,
-                "aniId": 104263,
-                "page": "MangaFire",
-                "title": "Houkago no Goumon Shoujo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/houkago-no-goumon-shoujoo.80nkv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd2p9xj92z8cmxyr6s61": {
+                "id": 208274,
                 "identifier": "01j76xyd2p9xj92z8cmxyr6s61",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD2P9XJ92Z8CMXYR6S61.jpg",
                 "malId": 114935,
@@ -86,6 +69,19 @@
                 "title": "Houkago no Goumon Shoujo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD2P9XJ92Z8CMXYR6S61"
+            }
+        },
+        "MangaFire": {
+            "80nkv": {
+                "id": 248478,
+                "identifier": "80nkv",
+                "image": "https://static.mangafire.to/6825/i/4/4e/4eec2fcb58f28045f5e22ab0613fb5fe.jpg",
+                "malId": 114935,
+                "aniId": 104263,
+                "page": "MangaFire",
+                "title": "Houkago no Goumon Shoujo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/houkago-no-goumon-shoujoo.80nkv"
             }
         },
         "Comick": {

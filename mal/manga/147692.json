@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9": {
+                "id": 58435,
                 "identifier": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
                 "image": "https://uploads.mangadex.org/covers/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9/8deb6809-72af-4b3a-83ec-9ada79cd0fa7.jpg",
                 "malId": 147692,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ill-be-the-matriarch-in-this-life": {
+                "id": 65503,
                 "identifier": "ill-be-the-matriarch-in-this-life",
                 "image": "https://temp.compsci88.com/cover/Ill-Be-the-Matriarch-in-This-Life.jpg",
                 "malId": 147692,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "i_ll_be_the_matriarch_in_this_life": {
+                "id": 66799,
                 "identifier": "i_ll_be_the_matriarch_in_this_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37942/cover.jpg",
                 "malId": 147692,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/i_ll_be_the_matriarch_in_this_life/"
             },
             "i_shall_master_this_family_delete": {
+                "id": 99492,
                 "identifier": "i_shall_master_this_family_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38967/cover.jpg",
                 "malId": 147692,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-li988365": {
+                "id": 73362,
                 "identifier": "manga-li988365",
                 "image": "https://avt.mkklcdnv6temp.com/17/c/29-1679890742.jpg",
                 "malId": 147692,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-li988365"
             }
         },
-        "MangaFire": {
-            "i-shall-master-this-family.yq271": {
-                "identifier": "i-shall-master-this-family.yq271",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/adf861ee328602537b1e88d29c3dde16.jpg",
-                "malId": 147692,
-                "aniId": 130429,
-                "page": "MangaFire",
-                "title": "I Shall Master this Family!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-shall-master-this-family.yq271/"
-            },
-            "i-shall-master-this-familyy.yq271": {
-                "identifier": "i-shall-master-this-familyy.yq271",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ad/adf861ee328602537b1e88d29c3dde16.jpg",
-                "malId": 147692,
-                "aniId": 130429,
-                "page": "MangaFire",
-                "title": "I Shall Master this Family!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-shall-master-this-familyy.yq271/"
-            }
-        },
         "Weebcentral": {
             "01j76xyefwznmkwcph2w9svssd": {
+                "id": 213445,
                 "identifier": "01j76xyefwznmkwcph2w9svssd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEFWZNMKWCPH2W9SVSSD.jpg",
                 "malId": 147692,
@@ -96,6 +80,19 @@
                 "title": "I Shall Master This Family",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEFWZNMKWCPH2W9SVSSD"
+            }
+        },
+        "MangaFire": {
+            "yq271": {
+                "id": 228302,
+                "identifier": "yq271",
+                "image": "https://static.mangafire.to/1f7d/i/a/ad/adf861ee328602537b1e88d29c3dde16.jpg",
+                "malId": 147692,
+                "aniId": 130429,
+                "page": "MangaFire",
+                "title": "I Shall Master this Family!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-shall-master-this-familyy.yq271"
             }
         },
         "Comick": {

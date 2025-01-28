@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b4d21e37-0eaf-4f9b-b14d-aafd7a52f39c": {
+                "id": 36841,
                 "identifier": "b4d21e37-0eaf-4f9b-b14d-aafd7a52f39c",
                 "image": "https://uploads.mangadex.org/covers/b4d21e37-0eaf-4f9b-b14d-aafd7a52f39c/5982770d-4ef9-4688-b23b-6d92153e078a.jpg",
                 "malId": 129535,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "honnou_switch": {
+                "id": 67598,
                 "identifier": "honnou_switch",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34595/cover.jpg",
                 "malId": 129535,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ie986139": {
+                "id": 76984,
                 "identifier": "manga-ie986139",
                 "image": "https://avt.mkklcdnv6temp.com/44/v/21-1596607508.jpg",
                 "malId": 129535,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "changes-of-heart": {
+                "id": 106778,
                 "identifier": "changes-of-heart",
                 "image": "https://temp.compsci88.com/cover/Changes-of-Heart.jpg",
                 "malId": 129535,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Changes-of-Heart"
             }
         },
-        "MangaFire": {
-            "honnou-switch.qk33v": {
-                "identifier": "honnou-switch.qk33v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fce9a150af941b1bcc5d6a7d2157be58.jpg",
-                "malId": 129535,
-                "aniId": 141530,
-                "page": "MangaFire",
-                "title": "Changes of Heart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/honnou-switch.qk33v/"
-            },
-            "honnou-switchh.qk33v": {
-                "identifier": "honnou-switchh.qk33v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fc/fce9a150af941b1bcc5d6a7d2157be58.jpg",
-                "malId": 129535,
-                "aniId": 141530,
-                "page": "MangaFire",
-                "title": "Changes of Heart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/honnou-switchh.qk33v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyffp8qq7tnnx29tq123m": {
+                "id": 206978,
                 "identifier": "01j76xyffp8qq7tnnx29tq123m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFFP8QQ7TNNX29TQ123M.jpg",
                 "malId": 129535,
@@ -86,6 +69,19 @@
                 "title": "Changes of Heart",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFFP8QQ7TNNX29TQ123M"
+            }
+        },
+        "MangaFire": {
+            "qk33v": {
+                "id": 225756,
+                "identifier": "qk33v",
+                "image": "https://static.mangafire.to/b740/i/f/fc/fce9a150af941b1bcc5d6a7d2157be58.jpg",
+                "malId": 129535,
+                "aniId": 141530,
+                "page": "MangaFire",
+                "title": "Changes of Heart",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/honnou-switchh.qk33v"
             }
         },
         "Comick": {

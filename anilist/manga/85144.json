@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b4a9ffee-4d2a-42b8-959a-14f03a9671d0": {
+                "id": 6690,
                 "identifier": "b4a9ffee-4d2a-42b8-959a-14f03a9671d0",
                 "image": "https://uploads.mangadex.org/covers/b4a9ffee-4d2a-42b8-959a-14f03a9671d0/96e7e307-e38b-4f19-a478-13c4202a5cce.jpg",
                 "malId": 153269,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ability": {
+                "id": 55806,
                 "identifier": "ability",
                 "image": "https://temp.compsci88.com/cover/Ability.jpg",
                 "malId": 153269,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ability": {
+                "id": 59268,
                 "identifier": "ability",
                 "image": "https://fmcdn.mfcdn.net/store/manga/11350/cover.jpg",
                 "malId": 153269,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/ability/"
             }
         },
-        "MangaFire": {
-            "ability.582v": {
-                "identifier": "ability.582v",
-                "image": "https://static.mangafire.to/3b2d5/i/7/74/74b171a909f03231841312f9794e5ce2.jpg",
-                "malId": 153269,
-                "aniId": 85144,
-                "page": "MangaFire",
-                "title": "Ability",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ability.582v/"
-            }
-        },
         "Weebcentral": {
             "01j76xy7qredcb0mxrym46k3vk": {
+                "id": 214424,
                 "identifier": "01j76xy7qredcb0mxrym46k3vk",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY7QREDCB0MXRYM46K3VK.jpg",
                 "malId": 153269,
@@ -64,6 +56,19 @@
                 "title": "Ability",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY7QREDCB0MXRYM46K3VK"
+            }
+        },
+        "MangaFire": {
+            "582v": {
+                "id": 261411,
+                "identifier": "582v",
+                "image": "https://static.mangafire.to/6b7b/i/7/74/74b171a909f03231841312f9794e5ce2.jpg",
+                "malId": 153269,
+                "aniId": 85144,
+                "page": "MangaFire",
+                "title": "Ability",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/abilityy.582v"
             }
         },
         "Comick": {

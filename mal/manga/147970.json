@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a2bcfbbd-b692-406a-a426-110a4096fe9e": {
+                "id": 15501,
                 "identifier": "a2bcfbbd-b692-406a-a426-110a4096fe9e",
                 "image": "https://uploads.mangadex.org/covers/a2bcfbbd-b692-406a-a426-110a4096fe9e/a6e46ab2-322d-491f-ba40-9a606c4c7d4b.jpg",
                 "malId": 147970,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "zero-game": {
+                "id": 56607,
                 "identifier": "zero-game",
                 "image": "https://temp.compsci88.com/cover/Zero-Game.jpg",
                 "malId": 147970,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tp970972": {
+                "id": 74505,
                 "identifier": "manga-tp970972",
                 "image": "https://avt.mkklcdnv6temp.com/36/w/13-1583489061.jpg",
                 "malId": 147970,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-tp970972"
             }
         },
-        "MangaFire": {
-            "zero-game.ojrvy": {
-                "identifier": "zero-game.ojrvy",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7a4fc80ecf138c62e1841720a086f8ed.jpg",
-                "malId": 147970,
-                "aniId": 97808,
-                "page": "MangaFire",
-                "title": "Zero Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zero-game.ojrvy/"
-            },
-            "zero-gamee.ojrvy": {
-                "identifier": "zero-gamee.ojrvy",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7a/7a4fc80ecf138c62e1841720a086f8ed.jpg",
-                "malId": 147970,
-                "aniId": 97808,
-                "page": "MangaFire",
-                "title": "Zero Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zero-gamee.ojrvy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd44qcbd8hk0h1g92a3h": {
+                "id": 207167,
                 "identifier": "01j76xyd44qcbd8hk0h1g92a3h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD44QCBD8HK0H1G92A3H.jpg",
                 "malId": 147970,
@@ -74,6 +56,19 @@
                 "title": "Zero Game",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD44QCBD8HK0H1G92A3H"
+            }
+        },
+        "MangaFire": {
+            "ojrvy": {
+                "id": 223986,
+                "identifier": "ojrvy",
+                "image": "https://static.mangafire.to/5067/i/7/7a/7a4fc80ecf138c62e1841720a086f8ed.jpg",
+                "malId": 147970,
+                "aniId": 97808,
+                "page": "MangaFire",
+                "title": "Zero Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zero-gamee.ojrvy"
             }
         },
         "Comick": {

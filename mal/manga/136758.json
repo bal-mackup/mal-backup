@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "21c4c1ff-67f6-4c9d-88aa-9869f734f839": {
+                "id": 50501,
                 "identifier": "21c4c1ff-67f6-4c9d-88aa-9869f734f839",
                 "image": "https://uploads.mangadex.org/covers/21c4c1ff-67f6-4c9d-88aa-9869f734f839/27e1ee7a-22ac-4059-8bd8-b12c9b422a07.jpg",
                 "malId": 136758,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "makai-kaeri-no-rettou-nouryokusha": {
+                "id": 63305,
                 "identifier": "makai-kaeri-no-rettou-nouryokusha",
                 "image": "https://temp.compsci88.com/cover/Makai-Kaeri-no-Rettou-Nouryokusha.jpg",
                 "malId": 136758,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kn987470": {
+                "id": 74014,
                 "identifier": "manga-kn987470",
                 "image": "https://avt.mkklcdnv6temp.com/49/a/22-1608954995.jpg",
                 "malId": 136758,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-kn987470"
             }
         },
-        "MangaFire": {
-            "makai-kaeri-no-rettou-nouryokusha.xr5o8": {
-                "identifier": "makai-kaeri-no-rettou-nouryokusha.xr5o8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a429bdbfefaa2eaa4d79711f7a54420f.jpg",
-                "malId": 136758,
-                "aniId": 125495,
-                "page": "MangaFire",
-                "title": "The Lesser Irregular Returns From the Demon World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/makai-kaeri-no-rettou-nouryokusha.xr5o8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeczd8xfpfy4xtstfspw": {
+                "id": 208538,
                 "identifier": "01j76xyeczd8xfpfy4xtstfspw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECZD8XFPFY4XTSTFSPW.jpg",
                 "malId": 136758,
@@ -64,6 +56,19 @@
                 "title": "The Lesser Irregular Returns From the Demon World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECZD8XFPFY4XTSTFSPW"
+            }
+        },
+        "MangaFire": {
+            "xr5o8": {
+                "id": 231175,
+                "identifier": "xr5o8",
+                "image": "https://static.mangafire.to/37dc/i/a/a4/a429bdbfefaa2eaa4d79711f7a54420f.jpg",
+                "malId": 136758,
+                "aniId": 125495,
+                "page": "MangaFire",
+                "title": "The Lesser Irregular Returns From the Demon World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/makai-kaeri-no-rettou-nouryokushaa.xr5o8"
             }
         },
         "Comick": {

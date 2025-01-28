@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "223f03db-b8fa-4087-8dfe-9bb04efecd3b": {
+                "id": 27820,
                 "identifier": "223f03db-b8fa-4087-8dfe-9bb04efecd3b",
                 "image": "https://uploads.mangadex.org/covers/223f03db-b8fa-4087-8dfe-9bb04efecd3b/0cba7cbd-c4ac-4f8a-a8b4-e1b63d829869.jpg",
                 "malId": 99724,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/223f03db-b8fa-4087-8dfe-9bb04efecd3b"
             },
             "cc8986fd-47ba-41cb-bb1e-296d1fd3d525": {
+                "id": 50593,
                 "identifier": "cc8986fd-47ba-41cb-bb1e-296d1fd3d525",
                 "image": "https://uploads.mangadex.org/covers/cc8986fd-47ba-41cb-bb1e-296d1fd3d525/612222b4-a23c-403e-8ad2-6e8f91a0443e.png",
                 "malId": 99724,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/cc8986fd-47ba-41cb-bb1e-296d1fd3d525"
             },
             "0b84aab1-c7fd-4320-9d66-8bef80b8d178": {
+                "id": 194587,
                 "identifier": "0b84aab1-c7fd-4320-9d66-8bef80b8d178",
                 "image": "https://uploads.mangadex.org/covers/0b84aab1-c7fd-4320-9d66-8bef80b8d178/6c3015bd-6028-45ac-8d52-3f803480a92c.png",
                 "malId": 99724,
@@ -38,6 +41,7 @@
                 "url": "https://mangadex.org/title/0b84aab1-c7fd-4320-9d66-8bef80b8d178"
             },
             "04da6e83-eb64-4f3e-9c78-296c07ac37a5": {
+                "id": 215883,
                 "identifier": "04da6e83-eb64-4f3e-9c78-296c07ac37a5",
                 "image": "https://uploads.mangadex.org/covers/04da6e83-eb64-4f3e-9c78-296c07ac37a5/c8c1f4d9-8d60-4ca3-854a-af1f9e6fcad1.png",
                 "malId": 99724,
@@ -48,38 +52,30 @@
                 "url": "https://mangadex.org/title/04da6e83-eb64-4f3e-9c78-296c07ac37a5"
             }
         },
-        "MangaFire": {
-            "koha-ace.1nn2x": {
-                "identifier": "koha-ace.1nn2x",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73b726a1f7de3642d8bb21d42cf49841.jpg",
-                "malId": 99724,
-                "aniId": 100260,
-                "page": "MangaFire",
-                "title": "Koha-Ace",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koha-ace.1nn2x/"
-            },
-            "1nn2x": {
-                "identifier": "1nn2x",
-                "image": "https://static.mangafire.to/3b2d5/i/7/73/73b726a1f7de3642d8bb21d42cf49841.jpg",
-                "malId": 99724,
-                "aniId": 100260,
-                "page": "MangaFire",
-                "title": "Koha-Ace",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koha-ace.1nn2x/"
-            }
-        },
         "MangaNato": {
             "manga-cf1005714": {
+                "id": 216903,
                 "identifier": "manga-cf1005714",
-                "image": "https://avt.mkklcdnv6temp.com/41/s/37-1730994450.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/72/b/18-1733381415-nw.webp",
                 "malId": 99724,
                 "aniId": 100260,
                 "page": "MangaNato",
                 "title": "Koha-Ace Ex",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-cf1005714"
+            }
+        },
+        "MangaFire": {
+            "1nn2x": {
+                "id": 244339,
+                "identifier": "1nn2x",
+                "image": "https://static.mangafire.to/79a0/i/7/73/73b726a1f7de3642d8bb21d42cf49841.jpg",
+                "malId": 99724,
+                "aniId": 100260,
+                "page": "MangaFire",
+                "title": "Koha-Ace",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koha-acee.1nn2x"
             }
         },
         "Comick": {

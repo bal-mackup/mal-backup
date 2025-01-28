@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f7269b98-f3c2-4c28-ba3b-3ca4e4a7bd3d": {
+                "id": 34630,
                 "identifier": "f7269b98-f3c2-4c28-ba3b-3ca4e4a7bd3d",
                 "image": "https://uploads.mangadex.org/covers/f7269b98-f3c2-4c28-ba3b-3ca4e4a7bd3d/91cc7440-1671-47b7-a1e1-3daaed1832ce.jpg",
                 "malId": 141347,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/f7269b98-f3c2-4c28-ba3b-3ca4e4a7bd3d"
             }
         },
-        "MangaFire": {
-            "utahime-obaka-miiko.mq268": {
-                "identifier": "utahime-obaka-miiko.mq268",
-                "image": "https://static.mangafire.to/3b2d5/i/7/72/72d8cf7eb045cd7c25b8e2fabb22c4fb.jpg",
-                "malId": 141347,
-                "aniId": 142650,
-                "page": "MangaFire",
-                "title": "Utahime Obaka Miiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/utahime-obaka-miiko.mq268/"
-            }
-        },
         "MangaNato": {
             "manga-hr985152": {
+                "id": 167166,
                 "identifier": "manga-hr985152",
                 "image": "https://avt.mkklcdnv6temp.com/fld/94/g/10-1732803662-nw.webp",
                 "malId": 141347,
@@ -40,6 +30,19 @@
                 "title": "Mahjong Diva Obaka Miiko",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-hr985152"
+            }
+        },
+        "MangaFire": {
+            "mq268": {
+                "id": 239165,
+                "identifier": "mq268",
+                "image": "https://static.mangafire.to/980b/i/7/72/72d8cf7eb045cd7c25b8e2fabb22c4fb.jpg",
+                "malId": 141347,
+                "aniId": 142650,
+                "page": "MangaFire",
+                "title": "Utahime Obaka Miiko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/utahime-obaka-miikoo.mq268"
             }
         }
     },

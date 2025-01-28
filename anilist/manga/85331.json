@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "26e80513-5df7-4867-a22c-72c562581708": {
+                "id": 11729,
                 "identifier": "26e80513-5df7-4867-a22c-72c562581708",
                 "image": "https://uploads.mangadex.org/covers/26e80513-5df7-4867-a22c-72c562581708/312d7105-d59d-498e-9e67-22d655bc09f2.jpg",
                 "malId": 66265,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "okitenemuru": {
+                "id": 75675,
                 "identifier": "okitenemuru",
                 "image": "https://temp.compsci88.com/cover/Okitenemuru.jpg",
                 "malId": 66265,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-la952509": {
+                "id": 76280,
                 "identifier": "manga-la952509",
                 "image": "https://avt.mkklcdnv6temp.com/41/w/1-1583465355.jpg",
                 "malId": 66265,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-la952509"
             }
         },
-        "MangaFire": {
-            "okitenemuru.knm6": {
-                "identifier": "okitenemuru.knm6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/202a8e9d7f7b020d79fcea789afc65a9.jpg",
-                "malId": 66265,
-                "aniId": 85331,
-                "page": "MangaFire",
-                "title": "Okitenemuru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/okitenemuru.knm6/"
-            },
-            "okitenemuruu.knm6": {
-                "identifier": "okitenemuruu.knm6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/202a8e9d7f7b020d79fcea789afc65a9.jpg",
-                "malId": 66265,
-                "aniId": 85331,
-                "page": "MangaFire",
-                "title": "Okitenemuru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/okitenemuruu.knm6/"
-            },
-            "knm6": {
-                "identifier": "knm6",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/202a8e9d7f7b020d79fcea789afc65a9.jpg",
-                "malId": 66265,
-                "aniId": 85331,
-                "page": "MangaFire",
-                "title": "Okitenemuru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/okitenemuruu.knm6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyacb5rka8yh3dbx1m8n2": {
+                "id": 211167,
                 "identifier": "01j76xyacb5rka8yh3dbx1m8n2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYACB5RKA8YH3DBX1M8N2.jpg",
                 "malId": 66265,
@@ -84,6 +56,19 @@
                 "title": "Okitenemuru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYACB5RKA8YH3DBX1M8N2"
+            }
+        },
+        "MangaFire": {
+            "knm6": {
+                "id": 237807,
+                "identifier": "knm6",
+                "image": "https://static.mangafire.to/87fc/i/2/20/202a8e9d7f7b020d79fcea789afc65a9.jpg",
+                "malId": 66265,
+                "aniId": 85331,
+                "page": "MangaFire",
+                "title": "Okitenemuru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/okitenemuruu.knm6"
             }
         },
         "Comick": {

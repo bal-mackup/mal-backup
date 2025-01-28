@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3d0f2aab-2c57-4284-a2f0-ca4520130d4e": {
+                "id": 17367,
                 "identifier": "3d0f2aab-2c57-4284-a2f0-ca4520130d4e",
                 "image": "https://uploads.mangadex.org/covers/3d0f2aab-2c57-4284-a2f0-ca4520130d4e/4874fc1f-8d7f-40e2-bbaf-f873ba86e42f.jpg",
                 "malId": 104272,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "downfall": {
+                "id": 55633,
                 "identifier": "downfall",
                 "image": "https://temp.compsci88.com/cover/Downfall.jpg",
                 "malId": 104272,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yp975624": {
+                "id": 73178,
                 "identifier": "manga-yp975624",
                 "image": "https://avt.mkklcdnv6temp.com/13/t/15-1583491956.jpg",
                 "malId": 104272,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-yp975624"
             },
             "manga-yd975512": {
+                "id": 76552,
                 "identifier": "manga-yd975512",
                 "image": "https://avt.mkklcdnv6temp.com/11/s/15-1583491883.jpg",
                 "malId": 104272,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "reiraku": {
+                "id": 127122,
                 "identifier": "reiraku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24687/cover.jpg",
                 "malId": 104272,
@@ -64,6 +69,7 @@
                 "url": "https://fanfox.net/manga/reiraku/"
             },
             "downfall": {
+                "id": 185522,
                 "identifier": "downfall",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24589/cover.jpg",
                 "malId": 104272,
@@ -74,30 +80,9 @@
                 "url": "https://fanfox.net/manga/downfall/"
             }
         },
-        "MangaFire": {
-            "downfall.w18w6": {
-                "identifier": "downfall.w18w6",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/6453878051c03337ecbae23a92fdd19e.jpg",
-                "malId": 104272,
-                "aniId": 98674,
-                "page": "MangaFire",
-                "title": "Downfall",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/downfall.w18w6/"
-            },
-            "downfalll.w18w6": {
-                "identifier": "downfalll.w18w6",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/6453878051c03337ecbae23a92fdd19e.jpg",
-                "malId": 104272,
-                "aniId": 98674,
-                "page": "MangaFire",
-                "title": "Downfall",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/downfalll.w18w6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc529nchamxrqgpn34qy": {
+                "id": 208783,
                 "identifier": "01j76xyc529nchamxrqgpn34qy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC529NCHAMXRQGPN34QY.jpg",
                 "malId": 104272,
@@ -106,6 +91,19 @@
                 "title": "Downfall",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC529NCHAMXRQGPN34QY"
+            }
+        },
+        "MangaFire": {
+            "w18w6": {
+                "id": 228584,
+                "identifier": "w18w6",
+                "image": "https://static.mangafire.to/8f10/i/6/64/6453878051c03337ecbae23a92fdd19e.jpg",
+                "malId": 104272,
+                "aniId": 98674,
+                "page": "MangaFire",
+                "title": "Downfall",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/downfalll.w18w6"
             }
         },
         "Comick": {

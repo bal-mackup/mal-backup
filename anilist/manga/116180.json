@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "bdfc7777-f1ee-4131-82cb-2fb5861d32e1": {
+                "id": 31919,
                 "identifier": "bdfc7777-f1ee-4131-82cb-2fb5861d32e1",
                 "image": "https://uploads.mangadex.org/covers/bdfc7777-f1ee-4131-82cb-2fb5861d32e1/278e6cd3-f4ba-4618-865a-344c784bbd49.jpg",
                 "malId": 124221,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shingeki-no-eroko-san": {
+                "id": 55690,
                 "identifier": "shingeki-no-eroko-san",
                 "image": "https://temp.compsci88.com/cover/Shingeki-no-Eroko-san.jpg",
                 "malId": 124221,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shingeki_no_eroko_san": {
+                "id": 64437,
                 "identifier": "shingeki_no_eroko_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32737/cover.jpg",
                 "malId": 124221,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hi984843": {
+                "id": 73327,
                 "identifier": "manga-hi984843",
                 "image": "https://avt.mkklcdnv6temp.com/41/j/20-1583575082.jpg",
                 "malId": 124221,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-hi984843"
             }
         },
-        "MangaFire": {
-            "shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritai.oow5j": {
-                "identifier": "shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritai.oow5j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93e486b09a6a6a22dbd7f2359dd4dd10.jpg",
-                "malId": 124221,
-                "aniId": 116180,
-                "page": "MangaFire",
-                "title": "Eroko-san on the Attack",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritai.oow5j/"
-            },
-            "shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritaii.oow5j": {
-                "identifier": "shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritaii.oow5j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/93e486b09a6a6a22dbd7f2359dd4dd10.jpg",
-                "malId": 124221,
-                "aniId": 116180,
-                "page": "MangaFire",
-                "title": "Eroko-san on the Attack",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritaii.oow5j/"
-            }
-        },
         "Weebcentral": {
             "01j76xydcdqgwj1b0pq9sxzf8d": {
+                "id": 210673,
                 "identifier": "01j76xydcdqgwj1b0pq9sxzf8d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDCDQGWJ1B0PQ9SXZF8D.jpg",
                 "malId": 124221,
@@ -86,6 +69,19 @@
                 "title": "Shingeki no Eroko-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDCDQGWJ1B0PQ9SXZF8D"
+            }
+        },
+        "MangaFire": {
+            "oow5j": {
+                "id": 226805,
+                "identifier": "oow5j",
+                "image": "https://static.mangafire.to/c763/i/9/93/93e486b09a6a6a22dbd7f2359dd4dd10.jpg",
+                "malId": 124221,
+                "aniId": 116180,
+                "page": "MangaFire",
+                "title": "Eroko-san on the Attack",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritaii.oow5j"
             }
         },
         "Comick": {

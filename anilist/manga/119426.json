@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ddfc6303-3026-46bf-af2a-3aca506a6e48": {
+                "id": 30526,
                 "identifier": "ddfc6303-3026-46bf-af2a-3aca506a6e48",
                 "image": "https://uploads.mangadex.org/covers/ddfc6303-3026-46bf-af2a-3aca506a6e48/448dcf83-7cb3-455d-81cb-9d90217dec91.jpg",
                 "malId": 126982,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tanaka-nenrei-equal-kanojo-inaireki-no-mahoutsukai": {
+                "id": 54787,
                 "identifier": "tanaka-nenrei-equal-kanojo-inaireki-no-mahoutsukai",
                 "image": "https://temp.compsci88.com/cover/Tanaka-Nenrei-Equal-Kanojo-Inaireki-no-Mahoutsukai.jpg",
                 "malId": 126982,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fq982925": {
+                "id": 77067,
                 "identifier": "manga-fq982925",
                 "image": "https://avt.mkklcdnv6temp.com/19/n/19-1583499862.jpg",
                 "malId": 126982,
@@ -42,6 +45,7 @@
                 "url": "https://manganato.com/manga-fq982925"
             },
             "manga-md989638": {
+                "id": 87184,
                 "identifier": "manga-md989638",
                 "image": "https://avt.mkklcdnv6temp.com/40/o/24-1631678633.jpg",
                 "malId": 126982,
@@ -52,30 +56,9 @@
                 "url": "https://manganato.com/manga-md989638"
             }
         },
-        "MangaFire": {
-            "tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukai.pr359": {
-                "identifier": "tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukai.pr359",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0c/0ce0132136659a012ff89fe63afd43ac.jpg",
-                "malId": 126982,
-                "aniId": 119426,
-                "page": "MangaFire",
-                "title": "Tanaka no Atelier ~Nenrei Equal Kanojo Inaireki no Mahoutsukai~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukai.pr359/"
-            },
-            "tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukaii.pr359": {
-                "identifier": "tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukaii.pr359",
-                "image": "https://static.mangafire.to/7903/i/0/0c/0ce0132136659a012ff89fe63afd43ac.jpg",
-                "malId": 126982,
-                "aniId": 119426,
-                "page": "MangaFire",
-                "title": "Tanaka no Atelier ~Nenrei Equal Kanojo Inaireki no Mahoutsukai~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukaii.pr359/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd8renqzxzg5hp08t2z1": {
+                "id": 206178,
                 "identifier": "01j76xyd8renqzxzg5hp08t2z1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD8RENQZXZG5HP08T2Z1.jpg",
                 "malId": 126982,
@@ -84,6 +67,19 @@
                 "title": "Tanaka ~Nenrei Equal Kanojo Inaireki no Mahoutsukai~",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD8RENQZXZG5HP08T2Z1"
+            }
+        },
+        "MangaFire": {
+            "pr359": {
+                "id": 223354,
+                "identifier": "pr359",
+                "image": "https://static.mangafire.to/7903/i/0/0c/0ce0132136659a012ff89fe63afd43ac.jpg",
+                "malId": 126982,
+                "aniId": 119426,
+                "page": "MangaFire",
+                "title": "Tanaka no Atelier ~Nenrei Equal Kanojo Inaireki no Mahoutsukai~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tanaka-no-atelier-nenrei-equal-kanojo-inaireki-no-mahoutsukaii.pr359"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "85da2889-911d-4312-9381-b0afbe64e0f7": {
+                "id": 17275,
                 "identifier": "85da2889-911d-4312-9381-b0afbe64e0f7",
                 "image": "https://uploads.mangadex.org/covers/85da2889-911d-4312-9381-b0afbe64e0f7/db61f52b-93ac-43f4-b7da-993e31bad99a.jpg",
                 "malId": 104186,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ayanashi": {
+                "id": 66083,
                 "identifier": "ayanashi",
                 "image": "https://temp.compsci88.com/cover/Ayanashi.jpg",
                 "malId": 104186,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ayanashi": {
+                "id": 72582,
                 "identifier": "ayanashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24095/cover.jpg",
                 "malId": 104186,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xq975051": {
+                "id": 103618,
                 "identifier": "manga-xq975051",
                 "image": "https://avt.mkklcdnv6temp.com/fld/1/j/7-1732787786-nw.webp",
                 "malId": 104186,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xq975051"
             }
         },
-        "MangaFire": {
-            "ayanashi.3ryk6": {
-                "identifier": "ayanashi.3ryk6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ceaed3953cdef52051a223efd571c0a.jpg",
-                "malId": 104186,
-                "aniId": 98396,
-                "page": "MangaFire",
-                "title": "Ayanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayanashi.3ryk6/"
-            },
-            "3ryk6": {
-                "identifier": "3ryk6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7ceaed3953cdef52051a223efd571c0a.jpg",
-                "malId": 104186,
-                "aniId": 98396,
-                "page": "MangaFire",
-                "title": "Ayanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ayanashi.3ryk6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc4vcpm1jz51k2gzk7wf": {
+                "id": 207266,
                 "identifier": "01j76xyc4vcpm1jz51k2gzk7wf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC4VCPM1JZ51K2GZK7WF.jpg",
                 "malId": 104186,
@@ -86,6 +69,19 @@
                 "title": "Ayanashi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC4VCPM1JZ51K2GZK7WF"
+            }
+        },
+        "MangaFire": {
+            "3ryk6": {
+                "id": 252507,
+                "identifier": "3ryk6",
+                "image": "https://static.mangafire.to/7004/i/7/7c/7ceaed3953cdef52051a223efd571c0a.jpg",
+                "malId": 104186,
+                "aniId": 98396,
+                "page": "MangaFire",
+                "title": "Ayanashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ayanashii.3ryk6"
             }
         },
         "Comick": {

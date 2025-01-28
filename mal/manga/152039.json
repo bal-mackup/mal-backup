@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ac0a5c27-888a-48dd-9a78-cb2af471a5a0": {
+                "id": 112315,
                 "identifier": "ac0a5c27-888a-48dd-9a78-cb2af471a5a0",
                 "image": "https://uploads.mangadex.org/covers/ac0a5c27-888a-48dd-9a78-cb2af471a5a0/6e5e5a71-4293-44c1-a1ee-e88b9ff2fc9e.png",
                 "malId": 152039,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oz992108": {
+                "id": 113474,
                 "identifier": "manga-oz992108",
                 "image": "https://avt.mkklcdnv6temp.com/44/f/26-1661780444.jpg",
                 "malId": 152039,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-oz992108"
             }
         },
-        "MangaFire": {
-            "im-the-queen-in-this-life.rj5on": {
-                "identifier": "im-the-queen-in-this-life.rj5on",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0728c299d0189967040d48d5b3aa247f.jpg",
-                "malId": 152039,
-                "aniId": 153983,
-                "page": "MangaFire",
-                "title": "Sister, I Am the Queen in This Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/im-the-queen-in-this-life.rj5on/"
-            },
-            "im-the-queen-in-this-lifee.rj5on": {
-                "identifier": "im-the-queen-in-this-lifee.rj5on",
-                "image": "https://static.mangafire.to/842e/i/0/07/0728c299d0189967040d48d5b3aa247f.jpg",
-                "malId": 152039,
-                "aniId": 153983,
-                "page": "MangaFire",
-                "title": "Sister, I Am the Queen in This Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/im-the-queen-in-this-lifee.rj5on/"
-            }
-        },
         "MangaSee": {
             "im-the-queen-in-this-life": {
+                "id": 167911,
                 "identifier": "im-the-queen-in-this-life",
                 "image": "https://temp.compsci88.com/cover/Im-the-Queen-in-This-Life.jpg",
                 "malId": 152039,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "i_m_the_queen_in_this_life": {
+                "id": 176715,
                 "identifier": "i_m_the_queen_in_this_life",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45611/cover.jpg",
                 "malId": 152039,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygej3z63vhz62w6qg3cw": {
+                "id": 213712,
                 "identifier": "01j76xygej3z63vhz62w6qg3cw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGEJ3Z63VHZ62W6QG3CW.jpg",
                 "malId": 152039,
@@ -86,6 +69,19 @@
                 "title": "I'm the Queen in This Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGEJ3Z63VHZ62W6QG3CW"
+            }
+        },
+        "MangaFire": {
+            "rj5on": {
+                "id": 223601,
+                "identifier": "rj5on",
+                "image": "https://static.mangafire.to/842e/i/0/07/0728c299d0189967040d48d5b3aa247f.jpg",
+                "malId": 152039,
+                "aniId": 153983,
+                "page": "MangaFire",
+                "title": "Sister, I Am the Queen in This Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/im-the-queen-in-this-lifee.rj5on"
             }
         },
         "Comick": {

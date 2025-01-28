@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "ada153d5-db0d-40a0-920c-f76f1e1437dd": {
+                "id": 22843,
                 "identifier": "ada153d5-db0d-40a0-920c-f76f1e1437dd",
-                "image": "https://uploads.mangadex.org/covers/ada153d5-db0d-40a0-920c-f76f1e1437dd/3ca4c4c0-236f-4762-9177-7a2904d437bf.jpg",
+                "image": "https://uploads.mangadex.org/covers/ada153d5-db0d-40a0-920c-f76f1e1437dd/e90ab283-73aa-4c01-924c-61d9a4bbb411.jpg",
                 "malId": 115367,
                 "aniId": 103840,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kyoukai-meikyuu-to-ikai-no-majutsushi": {
+                "id": 55718,
                 "identifier": "kyoukai-meikyuu-to-ikai-no-majutsushi",
                 "image": "https://temp.compsci88.com/cover/Kyoukai-Meikyuu-To-Ikai-No-Majutsushi.jpg",
                 "malId": 115367,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kyoukai_meikyuu_to_ikai_no_majutsushi": {
+                "id": 55750,
                 "identifier": "kyoukai_meikyuu_to_ikai_no_majutsushi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28173/cover.jpg",
                 "malId": 115367,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ce979561": {
+                "id": 73991,
                 "identifier": "manga-ce979561",
                 "image": "https://avt.mkklcdnv6temp.com/46/d/16-1583495128.jpg",
                 "malId": 115367,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ce979561"
             }
         },
-        "MangaFire": {
-            "kyoukai-meikyuu-to-ikai-no-majutsushi.m283p": {
-                "identifier": "kyoukai-meikyuu-to-ikai-no-majutsushi.m283p",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/1929a89cd5dd34e1798c9c27ba3d480a.jpg",
-                "malId": 115367,
-                "aniId": 103840,
-                "page": "MangaFire",
-                "title": "Boundary Labyrinth and Magician of Alien World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoukai-meikyuu-to-ikai-no-majutsushi.m283p/"
-            },
-            "kyoukai-meikyuu-to-ikai-no-majutsushii.m283p": {
-                "identifier": "kyoukai-meikyuu-to-ikai-no-majutsushii.m283p",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/1929a89cd5dd34e1798c9c27ba3d480a.jpg",
-                "malId": 115367,
-                "aniId": 103840,
-                "page": "MangaFire",
-                "title": "Boundary Labyrinth and Magician of Alien World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoukai-meikyuu-to-ikai-no-majutsushii.m283p/"
-            }
-        },
         "Weebcentral": {
             "01j76xycqnd5s2e53csympydpg": {
+                "id": 211518,
                 "identifier": "01j76xycqnd5s2e53csympydpg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCQND5S2E53CSYMPYDPG.jpg",
                 "malId": 115367,
@@ -86,6 +69,19 @@
                 "title": "Kyoukai Meikyuu to Ikai no Majutsushi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCQND5S2E53CSYMPYDPG"
+            }
+        },
+        "MangaFire": {
+            "m283p": {
+                "id": 225771,
+                "identifier": "m283p",
+                "image": "https://static.mangafire.to/7a3e/i/1/19/1929a89cd5dd34e1798c9c27ba3d480a.jpg",
+                "malId": 115367,
+                "aniId": 103840,
+                "page": "MangaFire",
+                "title": "Boundary Labyrinth and Magician of Alien World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyoukai-meikyuu-to-ikai-no-majutsushii.m283p"
             }
         },
         "Comick": {

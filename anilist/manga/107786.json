@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2370da67-5ddd-4cdb-9ed6-0963c6b322cb": {
+                "id": 23965,
                 "identifier": "2370da67-5ddd-4cdb-9ed6-0963c6b322cb",
                 "image": "https://uploads.mangadex.org/covers/2370da67-5ddd-4cdb-9ed6-0963c6b322cb/5f36301b-6f36-42e5-aaf5-1c3cd9ffc0e1.jpg",
                 "malId": 119761,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "isekai_ekisha_no_kissaten": {
+                "id": 67267,
                 "identifier": "isekai_ekisha_no_kissaten",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28648/cover.jpg",
                 "malId": 119761,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "isekai-ekisha-no-kissaten": {
+                "id": 69698,
                 "identifier": "isekai-ekisha-no-kissaten",
                 "image": "https://temp.compsci88.com/cover/Isekai-Ekisha-No-Kissaten.jpg",
                 "malId": 119761,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cp979850": {
+                "id": 75155,
                 "identifier": "manga-cp979850",
                 "image": "https://avt.mkklcdnv6temp.com/6/z/17-1583495512.jpg",
                 "malId": 119761,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-cp979850"
             }
         },
-        "MangaFire": {
-            "isekai-ekisha-no-kissaten.prrp4": {
-                "identifier": "isekai-ekisha-no-kissaten.prrp4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/53336832cdecbececc68da897e7d8092.jpg",
-                "malId": 119761,
-                "aniId": 107786,
-                "page": "MangaFire",
-                "title": "The Coffee Shop in a Different World Station",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ekisha-no-kissaten.prrp4/"
-            },
-            "isekai-ekisha-no-kissatenn.prrp4": {
-                "identifier": "isekai-ekisha-no-kissatenn.prrp4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/53336832cdecbececc68da897e7d8092.jpg",
-                "malId": 119761,
-                "aniId": 107786,
-                "page": "MangaFire",
-                "title": "The Coffee Shop in a Different World Station",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-ekisha-no-kissatenn.prrp4/"
-            }
-        },
         "Weebcentral": {
             "01j76xycnthjq6ab3fs1vr7hds": {
+                "id": 208286,
                 "identifier": "01j76xycnthjq6ab3fs1vr7hds",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCNTHJQ6AB3FS1VR7HDS.jpg",
                 "malId": 119761,
@@ -86,6 +69,19 @@
                 "title": "Isekai Ekisha no Kissaten",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCNTHJQ6AB3FS1VR7HDS"
+            }
+        },
+        "MangaFire": {
+            "prrp4": {
+                "id": 227509,
+                "identifier": "prrp4",
+                "image": "https://static.mangafire.to/d86d/i/5/53/53336832cdecbececc68da897e7d8092.jpg",
+                "malId": 119761,
+                "aniId": 107786,
+                "page": "MangaFire",
+                "title": "The Coffee Shop in a Different World Station",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-ekisha-no-kissatenn.prrp4"
             }
         },
         "Comick": {

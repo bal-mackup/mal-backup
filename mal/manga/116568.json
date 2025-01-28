@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "398f55e5-e684-471e-b49d-9fb23b00fb87": {
+                "id": 24569,
                 "identifier": "398f55e5-e684-471e-b49d-9fb23b00fb87",
                 "image": "https://uploads.mangadex.org/covers/398f55e5-e684-471e-b49d-9fb23b00fb87/39f2bb54-b88f-4fd8-b6ed-0c5f228ee0e2.jpg",
                 "malId": 116568,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "giniro-no-genders": {
+                "id": 78475,
                 "identifier": "giniro-no-genders",
                 "image": "https://temp.compsci88.com/cover/Giniro-No-Genders.jpg",
                 "malId": 116568,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cc980211": {
+                "id": 96679,
                 "identifier": "manga-cc980211",
                 "image": "https://avt.mkklcdnv6temp.com/fld/17/b/9-1732793074-nw.webp",
                 "malId": 116568,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-cc980211"
             }
         },
-        "MangaFire": {
-            "giniro-no-genders.rlr5m": {
-                "identifier": "giniro-no-genders.rlr5m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/947545401b7165c788ad6e11fb65d52b.jpg",
-                "malId": 116568,
-                "aniId": 105261,
-                "page": "MangaFire",
-                "title": "Silver By Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/giniro-no-genders.rlr5m/"
-            },
-            "rlr5m": {
-                "identifier": "rlr5m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/947545401b7165c788ad6e11fb65d52b.jpg",
-                "malId": 116568,
-                "aniId": 105261,
-                "page": "MangaFire",
-                "title": "Silver By Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/giniro-no-genders.rlr5m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycwjy2p8yg1c2x0bdc9x": {
+                "id": 210691,
                 "identifier": "01j76xycwjy2p8yg1c2x0bdc9x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCWJY2P8YG1C2X0BDC9X.jpg",
                 "malId": 116568,
@@ -74,6 +56,19 @@
                 "title": "Giniro no Genders",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCWJY2P8YG1C2X0BDC9X"
+            }
+        },
+        "MangaFire": {
+            "rlr5m": {
+                "id": 248346,
+                "identifier": "rlr5m",
+                "image": "https://static.mangafire.to/8413/i/9/94/947545401b7165c788ad6e11fb65d52b.jpg",
+                "malId": 116568,
+                "aniId": 105261,
+                "page": "MangaFire",
+                "title": "Silver By Night",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/giniro-no-genderss.rlr5m"
             }
         },
         "Comick": {

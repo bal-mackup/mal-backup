@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "41f9def5-f530-40cb-8d7a-b1fbfe82174d": {
+                "id": 15723,
                 "identifier": "41f9def5-f530-40cb-8d7a-b1fbfe82174d",
                 "image": "https://uploads.mangadex.org/covers/41f9def5-f530-40cb-8d7a-b1fbfe82174d/2c935a2e-f4b7-4931-a3b8-4b1d4140ac0e.jpg",
                 "malId": 148699,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ctrl_z": {
+                "id": 90093,
                 "identifier": "ctrl_z",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20105/cover.jpg",
                 "malId": 148699,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ctrlz": {
+                "id": 178989,
                 "identifier": "ctrlz",
                 "image": "https://temp.compsci88.com/cover/CtrlZ.jpg",
                 "malId": 148699,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/CtrlZ"
             }
         },
-        "MangaFire": {
-            "ctrlz.29wn0": {
-                "identifier": "ctrlz.29wn0",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3884d97bee63478ec2d5466c1ad0137.jpg",
-                "malId": 148699,
-                "aniId": 122537,
-                "page": "MangaFire",
-                "title": "Ctrl+Z",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ctrlz.29wn0/"
-            },
-            "ctrlzz.29wn0": {
-                "identifier": "ctrlzz.29wn0",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b3/b3884d97bee63478ec2d5466c1ad0137.jpg",
-                "malId": 148699,
-                "aniId": 122537,
-                "page": "MangaFire",
-                "title": "Ctrl+Z",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ctrlzz.29wn0/"
-            }
-        },
         "Weebcentral": {
             "01j76xygtrs084tjwxjma14c8s": {
+                "id": 207620,
                 "identifier": "01j76xygtrs084tjwxjma14c8s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGTRS084TJWXJMA14C8S.jpg",
                 "malId": 148699,
@@ -74,6 +56,19 @@
                 "title": "Ctrl+Z",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGTRS084TJWXJMA14C8S"
+            }
+        },
+        "MangaFire": {
+            "29wn0": {
+                "id": 227812,
+                "identifier": "29wn0",
+                "image": "https://static.mangafire.to/b63d/i/b/b3/b3884d97bee63478ec2d5466c1ad0137.jpg",
+                "malId": 148699,
+                "aniId": 122537,
+                "page": "MangaFire",
+                "title": "Ctrl+Z",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ctrlzz.29wn0"
             }
         }
     },

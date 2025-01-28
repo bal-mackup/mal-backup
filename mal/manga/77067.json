@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "24822751-8d66-4f90-9bbc-9af801482417": {
+                "id": 11212,
                 "identifier": "24822751-8d66-4f90-9bbc-9af801482417",
                 "image": "https://uploads.mangadex.org/covers/24822751-8d66-4f90-9bbc-9af801482417/6312a991-9577-4fdb-b045-41d174f0356e.jpg",
                 "malId": 77067,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "vampire-library": {
+                "id": 80028,
                 "identifier": "vampire-library",
                 "image": "https://temp.compsci88.com/cover/Vampire-Library.jpg",
                 "malId": 77067,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gb951684": {
+                "id": 80306,
                 "identifier": "manga-gb951684",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/d/1-1732717009-nw.webp",
                 "malId": 77067,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "vampire_library": {
+                "id": 84030,
                 "identifier": "vampire_library",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14041/cover.jpg",
                 "malId": 77067,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/vampire_library/"
             }
         },
-        "MangaFire": {
-            "vampire-library.6llx9": {
-                "identifier": "vampire-library.6llx9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69480af1ed4768e3297be64bc4e1fed2.jpg",
-                "malId": 77067,
-                "aniId": 92468,
-                "page": "MangaFire",
-                "title": "Vampire Library",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampire-library.6llx9/"
-            },
-            "6llx9": {
-                "identifier": "6llx9",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/69480af1ed4768e3297be64bc4e1fed2.jpg",
-                "malId": 77067,
-                "aniId": 92468,
-                "page": "MangaFire",
-                "title": "Vampire Library",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/vampire-library.6llx9/"
-            }
-        },
         "Weebcentral": {
             "01j76xybj1gmscrrwb5m7ypfgj": {
+                "id": 211197,
                 "identifier": "01j76xybj1gmscrrwb5m7ypfgj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBJ1GMSCRRWB5M7YPFGJ.jpg",
                 "malId": 77067,
@@ -86,6 +69,19 @@
                 "title": "Vampire Library",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBJ1GMSCRRWB5M7YPFGJ"
+            }
+        },
+        "MangaFire": {
+            "6llx9": {
+                "id": 234157,
+                "identifier": "6llx9",
+                "image": "https://static.mangafire.to/709e/i/6/69/69480af1ed4768e3297be64bc4e1fed2.jpg",
+                "malId": 77067,
+                "aniId": 92468,
+                "page": "MangaFire",
+                "title": "Vampire Library",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/vampire-libraryy.6llx9"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "829fc3a7-d4f4-42e9-9032-0917083f9e0d": {
+                "id": 32456,
                 "identifier": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
                 "image": "https://uploads.mangadex.org/covers/829fc3a7-d4f4-42e9-9032-0917083f9e0d/e4368bbd-a339-4091-8e32-141e9694d9b6.png",
                 "malId": 138533,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nan-hao-shang-feng": {
+                "id": 55424,
                 "identifier": "nan-hao-shang-feng",
                 "image": "https://temp.compsci88.com/cover/Nan-Hao-Shang-Feng.jpg",
                 "malId": 138533,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gh984242": {
+                "id": 74123,
                 "identifier": "manga-gh984242",
                 "image": "https://avt.mkklcdnv6temp.com/18/u/20-1583501748.jpg",
                 "malId": 138533,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-gh984242"
             }
         },
-        "MangaFire": {
-            "nan-hao-shang-feng.jvqmn": {
-                "identifier": "nan-hao-shang-feng.jvqmn",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/6491528d96a6e1f1f0acbe33d7995784.jpg",
-                "malId": 138533,
-                "aniId": 117324,
-                "page": "MangaFire",
-                "title": "Nan Hao & Shang Feng",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nan-hao-shang-feng.jvqmn/"
-            },
-            "nan-hao-shang-fengg.jvqmn": {
-                "identifier": "nan-hao-shang-fengg.jvqmn",
-                "image": "https://static.mangafire.to/3b2d5/i/6/64/6491528d96a6e1f1f0acbe33d7995784.jpg",
-                "malId": 138533,
-                "aniId": 117324,
-                "page": "MangaFire",
-                "title": "Nan Hao & Shang Feng",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nan-hao-shang-fengg.jvqmn/"
-            }
-        },
         "Weebcentral": {
             "01j76xye0p3drh0rbbwq8xnt59": {
+                "id": 210351,
                 "identifier": "01j76xye0p3drh0rbbwq8xnt59",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE0P3DRH0RBBWQ8XNT59.jpg",
                 "malId": 138533,
@@ -74,6 +56,19 @@
                 "title": "Nan Hao & Shang Feng",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE0P3DRH0RBBWQ8XNT59"
+            }
+        },
+        "MangaFire": {
+            "jvqmn": {
+                "id": 223919,
+                "identifier": "jvqmn",
+                "image": "https://static.mangafire.to/a169/i/6/64/6491528d96a6e1f1f0acbe33d7995784.jpg",
+                "malId": 138533,
+                "aniId": 117324,
+                "page": "MangaFire",
+                "title": "Nan Hao & Shang Feng",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nan-hao-shang-fengg.jvqmn"
             }
         },
         "Comick": {

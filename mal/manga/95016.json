@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e55a7036-1479-48aa-8127-942698de9530": {
+                "id": 14761,
                 "identifier": "e55a7036-1479-48aa-8127-942698de9530",
                 "image": "https://uploads.mangadex.org/covers/e55a7036-1479-48aa-8127-942698de9530/d9dbddf5-f1d0-429f-9576-9800f94d2a92.jpg",
                 "malId": 95016,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pop-team-epic": {
+                "id": 61073,
                 "identifier": "pop-team-epic",
                 "image": "https://temp.compsci88.com/cover/Pop-Team-Epic.jpg",
                 "malId": 95016,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-th970764": {
+                "id": 74390,
                 "identifier": "manga-th970764",
                 "image": "https://avt.mkklcdnv6temp.com/32/s/13-1583488912.jpg",
                 "malId": 95016,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "poputepipikku": {
+                "id": 95646,
                 "identifier": "poputepipikku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19407/cover.jpg",
                 "malId": 95016,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/poputepipikku/"
             }
         },
-        "MangaFire": {
-            "pop-team-epic.0rp27": {
-                "identifier": "pop-team-epic.0rp27",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15aa1baa9dd669f651a390b554f5c178.jpg",
-                "malId": 95016,
-                "aniId": 87005,
-                "page": "MangaFire",
-                "title": "Pop Team Epic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pop-team-epic.0rp27/"
-            },
-            "0rp27": {
-                "identifier": "0rp27",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15aa1baa9dd669f651a390b554f5c178.jpg",
-                "malId": 95016,
-                "aniId": 87005,
-                "page": "MangaFire",
-                "title": "Pop Team Epic",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pop-team-epic.0rp27/"
-            }
-        },
         "Weebcentral": {
             "01j76xye2rgqrakaa1t6mtheqd": {
+                "id": 210879,
                 "identifier": "01j76xye2rgqrakaa1t6mtheqd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE2RGQRAKAA1T6MTHEQD.jpg",
                 "malId": 95016,
@@ -86,6 +69,19 @@
                 "title": "Pop Team Epic",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE2RGQRAKAA1T6MTHEQD"
+            }
+        },
+        "MangaFire": {
+            "0rp27": {
+                "id": 254521,
+                "identifier": "0rp27",
+                "image": "https://static.mangafire.to/36c6/i/1/15/15aa1baa9dd669f651a390b554f5c178.jpg",
+                "malId": 95016,
+                "aniId": 87005,
+                "page": "MangaFire",
+                "title": "Pop Team Epic",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pop-team-epicc.0rp27"
             }
         },
         "Comick": {

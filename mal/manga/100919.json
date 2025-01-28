@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5ad442d7-83f3-4b32-b7b3-8d9331f02852": {
+                "id": 16208,
                 "identifier": "5ad442d7-83f3-4b32-b7b3-8d9331f02852",
                 "image": "https://uploads.mangadex.org/covers/5ad442d7-83f3-4b32-b7b3-8d9331f02852/7694b090-2cb3-40d6-aedd-aedf4f274ed7.jpg",
                 "malId": 100919,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "onideka": {
+                "id": 71609,
                 "identifier": "onideka",
                 "image": "https://temp.compsci88.com/cover/Onideka.jpg",
                 "malId": 100919,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vz972708": {
+                "id": 85316,
                 "identifier": "manga-vz972708",
                 "image": "https://avt.mkklcdnv6temp.com/19/d/14-1583490432.jpg",
                 "malId": 100919,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-vz972708"
             }
         },
-        "MangaFire": {
-            "oni-deka.m274p": {
-                "identifier": "oni-deka.m274p",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/67ef49d05200e4d1aced6f7bdf666603.jpg",
-                "malId": 100919,
-                "aniId": 99039,
-                "page": "MangaFire",
-                "title": "Onideka!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oni-deka.m274p/"
-            },
-            "m274p": {
-                "identifier": "m274p",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/67ef49d05200e4d1aced6f7bdf666603.jpg",
-                "malId": 100919,
-                "aniId": 99039,
-                "page": "MangaFire",
-                "title": "Onideka!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oni-deka.m274p/"
-            }
-        },
         "Weebcentral": {
             "01j76xybym2byym1qja296h0xt": {
+                "id": 212119,
                 "identifier": "01j76xybym2byym1qja296h0xt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYM2BYYM1QJA296H0XT.jpg",
                 "malId": 100919,
@@ -74,6 +56,19 @@
                 "title": "Onideka",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYM2BYYM1QJA296H0XT"
+            }
+        },
+        "MangaFire": {
+            "m274p": {
+                "id": 254677,
+                "identifier": "m274p",
+                "image": "https://static.mangafire.to/2fe3/i/6/67/67ef49d05200e4d1aced6f7bdf666603.jpg",
+                "malId": 100919,
+                "aniId": 99039,
+                "page": "MangaFire",
+                "title": "Onideka!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oni-dekaa.m274p"
             }
         },
         "Comick": {

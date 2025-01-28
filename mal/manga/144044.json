@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-nj990618": {
+                "id": 99979,
                 "identifier": "manga-nj990618",
                 "image": "https://avt.mkklcdnv6temp.com/32/c/25-1648264732.jpg",
                 "malId": 144044,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "7e51aec5-7df3-4961-aa8f-5645d34f8944": {
+                "id": 100630,
                 "identifier": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
                 "image": "https://uploads.mangadex.org/covers/7e51aec5-7df3-4961-aa8f-5645d34f8944/36a067bd-9730-4371-95fd-6b9bc6590268.jpg",
                 "malId": 144044,
@@ -30,6 +32,7 @@
                 "url": "https://mangadex.org/title/7e51aec5-7df3-4961-aa8f-5645d34f8944"
             },
             "5d13b733-7204-4870-b96a-cf69ba00475e": {
+                "id": 120196,
                 "identifier": "5d13b733-7204-4870-b96a-cf69ba00475e",
                 "image": "https://uploads.mangadex.org/covers/5d13b733-7204-4870-b96a-cf69ba00475e/20ed28f3-a0c6-46be-befc-096d2f8e6285.png",
                 "malId": 144044,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "thank-you-isekai": {
+                "id": 108560,
                 "identifier": "thank-you-isekai",
                 "image": "https://temp.compsci88.com/cover/Thank-You-Isekai.jpg",
                 "malId": 144044,
@@ -52,30 +56,9 @@
                 "url": "https://mangasee123.com/manga/Thank-You-Isekai"
             }
         },
-        "MangaFire": {
-            "isekai-arigatou.n3x4l": {
-                "identifier": "isekai-arigatou.n3x4l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd5e96b0252212666ebaf391dfa11bb2.jpg",
-                "malId": 144044,
-                "aniId": 142313,
-                "page": "MangaFire",
-                "title": "Thank You, Isekai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-arigatou.n3x4l/"
-            },
-            "isekai-arigatouu.n3x4l": {
-                "identifier": "isekai-arigatouu.n3x4l",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cd5e96b0252212666ebaf391dfa11bb2.jpg",
-                "malId": 144044,
-                "aniId": 142313,
-                "page": "MangaFire",
-                "title": "Thank You, Isekai!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-arigatouu.n3x4l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfhsdswbysa94c05sqvr": {
+                "id": 206613,
                 "identifier": "01j76xyfhsdswbysa94c05sqvr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFHSDSWBYSA94C05SQVR.jpg",
                 "malId": 144044,
@@ -84,6 +67,19 @@
                 "title": "Thank You, Isekai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFHSDSWBYSA94C05SQVR"
+            }
+        },
+        "MangaFire": {
+            "n3x4l": {
+                "id": 225961,
+                "identifier": "n3x4l",
+                "image": "https://static.mangafire.to/a36f/i/c/cd/cd5e96b0252212666ebaf391dfa11bb2.jpg",
+                "malId": 144044,
+                "aniId": 142313,
+                "page": "MangaFire",
+                "title": "Thank You, Isekai!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-arigatouu.n3x4l"
             }
         },
         "Comick": {

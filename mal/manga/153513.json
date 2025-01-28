@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a03f4591-e4ef-4560-80d9-81ac64db4f64": {
+                "id": 178794,
                 "identifier": "a03f4591-e4ef-4560-80d9-81ac64db4f64",
                 "image": "https://uploads.mangadex.org/covers/a03f4591-e4ef-4560-80d9-81ac64db4f64/456df93b-71a3-4e74-b616-d493db328ed6.jpg",
                 "malId": 153513,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/a03f4591-e4ef-4560-80d9-81ac64db4f64"
             }
         },
-        "MangaFire": {
-            "yotsugo-gurashi.zx3kw": {
-                "identifier": "yotsugo-gurashi.zx3kw",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a7c72bcd38019fa2d8d0cdad31ed6a4.jpg",
-                "malId": 153513,
-                "aniId": 138935,
-                "page": "MangaFire",
-                "title": "Yotsugo Gurashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yotsugo-gurashi.zx3kw/"
-            }
-        },
         "MangaNato": {
             "manga-wy1000207": {
+                "id": 180236,
                 "identifier": "manga-wy1000207",
                 "image": "https://avt.mkklcdnv6temp.com/fld/60/g/16-1733317454-nw.webp",
                 "malId": 153513,
@@ -40,6 +30,19 @@
                 "title": "Yotsugogurashi",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-wy1000207"
+            }
+        },
+        "MangaFire": {
+            "zx3kw": {
+                "id": 238397,
+                "identifier": "zx3kw",
+                "image": "https://static.mangafire.to/affb/i/0/0a/0a7c72bcd38019fa2d8d0cdad31ed6a4.jpg",
+                "malId": 153513,
+                "aniId": 138935,
+                "page": "MangaFire",
+                "title": "Yotsugo Gurashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yotsugo-gurashii.zx3kw"
             }
         },
         "Comick": {

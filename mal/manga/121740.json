@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6ddd14d8-93fe-414b-b682-fe8d92d3c9cf": {
+                "id": 30605,
                 "identifier": "6ddd14d8-93fe-414b-b682-fe8d92d3c9cf",
                 "image": "https://uploads.mangadex.org/covers/6ddd14d8-93fe-414b-b682-fe8d92d3c9cf/e3579c04-9236-4c19-b175-d787267f92f2.jpg",
                 "malId": 121740,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kimi-no-okasan-o-boku-ni-kudasai": {
+                "id": 55226,
                 "identifier": "kimi-no-okasan-o-boku-ni-kudasai",
                 "image": "https://temp.compsci88.com/cover/Kimi-no-Okasan-o-Boku-ni-Kudasai.jpg",
                 "malId": 121740,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kimi_no_okasan_o_boku_ni_kudasai": {
+                "id": 61595,
                 "identifier": "kimi_no_okasan_o_boku_ni_kudasai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31654/cover.jpg",
                 "malId": 121740,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/kimi_no_okasan_o_boku_ni_kudasai/"
             },
             "kimi_no_okaa_san_o_boku_ni_kudasai": {
+                "id": 86355,
                 "identifier": "kimi_no_okaa_san_o_boku_ni_kudasai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38849/cover.jpg",
                 "malId": 121740,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-fl983068": {
+                "id": 74130,
                 "identifier": "manga-fl983068",
                 "image": "https://avt.mkklcdnv6temp.com/24/w/19-1583500089.jpg",
                 "malId": 121740,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-fl983068"
             },
             "manga-lg989289": {
+                "id": 82109,
                 "identifier": "manga-lg989289",
                 "image": "https://avt.mkklcdnv6temp.com/24/p/24-1626431482.jpg",
                 "malId": 121740,
@@ -74,30 +80,9 @@
                 "url": "https://manganato.com/manga-lg989289"
             }
         },
-        "MangaFire": {
-            "kimi-no-okaasan-wo-boku-ni-kudasai.qx86v": {
-                "identifier": "kimi-no-okaasan-wo-boku-ni-kudasai.qx86v",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/489f03be7ebfec0807e181fbe1792e7d.jpg",
-                "malId": 121740,
-                "aniId": 111477,
-                "page": "MangaFire",
-                "title": "I want your mother to be with me!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-okaasan-wo-boku-ni-kudasai.qx86v/"
-            },
-            "kimi-no-okaasan-wo-boku-ni-kudasaii.qx86v": {
-                "identifier": "kimi-no-okaasan-wo-boku-ni-kudasaii.qx86v",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/489f03be7ebfec0807e181fbe1792e7d.jpg",
-                "malId": 121740,
-                "aniId": 111477,
-                "page": "MangaFire",
-                "title": "I want your mother to be with me!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-okaasan-wo-boku-ni-kudasaii.qx86v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd6506q94x795t3eka1p": {
+                "id": 212167,
                 "identifier": "01j76xyd6506q94x795t3eka1p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD6506Q94X795T3EKA1P.jpg",
                 "malId": 121740,
@@ -106,6 +91,19 @@
                 "title": "Kimi no Okasan o Boku Ni Kudasai!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD6506Q94X795T3EKA1P"
+            }
+        },
+        "MangaFire": {
+            "qx86v": {
+                "id": 226240,
+                "identifier": "qx86v",
+                "image": "https://static.mangafire.to/133c/i/4/48/489f03be7ebfec0807e181fbe1792e7d.jpg",
+                "malId": 121740,
+                "aniId": 111477,
+                "page": "MangaFire",
+                "title": "I want your mother to be with me!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-no-okaasan-wo-boku-ni-kudasaii.qx86v"
             }
         },
         "Comick": {

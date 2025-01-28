@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d79f3680-8bae-4950-b7c2-30c339156229": {
+                "id": 24797,
                 "identifier": "d79f3680-8bae-4950-b7c2-30c339156229",
                 "image": "https://uploads.mangadex.org/covers/d79f3680-8bae-4950-b7c2-30c339156229/9e7f621a-17f4-4027-9ec9-10964478f47a.jpg",
                 "malId": 119377,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/d79f3680-8bae-4950-b7c2-30c339156229"
             }
         },
-        "MangaFire": {
-            "secchan.929lq": {
-                "identifier": "secchan.929lq",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a7d6da8871ba4605f66a656c7a731e7.jpg",
-                "malId": 119377,
-                "aniId": 114543,
-                "page": "MangaFire",
-                "title": "Secchan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/secchan.929lq/"
-            }
-        },
         "MangaNato": {
             "manga-xo1000449": {
+                "id": 180234,
                 "identifier": "manga-xo1000449",
                 "image": "https://avt.mkklcdnv6temp.com/fld/69/n/16-1733318209-nw.webp",
                 "malId": 119377,
@@ -40,6 +30,19 @@
                 "title": "Secchan",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xo1000449"
+            }
+        },
+        "MangaFire": {
+            "929lq": {
+                "id": 246756,
+                "identifier": "929lq",
+                "image": "https://static.mangafire.to/c50d/i/2/2a/2a7d6da8871ba4605f66a656c7a731e7.jpg",
+                "malId": 119377,
+                "aniId": 114543,
+                "page": "MangaFire",
+                "title": "Secchan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/secchann.929lq"
             }
         },
         "Comick": {

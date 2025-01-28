@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2177b7e5-6ac8-4feb-bb50-59fa5bc27a99": {
+                "id": 37852,
                 "identifier": "2177b7e5-6ac8-4feb-bb50-59fa5bc27a99",
                 "image": "https://uploads.mangadex.org/covers/2177b7e5-6ac8-4feb-bb50-59fa5bc27a99/94c19578-e348-4693-924f-2a159b79ccfd.jpg",
                 "malId": 144353,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/2177b7e5-6ac8-4feb-bb50-59fa5bc27a99"
             }
         },
-        "MangaFire": {
-            "neko-to-ryuu.zl38w": {
-                "identifier": "neko-to-ryuu.zl38w",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ca/ca434dfeebbd66ea97f311296aa0d104.jpg",
-                "malId": 144353,
-                "aniId": 117942,
-                "page": "MangaFire",
-                "title": "The Cat and the Dragon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neko-to-ryuu.zl38w/"
-            }
-        },
         "MangaNato": {
             "manga-zb1003084": {
+                "id": 193960,
                 "identifier": "manga-zb1003084",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/m/17-1733325470-nw.webp",
                 "malId": 144353,
@@ -40,6 +30,19 @@
                 "title": "Neko To Ryuu",
                 "type": "manga",
                 "url": "https://manganato.com/manga-zb1003084"
+            }
+        },
+        "MangaFire": {
+            "zl38w": {
+                "id": 249004,
+                "identifier": "zl38w",
+                "image": "https://static.mangafire.to/6d4a/i/c/ca/ca434dfeebbd66ea97f311296aa0d104.jpg",
+                "malId": 144353,
+                "aniId": 117942,
+                "page": "MangaFire",
+                "title": "The Cat and the Dragon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neko-to-ryuuu.zl38w"
             }
         },
         "Comick": {

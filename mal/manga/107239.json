@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "62608082-d81d-4513-af7d-ae3ffe2423d2": {
+                "id": 17707,
                 "identifier": "62608082-d81d-4513-af7d-ae3ffe2423d2",
-                "image": "https://uploads.mangadex.org/covers/62608082-d81d-4513-af7d-ae3ffe2423d2/8a3491cd-8d3c-4788-b621-d1e45dd6902a.jpg",
+                "image": "https://uploads.mangadex.org/covers/62608082-d81d-4513-af7d-ae3ffe2423d2/4970fb9e-20ee-45c6-8b99-4330ac0e47f0.jpg",
                 "malId": 107239,
                 "aniId": 98889,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "maiko_san_chi_no_makanai_san": {
+                "id": 62141,
                 "identifier": "maiko_san_chi_no_makanai_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25285/cover.jpg",
                 "malId": 107239,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "maiko-san-chi-no-makanaisan": {
+                "id": 64700,
                 "identifier": "maiko-san-chi-no-makanaisan",
                 "image": "https://temp.compsci88.com/cover/Maiko-san-Chi-no-Makanaisan.jpg",
                 "malId": 107239,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zv976404": {
+                "id": 74252,
                 "identifier": "manga-zv976404",
                 "image": "https://avt.mkklcdnv6temp.com/25/b/15-1583492356.jpg",
                 "malId": 107239,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zv976404"
             }
         },
-        "MangaFire": {
-            "kiyo-in-kyoto-from-the-maiko-house.yqp1j": {
-                "identifier": "kiyo-in-kyoto-from-the-maiko-house.yqp1j",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/688b4b8008d1ae284fee07737aa21daa.jpg",
-                "malId": 107239,
-                "aniId": 98889,
-                "page": "MangaFire",
-                "title": "Kiyo in Kyoto: From the Maiko House",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiyo-in-kyoto-from-the-maiko-house.yqp1j/"
-            },
-            "kiyo-in-kyoto-from-the-maiko-housee.yqp1j": {
-                "identifier": "kiyo-in-kyoto-from-the-maiko-housee.yqp1j",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/688b4b8008d1ae284fee07737aa21daa.jpg",
-                "malId": 107239,
-                "aniId": 98889,
-                "page": "MangaFire",
-                "title": "Kiyo in Kyoto: From the Maiko House",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiyo-in-kyoto-from-the-maiko-housee.yqp1j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyee1am8wgcafkcgrc6bb": {
+                "id": 212235,
                 "identifier": "01j76xyee1am8wgcafkcgrc6bb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEE1AM8WGCAFKCGRC6BB.jpg",
                 "malId": 107239,
@@ -86,6 +69,19 @@
                 "title": "Maiko-san Chi no Makanai-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEE1AM8WGCAFKCGRC6BB"
+            }
+        },
+        "MangaFire": {
+            "yqp1j": {
+                "id": 226091,
+                "identifier": "yqp1j",
+                "image": "https://static.mangafire.to/6d4b/i/6/68/688b4b8008d1ae284fee07737aa21daa.jpg",
+                "malId": 107239,
+                "aniId": 98889,
+                "page": "MangaFire",
+                "title": "Kiyo in Kyoto: From the Maiko House",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kiyo-in-kyoto-from-the-maiko-housee.yqp1j"
             }
         },
         "Comick": {

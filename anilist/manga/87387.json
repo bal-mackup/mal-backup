@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "885d548d-d238-472a-a1bd-44d51d484685": {
+                "id": 16193,
                 "identifier": "885d548d-d238-472a-a1bd-44d51d484685",
                 "image": "https://uploads.mangadex.org/covers/885d548d-d238-472a-a1bd-44d51d484685/25d1366e-255e-4ff3-b66b-0f9fce5800d9.png",
                 "malId": 92632,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "suzuki_san_wa_tada_shizuka_ni_kurashitai": {
+                "id": 55358,
                 "identifier": "suzuki_san_wa_tada_shizuka_ni_kurashitai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21119/cover.jpg",
                 "malId": 92632,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "suzuki-just-wants-a-quiet-life": {
+                "id": 57219,
                 "identifier": "suzuki-just-wants-a-quiet-life",
                 "image": "https://temp.compsci88.com/cover/Suzuki-Just-Wants-a-Quiet-Life.jpg",
                 "malId": 92632,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ui972265": {
+                "id": 109340,
                 "identifier": "manga-ui972265",
                 "image": "https://avt.mkklcdnv6temp.com/fld/60/e/7-1732786020-nw.webp",
                 "malId": 92632,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-ui972265"
             }
         },
-        "MangaFire": {
-            "suzuki-san-wa-tada-shizuka-ni-kurashitai.kw4z4": {
-                "identifier": "suzuki-san-wa-tada-shizuka-ni-kurashitai.kw4z4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/05/052e60022c5eca5b72c581bafdfdbd59.jpg",
-                "malId": 92632,
-                "aniId": 87387,
-                "page": "MangaFire",
-                "title": "Suzuki Just Wants a Quiet Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suzuki-san-wa-tada-shizuka-ni-kurashitai.kw4z4/"
-            },
-            "suzuki-san-wa-tada-shizuka-ni-kurashitaii.kw4z4": {
-                "identifier": "suzuki-san-wa-tada-shizuka-ni-kurashitaii.kw4z4",
-                "image": "https://static.mangafire.to/bafd/i/0/05/052e60022c5eca5b72c581bafdfdbd59.jpg",
-                "malId": 92632,
-                "aniId": 87387,
-                "page": "MangaFire",
-                "title": "Suzuki Just Wants a Quiet Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suzuki-san-wa-tada-shizuka-ni-kurashitaii.kw4z4/"
-            },
-            "kw4z4": {
-                "identifier": "kw4z4",
-                "image": "https://static.mangafire.to/bafd/i/0/05/052e60022c5eca5b72c581bafdfdbd59.jpg",
-                "malId": 92632,
-                "aniId": 87387,
-                "page": "MangaFire",
-                "title": "Suzuki Just Wants a Quiet Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suzuki-san-wa-tada-shizuka-ni-kurashitaii.kw4z4/"
-            }
-        },
         "Weebcentral": {
             "01j76xydk3kpaj58fc867rtmdm": {
+                "id": 210462,
                 "identifier": "01j76xydk3kpaj58fc867rtmdm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDK3KPAJ58FC867RTMDM.jpg",
                 "malId": 92632,
@@ -96,6 +69,19 @@
                 "title": "Suzuki Just Wants a Quiet Life",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDK3KPAJ58FC867RTMDM"
+            }
+        },
+        "MangaFire": {
+            "kw4z4": {
+                "id": 223406,
+                "identifier": "kw4z4",
+                "image": "https://static.mangafire.to/bafd/i/0/05/052e60022c5eca5b72c581bafdfdbd59.jpg",
+                "malId": 92632,
+                "aniId": 87387,
+                "page": "MangaFire",
+                "title": "Suzuki Just Wants a Quiet Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/suzuki-san-wa-tada-shizuka-ni-kurashitaii.kw4z4"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "658eb912-1508-42a3-b3c1-a9838ebe7718": {
+                "id": 11235,
                 "identifier": "658eb912-1508-42a3-b3c1-a9838ebe7718",
                 "image": "https://uploads.mangadex.org/covers/658eb912-1508-42a3-b3c1-a9838ebe7718/1f11ffbb-f7c1-4528-9ee7-4838b475b6a6.jpg",
                 "malId": 73531,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "totsuzen-desu-ga-ashita-kekkon-shimasu": {
+                "id": 61276,
                 "identifier": "totsuzen-desu-ga-ashita-kekkon-shimasu",
                 "image": "https://temp.compsci88.com/cover/Totsuzen-Desu-Ga-Ashita-Kekkon-Shimasu.jpg",
                 "malId": 73531,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "totsuzen_desu_ga_ashita_kekkon_shimasu": {
+                "id": 67002,
                 "identifier": "totsuzen_desu_ga_ashita_kekkon_shimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15223/cover.jpg",
                 "malId": 73531,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xb952110": {
+                "id": 86372,
                 "identifier": "manga-xb952110",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/y/1-1732717588-nw.webp",
                 "malId": 73531,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xb952110"
             }
         },
-        "MangaFire": {
-            "totsuzen-desu-ga-ashita-kekkon-shimasu.2oqw4": {
-                "identifier": "totsuzen-desu-ga-ashita-kekkon-shimasu.2oqw4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4be64e4d0faed5025412ab572b8a89.jpg",
-                "malId": 73531,
-                "aniId": 86002,
-                "page": "MangaFire",
-                "title": "Everyone's Getting Married",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsuzen-desu-ga-ashita-kekkon-shimasu.2oqw4/"
-            },
-            "totsuzen-desu-ga-ashita-kekkon-shimasuu.2oqw4": {
-                "identifier": "totsuzen-desu-ga-ashita-kekkon-shimasuu.2oqw4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4be64e4d0faed5025412ab572b8a89.jpg",
-                "malId": 73531,
-                "aniId": 86002,
-                "page": "MangaFire",
-                "title": "Everyone's Getting Married",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsuzen-desu-ga-ashita-kekkon-shimasuu.2oqw4/"
-            },
-            "2oqw4": {
-                "identifier": "2oqw4",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d4be64e4d0faed5025412ab572b8a89.jpg",
-                "malId": 73531,
-                "aniId": 86002,
-                "page": "MangaFire",
-                "title": "Everyone's Getting Married",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsuzen-desu-ga-ashita-kekkon-shimasu.2oqw4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb78srx475091xxfnkdn": {
+                "id": 209137,
                 "identifier": "01j76xyb78srx475091xxfnkdn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB78SRX475091XXFNKDN.jpg",
                 "malId": 73531,
@@ -96,6 +69,19 @@
                 "title": "Everyone's Getting Married",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB78SRX475091XXFNKDN"
+            }
+        },
+        "MangaFire": {
+            "2oqw4": {
+                "id": 245468,
+                "identifier": "2oqw4",
+                "image": "https://static.mangafire.to/9914/i/5/5d/5d4be64e4d0faed5025412ab572b8a89.jpg",
+                "malId": 73531,
+                "aniId": 86002,
+                "page": "MangaFire",
+                "title": "Everyone's Getting Married",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/totsuzen-desu-ga-ashita-kekkon-shimasuu.2oqw4"
             }
         },
         "Comick": {

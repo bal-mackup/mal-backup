@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b05825a3-9d8e-45bc-a45a-1fe065186b83": {
+                "id": 126567,
                 "identifier": "b05825a3-9d8e-45bc-a45a-1fe065186b83",
                 "image": "https://uploads.mangadex.org/covers/b05825a3-9d8e-45bc-a45a-1fe065186b83/13942a8c-cfdc-4eb8-9704-68b309449b47.jpg",
                 "malId": 156749,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rk994819": {
+                "id": 126575,
                 "identifier": "manga-rk994819",
                 "image": "https://avt.mkklcdnv6temp.com/3/e/29-1678420547.jpg",
                 "malId": 156749,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rk994819"
             }
         },
-        "MangaFire": {
-            "filter-goshi-no-kanojo.37w5y": {
-                "identifier": "filter-goshi-no-kanojo.37w5y",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/6cabf1942fbb8b449cb708235e9738d4.jpg",
-                "malId": 156749,
-                "aniId": 148025,
-                "page": "MangaFire",
-                "title": "Secret Girl Through the Filter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/filter-goshi-no-kanojo.37w5y/"
-            },
-            "filter-goshi-no-kanojoo.37w5y": {
-                "identifier": "filter-goshi-no-kanojoo.37w5y",
-                "image": "https://static.mangafire.to/3b2d5/i/3/32/6cabf1942fbb8b449cb708235e9738d4.jpg",
-                "malId": 156749,
-                "aniId": 148025,
-                "page": "MangaFire",
-                "title": "Secret Girl Through the Filter",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/filter-goshi-no-kanojoo.37w5y/"
-            }
-        },
         "MangaSee": {
             "filter-goshi-no-kanojo": {
+                "id": 156133,
                 "identifier": "filter-goshi-no-kanojo",
                 "image": "https://temp.compsci88.com/cover/Filter-Goshi-no-Kanojo.jpg",
                 "malId": 156749,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg3p7mvh6k8ks2xra9a1": {
+                "id": 213631,
                 "identifier": "01j76xyg3p7mvh6k8ks2xra9a1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG3P7MVH6K8KS2XRA9A1.jpg",
                 "malId": 156749,
@@ -74,6 +56,19 @@
                 "title": "Filter-Goshi no Kanojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG3P7MVH6K8KS2XRA9A1"
+            }
+        },
+        "MangaFire": {
+            "37w5y": {
+                "id": 224470,
+                "identifier": "37w5y",
+                "image": "https://static.mangafire.to/a344/i/3/32/6cabf1942fbb8b449cb708235e9738d4.jpg",
+                "malId": 156749,
+                "aniId": 148025,
+                "page": "MangaFire",
+                "title": "Secret Girl Through the Filter",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/filter-goshi-no-kanojoo.37w5y"
             }
         },
         "Comick": {

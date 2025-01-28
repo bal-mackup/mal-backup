@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fdb14889-59ef-48dd-a883-7558f04c2060": {
+                "id": 27711,
                 "identifier": "fdb14889-59ef-48dd-a883-7558f04c2060",
                 "image": "https://uploads.mangadex.org/covers/fdb14889-59ef-48dd-a883-7558f04c2060/549bd724-1f1d-4d36-bbb4-e448ca151593.jpg",
                 "malId": 121461,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "ryoumin_0_nin_start_no_henkyou_ryoushusama": {
+                "id": 62440,
                 "identifier": "ryoumin_0_nin_start_no_henkyou_ryoushusama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31328/cover.jpg",
                 "malId": 121461,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ryoumin-0-nin-start-no-henkyou-ryoushusama": {
+                "id": 64310,
                 "identifier": "ryoumin-0-nin-start-no-henkyou-ryoushusama",
                 "image": "https://temp.compsci88.com/cover/Ryoumin-0-nin-Start-no-Henkyou-Ryoushusama.jpg",
                 "malId": 121461,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fx982806": {
+                "id": 74249,
                 "identifier": "manga-fx982806",
                 "image": "https://avt.mkklcdnv6temp.com/15/b/19-1583499670.jpg",
                 "malId": 121461,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fx982806"
             }
         },
-        "MangaFire": {
-            "ryoumin-0-nin-start-no-henkyou-ryoushusama.jvj83": {
-                "identifier": "ryoumin-0-nin-start-no-henkyou-ryoushusama.jvj83",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/67195eeb3db0fc806b28bb7b4efb19a7.jpg",
-                "malId": 121461,
-                "aniId": 106770,
-                "page": "MangaFire",
-                "title": "The Frontier Lord Begins with Zero Subjects - Tales of Blue Dias and the Onikin Alna",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryoumin-0-nin-start-no-henkyou-ryoushusama.jvj83/"
-            },
-            "ryoumin-0-nin-start-no-henkyou-ryoushusamaa.jvj83": {
-                "identifier": "ryoumin-0-nin-start-no-henkyou-ryoushusamaa.jvj83",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/67195eeb3db0fc806b28bb7b4efb19a7.jpg",
-                "malId": 121461,
-                "aniId": 106770,
-                "page": "MangaFire",
-                "title": "The Frontier Lord Begins with Zero Subjects - Tales of Blue Dias and the Onikin Alna",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ryoumin-0-nin-start-no-henkyou-ryoushusamaa.jvj83/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd396khvfxr5btdscv88": {
+                "id": 207920,
                 "identifier": "01j76xyd396khvfxr5btdscv88",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD396KHVFXR5BTDSCV88.jpg",
                 "malId": 121461,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYD396KHVFXR5BTDSCV88"
             }
         },
+        "MangaFire": {
+            "jvj83": {
+                "id": 225970,
+                "identifier": "jvj83",
+                "image": "https://static.mangafire.to/48cf/i/6/67/67195eeb3db0fc806b28bb7b4efb19a7.jpg",
+                "malId": 121461,
+                "aniId": 106770,
+                "page": "MangaFire",
+                "title": "The Frontier Lord Begins with Zero Subjects - Tales of Blue Dias and the Onikin Alna",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ryoumin-0-nin-start-no-henkyou-ryoushusamaa.jvj83"
+            }
+        },
         "Comick": {
             "OIaUdqB4": {
                 "identifier": "OIaUdqB4",
                 "malId": 121461,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
+                "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama ~Ao no Dias to Soukaku no Otome~",
                 "url": "https://comick.io/comic/ryoumin-0-nin-start-no-henkyou-ryoushusama-jz4769wf",
                 "aniId": 106770
             }

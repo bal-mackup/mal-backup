@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b8b7aeec-a0fb-4f8f-a917-36732159b99f": {
+                "id": 91045,
                 "identifier": "b8b7aeec-a0fb-4f8f-a917-36732159b99f",
                 "image": "https://uploads.mangadex.org/covers/b8b7aeec-a0fb-4f8f-a917-36732159b99f/27cffa2d-0907-47a0-b08a-b20791460338.jpg",
                 "malId": 147544,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-tx996480": {
+                "id": 158675,
                 "identifier": "manga-tx996480",
                 "image": "https://avt.mkklcdnv6temp.com/fld/18/c/15-1733307658-nw.webp",
                 "malId": 147544,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kita": {
+                "id": 168060,
                 "identifier": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kita",
                 "image": "https://temp.compsci88.com/cover/Chotto-Dake-ai-ga-Omoi-Dark-Elf-ga-Isekai-Kara-Oikakete-Kita.jpg",
                 "malId": 147544,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Chotto-Dake-ai-ga-Omoi-Dark-Elf-ga-Isekai-Kara-Oikakete-Kita"
             }
         },
-        "MangaFire": {
-            "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kita.zxzjm": {
-                "identifier": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kita.zxzjm",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/827f0ae01cff1f9d823eccdb8e9a0dec.jpg",
-                "malId": 147544,
-                "aniId": 139611,
-                "page": "MangaFire",
-                "title": "Chotto Dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kita.zxzjm/"
-            },
-            "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kitaa.zxzjm": {
-                "identifier": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kitaa.zxzjm",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/827f0ae01cff1f9d823eccdb8e9a0dec.jpg",
-                "malId": 147544,
-                "aniId": 139611,
-                "page": "MangaFire",
-                "title": "Chotto Dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kitaa.zxzjm/"
-            }
-        },
         "Weebcentral": {
             "01j76xygfdt21x0j263c8zmwc2": {
+                "id": 210212,
                 "identifier": "01j76xygfdt21x0j263c8zmwc2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGFDT21X0J263C8ZMWC2.jpg",
                 "malId": 147544,
@@ -76,13 +58,26 @@
                 "url": "https://weebcentral.com/series/01J76XYGFDT21X0J263C8ZMWC2"
             }
         },
+        "MangaFire": {
+            "zxzjm": {
+                "id": 229465,
+                "identifier": "zxzjm",
+                "image": "https://static.mangafire.to/b7a6/i/8/82/827f0ae01cff1f9d823eccdb8e9a0dec.jpg",
+                "malId": 147544,
+                "aniId": 139611,
+                "page": "MangaFire",
+                "title": "Chotto Dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kitaa.zxzjm"
+            }
+        },
         "Comick": {
             "p95Z0IjU": {
                 "identifier": "p95Z0IjU",
                 "malId": 147544,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Chotto Dake Ai ga Omoi Dark Elf ga Isekai Kara Oikakete Kita",
+                "title": "Chotto Dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
                 "url": "https://comick.io/comic/chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikakete-kita",
                 "aniId": 139611
             }

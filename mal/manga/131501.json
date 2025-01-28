@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "37e8bcef-918f-4220-ac81-53f3a5919304": {
+                "id": 52138,
                 "identifier": "37e8bcef-918f-4220-ac81-53f3a5919304",
                 "image": "https://uploads.mangadex.org/covers/37e8bcef-918f-4220-ac81-53f3a5919304/689204e5-812f-41e9-8ff9-ddc944f9cb48.jpg",
                 "malId": 131501,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lu988403": {
+                "id": 76401,
                 "identifier": "manga-lu988403",
                 "image": "https://avt.mkklcdnv6temp.com/37/j/23-1614877073.jpg",
                 "malId": 131501,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "noraneko_to_ookami": {
+                "id": 86362,
                 "identifier": "noraneko_to_ookami",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36502/cover.jpg",
                 "malId": 131501,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/noraneko_to_ookami/"
             }
         },
-        "MangaFire": {
-            "noraneko-to-ookami.kwxl4": {
-                "identifier": "noraneko-to-ookami.kwxl4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c6/c6083f2f47cc7972b2fafd22a4106edc.jpg",
-                "malId": 131501,
-                "aniId": 121647,
-                "page": "MangaFire",
-                "title": "Stray Cat and Wolf",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/noraneko-to-ookami.kwxl4/"
-            }
-        },
         "MangaSee": {
             "stray-cat-wolf": {
+                "id": 170334,
                 "identifier": "stray-cat-wolf",
                 "image": "https://temp.compsci88.com/cover/Stray-Cat-Wolf.jpg",
                 "malId": 131501,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygh2vbr28jf71hx68xet": {
+                "id": 209190,
                 "identifier": "01j76xygh2vbr28jf71hx68xet",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGH2VBR28JF71HX68XET.jpg",
                 "malId": 131501,
@@ -76,6 +69,19 @@
                 "title": "Stray Cat & Wolf",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGH2VBR28JF71HX68XET"
+            }
+        },
+        "MangaFire": {
+            "kwxl4": {
+                "id": 254861,
+                "identifier": "kwxl4",
+                "image": "https://static.mangafire.to/c621/i/c/c6/c6083f2f47cc7972b2fafd22a4106edc.jpg",
+                "malId": 131501,
+                "aniId": 121647,
+                "page": "MangaFire",
+                "title": "Stray Cat and Wolf",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/noraneko-to-ookamii.kwxl4"
             }
         },
         "Comick": {

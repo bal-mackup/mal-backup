@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4a4d2e5f-c4f4-47e3-9725-133bd5869c05": {
+                "id": 114817,
                 "identifier": "4a4d2e5f-c4f4-47e3-9725-133bd5869c05",
                 "image": "https://uploads.mangadex.org/covers/4a4d2e5f-c4f4-47e3-9725-133bd5869c05/d2e95ff6-e585-4e7e-9b90-1ad1e0cad145.jpg",
                 "malId": 152087,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qa993935": {
+                "id": 124130,
                 "identifier": "manga-qa993935",
                 "image": "https://avt.mkklcdnv6temp.com/18/d/28-1675773419.jpg",
                 "malId": 152087,
@@ -30,40 +32,9 @@
                 "url": "https://manganato.com/manga-qa993935"
             }
         },
-        "MangaFire": {
-            "rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru.9o1wq": {
-                "identifier": "rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru.9o1wq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/55b2e9809b9ecdc729b528bb0f8dd9e3.jpg",
-                "malId": 152087,
-                "aniId": 154877,
-                "page": "MangaFire",
-                "title": "Rabukome Manga ni Haitte Shimatta no de, Oshi no Make Heroine wo Zenryoku de Shiawase ni suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru.9o1wq/"
-            },
-            "Since-Ive-Entered-the-World-of-Romantic-Comedy-Manga-Ill-Do-My-Best-to-Make-the-Losing-Heroine-Happy.9o1wq": {
-                "identifier": "Since-Ive-Entered-the-World-of-Romantic-Comedy-Manga-Ill-Do-My-Best-to-Make-the-Losing-Heroine-Happy.9o1wq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/55b2e9809b9ecdc729b528bb0f8dd9e3.jpg",
-                "malId": 152087,
-                "aniId": 154877,
-                "page": "MangaFire",
-                "title": "Rabukome Manga ni Haitte Shimatta no de, Oshi no Make Heroine wo Zenryoku de Shiawase ni suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Since-Ive-Entered-the-World-of-Romantic-Comedy-Manga-Ill-Do-My-Best-to-Make-the-Losing-Heroine-Happy.9o1wq/"
-            },
-            "rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suruu.9o1wq": {
-                "identifier": "rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suruu.9o1wq",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/55b2e9809b9ecdc729b528bb0f8dd9e3.jpg",
-                "malId": 152087,
-                "aniId": 154877,
-                "page": "MangaFire",
-                "title": "Rabukome Manga ni Haitte Shimatta no de, Oshi no Make Heroine wo Zenryoku de Shiawase ni suru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suruu.9o1wq/"
-            }
-        },
         "MangaSee": {
             "rabukome-manga-ni-haitte-shimatta-no-de": {
+                "id": 166702,
                 "identifier": "rabukome-manga-ni-haitte-shimatta-no-de",
                 "image": "https://temp.compsci88.com/cover/Rabukome-Manga-ni-Haitte-Shimatta-no-de.jpg",
                 "malId": 152087,
@@ -76,6 +47,7 @@
         },
         "MangaFox": {
             "romcom_manga_ni_haitte_shimatta_no_de": {
+                "id": 181191,
                 "identifier": "romcom_manga_ni_haitte_shimatta_no_de",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45419/cover.jpg",
                 "malId": 152087,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyge8m7pdty8qsy5byqbf": {
+                "id": 207649,
                 "identifier": "01j76xyge8m7pdty8qsy5byqbf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGE8M7PDTY8QSY5BYQBF.jpg",
                 "malId": 152087,
@@ -96,6 +69,19 @@
                 "title": "Rabukome Manga ni Haitte Shimatta no de",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGE8M7PDTY8QSY5BYQBF"
+            }
+        },
+        "MangaFire": {
+            "9o1wq": {
+                "id": 225142,
+                "identifier": "9o1wq",
+                "image": "https://static.mangafire.to/beca/i/5/55/55b2e9809b9ecdc729b528bb0f8dd9e3.jpg",
+                "malId": 152087,
+                "aniId": 154877,
+                "page": "MangaFire",
+                "title": "Rabukome Manga ni Haitte Shimatta no de, Oshi no Make Heroine wo Zenryoku de Shiawase ni suru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rabukome-manga-ni-haitte-shimatta-no-de-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suruu.9o1wq"
             }
         },
         "Comick": {

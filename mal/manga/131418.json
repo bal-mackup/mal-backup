@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "04faab35-5107-4406-9d1b-63d3de9c4f2c": {
+                "id": 50821,
                 "identifier": "04faab35-5107-4406-9d1b-63d3de9c4f2c",
                 "image": "https://uploads.mangadex.org/covers/04faab35-5107-4406-9d1b-63d3de9c4f2c/c912b460-c1f0-4417-8256-542ee0bfdee2.jpg",
                 "malId": 131418,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/04faab35-5107-4406-9d1b-63d3de9c4f2c"
             }
         },
-        "MangaFire": {
-            "ore-no-aoharu-wa-watasanai.prorx": {
-                "identifier": "ore-no-aoharu-wa-watasanai.prorx",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f5c8f109aeb3983b408413ba9c17e027.jpg",
-                "malId": 131418,
-                "aniId": 125531,
-                "page": "MangaFire",
-                "title": "Ore no Aoharu wa Watasanai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ore-no-aoharu-wa-watasanai.prorx/"
-            }
-        },
         "MangaNato": {
             "manga-ld988738": {
+                "id": 182912,
                 "identifier": "manga-ld988738",
                 "image": "https://avt.mkklcdnv6temp.com/fld/29/b/12-1733287587-nw.webp",
                 "malId": 131418,
@@ -40,6 +30,19 @@
                 "title": "Ore No Aoharu Wa Watasanai",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ld988738"
+            }
+        },
+        "MangaFire": {
+            "prorx": {
+                "id": 254137,
+                "identifier": "prorx",
+                "image": "https://static.mangafire.to/50b2/i/f/f5/f5c8f109aeb3983b408413ba9c17e027.jpg",
+                "malId": 131418,
+                "aniId": 125531,
+                "page": "MangaFire",
+                "title": "Ore no Aoharu wa Watasanai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ore-no-aoharu-wa-watasanaii.prorx"
             }
         }
     },

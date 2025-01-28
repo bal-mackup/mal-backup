@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9cf7d161-d74b-4f33-8f9d-59ecd470d98b": {
+                "id": 22262,
                 "identifier": "9cf7d161-d74b-4f33-8f9d-59ecd470d98b",
                 "image": "https://uploads.mangadex.org/covers/9cf7d161-d74b-4f33-8f9d-59ecd470d98b/ea18dc8f-fe9b-4499-b759-113023e2fadf.png",
                 "malId": 97052,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shikkoku-no-ten": {
+                "id": 87258,
                 "identifier": "shikkoku-no-ten",
                 "image": "https://temp.compsci88.com/cover/Shikkoku-No-Ten.jpg",
                 "malId": 97052,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Shikkoku-No-Ten"
             }
         },
-        "MangaFire": {
-            "shikkoku-no-ten.4q7zm": {
-                "identifier": "shikkoku-no-ten.4q7zm",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b9c86ddeff35a74f6bde203b0ed56bb.jpg",
-                "malId": 97052,
-                "aniId": 101646,
-                "page": "MangaFire",
-                "title": "Pitch-Black Ten",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shikkoku-no-ten.4q7zm/"
-            },
-            "4q7zm": {
-                "identifier": "4q7zm",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b9c86ddeff35a74f6bde203b0ed56bb.jpg",
-                "malId": 97052,
-                "aniId": 101646,
-                "page": "MangaFire",
-                "title": "Pitch-Black Ten",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shikkoku-no-ten.4q7zm/"
-            }
-        },
         "Weebcentral": {
             "01j76xycba1a9jrypx32kt03ze": {
+                "id": 213230,
                 "identifier": "01j76xycba1a9jrypx32kt03ze",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCBA1A9JRYPX32KT03ZE.jpg",
                 "malId": 97052,
@@ -62,6 +43,19 @@
                 "title": "Pitch-Black Ten",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCBA1A9JRYPX32KT03ZE"
+            }
+        },
+        "MangaFire": {
+            "4q7zm": {
+                "id": 253536,
+                "identifier": "4q7zm",
+                "image": "https://static.mangafire.to/20e8/i/1/1b/1b9c86ddeff35a74f6bde203b0ed56bb.jpg",
+                "malId": 97052,
+                "aniId": 101646,
+                "page": "MangaFire",
+                "title": "Pitch-Black Ten",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shikkoku-no-tenn.4q7zm"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "63378c84-b7c8-48a5-81d0-41ca66119962": {
+                "id": 10324,
                 "identifier": "63378c84-b7c8-48a5-81d0-41ca66119962",
                 "image": "https://uploads.mangadex.org/covers/63378c84-b7c8-48a5-81d0-41ca66119962/c6c009b1-8d10-4b68-9f48-6df5bbbafecd.png",
                 "malId": 67405,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "musume_no_iede": {
+                "id": 76895,
                 "identifier": "musume_no_iede",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13839/cover.jpg",
                 "malId": 67405,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/musume_no_iede/"
             }
         },
-        "MangaFire": {
-            "runaway-girl.0jor": {
-                "identifier": "runaway-girl.0jor",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2a373f1c34dfc49108b4cedc48713a8b.jpg",
-                "malId": 67405,
-                "aniId": 87301,
-                "page": "MangaFire",
-                "title": "Runaway Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/runaway-girl.0jor/"
-            }
-        },
         "MangaNato": {
             "manga-vk952093": {
+                "id": 216224,
                 "identifier": "manga-vk952093",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/i/1-1732717564-nw.webp",
                 "malId": 67405,
@@ -52,6 +43,19 @@
                 "title": "Musume No Iede",
                 "type": "manga",
                 "url": "https://manganato.com/manga-vk952093"
+            }
+        },
+        "MangaFire": {
+            "0jor": {
+                "id": 246923,
+                "identifier": "0jor",
+                "image": "https://static.mangafire.to/abb0/i/2/2a/2a373f1c34dfc49108b4cedc48713a8b.jpg",
+                "malId": 67405,
+                "aniId": 87301,
+                "page": "MangaFire",
+                "title": "Runaway Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/runaway-girll.0jor"
             }
         },
         "Comick": {

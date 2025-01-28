@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "sunbeams-in-the-sky": {
+                "id": 156345,
                 "identifier": "sunbeams-in-the-sky",
                 "image": "https://temp.compsci88.com/cover/Sunbeams-in-the-Sky.jpg",
                 "malId": 135233,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Sunbeams-in-the-Sky"
             }
         },
-        "MangaFire": {
-            "sora-ni-hidamari.nprw8": {
-                "identifier": "sora-ni-hidamari.nprw8",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ffad0b0e5de3c8abc885aea84b5f6b73.jpg",
-                "malId": 135233,
-                "aniId": 127346,
-                "page": "MangaFire",
-                "title": "Sora ni Hidamari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sora-ni-hidamari.nprw8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg32xf9qbdermrcemsh8": {
+                "id": 212124,
                 "identifier": "01j76xyg32xf9qbdermrcemsh8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG32XF9QBDERMRCEMSH8.jpg",
                 "malId": 135233,
@@ -40,6 +30,19 @@
                 "title": "Sunbeams in the Sky",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG32XF9QBDERMRCEMSH8"
+            }
+        },
+        "MangaFire": {
+            "nprw8": {
+                "id": 235013,
+                "identifier": "nprw8",
+                "image": "https://static.mangafire.to/5707/i/f/ff/ffad0b0e5de3c8abc885aea84b5f6b73.jpg",
+                "malId": 135233,
+                "aniId": 127346,
+                "page": "MangaFire",
+                "title": "Sora ni Hidamari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sora-ni-hidamarii.nprw8"
             }
         },
         "MangaReader": {

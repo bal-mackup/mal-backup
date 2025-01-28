@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "787a9f0c-6f48-401c-8edc-d6ee07516c4f": {
+                "id": 10481,
                 "identifier": "787a9f0c-6f48-401c-8edc-d6ee07516c4f",
                 "image": "https://uploads.mangadex.org/covers/787a9f0c-6f48-401c-8edc-d6ee07516c4f/10367bd5-fc30-4bc1-90c3-a362efab1d1a.jpg",
                 "malId": 67645,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "namaikizakari": {
+                "id": 58460,
                 "identifier": "namaikizakari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14002/cover.jpg",
                 "malId": 67645,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "namaikizakari": {
+                "id": 58976,
                 "identifier": "namaikizakari",
                 "image": "https://temp.compsci88.com/cover/Namaikizakari.jpg",
                 "malId": 67645,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kw952379": {
+                "id": 75946,
                 "identifier": "manga-kw952379",
                 "image": "https://avt.mkklcdnv6temp.com/37/g/1-1583465161.jpg",
                 "malId": 67645,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kw952379"
             }
         },
-        "MangaFire": {
-            "cheeky-brat.wxxk": {
-                "identifier": "cheeky-brat.wxxk",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10f362d70abed30efded70341f28b162.jpg",
-                "malId": 67645,
-                "aniId": 85395,
-                "page": "MangaFire",
-                "title": "Cheeky Brat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cheeky-brat.wxxk/"
-            },
-            "cheeky-bratt.wxxk": {
-                "identifier": "cheeky-bratt.wxxk",
-                "image": "https://static.mangafire.to/3b2d5/i/1/10/10f362d70abed30efded70341f28b162.jpg",
-                "malId": 67645,
-                "aniId": 85395,
-                "page": "MangaFire",
-                "title": "Cheeky Brat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cheeky-bratt.wxxk/"
-            }
-        },
         "Weebcentral": {
             "01j76xyacas01a5md265w4yh8f": {
+                "id": 209273,
                 "identifier": "01j76xyacas01a5md265w4yh8f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYACAS01A5MD265W4YH8F.jpg",
                 "malId": 67645,
@@ -86,6 +69,19 @@
                 "title": "Cheeky Brat",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYACAS01A5MD265W4YH8F"
+            }
+        },
+        "MangaFire": {
+            "wxxk": {
+                "id": 253371,
+                "identifier": "wxxk",
+                "image": "https://static.mangafire.to/cbc7/i/1/10/10f362d70abed30efded70341f28b162.jpg",
+                "malId": 67645,
+                "aniId": 85395,
+                "page": "MangaFire",
+                "title": "Cheeky Brat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cheeky-bratt.wxxk"
             }
         },
         "Comick": {

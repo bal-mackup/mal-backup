@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "18a8d6cc-0cdc-4f4a-a1fd-8b3dfccddea5": {
+                "id": 26816,
                 "identifier": "18a8d6cc-0cdc-4f4a-a1fd-8b3dfccddea5",
                 "image": "https://uploads.mangadex.org/covers/18a8d6cc-0cdc-4f4a-a1fd-8b3dfccddea5/8e1b0b86-b7bd-478c-80f2-067f737c6ccb.jpg",
                 "malId": 91179,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yokuoni-ogres-of-greed": {
+                "id": 162176,
                 "identifier": "yokuoni-ogres-of-greed",
                 "image": "https://temp.compsci88.com/cover/Yokuoni-Ogres-of-Greed.jpg",
                 "malId": 91179,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Yokuoni-Ogres-of-Greed"
             }
         },
-        "MangaFire": {
-            "yoku-oni.ppm7x": {
-                "identifier": "yoku-oni.ppm7x",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94ea0da4d725412ea4aa00ead610f3b8.jpg",
-                "malId": 91179,
-                "aniId": 95450,
-                "page": "MangaFire",
-                "title": "Yokuoni: Ogres of Greed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoku-oni.ppm7x/"
-            },
-            "yoku-onii.ppm7x": {
-                "identifier": "yoku-onii.ppm7x",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94ea0da4d725412ea4aa00ead610f3b8.jpg",
-                "malId": 91179,
-                "aniId": 95450,
-                "page": "MangaFire",
-                "title": "Yokuoni: Ogres of Greed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yoku-onii.ppm7x/"
-            }
-        },
         "Weebcentral": {
             "01j76xygacpnf1v0ztjdnmkrem": {
+                "id": 210345,
                 "identifier": "01j76xygacpnf1v0ztjdnmkrem",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGACPNF1V0ZTJDNMKREM.jpg",
                 "malId": 91179,
@@ -62,6 +43,19 @@
                 "title": "Yokuoni: Ogres of Greed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGACPNF1V0ZTJDNMKREM"
+            }
+        },
+        "MangaFire": {
+            "ppm7x": {
+                "id": 227199,
+                "identifier": "ppm7x",
+                "image": "https://static.mangafire.to/c3f1/i/9/94/94ea0da4d725412ea4aa00ead610f3b8.jpg",
+                "malId": 91179,
+                "aniId": 95450,
+                "page": "MangaFire",
+                "title": "Yokuoni: Ogres of Greed",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yoku-onii.ppm7x"
             }
         },
         "Comick": {

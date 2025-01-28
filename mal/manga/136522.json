@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "39e52698-160c-4f1a-b368-8fa4ac461c03": {
+                "id": 88700,
                 "identifier": "39e52698-160c-4f1a-b368-8fa4ac461c03",
                 "image": "https://uploads.mangadex.org/covers/39e52698-160c-4f1a-b368-8fa4ac461c03/f5e1ba07-b896-4a3f-815c-74ff46b71371.jpg",
                 "malId": 136522,
@@ -16,10 +17,22 @@
                 "title": "Kanojo no Tomodachi",
                 "type": "manga",
                 "url": "https://mangadex.org/title/39e52698-160c-4f1a-b368-8fa4ac461c03"
+            },
+            "13b9b44c-1021-43b2-8eeb-6047d74bae07": {
+                "id": 218975,
+                "identifier": "13b9b44c-1021-43b2-8eeb-6047d74bae07",
+                "image": "https://uploads.mangadex.org/covers/13b9b44c-1021-43b2-8eeb-6047d74bae07/b012a155-c41a-4e31-a932-96285c4f9c00.jpg",
+                "malId": 136522,
+                "aniId": 133932,
+                "page": "Mangadex",
+                "title": "Kanojo no Tomodachi: Uwaki Selection (Official Colored)",
+                "type": "manga",
+                "url": "https://mangadex.org/title/13b9b44c-1021-43b2-8eeb-6047d74bae07"
             }
         },
         "MangaNato": {
             "manga-pm993095": {
+                "id": 118481,
                 "identifier": "manga-pm993095",
                 "image": "https://avt.mkklcdnv6temp.com/34/a/27-1669252367.jpg",
                 "malId": 136522,
@@ -32,6 +45,7 @@
         },
         "MangaSee": {
             "kanojo-no-tomodachi-jura": {
+                "id": 184450,
                 "identifier": "kanojo-no-tomodachi-jura",
                 "image": "https://temp.compsci88.com/cover/Kanojo-no-Tomodachi-JURA.jpg",
                 "malId": 136522,
@@ -44,6 +58,7 @@
         },
         "Weebcentral": {
             "01j76xyh30hchxe51sxk8wdck8": {
+                "id": 210422,
                 "identifier": "01j76xyh30hchxe51sxk8wdck8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH30HCHXE51SXK8WDCK8.jpg",
                 "malId": 136522,
@@ -55,15 +70,16 @@
             }
         },
         "MangaFire": {
-            "my-girlfriends-friendd.299y0": {
-                "identifier": "my-girlfriends-friendd.299y0",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6912c1900221b161f3fa968022fc5fce.jpg",
+            "299y0": {
+                "id": 252778,
+                "identifier": "299y0",
+                "image": "https://static.mangafire.to/516e/i/6/69/6912c1900221b161f3fa968022fc5fce.jpg",
                 "malId": 136522,
                 "aniId": 133932,
                 "page": "MangaFire",
                 "title": "My Girlfriend's Friend",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/my-girlfriends-friendd.299y0/"
+                "url": "https://mangafire.to/manga/my-girlfriends-friendd.299y0"
             }
         },
         "Comick": {

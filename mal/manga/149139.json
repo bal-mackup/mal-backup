@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d13ed255-1773-4d9f-9e0f-a1564bc87279": {
+                "id": 35146,
                 "identifier": "d13ed255-1773-4d9f-9e0f-a1564bc87279",
                 "image": "https://uploads.mangadex.org/covers/d13ed255-1773-4d9f-9e0f-a1564bc87279/71c14a07-f0d6-44b6-a79e-e2fba8437e93.png",
                 "malId": 149139,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fiery-enemies": {
+                "id": 70530,
                 "identifier": "fiery-enemies",
                 "image": "https://temp.compsci88.com/cover/Fiery-Enemies.jpg",
                 "malId": 149139,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-id985960": {
+                "id": 79023,
                 "identifier": "manga-id985960",
                 "image": "https://avt.mkklcdnv6temp.com/37/w/21-1595692701.jpg",
                 "malId": 149139,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "hot_enemies": {
+                "id": 109270,
                 "identifier": "hot_enemies",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34756/cover.jpg",
                 "malId": 149139,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/hot_enemies/"
             }
         },
-        "MangaFire": {
-            "tteugeoun-wensu.xrm6w": {
-                "identifier": "tteugeoun-wensu.xrm6w",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a4a5c2ea372803f50375e08ee9d8dc26.jpg",
-                "malId": 149139,
-                "aniId": 121563,
-                "page": "MangaFire",
-                "title": "Fiery Enemies",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tteugeoun-wensu.xrm6w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyenzn0ghj6j0147hqp6n": {
+                "id": 210406,
                 "identifier": "01j76xyenzn0ghj6j0147hqp6n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYENZN0GHJ6J0147HQP6N.jpg",
                 "malId": 149139,
@@ -76,6 +69,19 @@
                 "title": "Fiery Enemies",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYENZN0GHJ6J0147HQP6N"
+            }
+        },
+        "MangaFire": {
+            "xrm6w": {
+                "id": 247167,
+                "identifier": "xrm6w",
+                "image": "https://static.mangafire.to/0cbe/i/a/a4/a4a5c2ea372803f50375e08ee9d8dc26.jpg",
+                "malId": 149139,
+                "aniId": 121563,
+                "page": "MangaFire",
+                "title": "Fiery Enemies",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tteugeoun-wensuu.xrm6w"
             }
         }
     },

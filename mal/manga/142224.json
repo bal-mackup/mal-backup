@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "35b9f818-926b-4f4a-aa2b-0ac068986a73": {
+                "id": 92025,
                 "identifier": "35b9f818-926b-4f4a-aa2b-0ac068986a73",
                 "image": "https://uploads.mangadex.org/covers/35b9f818-926b-4f4a-aa2b-0ac068986a73/7330f07e-9427-4a29-855d-f78f53db732f.jpg",
                 "malId": 142224,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "magilumiere-co-ltd": {
+                "id": 96915,
                 "identifier": "magilumiere-co-ltd",
                 "image": "https://temp.compsci88.com/cover/Magilumiere-Co-Ltd.jpg",
                 "malId": 142224,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kabushiki_gaisha_magilumiere": {
+                "id": 99551,
                 "identifier": "kabushiki_gaisha_magilumiere",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41797/cover.jpg",
                 "malId": 142224,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-oq991899": {
+                "id": 112810,
                 "identifier": "manga-oq991899",
                 "image": "https://avt.mkklcdnv6temp.com/35/v/26-1659498558.jpg",
                 "malId": 142224,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-oq991899"
             }
         },
-        "MangaFire": {
-            "kabushiki-gaisha-magi-lumiere.kkr6": {
-                "identifier": "kabushiki-gaisha-magi-lumiere.kkr6",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/335b17e2f3da4efc14fc7449df371869.jpg",
-                "malId": 142224,
-                "aniId": 140482,
-                "page": "MangaFire",
-                "title": "Magilumiere Co. Ltd.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kabushiki-gaisha-magi-lumiere.kkr6/"
-            },
-            "kabushiki-gaisha-magi-lumieree.kkr6": {
-                "identifier": "kabushiki-gaisha-magi-lumieree.kkr6",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/335b17e2f3da4efc14fc7449df371869.jpg",
-                "malId": 142224,
-                "aniId": 140482,
-                "page": "MangaFire",
-                "title": "Magilumiere Co. Ltd.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kabushiki-gaisha-magi-lumieree.kkr6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfbhvbspv7hqxwfg5hmq": {
+                "id": 210927,
                 "identifier": "01j76xyfbhvbspv7hqxwfg5hmq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFBHVBSPV7HQXWFG5HMQ.jpg",
                 "malId": 142224,
@@ -86,6 +69,19 @@
                 "title": "Magilumiere Magical Girls Inc.",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFBHVBSPV7HQXWFG5HMQ"
+            }
+        },
+        "MangaFire": {
+            "kkr6": {
+                "id": 226347,
+                "identifier": "kkr6",
+                "image": "https://static.mangafire.to/17a8/i/9/96/335b17e2f3da4efc14fc7449df371869.jpg",
+                "malId": 142224,
+                "aniId": 140482,
+                "page": "MangaFire",
+                "title": "Magilumiere Co. Ltd.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kabushiki-gaisha-magi-lumieree.kkr6"
             }
         },
         "Comick": {

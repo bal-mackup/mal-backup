@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "oiran-nee-san": {
+                "id": 79844,
                 "identifier": "oiran-nee-san",
                 "image": "https://temp.compsci88.com/cover/Oiran-Nee-san.jpg",
                 "malId": 111179,
@@ -18,30 +19,9 @@
                 "url": "https://mangasee123.com/manga/Oiran-Nee-san"
             }
         },
-        "MangaFire": {
-            "oiran-nee-san.ppr5x": {
-                "identifier": "oiran-nee-san.ppr5x",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f2a8059a0c3647b5601ee1ea8f1cb58.jpg",
-                "malId": 111179,
-                "aniId": 116132,
-                "page": "MangaFire",
-                "title": "Oiran Nee-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oiran-nee-san.ppr5x/"
-            },
-            "ppr5x": {
-                "identifier": "ppr5x",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f2a8059a0c3647b5601ee1ea8f1cb58.jpg",
-                "malId": 111179,
-                "aniId": 116132,
-                "page": "MangaFire",
-                "title": "Oiran Nee-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oiran-nee-san.ppr5x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyetyk0dhf4fh754dhd72": {
+                "id": 213591,
                 "identifier": "01j76xyetyk0dhf4fh754dhd72",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYETYK0DHF4FH754DHD72.jpg",
                 "malId": 111179,
@@ -50,6 +30,19 @@
                 "title": "Oiran Nee-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYETYK0DHF4FH754DHD72"
+            }
+        },
+        "MangaFire": {
+            "ppr5x": {
+                "id": 250937,
+                "identifier": "ppr5x",
+                "image": "https://static.mangafire.to/4bdc/i/8/8f/8f2a8059a0c3647b5601ee1ea8f1cb58.jpg",
+                "malId": 111179,
+                "aniId": 116132,
+                "page": "MangaFire",
+                "title": "Oiran Nee-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oiran-nee-sann.ppr5x"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "04f54916-f7da-4f9b-8c93-5406d8ebcb0b": {
+                "id": 99619,
                 "identifier": "04f54916-f7da-4f9b-8c93-5406d8ebcb0b",
                 "image": "https://uploads.mangadex.org/covers/04f54916-f7da-4f9b-8c93-5406d8ebcb0b/9a7cdd4a-705e-4c4b-ac38-a91bfc8842e3.jpg",
                 "malId": 135760,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ni990917": {
+                "id": 106398,
                 "identifier": "manga-ni990917",
                 "image": "https://avt.mkklcdnv6temp.com/44/c/25-1653917381.jpg",
                 "malId": 135760,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-ni990917"
             }
         },
-        "MangaFire": {
-            "victorias-electric-coffin.86mq": {
-                "identifier": "victorias-electric-coffin.86mq",
-                "image": "https://static.mangafire.to/3b2d5/i/4/43/4319dff9afe9b5d20b2fdb7511f234ce.jpg",
-                "malId": 135760,
-                "aniId": 131402,
-                "page": "MangaFire",
-                "title": "Victoria's Electric Coffin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/victorias-electric-coffin.86mq/"
-            }
-        },
         "MangaSee": {
             "victorias-electric-coffin": {
+                "id": 186154,
                 "identifier": "victorias-electric-coffin",
                 "image": "https://temp.compsci88.com/cover/Victorias-Electric-Coffin.jpg",
                 "malId": 135760,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh506n6y4f5n5yjtrpzq": {
+                "id": 207531,
                 "identifier": "01j76xyh506n6y4f5n5yjtrpzq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH506N6Y4F5N5YJTRPZQ.jpg",
                 "malId": 135760,
@@ -64,6 +56,19 @@
                 "title": "Victoria’s Electric Coffin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH506N6Y4F5N5YJTRPZQ"
+            }
+        },
+        "MangaFire": {
+            "86mq": {
+                "id": 243049,
+                "identifier": "86mq",
+                "image": "https://static.mangafire.to/be2f/i/4/43/4319dff9afe9b5d20b2fdb7511f234ce.jpg",
+                "malId": 135760,
+                "aniId": 131402,
+                "page": "MangaFire",
+                "title": "Victoria's Electric Coffin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/victorias-electric-coffinn.86mq"
             }
         },
         "Comick": {

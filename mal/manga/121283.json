@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1d351e10-c877-458b-84e3-6200f1b7954c": {
+                "id": 30060,
                 "identifier": "1d351e10-c877-458b-84e3-6200f1b7954c",
                 "image": "https://uploads.mangadex.org/covers/1d351e10-c877-458b-84e3-6200f1b7954c/7aa076ca-c97d-4021-90e6-a7d7a9190a46.jpg",
                 "malId": 121283,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "private_punishment_game": {
+                "id": 110951,
                 "identifier": "private_punishment_game",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31140/cover.jpg",
                 "malId": 121283,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/private_punishment_game/"
             }
         },
-        "MangaFire": {
-            "private-punishment-game.prrv9": {
-                "identifier": "private-punishment-game.prrv9",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df5659dd359e2fb015f0593af62ab4fb.jpg",
-                "malId": 121283,
-                "aniId": 112496,
-                "page": "MangaFire",
-                "title": "Private Punishment Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/private-punishment-game.prrv9/"
-            }
-        },
         "MangaNato": {
             "manga-fk982619": {
+                "id": 170746,
                 "identifier": "manga-fk982619",
                 "image": "https://avt.mkklcdnv6temp.com/fld/2/x/9-1732798138-nw.webp",
                 "malId": 121283,
@@ -52,6 +43,19 @@
                 "title": "Private Punishment Game",
                 "type": "manga",
                 "url": "https://manganato.com/manga-fk982619"
+            }
+        },
+        "MangaFire": {
+            "prrv9": {
+                "id": 246867,
+                "identifier": "prrv9",
+                "image": "https://static.mangafire.to/e30e/i/d/df/df5659dd359e2fb015f0593af62ab4fb.jpg",
+                "malId": 121283,
+                "aniId": 112496,
+                "page": "MangaFire",
+                "title": "Private Punishment Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/private-punishment-gamee.prrv9"
             }
         },
         "Comick": {

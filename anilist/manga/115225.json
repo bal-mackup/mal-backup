@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "20df8f80-b91d-48d5-abb5-9d24ddb85565": {
+                "id": 33127,
                 "identifier": "20df8f80-b91d-48d5-abb5-9d24ddb85565",
                 "image": "https://uploads.mangadex.org/covers/20df8f80-b91d-48d5-abb5-9d24ddb85565/8a1c217a-5ea9-4c43-8432-ce2305c995cd.jpg",
                 "malId": 133181,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "madan-no-ou-to-michelia": {
+                "id": 56017,
                 "identifier": "madan-no-ou-to-michelia",
                 "image": "https://temp.compsci88.com/cover/Madan-no-Ou-to-Michelia.jpg",
                 "malId": 133181,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hb984658": {
+                "id": 86087,
                 "identifier": "manga-hb984658",
                 "image": "https://avt.mkklcdnv6temp.com/34/m/20-1583502360.jpg",
                 "malId": 133181,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-hb984658"
             }
         },
-        "MangaFire": {
-            "madan-no-ou-to-michelia.jv5wy": {
-                "identifier": "madan-no-ou-to-michelia.jv5wy",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f91c20ea761219de2fbe9d08c3a29d96.jpg",
-                "malId": 133181,
-                "aniId": 115225,
-                "page": "MangaFire",
-                "title": "Lord Marksman and Michelia Introduction",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madan-no-ou-to-michelia.jv5wy/"
-            },
-            "Lord-Marksman-and-Michelia.jv5wy": {
-                "identifier": "Lord-Marksman-and-Michelia.jv5wy",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f91c20ea761219de2fbe9d08c3a29d96.jpg",
-                "malId": 133181,
-                "aniId": 115225,
-                "page": "MangaFire",
-                "title": "Lord Marksman and Michelia Introduction",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Lord-Marksman-and-Michelia.jv5wy/"
-            }
-        },
         "Weebcentral": {
             "01j76xydx254fg5bzcpyycghq5": {
+                "id": 212919,
                 "identifier": "01j76xydx254fg5bzcpyycghq5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDX254FG5BZCPYYCGHQ5.jpg",
                 "malId": 133181,
@@ -74,6 +56,19 @@
                 "title": "Madan no Ou to Michelia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDX254FG5BZCPYYCGHQ5"
+            }
+        },
+        "MangaFire": {
+            "jv5wy": {
+                "id": 240542,
+                "identifier": "jv5wy",
+                "image": "https://static.mangafire.to/8326/i/f/f9/f91c20ea761219de2fbe9d08c3a29d96.jpg",
+                "malId": 133181,
+                "aniId": 115225,
+                "page": "MangaFire",
+                "title": "Lord Marksman and Michelia Introduction",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/madan-no-ou-to-micheliaa.jv5wy"
             }
         }
     },

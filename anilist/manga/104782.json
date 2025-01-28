@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "639ab984-5864-42b3-8dee-8909678bccde": {
+                "id": 23488,
                 "identifier": "639ab984-5864-42b3-8dee-8909678bccde",
                 "image": "https://uploads.mangadex.org/covers/639ab984-5864-42b3-8dee-8909678bccde/0f203a18-f58d-45bb-a04b-df1b4511a008.jpg",
                 "malId": 101386,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hp-lovecrafts-at-the-mountains-of-madness": {
+                "id": 63679,
                 "identifier": "hp-lovecrafts-at-the-mountains-of-madness",
                 "image": "https://temp.compsci88.com/cover/HP-Lovecrafts-At-the-Mountains-of-Madness.jpg",
                 "malId": 101386,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kyouki_no_sanmyaku_nite": {
+                "id": 94280,
                 "identifier": "kyouki_no_sanmyaku_nite",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28207/cover.jpg",
                 "malId": 101386,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ct979576": {
+                "id": 101362,
                 "identifier": "manga-ct979576",
                 "image": "https://avt.mkklcdnv6temp.com/fld/94/c/8-1732792078-nw.webp",
                 "malId": 101386,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-ct979576"
             }
         },
-        "MangaFire": {
-            "hp-lovecrafts-at-the-mountains-of-madness.4q0yj": {
-                "identifier": "hp-lovecrafts-at-the-mountains-of-madness.4q0yj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8b0b60eaac406b47d063a990bbb55db.jpg",
-                "malId": 101386,
-                "aniId": 104782,
-                "page": "MangaFire",
-                "title": "At the Mountains of Madness",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hp-lovecrafts-at-the-mountains-of-madness.4q0yj/"
-            },
-            "hp-lovecrafts-at-the-mountains-of-madnesss.4q0yj": {
-                "identifier": "hp-lovecrafts-at-the-mountains-of-madnesss.4q0yj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8b0b60eaac406b47d063a990bbb55db.jpg",
-                "malId": 101386,
-                "aniId": 104782,
-                "page": "MangaFire",
-                "title": "At the Mountains of Madness",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hp-lovecrafts-at-the-mountains-of-madnesss.4q0yj/"
-            },
-            "4q0yj": {
-                "identifier": "4q0yj",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8b0b60eaac406b47d063a990bbb55db.jpg",
-                "malId": 101386,
-                "aniId": 104782,
-                "page": "MangaFire",
-                "title": "At the Mountains of Madness",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hp-lovecrafts-at-the-mountains-of-madnesss.4q0yj/"
-            }
-        },
         "Weebcentral": {
             "01j76xye27wgxyhw0m2wdna92y": {
+                "id": 212324,
                 "identifier": "01j76xye27wgxyhw0m2wdna92y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE27WGXYHW0M2WDNA92Y.jpg",
                 "malId": 101386,
@@ -96,6 +69,19 @@
                 "title": "H.P. Lovecraft's At the Mountains of Madness",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE27WGXYHW0M2WDNA92Y"
+            }
+        },
+        "MangaFire": {
+            "4q0yj": {
+                "id": 229584,
+                "identifier": "4q0yj",
+                "image": "https://static.mangafire.to/514c/i/e/e8/e8b0b60eaac406b47d063a990bbb55db.jpg",
+                "malId": 101386,
+                "aniId": 104782,
+                "page": "MangaFire",
+                "title": "At the Mountains of Madness",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hp-lovecrafts-at-the-mountains-of-madnesss.4q0yj"
             }
         },
         "Comick": {

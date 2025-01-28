@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "85bfa53d-def5-4b9e-82a8-895fbb7a7006": {
+                "id": 17734,
                 "identifier": "85bfa53d-def5-4b9e-82a8-895fbb7a7006",
                 "image": "https://uploads.mangadex.org/covers/85bfa53d-def5-4b9e-82a8-895fbb7a7006/518535e9-ab71-416e-aeb3-9b9cea63bbcc.jpg",
                 "malId": 97027,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "souboutei-kowasu-beshi": {
+                "id": 63015,
                 "identifier": "souboutei-kowasu-beshi",
                 "image": "https://temp.compsci88.com/cover/Souboutei-Kowasu-Beshi.jpg",
                 "malId": 97027,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "souboutei_must_be_destroyed": {
+                "id": 72728,
                 "identifier": "souboutei_must_be_destroyed",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27762/cover.jpg",
                 "malId": 97027,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/souboutei_must_be_destroyed/"
             },
             "souboutei_kowasu_beshi": {
+                "id": 215844,
                 "identifier": "souboutei_kowasu_beshi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25361/cover.jpg",
                 "malId": 97027,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-zp976498": {
+                "id": 74998,
                 "identifier": "manga-zp976498",
                 "image": "https://avt.mkklcdnv6temp.com/26/f/15-1583492396.jpg",
                 "malId": 97027,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-zp976498"
             },
             "manga-mv989378": {
+                "id": 83299,
                 "identifier": "manga-mv989378",
                 "image": "https://avt.mkklcdnv6temp.com/28/m/24-1627575416.jpg",
                 "malId": 97027,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-mv989378"
             }
         },
-        "MangaFire": {
-            "souboutei-kowasubeshi.w1yzk": {
-                "identifier": "souboutei-kowasubeshi.w1yzk",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3fc971cc702b2b1c8588bc824ba0703c.jpg",
-                "malId": 97027,
-                "aniId": 96930,
-                "page": "MangaFire",
-                "title": "Souboutei Kowasubeshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/souboutei-kowasubeshi.w1yzk/"
-            },
-            "w1yzk": {
-                "identifier": "w1yzk",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3f/3fc971cc702b2b1c8588bc824ba0703c.jpg",
-                "malId": 97027,
-                "aniId": 96930,
-                "page": "MangaFire",
-                "title": "Souboutei Kowasubeshi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/souboutei-kowasubeshi.w1yzk/"
-            }
-        },
         "Weebcentral": {
             "01j76xycfckm4y2qq1vfbd2n9r": {
+                "id": 207445,
                 "identifier": "01j76xycfckm4y2qq1vfbd2n9r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCFCKM4Y2QQ1VFBD2N9R.jpg",
                 "malId": 97027,
@@ -106,6 +91,19 @@
                 "title": "Souboutei Kowasu Beshi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCFCKM4Y2QQ1VFBD2N9R"
+            }
+        },
+        "MangaFire": {
+            "w1yzk": {
+                "id": 248627,
+                "identifier": "w1yzk",
+                "image": "https://static.mangafire.to/2b23/i/3/3f/3fc971cc702b2b1c8588bc824ba0703c.jpg",
+                "malId": 97027,
+                "aniId": 96930,
+                "page": "MangaFire",
+                "title": "Souboutei Kowasubeshi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/souboutei-kowasubeshii.w1yzk"
             }
         },
         "Comick": {

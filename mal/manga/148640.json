@@ -6,20 +6,9 @@
     "total": 31,
     "image": "https://cdn.myanimelist.net/images/manga/3/263878.jpg",
     "Sites": {
-        "MangaFire": {
-            "manga-henshuusha-ga-kaisha-wo-yamete-inakagurashi-wo-shitara-isekai-datta-ken.k36mv": {
-                "identifier": "manga-henshuusha-ga-kaisha-wo-yamete-inakagurashi-wo-shitara-isekai-datta-ken.k36mv",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/01dbc124ff59af3b36438f7ca915ee3f.jpg",
-                "malId": 148640,
-                "aniId": 126277,
-                "page": "MangaFire",
-                "title": "That Time the Manga Editor Started a New Life in the Countryside",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/manga-henshuusha-ga-kaisha-wo-yamete-inakagurashi-wo-shitara-isekai-datta-ken.k36mv/"
-            }
-        },
         "MangaSee": {
             "that-time-the-manga-editor-started-a-new-life-in-the-countryside": {
+                "id": 181209,
                 "identifier": "that-time-the-manga-editor-started-a-new-life-in-the-countryside",
                 "image": "https://temp.compsci88.com/cover/That-Time-the-Manga-Editor-Started-a-New-Life-in-the-Countryside.jpg",
                 "malId": 148640,
@@ -32,6 +21,7 @@
         },
         "MangaNato": {
             "manga-yg1001615": {
+                "id": 185858,
                 "identifier": "manga-yg1001615",
                 "image": "https://avt.mkklcdnv6temp.com/fld/14/e/17-1733322033-nw.webp",
                 "malId": 148640,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygxxrt4cqry629yyk16t": {
+                "id": 213196,
                 "identifier": "01j76xygxxrt4cqry629yyk16t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXXRT4CQRY629YYK16T.jpg",
                 "malId": 148640,
@@ -52,6 +43,19 @@
                 "title": "That Time the Manga Editor Started a New Life in the Countryside",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXXRT4CQRY629YYK16T"
+            }
+        },
+        "MangaFire": {
+            "k36mv": {
+                "id": 238311,
+                "identifier": "k36mv",
+                "image": "https://static.mangafire.to/2a21/i/0/01/01dbc124ff59af3b36438f7ca915ee3f.jpg",
+                "malId": 148640,
+                "aniId": 126277,
+                "page": "MangaFire",
+                "title": "That Time the Manga Editor Started a New Life in the Countryside",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/manga-henshuusha-ga-kaisha-wo-yamete-inakagurashi-wo-shitara-isekai-datta-kenn.k36mv"
             }
         }
     },

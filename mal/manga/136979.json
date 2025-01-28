@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "87ffa375-bd2c-49ba-ba0c-6d78ea07c342": {
+                "id": 55772,
                 "identifier": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
                 "image": "https://uploads.mangadex.org/covers/87ffa375-bd2c-49ba-ba0c-6d78ea07c342/6df56a5e-682d-4d92-b71f-3753f24e9af1.jpg",
                 "malId": 136979,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ld989112": {
+                "id": 75705,
                 "identifier": "manga-ld989112",
                 "image": "https://avt.mkklcdnv6temp.com/16/t/24-1622607605.jpg",
                 "malId": 136979,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kuroiwa_medaka_ni_watashi_no_kawaii_ga_tsuujinai": {
+                "id": 77358,
                 "identifier": "kuroiwa_medaka_ni_watashi_no_kawaii_ga_tsuujinai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38461/cover.jpg",
                 "malId": 136979,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai": {
+                "id": 78219,
                 "identifier": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
                 "image": "https://temp.compsci88.com/cover/Kuroiwa-Medaka-ni-Watashi-no-Kawaii-ga-Tsuujinai.jpg",
                 "malId": 136979,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Kuroiwa-Medaka-ni-Watashi-no-Kawaii-ga-Tsuujinai"
             }
         },
-        "MangaFire": {
-            "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai.kmmw": {
-                "identifier": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai.kmmw",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea94e76947229cbde52b9809b4c8690c.jpg",
-                "malId": 136979,
-                "aniId": 134369,
-                "page": "MangaFire",
-                "title": "Medaka Kuroiwa is Impervious to My Charms",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai.kmmw/"
-            },
-            "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw": {
-                "identifier": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/ea94e76947229cbde52b9809b4c8690c.jpg",
-                "malId": 136979,
-                "aniId": 134369,
-                "page": "MangaFire",
-                "title": "Medaka Kuroiwa is Impervious to My Charms",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw/"
-            }
-        },
         "Weebcentral": {
             "01j76xyetgnfg0n1zgt03mn57k": {
+                "id": 210690,
                 "identifier": "01j76xyetgnfg0n1zgt03mn57k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYETGNFG0N1ZGT03MN57K.jpg",
                 "malId": 136979,
@@ -86,6 +69,19 @@
                 "title": "Medaka Kuroiwa is Impervious to My Charms",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYETGNFG0N1ZGT03MN57K"
+            }
+        },
+        "MangaFire": {
+            "kmmw": {
+                "id": 228527,
+                "identifier": "kmmw",
+                "image": "https://static.mangafire.to/c629/i/e/ea/ea94e76947229cbde52b9809b4c8690c.jpg",
+                "malId": 136979,
+                "aniId": 134369,
+                "page": "MangaFire",
+                "title": "Medaka Kuroiwa is Impervious to My Charms",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw"
             }
         },
         "Comick": {

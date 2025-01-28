@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d374c0e7-3927-49f6-83b2-357d6676ee4e": {
+                "id": 12277,
                 "identifier": "d374c0e7-3927-49f6-83b2-357d6676ee4e",
                 "image": "https://uploads.mangadex.org/covers/d374c0e7-3927-49f6-83b2-357d6676ee4e/3990fd41-4e90-4852-98ec-f0cffdc7ea44.jpg",
                 "malId": 65685,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "real_account": {
+                "id": 56781,
                 "identifier": "real_account",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13641/cover.jpg",
                 "malId": 65685,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/real_account/"
             },
             "real_account_ii": {
+                "id": 60138,
                 "identifier": "real_account_ii",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15311/cover.jpg",
                 "malId": 65685,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "real-account": {
+                "id": 59380,
                 "identifier": "real-account",
                 "image": "https://temp.compsci88.com/cover/Real-Account.jpg",
                 "malId": 65685,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-sz953182": {
+                "id": 74497,
                 "identifier": "manga-sz953182",
                 "image": "https://avt.mkklcdnv6temp.com/14/o/2-1583466262.jpg",
                 "malId": 65685,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-sz953182"
             },
             "manga-rm953121": {
+                "id": 77531,
                 "identifier": "manga-rm953121",
                 "image": "https://avt.mkklcdnv6temp.com/12/l/2-1583466184.jpg",
                 "malId": 65685,
@@ -74,40 +80,9 @@
                 "url": "https://chapmanganato.com/manga-rm953121"
             }
         },
-        "MangaFire": {
-            "real-account.0477": {
-                "identifier": "real-account.0477",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ae/ae0bdc132ce47e69cc28f90afbd48149.jpg",
-                "malId": 65685,
-                "aniId": 85250,
-                "page": "MangaFire",
-                "title": "Real Account",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/real-account.0477/"
-            },
-            "real-accountt.0477": {
-                "identifier": "real-accountt.0477",
-                "image": "https://static.mangafire.to/8f42/i/a/ae/ae0bdc132ce47e69cc28f90afbd48149.jpg",
-                "malId": 65685,
-                "aniId": 85250,
-                "page": "MangaFire",
-                "title": "Real Account",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/real-accountt.0477/"
-            },
-            "0477": {
-                "identifier": "0477",
-                "image": "https://static.mangafire.to/8f42/i/a/ae/ae0bdc132ce47e69cc28f90afbd48149.jpg",
-                "malId": 65685,
-                "aniId": 85250,
-                "page": "MangaFire",
-                "title": "Real Account",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/real-accountt.0477"
-            }
-        },
         "Weebcentral": {
             "01j76xya50dmthvqzwafvqs78k": {
+                "id": 214099,
                 "identifier": "01j76xya50dmthvqzwafvqs78k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA50DMTHVQZWAFVQS78K.jpg",
                 "malId": 65685,
@@ -116,6 +91,19 @@
                 "title": "Real Account",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA50DMTHVQZWAFVQS78K"
+            }
+        },
+        "MangaFire": {
+            "0477": {
+                "id": 222815,
+                "identifier": "0477",
+                "image": "https://static.mangafire.to/8f42/i/a/ae/ae0bdc132ce47e69cc28f90afbd48149.jpg",
+                "malId": 65685,
+                "aniId": 85250,
+                "page": "MangaFire",
+                "title": "Real Account",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/real-accountt.0477"
             }
         },
         "Comick": {

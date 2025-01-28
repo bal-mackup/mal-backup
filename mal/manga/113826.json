@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "motokare-mania": {
+                "id": 61066,
                 "identifier": "motokare-mania",
                 "image": "https://temp.compsci88.com/cover/Motokare-Mania.jpg",
                 "malId": 113826,
@@ -18,40 +19,9 @@
                 "url": "https://mangasee123.com/manga/Motokare-Mania"
             }
         },
-        "MangaFire": {
-            "motokare-mania.1qqom": {
-                "identifier": "motokare-mania.1qqom",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/4008171fec560bd23287b7a3f91b0bac.jpg",
-                "malId": 113826,
-                "aniId": 115101,
-                "page": "MangaFire",
-                "title": "Ex-Enthusiasts: MotoKare Mania",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/motokare-mania.1qqom/"
-            },
-            "motokare-maniaa.1qqom": {
-                "identifier": "motokare-maniaa.1qqom",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/4008171fec560bd23287b7a3f91b0bac.jpg",
-                "malId": 113826,
-                "aniId": 115101,
-                "page": "MangaFire",
-                "title": "Ex-Enthusiasts: MotoKare Mania",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/motokare-maniaa.1qqom/"
-            },
-            "1qqom": {
-                "identifier": "1qqom",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/4008171fec560bd23287b7a3f91b0bac.jpg",
-                "malId": 113826,
-                "aniId": 115101,
-                "page": "MangaFire",
-                "title": "Ex-Enthusiasts: MotoKare Mania",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/motokare-maniaa.1qqom/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd2081rt419a29sk5tjv": {
+                "id": 210681,
                 "identifier": "01j76xyd2081rt419a29sk5tjv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD2081RT419A29SK5TJV.jpg",
                 "malId": 113826,
@@ -60,6 +30,19 @@
                 "title": "Ex-Enthusiasts - MotoKare Mania",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD2081RT419A29SK5TJV"
+            }
+        },
+        "MangaFire": {
+            "1qqom": {
+                "id": 237717,
+                "identifier": "1qqom",
+                "image": "https://static.mangafire.to/c8d7/i/4/40/4008171fec560bd23287b7a3f91b0bac.jpg",
+                "malId": 113826,
+                "aniId": 115101,
+                "page": "MangaFire",
+                "title": "Ex-Enthusiasts: MotoKare Mania",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/motokare-maniaa.1qqom"
             }
         },
         "Comick": {

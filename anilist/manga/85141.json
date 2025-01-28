@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3fb3f1c3-153e-400c-a0b3-4eb9cc53be3b": {
+                "id": 272,
                 "identifier": "3fb3f1c3-153e-400c-a0b3-4eb9cc53be3b",
                 "image": "https://uploads.mangadex.org/covers/3fb3f1c3-153e-400c-a0b3-4eb9cc53be3b/3757dac9-9926-41d7-b4a6-c4a170834f31.jpg",
                 "malId": 111996,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-god-of-high-school": {
+                "id": 54079,
                 "identifier": "the-god-of-high-school",
                 "image": "https://temp.compsci88.com/cover/The-God-Of-High-School.jpg",
                 "malId": 111996,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_god_of_high_school": {
+                "id": 54186,
                 "identifier": "the_god_of_high_school",
                 "image": "https://fmcdn.mfcdn.net/store/manga/9017/cover.jpg",
                 "malId": 111996,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/the_god_of_high_school/"
             },
             "god_of_high_school": {
+                "id": 181271,
                 "identifier": "god_of_high_school",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45817/cover.jpg",
                 "malId": 111996,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-xf951588": {
+                "id": 72934,
                 "identifier": "manga-xf951588",
                 "image": "https://avt.mkklcdnv6temp.com/9/y/1-1583464054.jpg",
                 "malId": 111996,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-xf951588"
             }
         },
-        "MangaFire": {
-            "the-god-of-high-school.8q3": {
-                "identifier": "the-god-of-high-school.8q3",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1e2605941d28e5b1e29471bd7c07e56.jpg",
-                "malId": 111996,
-                "aniId": 85141,
-                "page": "MangaFire",
-                "title": "The God of High School",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-god-of-high-school.8q3/"
-            },
-            "the-god-of-high-schooll.8q3": {
-                "identifier": "the-god-of-high-schooll.8q3",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d1e2605941d28e5b1e29471bd7c07e56.jpg",
-                "malId": 111996,
-                "aniId": 85141,
-                "page": "MangaFire",
-                "title": "The God of High School",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-god-of-high-schooll.8q3/"
-            }
-        },
         "Weebcentral": {
             "01j76xy7kzx4ehbwnqyab02t91": {
+                "id": 208216,
                 "identifier": "01j76xy7kzx4ehbwnqyab02t91",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY7KZX4EHBWNQYAB02T91.jpg",
                 "malId": 111996,
@@ -96,6 +80,19 @@
                 "title": "The God of High School",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY7KZX4EHBWNQYAB02T91"
+            }
+        },
+        "MangaFire": {
+            "8q3": {
+                "id": 229419,
+                "identifier": "8q3",
+                "image": "https://static.mangafire.to/e394/i/d/d1/d1e2605941d28e5b1e29471bd7c07e56.jpg",
+                "malId": 111996,
+                "aniId": 85141,
+                "page": "MangaFire",
+                "title": "The God of High School",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-god-of-high-schooll.8q3"
             }
         },
         "Comick": {

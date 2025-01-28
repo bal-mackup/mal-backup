@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "07125c94-dc35-4064-a676-2cea158a55d6": {
+                "id": 101944,
                 "identifier": "07125c94-dc35-4064-a676-2cea158a55d6",
                 "image": "https://uploads.mangadex.org/covers/07125c94-dc35-4064-a676-2cea158a55d6/01a8a36d-820c-4116-a158-494a1825c451.jpg",
                 "malId": 152565,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yuusha-party-o-oida-sareta-kiyou-binbou": {
+                "id": 116086,
                 "identifier": "yuusha-party-o-oida-sareta-kiyou-binbou",
                 "image": "https://temp.compsci88.com/cover/Yuusha-Party-o-Oida-Sareta-Kiyou-Binbou.jpg",
                 "malId": 152565,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-sn995770": {
+                "id": 150991,
                 "identifier": "manga-sn995770",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/v/14-1733306029-nw.webp",
                 "malId": 152565,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-sn995770"
             }
         },
-        "MangaFire": {
-            "yuusha-party-o-oida-sareta-kiyou-binbou.z092": {
-                "identifier": "yuusha-party-o-oida-sareta-kiyou-binbou.z092",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f2237fde33538eb4bbb228be8583ecba.jpg",
-                "malId": 152565,
-                "aniId": 146878,
-                "page": "MangaFire",
-                "title": "Yuusha Party o Oida Sareta Kiyou Binbou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-party-o-oida-sareta-kiyou-binbou.z092/"
-            },
-            "The-Jackofalltrades-Kicked-Out-of-the-Heros-Party.z092": {
-                "identifier": "The-Jackofalltrades-Kicked-Out-of-the-Heros-Party.z092",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f2237fde33538eb4bbb228be8583ecba.jpg",
-                "malId": 152565,
-                "aniId": 146878,
-                "page": "MangaFire",
-                "title": "Yuusha Party o Oida Sareta Kiyou Binbou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/The-Jackofalltrades-Kicked-Out-of-the-Heros-Party.z092/"
-            },
-            "yuusha-party-o-oida-sareta-kiyou-binbouu.z092": {
-                "identifier": "yuusha-party-o-oida-sareta-kiyou-binbouu.z092",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f2237fde33538eb4bbb228be8583ecba.jpg",
-                "malId": 152565,
-                "aniId": 146878,
-                "page": "MangaFire",
-                "title": "Yuusha Party o Oida Sareta Kiyou Binbou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yuusha-party-o-oida-sareta-kiyou-binbouu.z092/"
-            }
-        },
         "MangaFox": {
             "yuusha_party_wo_oidasareta_kiyoubinbou": {
+                "id": 175212,
                 "identifier": "yuusha_party_wo_oidasareta_kiyoubinbou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42355/cover.jpg",
                 "malId": 152565,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyfr7930q9twmp2qzprnz": {
+                "id": 210023,
                 "identifier": "01j76xyfr7930q9twmp2qzprnz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFR7930Q9TWMP2QZPRNZ.jpg",
                 "malId": 152565,
@@ -96,6 +69,19 @@
                 "title": "Yuusha Party o Oida Sareta Kiyou Binbou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFR7930Q9TWMP2QZPRNZ"
+            }
+        },
+        "MangaFire": {
+            "z092": {
+                "id": 225293,
+                "identifier": "z092",
+                "image": "https://static.mangafire.to/4a81/i/f/f2/f2237fde33538eb4bbb228be8583ecba.jpg",
+                "malId": 152565,
+                "aniId": 146878,
+                "page": "MangaFire",
+                "title": "Yuusha Party o Oida Sareta Kiyou Binbou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yuusha-party-o-oida-sareta-kiyou-binbouu.z092"
             }
         },
         "Comick": {

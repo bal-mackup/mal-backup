@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-oa992009": {
+                "id": 112632,
                 "identifier": "manga-oa992009",
                 "image": "https://avt.mkklcdnv6temp.com/40/g/26-1660718880.jpg",
                 "malId": 151680,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "1ab260ff-d153-44bf-af2a-fd3325d24bf3": {
+                "id": 112633,
                 "identifier": "1ab260ff-d153-44bf-af2a-fd3325d24bf3",
                 "image": "https://uploads.mangadex.org/covers/1ab260ff-d153-44bf-af2a-fd3325d24bf3/f181d798-9df3-4b41-adc6-90f3bb37a577.jpg",
                 "malId": 151680,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "rescue_system": {
+                "id": 112634,
                 "identifier": "rescue_system",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41871/cover.jpg",
                 "malId": 151680,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/rescue_system/"
             }
         },
-        "MangaFire": {
-            "rescue-system.6vmnz": {
-                "identifier": "rescue-system.6vmnz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65d1bfdc67dadc12fcf7c08a71db8cff.jpg",
-                "malId": 151680,
-                "aniId": 146354,
-                "page": "MangaFire",
-                "title": "Rescue System",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rescue-system.6vmnz/"
-            },
-            "rescue-systemm.6vmnz": {
-                "identifier": "rescue-systemm.6vmnz",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65d1bfdc67dadc12fcf7c08a71db8cff.jpg",
-                "malId": 151680,
-                "aniId": 146354,
-                "page": "MangaFire",
-                "title": "Rescue System",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rescue-systemm.6vmnz/"
-            }
-        },
         "MangaSee": {
             "rescue-system": {
+                "id": 170157,
                 "identifier": "rescue-system",
                 "image": "https://temp.compsci88.com/cover/Rescue-System.jpg",
                 "malId": 151680,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyggnzzgbwvhy4a6kh5sb": {
+                "id": 211734,
                 "identifier": "01j76xyggnzzgbwvhy4a6kh5sb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGGNZZGBWVHY4A6KH5SB.jpg",
                 "malId": 151680,
@@ -86,6 +69,19 @@
                 "title": "Rescue System",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGGNZZGBWVHY4A6KH5SB"
+            }
+        },
+        "MangaFire": {
+            "6vmnz": {
+                "id": 225716,
+                "identifier": "6vmnz",
+                "image": "https://static.mangafire.to/d40e/i/6/65/65d1bfdc67dadc12fcf7c08a71db8cff.jpg",
+                "malId": 151680,
+                "aniId": 146354,
+                "page": "MangaFire",
+                "title": "Rescue System",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rescue-systemm.6vmnz"
             }
         },
         "Comick": {

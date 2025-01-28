@@ -6,20 +6,9 @@
     "total": 16,
     "image": "https://cdn.myanimelist.net/images/manga/1/256727.jpg",
     "Sites": {
-        "MangaFire": {
-            "yasashii-shirokuma.rl13p": {
-                "identifier": "yasashii-shirokuma.rl13p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/593f50cd7ec893df43c85583841cd2eb.jpg",
-                "malId": 130800,
-                "aniId": 115777,
-                "page": "MangaFire",
-                "title": "Yasashii Shirokuma",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yasashii-shirokuma.rl13p/"
-            }
-        },
         "MangaNato": {
             "manga-hp984672": {
+                "id": 182320,
                 "identifier": "manga-hp984672",
                 "image": "https://avt.mkklcdnv6temp.com/fld/77/c/10-1732802612-nw.webp",
                 "malId": 130800,
@@ -28,6 +17,19 @@
                 "title": "Yasashii Shirokuma",
                 "type": "manga",
                 "url": "https://manganato.com/manga-hp984672"
+            }
+        },
+        "MangaFire": {
+            "rl13p": {
+                "id": 233869,
+                "identifier": "rl13p",
+                "image": "https://static.mangafire.to/26a2/i/5/59/593f50cd7ec893df43c85583841cd2eb.jpg",
+                "malId": 130800,
+                "aniId": 115777,
+                "page": "MangaFire",
+                "title": "Yasashii Shirokuma",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yasashii-shirokumaa.rl13p"
             }
         }
     },

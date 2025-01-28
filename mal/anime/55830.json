@@ -9,6 +9,7 @@
     "Sites": {
         "Gogoanime": {
             "fatestrange-fake-dub": {
+                "id": 72633,
                 "identifier": "fatestrange-fake-dub",
                 "image": "https://gogocdn.net/cover/fatestrange-fake-dub.png",
                 "malId": 55830,
@@ -21,6 +22,7 @@
         },
         "Zoro": {
             "19436": {
+                "id": 72786,
                 "identifier": "19436",
                 "image": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
                 "malId": 55830,
@@ -31,6 +33,19 @@
                 "url": "https://hianime.to/fatestrange-fake-19436"
             }
         },
+        "KickAssAnime": {
+            "fatestrange-fake-044b": {
+                "id": 73334,
+                "identifier": "fatestrange-fake-044b",
+                "image": "https://kaas.to/image/poster/fatestrange-fake-1eab-hq.jpg",
+                "malId": 55830,
+                "aniId": 166617,
+                "page": "KickAssAnime",
+                "title": "Fate/strange Fake",
+                "type": "anime",
+                "url": "https://kaas.to/fatestrange-fake-044b"
+            }
+        },
         "animepahe": {
             "5859": {
                 "identifier": "5859",
@@ -39,6 +54,18 @@
                 "page": "animepahe",
                 "title": "Fate/strange Fake",
                 "url": "https://animepahe.ru/a/5859",
+                "aniId": 166617
+            }
+        },
+        "Crunchyroll": {
+            "0": {
+                "title": "Fate/strange Fake",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
+                "identifier": 0,
+                "url": "https://www.crunchyroll.com/series/G4PH0WJQZ/fatestrange-fake",
+                "type": "anime",
+                "page": "Crunchyroll",
+                "external": true,
                 "aniId": 166617
             }
         }

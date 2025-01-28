@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "72b3ae65-f936-42b7-966a-891014ddebf4": {
+                "id": 18637,
                 "identifier": "72b3ae65-f936-42b7-966a-891014ddebf4",
-                "image": "https://uploads.mangadex.org/covers/72b3ae65-f936-42b7-966a-891014ddebf4/3d1bc664-2926-4516-b778-5de3ffe2fff2.jpg",
+                "image": "https://uploads.mangadex.org/covers/72b3ae65-f936-42b7-966a-891014ddebf4/5b95adad-78e2-426c-8469-f774fdda1bc6.jpg",
                 "malId": 110881,
                 "aniId": 102420,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "fushigi-ygi-byakko-senki": {
+                "id": 58575,
                 "identifier": "fushigi-ygi-byakko-senki",
                 "image": "https://temp.compsci88.com/cover/Fushigi-Ygi-Byakko-Senki.jpg",
                 "malId": 110881,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Fushigi-Ygi-Byakko-Senki"
             }
         },
-        "MangaFire": {
-            "fushigi-yuugi-byakko-senki.6v6o7": {
-                "identifier": "fushigi-yuugi-byakko-senki.6v6o7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81c25a107ed27a241c73963c8877e478.jpg",
-                "malId": 110881,
-                "aniId": 102420,
-                "page": "MangaFire",
-                "title": "Fushigi Yûgi: Byakko Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fushigi-yuugi-byakko-senki.6v6o7/"
-            },
-            "fushigi-yuugi-byakko-senkii.6v6o7": {
-                "identifier": "fushigi-yuugi-byakko-senkii.6v6o7",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81c25a107ed27a241c73963c8877e478.jpg",
-                "malId": 110881,
-                "aniId": 102420,
-                "page": "MangaFire",
-                "title": "Fushigi Yûgi: Byakko Senki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fushigi-yuugi-byakko-senkii.6v6o7/"
-            }
-        },
         "Weebcentral": {
             "01j76xydqx7tz1er2e29c76yry": {
+                "id": 212852,
                 "identifier": "01j76xydqx7tz1er2e29c76yry",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQX7TZ1ER2E29C76YRY.jpg",
                 "malId": 110881,
@@ -62,6 +43,19 @@
                 "title": "Fushigi Yuugi - Byakko Senki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQX7TZ1ER2E29C76YRY"
+            }
+        },
+        "MangaFire": {
+            "6v6o7": {
+                "id": 223855,
+                "identifier": "6v6o7",
+                "image": "https://static.mangafire.to/61af/i/8/81/81c25a107ed27a241c73963c8877e478.jpg",
+                "malId": 110881,
+                "aniId": 102420,
+                "page": "MangaFire",
+                "title": "Fushigi Yûgi: Byakko Senki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fushigi-yuugi-byakko-senkii.6v6o7"
             }
         },
         "Comick": {

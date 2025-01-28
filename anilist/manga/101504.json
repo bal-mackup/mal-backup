@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1259a331-cbab-4b92-bfc3-1a599119b463": {
+                "id": 29447,
                 "identifier": "1259a331-cbab-4b92-bfc3-1a599119b463",
                 "image": "https://uploads.mangadex.org/covers/1259a331-cbab-4b92-bfc3-1a599119b463/45719d59-c7ee-48e5-a3fe-e64e603a4348.jpg",
                 "malId": 113695,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/1259a331-cbab-4b92-bfc3-1a599119b463"
             }
         },
-        "MangaFire": {
-            "hinekure-sakura-ni-koi-ga-saku.m2m68": {
-                "identifier": "hinekure-sakura-ni-koi-ga-saku.m2m68",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c7865c87e85244a403d22f2fd1cf9f1.jpg",
-                "malId": 113695,
-                "aniId": 101504,
-                "page": "MangaFire",
-                "title": "Love Blooms for a Twisted Blossom",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hinekure-sakura-ni-koi-ga-saku.m2m68/"
-            }
-        },
         "MangaFox": {
             "hinekure_sakura_ni_koi_ga_saku": {
+                "id": 220262,
                 "identifier": "hinekure_sakura_ni_koi_ga_saku",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31030/cover.jpg",
                 "malId": 113695,
@@ -40,6 +30,19 @@
                 "title": "Hinekure Sakura ni Koi ga Saku",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/hinekure_sakura_ni_koi_ga_saku/"
+            }
+        },
+        "MangaFire": {
+            "m2m68": {
+                "id": 257687,
+                "identifier": "m2m68",
+                "image": "https://static.mangafire.to/048d/i/2/2c/2c7865c87e85244a403d22f2fd1cf9f1.jpg",
+                "malId": 113695,
+                "aniId": 101504,
+                "page": "MangaFire",
+                "title": "Love Blooms for a Twisted Blossom",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hinekure-sakura-ni-koi-ga-sakuu.m2m68"
             }
         },
         "Comick": {

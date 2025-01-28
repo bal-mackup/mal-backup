@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5b60d3fa-af54-4d29-aab2-9595ccf1db4b": {
+                "id": 109149,
                 "identifier": "5b60d3fa-af54-4d29-aab2-9595ccf1db4b",
                 "image": "https://uploads.mangadex.org/covers/5b60d3fa-af54-4d29-aab2-9595ccf1db4b/f1134223-8432-459e-9068-c82cb687097e.jpg",
                 "malId": 149014,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qf993888": {
+                "id": 123901,
                 "identifier": "manga-qf993888",
                 "image": "https://avt.mkklcdnv6temp.com/16/g/28-1675402823.jpg",
                 "malId": 149014,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qf993888"
             }
         },
-        "MangaFire": {
-            "retropolis-scratch.2oyj4": {
-                "identifier": "retropolis-scratch.2oyj4",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f6/ee18297dbd44a7c109bfdc962f670906.jpg",
-                "malId": 149014,
-                "aniId": 150658,
-                "page": "MangaFire",
-                "title": "Retropolis Scratches",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/retropolis-scratch.2oyj4/"
-            }
-        },
         "MangaSee": {
             "retropolis-scratch": {
+                "id": 159735,
                 "identifier": "retropolis-scratch",
                 "image": "https://temp.compsci88.com/cover/Retropolis-Scratch.jpg",
                 "malId": 149014,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg7tpnzjmtrtk2qesety": {
+                "id": 214179,
                 "identifier": "01j76xyg7tpnzjmtrtk2qesety",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG7TPNZJMTRTK2QESETY.jpg",
                 "malId": 149014,
@@ -64,6 +56,19 @@
                 "title": "Retropolis Scratch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG7TPNZJMTRTK2QESETY"
+            }
+        },
+        "MangaFire": {
+            "2oyj4": {
+                "id": 251183,
+                "identifier": "2oyj4",
+                "image": "https://static.mangafire.to/0471/i/f/f6/ee18297dbd44a7c109bfdc962f670906.jpg",
+                "malId": 149014,
+                "aniId": 150658,
+                "page": "MangaFire",
+                "title": "Retropolis Scratches",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/retropolis-scratchh.2oyj4"
             }
         },
         "Comick": {

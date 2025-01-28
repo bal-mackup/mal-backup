@@ -8,6 +8,7 @@
     "Sites": {
         "MangaFox": {
             "norn_9_norn_nonet": {
+                "id": 56637,
                 "identifier": "norn_9_norn_nonet",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14432/cover.jpg",
                 "malId": 81249,
@@ -18,30 +19,9 @@
                 "url": "https://fanfox.net/manga/norn_9_norn_nonet/"
             }
         },
-        "MangaFire": {
-            "norn9-nornnonet.32r2": {
-                "identifier": "norn9-nornnonet.32r2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e95f939047bde037dcc2eed984d20f60.jpg",
-                "malId": 81249,
-                "aniId": 93113,
-                "page": "MangaFire",
-                "title": "Norn9: Norn+Nonet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/norn9-nornnonet.32r2/"
-            },
-            "32r2": {
-                "identifier": "32r2",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e95f939047bde037dcc2eed984d20f60.jpg",
-                "malId": 81249,
-                "aniId": 93113,
-                "page": "MangaFire",
-                "title": "Norn9: Norn+Nonet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/norn9-nornnonet.32r2/"
-            }
-        },
         "MangaSee": {
             "norn9-norn-nonet": {
+                "id": 177369,
                 "identifier": "norn9-norn-nonet",
                 "image": "https://temp.compsci88.com/cover/Norn9-Norn-Nonet.jpg",
                 "malId": 81249,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xybe86jqfspak23phpwhd": {
+                "id": 213194,
                 "identifier": "01j76xybe86jqfspak23phpwhd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBE86JQFSPAK23PHPWHD.jpg",
                 "malId": 81249,
@@ -62,6 +43,19 @@
                 "title": "Norn 9 - Norn + Nonet",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBE86JQFSPAK23PHPWHD"
+            }
+        },
+        "MangaFire": {
+            "32r2": {
+                "id": 254452,
+                "identifier": "32r2",
+                "image": "https://static.mangafire.to/e961/i/e/e9/e95f939047bde037dcc2eed984d20f60.jpg",
+                "malId": 81249,
+                "aniId": 93113,
+                "page": "MangaFire",
+                "title": "Norn9: Norn+Nonet",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/norn9-nornnonett.32r2"
             }
         }
     },

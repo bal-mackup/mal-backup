@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "28074f2b-f393-474a-8b13-ec196c4be75e": {
+                "id": 110610,
                 "identifier": "28074f2b-f393-474a-8b13-ec196c4be75e",
                 "image": "https://uploads.mangadex.org/covers/28074f2b-f393-474a-8b13-ec196c4be75e/c4a43c0e-d06d-4d86-bc30-80e65c844495.jpg",
                 "malId": 148982,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/28074f2b-f393-474a-8b13-ec196c4be75e"
             }
         },
-        "MangaFire": {
-            "haru-no-arashi-to-monster.w1q96": {
-                "identifier": "haru-no-arashi-to-monster.w1q96",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ae/aee8dbeb3c4fcad5238f30465db4c097.jpg",
-                "malId": 148982,
-                "aniId": 151886,
-                "page": "MangaFire",
-                "title": "Spring Storm and Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/haru-no-arashi-to-monster.w1q96/"
-            },
-            "haru-no-arashi-to-monsterr.w1q96": {
-                "identifier": "haru-no-arashi-to-monsterr.w1q96",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ae/aee8dbeb3c4fcad5238f30465db4c097.jpg",
-                "malId": 148982,
-                "aniId": 151886,
-                "page": "MangaFire",
-                "title": "Spring Storm and Monster",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/haru-no-arashi-to-monsterr.w1q96/"
-            }
-        },
         "MangaNato": {
             "manga-sb996210": {
+                "id": 164810,
                 "identifier": "manga-sb996210",
                 "image": "https://avt.mkklcdnv6temp.com/fld/7/t/15-1733307034-nw.webp",
                 "malId": 148982,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01jbmvy2gaqyws7cwtd2m1qehs": {
+                "id": 215442,
                 "identifier": "01jbmvy2gaqyws7cwtd2m1qehs",
                 "image": "https://temp.compsci88.com/cover/fallback/01JBMVY2GAQYWS7CWTD2M1QEHS.jpg",
                 "malId": 148982,
@@ -62,6 +43,19 @@
                 "title": "Spring Storm and Monster",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01JBMVY2GAQYWS7CWTD2M1QEHS"
+            }
+        },
+        "MangaFire": {
+            "w1q96": {
+                "id": 248392,
+                "identifier": "w1q96",
+                "image": "https://static.mangafire.to/e7fd/i/a/ae/aee8dbeb3c4fcad5238f30465db4c097.jpg",
+                "malId": 148982,
+                "aniId": 151886,
+                "page": "MangaFire",
+                "title": "Spring Storm and Monster",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/haru-no-arashi-to-monsterr.w1q96"
             }
         },
         "Comick": {

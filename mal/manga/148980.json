@@ -6,20 +6,9 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/279304.jpg",
     "Sites": {
-        "MangaFire": {
-            "chikyuu-houchou.xvx6q": {
-                "identifier": "chikyuu-houchou.xvx6q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/2186f3aa6352e931f129479e6677f81b.jpg",
-                "malId": 148980,
-                "aniId": 151768,
-                "page": "MangaFire",
-                "title": "Chikyuu Houchou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikyuu-houchou.xvx6q/"
-            }
-        },
         "Mangadex": {
             "b1f52122-d6fe-45e3-9c9f-7adae1a09571": {
+                "id": 171304,
                 "identifier": "b1f52122-d6fe-45e3-9c9f-7adae1a09571",
                 "image": "https://uploads.mangadex.org/covers/b1f52122-d6fe-45e3-9c9f-7adae1a09571/c7304280-c98d-4bc2-a968-87d990126efe.jpg",
                 "malId": 148980,
@@ -30,13 +19,26 @@
                 "url": "https://mangadex.org/title/b1f52122-d6fe-45e3-9c9f-7adae1a09571"
             }
         },
+        "MangaFire": {
+            "xvx6q": {
+                "id": 241146,
+                "identifier": "xvx6q",
+                "image": "https://static.mangafire.to/9d20/i/2/21/2186f3aa6352e931f129479e6677f81b.jpg",
+                "malId": 148980,
+                "aniId": 151768,
+                "page": "MangaFire",
+                "title": "Chikyuu Houchou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chikyuu-houchouu.xvx6q"
+            }
+        },
         "Comick": {
             "Uq72Sguk": {
                 "identifier": "Uq72Sguk",
                 "malId": 148980,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Chikyuu Bouchou",
+                "title": "Earth Expansion",
                 "url": "https://comick.io/comic/chikyuu-bouchou",
                 "aniId": 151768
             }

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "79d43bcb-c2a3-4250-bd8e-c3e43077a457": {
+                "id": 34559,
                 "identifier": "79d43bcb-c2a3-4250-bd8e-c3e43077a457",
                 "image": "https://uploads.mangadex.org/covers/79d43bcb-c2a3-4250-bd8e-c3e43077a457/5373d50d-0ed1-4bd4-9815-c21bbcb814a5.jpg",
                 "malId": 126959,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "futago_complex": {
+                "id": 64023,
                 "identifier": "futago_complex",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33508/cover.jpg",
                 "malId": 126959,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-hv985130": {
+                "id": 79447,
                 "identifier": "manga-hv985130",
                 "image": "https://avt.mkklcdnv6temp.com/2/q/21-1586709917.jpg",
                 "malId": 126959,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "futago-complex": {
+                "id": 112591,
                 "identifier": "futago-complex",
                 "image": "https://temp.compsci88.com/cover/Futago-Complex.jpg",
                 "malId": 126959,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Futago-Complex"
             }
         },
-        "MangaFire": {
-            "futago-complex.m2yx7": {
-                "identifier": "futago-complex.m2yx7",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9e/9e0fe1eb7fcc110fc531d342dcc4368c.jpg",
-                "malId": 126959,
-                "aniId": 118425,
-                "page": "MangaFire",
-                "title": "Futago Complex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/futago-complex.m2yx7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfk7gvhnd5y10b90grq0": {
+                "id": 212847,
                 "identifier": "01j76xyfk7gvhnd5y10b90grq0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFK7GVHND5Y10B90GRQ0.jpg",
                 "malId": 126959,
@@ -76,6 +69,19 @@
                 "title": "Futago Complex",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFK7GVHND5Y10B90GRQ0"
+            }
+        },
+        "MangaFire": {
+            "m2yx7": {
+                "id": 260442,
+                "identifier": "m2yx7",
+                "image": "https://static.mangafire.to/8b03/i/9/9e/9e0fe1eb7fcc110fc531d342dcc4368c.jpg",
+                "malId": 126959,
+                "aniId": 118425,
+                "page": "MangaFire",
+                "title": "Futago Complex",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/futago-complexx.m2yx7"
             }
         },
         "Comick": {

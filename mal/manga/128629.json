@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dd76f0f0-e83c-4f51-8328-898918e1f0e1": {
+                "id": 35753,
                 "identifier": "dd76f0f0-e83c-4f51-8328-898918e1f0e1",
                 "image": "https://uploads.mangadex.org/covers/dd76f0f0-e83c-4f51-8328-898918e1f0e1/7c275088-8e3f-4876-a7b7-8965c0474a5b.jpg",
                 "malId": 128629,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "araki-wont-be-tamed": {
+                "id": 71671,
                 "identifier": "araki-wont-be-tamed",
                 "image": "https://temp.compsci88.com/cover/Araki-Wont-Be-Tamed.jpg",
                 "malId": 128629,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-id986086": {
+                "id": 86096,
                 "identifier": "manga-id986086",
                 "image": "https://avt.mkklcdnv6temp.com/42/t/21-1596273145.jpg",
                 "malId": 128629,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "araki_kun_wa_kai_narasenai": {
+                "id": 92414,
                 "identifier": "araki_kun_wa_kai_narasenai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34900/cover.jpg",
                 "malId": 128629,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/araki_kun_wa_kai_narasenai/"
             }
         },
-        "MangaFire": {
-            "araki-kun-wa-kai-narasenai.vvpx6": {
-                "identifier": "araki-kun-wa-kai-narasenai.vvpx6",
-                "image": "https://static.mangafire.to/3b2d5/i/b/be/be1b3b180ad80f8b083c0b20aad600b1.jpg",
-                "malId": 128629,
-                "aniId": 121409,
-                "page": "MangaFire",
-                "title": "Araki Won't Be Tamed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/araki-kun-wa-kai-narasenai.vvpx6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyepw1j90ext9ej7w5r1d": {
+                "id": 214171,
                 "identifier": "01j76xyepw1j90ext9ej7w5r1d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPW1J90EXT9EJ7W5R1D.jpg",
                 "malId": 128629,
@@ -76,6 +69,19 @@
                 "title": "Araki Won't Be Tamed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPW1J90EXT9EJ7W5R1D"
+            }
+        },
+        "MangaFire": {
+            "vvpx6": {
+                "id": 262346,
+                "identifier": "vvpx6",
+                "image": "https://static.mangafire.to/8df8/i/b/be/be1b3b180ad80f8b083c0b20aad600b1.jpg",
+                "malId": 128629,
+                "aniId": 121409,
+                "page": "MangaFire",
+                "title": "Araki Won't Be Tamed",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/araki-kun-wa-kai-narasenaii.vvpx6"
             }
         },
         "MangaReader": {

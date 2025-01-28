@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a08f45d1-788a-4b7c-b1c4-b87b083e1b59": {
+                "id": 107127,
                 "identifier": "a08f45d1-788a-4b7c-b1c4-b87b083e1b59",
                 "image": "https://uploads.mangadex.org/covers/a08f45d1-788a-4b7c-b1c4-b87b083e1b59/4123a88a-a520-4f95-b02d-7d8bc65ea0ab.jpg",
                 "malId": 150561,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ng991163": {
+                "id": 107164,
                 "identifier": "manga-ng991163",
                 "image": "https://avt.mkklcdnv6temp.com/3/w/26-1655084574.jpg",
                 "malId": 150561,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "i_obtained_a_mythic_item": {
+                "id": 108639,
                 "identifier": "i_obtained_a_mythic_item",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43062/cover.jpg",
                 "malId": 150561,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "mythic-item-obtained": {
+                "id": 116158,
                 "identifier": "mythic-item-obtained",
                 "image": "https://temp.compsci88.com/cover/Mythic-Item-Obtained.jpg",
                 "malId": 150561,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Mythic-Item-Obtained"
             }
         },
-        "MangaFire": {
-            "i-obtained-a-mythic-item.8035n": {
-                "identifier": "i-obtained-a-mythic-item.8035n",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/1426c3be50ade13101b8be39ea07ba2a.jpg",
-                "malId": 150561,
-                "aniId": 151025,
-                "page": "MangaFire",
-                "title": "Mythic Item Obtained",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-obtained-a-mythic-item.8035n/"
-            },
-            "i-obtained-a-mythic-itemm.8035n": {
-                "identifier": "i-obtained-a-mythic-itemm.8035n",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/1426c3be50ade13101b8be39ea07ba2a.jpg",
-                "malId": 150561,
-                "aniId": 151025,
-                "page": "MangaFire",
-                "title": "Mythic Item Obtained",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-obtained-a-mythic-itemm.8035n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfqav9kjq57naas3h5en": {
+                "id": 212284,
                 "identifier": "01j76xyfqav9kjq57naas3h5en",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFQAV9KJQ57NAAS3H5EN.jpg",
                 "malId": 150561,
@@ -86,6 +69,19 @@
                 "title": "Mythic Item Obtained",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFQAV9KJQ57NAAS3H5EN"
+            }
+        },
+        "MangaFire": {
+            "8035n": {
+                "id": 226158,
+                "identifier": "8035n",
+                "image": "https://static.mangafire.to/01d2/i/1/14/1426c3be50ade13101b8be39ea07ba2a.jpg",
+                "malId": 150561,
+                "aniId": 151025,
+                "page": "MangaFire",
+                "title": "Mythic Item Obtained",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-obtained-a-mythic-itemm.8035n"
             }
         },
         "Comick": {

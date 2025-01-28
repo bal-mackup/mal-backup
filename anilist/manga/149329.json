@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5dc30682-a224-4f47-b695-f4fab7e26b68": {
+                "id": 104400,
                 "identifier": "5dc30682-a224-4f47-b695-f4fab7e26b68",
                 "image": "https://uploads.mangadex.org/covers/5dc30682-a224-4f47-b695-f4fab7e26b68/613406ca-93bd-49f9-84ab-f2ca90d48193.jpg",
                 "malId": 150788,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/5dc30682-a224-4f47-b695-f4fab7e26b68"
             },
             "3f7a98eb-568c-4685-8215-d057e0966bc9": {
+                "id": 119600,
                 "identifier": "3f7a98eb-568c-4685-8215-d057e0966bc9",
                 "image": "https://uploads.mangadex.org/covers/3f7a98eb-568c-4685-8215-d057e0966bc9/fdbeaeb4-d904-4304-ad38-46c7d1ea6b67.jpg",
                 "malId": 150788,
@@ -30,6 +32,7 @@
         },
         "MangaNato": {
             "manga-nz990908": {
+                "id": 105876,
                 "identifier": "manga-nz990908",
                 "image": "https://avt.mkklcdnv6temp.com/43/t/25-1653916496.jpg",
                 "malId": 150788,
@@ -40,6 +43,7 @@
                 "url": "https://chapmanganato.com/manga-nz990908"
             },
             "manga-wm999895": {
+                "id": 178059,
                 "identifier": "manga-wm999895",
                 "image": "https://avt.mkklcdnv6temp.com/fld/48/h/16-1733316505-nw.webp",
                 "malId": 150788,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "dorei-wo-choukyoushite-harem-tsukuru": {
+                "id": 114395,
                 "identifier": "dorei-wo-choukyoushite-harem-tsukuru",
                 "image": "https://temp.compsci88.com/cover/Dorei-wo-Choukyoushite-Harem-Tsukuru.jpg",
                 "malId": 150788,
@@ -62,40 +67,9 @@
                 "url": "https://mangasee123.com/manga/Dorei-wo-Choukyoushite-Harem-Tsukuru"
             }
         },
-        "MangaFire": {
-            "dorei-wo-choukyoushite-harem-tsukuru.ll7q3": {
-                "identifier": "dorei-wo-choukyoushite-harem-tsukuru.ll7q3",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/846e771ee05a8edd619a667a16fdc91d.jpg",
-                "malId": 150788,
-                "aniId": 149329,
-                "page": "MangaFire",
-                "title": "Dorei wo Choukyoushite Harem Tsukuru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorei-wo-choukyoushite-harem-tsukuru.ll7q3/"
-            },
-            "dorei-wo-choukyoushite-harem-tsukuru-kaisou-hen.lr98q": {
-                "identifier": "dorei-wo-choukyoushite-harem-tsukuru-kaisou-hen.lr98q",
-                "image": "https://static.mangafire.to/3b2d5/i/2/27/5f3756f6611a25f3df85c69e5199e731.jpg",
-                "malId": 150788,
-                "aniId": 149329,
-                "page": "MangaFire",
-                "title": "Dorei wo Choukyoushite Harem Tsukuru Kaisou Hen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorei-wo-choukyoushite-harem-tsukuru-kaisou-hen.lr98q/"
-            },
-            "dorei-wo-choukyoushite-harem-tsukuruu.ll7q3": {
-                "identifier": "dorei-wo-choukyoushite-harem-tsukuruu.ll7q3",
-                "image": "https://static.mangafire.to/3b2d5/i/8/84/846e771ee05a8edd619a667a16fdc91d.jpg",
-                "malId": 150788,
-                "aniId": 149329,
-                "page": "MangaFire",
-                "title": "Dorei wo Choukyoushite Harem Tsukuru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorei-wo-choukyoushite-harem-tsukuruu.ll7q3/"
-            }
-        },
         "MangaFox": {
             "dorei_wo_choukyoushite_harem_tsukuru": {
+                "id": 158323,
                 "identifier": "dorei_wo_choukyoushite_harem_tsukuru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44701/cover.jpg",
                 "malId": 150788,
@@ -108,6 +82,7 @@
         },
         "Weebcentral": {
             "01j76xyfnnmb68m0ds37kb45b0": {
+                "id": 213277,
                 "identifier": "01j76xyfnnmb68m0ds37kb45b0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFNNMB68M0DS37KB45B0.jpg",
                 "malId": 150788,
@@ -116,6 +91,30 @@
                 "title": "Dorei wo Choukyoushite Harem Tsukuru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFNNMB68M0DS37KB45B0"
+            }
+        },
+        "MangaFire": {
+            "ll7q3": {
+                "id": 226872,
+                "identifier": "ll7q3",
+                "image": "https://static.mangafire.to/c705/i/8/84/846e771ee05a8edd619a667a16fdc91d.jpg",
+                "malId": 150788,
+                "aniId": 149329,
+                "page": "MangaFire",
+                "title": "Dorei wo Choukyoushite Harem Tsukuru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dorei-wo-choukyoushite-harem-tsukuruu.ll7q3"
+            },
+            "lr98q": {
+                "id": 233191,
+                "identifier": "lr98q",
+                "image": "https://static.mangafire.to/79e9/i/2/27/5f3756f6611a25f3df85c69e5199e731.jpg",
+                "malId": 150788,
+                "aniId": 149329,
+                "page": "MangaFire",
+                "title": "Dorei wo Choukyoushite Harem Tsukuru Kaisou Hen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dorei-wo-choukyoushite-harem-tsukuru-kaisou-henn.lr98q"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e7eabe96-aa17-476f-b431-2497d5e9d060": {
+                "id": 12875,
                 "identifier": "e7eabe96-aa17-476f-b431-2497d5e9d060",
                 "image": "https://uploads.mangadex.org/covers/e7eabe96-aa17-476f-b431-2497d5e9d060/f48d2c1f-c5a3-4e83-b6b4-8cb8b6912205.jpg",
                 "malId": 86337,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/e7eabe96-aa17-476f-b431-2497d5e9d060"
             },
             "74bada5e-5cf6-4ef5-8cd8-7d1b5fe6eef9": {
+                "id": 28419,
                 "identifier": "74bada5e-5cf6-4ef5-8cd8-7d1b5fe6eef9",
                 "image": "https://uploads.mangadex.org/covers/74bada5e-5cf6-4ef5-8cd8-7d1b5fe6eef9/1b59ce6a-879f-44a9-9db1-afa00095b371.jpg",
                 "malId": 86337,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "black_clover": {
+                "id": 53849,
                 "identifier": "black_clover",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15291/cover.jpg",
                 "malId": 86337,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "black-clover": {
+                "id": 54065,
                 "identifier": "black-clover",
                 "image": "https://temp.compsci88.com/cover/Black-Clover.jpg",
                 "malId": 86337,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-eh951664": {
+                "id": 73442,
                 "identifier": "manga-eh951664",
                 "image": "https://avt.mkklcdnv6temp.com/12/p/1-1583464155.jpg",
                 "malId": 86337,
@@ -64,50 +69,9 @@
                 "url": "https://chapmanganato.com/manga-eh951664"
             }
         },
-        "MangaFire": {
-            "black-clover.pp4": {
-                "identifier": "black-clover.pp4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d8fd48b71ebd5f32a2392b5e71eeb3c6.jpg",
-                "malId": 86337,
-                "aniId": 86123,
-                "page": "MangaFire",
-                "title": "Black Clover",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-clover.pp4/"
-            },
-            "black-clover-fan-colored.rwr8n": {
-                "identifier": "black-clover-fan-colored.rwr8n",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/618fdb04c0d25c57100b03b3c92fe265.jpg",
-                "malId": 86337,
-                "aniId": 86123,
-                "page": "MangaFire",
-                "title": "Black Clover (Fan Colored)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-clover-fan-colored.rwr8n/"
-            },
-            "black-cloverr.pp4": {
-                "identifier": "black-cloverr.pp4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/d8fd48b71ebd5f32a2392b5e71eeb3c6.jpg",
-                "malId": 86337,
-                "aniId": 86123,
-                "page": "MangaFire",
-                "title": "Black Clover",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-cloverr.pp4/"
-            },
-            "black-clover-fan-coloredd.rwr8n": {
-                "identifier": "black-clover-fan-coloredd.rwr8n",
-                "image": "https://static.mangafire.to/3b2d5/i/6/61/618fdb04c0d25c57100b03b3c92fe265.jpg",
-                "malId": 86337,
-                "aniId": 86123,
-                "page": "MangaFire",
-                "title": "Black Clover (Fan Colored)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/black-clover-fan-coloredd.rwr8n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb8hnwaraq67a4gawg5y": {
+                "id": 207763,
                 "identifier": "01j76xyb8hnwaraq67a4gawg5y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB8HNWARAQ67A4GAWG5Y.jpg",
                 "malId": 86337,
@@ -116,6 +80,30 @@
                 "title": "Black Clover",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB8HNWARAQ67A4GAWG5Y"
+            }
+        },
+        "MangaFire": {
+            "rwr8n": {
+                "id": 224475,
+                "identifier": "rwr8n",
+                "image": "https://static.mangafire.to/05cb/i/6/61/618fdb04c0d25c57100b03b3c92fe265.jpg",
+                "malId": 86337,
+                "aniId": 86123,
+                "page": "MangaFire",
+                "title": "Black Clover (Fan Colored)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/black-clover-fan-coloredd.rwr8n"
+            },
+            "pp4": {
+                "id": 228597,
+                "identifier": "pp4",
+                "image": "https://static.mangafire.to/2385/i/d/d8/d8fd48b71ebd5f32a2392b5e71eeb3c6.jpg",
+                "malId": 86337,
+                "aniId": 86123,
+                "page": "MangaFire",
+                "title": "Black Clover",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/black-cloverr.pp4"
             }
         },
         "Comick": {

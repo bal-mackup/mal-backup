@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "993d694f-7756-4fb8-84fd-31e7b563d432": {
+                "id": 89724,
                 "identifier": "993d694f-7756-4fb8-84fd-31e7b563d432",
                 "image": "https://uploads.mangadex.org/covers/993d694f-7756-4fb8-84fd-31e7b563d432/e812887c-92d0-47b2-92f9-c13cbe422738.jpg",
                 "malId": 140228,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-om991447": {
+                "id": 108610,
                 "identifier": "manga-om991447",
                 "image": "https://avt.mkklcdnv6temp.com/17/d/26-1656644709.jpg",
                 "malId": 140228,
@@ -30,6 +32,7 @@
                 "url": "https://manganato.com/manga-om991447"
             },
             "manga-oa991583": {
+                "id": 109421,
                 "identifier": "manga-oa991583",
                 "image": "https://avt.mkklcdnv6temp.com/22/t/26-1657596535.jpg",
                 "malId": 140228,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "saint-of-black-kite": {
+                "id": 114471,
                 "identifier": "saint-of-black-kite",
                 "image": "https://temp.compsci88.com/cover/Saint-of-Black-Kite.jpg",
                 "malId": 140228,
@@ -52,30 +56,9 @@
                 "url": "https://mangasee123.com/manga/Saint-of-Black-Kite"
             }
         },
-        "MangaFire": {
-            "kurotonbi-no-seija.6lqpp": {
-                "identifier": "kurotonbi-no-seija.6lqpp",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a0109d02dbb0bc7fe78e3340188ef9df.jpg",
-                "malId": 140228,
-                "aniId": 142919,
-                "page": "MangaFire",
-                "title": "Saint of Black Kite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurotonbi-no-seija.6lqpp/"
-            },
-            "kurotonbi-no-seijaa.6lqpp": {
-                "identifier": "kurotonbi-no-seijaa.6lqpp",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a0109d02dbb0bc7fe78e3340188ef9df.jpg",
-                "malId": 140228,
-                "aniId": 142919,
-                "page": "MangaFire",
-                "title": "Saint of Black Kite",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kurotonbi-no-seijaa.6lqpp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfp3gkqc0crhf81c5nmy": {
+                "id": 207430,
                 "identifier": "01j76xyfp3gkqc0crhf81c5nmy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFP3GKQC0CRHF81C5NMY.jpg",
                 "malId": 140228,
@@ -84,6 +67,19 @@
                 "title": "Saint of Black Kite",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFP3GKQC0CRHF81C5NMY"
+            }
+        },
+        "MangaFire": {
+            "6lqpp": {
+                "id": 224818,
+                "identifier": "6lqpp",
+                "image": "https://static.mangafire.to/0a55/i/a/a0/a0109d02dbb0bc7fe78e3340188ef9df.jpg",
+                "malId": 140228,
+                "aniId": 142919,
+                "page": "MangaFire",
+                "title": "Saint of Black Kite",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kurotonbi-no-seijaa.6lqpp"
             }
         },
         "Comick": {

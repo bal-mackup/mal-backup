@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "248525ed-ad1c-4ddc-a834-5d6ce66a3ad2": {
+                "id": 15182,
                 "identifier": "248525ed-ad1c-4ddc-a834-5d6ce66a3ad2",
-                "image": "https://uploads.mangadex.org/covers/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2/71883b1e-af00-4512-85ca-919f5ee63cfe.jpg",
+                "image": "https://uploads.mangadex.org/covers/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2/7ed3ce73-0c20-4c51-ab0d-ec2adb5ee376.jpg",
                 "malId": 96528,
                 "aniId": 96834,
                 "page": "Mangadex",
-                "title": "Arifureta Shokugyou de Sekai Saikyou",
+                "title": "Arifureta: From Commonplace to World's Strongest",
                 "type": "manga",
                 "url": "https://mangadex.org/title/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2"
             }
         },
         "MangaSee": {
             "arifureta-shokugyou-de-sekai-saikyou": {
+                "id": 56084,
                 "identifier": "arifureta-shokugyou-de-sekai-saikyou",
                 "image": "https://temp.compsci88.com/cover/Arifureta-Shokugyou-De-Sekai-Saikyou.jpg",
                 "malId": 96528,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "arifureta_shokugyou_de_sekai_saikyou": {
+                "id": 57343,
                 "identifier": "arifureta_shokugyou_de_sekai_saikyou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18953/cover.jpg",
                 "malId": 96528,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/arifureta_shokugyou_de_sekai_saikyou/"
             },
             "arifureta_shokugyou_de_sekai_saikyou_novel": {
+                "id": 61548,
                 "identifier": "arifureta_shokugyou_de_sekai_saikyou_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44663/cover.jpg",
                 "malId": 96528,
@@ -52,6 +56,7 @@
                 "url": "https://fanfox.net/manga/arifureta_shokugyou_de_sekai_saikyou_novel/"
             },
             "arifureta_shokugyou_de_sekai_saikyou_novel_delete": {
+                "id": 119483,
                 "identifier": "arifureta_shokugyou_de_sekai_saikyou_novel_delete",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29027/cover.jpg",
                 "malId": 96528,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-sx970306": {
+                "id": 72823,
                 "identifier": "manga-sx970306",
                 "image": "https://avt.mkklcdnv6temp.com/25/q/13-1583488667.jpg",
                 "malId": 96528,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-sx970306"
             }
         },
-        "MangaFire": {
-            "arifureta-shokugyou-de-sekai-saikyou.9ooy0": {
-                "identifier": "arifureta-shokugyou-de-sekai-saikyou.9ooy0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17953d090d55b947ce3ff77c2da4a391.jpg",
-                "malId": 96528,
-                "aniId": 96834,
-                "page": "MangaFire",
-                "title": "Arifureta: From Commonplace to World’s Strongest",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arifureta-shokugyou-de-sekai-saikyou.9ooy0/"
-            },
-            "arifureta-shokugyou-de-sekai-saikyouu.9ooy0": {
-                "identifier": "arifureta-shokugyou-de-sekai-saikyouu.9ooy0",
-                "image": "https://static.mangafire.to/3b2d5/i/1/17/17953d090d55b947ce3ff77c2da4a391.jpg",
-                "malId": 96528,
-                "aniId": 96834,
-                "page": "MangaFire",
-                "title": "Arifureta: From Commonplace to World’s Strongest",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arifureta-shokugyou-de-sekai-saikyouu.9ooy0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybp1z293445w6kg5x0ck": {
+                "id": 206763,
                 "identifier": "01j76xybp1z293445w6kg5x0ck",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBP1Z293445W6KG5X0CK.jpg",
                 "malId": 96528,
@@ -106,6 +91,19 @@
                 "title": "Arifureta - From Commonplace to World's Strongest",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBP1Z293445W6KG5X0CK"
+            }
+        },
+        "MangaFire": {
+            "9ooy0": {
+                "id": 226473,
+                "identifier": "9ooy0",
+                "image": "https://static.mangafire.to/f032/i/1/17/17953d090d55b947ce3ff77c2da4a391.jpg",
+                "malId": 96528,
+                "aniId": 96834,
+                "page": "MangaFire",
+                "title": "Arifureta: From Commonplace to World’s Strongest",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/arifureta-shokugyou-de-sekai-saikyouu.9ooy0"
             }
         },
         "Comick": {

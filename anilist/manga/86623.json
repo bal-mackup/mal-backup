@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "a71e9594-6269-447f-99fa-3d4c8e1fff6f": {
+                "id": 13769,
                 "identifier": "a71e9594-6269-447f-99fa-3d4c8e1fff6f",
-                "image": "https://uploads.mangadex.org/covers/a71e9594-6269-447f-99fa-3d4c8e1fff6f/78dc640c-6db3-4414-a8db-0ba9be8c80b1.jpg",
+                "image": "https://uploads.mangadex.org/covers/a71e9594-6269-447f-99fa-3d4c8e1fff6f/a30e3452-0a69-4ce1-8a01-1e6aa0d6781b.jpg",
                 "malId": 80841,
                 "aniId": 86623,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hakumei-to-mikochi": {
+                "id": 59084,
                 "identifier": "hakumei-to-mikochi",
                 "image": "https://temp.compsci88.com/cover/Hakumei-To-Mikochi.jpg",
                 "malId": 80841,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hakumei_to_mikochi": {
+                "id": 69902,
                 "identifier": "hakumei_to_mikochi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16851/cover.jpg",
                 "malId": 80841,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-wr952100": {
+                "id": 80625,
                 "identifier": "manga-wr952100",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/p/1-1732717575-nw.webp",
                 "malId": 80841,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-wr952100"
             }
         },
-        "MangaFire": {
-            "hakumei-and-mikochi.qxwwv": {
-                "identifier": "hakumei-and-mikochi.qxwwv",
-                "image": "https://static.mangafire.to/3b2d5/i/5/53/537135e9d1d7a7f1235d580d3ff6ab3a.jpg",
-                "malId": 80841,
-                "aniId": 86623,
-                "page": "MangaFire",
-                "title": "Hakumei & Mikochi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hakumei-and-mikochi.qxwwv/"
-            }
-        },
         "Weebcentral": {
             "01j76xybh16cqm34mswfawdqed": {
+                "id": 212743,
                 "identifier": "01j76xybh16cqm34mswfawdqed",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBH16CQM34MSWFAWDQED.jpg",
                 "malId": 80841,
@@ -76,6 +69,19 @@
                 "title": "Hakumei & Mikochi - Tiny Little Life in the Woods",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBH16CQM34MSWFAWDQED"
+            }
+        },
+        "MangaFire": {
+            "qxwwv": {
+                "id": 261379,
+                "identifier": "qxwwv",
+                "image": "https://static.mangafire.to/cd29/i/5/53/537135e9d1d7a7f1235d580d3ff6ab3a.jpg",
+                "malId": 80841,
+                "aniId": 86623,
+                "page": "MangaFire",
+                "title": "Hakumei & Mikochi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hakumei-and-mikochii.qxwwv"
             }
         },
         "Comick": {

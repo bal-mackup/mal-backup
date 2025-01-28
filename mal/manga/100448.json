@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "9e03b2ca-5191-44a6-88b6-c0cd49d06b51": {
+                "id": 18454,
                 "identifier": "9e03b2ca-5191-44a6-88b6-c0cd49d06b51",
-                "image": "https://uploads.mangadex.org/covers/9e03b2ca-5191-44a6-88b6-c0cd49d06b51/2628b5d3-b121-4d47-ada7-c9dd3ba3e267.jpg",
+                "image": "https://uploads.mangadex.org/covers/9e03b2ca-5191-44a6-88b6-c0cd49d06b51/28988224-7496-4501-b864-f87eb3b9a603.jpg",
                 "malId": 100448,
                 "aniId": 97553,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "jumyou_wo_kaitotte_moratta_ichinen_ni_tsuki_ichimanen_de": {
+                "id": 55208,
                 "identifier": "jumyou_wo_kaitotte_moratta_ichinen_ni_tsuki_ichimanen_de",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26936/cover.jpg",
                 "malId": 100448,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de": {
+                "id": 58370,
                 "identifier": "jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de",
                 "image": "https://temp.compsci88.com/cover/Jumyou-Wo-Kaitotte-Moratta-Ichinen-Ni-Tsuki-Ichimanen-De.jpg",
                 "malId": 100448,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ao978349": {
+                "id": 76696,
                 "identifier": "manga-ao978349",
                 "image": "https://avt.mkklcdnv6temp.com/8/z/16-1583493796.jpg",
                 "malId": 100448,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ao978349"
             }
         },
-        "MangaFire": {
-            "i-sold-my-life-for-10000-yen-per-year.v572": {
-                "identifier": "i-sold-my-life-for-10000-yen-per-year.v572",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38fa7fb7fe0a13462d9ba4aa87955bd1.jpg",
-                "malId": 100448,
-                "aniId": 97553,
-                "page": "MangaFire",
-                "title": "I sold my life for ten thousand yen per year.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-sold-my-life-for-10000-yen-per-year.v572/"
-            },
-            "i-sold-my-life-for-10000-yen-per-yearr.v572": {
-                "identifier": "i-sold-my-life-for-10000-yen-per-yearr.v572",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/38fa7fb7fe0a13462d9ba4aa87955bd1.jpg",
-                "malId": 100448,
-                "aniId": 97553,
-                "page": "MangaFire",
-                "title": "I sold my life for ten thousand yen per year.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-sold-my-life-for-10000-yen-per-yearr.v572/"
-            }
-        },
         "Weebcentral": {
             "01j76xycj4eec58nkcnybx4x7d": {
+                "id": 206154,
                 "identifier": "01j76xycj4eec58nkcnybx4x7d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJ4EEC58NKCNYBX4X7D.jpg",
                 "malId": 100448,
@@ -86,6 +69,19 @@
                 "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJ4EEC58NKCNYBX4X7D"
+            }
+        },
+        "MangaFire": {
+            "v572": {
+                "id": 229041,
+                "identifier": "v572",
+                "image": "https://static.mangafire.to/db39/i/3/38/38fa7fb7fe0a13462d9ba4aa87955bd1.jpg",
+                "malId": 100448,
+                "aniId": 97553,
+                "page": "MangaFire",
+                "title": "I sold my life for ten thousand yen per year.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-sold-my-life-for-10000-yen-per-yearr.v572"
             }
         },
         "Comick": {

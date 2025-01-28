@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "judos": {
+                "id": 72698,
                 "identifier": "judos",
                 "image": "https://temp.compsci88.com/cover/Judos.jpg",
                 "malId": 79819,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lv962456": {
+                "id": 123616,
                 "identifier": "manga-lv962456",
                 "image": "https://avt.mkklcdnv6temp.com/fld/69/k/4-1732763507-nw.webp",
                 "malId": 79819,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "judos": {
+                "id": 123618,
                 "identifier": "judos",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14391/cover.jpg",
                 "malId": 79819,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/judos/"
             }
         },
-        "MangaFire": {
-            "judos.z1l7w": {
-                "identifier": "judos.z1l7w",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a8ee979e338974ae5d3312a43d56278.jpg",
-                "malId": 79819,
-                "aniId": 85652,
-                "page": "MangaFire",
-                "title": "Judos",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/judos.z1l7w/"
-            },
-            "z1l7w": {
-                "identifier": "z1l7w",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0a/0a8ee979e338974ae5d3312a43d56278.jpg",
-                "malId": 79819,
-                "aniId": 85652,
-                "page": "MangaFire",
-                "title": "Judos",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/judos.z1l7w/"
-            }
-        },
         "Weebcentral": {
             "01j76xyapp0ds1wtnzrjfcj0fq": {
+                "id": 214274,
                 "identifier": "01j76xyapp0ds1wtnzrjfcj0fq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAPP0DS1WTNZRJFCJ0FQ.jpg",
                 "malId": 79819,
@@ -74,6 +56,19 @@
                 "title": "Judos",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAPP0DS1WTNZRJFCJ0FQ"
+            }
+        },
+        "MangaFire": {
+            "z1l7w": {
+                "id": 259647,
+                "identifier": "z1l7w",
+                "image": "https://static.mangafire.to/b8cd/i/0/0a/0a8ee979e338974ae5d3312a43d56278.jpg",
+                "malId": 79819,
+                "aniId": 85652,
+                "page": "MangaFire",
+                "title": "Judos",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/judoss.z1l7w"
             }
         },
         "Comick": {

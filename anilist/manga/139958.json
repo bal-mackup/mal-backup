@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-ml989846": {
+                "id": 88884,
                 "identifier": "manga-ml989846",
                 "image": "https://avt.mkklcdnv6temp.com/49/f/24-1634358999.jpg",
                 "malId": 148102,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "0921290d-65cc-4f05-8c98-08c5fd0a8e71": {
+                "id": 90156,
                 "identifier": "0921290d-65cc-4f05-8c98-08c5fd0a8e71",
                 "image": "https://uploads.mangadex.org/covers/0921290d-65cc-4f05-8c98-08c5fd0a8e71/18c46c31-e281-4646-b42c-7e2d493ae17b.jpg",
                 "malId": 148102,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "baroness-goes-on-strike": {
+                "id": 128884,
                 "identifier": "baroness-goes-on-strike",
                 "image": "https://temp.compsci88.com/cover/Baroness-Goes-on-Strike.jpg",
                 "malId": 148102,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Baroness-Goes-on-Strike"
             }
         },
-        "MangaFire": {
-            "honey-im-going-on-strike.m2mmv": {
-                "identifier": "honey-im-going-on-strike.m2mmv",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e924bab0bc77c43475f09883aad0e4df.jpg",
-                "malId": 148102,
-                "aniId": 139958,
-                "page": "MangaFire",
-                "title": "Baroness Goes on Strike",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/honey-im-going-on-strike.m2mmv/"
-            },
-            "honey-im-going-on-strikee.m2mmv": {
-                "identifier": "honey-im-going-on-strikee.m2mmv",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e924bab0bc77c43475f09883aad0e4df.jpg",
-                "malId": 148102,
-                "aniId": 139958,
-                "page": "MangaFire",
-                "title": "Baroness Goes on Strike",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/honey-im-going-on-strikee.m2mmv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg0v1nry0ajv31z6fqap": {
+                "id": 209965,
                 "identifier": "01j76xyg0v1nry0ajv31z6fqap",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG0V1NRY0AJV31Z6FQAP.jpg",
                 "malId": 148102,
@@ -74,6 +56,19 @@
                 "title": "Baroness Goes On Strike",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG0V1NRY0AJV31Z6FQAP"
+            }
+        },
+        "MangaFire": {
+            "m2mmv": {
+                "id": 225818,
+                "identifier": "m2mmv",
+                "image": "https://static.mangafire.to/9fd8/i/e/e9/e924bab0bc77c43475f09883aad0e4df.jpg",
+                "malId": 148102,
+                "aniId": 139958,
+                "page": "MangaFire",
+                "title": "Baroness Goes on Strike",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/honey-im-going-on-strikee.m2mmv"
             }
         },
         "Comick": {

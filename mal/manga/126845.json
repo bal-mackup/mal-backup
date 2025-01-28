@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f7901d23-e934-468e-88de-f407f478cd24": {
+                "id": 28788,
                 "identifier": "f7901d23-e934-468e-88de-f407f478cd24",
                 "image": "https://uploads.mangadex.org/covers/f7901d23-e934-468e-88de-f407f478cd24/9a8e9bc0-48f7-400e-860a-3f5b9868a33b.jpg",
                 "malId": 126845,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kekkaishi_e_no_tensei": {
+                "id": 59818,
                 "identifier": "kekkaishi_e_no_tensei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30658/cover.jpg",
                 "malId": 126845,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kekkaishi-e-no-tensei": {
+                "id": 59827,
                 "identifier": "kekkaishi-e-no-tensei",
                 "image": "https://temp.compsci88.com/cover/Kekkaishi-e-no-Tensei.jpg",
                 "malId": 126845,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ey982033": {
+                "id": 75717,
                 "identifier": "manga-ey982033",
                 "image": "https://avt.mkklcdnv6temp.com/36/r/18-1583498518.jpg",
                 "malId": 126845,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ey982033"
             }
         },
-        "MangaFire": {
-            "kekkaishi-e-no-tensei.37rkr": {
-                "identifier": "kekkaishi-e-no-tensei.37rkr",
-                "image": "https://static.mangafire.to/3b2d5/i/3/31/31d0ef89705ed87ca6e6e152daee695e.jpg",
-                "malId": 126845,
-                "aniId": 110974,
-                "page": "MangaFire",
-                "title": "Reborn as a Barrier Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kekkaishi-e-no-tensei.37rkr/"
-            },
-            "kekkaishi-e-no-tenseii.37rkr": {
-                "identifier": "kekkaishi-e-no-tenseii.37rkr",
-                "image": "https://static.mangafire.to/3b2d5/i/3/31/31d0ef89705ed87ca6e6e152daee695e.jpg",
-                "malId": 126845,
-                "aniId": 110974,
-                "page": "MangaFire",
-                "title": "Reborn as a Barrier Master",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kekkaishi-e-no-tenseii.37rkr/"
-            }
-        },
         "Weebcentral": {
             "01j76xydwxtae19j848a6ss227": {
+                "id": 211949,
                 "identifier": "01j76xydwxtae19j848a6ss227",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDWXTAE19J848A6SS227.jpg",
                 "malId": 126845,
@@ -86,6 +69,19 @@
                 "title": "Reborn as a Barrier Master",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDWXTAE19J848A6SS227"
+            }
+        },
+        "MangaFire": {
+            "37rkr": {
+                "id": 227824,
+                "identifier": "37rkr",
+                "image": "https://static.mangafire.to/91e6/i/3/31/31d0ef89705ed87ca6e6e152daee695e.jpg",
+                "malId": 126845,
+                "aniId": 110974,
+                "page": "MangaFire",
+                "title": "Reborn as a Barrier Master",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kekkaishi-e-no-tenseii.37rkr"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d97ab58d-88ba-4f75-adb2-c66b94be06e9": {
+                "id": 27414,
                 "identifier": "d97ab58d-88ba-4f75-adb2-c66b94be06e9",
                 "image": "https://uploads.mangadex.org/covers/d97ab58d-88ba-4f75-adb2-c66b94be06e9/b458799b-ef04-4c0a-a8ee-e9a5bf3d0e11.png",
                 "malId": 148159,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "dark_mortal": {
+                "id": 72149,
                 "identifier": "dark_mortal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30351/cover.jpg",
                 "malId": 148159,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fy982507": {
+                "id": 74519,
                 "identifier": "manga-fy982507",
                 "image": "https://avt.mkklcdnv6temp.com/4/i/19-1583499240.jpg",
                 "malId": 148159,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-fy982507"
             }
         },
-        "MangaFire": {
-            "dark-mortal.vvp54": {
-                "identifier": "dark-mortal.vvp54",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/3345a965f0bf1904a68a93c7a5228342.jpg",
-                "malId": 148159,
-                "aniId": 116768,
-                "page": "MangaFire",
-                "title": "Dark Mortal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dark-mortal.vvp54/"
-            },
-            "dark-mortall.vvp54": {
-                "identifier": "dark-mortall.vvp54",
-                "image": "https://static.mangafire.to/3b2d5/i/3/33/3345a965f0bf1904a68a93c7a5228342.jpg",
-                "malId": 148159,
-                "aniId": 116768,
-                "page": "MangaFire",
-                "title": "Dark Mortal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dark-mortall.vvp54/"
-            }
-        },
         "MangaSee": {
             "dark-mortal": {
+                "id": 180891,
                 "identifier": "dark-mortal",
                 "image": "https://temp.compsci88.com/cover/Dark-Mortal.jpg",
                 "malId": 148159,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygwrwd7wa0xps8kbg83q": {
+                "id": 211174,
                 "identifier": "01j76xygwrwd7wa0xps8kbg83q",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGWRWD7WA0XPS8KBG83Q.jpg",
                 "malId": 148159,
@@ -86,6 +69,19 @@
                 "title": "Dark Mortal",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGWRWD7WA0XPS8KBG83Q"
+            }
+        },
+        "MangaFire": {
+            "vvp54": {
+                "id": 228535,
+                "identifier": "vvp54",
+                "image": "https://static.mangafire.to/5b46/i/3/33/3345a965f0bf1904a68a93c7a5228342.jpg",
+                "malId": 148159,
+                "aniId": 116768,
+                "page": "MangaFire",
+                "title": "Dark Mortal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dark-mortall.vvp54"
             }
         },
         "Comick": {

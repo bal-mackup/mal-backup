@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "507d3b1d-dd20-440d-912f-0ffd7368cfa8": {
+                "id": 169730,
                 "identifier": "507d3b1d-dd20-440d-912f-0ffd7368cfa8",
                 "image": "https://uploads.mangadex.org/covers/507d3b1d-dd20-440d-912f-0ffd7368cfa8/825c331c-3cad-4bb1-a82a-7b46e1c30213.jpg",
                 "malId": 160257,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ub998058": {
+                "id": 169844,
                 "identifier": "manga-ub998058",
                 "image": "https://avt.mkklcdnv6temp.com/fld/78/e/15-1733311465-nw.webp",
                 "malId": 160257,
@@ -30,8 +32,9 @@
                 "url": "https://manganato.com/manga-ub998058"
             },
             "manga-as1004227": {
+                "id": 196951,
                 "identifier": "manga-as1004227",
-                "image": "https://avt.mkklcdnv6temp.com/30/y/36-1726111007.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/14/e/18-1733328121-nw.webp",
                 "malId": 160257,
                 "aniId": null,
                 "page": "MangaNato",
@@ -40,20 +43,9 @@
                 "url": "https://manganato.com/manga-as1004227"
             }
         },
-        "MangaFire": {
-            "counter-stop-mura-no-goinkyo-demon-san.npm6k": {
-                "identifier": "counter-stop-mura-no-goinkyo-demon-san.npm6k",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/711d431a0041498b205606a51f6133d8.jpg",
-                "malId": 160257,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Retired Demon of the Maxed-Out Village",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/counter-stop-mura-no-goinkyo-demon-san.npm6k/"
-            }
-        },
         "MangaSee": {
             "the-retired-demon-of-the-maxed-out-village": {
+                "id": 177482,
                 "identifier": "the-retired-demon-of-the-maxed-out-village",
                 "image": "https://temp.compsci88.com/cover/The-Retired-Demon-of-the-Maxed-Out-Village.jpg",
                 "malId": 160257,
@@ -66,6 +58,7 @@
         },
         "Weebcentral": {
             "01j76xygqpvaqtxsvca5yfp63h": {
+                "id": 208560,
                 "identifier": "01j76xygqpvaqtxsvca5yfp63h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGQPVAQTXSVCA5YFP63H.jpg",
                 "malId": 160257,
@@ -74,6 +67,19 @@
                 "title": "The Retired Demon of the Maxed Out Village",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGQPVAQTXSVCA5YFP63H"
+            }
+        },
+        "MangaFire": {
+            "npm6k": {
+                "id": 238800,
+                "identifier": "npm6k",
+                "image": "https://static.mangafire.to/3bfd/i/7/71/711d431a0041498b205606a51f6133d8.jpg",
+                "malId": 160257,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Retired Demon of the Maxed-Out Village",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/counter-stop-mura-no-goinkyo-demon-sann.npm6k"
             }
         },
         "Comick": {

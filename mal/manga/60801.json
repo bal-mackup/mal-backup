@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fcd036fc-54c0-4f33-bc53-1725a7c4c9cd": {
+                "id": 11347,
                 "identifier": "fcd036fc-54c0-4f33-bc53-1725a7c4c9cd",
                 "image": "https://uploads.mangadex.org/covers/fcd036fc-54c0-4f33-bc53-1725a7c4c9cd/54aad75d-6cee-470c-81d9-dfb4e775acb2.jpg",
                 "malId": 60801,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "handa-kun": {
+                "id": 62204,
                 "identifier": "handa-kun",
                 "image": "https://temp.compsci88.com/cover/Handa-Kun.jpg",
                 "malId": 60801,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "handa_kun": {
+                "id": 71453,
                 "identifier": "handa_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14577/cover.jpg",
                 "malId": 60801,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-rj953066": {
+                "id": 87428,
                 "identifier": "manga-rj953066",
                 "image": "https://avt.mkklcdnv6temp.com/fld/63/f/1-1732718913-nw.webp",
                 "malId": 60801,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-rj953066"
             }
         },
-        "MangaFire": {
-            "handa-kun.02r53": {
-                "identifier": "handa-kun.02r53",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36296fc1f60007ff58bb37c41641c27b.jpg",
-                "malId": 60801,
-                "aniId": 85811,
-                "page": "MangaFire",
-                "title": "Handa-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/handa-kun.02r53/"
-            },
-            "02r53": {
-                "identifier": "02r53",
-                "image": "https://static.mangafire.to/3b2d5/i/3/36/36296fc1f60007ff58bb37c41641c27b.jpg",
-                "malId": 60801,
-                "aniId": 85811,
-                "page": "MangaFire",
-                "title": "Handa-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/handa-kun.02r53/"
-            }
-        },
         "Weebcentral": {
             "01j76xyanggpr321qyp8nysd69": {
+                "id": 214366,
                 "identifier": "01j76xyanggpr321qyp8nysd69",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYANGGPR321QYP8NYSD69.jpg",
                 "malId": 60801,
@@ -86,6 +69,19 @@
                 "title": "Handa-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYANGGPR321QYP8NYSD69"
+            }
+        },
+        "MangaFire": {
+            "02r53": {
+                "id": 256677,
+                "identifier": "02r53",
+                "image": "https://static.mangafire.to/f568/i/3/36/36296fc1f60007ff58bb37c41641c27b.jpg",
+                "malId": 60801,
+                "aniId": 85811,
+                "page": "MangaFire",
+                "title": "Handa-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/handa-kunn.02r53"
             }
         },
         "Comick": {

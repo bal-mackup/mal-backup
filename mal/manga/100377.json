@@ -8,18 +8,20 @@
     "Sites": {
         "Mangadex": {
             "10227f74-9134-4262-b01d-8966bc149c4d": {
+                "id": 16236,
                 "identifier": "10227f74-9134-4262-b01d-8966bc149c4d",
-                "image": "https://uploads.mangadex.org/covers/10227f74-9134-4262-b01d-8966bc149c4d/c34a3e91-3899-45c1-a2ed-e2c1411cd311.jpg",
+                "image": "https://uploads.mangadex.org/covers/10227f74-9134-4262-b01d-8966bc149c4d/8fe82395-f82b-4e3c-8bae-6c93bcae3440.jpg",
                 "malId": 100377,
                 "aniId": 97529,
                 "page": "Mangadex",
-                "title": "Kenja no Deshi wo Nanoru Kenja",
+                "title": "She Professed Herself Pupil of the Wise Man",
                 "type": "manga",
                 "url": "https://mangadex.org/title/10227f74-9134-4262-b01d-8966bc149c4d"
             }
         },
         "MangaSee": {
             "kenja-no-deshi-wo-nanoru-kenja": {
+                "id": 59195,
                 "identifier": "kenja-no-deshi-wo-nanoru-kenja",
                 "image": "https://temp.compsci88.com/cover/Kenja-No-Deshi-Wo-Nanoru-Kenja.jpg",
                 "malId": 100377,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-vp972424": {
+                "id": 74992,
                 "identifier": "manga-vp972424",
                 "image": "https://avt.mkklcdnv6temp.com/13/t/14-1583490240.jpg",
                 "malId": 100377,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-vp972424"
             }
         },
-        "MangaFire": {
-            "kenja-no-deshi-wo-nanoru-kenja.yq1wx": {
-                "identifier": "kenja-no-deshi-wo-nanoru-kenja.yq1wx",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/86751d62fa851a6648a705711414e1bc.jpg",
-                "malId": 100377,
-                "aniId": 97529,
-                "page": "MangaFire",
-                "title": "She Professed Herself Pupil of the Wise Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kenja-no-deshi-wo-nanoru-kenja.yq1wx/"
-            },
-            "kenja-no-deshi-wo-nanoru-kenjaa.yq1wx": {
-                "identifier": "kenja-no-deshi-wo-nanoru-kenjaa.yq1wx",
-                "image": "https://static.mangafire.to/3b2d5/i/8/86/86751d62fa851a6648a705711414e1bc.jpg",
-                "malId": 100377,
-                "aniId": 97529,
-                "page": "MangaFire",
-                "title": "She Professed Herself Pupil of the Wise Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kenja-no-deshi-wo-nanoru-kenjaa.yq1wx/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc20r7sgr7j9g4vphge5": {
+                "id": 208082,
                 "identifier": "01j76xyc20r7sgr7j9g4vphge5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC20R7SGR7J9G4VPHGE5.jpg",
                 "malId": 100377,
@@ -74,6 +56,19 @@
                 "title": "She Professed Herself Pupil of the Wise Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC20R7SGR7J9G4VPHGE5"
+            }
+        },
+        "MangaFire": {
+            "yq1wx": {
+                "id": 227976,
+                "identifier": "yq1wx",
+                "image": "https://static.mangafire.to/26fe/i/8/86/86751d62fa851a6648a705711414e1bc.jpg",
+                "malId": 100377,
+                "aniId": 97529,
+                "page": "MangaFire",
+                "title": "She Professed Herself Pupil of the Wise Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kenja-no-deshi-wo-nanoru-kenjaa.yq1wx"
             }
         },
         "Comick": {

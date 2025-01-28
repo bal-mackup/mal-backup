@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-ln989196": {
+                "id": 79453,
                 "identifier": "manga-ln989196",
                 "image": "https://avt.mkklcdnv6temp.com/20/l/24-1624378349.jpg",
                 "malId": 149518,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "2683410b-8e2c-4f84-bd1d-16f448d4c062": {
+                "id": 110269,
                 "identifier": "2683410b-8e2c-4f84-bd1d-16f448d4c062",
                 "image": "https://uploads.mangadex.org/covers/2683410b-8e2c-4f84-bd1d-16f448d4c062/a1acdb28-551b-468b-a817-72645f9ecfc7.jpg",
                 "malId": 149518,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/2683410b-8e2c-4f84-bd1d-16f448d4c062"
             }
         },
-        "MangaFire": {
-            "a-jjom-chameuseyo-yeongjunim.np31n": {
-                "identifier": "a-jjom-chameuseyo-yeongjunim.np31n",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a606f9361c18657bf370869871df8668.jpg",
-                "malId": 149518,
-                "aniId": 136352,
-                "page": "MangaFire",
-                "title": "Patience, My Lady!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-jjom-chameuseyo-yeongjunim.np31n/"
-            },
-            "a-jjom-chameuseyo-yeongjunimm.np31n": {
-                "identifier": "a-jjom-chameuseyo-yeongjunimm.np31n",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a606f9361c18657bf370869871df8668.jpg",
-                "malId": 149518,
-                "aniId": 136352,
-                "page": "MangaFire",
-                "title": "Patience, My Lady!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-jjom-chameuseyo-yeongjunimm.np31n/"
-            }
-        },
         "MangaSee": {
             "patience-my-lady": {
+                "id": 177950,
                 "identifier": "patience-my-lady",
                 "image": "https://temp.compsci88.com/cover/Patience-My-Lady.jpg",
                 "malId": 149518,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygrrgncmbc0y7yr2s28n": {
+                "id": 207132,
                 "identifier": "01j76xygrrgncmbc0y7yr2s28n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGRRGNCMBC0Y7YR2S28N.jpg",
                 "malId": 149518,
@@ -74,6 +56,19 @@
                 "title": "Patience, My Lady!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGRRGNCMBC0Y7YR2S28N"
+            }
+        },
+        "MangaFire": {
+            "np31n": {
+                "id": 224025,
+                "identifier": "np31n",
+                "image": "https://static.mangafire.to/1b6c/i/a/a6/a606f9361c18657bf370869871df8668.jpg",
+                "malId": 149518,
+                "aniId": 136352,
+                "page": "MangaFire",
+                "title": "Patience, My Lady!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-jjom-chameuseyo-yeongjunimm.np31n"
             }
         },
         "Comick": {

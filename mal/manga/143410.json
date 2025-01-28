@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "01aa95db-bfc1-4326-9a5c-578e71b04be9": {
+                "id": 99567,
                 "identifier": "01aa95db-bfc1-4326-9a5c-578e71b04be9",
                 "image": "https://uploads.mangadex.org/covers/01aa95db-bfc1-4326-9a5c-578e71b04be9/afcb13c5-966b-43ce-9dcd-8d16825fcc82.jpg",
                 "malId": 143410,
@@ -18,38 +19,30 @@
                 "url": "https://mangadex.org/title/01aa95db-bfc1-4326-9a5c-578e71b04be9"
             }
         },
-        "MangaFire": {
-            "chikyuu-san-wa-level-up-shimashita.lvy6": {
-                "identifier": "chikyuu-san-wa-level-up-shimashita.lvy6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/4994c718092b2d74eaa6465fd5673386.jpg",
-                "malId": 143410,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Earth-san Has Leveled Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikyuu-san-wa-level-up-shimashita.lvy6/"
-            },
-            "chikyuu-san-wa-level-up-shimashitaa.lvy6": {
-                "identifier": "chikyuu-san-wa-level-up-shimashitaa.lvy6",
-                "image": "https://static.mangafire.to/3b2d5/i/4/49/4994c718092b2d74eaa6465fd5673386.jpg",
-                "malId": 143410,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "The Earth-san Has Leveled Up!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chikyuu-san-wa-level-up-shimashitaa.lvy6/"
-            }
-        },
         "MangaNato": {
             "manga-yt1002102": {
+                "id": 188439,
                 "identifier": "manga-yt1002102",
-                "image": "https://avt.mkklcdnv6temp.com/43/g/34-1715574391.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/32/w/17-1733323155-nw.webp",
                 "malId": 143410,
                 "aniId": null,
                 "page": "MangaNato",
                 "title": "Chikyuu-San Wa Level Up Shimashita!",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-yt1002102"
+            }
+        },
+        "MangaFire": {
+            "lvy6": {
+                "id": 227236,
+                "identifier": "lvy6",
+                "image": "https://static.mangafire.to/9920/i/4/49/4994c718092b2d74eaa6465fd5673386.jpg",
+                "malId": 143410,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "The Earth-san Has Leveled Up!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chikyuu-san-wa-level-up-shimashitaa.lvy6"
             }
         },
         "Comick": {

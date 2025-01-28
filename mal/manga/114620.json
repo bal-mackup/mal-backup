@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "055f05ec-30ed-4dde-94e0-7f7cc3c86abb": {
+                "id": 106980,
                 "identifier": "055f05ec-30ed-4dde-94e0-7f7cc3c86abb",
                 "image": "https://uploads.mangadex.org/covers/055f05ec-30ed-4dde-94e0-7f7cc3c86abb/378abfbf-5ba7-4599-bf5b-fbe75770e5fd.jpg",
                 "malId": 114620,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "phantom-of-the-idol": {
+                "id": 107067,
                 "identifier": "phantom-of-the-idol",
                 "image": "https://temp.compsci88.com/cover/Phantom-of-the-Idol.jpg",
                 "malId": 114620,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Phantom-of-the-Idol"
             }
         },
-        "MangaFire": {
-            "phantom-of-the-idol.pj004": {
-                "identifier": "phantom-of-the-idol.pj004",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68a106d88416c29a6c5888c274b93426.jpg",
-                "malId": 114620,
-                "aniId": 110968,
-                "page": "MangaFire",
-                "title": "Phantom of the Idol",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/phantom-of-the-idol.pj004/"
-            },
-            "pj004": {
-                "identifier": "pj004",
-                "image": "https://static.mangafire.to/3b2d5/i/6/68/68a106d88416c29a6c5888c274b93426.jpg",
-                "malId": 114620,
-                "aniId": 110968,
-                "page": "MangaFire",
-                "title": "Phantom of the Idol",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/phantom-of-the-idol.pj004/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfgda9pawsbmehra6t4g": {
+                "id": 208074,
                 "identifier": "01j76xyfgda9pawsbmehra6t4g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFGDA9PAWSBMEHRA6T4G.jpg",
                 "malId": 114620,
@@ -62,6 +43,19 @@
                 "title": "Phantom of the Idol",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFGDA9PAWSBMEHRA6T4G"
+            }
+        },
+        "MangaFire": {
+            "pj004": {
+                "id": 253721,
+                "identifier": "pj004",
+                "image": "https://static.mangafire.to/b012/i/6/68/68a106d88416c29a6c5888c274b93426.jpg",
+                "malId": 114620,
+                "aniId": 110968,
+                "page": "MangaFire",
+                "title": "Phantom of the Idol",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/phantom-of-the-idoll.pj004"
             }
         },
         "Comick": {

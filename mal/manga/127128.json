@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d5ec700b-c61b-4ab9-97fe-ed2d57fd0d5c": {
+                "id": 37334,
                 "identifier": "d5ec700b-c61b-4ab9-97fe-ed2d57fd0d5c",
                 "image": "https://uploads.mangadex.org/covers/d5ec700b-c61b-4ab9-97fe-ed2d57fd0d5c/8e876ca9-7f5d-431c-b414-80e253ef807f.jpg",
                 "malId": 127128,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kaminaki_sekai_no_kamisama_katsudou": {
+                "id": 102183,
                 "identifier": "kaminaki_sekai_no_kamisama_katsudou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39499/cover.jpg",
                 "malId": 127128,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-na991235": {
+                "id": 107669,
                 "identifier": "manga-na991235",
                 "image": "https://avt.mkklcdnv6temp.com/7/d/26-1655600975.jpg",
                 "malId": 127128,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "kaminaki-sekai-no-kamisama-katsudou": {
+                "id": 127644,
                 "identifier": "kaminaki-sekai-no-kamisama-katsudou",
                 "image": "https://temp.compsci88.com/cover/Kaminaki-Sekai-no-Kamisama-Katsudou.jpg",
                 "malId": 127128,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Kaminaki-Sekai-no-Kamisama-Katsudou"
             }
         },
-        "MangaFire": {
-            "kaminaki-sekai-no-kamisama-katsudou.nrmx8": {
-                "identifier": "kaminaki-sekai-no-kamisama-katsudou.nrmx8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95fc80bfa8b036bbd25826b401ae1d29.jpg",
-                "malId": 127128,
-                "aniId": 130965,
-                "page": "MangaFire",
-                "title": "Kaminaki Sekai no Kamisama Katsudou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaminaki-sekai-no-kamisama-katsudou.nrmx8/"
-            },
-            "kaminaki-sekai-no-kamisama-katsudouu.nrmx8": {
-                "identifier": "kaminaki-sekai-no-kamisama-katsudouu.nrmx8",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/95fc80bfa8b036bbd25826b401ae1d29.jpg",
-                "malId": 127128,
-                "aniId": 130965,
-                "page": "MangaFire",
-                "title": "Kaminaki Sekai no Kamisama Katsudou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kaminaki-sekai-no-kamisama-katsudouu.nrmx8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg1tac0ddht7nwy3m33v": {
+                "id": 211214,
                 "identifier": "01j76xyg1tac0ddht7nwy3m33v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG1TAC0DDHT7NWY3M33V.jpg",
                 "malId": 127128,
@@ -86,6 +69,19 @@
                 "title": "Kaminaki Sekai no Kamisama Katsudou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG1TAC0DDHT7NWY3M33V"
+            }
+        },
+        "MangaFire": {
+            "nrmx8": {
+                "id": 224983,
+                "identifier": "nrmx8",
+                "image": "https://static.mangafire.to/36b6/i/9/95/95fc80bfa8b036bbd25826b401ae1d29.jpg",
+                "malId": 127128,
+                "aniId": 130965,
+                "page": "MangaFire",
+                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kaminaki-sekai-no-kamisama-katsudouu.nrmx8"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cbc34894-798d-4424-8657-462eb8772229": {
+                "id": 32197,
                 "identifier": "cbc34894-798d-4424-8657-462eb8772229",
                 "image": "https://uploads.mangadex.org/covers/cbc34894-798d-4424-8657-462eb8772229/fe2e1756-5a0b-4c19-b22f-14da7868dd5b.jpg",
                 "malId": 123357,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "minotaurus-sweetheart": {
+                "id": 65796,
                 "identifier": "minotaurus-sweetheart",
                 "image": "https://temp.compsci88.com/cover/Minotaurus-Sweetheart.jpg",
                 "malId": 123357,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ge983887": {
+                "id": 78086,
                 "identifier": "manga-ge983887",
                 "image": "https://avt.mkklcdnv6temp.com/5/o/20-1583501212.jpg",
                 "malId": 123357,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ge983887"
             }
         },
-        "MangaFire": {
-            "minotaurus-sweetheart.80onn": {
-                "identifier": "minotaurus-sweetheart.80onn",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1a/1a7bc02b59e026f782a5a990972932e3.jpg",
-                "malId": 123357,
-                "aniId": 111757,
-                "page": "MangaFire",
-                "title": "Minotaurus' Sweetheart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minotaurus-sweetheart.80onn/"
-            }
-        },
         "Weebcentral": {
             "01j76xydzjxyyqx9dqbyer7ddq": {
+                "id": 206192,
                 "identifier": "01j76xydzjxyyqx9dqbyer7ddq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDZJXYYQX9DQBYER7DDQ.jpg",
                 "malId": 123357,
@@ -64,6 +56,19 @@
                 "title": "Minotaurus' Sweetheart",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDZJXYYQX9DQBYER7DDQ"
+            }
+        },
+        "MangaFire": {
+            "80onn": {
+                "id": 255464,
+                "identifier": "80onn",
+                "image": "https://static.mangafire.to/2a79/i/1/1a/1a7bc02b59e026f782a5a990972932e3.jpg",
+                "malId": 123357,
+                "aniId": 111757,
+                "page": "MangaFire",
+                "title": "Minotaurus' Sweetheart",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/minotaurus-sweetheartt.80onn"
             }
         },
         "Comick": {

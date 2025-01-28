@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff": {
+                "id": 110733,
                 "identifier": "ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff",
                 "image": "https://uploads.mangadex.org/covers/ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff/598d5481-703d-4428-9620-39770219cb62.jpg",
                 "malId": 152268,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff"
             }
         },
-        "MangaFire": {
-            "mirukarani-ayashii-futari.kkzzw": {
-                "identifier": "mirukarani-ayashii-futari.kkzzw",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c7e58e4723e8a4d850160976b40bdc15.jpg",
-                "malId": 152268,
-                "aniId": 140025,
-                "page": "MangaFire",
-                "title": "Mirukarani Ayashii Futari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mirukarani-ayashii-futari.kkzzw/"
-            },
-            "mirukarani-ayashii-futarii.kkzzw": {
-                "identifier": "mirukarani-ayashii-futarii.kkzzw",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c7e58e4723e8a4d850160976b40bdc15.jpg",
-                "malId": 152268,
-                "aniId": 140025,
-                "page": "MangaFire",
-                "title": "Mirukarani Ayashii Futari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mirukarani-ayashii-futarii.kkzzw/"
-            }
-        },
         "MangaNato": {
             "manga-ym1002221": {
+                "id": 189997,
                 "identifier": "manga-ym1002221",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/l/17-1733323423-nw.webp",
                 "malId": 152268,
@@ -50,6 +30,19 @@
                 "title": "Mirukarani Ayashii Futari",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ym1002221"
+            }
+        },
+        "MangaFire": {
+            "kkzzw": {
+                "id": 225880,
+                "identifier": "kkzzw",
+                "image": "https://static.mangafire.to/ec58/i/c/c7/c7e58e4723e8a4d850160976b40bdc15.jpg",
+                "malId": 152268,
+                "aniId": 140025,
+                "page": "MangaFire",
+                "title": "Mirukarani Ayashii Futari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mirukarani-ayashii-futarii.kkzzw"
             }
         },
         "Comick": {

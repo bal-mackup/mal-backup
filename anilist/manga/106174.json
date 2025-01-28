@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0c2edcbb-f596-4efc-9aff-38c72b93b367": {
+                "id": 18058,
                 "identifier": "0c2edcbb-f596-4efc-9aff-38c72b93b367",
                 "image": "https://uploads.mangadex.org/covers/0c2edcbb-f596-4efc-9aff-38c72b93b367/d1fb5471-c5a3-4c7b-b0bf-99821733119e.jpg",
                 "malId": 104547,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cy979707": {
+                "id": 76823,
                 "identifier": "manga-cy979707",
                 "image": "https://avt.mkklcdnv6temp.com/1/r/16-1583495322.jpg",
                 "malId": 104547,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-cy979707"
             }
         },
-        "MangaFire": {
-            "kakegurui-midari.527zj": {
-                "identifier": "kakegurui-midari.527zj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/55/55539cbce726c5e4d19d1622b5521831.jpg",
-                "malId": 104547,
-                "aniId": 106174,
-                "page": "MangaFire",
-                "title": "Kakegurui Midari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kakegurui-midari.527zj/"
-            }
-        },
         "MangaFox": {
             "kakegurui_midari": {
+                "id": 181792,
                 "identifier": "kakegurui_midari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28425/cover.jpg",
                 "malId": 104547,
@@ -52,6 +43,19 @@
                 "title": "Kakegurui Midari",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kakegurui_midari/"
+            }
+        },
+        "MangaFire": {
+            "527zj": {
+                "id": 256479,
+                "identifier": "527zj",
+                "image": "https://static.mangafire.to/610c/i/5/55/55539cbce726c5e4d19d1622b5521831.jpg",
+                "malId": 104547,
+                "aniId": 106174,
+                "page": "MangaFire",
+                "title": "Kakegurui Midari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kakegurui-midarii.527zj"
             }
         },
         "Comick": {

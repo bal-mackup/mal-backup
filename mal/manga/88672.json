@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c88d4fa8-1cd1-42e8-9774-80159511a0b9": {
+                "id": 13038,
                 "identifier": "c88d4fa8-1cd1-42e8-9774-80159511a0b9",
                 "image": "https://uploads.mangadex.org/covers/c88d4fa8-1cd1-42e8-9774-80159511a0b9/5f917b33-7801-4c6c-ae8a-d5eca976b02b.jpg",
                 "malId": 88672,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "red-night-eve": {
+                "id": 58116,
                 "identifier": "red-night-eve",
                 "image": "https://temp.compsci88.com/cover/Red-Night-Eve.jpg",
                 "malId": 88672,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "red_night_eve": {
+                "id": 66410,
                 "identifier": "red_night_eve",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17629/cover.jpg",
                 "malId": 88672,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-pg952941": {
+                "id": 85943,
                 "identifier": "manga-pg952941",
                 "image": "https://avt.mkklcdnv6temp.com/fld/58/x/1-1732718733-nw.webp",
                 "malId": 88672,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-pg952941"
             }
         },
-        "MangaFire": {
-            "rednight-eve.ojzyj": {
-                "identifier": "rednight-eve.ojzyj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57571ad9f1d59cc4ceb4862f038798cb.jpg",
-                "malId": 88672,
-                "aniId": 87165,
-                "page": "MangaFire",
-                "title": "Red Night Eve",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rednight-eve.ojzyj/"
-            },
-            "rednight-evee.ojzyj": {
-                "identifier": "rednight-evee.ojzyj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57571ad9f1d59cc4ceb4862f038798cb.jpg",
-                "malId": 88672,
-                "aniId": 87165,
-                "page": "MangaFire",
-                "title": "Red Night Eve",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rednight-evee.ojzyj/"
-            },
-            "ojzyj": {
-                "identifier": "ojzyj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57571ad9f1d59cc4ceb4862f038798cb.jpg",
-                "malId": 88672,
-                "aniId": 87165,
-                "page": "MangaFire",
-                "title": "Red Night Eve",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rednight-evee.ojzyj/"
-            }
-        },
         "Weebcentral": {
             "01j76xybke0j5eew8rmfv5e8wc": {
+                "id": 206217,
                 "identifier": "01j76xybke0j5eew8rmfv5e8wc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBKE0J5EEW8RMFV5E8WC.jpg",
                 "malId": 88672,
@@ -96,6 +69,19 @@
                 "title": "Red Night Eve",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBKE0J5EEW8RMFV5E8WC"
+            }
+        },
+        "MangaFire": {
+            "ojzyj": {
+                "id": 226998,
+                "identifier": "ojzyj",
+                "image": "https://static.mangafire.to/ec43/i/5/57/57571ad9f1d59cc4ceb4862f038798cb.jpg",
+                "malId": 88672,
+                "aniId": 87165,
+                "page": "MangaFire",
+                "title": "Red Night Eve",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rednight-evee.ojzyj"
             }
         },
         "Comick": {

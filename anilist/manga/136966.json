@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "871a507e-5dec-4693-9fb3-032a0301ed91": {
+                "id": 115199,
                 "identifier": "871a507e-5dec-4693-9fb3-032a0301ed91",
                 "image": "https://uploads.mangadex.org/covers/871a507e-5dec-4693-9fb3-032a0301ed91/56d4ca81-7d5d-4e96-9e70-844c3a0aad06.jpg",
                 "malId": 153739,
@@ -18,38 +19,30 @@
                 "url": "https://mangadex.org/title/871a507e-5dec-4693-9fb3-032a0301ed91"
             }
         },
-        "MangaFire": {
-            "oshikake-ouji-wa-nido-oishii.026zk": {
-                "identifier": "oshikake-ouji-wa-nido-oishii.026zk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d14f0874ccfce288e7f1aa7b15ffc1ee.jpg",
-                "malId": 153739,
-                "aniId": 136966,
-                "page": "MangaFire",
-                "title": "Double the Trouble, Twice as Nice",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshikake-ouji-wa-nido-oishii.026zk/"
-            },
-            "oshikake-ouji-wa-nido-oishiii.026zk": {
-                "identifier": "oshikake-ouji-wa-nido-oishiii.026zk",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d14f0874ccfce288e7f1aa7b15ffc1ee.jpg",
-                "malId": 153739,
-                "aniId": 136966,
-                "page": "MangaFire",
-                "title": "Double the Trouble, Twice as Nice",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oshikake-ouji-wa-nido-oishiii.026zk/"
-            }
-        },
         "MangaNato": {
             "manga-bq1004373": {
+                "id": 197581,
                 "identifier": "manga-bq1004373",
-                "image": "https://avt.mkklcdnv6temp.com/36/x/36-1726286379.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/19/u/18-1733328437-nw.webp",
                 "malId": 153739,
                 "aniId": 136966,
                 "page": "MangaNato",
                 "title": "Oshikake Ouji Wa Nido Oishii",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-bq1004373"
+            }
+        },
+        "MangaFire": {
+            "026zk": {
+                "id": 225214,
+                "identifier": "026zk",
+                "image": "https://static.mangafire.to/6b04/i/d/d1/d14f0874ccfce288e7f1aa7b15ffc1ee.jpg",
+                "malId": 153739,
+                "aniId": 136966,
+                "page": "MangaFire",
+                "title": "Double the Trouble, Twice as Nice",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oshikake-ouji-wa-nido-oishiii.026zk"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fa6ee44f-8c47-4cbc-ba10-9815a100d6b5": {
+                "id": 31747,
                 "identifier": "fa6ee44f-8c47-4cbc-ba10-9815a100d6b5",
                 "image": "https://uploads.mangadex.org/covers/fa6ee44f-8c47-4cbc-ba10-9815a100d6b5/ed2f2b7c-751b-4ede-9089-2be4f3bad5c8.jpg",
                 "malId": 122842,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "run_away_with_me_girl": {
+                "id": 80254,
                 "identifier": "run_away_with_me_girl",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32083/cover.jpg",
                 "malId": 122842,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gd983638": {
+                "id": 91742,
                 "identifier": "manga-gd983638",
                 "image": "https://avt.mkklcdnv6temp.com/fld/39/v/10-1732800376-nw.webp",
                 "malId": 122842,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "run-away-with-me-girl": {
+                "id": 120634,
                 "identifier": "run-away-with-me-girl",
                 "image": "https://temp.compsci88.com/cover/Run-Away-With-Me-Girl.jpg",
                 "malId": 122842,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Run-Away-With-Me-Girl"
             }
         },
-        "MangaFire": {
-            "run-away-with-me-girl.n3p6m": {
-                "identifier": "run-away-with-me-girl.n3p6m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51478af50f867f5192ff23b88a39ffe4.jpg",
-                "malId": 122842,
-                "aniId": 114003,
-                "page": "MangaFire",
-                "title": "Run Away With Me, Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/run-away-with-me-girl.n3p6m/"
-            },
-            "run-away-with-me-girll.n3p6m": {
-                "identifier": "run-away-with-me-girll.n3p6m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/51478af50f867f5192ff23b88a39ffe4.jpg",
-                "malId": 122842,
-                "aniId": 114003,
-                "page": "MangaFire",
-                "title": "Run Away With Me, Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/run-away-with-me-girll.n3p6m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfvak6dpwtkvzckkehna": {
+                "id": 208042,
                 "identifier": "01j76xyfvak6dpwtkvzckkehna",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFVAK6DPWTKVZCKKEHNA.jpg",
                 "malId": 122842,
@@ -86,6 +69,19 @@
                 "title": "Run Away With Me, Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFVAK6DPWTKVZCKKEHNA"
+            }
+        },
+        "MangaFire": {
+            "n3p6m": {
+                "id": 224556,
+                "identifier": "n3p6m",
+                "image": "https://static.mangafire.to/cb49/i/5/51/51478af50f867f5192ff23b88a39ffe4.jpg",
+                "malId": 122842,
+                "aniId": 114003,
+                "page": "MangaFire",
+                "title": "Run Away With Me, Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/run-away-with-me-girll.n3p6m"
             }
         },
         "Comick": {

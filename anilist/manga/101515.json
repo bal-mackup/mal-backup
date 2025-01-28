@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "32c51d2c-a90e-4937-ae35-b1d78fbff3f7": {
+                "id": 18696,
                 "identifier": "32c51d2c-a90e-4937-ae35-b1d78fbff3f7",
-                "image": "https://uploads.mangadex.org/covers/32c51d2c-a90e-4937-ae35-b1d78fbff3f7/615a6df9-091f-4490-98d3-9db7d90e3df0.jpg",
+                "image": "https://uploads.mangadex.org/covers/32c51d2c-a90e-4937-ae35-b1d78fbff3f7/db9313f3-d9d8-401a-9263-9f07fefd7650.jpg",
                 "malId": 106025,
                 "aniId": 101515,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jinmen": {
+                "id": 56773,
                 "identifier": "jinmen",
                 "image": "https://temp.compsci88.com/cover/Jinmen.jpg",
                 "malId": 106025,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jinmen": {
+                "id": 67822,
                 "identifier": "jinmen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26977/cover.jpg",
                 "malId": 106025,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ad978186": {
+                "id": 80806,
                 "identifier": "manga-ad978186",
                 "image": "https://avt.mkklcdnv6temp.com/6/f/16-1583493682.jpg",
                 "malId": 106025,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ad978186"
             }
         },
-        "MangaFire": {
-            "jinmen.02mlr": {
-                "identifier": "jinmen.02mlr",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8b3ec3482e2404e3a41b72ca3e16406.jpg",
-                "malId": 106025,
-                "aniId": 101515,
-                "page": "MangaFire",
-                "title": "Jinmen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinmen.02mlr/"
-            },
-            "jinmenn.02mlr": {
-                "identifier": "jinmenn.02mlr",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8b3ec3482e2404e3a41b72ca3e16406.jpg",
-                "malId": 106025,
-                "aniId": 101515,
-                "page": "MangaFire",
-                "title": "Jinmen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinmenn.02mlr/"
-            },
-            "02mlr": {
-                "identifier": "02mlr",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e8b3ec3482e2404e3a41b72ca3e16406.jpg",
-                "malId": 106025,
-                "aniId": 101515,
-                "page": "MangaFire",
-                "title": "Jinmen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinmenn.02mlr/"
-            }
-        },
         "Weebcentral": {
             "01j76xyceqsjpeqj6mk828jqvv": {
+                "id": 212515,
                 "identifier": "01j76xyceqsjpeqj6mk828jqvv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCEQSJPEQJ6MK828JQVV.jpg",
                 "malId": 106025,
@@ -96,6 +69,19 @@
                 "title": "Jinmen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCEQSJPEQJ6MK828JQVV"
+            }
+        },
+        "MangaFire": {
+            "02mlr": {
+                "id": 239936,
+                "identifier": "02mlr",
+                "image": "https://static.mangafire.to/7279/i/e/e8/e8b3ec3482e2404e3a41b72ca3e16406.jpg",
+                "malId": 106025,
+                "aniId": 101515,
+                "page": "MangaFire",
+                "title": "Jinmen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jinmenn.02mlr"
             }
         },
         "Comick": {

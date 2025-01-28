@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1d9b2983-2890-4bfd-99a3-f126f885d422": {
+                "id": 26884,
                 "identifier": "1d9b2983-2890-4bfd-99a3-f126f885d422",
                 "image": "https://uploads.mangadex.org/covers/1d9b2983-2890-4bfd-99a3-f126f885d422/1ef0101d-762b-4944-ba51-d32520a5b5bb.png",
                 "malId": 118916,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "omoi_ga_omoi_omoi_san": {
+                "id": 54145,
                 "identifier": "omoi_ga_omoi_omoi_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30054/cover.jpg",
                 "malId": 118916,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-da981209": {
+                "id": 76209,
                 "identifier": "manga-da981209",
                 "image": "https://avt.mkklcdnv6temp.com/6/o/18-1583497340.jpg",
                 "malId": 118916,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "omoi-sans-overwhelming-obsession": {
+                "id": 120803,
                 "identifier": "omoi-sans-overwhelming-obsession",
                 "image": "https://temp.compsci88.com/cover/Omoi-sans-Overwhelming-Obsession.jpg",
                 "malId": 118916,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Omoi-sans-Overwhelming-Obsession"
             }
         },
-        "MangaFire": {
-            "omoi-ga-omoi-omoi-san.vynv": {
-                "identifier": "omoi-ga-omoi-omoi-san.vynv",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/dfdd193c999d0c432a4ad16f63ff2e82.jpg",
-                "malId": 118916,
-                "aniId": 104539,
-                "page": "MangaFire",
-                "title": "Omoi-san’s Overwhelming Obsession",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/omoi-ga-omoi-omoi-san.vynv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfw9marhyn2nh17r3pfj": {
+                "id": 213568,
                 "identifier": "01j76xyfw9marhyn2nh17r3pfj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFW9MARHYN2NH17R3PFJ.jpg",
                 "malId": 118916,
@@ -76,6 +69,19 @@
                 "title": "Omoi-san's Overwhelming Obsession",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFW9MARHYN2NH17R3PFJ"
+            }
+        },
+        "MangaFire": {
+            "vynv": {
+                "id": 253736,
+                "identifier": "vynv",
+                "image": "https://static.mangafire.to/6c76/i/d/df/dfdd193c999d0c432a4ad16f63ff2e82.jpg",
+                "malId": 118916,
+                "aniId": 104539,
+                "page": "MangaFire",
+                "title": "Omoi-san’s Overwhelming Obsession",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/omoi-ga-omoi-omoi-sann.vynv"
             }
         },
         "Comick": {

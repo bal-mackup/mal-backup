@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "89ee52b5-62af-4ed5-8138-5141dcc930b4": {
+                "id": 34456,
                 "identifier": "89ee52b5-62af-4ed5-8138-5141dcc930b4",
                 "image": "https://uploads.mangadex.org/covers/89ee52b5-62af-4ed5-8138-5141dcc930b4/60c0d199-4f0b-454d-9fb5-7a768d348e7c.jpg",
                 "malId": 119931,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/89ee52b5-62af-4ed5-8138-5141dcc930b4"
             }
         },
-        "MangaFire": {
-            "one-room-angel.yq71z": {
-                "identifier": "one-room-angel.yq71z",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8a0e92d8d9c50411a895be8a33cfb17.jpg",
-                "malId": 119931,
-                "aniId": 110539,
-                "page": "MangaFire",
-                "title": "One Room Angel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-room-angel.yq71z/"
-            },
-            "one-room-angell.yq71z": {
-                "identifier": "one-room-angell.yq71z",
-                "image": "https://static.mangafire.to/cf70/i/a/a8/a8a0e92d8d9c50411a895be8a33cfb17.jpg",
-                "malId": 119931,
-                "aniId": 110539,
-                "page": "MangaFire",
-                "title": "One Room Angel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-room-angell.yq71z/"
-            }
-        },
         "MangaFox": {
             "one_room_angel": {
+                "id": 221999,
                 "identifier": "one_room_angel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33466/cover.jpg",
                 "malId": 119931,
@@ -50,6 +30,19 @@
                 "title": "One Room Angel",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/one_room_angel/"
+            }
+        },
+        "MangaFire": {
+            "yq71z": {
+                "id": 223115,
+                "identifier": "yq71z",
+                "image": "https://static.mangafire.to/cf70/i/a/a8/a8a0e92d8d9c50411a895be8a33cfb17.jpg",
+                "malId": 119931,
+                "aniId": 110539,
+                "page": "MangaFire",
+                "title": "One Room Angel",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/one-room-angell.yq71z"
             }
         }
     },

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e80c192-6870-4500-afe9-e72e322689fe": {
+                "id": 10938,
                 "identifier": "9e80c192-6870-4500-afe9-e72e322689fe",
                 "image": "https://uploads.mangadex.org/covers/9e80c192-6870-4500-afe9-e72e322689fe/33bbad40-aa30-4aab-8a04-e9b9652662ff.jpg",
                 "malId": 74283,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "tsuyokute_new_saga": {
+                "id": 58224,
                 "identifier": "tsuyokute_new_saga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13930/cover.jpg",
                 "malId": 74283,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "tsuyokute-new-saga": {
+                "id": 59894,
                 "identifier": "tsuyokute-new-saga",
                 "image": "https://temp.compsci88.com/cover/Tsuyokute-New-Saga.jpg",
                 "malId": 74283,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ie951961": {
+                "id": 73481,
                 "identifier": "manga-ie951961",
                 "image": "https://avt.mkklcdnv6temp.com/22/s/1-1583464590.jpg",
                 "malId": 74283,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ie951961"
             }
         },
-        "MangaFire": {
-            "tsuyokute-new-saga.5ly9": {
-                "identifier": "tsuyokute-new-saga.5ly9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f560cb7fd1988325107712514d3bec95.jpg",
-                "malId": 74283,
-                "aniId": 85890,
-                "page": "MangaFire",
-                "title": "New Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuyokute-new-saga.5ly9/"
-            },
-            "tsuyokute-new-sagaa.5ly9": {
-                "identifier": "tsuyokute-new-sagaa.5ly9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f560cb7fd1988325107712514d3bec95.jpg",
-                "malId": 74283,
-                "aniId": 85890,
-                "page": "MangaFire",
-                "title": "New Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuyokute-new-sagaa.5ly9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyad8cd3xh5xwnt54sxmz": {
+                "id": 214157,
                 "identifier": "01j76xyad8cd3xh5xwnt54sxmz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAD8CD3XH5XWNT54SXMZ.jpg",
                 "malId": 74283,
@@ -86,6 +69,19 @@
                 "title": "Tsuyokute New Saga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAD8CD3XH5XWNT54SXMZ"
+            }
+        },
+        "MangaFire": {
+            "5ly9": {
+                "id": 227230,
+                "identifier": "5ly9",
+                "image": "https://static.mangafire.to/b69a/i/f/f5/f560cb7fd1988325107712514d3bec95.jpg",
+                "malId": 74283,
+                "aniId": 85890,
+                "page": "MangaFire",
+                "title": "New Saga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsuyokute-new-sagaa.5ly9"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "70cc8d60-d4a8-4c7e-a1e2-eb8e05ff9c3a": {
+                "id": 28765,
                 "identifier": "70cc8d60-d4a8-4c7e-a1e2-eb8e05ff9c3a",
                 "image": "https://uploads.mangadex.org/covers/70cc8d60-d4a8-4c7e-a1e2-eb8e05ff9c3a/67d422e4-71fc-4682-98b9-aadc04c170e0.jpg",
                 "malId": 106196,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shou": {
+                "id": 61317,
                 "identifier": "jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shou",
                 "image": "https://temp.compsci88.com/cover/Jinrou-e-no-Tensei-Maou-no-Fukkan-Hajimari-no-Shou.jpg",
                 "malId": 106196,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jinrou_e_no_tensei_maou_no_fukkan_hajimari_no_shou": {
+                "id": 62647,
                 "identifier": "jinrou_e_no_tensei_maou_no_fukkan_hajimari_no_shou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30726/cover.jpg",
                 "malId": 106196,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-et982076": {
+                "id": 81052,
                 "identifier": "manga-et982076",
                 "image": "https://avt.mkklcdnv6temp.com/38/g/18-1583498578.jpg",
                 "malId": 106196,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-et982076"
             }
         },
-        "MangaFire": {
-            "jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shou.xroq3": {
-                "identifier": "jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shou.xroq3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e8d2d39f06a8d2903758f87964dd5a0.jpg",
-                "malId": 106196,
-                "aniId": 114483,
-                "page": "MangaFire",
-                "title": "Der Werwolf - The Annals of Veight ~Origins~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shou.xroq3/"
-            },
-            "jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shouu.xroq3": {
-                "identifier": "jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shouu.xroq3",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e8d2d39f06a8d2903758f87964dd5a0.jpg",
-                "malId": 106196,
-                "aniId": 114483,
-                "page": "MangaFire",
-                "title": "Der Werwolf - The Annals of Veight ~Origins~",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shouu.xroq3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd80chzd8dz9v4dbj3je": {
+                "id": 210528,
                 "identifier": "01j76xyd80chzd8dz9v4dbj3je",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD80CHZD8DZ9V4DBJ3JE.jpg",
                 "malId": 106196,
@@ -86,6 +69,19 @@
                 "title": "Der Werwolf - The Annals of Veight -Origins-",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD80CHZD8DZ9V4DBJ3JE"
+            }
+        },
+        "MangaFire": {
+            "xroq3": {
+                "id": 229664,
+                "identifier": "xroq3",
+                "image": "https://static.mangafire.to/6856/i/2/2e/2e8d2d39f06a8d2903758f87964dd5a0.jpg",
+                "malId": 106196,
+                "aniId": 114483,
+                "page": "MangaFire",
+                "title": "Der Werwolf - The Annals of Veight ~Origins~",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jinrou-e-no-tensei-maou-no-fukkan-hajimari-no-shouu.xroq3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6beaccd4-308e-4d82-b81a-b45d4ca7ff0f": {
+                "id": 14551,
                 "identifier": "6beaccd4-308e-4d82-b81a-b45d4ca7ff0f",
                 "image": "https://uploads.mangadex.org/covers/6beaccd4-308e-4d82-b81a-b45d4ca7ff0f/6632b9d1-9e49-4370-82ab-6ac689aeb1e1.jpg",
                 "malId": 94128,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "short_cake_cake": {
+                "id": 67537,
                 "identifier": "short_cake_cake",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17897/cover.jpg",
                 "malId": 94128,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "short-cake-cake": {
+                "id": 67761,
                 "identifier": "short-cake-cake",
                 "image": "https://temp.compsci88.com/cover/Short-Cake-Cake.jpg",
                 "malId": 94128,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xd952112": {
+                "id": 94715,
                 "identifier": "manga-xd952112",
                 "image": "https://avt.mkklcdnv6temp.com/fld/31/a/1-1732717591-nw.webp",
                 "malId": 94128,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xd952112"
             }
         },
-        "MangaFire": {
-            "short-cake-cake.prl1j": {
-                "identifier": "short-cake-cake.prl1j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/937e4a2e0a4ca4e8f94b68b5ad8773cf.jpg",
-                "malId": 94128,
-                "aniId": 86645,
-                "page": "MangaFire",
-                "title": "Shortcake Cake",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/short-cake-cake.prl1j/"
-            },
-            "short-cake-cakee.prl1j": {
-                "identifier": "short-cake-cakee.prl1j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/937e4a2e0a4ca4e8f94b68b5ad8773cf.jpg",
-                "malId": 94128,
-                "aniId": 86645,
-                "page": "MangaFire",
-                "title": "Shortcake Cake",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/short-cake-cakee.prl1j/"
-            },
-            "prl1j": {
-                "identifier": "prl1j",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/937e4a2e0a4ca4e8f94b68b5ad8773cf.jpg",
-                "malId": 94128,
-                "aniId": 86645,
-                "page": "MangaFire",
-                "title": "Shortcake Cake",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/short-cake-cakee.prl1j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczm2wmdwcz18bchepec": {
+                "id": 211860,
                 "identifier": "01j76xyczm2wmdwcz18bchepec",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZM2WMDWCZ18BCHEPEC.jpg",
                 "malId": 94128,
@@ -96,6 +69,19 @@
                 "title": "Shortcake Cake",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZM2WMDWCZ18BCHEPEC"
+            }
+        },
+        "MangaFire": {
+            "prl1j": {
+                "id": 225496,
+                "identifier": "prl1j",
+                "image": "https://static.mangafire.to/55d9/i/9/93/937e4a2e0a4ca4e8f94b68b5ad8773cf.jpg",
+                "malId": 94128,
+                "aniId": 86645,
+                "page": "MangaFire",
+                "title": "Shortcake Cake",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/short-cake-cakee.prl1j"
             }
         },
         "Comick": {

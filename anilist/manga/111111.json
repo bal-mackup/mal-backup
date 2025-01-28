@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "29b8c90a-4e8e-4da6-a002-e74d2a3de2d4": {
+                "id": 17702,
                 "identifier": "29b8c90a-4e8e-4da6-a002-e74d2a3de2d4",
                 "image": "https://uploads.mangadex.org/covers/29b8c90a-4e8e-4da6-a002-e74d2a3de2d4/534152da-4068-4b56-8f25-fad84ce78c49.jpg",
                 "malId": 100778,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "s_rare_soubi_no_niau_kanojo": {
+                "id": 57602,
                 "identifier": "s_rare_soubi_no_niau_kanojo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25259/cover.jpg",
                 "malId": 100778,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "s-rare-soubi-no-niau-kanojo": {
+                "id": 60028,
                 "identifier": "s-rare-soubi-no-niau-kanojo",
                 "image": "https://temp.compsci88.com/cover/S-Rare-Soubi-no-Niau-Kanojo.jpg",
                 "malId": 100778,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zp976372": {
+                "id": 81428,
                 "identifier": "manga-zp976372",
                 "image": "https://avt.mkklcdnv6temp.com/24/o/15-1583492337.jpg",
                 "malId": 100778,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zp976372"
             }
         },
-        "MangaFire": {
-            "s-rare-soubi-no-niau-kanojo.ojll4": {
-                "identifier": "s-rare-soubi-no-niau-kanojo.ojll4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0d4587734886a321fb5e581e16e0a37.jpg",
-                "malId": 100778,
-                "aniId": 111111,
-                "page": "MangaFire",
-                "title": "S Rare Soubi no Niau Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/s-rare-soubi-no-niau-kanojo.ojll4/"
-            },
-            "s-rare-soubi-no-niau-kanojoo.ojll4": {
-                "identifier": "s-rare-soubi-no-niau-kanojoo.ojll4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0d4587734886a321fb5e581e16e0a37.jpg",
-                "malId": 100778,
-                "aniId": 111111,
-                "page": "MangaFire",
-                "title": "S Rare Soubi no Niau Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/s-rare-soubi-no-niau-kanojoo.ojll4/"
-            },
-            "ojll4": {
-                "identifier": "ojll4",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0d4587734886a321fb5e581e16e0a37.jpg",
-                "malId": 100778,
-                "aniId": 111111,
-                "page": "MangaFire",
-                "title": "S Rare Soubi no Niau Kanojo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/s-rare-soubi-no-niau-kanojoo.ojll4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd71fhsscx6vpgh7actb": {
+                "id": 210223,
                 "identifier": "01j76xyd71fhsscx6vpgh7actb",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD71FHSSCX6VPGH7ACTB.jpg",
                 "malId": 100778,
@@ -96,6 +69,19 @@
                 "title": "S Rare Soubi no Niau Kanojo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD71FHSSCX6VPGH7ACTB"
+            }
+        },
+        "MangaFire": {
+            "ojll4": {
+                "id": 247912,
+                "identifier": "ojll4",
+                "image": "https://static.mangafire.to/63ec/i/b/b0/b0d4587734886a321fb5e581e16e0a37.jpg",
+                "malId": 100778,
+                "aniId": 111111,
+                "page": "MangaFire",
+                "title": "S Rare Soubi no Niau Kanojo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/s-rare-soubi-no-niau-kanojoo.ojll4"
             }
         },
         "Comick": {

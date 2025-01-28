@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "42ff9549-d54a-49a6-ae3a-edf77dec05ce": {
+                "id": 38519,
                 "identifier": "42ff9549-d54a-49a6-ae3a-edf77dec05ce",
                 "image": "https://uploads.mangadex.org/covers/42ff9549-d54a-49a6-ae3a-edf77dec05ce/3976ea77-8a35-4b6a-bdb8-c7400484e2c9.jpg",
                 "malId": 131517,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/42ff9549-d54a-49a6-ae3a-edf77dec05ce"
             }
         },
-        "MangaFire": {
-            "junkyouju-takatsuki-akira-no-suisatsu.jvwy3": {
-                "identifier": "junkyouju-takatsuki-akira-no-suisatsu.jvwy3",
-                "image": "https://static.mangafire.to/3b2d5/i/6/63/63a00f676747d139c4c1d9c4fb4b9ebd.jpg",
-                "malId": 131517,
-                "aniId": 137357,
-                "page": "MangaFire",
-                "title": "Associate Professor Akira Takatsuki's Conjecture",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/junkyouju-takatsuki-akira-no-suisatsu.jvwy3/"
-            }
-        },
         "MangaSee": {
             "associate-professor-akira-takatsukis-conjecture": {
+                "id": 170173,
                 "identifier": "associate-professor-akira-takatsukis-conjecture",
                 "image": "https://temp.compsci88.com/cover/Associate-Professor-Akira-Takatsukis-Conjecture.jpg",
                 "malId": 131517,
@@ -44,6 +34,7 @@
         },
         "MangaNato": {
             "manga-wq999699": {
+                "id": 187187,
                 "identifier": "manga-wq999699",
                 "image": "https://avt.mkklcdnv6temp.com/fld/40/u/16-1733315937-nw.webp",
                 "malId": 131517,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyggsby0fcg68xc580g8m": {
+                "id": 212253,
                 "identifier": "01j76xyggsby0fcg68xc580g8m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGGSBY0FCG68XC580G8M.jpg",
                 "malId": 131517,
@@ -64,6 +56,19 @@
                 "title": "Associate Professor Akira Takatsuki's Conjecture",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGGSBY0FCG68XC580G8M"
+            }
+        },
+        "MangaFire": {
+            "jvwy3": {
+                "id": 250336,
+                "identifier": "jvwy3",
+                "image": "https://static.mangafire.to/0590/i/6/63/63a00f676747d139c4c1d9c4fb4b9ebd.jpg",
+                "malId": 131517,
+                "aniId": 137357,
+                "page": "MangaFire",
+                "title": "Associate Professor Akira Takatsuki's Conjecture",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/junkyouju-takatsuki-akira-no-suisatsuu.jvwy3"
             }
         },
         "Comick": {

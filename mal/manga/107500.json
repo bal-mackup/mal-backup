@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0386ed2f-7817-4706-8e5c-360b635bcfb6": {
+                "id": 17802,
                 "identifier": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
                 "image": "https://uploads.mangadex.org/covers/0386ed2f-7817-4706-8e5c-360b635bcfb6/29f6fee7-2937-42b1-b39c-0eae95ada4e9.jpg",
                 "malId": 107500,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "munou-na-nana": {
+                "id": 54346,
                 "identifier": "munou-na-nana",
                 "image": "https://temp.compsci88.com/cover/Munou-Na-Nana.jpg",
                 "malId": 107500,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "talentless_nana": {
+                "id": 54592,
                 "identifier": "talentless_nana",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25801/cover.jpg",
                 "malId": 107500,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zd977060": {
+                "id": 75220,
                 "identifier": "manga-zd977060",
                 "image": "https://avt.mkklcdnv6temp.com/34/n/15-1583492818.jpg",
                 "malId": 107500,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zd977060"
             }
         },
-        "MangaFire": {
-            "munou-na-nana.nzmj": {
-                "identifier": "munou-na-nana.nzmj",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20f7c7eb63c08999b09c9382ec5081ad.jpg",
-                "malId": 107500,
-                "aniId": 99536,
-                "page": "MangaFire",
-                "title": "Talentless Nana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/munou-na-nana.nzmj/"
-            },
-            "munou-na-nanaa.nzmj": {
-                "identifier": "munou-na-nanaa.nzmj",
-                "image": "https://static.mangafire.to/3b2d5/i/2/20/20f7c7eb63c08999b09c9382ec5081ad.jpg",
-                "malId": 107500,
-                "aniId": 99536,
-                "page": "MangaFire",
-                "title": "Talentless Nana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/munou-na-nanaa.nzmj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc9xvz0fdkb9d7ad8g0s": {
+                "id": 208566,
                 "identifier": "01j76xyc9xvz0fdkb9d7ad8g0s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC9XVZ0FDKB9D7AD8G0S.jpg",
                 "malId": 107500,
@@ -86,6 +69,19 @@
                 "title": "Talentless Nana",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC9XVZ0FDKB9D7AD8G0S"
+            }
+        },
+        "MangaFire": {
+            "nzmj": {
+                "id": 225429,
+                "identifier": "nzmj",
+                "image": "https://static.mangafire.to/d448/i/2/20/20f7c7eb63c08999b09c9382ec5081ad.jpg",
+                "malId": 107500,
+                "aniId": 99536,
+                "page": "MangaFire",
+                "title": "Talentless Nana",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/munou-na-nanaa.nzmj"
             }
         },
         "Comick": {

@@ -6,30 +6,9 @@
     "total": 48,
     "image": "https://cdn.myanimelist.net/images/manga/2/174220.jpg",
     "Sites": {
-        "MangaFire": {
-            "chi-chan-to-eno-kun.rl7rn": {
-                "identifier": "chi-chan-to-eno-kun.rl7rn",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12c89d8db327cea679f18c149180e372.jpg",
-                "malId": 96847,
-                "aniId": 96893,
-                "page": "MangaFire",
-                "title": "Chi-chan to Eno-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chi-chan-to-eno-kun.rl7rn/"
-            },
-            "rl7rn": {
-                "identifier": "rl7rn",
-                "image": "https://static.mangafire.to/3b2d5/i/1/12/12c89d8db327cea679f18c149180e372.jpg",
-                "malId": 96847,
-                "aniId": 96893,
-                "page": "MangaFire",
-                "title": "Chi-chan to Eno-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chi-chan-to-eno-kun.rl7rn/"
-            }
-        },
         "Mangadex": {
             "db3f0c14-bdb1-4058-bd8e-71256067f58b": {
+                "id": 161011,
                 "identifier": "db3f0c14-bdb1-4058-bd8e-71256067f58b",
                 "image": "https://uploads.mangadex.org/covers/db3f0c14-bdb1-4058-bd8e-71256067f58b/619f86a0-6905-4e33-beea-ee6be6c77e66.jpg",
                 "malId": 96847,
@@ -38,6 +17,19 @@
                 "title": "Chi-chan to Eno-kun",
                 "type": "manga",
                 "url": "https://mangadex.org/title/db3f0c14-bdb1-4058-bd8e-71256067f58b"
+            }
+        },
+        "MangaFire": {
+            "rl7rn": {
+                "id": 256727,
+                "identifier": "rl7rn",
+                "image": "https://static.mangafire.to/cb5f/i/1/12/12c89d8db327cea679f18c149180e372.jpg",
+                "malId": 96847,
+                "aniId": 96893,
+                "page": "MangaFire",
+                "title": "Chi-chan to Eno-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chi-chan-to-eno-kunn.rl7rn"
             }
         },
         "Comick": {

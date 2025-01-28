@@ -6,20 +6,9 @@
     "total": 23,
     "image": "https://cdn.myanimelist.net/images/manga/1/270426.jpg",
     "Sites": {
-        "MangaFire": {
-            "30-sai-de-seibetsu-ga-nai-to-hanmei-shita-ore-ga-around-fifty-ni-natte-wakatta-koto.429q7": {
-                "identifier": "30-sai-de-seibetsu-ga-nai-to-hanmei-shita-ore-ga-around-fifty-ni-natte-wakatta-koto.429q7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb70b06037b841b8048c92129cc7bf7d.jpg",
-                "malId": 152689,
-                "aniId": 164188,
-                "page": "MangaFire",
-                "title": "30-sai de \"Seibetsu ga, Nai!\" to Hanmei shita Ore ga Around Fifty ni Natte Wakatta Koto.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/30-sai-de-seibetsu-ga-nai-to-hanmei-shita-ore-ga-around-fifty-ni-natte-wakatta-koto.429q7/"
-            }
-        },
         "Mangadex": {
             "a3f36a68-7f82-4827-8d3a-d77281c34448": {
+                "id": 173681,
                 "identifier": "a3f36a68-7f82-4827-8d3a-d77281c34448",
                 "image": "https://uploads.mangadex.org/covers/a3f36a68-7f82-4827-8d3a-d77281c34448/788f9f8b-577d-4691-9e68-94b7571959c7.png",
                 "malId": 152689,
@@ -32,6 +21,7 @@
         },
         "MangaNato": {
             "manga-vj999066": {
+                "id": 174705,
                 "identifier": "manga-vj999066",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/p/16-1733314116-nw.webp",
                 "malId": 152689,
@@ -40,6 +30,19 @@
                 "title": "At 30, I Realized I Had No Gender",
                 "type": "manga",
                 "url": "https://manganato.com/manga-vj999066"
+            }
+        },
+        "MangaFire": {
+            "429q7": {
+                "id": 242146,
+                "identifier": "429q7",
+                "image": "https://static.mangafire.to/95ad/i/c/cb/cb70b06037b841b8048c92129cc7bf7d.jpg",
+                "malId": 152689,
+                "aniId": 164188,
+                "page": "MangaFire",
+                "title": "30-sai de \"Seibetsu ga, Nai!\" to Hanmei shita Ore ga Around Fifty ni Natte Wakatta Koto.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/30-sai-de-seibetsu-ga-nai-to-hanmei-shita-ore-ga-around-fifty-ni-natte-wakatta-kotoo.429q7"
             }
         }
     },

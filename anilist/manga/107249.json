@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "13e214c3-965b-4e05-9f68-e53a62c9be62": {
+                "id": 26220,
                 "identifier": "13e214c3-965b-4e05-9f68-e53a62c9be62",
                 "image": "https://uploads.mangadex.org/covers/13e214c3-965b-4e05-9f68-e53a62c9be62/9b961891-10b9-4370-a309-6346b6e2289c.jpg",
                 "malId": 120698,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "cutie-and-the-beast": {
+                "id": 71815,
                 "identifier": "cutie-and-the-beast",
                 "image": "https://temp.compsci88.com/cover/Cutie-and-the-Beast.jpg",
                 "malId": 120698,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-er981974": {
+                "id": 80320,
                 "identifier": "manga-er981974",
                 "image": "https://avt.mkklcdnv6temp.com/34/m/18-1583498429.jpg",
                 "malId": 120698,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "pujo_to_yajuu_jk_ga_akuyaku_wrestler_ni_koi_shita_hanashi": {
+                "id": 94835,
                 "identifier": "pujo_to_yajuu_jk_ga_akuyaku_wrestler_ni_koi_shita_hanashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31746/cover.jpg",
                 "malId": 120698,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/pujo_to_yajuu_jk_ga_akuyaku_wrestler_ni_koi_shita_hanashi/"
             }
         },
-        "MangaFire": {
-            "pujo-to-yajuu.vvxr4": {
-                "identifier": "pujo-to-yajuu.vvxr4",
-                "image": "https://static.mangafire.to/3b2d5/i/0/02/02b7b9bd7c4a9f3563c10644094c95be.jpg",
-                "malId": 120698,
-                "aniId": 107249,
-                "page": "MangaFire",
-                "title": "Cutie and the Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pujo-to-yajuu.vvxr4/"
-            }
-        },
         "Weebcentral": {
             "01j76xye1wra71navfc9xf7gsc": {
+                "id": 210577,
                 "identifier": "01j76xye1wra71navfc9xf7gsc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE1WRA71NAVFC9XF7GSC.jpg",
                 "malId": 120698,
@@ -76,6 +69,19 @@
                 "title": "Cutie and the Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE1WRA71NAVFC9XF7GSC"
+            }
+        },
+        "MangaFire": {
+            "vvxr4": {
+                "id": 251509,
+                "identifier": "vvxr4",
+                "image": "https://static.mangafire.to/cbfd/i/0/02/02b7b9bd7c4a9f3563c10644094c95be.jpg",
+                "malId": 120698,
+                "aniId": 107249,
+                "page": "MangaFire",
+                "title": "Cutie and the Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pujo-to-yajuuu.vvxr4"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "14ab10cb-9091-4557-8a57-19684f357792": {
+                "id": 3333,
                 "identifier": "14ab10cb-9091-4557-8a57-19684f357792",
                 "image": "https://uploads.mangadex.org/covers/14ab10cb-9091-4557-8a57-19684f357792/526c0782-47cb-4808-87e5-502f5cface2e.jpg",
                 "malId": 94592,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/14ab10cb-9091-4557-8a57-19684f357792"
             }
         },
-        "MangaFire": {
-            "moonlight-hair.jl82": {
-                "identifier": "moonlight-hair.jl82",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9405b4cf49635ec34989c11ba6fdd33.jpg",
-                "malId": 94592,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Moonlight Hair",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/moonlight-hair.jl82/"
-            },
-            "jl82": {
-                "identifier": "jl82",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a9/a9405b4cf49635ec34989c11ba6fdd33.jpg",
-                "malId": 94592,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Moonlight Hair",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/moonlight-hair.jl82/"
-            }
-        },
         "MangaSee": {
             "moonlight-hair": {
+                "id": 179067,
                 "identifier": "moonlight-hair",
                 "image": "https://temp.compsci88.com/cover/Moonlight-Hair.jpg",
                 "malId": 94592,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygv0zrdszkgd650qz49g": {
+                "id": 210182,
                 "identifier": "01j76xygv0zrdszkgd650qz49g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGV0ZRDSZKGD650QZ49G.jpg",
                 "malId": 94592,
@@ -62,6 +43,19 @@
                 "title": "Moonlight Hair",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGV0ZRDSZKGD650QZ49G"
+            }
+        },
+        "MangaFire": {
+            "jl82": {
+                "id": 254265,
+                "identifier": "jl82",
+                "image": "https://static.mangafire.to/df28/i/a/a9/a9405b4cf49635ec34989c11ba6fdd33.jpg",
+                "malId": 94592,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Moonlight Hair",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/moonlight-hairr.jl82"
             }
         },
         "Comick": {

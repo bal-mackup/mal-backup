@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f1845adf-270b-4405-9438-0c56b1b9576c": {
+                "id": 160310,
                 "identifier": "f1845adf-270b-4405-9438-0c56b1b9576c",
                 "image": "https://uploads.mangadex.org/covers/f1845adf-270b-4405-9438-0c56b1b9576c/6e56c872-90a2-4e9f-9345-c1d923f2ccc1.jpg",
                 "malId": 159721,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/f1845adf-270b-4405-9438-0c56b1b9576c"
             }
         },
-        "MangaFire": {
-            "beyblade-x.jpwn4": {
-                "identifier": "beyblade-x.jpwn4",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8de4f1725e2586d51ef5cfb20be01d5e.jpg",
-                "malId": 159721,
-                "aniId": 165050,
-                "page": "MangaFire",
-                "title": "BEYBLADE X",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beyblade-x.jpwn4/"
-            }
-        },
         "MangaNato": {
             "manga-td996838": {
+                "id": 163363,
                 "identifier": "manga-td996838",
                 "image": "https://avt.mkklcdnv6temp.com/fld/31/r/15-1733308503-nw.webp",
                 "malId": 159721,
@@ -40,6 +30,19 @@
                 "title": "Beyblade X",
                 "type": "manga",
                 "url": "https://manganato.com/manga-td996838"
+            }
+        },
+        "MangaFire": {
+            "jpwn4": {
+                "id": 241760,
+                "identifier": "jpwn4",
+                "image": "https://static.mangafire.to/8c1a/i/8/8d/8de4f1725e2586d51ef5cfb20be01d5e.jpg",
+                "malId": 159721,
+                "aniId": 165050,
+                "page": "MangaFire",
+                "title": "BEYBLADE X",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beyblade-xx.jpwn4"
             }
         },
         "Comick": {

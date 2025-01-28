@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0f7ce666-8834-4386-ae7f-e13f560c9425": {
+                "id": 61442,
                 "identifier": "0f7ce666-8834-4386-ae7f-e13f560c9425",
                 "image": "https://uploads.mangadex.org/covers/0f7ce666-8834-4386-ae7f-e13f560c9425/3f9e29e9-10d3-484e-b684-c17b750e002f.jpg",
                 "malId": 130317,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "night-of-the-living-cat": {
+                "id": 120625,
                 "identifier": "night-of-the-living-cat",
                 "image": "https://temp.compsci88.com/cover/Night-of-the-Living-Cat.jpg",
                 "malId": 130317,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Night-of-the-Living-Cat"
             }
         },
-        "MangaFire": {
-            "nyaight-of-the-living-cat.llpxn": {
-                "identifier": "nyaight-of-the-living-cat.llpxn",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d1b831bbe384372864d5ead2e18f646.jpg",
-                "malId": 130317,
-                "aniId": 124767,
-                "page": "MangaFire",
-                "title": "Night of the Living Cat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nyaight-of-the-living-cat.llpxn/"
-            },
-            "nyaight-of-the-living-catt.llpxn": {
-                "identifier": "nyaight-of-the-living-catt.llpxn",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d1b831bbe384372864d5ead2e18f646.jpg",
-                "malId": 130317,
-                "aniId": 124767,
-                "page": "MangaFire",
-                "title": "Night of the Living Cat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nyaight-of-the-living-catt.llpxn/"
-            }
-        },
         "MangaNato": {
             "manga-aw1003679": {
+                "id": 195699,
                 "identifier": "manga-aw1003679",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/e/17-1733326796-nw.webp",
                 "malId": 130317,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfv7s8btj8mbg9w5v77d": {
+                "id": 207768,
                 "identifier": "01j76xyfv7s8btj8mbg9w5v77d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFV7S8BTJ8MBG9W5V77D.jpg",
                 "malId": 130317,
@@ -74,6 +56,19 @@
                 "title": "Night of the Living Cat",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFV7S8BTJ8MBG9W5V77D"
+            }
+        },
+        "MangaFire": {
+            "llpxn": {
+                "id": 238016,
+                "identifier": "llpxn",
+                "image": "https://static.mangafire.to/92bd/i/7/7d/7d1b831bbe384372864d5ead2e18f646.jpg",
+                "malId": 130317,
+                "aniId": 124767,
+                "page": "MangaFire",
+                "title": "Night of the Living Cat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nyaight-of-the-living-catt.llpxn"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "403721a8-0793-431f-b47c-89eb04f402ae": {
+                "id": 11656,
                 "identifier": "403721a8-0793-431f-b47c-89eb04f402ae",
                 "image": "https://uploads.mangadex.org/covers/403721a8-0793-431f-b47c-89eb04f402ae/46a6f18a-fc92-45c1-8160-cad72b5d99e4.jpg",
                 "malId": 67121,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kings-game-origin": {
+                "id": 64524,
                 "identifier": "kings-game-origin",
                 "image": "https://temp.compsci88.com/cover/Kings-Game-Origin.jpg",
                 "malId": 67121,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "ou_sama_game_kigen": {
+                "id": 95590,
                 "identifier": "ou_sama_game_kigen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13684/cover.jpg",
                 "malId": 67121,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mo952649": {
+                "id": 96936,
                 "identifier": "manga-mo952649",
                 "image": "https://avt.mkklcdnv6temp.com/fld/49/m/1-1732718346-nw.webp",
                 "malId": 67121,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-mo952649"
             }
         },
-        "MangaFire": {
-            "ousama-game-kigen.oxvl4": {
-                "identifier": "ousama-game-kigen.oxvl4",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f56059d7cd8e17d3009c9d6401f5841a.jpg",
-                "malId": 67121,
-                "aniId": 85429,
-                "page": "MangaFire",
-                "title": "King's Game: Origin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ousama-game-kigen.oxvl4/"
-            },
-            "ousama-game-kigenn.oxvl4": {
-                "identifier": "ousama-game-kigenn.oxvl4",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f5/f56059d7cd8e17d3009c9d6401f5841a.jpg",
-                "malId": 67121,
-                "aniId": 85429,
-                "page": "MangaFire",
-                "title": "King's Game: Origin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ousama-game-kigenn.oxvl4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb42dy2pkxrk52xa3an9": {
+                "id": 206481,
                 "identifier": "01j76xyb42dy2pkxrk52xa3an9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB42DY2PKXRK52XA3AN9.jpg",
                 "malId": 67121,
@@ -86,6 +69,19 @@
                 "title": "King's Game Origin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB42DY2PKXRK52XA3AN9"
+            }
+        },
+        "MangaFire": {
+            "oxvl4": {
+                "id": 240899,
+                "identifier": "oxvl4",
+                "image": "https://static.mangafire.to/d24a/i/f/f5/f56059d7cd8e17d3009c9d6401f5841a.jpg",
+                "malId": 67121,
+                "aniId": 85429,
+                "page": "MangaFire",
+                "title": "King's Game: Origin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ousama-game-kigenn.oxvl4"
             }
         },
         "Comick": {

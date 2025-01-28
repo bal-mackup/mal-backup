@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "944a4561-16b2-4e9c-99cb-5d6516939000": {
+                "id": 30426,
                 "identifier": "944a4561-16b2-4e9c-99cb-5d6516939000",
                 "image": "https://uploads.mangadex.org/covers/944a4561-16b2-4e9c-99cb-5d6516939000/4ba06aa9-55bf-4d25-9985-43ebe70a64bb.jpg",
                 "malId": 132143,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "a-normally-dowdy-man-is-in-essence-the-mightiest-war-god": {
+                "id": 54923,
                 "identifier": "a-normally-dowdy-man-is-in-essence-the-mightiest-war-god",
                 "image": "https://temp.compsci88.com/cover/A-Normally-Dowdy-Man-Is-in-Essence-the-Mightiest-War-God.jpg",
                 "malId": 132143,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-je986861": {
+                "id": 81360,
                 "identifier": "manga-je986861",
                 "image": "https://avt.mkklcdnv6temp.com/23/x/22-1601702481.jpg",
                 "malId": 132143,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "nichijou_dewa_saenai_tada_no_ossan_jitsu_wa_chijou_saikyou_no_ikusagami": {
+                "id": 85576,
                 "identifier": "nichijou_dewa_saenai_tada_no_ossan_jitsu_wa_chijou_saikyou_no_ikusagami",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35509/cover.jpg",
                 "malId": 132143,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/nichijou_dewa_saenai_tada_no_ossan_jitsu_wa_chijou_saikyou_no_ikusagami/"
             }
         },
-        "MangaFire": {
-            "a-normally-dowdy-man-is-in-essence-the-mightiest-war-god.803xq": {
-                "identifier": "a-normally-dowdy-man-is-in-essence-the-mightiest-war-god.803xq",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d17154603d13ddb931bf9444641f850b.jpg",
-                "malId": 132143,
-                "aniId": 127739,
-                "page": "MangaFire",
-                "title": "A Normally Dowdy Man Is in Essence the Mightiest War-God.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-normally-dowdy-man-is-in-essence-the-mightiest-war-god.803xq/"
-            },
-            "a-normally-dowdy-man-is-in-essence-the-mightiest-war-godd.803xq": {
-                "identifier": "a-normally-dowdy-man-is-in-essence-the-mightiest-war-godd.803xq",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d1/d17154603d13ddb931bf9444641f850b.jpg",
-                "malId": 132143,
-                "aniId": 127739,
-                "page": "MangaFire",
-                "title": "A Normally Dowdy Man Is in Essence the Mightiest War-God.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-normally-dowdy-man-is-in-essence-the-mightiest-war-godd.803xq/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4t8te8w6wzhhrf5eqp": {
+                "id": 210699,
                 "identifier": "01j76xye4t8te8w6wzhhrf5eqp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4T8TE8W6WZHHRF5EQP.jpg",
                 "malId": 132143,
@@ -86,6 +69,19 @@
                 "title": "A Normally Dowdy Man Is in Essence the Mightiest War-God",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4T8TE8W6WZHHRF5EQP"
+            }
+        },
+        "MangaFire": {
+            "803xq": {
+                "id": 262704,
+                "identifier": "803xq",
+                "image": "https://static.mangafire.to/a96b/i/d/d1/d17154603d13ddb931bf9444641f850b.jpg",
+                "malId": 132143,
+                "aniId": 127739,
+                "page": "MangaFire",
+                "title": "A Normally Dowdy Man Is in Essence the Mightiest War-God.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-normally-dowdy-man-is-in-essence-the-mightiest-war-godd.803xq"
             }
         },
         "Comick": {

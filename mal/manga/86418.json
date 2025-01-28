@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "323da437-2cdf-4a08-b91b-374c806f753c": {
+                "id": 12599,
                 "identifier": "323da437-2cdf-4a08-b91b-374c806f753c",
                 "image": "https://uploads.mangadex.org/covers/323da437-2cdf-4a08-b91b-374c806f753c/6726f05c-cd4f-48b0-b7e1-e073494e5277.jpg",
                 "malId": 86418,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "sasori": {
+                "id": 71041,
                 "identifier": "sasori",
                 "image": "https://temp.compsci88.com/cover/Sasori.jpg",
                 "malId": 86418,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nk951493": {
+                "id": 82955,
                 "identifier": "manga-nk951493",
                 "image": "https://avt.mkklcdnv6temp.com/fld/9/n/1-1732716752-nw.webp",
                 "malId": 86418,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-nk951493"
             }
         },
-        "MangaFire": {
-            "sasori.2o0m0": {
-                "identifier": "sasori.2o0m0",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2153e383c9f866ed59e74a528a9c793.jpg",
-                "malId": 86418,
-                "aniId": 93965,
-                "page": "MangaFire",
-                "title": "Sasori",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sasori.2o0m0/"
-            },
-            "2o0m0": {
-                "identifier": "2o0m0",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2153e383c9f866ed59e74a528a9c793.jpg",
-                "malId": 86418,
-                "aniId": 93965,
-                "page": "MangaFire",
-                "title": "Sasori",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sasori.2o0m0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybrzqn53pmvkx60z49da": {
+                "id": 210373,
                 "identifier": "01j76xybrzqn53pmvkx60z49da",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBRZQN53PMVKX60Z49DA.jpg",
                 "malId": 86418,
@@ -74,6 +56,19 @@
                 "title": "Sasori",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBRZQN53PMVKX60Z49DA"
+            }
+        },
+        "MangaFire": {
+            "2o0m0": {
+                "id": 249498,
+                "identifier": "2o0m0",
+                "image": "https://static.mangafire.to/cac3/i/e/e2/e2153e383c9f866ed59e74a528a9c793.jpg",
+                "malId": 86418,
+                "aniId": 93965,
+                "page": "MangaFire",
+                "title": "Sasori",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sasorii.2o0m0"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "edba7b3c-b90c-487a-8449-3dfca3a71643": {
+                "id": 54754,
                 "identifier": "edba7b3c-b90c-487a-8449-3dfca3a71643",
                 "image": "https://uploads.mangadex.org/covers/edba7b3c-b90c-487a-8449-3dfca3a71643/35af0179-534b-42cc-89a1-e99367407a9d.jpg",
                 "malId": 152020,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-kk987445": {
+                "id": 81646,
                 "identifier": "manga-kk987445",
                 "image": "https://avt.mkklcdnv6temp.com/48/a/22-1608867814.jpg",
                 "malId": 152020,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "the-meaning-of-you": {
+                "id": 87106,
                 "identifier": "the-meaning-of-you",
                 "image": "https://temp.compsci88.com/cover/The-Meaning-of-You.jpg",
                 "malId": 152020,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "the_meaning_of_you": {
+                "id": 115173,
                 "identifier": "the_meaning_of_you",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36992/cover.jpg",
                 "malId": 152020,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/the_meaning_of_you/"
             }
         },
-        "MangaFire": {
-            "neoui-uimi.pjkl9": {
-                "identifier": "neoui-uimi.pjkl9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f80b4eb3d72afb1ce25a30c1a8366fd1.jpg",
-                "malId": 152020,
-                "aniId": 139477,
-                "page": "MangaFire",
-                "title": "The Meaning of You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neoui-uimi.pjkl9/"
-            },
-            "neoui-uimii.pjkl9": {
-                "identifier": "neoui-uimii.pjkl9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f80b4eb3d72afb1ce25a30c1a8366fd1.jpg",
-                "malId": 152020,
-                "aniId": 139477,
-                "page": "MangaFire",
-                "title": "The Meaning of You",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neoui-uimii.pjkl9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf1b1eezvfx846e5n252": {
+                "id": 208295,
                 "identifier": "01j76xyf1b1eezvfx846e5n252",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF1B1EEZVFX846E5N252.jpg",
                 "malId": 152020,
@@ -86,6 +69,19 @@
                 "title": "The Meaning of You",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF1B1EEZVFX846E5N252"
+            }
+        },
+        "MangaFire": {
+            "pjkl9": {
+                "id": 224331,
+                "identifier": "pjkl9",
+                "image": "https://static.mangafire.to/fdd7/i/f/f8/f80b4eb3d72afb1ce25a30c1a8366fd1.jpg",
+                "malId": 152020,
+                "aniId": 139477,
+                "page": "MangaFire",
+                "title": "The Meaning of You",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neoui-uimii.pjkl9"
             }
         },
         "Comick": {

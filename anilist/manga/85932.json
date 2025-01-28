@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "517b19aa-0243-4c55-85dc-eafd6318bbc2": {
+                "id": 10640,
                 "identifier": "517b19aa-0243-4c55-85dc-eafd6318bbc2",
                 "image": "https://uploads.mangadex.org/covers/517b19aa-0243-4c55-85dc-eafd6318bbc2/63af2309-b249-4c6a-9d01-e1f81f3b3630.jpg",
                 "malId": 78813,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mayonaka-no-x-giten": {
+                "id": 60423,
                 "identifier": "mayonaka-no-x-giten",
                 "image": "https://temp.compsci88.com/cover/Mayonaka-No-X-Giten.jpg",
                 "malId": 78813,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mayonaka_no_x_giten": {
+                "id": 62214,
                 "identifier": "mayonaka_no_x_giten",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14210/cover.jpg",
                 "malId": 78813,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lp952498": {
+                "id": 86118,
                 "identifier": "manga-lp952498",
                 "image": "https://avt.mkklcdnv6temp.com/fld/44/g/1-1732718130-nw.webp",
                 "malId": 78813,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-lp952498"
             }
         },
-        "MangaFire": {
-            "mayonaka-no-x-giten.xkow": {
-                "identifier": "mayonaka-no-x-giten.xkow",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf8648c9df2878f8b4c1796992910f05.jpg",
-                "malId": 78813,
-                "aniId": 85932,
-                "page": "MangaFire",
-                "title": "\"X\" Method In The Dead Of Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mayonaka-no-x-giten.xkow/"
-            },
-            "xkow": {
-                "identifier": "xkow",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cf8648c9df2878f8b4c1796992910f05.jpg",
-                "malId": 78813,
-                "aniId": 85932,
-                "page": "MangaFire",
-                "title": "\"X\" Method In The Dead Of Night",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mayonaka-no-x-giten.xkow/"
-            }
-        },
         "Weebcentral": {
             "01j76xyafj0mz9srycn0vy87dr": {
+                "id": 206310,
                 "identifier": "01j76xyafj0mz9srycn0vy87dr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAFJ0MZ9SRYCN0VY87DR.jpg",
                 "malId": 78813,
@@ -86,6 +69,19 @@
                 "title": "Mayonaka no X Giten",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAFJ0MZ9SRYCN0VY87DR"
+            }
+        },
+        "MangaFire": {
+            "xkow": {
+                "id": 261317,
+                "identifier": "xkow",
+                "image": "https://static.mangafire.to/557d/i/c/cf/cf8648c9df2878f8b4c1796992910f05.jpg",
+                "malId": 78813,
+                "aniId": 85932,
+                "page": "MangaFire",
+                "title": "\"X\" Method In The Dead Of Night",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mayonaka-no-x-gitenn.xkow"
             }
         },
         "Comick": {

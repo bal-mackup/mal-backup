@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5209fe10-4a14-403f-8837-2ccf8cced253": {
+                "id": 17669,
                 "identifier": "5209fe10-4a14-403f-8837-2ccf8cced253",
                 "image": "https://uploads.mangadex.org/covers/5209fe10-4a14-403f-8837-2ccf8cced253/2640816a-8037-4500-b853-0da72bdaaba8.jpg",
                 "malId": 87844,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-fable": {
+                "id": 58246,
                 "identifier": "the-fable",
                 "image": "https://temp.compsci88.com/cover/The-Fable.jpg",
                 "malId": 87844,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_fable": {
+                "id": 66881,
                 "identifier": "the_fable",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28746/cover.jpg",
                 "malId": 87844,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cc980059": {
+                "id": 73131,
                 "identifier": "manga-cc980059",
                 "image": "https://avt.mkklcdnv6temp.com/14/n/17-1583495788.jpg",
                 "malId": 87844,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-cc980059"
             }
         },
-        "MangaFire": {
-            "the-fable.mqzn8": {
-                "identifier": "the-fable.mqzn8",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/7176852b238429e72dc0f8f831e709c1.jpg",
-                "malId": 87844,
-                "aniId": 94490,
-                "page": "MangaFire",
-                "title": "The Fable",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-fable.mqzn8/"
-            },
-            "the-fablee.mqzn8": {
-                "identifier": "the-fablee.mqzn8",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/7176852b238429e72dc0f8f831e709c1.jpg",
-                "malId": 87844,
-                "aniId": 94490,
-                "page": "MangaFire",
-                "title": "The Fable",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-fablee.mqzn8/"
-            }
-        },
         "Weebcentral": {
             "01j76xydjjd4p50vfrbx51ag0m": {
+                "id": 210559,
                 "identifier": "01j76xydjjd4p50vfrbx51ag0m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJJD4P50VFRBX51AG0M.jpg",
                 "malId": 87844,
@@ -86,6 +69,19 @@
                 "title": "The Fable",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJJD4P50VFRBX51AG0M"
+            }
+        },
+        "MangaFire": {
+            "mqzn8": {
+                "id": 224159,
+                "identifier": "mqzn8",
+                "image": "https://static.mangafire.to/5d48/i/7/71/7176852b238429e72dc0f8f831e709c1.jpg",
+                "malId": 87844,
+                "aniId": 94490,
+                "page": "MangaFire",
+                "title": "The Fable",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-fablee.mqzn8"
             }
         },
         "Comick": {

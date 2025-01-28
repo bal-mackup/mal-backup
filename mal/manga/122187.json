@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "748b4869-0548-4048-886b-cb33f331353c": {
+                "id": 36661,
                 "identifier": "748b4869-0548-4048-886b-cb33f331353c",
                 "image": "https://uploads.mangadex.org/covers/748b4869-0548-4048-886b-cb33f331353c/fad84853-fbc8-4e61-b125-adaee5f4d40b.jpg",
                 "malId": 122187,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "hello_melancholic": {
+                "id": 68029,
                 "identifier": "hello_melancholic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35830/cover.jpg",
                 "malId": 122187,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jm986595": {
+                "id": 86165,
                 "identifier": "manga-jm986595",
                 "image": "https://avt.mkklcdnv6temp.com/13/c/22-1600189904.jpg",
                 "malId": 122187,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "hello-melancholic": {
+                "id": 96935,
                 "identifier": "hello-melancholic",
                 "image": "https://temp.compsci88.com/cover/Hello-Melancholic.jpg",
                 "malId": 122187,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Hello-Melancholic"
             }
         },
-        "MangaFire": {
-            "hello-melancholic.prlv6": {
-                "identifier": "hello-melancholic.prlv6",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/afdb33bb4e1d8020651defca47d7c69d.jpg",
-                "malId": 122187,
-                "aniId": 109661,
-                "page": "MangaFire",
-                "title": "Hello, Melancholic!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hello-melancholic.prlv6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfazb7pf8kpjr40zsyn1": {
+                "id": 211545,
                 "identifier": "01j76xyfazb7pf8kpjr40zsyn1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFAZB7PF8KPJR40ZSYN1.jpg",
                 "malId": 122187,
@@ -76,6 +69,19 @@
                 "title": "Hello, Melancholic!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFAZB7PF8KPJR40ZSYN1"
+            }
+        },
+        "MangaFire": {
+            "prlv6": {
+                "id": 244033,
+                "identifier": "prlv6",
+                "image": "https://static.mangafire.to/02d4/i/a/af/afdb33bb4e1d8020651defca47d7c69d.jpg",
+                "malId": 122187,
+                "aniId": 109661,
+                "page": "MangaFire",
+                "title": "Hello, Melancholic!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hello-melancholicc.prlv6"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0898ca7-f4ca-4d01-99d5-d63064365098": {
+                "id": 26750,
                 "identifier": "d0898ca7-f4ca-4d01-99d5-d63064365098",
                 "image": "https://uploads.mangadex.org/covers/d0898ca7-f4ca-4d01-99d5-d63064365098/28689d73-ca18-454d-908d-14de858655b9.jpg",
                 "malId": 148202,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lady-beast": {
+                "id": 70303,
                 "identifier": "lady-beast",
                 "image": "https://temp.compsci88.com/cover/Lady-Beast.jpg",
                 "malId": 148202,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dy981233": {
+                "id": 79755,
                 "identifier": "manga-dy981233",
                 "image": "https://avt.mkklcdnv6temp.com/7/k/18-1583497371.jpg",
                 "malId": 148202,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "lady_beast": {
+                "id": 87827,
                 "identifier": "lady_beast",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30103/cover.jpg",
                 "malId": 148202,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/lady_beast/"
             }
         },
-        "MangaFire": {
-            "lady-beast.zlo8m": {
-                "identifier": "lady-beast.zlo8m",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d5/d5aee09cab9c799dc65d244a8e4f3d6f.jpg",
-                "malId": 148202,
-                "aniId": 109270,
-                "page": "MangaFire",
-                "title": "Lady Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lady-beast.zlo8m/"
-            }
-        },
         "Weebcentral": {
             "01j76xyep8p7fph2rgy3vfc72a": {
+                "id": 211281,
                 "identifier": "01j76xyep8p7fph2rgy3vfc72a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEP8P7FPH2RGY3VFC72A.jpg",
                 "malId": 148202,
@@ -76,6 +69,19 @@
                 "title": "Lady Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEP8P7FPH2RGY3VFC72A"
+            }
+        },
+        "MangaFire": {
+            "zlo8m": {
+                "id": 252758,
+                "identifier": "zlo8m",
+                "image": "https://static.mangafire.to/77b3/i/d/d5/d5aee09cab9c799dc65d244a8e4f3d6f.jpg",
+                "malId": 148202,
+                "aniId": 109270,
+                "page": "MangaFire",
+                "title": "Lady Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lady-beastt.zlo8m"
             }
         }
     },

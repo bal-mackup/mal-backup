@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fa92d730-0b5f-4fbf-bbc2-189eff43b3d7": {
+                "id": 88539,
                 "identifier": "fa92d730-0b5f-4fbf-bbc2-189eff43b3d7",
                 "image": "https://uploads.mangadex.org/covers/fa92d730-0b5f-4fbf-bbc2-189eff43b3d7/0cdc86cb-5f6c-4312-9a9f-65e23786fa75.jpg",
                 "malId": 149308,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tsuihou-no-kenja-sekai-wo-shiru": {
+                "id": 90822,
                 "identifier": "tsuihou-no-kenja-sekai-wo-shiru",
                 "image": "https://temp.compsci88.com/cover/Tsuihou-no-Kenja-Sekai-wo-Shiru.jpg",
                 "malId": 149308,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-qd993660": {
+                "id": 123340,
                 "identifier": "manga-qd993660",
                 "image": "https://avt.mkklcdnv6temp.com/6/t/28-1674954038.jpg",
                 "malId": 149308,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tsuihou_no_kenja_sekai_wo_shiru_osanajimi_yuusha_no_atsuryoku_kara_nigete_jiyuu_ni_natta_ore": {
+                "id": 123554,
                 "identifier": "tsuihou_no_kenja_sekai_wo_shiru_osanajimi_yuusha_no_atsuryoku_kara_nigete_jiyuu_ni_natta_ore",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44383/cover.jpg",
                 "malId": 149308,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/tsuihou_no_kenja_sekai_wo_shiru_osanajimi_yuusha_no_atsuryoku_kara_nigete_jiyuu_ni_natta_ore/"
             }
         },
-        "MangaFire": {
-            "tsuihou-no-kenja-sekai-wo-shiru-osananajimi-yuusha-no-atsuryoku-kara-nigete-jiyuu-ni-natta-oree.5k0jm": {
-                "identifier": "tsuihou-no-kenja-sekai-wo-shiru-osananajimi-yuusha-no-atsuryoku-kara-nigete-jiyuu-ni-natta-oree.5k0jm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2a98412a2021f831254c940a5956e74.jpg",
-                "malId": 149308,
-                "aniId": 142169,
-                "page": "MangaFire",
-                "title": "Exiled Sage, Know the World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tsuihou-no-kenja-sekai-wo-shiru-osananajimi-yuusha-no-atsuryoku-kara-nigete-jiyuu-ni-natta-oree.5k0jm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf5wgf1f641bprbstfzz": {
+                "id": 212537,
                 "identifier": "01j76xyf5wgf1f641bprbstfzz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF5WGF1F641BPRBSTFZZ.jpg",
                 "malId": 149308,
@@ -78,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYF5WGF1F641BPRBSTFZZ"
             }
         },
+        "MangaFire": {
+            "5k0jm": {
+                "id": 229675,
+                "identifier": "5k0jm",
+                "image": "https://static.mangafire.to/036c/i/a/a2/a2a98412a2021f831254c940a5956e74.jpg",
+                "malId": 149308,
+                "aniId": 142169,
+                "page": "MangaFire",
+                "title": "Exiled Sage, Know the World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tsuihou-no-kenja-sekai-wo-shiru-osananajimi-yuusha-no-atsuryoku-kara-nigete-jiyuu-ni-natta-oree.5k0jm"
+            }
+        },
         "Comick": {
             "mn0CQ7hm": {
                 "identifier": "mn0CQ7hm",
                 "malId": 149308,
                 "type": "manga",
                 "page": "Comick",
-                "title": "A Banished Sage’s Progress to Discovering the World: The Story of What Happened When I Freed Myself from My Childhood Friend",
+                "title": "A Banished Sage's Progress to Discovering the World: The Story of What Happened When I Freed Myself from My Childhood Friend",
                 "url": "https://comick.io/comic/00-tsuihou-no-kenja-sekai-wo-shiru-osanajimi-yuusha-no-atsuryoku-kara-nigete-jiyuu-ni-natta-ore",
                 "aniId": 142169
             }

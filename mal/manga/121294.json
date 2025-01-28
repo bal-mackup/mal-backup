@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "263b6cb0-4d7b-4a34-bb0f-5282f8968095": {
+                "id": 30238,
                 "identifier": "263b6cb0-4d7b-4a34-bb0f-5282f8968095",
                 "image": "https://uploads.mangadex.org/covers/263b6cb0-4d7b-4a34-bb0f-5282f8968095/afc04ac4-eaab-4eb0-a6a4-6dc470e1913b.jpg",
                 "malId": 121294,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fi982717": {
+                "id": 75781,
                 "identifier": "manga-fi982717",
                 "image": "https://avt.mkklcdnv6temp.com/11/w/19-1583499545.jpg",
                 "malId": 121294,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hello-world-the-manga": {
+                "id": 88270,
                 "identifier": "hello-world-the-manga",
                 "image": "https://temp.compsci88.com/cover/HELLO-WORLD-The-Manga.jpg",
                 "malId": 121294,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "hello_rom_com_world": {
+                "id": 120364,
                 "identifier": "hello_rom_com_world",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31496/cover.jpg",
                 "malId": 121294,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/hello_rom_com_world/"
             }
         },
-        "MangaFire": {
-            "hello-world.l33yn": {
-                "identifier": "hello-world.l33yn",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9a78e3ff2a5e60904d323a60616af7ea.jpg",
-                "malId": 121294,
-                "aniId": 110599,
-                "page": "MangaFire",
-                "title": "HELLO WORLD: The Manga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hello-world.l33yn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf2kgw9b8an9bz3r0spg": {
+                "id": 212806,
                 "identifier": "01j76xyf2kgw9b8an9bz3r0spg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF2KGW9B8AN9BZ3R0SPG.jpg",
                 "malId": 121294,
@@ -76,6 +69,19 @@
                 "title": "HELLO WORLD - The Manga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF2KGW9B8AN9BZ3R0SPG"
+            }
+        },
+        "MangaFire": {
+            "l33yn": {
+                "id": 258836,
+                "identifier": "l33yn",
+                "image": "https://static.mangafire.to/331a/i/9/9a/9a78e3ff2a5e60904d323a60616af7ea.jpg",
+                "malId": 121294,
+                "aniId": 110599,
+                "page": "MangaFire",
+                "title": "HELLO WORLD: The Manga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hello-worldd.l33yn"
             }
         },
         "Comick": {

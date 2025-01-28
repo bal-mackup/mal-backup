@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "36801362-0927-4901-9a91-8a85e73275e4": {
+                "id": 15072,
                 "identifier": "36801362-0927-4901-9a91-8a85e73275e4",
                 "image": "https://uploads.mangadex.org/covers/36801362-0927-4901-9a91-8a85e73275e4/a30c442f-f24b-431c-bd5b-82ee66c1bb6c.png",
                 "malId": 94701,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "adu-of-hades": {
+                "id": 65330,
                 "identifier": "adu-of-hades",
                 "image": "https://temp.compsci88.com/cover/Adu-Of-Hades.jpg",
                 "malId": 94701,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "adu_of_hades": {
+                "id": 66871,
                 "identifier": "adu_of_hades",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20915/cover.jpg",
                 "malId": 94701,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zu977177": {
+                "id": 90814,
                 "identifier": "manga-zu977177",
                 "image": "https://avt.mkklcdnv6temp.com/fld/34/v/8-1732789303-nw.webp",
                 "malId": 94701,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-zu977177"
             }
         },
-        "MangaFire": {
-            "adu-of-hades.jvw2n": {
-                "identifier": "adu-of-hades.jvw2n",
-                "image": "https://static.mangafire.to/3b2d5/i/3/39/396fc96a83cf59dd33697e1c46f768bd.jpg",
-                "malId": 94701,
-                "aniId": 96463,
-                "page": "MangaFire",
-                "title": "Adu of Hades",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/adu-of-hades.jvw2n/"
-            }
-        },
         "Weebcentral": {
             "01j76xycdym5mm4tmwdbrt7166": {
+                "id": 207799,
                 "identifier": "01j76xycdym5mm4tmwdbrt7166",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCDYM5MM4TMWDBRT7166.jpg",
                 "malId": 94701,
@@ -76,6 +69,19 @@
                 "title": "Adu of Hades",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCDYM5MM4TMWDBRT7166"
+            }
+        },
+        "MangaFire": {
+            "jvw2n": {
+                "id": 262894,
+                "identifier": "jvw2n",
+                "image": "https://static.mangafire.to/99c1/i/3/39/396fc96a83cf59dd33697e1c46f768bd.jpg",
+                "malId": 94701,
+                "aniId": 96463,
+                "page": "MangaFire",
+                "title": "Adu of Hades",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/adu-of-hadess.jvw2n"
             }
         },
         "Comick": {

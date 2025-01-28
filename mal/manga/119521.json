@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0c37e208-2d5e-44f2-bf76-12e48c8bf044": {
+                "id": 17772,
                 "identifier": "0c37e208-2d5e-44f2-bf76-12e48c8bf044",
                 "image": "https://uploads.mangadex.org/covers/0c37e208-2d5e-44f2-bf76-12e48c8bf044/5045cc0c-eef9-41f6-ab65-d5190d7fe2a5.jpg",
                 "malId": 119521,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "girl_s_world": {
+                "id": 58302,
                 "identifier": "girl_s_world",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25455/cover.jpg",
                 "malId": 119521,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "odd-girl-out": {
+                "id": 62609,
                 "identifier": "odd-girl-out",
                 "image": "https://temp.compsci88.com/cover/Odd-Girl-Out.jpg",
                 "malId": 119521,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zg976615": {
+                "id": 73378,
                 "identifier": "manga-zg976615",
                 "image": "https://avt.mkklcdnv6temp.com/27/v/15-1583492460.jpg",
                 "malId": 119521,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zg976615"
             }
         },
-        "MangaFire": {
-            "girls-world.6l4z7": {
-                "identifier": "girls-world.6l4z7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/260a22d4413180964514ec3aaa883d4e.jpg",
-                "malId": 119521,
-                "aniId": 97717,
-                "page": "MangaFire",
-                "title": "Odd Girl Out",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/girls-world.6l4z7/"
-            },
-            "girls-worldd.6l4z7": {
-                "identifier": "girls-worldd.6l4z7",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/260a22d4413180964514ec3aaa883d4e.jpg",
-                "malId": 119521,
-                "aniId": 97717,
-                "page": "MangaFire",
-                "title": "Odd Girl Out",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/girls-worldd.6l4z7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3w2q8qz30af2bjd32a": {
+                "id": 210881,
                 "identifier": "01j76xyd3w2q8qz30af2bjd32a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3W2Q8QZ30AF2BJD32A.jpg",
                 "malId": 119521,
@@ -86,6 +69,19 @@
                 "title": "Odd Girl Out",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3W2Q8QZ30AF2BJD32A"
+            }
+        },
+        "MangaFire": {
+            "6l4z7": {
+                "id": 229668,
+                "identifier": "6l4z7",
+                "image": "https://static.mangafire.to/403b/i/2/26/260a22d4413180964514ec3aaa883d4e.jpg",
+                "malId": 119521,
+                "aniId": 97717,
+                "page": "MangaFire",
+                "title": "Odd Girl Out",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/girls-worldd.6l4z7"
             }
         },
         "Comick": {

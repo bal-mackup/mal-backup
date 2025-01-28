@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cc42bf46-d21c-47b7-b415-fea57315e9e0": {
+                "id": 18418,
                 "identifier": "cc42bf46-d21c-47b7-b415-fea57315e9e0",
                 "image": "https://uploads.mangadex.org/covers/cc42bf46-d21c-47b7-b415-fea57315e9e0/ce9da505-8c1c-461c-a2b7-c93b974b6343.jpg",
                 "malId": 148483,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "adonis": {
+                "id": 71736,
                 "identifier": "adonis",
                 "image": "https://temp.compsci88.com/cover/Adonis.jpg",
                 "malId": 148483,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-de980561": {
+                "id": 75693,
                 "identifier": "manga-de980561",
                 "image": "https://avt.mkklcdnv6temp.com/33/i/17-1583496453.jpg",
                 "malId": 148483,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-de980561"
             }
         },
-        "MangaFire": {
-            "reminiscence-adonis.vvk94": {
-                "identifier": "reminiscence-adonis.vvk94",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e84ecf6d49eddfa3cae0d62fc905fbe1.jpg",
-                "malId": 148483,
-                "aniId": 98695,
-                "page": "MangaFire",
-                "title": "Adonis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reminiscence-adonis.vvk94/"
-            },
-            "reminiscence-adoniss.vvk94": {
-                "identifier": "reminiscence-adoniss.vvk94",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e8/e84ecf6d49eddfa3cae0d62fc905fbe1.jpg",
-                "malId": 148483,
-                "aniId": 98695,
-                "page": "MangaFire",
-                "title": "Adonis",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/reminiscence-adoniss.vvk94/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeqt969raa7dv2syz1p6": {
+                "id": 207960,
                 "identifier": "01j76xyeqt969raa7dv2syz1p6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEQT969RAA7DV2SYZ1P6.jpg",
                 "malId": 148483,
@@ -74,6 +56,19 @@
                 "title": "Adonis",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEQT969RAA7DV2SYZ1P6"
+            }
+        },
+        "MangaFire": {
+            "vvk94": {
+                "id": 226350,
+                "identifier": "vvk94",
+                "image": "https://static.mangafire.to/3e7f/i/e/e8/e84ecf6d49eddfa3cae0d62fc905fbe1.jpg",
+                "malId": 148483,
+                "aniId": 98695,
+                "page": "MangaFire",
+                "title": "Adonis",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/reminiscence-adoniss.vvk94"
             }
         },
         "Comick": {

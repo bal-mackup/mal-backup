@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "hana-chan-and-the-shape-of-the-world": {
+                "id": 71673,
                 "identifier": "hana-chan-and-the-shape-of-the-world",
                 "image": "https://temp.compsci88.com/cover/Hana-chan-and-the-Shape-of-the-World.jpg",
                 "malId": 129812,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/Hana-chan-and-the-Shape-of-the-World"
             }
         },
-        "MangaFire": {
-            "hana-chan-to-sekai-no-katachi.oxqrz": {
-                "identifier": "hana-chan-to-sekai-no-katachi.oxqrz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/93/931b212edfcb6d0a81d72869eded1ea6.jpg",
-                "malId": 129812,
-                "aniId": 113645,
-                "page": "MangaFire",
-                "title": "Hana-chan to, Sekai no Katachi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hana-chan-to-sekai-no-katachi.oxqrz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyepxyj9dya31qm7y4m42": {
+                "id": 214239,
                 "identifier": "01j76xyepxyj9dya31qm7y4m42",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEPXYJ9DYA31QM7Y4M42.jpg",
                 "malId": 129812,
@@ -40,6 +30,19 @@
                 "title": "Hana-chan and the Shape of the World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEPXYJ9DYA31QM7Y4M42"
+            }
+        },
+        "MangaFire": {
+            "oxqrz": {
+                "id": 241015,
+                "identifier": "oxqrz",
+                "image": "https://static.mangafire.to/70e8/i/9/93/931b212edfcb6d0a81d72869eded1ea6.jpg",
+                "malId": 129812,
+                "aniId": 113645,
+                "page": "MangaFire",
+                "title": "Hana-chan to, Sekai no Katachi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hana-chan-to-sekai-no-katachii.oxqrz"
             }
         },
         "MangaReader": {

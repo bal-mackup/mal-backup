@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3219429d-f4b1-4c44-917c-e9c4e9817756": {
+                "id": 15393,
                 "identifier": "3219429d-f4b1-4c44-917c-e9c4e9817756",
                 "image": "https://uploads.mangadex.org/covers/3219429d-f4b1-4c44-917c-e9c4e9817756/e4d158bb-c56a-4f20-908f-09eecdbb6ddd.jpg",
                 "malId": 90919,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-am-a-hero-in-osaka": {
+                "id": 70159,
                 "identifier": "i-am-a-hero-in-osaka",
                 "image": "https://temp.compsci88.com/cover/I-Am-A-Hero-In-Osaka.jpg",
                 "malId": 90919,
@@ -30,40 +32,9 @@
                 "url": "https://mangasee123.com/manga/I-Am-A-Hero-In-Osaka"
             }
         },
-        "MangaFire": {
-            "i-am-a-hero-in-osaka.prmzx": {
-                "identifier": "i-am-a-hero-in-osaka.prmzx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/599199d17f56b8905793b4c0d1949ace.jpg",
-                "malId": 90919,
-                "aniId": 95378,
-                "page": "MangaFire",
-                "title": "I Am a Hero in Osaka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-am-a-hero-in-osaka.prmzx/"
-            },
-            "i-am-a-hero-in-osakaa.prmzx": {
-                "identifier": "i-am-a-hero-in-osakaa.prmzx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/599199d17f56b8905793b4c0d1949ace.jpg",
-                "malId": 90919,
-                "aniId": 95378,
-                "page": "MangaFire",
-                "title": "I Am a Hero in Osaka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-am-a-hero-in-osakaa.prmzx/"
-            },
-            "prmzx": {
-                "identifier": "prmzx",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/599199d17f56b8905793b4c0d1949ace.jpg",
-                "malId": 90919,
-                "aniId": 95378,
-                "page": "MangaFire",
-                "title": "I Am a Hero in Osaka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-am-a-hero-in-osakaa.prmzx/"
-            }
-        },
         "Weebcentral": {
             "01j76xybmnygtsy7mm81tpgs21": {
+                "id": 206554,
                 "identifier": "01j76xybmnygtsy7mm81tpgs21",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBMNYGTSY7MM81TPGS21.jpg",
                 "malId": 90919,
@@ -72,6 +43,19 @@
                 "title": "I Am a Hero in Osaka",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBMNYGTSY7MM81TPGS21"
+            }
+        },
+        "MangaFire": {
+            "prmzx": {
+                "id": 229393,
+                "identifier": "prmzx",
+                "image": "https://static.mangafire.to/3345/i/5/59/599199d17f56b8905793b4c0d1949ace.jpg",
+                "malId": 90919,
+                "aniId": 95378,
+                "page": "MangaFire",
+                "title": "I Am a Hero in Osaka",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-am-a-hero-in-osakaa.prmzx"
             }
         },
         "Comick": {

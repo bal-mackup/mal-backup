@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "df59c687-346f-45fa-b351-ee8dc09f752f": {
+                "id": 10344,
                 "identifier": "df59c687-346f-45fa-b351-ee8dc09f752f",
                 "image": "https://uploads.mangadex.org/covers/df59c687-346f-45fa-b351-ee8dc09f752f/ea8efae7-ba27-4111-8c8a-e6b2e71fa663.jpg",
                 "malId": 66685,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kekkon_yubiwa_monogatari": {
+                "id": 57123,
                 "identifier": "kekkon_yubiwa_monogatari",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13734/cover.jpg",
                 "malId": 66685,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kekkon-yubiwa-monogatari": {
+                "id": 59170,
                 "identifier": "kekkon-yubiwa-monogatari",
                 "image": "https://temp.compsci88.com/cover/Kekkon-Yubiwa-Monogatari.jpg",
                 "malId": 66685,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jb954858": {
+                "id": 75335,
                 "identifier": "manga-jb954858",
                 "image": "https://avt.mkklcdnv6temp.com/20/p/3-1583468482.jpg",
                 "malId": 66685,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jb954858"
             }
         },
-        "MangaFire": {
-            "tales-of-wedding-rings.1kwq": {
-                "identifier": "tales-of-wedding-rings.1kwq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cfc8d0e1b5ea926ee8af65a95fee1f86.jpg",
-                "malId": 66685,
-                "aniId": 85310,
-                "page": "MangaFire",
-                "title": "Tales of Wedding Rings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tales-of-wedding-rings.1kwq/"
-            },
-            "tales-of-wedding-ringss.1kwq": {
-                "identifier": "tales-of-wedding-ringss.1kwq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cfc8d0e1b5ea926ee8af65a95fee1f86.jpg",
-                "malId": 66685,
-                "aniId": 85310,
-                "page": "MangaFire",
-                "title": "Tales of Wedding Rings",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tales-of-wedding-ringss.1kwq/"
-            }
-        },
         "Weebcentral": {
             "01j76xya3v94vrfqsqtafxj44y": {
+                "id": 207256,
                 "identifier": "01j76xya3v94vrfqsqtafxj44y",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA3V94VRFQSQTAFXJ44Y.jpg",
                 "malId": 66685,
@@ -86,6 +69,19 @@
                 "title": "Tales of Wedding Rings",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA3V94VRFQSQTAFXJ44Y"
+            }
+        },
+        "MangaFire": {
+            "1kwq": {
+                "id": 229577,
+                "identifier": "1kwq",
+                "image": "https://static.mangafire.to/67fb/i/c/cf/cfc8d0e1b5ea926ee8af65a95fee1f86.jpg",
+                "malId": 66685,
+                "aniId": 85310,
+                "page": "MangaFire",
+                "title": "Tales of Wedding Rings",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tales-of-wedding-ringss.1kwq"
             }
         },
         "Comick": {

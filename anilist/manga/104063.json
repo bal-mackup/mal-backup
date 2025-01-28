@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "733fc3ac-deca-444e-bb79-14186e00ccf1": {
+                "id": 25402,
                 "identifier": "733fc3ac-deca-444e-bb79-14186e00ccf1",
                 "image": "https://uploads.mangadex.org/covers/733fc3ac-deca-444e-bb79-14186e00ccf1/50b0dc58-1c4f-4e6e-ada8-1fa748eee096.jpg",
                 "malId": 115730,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/733fc3ac-deca-444e-bb79-14186e00ccf1"
             },
             "8c697de6-a142-4cec-ae1f-9b31a07f04cb": {
+                "id": 107859,
                 "identifier": "8c697de6-a142-4cec-ae1f-9b31a07f04cb",
                 "image": "https://uploads.mangadex.org/covers/8c697de6-a142-4cec-ae1f-9b31a07f04cb/8c428635-1518-4552-8b3f-fd33ec09fddb.jpg",
                 "malId": 115730,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "shadows-house": {
+                "id": 58962,
                 "identifier": "shadows-house",
                 "image": "https://temp.compsci88.com/cover/Shadows-House.jpg",
                 "malId": 115730,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "shadow_house": {
+                "id": 66524,
                 "identifier": "shadow_house",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29480/cover.jpg",
                 "malId": 115730,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-di980617": {
+                "id": 73923,
                 "identifier": "manga-di980617",
                 "image": "https://avt.mkklcdnv6temp.com/35/k/17-1583496532.jpg",
                 "malId": 115730,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-di980617"
             },
             "manga-mn989748": {
+                "id": 88173,
                 "identifier": "manga-mn989748",
                 "image": "https://avt.mkklcdnv6temp.com/44/x/24-1633619268.jpg",
                 "malId": 115730,
@@ -74,50 +80,9 @@
                 "url": "https://manganato.com/manga-mn989748"
             }
         },
-        "MangaFire": {
-            "shadows-house.7wy71": {
-                "identifier": "shadows-house.7wy71",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb5ee36ba6f39a51418d798eacc2ceb4.jpg",
-                "malId": 115730,
-                "aniId": 104063,
-                "page": "MangaFire",
-                "title": "Shadows House",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shadows-house.7wy71/"
-            },
-            "shadows-house-monochrome.jp7ly": {
-                "identifier": "shadows-house-monochrome.jp7ly",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/b3ca91eb473760424cae09bf114d51de.jpg",
-                "malId": 115730,
-                "aniId": 104063,
-                "page": "MangaFire",
-                "title": "Shadows House (Monochrome)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shadows-house-monochrome.jp7ly/"
-            },
-            "shadows-housee.7wy71": {
-                "identifier": "shadows-housee.7wy71",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb5ee36ba6f39a51418d798eacc2ceb4.jpg",
-                "malId": 115730,
-                "aniId": 104063,
-                "page": "MangaFire",
-                "title": "Shadows House",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shadows-housee.7wy71/"
-            },
-            "shadows-house-monochromee.jp7ly": {
-                "identifier": "shadows-house-monochromee.jp7ly",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/b3ca91eb473760424cae09bf114d51de.jpg",
-                "malId": 115730,
-                "aniId": 104063,
-                "page": "MangaFire",
-                "title": "Shadows House (Monochrome)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shadows-house-monochromee.jp7ly/"
-            }
-        },
         "Weebcentral": {
             "01j76xye3m0rks5x553n6zfajh": {
+                "id": 208815,
                 "identifier": "01j76xye3m0rks5x553n6zfajh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE3M0RKS5X553N6ZFAJH.jpg",
                 "malId": 115730,
@@ -126,6 +91,30 @@
                 "title": "Shadows House",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE3M0RKS5X553N6ZFAJH"
+            }
+        },
+        "MangaFire": {
+            "7wy71": {
+                "id": 224369,
+                "identifier": "7wy71",
+                "image": "https://static.mangafire.to/236e/i/c/cb/cb5ee36ba6f39a51418d798eacc2ceb4.jpg",
+                "malId": 115730,
+                "aniId": 104063,
+                "page": "MangaFire",
+                "title": "Shadows House",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shadows-housee.7wy71"
+            },
+            "jp7ly": {
+                "id": 236636,
+                "identifier": "jp7ly",
+                "image": "https://static.mangafire.to/1f96/i/9/99/b3ca91eb473760424cae09bf114d51de.jpg",
+                "malId": 115730,
+                "aniId": 104063,
+                "page": "MangaFire",
+                "title": "Shadows House (Monochrome)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shadows-house-monochromee.jp7ly"
             }
         },
         "Comick": {

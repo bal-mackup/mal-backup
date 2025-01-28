@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0b85ac0f-6799-4647-8e90-97ca22614b28": {
+                "id": 29038,
                 "identifier": "0b85ac0f-6799-4647-8e90-97ca22614b28",
                 "image": "https://uploads.mangadex.org/covers/0b85ac0f-6799-4647-8e90-97ca22614b28/355414b8-b24a-4d02-9bf1-2f38f7364d5b.jpg",
                 "malId": 107776,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kimi-ni-aisarete-itakatta": {
+                "id": 62313,
                 "identifier": "kimi-ni-aisarete-itakatta",
                 "image": "https://temp.compsci88.com/cover/Kimi-ni-Aisarete-Itakatta.jpg",
                 "malId": 107776,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "i_wanted_to_be_hurt_by_love": {
+                "id": 66798,
                 "identifier": "i_wanted_to_be_hurt_by_love",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30768/cover.jpg",
                 "malId": 107776,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/i_wanted_to_be_hurt_by_love/"
             },
             "kimi_ni_aisarete_itakatta": {
+                "id": 80157,
                 "identifier": "kimi_ni_aisarete_itakatta",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30829/cover.jpg",
                 "malId": 107776,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-ef982114": {
+                "id": 74342,
                 "identifier": "manga-ef982114",
                 "image": "https://avt.mkklcdnv6temp.com/39/r/18-1583498636.jpg",
                 "malId": 107776,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-ef982114"
             }
         },
-        "MangaFire": {
-            "kimi-ni-aisarete-itakatta.ykqlp": {
-                "identifier": "kimi-ni-aisarete-itakatta.ykqlp",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a1c2ca0689ac551af0026db23d3810f3.jpg",
-                "malId": 107776,
-                "aniId": 102545,
-                "page": "MangaFire",
-                "title": "Kimi ni Aisarete Itakatta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-aisarete-itakatta.ykqlp/"
-            },
-            "kimi-ni-aisarete-itakattaa.ykqlp": {
-                "identifier": "kimi-ni-aisarete-itakattaa.ykqlp",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a1c2ca0689ac551af0026db23d3810f3.jpg",
-                "malId": 107776,
-                "aniId": 102545,
-                "page": "MangaFire",
-                "title": "Kimi ni Aisarete Itakatta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-aisarete-itakattaa.ykqlp/"
-            },
-            "ykqlp": {
-                "identifier": "ykqlp",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a1/a1c2ca0689ac551af0026db23d3810f3.jpg",
-                "malId": 107776,
-                "aniId": 102545,
-                "page": "MangaFire",
-                "title": "Kimi ni Aisarete Itakatta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-ni-aisarete-itakattaa.ykqlp/"
-            }
-        },
         "Weebcentral": {
             "01j76xydbzz28pjjrs2p04g5g2": {
+                "id": 209586,
                 "identifier": "01j76xydbzz28pjjrs2p04g5g2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDBZZ28PJJRS2P04G5G2.jpg",
                 "malId": 107776,
@@ -106,6 +80,19 @@
                 "title": "Kimi ni Aisarete Itakatta",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDBZZ28PJJRS2P04G5G2"
+            }
+        },
+        "MangaFire": {
+            "ykqlp": {
+                "id": 226122,
+                "identifier": "ykqlp",
+                "image": "https://static.mangafire.to/e878/i/a/a1/a1c2ca0689ac551af0026db23d3810f3.jpg",
+                "malId": 107776,
+                "aniId": 102545,
+                "page": "MangaFire",
+                "title": "Kimi ni Aisarete Itakatta",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-ni-aisarete-itakattaa.ykqlp"
             }
         },
         "Comick": {

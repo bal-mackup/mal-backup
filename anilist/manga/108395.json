@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "032dd9b3-d7b9-4297-89be-ff918c12b2f8": {
+                "id": 52615,
                 "identifier": "032dd9b3-d7b9-4297-89be-ff918c12b2f8",
                 "image": "https://uploads.mangadex.org/covers/032dd9b3-d7b9-4297-89be-ff918c12b2f8/ae9c9273-62c6-4b82-afac-a0be5b4454bb.jpg",
                 "malId": 139805,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/032dd9b3-d7b9-4297-89be-ff918c12b2f8"
             }
         },
-        "MangaFire": {
-            "mitsuru-bocchan-wa-bocchi.o10y": {
-                "identifier": "mitsuru-bocchan-wa-bocchi.o10y",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b8/b8c6adb75a77338fbbbdb64aedf33fb0.jpg",
-                "malId": 139805,
-                "aniId": 108395,
-                "page": "MangaFire",
-                "title": "Mitsuru Bocchan wa Bocchi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mitsuru-bocchan-wa-bocchi.o10y/"
-            }
-        },
         "MangaNato": {
             "manga-sb995858": {
+                "id": 155700,
                 "identifier": "manga-sb995858",
                 "image": "https://avt.mkklcdnv6temp.com/fld/94/f/14-1733306217-nw.webp",
                 "malId": 139805,
@@ -40,6 +30,19 @@
                 "title": "Mitsuru Bocchan Wa Bocchi",
                 "type": "manga",
                 "url": "https://manganato.com/manga-sb995858"
+            }
+        },
+        "MangaFire": {
+            "o10y": {
+                "id": 230010,
+                "identifier": "o10y",
+                "image": "https://static.mangafire.to/48ca/i/b/b8/b8c6adb75a77338fbbbdb64aedf33fb0.jpg",
+                "malId": 139805,
+                "aniId": 108395,
+                "page": "MangaFire",
+                "title": "Mitsuru Bocchan wa Bocchi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mitsuru-bocchan-wa-bocchii.o10y"
             }
         },
         "Comick": {

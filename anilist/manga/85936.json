@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6e19ca62-9ef5-41a2-b76b-580637a12494": {
+                "id": 12161,
                 "identifier": "6e19ca62-9ef5-41a2-b76b-580637a12494",
                 "image": "https://uploads.mangadex.org/covers/6e19ca62-9ef5-41a2-b76b-580637a12494/e59a4eb7-641b-492e-bd62-74724eaea051.jpg",
                 "malId": 83735,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "koibana_kiseki": {
+                "id": 71482,
                 "identifier": "koibana_kiseki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14773/cover.jpg",
                 "malId": 83735,
@@ -30,38 +32,30 @@
                 "url": "https://fanfox.net/manga/koibana_kiseki/"
             }
         },
-        "MangaFire": {
-            "koibana-kiseki.1n93x": {
-                "identifier": "koibana-kiseki.1n93x",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df5ebcb0ae14c00ff1debbb8f7393908.jpg",
-                "malId": 83735,
-                "aniId": 85936,
-                "page": "MangaFire",
-                "title": "Koibana Kiseki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koibana-kiseki.1n93x/"
-            },
-            "1n93x": {
-                "identifier": "1n93x",
-                "image": "https://static.mangafire.to/3b2d5/i/d/df/df5ebcb0ae14c00ff1debbb8f7393908.jpg",
-                "malId": 83735,
-                "aniId": 85936,
-                "page": "MangaFire",
-                "title": "Koibana Kiseki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koibana-kiseki.1n93x/"
-            }
-        },
         "MangaNato": {
             "manga-ko962123": {
+                "id": 196585,
                 "identifier": "manga-ko962123",
-                "image": "https://avt.mkklcdnv6temp.com/9/t/8-1583478549.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/59/z/4-1732762931-nw.webp",
                 "malId": 83735,
                 "aniId": 85936,
                 "page": "MangaNato",
                 "title": "Koibana Kiseki",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ko962123"
+            }
+        },
+        "MangaFire": {
+            "1n93x": {
+                "id": 256724,
+                "identifier": "1n93x",
+                "image": "https://static.mangafire.to/91f6/i/d/df/df5ebcb0ae14c00ff1debbb8f7393908.jpg",
+                "malId": 83735,
+                "aniId": 85936,
+                "page": "MangaFire",
+                "title": "Koibana Kiseki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koibana-kisekii.1n93x"
             }
         },
         "Comick": {

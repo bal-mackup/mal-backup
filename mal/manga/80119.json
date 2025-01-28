@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "67b35ba4-9c53-4957-91e7-4f7884e4b412": {
+                "id": 13205,
                 "identifier": "67b35ba4-9c53-4957-91e7-4f7884e4b412",
                 "image": "https://uploads.mangadex.org/covers/67b35ba4-9c53-4957-91e7-4f7884e4b412/638ddc95-9283-43b3-99f4-14c4467ebd09.jpg",
                 "malId": 80119,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kobayashi_san_chi_no_maid_dragon": {
+                "id": 60469,
                 "identifier": "kobayashi_san_chi_no_maid_dragon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15997/cover.jpg",
                 "malId": 80119,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kobayashi-san-chi-no-maid-dragon": {
+                "id": 63188,
                 "identifier": "kobayashi-san-chi-no-maid-dragon",
                 "image": "https://temp.compsci88.com/cover/Kobayashi-San-Chi-No-Maid-Dragon.jpg",
                 "malId": 80119,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ne952013": {
+                "id": 76099,
                 "identifier": "manga-ne952013",
                 "image": "https://avt.mkklcdnv6temp.com/18/r/26-1656954150.jpg",
                 "malId": 80119,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ne952013"
             }
         },
-        "MangaFire": {
-            "kobayashi-san-chi-no-maid-dragon.zlywl": {
-                "identifier": "kobayashi-san-chi-no-maid-dragon.zlywl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3e4aae87780218cbc589b768a299d374.jpg",
-                "malId": 80119,
-                "aniId": 86303,
-                "page": "MangaFire",
-                "title": "Miss Kobayashi's Dragon Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kobayashi-san-chi-no-maid-dragon.zlywl/"
-            },
-            "kobayashi-san-chi-no-maid-dragonn.zlywl": {
-                "identifier": "kobayashi-san-chi-no-maid-dragonn.zlywl",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3e/3e4aae87780218cbc589b768a299d374.jpg",
-                "malId": 80119,
-                "aniId": 86303,
-                "page": "MangaFire",
-                "title": "Miss Kobayashi's Dragon Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kobayashi-san-chi-no-maid-dragonn.zlywl/"
-            }
-        },
         "Weebcentral": {
             "01j76xybctmhsrc28xbncf0g0g": {
+                "id": 213031,
                 "identifier": "01j76xybctmhsrc28xbncf0g0g",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBCTMHSRC28XBNCF0G0G.jpg",
                 "malId": 80119,
@@ -86,6 +69,19 @@
                 "title": "Miss Kobayashi's Dragon Maid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBCTMHSRC28XBNCF0G0G"
+            }
+        },
+        "MangaFire": {
+            "zlywl": {
+                "id": 226459,
+                "identifier": "zlywl",
+                "image": "https://static.mangafire.to/d7c7/i/3/3e/3e4aae87780218cbc589b768a299d374.jpg",
+                "malId": 80119,
+                "aniId": 86303,
+                "page": "MangaFire",
+                "title": "Miss Kobayashi's Dragon Maid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kobayashi-san-chi-no-maid-dragonn.zlywl"
             }
         },
         "Comick": {

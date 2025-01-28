@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-md990060": {
+                "id": 91545,
                 "identifier": "manga-md990060",
                 "image": "https://avt.mkklcdnv6temp.com/8/f/25-1637477178.jpg",
                 "malId": 147202,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-s-classes-that-i-raised": {
+                "id": 92835,
                 "identifier": "the-s-classes-that-i-raised",
                 "image": "https://temp.compsci88.com/cover/The-S-Classes-That-I-Raised.jpg",
                 "malId": 147202,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "3f53fb25-b1b7-4fa6-92f8-2fc438a1ae65": {
+                "id": 104749,
                 "identifier": "3f53fb25-b1b7-4fa6-92f8-2fc438a1ae65",
                 "image": "https://uploads.mangadex.org/covers/3f53fb25-b1b7-4fa6-92f8-2fc438a1ae65/7d9fb53c-1624-417b-8f96-675b8fd83f08.jpg",
                 "malId": 147202,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/3f53fb25-b1b7-4fa6-92f8-2fc438a1ae65"
             }
         },
-        "MangaFire": {
-            "my-s-class-hunters.zlw83": {
-                "identifier": "my-s-class-hunters.zlw83",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d3059515bb30aa4fd0f71a22d5e56217.jpg",
-                "malId": 147202,
-                "aniId": 141958,
-                "page": "MangaFire",
-                "title": "My S-Class Hunters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-s-class-hunters.zlw83/"
-            },
-            "my-s-class-hunterss.zlw83": {
-                "identifier": "my-s-class-hunterss.zlw83",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d3/d3059515bb30aa4fd0f71a22d5e56217.jpg",
-                "malId": 147202,
-                "aniId": 141958,
-                "page": "MangaFire",
-                "title": "My S-Class Hunters",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-s-class-hunterss.zlw83/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf7bm7346k02h8vbkybx": {
+                "id": 211422,
                 "identifier": "01j76xyf7bm7346k02h8vbkybx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF7BM7346K02H8VBKYBX.jpg",
                 "malId": 147202,
@@ -74,6 +56,19 @@
                 "title": "My S-Class Hunters",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF7BM7346K02H8VBKYBX"
+            }
+        },
+        "MangaFire": {
+            "zlw83": {
+                "id": 226465,
+                "identifier": "zlw83",
+                "image": "https://static.mangafire.to/aa7d/i/d/d3/d3059515bb30aa4fd0f71a22d5e56217.jpg",
+                "malId": 147202,
+                "aniId": 141958,
+                "page": "MangaFire",
+                "title": "My S-Class Hunters",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-s-class-hunterss.zlw83"
             }
         },
         "Comick": {

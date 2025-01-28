@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "822c9883-385c-4fd0-9523-16e7789cbeae": {
+                "id": 104816,
                 "identifier": "822c9883-385c-4fd0-9523-16e7789cbeae",
                 "image": "https://uploads.mangadex.org/covers/822c9883-385c-4fd0-9523-16e7789cbeae/b0ecfe80-aae9-41a5-a9b6-ecf716543e91.jpg",
                 "malId": 149973,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ol992168": {
+                "id": 113573,
                 "identifier": "manga-ol992168",
                 "image": "https://avt.mkklcdnv6temp.com/46/q/26-1661921516.jpg",
                 "malId": 149973,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ol992168"
             }
         },
-        "MangaFire": {
-            "seitokai-ni-mo-ana-wa-aru.3r666": {
-                "identifier": "seitokai-ni-mo-ana-wa-aru.3r666",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1e28b1849004831e608bafd127e9ddb.jpg",
-                "malId": 149973,
-                "aniId": 147863,
-                "page": "MangaFire",
-                "title": "There Is Also a Hole in the Student Organization!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seitokai-ni-mo-ana-wa-aru.3r666/"
-            },
-            "seitokai-ni-mo-ana-wa-aruu.3r666": {
-                "identifier": "seitokai-ni-mo-ana-wa-aruu.3r666",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f1/f1e28b1849004831e608bafd127e9ddb.jpg",
-                "malId": 149973,
-                "aniId": 147863,
-                "page": "MangaFire",
-                "title": "There Is Also a Hole in the Student Organization!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seitokai-ni-mo-ana-wa-aruu.3r666/"
-            }
-        },
         "MangaSee": {
             "seitokai-ni-mo-ana-wa-aru": {
+                "id": 195536,
                 "identifier": "seitokai-ni-mo-ana-wa-aru",
                 "image": "https://temp.compsci88.com/cover/Seitokai-ni-mo-Ana-wa-Aru.jpg",
                 "malId": 149973,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhgcq2a1vg5kytnhehkf": {
+                "id": 212891,
                 "identifier": "01j76xyhgcq2a1vg5kytnhehkf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHGCQ2A1VG5KYTNHEHKF.jpg",
                 "malId": 149973,
@@ -74,6 +56,19 @@
                 "title": "Seitokai ni mo Ana wa Aru!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHGCQ2A1VG5KYTNHEHKF"
+            }
+        },
+        "MangaFire": {
+            "3r666": {
+                "id": 228387,
+                "identifier": "3r666",
+                "image": "https://static.mangafire.to/90ef/i/f/f1/f1e28b1849004831e608bafd127e9ddb.jpg",
+                "malId": 149973,
+                "aniId": 147863,
+                "page": "MangaFire",
+                "title": "There Is Also a Hole in the Student Organization!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seitokai-ni-mo-ana-wa-aruu.3r666"
             }
         },
         "Comick": {

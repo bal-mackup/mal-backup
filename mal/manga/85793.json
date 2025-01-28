@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f8d085b9-8a5f-4a1f-be1f-8686b132ded9": {
+                "id": 12191,
                 "identifier": "f8d085b9-8a5f-4a1f-be1f-8686b132ded9",
                 "image": "https://uploads.mangadex.org/covers/f8d085b9-8a5f-4a1f-be1f-8686b132ded9/625b1aad-e53b-4c09-ac23-cd753ed5dcfa.jpg",
                 "malId": 85793,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "sakura_discord": {
+                "id": 58256,
                 "identifier": "sakura_discord",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14985/cover.jpg",
                 "malId": 85793,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "sakura-discord": {
+                "id": 58728,
                 "identifier": "sakura-discord",
                 "image": "https://temp.compsci88.com/cover/Sakura-Discord.jpg",
                 "malId": 85793,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ll951368": {
+                "id": 88795,
                 "identifier": "manga-ll951368",
                 "image": "https://avt.mkklcdnv6temp.com/fld/5/h/1-1732716583-nw.webp",
                 "malId": 85793,
@@ -54,20 +58,9 @@
                 "url": "https://manganato.com/manga-ll951368"
             }
         },
-        "MangaFire": {
-            "sakura-discord.vvyol": {
-                "identifier": "sakura-discord.vvyol",
-                "image": "https://static.mangafire.to/3b2d5/i/1/15/15dc8f9555806bb569e97d711225730c.jpg",
-                "malId": 85793,
-                "aniId": 86772,
-                "page": "MangaFire",
-                "title": "Sakura Discord",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakura-discord.vvyol/"
-            }
-        },
         "Weebcentral": {
             "01j76xybn684d0tjgg12yhs69p": {
+                "id": 209549,
                 "identifier": "01j76xybn684d0tjgg12yhs69p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBN684D0TJGG12YHS69P.jpg",
                 "malId": 85793,
@@ -76,6 +69,19 @@
                 "title": "Sakura Discord",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBN684D0TJGG12YHS69P"
+            }
+        },
+        "MangaFire": {
+            "vvyol": {
+                "id": 246844,
+                "identifier": "vvyol",
+                "image": "https://static.mangafire.to/fc1d/i/1/15/15dc8f9555806bb569e97d711225730c.jpg",
+                "malId": 85793,
+                "aniId": 86772,
+                "page": "MangaFire",
+                "title": "Sakura Discord",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sakura-discordd.vvyol"
             }
         },
         "Comick": {

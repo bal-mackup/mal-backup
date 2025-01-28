@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "29a480b7-573f-45cf-967a-9c68e95356ea": {
+                "id": 38573,
                 "identifier": "29a480b7-573f-45cf-967a-9c68e95356ea",
                 "image": "https://uploads.mangadex.org/covers/29a480b7-573f-45cf-967a-9c68e95356ea/e2088fb2-2f16-4b79-9f4c-9c744ae28127.jpg",
                 "malId": 147638,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-male-leads-girl-friend": {
+                "id": 88777,
                 "identifier": "the-male-leads-girl-friend",
                 "image": "https://temp.compsci88.com/cover/The-Male-Leads-Girl-Friend.jpg",
                 "malId": 147638,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/The-Male-Leads-Girl-Friend"
             }
         },
-        "MangaFire": {
-            "im-the-male-leads-female-friend.llxx3": {
-                "identifier": "im-the-male-leads-female-friend.llxx3",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cf/cfc40fdbaa7b60dc3b8d5f5e7fda9745.jpg",
-                "malId": 147638,
-                "aniId": 124436,
-                "page": "MangaFire",
-                "title": "The Male Lead's Girl Friend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/im-the-male-leads-female-friend.llxx3/"
-            },
-            "im-the-male-leads-female-friendd.llxx3": {
-                "identifier": "im-the-male-leads-female-friendd.llxx3",
-                "image": "https://static.mangafire.to/aa65/i/c/cf/cfc40fdbaa7b60dc3b8d5f5e7fda9745.jpg",
-                "malId": 147638,
-                "aniId": 124436,
-                "page": "MangaFire",
-                "title": "The Male Lead's Girl Friend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/im-the-male-leads-female-friendd.llxx3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf3mdwepbq17bm5bm2n0": {
+                "id": 212632,
                 "identifier": "01j76xyf3mdwepbq17bm5bm2n0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF3MDWEPBQ17BM5BM2N0.jpg",
                 "malId": 147638,
@@ -62,6 +43,19 @@
                 "title": "The Male Lead's Girl Friend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF3MDWEPBQ17BM5BM2N0"
+            }
+        },
+        "MangaFire": {
+            "llxx3": {
+                "id": 223152,
+                "identifier": "llxx3",
+                "image": "https://static.mangafire.to/aa65/i/c/cf/cfc40fdbaa7b60dc3b8d5f5e7fda9745.jpg",
+                "malId": 147638,
+                "aniId": 124436,
+                "page": "MangaFire",
+                "title": "The Male Lead's Girl Friend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/im-the-male-leads-female-friendd.llxx3"
             }
         },
         "Comick": {

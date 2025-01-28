@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c27cac0a-c88a-4dfd-9060-05b277616e5c": {
+                "id": 16492,
                 "identifier": "c27cac0a-c88a-4dfd-9060-05b277616e5c",
                 "image": "https://uploads.mangadex.org/covers/c27cac0a-c88a-4dfd-9060-05b277616e5c/36d4d347-7560-49bf-9c0b-1387b6e24741.jpg",
                 "malId": 94170,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "studio-pulp": {
+                "id": 63222,
                 "identifier": "studio-pulp",
                 "image": "https://temp.compsci88.com/cover/Studio-Pulp.jpg",
                 "malId": 94170,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Studio-Pulp"
             }
         },
-        "MangaFire": {
-            "studio-pulp.kwv24": {
-                "identifier": "studio-pulp.kwv24",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4efcdf4de43b901c0a31d63172477aa1.jpg",
-                "malId": 94170,
-                "aniId": 98038,
-                "page": "MangaFire",
-                "title": "Studio Pulp",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/studio-pulp.kwv24/"
-            },
-            "kwv24": {
-                "identifier": "kwv24",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4efcdf4de43b901c0a31d63172477aa1.jpg",
-                "malId": 94170,
-                "aniId": 98038,
-                "page": "MangaFire",
-                "title": "Studio Pulp",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/studio-pulp.kwv24/"
-            }
-        },
         "Weebcentral": {
             "01j76xybyvk69ncv2vr34whd42": {
+                "id": 214160,
                 "identifier": "01j76xybyvk69ncv2vr34whd42",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYVK69NCV2VR34WHD42.jpg",
                 "malId": 94170,
@@ -62,6 +43,19 @@
                 "title": "Studio Pulp",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYVK69NCV2VR34WHD42"
+            }
+        },
+        "MangaFire": {
+            "kwv24": {
+                "id": 247501,
+                "identifier": "kwv24",
+                "image": "https://static.mangafire.to/26fa/i/4/4e/4efcdf4de43b901c0a31d63172477aa1.jpg",
+                "malId": 94170,
+                "aniId": 98038,
+                "page": "MangaFire",
+                "title": "Studio Pulp",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/studio-pulpp.kwv24"
             }
         },
         "Comick": {

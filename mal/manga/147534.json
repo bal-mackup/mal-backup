@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3ecdc4ed-aabf-4abc-8504-9eabe5afd2ac": {
+                "id": 26517,
                 "identifier": "3ecdc4ed-aabf-4abc-8504-9eabe5afd2ac",
                 "image": "https://uploads.mangadex.org/covers/3ecdc4ed-aabf-4abc-8504-9eabe5afd2ac/5011588a-5d87-498e-bc9a-f9679c55f43d.jpg",
                 "malId": 147534,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lady-baby": {
+                "id": 59861,
                 "identifier": "lady-baby",
                 "image": "https://temp.compsci88.com/cover/Lady-Baby.jpg",
                 "malId": 147534,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "lady_baby": {
+                "id": 66832,
                 "identifier": "lady_baby",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30082/cover.jpg",
                 "malId": 147534,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dt981128": {
+                "id": 72904,
                 "identifier": "manga-dt981128",
                 "image": "https://avt.mkklcdnv6temp.com/3/s/18-1583497223.jpg",
                 "malId": 147534,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dt981128"
             }
         },
-        "MangaFire": {
-            "lady-baby.oj4q4": {
-                "identifier": "lady-baby.oj4q4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/ded13fe04822ec607c2d3657810e7542.jpg",
-                "malId": 147534,
-                "aniId": 109271,
-                "page": "MangaFire",
-                "title": "Lady Baby",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lady-baby.oj4q4/"
-            },
-            "lady-babyy.oj4q4": {
-                "identifier": "lady-babyy.oj4q4",
-                "image": "https://static.mangafire.to/3b2d5/i/d/de/ded13fe04822ec607c2d3657810e7542.jpg",
-                "malId": 147534,
-                "aniId": 109271,
-                "page": "MangaFire",
-                "title": "Lady Baby",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lady-babyy.oj4q4/"
-            }
-        },
         "Weebcentral": {
             "01j76xydqeypcmadxgzw404k74": {
+                "id": 213062,
                 "identifier": "01j76xydqeypcmadxgzw404k74",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQEYPCMADXGZW404K74.jpg",
                 "malId": 147534,
@@ -86,6 +69,19 @@
                 "title": "Lady Baby",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQEYPCMADXGZW404K74"
+            }
+        },
+        "MangaFire": {
+            "oj4q4": {
+                "id": 243546,
+                "identifier": "oj4q4",
+                "image": "https://static.mangafire.to/e267/i/d/de/ded13fe04822ec607c2d3657810e7542.jpg",
+                "malId": 147534,
+                "aniId": 109271,
+                "page": "MangaFire",
+                "title": "Lady Baby",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lady-babyy.oj4q4"
             }
         },
         "Comick": {

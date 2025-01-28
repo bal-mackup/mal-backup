@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "84b7ace9-86da-4d97-af4a-323b3ecc5440": {
+                "id": 24859,
                 "identifier": "84b7ace9-86da-4d97-af4a-323b3ecc5440",
                 "image": "https://uploads.mangadex.org/covers/84b7ace9-86da-4d97-af4a-323b3ecc5440/b1518ee5-41ad-483c-9245-e1efa14c92fd.jpg",
                 "malId": 122102,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "welcome-to-succubus-high": {
+                "id": 71654,
                 "identifier": "welcome-to-succubus-high",
                 "image": "https://temp.compsci88.com/cover/Welcome-to-Succubus-High.jpg",
                 "malId": 122102,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "succubus_gakuen_s_dog": {
+                "id": 72015,
                 "identifier": "succubus_gakuen_s_dog",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38380/cover.jpg",
                 "malId": 122102,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/succubus_gakuen_s_dog/"
             }
         },
-        "MangaFire": {
-            "succubus-academys-dog.m244v": {
-                "identifier": "succubus-academys-dog.m244v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/9699e2c86fa5132e50254f90aa92892b.jpg",
-                "malId": 122102,
-                "aniId": 105008,
-                "page": "MangaFire",
-                "title": "Welcome to Succubus High!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/succubus-academys-dog.m244v/"
-            },
-            "succubus-academys-dogg.m244v": {
-                "identifier": "succubus-academys-dogg.m244v",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/9699e2c86fa5132e50254f90aa92892b.jpg",
-                "malId": 122102,
-                "aniId": 105008,
-                "page": "MangaFire",
-                "title": "Welcome to Succubus High!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/succubus-academys-dogg.m244v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeqrtm477aqd7h8n4p94": {
+                "id": 213658,
                 "identifier": "01j76xyeqrtm477aqd7h8n4p94",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEQRTM477AQD7H8N4P94.jpg",
                 "malId": 122102,
@@ -74,6 +56,19 @@
                 "title": "Welcome to Succubus High!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEQRTM477AQD7H8N4P94"
+            }
+        },
+        "MangaFire": {
+            "m244v": {
+                "id": 225791,
+                "identifier": "m244v",
+                "image": "https://static.mangafire.to/6889/i/9/96/9699e2c86fa5132e50254f90aa92892b.jpg",
+                "malId": 122102,
+                "aniId": 105008,
+                "page": "MangaFire",
+                "title": "Welcome to Succubus High!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/succubus-academys-dogg.m244v"
             }
         },
         "Comick": {

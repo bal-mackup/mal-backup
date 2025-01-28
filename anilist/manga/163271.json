@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "sotus": {
+                "id": 125540,
                 "identifier": "sotus",
                 "image": "https://temp.compsci88.com/cover/SOTUS.jpg",
                 "malId": 144383,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/SOTUS"
             }
         },
-        "MangaFire": {
-            "sotus.nr1wm": {
-                "identifier": "sotus.nr1wm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0bcc9b3e9028a1c9e6467ddcdd4e9203.jpg",
-                "malId": 144383,
-                "aniId": 163271,
-                "page": "MangaFire",
-                "title": "SOTUS",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sotus.nr1wm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfyz2k39674gkr0c2nrn": {
+                "id": 209415,
                 "identifier": "01j76xyfyz2k39674gkr0c2nrn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFYZ2K39674GKR0C2NRN.jpg",
                 "malId": 144383,
@@ -40,6 +30,19 @@
                 "title": "SOTUS",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFYZ2K39674GKR0C2NRN"
+            }
+        },
+        "MangaFire": {
+            "nr1wm": {
+                "id": 247616,
+                "identifier": "nr1wm",
+                "image": "https://static.mangafire.to/153f/i/0/0b/0bcc9b3e9028a1c9e6467ddcdd4e9203.jpg",
+                "malId": 144383,
+                "aniId": 163271,
+                "page": "MangaFire",
+                "title": "SOTUS",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sotuss.nr1wm"
             }
         }
     },

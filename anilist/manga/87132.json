@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "986fff4e-7ed9-4ad8-9b98-69da338c0ed8": {
+                "id": 15505,
                 "identifier": "986fff4e-7ed9-4ad8-9b98-69da338c0ed8",
                 "image": "https://uploads.mangadex.org/covers/986fff4e-7ed9-4ad8-9b98-69da338c0ed8/11e28d85-06f1-42a2-8cfd-6d8782da8ecd.jpg",
                 "malId": 81467,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mitsuboshi-colors": {
+                "id": 70404,
                 "identifier": "mitsuboshi-colors",
                 "image": "https://temp.compsci88.com/cover/Mitsuboshi-Colors.jpg",
                 "malId": 81467,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tw970979": {
+                "id": 74075,
                 "identifier": "manga-tw970979",
                 "image": "https://avt.mkklcdnv6temp.com/36/x/13-1583489062.jpg",
                 "malId": 81467,
@@ -42,40 +45,9 @@
                 "url": "https://chapmanganato.com/manga-tw970979"
             }
         },
-        "MangaFire": {
-            "mitsuboshi-colors.rjxwn": {
-                "identifier": "mitsuboshi-colors.rjxwn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f5461acc3c899226cb5609cc7b30daf.jpg",
-                "malId": 81467,
-                "aniId": 87132,
-                "page": "MangaFire",
-                "title": "Mitsuboshi Colors",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mitsuboshi-colors.rjxwn/"
-            },
-            "mitsuboshi-colorss.rjxwn": {
-                "identifier": "mitsuboshi-colorss.rjxwn",
-                "image": "https://static.mangafire.to/24b9/i/0/0f/0f5461acc3c899226cb5609cc7b30daf.jpg",
-                "malId": 81467,
-                "aniId": 87132,
-                "page": "MangaFire",
-                "title": "Mitsuboshi Colors",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mitsuboshi-colorss.rjxwn/"
-            },
-            "rjxwn": {
-                "identifier": "rjxwn",
-                "image": "https://static.mangafire.to/24b9/i/0/0f/0f5461acc3c899226cb5609cc7b30daf.jpg",
-                "malId": 81467,
-                "aniId": 87132,
-                "page": "MangaFire",
-                "title": "Mitsuboshi Colors",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mitsuboshi-colorss.rjxwn"
-            }
-        },
         "Weebcentral": {
             "01j76xybyabxpk1tgawk1yt0jw": {
+                "id": 206200,
                 "identifier": "01j76xybyabxpk1tgawk1yt0jw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYABXPK1TGAWK1YT0JW.jpg",
                 "malId": 81467,
@@ -84,6 +56,19 @@
                 "title": "Mitsuboshi Colors",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYABXPK1TGAWK1YT0JW"
+            }
+        },
+        "MangaFire": {
+            "rjxwn": {
+                "id": 223570,
+                "identifier": "rjxwn",
+                "image": "https://static.mangafire.to/24b9/i/0/0f/0f5461acc3c899226cb5609cc7b30daf.jpg",
+                "malId": 81467,
+                "aniId": 87132,
+                "page": "MangaFire",
+                "title": "Mitsuboshi Colors",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mitsuboshi-colorss.rjxwn"
             }
         },
         "Comick": {

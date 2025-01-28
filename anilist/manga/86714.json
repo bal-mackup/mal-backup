@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5976e234-6a8f-4074-80c3-d26fcde2f39f": {
+                "id": 13871,
                 "identifier": "5976e234-6a8f-4074-80c3-d26fcde2f39f",
                 "image": "https://uploads.mangadex.org/covers/5976e234-6a8f-4074-80c3-d26fcde2f39f/eed6ee0d-83a5-40d5-a0af-8b93ca27e67e.jpg",
                 "malId": 92842,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "takane-no-hana-nara-ochitekoi": {
+                "id": 55331,
                 "identifier": "takane-no-hana-nara-ochitekoi",
                 "image": "https://temp.compsci88.com/cover/Takane-No-Hana-Nara-Ochitekoi.jpg",
                 "malId": 92842,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "takane_no_hana_nara_ochitekoi": {
+                "id": 67333,
                 "identifier": "takane_no_hana_nara_ochitekoi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17071/cover.jpg",
                 "malId": 92842,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ns952753": {
+                "id": 91214,
                 "identifier": "manga-ns952753",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/y/1-1732718488-nw.webp",
                 "malId": 92842,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ns952753"
             }
         },
-        "MangaFire": {
-            "lofty-flower-fall-for-me.lln56": {
-                "identifier": "lofty-flower-fall-for-me.lln56",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc678fa962a0d4cebc71466da733ad4b.jpg",
-                "malId": 92842,
-                "aniId": 86714,
-                "page": "MangaFire",
-                "title": "Lofty Flower, Fall For Me!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lofty-flower-fall-for-me.lln56/"
-            },
-            "lofty-flower-fall-for-mee.lln56": {
-                "identifier": "lofty-flower-fall-for-mee.lln56",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc678fa962a0d4cebc71466da733ad4b.jpg",
-                "malId": 92842,
-                "aniId": 86714,
-                "page": "MangaFire",
-                "title": "Lofty Flower, Fall For Me!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lofty-flower-fall-for-mee.lln56/"
-            }
-        },
         "Weebcentral": {
             "01j76xybx4w89ebgtasxknsskf": {
+                "id": 207286,
                 "identifier": "01j76xybx4w89ebgtasxknsskf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBX4W89EBGTASXKNSSKF.jpg",
                 "malId": 92842,
@@ -86,6 +69,19 @@
                 "title": "Takane no Hana nara Ochitekoi!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBX4W89EBGTASXKNSSKF"
+            }
+        },
+        "MangaFire": {
+            "lln56": {
+                "id": 230185,
+                "identifier": "lln56",
+                "image": "https://static.mangafire.to/79ec/i/c/cc/cc678fa962a0d4cebc71466da733ad4b.jpg",
+                "malId": 92842,
+                "aniId": 86714,
+                "page": "MangaFire",
+                "title": "Lofty Flower, Fall For Me!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lofty-flower-fall-for-mee.lln56"
             }
         },
         "Comick": {

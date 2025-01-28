@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29": {
+                "id": 15484,
                 "identifier": "5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29",
                 "image": "https://uploads.mangadex.org/covers/5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29/ac993fb7-7389-4582-8b51-381845f88c0f.jpg",
                 "malId": 96684,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenohira-no-netsu-o": {
+                "id": 68782,
                 "identifier": "tenohira-no-netsu-o",
                 "image": "https://temp.compsci88.com/cover/Tenohira-No-Netsu-O.jpg",
                 "malId": 96684,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tenohira-No-Netsu-O"
             }
         },
-        "MangaFire": {
-            "karate-heat.kw71v": {
-                "identifier": "karate-heat.kw71v",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/76689a596a24ceb3c2d8460931d95d42.jpg",
-                "malId": 96684,
-                "aniId": 96867,
-                "page": "MangaFire",
-                "title": "Karate Heat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karate-heat.kw71v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyck0x7d9ampq7prcrdws": {
+                "id": 211761,
                 "identifier": "01j76xyck0x7d9ampq7prcrdws",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCK0X7D9AMPQ7PRCRDWS.jpg",
                 "malId": 96684,
@@ -52,6 +43,19 @@
                 "title": "Karate Heat",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCK0X7D9AMPQ7PRCRDWS"
+            }
+        },
+        "MangaFire": {
+            "kw71v": {
+                "id": 255906,
+                "identifier": "kw71v",
+                "image": "https://static.mangafire.to/5ebd/i/7/76/76689a596a24ceb3c2d8460931d95d42.jpg",
+                "malId": 96684,
+                "aniId": 96867,
+                "page": "MangaFire",
+                "title": "Karate Heat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karate-heatt.kw71v"
             }
         },
         "Comick": {

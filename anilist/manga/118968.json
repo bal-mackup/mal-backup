@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "57b8b608-1026-4cab-ad6a-28d796eca663": {
+                "id": 34610,
                 "identifier": "57b8b608-1026-4cab-ad6a-28d796eca663",
                 "image": "https://uploads.mangadex.org/covers/57b8b608-1026-4cab-ad6a-28d796eca663/7d9c58ca-1ab2-4b5b-8267-f072576dce9d.jpg",
                 "malId": 132153,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "little-girl-x-scoop-x-evil-eye": {
+                "id": 59129,
                 "identifier": "little-girl-x-scoop-x-evil-eye",
                 "image": "https://temp.compsci88.com/cover/Little-Girl-x-Scoop-x-Evil-Eye.jpg",
                 "malId": 132153,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "little_girl_x_scoop_x_evil_eye": {
+                "id": 59142,
                 "identifier": "little_girl_x_scoop_x_evil_eye",
                 "image": "https://fmcdn.mfcdn.net/store/manga/33724/cover.jpg",
                 "malId": 132153,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ik985467": {
+                "id": 74158,
                 "identifier": "manga-ik985467",
                 "image": "https://avt.mkklcdnv6temp.com/16/y/21-1590028931.jpg",
                 "malId": 132153,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-ik985467"
             },
             "manga-nu990755": {
+                "id": 101875,
                 "identifier": "manga-nu990755",
                 "image": "https://avt.mkklcdnv6temp.com/37/n/25-1650349393.jpg",
                 "malId": 132153,
@@ -64,20 +69,9 @@
                 "url": "https://manganato.com/manga-nu990755"
             }
         },
-        "MangaFire": {
-            "the-girl-the-shovel-and-the-evil-eye.kwm19": {
-                "identifier": "the-girl-the-shovel-and-the-evil-eye.kwm19",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40cae7dcbe22f225a82cd6adbd2f8a62.jpg",
-                "malId": 132153,
-                "aniId": 118968,
-                "page": "MangaFire",
-                "title": "The Girl, the Shovel, and the Evil Eye",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-girl-the-shovel-and-the-evil-eye.kwm19/"
-            }
-        },
         "Weebcentral": {
             "01j76xydktrwb3k1ntb619v1mc": {
+                "id": 214259,
                 "identifier": "01j76xydktrwb3k1ntb619v1mc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDKTRWB3K1NTB619V1MC.jpg",
                 "malId": 132153,
@@ -86,6 +80,19 @@
                 "title": "The Girl, the Shovel, and the Evil Eye",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDKTRWB3K1NTB619V1MC"
+            }
+        },
+        "MangaFire": {
+            "kwm19": {
+                "id": 248273,
+                "identifier": "kwm19",
+                "image": "https://static.mangafire.to/7e63/i/4/40/40cae7dcbe22f225a82cd6adbd2f8a62.jpg",
+                "malId": 132153,
+                "aniId": 118968,
+                "page": "MangaFire",
+                "title": "The Girl, the Shovel, and the Evil Eye",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-girl-the-shovel-and-the-evil-eyee.kwm19"
             }
         },
         "Comick": {

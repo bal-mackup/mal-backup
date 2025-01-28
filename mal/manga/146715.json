@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9bfb897-3718-4069-a144-1cc9e8ecea94": {
+                "id": 35740,
                 "identifier": "e9bfb897-3718-4069-a144-1cc9e8ecea94",
                 "image": "https://uploads.mangadex.org/covers/e9bfb897-3718-4069-a144-1cc9e8ecea94/28a70013-646c-4070-a2bd-f9411f304db1.jpg",
                 "malId": 146715,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "surviving-as-a-maid": {
+                "id": 69222,
                 "identifier": "surviving-as-a-maid",
                 "image": "https://temp.compsci88.com/cover/Surviving-as-a-Maid.jpg",
                 "malId": 146715,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ie985413": {
+                "id": 78523,
                 "identifier": "manga-ie985413",
                 "image": "https://avt.mkklcdnv6temp.com/14/r/22-1589695414.jpg",
                 "malId": 146715,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ie985413"
             }
         },
-        "MangaFire": {
-            "surviving-as-a-maid.7wmxj": {
-                "identifier": "surviving-as-a-maid.7wmxj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d425ccbef88e6c7dc54c32533bac6e28.jpg",
-                "malId": 146715,
-                "aniId": 122055,
-                "page": "MangaFire",
-                "title": "Surviving as a Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/surviving-as-a-maid.7wmxj/"
-            },
-            "surviving-as-a-maidd.7wmxj": {
-                "identifier": "surviving-as-a-maidd.7wmxj",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d4/d425ccbef88e6c7dc54c32533bac6e28.jpg",
-                "malId": 146715,
-                "aniId": 122055,
-                "page": "MangaFire",
-                "title": "Surviving as a Maid",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/surviving-as-a-maidd.7wmxj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyek20dsj0avwv8kj5xx9": {
+                "id": 209462,
                 "identifier": "01j76xyek20dsj0avwv8kj5xx9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEK20DSJ0AVWV8KJ5XX9.jpg",
                 "malId": 146715,
@@ -74,6 +56,19 @@
                 "title": "Surviving as a Maid",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEK20DSJ0AVWV8KJ5XX9"
+            }
+        },
+        "MangaFire": {
+            "7wmxj": {
+                "id": 225278,
+                "identifier": "7wmxj",
+                "image": "https://static.mangafire.to/2e6e/i/d/d4/d425ccbef88e6c7dc54c32533bac6e28.jpg",
+                "malId": 146715,
+                "aniId": 122055,
+                "page": "MangaFire",
+                "title": "Surviving as a Maid",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/surviving-as-a-maidd.7wmxj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cb77e4a6-3921-43b9-9d64-7d78cd3205ce": {
+                "id": 18983,
                 "identifier": "cb77e4a6-3921-43b9-9d64-7d78cd3205ce",
                 "image": "https://uploads.mangadex.org/covers/cb77e4a6-3921-43b9-9d64-7d78cd3205ce/c6eded90-7e15-4e3b-8f50-f415f02c32a2.jpg",
                 "malId": 112318,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jigokuraku-kaku-yuuji": {
+                "id": 55185,
                 "identifier": "jigokuraku-kaku-yuuji",
                 "image": "https://temp.compsci88.com/cover/Jigokuraku-kaku-Yuuji.jpg",
                 "malId": 112318,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jigokuraku_kaku_yuuji": {
+                "id": 60322,
                 "identifier": "jigokuraku_kaku_yuuji",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27645/cover.jpg",
                 "malId": 112318,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/jigokuraku_kaku_yuuji/"
             },
             "jigoku_raku_kaku_yuuji": {
+                "id": 61211,
                 "identifier": "jigoku_raku_kaku_yuuji",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27157/cover.jpg",
                 "malId": 112318,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-bi978765": {
+                "id": 72921,
                 "identifier": "manga-bi978765",
                 "image": "https://avt.mkklcdnv6temp.com/16/f/16-1583494054.jpg",
                 "malId": 112318,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-bi978765"
             }
         },
-        "MangaFire": {
-            "jigokuraku.oj2j8": {
-                "identifier": "jigokuraku.oj2j8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c9/c98ff39308cb3ffba8994ff928a02caf.jpg",
-                "malId": 112318,
-                "aniId": 100994,
-                "page": "MangaFire",
-                "title": "Hell’s Paradise : Jigokuraku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jigokuraku.oj2j8/"
-            },
-            "jigokurakuu.oj2j8": {
-                "identifier": "jigokurakuu.oj2j8",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c9/c98ff39308cb3ffba8994ff928a02caf.jpg",
-                "malId": 112318,
-                "aniId": 100994,
-                "page": "MangaFire",
-                "title": "Hell’s Paradise : Jigokuraku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jigokurakuu.oj2j8/"
-            }
-        },
         "Weebcentral": {
             "01j76xycaj8mj5vecwqje5qtp2": {
+                "id": 210875,
                 "identifier": "01j76xycaj8mj5vecwqje5qtp2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCAJ8MJ5VECWQJE5QTP2.jpg",
                 "malId": 112318,
@@ -96,6 +80,19 @@
                 "title": "Hell's Paradise - Jigokuraku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCAJ8MJ5VECWQJE5QTP2"
+            }
+        },
+        "MangaFire": {
+            "oj2j8": {
+                "id": 228400,
+                "identifier": "oj2j8",
+                "image": "https://static.mangafire.to/13e0/i/c/c9/c98ff39308cb3ffba8994ff928a02caf.jpg",
+                "malId": 112318,
+                "aniId": 100994,
+                "page": "MangaFire",
+                "title": "Hell’s Paradise : Jigokuraku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jigokurakuu.oj2j8"
             }
         },
         "Comick": {

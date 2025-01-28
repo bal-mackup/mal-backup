@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9351c355-4468-4b1d-84a7-f5b645c7467b": {
+                "id": 109617,
                 "identifier": "9351c355-4468-4b1d-84a7-f5b645c7467b",
                 "image": "https://uploads.mangadex.org/covers/9351c355-4468-4b1d-84a7-f5b645c7467b/1977655d-c703-40c4-8f49-90e6d061bb2a.jpg",
                 "malId": 153061,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/9351c355-4468-4b1d-84a7-f5b645c7467b"
             }
         },
-        "MangaFire": {
-            "100-nichi-go-ni-suru-onna-shachou-to-shinyuu-shain.6lq87": {
-                "identifier": "100-nichi-go-ni-suru-onna-shachou-to-shinyuu-shain.6lq87",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb00f56b50a3f47c84f13018c708abe0.jpg",
-                "malId": 153061,
-                "aniId": 146327,
-                "page": "MangaFire",
-                "title": "100-nichi Go ni ××× suru Onna Shachou to Shinyuu Shain",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/100-nichi-go-ni-suru-onna-shachou-to-shinyuu-shain.6lq87/"
-            }
-        },
         "MangaFox": {
             "100_nichi_go_ni_xxx_suru_onna_shachou_to_shinyuu_shain": {
+                "id": 159636,
                 "identifier": "100_nichi_go_ni_xxx_suru_onna_shachou_to_shinyuu_shain",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43637/cover.jpg",
                 "malId": 153061,
@@ -40,6 +30,19 @@
                 "title": "100-nichi Go ni XXX suru Onna Shachou to Shinyuu Shain",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/100_nichi_go_ni_xxx_suru_onna_shachou_to_shinyuu_shain/"
+            }
+        },
+        "MangaFire": {
+            "6lq87": {
+                "id": 261488,
+                "identifier": "6lq87",
+                "image": "https://static.mangafire.to/8a61/i/c/cb/cb00f56b50a3f47c84f13018c708abe0.jpg",
+                "malId": 153061,
+                "aniId": 146327,
+                "page": "MangaFire",
+                "title": "100-nichi Go ni ××× suru Onna Shachou to Shinyuu Shain",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/100-nichi-go-ni-suru-onna-shachou-to-shinyuu-shainn.6lq87"
             }
         },
         "Comick": {

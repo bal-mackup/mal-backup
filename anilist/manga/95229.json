@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "4710b856-0585-40d2-a87e-099fc032511f": {
+                "id": 15326,
                 "identifier": "4710b856-0585-40d2-a87e-099fc032511f",
-                "image": "https://uploads.mangadex.org/covers/4710b856-0585-40d2-a87e-099fc032511f/52f9bfea-3918-422f-b935-cec5354fe4d4.jpg",
+                "image": "https://uploads.mangadex.org/covers/4710b856-0585-40d2-a87e-099fc032511f/b8c21ae8-22df-4dc3-8cfa-dd9d6d3dfe8a.jpg",
                 "malId": 90190,
                 "aniId": 95229,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "isekai-izakaya-nobu": {
+                "id": 57607,
                 "identifier": "isekai-izakaya-nobu",
                 "image": "https://temp.compsci88.com/cover/Isekai-Izakaya-Nobu.jpg",
                 "malId": 90190,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-tt971228": {
+                "id": 74421,
                 "identifier": "manga-tt971228",
                 "image": "https://avt.mkklcdnv6temp.com/41/p/13-1583489292.jpg",
                 "malId": 90190,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "isekai_izakaya_nobu": {
+                "id": 75570,
                 "identifier": "isekai_izakaya_nobu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19899/cover.jpg",
                 "malId": 90190,
@@ -54,6 +58,7 @@
                 "url": "https://fanfox.net/manga/isekai_izakaya_nobu/"
             },
             "isekai_izakaya_gen": {
+                "id": 99606,
                 "identifier": "isekai_izakaya_gen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31677/cover.jpg",
                 "malId": 90190,
@@ -64,40 +69,9 @@
                 "url": "https://fanfox.net/manga/isekai_izakaya_gen/"
             }
         },
-        "MangaFire": {
-            "isekai-izakaya-nobu.prqq4": {
-                "identifier": "isekai-izakaya-nobu.prqq4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1fc7fcfb75d151756ebb8b85091acfb.jpg",
-                "malId": 90190,
-                "aniId": 95229,
-                "page": "MangaFire",
-                "title": "Otherworldly Izakaya \"Nobu\"",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-izakaya-nobu.prqq4/"
-            },
-            "isekai-izakaya-nobuu.prqq4": {
-                "identifier": "isekai-izakaya-nobuu.prqq4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1fc7fcfb75d151756ebb8b85091acfb.jpg",
-                "malId": 90190,
-                "aniId": 95229,
-                "page": "MangaFire",
-                "title": "Otherworldly Izakaya \"Nobu\"",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-izakaya-nobuu.prqq4/"
-            },
-            "prqq4": {
-                "identifier": "prqq4",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1fc7fcfb75d151756ebb8b85091acfb.jpg",
-                "malId": 90190,
-                "aniId": 95229,
-                "page": "MangaFire",
-                "title": "Otherworldly Izakaya \"Nobu\"",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-izakaya-nobuu.prqq4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc38mktd6geb660yrs8k": {
+                "id": 206308,
                 "identifier": "01j76xyc38mktd6geb660yrs8k",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC38MKTD6GEB660YRS8K.jpg",
                 "malId": 90190,
@@ -106,6 +80,19 @@
                 "title": "Otherworldly Izakaya Nobu",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC38MKTD6GEB660YRS8K"
+            }
+        },
+        "MangaFire": {
+            "prqq4": {
+                "id": 226762,
+                "identifier": "prqq4",
+                "image": "https://static.mangafire.to/3790/i/c/c1/c1fc7fcfb75d151756ebb8b85091acfb.jpg",
+                "malId": 90190,
+                "aniId": 95229,
+                "page": "MangaFire",
+                "title": "Otherworldly Izakaya \"Nobu\"",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-izakaya-nobuu.prqq4"
             }
         },
         "Comick": {

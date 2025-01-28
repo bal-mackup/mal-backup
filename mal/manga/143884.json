@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eb0494de-3b43-4d52-a808-63429c4a4239": {
+                "id": 36913,
                 "identifier": "eb0494de-3b43-4d52-a808-63429c4a4239",
                 "image": "https://uploads.mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/ddf1f419-ea7b-45c3-b766-9156bc7b4d38.jpg",
                 "malId": 143884,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/eb0494de-3b43-4d52-a808-63429c4a4239"
             }
         },
-        "MangaFire": {
-            "ako-to-bambi.pjk2q": {
-                "identifier": "ako-to-bambi.pjk2q",
-                "image": "https://static.mangafire.to/3b2d5/i/9/95/9521eba89bc4a7fe0e9cef8f90943411.jpg",
-                "malId": 143884,
-                "aniId": 122649,
-                "page": "MangaFire",
-                "title": "Ako to Bambi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ako-to-bambi.pjk2q/"
-            }
-        },
         "MangaSee": {
             "ako-and-bambi": {
+                "id": 182760,
                 "identifier": "ako-and-bambi",
                 "image": "https://temp.compsci88.com/cover/Ako-and-Bambi.jpg",
                 "malId": 143884,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygyrse9136nvk5s87vsh": {
+                "id": 213748,
                 "identifier": "01j76xygyrse9136nvk5s87vsh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGYRSE9136NVK5S87VSH.jpg",
                 "malId": 143884,
@@ -52,6 +43,19 @@
                 "title": "Ako and Bambi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGYRSE9136NVK5S87VSH"
+            }
+        },
+        "MangaFire": {
+            "pjk2q": {
+                "id": 261837,
+                "identifier": "pjk2q",
+                "image": "https://static.mangafire.to/826f/i/9/95/9521eba89bc4a7fe0e9cef8f90943411.jpg",
+                "malId": 143884,
+                "aniId": 122649,
+                "page": "MangaFire",
+                "title": "Ako to Bambi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ako-to-bambii.pjk2q"
             }
         },
         "Comick": {

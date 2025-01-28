@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "26057952-76f7-4365-a85a-0667cc58e87e": {
+                "id": 22492,
                 "identifier": "26057952-76f7-4365-a85a-0667cc58e87e",
                 "image": "https://uploads.mangadex.org/covers/26057952-76f7-4365-a85a-0667cc58e87e/0f3f02b6-e460-44c4-b1d9-8c1548f55c3f.jpg",
                 "malId": 94417,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ke961413": {
+                "id": 95896,
                 "identifier": "manga-ke961413",
                 "image": "https://avt.mkklcdnv6temp.com/fld/37/i/4-1732761654-nw.webp",
                 "malId": 94417,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ke961413"
             }
         },
-        "MangaFire": {
-            "sita-wihayeo.nrr48": {
-                "identifier": "sita-wihayeo.nrr48",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b6772dff73680472686312cb61fcc61.jpg",
-                "malId": 94417,
-                "aniId": 85748,
-                "page": "MangaFire",
-                "title": "For the Sake of Sita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sita-wihayeo.nrr48/"
-            },
-            "nrr48": {
-                "identifier": "nrr48",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b6772dff73680472686312cb61fcc61.jpg",
-                "malId": 94417,
-                "aniId": 85748,
-                "page": "MangaFire",
-                "title": "For the Sake of Sita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sita-wihayeo.nrr48/"
-            }
-        },
         "MangaSee": {
             "for-the-sake-of-sita": {
+                "id": 177314,
                 "identifier": "for-the-sake-of-sita",
                 "image": "https://temp.compsci88.com/cover/For-the-Sake-of-Sita.jpg",
                 "malId": 94417,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygpwdfmsa0d6enjybsfd": {
+                "id": 211393,
                 "identifier": "01j76xygpwdfmsa0d6enjybsfd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGPWDFMSA0D6ENJYBSFD.jpg",
                 "malId": 94417,
@@ -74,6 +56,19 @@
                 "title": "For the Sake of Sita",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGPWDFMSA0D6ENJYBSFD"
+            }
+        },
+        "MangaFire": {
+            "nrr48": {
+                "id": 256220,
+                "identifier": "nrr48",
+                "image": "https://static.mangafire.to/c072/i/5/5b/5b6772dff73680472686312cb61fcc61.jpg",
+                "malId": 94417,
+                "aniId": 85748,
+                "page": "MangaFire",
+                "title": "For the Sake of Sita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sita-wihayeoo.nrr48"
             }
         },
         "Comick": {

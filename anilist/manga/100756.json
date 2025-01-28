@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6a763c44-db69-4d27-afe1-0a1246ed681f": {
+                "id": 18239,
                 "identifier": "6a763c44-db69-4d27-afe1-0a1246ed681f",
                 "image": "https://uploads.mangadex.org/covers/6a763c44-db69-4d27-afe1-0a1246ed681f/ce932c83-3cb5-4791-b055-a97f86cf13f3.jpg",
                 "malId": 109153,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kobayashi-san-chi-no-maid-dragon-elma-ol-nikki": {
+                "id": 55775,
                 "identifier": "kobayashi-san-chi-no-maid-dragon-elma-ol-nikki",
                 "image": "https://temp.compsci88.com/cover/Kobayashi-san-Chi-No-Maid-Dragon-Elma-Ol-Nikki.jpg",
                 "malId": 109153,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kobayashi_san_chi_no_maid_dragon_elma_ol_nikki": {
+                "id": 61228,
                 "identifier": "kobayashi_san_chi_no_maid_dragon_elma_ol_nikki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27347/cover.jpg",
                 "malId": 109153,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bi978817": {
+                "id": 80280,
                 "identifier": "manga-bi978817",
                 "image": "https://avt.mkklcdnv6temp.com/18/d/16-1583494125.jpg",
                 "malId": 109153,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-bi978817"
             }
         },
-        "MangaFire": {
-            "kobayashi-san-chi-no-maid-dragon-elma-ol-nikki.nr87m": {
-                "identifier": "kobayashi-san-chi-no-maid-dragon-elma-ol-nikki.nr87m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/5043abb6809659e7bc6932129925f264.jpg",
-                "malId": 109153,
-                "aniId": 100756,
-                "page": "MangaFire",
-                "title": "Miss Kobayashi’s Dragon Maid: Elma’s Office Lady Diary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kobayashi-san-chi-no-maid-dragon-elma-ol-nikki.nr87m/"
-            },
-            "kobayashi-san-chi-no-maid-dragon-elma-ol-nikkii.nr87m": {
-                "identifier": "kobayashi-san-chi-no-maid-dragon-elma-ol-nikkii.nr87m",
-                "image": "https://static.mangafire.to/3b2d5/i/5/50/5043abb6809659e7bc6932129925f264.jpg",
-                "malId": 109153,
-                "aniId": 100756,
-                "page": "MangaFire",
-                "title": "Miss Kobayashi’s Dragon Maid: Elma’s Office Lady Diary",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kobayashi-san-chi-no-maid-dragon-elma-ol-nikkii.nr87m/"
-            }
-        },
         "Weebcentral": {
             "01j76xycv3c8kn4cvpm895x7d6": {
+                "id": 213431,
                 "identifier": "01j76xycv3c8kn4cvpm895x7d6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCV3C8KN4CVPM895X7D6.jpg",
                 "malId": 109153,
@@ -86,6 +69,19 @@
                 "title": "Miss Kobayashi's Dragon Maid - Elma's Office Lady Diary",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCV3C8KN4CVPM895X7D6"
+            }
+        },
+        "MangaFire": {
+            "nr87m": {
+                "id": 229550,
+                "identifier": "nr87m",
+                "image": "https://static.mangafire.to/ea90/i/5/50/5043abb6809659e7bc6932129925f264.jpg",
+                "malId": 109153,
+                "aniId": 100756,
+                "page": "MangaFire",
+                "title": "Miss Kobayashi’s Dragon Maid: Elma’s Office Lady Diary",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kobayashi-san-chi-no-maid-dragon-elma-ol-nikkii.nr87m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0b7e315e-7977-425e-a601-243ddb9f3126": {
+                "id": 29238,
                 "identifier": "0b7e315e-7977-425e-a601-243ddb9f3126",
                 "image": "https://uploads.mangadex.org/covers/0b7e315e-7977-425e-a601-243ddb9f3126/4c974745-b472-4236-84ab-65b7244e4f4f.jpg",
                 "malId": 120836,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kingdom-of-z": {
+                "id": 56981,
                 "identifier": "kingdom-of-z",
                 "image": "https://temp.compsci88.com/cover/Kingdom-of-Z.jpg",
                 "malId": 120836,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kingdom_of_z": {
+                "id": 82081,
                 "identifier": "kingdom_of_z",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31122/cover.jpg",
                 "malId": 120836,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hw984479": {
+                "id": 85362,
                 "identifier": "manga-hw984479",
                 "image": "https://avt.mkklcdnv6temp.com/27/r/20-1583502094.jpg",
                 "malId": 120836,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-hw984479"
             },
             "manga-ft982376": {
+                "id": 90381,
                 "identifier": "manga-ft982376",
                 "image": "https://avt.mkklcdnv6temp.com/49/m/18-1583499034.jpg",
                 "malId": 120836,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-ft982376"
             }
         },
-        "MangaFire": {
-            "kingdom-of-the-z.xjyyz": {
-                "identifier": "kingdom-of-the-z.xjyyz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d070582187fc6720fd576971ffc7fe27.jpg",
-                "malId": 120836,
-                "aniId": 110607,
-                "page": "MangaFire",
-                "title": "Kingdom of Z",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kingdom-of-the-z.xjyyz/"
-            },
-            "kingdom-of-the-zz.xjyyz": {
-                "identifier": "kingdom-of-the-zz.xjyyz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d070582187fc6720fd576971ffc7fe27.jpg",
-                "malId": 120836,
-                "aniId": 110607,
-                "page": "MangaFire",
-                "title": "Kingdom of Z",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kingdom-of-the-zz.xjyyz/"
-            }
-        },
         "Weebcentral": {
             "01j76xydnp2ryq975etqgf152e": {
+                "id": 210998,
                 "identifier": "01j76xydnp2ryq975etqgf152e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDNP2RYQ975ETQGF152E.jpg",
                 "malId": 120836,
@@ -96,6 +80,19 @@
                 "title": "Kingdom of Z",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDNP2RYQ975ETQGF152E"
+            }
+        },
+        "MangaFire": {
+            "xjyyz": {
+                "id": 229747,
+                "identifier": "xjyyz",
+                "image": "https://static.mangafire.to/0a62/i/d/d0/d070582187fc6720fd576971ffc7fe27.jpg",
+                "malId": 120836,
+                "aniId": 110607,
+                "page": "MangaFire",
+                "title": "Kingdom of Z",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kingdom-of-the-zz.xjyyz"
             }
         },
         "Comick": {

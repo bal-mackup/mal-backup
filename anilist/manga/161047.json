@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0aa2520a-a18f-406d-8908-32cec22b88ac": {
+                "id": 114700,
                 "identifier": "0aa2520a-a18f-406d-8908-32cec22b88ac",
                 "image": "https://uploads.mangadex.org/covers/0aa2520a-a18f-406d-8908-32cec22b88ac/8ea555f3-134b-4124-9404-7e71dc28ff7f.jpg",
                 "malId": 151896,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qv994056": {
+                "id": 124348,
                 "identifier": "manga-qv994056",
                 "image": "https://avt.mkklcdnv6temp.com/22/v/28-1676026625.jpg",
                 "malId": 151896,
@@ -30,8 +32,9 @@
                 "url": "https://chapmanganato.com/manga-qv994056"
             },
             "manga-cc1005785": {
+                "id": 217790,
                 "identifier": "manga-cc1005785",
-                "image": "https://avt.mkklcdnv6temp.com/44/n/37-1731383775.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/74/t/18-1733381571-nw.webp",
                 "malId": 151896,
                 "aniId": 161047,
                 "page": "MangaNato",
@@ -40,20 +43,9 @@
                 "url": "https://chapmanganato.to/manga-cc1005785"
             }
         },
-        "MangaFire": {
-            "kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iru.zl6ww": {
-                "identifier": "kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iru.zl6ww",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/81a6da2b62e49660fdf521cae7c4ebf0.jpg",
-                "malId": 151896,
-                "aniId": 161047,
-                "page": "MangaFire",
-                "title": "Only I Know the World Is Ending And Getting Killed by Rampaging Beasts Only Makes Me Stronger",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iru.zl6ww/"
-            }
-        },
         "MangaSee": {
             "kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iru": {
+                "id": 156753,
                 "identifier": "kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iru",
                 "image": "https://temp.compsci88.com/cover/Kono-Sekai-ga-Izure-Horobu-Koto-wo-Ore-dake-ga-Shitte-Iru.jpg",
                 "malId": 151896,
@@ -66,6 +58,7 @@
         },
         "MangaFox": {
             "kono_sekai_ga_izure_horobu_koto_wo_ore_dake_ga_shitte_iru": {
+                "id": 168963,
                 "identifier": "kono_sekai_ga_izure_horobu_koto_wo_ore_dake_ga_shitte_iru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45212/cover.jpg",
                 "malId": 151896,
@@ -78,6 +71,7 @@
         },
         "Weebcentral": {
             "01j76xyg41jx3ff94a1q4e58z5": {
+                "id": 208775,
                 "identifier": "01j76xyg41jx3ff94a1q4e58z5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG41JX3FF94A1Q4E58Z5.jpg",
                 "malId": 151896,
@@ -88,13 +82,26 @@
                 "url": "https://weebcentral.com/series/01J76XYG41JX3FF94A1Q4E58Z5"
             }
         },
+        "MangaFire": {
+            "zl6ww": {
+                "id": 254870,
+                "identifier": "zl6ww",
+                "image": "https://static.mangafire.to/6f68/i/8/81/81a6da2b62e49660fdf521cae7c4ebf0.jpg",
+                "malId": 151896,
+                "aniId": 161047,
+                "page": "MangaFire",
+                "title": "Only I Know the World Is Ending And Getting Killed by Rampaging Beasts Only Makes Me Stronger",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iruu.zl6ww"
+            }
+        },
         "Comick": {
             "72eQQMiU": {
                 "identifier": "72eQQMiU",
                 "malId": 151896,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger",
+                "title": "Kono Sekai ga Izure Horobu Koto o, Ore dake ga Shitteiru: Monster ga Arawareta Sekai de, Shinimodori Level Up",
                 "url": "https://comick.io/comic/00-kono-sekai-ga-izure-horobu-koto-wo-ore-dake-ga-shitte-iru",
                 "aniId": 161047
             }

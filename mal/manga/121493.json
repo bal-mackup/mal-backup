@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d16b55b3-f523-4e5e-9a1f-b8e0a1930285": {
+                "id": 36958,
                 "identifier": "d16b55b3-f523-4e5e-9a1f-b8e0a1930285",
                 "image": "https://uploads.mangadex.org/covers/d16b55b3-f523-4e5e-9a1f-b8e0a1930285/11ae1dc7-02c7-461b-9c58-5e3ea839ebd9.jpg",
                 "malId": 121493,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-dont-care-let-me-go-home": {
+                "id": 64718,
                 "identifier": "i-dont-care-let-me-go-home",
                 "image": "https://temp.compsci88.com/cover/I-Dont-Care-Let-Me-Go-Home.jpg",
                 "malId": 121493,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jn987070": {
+                "id": 113844,
                 "identifier": "manga-jn987070",
                 "image": "https://avt.mkklcdnv6temp.com/32/o/22-1603768248.jpg",
                 "malId": 121493,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-jn987070"
             }
         },
-        "MangaFire": {
-            "i-dont-care-let-me-go-home.6lm3z": {
-                "identifier": "i-dont-care-let-me-go-home.6lm3z",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a6c2847db6260d502ef5a8483658c9d2.jpg",
-                "malId": 121493,
-                "aniId": 111716,
-                "page": "MangaFire",
-                "title": "I Don’t Care. Let Me Go Home!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-dont-care-let-me-go-home.6lm3z/"
-            }
-        },
         "Weebcentral": {
             "01j76xyecnbqnswxwgpfjy6xj2": {
+                "id": 212826,
                 "identifier": "01j76xyecnbqnswxwgpfjy6xj2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECNBQNSWXWGPFJY6XJ2.jpg",
                 "malId": 121493,
@@ -64,6 +56,19 @@
                 "title": "I Don’t Care. Let Me Go Home!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECNBQNSWXWGPFJY6XJ2"
+            }
+        },
+        "MangaFire": {
+            "6lm3z": {
+                "id": 259176,
+                "identifier": "6lm3z",
+                "image": "https://static.mangafire.to/1a41/i/a/a6/a6c2847db6260d502ef5a8483658c9d2.jpg",
+                "malId": 121493,
+                "aniId": 111716,
+                "page": "MangaFire",
+                "title": "I Don’t Care. Let Me Go Home!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-dont-care-let-me-go-homee.6lm3z"
             }
         },
         "Comick": {

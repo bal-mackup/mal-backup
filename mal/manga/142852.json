@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fcc2fbee-0fe9-4cbc-b744-9132175a17c6": {
+                "id": 95468,
                 "identifier": "fcc2fbee-0fe9-4cbc-b744-9132175a17c6",
                 "image": "https://uploads.mangadex.org/covers/fcc2fbee-0fe9-4cbc-b744-9132175a17c6/972541d9-0e22-4227-92ea-c1693287a0da.jpg",
                 "malId": 142852,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ng990589": {
+                "id": 99768,
                 "identifier": "manga-ng990589",
                 "image": "https://avt.mkklcdnv6temp.com/30/v/25-1647791300.jpg",
                 "malId": 142852,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kanojo_ni_uwakisareteita_ore_ga_koakuma_na_kouhai_ni_natsukareteimasu": {
+                "id": 108107,
                 "identifier": "kanojo_ni_uwakisareteita_ore_ga_koakuma_na_kouhai_ni_natsukareteimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41853/cover.jpg",
                 "malId": 142852,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "kanojo-ni-uwaki-sareteita-ore-ga": {
+                "id": 120797,
                 "identifier": "kanojo-ni-uwaki-sareteita-ore-ga",
                 "image": "https://temp.compsci88.com/cover/Kanojo-ni-Uwaki-Sareteita-Ore-ga.jpg",
                 "malId": 142852,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Kanojo-ni-Uwaki-Sareteita-Ore-ga"
             }
         },
-        "MangaFire": {
-            "kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasu.02rk9": {
-                "identifier": "kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasu.02rk9",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/afd94d3a079edd9e14f134a7ab5a1015.jpg",
-                "malId": 142852,
-                "aniId": 140862,
-                "page": "MangaFire",
-                "title": "My Coquettish Junior Attaches Herself to Me!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasu.02rk9/"
-            },
-            "kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasuu.02rk9": {
-                "identifier": "kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasuu.02rk9",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/afd94d3a079edd9e14f134a7ab5a1015.jpg",
-                "malId": 142852,
-                "aniId": 140862,
-                "page": "MangaFire",
-                "title": "My Coquettish Junior Attaches Herself to Me!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasuu.02rk9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfw5a98m98qcvxp3wh7j": {
+                "id": 213359,
                 "identifier": "01j76xyfw5a98m98qcvxp3wh7j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFW5A98M98QCVXP3WH7J.jpg",
                 "malId": 142852,
@@ -86,6 +69,19 @@
                 "title": "Kanojo ni Uwaki Sareteita Ore ga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFW5A98M98QCVXP3WH7J"
+            }
+        },
+        "MangaFire": {
+            "02rk9": {
+                "id": 225777,
+                "identifier": "02rk9",
+                "image": "https://static.mangafire.to/c5bc/i/a/af/afd94d3a079edd9e14f134a7ab5a1015.jpg",
+                "malId": 142852,
+                "aniId": 140862,
+                "page": "MangaFire",
+                "title": "My Coquettish Junior Attaches Herself to Me!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasuu.02rk9"
             }
         },
         "Comick": {

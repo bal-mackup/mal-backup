@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "04c892b3-a202-46f5-ad11-0d433e712ab8": {
+                "id": 103633,
                 "identifier": "04c892b3-a202-46f5-ad11-0d433e712ab8",
                 "image": "https://uploads.mangadex.org/covers/04c892b3-a202-46f5-ad11-0d433e712ab8/d1f58406-eb23-4e37-81ab-6dcec5ccb2a4.jpg",
                 "malId": 142649,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "mikadono_sanshimai_wa_angai_choroi": {
+                "id": 103648,
                 "identifier": "mikadono_sanshimai_wa_angai_choroi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42603/cover.jpg",
                 "malId": 142649,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nz991308": {
+                "id": 108050,
                 "identifier": "manga-nz991308",
                 "image": "https://avt.mkklcdnv6temp.com/10/m/26-1655917213.jpg",
                 "malId": 142649,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "mikadono-sanshimai-wa-angai-choroi": {
+                "id": 108262,
                 "identifier": "mikadono-sanshimai-wa-angai-choroi",
                 "image": "https://temp.compsci88.com/cover/Mikadono-Sanshimai-wa-Angai-Choroi.jpg",
                 "malId": 142649,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Mikadono-Sanshimai-wa-Angai-Choroi"
             }
         },
-        "MangaFire": {
-            "mikadono-sanshimai-wa-angai-choroi.wrpo": {
-                "identifier": "mikadono-sanshimai-wa-angai-choroi.wrpo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbb9aaa9609f66f0de25f1b7b27aa1e8.jpg",
-                "malId": 142649,
-                "aniId": 143719,
-                "page": "MangaFire",
-                "title": "Mikadono Sanshimai wa Angai, Choroi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikadono-sanshimai-wa-angai-choroi.wrpo/"
-            },
-            "mikadono-sanshimai-wa-angai-choroii.wrpo": {
-                "identifier": "mikadono-sanshimai-wa-angai-choroii.wrpo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bbb9aaa9609f66f0de25f1b7b27aa1e8.jpg",
-                "malId": 142649,
-                "aniId": 143719,
-                "page": "MangaFire",
-                "title": "Mikadono Sanshimai wa Angai, Choroi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mikadono-sanshimai-wa-angai-choroii.wrpo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfhnt92kx51trcdbm12r": {
+                "id": 213671,
                 "identifier": "01j76xyfhnt92kx51trcdbm12r",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFHNT92KX51TRCDBM12R.jpg",
                 "malId": 142649,
@@ -86,6 +69,19 @@
                 "title": "Mikadono Sanshimai wa Angai, Choroi.",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFHNT92KX51TRCDBM12R"
+            }
+        },
+        "MangaFire": {
+            "wrpo": {
+                "id": 226379,
+                "identifier": "wrpo",
+                "image": "https://static.mangafire.to/0168/i/b/bb/bbb9aaa9609f66f0de25f1b7b27aa1e8.jpg",
+                "malId": 142649,
+                "aniId": 143719,
+                "page": "MangaFire",
+                "title": "Mikadono Sanshimai wa Angai, Choroi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mikadono-sanshimai-wa-angai-choroii.wrpo"
             }
         },
         "Comick": {

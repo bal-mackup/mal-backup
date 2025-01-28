@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a5680222-eb5c-4954-bf54-e1187ecc285b": {
+                "id": 156573,
                 "identifier": "a5680222-eb5c-4954-bf54-e1187ecc285b",
                 "image": "https://uploads.mangadex.org/covers/a5680222-eb5c-4954-bf54-e1187ecc285b/88d903ce-9fa5-4133-9938-9cd91be3ef35.jpg",
                 "malId": 158883,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-girlfriend-gives-me-goosebumps": {
+                "id": 157714,
                 "identifier": "my-girlfriend-gives-me-goosebumps",
                 "image": "https://temp.compsci88.com/cover/My-Girlfriend-Gives-Me-Goosebumps.jpg",
                 "malId": 158883,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/My-Girlfriend-Gives-Me-Goosebumps"
             }
         },
-        "MangaFire": {
-            "my-girlfriend-gives-me-goosebumps.0qq1r": {
-                "identifier": "my-girlfriend-gives-me-goosebumps.0qq1r",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e402ee06985c8b64f9bd31d28162f27.jpg",
-                "malId": 158883,
-                "aniId": 164512,
-                "page": "MangaFire",
-                "title": "My Girlfriend Gives Me Goosebumps!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-girlfriend-gives-me-goosebumps.0qq1r/"
-            },
-            "my-girlfriend-gives-me-goosebumpss.0qq1r": {
-                "identifier": "my-girlfriend-gives-me-goosebumpss.0qq1r",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2e/2e402ee06985c8b64f9bd31d28162f27.jpg",
-                "malId": 158883,
-                "aniId": 164512,
-                "page": "MangaFire",
-                "title": "My Girlfriend Gives Me Goosebumps!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-girlfriend-gives-me-goosebumpss.0qq1r/"
-            }
-        },
         "MangaNato": {
             "manga-tp996450": {
+                "id": 158592,
                 "identifier": "manga-tp996450",
                 "image": "https://avt.mkklcdnv6temp.com/fld/16/z/15-1733307590-nw.webp",
                 "malId": 158883,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyg5vgbrzgwsjwtytg2tt": {
+                "id": 206679,
                 "identifier": "01j76xyg5vgbrzgwsjwtytg2tt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG5VGBRZGWSJWTYTG2TT.jpg",
                 "malId": 158883,
@@ -76,13 +58,26 @@
                 "url": "https://weebcentral.com/series/01J76XYG5VGBRZGWSJWTYTG2TT"
             }
         },
+        "MangaFire": {
+            "0qq1r": {
+                "id": 225770,
+                "identifier": "0qq1r",
+                "image": "https://static.mangafire.to/feff/i/2/2e/2e402ee06985c8b64f9bd31d28162f27.jpg",
+                "malId": 158883,
+                "aniId": 164512,
+                "page": "MangaFire",
+                "title": "My Girlfriend Gives Me Goosebumps!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-girlfriend-gives-me-goosebumpss.0qq1r"
+            }
+        },
         "Comick": {
             "9mQbDXJh": {
                 "identifier": "9mQbDXJh",
                 "malId": 158883,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Henai Heartbeat",
+                "title": "My Girlfriend Gives Me Goosebumps!",
                 "url": "https://comick.io/comic/henai-heartbeat",
                 "aniId": 164512
             }

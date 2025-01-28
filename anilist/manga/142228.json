@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "harmonia": {
+                "id": 90826,
                 "identifier": "harmonia",
                 "image": "https://temp.compsci88.com/cover/Harmonia.jpg",
                 "malId": 148762,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-mo990171": {
+                "id": 92645,
                 "identifier": "manga-mo990171",
                 "image": "https://avt.mkklcdnv6temp.com/8/h/27-1663554141.jpg",
                 "malId": 148762,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "harmonia_jinu": {
+                "id": 108584,
                 "identifier": "harmonia_jinu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41782/cover.jpg",
                 "malId": 148762,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/harmonia_jinu/"
             }
         },
-        "MangaFire": {
-            "harmonia.qk4k3": {
-                "identifier": "harmonia.qk4k3",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d9a1e7f56bc14b074c0bcaad6e60ecd.jpg",
-                "malId": 148762,
-                "aniId": 142228,
-                "page": "MangaFire",
-                "title": "Harmonia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/harmonia.qk4k3/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf4zf8y143yn3xp2z7se": {
+                "id": 212668,
                 "identifier": "01j76xyf4zf8y143yn3xp2z7se",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF4ZF8Y143YN3XP2Z7SE.jpg",
                 "malId": 148762,
@@ -64,6 +56,19 @@
                 "title": "Harmonia",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF4ZF8Y143YN3XP2Z7SE"
+            }
+        },
+        "MangaFire": {
+            "qk4k3": {
+                "id": 240474,
+                "identifier": "qk4k3",
+                "image": "https://static.mangafire.to/b334/i/0/0d/0d9a1e7f56bc14b074c0bcaad6e60ecd.jpg",
+                "malId": 148762,
+                "aniId": 142228,
+                "page": "MangaFire",
+                "title": "Harmonia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/harmoniaa.qk4k3"
             }
         }
     },

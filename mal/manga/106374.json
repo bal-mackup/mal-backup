@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "02f05f8c-3beb-4a63-bccb-9d47a563005e": {
+                "id": 16913,
                 "identifier": "02f05f8c-3beb-4a63-bccb-9d47a563005e",
                 "image": "https://uploads.mangadex.org/covers/02f05f8c-3beb-4a63-bccb-9d47a563005e/1ada5b21-aeeb-4288-a173-1127ea58e79f.jpg",
                 "malId": 106374,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cv980330": {
+                "id": 86425,
                 "identifier": "manga-cv980330",
                 "image": "https://avt.mkklcdnv6temp.com/24/p/17-1583496140.jpg",
                 "malId": 106374,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-cv980330"
             }
         },
-        "MangaFire": {
-            "madoka-engawa.z1102": {
-                "identifier": "madoka-engawa.z1102",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b05ece119cd6f3fb76314b39d132c49.jpg",
-                "malId": 106374,
-                "aniId": 134007,
-                "page": "MangaFire",
-                "title": "Madoka Engawa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madoka-engawa.z1102/"
-            },
-            "madoka-engawaa.z1102": {
-                "identifier": "madoka-engawaa.z1102",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b05ece119cd6f3fb76314b39d132c49.jpg",
-                "malId": 106374,
-                "aniId": 134007,
-                "page": "MangaFire",
-                "title": "Madoka Engawa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/madoka-engawaa.z1102/"
-            }
-        },
         "MangaFox": {
             "madoka_engawa": {
+                "id": 217665,
                 "identifier": "madoka_engawa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41550/cover.jpg",
                 "malId": 106374,
@@ -62,6 +43,19 @@
                 "title": "Madoka Engawa",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/madoka_engawa/"
+            }
+        },
+        "MangaFire": {
+            "z1102": {
+                "id": 228600,
+                "identifier": "z1102",
+                "image": "https://static.mangafire.to/29df/i/1/1b/1b05ece119cd6f3fb76314b39d132c49.jpg",
+                "malId": 106374,
+                "aniId": 134007,
+                "page": "MangaFire",
+                "title": "Madoka Engawa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/madoka-engawaa.z1102"
             }
         },
         "Comick": {

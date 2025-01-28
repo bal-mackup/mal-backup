@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e64c9e53-8be5-4da5-a4fe-a96dc9760b8b": {
+                "id": 82249,
                 "identifier": "e64c9e53-8be5-4da5-a4fe-a96dc9760b8b",
                 "image": "https://uploads.mangadex.org/covers/e64c9e53-8be5-4da5-a4fe-a96dc9760b8b/78480c4a-8ddf-4f8f-9113-acb4777cd719.jpg",
                 "malId": 143921,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/e64c9e53-8be5-4da5-a4fe-a96dc9760b8b"
             }
         },
-        "MangaFire": {
-            "oishii-kouhii-no-irekata.rjmwq": {
-                "identifier": "oishii-kouhii-no-irekata.rjmwq",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8a/8a38bc16002d5b565523f98b57c2d6be.jpg",
-                "malId": 143921,
-                "aniId": 118926,
-                "page": "MangaFire",
-                "title": "Oishii Kouhii no Irekata",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/oishii-kouhii-no-irekata.rjmwq/"
-            }
-        },
         "MangaFox": {
             "oishii_kouhii_no_irekata": {
+                "id": 185504,
                 "identifier": "oishii_kouhii_no_irekata",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39537/cover.jpg",
                 "malId": 143921,
@@ -40,6 +30,19 @@
                 "title": "Oishii Kouhii no Irekata",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/oishii_kouhii_no_irekata/"
+            }
+        },
+        "MangaFire": {
+            "rjmwq": {
+                "id": 253932,
+                "identifier": "rjmwq",
+                "image": "https://static.mangafire.to/7668/i/8/8a/8a38bc16002d5b565523f98b57c2d6be.jpg",
+                "malId": 143921,
+                "aniId": 118926,
+                "page": "MangaFire",
+                "title": "Oishii Kouhii no Irekata",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/oishii-kouhii-no-irekataa.rjmwq"
             }
         },
         "Comick": {

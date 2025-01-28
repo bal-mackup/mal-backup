@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b2babca2-61ff-4f21-8b08-2a3341dee760": {
+                "id": 23199,
                 "identifier": "b2babca2-61ff-4f21-8b08-2a3341dee760",
                 "image": "https://uploads.mangadex.org/covers/b2babca2-61ff-4f21-8b08-2a3341dee760/53c096b7-38f8-42ac-9d58-ca7b800144ff.jpg",
                 "malId": 109308,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hataraku-saikin": {
+                "id": 57925,
                 "identifier": "hataraku-saikin",
                 "image": "https://temp.compsci88.com/cover/Hataraku-Saikin.jpg",
                 "malId": 109308,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hataraku-Saikin"
             }
         },
-        "MangaFire": {
-            "hataraku-saikin.0rv03": {
-                "identifier": "hataraku-saikin.0rv03",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9b/9b344e4a6dc30b339ec89594071440c6.jpg",
-                "malId": 109308,
-                "aniId": 104194,
-                "page": "MangaFire",
-                "title": "Cells at Work: Bacteria!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hataraku-saikin.0rv03/"
-            },
-            "0rv03": {
-                "identifier": "0rv03",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9b/9b344e4a6dc30b339ec89594071440c6.jpg",
-                "malId": 109308,
-                "aniId": 104194,
-                "page": "MangaFire",
-                "title": "Cells at Work: Bacteria!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hataraku-saikin.0rv03/"
-            }
-        },
         "Weebcentral": {
             "01j76xydk9hp7j89hwna2n547p": {
+                "id": 208398,
                 "identifier": "01j76xydk9hp7j89hwna2n547p",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDK9HP7J89HWNA2N547P.jpg",
                 "malId": 109308,
@@ -62,6 +43,19 @@
                 "title": "Cells at Work - Bacteria!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDK9HP7J89HWNA2N547P"
+            }
+        },
+        "MangaFire": {
+            "0rv03": {
+                "id": 260677,
+                "identifier": "0rv03",
+                "image": "https://static.mangafire.to/94f5/i/9/9b/9b344e4a6dc30b339ec89594071440c6.jpg",
+                "malId": 109308,
+                "aniId": 104194,
+                "page": "MangaFire",
+                "title": "Cells at Work: Bacteria!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hataraku-saikinn.0rv03"
             }
         },
         "Comick": {

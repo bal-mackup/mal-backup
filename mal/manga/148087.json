@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "787968ec-8903-4af0-9e6b-22d82a0da8d5": {
+                "id": 108333,
                 "identifier": "787968ec-8903-4af0-9e6b-22d82a0da8d5",
                 "image": "https://uploads.mangadex.org/covers/787968ec-8903-4af0-9e6b-22d82a0da8d5/d5ce215b-11ab-43bb-97f2-e2f2f2ef0221.jpg",
                 "malId": 148087,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-oq991399": {
+                "id": 108368,
                 "identifier": "manga-oq991399",
                 "image": "https://avt.mkklcdnv6temp.com/15/f/26-1656387290.jpg",
                 "malId": 148087,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kiwameta_renkinjutsu_ni_fukanou_wa_nai": {
+                "id": 122274,
                 "identifier": "kiwameta_renkinjutsu_ni_fukanou_wa_nai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/44354/cover.jpg",
                 "malId": 148087,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/kiwameta_renkinjutsu_ni_fukanou_wa_nai/"
             }
         },
-        "MangaFire": {
-            "kiwameta-renkinjutsu-ni-fukanou-wa-nai.xroyw": {
-                "identifier": "kiwameta-renkinjutsu-ni-fukanou-wa-nai.xroyw",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e8fa113c1257385efeeec84cdb2ddee.jpg",
-                "malId": 148087,
-                "aniId": 172690,
-                "page": "MangaFire",
-                "title": "Anything's Possible with Ultimate Alchemy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiwameta-renkinjutsu-ni-fukanou-wa-nai.xroyw/"
-            },
-            "kiwameta-renkinjutsu-ni-fukanou-wa-naii.xroyw": {
-                "identifier": "kiwameta-renkinjutsu-ni-fukanou-wa-naii.xroyw",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e8fa113c1257385efeeec84cdb2ddee.jpg",
-                "malId": 148087,
-                "aniId": 172690,
-                "page": "MangaFire",
-                "title": "Anything's Possible with Ultimate Alchemy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiwameta-renkinjutsu-ni-fukanou-wa-naii.xroyw/"
-            }
-        },
         "MangaSee": {
             "kiwameta-renkinjutsu-ni-fukanou-wa-nai": {
+                "id": 172499,
                 "identifier": "kiwameta-renkinjutsu-ni-fukanou-wa-nai",
                 "image": "https://temp.compsci88.com/cover/Kiwameta-Renkinjutsu-ni-Fukanou-wa-nai.jpg",
                 "malId": 148087,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygkmj0a227h5y8h623h9": {
+                "id": 212987,
                 "identifier": "01j76xygkmj0a227h5y8h623h9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGKMJ0A227H5Y8H623H9.jpg",
                 "malId": 148087,
@@ -86,6 +69,19 @@
                 "title": "Anything's Possible with Ultimate Alchemy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGKMJ0A227H5Y8H623H9"
+            }
+        },
+        "MangaFire": {
+            "xroyw": {
+                "id": 226833,
+                "identifier": "xroyw",
+                "image": "https://static.mangafire.to/1e26/i/4/4e/4e8fa113c1257385efeeec84cdb2ddee.jpg",
+                "malId": 148087,
+                "aniId": 172690,
+                "page": "MangaFire",
+                "title": "Anything's Possible with Ultimate Alchemy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kiwameta-renkinjutsu-ni-fukanou-wa-naii.xroyw"
             }
         },
         "Comick": {

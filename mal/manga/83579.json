@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61": {
+                "id": 12506,
                 "identifier": "ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61",
                 "image": "https://uploads.mangadex.org/covers/ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61/2417468c-8e5b-4817-aac1-471256ab5c57.jpg",
                 "malId": 83579,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "nisekoi-doumei": {
+                "id": 76440,
                 "identifier": "nisekoi-doumei",
                 "image": "https://temp.compsci88.com/cover/Nisekoi-Doumei.jpg",
                 "malId": 83579,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "nisekoi_doumei": {
+                "id": 100301,
                 "identifier": "nisekoi_doumei",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15028/cover.jpg",
                 "malId": 83579,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/nisekoi_doumei/"
             }
         },
-        "MangaFire": {
-            "nisekoi-doumei.ykoqz": {
-                "identifier": "nisekoi-doumei.ykoqz",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f475637cb55bf1397b8af447c8bf6aa.jpg",
-                "malId": 83579,
-                "aniId": 85982,
-                "page": "MangaFire",
-                "title": "\"Nisekoi\"",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nisekoi-doumei.ykoqz/"
-            },
-            "ykoqz": {
-                "identifier": "ykoqz",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0f475637cb55bf1397b8af447c8bf6aa.jpg",
-                "malId": 83579,
-                "aniId": 85982,
-                "page": "MangaFire",
-                "title": "\"Nisekoi\"",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nisekoi-doumei.ykoqz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb69ddaq4nhx2psmchsy": {
+                "id": 211080,
                 "identifier": "01j76xyb69ddaq4nhx2psmchsy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB69DDAQ4NHX2PSMCHSY.jpg",
                 "malId": 83579,
@@ -74,6 +56,19 @@
                 "title": "Nisekoi Doumei",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB69DDAQ4NHX2PSMCHSY"
+            }
+        },
+        "MangaFire": {
+            "ykoqz": {
+                "id": 263173,
+                "identifier": "ykoqz",
+                "image": "https://static.mangafire.to/34df/i/0/0f/0f475637cb55bf1397b8af447c8bf6aa.jpg",
+                "malId": 83579,
+                "aniId": 85982,
+                "page": "MangaFire",
+                "title": "\"Nisekoi\"",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nisekoi-doumeii.ykoqz"
             }
         },
         "Comick": {

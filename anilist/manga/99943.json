@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4": {
+                "id": 18232,
                 "identifier": "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4",
-                "image": "https://uploads.mangadex.org/covers/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4/d4c64855-a752-40e0-bd9e-5cc1a3aad19b.jpg",
+                "image": "https://uploads.mangadex.org/covers/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4/639f2972-4f5c-4560-b352-e9756a91b7b3.jpg",
                 "malId": 108407,
                 "aniId": 99943,
                 "page": "Mangadex",
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4"
             },
             "eefb4312-a872-48ae-8756-3cd078437d48": {
+                "id": 195640,
                 "identifier": "eefb4312-a872-48ae-8756-3cd078437d48",
                 "image": "https://uploads.mangadex.org/covers/eefb4312-a872-48ae-8756-3cd078437d48/f5bc1948-8d9a-4956-91c0-d2578298e5f3.jpg",
                 "malId": 108407,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/eefb4312-a872-48ae-8756-3cd078437d48"
             },
             "a169538e-8933-4f87-b86d-aea351dd3c90": {
+                "id": 219297,
                 "identifier": "a169538e-8933-4f87-b86d-aea351dd3c90",
                 "image": "https://uploads.mangadex.org/covers/a169538e-8933-4f87-b86d-aea351dd3c90/9031430d-eea9-4ae9-8675-aa9cf3cd6ada.jpg",
                 "malId": 108407,
@@ -40,6 +43,7 @@
         },
         "MangaFox": {
             "kanojo_okarishimasu": {
+                "id": 53883,
                 "identifier": "kanojo_okarishimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26297/cover.jpg",
                 "malId": 108407,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "kanojo-okarishimasu": {
+                "id": 54656,
                 "identifier": "kanojo-okarishimasu",
                 "image": "https://temp.compsci88.com/cover/Kanojo-Okarishimasu.jpg",
                 "malId": 108407,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-ao977497": {
+                "id": 73495,
                 "identifier": "manga-ao977497",
                 "image": "https://avt.mkklcdnv6temp.com/43/x/15-1583493237.jpg",
                 "malId": 108407,
@@ -74,20 +80,9 @@
                 "url": "https://chapmanganato.com/manga-ao977497"
             }
         },
-        "MangaFire": {
-            "kanojo-okarishimasuu.jv2m8": {
-                "identifier": "kanojo-okarishimasuu.jv2m8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/19/6b1f1b1409b0f6d06056cbc4b6d17c8b.jpg",
-                "malId": 108407,
-                "aniId": 99943,
-                "page": "MangaFire",
-                "title": "Rent-A-Girlfriend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-okarishimasuu.jv2m8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc7kp5m48jay8s4zndx5": {
+                "id": 210349,
                 "identifier": "01j76xyc7kp5m48jay8s4zndx5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC7KP5M48JAY8S4ZNDX5.jpg",
                 "malId": 108407,
@@ -96,6 +91,19 @@
                 "title": "Rent-A-Girlfriend",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC7KP5M48JAY8S4ZNDX5"
+            }
+        },
+        "MangaFire": {
+            "jv2m8": {
+                "id": 228326,
+                "identifier": "jv2m8",
+                "image": "https://static.mangafire.to/1a8f/i/8/ee/a367a8964b28a304b5ed2f729c4f0936.jpg",
+                "malId": 108407,
+                "aniId": 99943,
+                "page": "MangaFire",
+                "title": "Rent-A-Girlfriend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-okarishimasuu.jv2m8"
             }
         },
         "Comick": {

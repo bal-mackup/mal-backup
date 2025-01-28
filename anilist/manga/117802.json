@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5": {
+                "id": 39838,
                 "identifier": "470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5",
                 "image": "https://uploads.mangadex.org/covers/470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5/8ce05da3-37a8-4481-be16-1647081a1b07.jpg",
                 "malId": 128594,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "one_piece_episode_a": {
+                "id": 54073,
                 "identifier": "one_piece_episode_a",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36728/cover.jpg",
                 "malId": 128594,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/one_piece_episode_a/"
             }
         },
-        "MangaFire": {
-            "one-piece-episode-a.ojpp4": {
-                "identifier": "one-piece-episode-a.ojpp4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/1618b65bbde512dd73c82dfcdcb9dccc.jpg",
-                "malId": 128594,
-                "aniId": 117802,
-                "page": "MangaFire",
-                "title": "One Piece Episode A",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-piece-episode-a.ojpp4/"
-            },
-            "one-piece-episode-aa.ojpp4": {
-                "identifier": "one-piece-episode-aa.ojpp4",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/1618b65bbde512dd73c82dfcdcb9dccc.jpg",
-                "malId": 128594,
-                "aniId": 117802,
-                "page": "MangaFire",
-                "title": "One Piece Episode A",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/one-piece-episode-aa.ojpp4/"
-            }
-        },
         "MangaSee": {
             "one-piece-aces-story-the-manga": {
+                "id": 184177,
                 "identifier": "one-piece-aces-story-the-manga",
                 "image": "https://temp.compsci88.com/cover/One-Piece-Aces-Story-The-Manga.jpg",
                 "malId": 128594,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyh1n5pbx33gwtxvxr43f": {
+                "id": 209844,
                 "identifier": "01j76xyh1n5pbx33gwtxvxr43f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH1N5PBX33GWTXVXR43F.jpg",
                 "malId": 128594,
@@ -74,6 +56,19 @@
                 "title": "One Piece - Ace's Story - The Manga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH1N5PBX33GWTXVXR43F"
+            }
+        },
+        "MangaFire": {
+            "ojpp4": {
+                "id": 225730,
+                "identifier": "ojpp4",
+                "image": "https://static.mangafire.to/46d5/i/1/16/1618b65bbde512dd73c82dfcdcb9dccc.jpg",
+                "malId": 128594,
+                "aniId": 117802,
+                "page": "MangaFire",
+                "title": "One Piece Episode A",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/one-piece-episode-aa.ojpp4"
             }
         },
         "Comick": {

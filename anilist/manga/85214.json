@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "76c69636-119c-41af-9d3e-058296a1db35": {
+                "id": 9373,
                 "identifier": "76c69636-119c-41af-9d3e-058296a1db35",
                 "image": "https://uploads.mangadex.org/covers/76c69636-119c-41af-9d3e-058296a1db35/c2a5d870-f508-4b9e-8aab-c0104793035d.jpg",
                 "malId": 60889,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/76c69636-119c-41af-9d3e-058296a1db35"
             },
             "872cfda3-13f8-43c7-ab01-5890e0da71b4": {
+                "id": 10782,
                 "identifier": "872cfda3-13f8-43c7-ab01-5890e0da71b4",
                 "image": "https://uploads.mangadex.org/covers/872cfda3-13f8-43c7-ab01-5890e0da71b4/a0ad2908-cf1f-44b5-8d11-d97ac847cd8b.jpg",
                 "malId": 60889,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "itoshi-no-karin": {
+                "id": 58058,
                 "identifier": "itoshi-no-karin",
                 "image": "https://temp.compsci88.com/cover/Itoshi-No-Karin.jpg",
                 "malId": 60889,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "itoshi_no_karin": {
+                "id": 58432,
                 "identifier": "itoshi_no_karin",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13281/cover.jpg",
                 "malId": 60889,
@@ -52,6 +56,7 @@
                 "url": "https://fanfox.net/manga/itoshi_no_karin/"
             },
             "ane_golem": {
+                "id": 71547,
                 "identifier": "ane_golem",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14296/cover.jpg",
                 "malId": 60889,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-mn990070": {
+                "id": 91597,
                 "identifier": "manga-mn990070",
                 "image": "https://avt.mkklcdnv6temp.com/8/q/25-1637547678.jpg",
                 "malId": 60889,
@@ -74,20 +80,9 @@
                 "url": "https://manganato.com/manga-mn990070"
             }
         },
-        "MangaFire": {
-            "itoshi-no-karin.5p99": {
-                "identifier": "itoshi-no-karin.5p99",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/21e9de326915a8a5a38b134f886b0bf5.jpg",
-                "malId": 60889,
-                "aniId": 85214,
-                "page": "MangaFire",
-                "title": "Karin who I think tenderly of",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/itoshi-no-karin.5p99/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9zryy9wmcq555w85546": {
+                "id": 212678,
                 "identifier": "01j76xy9zryy9wmcq555w85546",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9ZRYY9WMCQ555W85546.jpg",
                 "malId": 60889,
@@ -96,6 +91,19 @@
                 "title": "Itoshi no Karin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9ZRYY9WMCQ555W85546"
+            }
+        },
+        "MangaFire": {
+            "5p99": {
+                "id": 258212,
+                "identifier": "5p99",
+                "image": "https://static.mangafire.to/0c33/i/2/21/21e9de326915a8a5a38b134f886b0bf5.jpg",
+                "malId": 60889,
+                "aniId": 85214,
+                "page": "MangaFire",
+                "title": "Karin who I think tenderly of",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/itoshi-no-karinn.5p99"
             }
         },
         "Comick": {

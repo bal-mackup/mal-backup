@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "48863213-086b-4dfb-8103-8e279b8e5f5d": {
+                "id": 39127,
                 "identifier": "48863213-086b-4dfb-8103-8e279b8e5f5d",
                 "image": "https://uploads.mangadex.org/covers/48863213-086b-4dfb-8103-8e279b8e5f5d/79eb2a60-d43a-40ec-baa3-42736d0c5dc1.jpg",
                 "malId": 129656,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "watashi_o_tabetai_hitodenashi": {
+                "id": 67993,
                 "identifier": "watashi_o_tabetai_hitodenashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35908/cover.jpg",
                 "malId": 129656,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jo986849": {
+                "id": 74307,
                 "identifier": "manga-jo986849",
                 "image": "https://avt.mkklcdnv6temp.com/23/k/22-1601635720.jpg",
                 "malId": 129656,
@@ -42,40 +45,9 @@
                 "url": "https://manganato.com/manga-jo986849"
             }
         },
-        "MangaFire": {
-            "watashi-o-tabetai-hitodenashi.qkv7v": {
-                "identifier": "watashi-o-tabetai-hitodenashi.qkv7v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6911442fefe85d493153d2db5695131f.jpg",
-                "malId": 129656,
-                "aniId": 123777,
-                "page": "MangaFire",
-                "title": "This Monster Wants to Eat Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-o-tabetai-hitodenashi.qkv7v/"
-            },
-            "watashi-wo-tabetai-hitodenashi.qkv7v": {
-                "identifier": "watashi-wo-tabetai-hitodenashi.qkv7v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6911442fefe85d493153d2db5695131f.jpg",
-                "malId": 129656,
-                "aniId": 123777,
-                "page": "MangaFire",
-                "title": "This Monster Wants to Eat Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-wo-tabetai-hitodenashi.qkv7v/"
-            },
-            "watashi-o-tabetai-hitodenashii.qkv7v": {
-                "identifier": "watashi-o-tabetai-hitodenashii.qkv7v",
-                "image": "https://static.mangafire.to/3b2d5/i/6/69/6911442fefe85d493153d2db5695131f.jpg",
-                "malId": 129656,
-                "aniId": 123777,
-                "page": "MangaFire",
-                "title": "This Monster Wants to Eat Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/watashi-o-tabetai-hitodenashii.qkv7v/"
-            }
-        },
         "MangaSee": {
             "this-monster-wants-to-eat-me": {
+                "id": 193192,
                 "identifier": "this-monster-wants-to-eat-me",
                 "image": "https://temp.compsci88.com/cover/This-Monster-Wants-to-Eat-Me.jpg",
                 "malId": 129656,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhdjtad7z92p5smwzz8e": {
+                "id": 211595,
                 "identifier": "01j76xyhdjtad7z92p5smwzz8e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHDJTAD7Z92P5SMWZZ8E.jpg",
                 "malId": 129656,
@@ -96,6 +69,19 @@
                 "title": "This Monster Wants to Eat Me",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHDJTAD7Z92P5SMWZZ8E"
+            }
+        },
+        "MangaFire": {
+            "qkv7v": {
+                "id": 224185,
+                "identifier": "qkv7v",
+                "image": "https://static.mangafire.to/f12c/i/6/69/6911442fefe85d493153d2db5695131f.jpg",
+                "malId": 129656,
+                "aniId": 123777,
+                "page": "MangaFire",
+                "title": "This Monster Wants to Eat Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/watashi-o-tabetai-hitodenashii.qkv7v"
             }
         },
         "Comick": {

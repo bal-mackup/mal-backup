@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "ab41d97a-0725-4f37-85db-da001d4ff0dc": {
+                "id": 17279,
                 "identifier": "ab41d97a-0725-4f37-85db-da001d4ff0dc",
                 "image": "https://uploads.mangadex.org/covers/ab41d97a-0725-4f37-85db-da001d4ff0dc/ee6715e9-50fd-4151-bcdd-7ead078178e0.jpg",
                 "malId": 104271,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "chi-no-wadachi": {
+                "id": 55340,
                 "identifier": "chi-no-wadachi",
                 "image": "https://temp.compsci88.com/cover/Chi-No-Wadachi.jpg",
                 "malId": 104271,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "chi_no_wadachi": {
+                "id": 57190,
                 "identifier": "chi_no_wadachi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24383/cover.jpg",
                 "malId": 104271,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-xk975319": {
+                "id": 74822,
                 "identifier": "manga-xk975319",
                 "image": "https://avt.mkklcdnv6temp.com/8/b/15-1583491754.jpg",
                 "malId": 104271,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-xk975319"
             }
         },
-        "MangaFire": {
-            "chi-no-wadachi.4yqo": {
-                "identifier": "chi-no-wadachi.4yqo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf60186ae7706d9c491ceeee0b4ce565.jpg",
-                "malId": 104271,
-                "aniId": 98397,
-                "page": "MangaFire",
-                "title": "Blood on the Tracks",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chi-no-wadachi.4yqo/"
-            },
-            "chi-no-wadachii.4yqo": {
-                "identifier": "chi-no-wadachii.4yqo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bf/bf60186ae7706d9c491ceeee0b4ce565.jpg",
-                "malId": 104271,
-                "aniId": 98397,
-                "page": "MangaFire",
-                "title": "Blood on the Tracks",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chi-no-wadachii.4yqo/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc1e1jpp3h1damc8kmam": {
+                "id": 207594,
                 "identifier": "01j76xyc1e1jpp3h1damc8kmam",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC1E1JPP3H1DAMC8KMAM.jpg",
                 "malId": 104271,
@@ -86,6 +69,19 @@
                 "title": "Blood on the Tracks",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC1E1JPP3H1DAMC8KMAM"
+            }
+        },
+        "MangaFire": {
+            "4yqo": {
+                "id": 226545,
+                "identifier": "4yqo",
+                "image": "https://static.mangafire.to/e08e/i/b/bf/bf60186ae7706d9c491ceeee0b4ce565.jpg",
+                "malId": 104271,
+                "aniId": 98397,
+                "page": "MangaFire",
+                "title": "Blood on the Tracks",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chi-no-wadachii.4yqo"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "86b5ec28-30f0-42ae-8849-722026cb1f8d": {
+                "id": 25632,
                 "identifier": "86b5ec28-30f0-42ae-8849-722026cb1f8d",
                 "image": "https://uploads.mangadex.org/covers/86b5ec28-30f0-42ae-8849-722026cb1f8d/a94a503a-dfc5-403c-a013-475233cfcefd.jpg",
                 "malId": 148210,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-et982154": {
+                "id": 81114,
                 "identifier": "manga-et982154",
                 "image": "https://avt.mkklcdnv6temp.com/41/d/18-1583498696.jpg",
                 "malId": 148210,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-et982154"
             }
         },
-        "MangaFire": {
-            "my-fair-footman.qx293": {
-                "identifier": "my-fair-footman.qx293",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2b/2bd8831ef41f3cf104fa7ce7d3305462.jpg",
-                "malId": 148210,
-                "aniId": 109443,
-                "page": "MangaFire",
-                "title": "My Fair Footman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-fair-footman.qx293/"
-            }
-        },
         "MangaSee": {
             "my-fair-footman": {
+                "id": 177320,
                 "identifier": "my-fair-footman",
                 "image": "https://temp.compsci88.com/cover/My-Fair-Footman.jpg",
                 "malId": 148210,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygq2sska46md8zcxh0ah": {
+                "id": 211582,
                 "identifier": "01j76xygq2sska46md8zcxh0ah",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGQ2SSKA46MD8ZCXH0AH.jpg",
                 "malId": 148210,
@@ -64,6 +56,19 @@
                 "title": "My Fair Footman",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGQ2SSKA46MD8ZCXH0AH"
+            }
+        },
+        "MangaFire": {
+            "qx293": {
+                "id": 253269,
+                "identifier": "qx293",
+                "image": "https://static.mangafire.to/4ea6/i/2/2b/2bd8831ef41f3cf104fa7ce7d3305462.jpg",
+                "malId": 148210,
+                "aniId": 109443,
+                "page": "MangaFire",
+                "title": "My Fair Footman",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-fair-footmann.qx293"
             }
         },
         "Comick": {

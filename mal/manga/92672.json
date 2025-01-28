@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e9e79831-298c-4850-b3e3-cf815a7cd560": {
+                "id": 14817,
                 "identifier": "e9e79831-298c-4850-b3e3-cf815a7cd560",
                 "image": "https://uploads.mangadex.org/covers/e9e79831-298c-4850-b3e3-cf815a7cd560/1df6c402-79d0-484b-8087-4a5fc38a2d66.jpg",
                 "malId": 92672,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-sweet-girl": {
+                "id": 66646,
                 "identifier": "my-sweet-girl",
                 "image": "https://temp.compsci88.com/cover/My-Sweet-Girl.jpg",
                 "malId": 92672,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-yb975484": {
+                "id": 86178,
                 "identifier": "manga-yb975484",
                 "image": "https://avt.mkklcdnv6temp.com/11/b/15-1583491859.jpg",
                 "malId": 92672,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "kimi_wa_kawaii_onnanoko": {
+                "id": 102691,
                 "identifier": "kimi_wa_kawaii_onnanoko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24551/cover.jpg",
                 "malId": 92672,
@@ -54,40 +58,9 @@
                 "url": "https://fanfox.net/manga/kimi_wa_kawaii_onnanoko/"
             }
         },
-        "MangaFire": {
-            "kimi-wa-kawaii-onnanoko.v5nyl": {
-                "identifier": "kimi-wa-kawaii-onnanoko.v5nyl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c797c6fa8ba155c8050502efb3799d.jpg",
-                "malId": 92672,
-                "aniId": 98446,
-                "page": "MangaFire",
-                "title": "My Sweet Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-kawaii-onnanoko.v5nyl/"
-            },
-            "kimi-wa-kawaii-onnanokoo.v5nyl": {
-                "identifier": "kimi-wa-kawaii-onnanokoo.v5nyl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c797c6fa8ba155c8050502efb3799d.jpg",
-                "malId": 92672,
-                "aniId": 98446,
-                "page": "MangaFire",
-                "title": "My Sweet Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-kawaii-onnanokoo.v5nyl/"
-            },
-            "v5nyl": {
-                "identifier": "v5nyl",
-                "image": "https://static.mangafire.to/3b2d5/i/2/22/22c797c6fa8ba155c8050502efb3799d.jpg",
-                "malId": 92672,
-                "aniId": 98446,
-                "page": "MangaFire",
-                "title": "My Sweet Girl",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-wa-kawaii-onnanokoo.v5nyl/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4h7033v0e6jde9y1fw": {
+                "id": 208916,
                 "identifier": "01j76xye4h7033v0e6jde9y1fw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4H7033V0E6JDE9Y1FW.jpg",
                 "malId": 92672,
@@ -96,6 +69,19 @@
                 "title": "My Sweet Girl",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4H7033V0E6JDE9Y1FW"
+            }
+        },
+        "MangaFire": {
+            "v5nyl": {
+                "id": 225220,
+                "identifier": "v5nyl",
+                "image": "https://static.mangafire.to/378a/i/2/22/22c797c6fa8ba155c8050502efb3799d.jpg",
+                "malId": 92672,
+                "aniId": 98446,
+                "page": "MangaFire",
+                "title": "My Sweet Girl",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-wa-kawaii-onnanokoo.v5nyl"
             }
         },
         "Comick": {

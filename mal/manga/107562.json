@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c": {
+                "id": 17812,
                 "identifier": "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c",
                 "image": "https://uploads.mangadex.org/covers/e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c/522068e0-577a-4eb1-b7ea-eff7efe70e94.jpg",
                 "malId": 107562,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kusuriya-no-hitorigoto": {
+                "id": 55807,
                 "identifier": "kusuriya-no-hitorigoto",
                 "image": "https://temp.compsci88.com/cover/Kusuriya-No-Hitorigoto.jpg",
                 "malId": 107562,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kusuriya_no_hitorigoto": {
+                "id": 66266,
                 "identifier": "kusuriya_no_hitorigoto",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25519/cover.jpg",
                 "malId": 107562,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-zj976692": {
+                "id": 73122,
                 "identifier": "manga-zj976692",
                 "image": "https://avt.mkklcdnv6temp.com/29/j/15-1583492547.jpg",
                 "malId": 107562,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-zj976692"
             }
         },
-        "MangaFire": {
-            "kusuriya-no-hitorigoto.3rwzy": {
-                "identifier": "kusuriya-no-hitorigoto.3rwzy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2c157e7db230a70143acebfdf970a98.jpg",
-                "malId": 107562,
-                "aniId": 99022,
-                "page": "MangaFire",
-                "title": "The Apothecary Diaries",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kusuriya-no-hitorigoto.3rwzy/"
-            },
-            "kusuriya-no-hitorigotoo.3rwzy": {
-                "identifier": "kusuriya-no-hitorigotoo.3rwzy",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a2c157e7db230a70143acebfdf970a98.jpg",
-                "malId": 107562,
-                "aniId": 99022,
-                "page": "MangaFire",
-                "title": "The Apothecary Diaries",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kusuriya-no-hitorigotoo.3rwzy/"
-            }
-        },
         "Weebcentral": {
             "01j76xycctkz5gdq05600ag7tq": {
+                "id": 214454,
                 "identifier": "01j76xycctkz5gdq05600ag7tq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCCTKZ5GDQ05600AG7TQ.jpg",
                 "malId": 107562,
@@ -86,6 +69,19 @@
                 "title": "The Apothecary Diaries",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCCTKZ5GDQ05600AG7TQ"
+            }
+        },
+        "MangaFire": {
+            "3rwzy": {
+                "id": 226470,
+                "identifier": "3rwzy",
+                "image": "https://static.mangafire.to/ab8c/i/a/a2/a2c157e7db230a70143acebfdf970a98.jpg",
+                "malId": 107562,
+                "aniId": 99022,
+                "page": "MangaFire",
+                "title": "The Apothecary Diaries",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kusuriya-no-hitorigotoo.3rwzy"
             }
         },
         "Comick": {

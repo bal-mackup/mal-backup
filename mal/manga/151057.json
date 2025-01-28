@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "601eca31-b45d-43b6-9782-f00ed745298a": {
+                "id": 107154,
                 "identifier": "601eca31-b45d-43b6-9782-f00ed745298a",
                 "image": "https://uploads.mangadex.org/covers/601eca31-b45d-43b6-9782-f00ed745298a/7d94817b-89ad-4559-92ef-0ded79cd9751.jpg",
                 "malId": 151057,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pc993111": {
+                "id": 125823,
                 "identifier": "manga-pc993111",
                 "image": "https://avt.mkklcdnv6temp.com/34/q/27-1669351298.jpg",
                 "malId": 151057,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "evangeline-after-the-ending": {
+                "id": 128783,
                 "identifier": "evangeline-after-the-ending",
                 "image": "https://temp.compsci88.com/cover/Evangeline-After-the-Ending.jpg",
                 "malId": 151057,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Evangeline-After-the-Ending"
             }
         },
-        "MangaFire": {
-            "wangyeol-hu-evangeline.3pr92": {
-                "identifier": "wangyeol-hu-evangeline.3pr92",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/1664a152da21f50fe69a492f1ad3a16f.jpg",
-                "malId": 151057,
-                "aniId": 156855,
-                "page": "MangaFire",
-                "title": "Evangeline After the Ending",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wangyeol-hu-evangeline.3pr92/"
-            },
-            "wangyeol-hu-evangelinee.3pr92": {
-                "identifier": "wangyeol-hu-evangelinee.3pr92",
-                "image": "https://static.mangafire.to/3b2d5/i/1/16/1664a152da21f50fe69a492f1ad3a16f.jpg",
-                "malId": 151057,
-                "aniId": 156855,
-                "page": "MangaFire",
-                "title": "Evangeline After the Ending",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wangyeol-hu-evangelinee.3pr92/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg10z1cneqeqwph942nh": {
+                "id": 206588,
                 "identifier": "01j76xyg10z1cneqeqwph942nh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG10Z1CNEQEQWPH942NH.jpg",
                 "malId": 151057,
@@ -74,6 +56,19 @@
                 "title": "Evangeline After the Ending",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG10Z1CNEQEQWPH942NH"
+            }
+        },
+        "MangaFire": {
+            "3pr92": {
+                "id": 245196,
+                "identifier": "3pr92",
+                "image": "https://static.mangafire.to/6542/i/1/16/1664a152da21f50fe69a492f1ad3a16f.jpg",
+                "malId": 151057,
+                "aniId": 156855,
+                "page": "MangaFire",
+                "title": "Evangeline After the Ending",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wangyeol-hu-evangelinee.3pr92"
             }
         }
     },

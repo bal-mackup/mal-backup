@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "the-devil-is-a-part-timer-official-comic-anthology": {
+                "id": 166157,
                 "identifier": "the-devil-is-a-part-timer-official-comic-anthology",
                 "image": "https://temp.compsci88.com/cover/The-Devil-Is-a-Part-Timer-Official-Comic-Anthology.jpg",
                 "malId": 144505,
@@ -18,20 +19,9 @@
                 "url": "https://mangasee123.com/manga/The-Devil-Is-a-Part-Timer-Official-Comic-Anthology"
             }
         },
-        "MangaFire": {
-            "hataraku-maou-sama-koushiki-comic-anthology.yvp20": {
-                "identifier": "hataraku-maou-sama-koushiki-comic-anthology.yvp20",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e9/e9156c8841a73ae71293853e0fe3bc78.jpg",
-                "malId": 144505,
-                "aniId": 145144,
-                "page": "MangaFire",
-                "title": "The Devil Is a Part-Timer! Official Comic Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hataraku-maou-sama-koushiki-comic-anthology.yvp20/"
-            }
-        },
         "Weebcentral": {
             "01j76xygd2aaf9dgz19xdwq7p5": {
+                "id": 206499,
                 "identifier": "01j76xygd2aaf9dgz19xdwq7p5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGD2AAF9DGZ19XDWQ7P5.jpg",
                 "malId": 144505,
@@ -40,6 +30,19 @@
                 "title": "The Devil Is a Part-Timer! Official Comic Anthology",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGD2AAF9DGZ19XDWQ7P5"
+            }
+        },
+        "MangaFire": {
+            "yvp20": {
+                "id": 239195,
+                "identifier": "yvp20",
+                "image": "https://static.mangafire.to/a209/i/e/e9/e9156c8841a73ae71293853e0fe3bc78.jpg",
+                "malId": 144505,
+                "aniId": 145144,
+                "page": "MangaFire",
+                "title": "The Devil Is a Part-Timer! Official Comic Anthology",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hataraku-maou-sama-koushiki-comic-anthologyy.yvp20"
             }
         }
     },

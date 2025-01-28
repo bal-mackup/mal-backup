@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b273b1d8-3d1b-4240-a251-40b88d207723": {
+                "id": 28827,
                 "identifier": "b273b1d8-3d1b-4240-a251-40b88d207723",
                 "image": "https://uploads.mangadex.org/covers/b273b1d8-3d1b-4240-a251-40b88d207723/73c86297-af04-466f-9e87-55b167c97e06.jpg",
                 "malId": 120358,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "himari-no-mawari": {
+                "id": 68258,
                 "identifier": "himari-no-mawari",
                 "image": "https://temp.compsci88.com/cover/Himari-no-Mawari.jpg",
                 "malId": 120358,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-en982048": {
+                "id": 77745,
                 "identifier": "manga-en982048",
                 "image": "https://avt.mkklcdnv6temp.com/37/f/18-1583498538.jpg",
                 "malId": 120358,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-en982048"
             }
         },
-        "MangaFire": {
-            "himari-no-mawari.m2klp": {
-                "identifier": "himari-no-mawari.m2klp",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a6/a6dd9435a72572b32b09a1c9f9ad884c.jpg",
-                "malId": 120358,
-                "aniId": 105701,
-                "page": "MangaFire",
-                "title": "Himari no Mawari",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/himari-no-mawari.m2klp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd9r9ab1vb88ejegc83d": {
+                "id": 211376,
                 "identifier": "01j76xyd9r9ab1vb88ejegc83d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD9R9AB1VB88EJEGC83D.jpg",
                 "malId": 120358,
@@ -64,6 +56,19 @@
                 "title": "Himari no Mawari",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD9R9AB1VB88EJEGC83D"
+            }
+        },
+        "MangaFire": {
+            "m2klp": {
+                "id": 242961,
+                "identifier": "m2klp",
+                "image": "https://static.mangafire.to/799f/i/a/a6/a6dd9435a72572b32b09a1c9f9ad884c.jpg",
+                "malId": 120358,
+                "aniId": 105701,
+                "page": "MangaFire",
+                "title": "Himari no Mawari",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/himari-no-mawarii.m2klp"
             }
         },
         "Comick": {

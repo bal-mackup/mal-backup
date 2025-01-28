@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fed923ec-22e0-47fc-b23d-c2880a96d42a": {
+                "id": 85391,
                 "identifier": "fed923ec-22e0-47fc-b23d-c2880a96d42a",
                 "image": "https://uploads.mangadex.org/covers/fed923ec-22e0-47fc-b23d-c2880a96d42a/ac248ae4-4580-4eff-86e3-1456378396da.jpg",
                 "malId": 128152,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/fed923ec-22e0-47fc-b23d-c2880a96d42a"
             }
         },
-        "MangaFire": {
-            "zenbu-o-na-ore-no-sei.4qjwk": {
-                "identifier": "zenbu-o-na-ore-no-sei.4qjwk",
-                "image": "https://static.mangafire.to/3b2d5/i/2/26/26b1452b4b1cc7786bb26e89392d0b41.jpg",
-                "malId": 128152,
-                "aniId": 121360,
-                "page": "MangaFire",
-                "title": "Zenbu, Ω na Ore no Sei.",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/zenbu-o-na-ore-no-sei.4qjwk/"
-            }
-        },
         "MangaNato": {
             "manga-zi1003243": {
+                "id": 197493,
                 "identifier": "manga-zi1003243",
-                "image": "https://avt.mkklcdnv6temp.com/40/e/35-1723695652.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/76/m/17-1733325822-nw.webp",
                 "malId": 128152,
                 "aniId": 121360,
                 "page": "MangaNato",
                 "title": "I’m An Omega And It’s All My Fault",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-zi1003243"
+            }
+        },
+        "MangaFire": {
+            "4qjwk": {
+                "id": 239436,
+                "identifier": "4qjwk",
+                "image": "https://static.mangafire.to/358d/i/2/26/26b1452b4b1cc7786bb26e89392d0b41.jpg",
+                "malId": 128152,
+                "aniId": 121360,
+                "page": "MangaFire",
+                "title": "Zenbu, Ω na Ore no Sei.",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/zenbu-o-na-ore-no-seii.4qjwk"
             }
         },
         "Comick": {

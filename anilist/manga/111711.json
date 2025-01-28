@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "14e522ed-ff5e-4e5f-a466-b3a65fd0d55b": {
+                "id": 30565,
                 "identifier": "14e522ed-ff5e-4e5f-a466-b3a65fd0d55b",
                 "image": "https://uploads.mangadex.org/covers/14e522ed-ff5e-4e5f-a466-b3a65fd0d55b/af368cf8-eeba-42b8-9bad-f69b58ca3ff9.jpg",
                 "malId": 121885,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/14e522ed-ff5e-4e5f-a466-b3a65fd0d55b"
             }
         },
-        "MangaFire": {
-            "tasogare-outfocus.9ooqm": {
-                "identifier": "tasogare-outfocus.9ooqm",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b5/b56503a25d8961ccf4ffe9858c372238.jpg",
-                "malId": 121885,
-                "aniId": 111711,
-                "page": "MangaFire",
-                "title": "Twilight Out of Focus",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tasogare-outfocus.9ooqm/"
-            }
-        },
         "MangaNato": {
             "manga-fq983025": {
+                "id": 182479,
                 "identifier": "manga-fq983025",
                 "image": "https://avt.mkklcdnv6temp.com/fld/17/n/10-1732799022.jpg",
                 "malId": 121885,
@@ -44,6 +34,7 @@
         },
         "MangaFox": {
             "tasogare_outfocus": {
+                "id": 185192,
                 "identifier": "tasogare_outfocus",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31493/cover.jpg",
                 "malId": 121885,
@@ -52,6 +43,19 @@
                 "title": "Tasogare Outfocus",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/tasogare_outfocus/"
+            }
+        },
+        "MangaFire": {
+            "9ooqm": {
+                "id": 244848,
+                "identifier": "9ooqm",
+                "image": "https://static.mangafire.to/790b/i/b/b5/b56503a25d8961ccf4ffe9858c372238.jpg",
+                "malId": 121885,
+                "aniId": 111711,
+                "page": "MangaFire",
+                "title": "Twilight Out of Focus",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tasogare-outfocuss.9ooqm"
             }
         },
         "Comick": {

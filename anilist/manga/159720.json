@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35": {
+                "id": 123743,
                 "identifier": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
                 "image": "https://uploads.mangadex.org/covers/9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35/11d74977-602a-4721-92ae-7592bc149368.jpg",
                 "malId": 153492,
@@ -18,38 +19,30 @@
                 "url": "https://mangadex.org/title/9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35"
             }
         },
-        "MangaFire": {
-            "koroshiya-no-oshi.xvq1v": {
-                "identifier": "koroshiya-no-oshi.xvq1v",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/460ee2cedf7969f2b5803db4f4783b76.jpg",
-                "malId": 153492,
-                "aniId": 159720,
-                "page": "MangaFire",
-                "title": "The Hitman's Fav",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koroshiya-no-oshi.xvq1v/"
-            },
-            "koroshiya-no-oshii.xvq1v": {
-                "identifier": "koroshiya-no-oshii.xvq1v",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/460ee2cedf7969f2b5803db4f4783b76.jpg",
-                "malId": 153492,
-                "aniId": 159720,
-                "page": "MangaFire",
-                "title": "The Hitman's Fav",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/koroshiya-no-oshii.xvq1v/"
-            }
-        },
         "MangaNato": {
             "manga-xg1001241": {
+                "id": 183877,
                 "identifier": "manga-xg1001241",
-                "image": "https://avt.mkklcdnv6temp.com/9/i/34-1710386693.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/99/x/16-1733320792-nw.webp",
                 "malId": 153492,
                 "aniId": 159720,
                 "page": "MangaNato",
                 "title": "Koroshiya No Oshi",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xg1001241"
+            }
+        },
+        "MangaFire": {
+            "xvq1v": {
+                "id": 223773,
+                "identifier": "xvq1v",
+                "image": "https://static.mangafire.to/5fe9/i/2/24/460ee2cedf7969f2b5803db4f4783b76.jpg",
+                "malId": 153492,
+                "aniId": 159720,
+                "page": "MangaFire",
+                "title": "The Hitman's Fav",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/koroshiya-no-oshii.xvq1v"
             }
         },
         "Comick": {

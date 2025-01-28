@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2414cba6-3022-4d21-8268-836320ae622c": {
+                "id": 17672,
                 "identifier": "2414cba6-3022-4d21-8268-836320ae622c",
                 "image": "https://uploads.mangadex.org/covers/2414cba6-3022-4d21-8268-836320ae622c/53b2f2eb-0a0e-4e36-a75f-7f3b16f2aabd.jpg",
                 "malId": 147446,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hana-haru": {
+                "id": 56742,
                 "identifier": "hana-haru",
                 "image": "https://temp.compsci88.com/cover/Hana-Haru.jpg",
                 "malId": 147446,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hana_haru": {
+                "id": 65597,
                 "identifier": "hana_haru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/25133/cover.jpg",
                 "malId": 147446,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yk976219": {
+                "id": 82426,
                 "identifier": "manga-yk976219",
                 "image": "https://avt.mkklcdnv6temp.com/22/s/15-1583492273.jpg",
                 "malId": 147446,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yk976219"
             }
         },
-        "MangaFire": {
-            "hana-haru.m254x": {
-                "identifier": "hana-haru.m254x",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c1/c1393363153aa03cb4cb9567fa218f70.jpg",
-                "malId": 147446,
-                "aniId": 100793,
-                "page": "MangaFire",
-                "title": "Days of Hana",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hana-haru.m254x/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc6vzs3ckf1n4sfqjnf5": {
+                "id": 211519,
                 "identifier": "01j76xyc6vzs3ckf1n4sfqjnf5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC6VZS3CKF1N4SFQJNF5.jpg",
                 "malId": 147446,
@@ -76,6 +69,19 @@
                 "title": "Days of Hana",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC6VZS3CKF1N4SFQJNF5"
+            }
+        },
+        "MangaFire": {
+            "m254x": {
+                "id": 259990,
+                "identifier": "m254x",
+                "image": "https://static.mangafire.to/179a/i/c/c1/c1393363153aa03cb4cb9567fa218f70.jpg",
+                "malId": 147446,
+                "aniId": 100793,
+                "page": "MangaFire",
+                "title": "Days of Hana",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hana-haruu.m254x"
             }
         },
         "Comick": {

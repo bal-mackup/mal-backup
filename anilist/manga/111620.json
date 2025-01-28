@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e3d2897c-ca52-4675-ae0b-0af1bfe534dd": {
+                "id": 27877,
                 "identifier": "e3d2897c-ca52-4675-ae0b-0af1bfe534dd",
                 "image": "https://uploads.mangadex.org/covers/e3d2897c-ca52-4675-ae0b-0af1bfe534dd/332a29a2-1f5e-4ff6-bbd4-2a3636fbc3c7.jpg",
                 "malId": 119373,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-eg981715": {
+                "id": 88874,
                 "identifier": "manga-eg981715",
                 "image": "https://avt.mkklcdnv6temp.com/25/f/18-1583498071.jpg",
                 "malId": 119373,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "rust_eater_bisco": {
+                "id": 94056,
                 "identifier": "rust_eater_bisco",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30615/cover.jpg",
                 "malId": 119373,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/rust_eater_bisco/"
             }
         },
-        "MangaFire": {
-            "sabikui-bisco.vvp67": {
-                "identifier": "sabikui-bisco.vvp67",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/44536e0651360b8549dc04db917430ca.jpg",
-                "malId": 119373,
-                "aniId": 111620,
-                "page": "MangaFire",
-                "title": "Rust-Eater Bisco",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sabikui-bisco.vvp67/"
-            },
-            "sabikui-biscoo.vvp67": {
-                "identifier": "sabikui-biscoo.vvp67",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/44536e0651360b8549dc04db917430ca.jpg",
-                "malId": 119373,
-                "aniId": 111620,
-                "page": "MangaFire",
-                "title": "Rust-Eater Bisco",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sabikui-biscoo.vvp67/"
-            }
-        },
         "MangaSee": {
             "rust-eater-bisco": {
+                "id": 179487,
                 "identifier": "rust-eater-bisco",
                 "image": "https://temp.compsci88.com/cover/Rust-Eater-Bisco.jpg",
                 "malId": 119373,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygw3hpas1488kvfzdyym": {
+                "id": 207161,
                 "identifier": "01j76xygw3hpas1488kvfzdyym",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGW3HPAS1488KVFZDYYM.jpg",
                 "malId": 119373,
@@ -86,6 +69,19 @@
                 "title": "Rust-Eater Bisco",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGW3HPAS1488KVFZDYYM"
+            }
+        },
+        "MangaFire": {
+            "vvp67": {
+                "id": 225036,
+                "identifier": "vvp67",
+                "image": "https://static.mangafire.to/05f7/i/4/44/44536e0651360b8549dc04db917430ca.jpg",
+                "malId": 119373,
+                "aniId": 111620,
+                "page": "MangaFire",
+                "title": "Rust-Eater Bisco",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sabikui-biscoo.vvp67"
             }
         },
         "Comick": {

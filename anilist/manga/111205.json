@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6c7d3ff8-fef3-42af-a033-d82de930fca3": {
+                "id": 28153,
                 "identifier": "6c7d3ff8-fef3-42af-a033-d82de930fca3",
                 "image": "https://uploads.mangadex.org/covers/6c7d3ff8-fef3-42af-a033-d82de930fca3/ddddc087-6172-4fa4-9041-75c0faee7cef.jpg",
                 "malId": 121000,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kimi_ga_shine_tasuuketsu_death_game": {
+                "id": 66050,
                 "identifier": "kimi_ga_shine_tasuuketsu_death_game",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31741/cover.jpg",
                 "malId": 121000,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "your-turn-to-die-majority-vote-death-game": {
+                "id": 71941,
                 "identifier": "your-turn-to-die-majority-vote-death-game",
                 "image": "https://temp.compsci88.com/cover/Your-Turn-to-Die-Majority-Vote-Death-Game.jpg",
                 "malId": 121000,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fz983082": {
+                "id": 78257,
                 "identifier": "manga-fz983082",
                 "image": "https://avt.mkklcdnv6temp.com/25/j/19-1583500107.jpg",
                 "malId": 121000,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-fz983082"
             }
         },
-        "MangaFire": {
-            "your-turn-to-die-death-game-by-majority.3r1v6": {
-                "identifier": "your-turn-to-die-death-game-by-majority.3r1v6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d2eee5621a055ae53340484f1526b31.jpg",
-                "malId": 121000,
-                "aniId": 111205,
-                "page": "MangaFire",
-                "title": "Your Turn to Die: Majority Vote Death Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-turn-to-die-death-game-by-majority.3r1v6/"
-            },
-            "your-turn-to-die-death-game-by-majorityy.3r1v6": {
-                "identifier": "your-turn-to-die-death-game-by-majorityy.3r1v6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7d/7d2eee5621a055ae53340484f1526b31.jpg",
-                "malId": 121000,
-                "aniId": 111205,
-                "page": "MangaFire",
-                "title": "Your Turn to Die: Majority Vote Death Game",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-turn-to-die-death-game-by-majorityy.3r1v6/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeqs1rhswgrg4nr10agc": {
+                "id": 206235,
                 "identifier": "01j76xyeqs1rhswgrg4nr10agc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEQS1RHSWGRG4NR10AGC.jpg",
                 "malId": 121000,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYEQS1RHSWGRG4NR10AGC"
             }
         },
+        "MangaFire": {
+            "3r1v6": {
+                "id": 230915,
+                "identifier": "3r1v6",
+                "image": "https://static.mangafire.to/c310/i/7/7d/7d2eee5621a055ae53340484f1526b31.jpg",
+                "malId": 121000,
+                "aniId": 111205,
+                "page": "MangaFire",
+                "title": "Your Turn to Die: Majority Vote Death Game",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/your-turn-to-die-death-game-by-majorityy.3r1v6"
+            }
+        },
         "Comick": {
             "Tq_zsbT4": {
                 "identifier": "Tq_zsbT4",
                 "malId": 121000,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Your Turn to Die: Death Game by Majority",
+                "title": "Your Turn to Die: Majority Vote Death Game",
                 "url": "https://comick.io/comic/your-turn-to-die-death-game-by-majority",
                 "aniId": 111205
             }

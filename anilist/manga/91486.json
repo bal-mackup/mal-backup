@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "910669e2-4240-4608-906a-195ba21f3d7d": {
+                "id": 19620,
                 "identifier": "910669e2-4240-4608-906a-195ba21f3d7d",
                 "image": "https://uploads.mangadex.org/covers/910669e2-4240-4608-906a-195ba21f3d7d/187bed2b-a3d2-4c0f-98c5-030c73ab5875.jpg",
                 "malId": 71817,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "minamisshon": {
+                "id": 78365,
                 "identifier": "minamisshon",
                 "image": "https://temp.compsci88.com/cover/Minamisshon.jpg",
                 "malId": 71817,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Minamisshon"
             }
         },
-        "MangaFire": {
-            "minamission.9o7kq": {
-                "identifier": "minamission.9o7kq",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc5d39548c97687a3d2d602cc35e9236.jpg",
-                "malId": 71817,
-                "aniId": 91486,
-                "page": "MangaFire",
-                "title": "Mission in the South!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/minamission.9o7kq/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaqmzz029a2hqe1tyqyw": {
+                "id": 207087,
                 "identifier": "01j76xyaqmzz029a2hqe1tyqyw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAQMZZ029A2HQE1TYQYW.jpg",
                 "malId": 71817,
@@ -52,6 +43,19 @@
                 "title": "Minamisshon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAQMZZ029A2HQE1TYQYW"
+            }
+        },
+        "MangaFire": {
+            "9o7kq": {
+                "id": 237576,
+                "identifier": "9o7kq",
+                "image": "https://static.mangafire.to/8354/i/c/cc/cc5d39548c97687a3d2d602cc35e9236.jpg",
+                "malId": 71817,
+                "aniId": 91486,
+                "page": "MangaFire",
+                "title": "Mission in the South!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/minamissionn.9o7kq"
             }
         },
         "Comick": {

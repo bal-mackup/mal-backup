@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cfc3d743-bd89-48e2-991f-63e680cc4edf": {
+                "id": 17282,
                 "identifier": "cfc3d743-bd89-48e2-991f-63e680cc4edf",
                 "image": "https://uploads.mangadex.org/covers/cfc3d743-bd89-48e2-991f-63e680cc4edf/1905884c-adc0-4651-aea2-c061c9f02763.jpg",
                 "malId": 103897,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dr-stone": {
+                "id": 54050,
                 "identifier": "dr-stone",
                 "image": "https://temp.compsci88.com/cover/Dr-Stone.jpg",
                 "malId": 103897,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dr_stone": {
+                "id": 55028,
                 "identifier": "dr_stone",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24445/cover.jpg",
                 "malId": 103897,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yz975382": {
+                "id": 72881,
                 "identifier": "manga-yz975382",
                 "image": "https://avt.mkklcdnv6temp.com/9/c/15-1583491790.jpg",
                 "malId": 103897,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-yz975382"
             }
         },
-        "MangaFire": {
-            "dr-stone.qkm13": {
-                "identifier": "dr-stone.qkm13",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94d31a590ed6327cfe4cbc90ae295d5f.jpg",
-                "malId": 103897,
-                "aniId": 98416,
-                "page": "MangaFire",
-                "title": "Dr. STONE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dr-stone.qkm13/"
-            },
-            "dr-stonee.qkm13": {
-                "identifier": "dr-stonee.qkm13",
-                "image": "https://static.mangafire.to/3b2d5/i/9/94/94d31a590ed6327cfe4cbc90ae295d5f.jpg",
-                "malId": 103897,
-                "aniId": 98416,
-                "page": "MangaFire",
-                "title": "Dr. STONE",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dr-stonee.qkm13/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc1gaf2fwq59q0y17tpa": {
+                "id": 207248,
                 "identifier": "01j76xyc1gaf2fwq59q0y17tpa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC1GAF2FWQ59Q0Y17TPA.jpg",
                 "malId": 103897,
@@ -86,6 +69,19 @@
                 "title": "Dr. STONE",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC1GAF2FWQ59Q0Y17TPA"
+            }
+        },
+        "MangaFire": {
+            "qkm13": {
+                "id": 226667,
+                "identifier": "qkm13",
+                "image": "https://static.mangafire.to/736d/i/9/94/94d31a590ed6327cfe4cbc90ae295d5f.jpg",
+                "malId": 103897,
+                "aniId": 98416,
+                "page": "MangaFire",
+                "title": "Dr. STONE",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dr-stonee.qkm13"
             }
         },
         "Comick": {

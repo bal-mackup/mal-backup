@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "de5343e8-5af6-4942-9e91-03073c9b6ec2": {
+                "id": 105312,
                 "identifier": "de5343e8-5af6-4942-9e91-03073c9b6ec2",
                 "image": "https://uploads.mangadex.org/covers/de5343e8-5af6-4942-9e91-03073c9b6ec2/037c0bbd-1967-4a80-ae27-ab8e37e5dc22.jpg",
                 "malId": 147917,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pe992661": {
+                "id": 115621,
                 "identifier": "manga-pe992661",
                 "image": "https://avt.mkklcdnv6temp.com/16/q/27-1664783092.jpg",
                 "malId": 147917,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dorobou_chan": {
+                "id": 116258,
                 "identifier": "dorobou_chan",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43834/cover.jpg",
                 "malId": 147917,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "dorobou-chan": {
+                "id": 118743,
                 "identifier": "dorobou-chan",
                 "image": "https://temp.compsci88.com/cover/Dorobou-chan.jpg",
                 "malId": 147917,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Dorobou-chan"
             }
         },
-        "MangaFire": {
-            "dorobou-chan.8nw5v": {
-                "identifier": "dorobou-chan.8nw5v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fb7dbb2c0296f0a2571d7e9328d3a1df.jpg",
-                "malId": 147917,
-                "aniId": 149666,
-                "page": "MangaFire",
-                "title": "Dorobou-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorobou-chan.8nw5v/"
-            },
-            "dorobou-chann.8nw5v": {
-                "identifier": "dorobou-chann.8nw5v",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fb7dbb2c0296f0a2571d7e9328d3a1df.jpg",
-                "malId": 147917,
-                "aniId": 149666,
-                "page": "MangaFire",
-                "title": "Dorobou-chan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorobou-chann.8nw5v/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfsqf0vr4rykxq5nc7rm": {
+                "id": 213135,
                 "identifier": "01j76xyfsqf0vr4rykxq5nc7rm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFSQF0VR4RYKXQ5NC7RM.jpg",
                 "malId": 147917,
@@ -86,6 +69,19 @@
                 "title": "Dorobou-chan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFSQF0VR4RYKXQ5NC7RM"
+            }
+        },
+        "MangaFire": {
+            "8nw5v": {
+                "id": 228703,
+                "identifier": "8nw5v",
+                "image": "https://static.mangafire.to/17b5/i/f/fb/fb7dbb2c0296f0a2571d7e9328d3a1df.jpg",
+                "malId": 147917,
+                "aniId": 149666,
+                "page": "MangaFire",
+                "title": "Dorobou-chan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dorobou-chann.8nw5v"
             }
         },
         "Comick": {

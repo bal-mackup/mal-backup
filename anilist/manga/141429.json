@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aa7b6112-d4b9-4ccb-8e12-4f8da2eaae43": {
+                "id": 95424,
                 "identifier": "aa7b6112-d4b9-4ccb-8e12-4f8da2eaae43",
                 "image": "https://uploads.mangadex.org/covers/aa7b6112-d4b9-4ccb-8e12-4f8da2eaae43/6153c1ce-bb2f-4c2b-bbbe-c772ce60685d.jpg",
                 "malId": 143653,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "henshuu_no_isshou": {
+                "id": 97002,
                 "identifier": "henshuu_no_isshou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41075/cover.jpg",
                 "malId": 143653,
@@ -30,20 +32,9 @@
                 "url": "https://fanfox.net/manga/henshuu_no_isshou/"
             }
         },
-        "MangaFire": {
-            "henshuu-no-isshou.5230v": {
-                "identifier": "henshuu-no-isshou.5230v",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d138f0aef23f41006563e1cff4ab23d.jpg",
-                "malId": 143653,
-                "aniId": 141429,
-                "page": "MangaFire",
-                "title": "Henshuu no Isshou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/henshuu-no-isshou.5230v/"
-            }
-        },
         "MangaNato": {
             "manga-um997469": {
+                "id": 165399,
                 "identifier": "manga-um997469",
                 "image": "https://avt.mkklcdnv6temp.com/fld/55/s/15-1733309981-nw.webp",
                 "malId": 143653,
@@ -52,6 +43,19 @@
                 "title": "Henshuu No Isshou",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-um997469"
+            }
+        },
+        "MangaFire": {
+            "5230v": {
+                "id": 242770,
+                "identifier": "5230v",
+                "image": "https://static.mangafire.to/d6d5/i/0/0d/0d138f0aef23f41006563e1cff4ab23d.jpg",
+                "malId": 143653,
+                "aniId": 141429,
+                "page": "MangaFire",
+                "title": "Henshuu no Isshou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/henshuu-no-isshouu.5230v"
             }
         },
         "Comick": {

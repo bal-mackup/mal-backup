@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b6411c38-a54e-46ae-af38-12927bb92e29": {
+                "id": 35343,
                 "identifier": "b6411c38-a54e-46ae-af38-12927bb92e29",
                 "image": "https://uploads.mangadex.org/covers/b6411c38-a54e-46ae-af38-12927bb92e29/723307e7-d894-4ac5-b1c8-b6e10f9d49a7.jpg",
                 "malId": 118268,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "gokudou-parasites": {
+                "id": 60401,
                 "identifier": "gokudou-parasites",
                 "image": "https://temp.compsci88.com/cover/Gokudou-Parasites.jpg",
                 "malId": 118268,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "gokudou_parasites": {
+                "id": 62713,
                 "identifier": "gokudou_parasites",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34255/cover.jpg",
                 "malId": 118268,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-hc985311": {
+                "id": 87597,
                 "identifier": "manga-hc985311",
                 "image": "https://avt.mkklcdnv6temp.com/10/k/21-1589040168.jpg",
                 "malId": 118268,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-hc985311"
             }
         },
-        "MangaFire": {
-            "gokudo-parasites.4ql4o": {
-                "identifier": "gokudo-parasites.4ql4o",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e122ee1d3d800195ba3e3b6e24c9cd2c.jpg",
-                "malId": 118268,
-                "aniId": 107355,
-                "page": "MangaFire",
-                "title": "Gokudo Parasites",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokudo-parasites.4ql4o/"
-            },
-            "gokudo-parasitess.4ql4o": {
-                "identifier": "gokudo-parasitess.4ql4o",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e122ee1d3d800195ba3e3b6e24c9cd2c.jpg",
-                "malId": 118268,
-                "aniId": 107355,
-                "page": "MangaFire",
-                "title": "Gokudo Parasites",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokudo-parasitess.4ql4o/"
-            },
-            "4ql4o": {
-                "identifier": "4ql4o",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e122ee1d3d800195ba3e3b6e24c9cd2c.jpg",
-                "malId": 118268,
-                "aniId": 107355,
-                "page": "MangaFire",
-                "title": "Gokudo Parasites",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gokudo-parasitess.4ql4o/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4yac30qbntdvenfr0n": {
+                "id": 214011,
                 "identifier": "01j76xye4yac30qbntdvenfr0n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4YAC30QBNTDVENFR0N.jpg",
                 "malId": 118268,
@@ -96,6 +69,19 @@
                 "title": "Gokudou Parasites",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4YAC30QBNTDVENFR0N"
+            }
+        },
+        "MangaFire": {
+            "4ql4o": {
+                "id": 223435,
+                "identifier": "4ql4o",
+                "image": "https://static.mangafire.to/7fa6/i/e/e1/e122ee1d3d800195ba3e3b6e24c9cd2c.jpg",
+                "malId": 118268,
+                "aniId": 107355,
+                "page": "MangaFire",
+                "title": "Gokudo Parasites",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gokudo-parasitess.4ql4o"
             }
         },
         "Comick": {

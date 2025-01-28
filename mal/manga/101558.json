@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "28591273-88bf-4a4d-afbe-95c3c3430117": {
+                "id": 19582,
                 "identifier": "28591273-88bf-4a4d-afbe-95c3c3430117",
                 "image": "https://uploads.mangadex.org/covers/28591273-88bf-4a4d-afbe-95c3c3430117/43ece0c9-ddcc-47bb-8616-3ed0fd03203f.jpg",
                 "malId": 101558,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "shibuya-kingyo": {
+                "id": 71203,
                 "identifier": "shibuya-kingyo",
                 "image": "https://temp.compsci88.com/cover/Shibuya-Kingyo.jpg",
                 "malId": 101558,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "shibuya_kingyo": {
+                "id": 79269,
                 "identifier": "shibuya_kingyo",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27423/cover.jpg",
                 "malId": 101558,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-bu978955": {
+                "id": 81746,
                 "identifier": "manga-bu978955",
                 "image": "https://avt.mkklcdnv6temp.com/23/h/16-1583494304.jpg",
                 "malId": 101558,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-bu978955"
             }
         },
-        "MangaFire": {
-            "shibuya-kingyo.rlolo": {
-                "identifier": "shibuya-kingyo.rlolo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0576d9e050290aa2ece683a3a71195e.jpg",
-                "malId": 101558,
-                "aniId": 101834,
-                "page": "MangaFire",
-                "title": "Shibuya Goldfish",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shibuya-kingyo.rlolo/"
-            },
-            "rlolo": {
-                "identifier": "rlolo",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b0/b0576d9e050290aa2ece683a3a71195e.jpg",
-                "malId": 101558,
-                "aniId": 101834,
-                "page": "MangaFire",
-                "title": "Shibuya Goldfish",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shibuya-kingyo.rlolo/"
-            }
-        },
         "Weebcentral": {
             "01j76xycjtctfhd8qykgvqk98f": {
+                "id": 207273,
                 "identifier": "01j76xycjtctfhd8qykgvqk98f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCJTCTFHD8QYKGVQK98F.jpg",
                 "malId": 101558,
@@ -86,6 +69,19 @@
                 "title": "Shibuya Goldfish",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCJTCTFHD8QYKGVQK98F"
+            }
+        },
+        "MangaFire": {
+            "rlolo": {
+                "id": 248719,
+                "identifier": "rlolo",
+                "image": "https://static.mangafire.to/09ba/i/b/b0/b0576d9e050290aa2ece683a3a71195e.jpg",
+                "malId": 101558,
+                "aniId": 101834,
+                "page": "MangaFire",
+                "title": "Shibuya Goldfish",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shibuya-kingyoo.rlolo"
             }
         },
         "Comick": {

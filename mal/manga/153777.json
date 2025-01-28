@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4fb95ddc-8b9a-4a12-b8e3-33be7c71beee": {
+                "id": 125573,
                 "identifier": "4fb95ddc-8b9a-4a12-b8e3-33be7c71beee",
                 "image": "https://uploads.mangadex.org/covers/4fb95ddc-8b9a-4a12-b8e3-33be7c71beee/53f892f9-052d-4e2a-977b-7cd9d86ea9e3.jpg",
                 "malId": 153777,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-lovesick-life-as-a-90s-otaku": {
+                "id": 183050,
                 "identifier": "my-lovesick-life-as-a-90s-otaku",
                 "image": "https://temp.compsci88.com/cover/My-Lovesick-Life-as-a-90s-Otaku.jpg",
                 "malId": 153777,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/My-Lovesick-Life-as-a-90s-Otaku"
             }
         },
-        "MangaFire": {
-            "inishie-otaku-no-koiwazurai.59n49": {
-                "identifier": "inishie-otaku-no-koiwazurai.59n49",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/d52526c0875761d7dd1520743a5f7893.jpg",
-                "malId": 153777,
-                "aniId": 147762,
-                "page": "MangaFire",
-                "title": "My Lovesick Life as a '90s Otaku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/inishie-otaku-no-koiwazurai.59n49/"
-            }
-        },
         "MangaNato": {
             "manga-ao1003523": {
+                "id": 196113,
                 "identifier": "manga-ao1003523",
                 "image": "https://avt.mkklcdnv6temp.com/fld/87/e/17-1733326455-nw.webp",
                 "malId": 153777,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygzs470g7mcntmprr1er": {
+                "id": 206401,
                 "identifier": "01j76xygzs470g7mcntmprr1er",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGZS470G7MCNTMPRR1ER.jpg",
                 "malId": 153777,
@@ -64,6 +56,19 @@
                 "title": "My Lovesick Life as a '90s Otaku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGZS470G7MCNTMPRR1ER"
+            }
+        },
+        "MangaFire": {
+            "59n49": {
+                "id": 233196,
+                "identifier": "59n49",
+                "image": "https://static.mangafire.to/77f6/i/2/2d/d52526c0875761d7dd1520743a5f7893.jpg",
+                "malId": 153777,
+                "aniId": 147762,
+                "page": "MangaFire",
+                "title": "My Lovesick Life as a '90s Otaku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/inishie-otaku-no-koiwazuraii.59n49"
             }
         },
         "Comick": {

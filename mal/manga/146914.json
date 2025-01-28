@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1cb98005-7bf9-488b-9d44-784a961ae42d": {
+                "id": 102496,
                 "identifier": "1cb98005-7bf9-488b-9d44-784a961ae42d",
                 "image": "https://uploads.mangadex.org/covers/1cb98005-7bf9-488b-9d44-784a961ae42d/dbb0aaed-4c37-4205-ae1f-dde9cfd39779.jpg",
                 "malId": 146914,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/1cb98005-7bf9-488b-9d44-784a961ae42d"
             }
         },
-        "MangaFire": {
-            "maria-children.oj91j": {
-                "identifier": "maria-children.oj91j",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f8790ac574b910237fd9c673954ca6fb.jpg",
-                "malId": 146914,
-                "aniId": 148497,
-                "page": "MangaFire",
-                "title": "Maria Children",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maria-children.oj91j/"
-            },
-            "maria-childrenn.oj91j": {
-                "identifier": "maria-childrenn.oj91j",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f8790ac574b910237fd9c673954ca6fb.jpg",
-                "malId": 146914,
-                "aniId": 148497,
-                "page": "MangaFire",
-                "title": "Maria Children",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maria-childrenn.oj91j/"
-            }
-        },
         "MangaNato": {
             "manga-ts996627": {
+                "id": 180082,
                 "identifier": "manga-ts996627",
                 "image": "https://avt.mkklcdnv6temp.com/fld/23/q/15-1733307995-nw.webp",
                 "malId": 146914,
@@ -50,6 +30,19 @@
                 "title": "Maria Children",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ts996627"
+            }
+        },
+        "MangaFire": {
+            "oj91j": {
+                "id": 227632,
+                "identifier": "oj91j",
+                "image": "https://static.mangafire.to/45b6/i/f/f8/f8790ac574b910237fd9c673954ca6fb.jpg",
+                "malId": 146914,
+                "aniId": 148497,
+                "page": "MangaFire",
+                "title": "Maria Children",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maria-childrenn.oj91j"
             }
         },
         "Comick": {

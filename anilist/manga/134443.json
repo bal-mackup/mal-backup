@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0a48877-176b-4f60-8f4d-2ae47fbb2e9c": {
+                "id": 89193,
                 "identifier": "d0a48877-176b-4f60-8f4d-2ae47fbb2e9c",
                 "image": "https://uploads.mangadex.org/covers/d0a48877-176b-4f60-8f4d-2ae47fbb2e9c/593dd911-1be8-4f5b-a353-dfaf095d0907.jpg",
                 "malId": 140485,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "toshishita_no_senpai_hinohara_fuki": {
+                "id": 93993,
                 "identifier": "toshishita_no_senpai_hinohara_fuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40658/cover.jpg",
                 "malId": 140485,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nj990666": {
+                "id": 100110,
                 "identifier": "manga-nj990666",
                 "image": "https://avt.mkklcdnv6temp.com/33/z/25-1648436767.jpg",
                 "malId": 140485,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "toshishita-no-senpai": {
+                "id": 100840,
                 "identifier": "toshishita-no-senpai",
                 "image": "https://temp.compsci88.com/cover/Toshishita-no-Senpai.jpg",
                 "malId": 140485,
@@ -54,20 +58,9 @@
                 "url": "https://mangasee123.com/manga/Toshishita-no-Senpai"
             }
         },
-        "MangaFire": {
-            "toshishita-no-senpai.4qkzj": {
-                "identifier": "toshishita-no-senpai.4qkzj",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/2965b876b6af02acda83b404449dce71.jpg",
-                "malId": 140485,
-                "aniId": 134443,
-                "page": "MangaFire",
-                "title": "Toshishita no Senpai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/toshishita-no-senpai.4qkzj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfdqv8z528cfydb5yg2e": {
+                "id": 213744,
                 "identifier": "01j76xyfdqv8z528cfydb5yg2e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFDQV8Z528CFYDB5YG2E.jpg",
                 "malId": 140485,
@@ -76,6 +69,19 @@
                 "title": "Toshishita no Senpai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFDQV8Z528CFYDB5YG2E"
+            }
+        },
+        "MangaFire": {
+            "4qkzj": {
+                "id": 230144,
+                "identifier": "4qkzj",
+                "image": "https://static.mangafire.to/9e6e/i/2/29/2965b876b6af02acda83b404449dce71.jpg",
+                "malId": 140485,
+                "aniId": 134443,
+                "page": "MangaFire",
+                "title": "Toshishita no Senpai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/toshishita-no-senpaii.4qkzj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7": {
+                "id": 18430,
                 "identifier": "95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7",
                 "image": "https://uploads.mangadex.org/covers/95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7/19bb6ada-163e-4d7e-ad37-f17f576d8ad6.jpg",
                 "malId": 113374,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "to-write-your-words": {
+                "id": 63326,
                 "identifier": "to-write-your-words",
                 "image": "https://temp.compsci88.com/cover/To-Write-Your-Words.jpg",
                 "malId": 113374,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/To-Write-Your-Words"
             }
         },
-        "MangaFire": {
-            "kuchi-utsusu.jj9x2": {
-                "identifier": "kuchi-utsusu.jj9x2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/456c4596598eb239a43abe9ed938581c.jpg",
-                "malId": 113374,
-                "aniId": 128121,
-                "page": "MangaFire",
-                "title": "To Write Your Words",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuchi-utsusu.jj9x2/"
-            },
-            "jj9x2": {
-                "identifier": "jj9x2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/45/456c4596598eb239a43abe9ed938581c.jpg",
-                "malId": 113374,
-                "aniId": 128121,
-                "page": "MangaFire",
-                "title": "To Write Your Words",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kuchi-utsusu.jj9x2/"
-            }
-        },
         "Weebcentral": {
             "01j76xyebnc94ttn7mhvjecg7f": {
+                "id": 209206,
                 "identifier": "01j76xyebnc94ttn7mhvjecg7f",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEBNC94TTN7MHVJECG7F.jpg",
                 "malId": 113374,
@@ -62,6 +43,19 @@
                 "title": "To Write Your Words",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEBNC94TTN7MHVJECG7F"
+            }
+        },
+        "MangaFire": {
+            "jj9x2": {
+                "id": 244862,
+                "identifier": "jj9x2",
+                "image": "https://static.mangafire.to/8feb/i/4/45/456c4596598eb239a43abe9ed938581c.jpg",
+                "malId": 113374,
+                "aniId": 128121,
+                "page": "MangaFire",
+                "title": "To Write Your Words",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kuchi-utsusuu.jj9x2"
             }
         },
         "Comick": {

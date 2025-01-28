@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "610f10ee-0008-4456-9119-65b76d7c3458": {
+                "id": 39763,
                 "identifier": "610f10ee-0008-4456-9119-65b76d7c3458",
                 "image": "https://uploads.mangadex.org/covers/610f10ee-0008-4456-9119-65b76d7c3458/509d0f86-72c8-4b4b-9c94-8dfe927a21da.jpg",
                 "malId": 124108,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rs994753": {
+                "id": 126384,
                 "identifier": "manga-rs994753",
                 "image": "https://avt.mkklcdnv6temp.com/50/m/29-1678161835.jpg",
                 "malId": 124108,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rs994753"
             }
         },
-        "MangaFire": {
-            "boukyou-tarou.3pq72": {
-                "identifier": "boukyou-tarou.3pq72",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7cab8eabf56f013ce65d4a5217d8f5f2.jpg",
-                "malId": 124108,
-                "aniId": 111317,
-                "page": "MangaFire",
-                "title": "Boukyou Tarou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boukyou-tarou.3pq72/"
-            },
-            "boukyou-tarouu.3pq72": {
-                "identifier": "boukyou-tarouu.3pq72",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7cab8eabf56f013ce65d4a5217d8f5f2.jpg",
-                "malId": 124108,
-                "aniId": 111317,
-                "page": "MangaFire",
-                "title": "Boukyou Tarou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boukyou-tarouu.3pq72/"
-            }
-        },
         "MangaSee": {
             "longing-for-home": {
+                "id": 197262,
                 "identifier": "longing-for-home",
                 "image": "https://temp.compsci88.com/cover/Longing-for-Home.jpg",
                 "malId": 124108,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyhj32m65kk7pf9y30z2m": {
+                "id": 210772,
                 "identifier": "01j76xyhj32m65kk7pf9y30z2m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHJ32M65KK7PF9Y30Z2M.jpg",
                 "malId": 124108,
@@ -74,6 +56,19 @@
                 "title": "Longing for Home",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHJ32M65KK7PF9Y30Z2M"
+            }
+        },
+        "MangaFire": {
+            "3pq72": {
+                "id": 229721,
+                "identifier": "3pq72",
+                "image": "https://static.mangafire.to/490b/i/7/7c/7cab8eabf56f013ce65d4a5217d8f5f2.jpg",
+                "malId": 124108,
+                "aniId": 111317,
+                "page": "MangaFire",
+                "title": "Boukyou Tarou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boukyou-tarouu.3pq72"
             }
         },
         "Comick": {

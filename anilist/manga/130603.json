@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "97190cb0-91d7-409f-bcb3-f16443f479e4": {
+                "id": 57218,
                 "identifier": "97190cb0-91d7-409f-bcb3-f16443f479e4",
                 "image": "https://uploads.mangadex.org/covers/97190cb0-91d7-409f-bcb3-f16443f479e4/0e0f8fe1-5f45-48b7-a539-17110145e72d.jpg",
                 "malId": 148601,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tales-of-greed": {
+                "id": 77931,
                 "identifier": "tales-of-greed",
                 "image": "https://temp.compsci88.com/cover/Tales-of-Greed.jpg",
                 "malId": 148601,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tales_of_greed": {
+                "id": 108244,
                 "identifier": "tales_of_greed",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38515/cover.jpg",
                 "malId": 148601,
@@ -42,22 +45,11 @@
                 "url": "https://fanfox.net/manga/tales_of_greed/"
             }
         },
-        "MangaFire": {
-            "yongmangilgi.zl7j3": {
-                "identifier": "yongmangilgi.zl7j3",
-                "image": "https://static.mangafire.to/3b2d5/i/3/35/354e0289cef77dd832e9ac6dbb240759.jpg",
-                "malId": 148601,
-                "aniId": 130603,
-                "page": "MangaFire",
-                "title": "Tales of Greed",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yongmangilgi.zl7j3/"
-            }
-        },
         "MangaNato": {
             "manga-ys1002327": {
+                "id": 192558,
                 "identifier": "manga-ys1002327",
-                "image": "https://avt.mkklcdnv6temp.com/2/l/35-1717925950.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/41/n/17-1733323679-nw.webp",
                 "malId": 148601,
                 "aniId": 130603,
                 "page": "MangaNato",
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyet7hd0d75cbz06qkck9": {
+                "id": 209623,
                 "identifier": "01j76xyet7hd0d75cbz06qkck9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYET7HD0D75CBZ06QKCK9.jpg",
                 "malId": 148601,
@@ -76,6 +69,19 @@
                 "title": "Tales of Greed",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYET7HD0D75CBZ06QKCK9"
+            }
+        },
+        "MangaFire": {
+            "zl7j3": {
+                "id": 248397,
+                "identifier": "zl7j3",
+                "image": "https://static.mangafire.to/6a90/i/3/35/354e0289cef77dd832e9ac6dbb240759.jpg",
+                "malId": 148601,
+                "aniId": 130603,
+                "page": "MangaFire",
+                "title": "Tales of Greed",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yongmangilgii.zl7j3"
             }
         },
         "Comick": {

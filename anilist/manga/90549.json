@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8331ad88-d961-49f3-ac79-9ca5136a2cb9": {
+                "id": 9978,
                 "identifier": "8331ad88-d961-49f3-ac79-9ca5136a2cb9",
                 "image": "https://uploads.mangadex.org/covers/8331ad88-d961-49f3-ac79-9ca5136a2cb9/8d558a92-45c1-44db-9a61-590030bd5c12.jpg",
                 "malId": 67081,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-dark-myth": {
+                "id": 67121,
                 "identifier": "the-dark-myth",
                 "image": "https://temp.compsci88.com/cover/The-Dark-Myth.jpg",
                 "malId": 67081,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-mw963505": {
+                "id": 85454,
                 "identifier": "manga-mw963505",
                 "image": "https://avt.mkklcdnv6temp.com/fld/100/x/4-1732765502-nw.webp",
                 "malId": 67081,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-mw963505"
             }
         },
-        "MangaFire": {
-            "ankoku-shinwa.4oyk": {
-                "identifier": "ankoku-shinwa.4oyk",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a1d903d1225e7bf9b1f31be34393216.jpg",
-                "malId": 67081,
-                "aniId": 90549,
-                "page": "MangaFire",
-                "title": "The Dark Myth",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ankoku-shinwa.4oyk/"
-            },
-            "4oyk": {
-                "identifier": "4oyk",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a1d903d1225e7bf9b1f31be34393216.jpg",
-                "malId": 67081,
-                "aniId": 90549,
-                "page": "MangaFire",
-                "title": "The Dark Myth",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ankoku-shinwa.4oyk/"
-            }
-        },
         "Weebcentral": {
             "01j76xya1ft4k8xdj2nnk233pa": {
+                "id": 207751,
                 "identifier": "01j76xya1ft4k8xdj2nnk233pa",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA1FT4K8XDJ2NNK233PA.jpg",
                 "malId": 67081,
@@ -74,6 +56,19 @@
                 "title": "The Dark Myth",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA1FT4K8XDJ2NNK233PA"
+            }
+        },
+        "MangaFire": {
+            "4oyk": {
+                "id": 248017,
+                "identifier": "4oyk",
+                "image": "https://static.mangafire.to/ded2/i/3/3a/3a1d903d1225e7bf9b1f31be34393216.jpg",
+                "malId": 67081,
+                "aniId": 90549,
+                "page": "MangaFire",
+                "title": "The Dark Myth",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ankoku-shinwaa.4oyk"
             }
         },
         "Comick": {

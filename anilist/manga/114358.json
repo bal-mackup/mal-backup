@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "2bdbbe03-bf39-4bac-86fe-b91e964f973a": {
+                "id": 107748,
                 "identifier": "2bdbbe03-bf39-4bac-86fe-b91e964f973a",
                 "image": "https://uploads.mangadex.org/covers/2bdbbe03-bf39-4bac-86fe-b91e964f973a/b7ddaa13-1686-4f52-97d3-fb84d3e0fd7f.jpg",
                 "malId": 95672,
@@ -18,40 +19,9 @@
                 "url": "https://mangadex.org/title/2bdbbe03-bf39-4bac-86fe-b91e964f973a"
             }
         },
-        "MangaFire": {
-            "ookami-san-to-cerberus.72x7y": {
-                "identifier": "ookami-san-to-cerberus.72x7y",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe259d2a3c5430a94a68e6835c6df90a.jpg",
-                "malId": 95672,
-                "aniId": 114358,
-                "page": "MangaFire",
-                "title": "Ookami-san to Cerberus!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ookami-san-to-cerberus.72x7y/"
-            },
-            "ookami-san-to-cerberuss.72x7y": {
-                "identifier": "ookami-san-to-cerberuss.72x7y",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe259d2a3c5430a94a68e6835c6df90a.jpg",
-                "malId": 95672,
-                "aniId": 114358,
-                "page": "MangaFire",
-                "title": "Ookami-san to Cerberus!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ookami-san-to-cerberuss.72x7y/"
-            },
-            "72x7y": {
-                "identifier": "72x7y",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fe/fe259d2a3c5430a94a68e6835c6df90a.jpg",
-                "malId": 95672,
-                "aniId": 114358,
-                "page": "MangaFire",
-                "title": "Ookami-san to Cerberus!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ookami-san-to-cerberuss.72x7y/"
-            }
-        },
         "MangaNato": {
             "manga-tn997248": {
+                "id": 164350,
                 "identifier": "manga-tn997248",
                 "image": "https://avt.mkklcdnv6temp.com/fld/47/g/15-1733309471-nw.webp",
                 "malId": 95672,
@@ -60,6 +30,19 @@
                 "title": "Oogami-San To Cerberus!",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-tn997248"
+            }
+        },
+        "MangaFire": {
+            "72x7y": {
+                "id": 240843,
+                "identifier": "72x7y",
+                "image": "https://static.mangafire.to/5cff/i/f/fe/fe259d2a3c5430a94a68e6835c6df90a.jpg",
+                "malId": 95672,
+                "aniId": 114358,
+                "page": "MangaFire",
+                "title": "Ookami-san to Cerberus!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ookami-san-to-cerberuss.72x7y"
             }
         },
         "Comick": {

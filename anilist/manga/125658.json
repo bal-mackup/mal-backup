@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "161e8bde-914f-4464-a009-071ad6d981ac": {
+                "id": 51000,
                 "identifier": "161e8bde-914f-4464-a009-071ad6d981ac",
                 "image": "https://uploads.mangadex.org/covers/161e8bde-914f-4464-a009-071ad6d981ac/0507c278-fc6a-42f4-bfc9-c8be33dc167d.jpg",
                 "malId": 147657,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "the-viridescent-crown": {
+                "id": 66424,
                 "identifier": "the-viridescent-crown",
                 "image": "https://temp.compsci88.com/cover/The-Viridescent-Crown.jpg",
                 "malId": 147657,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "the_viridescent_tiara": {
+                "id": 106674,
                 "identifier": "the_viridescent_tiara",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41843/cover.jpg",
                 "malId": 147657,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/the_viridescent_tiara/"
             }
         },
-        "MangaFire": {
-            "the-viridescent-tiara.jvvk8": {
-                "identifier": "the-viridescent-tiara.jvvk8",
-                "image": "https://static.mangafire.to/3b2d5/i/e/eb/eb5562d33b2bd0266205580d589c60fc.jpg",
-                "malId": 147657,
-                "aniId": 125658,
-                "page": "MangaFire",
-                "title": "The Viridescent Tiara",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-viridescent-tiara.jvvk8/"
-            }
-        },
         "Weebcentral": {
             "01j76xyegtb20e7h3f17mnh7tf": {
+                "id": 210073,
                 "identifier": "01j76xyegtb20e7h3f17mnh7tf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEGTB20E7H3F17MNH7TF.jpg",
                 "malId": 147657,
@@ -64,6 +56,19 @@
                 "title": "The Viridescent Tiara",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEGTB20E7H3F17MNH7TF"
+            }
+        },
+        "MangaFire": {
+            "jvvk8": {
+                "id": 234355,
+                "identifier": "jvvk8",
+                "image": "https://static.mangafire.to/0027/i/e/eb/eb5562d33b2bd0266205580d589c60fc.jpg",
+                "malId": 147657,
+                "aniId": 125658,
+                "page": "MangaFire",
+                "title": "The Viridescent Tiara",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-viridescent-tiaraa.jvvk8"
             }
         },
         "Comick": {

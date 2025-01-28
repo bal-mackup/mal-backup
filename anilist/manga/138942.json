@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "940aa8da-e313-4084-afea-efbca397b5cf": {
+                "id": 97213,
                 "identifier": "940aa8da-e313-4084-afea-efbca397b5cf",
                 "image": "https://uploads.mangadex.org/covers/940aa8da-e313-4084-afea-efbca397b5cf/6006158c-6db0-49dd-a4f6-937ff3852ce9.jpg",
                 "malId": 145319,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "kanojo_shoukan_shimashita": {
+                "id": 121134,
                 "identifier": "kanojo_shoukan_shimashita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41567/cover.jpg",
                 "malId": 145319,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-qp994150": {
+                "id": 124565,
                 "identifier": "manga-qp994150",
                 "image": "https://avt.mkklcdnv6temp.com/26/o/28-1676300970.jpg",
                 "malId": 145319,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-qp994150"
             }
         },
-        "MangaFire": {
-            "kanojo-shoukan-shimashita.1n3qv": {
-                "identifier": "kanojo-shoukan-shimashita.1n3qv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cde1a79e08a1663a3940b7f4f49dbfa9.jpg",
-                "malId": 145319,
-                "aniId": 138942,
-                "page": "MangaFire",
-                "title": "Kanojo Shoukan Shimashita!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-shoukan-shimashita.1n3qv/"
-            },
-            "kanojo-shoukan-shimashitaa.1n3qv": {
-                "identifier": "kanojo-shoukan-shimashitaa.1n3qv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cd/cde1a79e08a1663a3940b7f4f49dbfa9.jpg",
-                "malId": 145319,
-                "aniId": 138942,
-                "page": "MangaFire",
-                "title": "Kanojo Shoukan Shimashita!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kanojo-shoukan-shimashitaa.1n3qv/"
-            }
-        },
         "MangaSee": {
             "kanojo-shoukan-shimashita": {
+                "id": 156547,
                 "identifier": "kanojo-shoukan-shimashita",
                 "image": "https://temp.compsci88.com/cover/Kanojo-Shoukan-Shimashita.jpg",
                 "malId": 145319,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg3yzr7q93hgwd5ppkzd": {
+                "id": 210454,
                 "identifier": "01j76xyg3yzr7q93hgwd5ppkzd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG3YZR7Q93HGWD5PPKZD.jpg",
                 "malId": 145319,
@@ -86,6 +69,19 @@
                 "title": "Kanojo Shoukan Shimashita!?",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG3YZR7Q93HGWD5PPKZD"
+            }
+        },
+        "MangaFire": {
+            "1n3qv": {
+                "id": 225216,
+                "identifier": "1n3qv",
+                "image": "https://static.mangafire.to/3ecd/i/c/cd/cde1a79e08a1663a3940b7f4f49dbfa9.jpg",
+                "malId": 145319,
+                "aniId": 138942,
+                "page": "MangaFire",
+                "title": "Kanojo Shoukan Shimashita!?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kanojo-shoukan-shimashitaa.1n3qv"
             }
         },
         "Comick": {

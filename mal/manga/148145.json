@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dd11c4b3-6758-436b-a05c-ab52dc403f32": {
+                "id": 32159,
                 "identifier": "dd11c4b3-6758-436b-a05c-ab52dc403f32",
                 "image": "https://uploads.mangadex.org/covers/dd11c4b3-6758-436b-a05c-ab52dc403f32/c776e5ea-f5d3-4552-91c3-2bb7c9bfc820.jpg",
                 "malId": 148145,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-gk983993": {
+                "id": 76025,
                 "identifier": "manga-gk983993",
                 "image": "https://avt.mkklcdnv6temp.com/9/n/20-1583501392.jpg",
                 "malId": 148145,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "elskar": {
+                "id": 77640,
                 "identifier": "elskar",
                 "image": "https://temp.compsci88.com/cover/Elskar.jpg",
                 "malId": 148145,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "elscar": {
+                "id": 107370,
                 "identifier": "elscar",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32830/cover.jpg",
                 "malId": 148145,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/elscar/"
             }
         },
-        "MangaFire": {
-            "elskar.1rmjw": {
-                "identifier": "elskar.1rmjw",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e4/e424df16c96996b9e9e2a3e1902613d4.jpg",
-                "malId": 148145,
-                "aniId": 121286,
-                "page": "MangaFire",
-                "title": "Elskar",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/elskar.1rmjw/"
-            }
-        },
         "Weebcentral": {
             "01j76xyesjs69jx24jyem6699t": {
+                "id": 208479,
                 "identifier": "01j76xyesjs69jx24jyem6699t",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYESJS69JX24JYEM6699T.jpg",
                 "malId": 148145,
@@ -76,6 +69,19 @@
                 "title": "Elskar",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYESJS69JX24JYEM6699T"
+            }
+        },
+        "MangaFire": {
+            "1rmjw": {
+                "id": 257332,
+                "identifier": "1rmjw",
+                "image": "https://static.mangafire.to/2b89/i/e/e4/e424df16c96996b9e9e2a3e1902613d4.jpg",
+                "malId": 148145,
+                "aniId": 121286,
+                "page": "MangaFire",
+                "title": "Elskar",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/elskarr.1rmjw"
             }
         },
         "Comick": {

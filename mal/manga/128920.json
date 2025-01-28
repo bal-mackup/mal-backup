@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b145f724-fe5d-4a59-a48f-e0426db401b7": {
+                "id": 38578,
                 "identifier": "b145f724-fe5d-4a59-a48f-e0426db401b7",
                 "image": "https://uploads.mangadex.org/covers/b145f724-fe5d-4a59-a48f-e0426db401b7/6b74f32f-2c86-44eb-a26a-e14e080e91c3.jpg",
                 "malId": 128920,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "maid-no-kishi-san": {
+                "id": 57364,
                 "identifier": "maid-no-kishi-san",
                 "image": "https://temp.compsci88.com/cover/Maid-no-Kishi-san.jpg",
                 "malId": 128920,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ia986283": {
+                "id": 79445,
                 "identifier": "manga-ia986283",
                 "image": "https://avt.mkklcdnv6temp.com/50/o/21-1597808563.jpg",
                 "malId": 128920,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "maid_no_kishi_san": {
+                "id": 101999,
                 "identifier": "maid_no_kishi_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35192/cover.jpg",
                 "malId": 128920,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/maid_no_kishi_san/"
             }
         },
-        "MangaFire": {
-            "maid-no-kishi-san.80r73": {
-                "identifier": "maid-no-kishi-san.80r73",
-                "image": "https://static.mangafire.to/3b2d5/i/a/aa/aa234bc5dc7156ba358a7d2656ee8e2e.jpg",
-                "malId": 128920,
-                "aniId": 118704,
-                "page": "MangaFire",
-                "title": "My Maid, Miss Kishi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maid-no-kishi-san.80r73/"
-            }
-        },
         "Weebcentral": {
             "01j76xye5hq06a4h78zp24qn8b": {
+                "id": 206764,
                 "identifier": "01j76xye5hq06a4h78zp24qn8b",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE5HQ06A4H78ZP24QN8B.jpg",
                 "malId": 128920,
@@ -76,6 +69,19 @@
                 "title": "My Maid, Miss Kishi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE5HQ06A4H78ZP24QN8B"
+            }
+        },
+        "MangaFire": {
+            "80r73": {
+                "id": 254241,
+                "identifier": "80r73",
+                "image": "https://static.mangafire.to/93c8/i/a/aa/aa234bc5dc7156ba358a7d2656ee8e2e.jpg",
+                "malId": 128920,
+                "aniId": 118704,
+                "page": "MangaFire",
+                "title": "My Maid, Miss Kishi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maid-no-kishi-sann.80r73"
             }
         },
         "Comick": {

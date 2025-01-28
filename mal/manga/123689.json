@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "89f61e17-922b-47b5-b4cc-99b53135c89c": {
+                "id": 190513,
                 "identifier": "89f61e17-922b-47b5-b4cc-99b53135c89c",
                 "image": "https://uploads.mangadex.org/covers/89f61e17-922b-47b5-b4cc-99b53135c89c/da7b36bf-f56f-4a8f-ba56-f8ad1c5a958a.png",
                 "malId": 123689,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/89f61e17-922b-47b5-b4cc-99b53135c89c"
             }
         },
-        "MangaFire": {
-            "skirt-darling.yvo50": {
-                "identifier": "skirt-darling.yvo50",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/372910368f47986527ff23336b33619b.jpg",
-                "malId": 123689,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Skirt Darling",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/skirt-darling.yvo50/"
-            },
-            "skirt-darlingg.yvo50": {
-                "identifier": "skirt-darlingg.yvo50",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d8/372910368f47986527ff23336b33619b.jpg",
-                "malId": 123689,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Skirt Darling",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/skirt-darlingg.yvo50/"
-            }
-        },
         "MangaNato": {
             "manga-aq1003599": {
+                "id": 195511,
                 "identifier": "manga-aq1003599",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/c/17-1733326621-nw.webp",
                 "malId": 123689,
@@ -50,6 +30,19 @@
                 "title": "Skirt Darling",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-aq1003599"
+            }
+        },
+        "MangaFire": {
+            "yvo50": {
+                "id": 227274,
+                "identifier": "yvo50",
+                "image": "https://static.mangafire.to/ab43/i/d/d8/372910368f47986527ff23336b33619b.jpg",
+                "malId": 123689,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Skirt Darling",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/skirt-darlingg.yvo50"
             }
         },
         "Comick": {

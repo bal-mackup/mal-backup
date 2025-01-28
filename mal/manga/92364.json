@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "846a7a60-5e36-4cdd-8dc0-669ef695ee5b": {
+                "id": 21619,
                 "identifier": "846a7a60-5e36-4cdd-8dc0-669ef695ee5b",
                 "image": "https://uploads.mangadex.org/covers/846a7a60-5e36-4cdd-8dc0-669ef695ee5b/da5198cc-7271-471d-9260-c151bd68ec83.jpg",
                 "malId": 92364,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "oounabara-to-oounabara": {
+                "id": 54161,
                 "identifier": "oounabara-to-oounabara",
                 "image": "https://temp.compsci88.com/cover/Oounabara-To-Oounabara.jpg",
                 "malId": 92364,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "oounabara_to_oounabara": {
+                "id": 69896,
                 "identifier": "oounabara_to_oounabara",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21997/cover.jpg",
                 "malId": 92364,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-mr989452": {
+                "id": 84774,
                 "identifier": "manga-mr989452",
                 "image": "https://avt.mkklcdnv6temp.com/31/w/24-1628352904.jpg",
                 "malId": 92364,
@@ -54,6 +58,7 @@
                 "url": "https://manganato.com/manga-mr989452"
             },
             "manga-vz973008": {
+                "id": 103651,
                 "identifier": "manga-vz973008",
                 "image": "https://avt.mkklcdnv6temp.com/fld/73/w/7-1732786599-nw.webp",
                 "malId": 92364,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-vz973008"
             }
         },
-        "MangaFire": {
-            "wadanohara-and-the-great-blue-sea.o2mj": {
-                "identifier": "wadanohara-and-the-great-blue-sea.o2mj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0fcc148bdef762261e34c3e90f5e8ad5.jpg",
-                "malId": 92364,
-                "aniId": 99541,
-                "page": "MangaFire",
-                "title": "Wadanohara and the Great Blue Sea",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wadanohara-and-the-great-blue-sea.o2mj/"
-            },
-            "o2mj": {
-                "identifier": "o2mj",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0f/0fcc148bdef762261e34c3e90f5e8ad5.jpg",
-                "malId": 92364,
-                "aniId": 99541,
-                "page": "MangaFire",
-                "title": "Wadanohara and the Great Blue Sea",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/wadanohara-and-the-great-blue-sea.o2mj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc7yqcmghj9ezmpwek0e": {
+                "id": 210871,
                 "identifier": "01j76xyc7yqcmghj9ezmpwek0e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC7YQCMGHJ9EZMPWEK0E.jpg",
                 "malId": 92364,
@@ -96,6 +80,19 @@
                 "title": "Wadanohara and the Great Blue Sea",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC7YQCMGHJ9EZMPWEK0E"
+            }
+        },
+        "MangaFire": {
+            "o2mj": {
+                "id": 234284,
+                "identifier": "o2mj",
+                "image": "https://static.mangafire.to/629e/i/0/0f/0fcc148bdef762261e34c3e90f5e8ad5.jpg",
+                "malId": 92364,
+                "aniId": 99541,
+                "page": "MangaFire",
+                "title": "Wadanohara and the Great Blue Sea",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/wadanohara-and-the-great-blue-seaa.o2mj"
             }
         },
         "Comick": {

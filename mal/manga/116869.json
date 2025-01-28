@@ -6,30 +6,9 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/2/233333.jpg",
     "Sites": {
-        "MangaFire": {
-            "yokubari-na-bokura.qx303": {
-                "identifier": "yokubari-na-bokura.qx303",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/380b99c0015ac8a0d33488796189fa8f.jpg",
-                "malId": 116869,
-                "aniId": 147871,
-                "page": "MangaFire",
-                "title": "Yokubari na Bokura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokubari-na-bokura.qx303/"
-            },
-            "qx303": {
-                "identifier": "qx303",
-                "image": "https://static.mangafire.to/3b2d5/i/3/38/380b99c0015ac8a0d33488796189fa8f.jpg",
-                "malId": 116869,
-                "aniId": 147871,
-                "page": "MangaFire",
-                "title": "Yokubari na Bokura",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokubari-na-bokura.qx303/"
-            }
-        },
         "Mangadex": {
             "b88ba0fd-9332-4207-b3d9-5dd8e21f966b": {
+                "id": 173100,
                 "identifier": "b88ba0fd-9332-4207-b3d9-5dd8e21f966b",
                 "image": "https://uploads.mangadex.org/covers/b88ba0fd-9332-4207-b3d9-5dd8e21f966b/0437c402-8945-4b14-97ab-5bf86de2af4c.png",
                 "malId": 116869,
@@ -38,6 +17,19 @@
                 "title": "Yokubari na Bokura",
                 "type": "manga",
                 "url": "https://mangadex.org/title/b88ba0fd-9332-4207-b3d9-5dd8e21f966b"
+            }
+        },
+        "MangaFire": {
+            "qx303": {
+                "id": 230337,
+                "identifier": "qx303",
+                "image": "https://static.mangafire.to/ae36/i/3/38/380b99c0015ac8a0d33488796189fa8f.jpg",
+                "malId": 116869,
+                "aniId": 147871,
+                "page": "MangaFire",
+                "title": "Yokubari na Bokura",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yokubari-na-bokuraa.qx303"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fa1250db-deb2-4dde-bb00-ad7b78989059": {
+                "id": 19647,
                 "identifier": "fa1250db-deb2-4dde-bb00-ad7b78989059",
                 "image": "https://uploads.mangadex.org/covers/fa1250db-deb2-4dde-bb00-ad7b78989059/c23703ad-a221-4508-b1d3-bf8afb464b16.jpg",
                 "malId": 68979,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "seitokai-sousenkyo": {
+                "id": 57865,
                 "identifier": "seitokai-sousenkyo",
                 "image": "https://temp.compsci88.com/cover/Seitokai-Sousenkyo.jpg",
                 "malId": 68979,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Seitokai-Sousenkyo"
             }
         },
-        "MangaFire": {
-            "seitokai-sousenkyo.llrqm": {
-                "identifier": "seitokai-sousenkyo.llrqm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04f8869a1eaa0061b0fe17861b0a11ab.jpg",
-                "malId": 68979,
-                "aniId": 90920,
-                "page": "MangaFire",
-                "title": "Student Council ～ Total Takeover!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seitokai-sousenkyo.llrqm/"
-            },
-            "llrqm": {
-                "identifier": "llrqm",
-                "image": "https://static.mangafire.to/3b2d5/i/0/04/04f8869a1eaa0061b0fe17861b0a11ab.jpg",
-                "malId": 68979,
-                "aniId": 90920,
-                "page": "MangaFire",
-                "title": "Student Council ～ Total Takeover!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seitokai-sousenkyo.llrqm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb885ce7e87xm5twzrjv": {
+                "id": 206372,
                 "identifier": "01j76xyb885ce7e87xm5twzrjv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB885CE7E87XM5TWZRJV.jpg",
                 "malId": 68979,
@@ -62,6 +43,19 @@
                 "title": "Seitokai Sousenkyo",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB885CE7E87XM5TWZRJV"
+            }
+        },
+        "MangaFire": {
+            "llrqm": {
+                "id": 248227,
+                "identifier": "llrqm",
+                "image": "https://static.mangafire.to/e8fe/i/0/04/04f8869a1eaa0061b0fe17861b0a11ab.jpg",
+                "malId": 68979,
+                "aniId": 90920,
+                "page": "MangaFire",
+                "title": "Student Council ～ Total Takeover!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seitokai-sousenkyoo.llrqm"
             }
         },
         "Comick": {

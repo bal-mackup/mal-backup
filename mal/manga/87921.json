@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a3f2c3a4-92ed-42e0-b380-301c135be2d5": {
+                "id": 28495,
                 "identifier": "a3f2c3a4-92ed-42e0-b380-301c135be2d5",
                 "image": "https://uploads.mangadex.org/covers/a3f2c3a4-92ed-42e0-b380-301c135be2d5/1694758e-d835-4d88-9832-6fbf8c3b92b8.jpg",
                 "malId": 87921,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a3f2c3a4-92ed-42e0-b380-301c135be2d5"
             },
             "599ea1d2-45d6-435b-b307-c3b7fbdd296c": {
+                "id": 53297,
                 "identifier": "599ea1d2-45d6-435b-b307-c3b7fbdd296c",
                 "image": "https://uploads.mangadex.org/covers/599ea1d2-45d6-435b-b307-c3b7fbdd296c/18d382c5-5cae-41c8-ba34-9813644ecae3.jpg",
                 "malId": 87921,
@@ -28,30 +30,9 @@
                 "url": "https://mangadex.org/title/599ea1d2-45d6-435b-b307-c3b7fbdd296c"
             }
         },
-        "MangaFire": {
-            "bakemono-no-ko.zx4q2": {
-                "identifier": "bakemono-no-ko.zx4q2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40bfac981f4eeab734d962ab7d9ed3f1.jpg",
-                "malId": 87921,
-                "aniId": 107629,
-                "page": "MangaFire",
-                "title": "The Boy and The Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bakemono-no-ko.zx4q2/"
-            },
-            "zx4q2": {
-                "identifier": "zx4q2",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/40bfac981f4eeab734d962ab7d9ed3f1.jpg",
-                "malId": 87921,
-                "aniId": 107629,
-                "page": "MangaFire",
-                "title": "The Boy and The Beast",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bakemono-no-ko.zx4q2/"
-            }
-        },
         "MangaSee": {
             "the-boy-and-the-beast": {
+                "id": 183132,
                 "identifier": "the-boy-and-the-beast",
                 "image": "https://temp.compsci88.com/cover/The-Boy-and-the-Beast.jpg",
                 "malId": 87921,
@@ -64,6 +45,7 @@
         },
         "Weebcentral": {
             "01j76xyh0che6kv38t57zwf4dv": {
+                "id": 209128,
                 "identifier": "01j76xyh0che6kv38t57zwf4dv",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH0CHE6KV38T57ZWF4DV.jpg",
                 "malId": 87921,
@@ -72,6 +54,19 @@
                 "title": "The Boy and the Beast",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH0CHE6KV38T57ZWF4DV"
+            }
+        },
+        "MangaFire": {
+            "zx4q2": {
+                "id": 236862,
+                "identifier": "zx4q2",
+                "image": "https://static.mangafire.to/d7dd/i/4/40/40bfac981f4eeab734d962ab7d9ed3f1.jpg",
+                "malId": 87921,
+                "aniId": 107629,
+                "page": "MangaFire",
+                "title": "The Boy and The Beast",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bakemono-no-koo.zx4q2"
             }
         },
         "Comick": {

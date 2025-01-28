@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "461f0cfa-cd72-4d70-bf26-a0279e0aa8fc": {
+                "id": 38830,
                 "identifier": "461f0cfa-cd72-4d70-bf26-a0279e0aa8fc",
                 "image": "https://uploads.mangadex.org/covers/461f0cfa-cd72-4d70-bf26-a0279e0aa8fc/f56088b4-44e4-429e-86ed-8a1e68bd3d3f.jpg",
                 "malId": 129422,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "rosen-garten-saga": {
+                "id": 64912,
                 "identifier": "rosen-garten-saga",
                 "image": "https://temp.compsci88.com/cover/Rosen-Garten-Saga.jpg",
                 "malId": 129422,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "rosen_garten_saga": {
+                "id": 68405,
                 "identifier": "rosen_garten_saga",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37397/cover.jpg",
                 "malId": 129422,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kl987720": {
+                "id": 76750,
                 "identifier": "manga-kl987720",
                 "image": "https://avt.mkklcdnv6temp.com/9/u/26-1655896106.jpg",
                 "malId": 129422,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kl987720"
             }
         },
-        "MangaFire": {
-            "rosen-garten-saga.yk8qp": {
-                "identifier": "rosen-garten-saga.yk8qp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f7d11bcaf50b7642b60c6dfd83e1fbc0.jpg",
-                "malId": 129422,
-                "aniId": 125528,
-                "page": "MangaFire",
-                "title": "Rosen Garten Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rosen-garten-saga.yk8qp/"
-            },
-            "rosen-garten-sagaa.yk8qp": {
-                "identifier": "rosen-garten-sagaa.yk8qp",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f7d11bcaf50b7642b60c6dfd83e1fbc0.jpg",
-                "malId": 129422,
-                "aniId": 125528,
-                "page": "MangaFire",
-                "title": "Rosen Garten Saga",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rosen-garten-sagaa.yk8qp/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeed94bme8crefs6r7d1": {
+                "id": 210847,
                 "identifier": "01j76xyeed94bme8crefs6r7d1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEED94BME8CREFS6R7D1.jpg",
                 "malId": 129422,
@@ -86,6 +69,19 @@
                 "title": "Rosen Garten Saga",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEED94BME8CREFS6R7D1"
+            }
+        },
+        "MangaFire": {
+            "yk8qp": {
+                "id": 224498,
+                "identifier": "yk8qp",
+                "image": "https://static.mangafire.to/cd24/i/f/f7/f7d11bcaf50b7642b60c6dfd83e1fbc0.jpg",
+                "malId": 129422,
+                "aniId": 125528,
+                "page": "MangaFire",
+                "title": "Rosen Garten Saga",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rosen-garten-sagaa.yk8qp"
             }
         },
         "Comick": {

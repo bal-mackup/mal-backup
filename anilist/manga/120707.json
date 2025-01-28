@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c526840a-c803-4a5b-8ea1-9e85fea9298a": {
+                "id": 35423,
                 "identifier": "c526840a-c803-4a5b-8ea1-9e85fea9298a",
                 "image": "https://uploads.mangadex.org/covers/c526840a-c803-4a5b-8ea1-9e85fea9298a/c45323aa-5715-443a-b46c-da9345b61c6e.jpg",
                 "malId": 126594,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "desert-9": {
+                "id": 59348,
                 "identifier": "desert-9",
                 "image": "https://temp.compsci88.com/cover/Desert-9.jpg",
                 "malId": 126594,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-km987421": {
+                "id": 76068,
                 "identifier": "manga-km987421",
                 "image": "https://avt.mkklcdnv6temp.com/47/a/22-1608267923.jpg",
                 "malId": 126594,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-km987421"
             }
         },
-        "MangaFire": {
-            "desert-9.pr059": {
-                "identifier": "desert-9.pr059",
-                "image": "https://static.mangafire.to/3b2d5/i/b/b7/b7d6dfe0d8b55dde40cc533e3ae46726.jpg",
-                "malId": 126594,
-                "aniId": 120707,
-                "page": "MangaFire",
-                "title": "Desert 9",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/desert-9.pr059/"
-            }
-        },
         "Weebcentral": {
             "01j76xye6py2fgfqf2v3wvymq5": {
+                "id": 213026,
                 "identifier": "01j76xye6py2fgfqf2v3wvymq5",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE6PY2FGFQF2V3WVYMQ5.jpg",
                 "malId": 126594,
@@ -64,6 +56,19 @@
                 "title": "Desert 9",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE6PY2FGFQF2V3WVYMQ5"
+            }
+        },
+        "MangaFire": {
+            "pr059": {
+                "id": 252899,
+                "identifier": "pr059",
+                "image": "https://static.mangafire.to/27f0/i/b/b7/b7d6dfe0d8b55dde40cc533e3ae46726.jpg",
+                "malId": 126594,
+                "aniId": 120707,
+                "page": "MangaFire",
+                "title": "Desert 9",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/desert-99.pr059"
             }
         },
         "Comick": {

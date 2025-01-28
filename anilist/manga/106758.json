@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "77bee52c-d2d6-44ad-a33a-1734c1fe696a": {
+                "id": 25497,
                 "identifier": "77bee52c-d2d6-44ad-a33a-1734c1fe696a",
                 "image": "https://uploads.mangadex.org/covers/77bee52c-d2d6-44ad-a33a-1734c1fe696a/3239bdd1-7316-4dc2-a71d-0f6fcf179897.jpg",
                 "malId": 119022,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kage-no-jitsuryokusha-ni-naritakute": {
+                "id": 59196,
                 "identifier": "kage-no-jitsuryokusha-ni-naritakute",
                 "image": "https://temp.compsci88.com/cover/Kage-No-Jitsuryokusha-Ni-Naritakute.jpg",
                 "malId": 119022,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kage_no_jitsuryokusha_ni_naritakute": {
+                "id": 64227,
                 "identifier": "kage_no_jitsuryokusha_ni_naritakute",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30091/cover.jpg",
                 "malId": 119022,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-de980539": {
+                "id": 72969,
                 "identifier": "manga-de980539",
                 "image": "https://avt.mkklcdnv6temp.com/32/m/17-1583496423.jpg",
                 "malId": 119022,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-de980539"
             }
         },
-        "MangaFire": {
-            "kage-no-jitsuryokusha-ni-naritakute.pmrj": {
-                "identifier": "kage-no-jitsuryokusha-ni-naritakute.pmrj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/cf24642b11645ff8cf4645eef05813fa.jpg",
-                "malId": 119022,
-                "aniId": 106758,
-                "page": "MangaFire",
-                "title": "The Eminence in Shadow",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-jitsuryokusha-ni-naritakute.pmrj/"
-            },
-            "The-Eminence-in-Shadow.pmrj": {
-                "identifier": "The-Eminence-in-Shadow.pmrj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/cf24642b11645ff8cf4645eef05813fa.jpg",
-                "malId": 119022,
-                "aniId": 106758,
-                "page": "MangaFire",
-                "title": "The Eminence in Shadow",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/The-Eminence-in-Shadow.pmrj/"
-            },
-            "kage-no-jitsuryokusha-ni-naritakutee.pmrj": {
-                "identifier": "kage-no-jitsuryokusha-ni-naritakutee.pmrj",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/cf24642b11645ff8cf4645eef05813fa.jpg",
-                "malId": 119022,
-                "aniId": 106758,
-                "page": "MangaFire",
-                "title": "The Eminence in Shadow",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-jitsuryokusha-ni-naritakutee.pmrj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxg1ex4evp4cywcjbtr": {
+                "id": 208110,
                 "identifier": "01j76xycxg1ex4evp4cywcjbtr",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXG1EX4EVP4CYWCJBTR.jpg",
                 "malId": 119022,
@@ -96,6 +69,19 @@
                 "title": "The Eminence in Shadow",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXG1EX4EVP4CYWCJBTR"
+            }
+        },
+        "MangaFire": {
+            "pmrj": {
+                "id": 228287,
+                "identifier": "pmrj",
+                "image": "https://static.mangafire.to/8402/i/a/a4/cf24642b11645ff8cf4645eef05813fa.jpg",
+                "malId": 119022,
+                "aniId": 106758,
+                "page": "MangaFire",
+                "title": "The Eminence in Shadow",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kage-no-jitsuryokusha-ni-naritakutee.pmrj"
             }
         },
         "Comick": {

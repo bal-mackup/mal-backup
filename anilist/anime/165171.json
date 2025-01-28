@@ -3,7 +3,7 @@
     "type": "anime",
     "title": "Medalist",
     "url": "https://myanimelist.net/anime/55318/Medalist",
-    "total": null,
+    "total": 13,
     "image": "https://cdn.myanimelist.net/images/anime/1029/146850.jpg",
     "anidbId": 18030,
     "Sites": {
@@ -19,6 +19,18 @@
                 "url": "https://hianime.to/medalist-19455"
             }
         },
+        "KickAssAnime": {
+            "medalist-dace": {
+                "identifier": "medalist-dace",
+                "image": "https://kaas.to/image/poster/medalist-8126-hq.jpg",
+                "malId": 55318,
+                "aniId": 165171,
+                "page": "KickAssAnime",
+                "title": "Medalist",
+                "type": "anime",
+                "url": "https://kaas.to/medalist-dace"
+            }
+        },
         "animepahe": {
             "5879": {
                 "identifier": "5879",
@@ -27,6 +39,28 @@
                 "page": "animepahe",
                 "title": "Medalist",
                 "url": "https://animepahe.ru/a/5879",
+                "aniId": 165171
+            }
+        },
+        "Hulu": {
+            "0": {
+                "title": "Medalist",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165171-nTOHsbh3pThN.jpg",
+                "identifier": 0,
+                "url": "https://www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8",
+                "type": "anime",
+                "page": "Hulu",
+                "external": true,
+                "aniId": 165171
+            },
+            "1": {
+                "title": "Medalist",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165171-nTOHsbh3pThN.jpg",
+                "identifier": 1,
+                "url": "https://www.hulu.com/series/da70811f-59de-4f75-97f2-6b534c44626d",
+                "type": "anime",
+                "page": "Hulu",
+                "external": true,
                 "aniId": 165171
             }
         }

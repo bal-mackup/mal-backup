@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a77742b1-befd-49a4-bff5-1ad4e6b0ef7b": {
+                "id": 24961,
                 "identifier": "a77742b1-befd-49a4-bff5-1ad4e6b0ef7b",
                 "image": "https://uploads.mangadex.org/covers/a77742b1-befd-49a4-bff5-1ad4e6b0ef7b/c445d559-be59-4087-b985-a29f294aafb9.jpg",
                 "malId": 116778,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a77742b1-befd-49a4-bff5-1ad4e6b0ef7b"
             },
             "e896c48c-3150-437d-ba57-d8567eb399ae": {
+                "id": 53796,
                 "identifier": "e896c48c-3150-437d-ba57-d8567eb399ae",
                 "image": "https://uploads.mangadex.org/covers/e896c48c-3150-437d-ba57-d8567eb399ae/fa06e4e4-ef2a-477b-bfb6-a2a88793620b.jpg",
                 "malId": 116778,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "chainsaw-man": {
+                "id": 53927,
                 "identifier": "chainsaw-man",
                 "image": "https://temp.compsci88.com/cover/Chainsaw-Man.jpg",
                 "malId": 116778,
@@ -40,6 +43,7 @@
                 "url": "https://mangasee123.com/manga/Chainsaw-Man"
             },
             "chainsaw-man-color": {
+                "id": 96895,
                 "identifier": "chainsaw-man-color",
                 "image": "https://temp.compsci88.com/cover/Chainsaw-Man-Color.jpg",
                 "malId": 116778,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "chainsaw_man": {
+                "id": 54011,
                 "identifier": "chainsaw_man",
                 "image": "https://fmcdn.mfcdn.net/store/manga/29295/cover.jpg",
                 "malId": 116778,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-dn980422": {
+                "id": 73043,
                 "identifier": "manga-dn980422",
                 "image": "https://avt.mkklcdnv6temp.com/28/c/17-1583496268.jpg",
                 "malId": 116778,
@@ -74,40 +80,9 @@
                 "url": "https://chapmanganato.com/manga-dn980422"
             }
         },
-        "MangaFire": {
-            "chainsaw-man2.kkyzv": {
-                "identifier": "chainsaw-man2.kkyzv",
-                "image": "https://static.mangafire.to/3b2d5/i/b/ba/ba0c0c3058b7befd103265143f7fca23.jpg",
-                "malId": 116778,
-                "aniId": 105778,
-                "page": "MangaFire",
-                "title": "Chainsaw Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chainsaw-man2.kkyzv/"
-            },
-            "chainsaw-mann.0w5k": {
-                "identifier": "chainsaw-mann.0w5k",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
-                "malId": 116778,
-                "aniId": 105778,
-                "page": "MangaFire",
-                "title": "Chainsaw Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chainsaw-mann.0w5k/"
-            },
-            "chainsaw-man22.kkyzv": {
-                "identifier": "chainsaw-man22.kkyzv",
-                "image": "https://static.mangafire.to/3b2d5/i/b/ba/ba0c0c3058b7befd103265143f7fca23.jpg",
-                "malId": 116778,
-                "aniId": 105778,
-                "page": "MangaFire",
-                "title": "Chainsaw Man",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/chainsaw-man22.kkyzv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfbeqqvkr5wpxzmqxpy6": {
+                "id": 210301,
                 "identifier": "01j76xyfbeqqvkr5wpxzmqxpy6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFBEQQVKR5WPXZMQXPY6.jpg",
                 "malId": 116778,
@@ -118,6 +93,7 @@
                 "url": "https://weebcentral.com/series/01J76XYFBEQQVKR5WPXZMQXPY6"
             },
             "01j76xycrvy3qgyamrr3stw941": {
+                "id": 211552,
                 "identifier": "01j76xycrvy3qgyamrr3stw941",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCRVY3QGYAMRR3STW941.jpg",
                 "malId": 116778,
@@ -126,6 +102,30 @@
                 "title": "Chainsaw Man",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCRVY3QGYAMRR3STW941"
+            }
+        },
+        "MangaFire": {
+            "kkyzv": {
+                "id": 224110,
+                "identifier": "kkyzv",
+                "image": "https://static.mangafire.to/143f/i/b/ba/ba0c0c3058b7befd103265143f7fca23.jpg",
+                "malId": 116778,
+                "aniId": 105778,
+                "page": "MangaFire",
+                "title": "Chainsaw Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chainsaw-man22.kkyzv"
+            },
+            "0w5k": {
+                "id": 233631,
+                "identifier": "0w5k",
+                "image": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+                "malId": 116778,
+                "aniId": 105778,
+                "page": "MangaFire",
+                "title": "Chainsaw Man",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/chainsaw-mann.0w5k"
             }
         },
         "Comick": {

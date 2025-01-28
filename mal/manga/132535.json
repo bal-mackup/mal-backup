@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e3559b66-4424-42d8-a1a6-517e81481b97": {
+                "id": 39351,
                 "identifier": "e3559b66-4424-42d8-a1a6-517e81481b97",
                 "image": "https://uploads.mangadex.org/covers/e3559b66-4424-42d8-a1a6-517e81481b97/811af5f2-818f-4e45-a88c-27ab8afe3511.jpg",
                 "malId": 132535,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "eighteen": {
+                "id": 172340,
                 "identifier": "eighteen",
                 "image": "https://temp.compsci88.com/cover/Eighteen.jpg",
                 "malId": 132535,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Eighteen"
             }
         },
-        "MangaFire": {
-            "18-eighteen.3py32": {
-                "identifier": "18-eighteen.3py32",
-                "image": "https://static.mangafire.to/3b2d5/i/a/af/af83027c1e47401902e55411076f2b78.jpg",
-                "malId": 132535,
-                "aniId": 130968,
-                "page": "MangaFire",
-                "title": "Eighteen",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/18-eighteen.3py32/"
-            }
-        },
         "Weebcentral": {
             "01j76xygkammmpnkfbjrrtxbfy": {
+                "id": 207849,
                 "identifier": "01j76xygkammmpnkfbjrrtxbfy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGKAMMMPNKFBJRRTXBFY.jpg",
                 "malId": 132535,
@@ -52,6 +43,19 @@
                 "title": "Eighteen",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGKAMMMPNKFBJRRTXBFY"
+            }
+        },
+        "MangaFire": {
+            "3py32": {
+                "id": 239286,
+                "identifier": "3py32",
+                "image": "https://static.mangafire.to/58fc/i/a/af/af83027c1e47401902e55411076f2b78.jpg",
+                "malId": 132535,
+                "aniId": 130968,
+                "page": "MangaFire",
+                "title": "Eighteen",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/18-eighteenn.3py32"
             }
         },
         "Comick": {

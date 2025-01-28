@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d3b4bb3e-5912-4f42-af99-b0c907dbef02": {
+                "id": 16188,
                 "identifier": "d3b4bb3e-5912-4f42-af99-b0c907dbef02",
                 "image": "https://uploads.mangadex.org/covers/d3b4bb3e-5912-4f42-af99-b0c907dbef02/83e57b73-3ff0-42f4-8340-369dc5ac0873.jpg",
                 "malId": 102636,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "from-maid-to-mother": {
+                "id": 54644,
                 "identifier": "from-maid-to-mother",
                 "image": "https://temp.compsci88.com/cover/From-Maid-To-Mother.jpg",
                 "malId": 102636,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "from_maid_to_mother": {
+                "id": 54729,
                 "identifier": "from_maid_to_mother",
                 "image": "https://fmcdn.mfcdn.net/store/manga/21133/cover.jpg",
                 "malId": 102636,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-uo972271": {
+                "id": 78123,
                 "identifier": "manga-uo972271",
                 "image": "https://avt.mkklcdnv6temp.com/11/u/14-1583490164.jpg",
                 "malId": 102636,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-uo972271"
             }
         },
-        "MangaFire": {
-            "maid-kara-haha-ni-narimashita.kwyzr": {
-                "identifier": "maid-kara-haha-ni-narimashita.kwyzr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b066535aeb814fdbec99b6bb2ced081.jpg",
-                "malId": 102636,
-                "aniId": 98074,
-                "page": "MangaFire",
-                "title": "From Maid to Mother",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maid-kara-haha-ni-narimashita.kwyzr/"
-            },
-            "kwyzr": {
-                "identifier": "kwyzr",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b066535aeb814fdbec99b6bb2ced081.jpg",
-                "malId": 102636,
-                "aniId": 98074,
-                "page": "MangaFire",
-                "title": "From Maid to Mother",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/maid-kara-haha-ni-narimashita.kwyzr/"
-            }
-        },
         "Weebcentral": {
             "01j76xybxp9ejjrj7rxja47j6c": {
+                "id": 209955,
                 "identifier": "01j76xybxp9ejjrj7rxja47j6c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBXP9EJJRJ7RXJA47J6C.jpg",
                 "malId": 102636,
@@ -86,6 +69,19 @@
                 "title": "From Maid to Mother",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBXP9EJJRJ7RXJA47J6C"
+            }
+        },
+        "MangaFire": {
+            "kwyzr": {
+                "id": 255856,
+                "identifier": "kwyzr",
+                "image": "https://static.mangafire.to/7f8f/i/1/1b/1b066535aeb814fdbec99b6bb2ced081.jpg",
+                "malId": 102636,
+                "aniId": 98074,
+                "page": "MangaFire",
+                "title": "From Maid to Mother",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/maid-kara-haha-ni-narimashitaa.kwyzr"
             }
         },
         "Comick": {

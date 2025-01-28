@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc34064e-3cd4-48c4-9ec5-550845b96ffb": {
+                "id": 13899,
                 "identifier": "dc34064e-3cd4-48c4-9ec5-550845b96ffb",
                 "image": "https://uploads.mangadex.org/covers/dc34064e-3cd4-48c4-9ec5-550845b96ffb/f437064a-9fa0-44d5-91b3-e00749542515.jpg",
                 "malId": 93180,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "platinum-end": {
+                "id": 54888,
                 "identifier": "platinum-end",
                 "image": "https://temp.compsci88.com/cover/Platinum-End.jpg",
                 "malId": 93180,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "platina_end": {
+                "id": 58800,
                 "identifier": "platina_end",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17123/cover.jpg",
                 "malId": 93180,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kd952438": {
+                "id": 73934,
                 "identifier": "manga-kd952438",
                 "image": "https://avt.mkklcdnv6temp.com/39/i/1-1583465248.jpg",
                 "malId": 93180,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kd952438"
             }
         },
-        "MangaFire": {
-            "platinum-end.6l2y0": {
-                "identifier": "platinum-end.6l2y0",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ea/eaa3469cffb20d775574de56328511b6.jpg",
-                "malId": 93180,
-                "aniId": 86526,
-                "page": "MangaFire",
-                "title": "Platinum End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/platinum-end.6l2y0/"
-            },
-            "platinum-endd.6l2y0": {
-                "identifier": "platinum-endd.6l2y0",
-                "image": "https://static.mangafire.to/a7d6/i/e/ea/eaa3469cffb20d775574de56328511b6.jpg",
-                "malId": 93180,
-                "aniId": 86526,
-                "page": "MangaFire",
-                "title": "Platinum End",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/platinum-endd.6l2y0/"
-            }
-        },
         "Weebcentral": {
             "01j76xybftse0kcqa5cwb3d9cg": {
+                "id": 209545,
                 "identifier": "01j76xybftse0kcqa5cwb3d9cg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBFTSE0KCQA5CWB3D9CG.jpg",
                 "malId": 93180,
@@ -86,6 +69,19 @@
                 "title": "Platinum End",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBFTSE0KCQA5CWB3D9CG"
+            }
+        },
+        "MangaFire": {
+            "6l2y0": {
+                "id": 223002,
+                "identifier": "6l2y0",
+                "image": "https://static.mangafire.to/a7d6/i/e/ea/eaa3469cffb20d775574de56328511b6.jpg",
+                "malId": 93180,
+                "aniId": 86526,
+                "page": "MangaFire",
+                "title": "Platinum End",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/platinum-endd.6l2y0"
             }
         },
         "Comick": {

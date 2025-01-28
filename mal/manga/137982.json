@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9a9b0b9c-9bd3-4b43-ae15-0747357e6194": {
+                "id": 39876,
                 "identifier": "9a9b0b9c-9bd3-4b43-ae15-0747357e6194",
                 "image": "https://uploads.mangadex.org/covers/9a9b0b9c-9bd3-4b43-ae15-0747357e6194/b20343c1-8c76-4a71-8d1e-7020a2927bbb.jpg",
                 "malId": 137982,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nb990610": {
+                "id": 99886,
                 "identifier": "manga-nb990610",
                 "image": "https://avt.mkklcdnv6temp.com/10/f/26-1655916567.jpg",
                 "malId": 137982,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "senpai_wa_otokonoko": {
+                "id": 100955,
                 "identifier": "senpai_wa_otokonoko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39739/cover.jpg",
                 "malId": 137982,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/senpai_wa_otokonoko/"
             }
         },
-        "MangaFire": {
-            "my-crossdressing-senpai.prvk6": {
-                "identifier": "my-crossdressing-senpai.prvk6",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f33e8316835de2e5adf62f484bf3c490.jpg",
-                "malId": 137982,
-                "aniId": 118570,
-                "page": "MangaFire",
-                "title": "My Crossdressing Senpai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-crossdressing-senpai.prvk6/"
-            },
-            "my-crossdressing-senpaii.prvk6": {
-                "identifier": "my-crossdressing-senpaii.prvk6",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f33e8316835de2e5adf62f484bf3c490.jpg",
-                "malId": 137982,
-                "aniId": 118570,
-                "page": "MangaFire",
-                "title": "My Crossdressing Senpai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-crossdressing-senpaii.prvk6/"
-            }
-        },
         "MangaSee": {
             "senpai-wa-otokonoko": {
+                "id": 183140,
                 "identifier": "senpai-wa-otokonoko",
                 "image": "https://temp.compsci88.com/cover/Senpai-wa-Otokonoko.jpg",
                 "malId": 137982,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyh05mfz0fktvwsht8dg7": {
+                "id": 209406,
                 "identifier": "01j76xyh05mfz0fktvwsht8dg7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH05MFZ0FKTVWSHT8DG7.jpg",
                 "malId": 137982,
@@ -86,6 +69,19 @@
                 "title": "Senpai wa Otokonoko",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYH05MFZ0FKTVWSHT8DG7"
+            }
+        },
+        "MangaFire": {
+            "prvk6": {
+                "id": 227923,
+                "identifier": "prvk6",
+                "image": "https://static.mangafire.to/74c9/i/f/f3/f33e8316835de2e5adf62f484bf3c490.jpg",
+                "malId": 137982,
+                "aniId": 118570,
+                "page": "MangaFire",
+                "title": "My Crossdressing Senpai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-crossdressing-senpaii.prvk6"
             }
         },
         "Comick": {

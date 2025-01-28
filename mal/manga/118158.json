@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "68d76401-d485-4e15-b149-101b6120c8fb": {
+                "id": 29596,
                 "identifier": "68d76401-d485-4e15-b149-101b6120c8fb",
                 "image": "https://uploads.mangadex.org/covers/68d76401-d485-4e15-b149-101b6120c8fb/0684fe84-a6d0-44c5-8e6c-a6c4bd23b2b7.jpg",
                 "malId": 118158,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ez981382": {
+                "id": 100392,
                 "identifier": "manga-ez981382",
                 "image": "https://avt.mkklcdnv6temp.com/fld/58/l/9-1732795523-nw.webp",
                 "malId": 118158,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-ez981382"
             }
         },
-        "MangaFire": {
-            "dricam.ojkvz": {
-                "identifier": "dricam.ojkvz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd224ab0f41b2f0ecd865aa83243846.jpg",
-                "malId": 118158,
-                "aniId": 107448,
-                "page": "MangaFire",
-                "title": "Dricam!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dricam.ojkvz/"
-            },
-            "ojkvz": {
-                "identifier": "ojkvz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1d/1dd224ab0f41b2f0ecd865aa83243846.jpg",
-                "malId": 118158,
-                "aniId": 107448,
-                "page": "MangaFire",
-                "title": "Dricam!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dricam.ojkvz/"
-            }
-        },
         "MangaSee": {
             "dricam": {
+                "id": 172337,
                 "identifier": "dricam",
                 "image": "https://temp.compsci88.com/cover/Dricam.jpg",
                 "malId": 118158,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygk79zxgc2xn9tzqk5n9": {
+                "id": 207760,
                 "identifier": "01j76xygk79zxgc2xn9tzqk5n9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGK79ZXGC2XN9TZQK5N9.jpg",
                 "malId": 118158,
@@ -74,6 +56,19 @@
                 "title": "Dricam!!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGK79ZXGC2XN9TZQK5N9"
+            }
+        },
+        "MangaFire": {
+            "ojkvz": {
+                "id": 245414,
+                "identifier": "ojkvz",
+                "image": "https://static.mangafire.to/cadd/i/1/1d/1dd224ab0f41b2f0ecd865aa83243846.jpg",
+                "malId": 118158,
+                "aniId": 107448,
+                "page": "MangaFire",
+                "title": "Dricam!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dricamm.ojkvz"
             }
         },
         "Comick": {

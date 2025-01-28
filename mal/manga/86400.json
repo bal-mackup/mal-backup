@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d460cec6-552e-4739-909e-c71836dbea89": {
+                "id": 15367,
                 "identifier": "d460cec6-552e-4739-909e-c71836dbea89",
                 "image": "https://uploads.mangadex.org/covers/d460cec6-552e-4739-909e-c71836dbea89/6298fad4-bb4d-478f-a3f7-14eb9a3397e2.jpg",
                 "malId": 86400,
@@ -18,8 +19,9 @@
                 "url": "https://mangadex.org/title/d460cec6-552e-4739-909e-c71836dbea89"
             },
             "d8a00acf-2c05-4cd9-8d58-5e8c7c432f7b": {
+                "id": 29901,
                 "identifier": "d8a00acf-2c05-4cd9-8d58-5e8c7c432f7b",
-                "image": "https://uploads.mangadex.org/covers/d8a00acf-2c05-4cd9-8d58-5e8c7c432f7b/78949c7a-2a3b-4335-b03f-d75d67974381.jpg",
+                "image": "https://uploads.mangadex.org/covers/d8a00acf-2c05-4cd9-8d58-5e8c7c432f7b/e24dc92a-4b7a-4814-97e8-2a19c322bf89.jpg",
                 "malId": 86400,
                 "aniId": 87173,
                 "page": "Mangadex",
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "ninja-slayer-setsu": {
+                "id": 67784,
                 "identifier": "ninja-slayer-setsu",
                 "image": "https://temp.compsci88.com/cover/Ninja-Slayer-Setsu.jpg",
                 "malId": 86400,
@@ -40,6 +43,7 @@
                 "url": "https://mangasee123.com/manga/Ninja-Slayer-Setsu"
             },
             "ninja-slayer": {
+                "id": 68743,
                 "identifier": "ninja-slayer",
                 "image": "https://temp.compsci88.com/cover/Ninja-Slayer.jpg",
                 "malId": 86400,
@@ -50,40 +54,9 @@
                 "url": "https://mangasee123.com/manga/Ninja-Slayer"
             }
         },
-        "MangaFire": {
-            "ninja-slayer.7jnr7": {
-                "identifier": "ninja-slayer.7jnr7",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5947edff29acbeb019798a1ddab0038c.jpg",
-                "malId": 86400,
-                "aniId": 87173,
-                "page": "MangaFire",
-                "title": "Ninja Slayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ninja-slayer.7jnr7/"
-            },
-            "ninja-slayerr.7jnr7": {
-                "identifier": "ninja-slayerr.7jnr7",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5947edff29acbeb019798a1ddab0038c.jpg",
-                "malId": 86400,
-                "aniId": 87173,
-                "page": "MangaFire",
-                "title": "Ninja Slayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ninja-slayerr.7jnr7/"
-            },
-            "7jnr7": {
-                "identifier": "7jnr7",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5947edff29acbeb019798a1ddab0038c.jpg",
-                "malId": 86400,
-                "aniId": 87173,
-                "page": "MangaFire",
-                "title": "Ninja Slayer",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ninja-slayerr.7jnr7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc5ybswt32em7rj5k96n": {
+                "id": 210573,
                 "identifier": "01j76xyc5ybswt32em7rj5k96n",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC5YBSWT32EM7RJ5K96N.jpg",
                 "malId": 86400,
@@ -94,6 +67,7 @@
                 "url": "https://weebcentral.com/series/01J76XYC5YBSWT32EM7RJ5K96N"
             },
             "01j76xybyhhxk4qg7v89274rc9": {
+                "id": 212587,
                 "identifier": "01j76xybyhhxk4qg7v89274rc9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBYHHXK4QG7V89274RC9.jpg",
                 "malId": 86400,
@@ -102,6 +76,19 @@
                 "title": "Ninja Slayer Kills",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBYHHXK4QG7V89274RC9"
+            }
+        },
+        "MangaFire": {
+            "7jnr7": {
+                "id": 229435,
+                "identifier": "7jnr7",
+                "image": "https://static.mangafire.to/7b05/i/5/59/5947edff29acbeb019798a1ddab0038c.jpg",
+                "malId": 86400,
+                "aniId": 87173,
+                "page": "MangaFire",
+                "title": "Ninja Slayer",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ninja-slayerr.7jnr7"
             }
         },
         "Comick": {

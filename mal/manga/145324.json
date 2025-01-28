@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b60fa5bf-c76a-480a-89b7-266b45b7068c": {
+                "id": 104061,
                 "identifier": "b60fa5bf-c76a-480a-89b7-266b45b7068c",
                 "image": "https://uploads.mangadex.org/covers/b60fa5bf-c76a-480a-89b7-266b45b7068c/35388ecc-1434-4fad-a2dd-4ad9d556eae6.jpg",
                 "malId": 145324,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "stages": {
+                "id": 120683,
                 "identifier": "stages",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41767/cover.jpg",
                 "malId": 145324,
@@ -30,30 +32,9 @@
                 "url": "https://fanfox.net/manga/stages/"
             }
         },
-        "MangaFire": {
-            "stage-s.n30mk": {
-                "identifier": "stage-s.n30mk",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ac/ac06871448b8750c9325036318bbee9f.jpg",
-                "malId": 145324,
-                "aniId": 146064,
-                "page": "MangaFire",
-                "title": "Stage S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/stage-s.n30mk/"
-            },
-            "stage-ss.n30mk": {
-                "identifier": "stage-ss.n30mk",
-                "image": "https://static.mangafire.to/3b2d5/i/a/ac/ac06871448b8750c9325036318bbee9f.jpg",
-                "malId": 145324,
-                "aniId": 146064,
-                "page": "MangaFire",
-                "title": "Stage S",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/stage-ss.n30mk/"
-            }
-        },
         "MangaNato": {
             "manga-yd1001512": {
+                "id": 185720,
                 "identifier": "manga-yd1001512",
                 "image": "https://avt.mkklcdnv6temp.com/fld/10/f/17-1733321778-nw.webp",
                 "malId": 145324,
@@ -64,6 +45,7 @@
                 "url": "https://chapmanganato.to/manga-yd1001512"
             },
             "manga-wr999900": {
+                "id": 186410,
                 "identifier": "manga-wr999900",
                 "image": "https://avt.mkklcdnv6temp.com/fld/48/m/16-1733316520-nw.webp",
                 "malId": 145324,
@@ -72,6 +54,19 @@
                 "title": "Stage S",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-wr999900"
+            }
+        },
+        "MangaFire": {
+            "n30mk": {
+                "id": 227421,
+                "identifier": "n30mk",
+                "image": "https://static.mangafire.to/813d/i/a/ac/ac06871448b8750c9325036318bbee9f.jpg",
+                "malId": 145324,
+                "aniId": 146064,
+                "page": "MangaFire",
+                "title": "Stage S",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/stage-ss.n30mk"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6033535e-ea6a-4f52-9d81-17101a739c33": {
+                "id": 20778,
                 "identifier": "6033535e-ea6a-4f52-9d81-17101a739c33",
                 "image": "https://uploads.mangadex.org/covers/6033535e-ea6a-4f52-9d81-17101a739c33/0343739e-a3ad-45a9-a549-a6ea3d2bb026.jpg",
                 "malId": 119442,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "noumin_kanren_no_skill_bakka_agetetara_naze_ka_tsuyoku_natta": {
+                "id": 63649,
                 "identifier": "noumin_kanren_no_skill_bakka_agetetara_naze_ka_tsuyoku_natta",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30170/cover.jpg",
                 "malId": 119442,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta": {
+                "id": 69686,
                 "identifier": "noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta",
                 "image": "https://temp.compsci88.com/cover/Noumin-Kanren-No-Skill-Bakka-Agetetara-Naze-Ka-Tsuyoku-Natta.jpg",
                 "malId": 119442,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ew981431": {
+                "id": 76005,
                 "identifier": "manga-ew981431",
                 "image": "https://avt.mkklcdnv6temp.com/14/n/18-1583497647.jpg",
                 "malId": 119442,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ew981431"
             }
         },
-        "MangaFire": {
-            "nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-natta.wx3o": {
-                "identifier": "nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-natta.wx3o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57be732d179ca656ec69e0ba70dbdf06.jpg",
-                "malId": 119442,
-                "aniId": 108957,
-                "page": "MangaFire",
-                "title": "Nomin Kanren no Sukiru Bakka Agetetara Nazeka Tsuyoku Natta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-natta.wx3o/"
-            },
-            "nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-nattaa.wx3o": {
-                "identifier": "nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-nattaa.wx3o",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57be732d179ca656ec69e0ba70dbdf06.jpg",
-                "malId": 119442,
-                "aniId": 108957,
-                "page": "MangaFire",
-                "title": "Nomin Kanren no Sukiru Bakka Agetetara Nazeka Tsuyoku Natta",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-nattaa.wx3o/"
-            }
-        },
         "Weebcentral": {
             "01j76xycxwc6jmpsy5tz1zgy16": {
+                "id": 207890,
                 "identifier": "01j76xycxwc6jmpsy5tz1zgy16",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCXWC6JMPSY5TZ1ZGY16.jpg",
                 "malId": 119442,
@@ -86,6 +69,19 @@
                 "title": "Noumin Kanren no Skill bakka Agetetara Naze ka Tsuyoku Natta.",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCXWC6JMPSY5TZ1ZGY16"
+            }
+        },
+        "MangaFire": {
+            "wx3o": {
+                "id": 227829,
+                "identifier": "wx3o",
+                "image": "https://static.mangafire.to/85d0/i/5/57/57be732d179ca656ec69e0ba70dbdf06.jpg",
+                "malId": 119442,
+                "aniId": 108957,
+                "page": "MangaFire",
+                "title": "Nomin Kanren no Sukiru Bakka Agetetara Nazeka Tsuyoku Natta",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/nomin-kanren-no-sukiru-bakka-agetetara-nazeka-tsuyoku-nattaa.wx3o"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d032cdeb-1ced-4031-8b9e-45e6064c1781": {
+                "id": 29373,
                 "identifier": "d032cdeb-1ced-4031-8b9e-45e6064c1781",
                 "image": "https://uploads.mangadex.org/covers/d032cdeb-1ced-4031-8b9e-45e6064c1781/73ba5280-8a72-4b19-98b6-8a8d3a6a318d.jpg",
                 "malId": 120083,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/d032cdeb-1ced-4031-8b9e-45e6064c1781"
             },
             "377dfd53-29c3-4c9f-9453-6ef320b23f6a": {
+                "id": 34473,
                 "identifier": "377dfd53-29c3-4c9f-9453-6ef320b23f6a",
                 "image": "https://uploads.mangadex.org/covers/377dfd53-29c3-4c9f-9453-6ef320b23f6a/73d42258-c943-4347-b04b-a0ff0d8316d4.jpg",
                 "malId": 120083,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "bibliophile-princess": {
+                "id": 63313,
                 "identifier": "bibliophile-princess",
                 "image": "https://temp.compsci88.com/cover/Bibliophile-Princess.jpg",
                 "malId": 120083,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-es982327": {
+                "id": 80171,
                 "identifier": "manga-es982327",
                 "image": "https://avt.mkklcdnv6temp.com/47/q/18-1583498954.jpg",
                 "malId": 120083,
@@ -52,20 +56,9 @@
                 "url": "https://chapmanganato.com/manga-es982327"
             }
         },
-        "MangaFire": {
-            "bibliophile-princess.2o7v2": {
-                "identifier": "bibliophile-princess.2o7v2",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/59fbe28fa167eec3d29908b5b683b413.jpg",
-                "malId": 120083,
-                "aniId": 110504,
-                "page": "MangaFire",
-                "title": "Bibliophile Princess",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bibliophile-princess.2o7v2/"
-            }
-        },
         "Weebcentral": {
             "01j76xye4c6r489gq55rfj2kn4": {
+                "id": 208789,
                 "identifier": "01j76xye4c6r489gq55rfj2kn4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE4C6R489GQ55RFJ2KN4.jpg",
                 "malId": 120083,
@@ -74,6 +67,19 @@
                 "title": "Bibliophile Princess",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE4C6R489GQ55RFJ2KN4"
+            }
+        },
+        "MangaFire": {
+            "2o7v2": {
+                "id": 262643,
+                "identifier": "2o7v2",
+                "image": "https://static.mangafire.to/d6a1/i/5/59/59fbe28fa167eec3d29908b5b683b413.jpg",
+                "malId": 120083,
+                "aniId": 110504,
+                "page": "MangaFire",
+                "title": "Bibliophile Princess",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bibliophile-princesss.2o7v2"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "10e20e17-7ae6-48f9-8d33-7cf32db82674": {
+                "id": 33055,
                 "identifier": "10e20e17-7ae6-48f9-8d33-7cf32db82674",
                 "image": "https://uploads.mangadex.org/covers/10e20e17-7ae6-48f9-8d33-7cf32db82674/a5124cec-6e85-4a9d-9f11-6b0a630a9e15.jpg",
                 "malId": 128513,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hr984474": {
+                "id": 113653,
                 "identifier": "manga-hr984474",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/g/10-1732802194-nw.webp",
                 "malId": 128513,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-hr984474"
             }
         },
-        "MangaFire": {
-            "my-slave-is-way-too-cheerful.m2mz8": {
-                "identifier": "my-slave-is-way-too-cheerful.m2mz8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/1332ffbedc859ec07b619f9f5fcf85de.jpg",
-                "malId": 128513,
-                "aniId": 144385,
-                "page": "MangaFire",
-                "title": "My Slave is Way Too Cheerful",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-slave-is-way-too-cheerful.m2mz8/"
-            },
-            "my-slave-is-way-too-cheerfull.m2mz8": {
-                "identifier": "my-slave-is-way-too-cheerfull.m2mz8",
-                "image": "https://static.mangafire.to/3b2d5/i/1/13/1332ffbedc859ec07b619f9f5fcf85de.jpg",
-                "malId": 128513,
-                "aniId": 144385,
-                "page": "MangaFire",
-                "title": "My Slave is Way Too Cheerful",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-slave-is-way-too-cheerfull.m2mz8/"
-            }
-        },
         "MangaFox": {
             "uchi_no_dorei_ga_akaru_sugiru": {
+                "id": 198229,
                 "identifier": "uchi_no_dorei_ga_akaru_sugiru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46538/cover.jpg",
                 "malId": 128513,
@@ -62,6 +43,19 @@
                 "title": "Uchi no Dorei ga Akaru Sugiru",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/uchi_no_dorei_ga_akaru_sugiru/"
+            }
+        },
+        "MangaFire": {
+            "m2mz8": {
+                "id": 227167,
+                "identifier": "m2mz8",
+                "image": "https://static.mangafire.to/8219/i/1/13/1332ffbedc859ec07b619f9f5fcf85de.jpg",
+                "malId": 128513,
+                "aniId": 144385,
+                "page": "MangaFire",
+                "title": "My Slave is Way Too Cheerful",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-slave-is-way-too-cheerfull.m2mz8"
             }
         },
         "Comick": {

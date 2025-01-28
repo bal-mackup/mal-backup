@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1abdd808-ea49-438e-a685-3d683fc1cdc5": {
+                "id": 29597,
                 "identifier": "1abdd808-ea49-438e-a685-3d683fc1cdc5",
                 "image": "https://uploads.mangadex.org/covers/1abdd808-ea49-438e-a685-3d683fc1cdc5/920b49a2-5b42-4cc6-8fd7-4248775cebe9.jpg",
                 "malId": 117897,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "moon-land": {
+                "id": 68466,
                 "identifier": "moon-land",
                 "image": "https://temp.compsci88.com/cover/Moon-Land.jpg",
                 "malId": 117897,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "moon_land": {
+                "id": 89354,
                 "identifier": "moon_land",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30957/cover.jpg",
                 "malId": 117897,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ex981406": {
+                "id": 94694,
                 "identifier": "manga-ex981406",
                 "image": "https://avt.mkklcdnv6temp.com/fld/59/j/9-1732795581.jpg",
                 "malId": 117897,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-ex981406"
             }
         },
-        "MangaFire": {
-            "moon-land.9olwn": {
-                "identifier": "moon-land.9olwn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d3f5aa8484c86430202145e3feeb6a4.jpg",
-                "malId": 117897,
-                "aniId": 107446,
-                "page": "MangaFire",
-                "title": "Moon Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/moon-land.9olwn/"
-            },
-            "moon-landd.9olwn": {
-                "identifier": "moon-landd.9olwn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0d/0d3f5aa8484c86430202145e3feeb6a4.jpg",
-                "malId": 117897,
-                "aniId": 107446,
-                "page": "MangaFire",
-                "title": "Moon Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/moon-landd.9olwn/"
-            }
-        },
         "Weebcentral": {
             "01j76xydv0dgtwrf4051dwnspj": {
+                "id": 209866,
                 "identifier": "01j76xydv0dgtwrf4051dwnspj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDV0DGTWRF4051DWNSPJ.jpg",
                 "malId": 117897,
@@ -86,6 +69,19 @@
                 "title": "Moon Land",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDV0DGTWRF4051DWNSPJ"
+            }
+        },
+        "MangaFire": {
+            "9olwn": {
+                "id": 225471,
+                "identifier": "9olwn",
+                "image": "https://static.mangafire.to/50f7/i/0/0d/0d3f5aa8484c86430202145e3feeb6a4.jpg",
+                "malId": 117897,
+                "aniId": 107446,
+                "page": "MangaFire",
+                "title": "Moon Land",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/moon-landd.9olwn"
             }
         },
         "Comick": {

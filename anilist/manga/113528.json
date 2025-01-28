@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "daeedfed-eca3-4729-8519-b0d75874c773": {
+                "id": 32039,
                 "identifier": "daeedfed-eca3-4729-8519-b0d75874c773",
                 "image": "https://uploads.mangadex.org/covers/daeedfed-eca3-4729-8519-b0d75874c773/a3ae8a0f-900e-4304-aca4-2bb24faa18ee.jpg",
                 "malId": 124732,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tasogare-no-ethos": {
+                "id": 56321,
                 "identifier": "tasogare-no-ethos",
                 "image": "https://temp.compsci88.com/cover/Tasogare-no-Ethos.jpg",
                 "malId": 124732,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tasogare_no_ethos": {
+                "id": 66352,
                 "identifier": "tasogare_no_ethos",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32230/cover.jpg",
                 "malId": 124732,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-gf983762": {
+                "id": 75086,
                 "identifier": "manga-gf983762",
                 "image": "https://avt.mkklcdnv6temp.com/50/v/19-1583501024.jpg",
                 "malId": 124732,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-gf983762"
             }
         },
-        "MangaFire": {
-            "tasogare-no-ethos.m2x38": {
-                "identifier": "tasogare-no-ethos.m2x38",
-                "image": "https://static.mangafire.to/3b2d5/i/c/ce/cebaff42f08cffd111db199d50c93077.jpg",
-                "malId": 124732,
-                "aniId": 113528,
-                "page": "MangaFire",
-                "title": "Tasogare no Ethos",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tasogare-no-ethos.m2x38/"
-            },
-            "tasogare-no-ethoss.m2x38": {
-                "identifier": "tasogare-no-ethoss.m2x38",
-                "image": "https://static.mangafire.to/8997/i/c/ce/cebaff42f08cffd111db199d50c93077.jpg",
-                "malId": 124732,
-                "aniId": 113528,
-                "page": "MangaFire",
-                "title": "Tasogare no Ethos",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tasogare-no-ethoss.m2x38/"
-            }
-        },
         "Weebcentral": {
             "01j76xydanwdp5anjpjycpkfnq": {
+                "id": 206126,
                 "identifier": "01j76xydanwdp5anjpjycpkfnq",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDANWDP5ANJPJYCPKFNQ.jpg",
                 "malId": 124732,
@@ -86,6 +69,19 @@
                 "title": "Tasogare no Ethos",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDANWDP5ANJPJYCPKFNQ"
+            }
+        },
+        "MangaFire": {
+            "m2x38": {
+                "id": 223724,
+                "identifier": "m2x38",
+                "image": "https://static.mangafire.to/8997/i/c/ce/cebaff42f08cffd111db199d50c93077.jpg",
+                "malId": 124732,
+                "aniId": 113528,
+                "page": "MangaFire",
+                "title": "Tasogare no Ethos",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tasogare-no-ethoss.m2x38"
             }
         },
         "Comick": {

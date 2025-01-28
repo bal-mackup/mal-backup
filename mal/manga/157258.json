@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d65f4c46-9e71-482c-9959-3a3c469eac29": {
+                "id": 127214,
                 "identifier": "d65f4c46-9e71-482c-9959-3a3c469eac29",
                 "image": "https://uploads.mangadex.org/covers/d65f4c46-9e71-482c-9959-3a3c469eac29/e525cc08-d704-4970-be68-d062872b079c.jpg",
                 "malId": 157258,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-rm995069": {
+                "id": 127382,
                 "identifier": "manga-rm995069",
                 "image": "https://avt.mkklcdnv6temp.com/13/c/29-1679415068.jpg",
                 "malId": 157258,
@@ -30,40 +32,9 @@
                 "url": "https://chapmanganato.com/manga-rm995069"
             }
         },
-        "MangaFire": {
-            "max-talent-player.w59o4": {
-                "identifier": "max-talent-player.w59o4",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3dd42d4001475213ac8b4e423a1f5b5e.jpg",
-                "malId": 157258,
-                "aniId": 166159,
-                "page": "MangaFire",
-                "title": "Max Talent Player",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/max-talent-player.w59o4/"
-            },
-            "mallep-player.w5mr7": {
-                "identifier": "mallep-player.w5mr7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/a4ef2e6e1557b471dacada3d1532ab09.jpg",
-                "malId": 157258,
-                "aniId": 166159,
-                "page": "MangaFire",
-                "title": "The Maxed-out Player",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mallep-player.w5mr7/"
-            },
-            "mallep-playerr.w5mr7": {
-                "identifier": "mallep-playerr.w5mr7",
-                "image": "https://static.mangafire.to/3b2d5/i/4/47/a4ef2e6e1557b471dacada3d1532ab09.jpg",
-                "malId": 157258,
-                "aniId": 166159,
-                "page": "MangaFire",
-                "title": "The Maxed-out Player",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mallep-playerr.w5mr7/"
-            }
-        },
         "MangaFox": {
             "the_maxed_out_player": {
+                "id": 179256,
                 "identifier": "the_maxed_out_player",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45725/cover.jpg",
                 "malId": 157258,
@@ -72,6 +43,19 @@
                 "title": "The Maxed-out Player",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_maxed_out_player/"
+            }
+        },
+        "MangaFire": {
+            "w5mr7": {
+                "id": 225672,
+                "identifier": "w5mr7",
+                "image": "https://static.mangafire.to/9f4e/i/4/47/a4ef2e6e1557b471dacada3d1532ab09.jpg",
+                "malId": 157258,
+                "aniId": 166159,
+                "page": "MangaFire",
+                "title": "The Maxed-out Player",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mallep-playerr.w5mr7"
             }
         },
         "Comick": {

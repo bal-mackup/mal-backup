@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "246f2c0c-4c50-4ef4-b292-c17f0f68a17c": {
+                "id": 35543,
                 "identifier": "246f2c0c-4c50-4ef4-b292-c17f0f68a17c",
                 "image": "https://uploads.mangadex.org/covers/246f2c0c-4c50-4ef4-b292-c17f0f68a17c/7100674f-603e-4531-8fb5-cc5d5273430c.png",
                 "malId": 147389,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "murim_login": {
+                "id": 55942,
                 "identifier": "murim_login",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35446/cover.jpg",
                 "malId": 147389,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "murim-login": {
+                "id": 60236,
                 "identifier": "murim-login",
                 "image": "https://temp.compsci88.com/cover/Murim-Login.jpg",
                 "malId": 147389,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-if985362": {
+                "id": 74058,
                 "identifier": "manga-if985362",
                 "image": "https://avt.mkklcdnv6temp.com/12/j/21-1589305999.jpg",
                 "malId": 147389,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-if985362"
             }
         },
-        "MangaFire": {
-            "murim-login.zllwp": {
-                "identifier": "murim-login.zllwp",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/efc44e0d453356846616b98e000eff88.jpg",
-                "malId": 147389,
-                "aniId": 120385,
-                "page": "MangaFire",
-                "title": "Murim Login",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/murim-login.zllwp/"
-            },
-            "murim-loginn.zllwp": {
-                "identifier": "murim-loginn.zllwp",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ef/efc44e0d453356846616b98e000eff88.jpg",
-                "malId": 147389,
-                "aniId": 120385,
-                "page": "MangaFire",
-                "title": "Murim Login",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/murim-loginn.zllwp/"
-            }
-        },
         "Weebcentral": {
             "01j76xye0nqjn87jw5vznaqg70": {
+                "id": 208647,
                 "identifier": "01j76xye0nqjn87jw5vznaqg70",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE0NQJN87JW5VZNAQG70.jpg",
                 "malId": 147389,
@@ -86,6 +69,19 @@
                 "title": "Murim Login",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE0NQJN87JW5VZNAQG70"
+            }
+        },
+        "MangaFire": {
+            "zllwp": {
+                "id": 226779,
+                "identifier": "zllwp",
+                "image": "https://static.mangafire.to/e695/i/e/ef/efc44e0d453356846616b98e000eff88.jpg",
+                "malId": 147389,
+                "aniId": 120385,
+                "page": "MangaFire",
+                "title": "Murim Login",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/murim-loginn.zllwp"
             }
         },
         "Comick": {

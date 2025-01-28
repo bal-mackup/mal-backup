@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1fc1355b-9c02-48e2-a457-094b592ecd9c": {
+                "id": 27531,
                 "identifier": "1fc1355b-9c02-48e2-a457-094b592ecd9c",
                 "image": "https://uploads.mangadex.org/covers/1fc1355b-9c02-48e2-a457-094b592ecd9c/ea33182d-54c3-4f67-b72d-72f2c26463d2.jpg",
                 "malId": 104440,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "monkey-peak": {
+                "id": 56768,
                 "identifier": "monkey-peak",
                 "image": "https://temp.compsci88.com/cover/Monkey-Peak.jpg",
                 "malId": 104440,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "monkey_peak": {
+                "id": 65556,
                 "identifier": "monkey_peak",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30846/cover.jpg",
                 "malId": 104440,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-eo981849": {
+                "id": 77118,
                 "identifier": "manga-eo981849",
                 "image": "https://avt.mkklcdnv6temp.com/30/a/18-1583498243.jpg",
                 "malId": 104440,
@@ -54,40 +58,9 @@
                 "url": "https://manganato.com/manga-eo981849"
             }
         },
-        "MangaFire": {
-            "monkey-peak.6l8vz": {
-                "identifier": "monkey-peak.6l8vz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/116b2bb100a08b91a7b5461d20bf8b67.jpg",
-                "malId": 104440,
-                "aniId": 104781,
-                "page": "MangaFire",
-                "title": "Monkey Peak",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monkey-peak.6l8vz/"
-            },
-            "monkey-peakk.6l8vz": {
-                "identifier": "monkey-peakk.6l8vz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/116b2bb100a08b91a7b5461d20bf8b67.jpg",
-                "malId": 104440,
-                "aniId": 104781,
-                "page": "MangaFire",
-                "title": "Monkey Peak",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monkey-peakk.6l8vz/"
-            },
-            "6l8vz": {
-                "identifier": "6l8vz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/116b2bb100a08b91a7b5461d20bf8b67.jpg",
-                "malId": 104440,
-                "aniId": 104781,
-                "page": "MangaFire",
-                "title": "Monkey Peak",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/monkey-peakk.6l8vz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd6fn6s44ddzqxpz4jka": {
+                "id": 212345,
                 "identifier": "01j76xyd6fn6s44ddzqxpz4jka",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD6FN6S44DDZQXPZ4JKA.jpg",
                 "malId": 104440,
@@ -96,6 +69,19 @@
                 "title": "Monkey Peak",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD6FN6S44DDZQXPZ4JKA"
+            }
+        },
+        "MangaFire": {
+            "6l8vz": {
+                "id": 229715,
+                "identifier": "6l8vz",
+                "image": "https://static.mangafire.to/f9b2/i/1/11/116b2bb100a08b91a7b5461d20bf8b67.jpg",
+                "malId": 104440,
+                "aniId": 104781,
+                "page": "MangaFire",
+                "title": "Monkey Peak",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/monkey-peakk.6l8vz"
             }
         },
         "Comick": {

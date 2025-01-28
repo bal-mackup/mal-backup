@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312": {
+                "id": 18269,
                 "identifier": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
-                "image": "https://uploads.mangadex.org/covers/cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312/5084a203-2ce0-4f54-9c93-872423182778.jpg",
+                "image": "https://uploads.mangadex.org/covers/cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312/a97ce6b9-3dc3-4eac-9cd1-bb6b5f2ad150.jpg",
                 "malId": 115996,
                 "aniId": 106727,
                 "page": "Mangadex",
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312"
             },
             "5da92b11-42ff-4adc-89b2-072cfd7a12df": {
+                "id": 32515,
                 "identifier": "5da92b11-42ff-4adc-89b2-072cfd7a12df",
                 "image": "https://uploads.mangadex.org/covers/5da92b11-42ff-4adc-89b2-072cfd7a12df/e09b2b21-611b-4fc1-8bde-0344c272fe4f.jpg",
                 "malId": 115996,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "beast-complex": {
+                "id": 62410,
                 "identifier": "beast-complex",
                 "image": "https://temp.compsci88.com/cover/Beast-Complex.jpg",
                 "malId": 115996,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "beast_complex": {
+                "id": 64508,
                 "identifier": "beast_complex",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26719/cover.jpg",
                 "malId": 115996,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-an977848": {
+                "id": 76610,
                 "identifier": "manga-an977848",
                 "image": "https://avt.mkklcdnv6temp.com/1/l/15-1583493512.jpg",
                 "malId": 115996,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-an977848"
             }
         },
-        "MangaFire": {
-            "beast-complex.z1y62": {
-                "identifier": "beast-complex.z1y62",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/75e0bee140202c9c4626e5085517307a.jpg",
-                "malId": 115996,
-                "aniId": 106727,
-                "page": "MangaFire",
-                "title": "Beast Complex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beast-complex.z1y62/"
-            },
-            "z1y62": {
-                "identifier": "z1y62",
-                "image": "https://static.mangafire.to/3b2d5/i/7/75/75e0bee140202c9c4626e5085517307a.jpg",
-                "malId": 115996,
-                "aniId": 106727,
-                "page": "MangaFire",
-                "title": "Beast Complex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beast-complex.z1y62/"
-            }
-        },
         "Weebcentral": {
             "01j76xyec60f8wddh6k4mzw2nw": {
+                "id": 212685,
                 "identifier": "01j76xyec60f8wddh6k4mzw2nw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEC60F8WDDH6K4MZW2NW.jpg",
                 "malId": 115996,
@@ -96,6 +80,19 @@
                 "title": "Beast Complex",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEC60F8WDDH6K4MZW2NW"
+            }
+        },
+        "MangaFire": {
+            "z1y62": {
+                "id": 261762,
+                "identifier": "z1y62",
+                "image": "https://static.mangafire.to/df26/i/7/75/75e0bee140202c9c4626e5085517307a.jpg",
+                "malId": 115996,
+                "aniId": 106727,
+                "page": "MangaFire",
+                "title": "Beast Complex",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beast-complexx.z1y62"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b4320039-9b91-44a7-a60d-c7ba8c0684e7": {
+                "id": 18702,
                 "identifier": "b4320039-9b91-44a7-a60d-c7ba8c0684e7",
                 "image": "https://uploads.mangadex.org/covers/b4320039-9b91-44a7-a60d-c7ba8c0684e7/dc879d3e-5cfd-4651-ab79-6fa6b37d9664.jpg",
                 "malId": 91136,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "beelzebub-jou-no-oki-ni-mesu-mama": {
+                "id": 54912,
                 "identifier": "beelzebub-jou-no-oki-ni-mesu-mama",
                 "image": "https://temp.compsci88.com/cover/Beelzebub-jou-No-Oki-Ni-Mesu-Mama.jpg",
                 "malId": 91136,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "beelzebub_jou_no_oki_ni_mesu_mama": {
+                "id": 71578,
                 "identifier": "beelzebub_jou_no_oki_ni_mesu_mama",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27800/cover.jpg",
                 "malId": 91136,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-cl979994": {
+                "id": 82944,
                 "identifier": "manga-cl979994",
                 "image": "https://avt.mkklcdnv6temp.com/12/a/17-1583495700.jpg",
                 "malId": 91136,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-cl979994"
             }
         },
-        "MangaFire": {
-            "beelzebub-jou-no-oki-ni-mesu-mama.oj03j": {
-                "identifier": "beelzebub-jou-no-oki-ni-mesu-mama.oj03j",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/238fb6e9eab8ffd74f66254b19f97483.jpg",
-                "malId": 91136,
-                "aniId": 95435,
-                "page": "MangaFire",
-                "title": "As Miss Beelzebub Likes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beelzebub-jou-no-oki-ni-mesu-mama.oj03j/"
-            },
-            "beelzebub-jou-no-oki-ni-mesu-mamaa.oj03j": {
-                "identifier": "beelzebub-jou-no-oki-ni-mesu-mamaa.oj03j",
-                "image": "https://static.mangafire.to/3b2d5/i/2/23/238fb6e9eab8ffd74f66254b19f97483.jpg",
-                "malId": 91136,
-                "aniId": 95435,
-                "page": "MangaFire",
-                "title": "As Miss Beelzebub Likes",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/beelzebub-jou-no-oki-ni-mesu-mamaa.oj03j/"
-            }
-        },
         "Weebcentral": {
             "01j76xyce5yk16t7cd80z8wcdf": {
+                "id": 210350,
                 "identifier": "01j76xyce5yk16t7cd80z8wcdf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCE5YK16T7CD80Z8WCDF.jpg",
                 "malId": 91136,
@@ -86,6 +69,19 @@
                 "title": "As Miss Beelzebub Likes",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCE5YK16T7CD80Z8WCDF"
+            }
+        },
+        "MangaFire": {
+            "oj03j": {
+                "id": 225070,
+                "identifier": "oj03j",
+                "image": "https://static.mangafire.to/9e63/i/2/23/238fb6e9eab8ffd74f66254b19f97483.jpg",
+                "malId": 91136,
+                "aniId": 95435,
+                "page": "MangaFire",
+                "title": "As Miss Beelzebub Likes",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/beelzebub-jou-no-oki-ni-mesu-mamaa.oj03j"
             }
         },
         "Comick": {

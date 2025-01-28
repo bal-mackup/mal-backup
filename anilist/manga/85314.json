@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "957a2d3f-0283-472d-b3a4-59133febe0ab": {
+                "id": 10325,
                 "identifier": "957a2d3f-0283-472d-b3a4-59133febe0ab",
                 "image": "https://uploads.mangadex.org/covers/957a2d3f-0283-472d-b3a4-59133febe0ab/88a59200-39d1-44c5-a458-2a34b2302537.jpg",
                 "malId": 69549,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "senakagurashi": {
+                "id": 71183,
                 "identifier": "senakagurashi",
                 "image": "https://temp.compsci88.com/cover/Senakagurashi.jpg",
                 "malId": 69549,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "senakagurashi": {
+                "id": 71456,
                 "identifier": "senakagurashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13733/cover.jpg",
                 "malId": 69549,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kf952388": {
+                "id": 76897,
                 "identifier": "manga-kf952388",
                 "image": "https://avt.mkklcdnv6temp.com/37/p/1-1583465174.jpg",
                 "malId": 69549,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-kf952388"
             }
         },
-        "MangaFire": {
-            "senaka-gurashi.z9ql": {
-                "identifier": "senaka-gurashi.z9ql",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/019ee1867d21056dd1fd94838160470f.jpg",
-                "malId": 69549,
-                "aniId": 85314,
-                "page": "MangaFire",
-                "title": "Senaka Gurashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senaka-gurashi.z9ql/"
-            },
-            "z9ql": {
-                "identifier": "z9ql",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/019ee1867d21056dd1fd94838160470f.jpg",
-                "malId": 69549,
-                "aniId": 85314,
-                "page": "MangaFire",
-                "title": "Senaka Gurashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/senaka-gurashi.z9ql/"
-            }
-        },
         "Weebcentral": {
             "01j76xya58n422drgf3gfdtjst": {
+                "id": 206556,
                 "identifier": "01j76xya58n422drgf3gfdtjst",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA58N422DRGF3GFDTJST.jpg",
                 "malId": 69549,
@@ -86,6 +69,19 @@
                 "title": "Senakagurashi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA58N422DRGF3GFDTJST"
+            }
+        },
+        "MangaFire": {
+            "z9ql": {
+                "id": 246775,
+                "identifier": "z9ql",
+                "image": "https://static.mangafire.to/4763/i/0/01/019ee1867d21056dd1fd94838160470f.jpg",
+                "malId": 69549,
+                "aniId": 85314,
+                "page": "MangaFire",
+                "title": "Senaka Gurashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/senaka-gurashii.z9ql"
             }
         },
         "Comick": {

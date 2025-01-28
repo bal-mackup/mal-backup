@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "1dc3ebf9-c86c-431c-bcca-5e35ac124f28": {
+                "id": 39115,
                 "identifier": "1dc3ebf9-c86c-431c-bcca-5e35ac124f28",
                 "image": "https://uploads.mangadex.org/covers/1dc3ebf9-c86c-431c-bcca-5e35ac124f28/90882d33-10a7-41ff-8f46-c3943ae4e9ec.png",
                 "malId": 147317,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "trash-of-the-counts-family": {
+                "id": 55827,
                 "identifier": "trash-of-the-counts-family",
                 "image": "https://temp.compsci88.com/cover/Trash-of-the-Counts-Family.jpg",
                 "malId": 147317,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "trash_of_the_count_s_family": {
+                "id": 56514,
                 "identifier": "trash_of_the_count_s_family",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35420/cover.jpg",
                 "malId": 147317,
@@ -42,6 +45,7 @@
                 "url": "https://fanfox.net/manga/trash_of_the_count_s_family/"
             },
             "lout_of_count_s_family": {
+                "id": 99659,
                 "identifier": "lout_of_count_s_family",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39302/cover.jpg",
                 "malId": 147317,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-jn986448": {
+                "id": 73155,
                 "identifier": "manga-jn986448",
                 "image": "https://avt.mkklcdnv6temp.com/7/h/22-1598935543.jpg",
                 "malId": 147317,
@@ -64,6 +69,7 @@
                 "url": "https://chapmanganato.com/manga-jn986448"
             },
             "manga-ne990787": {
+                "id": 102096,
                 "identifier": "manga-ne990787",
                 "image": "https://avt.mkklcdnv6temp.com/38/w/25-1650876337.jpg",
                 "malId": 147317,
@@ -74,30 +80,9 @@
                 "url": "https://chapmanganato.com/manga-ne990787"
             }
         },
-        "MangaFire": {
-            "baekjakgaui-mangnaniga-doeeotda.mvvjz": {
-                "identifier": "baekjakgaui-mangnaniga-doeeotda.mvvjz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/118c5475227b59e8971a82434545dff9.jpg",
-                "malId": 147317,
-                "aniId": 123573,
-                "page": "MangaFire",
-                "title": "Lout of Count’s Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/baekjakgaui-mangnaniga-doeeotda.mvvjz/"
-            },
-            "baekjakgaui-mangnaniga-doeeotdaa.mvvjz": {
-                "identifier": "baekjakgaui-mangnaniga-doeeotdaa.mvvjz",
-                "image": "https://static.mangafire.to/3b2d5/i/1/11/118c5475227b59e8971a82434545dff9.jpg",
-                "malId": 147317,
-                "aniId": 123573,
-                "page": "MangaFire",
-                "title": "Lout of Count’s Family",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/baekjakgaui-mangnaniga-doeeotdaa.mvvjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xye153cvdwz5jb5vggb2m": {
+                "id": 206721,
                 "identifier": "01j76xye153cvdwz5jb5vggb2m",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE153CVDWZ5JB5VGGB2M.jpg",
                 "malId": 147317,
@@ -106,6 +91,19 @@
                 "title": "Lout of Count's Family",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE153CVDWZ5JB5VGGB2M"
+            }
+        },
+        "MangaFire": {
+            "mvvjz": {
+                "id": 228617,
+                "identifier": "mvvjz",
+                "image": "https://static.mangafire.to/9ef1/i/1/11/118c5475227b59e8971a82434545dff9.jpg",
+                "malId": 147317,
+                "aniId": 123573,
+                "page": "MangaFire",
+                "title": "Lout of Count’s Family",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/baekjakgaui-mangnaniga-doeeotdaa.mvvjz"
             }
         },
         "Comick": {

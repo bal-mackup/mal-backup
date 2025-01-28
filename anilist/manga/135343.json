@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3e5d927b-5ea6-43dd-a2bb-2b2345959773": {
+                "id": 105715,
                 "identifier": "3e5d927b-5ea6-43dd-a2bb-2b2345959773",
                 "image": "https://uploads.mangadex.org/covers/3e5d927b-5ea6-43dd-a2bb-2b2345959773/9381bdea-d890-4731-ad48-08cacb2f48e5.jpg",
                 "malId": 157577,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "glitch": {
+                "id": 170159,
                 "identifier": "glitch",
                 "image": "https://temp.compsci88.com/cover/Glitch.jpg",
                 "malId": 157577,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Glitch"
             }
         },
-        "MangaFire": {
-            "glitch.ppoo4": {
-                "identifier": "glitch.ppoo4",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2d/2dc2693a50837c5deafbc34c9320ac33.jpg",
-                "malId": 157577,
-                "aniId": 135343,
-                "page": "MangaFire",
-                "title": "Glitch",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/glitch.ppoo4/"
-            }
-        },
         "Weebcentral": {
             "01j76xyggvv2fg6kr4qg58h18v": {
+                "id": 211810,
                 "identifier": "01j76xyggvv2fg6kr4qg58h18v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGGVV2FG6KR4QG58H18V.jpg",
                 "malId": 157577,
@@ -52,6 +43,19 @@
                 "title": "Glitch",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGGVV2FG6KR4QG58H18V"
+            }
+        },
+        "MangaFire": {
+            "ppoo4": {
+                "id": 238763,
+                "identifier": "ppoo4",
+                "image": "https://static.mangafire.to/346f/i/2/2d/2dc2693a50837c5deafbc34c9320ac33.jpg",
+                "malId": 157577,
+                "aniId": 135343,
+                "page": "MangaFire",
+                "title": "Glitch",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/glitchh.ppoo4"
             }
         },
         "Comick": {

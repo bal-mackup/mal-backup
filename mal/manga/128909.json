@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d3c582a7-9fe7-42f7-b4a2-c9b273e455ed": {
+                "id": 55969,
                 "identifier": "d3c582a7-9fe7-42f7-b4a2-c9b273e455ed",
                 "image": "https://uploads.mangadex.org/covers/d3c582a7-9fe7-42f7-b4a2-c9b273e455ed/8ddee066-bec4-4381-a220-e827d0a19a5a.jpg",
                 "malId": 128909,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/d3c582a7-9fe7-42f7-b4a2-c9b273e455ed"
             }
         },
-        "MangaFire": {
-            "isekai-no-meitanteii.llz0z": {
-                "identifier": "isekai-no-meitanteii.llz0z",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3a/3a587e63fcfb4931c2ed6ce746989a92.jpg",
-                "malId": 128909,
-                "aniId": 135842,
-                "page": "MangaFire",
-                "title": "Detective in Different World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/isekai-no-meitanteii.llz0z/"
-            }
-        },
         "MangaNato": {
             "manga-cl1005668": {
+                "id": 215970,
                 "identifier": "manga-cl1005668",
                 "image": "https://avt.mkklcdnv6temp.com/fld/70/h/18-1733381308-nw.webp",
                 "malId": 128909,
@@ -40,6 +30,19 @@
                 "title": "Isekai No Meitantei",
                 "type": "manga",
                 "url": "https://manganato.com/manga-cl1005668"
+            }
+        },
+        "MangaFire": {
+            "llz0z": {
+                "id": 223776,
+                "identifier": "llz0z",
+                "image": "https://static.mangafire.to/53bd/i/3/3a/3a587e63fcfb4931c2ed6ce746989a92.jpg",
+                "malId": 128909,
+                "aniId": 135842,
+                "page": "MangaFire",
+                "title": "Detective in Different World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/isekai-no-meitanteii.llz0z"
             }
         },
         "Comick": {

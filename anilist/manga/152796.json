@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "dc22e3be-48ff-461e-a167-a1bd3ca99f86": {
+                "id": 105452,
                 "identifier": "dc22e3be-48ff-461e-a167-a1bd3ca99f86",
                 "image": "https://uploads.mangadex.org/covers/dc22e3be-48ff-461e-a167-a1bd3ca99f86/f8a3faff-11ae-495e-ab5c-54e04ae42ea0.png",
                 "malId": 149909,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/dc22e3be-48ff-461e-a167-a1bd3ca99f86"
             }
         },
-        "MangaFire": {
-            "eat.2orz2": {
-                "identifier": "eat.2orz2",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f7/f7bea138ddb2d1b024fde8d18067239c.jpg",
-                "malId": 149909,
-                "aniId": 152796,
-                "page": "MangaFire",
-                "title": "EAT",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/eat.2orz2/"
-            }
-        },
         "MangaNato": {
             "manga-sl996168": {
+                "id": 159105,
                 "identifier": "manga-sl996168",
                 "image": "https://avt.mkklcdnv6temp.com/fld/6/d/15-1733306937-nw.webp",
                 "malId": 149909,
@@ -40,6 +30,19 @@
                 "title": "Eat",
                 "type": "manga",
                 "url": "https://chapmanganato.com/manga-sl996168"
+            }
+        },
+        "MangaFire": {
+            "2orz2": {
+                "id": 255889,
+                "identifier": "2orz2",
+                "image": "https://static.mangafire.to/f5b9/i/f/f7/f7bea138ddb2d1b024fde8d18067239c.jpg",
+                "malId": 149909,
+                "aniId": 152796,
+                "page": "MangaFire",
+                "title": "EAT",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/eatt.2orz2"
             }
         }
     },

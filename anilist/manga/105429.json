@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e7d7219c-a12b-484f-b29d-6013beac61b2": {
+                "id": 24412,
                 "identifier": "e7d7219c-a12b-484f-b29d-6013beac61b2",
                 "image": "https://uploads.mangadex.org/covers/e7d7219c-a12b-484f-b29d-6013beac61b2/5cbec9cf-9f3e-4824-938d-4a7ac98f950f.jpg",
                 "malId": 146774,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/e7d7219c-a12b-484f-b29d-6013beac61b2"
             },
             "96fbe0fb-8bc1-4dff-a093-9d8e3a00c984": {
+                "id": 164202,
                 "identifier": "96fbe0fb-8bc1-4dff-a093-9d8e3a00c984",
                 "image": "https://uploads.mangadex.org/covers/96fbe0fb-8bc1-4dff-a093-9d8e3a00c984/83839378-cd61-497f-9d19-beec5d07e29d.jpg",
                 "malId": 146774,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "the_girl_from_random_chatting": {
+                "id": 58412,
                 "identifier": "the_girl_from_random_chatting",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28996/cover.jpg",
                 "malId": 146774,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "the-girl-from-random-chatting": {
+                "id": 61041,
                 "identifier": "the-girl-from-random-chatting",
                 "image": "https://temp.compsci88.com/cover/The-Girl-from-Random-Chatting.jpg",
                 "malId": 146774,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-dg980741": {
+                "id": 73567,
                 "identifier": "manga-dg980741",
                 "image": "https://avt.mkklcdnv6temp.com/40/b/17-1583496709.jpg",
                 "malId": 146774,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-dg980741"
             }
         },
-        "MangaFire": {
-            "the-girl-from-random-chatting.jj5kn": {
-                "identifier": "the-girl-from-random-chatting.jj5kn",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc3abb9bb0ed7fabaf3eb375a3ad9572.jpg",
-                "malId": 146774,
-                "aniId": 105429,
-                "page": "MangaFire",
-                "title": "Random Chat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-girl-from-random-chatting.jj5kn/"
-            },
-            "the-girl-from-random-chattingg.jj5kn": {
-                "identifier": "the-girl-from-random-chattingg.jj5kn",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc3abb9bb0ed7fabaf3eb375a3ad9572.jpg",
-                "malId": 146774,
-                "aniId": 105429,
-                "page": "MangaFire",
-                "title": "Random Chat",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-girl-from-random-chattingg.jj5kn/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd3xd01avcz367153g7e": {
+                "id": 209856,
                 "identifier": "01j76xyd3xd01avcz367153g7e",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD3XD01AVCZ367153G7E.jpg",
                 "malId": 146774,
@@ -96,6 +80,19 @@
                 "title": "Random Chat",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYD3XD01AVCZ367153G7E"
+            }
+        },
+        "MangaFire": {
+            "jj5kn": {
+                "id": 227709,
+                "identifier": "jj5kn",
+                "image": "https://static.mangafire.to/cd7d/i/d/dc/dc3abb9bb0ed7fabaf3eb375a3ad9572.jpg",
+                "malId": 146774,
+                "aniId": 105429,
+                "page": "MangaFire",
+                "title": "Random Chat",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-girl-from-random-chattingg.jj5kn"
             }
         },
         "Comick": {

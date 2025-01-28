@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8593d61d-5393-4037-ad2c-75cbb40de49b": {
+                "id": 10024,
                 "identifier": "8593d61d-5393-4037-ad2c-75cbb40de49b",
                 "image": "https://uploads.mangadex.org/covers/8593d61d-5393-4037-ad2c-75cbb40de49b/ce758239-ff09-4a41-b49a-446b15ae75f0.jpg",
                 "malId": 67463,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kiku": {
+                "id": 77607,
                 "identifier": "kiku",
                 "image": "https://temp.compsci88.com/cover/Kiku.jpg",
                 "malId": 67463,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-fs957127": {
+                "id": 116361,
                 "identifier": "manga-fs957127",
                 "image": "https://avt.mkklcdnv6temp.com/fld/87/n/2-1732754994-nw.webp",
                 "malId": 67463,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-fs957127"
             }
         },
-        "MangaFire": {
-            "kiku.qyyv": {
-                "identifier": "kiku.qyyv",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71a568e79db858df88c47fcdee955380.jpg",
-                "malId": 67463,
-                "aniId": 90632,
-                "page": "MangaFire",
-                "title": "Kiku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiku.qyyv/"
-            },
-            "qyyv": {
-                "identifier": "qyyv",
-                "image": "https://static.mangafire.to/3b2d5/i/7/71/71a568e79db858df88c47fcdee955380.jpg",
-                "malId": 67463,
-                "aniId": 90632,
-                "page": "MangaFire",
-                "title": "Kiku",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kiku.qyyv/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9y2hgnf8paws0jrknwm": {
+                "id": 207421,
                 "identifier": "01j76xy9y2hgnf8paws0jrknwm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9Y2HGNF8PAWS0JRKNWM.jpg",
                 "malId": 67463,
@@ -74,6 +56,19 @@
                 "title": "Kiku",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9Y2HGNF8PAWS0JRKNWM"
+            }
+        },
+        "MangaFire": {
+            "qyyv": {
+                "id": 244092,
+                "identifier": "qyyv",
+                "image": "https://static.mangafire.to/7d73/i/7/71/71a568e79db858df88c47fcdee955380.jpg",
+                "malId": 67463,
+                "aniId": 90632,
+                "page": "MangaFire",
+                "title": "Kiku",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kikuu.qyyv"
             }
         },
         "Comick": {

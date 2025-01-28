@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac": {
+                "id": 19439,
                 "identifier": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
                 "image": "https://uploads.mangadex.org/covers/3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac/60b13fdd-6541-48e5-9181-fe1903d840f5.jpg",
                 "malId": 112807,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "boku-no-kokoro-no-yabai-yatsu": {
+                "id": 55201,
                 "identifier": "boku-no-kokoro-no-yabai-yatsu",
                 "image": "https://temp.compsci88.com/cover/Boku-no-Kokoro-no-Yabai-Yatsu.jpg",
                 "malId": 112807,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "boku_no_kokoro_no_yabai_yatsu": {
+                "id": 67666,
                 "identifier": "boku_no_kokoro_no_yabai_yatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27320/cover.jpg",
                 "malId": 112807,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-dv981004": {
+                "id": 73482,
                 "identifier": "manga-dv981004",
                 "image": "https://avt.mkklcdnv6temp.com/49/f/17-1583497041.jpg",
                 "malId": 112807,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-dv981004"
             }
         },
-        "MangaFire": {
-            "boku-no-kokoro-no-yabai-yatsu.vv882": {
-                "identifier": "boku-no-kokoro-no-yabai-yatsu.vv882",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f90e7eefbfd58a74765da56af6dd88a7.jpg",
-                "malId": 112807,
-                "aniId": 101557,
-                "page": "MangaFire",
-                "title": "The Dangers in My Heart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-kokoro-no-yabai-yatsu.vv882/"
-            },
-            "boku-no-kokoro-no-yabai-yatsuu.vv882": {
-                "identifier": "boku-no-kokoro-no-yabai-yatsuu.vv882",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f9/f90e7eefbfd58a74765da56af6dd88a7.jpg",
-                "malId": 112807,
-                "aniId": 101557,
-                "page": "MangaFire",
-                "title": "The Dangers in My Heart",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-kokoro-no-yabai-yatsuu.vv882/"
-            }
-        },
         "Weebcentral": {
             "01j76xye3365xhxpkaf08k7007": {
+                "id": 211359,
                 "identifier": "01j76xye3365xhxpkaf08k7007",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE3365XHXPKAF08K7007.jpg",
                 "malId": 112807,
@@ -86,6 +69,19 @@
                 "title": "The Dangers in My Heart",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE3365XHXPKAF08K7007"
+            }
+        },
+        "MangaFire": {
+            "vv882": {
+                "id": 228088,
+                "identifier": "vv882",
+                "image": "https://static.mangafire.to/8bbd/i/f/f9/f90e7eefbfd58a74765da56af6dd88a7.jpg",
+                "malId": 112807,
+                "aniId": 101557,
+                "page": "MangaFire",
+                "title": "The Dangers in My Heart",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-kokoro-no-yabai-yatsuu.vv882"
             }
         },
         "Comick": {

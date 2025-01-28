@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "eff7eb36-9dd3-4f91-b5d0-78590250c03f": {
+                "id": 107230,
                 "identifier": "eff7eb36-9dd3-4f91-b5d0-78590250c03f",
                 "image": "https://uploads.mangadex.org/covers/eff7eb36-9dd3-4f91-b5d0-78590250c03f/367848dc-504d-42d4-b8bd-960484d5d098.jpg",
                 "malId": 148086,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qm993369": {
+                "id": 121042,
                 "identifier": "manga-qm993369",
                 "image": "https://avt.mkklcdnv6temp.com/45/f/27-1672748755.jpg",
                 "malId": 148086,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-qm993369"
             }
         },
-        "MangaFire": {
-            "mukuchina-miyashita-san-no-shikiyoku-channel.z198l": {
-                "identifier": "mukuchina-miyashita-san-no-shikiyoku-channel.z198l",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a5bac87b3a28403f27788b7c7d859064.jpg",
-                "malId": 148086,
-                "aniId": 149747,
-                "page": "MangaFire",
-                "title": "Mukuchina Miyashita-san no Shikiyoku Channel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mukuchina-miyashita-san-no-shikiyoku-channel.z198l/"
-            },
-            "mukuchina-miyashita-san-no-shikiyoku-channell.z198l": {
-                "identifier": "mukuchina-miyashita-san-no-shikiyoku-channell.z198l",
-                "image": "https://static.mangafire.to/23d8/i/a/a5/a5bac87b3a28403f27788b7c7d859064.jpg",
-                "malId": 148086,
-                "aniId": 149747,
-                "page": "MangaFire",
-                "title": "Mukuchina Miyashita-san no Shikiyoku Channel",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mukuchina-miyashita-san-no-shikiyoku-channell.z198l/"
-            }
-        },
         "MangaFox": {
             "mukuchina_miyashita_san_no_shikiyoku_channel": {
+                "id": 201838,
                 "identifier": "mukuchina_miyashita_san_no_shikiyoku_channel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46530/cover.jpg",
                 "malId": 148086,
@@ -62,6 +43,19 @@
                 "title": "Mukuchina Miyashita-san no Shikiyoku Channel",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/mukuchina_miyashita_san_no_shikiyoku_channel/"
+            }
+        },
+        "MangaFire": {
+            "z198l": {
+                "id": 223484,
+                "identifier": "z198l",
+                "image": "https://static.mangafire.to/23d8/i/a/a5/a5bac87b3a28403f27788b7c7d859064.jpg",
+                "malId": 148086,
+                "aniId": 149747,
+                "page": "MangaFire",
+                "title": "Mukuchina Miyashita-san no Shikiyoku Channel",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mukuchina-miyashita-san-no-shikiyoku-channell.z198l"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "80014ac8-a70d-4702-a794-7fc2946b6d5a": {
+                "id": 64513,
                 "identifier": "80014ac8-a70d-4702-a794-7fc2946b6d5a",
                 "image": "https://uploads.mangadex.org/covers/80014ac8-a70d-4702-a794-7fc2946b6d5a/e6a5319c-9e4d-43ee-b39e-83ac7f6aec9b.jpg",
                 "malId": 135731,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/80014ac8-a70d-4702-a794-7fc2946b6d5a"
             }
         },
-        "MangaFire": {
-            "suterare-shiro-mahoutsukai-no-koucha-seikatsu.xrn08": {
-                "identifier": "suterare-shiro-mahoutsukai-no-koucha-seikatsu.xrn08",
-                "image": "https://static.mangafire.to/3b2d5/i/5/51/518290cdfb9a290a06df1292fdffe431.jpg",
-                "malId": 135731,
-                "aniId": 130885,
-                "page": "MangaFire",
-                "title": "Suterare Shiro Mahoutsukai no Koucha Seikatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suterare-shiro-mahoutsukai-no-koucha-seikatsu.xrn08/"
-            },
-            "suterare-shiro-mahoutsukai-no-koucha-seikatsuu.xrn08": {
-                "identifier": "suterare-shiro-mahoutsukai-no-koucha-seikatsuu.xrn08",
-                "image": "https://static.mangafire.to/57e0/i/5/51/518290cdfb9a290a06df1292fdffe431.jpg",
-                "malId": 135731,
-                "aniId": 130885,
-                "page": "MangaFire",
-                "title": "Suterare Shiro Mahoutsukai no Koucha Seikatsu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/suterare-shiro-mahoutsukai-no-koucha-seikatsuu.xrn08/"
-            }
-        },
         "MangaFox": {
             "suterare_shiro_mahoutsukai_no_koucha_seikatsu": {
+                "id": 219263,
                 "identifier": "suterare_shiro_mahoutsukai_no_koucha_seikatsu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/43128/cover.jpg",
                 "malId": 135731,
@@ -50,6 +30,19 @@
                 "title": "Suterare Shiro Mahoutsukai no Koucha Seikatsu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/suterare_shiro_mahoutsukai_no_koucha_seikatsu/"
+            }
+        },
+        "MangaFire": {
+            "xrn08": {
+                "id": 223384,
+                "identifier": "xrn08",
+                "image": "https://static.mangafire.to/57e0/i/5/51/518290cdfb9a290a06df1292fdffe431.jpg",
+                "malId": 135731,
+                "aniId": 130885,
+                "page": "MangaFire",
+                "title": "Suterare Shiro Mahoutsukai no Koucha Seikatsu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/suterare-shiro-mahoutsukai-no-koucha-seikatsuu.xrn08"
             }
         },
         "Comick": {

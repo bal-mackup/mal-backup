@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "360929d2-6101-46ff-b313-fd7fec3efcb0": {
+                "id": 50565,
                 "identifier": "360929d2-6101-46ff-b313-fd7fec3efcb0",
                 "image": "https://uploads.mangadex.org/covers/360929d2-6101-46ff-b313-fd7fec3efcb0/b49f881d-53f2-4256-b51f-5ed64b92fd6c.jpg",
                 "malId": 130626,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsuki": {
+                "id": 56573,
                 "identifier": "dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsuki",
                 "image": "https://temp.compsci88.com/cover/Dorei-Tensei-Sono-Dorei-Saikyou-no-Moto-Ouji-ni-Tsuki.jpg",
                 "malId": 130626,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dorei_tensei_sono_dorei_saikyou_no_moto_ouji_ni_tsuki": {
+                "id": 68009,
                 "identifier": "dorei_tensei_sono_dorei_saikyou_no_moto_ouji_ni_tsuki",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37067/cover.jpg",
                 "malId": 130626,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jj987166": {
+                "id": 72871,
                 "identifier": "manga-jj987166",
                 "image": "https://avt.mkklcdnv6temp.com/36/j/22-1605001806.jpg",
                 "malId": 130626,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-jj987166"
             }
         },
-        "MangaFire": {
-            "dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsuki.kw9kv": {
-                "identifier": "dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsuki.kw9kv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/4475204b5b1ffddf0ccc76ebe5e8c338.jpg",
-                "malId": 130626,
-                "aniId": 124941,
-                "page": "MangaFire",
-                "title": "Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsuki.kw9kv/"
-            },
-            "dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsukii.kw9kv": {
-                "identifier": "dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsukii.kw9kv",
-                "image": "https://static.mangafire.to/3b2d5/i/4/44/4475204b5b1ffddf0ccc76ebe5e8c338.jpg",
-                "malId": 130626,
-                "aniId": 124941,
-                "page": "MangaFire",
-                "title": "Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsukii.kw9kv/"
-            }
-        },
         "Weebcentral": {
             "01j76xye6q0ex1md8f7sztast9": {
+                "id": 214389,
                 "identifier": "01j76xye6q0ex1md8f7sztast9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE6Q0EX1MD8F7SZTAST9.jpg",
                 "malId": 130626,
@@ -86,6 +69,19 @@
                 "title": "Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE6Q0EX1MD8F7SZTAST9"
+            }
+        },
+        "MangaFire": {
+            "kw9kv": {
+                "id": 226828,
+                "identifier": "kw9kv",
+                "image": "https://static.mangafire.to/0ac2/i/4/44/4475204b5b1ffddf0ccc76ebe5e8c338.jpg",
+                "malId": 130626,
+                "aniId": 124941,
+                "page": "MangaFire",
+                "title": "Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsukii.kw9kv"
             }
         },
         "Comick": {

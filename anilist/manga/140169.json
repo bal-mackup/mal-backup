@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aacfe1d3-a8e2-4e06-bb2a-a7b88e492b7e": {
+                "id": 108099,
                 "identifier": "aacfe1d3-a8e2-4e06-bb2a-a7b88e492b7e",
                 "image": "https://uploads.mangadex.org/covers/aacfe1d3-a8e2-4e06-bb2a-a7b88e492b7e/316a366d-6c20-4534-9478-6a0061587244.jpg",
                 "malId": 140901,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "yashahime-princess-halfdemon": {
+                "id": 108310,
                 "identifier": "yashahime-princess-halfdemon",
                 "image": "https://temp.compsci88.com/cover/Yashahime-Princess-HalfDemon.jpg",
                 "malId": 140901,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Yashahime-Princess-HalfDemon"
             }
         },
-        "MangaFire": {
-            "hanyo-no-yashahime.wopr7": {
-                "identifier": "hanyo-no-yashahime.wopr7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb86cb8f7941458933c92774f6ec2f52.jpg",
-                "malId": 140901,
-                "aniId": 140169,
-                "page": "MangaFire",
-                "title": "Yashahime: Princess Half-Demon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanyo-no-yashahime.wopr7/"
-            },
-            "hanyo-no-yashahimee.wopr7": {
-                "identifier": "hanyo-no-yashahimee.wopr7",
-                "image": "https://static.mangafire.to/3b2d5/i/b/bb/bb86cb8f7941458933c92774f6ec2f52.jpg",
-                "malId": 140901,
-                "aniId": 140169,
-                "page": "MangaFire",
-                "title": "Yashahime: Princess Half-Demon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hanyo-no-yashahimee.wopr7/"
-            }
-        },
         "MangaNato": {
             "manga-xt1000728": {
+                "id": 189012,
                 "identifier": "manga-xt1000728",
                 "image": "https://avt.mkklcdnv6temp.com/fld/80/e/16-1733319094-nw.webp",
                 "malId": 140901,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xyfh2fxez7h6853sqbew7": {
+                "id": 206824,
                 "identifier": "01j76xyfh2fxez7h6853sqbew7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFH2FXEZ7H6853SQBEW7.jpg",
                 "malId": 140901,
@@ -74,6 +56,19 @@
                 "title": "Yashahime - Princess Half-Demon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFH2FXEZ7H6853SQBEW7"
+            }
+        },
+        "MangaFire": {
+            "wopr7": {
+                "id": 229677,
+                "identifier": "wopr7",
+                "image": "https://static.mangafire.to/64f9/i/b/bb/bb86cb8f7941458933c92774f6ec2f52.jpg",
+                "malId": 140901,
+                "aniId": 140169,
+                "page": "MangaFire",
+                "title": "Yashahime: Princess Half-Demon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hanyo-no-yashahimee.wopr7"
             }
         },
         "Comick": {

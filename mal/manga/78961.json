@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c80bc253-e87d-4ec4-b4f6-c4c0f14f0783": {
+                "id": 11727,
                 "identifier": "c80bc253-e87d-4ec4-b4f6-c4c0f14f0783",
                 "image": "https://uploads.mangadex.org/covers/c80bc253-e87d-4ec4-b4f6-c4c0f14f0783/4721c332-a28f-48af-879f-06a2a9e463af.jpg",
                 "malId": 78961,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kyoudai-hodo-chikaku-tooimono-wa-nai": {
+                "id": 64955,
                 "identifier": "kyoudai-hodo-chikaku-tooimono-wa-nai",
                 "image": "https://temp.compsci88.com/cover/Kyoudai-Hodo-Chikaku-Tooimono-Wa-Nai.jpg",
                 "malId": 78961,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kyoudai_hodo_chikaku_tooimono_wa_nai": {
+                "id": 69569,
                 "identifier": "kyoudai_hodo_chikaku_tooimono_wa_nai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14907/cover.jpg",
                 "malId": 78961,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-wq952099": {
+                "id": 75795,
                 "identifier": "manga-wq952099",
                 "image": "https://avt.mkklcdnv6temp.com/27/s/1-1583464780.jpg",
                 "malId": 78961,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-wq952099"
             }
         },
-        "MangaFire": {
-            "kyoudai-hodo-chikaku-tooimono-wa-nai.4q307": {
-                "identifier": "kyoudai-hodo-chikaku-tooimono-wa-nai.4q307",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f3adbcf8996a29c4c17e8f25d2db470.jpg",
-                "malId": 78961,
-                "aniId": 85623,
-                "page": "MangaFire",
-                "title": "I'm Obsessed With My Little Bro!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoudai-hodo-chikaku-tooimono-wa-nai.4q307/"
-            },
-            "kyoudai-hodo-chikaku-tooimono-wa-naii.4q307": {
-                "identifier": "kyoudai-hodo-chikaku-tooimono-wa-naii.4q307",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8f/8f3adbcf8996a29c4c17e8f25d2db470.jpg",
-                "malId": 78961,
-                "aniId": 85623,
-                "page": "MangaFire",
-                "title": "I'm Obsessed With My Little Bro!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kyoudai-hodo-chikaku-tooimono-wa-naii.4q307/"
-            }
-        },
         "Weebcentral": {
             "01j76xyaq7f9hdk6gcebv74mtz": {
+                "id": 212203,
                 "identifier": "01j76xyaq7f9hdk6gcebv74mtz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAQ7F9HDK6GCEBV74MTZ.jpg",
                 "malId": 78961,
@@ -86,6 +69,19 @@
                 "title": "Kyoudai hodo Chikaku Tooimono wa Nai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAQ7F9HDK6GCEBV74MTZ"
+            }
+        },
+        "MangaFire": {
+            "4q307": {
+                "id": 225945,
+                "identifier": "4q307",
+                "image": "https://static.mangafire.to/3fdf/i/8/8f/8f3adbcf8996a29c4c17e8f25d2db470.jpg",
+                "malId": 78961,
+                "aniId": 85623,
+                "page": "MangaFire",
+                "title": "I'm Obsessed With My Little Bro!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kyoudai-hodo-chikaku-tooimono-wa-naii.4q307"
             }
         },
         "Comick": {

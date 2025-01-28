@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f321f21b-faa0-4f34-af1d-876dab2d10c9": {
+                "id": 8348,
                 "identifier": "f321f21b-faa0-4f34-af1d-876dab2d10c9",
                 "image": "https://uploads.mangadex.org/covers/f321f21b-faa0-4f34-af1d-876dab2d10c9/6c6f7cdd-e10d-461d-a231-321e635e6ad3.jpg",
                 "malId": 61583,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hellper": {
+                "id": 55801,
                 "identifier": "hellper",
                 "image": "https://temp.compsci88.com/cover/Hellper.jpg",
                 "malId": 61583,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "hellper": {
+                "id": 66416,
                 "identifier": "hellper",
                 "image": "https://fmcdn.mfcdn.net/store/manga/12747/cover.jpg",
                 "malId": 61583,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-qo951523": {
+                "id": 78038,
                 "identifier": "manga-qo951523",
                 "image": "https://avt.mkklcdnv6temp.com/7/t/1-1583463969.jpg",
                 "malId": 61583,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-qo951523"
             }
         },
-        "MangaFire": {
-            "hellper.m1v8": {
-                "identifier": "hellper.m1v8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a3d4aff3464e15b151a8de140fb48de3.jpg",
-                "malId": 61583,
-                "aniId": 87027,
-                "page": "MangaFire",
-                "title": "Hellper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hellper.m1v8/"
-            },
-            "m1v8": {
-                "identifier": "m1v8",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a3/a3d4aff3464e15b151a8de140fb48de3.jpg",
-                "malId": 61583,
-                "aniId": 87027,
-                "page": "MangaFire",
-                "title": "Hellper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hellper.m1v8/"
-            }
-        },
         "Weebcentral": {
             "01j76xy9zjm1027dyz5t0k0181": {
+                "id": 214252,
                 "identifier": "01j76xy9zjm1027dyz5t0k0181",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XY9ZJM1027DYZ5T0K0181.jpg",
                 "malId": 61583,
@@ -86,6 +69,19 @@
                 "title": "Hellper",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XY9ZJM1027DYZ5T0K0181"
+            }
+        },
+        "MangaFire": {
+            "m1v8": {
+                "id": 244108,
+                "identifier": "m1v8",
+                "image": "https://static.mangafire.to/d67b/i/a/a3/a3d4aff3464e15b151a8de140fb48de3.jpg",
+                "malId": 61583,
+                "aniId": 87027,
+                "page": "MangaFire",
+                "title": "Hellper",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hellperr.m1v8"
             }
         },
         "Comick": {

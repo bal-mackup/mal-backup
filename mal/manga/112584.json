@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a73296e3-3b86-4fe6-a694-20bcef630701": {
+                "id": 109681,
                 "identifier": "a73296e3-3b86-4fe6-a694-20bcef630701",
                 "image": "https://uploads.mangadex.org/covers/a73296e3-3b86-4fe6-a694-20bcef630701/f790132b-86ce-48fe-846f-43524c9b3dcf.jpg",
                 "malId": 112584,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-vc998885": {
+                "id": 173399,
                 "identifier": "manga-vc998885",
                 "image": "https://avt.mkklcdnv6temp.com/fld/9/r/16-1733313622-nw.webp",
                 "malId": 112584,
@@ -30,30 +32,9 @@
                 "url": "https://manganato.com/manga-vc998885"
             }
         },
-        "MangaFire": {
-            "marusei2.k31l9": {
-                "identifier": "marusei2.k31l9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fb62cbea8d6463b3c23c83d467cbaf80.jpg",
-                "malId": 112584,
-                "aniId": 111686,
-                "page": "MangaFire",
-                "title": "Marusei!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/marusei2.k31l9/"
-            },
-            "k31l9": {
-                "identifier": "k31l9",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fb62cbea8d6463b3c23c83d467cbaf80.jpg",
-                "malId": 112584,
-                "aniId": 111686,
-                "page": "MangaFire",
-                "title": "Marusei!!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/marusei2.k31l9/"
-            }
-        },
         "MangaFox": {
             "marusei_gujira": {
+                "id": 181944,
                 "identifier": "marusei_gujira",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45839/cover.jpg",
                 "malId": 112584,
@@ -62,6 +43,19 @@
                 "title": "Marusei!! (Gujira)",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/marusei_gujira/"
+            }
+        },
+        "MangaFire": {
+            "k31l9": {
+                "id": 235482,
+                "identifier": "k31l9",
+                "image": "https://static.mangafire.to/a80f/i/f/fb/fb62cbea8d6463b3c23c83d467cbaf80.jpg",
+                "malId": 112584,
+                "aniId": 111686,
+                "page": "MangaFire",
+                "title": "Marusei!!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/marusei22.k31l9"
             }
         },
         "Comick": {

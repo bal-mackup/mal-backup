@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "88dc3908-4c7f-4abf-a1e3-4491386e1b29": {
+                "id": 37493,
                 "identifier": "88dc3908-4c7f-4abf-a1e3-4491386e1b29",
                 "image": "https://uploads.mangadex.org/covers/88dc3908-4c7f-4abf-a1e3-4491386e1b29/e120f487-8756-46cb-80d0-7a22e15a53b9.jpg",
                 "malId": 148921,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-lb988584": {
+                "id": 74279,
                 "identifier": "manga-lb988584",
                 "image": "https://avt.mkklcdnv6temp.com/44/u/23-1616470932.jpg",
                 "malId": 148921,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-lb988584"
             }
         },
-        "MangaFire": {
-            "an-hour-of-romance.v5204": {
-                "identifier": "an-hour-of-romance.v5204",
-                "image": "https://static.mangafire.to/3b2d5/i/2/24/24322f13e7aa9a611e6424969a0a4647.jpg",
-                "malId": 148921,
-                "aniId": 121632,
-                "page": "MangaFire",
-                "title": "An Hour of Romance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/an-hour-of-romance.v5204/"
-            }
-        },
         "MangaFox": {
             "an_hour_of_romance": {
+                "id": 162761,
                 "identifier": "an_hour_of_romance",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42111/cover.jpg",
                 "malId": 148921,
@@ -52,6 +43,19 @@
                 "title": "An Hour of Romance",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/an_hour_of_romance/"
+            }
+        },
+        "MangaFire": {
+            "v5204": {
+                "id": 262892,
+                "identifier": "v5204",
+                "image": "https://static.mangafire.to/c807/i/2/24/24322f13e7aa9a611e6424969a0a4647.jpg",
+                "malId": 148921,
+                "aniId": 121632,
+                "page": "MangaFire",
+                "title": "An Hour of Romance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/an-hour-of-romancee.v5204"
             }
         }
     },

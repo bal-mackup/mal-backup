@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-ls989001": {
+                "id": 76540,
                 "identifier": "manga-ls989001",
                 "image": "https://avt.mkklcdnv6temp.com/11/z/24-1620362618.jpg",
                 "malId": 149266,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "secret_lady": {
+                "id": 85369,
                 "identifier": "secret_lady",
                 "image": "https://fmcdn.mfcdn.net/store/manga/38630/cover.jpg",
                 "malId": 149266,
@@ -32,6 +34,7 @@
         },
         "Mangadex": {
             "b77e7a6a-a5e2-4fc6-b3c3-b152bd86239d": {
+                "id": 109599,
                 "identifier": "b77e7a6a-a5e2-4fc6-b3c3-b152bd86239d",
                 "image": "https://uploads.mangadex.org/covers/b77e7a6a-a5e2-4fc6-b3c3-b152bd86239d/967f314d-a7ce-4b62-bef0-1e7346732581.jpg",
                 "malId": 149266,
@@ -42,30 +45,9 @@
                 "url": "https://mangadex.org/title/b77e7a6a-a5e2-4fc6-b3c3-b152bd86239d"
             }
         },
-        "MangaFire": {
-            "secret-lady.lljmz": {
-                "identifier": "secret-lady.lljmz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d74b531e647be14a283f51dd23e67fe5.jpg",
-                "malId": 149266,
-                "aniId": 133797,
-                "page": "MangaFire",
-                "title": "Secret Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/secret-lady.lljmz/"
-            },
-            "secret-ladyy.lljmz": {
-                "identifier": "secret-ladyy.lljmz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d7/d74b531e647be14a283f51dd23e67fe5.jpg",
-                "malId": 149266,
-                "aniId": 133797,
-                "page": "MangaFire",
-                "title": "Secret Lady",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/secret-ladyy.lljmz/"
-            }
-        },
         "MangaSee": {
             "secret-lady": {
+                "id": 177155,
                 "identifier": "secret-lady",
                 "image": "https://temp.compsci88.com/cover/Secret-Lady.jpg",
                 "malId": 149266,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygpkf2spq4esbse91fe8": {
+                "id": 206175,
                 "identifier": "01j76xygpkf2spq4esbse91fe8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGPKF2SPQ4ESBSE91FE8.jpg",
                 "malId": 149266,
@@ -86,6 +69,19 @@
                 "title": "Secret Lady",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGPKF2SPQ4ESBSE91FE8"
+            }
+        },
+        "MangaFire": {
+            "lljmz": {
+                "id": 228390,
+                "identifier": "lljmz",
+                "image": "https://static.mangafire.to/1519/i/d/d7/d74b531e647be14a283f51dd23e67fe5.jpg",
+                "malId": 149266,
+                "aniId": 133797,
+                "page": "MangaFire",
+                "title": "Secret Lady",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/secret-ladyy.lljmz"
             }
         },
         "Comick": {

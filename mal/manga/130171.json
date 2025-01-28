@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "da2b304d-4d10-4762-80d6-1c7237ec1ecd": {
+                "id": 40146,
                 "identifier": "da2b304d-4d10-4762-80d6-1c7237ec1ecd",
                 "image": "https://uploads.mangadex.org/covers/da2b304d-4d10-4762-80d6-1c7237ec1ecd/c613a942-19ce-4674-848c-371e79e418d6.jpg",
                 "malId": 130171,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/da2b304d-4d10-4762-80d6-1c7237ec1ecd"
             }
         },
-        "MangaFire": {
-            "tokyo-higoro.kwqx9": {
-                "identifier": "tokyo-higoro.kwqx9",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5996cdd7cf17aa4fc1136a0719fb68db.jpg",
-                "malId": 130171,
-                "aniId": 120746,
-                "page": "MangaFire",
-                "title": "Tokyo These Days",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-higoro.kwqx9/"
-            }
-        },
         "MangaSee": {
             "tokyo-these-days": {
+                "id": 181211,
                 "identifier": "tokyo-these-days",
                 "image": "https://temp.compsci88.com/cover/Tokyo-These-Days.jpg",
                 "malId": 130171,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xygxz2kkrzqp52rx3cvkm": {
+                "id": 213278,
                 "identifier": "01j76xygxz2kkrzqp52rx3cvkm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXZ2KKRZQP52RX3CVKM.jpg",
                 "malId": 130171,
@@ -52,6 +43,19 @@
                 "title": "Tokyo These Days",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXZ2KKRZQP52RX3CVKM"
+            }
+        },
+        "MangaFire": {
+            "kwqx9": {
+                "id": 243203,
+                "identifier": "kwqx9",
+                "image": "https://static.mangafire.to/63e0/i/5/59/5996cdd7cf17aa4fc1136a0719fb68db.jpg",
+                "malId": 130171,
+                "aniId": 120746,
+                "page": "MangaFire",
+                "title": "Tokyo These Days",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-higoroo.kwqx9"
             }
         },
         "Comick": {

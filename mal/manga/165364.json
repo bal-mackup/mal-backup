@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "f361b519-5fbc-4e58-9ce0-db6e4aae8b7c": {
+                "id": 179956,
                 "identifier": "f361b519-5fbc-4e58-9ce0-db6e4aae8b7c",
                 "image": "https://uploads.mangadex.org/covers/f361b519-5fbc-4e58-9ce0-db6e4aae8b7c/bd94063d-7b94-4672-b907-c3c6d8394906.jpg",
                 "malId": 165364,
-                "aniId": null,
+                "aniId": 173421,
                 "page": "Mangadex",
                 "title": "Hinekure Kishi to Fuwafuwa Himesama: Kojougurashi to Chiisana Ouchi",
                 "type": "manga",
@@ -20,14 +21,28 @@
         },
         "MangaNato": {
             "manga-cl1005820": {
+                "id": 217646,
                 "identifier": "manga-cl1005820",
-                "image": "https://avt.mkklcdnv6temp.com/45/w/37-1731598815.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/76/c/18-1733381646-nw.webp",
                 "malId": 165364,
-                "aniId": null,
+                "aniId": 173421,
                 "page": "MangaNato",
                 "title": "The Cynical Knight And Gentle Princess: Building Fairy Homes And A Life Together",
                 "type": "manga",
                 "url": "https://manganato.com/manga-cl1005820"
+            }
+        },
+        "Weebcentral": {
+            "01jf2q4p9kd76n9k95mfvqfw1d": {
+                "id": 267863,
+                "identifier": "01jf2q4p9kd76n9k95mfvqfw1d",
+                "image": "https://temp.compsci88.com/cover/fallback/01JF2Q4P9KD76N9K95MFVQFW1D.jpg",
+                "malId": 165364,
+                "aniId": 173421,
+                "page": "Weebcentral",
+                "title": "The Cynical Knight and Gentle Princess: Building Fairy Homes and a Life Together",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JF2Q4P9KD76N9K95MFVQFW1D"
             }
         },
         "Comick": {
@@ -37,8 +52,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Hinekure Kishi to Fuwafuwa Himesama: Kojougurashi to Chiisana Ouchi",
-                "url": "https://comick.io/comic/hinekure-kishi-to-fuwafuwa-himesama-kojougurashi-to-chiisana-ouchi"
+                "url": "https://comick.io/comic/hinekure-kishi-to-fuwafuwa-himesama-kojougurashi-to-chiisana-ouchi",
+                "aniId": 173421
             }
         }
-    }
+    },
+    "aniId": 173421
 }

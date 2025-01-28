@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b34feb8a-4246-4930-8a33-592c62ab8d32": {
+                "id": 23341,
                 "identifier": "b34feb8a-4246-4930-8a33-592c62ab8d32",
                 "image": "https://uploads.mangadex.org/covers/b34feb8a-4246-4930-8a33-592c62ab8d32/79e64571-5a9a-480b-8adb-f2e6086e0ab4.jpg",
                 "malId": 110371,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/b34feb8a-4246-4930-8a33-592c62ab8d32"
             },
             "a9378e8b-c04c-48ae-926a-1860ebfad347": {
+                "id": 33128,
                 "identifier": "a9378e8b-c04c-48ae-926a-1860ebfad347",
                 "image": "https://uploads.mangadex.org/covers/a9378e8b-c04c-48ae-926a-1860ebfad347/6ae62e69-cef9-4da2-8a39-77fd8d254a19.png",
                 "malId": 110371,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "mahou-shoujo-flaming-star": {
+                "id": 62503,
                 "identifier": "mahou-shoujo-flaming-star",
                 "image": "https://temp.compsci88.com/cover/Mahou-Shoujo-Flaming-Star.jpg",
                 "malId": 110371,
@@ -40,30 +43,9 @@
                 "url": "https://mangasee123.com/manga/Mahou-Shoujo-Flaming-Star"
             }
         },
-        "MangaFire": {
-            "shinsou-mahou-shoujo-howling-moon.5kmvj": {
-                "identifier": "shinsou-mahou-shoujo-howling-moon.5kmvj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b187109042dc4557ea59276ae2545d6.jpg",
-                "malId": 110371,
-                "aniId": 112373,
-                "page": "MangaFire",
-                "title": "Divine Raiment Magical Girl Howling Moon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinsou-mahou-shoujo-howling-moon.5kmvj/"
-            },
-            "5kmvj": {
-                "identifier": "5kmvj",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b187109042dc4557ea59276ae2545d6.jpg",
-                "malId": 110371,
-                "aniId": 112373,
-                "page": "MangaFire",
-                "title": "Divine Raiment Magical Girl Howling Moon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinsou-mahou-shoujo-howling-moon.5kmvj/"
-            }
-        },
         "Weebcentral": {
             "01j76xycz56bdpzc7fhvktgza8": {
+                "id": 207444,
                 "identifier": "01j76xycz56bdpzc7fhvktgza8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZ56BDPZC7FHVKTGZA8.jpg",
                 "malId": 110371,
@@ -72,6 +54,19 @@
                 "title": "Divine Raiment Magical Girl Howling Moon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZ56BDPZC7FHVKTGZA8"
+            }
+        },
+        "MangaFire": {
+            "5kmvj": {
+                "id": 243368,
+                "identifier": "5kmvj",
+                "image": "https://static.mangafire.to/55f9/i/5/5b/5b187109042dc4557ea59276ae2545d6.jpg",
+                "malId": 110371,
+                "aniId": 112373,
+                "page": "MangaFire",
+                "title": "Divine Raiment Magical Girl Howling Moon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinsou-mahou-shoujo-howling-moonn.5kmvj"
             }
         },
         "Comick": {

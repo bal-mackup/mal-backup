@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "47d168b4-5f66-48e4-87a3-82b79b6ea817": {
+                "id": 29781,
                 "identifier": "47d168b4-5f66-48e4-87a3-82b79b6ea817",
                 "image": "https://uploads.mangadex.org/covers/47d168b4-5f66-48e4-87a3-82b79b6ea817/03f5fd06-29e2-43ab-859d-de79db3f2de3.jpg",
                 "malId": 135572,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-fm982495": {
+                "id": 85699,
                 "identifier": "manga-fm982495",
                 "image": "https://avt.mkklcdnv6temp.com/3/y/19-1583499223.jpg",
                 "malId": 135572,
@@ -30,6 +32,7 @@
                 "url": "https://chapmanganato.com/manga-fm982495"
             },
             "manga-ij985692": {
+                "id": 85715,
                 "identifier": "manga-ij985692",
                 "image": "https://avt.mkklcdnv6temp.com/26/v/21-1592064504.jpg",
                 "malId": 135572,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "his-majesty-the-demon-kings-housekeeper": {
+                "id": 118459,
                 "identifier": "his-majesty-the-demon-kings-housekeeper",
                 "image": "https://temp.compsci88.com/cover/His-Majesty-the-Demon-Kings-Housekeeper.jpg",
                 "malId": 135572,
@@ -52,30 +56,9 @@
                 "url": "https://mangasee123.com/manga/His-Majesty-the-Demon-Kings-Housekeeper"
             }
         },
-        "MangaFire": {
-            "his-majesty-the-demon-kings-housekeeper.qxrmv": {
-                "identifier": "his-majesty-the-demon-kings-housekeeper.qxrmv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c281c0d2d1f0c780a92bf54f138ab2ea.jpg",
-                "malId": 135572,
-                "aniId": 107999,
-                "page": "MangaFire",
-                "title": "His Majesty the Demon King’s Housekeeper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/his-majesty-the-demon-kings-housekeeper.qxrmv/"
-            },
-            "his-majesty-the-demon-kings-housekeeperr.qxrmv": {
-                "identifier": "his-majesty-the-demon-kings-housekeeperr.qxrmv",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c2/c281c0d2d1f0c780a92bf54f138ab2ea.jpg",
-                "malId": 135572,
-                "aniId": 107999,
-                "page": "MangaFire",
-                "title": "His Majesty the Demon King’s Housekeeper",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/his-majesty-the-demon-kings-housekeeperr.qxrmv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfrw6g1q2h3shpfb6p4s": {
+                "id": 212193,
                 "identifier": "01j76xyfrw6g1q2h3shpfb6p4s",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFRW6G1Q2H3SHPFB6P4S.jpg",
                 "malId": 135572,
@@ -84,6 +67,19 @@
                 "title": "His Majesty the Demon King's Housekeeper",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFRW6G1Q2H3SHPFB6P4S"
+            }
+        },
+        "MangaFire": {
+            "qxrmv": {
+                "id": 260368,
+                "identifier": "qxrmv",
+                "image": "https://static.mangafire.to/643c/i/c/c2/c281c0d2d1f0c780a92bf54f138ab2ea.jpg",
+                "malId": 135572,
+                "aniId": 107999,
+                "page": "MangaFire",
+                "title": "His Majesty the Demon King’s Housekeeper",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/his-majesty-the-demon-kings-housekeeperr.qxrmv"
             }
         },
         "Comick": {

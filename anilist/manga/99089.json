@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b9745d18-8556-48ea-a5c7-d43abdc5ab62": {
+                "id": 16949,
                 "identifier": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
                 "image": "https://uploads.mangadex.org/covers/b9745d18-8556-48ea-a5c7-d43abdc5ab62/85260b69-5feb-49e8-ae0b-93d508f318fa.png",
                 "malId": 104064,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "little-witch-academia-satou-keisuke": {
+                "id": 60554,
                 "identifier": "little-witch-academia-satou-keisuke",
                 "image": "https://temp.compsci88.com/cover/Little-Witch-Academia-satou-Keisuke.jpg",
                 "malId": 104064,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ym975421": {
+                "id": 85938,
                 "identifier": "manga-ym975421",
                 "image": "https://avt.mkklcdnv6temp.com/9/t/15-1583491812.jpg",
                 "malId": 104064,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ym975421"
             }
         },
-        "MangaFire": {
-            "little-witch-academia2.7jq57": {
-                "identifier": "little-witch-academia2.7jq57",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/960d64fa1ea3eea7f943532fb2bbb3d8.jpg",
-                "malId": 104064,
-                "aniId": 99089,
-                "page": "MangaFire",
-                "title": "Little Witch Academia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/little-witch-academia2.7jq57/"
-            },
-            "little-witch-academia22.7jq57": {
-                "identifier": "little-witch-academia22.7jq57",
-                "image": "https://static.mangafire.to/3b2d5/i/9/96/960d64fa1ea3eea7f943532fb2bbb3d8.jpg",
-                "malId": 104064,
-                "aniId": 99089,
-                "page": "MangaFire",
-                "title": "Little Witch Academia",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/little-witch-academia22.7jq57/"
-            }
-        },
         "Weebcentral": {
             "01j76xycgsgbsdwvqace1d9x01": {
+                "id": 210680,
                 "identifier": "01j76xycgsgbsdwvqace1d9x01",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCGSGBSDWVQACE1D9X01.jpg",
                 "malId": 104064,
@@ -74,6 +56,19 @@
                 "title": "Little Witch Academia (SATOU Keisuke)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCGSGBSDWVQACE1D9X01"
+            }
+        },
+        "MangaFire": {
+            "7jq57": {
+                "id": 226580,
+                "identifier": "7jq57",
+                "image": "https://static.mangafire.to/9dac/i/9/96/960d64fa1ea3eea7f943532fb2bbb3d8.jpg",
+                "malId": 104064,
+                "aniId": 99089,
+                "page": "MangaFire",
+                "title": "Little Witch Academia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/little-witch-academia22.7jq57"
             }
         },
         "Comick": {

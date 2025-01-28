@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "aa949328-5511-47c8-b291-b65d04959c85": {
+                "id": 37245,
                 "identifier": "aa949328-5511-47c8-b291-b65d04959c85",
                 "image": "https://uploads.mangadex.org/covers/aa949328-5511-47c8-b291-b65d04959c85/12bffbb6-0fce-4383-95fd-c48936b24b8c.jpg",
                 "malId": 129811,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ix985906": {
+                "id": 81789,
                 "identifier": "manga-ix985906",
                 "image": "https://avt.mkklcdnv6temp.com/35/t/21-1595586585.jpg",
                 "malId": 129811,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "my-darling-next-door": {
+                "id": 85539,
                 "identifier": "my-darling-next-door",
                 "image": "https://temp.compsci88.com/cover/My-Darling-Next-Door.jpg",
                 "malId": 129811,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "tonari_no_otona_kun": {
+                "id": 113727,
                 "identifier": "tonari_no_otona_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34645/cover.jpg",
                 "malId": 129811,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/tonari_no_otona_kun/"
             }
         },
-        "MangaFire": {
-            "tonari-no-otona-kun.0rjj7": {
-                "identifier": "tonari-no-otona-kun.0rjj7",
-                "image": "https://static.mangafire.to/3b2d5/i/7/76/764b9bdd4eea348268119f64307299a4.jpg",
-                "malId": 129811,
-                "aniId": 118998,
-                "page": "MangaFire",
-                "title": "My Darling Next Door",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tonari-no-otona-kun.0rjj7/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeyqr4gzjqg1zqfskpm1": {
+                "id": 207278,
                 "identifier": "01j76xyeyqr4gzjqg1zqfskpm1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEYQR4GZJQG1ZQFSKPM1.jpg",
                 "malId": 129811,
@@ -76,6 +69,19 @@
                 "title": "My Darling Next Door",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEYQR4GZJQG1ZQFSKPM1"
+            }
+        },
+        "MangaFire": {
+            "0rjj7": {
+                "id": 254122,
+                "identifier": "0rjj7",
+                "image": "https://static.mangafire.to/097d/i/7/76/764b9bdd4eea348268119f64307299a4.jpg",
+                "malId": 129811,
+                "aniId": 118998,
+                "page": "MangaFire",
+                "title": "My Darling Next Door",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tonari-no-otona-kunn.0rjj7"
             }
         },
         "Comick": {

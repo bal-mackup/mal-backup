@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "73ff1c9c-e664-4347-9366-350439413054": {
+                "id": 12918,
                 "identifier": "73ff1c9c-e664-4347-9366-350439413054",
                 "image": "https://uploads.mangadex.org/covers/73ff1c9c-e664-4347-9366-350439413054/89ffc8d9-78bc-4e62-9688-844551d7cf77.jpg",
                 "malId": 88345,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/73ff1c9c-e664-4347-9366-350439413054"
             },
             "c1a32e5e-a8b5-479f-b232-771fef784412": {
+                "id": 34717,
                 "identifier": "c1a32e5e-a8b5-479f-b232-771fef784412",
                 "image": "https://uploads.mangadex.org/covers/c1a32e5e-a8b5-479f-b232-771fef784412/30a1c2ac-87a6-4b76-9b0f-37e464bec4f1.png",
                 "malId": 88345,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "kininaru_ano_ko": {
+                "id": 89420,
                 "identifier": "kininaru_ano_ko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15603/cover.jpg",
                 "malId": 88345,
@@ -40,30 +43,9 @@
                 "url": "https://fanfox.net/manga/kininaru_ano_ko/"
             }
         },
-        "MangaFire": {
-            "kininaru-ano-ko.6l76p": {
-                "identifier": "kininaru-ano-ko.6l76p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5eabce26992fa976bfd3c76df5cc9a0d.jpg",
-                "malId": 88345,
-                "aniId": 94655,
-                "page": "MangaFire",
-                "title": "Kininaru Ano Ko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kininaru-ano-ko.6l76p/"
-            },
-            "6l76p": {
-                "identifier": "6l76p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5e/5eabce26992fa976bfd3c76df5cc9a0d.jpg",
-                "malId": 88345,
-                "aniId": 94655,
-                "page": "MangaFire",
-                "title": "Kininaru Ano Ko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kininaru-ano-ko.6l76p/"
-            }
-        },
         "MangaNato": {
             "manga-cc954159": {
+                "id": 182152,
                 "identifier": "manga-cc954159",
                 "image": "https://avt.mkklcdnv6temp.com/fld/100/v/1-1732720535-nw.webp",
                 "malId": 88345,
@@ -72,6 +54,19 @@
                 "title": "Kininaru Ano Ko",
                 "type": "manga",
                 "url": "https://manganato.com/manga-cc954159"
+            }
+        },
+        "MangaFire": {
+            "6l76p": {
+                "id": 255657,
+                "identifier": "6l76p",
+                "image": "https://static.mangafire.to/6e33/i/5/5e/5eabce26992fa976bfd3c76df5cc9a0d.jpg",
+                "malId": 88345,
+                "aniId": 94655,
+                "page": "MangaFire",
+                "title": "Kininaru Ano Ko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kininaru-ano-koo.6l76p"
             }
         },
         "Comick": {

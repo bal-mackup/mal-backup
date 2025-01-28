@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "65d936d2-e401-4dc7-a5d6-ee9a4eaa3939": {
+                "id": 102418,
                 "identifier": "65d936d2-e401-4dc7-a5d6-ee9a4eaa3939",
                 "image": "https://uploads.mangadex.org/covers/65d936d2-e401-4dc7-a5d6-ee9a4eaa3939/b1a76930-605c-49c3-9273-52e4a3614998.jpg",
                 "malId": 147092,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/65d936d2-e401-4dc7-a5d6-ee9a4eaa3939"
             },
             "c3295871-b930-4ee3-ac0f-ff7102ecec4e": {
+                "id": 107409,
                 "identifier": "c3295871-b930-4ee3-ac0f-ff7102ecec4e",
                 "image": "https://uploads.mangadex.org/covers/c3295871-b930-4ee3-ac0f-ff7102ecec4e/dccbd42d-5a83-431d-aba7-e889002efc5d.jpg",
                 "malId": 147092,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/c3295871-b930-4ee3-ac0f-ff7102ecec4e"
             },
             "8a3b4527-71b1-44bc-b6da-9aae2b1df1a0": {
+                "id": 128506,
                 "identifier": "8a3b4527-71b1-44bc-b6da-9aae2b1df1a0",
                 "image": "https://uploads.mangadex.org/covers/8a3b4527-71b1-44bc-b6da-9aae2b1df1a0/029afce7-59a5-43f6-b38d-a5e4018caa09.jpg",
                 "malId": 147092,
@@ -40,6 +43,7 @@
         },
         "MangaNato": {
             "manga-ny990907": {
+                "id": 105887,
                 "identifier": "manga-ny990907",
                 "image": "https://avt.mkklcdnv6temp.com/43/s/25-1653916405.jpg",
                 "malId": 147092,
@@ -50,6 +54,7 @@
                 "url": "https://manganato.com/manga-ny990907"
             },
             "manga-sp995450": {
+                "id": 128831,
                 "identifier": "manga-sp995450",
                 "image": "https://avt.mkklcdnv6temp.com/40/i/33-1707447829.jpg",
                 "malId": 147092,
@@ -62,6 +67,7 @@
         },
         "MangaFox": {
             "sasha_chan_to_classmate_otaku_kun": {
+                "id": 106732,
                 "identifier": "sasha_chan_to_classmate_otaku_kun",
                 "image": "https://fmcdn.mfcdn.net/store/manga/42508/cover.jpg",
                 "malId": 147092,
@@ -72,30 +78,9 @@
                 "url": "https://fanfox.net/manga/sasha_chan_to_classmate_otaku_kun/"
             }
         },
-        "MangaFire": {
-            "sasha-chan-to-classmate-otaku-kun.qx8qn": {
-                "identifier": "sasha-chan-to-classmate-otaku-kun.qx8qn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b2433a62d25f748d796e5b8f14c98b1.jpg",
-                "malId": 147092,
-                "aniId": 138818,
-                "page": "MangaFire",
-                "title": "Sasha-chan to Classmate Otaku-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sasha-chan-to-classmate-otaku-kun.qx8qn/"
-            },
-            "sasha-chan-to-classmate-otaku-kunn.qx8qn": {
-                "identifier": "sasha-chan-to-classmate-otaku-kunn.qx8qn",
-                "image": "https://static.mangafire.to/3b2d5/i/0/0b/0b2433a62d25f748d796e5b8f14c98b1.jpg",
-                "malId": 147092,
-                "aniId": 138818,
-                "page": "MangaFire",
-                "title": "Sasha-chan to Classmate Otaku-kun",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sasha-chan-to-classmate-otaku-kunn.qx8qn/"
-            }
-        },
         "MangaSee": {
             "sasha-chan-to-classmate-otakukun": {
+                "id": 193443,
                 "identifier": "sasha-chan-to-classmate-otakukun",
                 "image": "https://temp.compsci88.com/cover/Sasha-chan-to-Classmate-Otakukun.jpg",
                 "malId": 147092,
@@ -108,6 +93,7 @@
         },
         "Weebcentral": {
             "01j76xyhehcb98vpb7prear7jz": {
+                "id": 211440,
                 "identifier": "01j76xyhehcb98vpb7prear7jz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHEHCB98VPB7PREAR7JZ.jpg",
                 "malId": 147092,
@@ -116,6 +102,30 @@
                 "title": "Sasha-chan to Classmate Otaku-kun",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHEHCB98VPB7PREAR7JZ"
+            }
+        },
+        "MangaFire": {
+            "qx8qn": {
+                "id": 226802,
+                "identifier": "qx8qn",
+                "image": "https://static.mangafire.to/67e4/i/0/0b/0b2433a62d25f748d796e5b8f14c98b1.jpg",
+                "malId": 147092,
+                "aniId": 138818,
+                "page": "MangaFire",
+                "title": "Sasha-chan to Classmate Otaku-kun",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sasha-chan-to-classmate-otaku-kunn.qx8qn"
+            },
+            "72jm6": {
+                "id": 267552,
+                "identifier": "72jm6",
+                "image": "https://static.mangafire.to/ef65/i/d/d7/d7abc3ffc1b094c0fca1a514e442a234.jpg",
+                "malId": 147092,
+                "aniId": 138818,
+                "page": "MangaFire",
+                "title": "JC Sasha-chan to Classmate Otaku-kun (Original)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jc-sasha-chan-to-classmate-otaku-kun-originall.72jm6"
             }
         },
         "Comick": {

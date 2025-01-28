@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c66d2a14-e0a2-4488-9023-abdab7249d61": {
+                "id": 14451,
                 "identifier": "c66d2a14-e0a2-4488-9023-abdab7249d61",
                 "image": "https://uploads.mangadex.org/covers/c66d2a14-e0a2-4488-9023-abdab7249d61/b7f31a26-c063-44ea-bbcc-34ee4e479363.jpg",
                 "malId": 75929,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "arte": {
+                "id": 56215,
                 "identifier": "arte",
                 "image": "https://temp.compsci88.com/cover/Arte.jpg",
                 "malId": 75929,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "arte": {
+                "id": 66262,
                 "identifier": "arte",
                 "image": "https://fmcdn.mfcdn.net/store/manga/18369/cover.jpg",
                 "malId": 75929,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-sb970158": {
+                "id": 81820,
                 "identifier": "manga-sb970158",
                 "image": "https://avt.mkklcdnv6temp.com/22/o/13-1583488559.jpg",
                 "malId": 75929,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-sb970158"
             }
         },
-        "MangaFire": {
-            "arte.6jmz": {
-                "identifier": "arte.6jmz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/8207088cf509a027d211631380b40880.jpg",
-                "malId": 75929,
-                "aniId": 87466,
-                "page": "MangaFire",
-                "title": "Arte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/arte.6jmz/"
-            },
-            "artee.6jmz": {
-                "identifier": "artee.6jmz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/8207088cf509a027d211631380b40880.jpg",
-                "malId": 75929,
-                "aniId": 87466,
-                "page": "MangaFire",
-                "title": "Arte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/artee.6jmz/"
-            },
-            "6jmz": {
-                "identifier": "6jmz",
-                "image": "https://static.mangafire.to/3b2d5/i/8/82/8207088cf509a027d211631380b40880.jpg",
-                "malId": 75929,
-                "aniId": 87466,
-                "page": "MangaFire",
-                "title": "Arte",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/artee.6jmz/"
-            }
-        },
         "Weebcentral": {
             "01j76xycn5mhxvxtt23802a9mp": {
+                "id": 211064,
                 "identifier": "01j76xycn5mhxvxtt23802a9mp",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCN5MHXVXTT23802A9MP.jpg",
                 "malId": 75929,
@@ -96,6 +69,19 @@
                 "title": "Arte",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCN5MHXVXTT23802A9MP"
+            }
+        },
+        "MangaFire": {
+            "6jmz": {
+                "id": 227413,
+                "identifier": "6jmz",
+                "image": "https://static.mangafire.to/4dd2/i/8/82/8207088cf509a027d211631380b40880.jpg",
+                "malId": 75929,
+                "aniId": 87466,
+                "page": "MangaFire",
+                "title": "Arte",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/artee.6jmz"
             }
         },
         "Comick": {

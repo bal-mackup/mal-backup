@@ -8,6 +8,7 @@
     "Sites": {
         "MangaSee": {
             "rwby-official-manga-anthology": {
+                "id": 70442,
                 "identifier": "rwby-official-manga-anthology",
                 "image": "https://temp.compsci88.com/cover/Rwby-Official-Manga-Anthology.jpg",
                 "malId": 107982,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "bbacf021-8aff-4ea3-9668-dd59767f101b": {
+                "id": 135018,
                 "identifier": "bbacf021-8aff-4ea3-9668-dd59767f101b",
                 "image": "https://uploads.mangadex.org/covers/bbacf021-8aff-4ea3-9668-dd59767f101b/75d851ab-f773-4899-8a84-acefeb3e8b9b.jpg",
                 "malId": 107982,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/bbacf021-8aff-4ea3-9668-dd59767f101b"
             }
         },
-        "MangaFire": {
-            "rwby-official-manga-anthology.0q007": {
-                "identifier": "rwby-official-manga-anthology.0q007",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/624c4169ee0f85922e66b6c871733b49.jpg",
-                "malId": 107982,
-                "aniId": 101745,
-                "page": "MangaFire",
-                "title": "RWBY: Official Manga Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rwby-official-manga-anthology.0q007/"
-            },
-            "rwby-official-manga-anthologyy.0q007": {
-                "identifier": "rwby-official-manga-anthologyy.0q007",
-                "image": "https://static.mangafire.to/3b2d5/i/6/62/624c4169ee0f85922e66b6c871733b49.jpg",
-                "malId": 107982,
-                "aniId": 101745,
-                "page": "MangaFire",
-                "title": "RWBY: Official Manga Anthology",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rwby-official-manga-anthologyy.0q007/"
-            }
-        },
         "Weebcentral": {
             "01j76xyczg61t3z0rm97zc7d3d": {
+                "id": 207515,
                 "identifier": "01j76xyczg61t3z0rm97zc7d3d",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCZG61T3Z0RM97ZC7D3D.jpg",
                 "malId": 107982,
@@ -62,6 +43,19 @@
                 "title": "RWBY: Official Manga Anthology",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCZG61T3Z0RM97ZC7D3D"
+            }
+        },
+        "MangaFire": {
+            "0q007": {
+                "id": 223910,
+                "identifier": "0q007",
+                "image": "https://static.mangafire.to/360a/i/6/62/624c4169ee0f85922e66b6c871733b49.jpg",
+                "malId": 107982,
+                "aniId": 101745,
+                "page": "MangaFire",
+                "title": "RWBY: Official Manga Anthology",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rwby-official-manga-anthologyy.0q007"
             }
         },
         "MangaReader": {

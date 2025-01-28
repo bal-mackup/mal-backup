@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "82d90da0-207e-47ca-9184-a9a3a117787d": {
+                "id": 23635,
                 "identifier": "82d90da0-207e-47ca-9184-a9a3a117787d",
                 "image": "https://uploads.mangadex.org/covers/82d90da0-207e-47ca-9184-a9a3a117787d/3a5d099d-f51e-4d89-91f9-8db8ed9b2868.jpg",
                 "malId": 115389,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-cb980258": {
+                "id": 76016,
                 "identifier": "manga-cb980258",
                 "image": "https://avt.mkklcdnv6temp.com/21/w/17-1583496045.jpg",
                 "malId": 115389,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "kinjo-no-nanako-san": {
+                "id": 76826,
                 "identifier": "kinjo-no-nanako-san",
                 "image": "https://temp.compsci88.com/cover/Kinjo-no-Nanako-san.jpg",
                 "malId": 115389,
@@ -42,20 +45,9 @@
                 "url": "https://mangasee123.com/manga/Kinjo-no-Nanako-san"
             }
         },
-        "MangaFire": {
-            "kinjo-no-nanako-san.3r6o6": {
-                "identifier": "kinjo-no-nanako-san.3r6o6",
-                "image": "https://static.mangafire.to/3b2d5/i/7/7c/7c1f75c5dde3cc1a433996ec9374f332.jpg",
-                "malId": 115389,
-                "aniId": 104034,
-                "page": "MangaFire",
-                "title": "Nanako From The Neighborhood",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kinjo-no-nanako-san.3r6o6/"
-            }
-        },
         "Weebcentral": {
             "01j76xydrrs3brewdpabtdkmw2": {
+                "id": 206969,
                 "identifier": "01j76xydrrs3brewdpabtdkmw2",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDRRS3BREWDPABTDKMW2.jpg",
                 "malId": 115389,
@@ -64,6 +56,19 @@
                 "title": "Kinsho no Nanako-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDRRS3BREWDPABTDKMW2"
+            }
+        },
+        "MangaFire": {
+            "3r6o6": {
+                "id": 247071,
+                "identifier": "3r6o6",
+                "image": "https://static.mangafire.to/a5af/i/7/7c/7c1f75c5dde3cc1a433996ec9374f332.jpg",
+                "malId": 115389,
+                "aniId": 104034,
+                "page": "MangaFire",
+                "title": "Nanako From The Neighborhood",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kinjo-no-nanako-sann.3r6o6"
             }
         },
         "Comick": {

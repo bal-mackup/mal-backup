@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "cdf80c45-20aa-4c8a-93e2-1e7e9ac3f4f0": {
+                "id": 35704,
                 "identifier": "cdf80c45-20aa-4c8a-93e2-1e7e9ac3f4f0",
                 "image": "https://uploads.mangadex.org/covers/cdf80c45-20aa-4c8a-93e2-1e7e9ac3f4f0/f61b5824-c114-4adc-bca7-2175650a3990.jpg",
                 "malId": 92149,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/cdf80c45-20aa-4c8a-93e2-1e7e9ac3f4f0"
             },
             "76ee7069-23b4-493c-bc44-34ccbf3051a8": {
+                "id": 50502,
                 "identifier": "76ee7069-23b4-493c-bc44-34ccbf3051a8",
                 "image": "https://uploads.mangadex.org/covers/76ee7069-23b4-493c-bc44-34ccbf3051a8/cfac7a67-3c4b-4b29-8599-bad47613185c.jpg",
                 "malId": 92149,
@@ -28,6 +30,7 @@
                 "url": "https://mangadex.org/title/76ee7069-23b4-493c-bc44-34ccbf3051a8"
             },
             "83c2d97f-ce11-4f08-9eb7-7c917ecf0f35": {
+                "id": 89961,
                 "identifier": "83c2d97f-ce11-4f08-9eb7-7c917ecf0f35",
                 "image": "https://uploads.mangadex.org/covers/83c2d97f-ce11-4f08-9eb7-7c917ecf0f35/97fe67f1-b32d-4d12-8692-d8fb972fd94e.jpg",
                 "malId": 92149,
@@ -40,6 +43,7 @@
         },
         "MangaSee": {
             "tomo-chan-is-a-girl": {
+                "id": 60458,
                 "identifier": "tomo-chan-is-a-girl",
                 "image": "https://temp.compsci88.com/cover/Tomo-chan-Is-a-Girl.jpg",
                 "malId": 92149,
@@ -52,6 +56,7 @@
         },
         "MangaFox": {
             "tomo_chan_wa_onna_no_ko": {
+                "id": 61370,
                 "identifier": "tomo_chan_wa_onna_no_ko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16159/cover.jpg",
                 "malId": 92149,
@@ -62,6 +67,7 @@
                 "url": "https://fanfox.net/manga/tomo_chan_wa_onna_no_ko/"
             },
             "tomo_chan_wa_onnanoko": {
+                "id": 71418,
                 "identifier": "tomo_chan_wa_onnanoko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32759/cover.jpg",
                 "malId": 92149,
@@ -74,6 +80,7 @@
         },
         "MangaNato": {
             "manga-yg951863": {
+                "id": 73134,
                 "identifier": "manga-yg951863",
                 "image": "https://avt.mkklcdnv6temp.com/19/e/1-1583464448.jpg",
                 "malId": 92149,
@@ -84,6 +91,7 @@
                 "url": "https://chapmanganato.com/manga-yg951863"
             },
             "manga-wt1000002": {
+                "id": 178450,
                 "identifier": "manga-wt1000002",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/k/16-1733316828-nw.webp",
                 "malId": 92149,
@@ -94,30 +102,9 @@
                 "url": "https://chapmanganato.to/manga-wt1000002"
             }
         },
-        "MangaFire": {
-            "tomo-chan-wa-onna-no-ko.ojyj5": {
-                "identifier": "tomo-chan-wa-onna-no-ko.ojyj5",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/408fc401646e18d13a41d66ab430eb0c.jpg",
-                "malId": 92149,
-                "aniId": 86300,
-                "page": "MangaFire",
-                "title": "Tomo-chan is a Girl!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tomo-chan-wa-onna-no-ko.ojyj5/"
-            },
-            "tomo-chan-wa-onna-no-koo.ojyj5": {
-                "identifier": "tomo-chan-wa-onna-no-koo.ojyj5",
-                "image": "https://static.mangafire.to/3b2d5/i/4/40/408fc401646e18d13a41d66ab430eb0c.jpg",
-                "malId": 92149,
-                "aniId": 86300,
-                "page": "MangaFire",
-                "title": "Tomo-chan is a Girl!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tomo-chan-wa-onna-no-koo.ojyj5/"
-            }
-        },
         "Weebcentral": {
             "01j76xydh59esywqc35gnw38a7": {
+                "id": 207540,
                 "identifier": "01j76xydh59esywqc35gnw38a7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDH59ESYWQC35GNW38A7.jpg",
                 "malId": 92149,
@@ -126,6 +113,19 @@
                 "title": "Tomo-chan Is a Girl!",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDH59ESYWQC35GNW38A7"
+            }
+        },
+        "MangaFire": {
+            "ojyj5": {
+                "id": 226145,
+                "identifier": "ojyj5",
+                "image": "https://static.mangafire.to/1ee5/i/4/40/408fc401646e18d13a41d66ab430eb0c.jpg",
+                "malId": 92149,
+                "aniId": 86300,
+                "page": "MangaFire",
+                "title": "Tomo-chan is a Girl!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tomo-chan-wa-onna-no-koo.ojyj5"
             }
         },
         "Comick": {

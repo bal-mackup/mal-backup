@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9c3a5f7a-d9b3-47aa-9a67-592486ea48bd": {
+                "id": 28017,
                 "identifier": "9c3a5f7a-d9b3-47aa-9a67-592486ea48bd",
                 "image": "https://uploads.mangadex.org/covers/9c3a5f7a-d9b3-47aa-9a67-592486ea48bd/fee997b0-f1e6-482b-af3f-4a8bf0f92ce9.jpg",
                 "malId": 120414,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/9c3a5f7a-d9b3-47aa-9a67-592486ea48bd"
             }
         },
-        "MangaFire": {
-            "search-and-destroy.803lv": {
-                "identifier": "search-and-destroy.803lv",
-                "image": "https://static.mangafire.to/3b2d5/i/5/58/580dd8e4513222f83a089f383ca4310e.jpg",
-                "malId": 120414,
-                "aniId": 122077,
-                "page": "MangaFire",
-                "title": "Search and Destroy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/search-and-destroy.803lv/"
-            }
-        },
         "MangaSee": {
             "search-and-destroy": {
+                "id": 195227,
                 "identifier": "search-and-destroy",
                 "image": "https://temp.compsci88.com/cover/Search-and-Destroy.jpg",
                 "malId": 120414,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhfcekzyt3fg82ge7yec": {
+                "id": 211184,
                 "identifier": "01j76xyhfcekzyt3fg82ge7yec",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHFCEKZYT3FG82GE7YEC.jpg",
                 "malId": 120414,
@@ -52,6 +43,19 @@
                 "title": "Search and Destroy",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHFCEKZYT3FG82GE7YEC"
+            }
+        },
+        "MangaFire": {
+            "803lv": {
+                "id": 246452,
+                "identifier": "803lv",
+                "image": "https://static.mangafire.to/a20e/i/5/58/580dd8e4513222f83a089f383ca4310e.jpg",
+                "malId": 120414,
+                "aniId": 122077,
+                "page": "MangaFire",
+                "title": "Search and Destroy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/search-and-destroyy.803lv"
             }
         },
         "Comick": {

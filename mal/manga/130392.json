@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a92bd70d-a716-4e48-90c6-137682742137": {
+                "id": 50125,
                 "identifier": "a92bd70d-a716-4e48-90c6-137682742137",
                 "image": "https://uploads.mangadex.org/covers/a92bd70d-a716-4e48-90c6-137682742137/50feb686-840b-4130-958c-f28d5697f261.jpg",
                 "malId": 130392,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/a92bd70d-a716-4e48-90c6-137682742137"
             },
             "a4486d10-8894-42fc-9c7d-62fec68c9000": {
+                "id": 127185,
                 "identifier": "a4486d10-8894-42fc-9c7d-62fec68c9000",
                 "image": "https://uploads.mangadex.org/covers/a4486d10-8894-42fc-9c7d-62fec68c9000/97736905-f61f-477a-8088-21217e4da5d2.jpg",
                 "malId": 130392,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "ron-kamonohashi-deranged-detective": {
+                "id": 62784,
                 "identifier": "ron-kamonohashi-deranged-detective",
                 "image": "https://temp.compsci88.com/cover/Ron-Kamonohashi-Deranged-Detective.jpg",
                 "malId": 130392,
@@ -42,6 +45,7 @@
         },
         "MangaNato": {
             "manga-kw988205": {
+                "id": 81662,
                 "identifier": "manga-kw988205",
                 "image": "https://avt.mkklcdnv6temp.com/29/c/23-1613882852.jpg",
                 "malId": 130392,
@@ -54,6 +58,7 @@
         },
         "MangaFox": {
             "kamonohashi_ron_no_kindan_suiri": {
+                "id": 85007,
                 "identifier": "kamonohashi_ron_no_kindan_suiri",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36684/cover.jpg",
                 "malId": 130392,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/kamonohashi_ron_no_kindan_suiri/"
             }
         },
-        "MangaFire": {
-            "kamonohashi-ron-no-kindan-suiri.1n3kp": {
-                "identifier": "kamonohashi-ron-no-kindan-suiri.1n3kp",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/8397aaa168a777015793874efd6bdf49.jpg",
-                "malId": 130392,
-                "aniId": 124895,
-                "page": "MangaFire",
-                "title": "Ron Kamonohashi: Deranged Detective",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamonohashi-ron-no-kindan-suiri.1n3kp/"
-            },
-            "kamonohashi-ron-no-kindan-suirii.1n3kp": {
-                "identifier": "kamonohashi-ron-no-kindan-suirii.1n3kp",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/8397aaa168a777015793874efd6bdf49.jpg",
-                "malId": 130392,
-                "aniId": 124895,
-                "page": "MangaFire",
-                "title": "Ron Kamonohashi: Deranged Detective",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamonohashi-ron-no-kindan-suirii.1n3kp/"
-            }
-        },
         "Weebcentral": {
             "01j76xye30rnyd1p8tj2j1n2cs": {
+                "id": 208255,
                 "identifier": "01j76xye30rnyd1p8tj2j1n2cs",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE30RNYD1P8TJ2J1N2CS.jpg",
                 "malId": 130392,
@@ -96,6 +80,19 @@
                 "title": "Ron Kamonohashi: Deranged Detective",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE30RNYD1P8TJ2J1N2CS"
+            }
+        },
+        "MangaFire": {
+            "1n3kp": {
+                "id": 228270,
+                "identifier": "1n3kp",
+                "image": "https://static.mangafire.to/9cff/i/8/83/8397aaa168a777015793874efd6bdf49.jpg",
+                "malId": 130392,
+                "aniId": 124895,
+                "page": "MangaFire",
+                "title": "Ron Kamonohashi: Deranged Detective",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kamonohashi-ron-no-kindan-suirii.1n3kp"
             }
         },
         "Comick": {

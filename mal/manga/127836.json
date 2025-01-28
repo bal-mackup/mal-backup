@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b825fdfb-5830-4bbb-a19d-9d6f1b3ecbdb": {
+                "id": 37066,
                 "identifier": "b825fdfb-5830-4bbb-a19d-9d6f1b3ecbdb",
                 "image": "https://uploads.mangadex.org/covers/b825fdfb-5830-4bbb-a19d-9d6f1b3ecbdb/103158dc-0204-4e63-a142-a752109b02d8.jpg",
                 "malId": 127836,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "shakunetsu_no_niraikanai": {
+                "id": 58974,
                 "identifier": "shakunetsu_no_niraikanai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34555/cover.jpg",
                 "malId": 127836,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "hard-boiled-cop-and-dolphin": {
+                "id": 61880,
                 "identifier": "hard-boiled-cop-and-dolphin",
                 "image": "https://temp.compsci88.com/cover/Hard-Boiled-Cop-and-Dolphin.jpg",
                 "malId": 127836,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-kc988211": {
+                "id": 77782,
                 "identifier": "manga-kc988211",
                 "image": "https://avt.mkklcdnv6temp.com/29/i/23-1613922475.jpg",
                 "malId": 127836,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-kc988211"
             }
         },
-        "MangaFire": {
-            "shakunetsu-no-niraikanai.pr1l6": {
-                "identifier": "shakunetsu-no-niraikanai.pr1l6",
-                "image": "https://static.mangafire.to/3b2d5/i/0/09/098bc1e5f88e0b5ac03fe4ec9e3f7c41.jpg",
-                "malId": 127836,
-                "aniId": 119497,
-                "page": "MangaFire",
-                "title": "Hard-Boiled Cop and Dolphin",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shakunetsu-no-niraikanai.pr1l6/"
-            }
-        },
         "Weebcentral": {
             "01j76xydmmgq8fp2jd6qzn10yj": {
+                "id": 212113,
                 "identifier": "01j76xydmmgq8fp2jd6qzn10yj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDMMGQ8FP2JD6QZN10YJ.jpg",
                 "malId": 127836,
@@ -76,6 +69,19 @@
                 "title": "Hard-Boiled Cop and Dolphin",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDMMGQ8FP2JD6QZN10YJ"
+            }
+        },
+        "MangaFire": {
+            "pr1l6": {
+                "id": 257348,
+                "identifier": "pr1l6",
+                "image": "https://static.mangafire.to/b154/i/0/09/098bc1e5f88e0b5ac03fe4ec9e3f7c41.jpg",
+                "malId": 127836,
+                "aniId": 119497,
+                "page": "MangaFire",
+                "title": "Hard-Boiled Cop and Dolphin",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shakunetsu-no-niraikanaii.pr1l6"
             }
         },
         "Comick": {

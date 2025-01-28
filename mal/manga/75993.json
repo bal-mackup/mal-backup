@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d0c88e3b-ea64-4e07-9841-c1d2ac982f4a": {
+                "id": 11639,
                 "identifier": "d0c88e3b-ea64-4e07-9841-c1d2ac982f4a",
                 "image": "https://uploads.mangadex.org/covers/d0c88e3b-ea64-4e07-9841-c1d2ac982f4a/7c218f5b-12a1-4a72-be2b-eb8a5f2e41ac.jpg",
                 "malId": 75993,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dagashi-kashi": {
+                "id": 58750,
                 "identifier": "dagashi-kashi",
                 "image": "https://temp.compsci88.com/cover/Dagashi-Kashi.jpg",
                 "malId": 75993,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "dagashi_kashi": {
+                "id": 65120,
                 "identifier": "dagashi_kashi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/15186/cover.jpg",
                 "malId": 75993,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ed951660": {
+                "id": 76669,
                 "identifier": "manga-ed951660",
                 "image": "https://avt.mkklcdnv6temp.com/12/l/1-1583464148.jpg",
                 "malId": 75993,
@@ -54,40 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ed951660"
             }
         },
-        "MangaFire": {
-            "dagashi-kashi.n318j": {
-                "identifier": "dagashi-kashi.n318j",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80e8b70af0ae3861b6fe29cbc680b655.jpg",
-                "malId": 75993,
-                "aniId": 85966,
-                "page": "MangaFire",
-                "title": "Dagashi Kashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dagashi-kashi.n318j/"
-            },
-            "dagashi-kashii.n318j": {
-                "identifier": "dagashi-kashii.n318j",
-                "image": "https://static.mangafire.to/3b2d5/i/8/80/80e8b70af0ae3861b6fe29cbc680b655.jpg",
-                "malId": 75993,
-                "aniId": 85966,
-                "page": "MangaFire",
-                "title": "Dagashi Kashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dagashi-kashii.n318j/"
-            },
-            "n318j": {
-                "identifier": "n318j",
-                "image": "https://static.mangafire.to/976b/i/8/80/80e8b70af0ae3861b6fe29cbc680b655.jpg",
-                "malId": 75993,
-                "aniId": 85966,
-                "page": "MangaFire",
-                "title": "Dagashi Kashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dagashi-kashii.n318j"
-            }
-        },
         "Weebcentral": {
             "01j76xyb57k8jy03et7571sy7h": {
+                "id": 210280,
                 "identifier": "01j76xyb57k8jy03et7571sy7h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB57K8JY03ET7571SY7H.jpg",
                 "malId": 75993,
@@ -96,6 +69,19 @@
                 "title": "Dagashi Kashi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB57K8JY03ET7571SY7H"
+            }
+        },
+        "MangaFire": {
+            "n318j": {
+                "id": 225065,
+                "identifier": "n318j",
+                "image": "https://static.mangafire.to/976b/i/8/80/80e8b70af0ae3861b6fe29cbc680b655.jpg",
+                "malId": 75993,
+                "aniId": 85966,
+                "page": "MangaFire",
+                "title": "Dagashi Kashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dagashi-kashii.n318j"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "3c9db26b-f0a7-4500-b448-352488f32339": {
+                "id": 10280,
                 "identifier": "3c9db26b-f0a7-4500-b448-352488f32339",
                 "image": "https://uploads.mangadex.org/covers/3c9db26b-f0a7-4500-b448-352488f32339/1b793cb5-4afa-4808-93fe-660d52b9d9e3.jpg",
                 "malId": 69377,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hitsugi-no-chaikakka": {
+                "id": 69583,
                 "identifier": "hitsugi-no-chaikakka",
                 "image": "https://temp.compsci88.com/cover/Hitsugi-No-Chaikakka.jpg",
                 "malId": 69377,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Hitsugi-No-Chaikakka"
             }
         },
-        "MangaFire": {
-            "hitsugi-no-chaikakka.4n1j": {
-                "identifier": "hitsugi-no-chaikakka.4n1j",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/edc8ff40170df387c3982913da56eef0.jpg",
-                "malId": 69377,
-                "aniId": 123670,
-                "page": "MangaFire",
-                "title": "Hitsugi no Chaikakka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hitsugi-no-chaikakka.4n1j/"
-            },
-            "4n1j": {
-                "identifier": "4n1j",
-                "image": "https://static.mangafire.to/3b2d5/i/e/ed/edc8ff40170df387c3982913da56eef0.jpg",
-                "malId": 69377,
-                "aniId": 123670,
-                "page": "MangaFire",
-                "title": "Hitsugi no Chaikakka",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hitsugi-no-chaikakka.4n1j/"
-            }
-        },
         "Weebcentral": {
             "01j76xya3b981pmmbfn5xj8se3": {
+                "id": 212830,
                 "identifier": "01j76xya3b981pmmbfn5xj8se3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA3B981PMMBFN5XJ8SE3.jpg",
                 "malId": 69377,
@@ -62,6 +43,19 @@
                 "title": "Hitsugi no Chaikakka",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA3B981PMMBFN5XJ8SE3"
+            }
+        },
+        "MangaFire": {
+            "4n1j": {
+                "id": 258304,
+                "identifier": "4n1j",
+                "image": "https://static.mangafire.to/b065/i/e/ed/edc8ff40170df387c3982913da56eef0.jpg",
+                "malId": 69377,
+                "aniId": 123670,
+                "page": "MangaFire",
+                "title": "Hitsugi no Chaikakka",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hitsugi-no-chaikakkaa.4n1j"
             }
         },
         "Comick": {

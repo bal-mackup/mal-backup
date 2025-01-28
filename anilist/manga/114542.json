@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "84cbaaaf-f416-4c4e-9b46-af84b77d55a9": {
+                "id": 31260,
                 "identifier": "84cbaaaf-f416-4c4e-9b46-af84b77d55a9",
                 "image": "https://uploads.mangadex.org/covers/84cbaaaf-f416-4c4e-9b46-af84b77d55a9/d6182934-7637-4e9f-bedc-6d331c4fd091.png",
                 "malId": 130832,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/84cbaaaf-f416-4c4e-9b46-af84b77d55a9"
             },
             "8c6e0eb8-fb94-44a3-9bf4-fa72dee36775": {
+                "id": 32667,
                 "identifier": "8c6e0eb8-fb94-44a3-9bf4-fa72dee36775",
                 "image": "https://uploads.mangadex.org/covers/8c6e0eb8-fb94-44a3-9bf4-fa72dee36775/0c04d507-5603-407e-9fc5-ff9b55461c37.jpg",
                 "malId": 130832,
@@ -30,6 +32,7 @@
         },
         "MangaFox": {
             "i_want_to_be_you_just_for_a_day": {
+                "id": 56648,
                 "identifier": "i_want_to_be_you_just_for_a_day",
                 "image": "https://fmcdn.mfcdn.net/store/manga/31730/cover.jpg",
                 "malId": 130832,
@@ -40,6 +43,7 @@
                 "url": "https://fanfox.net/manga/i_want_to_be_you_just_for_a_day/"
             },
             "your_throne": {
+                "id": 95409,
                 "identifier": "your_throne",
                 "image": "https://fmcdn.mfcdn.net/store/manga/41002/cover.jpg",
                 "malId": 130832,
@@ -52,6 +56,7 @@
         },
         "MangaSee": {
             "your-throne": {
+                "id": 57473,
                 "identifier": "your-throne",
                 "image": "https://temp.compsci88.com/cover/Your-Throne.jpg",
                 "malId": 130832,
@@ -64,6 +69,7 @@
         },
         "MangaNato": {
             "manga-gv983578": {
+                "id": 73885,
                 "identifier": "manga-gv983578",
                 "image": "https://avt.mkklcdnv6temp.com/43/w/19-1583500774.jpg",
                 "malId": 130832,
@@ -74,50 +80,9 @@
                 "url": "https://chapmanganato.com/manga-gv983578"
             }
         },
-        "MangaFire": {
-            "your-throne.n3v4j": {
-                "identifier": "your-throne.n3v4j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0740d9b38243d47669c2318c0eca5c82.jpg",
-                "malId": 130832,
-                "aniId": 114542,
-                "page": "MangaFire",
-                "title": "Your Throne",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-throne.n3v4j/"
-            },
-            "your-throne-pre-serialization.4j0x7": {
-                "identifier": "your-throne-pre-serialization.4j0x7",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff2934cea19a25eeba48b893602d5180.jpg",
-                "malId": 130832,
-                "aniId": 114542,
-                "page": "MangaFire",
-                "title": "Your Throne (Pre-serialization)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-throne-pre-serialization.4j0x7/"
-            },
-            "your-thronee.n3v4j": {
-                "identifier": "your-thronee.n3v4j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/0740d9b38243d47669c2318c0eca5c82.jpg",
-                "malId": 130832,
-                "aniId": 114542,
-                "page": "MangaFire",
-                "title": "Your Throne",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-thronee.n3v4j/"
-            },
-            "your-throne-pre-serializationn.4j0x7": {
-                "identifier": "your-throne-pre-serializationn.4j0x7",
-                "image": "https://static.mangafire.to/3b2d5/i/f/ff/ff2934cea19a25eeba48b893602d5180.jpg",
-                "malId": 130832,
-                "aniId": 114542,
-                "page": "MangaFire",
-                "title": "Your Throne (Pre-serialization)",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/your-throne-pre-serializationn.4j0x7/"
-            }
-        },
         "Weebcentral": {
             "01j76xye8k9xtd8c82hvjf1feh": {
+                "id": 210391,
                 "identifier": "01j76xye8k9xtd8c82hvjf1feh",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE8K9XTD8C82HVJF1FEH.jpg",
                 "malId": 130832,
@@ -126,6 +91,30 @@
                 "title": "Your Throne",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE8K9XTD8C82HVJF1FEH"
+            }
+        },
+        "MangaFire": {
+            "n3v4j": {
+                "id": 225614,
+                "identifier": "n3v4j",
+                "image": "https://static.mangafire.to/2f74/i/0/07/0740d9b38243d47669c2318c0eca5c82.jpg",
+                "malId": 130832,
+                "aniId": 114542,
+                "page": "MangaFire",
+                "title": "Your Throne",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/your-thronee.n3v4j"
+            },
+            "4j0x7": {
+                "id": 231531,
+                "identifier": "4j0x7",
+                "image": "https://static.mangafire.to/bbc0/i/f/ff/ff2934cea19a25eeba48b893602d5180.jpg",
+                "malId": 130832,
+                "aniId": 114542,
+                "page": "MangaFire",
+                "title": "Your Throne (Pre-serialization)",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/your-throne-pre-serializationn.4j0x7"
             }
         },
         "Comick": {

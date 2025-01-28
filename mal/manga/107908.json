@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c96f1bf8-a100-40bb-98ef-c240b9b7cf96": {
+                "id": 18310,
                 "identifier": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
                 "image": "https://uploads.mangadex.org/covers/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/1be8ca33-a56d-4b1d-a53d-292288efd749.jpg",
                 "malId": 107908,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "mf-ghost": {
+                "id": 55083,
                 "identifier": "mf-ghost",
                 "image": "https://temp.compsci88.com/cover/MF-Ghost.jpg",
                 "malId": 107908,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "mf_ghost": {
+                "id": 68777,
                 "identifier": "mf_ghost",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27001/cover.jpg",
                 "malId": 107908,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-br978400": {
+                "id": 77367,
                 "identifier": "manga-br978400",
                 "image": "https://avt.mkklcdnv6temp.com/9/t/16-1583493828.jpg",
                 "malId": 107908,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-br978400"
             }
         },
-        "MangaFire": {
-            "mf-ghost.6l5r7": {
-                "identifier": "mf-ghost.6l5r7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb4bc7f3d83518ce39ed7465ed7813ce.jpg",
-                "malId": 107908,
-                "aniId": 100238,
-                "page": "MangaFire",
-                "title": "MF Ghost",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mf-ghost.6l5r7/"
-            },
-            "mf-ghostt.6l5r7": {
-                "identifier": "mf-ghostt.6l5r7",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cb/cb4bc7f3d83518ce39ed7465ed7813ce.jpg",
-                "malId": 107908,
-                "aniId": 100238,
-                "page": "MangaFire",
-                "title": "MF Ghost",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/mf-ghostt.6l5r7/"
-            }
-        },
         "Weebcentral": {
             "01j76xydx43xbeh6cc5vxn6m9v": {
+                "id": 207563,
                 "identifier": "01j76xydx43xbeh6cc5vxn6m9v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDX43XBEH6CC5VXN6M9V.jpg",
                 "malId": 107908,
@@ -86,6 +69,19 @@
                 "title": "MF Ghost",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDX43XBEH6CC5VXN6M9V"
+            }
+        },
+        "MangaFire": {
+            "6l5r7": {
+                "id": 228167,
+                "identifier": "6l5r7",
+                "image": "https://static.mangafire.to/d6c8/i/c/cb/cb4bc7f3d83518ce39ed7465ed7813ce.jpg",
+                "malId": 107908,
+                "aniId": 100238,
+                "page": "MangaFire",
+                "title": "MF Ghost",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/mf-ghostt.6l5r7"
             }
         },
         "Comick": {

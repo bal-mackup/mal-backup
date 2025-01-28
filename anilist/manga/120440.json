@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "40da1219-1860-4d7f-b823-d3511ac67cac": {
+                "id": 36895,
                 "identifier": "40da1219-1860-4d7f-b823-d3511ac67cac",
                 "image": "https://uploads.mangadex.org/covers/40da1219-1860-4d7f-b823-d3511ac67cac/2e5569b8-76c4-401f-a59d-e2aa37ff6d1c.jpg",
                 "malId": 140921,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "positively-yours": {
+                "id": 70348,
                 "identifier": "positively-yours",
                 "image": "https://temp.compsci88.com/cover/Positively-Yours.jpg",
                 "malId": 140921,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Positively-Yours"
             }
         },
-        "MangaFire": {
-            "positively-yours.1njov": {
-                "identifier": "positively-yours.1njov",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65a72a18f6e301b54f5cae45072ac0be.jpg",
-                "malId": 140921,
-                "aniId": 120440,
-                "page": "MangaFire",
-                "title": "Positively Yours",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/positively-yours.1njov/"
-            },
-            "positively-yourss.1njov": {
-                "identifier": "positively-yourss.1njov",
-                "image": "https://static.mangafire.to/3b2d5/i/6/65/65a72a18f6e301b54f5cae45072ac0be.jpg",
-                "malId": 140921,
-                "aniId": 120440,
-                "page": "MangaFire",
-                "title": "Positively Yours",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/positively-yourss.1njov/"
-            }
-        },
         "Weebcentral": {
             "01j76xyencer9jbmpaztt5spxf": {
+                "id": 212726,
                 "identifier": "01j76xyencer9jbmpaztt5spxf",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYENCER9JBMPAZTT5SPXF.jpg",
                 "malId": 140921,
@@ -62,6 +43,19 @@
                 "title": "Positively Yours",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYENCER9JBMPAZTT5SPXF"
+            }
+        },
+        "MangaFire": {
+            "1njov": {
+                "id": 225652,
+                "identifier": "1njov",
+                "image": "https://static.mangafire.to/d2fc/i/6/65/65a72a18f6e301b54f5cae45072ac0be.jpg",
+                "malId": 140921,
+                "aniId": 120440,
+                "page": "MangaFire",
+                "title": "Positively Yours",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/positively-yourss.1njov"
             }
         },
         "Comick": {

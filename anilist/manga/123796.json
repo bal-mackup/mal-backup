@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c3046754-8637-4e1f-830c-3493a6c7dba1": {
+                "id": 39453,
                 "identifier": "c3046754-8637-4e1f-830c-3493a6c7dba1",
                 "image": "https://uploads.mangadex.org/covers/c3046754-8637-4e1f-830c-3493a6c7dba1/69347388-780a-4cd0-8d17-4e17adc63075.jpg",
                 "malId": 129659,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dr-ramune-mysterious-disease-specialist": {
+                "id": 65530,
                 "identifier": "dr-ramune-mysterious-disease-specialist",
                 "image": "https://temp.compsci88.com/cover/Dr-Ramune-Mysterious-Disease-Specialist.jpg",
                 "malId": 129659,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kai_byoui_ramune": {
+                "id": 72764,
                 "identifier": "kai_byoui_ramune",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36657/cover.jpg",
                 "malId": 129659,
@@ -42,20 +45,9 @@
                 "url": "https://fanfox.net/manga/kai_byoui_ramune/"
             }
         },
-        "MangaFire": {
-            "kai-byoui-ramune.mvq68": {
-                "identifier": "kai-byoui-ramune.mvq68",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5d/5d1d0d147a55116f06b923690783ba54.jpg",
-                "malId": 129659,
-                "aniId": 123796,
-                "page": "MangaFire",
-                "title": "Dr. Ramune: Mysterious Disease Specialist",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kai-byoui-ramune.mvq68/"
-            }
-        },
         "Weebcentral": {
             "01j76xye2m9fjc4zejawcktbcn": {
+                "id": 214297,
                 "identifier": "01j76xye2m9fjc4zejawcktbcn",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYE2M9FJC4ZEJAWCKTBCN.jpg",
                 "malId": 129659,
@@ -64,6 +56,19 @@
                 "title": "Dr. Ramune - Mysterious Disease Specialist",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYE2M9FJC4ZEJAWCKTBCN"
+            }
+        },
+        "MangaFire": {
+            "mvq68": {
+                "id": 232922,
+                "identifier": "mvq68",
+                "image": "https://static.mangafire.to/ca4c/i/5/5d/5d1d0d147a55116f06b923690783ba54.jpg",
+                "malId": 129659,
+                "aniId": 123796,
+                "page": "MangaFire",
+                "title": "Dr. Ramune: Mysterious Disease Specialist",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kai-byoui-ramunee.mvq68"
             }
         },
         "Comick": {

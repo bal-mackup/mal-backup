@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "141609b6-cf86-4266-904c-6648f389cdc9": {
+                "id": 107124,
                 "identifier": "141609b6-cf86-4266-904c-6648f389cdc9",
                 "image": "https://uploads.mangadex.org/covers/141609b6-cf86-4266-904c-6648f389cdc9/bd903567-ae7e-433a-8a8d-65ceee3fc123.jpg",
                 "malId": 148054,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "ruridragon": {
+                "id": 108115,
                 "identifier": "ruridragon",
                 "image": "https://temp.compsci88.com/cover/RuriDragon.jpg",
                 "malId": 148054,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-oh991416": {
+                "id": 108558,
                 "identifier": "manga-oh991416",
                 "image": "https://avt.mkklcdnv6temp.com/15/x/26-1656558367.jpg",
                 "malId": 148054,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ruri_dragon": {
+                "id": 108856,
                 "identifier": "ruri_dragon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40559/cover.jpg",
                 "malId": 148054,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ruri_dragon/"
             }
         },
-        "MangaFire": {
-            "ruri-dragon.z1nm": {
-                "identifier": "ruri-dragon.z1nm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a44c5b080d0d813feb6ba484acd1ccc6.jpg",
-                "malId": 148054,
-                "aniId": 150440,
-                "page": "MangaFire",
-                "title": "RuriDragon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ruri-dragon.z1nm/"
-            },
-            "ruri-dragonn.z1nm": {
-                "identifier": "ruri-dragonn.z1nm",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a4/a44c5b080d0d813feb6ba484acd1ccc6.jpg",
-                "malId": 148054,
-                "aniId": 150440,
-                "page": "MangaFire",
-                "title": "RuriDragon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ruri-dragonn.z1nm/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfh6y4gn3p2g4wf82bez": {
+                "id": 208842,
                 "identifier": "01j76xyfh6y4gn3p2g4wf82bez",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFH6Y4GN3P2G4WF82BEZ.jpg",
                 "malId": 148054,
@@ -86,6 +69,19 @@
                 "title": "Ruri Dragon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFH6Y4GN3P2G4WF82BEZ"
+            }
+        },
+        "MangaFire": {
+            "z1nm": {
+                "id": 224926,
+                "identifier": "z1nm",
+                "image": "https://static.mangafire.to/d2d2/i/a/a4/a44c5b080d0d813feb6ba484acd1ccc6.jpg",
+                "malId": 148054,
+                "aniId": 150440,
+                "page": "MangaFire",
+                "title": "RuriDragon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ruri-dragonn.z1nm"
             }
         },
         "Comick": {

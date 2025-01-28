@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "891eb198-db03-4e21-9544-5f9e93e79032": {
+                "id": 36708,
                 "identifier": "891eb198-db03-4e21-9544-5f9e93e79032",
                 "image": "https://uploads.mangadex.org/covers/891eb198-db03-4e21-9544-5f9e93e79032/a4403342-9b1e-418c-9518-1aaf0c23bfd2.jpg",
                 "malId": 102631,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/891eb198-db03-4e21-9544-5f9e93e79032"
             }
         },
-        "MangaFire": {
-            "totsuzen-desu-ga-konya-sarai-ni-ikimasu.3rynr": {
-                "identifier": "totsuzen-desu-ga-konya-sarai-ni-ikimasu.3rynr",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c8f0c8925bbffef73d60ba7323ad912.jpg",
-                "malId": 102631,
-                "aniId": 113391,
-                "page": "MangaFire",
-                "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsuzen-desu-ga-konya-sarai-ni-ikimasu.3rynr/"
-            },
-            "3rynr": {
-                "identifier": "3rynr",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2c/2c8f0c8925bbffef73d60ba7323ad912.jpg",
-                "malId": 102631,
-                "aniId": 113391,
-                "page": "MangaFire",
-                "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/totsuzen-desu-ga-konya-sarai-ni-ikimasu.3rynr/"
-            }
-        },
         "MangaFox": {
             "totsuzen_desu_ga_konya_sarai_ni_ikimasu": {
+                "id": 188871,
                 "identifier": "totsuzen_desu_ga_konya_sarai_ni_ikimasu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34414/cover.jpg",
                 "malId": 102631,
@@ -50,6 +30,19 @@
                 "title": "Totsuzen desu ga, Konya Sarai ni ikimasu",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/totsuzen_desu_ga_konya_sarai_ni_ikimasu/"
+            }
+        },
+        "MangaFire": {
+            "3rynr": {
+                "id": 230511,
+                "identifier": "3rynr",
+                "image": "https://static.mangafire.to/04cf/i/2/2c/2c8f0c8925bbffef73d60ba7323ad912.jpg",
+                "malId": 102631,
+                "aniId": 113391,
+                "page": "MangaFire",
+                "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/totsuzen-desu-ga-konya-sarai-ni-ikimasuu.3rynr"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "08a5070d-f9ff-4f83-ace7-951952bceb66": {
+                "id": 13525,
                 "identifier": "08a5070d-f9ff-4f83-ace7-951952bceb66",
                 "image": "https://uploads.mangadex.org/covers/08a5070d-f9ff-4f83-ace7-951952bceb66/7f119a57-7803-4f2f-8bbb-c190c1cc7f2a.jpg",
                 "malId": 91656,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "gunota_ga_mahou_sekai_ni_tensei_shitara_gendai_heiki_de_guntai_harem_o_tsukucchaimashita": {
+                "id": 55242,
                 "identifier": "gunota_ga_mahou_sekai_ni_tensei_shitara_gendai_heiki_de_guntai_harem_o_tsukucchaimashita",
                 "image": "https://fmcdn.mfcdn.net/store/manga/16453/cover.jpg",
                 "malId": 91656,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/gunota_ga_mahou_sekai_ni_tensei_shitara_gendai_heiki_de_guntai_harem_o_tsukucchaimashita/"
             },
             "gunota_ga_mahou_sekai_ni_tensei_shitara_gendai_heiki_de_guntai_harem_o_tsukucchaimashita_novel": {
+                "id": 62366,
                 "identifier": "gunota_ga_mahou_sekai_ni_tensei_shitara_gendai_heiki_de_guntai_harem_o_tsukucchaimashita_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36828/cover.jpg",
                 "malId": 91656,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "gun-ota-ga-mahou-sekai": {
+                "id": 64678,
                 "identifier": "gun-ota-ga-mahou-sekai",
                 "image": "https://temp.compsci88.com/cover/Gun-Ota-Ga-Mahou-Sekai.jpg",
                 "malId": 91656,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-oq951499": {
+                "id": 75617,
                 "identifier": "manga-oq951499",
                 "image": "https://avt.mkklcdnv6temp.com/6/w/1-1583463933.jpg",
                 "malId": 91656,
@@ -64,30 +69,9 @@
                 "url": "https://chapmanganato.com/manga-oq951499"
             }
         },
-        "MangaFire": {
-            "gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashita.q55v": {
-                "identifier": "gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashita.q55v",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b43ea78c5b9d8a7f11851109fd1cc54.jpg",
-                "malId": 91656,
-                "aniId": 86669,
-                "page": "MangaFire",
-                "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashita.q55v/"
-            },
-            "gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashitaa.q55v": {
-                "identifier": "gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashitaa.q55v",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1b/1b43ea78c5b9d8a7f11851109fd1cc54.jpg",
-                "malId": 91656,
-                "aniId": 86669,
-                "page": "MangaFire",
-                "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashitaa.q55v/"
-            }
-        },
         "Weebcentral": {
             "01j76xybb3m712fdz1y39ndn7h": {
+                "id": 211530,
                 "identifier": "01j76xybb3m712fdz1y39ndn7h",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBB3M712FDZ1Y39NDN7H.jpg",
                 "malId": 91656,
@@ -96,6 +80,19 @@
                 "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBB3M712FDZ1Y39NDN7H"
+            }
+        },
+        "MangaFire": {
+            "q55v": {
+                "id": 235225,
+                "identifier": "q55v",
+                "image": "https://static.mangafire.to/44dd/i/1/1b/1b43ea78c5b9d8a7f11851109fd1cc54.jpg",
+                "malId": 91656,
+                "aniId": 86669,
+                "page": "MangaFire",
+                "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashitaa.q55v"
             }
         },
         "Comick": {

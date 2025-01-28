@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "8759ac55-63e2-4b1b-b03b-5d8cc0ed1ee5": {
+                "id": 61679,
                 "identifier": "8759ac55-63e2-4b1b-b03b-5d8cc0ed1ee5",
                 "image": "https://uploads.mangadex.org/covers/8759ac55-63e2-4b1b-b03b-5d8cc0ed1ee5/27c64a27-3a3b-49e7-929c-1cf24c6ce46f.jpg",
                 "malId": 145505,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/8759ac55-63e2-4b1b-b03b-5d8cc0ed1ee5"
             }
         },
-        "MangaFire": {
-            "freak-island-in-love.1qomq": {
-                "identifier": "freak-island-in-love.1qomq",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d9/d995d08e50c4c8e12359ceb47ee2dc0e.jpg",
-                "malId": 145505,
-                "aniId": 129022,
-                "page": "MangaFire",
-                "title": "Freak Island in Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/freak-island-in-love.1qomq/"
-            }
-        },
         "MangaNato": {
             "manga-uu997755": {
+                "id": 167215,
                 "identifier": "manga-uu997755",
                 "image": "https://avt.mkklcdnv6temp.com/fld/66/o/15-1733310689-nw.webp",
                 "malId": 145505,
@@ -44,6 +34,7 @@
         },
         "MangaFox": {
             "koi_suru_kichikujima": {
+                "id": 170102,
                 "identifier": "koi_suru_kichikujima",
                 "image": "https://fmcdn.mfcdn.net/store/manga/45210/cover.jpg",
                 "malId": 145505,
@@ -52,6 +43,19 @@
                 "title": "Koi suru Kichikujima",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/koi_suru_kichikujima/"
+            }
+        },
+        "MangaFire": {
+            "1qomq": {
+                "id": 229835,
+                "identifier": "1qomq",
+                "image": "https://static.mangafire.to/d25f/i/d/d9/d995d08e50c4c8e12359ceb47ee2dc0e.jpg",
+                "malId": 145505,
+                "aniId": 129022,
+                "page": "MangaFire",
+                "title": "Freak Island in Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/freak-island-in-lovee.1qomq"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c1ce7a55-2f8a-42fd-a9df-35367c884a07": {
+                "id": 1223,
                 "identifier": "c1ce7a55-2f8a-42fd-a9df-35367c884a07",
                 "image": "https://uploads.mangadex.org/covers/c1ce7a55-2f8a-42fd-a9df-35367c884a07/efc8379f-a199-4b5d-b9a0-6ba8fc071e85.jpg",
                 "malId": 151387,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "serendipity": {
+                "id": 68465,
                 "identifier": "serendipity",
                 "image": "https://temp.compsci88.com/cover/Serendipity.jpg",
                 "malId": 151387,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lh962864": {
+                "id": 92170,
                 "identifier": "manga-lh962864",
                 "image": "https://avt.mkklcdnv6temp.com/fld/81/d/4-1732764227-nw.webp",
                 "malId": 151387,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "serendipity": {
+                "id": 114209,
                 "identifier": "serendipity",
                 "image": "https://fmcdn.mfcdn.net/store/manga/8946/cover.jpg",
                 "malId": 151387,
@@ -54,20 +58,9 @@
                 "url": "https://fanfox.net/manga/serendipity/"
             }
         },
-        "MangaFire": {
-            "serendipity.jjl2": {
-                "identifier": "serendipity.jjl2",
-                "image": "https://static.mangafire.to/3b2d5/i/8/85/85f9a889b11a798b965d2603d06b15f2.jpg",
-                "malId": 151387,
-                "aniId": 101637,
-                "page": "MangaFire",
-                "title": "Serendipity",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/serendipity.jjl2/"
-            }
-        },
         "Weebcentral": {
             "01j76xya93nemwf49pmcewsz5x": {
+                "id": 209827,
                 "identifier": "01j76xya93nemwf49pmcewsz5x",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYA93NEMWF49PMCEWSZ5X.jpg",
                 "malId": 151387,
@@ -76,6 +69,19 @@
                 "title": "Serendipity",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYA93NEMWF49PMCEWSZ5X"
+            }
+        },
+        "MangaFire": {
+            "jjl2": {
+                "id": 249182,
+                "identifier": "jjl2",
+                "image": "https://static.mangafire.to/2214/i/8/85/85f9a889b11a798b965d2603d06b15f2.jpg",
+                "malId": 151387,
+                "aniId": 101637,
+                "page": "MangaFire",
+                "title": "Serendipity",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/serendipityy.jjl2"
             }
         }
     },

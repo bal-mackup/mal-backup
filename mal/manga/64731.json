@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "32459ed4-cc9b-413b-b7e9-6ed25505a47b": {
+                "id": 10139,
                 "identifier": "32459ed4-cc9b-413b-b7e9-6ed25505a47b",
                 "image": "https://uploads.mangadex.org/covers/32459ed4-cc9b-413b-b7e9-6ed25505a47b/1f72d536-b49f-42ad-a657-c477981c5b6d.jpg",
                 "malId": 64731,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "bocchiman": {
+                "id": 68744,
                 "identifier": "bocchiman",
                 "image": "https://temp.compsci88.com/cover/Bocchiman.jpg",
                 "malId": 64731,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "bocchiman": {
+                "id": 69261,
                 "identifier": "bocchiman",
                 "image": "https://fmcdn.mfcdn.net/store/manga/13672/cover.jpg",
                 "malId": 64731,
@@ -42,30 +45,9 @@
                 "url": "https://fanfox.net/manga/bocchiman/"
             }
         },
-        "MangaFire": {
-            "bocchiman.mp1x": {
-                "identifier": "bocchiman.mp1x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5976242358445e803ff8a99b243183e5.jpg",
-                "malId": 64731,
-                "aniId": 85383,
-                "page": "MangaFire",
-                "title": "Bocchiman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bocchiman.mp1x/"
-            },
-            "mp1x": {
-                "identifier": "mp1x",
-                "image": "https://static.mangafire.to/3b2d5/i/5/59/5976242358445e803ff8a99b243183e5.jpg",
-                "malId": 64731,
-                "aniId": 85383,
-                "page": "MangaFire",
-                "title": "Bocchiman",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/bocchiman.mp1x/"
-            }
-        },
         "MangaNato": {
             "manga-rb953058": {
+                "id": 163224,
                 "identifier": "manga-rb953058",
                 "image": "https://avt.mkklcdnv6temp.com/fld/63/a/1-1732718903-nw.webp",
                 "malId": 64731,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyamehrxg2f17f6ybrnmw": {
+                "id": 210606,
                 "identifier": "01j76xyamehrxg2f17f6ybrnmw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAMEHRXG2F17F6YBRNMW.jpg",
                 "malId": 64731,
@@ -86,6 +69,19 @@
                 "title": "Bocchiman",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAMEHRXG2F17F6YBRNMW"
+            }
+        },
+        "MangaFire": {
+            "mp1x": {
+                "id": 262409,
+                "identifier": "mp1x",
+                "image": "https://static.mangafire.to/eb5b/i/5/59/5976242358445e803ff8a99b243183e5.jpg",
+                "malId": 64731,
+                "aniId": 85383,
+                "page": "MangaFire",
+                "title": "Bocchiman",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/bocchimann.mp1x"
             }
         },
         "Comick": {

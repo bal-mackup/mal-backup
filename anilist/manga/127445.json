@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fd41659a-e4ce-458f-b087-8032b7a5fab9": {
+                "id": 35012,
                 "identifier": "fd41659a-e4ce-458f-b087-8032b7a5fab9",
                 "image": "https://uploads.mangadex.org/covers/fd41659a-e4ce-458f-b087-8032b7a5fab9/522658db-3d5a-4bb5-870b-c73c5c7debe9.jpg",
                 "malId": 131883,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ja986957": {
+                "id": 73602,
                 "identifier": "manga-ja986957",
                 "image": "https://avt.mkklcdnv6temp.com/17/q/28-1675646133.jpg",
                 "malId": 131883,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "neta_chara_tensei_to_ka_anmari_da": {
+                "id": 94839,
                 "identifier": "neta_chara_tensei_to_ka_anmari_da",
                 "image": "https://fmcdn.mfcdn.net/store/manga/34584/cover.jpg",
                 "malId": 131883,
@@ -44,6 +47,7 @@
         },
         "MangaSee": {
             "did-i-seriously-just-get-reincarnated-as-my-gag-character": {
+                "id": 112390,
                 "identifier": "did-i-seriously-just-get-reincarnated-as-my-gag-character",
                 "image": "https://temp.compsci88.com/cover/Did-I-Seriously-Just-Get-Reincarnated-as-My-Gag-Character.jpg",
                 "malId": 131883,
@@ -54,30 +58,9 @@
                 "url": "https://mangasee123.com/manga/Did-I-Seriously-Just-Get-Reincarnated-as-My-Gag-Character"
             }
         },
-        "MangaFire": {
-            "neta-chara-tensei-toka-anmarida.n3rql": {
-                "identifier": "neta-chara-tensei-toka-anmarida.n3rql",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3dafd7dc710eb4ba832f38d1808cc398.jpg",
-                "malId": 131883,
-                "aniId": 127445,
-                "page": "MangaFire",
-                "title": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neta-chara-tensei-toka-anmarida.n3rql/"
-            },
-            "neta-chara-tensei-toka-anmaridaa.n3rql": {
-                "identifier": "neta-chara-tensei-toka-anmaridaa.n3rql",
-                "image": "https://static.mangafire.to/3b2d5/i/3/3d/3dafd7dc710eb4ba832f38d1808cc398.jpg",
-                "malId": 131883,
-                "aniId": 127445,
-                "page": "MangaFire",
-                "title": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/neta-chara-tensei-toka-anmaridaa.n3rql/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfje511erq3c66w71y7c": {
+                "id": 206269,
                 "identifier": "01j76xyfje511erq3c66w71y7c",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFJE511ERQ3C66W71Y7C.jpg",
                 "malId": 131883,
@@ -88,13 +71,26 @@
                 "url": "https://weebcentral.com/series/01J76XYFJE511ERQ3C66W71Y7C"
             }
         },
+        "MangaFire": {
+            "n3rql": {
+                "id": 224180,
+                "identifier": "n3rql",
+                "image": "https://static.mangafire.to/e4a8/i/3/3d/3dafd7dc710eb4ba832f38d1808cc398.jpg",
+                "malId": 131883,
+                "aniId": 127445,
+                "page": "MangaFire",
+                "title": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/neta-chara-tensei-toka-anmaridaa.n3rql"
+            }
+        },
         "Comick": {
             "moCq3zz8": {
                 "identifier": "moCq3zz8",
                 "malId": 131883,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
+                "title": "Netachara-Tensei Toka Anmarida!",
                 "url": "https://comick.io/comic/neta-chara-tensei-toka-anmarida",
                 "aniId": 127445
             }

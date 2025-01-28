@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "947cdce5-182e-4ff3-9484-218c638e88ac": {
+                "id": 90856,
                 "identifier": "947cdce5-182e-4ff3-9484-218c638e88ac",
                 "image": "https://uploads.mangadex.org/covers/947cdce5-182e-4ff3-9484-218c638e88ac/a5492997-20fd-4f52-8a6a-6298ba12b91e.jpg",
                 "malId": 141087,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/947cdce5-182e-4ff3-9484-218c638e88ac"
             }
         },
-        "MangaFire": {
-            "ao-no-miburo.vvjqv": {
-                "identifier": "ao-no-miburo.vvjqv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/813d74033282c5f5a55a61887960ea9b.jpg",
-                "malId": 141087,
-                "aniId": 138883,
-                "page": "MangaFire",
-                "title": "The Blue Wolves of Mibu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ao-no-miburo.vvjqv/"
-            },
-            "ao-no-miburoo.vvjqv": {
-                "identifier": "ao-no-miburoo.vvjqv",
-                "image": "https://static.mangafire.to/3b2d5/i/8/81/813d74033282c5f5a55a61887960ea9b.jpg",
-                "malId": 141087,
-                "aniId": 138883,
-                "page": "MangaFire",
-                "title": "The Blue Wolves of Mibu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ao-no-miburoo.vvjqv/"
-            }
-        },
         "MangaSee": {
             "the-blue-wolves-of-mibu": {
+                "id": 183087,
                 "identifier": "the-blue-wolves-of-mibu",
                 "image": "https://temp.compsci88.com/cover/The-Blue-Wolves-of-Mibu.jpg",
                 "malId": 141087,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyh0bse049qct60vzwcq8": {
+                "id": 207696,
                 "identifier": "01j76xyh0bse049qct60vzwcq8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYH0BSE049QCT60VZWCQ8.jpg",
                 "malId": 141087,
@@ -66,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ak1003567": {
+                "id": 215647,
                 "identifier": "manga-ak1003567",
                 "image": "https://avt.mkklcdnv6temp.com/fld/88/w/17-1733326552-nw.webp",
                 "malId": 141087,
@@ -74,6 +56,19 @@
                 "title": "The Blue Wolves Of Mibu",
                 "type": "manga",
                 "url": "https://manganato.com/manga-ak1003567"
+            }
+        },
+        "MangaFire": {
+            "vvjqv": {
+                "id": 226232,
+                "identifier": "vvjqv",
+                "image": "https://static.mangafire.to/ea6f/i/8/81/813d74033282c5f5a55a61887960ea9b.jpg",
+                "malId": 141087,
+                "aniId": 138883,
+                "page": "MangaFire",
+                "title": "The Blue Wolves of Mibu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ao-no-miburoo.vvjqv"
             }
         },
         "Comick": {

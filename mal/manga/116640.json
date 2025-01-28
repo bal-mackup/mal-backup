@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "07b307d8-998b-475d-abc7-bbc94a8a2eae": {
+                "id": 65153,
                 "identifier": "07b307d8-998b-475d-abc7-bbc94a8a2eae",
                 "image": "https://uploads.mangadex.org/covers/07b307d8-998b-475d-abc7-bbc94a8a2eae/ed88e48d-cb14-416f-8947-8a8cdd984252.jpg",
                 "malId": 116640,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/07b307d8-998b-475d-abc7-bbc94a8a2eae"
             }
         },
-        "MangaFire": {
-            "netsuai-nante-ariemasen.r72o": {
-                "identifier": "netsuai-nante-ariemasen.r72o",
-                "image": "https://static.mangafire.to/3b2d5/i/4/48/48b87e54f8d921fdf3bf38fa83ce9d9d.jpg",
-                "malId": 116640,
-                "aniId": 104985,
-                "page": "MangaFire",
-                "title": "Netsuai Nante Ariemasen!",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/netsuai-nante-ariemasen.r72o/"
-            }
-        },
         "MangaFox": {
             "netsuai_nante_ariemasen": {
+                "id": 187681,
                 "identifier": "netsuai_nante_ariemasen",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28804/cover.jpg",
                 "malId": 116640,
@@ -40,6 +30,19 @@
                 "title": "Netsuai Nante Ariemasen!",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/netsuai_nante_ariemasen/"
+            }
+        },
+        "MangaFire": {
+            "r72o": {
+                "id": 251640,
+                "identifier": "r72o",
+                "image": "https://static.mangafire.to/6a37/i/4/48/48b87e54f8d921fdf3bf38fa83ce9d9d.jpg",
+                "malId": 116640,
+                "aniId": 104985,
+                "page": "MangaFire",
+                "title": "Netsuai Nante Ariemasen!",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/netsuai-nante-ariemasenn.r72o"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d506f85f-f318-42bc-84fa-a651a3bae4e4": {
+                "id": 52267,
                 "identifier": "d506f85f-f318-42bc-84fa-a651a3bae4e4",
                 "image": "https://uploads.mangadex.org/covers/d506f85f-f318-42bc-84fa-a651a3bae4e4/7d1953a7-4856-47e3-bf73-581d9aa51736.jpg",
                 "malId": 131851,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "daikenja_no_manadeshi_bougyo_mahou_no_susume_comic": {
+                "id": 60890,
                 "identifier": "daikenja_no_manadeshi_bougyo_mahou_no_susume_comic",
                 "image": "https://fmcdn.mfcdn.net/store/manga/36516/cover.jpg",
                 "malId": 131851,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "great-wise-mans-beloved-pupil": {
+                "id": 62613,
                 "identifier": "great-wise-mans-beloved-pupil",
                 "image": "https://temp.compsci88.com/cover/Great-Wise-Mans-Beloved-Pupil.jpg",
                 "malId": 131851,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-jh987316": {
+                "id": 75788,
                 "identifier": "manga-jh987316",
                 "image": "https://avt.mkklcdnv6temp.com/42/t/22-1607147179.jpg",
                 "malId": 131851,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-jh987316"
             }
         },
-        "MangaFire": {
-            "great-wise-mans-beloved-pupil.llzjz": {
-                "identifier": "great-wise-mans-beloved-pupil.llzjz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/99b599b430fe682598a587bcf3141285.jpg",
-                "malId": 131851,
-                "aniId": 127128,
-                "page": "MangaFire",
-                "title": "Great Wise Man's Beloved Pupil",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/great-wise-mans-beloved-pupil.llzjz/"
-            },
-            "great-wise-mans-beloved-pupill.llzjz": {
-                "identifier": "great-wise-mans-beloved-pupill.llzjz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/99b599b430fe682598a587bcf3141285.jpg",
-                "malId": 131851,
-                "aniId": 127128,
-                "page": "MangaFire",
-                "title": "Great Wise Man's Beloved Pupil",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/great-wise-mans-beloved-pupill.llzjz/"
-            }
-        },
         "Weebcentral": {
             "01j76xyecgqe04p5d8kqa9hff4": {
+                "id": 211004,
                 "identifier": "01j76xyecgqe04p5d8kqa9hff4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECGQE04P5D8KQA9HFF4.jpg",
                 "malId": 131851,
@@ -86,6 +69,19 @@
                 "title": "Great Wise Man's Beloved Pupil",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECGQE04P5D8KQA9HFF4"
+            }
+        },
+        "MangaFire": {
+            "llzjz": {
+                "id": 226924,
+                "identifier": "llzjz",
+                "image": "https://static.mangafire.to/aa37/i/9/99/99b599b430fe682598a587bcf3141285.jpg",
+                "malId": 131851,
+                "aniId": 127128,
+                "page": "MangaFire",
+                "title": "Great Wise Man's Beloved Pupil",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/great-wise-mans-beloved-pupill.llzjz"
             }
         },
         "Comick": {

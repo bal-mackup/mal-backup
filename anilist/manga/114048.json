@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a2320293-f00e-43a0-8d08-1110cf26a894": {
+                "id": 56976,
                 "identifier": "a2320293-f00e-43a0-8d08-1110cf26a894",
                 "image": "https://uploads.mangadex.org/covers/a2320293-f00e-43a0-8d08-1110cf26a894/98ff00e9-f0d0-4b7b-8aee-c8611488df8e.jpg",
                 "malId": 123456,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "shinmai_ossan_bouken_sha_saikyou_paati_ni_shinu_hodo_kitae_rarete_muteki_ni_naru": {
+                "id": 58051,
                 "identifier": "shinmai_ossan_bouken_sha_saikyou_paati_ni_shinu_hodo_kitae_rarete_muteki_ni_naru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37156/cover.jpg",
                 "malId": 123456,
@@ -30,6 +32,7 @@
                 "url": "https://fanfox.net/manga/shinmai_ossan_bouken_sha_saikyou_paati_ni_shinu_hodo_kitae_rarete_muteki_ni_naru/"
             },
             "shinmai_ossan_boukensha_saikyou_party_ni_shinu_hodo_kitaerarete_muteki_ni_naru": {
+                "id": 85323,
                 "identifier": "shinmai_ossan_boukensha_saikyou_party_ni_shinu_hodo_kitaerarete_muteki_ni_naru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39056/cover.jpg",
                 "malId": 123456,
@@ -42,6 +45,7 @@
         },
         "MangaSee": {
             "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naru": {
+                "id": 60465,
                 "identifier": "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naru",
                 "image": "https://temp.compsci88.com/cover/Shinmai-Ossan-Bouken-sha-Saikyou-paati-ni-shinu-hodo-kitae-rarete-Muteki-ni-naru.jpg",
                 "malId": 123456,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-kh987642": {
+                "id": 75799,
                 "identifier": "manga-kh987642",
                 "image": "https://avt.mkklcdnv6temp.com/6/d/23-1610508693.jpg",
                 "malId": 123456,
@@ -64,30 +69,9 @@
                 "url": "https://manganato.com/manga-kh987642"
             }
         },
-        "MangaFire": {
-            "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naru.v5j3l": {
-                "identifier": "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naru.v5j3l",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4f/4fddd04cfa05fa3eba0f4c64884a1b0b.jpg",
-                "malId": 123456,
-                "aniId": 114048,
-                "page": "MangaFire",
-                "title": "Shinmai Ossan Bouken-sha, Saikyou paati ni shinu hodo kitae rarete Muteki ni naru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naru.v5j3l/"
-            },
-            "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naruu.v5j3l": {
-                "identifier": "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naruu.v5j3l",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4f/4fddd04cfa05fa3eba0f4c64884a1b0b.jpg",
-                "malId": 123456,
-                "aniId": 114048,
-                "page": "MangaFire",
-                "title": "Shinmai Ossan Bouken-sha, Saikyou paati ni shinu hodo kitae rarete Muteki ni naru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naruu.v5j3l/"
-            }
-        },
         "Weebcentral": {
             "01j76xyeb6sf7nzmftb5ffxwtc": {
+                "id": 207775,
                 "identifier": "01j76xyeb6sf7nzmftb5ffxwtc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEB6SF7NZMFTB5FFXWTC.jpg",
                 "malId": 123456,
@@ -96,6 +80,19 @@
                 "title": "Shinmai Ossan Bouken-sha, Saikyou paati ni shinu hodo kitae rarete Muteki ni naru",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEB6SF7NZMFTB5FFXWTC"
+            }
+        },
+        "MangaFire": {
+            "v5j3l": {
+                "id": 225325,
+                "identifier": "v5j3l",
+                "image": "https://static.mangafire.to/bb4e/i/4/4f/4fddd04cfa05fa3eba0f4c64884a1b0b.jpg",
+                "malId": 123456,
+                "aniId": 114048,
+                "page": "MangaFire",
+                "title": "Shinmai Ossan Bouken-sha, Saikyou paati ni shinu hodo kitae rarete Muteki ni naru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naruu.v5j3l"
             }
         },
         "Comick": {

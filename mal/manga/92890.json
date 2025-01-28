@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "5f73422e-e47c-41a1-8b5d-96ba13498cfe": {
+                "id": 18246,
                 "identifier": "5f73422e-e47c-41a1-8b5d-96ba13498cfe",
                 "image": "https://uploads.mangadex.org/covers/5f73422e-e47c-41a1-8b5d-96ba13498cfe/d8961de9-8563-4fbc-9bee-99cba81786b5.jpg",
                 "malId": 92890,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "legend-takano-masaharu": {
+                "id": 60195,
                 "identifier": "legend-takano-masaharu",
                 "image": "https://temp.compsci88.com/cover/Legend-takano-Masaharu.jpg",
                 "malId": 92890,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "legend_takano_masaharu": {
+                "id": 64548,
                 "identifier": "legend_takano_masaharu",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26333/cover.jpg",
                 "malId": 92890,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-se995439": {
+                "id": 128903,
                 "identifier": "manga-se995439",
                 "image": "https://avt.mkklcdnv6temp.com/27/t/29-1680669742.jpg",
                 "malId": 92890,
@@ -54,6 +58,7 @@
                 "url": "https://chapmanganato.com/manga-se995439"
             },
             "manga-sv995804": {
+                "id": 153710,
                 "identifier": "manga-sv995804",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/d/14-1733306100-nw.webp",
                 "malId": 92890,
@@ -64,20 +69,9 @@
                 "url": "https://chapmanganato.com/manga-sv995804"
             }
         },
-        "MangaFire": {
-            "legend22.rjvqy": {
-                "identifier": "legend22.rjvqy",
-                "image": "https://static.mangafire.to/3b2d5/i/f/fb/fb2cd82bba22c0567f693653162d5924.jpg",
-                "malId": 92890,
-                "aniId": 95960,
-                "page": "MangaFire",
-                "title": "Legend",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/legend22.rjvqy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc9h4a5cx5mkcc6ea0mx": {
+                "id": 207297,
                 "identifier": "01j76xyc9h4a5cx5mkcc6ea0mx",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC9H4A5CX5MKCC6EA0MX.jpg",
                 "malId": 92890,
@@ -86,6 +80,19 @@
                 "title": "Legend (TAKANO Masaharu)",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC9H4A5CX5MKCC6EA0MX"
+            }
+        },
+        "MangaFire": {
+            "rjvqy": {
+                "id": 224271,
+                "identifier": "rjvqy",
+                "image": "https://static.mangafire.to/cc93/i/f/fb/fb2cd82bba22c0567f693653162d5924.jpg",
+                "malId": 92890,
+                "aniId": 95960,
+                "page": "MangaFire",
+                "title": "Legend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/legend22.rjvqy"
             }
         },
         "Comick": {

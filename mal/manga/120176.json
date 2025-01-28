@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d31d0aee-c7df-481f-ac60-bce111cdd8b0": {
+                "id": 27949,
                 "identifier": "d31d0aee-c7df-481f-ac60-bce111cdd8b0",
                 "image": "https://uploads.mangadex.org/covers/d31d0aee-c7df-481f-ac60-bce111cdd8b0/20a63889-2cbb-4c8b-bbd7-e56c449eae14.jpg",
                 "malId": 120176,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tokyo-shinobi-squad": {
+                "id": 60456,
                 "identifier": "tokyo-shinobi-squad",
                 "image": "https://temp.compsci88.com/cover/Tokyo-Shinobi-Squad.jpg",
                 "malId": 120176,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "tokyo_shinobi_squad": {
+                "id": 66659,
                 "identifier": "tokyo_shinobi_squad",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30672/cover.jpg",
                 "malId": 120176,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-eb981936": {
+                "id": 85374,
                 "identifier": "manga-eb981936",
                 "image": "https://avt.mkklcdnv6temp.com/33/c/18-1583498368.jpg",
                 "malId": 120176,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-eb981936"
             }
         },
-        "MangaFire": {
-            "tokyo-shinobi-squad.kwylr": {
-                "identifier": "tokyo-shinobi-squad.kwylr",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e3/e394e9255ba18a6c1aa033ef8d9b8789.jpg",
-                "malId": 120176,
-                "aniId": 109174,
-                "page": "MangaFire",
-                "title": "Tokyo Shinobi Squad",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tokyo-shinobi-squad.kwylr/"
-            }
-        },
         "Weebcentral": {
             "01j76xycyp213jqt57q9xmr9kt": {
+                "id": 207472,
                 "identifier": "01j76xycyp213jqt57q9xmr9kt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCYP213JQT57Q9XMR9KT.jpg",
                 "malId": 120176,
@@ -76,6 +69,19 @@
                 "title": "Tokyo Shinobi Squad",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCYP213JQT57Q9XMR9KT"
+            }
+        },
+        "MangaFire": {
+            "kwylr": {
+                "id": 234468,
+                "identifier": "kwylr",
+                "image": "https://static.mangafire.to/273e/i/e/e3/e394e9255ba18a6c1aa033ef8d9b8789.jpg",
+                "malId": 120176,
+                "aniId": 109174,
+                "page": "MangaFire",
+                "title": "Tokyo Shinobi Squad",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tokyo-shinobi-squadd.kwylr"
             }
         },
         "Comick": {

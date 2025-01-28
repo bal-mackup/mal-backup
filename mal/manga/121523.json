@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "99830840-8b6f-479f-8524-d220ba162007": {
+                "id": 18770,
                 "identifier": "99830840-8b6f-479f-8524-d220ba162007",
                 "image": "https://uploads.mangadex.org/covers/99830840-8b6f-479f-8524-d220ba162007/a757cd82-e3c4-4e47-a5cc-3312c3a6e24e.jpg",
                 "malId": 121523,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ad978112": {
+                "id": 124761,
                 "identifier": "manga-ad978112",
                 "image": "https://avt.mkklcdnv6temp.com/fld/52/y/8-1732790182-nw.webp",
                 "malId": 121523,
@@ -30,20 +32,9 @@
                 "url": "https://chapmanganato.com/manga-ad978112"
             }
         },
-        "MangaFire": {
-            "fire-emblem-heroes-eiyuutachi-no-nichijou.02kzk": {
-                "identifier": "fire-emblem-heroes-eiyuutachi-no-nichijou.02kzk",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f3/f3beb74609b73834ab6e48c39b62a369.jpg",
-                "malId": 121523,
-                "aniId": 100783,
-                "page": "MangaFire",
-                "title": "Fire Emblem Heroes: A Day in the Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/fire-emblem-heroes-eiyuutachi-no-nichijou.02kzk/"
-            }
-        },
         "MangaFox": {
             "fire_emblem_heroes_daily_lives_of_the_heroes": {
+                "id": 184354,
                 "identifier": "fire_emblem_heroes_daily_lives_of_the_heroes",
                 "image": "https://fmcdn.mfcdn.net/store/manga/26960/cover.jpg",
                 "malId": 121523,
@@ -52,6 +43,19 @@
                 "title": "Fire Emblem Heroes Daily Lives of the Heroes",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/fire_emblem_heroes_daily_lives_of_the_heroes/"
+            }
+        },
+        "MangaFire": {
+            "02kzk": {
+                "id": 260071,
+                "identifier": "02kzk",
+                "image": "https://static.mangafire.to/d30d/i/f/f3/f3beb74609b73834ab6e48c39b62a369.jpg",
+                "malId": 121523,
+                "aniId": 100783,
+                "page": "MangaFire",
+                "title": "Fire Emblem Heroes: A Day in the Life",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/fire-emblem-heroes-eiyuutachi-no-nichijouu.02kzk"
             }
         },
         "Comick": {

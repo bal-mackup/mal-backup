@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "4ba77575-0c7e-4a74-8a54-980f87ba2c6a": {
+                "id": 13736,
                 "identifier": "4ba77575-0c7e-4a74-8a54-980f87ba2c6a",
                 "image": "https://uploads.mangadex.org/covers/4ba77575-0c7e-4a74-8a54-980f87ba2c6a/226242c0-13fb-4dad-ba4e-c9d08bdb5fc8.jpg",
                 "malId": 92737,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "tenohira-size": {
+                "id": 81077,
                 "identifier": "tenohira-size",
                 "image": "https://temp.compsci88.com/cover/Tenohira-Size.jpg",
                 "malId": 92737,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Tenohira-Size"
             }
         },
-        "MangaFire": {
-            "tenohira-size.vv76v": {
-                "identifier": "tenohira-size.vv76v",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2ac867a3dd85a49a22b6dda821b474f6.jpg",
-                "malId": 92737,
-                "aniId": 98152,
-                "page": "MangaFire",
-                "title": "Tenohira Size",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenohira-size.vv76v/"
-            },
-            "vv76v": {
-                "identifier": "vv76v",
-                "image": "https://static.mangafire.to/3b2d5/i/2/2a/2ac867a3dd85a49a22b6dda821b474f6.jpg",
-                "malId": 92737,
-                "aniId": 98152,
-                "page": "MangaFire",
-                "title": "Tenohira Size",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenohira-size.vv76v/"
-            }
-        },
         "Weebcentral": {
             "01j76xybe271kcj1dejdhca361": {
+                "id": 211992,
                 "identifier": "01j76xybe271kcj1dejdhca361",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBE271KCJ1DEJDHCA361.jpg",
                 "malId": 92737,
@@ -62,6 +43,19 @@
                 "title": "Tenohira Size",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBE271KCJ1DEJDHCA361"
+            }
+        },
+        "MangaFire": {
+            "vv76v": {
+                "id": 246499,
+                "identifier": "vv76v",
+                "image": "https://static.mangafire.to/8e79/i/2/2a/2ac867a3dd85a49a22b6dda821b474f6.jpg",
+                "malId": 92737,
+                "aniId": 98152,
+                "page": "MangaFire",
+                "title": "Tenohira Size",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/tenohira-sizee.vv76v"
             }
         },
         "Comick": {

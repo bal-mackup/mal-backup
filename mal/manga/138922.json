@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "860c10f3-4e84-44b9-86ed-04ddd65ad648": {
+                "id": 56720,
                 "identifier": "860c10f3-4e84-44b9-86ed-04ddd65ad648",
                 "image": "https://uploads.mangadex.org/covers/860c10f3-4e84-44b9-86ed-04ddd65ad648/c892c54c-4945-4d76-bae7-d628256048a7.jpg",
                 "malId": 138922,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ni990565": {
+                "id": 97035,
                 "identifier": "manga-ni990565",
                 "image": "https://avt.mkklcdnv6temp.com/29/v/25-1646241746.jpg",
                 "malId": 138922,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "ansatsu-skill-de-isekai-saikyou": {
+                "id": 101173,
                 "identifier": "ansatsu-skill-de-isekai-saikyou",
                 "image": "https://temp.compsci88.com/cover/Ansatsu-Skill-de-Isekai-Saikyou.jpg",
                 "malId": 138922,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ansatsu_skill_de_isekai_saikyou_renkinjutsu_to_ansatsujutsu_o_kiwameta_ore_wa_sekai_o_kage_kara_shih": {
+                "id": 106152,
                 "identifier": "ansatsu_skill_de_isekai_saikyou_renkinjutsu_to_ansatsujutsu_o_kiwameta_ore_wa_sekai_o_kage_kara_shih",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40008/cover.jpg",
                 "malId": 138922,
@@ -54,6 +58,7 @@
                 "url": "https://fanfox.net/manga/ansatsu_skill_de_isekai_saikyou_renkinjutsu_to_ansatsujutsu_o_kiwameta_ore_wa_sekai_o_kage_kara_shih/"
             },
             "ansatsu_skill_de_isekai_saikyou": {
+                "id": 177268,
                 "identifier": "ansatsu_skill_de_isekai_saikyou",
                 "image": "https://fmcdn.mfcdn.net/store/manga/40008/cover.jpg",
                 "malId": 138922,
@@ -64,30 +69,9 @@
                 "url": "https://fanfox.net/manga/ansatsu_skill_de_isekai_saikyou/"
             }
         },
-        "MangaFire": {
-            "ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suru.kw4j9": {
-                "identifier": "ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suru.kw4j9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/146f2ad165a518079fe80fa8d15ffb1e.jpg",
-                "malId": 138922,
-                "aniId": 138139,
-                "page": "MangaFire",
-                "title": "Killer Alchemist -Assassinations in Another World-",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suru.kw4j9/"
-            },
-            "ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suruu.kw4j9": {
-                "identifier": "ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suruu.kw4j9",
-                "image": "https://static.mangafire.to/3b2d5/i/1/14/146f2ad165a518079fe80fa8d15ffb1e.jpg",
-                "malId": 138922,
-                "aniId": 138139,
-                "page": "MangaFire",
-                "title": "Killer Alchemist -Assassinations in Another World-",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suruu.kw4j9/"
-            }
-        },
         "Weebcentral": {
             "01j76xyfd35vdwp83js9vxy8f8": {
+                "id": 207873,
                 "identifier": "01j76xyfd35vdwp83js9vxy8f8",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYFD35VDWP83JS9VXY8F8.jpg",
                 "malId": 138922,
@@ -96,6 +80,19 @@
                 "title": "Killer Alchemist - Assassinations in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYFD35VDWP83JS9VXY8F8"
+            }
+        },
+        "MangaFire": {
+            "kw4j9": {
+                "id": 229606,
+                "identifier": "kw4j9",
+                "image": "https://static.mangafire.to/f962/i/1/14/146f2ad165a518079fe80fa8d15ffb1e.jpg",
+                "malId": 138922,
+                "aniId": 138139,
+                "page": "MangaFire",
+                "title": "Killer Alchemist -Assassinations in Another World-",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suruu.kw4j9"
             }
         },
         "Comick": {

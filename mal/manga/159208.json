@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c68e79bd-af1a-4522-91f8-332c3b15323e": {
+                "id": 159054,
                 "identifier": "c68e79bd-af1a-4522-91f8-332c3b15323e",
                 "image": "https://uploads.mangadex.org/covers/c68e79bd-af1a-4522-91f8-332c3b15323e/bfceda65-89e4-4bd8-8825-477f37a824bd.jpg",
                 "malId": 159208,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-tr996552": {
+                "id": 159095,
                 "identifier": "manga-tr996552",
                 "image": "https://avt.mkklcdnv6temp.com/fld/20/w/15-1733307826-nw.webp",
                 "malId": 159208,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-tr996552"
             }
         },
-        "MangaFire": {
-            "a-saint-who-was-adopted-by-the-grand-duke.4214j": {
-                "identifier": "a-saint-who-was-adopted-by-the-grand-duke.4214j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00c246a4dc29ad481a808023201731cf.jpg",
-                "malId": 159208,
-                "aniId": 170887,
-                "page": "MangaFire",
-                "title": "The Archduke's Adopted Saint",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-saint-who-was-adopted-by-the-grand-duke.4214j/"
-            },
-            "a-saint-who-was-adopted-by-the-grand-dukee.4214j": {
-                "identifier": "a-saint-who-was-adopted-by-the-grand-dukee.4214j",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00c246a4dc29ad481a808023201731cf.jpg",
-                "malId": 159208,
-                "aniId": 170887,
-                "page": "MangaFire",
-                "title": "The Archduke's Adopted Saint",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/a-saint-who-was-adopted-by-the-grand-dukee.4214j/"
-            }
-        },
         "MangaFox": {
             "the_archduke_s_adopted_saint": {
+                "id": 195292,
                 "identifier": "the_archduke_s_adopted_saint",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46157/cover.jpg",
                 "malId": 159208,
@@ -62,6 +43,19 @@
                 "title": "The Archduke's Adopted Saint",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/the_archduke_s_adopted_saint/"
+            }
+        },
+        "MangaFire": {
+            "4214j": {
+                "id": 226574,
+                "identifier": "4214j",
+                "image": "https://static.mangafire.to/5baa/i/0/00/00c246a4dc29ad481a808023201731cf.jpg",
+                "malId": 159208,
+                "aniId": 170887,
+                "page": "MangaFire",
+                "title": "The Archduke's Adopted Saint",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-saint-who-was-adopted-by-the-grand-dukee.4214j"
             }
         },
         "Comick": {

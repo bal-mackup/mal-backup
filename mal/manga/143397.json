@@ -6,20 +6,9 @@
     "total": 6,
     "image": "https://cdn.myanimelist.net/images/manga/1/255458.jpg",
     "Sites": {
-        "MangaFire": {
-            "seichoutsuu.llj6m": {
-                "identifier": "seichoutsuu.llj6m",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e1/e15eb4288cae5d47b67f340c2dc624c0.jpg",
-                "malId": 143397,
-                "aniId": 144855,
-                "page": "MangaFire",
-                "title": "Seichoutsuu",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seichoutsuu.llj6m/"
-            }
-        },
         "Mangadex": {
             "b1a23282-a060-4518-9fb5-b8a2a84901f1": {
+                "id": 177111,
                 "identifier": "b1a23282-a060-4518-9fb5-b8a2a84901f1",
                 "image": "https://uploads.mangadex.org/covers/b1a23282-a060-4518-9fb5-b8a2a84901f1/18533c2f-a654-4acc-8738-07667fa3bcdf.png",
                 "malId": 143397,
@@ -28,6 +17,19 @@
                 "title": "Seichoutsuu",
                 "type": "manga",
                 "url": "https://mangadex.org/title/b1a23282-a060-4518-9fb5-b8a2a84901f1"
+            }
+        },
+        "MangaFire": {
+            "llj6m": {
+                "id": 248285,
+                "identifier": "llj6m",
+                "image": "https://static.mangafire.to/8428/i/e/e1/e15eb4288cae5d47b67f340c2dc624c0.jpg",
+                "malId": 143397,
+                "aniId": 144855,
+                "page": "MangaFire",
+                "title": "Seichoutsuu",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seichoutsuuu.llj6m"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "65bf6645-89d1-4451-b87c-f307c30e0d7e": {
+                "id": 32837,
                 "identifier": "65bf6645-89d1-4451-b87c-f307c30e0d7e",
                 "image": "https://uploads.mangadex.org/covers/65bf6645-89d1-4451-b87c-f307c30e0d7e/e0a3f93d-cd8e-41ff-a13f-452b59c69609.jpg",
                 "malId": 148423,
@@ -18,28 +19,30 @@
                 "url": "https://mangadex.org/title/65bf6645-89d1-4451-b87c-f307c30e0d7e"
             }
         },
-        "MangaFire": {
-            "midori-no-tomarigi.jvyv3": {
-                "identifier": "midori-no-tomarigi.jvyv3",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a8/a8717a23ea44312f86be8d420c70b5c4.jpg",
-                "malId": 148423,
-                "aniId": 112813,
-                "page": "MangaFire",
-                "title": "Midori no Tomarigi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/midori-no-tomarigi.jvyv3/"
-            }
-        },
         "MangaNato": {
             "manga-wn1000348": {
+                "id": 179678,
                 "identifier": "manga-wn1000348",
-                "image": "https://avt.mkklcdnv6temp.com/23/r/33-1705374717.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/65/q/16-1733317888-nw.webp",
                 "malId": 148423,
                 "aniId": 112813,
                 "page": "MangaNato",
                 "title": "Midori No Tomarigi",
                 "type": "manga",
                 "url": "https://manganato.com/manga-wn1000348"
+            }
+        },
+        "MangaFire": {
+            "jvyv3": {
+                "id": 255393,
+                "identifier": "jvyv3",
+                "image": "https://static.mangafire.to/fc71/i/a/a8/a8717a23ea44312f86be8d420c70b5c4.jpg",
+                "malId": 148423,
+                "aniId": 112813,
+                "page": "MangaFire",
+                "title": "Midori no Tomarigi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/midori-no-tomarigii.jvyv3"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f8dbced3-1eea-4547-b657-ce568fbdda0f": {
+                "id": 104487,
                 "identifier": "f8dbced3-1eea-4547-b657-ce568fbdda0f",
                 "image": "https://uploads.mangadex.org/covers/f8dbced3-1eea-4547-b657-ce568fbdda0f/9135af67-a75e-4045-a91f-7a7a87080b2d.jpg",
                 "malId": 149101,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-pc992659": {
+                "id": 117476,
                 "identifier": "manga-pc992659",
                 "image": "https://avt.mkklcdnv6temp.com/16/o/27-1664624163.jpg",
                 "malId": 149101,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-pc992659"
             }
         },
-        "MangaFire": {
-            "jakjeonmyeong-sunjeong.qxn15": {
-                "identifier": "jakjeonmyeong-sunjeong.qxn15",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/07547c52083b8b285ce9a3a42a9d0fac.jpg",
-                "malId": 149101,
-                "aniId": 149483,
-                "page": "MangaFire",
-                "title": "Operation: True Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jakjeonmyeong-sunjeong.qxn15/"
-            },
-            "jakjeonmyeong-sunjeongg.qxn15": {
-                "identifier": "jakjeonmyeong-sunjeongg.qxn15",
-                "image": "https://static.mangafire.to/3b2d5/i/0/07/07547c52083b8b285ce9a3a42a9d0fac.jpg",
-                "malId": 149101,
-                "aniId": 149483,
-                "page": "MangaFire",
-                "title": "Operation: True Love",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jakjeonmyeong-sunjeongg.qxn15/"
-            }
-        },
         "MangaSee": {
             "operation-true-love": {
+                "id": 167935,
                 "identifier": "operation-true-love",
                 "image": "https://temp.compsci88.com/cover/Operation-True-Love.jpg",
                 "malId": 149101,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygept876bf0jfbafsxp1": {
+                "id": 214450,
                 "identifier": "01j76xygept876bf0jfbafsxp1",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGEPT876BF0JFBAFSXP1.jpg",
                 "malId": 149101,
@@ -74,6 +56,19 @@
                 "title": "Operation: True Love",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGEPT876BF0JFBAFSXP1"
+            }
+        },
+        "MangaFire": {
+            "qxn15": {
+                "id": 224736,
+                "identifier": "qxn15",
+                "image": "https://static.mangafire.to/e7ab/i/0/07/07547c52083b8b285ce9a3a42a9d0fac.jpg",
+                "malId": 149101,
+                "aniId": 149483,
+                "page": "MangaFire",
+                "title": "Operation: True Love",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jakjeonmyeong-sunjeongg.qxn15"
             }
         },
         "Comick": {

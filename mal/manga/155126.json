@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "47c1c31f-1a88-46e0-adad-5c6e871e0afb": {
+                "id": 121752,
                 "identifier": "47c1c31f-1a88-46e0-adad-5c6e871e0afb",
                 "image": "https://uploads.mangadex.org/covers/47c1c31f-1a88-46e0-adad-5c6e871e0afb/286d330c-19a7-4b0f-9261-83198de29a42.jpg",
                 "malId": 155126,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/47c1c31f-1a88-46e0-adad-5c6e871e0afb"
             }
         },
-        "MangaFire": {
-            "liver-diver-lover.qk40n": {
-                "identifier": "liver-diver-lover.qk40n",
-                "image": "https://static.mangafire.to/3b2d5/i/8/8d/8ddd6bae1ce0241a3c9317671447f192.jpg",
-                "malId": 155126,
-                "aniId": 160897,
-                "page": "MangaFire",
-                "title": "Liver Diver Lover",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/liver-diver-lover.qk40n/"
-            }
-        },
         "MangaSee": {
             "liver-diver-lover": {
+                "id": 170698,
                 "identifier": "liver-diver-lover",
                 "image": "https://temp.compsci88.com/cover/Liver-Diver-Lover.jpg",
                 "malId": 155126,
@@ -44,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyghwqdn4kca0658zqn6a": {
+                "id": 212672,
                 "identifier": "01j76xyghwqdn4kca0658zqn6a",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGHWQDN4KCA0658ZQN6A.jpg",
                 "malId": 155126,
@@ -52,6 +43,19 @@
                 "title": "Liver Diver Lover",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGHWQDN4KCA0658ZQN6A"
+            }
+        },
+        "MangaFire": {
+            "qk40n": {
+                "id": 255976,
+                "identifier": "qk40n",
+                "image": "https://static.mangafire.to/c2d2/i/8/8d/8ddd6bae1ce0241a3c9317671447f192.jpg",
+                "malId": 155126,
+                "aniId": 160897,
+                "page": "MangaFire",
+                "title": "Liver Diver Lover",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/liver-diver-loverr.qk40n"
             }
         },
         "Comick": {

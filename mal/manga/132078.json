@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "fac1870c-2ca1-439c-bd97-020dbbd732f0": {
+                "id": 54732,
                 "identifier": "fac1870c-2ca1-439c-bd97-020dbbd732f0",
                 "image": "https://uploads.mangadex.org/covers/fac1870c-2ca1-439c-bd97-020dbbd732f0/b62a558b-7b2c-4fde-a56b-83173f071630.jpg",
                 "malId": 132078,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "usotsuki_satsuki_shi_ga_mieru": {
+                "id": 57230,
                 "identifier": "usotsuki_satsuki_shi_ga_mieru",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37114/cover.jpg",
                 "malId": 132078,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "liar-satsuki-can-see-death": {
+                "id": 64716,
                 "identifier": "liar-satsuki-can-see-death",
                 "image": "https://temp.compsci88.com/cover/Liar-Satsuki-Can-See-Death.jpg",
                 "malId": 132078,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-ko987523": {
+                "id": 74964,
                 "identifier": "manga-ko987523",
                 "image": "https://avt.mkklcdnv6temp.com/1/f/22-1609734399.jpg",
                 "malId": 132078,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-ko987523"
             }
         },
-        "MangaFire": {
-            "usotsuki-satsuki-shi-ga-mieru.80x7n": {
-                "identifier": "usotsuki-satsuki-shi-ga-mieru.80x7n",
-                "image": "https://static.mangafire.to/3b2d5/i/6/6b/6bc5ade0c59d64a5cec6b96325c6ec0e.jpg",
-                "malId": 132078,
-                "aniId": 120034,
-                "page": "MangaFire",
-                "title": "Usotsuki Satsuki Shi ga Mieru",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/usotsuki-satsuki-shi-ga-mieru.80x7n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyecyqht4tqm05875zcd4": {
+                "id": 212752,
                 "identifier": "01j76xyecyqht4tqm05875zcd4",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECYQHT4TQM05875ZCD4.jpg",
                 "malId": 132078,
@@ -76,6 +69,19 @@
                 "title": "Liar Satsuki Can See Death",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECYQHT4TQM05875ZCD4"
+            }
+        },
+        "MangaFire": {
+            "80x7n": {
+                "id": 231243,
+                "identifier": "80x7n",
+                "image": "https://static.mangafire.to/ffb9/i/6/6b/6bc5ade0c59d64a5cec6b96325c6ec0e.jpg",
+                "malId": 132078,
+                "aniId": 120034,
+                "page": "MangaFire",
+                "title": "Usotsuki Satsuki Shi ga Mieru",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/usotsuki-satsuki-shi-ga-mieruu.80x7n"
             }
         },
         "Comick": {

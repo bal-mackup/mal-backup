@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "af2f1d6b-0173-4fea-9871-acbccdb61d9e": {
+                "id": 14176,
                 "identifier": "af2f1d6b-0173-4fea-9871-acbccdb61d9e",
                 "image": "https://uploads.mangadex.org/covers/af2f1d6b-0173-4fea-9871-acbccdb61d9e/5d37688d-4bcc-4216-bc3c-e1e86c0a170a.jpg",
                 "malId": 96510,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-ha984409": {
+                "id": 109398,
                 "identifier": "manga-ha984409",
                 "image": "https://avt.mkklcdnv6temp.com/fld/68/a/10-1732802061-nw.webp",
                 "malId": 96510,
@@ -30,40 +32,9 @@
                 "url": "https://manganato.com/manga-ha984409"
             }
         },
-        "MangaFire": {
-            "sakura-nadeshiko.3rm0r": {
-                "identifier": "sakura-nadeshiko.3rm0r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c2f7e32ec41758a33594788aaac6ab5.jpg",
-                "malId": 96510,
-                "aniId": 96830,
-                "page": "MangaFire",
-                "title": "Sakura Nadeshiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakura-nadeshiko.3rm0r/"
-            },
-            "sakura-nadeshikoo.3rm0r": {
-                "identifier": "sakura-nadeshikoo.3rm0r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c2f7e32ec41758a33594788aaac6ab5.jpg",
-                "malId": 96510,
-                "aniId": 96830,
-                "page": "MangaFire",
-                "title": "Sakura Nadeshiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakura-nadeshikoo.3rm0r/"
-            },
-            "3rm0r": {
-                "identifier": "3rm0r",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9c/9c2f7e32ec41758a33594788aaac6ab5.jpg",
-                "malId": 96510,
-                "aniId": 96830,
-                "page": "MangaFire",
-                "title": "Sakura Nadeshiko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/sakura-nadeshikoo.3rm0r/"
-            }
-        },
         "MangaFox": {
             "sakura_nadeshiko": {
+                "id": 158779,
                 "identifier": "sakura_nadeshiko",
                 "image": "https://fmcdn.mfcdn.net/store/manga/30893/cover.jpg",
                 "malId": 96510,
@@ -72,6 +43,19 @@
                 "title": "Sakura Nadeshiko",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/sakura_nadeshiko/"
+            }
+        },
+        "MangaFire": {
+            "3rm0r": {
+                "id": 240820,
+                "identifier": "3rm0r",
+                "image": "https://static.mangafire.to/91f0/i/9/9c/9c2f7e32ec41758a33594788aaac6ab5.jpg",
+                "malId": 96510,
+                "aniId": 96830,
+                "page": "MangaFire",
+                "title": "Sakura Nadeshiko",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/sakura-nadeshikoo.3rm0r"
             }
         },
         "Comick": {

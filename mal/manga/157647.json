@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c5dec76c-7549-4378-8b8c-6800a02dd71a": {
+                "id": 129215,
                 "identifier": "c5dec76c-7549-4378-8b8c-6800a02dd71a",
                 "image": "https://uploads.mangadex.org/covers/c5dec76c-7549-4378-8b8c-6800a02dd71a/e7d20336-09f9-4282-a032-35b7f0783024.jpg",
                 "malId": 157647,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/c5dec76c-7549-4378-8b8c-6800a02dd71a"
             }
         },
-        "MangaFire": {
-            "boku-wa-mada-kamenai.2po0l": {
-                "identifier": "boku-wa-mada-kamenai.2po0l",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a200ee1fbab1c2299b16677fc7ea7e7c.jpg",
-                "malId": 157647,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Boku wa Mada Kamenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-mada-kamenai.2po0l/"
-            },
-            "boku-wa-mada-kamenaii.2po0l": {
-                "identifier": "boku-wa-mada-kamenaii.2po0l",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a2/a200ee1fbab1c2299b16677fc7ea7e7c.jpg",
-                "malId": 157647,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "Boku wa Mada Kamenai",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-wa-mada-kamenaii.2po0l/"
-            }
-        },
         "MangaNato": {
             "manga-sj995766": {
+                "id": 181270,
                 "identifier": "manga-sj995766",
                 "image": "https://avt.mkklcdnv6temp.com/fld/90/r/14-1733306020-nw.webp",
                 "malId": 157647,
@@ -50,6 +30,19 @@
                 "title": "Boku Wa Mada Kamenai",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-sj995766"
+            }
+        },
+        "MangaFire": {
+            "2po0l": {
+                "id": 238025,
+                "identifier": "2po0l",
+                "image": "https://static.mangafire.to/2e3c/i/a/a2/a200ee1fbab1c2299b16677fc7ea7e7c.jpg",
+                "malId": 157647,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "Boku wa Mada Kamenai",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-wa-mada-kamenaii.2po0l"
             }
         },
         "Comick": {

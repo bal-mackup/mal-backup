@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "93049c68-6cca-457f-8fed-638e92bf7dcf": {
+                "id": 13306,
                 "identifier": "93049c68-6cca-457f-8fed-638e92bf7dcf",
                 "image": "https://uploads.mangadex.org/covers/93049c68-6cca-457f-8fed-638e92bf7dcf/4e402fbe-fe26-40f0-b917-13c470ea861c.jpg",
                 "malId": 112483,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "super-secret": {
+                "id": 53928,
                 "identifier": "super-secret",
                 "image": "https://temp.compsci88.com/cover/Super-Secret.jpg",
                 "malId": 112483,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-sd953238": {
+                "id": 83958,
                 "identifier": "manga-sd953238",
                 "image": "https://avt.mkklcdnv6temp.com/fld/69/a/1-1732719153-nw.webp",
                 "malId": 112483,
@@ -42,30 +45,9 @@
                 "url": "https://chapmanganato.com/manga-sd953238"
             }
         },
-        "MangaFire": {
-            "super-secret.5232m": {
-                "identifier": "super-secret.5232m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9ab8458beb93019b0774d71be88eb645.jpg",
-                "malId": 112483,
-                "aniId": 97865,
-                "page": "MangaFire",
-                "title": "Super Secret",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/super-secret.5232m/"
-            },
-            "5232m": {
-                "identifier": "5232m",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9a/9ab8458beb93019b0774d71be88eb645.jpg",
-                "malId": 112483,
-                "aniId": 97865,
-                "page": "MangaFire",
-                "title": "Super Secret",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/super-secret.5232m/"
-            }
-        },
         "Weebcentral": {
             "01j76xybkqk3e22mwhag3p66dw": {
+                "id": 211584,
                 "identifier": "01j76xybkqk3e22mwhag3p66dw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBKQK3E22MWHAG3P66DW.jpg",
                 "malId": 112483,
@@ -74,6 +56,19 @@
                 "title": "Super Secret",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBKQK3E22MWHAG3P66DW"
+            }
+        },
+        "MangaFire": {
+            "5232m": {
+                "id": 248749,
+                "identifier": "5232m",
+                "image": "https://static.mangafire.to/47e7/i/9/9a/9ab8458beb93019b0774d71be88eb645.jpg",
+                "malId": 112483,
+                "aniId": 97865,
+                "page": "MangaFire",
+                "title": "Super Secret",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/super-secrett.5232m"
             }
         },
         "Comick": {

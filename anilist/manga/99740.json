@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "48592786-4c75-43ed-b697-59f8beb79bc4": {
+                "id": 16506,
                 "identifier": "48592786-4c75-43ed-b697-59f8beb79bc4",
-                "image": "https://uploads.mangadex.org/covers/48592786-4c75-43ed-b697-59f8beb79bc4/a1fdd6ec-4392-4791-ac7e-7b5e379f1933.jpg",
+                "image": "https://uploads.mangadex.org/covers/48592786-4c75-43ed-b697-59f8beb79bc4/88439b62-aaee-44f9-8fa2-c2509c3f8579.jpg",
                 "malId": 99384,
                 "aniId": 99740,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "jui-san-no-oshigoto-in-isekai": {
+                "id": 55305,
                 "identifier": "jui-san-no-oshigoto-in-isekai",
                 "image": "https://temp.compsci88.com/cover/Jui-san-No-Oshigoto-In-Isekai.jpg",
                 "malId": 99384,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "jui_san_no_oshigoto_in_isekai": {
+                "id": 58818,
                 "identifier": "jui_san_no_oshigoto_in_isekai",
                 "image": "https://fmcdn.mfcdn.net/store/manga/24947/cover.jpg",
                 "malId": 99384,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-yn975948": {
+                "id": 72909,
                 "identifier": "manga-yn975948",
                 "image": "https://avt.mkklcdnv6temp.com/18/z/15-1583492146.jpg",
                 "malId": 99384,
@@ -54,30 +58,9 @@
                 "url": "https://manganato.com/manga-yn975948"
             }
         },
-        "MangaFire": {
-            "jui-san-no-oshigoto-in-isekaii.yq5ox": {
-                "identifier": "jui-san-no-oshigoto-in-isekaii.yq5ox",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e09506f6a2048497118d13ecb5d858a.jpg",
-                "malId": 99384,
-                "aniId": 99740,
-                "page": "MangaFire",
-                "title": "A Veterinarian in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jui-san-no-oshigoto-in-isekaii.yq5ox/"
-            },
-            "yq5ox": {
-                "identifier": "yq5ox",
-                "image": "https://static.mangafire.to/3b2d5/i/4/4e/4e09506f6a2048497118d13ecb5d858a.jpg",
-                "malId": 99384,
-                "aniId": 99740,
-                "page": "MangaFire",
-                "title": "A Veterinarian in Another World",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/jui-san-no-oshigoto-in-isekaii.yq5ox/"
-            }
-        },
         "Weebcentral": {
             "01j76xyc7c3hk50029wt3xsmme": {
+                "id": 206367,
                 "identifier": "01j76xyc7c3hk50029wt3xsmme",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYC7C3HK50029WT3XSMME.jpg",
                 "malId": 99384,
@@ -86,6 +69,19 @@
                 "title": "A Veterinarian in Another World",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYC7C3HK50029WT3XSMME"
+            }
+        },
+        "MangaFire": {
+            "yq5ox": {
+                "id": 226589,
+                "identifier": "yq5ox",
+                "image": "https://static.mangafire.to/620b/i/4/4e/4e09506f6a2048497118d13ecb5d858a.jpg",
+                "malId": 99384,
+                "aniId": 99740,
+                "page": "MangaFire",
+                "title": "A Veterinarian in Another World",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/jui-san-no-oshigoto-in-isekaii.yq5ox"
             }
         },
         "Comick": {

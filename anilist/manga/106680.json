@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "16851fef-456a-4efe-ae95-5ac51aa0506a": {
+                "id": 25388,
                 "identifier": "16851fef-456a-4efe-ae95-5ac51aa0506a",
                 "image": "https://uploads.mangadex.org/covers/16851fef-456a-4efe-ae95-5ac51aa0506a/f2087ed3-25e2-4b62-8caf-0ffdb18631f7.jpg",
                 "malId": 147704,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "i-am-a-child-of-this-house": {
+                "id": 58873,
                 "identifier": "i-am-a-child-of-this-house",
                 "image": "https://temp.compsci88.com/cover/I-Am-a-Child-of-This-House.jpg",
                 "malId": 147704,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-dr980552": {
+                "id": 74122,
                 "identifier": "manga-dr980552",
                 "image": "https://avt.mkklcdnv6temp.com/32/z/17-1583496441.jpg",
                 "malId": 147704,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-dr980552"
             }
         },
-        "MangaFire": {
-            "i-belong-to-house-castielloo.ojj7y": {
-                "identifier": "i-belong-to-house-castielloo.ojj7y",
-                "image": "https://static.mangafire.to/3b2d5/i/1/1f/1f633e22785a93f8bf7407e2736d137d.jpg",
-                "malId": 147704,
-                "aniId": 106680,
-                "page": "MangaFire",
-                "title": "I Belong to House Castielo",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/i-belong-to-house-castielloo.ojj7y/"
-            }
-        },
         "Weebcentral": {
             "01j76xydqdf7x40x999jy6eqb3": {
+                "id": 214258,
                 "identifier": "01j76xydqdf7x40x999jy6eqb3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQDF7X40X999JY6EQB3.jpg",
                 "malId": 147704,
@@ -64,6 +56,19 @@
                 "title": "I Belong to House Castiello",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQDF7X40X999JY6EQB3"
+            }
+        },
+        "MangaFire": {
+            "ojj7y": {
+                "id": 227851,
+                "identifier": "ojj7y",
+                "image": "https://static.mangafire.to/f03c/i/1/1f/1f633e22785a93f8bf7407e2736d137d.jpg",
+                "malId": 147704,
+                "aniId": 106680,
+                "page": "MangaFire",
+                "title": "I Belong to House Castielo",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/i-belong-to-house-castielloo.ojj7y"
             }
         },
         "Comick": {

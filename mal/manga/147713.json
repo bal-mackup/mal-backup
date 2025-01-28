@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4": {
+                "id": 36649,
                 "identifier": "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4",
                 "image": "https://uploads.mangadex.org/covers/25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4/07bc97b8-12f6-4171-ab59-eafc25b46e80.jpg",
                 "malId": 147713,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "please-throw-me-away": {
+                "id": 63393,
                 "identifier": "please-throw-me-away",
                 "image": "https://temp.compsci88.com/cover/Please-Throw-Me-Away.jpg",
                 "malId": 147713,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-lp988672": {
+                "id": 76320,
                 "identifier": "manga-lp988672",
                 "image": "https://avt.mkklcdnv6temp.com/48/p/23-1617247768.jpg",
                 "malId": 147713,
@@ -42,6 +45,7 @@
                 "url": "https://chapmanganato.com/manga-lp988672"
             },
             "manga-ih985742": {
+                "id": 76587,
                 "identifier": "manga-ih985742",
                 "image": "https://avt.mkklcdnv6temp.com/29/a/21-1592300211.jpg",
                 "malId": 147713,
@@ -52,30 +56,9 @@
                 "url": "https://chapmanganato.com/manga-ih985742"
             }
         },
-        "MangaFire": {
-            "just-leave-me-be.1rrom": {
-                "identifier": "just-leave-me-be.1rrom",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c73994dcb27e8ff307d8f5b7544b594d.jpg",
-                "malId": 147713,
-                "aniId": 120088,
-                "page": "MangaFire",
-                "title": "Just Leave Me Be",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/just-leave-me-be.1rrom/"
-            },
-            "just-leave-me-bee.1rrom": {
-                "identifier": "just-leave-me-bee.1rrom",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c7/c73994dcb27e8ff307d8f5b7544b594d.jpg",
-                "malId": 147713,
-                "aniId": 120088,
-                "page": "MangaFire",
-                "title": "Just Leave Me Be",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/just-leave-me-bee.1rrom/"
-            }
-        },
         "Weebcentral": {
             "01j76xydqf8qh3cymwn96ta9xt": {
+                "id": 211369,
                 "identifier": "01j76xydqf8qh3cymwn96ta9xt",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDQF8QH3CYMWN96TA9XT.jpg",
                 "malId": 147713,
@@ -84,6 +67,19 @@
                 "title": "Just Leave Me Be",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDQF8QH3CYMWN96TA9XT"
+            }
+        },
+        "MangaFire": {
+            "1rrom": {
+                "id": 227212,
+                "identifier": "1rrom",
+                "image": "https://static.mangafire.to/c7b2/i/c/c7/c73994dcb27e8ff307d8f5b7544b594d.jpg",
+                "malId": 147713,
+                "aniId": 120088,
+                "page": "MangaFire",
+                "title": "Just Leave Me Be",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/just-leave-me-bee.1rrom"
             }
         },
         "Comick": {

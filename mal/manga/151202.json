@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "79929df5-edb1-4f74-aa4a-228e0eb04aff": {
+                "id": 90516,
                 "identifier": "79929df5-edb1-4f74-aa4a-228e0eb04aff",
                 "image": "https://uploads.mangadex.org/covers/79929df5-edb1-4f74-aa4a-228e0eb04aff/610fe199-7317-43c3-8c02-e14df2c8a861.jpg",
                 "malId": 151202,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-or992174": {
+                "id": 113576,
                 "identifier": "manga-or992174",
                 "image": "https://avt.mkklcdnv6temp.com/46/w/26-1661925540.jpg",
                 "malId": 151202,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-or992174"
             }
         },
-        "MangaFire": {
-            "biryuu-enshoutan.02onr": {
-                "identifier": "biryuu-enshoutan.02onr",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db5126108cf228ac6029255559c15cf4.jpg",
-                "malId": 151202,
-                "aniId": 141806,
-                "page": "MangaFire",
-                "title": "Biryuu Enshoutan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/biryuu-enshoutan.02onr/"
-            },
-            "biryuu-enshoutann.02onr": {
-                "identifier": "biryuu-enshoutann.02onr",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db5126108cf228ac6029255559c15cf4.jpg",
-                "malId": 151202,
-                "aniId": 141806,
-                "page": "MangaFire",
-                "title": "Biryuu Enshoutan",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/biryuu-enshoutann.02onr/"
-            }
-        },
         "MangaSee": {
             "biryuu-enshoutan": {
+                "id": 175158,
                 "identifier": "biryuu-enshoutan",
                 "image": "https://temp.compsci88.com/cover/Biryuu-Enshoutan.jpg",
                 "malId": 151202,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygnjyzp14mvkmb7vq3ey": {
+                "id": 207903,
                 "identifier": "01j76xygnjyzp14mvkmb7vq3ey",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGNJYZP14MVKMB7VQ3EY.jpg",
                 "malId": 151202,
@@ -74,6 +56,19 @@
                 "title": "Biryuu Enshoutan",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGNJYZP14MVKMB7VQ3EY"
+            }
+        },
+        "MangaFire": {
+            "02onr": {
+                "id": 236973,
+                "identifier": "02onr",
+                "image": "https://static.mangafire.to/623e/i/d/db/db5126108cf228ac6029255559c15cf4.jpg",
+                "malId": 151202,
+                "aniId": 141806,
+                "page": "MangaFire",
+                "title": "Biryuu Enshoutan",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/biryuu-enshoutann.02onr"
             }
         },
         "Comick": {

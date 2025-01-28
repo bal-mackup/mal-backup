@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "33f1397b-07d1-4dfc-b42a-a428a41fe55b": {
+                "id": 28341,
                 "identifier": "33f1397b-07d1-4dfc-b42a-a428a41fe55b",
                 "image": "https://uploads.mangadex.org/covers/33f1397b-07d1-4dfc-b42a-a428a41fe55b/ae8936e0-b18e-4e3c-8d4e-607a0500be94.jpg",
                 "malId": 121031,
@@ -19,25 +20,16 @@
             }
         },
         "MangaFire": {
-            "tenko.m2j9p": {
-                "identifier": "tenko.m2j9p",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5b/5b50471ad43795a6f5a417be835dd503.jpg",
-                "malId": 121031,
-                "aniId": 111958,
-                "page": "MangaFire",
-                "title": "Tenko",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/tenko.m2j9p/"
-            },
-            "tenkoo.m2j9p": {
-                "identifier": "tenkoo.m2j9p",
+            "m2j9p": {
+                "id": 223670,
+                "identifier": "m2j9p",
                 "image": "https://static.mangafire.to/0166/i/5/5b/5b50471ad43795a6f5a417be835dd503.jpg",
                 "malId": 121031,
                 "aniId": 111958,
                 "page": "MangaFire",
                 "title": "Tenko",
                 "type": "manga",
-                "url": "https://mangafire.to/manga/tenkoo.m2j9p/"
+                "url": "https://mangafire.to/manga/tenkoo.m2j9p"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0a13dd9b-fb3c-4724-b125-591c5d270ff3": {
+                "id": 29171,
                 "identifier": "0a13dd9b-fb3c-4724-b125-591c5d270ff3",
                 "image": "https://uploads.mangadex.org/covers/0a13dd9b-fb3c-4724-b125-591c5d270ff3/aaac46fd-031b-4d07-9c6d-d8358e117872.jpg",
                 "malId": 108023,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-dv980504": {
+                "id": 85640,
                 "identifier": "manga-dv980504",
                 "image": "https://avt.mkklcdnv6temp.com/31/e/17-1583496379.jpg",
                 "malId": 108023,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "kimi_no_na_wa_another_side_earthbound": {
+                "id": 116242,
                 "identifier": "kimi_no_na_wa_another_side_earthbound",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37172/cover.jpg",
                 "malId": 108023,
@@ -42,40 +45,9 @@
                 "url": "https://fanfox.net/manga/kimi_no_na_wa_another_side_earthbound/"
             }
         },
-        "MangaFire": {
-            "kimi-no-na-wa-another-side-earthbound.npn1k": {
-                "identifier": "kimi-no-na-wa-another-side-earthbound.npn1k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/298f67e97585337869f6afa691891a86.jpg",
-                "malId": 108023,
-                "aniId": 108492,
-                "page": "MangaFire",
-                "title": "your name. Another Side:Earthbound",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-na-wa-another-side-earthbound.npn1k/"
-            },
-            "kimi-no-na-wa-another-side-earthboundd.npn1k": {
-                "identifier": "kimi-no-na-wa-another-side-earthboundd.npn1k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/298f67e97585337869f6afa691891a86.jpg",
-                "malId": 108023,
-                "aniId": 108492,
-                "page": "MangaFire",
-                "title": "your name. Another Side:Earthbound",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-na-wa-another-side-earthboundd.npn1k/"
-            },
-            "npn1k": {
-                "identifier": "npn1k",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/298f67e97585337869f6afa691891a86.jpg",
-                "malId": 108023,
-                "aniId": 108492,
-                "page": "MangaFire",
-                "title": "your name. Another Side:Earthbound",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kimi-no-na-wa-another-side-earthboundd.npn1k/"
-            }
-        },
         "MangaSee": {
             "your-name-another-side-earthbound": {
+                "id": 156173,
                 "identifier": "your-name-another-side-earthbound",
                 "image": "https://temp.compsci88.com/cover/your-name-Another-Side-Earthbound.jpg",
                 "malId": 108023,
@@ -88,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg2m27r7nt4f5rgvt4gd": {
+                "id": 206494,
                 "identifier": "01j76xyg2m27r7nt4f5rgvt4gd",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG2M27R7NT4F5RGVT4GD.jpg",
                 "malId": 108023,
@@ -96,6 +69,19 @@
                 "title": "your name. Another Side - Earthbound",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG2M27R7NT4F5RGVT4GD"
+            }
+        },
+        "MangaFire": {
+            "npn1k": {
+                "id": 237738,
+                "identifier": "npn1k",
+                "image": "https://static.mangafire.to/2017/i/2/29/298f67e97585337869f6afa691891a86.jpg",
+                "malId": 108023,
+                "aniId": 108492,
+                "page": "MangaFire",
+                "title": "your name. Another Side:Earthbound",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kimi-no-na-wa-another-side-earthboundd.npn1k"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mq989851": {
+                "id": 88974,
                 "identifier": "manga-mq989851",
                 "image": "https://avt.mkklcdnv6temp.com/49/k/24-1634361620.jpg",
                 "malId": 149715,
@@ -20,6 +21,7 @@
         },
         "Mangadex": {
             "08622bdc-a48f-4f99-b57a-ee5a1b685bc2": {
+                "id": 90364,
                 "identifier": "08622bdc-a48f-4f99-b57a-ee5a1b685bc2",
                 "image": "https://uploads.mangadex.org/covers/08622bdc-a48f-4f99-b57a-ee5a1b685bc2/7ea17f6a-2621-44cf-b4a6-69365fa00199.jpg",
                 "malId": 149715,
@@ -30,30 +32,9 @@
                 "url": "https://mangadex.org/title/08622bdc-a48f-4f99-b57a-ee5a1b685bc2"
             }
         },
-        "MangaFire": {
-            "no-more-turning-a-blind-eye.n3mpl": {
-                "identifier": "no-more-turning-a-blind-eye.n3mpl",
-                "image": "https://static.mangafire.to/3b2d5/i/5/57/57fb4b233c8a4b9ee048a1c25c4b81be.jpg",
-                "malId": 149715,
-                "aniId": 140655,
-                "page": "MangaFire",
-                "title": "No More Turning a Blind Eye",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-more-turning-a-blind-eye.n3mpl/"
-            },
-            "no-more-turning-a-blind-eyee.n3mpl": {
-                "identifier": "no-more-turning-a-blind-eyee.n3mpl",
-                "image": "https://static.mangafire.to/62bf/i/5/57/57fb4b233c8a4b9ee048a1c25c4b81be.jpg",
-                "malId": 149715,
-                "aniId": 140655,
-                "page": "MangaFire",
-                "title": "No More Turning a Blind Eye",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-more-turning-a-blind-eyee.n3mpl/"
-            }
-        },
         "MangaFox": {
             "i_decided_not_to_pretend_i_don_t_see_it_anymore": {
+                "id": 221245,
                 "identifier": "i_decided_not_to_pretend_i_don_t_see_it_anymore",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39636/cover.jpg",
                 "malId": 149715,
@@ -62,6 +43,19 @@
                 "title": "I Decided Not to Pretend I Don't See It Anymore",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/i_decided_not_to_pretend_i_don_t_see_it_anymore/"
+            }
+        },
+        "MangaFire": {
+            "n3mpl": {
+                "id": 222944,
+                "identifier": "n3mpl",
+                "image": "https://static.mangafire.to/62bf/i/5/57/57fb4b233c8a4b9ee048a1c25c4b81be.jpg",
+                "malId": 149715,
+                "aniId": 140655,
+                "page": "MangaFire",
+                "title": "No More Turning a Blind Eye",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/no-more-turning-a-blind-eyee.n3mpl"
             }
         }
     },

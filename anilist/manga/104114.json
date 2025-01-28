@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b12f3c1d-9c12-432a-a9b5-3ec75aa614bd": {
+                "id": 23707,
                 "identifier": "b12f3c1d-9c12-432a-a9b5-3ec75aa614bd",
                 "image": "https://uploads.mangadex.org/covers/b12f3c1d-9c12-432a-a9b5-3ec75aa614bd/6e80d77c-34fc-4e23-aaac-5f3f79e3cf87.jpg",
                 "malId": 116196,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "imadoki-no-wakai-mon-wa": {
+                "id": 64807,
                 "identifier": "imadoki-no-wakai-mon-wa",
                 "image": "https://temp.compsci88.com/cover/Imadoki-No-Wakai-Mon-Wa.jpg",
                 "malId": 116196,
@@ -32,6 +34,7 @@
         },
         "MangaFox": {
             "imadoki_no_wakai_mon_wa": {
+                "id": 64960,
                 "identifier": "imadoki_no_wakai_mon_wa",
                 "image": "https://fmcdn.mfcdn.net/store/manga/28375/cover.jpg",
                 "malId": 116196,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-li988517": {
+                "id": 79862,
                 "identifier": "manga-li988517",
                 "image": "https://avt.mkklcdnv6temp.com/42/b/23-1615865628.jpg",
                 "malId": 116196,
@@ -54,20 +58,9 @@
                 "url": "https://chapmanganato.com/manga-li988517"
             }
         },
-        "MangaFire": {
-            "imadoki-no-wakai-mon-wa.4qn9x": {
-                "identifier": "imadoki-no-wakai-mon-wa.4qn9x",
-                "image": "https://static.mangafire.to/3b2d5/i/0/01/0164906d0083fd3dfe1b9dd8a116db8c.jpg",
-                "malId": 116196,
-                "aniId": 104114,
-                "page": "MangaFire",
-                "title": "Imadoki no Wakai Mon wa",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/imadoki-no-wakai-mon-wa.4qn9x/"
-            }
-        },
         "Weebcentral": {
             "01j76xycnrjyrv9b2s1c0mcz2v": {
+                "id": 207447,
                 "identifier": "01j76xycnrjyrv9b2s1c0mcz2v",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYCNRJYRV9B2S1C0MCZ2V.jpg",
                 "malId": 116196,
@@ -76,6 +69,19 @@
                 "title": "Imadoki no Wakai Mon wa",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYCNRJYRV9B2S1C0MCZ2V"
+            }
+        },
+        "MangaFire": {
+            "4qn9x": {
+                "id": 260023,
+                "identifier": "4qn9x",
+                "image": "https://static.mangafire.to/a746/i/0/01/0164906d0083fd3dfe1b9dd8a116db8c.jpg",
+                "malId": 116196,
+                "aniId": 104114,
+                "page": "MangaFire",
+                "title": "Imadoki no Wakai Mon wa",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/imadoki-no-wakai-mon-waa.4qn9x"
             }
         },
         "Comick": {

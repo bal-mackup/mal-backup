@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "5744351d-5336-437b-a90b-73514ce21346": {
+                "id": 19378,
                 "identifier": "5744351d-5336-437b-a90b-73514ce21346",
-                "image": "https://uploads.mangadex.org/covers/5744351d-5336-437b-a90b-73514ce21346/31714756-8ed1-48f3-accf-0652f0bc562b.jpg",
+                "image": "https://uploads.mangadex.org/covers/5744351d-5336-437b-a90b-73514ce21346/10115d91-dd92-48f1-9d81-0f94f98ed2f9.jpg",
                 "malId": 110604,
                 "aniId": 87342,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "dokgo-rewind": {
+                "id": 59546,
                 "identifier": "dokgo-rewind",
                 "image": "https://temp.compsci88.com/cover/Dokgo-Rewind.jpg",
                 "malId": 110604,
@@ -30,30 +32,9 @@
                 "url": "https://mangasee123.com/manga/Dokgo-Rewind"
             }
         },
-        "MangaFire": {
-            "dokgo-rewind.oovzz": {
-                "identifier": "dokgo-rewind.oovzz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d0a141b7a8c94639f352bf078dc1aee0.jpg",
-                "malId": 110604,
-                "aniId": 87342,
-                "page": "MangaFire",
-                "title": "Dokgo Rewind",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dokgo-rewind.oovzz/"
-            },
-            "oovzz": {
-                "identifier": "oovzz",
-                "image": "https://static.mangafire.to/3b2d5/i/d/d0/d0a141b7a8c94639f352bf078dc1aee0.jpg",
-                "malId": 110604,
-                "aniId": 87342,
-                "page": "MangaFire",
-                "title": "Dokgo Rewind",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/dokgo-rewind.oovzz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybssdksz57bw9q7dsxpz": {
+                "id": 211153,
                 "identifier": "01j76xybssdksz57bw9q7dsxpz",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBSSDKSZ57BW9Q7DSXPZ.jpg",
                 "malId": 110604,
@@ -62,6 +43,19 @@
                 "title": "Dokgo Rewind",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBSSDKSZ57BW9Q7DSXPZ"
+            }
+        },
+        "MangaFire": {
+            "oovzz": {
+                "id": 247203,
+                "identifier": "oovzz",
+                "image": "https://static.mangafire.to/d271/i/d/d0/d0a141b7a8c94639f352bf078dc1aee0.jpg",
+                "malId": 110604,
+                "aniId": 87342,
+                "page": "MangaFire",
+                "title": "Dokgo Rewind",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/dokgo-rewindd.oovzz"
             }
         },
         "Comick": {

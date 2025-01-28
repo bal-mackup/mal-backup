@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "55d5c1dd-8df4-4b30-bcc1-452caeab829d": {
+                "id": 107567,
                 "identifier": "55d5c1dd-8df4-4b30-bcc1-452caeab829d",
                 "image": "https://uploads.mangadex.org/covers/55d5c1dd-8df4-4b30-bcc1-452caeab829d/72d9ce15-0a69-48f4-b964-31bdd04ab1c0.jpg",
                 "malId": 148458,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-nn991296": {
+                "id": 107942,
                 "identifier": "manga-nn991296",
                 "image": "https://avt.mkklcdnv6temp.com/9/r/26-1655895944.jpg",
                 "malId": 148458,
@@ -30,30 +32,9 @@
                 "url": "https://chapmanganato.com/manga-nn991296"
             }
         },
-        "MangaFire": {
-            "the-newbie-is-too-strong.vvyy2": {
-                "identifier": "the-newbie-is-too-strong.vvyy2",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a0c1e4263fdcde2be53017e60d795327.jpg",
-                "malId": 148458,
-                "aniId": 151457,
-                "page": "MangaFire",
-                "title": "The Overpowered Newbie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-newbie-is-too-strong.vvyy2/"
-            },
-            "the-newbie-is-too-strongg.vvyy2": {
-                "identifier": "the-newbie-is-too-strongg.vvyy2",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a0c1e4263fdcde2be53017e60d795327.jpg",
-                "malId": 148458,
-                "aniId": 151457,
-                "page": "MangaFire",
-                "title": "The Overpowered Newbie",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-newbie-is-too-strongg.vvyy2/"
-            }
-        },
         "MangaSee": {
             "the-overpowered-newbie": {
+                "id": 174987,
                 "identifier": "the-overpowered-newbie",
                 "image": "https://temp.compsci88.com/cover/The-Overpowered-Newbie.jpg",
                 "malId": 148458,
@@ -66,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygmv2trba0fnhydb1g7w": {
+                "id": 210698,
                 "identifier": "01j76xygmv2trba0fnhydb1g7w",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGMV2TRBA0FNHYDB1G7W.jpg",
                 "malId": 148458,
@@ -74,6 +56,19 @@
                 "title": "The Overpowered Newbie",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGMV2TRBA0FNHYDB1G7W"
+            }
+        },
+        "MangaFire": {
+            "vvyy2": {
+                "id": 225954,
+                "identifier": "vvyy2",
+                "image": "https://static.mangafire.to/a7fe/i/a/a0/a0c1e4263fdcde2be53017e60d795327.jpg",
+                "malId": 148458,
+                "aniId": 151457,
+                "page": "MangaFire",
+                "title": "The Overpowered Newbie",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-newbie-is-too-strongg.vvyy2"
             }
         },
         "Comick": {

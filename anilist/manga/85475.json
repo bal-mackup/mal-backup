@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "0148ce7c-7abe-4521-9711-70687f00269f": {
+                "id": 11345,
                 "identifier": "0148ce7c-7abe-4521-9711-70687f00269f",
                 "image": "https://uploads.mangadex.org/covers/0148ce7c-7abe-4521-9711-70687f00269f/ee04e871-ed8e-4e5b-b927-4bf7a8f8eaf2.jpg",
                 "malId": 78477,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "rikudou": {
+                "id": 58107,
                 "identifier": "rikudou",
                 "image": "https://temp.compsci88.com/cover/Rikudou.jpg",
                 "malId": 78477,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ou952777": {
+                "id": 74889,
                 "identifier": "manga-ou952777",
                 "image": "https://avt.mkklcdnv6temp.com/1/g/1-1583465737.jpg",
                 "malId": 78477,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ou952777"
             }
         },
-        "MangaFire": {
-            "rikudou.q5vj": {
-                "identifier": "rikudou.q5vj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9d00d27cace7f448270b4c745a0baa6c.jpg",
-                "malId": 78477,
-                "aniId": 85475,
-                "page": "MangaFire",
-                "title": "Rikudou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rikudou.q5vj/"
-            },
-            "rikudouu.q5vj": {
-                "identifier": "rikudouu.q5vj",
-                "image": "https://static.mangafire.to/3b2d5/i/9/9d/9d00d27cace7f448270b4c745a0baa6c.jpg",
-                "malId": 78477,
-                "aniId": 85475,
-                "page": "MangaFire",
-                "title": "Rikudou",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/rikudouu.q5vj/"
-            }
-        },
         "Weebcentral": {
             "01j76xyarq8hk8xbh05ykn9vws": {
+                "id": 214334,
                 "identifier": "01j76xyarq8hk8xbh05ykn9vws",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYARQ8HK8XBH05YKN9VWS.jpg",
                 "malId": 78477,
@@ -74,6 +56,19 @@
                 "title": "Rikudou",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYARQ8HK8XBH05YKN9VWS"
+            }
+        },
+        "MangaFire": {
+            "q5vj": {
+                "id": 228648,
+                "identifier": "q5vj",
+                "image": "https://static.mangafire.to/04b8/i/9/9d/9d00d27cace7f448270b4c745a0baa6c.jpg",
+                "malId": 78477,
+                "aniId": 85475,
+                "page": "MangaFire",
+                "title": "Rikudou",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/rikudouu.q5vj"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "89798992-b861-43f3-9a27-c8d55aa4a497": {
+                "id": 12963,
                 "identifier": "89798992-b861-43f3-9a27-c8d55aa4a497",
                 "image": "https://uploads.mangadex.org/covers/89798992-b861-43f3-9a27-c8d55aa4a497/21f3943f-2934-43c8-b6ea-c1330d3fd215.jpg",
                 "malId": 88537,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "t-r-e-x-na-kanojo": {
+                "id": 56581,
                 "identifier": "t-r-e-x-na-kanojo",
                 "image": "https://temp.compsci88.com/cover/T-R-E-X-Na-Kanojo.jpg",
                 "malId": 88537,
@@ -30,40 +32,9 @@
                 "url": "https://mangasee123.com/manga/T-R-E-X-Na-Kanojo"
             }
         },
-        "MangaFire": {
-            "t-rex-na-kanojo.3ryor": {
-                "identifier": "t-rex-na-kanojo.3ryor",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/2152a905d24db14e076f0d28885c306d.jpg",
-                "malId": 88537,
-                "aniId": 86151,
-                "page": "MangaFire",
-                "title": "My Girlfriend is a T-Rex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/t-rex-na-kanojo.3ryor/"
-            },
-            "t-rex-na-kanojoo.3ryor": {
-                "identifier": "t-rex-na-kanojoo.3ryor",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/2152a905d24db14e076f0d28885c306d.jpg",
-                "malId": 88537,
-                "aniId": 86151,
-                "page": "MangaFire",
-                "title": "My Girlfriend is a T-Rex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/t-rex-na-kanojoo.3ryor/"
-            },
-            "3ryor": {
-                "identifier": "3ryor",
-                "image": "https://static.mangafire.to/3b2d5/i/2/21/2152a905d24db14e076f0d28885c306d.jpg",
-                "malId": 88537,
-                "aniId": 86151,
-                "page": "MangaFire",
-                "title": "My Girlfriend is a T-Rex",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/t-rex-na-kanojoo.3ryor/"
-            }
-        },
         "Weebcentral": {
             "01j76xyb9wffy0h9j2ev7h24zg": {
+                "id": 206246,
                 "identifier": "01j76xyb9wffy0h9j2ev7h24zg",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYB9WFFY0H9J2EV7H24ZG.jpg",
                 "malId": 88537,
@@ -72,6 +43,19 @@
                 "title": "My Girlfriend is a T-Rex",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYB9WFFY0H9J2EV7H24ZG"
+            }
+        },
+        "MangaFire": {
+            "3ryor": {
+                "id": 225489,
+                "identifier": "3ryor",
+                "image": "https://static.mangafire.to/1d67/i/2/21/2152a905d24db14e076f0d28885c306d.jpg",
+                "malId": 88537,
+                "aniId": 86151,
+                "page": "MangaFire",
+                "title": "My Girlfriend is a T-Rex",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/t-rex-na-kanojoo.3ryor"
             }
         },
         "Comick": {

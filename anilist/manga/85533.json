@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6e445564-d9a8-4862-bff1-f4d6be6dba2c": {
+                "id": 11491,
                 "identifier": "6e445564-d9a8-4862-bff1-f4d6be6dba2c",
                 "image": "https://uploads.mangadex.org/covers/6e445564-d9a8-4862-bff1-f4d6be6dba2c/05d9b9c4-cdf4-4714-b556-6501a9484c78.jpg",
                 "malId": 78537,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/6e445564-d9a8-4862-bff1-f4d6be6dba2c"
             },
             "db0c471e-d88b-4f71-b35a-dc39f1ea8c15": {
+                "id": 104377,
                 "identifier": "db0c471e-d88b-4f71-b35a-dc39f1ea8c15",
                 "image": "https://uploads.mangadex.org/covers/db0c471e-d88b-4f71-b35a-dc39f1ea8c15/55a9aec9-e540-4507-a8dc-0fe49f2019bc.png",
                 "malId": 78537,
@@ -30,6 +32,7 @@
         },
         "MangaSee": {
             "karakai-jouzu-no-takagi-san": {
+                "id": 54751,
                 "identifier": "karakai-jouzu-no-takagi-san",
                 "image": "https://temp.compsci88.com/cover/Karakai-Jouzu-No-Takagi-San.jpg",
                 "malId": 78537,
@@ -42,6 +45,7 @@
         },
         "MangaFox": {
             "karakai_jouzu_no_takagi_san": {
+                "id": 58310,
                 "identifier": "karakai_jouzu_no_takagi_san",
                 "image": "https://fmcdn.mfcdn.net/store/manga/14218/cover.jpg",
                 "malId": 78537,
@@ -54,6 +58,7 @@
         },
         "MangaNato": {
             "manga-sd953160": {
+                "id": 73433,
                 "identifier": "manga-sd953160",
                 "image": "https://avt.mkklcdnv6temp.com/13/t/2-1583466230.jpg",
                 "malId": 78537,
@@ -64,40 +69,9 @@
                 "url": "https://chapmanganato.com/manga-sd953160"
             }
         },
-        "MangaFire": {
-            "karakai-jouzu-no-takagi-san.jv30n": {
-                "identifier": "karakai-jouzu-no-takagi-san.jv30n",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db14776732c525608d296ac7ac9239ea.jpg",
-                "malId": 78537,
-                "aniId": 85533,
-                "page": "MangaFire",
-                "title": "Teasing Master Takagi-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karakai-jouzu-no-takagi-san.jv30n/"
-            },
-            "karakai-jouzu-no-takagi-sann.jv30n": {
-                "identifier": "karakai-jouzu-no-takagi-sann.jv30n",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db14776732c525608d296ac7ac9239ea.jpg",
-                "malId": 78537,
-                "aniId": 85533,
-                "page": "MangaFire",
-                "title": "Teasing Master Takagi-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karakai-jouzu-no-takagi-sann.jv30n/"
-            },
-            "jv30n": {
-                "identifier": "jv30n",
-                "image": "https://static.mangafire.to/3b2d5/i/d/db/db14776732c525608d296ac7ac9239ea.jpg",
-                "malId": 78537,
-                "aniId": 85533,
-                "page": "MangaFire",
-                "title": "Teasing Master Takagi-san",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/karakai-jouzu-no-takagi-sann.jv30n/"
-            }
-        },
         "Weebcentral": {
             "01j76xyafaymp79ffvqc0k16kc": {
+                "id": 213429,
                 "identifier": "01j76xyafaymp79ffvqc0k16kc",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYAFAYMP79FFVQC0K16KC.jpg",
                 "malId": 78537,
@@ -106,6 +80,19 @@
                 "title": "Teasing Master Takagi-san",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYAFAYMP79FFVQC0K16KC"
+            }
+        },
+        "MangaFire": {
+            "jv30n": {
+                "id": 226014,
+                "identifier": "jv30n",
+                "image": "https://static.mangafire.to/06b2/i/d/db/db14776732c525608d296ac7ac9239ea.jpg",
+                "malId": 78537,
+                "aniId": 85533,
+                "page": "MangaFire",
+                "title": "Teasing Master Takagi-san",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/karakai-jouzu-no-takagi-sann.jv30n"
             }
         },
         "Comick": {

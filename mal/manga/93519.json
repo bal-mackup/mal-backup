@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "9643f5da-c7da-4705-ac5b-4b4a4c7a649e": {
+                "id": 13995,
                 "identifier": "9643f5da-c7da-4705-ac5b-4b4a4c7a649e",
                 "image": "https://uploads.mangadex.org/covers/9643f5da-c7da-4705-ac5b-4b4a4c7a649e/af0ca31c-7a13-4208-8aca-e0dd583517fb.jpg",
                 "malId": 93519,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "gleipnir": {
+                "id": 53987,
                 "identifier": "gleipnir",
                 "image": "https://fmcdn.mfcdn.net/store/manga/17183/cover.jpg",
                 "malId": 93519,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "gleipnir": {
+                "id": 54799,
                 "identifier": "gleipnir",
                 "image": "https://temp.compsci88.com/cover/Gleipnir.jpg",
                 "malId": 93519,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-lx952480": {
+                "id": 73436,
                 "identifier": "manga-lx952480",
                 "image": "https://avt.mkklcdnv6temp.com/40/v/1-1583465312.jpg",
                 "malId": 93519,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-lx952480"
             }
         },
-        "MangaFire": {
-            "gleipnir.xr7nz": {
-                "identifier": "gleipnir.xr7nz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c87f2635a26395ce5430c17d8bf739e0.jpg",
-                "malId": 93519,
-                "aniId": 86607,
-                "page": "MangaFire",
-                "title": "Gleipnir",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gleipnir.xr7nz/"
-            },
-            "gleipnirr.xr7nz": {
-                "identifier": "gleipnirr.xr7nz",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c8/c87f2635a26395ce5430c17d8bf739e0.jpg",
-                "malId": 93519,
-                "aniId": 86607,
-                "page": "MangaFire",
-                "title": "Gleipnir",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gleipnirr.xr7nz/"
-            }
-        },
         "Weebcentral": {
             "01j76xybeq0f8vzmb61yeyz10j": {
+                "id": 206572,
                 "identifier": "01j76xybeq0f8vzmb61yeyz10j",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBEQ0F8VZMB61YEYZ10J.jpg",
                 "malId": 93519,
@@ -86,6 +69,19 @@
                 "title": "Gleipnir",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBEQ0F8VZMB61YEYZ10J"
+            }
+        },
+        "MangaFire": {
+            "xr7nz": {
+                "id": 229382,
+                "identifier": "xr7nz",
+                "image": "https://static.mangafire.to/ccb9/i/c/c8/c87f2635a26395ce5430c17d8bf739e0.jpg",
+                "malId": 93519,
+                "aniId": 86607,
+                "page": "MangaFire",
+                "title": "Gleipnir",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/gleipnirr.xr7nz"
             }
         },
         "Comick": {

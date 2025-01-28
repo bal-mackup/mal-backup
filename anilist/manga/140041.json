@@ -8,6 +8,7 @@
     "Sites": {
         "MangaNato": {
             "manga-mu989755": {
+                "id": 88203,
                 "identifier": "manga-mu989755",
                 "image": "https://avt.mkklcdnv6temp.com/45/e/24-1633683816.jpg",
                 "malId": 151184,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "foreigner_on_the_periphery": {
+                "id": 88208,
                 "identifier": "foreigner_on_the_periphery",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39365/cover.jpg",
                 "malId": 151184,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "foreigner-on-the-periphery": {
+                "id": 88765,
                 "identifier": "foreigner-on-the-periphery",
                 "image": "https://temp.compsci88.com/cover/Foreigner-on-the-Periphery.jpg",
                 "malId": 151184,
@@ -44,6 +47,7 @@
         },
         "Mangadex": {
             "ab481ba5-fcc7-4f92-863f-341e22cbc041": {
+                "id": 95038,
                 "identifier": "ab481ba5-fcc7-4f92-863f-341e22cbc041",
                 "image": "https://uploads.mangadex.org/covers/ab481ba5-fcc7-4f92-863f-341e22cbc041/58dbb0ad-2e08-42ba-9786-02d0286c5b4d.jpg",
                 "malId": 151184,
@@ -54,30 +58,9 @@
                 "url": "https://mangadex.org/title/ab481ba5-fcc7-4f92-863f-341e22cbc041"
             }
         },
-        "MangaFire": {
-            "foreigner-on-the-periphery.yq6q1": {
-                "identifier": "foreigner-on-the-periphery.yq6q1",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2c8b52f3b349555b8b1c15668db3bfd.jpg",
-                "malId": 151184,
-                "aniId": 140041,
-                "page": "MangaFire",
-                "title": "Foreigner on the Periphery",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/foreigner-on-the-periphery.yq6q1/"
-            },
-            "foreigner-on-the-peripheryy.yq6q1": {
-                "identifier": "foreigner-on-the-peripheryy.yq6q1",
-                "image": "https://static.mangafire.to/3b2d5/i/e/e2/e2c8b52f3b349555b8b1c15668db3bfd.jpg",
-                "malId": 151184,
-                "aniId": 140041,
-                "page": "MangaFire",
-                "title": "Foreigner on the Periphery",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/foreigner-on-the-peripheryy.yq6q1/"
-            }
-        },
         "Weebcentral": {
             "01j76xyf3vcw8mw0dkvkcqr158": {
+                "id": 212248,
                 "identifier": "01j76xyf3vcw8mw0dkvkcqr158",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYF3VCW8MW0DKVKCQR158.jpg",
                 "malId": 151184,
@@ -86,6 +69,19 @@
                 "title": "Foreigner on the Periphery",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYF3VCW8MW0DKVKCQR158"
+            }
+        },
+        "MangaFire": {
+            "yq6q1": {
+                "id": 228183,
+                "identifier": "yq6q1",
+                "image": "https://static.mangafire.to/ed1d/i/e/e2/e2c8b52f3b349555b8b1c15668db3bfd.jpg",
+                "malId": 151184,
+                "aniId": 140041,
+                "page": "MangaFire",
+                "title": "Foreigner on the Periphery",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/foreigner-on-the-peripheryy.yq6q1"
             }
         },
         "Comick": {

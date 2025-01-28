@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d09c8abd-24ec-41de-ac8b-b6381a2f3a63": {
+                "id": 117244,
                 "identifier": "d09c8abd-24ec-41de-ac8b-b6381a2f3a63",
                 "image": "https://uploads.mangadex.org/covers/d09c8abd-24ec-41de-ac8b-b6381a2f3a63/66c7de64-3449-4434-bd87-60a7c3400a1f.jpg",
                 "malId": 153158,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-qx993506": {
+                "id": 121733,
                 "identifier": "manga-qx993506",
                 "image": "https://avt.mkklcdnv6temp.com/50/r/27-1673485643.jpg",
                 "malId": 153158,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "telework-yotabanashi": {
+                "id": 125600,
                 "identifier": "telework-yotabanashi",
                 "image": "https://temp.compsci88.com/cover/Telework-Yotabanashi.jpg",
                 "malId": 153158,
@@ -42,30 +45,9 @@
                 "url": "https://mangasee123.com/manga/Telework-Yotabanashi"
             }
         },
-        "MangaFire": {
-            "telework-yotabanashi.3rj1r": {
-                "identifier": "telework-yotabanashi.3rj1r",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c40efb66ad3eb3bba1b876a1f87f6dc1.jpg",
-                "malId": 153158,
-                "aniId": 156303,
-                "page": "MangaFire",
-                "title": "Telework Yotabanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/telework-yotabanashi.3rj1r/"
-            },
-            "telework-yotabanashii.3rj1r": {
-                "identifier": "telework-yotabanashii.3rj1r",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c4/c40efb66ad3eb3bba1b876a1f87f6dc1.jpg",
-                "malId": 153158,
-                "aniId": 156303,
-                "page": "MangaFire",
-                "title": "Telework Yotabanashi",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/telework-yotabanashii.3rj1r/"
-            }
-        },
         "Weebcentral": {
             "01j76xyg04sw0h14fv11rm8z16": {
+                "id": 211333,
                 "identifier": "01j76xyg04sw0h14fv11rm8z16",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG04SW0H14FV11RM8Z16.jpg",
                 "malId": 153158,
@@ -74,6 +56,19 @@
                 "title": "Home Office Romance",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG04SW0H14FV11RM8Z16"
+            }
+        },
+        "MangaFire": {
+            "3rj1r": {
+                "id": 227951,
+                "identifier": "3rj1r",
+                "image": "https://static.mangafire.to/f9fa/i/c/c4/c40efb66ad3eb3bba1b876a1f87f6dc1.jpg",
+                "malId": 153158,
+                "aniId": 156303,
+                "page": "MangaFire",
+                "title": "Telework Yotabanashi",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/telework-yotabanashii.3rj1r"
             }
         },
         "Comick": {

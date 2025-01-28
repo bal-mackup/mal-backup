@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "61d53bb7-b868-4ab2-ac1f-d309581e275e": {
+                "id": 95970,
                 "identifier": "61d53bb7-b868-4ab2-ac1f-d309581e275e",
                 "image": "https://uploads.mangadex.org/covers/61d53bb7-b868-4ab2-ac1f-d309581e275e/d5e69808-340d-42c9-95e2-9aadcfedb075.jpg",
                 "malId": 154282,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/61d53bb7-b868-4ab2-ac1f-d309581e275e"
             }
         },
-        "MangaFire": {
-            "seihantai-na-danjo-to-inu-no-deai.0r76k": {
-                "identifier": "seihantai-na-danjo-to-inu-no-deai.0r76k",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/db6e77510e0572f5092d3eacf8beaa7c.jpg",
-                "malId": 154282,
-                "aniId": 155782,
-                "page": "MangaFire",
-                "title": "Pupposites Attract",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seihantai-na-danjo-to-inu-no-deai.0r76k/"
-            },
-            "seihantai-na-danjo-to-inu-no-deaii.0r76k": {
-                "identifier": "seihantai-na-danjo-to-inu-no-deaii.0r76k",
-                "image": "https://static.mangafire.to/3b2d5/i/6/67/db6e77510e0572f5092d3eacf8beaa7c.jpg",
-                "malId": 154282,
-                "aniId": 155782,
-                "page": "MangaFire",
-                "title": "Pupposites Attract",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/seihantai-na-danjo-to-inu-no-deaii.0r76k/"
-            }
-        },
         "MangaSee": {
             "pupposites-attract": {
+                "id": 195309,
                 "identifier": "pupposites-attract",
                 "image": "https://temp.compsci88.com/cover/Pupposites-Attract.jpg",
                 "malId": 154282,
@@ -54,6 +34,7 @@
         },
         "Weebcentral": {
             "01j76xyhfb8afgv0g9j4hq0nrw": {
+                "id": 213914,
                 "identifier": "01j76xyhfb8afgv0g9j4hq0nrw",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHFB8AFGV0G9J4HQ0NRW.jpg",
                 "malId": 154282,
@@ -62,6 +43,19 @@
                 "title": "Pupposites Attract",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHFB8AFGV0G9J4HQ0NRW"
+            }
+        },
+        "MangaFire": {
+            "0r76k": {
+                "id": 224916,
+                "identifier": "0r76k",
+                "image": "https://static.mangafire.to/2515/i/6/67/db6e77510e0572f5092d3eacf8beaa7c.jpg",
+                "malId": 154282,
+                "aniId": 155782,
+                "page": "MangaFire",
+                "title": "Pupposites Attract",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/seihantai-na-danjo-to-inu-no-deaii.0r76k"
             }
         },
         "Comick": {

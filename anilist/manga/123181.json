@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "16dcfceb-4382-45f1-adb0-d57fc5ea0d06": {
+                "id": 36515,
                 "identifier": "16dcfceb-4382-45f1-adb0-d57fc5ea0d06",
                 "image": "https://uploads.mangadex.org/covers/16dcfceb-4382-45f1-adb0-d57fc5ea0d06/12081a79-450d-4bae-b6c4-aa8189394b9c.jpg",
                 "malId": 134099,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "my-death-flags-show-no-sign-of-ending": {
+                "id": 56703,
                 "identifier": "my-death-flags-show-no-sign-of-ending",
                 "image": "https://temp.compsci88.com/cover/My-Death-Flags-Show-No-Sign-of-Ending.jpg",
                 "malId": 134099,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-jv986530": {
+                "id": 74634,
                 "identifier": "manga-jv986530",
                 "image": "https://avt.mkklcdnv6temp.com/10/p/22-1599503528.jpg",
                 "malId": 134099,
@@ -44,6 +47,7 @@
         },
         "MangaFox": {
             "ore_no_shibou_flag_ga_todomaru_tokoro_wo_shiranai_novel": {
+                "id": 86732,
                 "identifier": "ore_no_shibou_flag_ga_todomaru_tokoro_wo_shiranai_novel",
                 "image": "https://fmcdn.mfcdn.net/store/manga/35421/cover.jpg",
                 "malId": 134099,
@@ -54,30 +58,9 @@
                 "url": "https://fanfox.net/manga/ore_no_shibou_flag_ga_todomaru_tokoro_wo_shiranai_novel/"
             }
         },
-        "MangaFire": {
-            "my-death-flags-show-no-sign-of-ending.5225v": {
-                "identifier": "my-death-flags-show-no-sign-of-ending.5225v",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc039c682cc95410ee595b657f27f1b5.jpg",
-                "malId": 134099,
-                "aniId": 123181,
-                "page": "MangaFire",
-                "title": "My Death Flags Show No Sign of Ending",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-death-flags-show-no-sign-of-ending.5225v/"
-            },
-            "my-death-flags-show-no-sign-of-endingg.5225v": {
-                "identifier": "my-death-flags-show-no-sign-of-endingg.5225v",
-                "image": "https://static.mangafire.to/3b2d5/i/d/dc/dc039c682cc95410ee595b657f27f1b5.jpg",
-                "malId": 134099,
-                "aniId": 123181,
-                "page": "MangaFire",
-                "title": "My Death Flags Show No Sign of Ending",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/my-death-flags-show-no-sign-of-endingg.5225v/"
-            }
-        },
         "Weebcentral": {
             "01j76xydj4n6w2csrgqdmkkaf7": {
+                "id": 210312,
                 "identifier": "01j76xydj4n6w2csrgqdmkkaf7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDJ4N6W2CSRGQDMKKAF7.jpg",
                 "malId": 134099,
@@ -86,6 +69,19 @@
                 "title": "My Death Flags Show No Sign of Ending",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDJ4N6W2CSRGQDMKKAF7"
+            }
+        },
+        "MangaFire": {
+            "5225v": {
+                "id": 226053,
+                "identifier": "5225v",
+                "image": "https://static.mangafire.to/0aef/i/d/dc/dc039c682cc95410ee595b657f27f1b5.jpg",
+                "malId": 134099,
+                "aniId": 123181,
+                "page": "MangaFire",
+                "title": "My Death Flags Show No Sign of Ending",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/my-death-flags-show-no-sign-of-endingg.5225v"
             }
         },
         "Comick": {

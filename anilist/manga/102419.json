@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "761b768d-4f65-43b1-af2d-22376f0c1f8f": {
+                "id": 20151,
                 "identifier": "761b768d-4f65-43b1-af2d-22376f0c1f8f",
                 "image": "https://uploads.mangadex.org/covers/761b768d-4f65-43b1-af2d-22376f0c1f8f/47d290b7-4fa0-4c4c-b5a4-f4e2235df082.jpg",
                 "malId": 108897,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "prince-freya": {
+                "id": 59246,
                 "identifier": "prince-freya",
                 "image": "https://temp.compsci88.com/cover/Prince-Freya.jpg",
                 "malId": 108897,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-cj979692": {
+                "id": 86631,
                 "identifier": "manga-cj979692",
                 "image": "https://avt.mkklcdnv6temp.com/1/d/16-1583495304.jpg",
                 "malId": 108897,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-cj979692"
             }
         },
-        "MangaFire": {
-            "itsuwari-no-freyja.ykpz1": {
-                "identifier": "itsuwari-no-freyja.ykpz1",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f2/f2d15cfba69ef3ae68cde7f8aef886a2.jpg",
-                "malId": 108897,
-                "aniId": 102419,
-                "page": "MangaFire",
-                "title": "Prince Freya",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/itsuwari-no-freyja.ykpz1/"
-            }
-        },
         "MangaFox": {
             "itsuwari_no_freya": {
+                "id": 163479,
                 "identifier": "itsuwari_no_freya",
                 "image": "https://fmcdn.mfcdn.net/store/manga/27471/cover.jpg",
                 "malId": 108897,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyddd73evr92h15n44dmy": {
+                "id": 209741,
                 "identifier": "01j76xyddd73evr92h15n44dmy",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYDDD73EVR92H15N44DMY.jpg",
                 "malId": 108897,
@@ -76,6 +69,19 @@
                 "title": "Prince Freya",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYDDD73EVR92H15N44DMY"
+            }
+        },
+        "MangaFire": {
+            "ykpz1": {
+                "id": 254779,
+                "identifier": "ykpz1",
+                "image": "https://static.mangafire.to/3a35/i/f/f2/f2d15cfba69ef3ae68cde7f8aef886a2.jpg",
+                "malId": 108897,
+                "aniId": 102419,
+                "page": "MangaFire",
+                "title": "Prince Freya",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/itsuwari-no-freyjaa.ykpz1"
             }
         },
         "Comick": {

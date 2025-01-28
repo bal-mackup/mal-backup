@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f8cc5c4d-c953-4bea-936f-2447deb2394a": {
+                "id": 160271,
                 "identifier": "f8cc5c4d-c953-4bea-936f-2447deb2394a",
                 "image": "https://uploads.mangadex.org/covers/f8cc5c4d-c953-4bea-936f-2447deb2394a/02e29183-7b71-45ed-83ea-ea517ef51f6f.jpg",
                 "malId": 159577,
@@ -18,20 +19,9 @@
                 "url": "https://mangadex.org/title/f8cc5c4d-c953-4bea-936f-2447deb2394a"
             }
         },
-        "MangaFire": {
-            "king-the-land.rw3mo": {
-                "identifier": "king-the-land.rw3mo",
-                "image": "https://static.mangafire.to/3b2d5/i/f/f8/f898c40c96d3df237d1a11214c9bbe10.jpg",
-                "malId": 159577,
-                "aniId": null,
-                "page": "MangaFire",
-                "title": "King the Land",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/king-the-land.rw3mo/"
-            }
-        },
         "MangaNato": {
             "manga-tt996802": {
+                "id": 162104,
                 "identifier": "manga-tt996802",
                 "image": "https://avt.mkklcdnv6temp.com/fld/30/h/15-1733308417-nw.webp",
                 "malId": 159577,
@@ -44,6 +34,7 @@
         },
         "MangaSee": {
             "king-the-land": {
+                "id": 175052,
                 "identifier": "king-the-land",
                 "image": "https://temp.compsci88.com/cover/King-the-Land.jpg",
                 "malId": 159577,
@@ -56,6 +47,7 @@
         },
         "Weebcentral": {
             "01j76xygn2zb0qbe1wqew39fd0": {
+                "id": 212738,
                 "identifier": "01j76xygn2zb0qbe1wqew39fd0",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGN2ZB0QBE1WQEW39FD0.jpg",
                 "malId": 159577,
@@ -64,6 +56,19 @@
                 "title": "King the Land",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGN2ZB0QBE1WQEW39FD0"
+            }
+        },
+        "MangaFire": {
+            "rw3mo": {
+                "id": 222758,
+                "identifier": "rw3mo",
+                "image": "https://static.mangafire.to/a26b/i/f/f8/f898c40c96d3df237d1a11214c9bbe10.jpg",
+                "malId": 159577,
+                "aniId": null,
+                "page": "MangaFire",
+                "title": "King the Land",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/king-the-landd.rw3mo"
             }
         },
         "Comick": {

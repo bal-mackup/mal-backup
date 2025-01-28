@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a636ca5b-018c-42eb-afd3-2e7037afac86": {
+                "id": 29779,
                 "identifier": "a636ca5b-018c-42eb-afd3-2e7037afac86",
                 "image": "https://uploads.mangadex.org/covers/a636ca5b-018c-42eb-afd3-2e7037afac86/219fcf0b-37cc-46dd-807c-16200969696b.jpg",
                 "malId": 118641,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "gannibal": {
+                "id": 71910,
                 "identifier": "gannibal",
                 "image": "https://fmcdn.mfcdn.net/store/manga/37530/cover.jpg",
                 "malId": 118641,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-kg988163": {
+                "id": 77833,
                 "identifier": "manga-kg988163",
                 "image": "https://avt.mkklcdnv6temp.com/27/l/23-1613751689.jpg",
                 "malId": 118641,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-kg988163"
             }
         },
-        "MangaFire": {
-            "gannibal.rlx1o": {
-                "identifier": "gannibal.rlx1o",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/9906ac6e90fa9223034f6197edf5d06d.jpg",
-                "malId": 118641,
-                "aniId": 107910,
-                "page": "MangaFire",
-                "title": "Gannibal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/gannibal.rlx1o/"
-            },
-            "ganniball.rlx1o": {
-                "identifier": "ganniball.rlx1o",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/9906ac6e90fa9223034f6197edf5d06d.jpg",
-                "malId": 118641,
-                "aniId": 107910,
-                "page": "MangaFire",
-                "title": "Gannibal",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/ganniball.rlx1o/"
-            }
-        },
         "MangaSee": {
             "gannibal": {
+                "id": 191009,
                 "identifier": "gannibal",
                 "image": "https://temp.compsci88.com/cover/Gannibal.jpg",
                 "malId": 118641,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyhak9f0t84rycpvz2exe": {
+                "id": 207224,
                 "identifier": "01j76xyhak9f0t84rycpvz2exe",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHAK9F0T84RYCPVZ2EXE.jpg",
                 "malId": 118641,
@@ -86,6 +69,19 @@
                 "title": "Gannibal",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHAK9F0T84RYCPVZ2EXE"
+            }
+        },
+        "MangaFire": {
+            "rlx1o": {
+                "id": 227530,
+                "identifier": "rlx1o",
+                "image": "https://static.mangafire.to/dcc5/i/9/99/9906ac6e90fa9223034f6197edf5d06d.jpg",
+                "malId": 118641,
+                "aniId": 107910,
+                "page": "MangaFire",
+                "title": "Gannibal",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ganniball.rlx1o"
             }
         },
         "Comick": {

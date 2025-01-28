@@ -6,20 +6,9 @@
     "total": 16,
     "image": "https://cdn.myanimelist.net/images/manga/2/224907.jpg",
     "Sites": {
-        "MangaFire": {
-            "joy.8n6jo": {
-                "identifier": "joy.8n6jo",
-                "image": "https://static.mangafire.to/3b2d5/i/c/cc/cc24e148ba06c375cf280991725caf0a.jpg",
-                "malId": 118540,
-                "aniId": 107470,
-                "page": "MangaFire",
-                "title": "Joy",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/joy.8n6jo/"
-            }
-        },
         "MangaSee": {
             "joy": {
+                "id": 156137,
                 "identifier": "joy",
                 "image": "https://temp.compsci88.com/cover/JOY.jpg",
                 "malId": 118540,
@@ -32,6 +21,7 @@
         },
         "Weebcentral": {
             "01j76xyg2e41qxz22316kheqq3": {
+                "id": 213771,
                 "identifier": "01j76xyg2e41qxz22316kheqq3",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG2E41QXZ22316KHEQQ3.jpg",
                 "malId": 118540,
@@ -40,6 +30,19 @@
                 "title": "JOY",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG2E41QXZ22316KHEQQ3"
+            }
+        },
+        "MangaFire": {
+            "8n6jo": {
+                "id": 244139,
+                "identifier": "8n6jo",
+                "image": "https://static.mangafire.to/0eff/i/c/cc/cc24e148ba06c375cf280991725caf0a.jpg",
+                "malId": 118540,
+                "aniId": 107470,
+                "page": "MangaFire",
+                "title": "Joy",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/joyy.8n6jo"
             }
         },
         "Comick": {

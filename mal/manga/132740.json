@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "04e50c53-ac8b-4f3b-970b-01d078493afe": {
+                "id": 32598,
                 "identifier": "04e50c53-ac8b-4f3b-970b-01d078493afe",
                 "image": "https://uploads.mangadex.org/covers/04e50c53-ac8b-4f3b-970b-01d078493afe/5e0ec901-b85c-4d85-8d5e-9d2b4a81f480.jpg",
                 "malId": 132740,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kamisama-ni-kago-2-nin-bun-moraimashita": {
+                "id": 63140,
                 "identifier": "kamisama-ni-kago-2-nin-bun-moraimashita",
                 "image": "https://temp.compsci88.com/cover/Kamisama-ni-Kago-2-Nin-Bun-Moraimashita.jpg",
                 "malId": 132740,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-gj984144": {
+                "id": 81740,
                 "identifier": "manga-gj984144",
                 "image": "https://avt.mkklcdnv6temp.com/15/c/20-1583501608.jpg",
                 "malId": 132740,
@@ -42,20 +45,9 @@
                 "url": "https://manganato.com/manga-gj984144"
             }
         },
-        "MangaFire": {
-            "kamisama-ni-kago-futari-bun-moraimashita.3wzy": {
-                "identifier": "kamisama-ni-kago-futari-bun-moraimashita.3wzy",
-                "image": "https://static.mangafire.to/3b2d5/i/5/5a/5acabf81602912737f7213f0a8756de9.jpg",
-                "malId": 132740,
-                "aniId": 117276,
-                "page": "MangaFire",
-                "title": "Kamisama ni Kago Futari-bun Moraimashita",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kamisama-ni-kago-futari-bun-moraimashita.3wzy/"
-            }
-        },
         "Weebcentral": {
             "01j76xyd9z6wfc6arxjavxjdex": {
+                "id": 211471,
                 "identifier": "01j76xyd9z6wfc6arxjavxjdex",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYD9Z6WFC6ARXJAVXJDEX.jpg",
                 "malId": 132740,
@@ -66,13 +58,26 @@
                 "url": "https://weebcentral.com/series/01J76XYD9Z6WFC6ARXJAVXJDEX"
             }
         },
+        "MangaFire": {
+            "3wzy": {
+                "id": 259959,
+                "identifier": "3wzy",
+                "image": "https://static.mangafire.to/e6ef/i/5/5a/5acabf81602912737f7213f0a8756de9.jpg",
+                "malId": 132740,
+                "aniId": 117276,
+                "page": "MangaFire",
+                "title": "Kamisama ni Kago Futari-bun Moraimashita",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kamisama-ni-kago-futari-bun-moraimashitaa.3wzy"
+            }
+        },
         "Comick": {
             "hnPuSNHl": {
                 "identifier": "hnPuSNHl",
                 "malId": 132740,
                 "type": "manga",
                 "page": "Comick",
-                "title": "Kami-sama ni Kago Futari-bun Moraimashita",
+                "title": "I Got Double the Skills from God!!",
                 "url": "https://comick.io/comic/kamisama-ni-kago-2-nin-bun-moraimashita",
                 "aniId": 117276
             }

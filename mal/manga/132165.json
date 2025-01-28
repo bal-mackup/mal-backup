@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "e3b0df92-1218-4209-bf8a-f3e6fbcbae76": {
+                "id": 37920,
                 "identifier": "e3b0df92-1218-4209-bf8a-f3e6fbcbae76",
                 "image": "https://uploads.mangadex.org/covers/e3b0df92-1218-4209-bf8a-f3e6fbcbae76/56972fb4-1cb5-4d5e-ac44-246bd66bd5f2.jpg",
                 "malId": 132165,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "kage-no-kyuuteimajutsushi": {
+                "id": 63151,
                 "identifier": "kage-no-kyuuteimajutsushi",
                 "image": "https://temp.compsci88.com/cover/Kage-no-Kyuuteimajutsushi.jpg",
                 "malId": 132165,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ka987635": {
+                "id": 78940,
                 "identifier": "manga-ka987635",
                 "image": "https://avt.mkklcdnv6temp.com/5/w/23-1610505271.jpg",
                 "malId": 132165,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-ka987635"
             }
         },
-        "MangaFire": {
-            "kage-no-kyuuteimajutsushi.806rv": {
-                "identifier": "kage-no-kyuuteimajutsushi.806rv",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a597b890110ef525f9e74be997ef80fa.jpg",
-                "malId": 132165,
-                "aniId": 121942,
-                "page": "MangaFire",
-                "title": "The Court Wizard in Shadow",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-kyuuteimajutsushi.806rv/"
-            },
-            "kage-no-kyuuteimajutsushii.806rv": {
-                "identifier": "kage-no-kyuuteimajutsushii.806rv",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a5/a597b890110ef525f9e74be997ef80fa.jpg",
-                "malId": 132165,
-                "aniId": 121942,
-                "page": "MangaFire",
-                "title": "The Court Wizard in Shadow",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/kage-no-kyuuteimajutsushii.806rv/"
-            }
-        },
         "Weebcentral": {
             "01j76xyectb84yh53xmy9w1efm": {
+                "id": 211825,
                 "identifier": "01j76xyectb84yh53xmy9w1efm",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYECTB84YH53XMY9W1EFM.jpg",
                 "malId": 132165,
@@ -74,6 +56,19 @@
                 "title": "Kage no Kyuuteimajutsushi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYECTB84YH53XMY9W1EFM"
+            }
+        },
+        "MangaFire": {
+            "806rv": {
+                "id": 226824,
+                "identifier": "806rv",
+                "image": "https://static.mangafire.to/6860/i/a/a5/a597b890110ef525f9e74be997ef80fa.jpg",
+                "malId": 132165,
+                "aniId": 121942,
+                "page": "MangaFire",
+                "title": "The Court Wizard in Shadow",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/kage-no-kyuuteimajutsushii.806rv"
             }
         },
         "Comick": {

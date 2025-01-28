@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "c3ef7952-fa9a-465a-8054-94243241b549": {
+                "id": 13675,
                 "identifier": "c3ef7952-fa9a-465a-8054-94243241b549",
                 "image": "https://uploads.mangadex.org/covers/c3ef7952-fa9a-465a-8054-94243241b549/a0d6cccd-9c4f-4282-b961-1ef41a3cb0cd.png",
                 "malId": 92526,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "hazuki-kanon-wa-amakunai": {
+                "id": 67458,
                 "identifier": "hazuki-kanon-wa-amakunai",
                 "image": "https://temp.compsci88.com/cover/Hazuki-Kanon-Wa-Amakunai.jpg",
                 "malId": 92526,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-nh952690": {
+                "id": 80381,
                 "identifier": "manga-nh952690",
                 "image": "https://avt.mkklcdnv6temp.com/fld/50/v/1-1732718402-nw.webp",
                 "malId": 92526,
@@ -42,30 +45,9 @@
                 "url": "https://manganato.com/manga-nh952690"
             }
         },
-        "MangaFire": {
-            "hazuki-kanon-wa-amakunai.yql61": {
-                "identifier": "hazuki-kanon-wa-amakunai.yql61",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a09a967b53c322b523543922405ee87b.jpg",
-                "malId": 92526,
-                "aniId": 86507,
-                "page": "MangaFire",
-                "title": "Kanon is not Sweet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hazuki-kanon-wa-amakunai.yql61/"
-            },
-            "yql61": {
-                "identifier": "yql61",
-                "image": "https://static.mangafire.to/3b2d5/i/a/a0/a09a967b53c322b523543922405ee87b.jpg",
-                "malId": 92526,
-                "aniId": 86507,
-                "page": "MangaFire",
-                "title": "Kanon is not Sweet",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/hazuki-kanon-wa-amakunai.yql61/"
-            }
-        },
         "Weebcentral": {
             "01j76xybh2a0dvac0vjb204qm7": {
+                "id": 210400,
                 "identifier": "01j76xybh2a0dvac0vjb204qm7",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBH2A0DVAC0VJB204QM7.jpg",
                 "malId": 92526,
@@ -74,6 +56,19 @@
                 "title": "Hazuki Kanon wa Amakunai",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBH2A0DVAC0VJB204QM7"
+            }
+        },
+        "MangaFire": {
+            "yql61": {
+                "id": 251201,
+                "identifier": "yql61",
+                "image": "https://static.mangafire.to/2143/i/a/a0/a09a967b53c322b523543922405ee87b.jpg",
+                "malId": 92526,
+                "aniId": 86507,
+                "page": "MangaFire",
+                "title": "Kanon is not Sweet",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/hazuki-kanon-wa-amakunaii.yql61"
             }
         },
         "Comick": {

@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "d6d92722-27c1-48ee-b3a2-5f04b7284fe9": {
+                "id": 15864,
                 "identifier": "d6d92722-27c1-48ee-b3a2-5f04b7284fe9",
                 "image": "https://uploads.mangadex.org/covers/d6d92722-27c1-48ee-b3a2-5f04b7284fe9/f769e812-be75-4f84-9f59-8a4a0ec19f63.jpg",
                 "malId": 149494,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "golden_spoon": {
+                "id": 82414,
                 "identifier": "golden_spoon",
                 "image": "https://fmcdn.mfcdn.net/store/manga/20449/cover.jpg",
                 "malId": 149494,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-uo971723": {
+                "id": 110755,
                 "identifier": "manga-uo971723",
                 "image": "https://avt.mkklcdnv6temp.com/fld/49/r/7-1732785551-nw.webp",
                 "malId": 149494,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-uo971723"
             }
         },
-        "MangaFire": {
-            "golden-spoon.5k749": {
-                "identifier": "golden-spoon.5k749",
-                "image": "https://static.mangafire.to/3b2d5/i/0/00/00e7089195ba1d3216da1b1b33a59717.jpg",
-                "malId": 149494,
-                "aniId": 126149,
-                "page": "MangaFire",
-                "title": "The Golden Spoon",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/golden-spoon.5k749/"
-            }
-        },
         "MangaSee": {
             "the-golden-spoon": {
+                "id": 181210,
                 "identifier": "the-golden-spoon",
                 "image": "https://temp.compsci88.com/cover/The-Golden-Spoon.jpg",
                 "malId": 149494,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xygxyvtj577168s2e6aap": {
+                "id": 213235,
                 "identifier": "01j76xygxyvtj577168s2e6aap",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGXYVTJ577168S2E6AAP.jpg",
                 "malId": 149494,
@@ -76,6 +69,19 @@
                 "title": "The Golden Spoon",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGXYVTJ577168S2E6AAP"
+            }
+        },
+        "MangaFire": {
+            "5k749": {
+                "id": 249029,
+                "identifier": "5k749",
+                "image": "https://static.mangafire.to/4e5a/i/0/00/00e7089195ba1d3216da1b1b33a59717.jpg",
+                "malId": 149494,
+                "aniId": 126149,
+                "page": "MangaFire",
+                "title": "The Golden Spoon",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/golden-spoonn.5k749"
             }
         }
     },

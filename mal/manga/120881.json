@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "38109f1a-6b8c-49e9-a46f-8149967f4a3e": {
+                "id": 29559,
                 "identifier": "38109f1a-6b8c-49e9-a46f-8149967f4a3e",
                 "image": "https://uploads.mangadex.org/covers/38109f1a-6b8c-49e9-a46f-8149967f4a3e/ca9ceda3-f8ae-4b6b-be75-086ad86d2b35.jpg",
                 "malId": 120881,
@@ -20,6 +21,7 @@
         },
         "MangaFox": {
             "boku_no_hero_academia_team_up_mission": {
+                "id": 67485,
                 "identifier": "boku_no_hero_academia_team_up_mission",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32617/cover.jpg",
                 "malId": 120881,
@@ -32,6 +34,7 @@
         },
         "MangaSee": {
             "my-hero-academia-teamup-missions": {
+                "id": 67902,
                 "identifier": "my-hero-academia-teamup-missions",
                 "image": "https://temp.compsci88.com/cover/My-Hero-Academia-TeamUp-Missions.jpg",
                 "malId": 120881,
@@ -44,6 +47,7 @@
         },
         "MangaNato": {
             "manga-fu982429": {
+                "id": 76523,
                 "identifier": "manga-fu982429",
                 "image": "https://avt.mkklcdnv6temp.com/1/l/18-1583499117.jpg",
                 "malId": 120881,
@@ -54,30 +58,9 @@
                 "url": "https://chapmanganato.com/manga-fu982429"
             }
         },
-        "MangaFire": {
-            "boku-no-hero-academia-team-up-mission.vvqzl": {
-                "identifier": "boku-no-hero-academia-team-up-mission.vvqzl",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/837b045d21a02091406a813c9fadb56f.jpg",
-                "malId": 120881,
-                "aniId": 110981,
-                "page": "MangaFire",
-                "title": "My Hero Academia: Team-Up Missions",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-hero-academia-team-up-mission.vvqzl/"
-            },
-            "boku-no-hero-academia-team-up-missionn.vvqzl": {
-                "identifier": "boku-no-hero-academia-team-up-missionn.vvqzl",
-                "image": "https://static.mangafire.to/3b2d5/i/8/83/837b045d21a02091406a813c9fadb56f.jpg",
-                "malId": 120881,
-                "aniId": 110981,
-                "page": "MangaFire",
-                "title": "My Hero Academia: Team-Up Missions",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/boku-no-hero-academia-team-up-missionn.vvqzl/"
-            }
-        },
         "Weebcentral": {
             "01j76xyejp6wapm3sgh8zc1npj": {
+                "id": 208157,
                 "identifier": "01j76xyejp6wapm3sgh8zc1npj",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYEJP6WAPM3SGH8ZC1NPJ.jpg",
                 "malId": 120881,
@@ -86,6 +69,19 @@
                 "title": "My Hero Academia - Team-Up Missions",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYEJP6WAPM3SGH8ZC1NPJ"
+            }
+        },
+        "MangaFire": {
+            "vvqzl": {
+                "id": 225766,
+                "identifier": "vvqzl",
+                "image": "https://static.mangafire.to/b437/i/8/83/837b045d21a02091406a813c9fadb56f.jpg",
+                "malId": 120881,
+                "aniId": 110981,
+                "page": "MangaFire",
+                "title": "My Hero Academia: Team-Up Missions",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/boku-no-hero-academia-team-up-missionn.vvqzl"
             }
         },
         "Comick": {

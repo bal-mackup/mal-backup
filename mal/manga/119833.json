@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb": {
+                "id": 32896,
                 "identifier": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
                 "image": "https://uploads.mangadex.org/covers/25ffcab7-79e3-4a86-8fb5-0c7de8882bfb/c04974f5-dcb2-461c-88b6-9c0943abc0a4.jpg",
                 "malId": 119833,
@@ -20,6 +21,7 @@
         },
         "MangaNato": {
             "manga-hh984364": {
+                "id": 93855,
                 "identifier": "manga-hh984364",
                 "image": "https://avt.mkklcdnv6temp.com/fld/66/k/10-1732801967.jpg",
                 "malId": 119833,
@@ -30,20 +32,9 @@
                 "url": "https://manganato.com/manga-hh984364"
             }
         },
-        "MangaFire": {
-            "cleopatra-and-the-iron-cross.mqqzz": {
-                "identifier": "cleopatra-and-the-iron-cross.mqqzz",
-                "image": "https://static.mangafire.to/3b2d5/i/9/99/992e0c2dfb3c1eafc50f827552b7efe0.jpg",
-                "malId": 119833,
-                "aniId": 115395,
-                "page": "MangaFire",
-                "title": "Cleopatra and the Iron Cross",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/cleopatra-and-the-iron-cross.mqqzz/"
-            }
-        },
         "MangaFox": {
             "kleopatra_und_eisernes_kreuz": {
+                "id": 186266,
                 "identifier": "kleopatra_und_eisernes_kreuz",
                 "image": "https://fmcdn.mfcdn.net/store/manga/32628/cover.jpg",
                 "malId": 119833,
@@ -52,6 +43,19 @@
                 "title": "Kleopatra Und Eisernes Kreuz",
                 "type": "manga",
                 "url": "https://fanfox.net/manga/kleopatra_und_eisernes_kreuz/"
+            }
+        },
+        "MangaFire": {
+            "mqqzz": {
+                "id": 259835,
+                "identifier": "mqqzz",
+                "image": "https://static.mangafire.to/27f0/i/9/99/992e0c2dfb3c1eafc50f827552b7efe0.jpg",
+                "malId": 119833,
+                "aniId": 115395,
+                "page": "MangaFire",
+                "title": "Cleopatra and the Iron Cross",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/cleopatra-and-the-iron-crosss.mqqzz"
             }
         },
         "Comick": {

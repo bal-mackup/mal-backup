@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "a53e5b5d-622e-4cef-9a7b-ceb1efc48092": {
+                "id": 158711,
                 "identifier": "a53e5b5d-622e-4cef-9a7b-ceb1efc48092",
                 "image": "https://uploads.mangadex.org/covers/a53e5b5d-622e-4cef-9a7b-ceb1efc48092/bc332ebb-7b49-4088-9540-1cf34fea2397.jpg",
                 "malId": 159161,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/a53e5b5d-622e-4cef-9a7b-ceb1efc48092"
             }
         },
-        "MangaFire": {
-            "majo-to-ryouken.zxk8p": {
-                "identifier": "majo-to-ryouken.zxk8p",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60f537ce52f8446ee15c0a5acc71e51c.jpg",
-                "malId": 159161,
-                "aniId": 161638,
-                "page": "MangaFire",
-                "title": "Witch and Hound",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/majo-to-ryouken.zxk8p/"
-            },
-            "Witch-and-Hound.zxk8p": {
-                "identifier": "Witch-and-Hound.zxk8p",
-                "image": "https://static.mangafire.to/3b2d5/i/6/60/60f537ce52f8446ee15c0a5acc71e51c.jpg",
-                "malId": 159161,
-                "aniId": 161638,
-                "page": "MangaFire",
-                "title": "Witch and Hound",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/Witch-and-Hound.zxk8p/"
-            }
-        },
         "MangaNato": {
             "manga-yv1001456": {
+                "id": 184508,
                 "identifier": "manga-yv1001456",
                 "image": "https://avt.mkklcdnv6temp.com/fld/8/b/17-1733321520-nw.webp",
                 "malId": 159161,
@@ -50,6 +30,19 @@
                 "title": "Majo To Ryouken",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-yv1001456"
+            }
+        },
+        "MangaFire": {
+            "zxk8p": {
+                "id": 229784,
+                "identifier": "zxk8p",
+                "image": "https://static.mangafire.to/4bea/i/6/60/60f537ce52f8446ee15c0a5acc71e51c.jpg",
+                "malId": 159161,
+                "aniId": 161638,
+                "page": "MangaFire",
+                "title": "Witch and Hound",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/majo-to-ryoukenn.zxk8p"
             }
         },
         "Comick": {

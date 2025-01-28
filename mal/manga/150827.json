@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "6e9f81c1-a093-4ee0-8894-13c32586406c": {
+                "id": 38595,
                 "identifier": "6e9f81c1-a093-4ee0-8894-13c32586406c",
                 "image": "https://uploads.mangadex.org/covers/6e9f81c1-a093-4ee0-8894-13c32586406c/d980b34d-cd0a-4417-8b30-8df68b25dacf.jpg",
                 "malId": 150827,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "lethal-romance": {
+                "id": 163605,
                 "identifier": "lethal-romance",
                 "image": "https://temp.compsci88.com/cover/Lethal-Romance.jpg",
                 "malId": 150827,
@@ -30,20 +32,9 @@
                 "url": "https://mangasee123.com/manga/Lethal-Romance"
             }
         },
-        "MangaFire": {
-            "lethal-romance.nrl7n": {
-                "identifier": "lethal-romance.nrl7n",
-                "image": "https://static.mangafire.to/3b2d5/i/3/30/30a1d5abf404c9e9a11431b21ba65d6f.jpg",
-                "malId": 150827,
-                "aniId": 129039,
-                "page": "MangaFire",
-                "title": "Lethal Romance",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/lethal-romance.nrl7n/"
-            }
-        },
         "Weebcentral": {
             "01j76xygamfk0pky6yademw2c6": {
+                "id": 206784,
                 "identifier": "01j76xygamfk0pky6yademw2c6",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYGAMFK0PKY6YADEMW2C6.jpg",
                 "malId": 150827,
@@ -52,6 +43,19 @@
                 "title": "Lethal Romance",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYGAMFK0PKY6YADEMW2C6"
+            }
+        },
+        "MangaFire": {
+            "nrl7n": {
+                "id": 242302,
+                "identifier": "nrl7n",
+                "image": "https://static.mangafire.to/a394/i/3/30/30a1d5abf404c9e9a11431b21ba65d6f.jpg",
+                "malId": 150827,
+                "aniId": 129039,
+                "page": "MangaFire",
+                "title": "Lethal Romance",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/lethal-romancee.nrl7n"
             }
         }
     },

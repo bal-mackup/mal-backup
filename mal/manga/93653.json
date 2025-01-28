@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "f2f629bd-4670-4a07-a449-fa3f24481834": {
+                "id": 13931,
                 "identifier": "f2f629bd-4670-4a07-a449-fa3f24481834",
                 "image": "https://uploads.mangadex.org/covers/f2f629bd-4670-4a07-a449-fa3f24481834/aee6c488-8b39-469b-a0cf-8de5777a5443.jpg",
                 "malId": 93653,
@@ -20,6 +21,7 @@
         },
         "MangaSee": {
             "pygmalion": {
+                "id": 77162,
                 "identifier": "pygmalion",
                 "image": "https://temp.compsci88.com/cover/Pygmalion.jpg",
                 "malId": 93653,
@@ -32,6 +34,7 @@
         },
         "MangaNato": {
             "manga-ty971281": {
+                "id": 78555,
                 "identifier": "manga-ty971281",
                 "image": "https://avt.mkklcdnv6temp.com/42/p/13-1583489326.jpg",
                 "malId": 93653,
@@ -42,20 +45,9 @@
                 "url": "https://chapmanganato.com/manga-ty971281"
             }
         },
-        "MangaFire": {
-            "pygmalion.pjrk4": {
-                "identifier": "pygmalion.pjrk4",
-                "image": "https://static.mangafire.to/3b2d5/i/2/29/292235282483056ecb13e986399c261f.jpg",
-                "malId": 93653,
-                "aniId": 87207,
-                "page": "MangaFire",
-                "title": "Pygmalion",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/pygmalion.pjrk4/"
-            }
-        },
         "MangaFox": {
             "pygmalion": {
+                "id": 174762,
                 "identifier": "pygmalion",
                 "image": "https://fmcdn.mfcdn.net/store/manga/19983/cover.jpg",
                 "malId": 93653,
@@ -68,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xybqhxy01kdqfvef8ccky": {
+                "id": 209595,
                 "identifier": "01j76xybqhxy01kdqfvef8ccky",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYBQHXY01KDQFVEF8CCKY.jpg",
                 "malId": 93653,
@@ -76,6 +69,19 @@
                 "title": "Pygmalion",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYBQHXY01KDQFVEF8CCKY"
+            }
+        },
+        "MangaFire": {
+            "pjrk4": {
+                "id": 253401,
+                "identifier": "pjrk4",
+                "image": "https://static.mangafire.to/0d3e/i/2/29/292235282483056ecb13e986399c261f.jpg",
+                "malId": 93653,
+                "aniId": 87207,
+                "page": "MangaFire",
+                "title": "Pygmalion",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/pygmalionn.pjrk4"
             }
         },
         "Comick": {

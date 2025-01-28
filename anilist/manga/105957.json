@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "b6640abf-55f3-46cb-9b63-27d8514f49c0": {
+                "id": 24987,
                 "identifier": "b6640abf-55f3-46cb-9b63-27d8514f49c0",
                 "image": "https://uploads.mangadex.org/covers/b6640abf-55f3-46cb-9b63-27d8514f49c0/6bb92837-3983-457f-ba8c-64a7834e0591.jpg",
                 "malId": 108693,
@@ -18,30 +19,9 @@
                 "url": "https://mangadex.org/title/b6640abf-55f3-46cb-9b63-27d8514f49c0"
             }
         },
-        "MangaFire": {
-            "yokohama-eki-sf.npkw8": {
-                "identifier": "yokohama-eki-sf.npkw8",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/033b7a1227ad6010cf72d50b05dfe6a7.jpg",
-                "malId": 108693,
-                "aniId": 105957,
-                "page": "MangaFire",
-                "title": "Yokohama Station SF",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokohama-eki-sf.npkw8/"
-            },
-            "npkw8": {
-                "identifier": "npkw8",
-                "image": "https://static.mangafire.to/3b2d5/i/0/03/033b7a1227ad6010cf72d50b05dfe6a7.jpg",
-                "malId": 108693,
-                "aniId": 105957,
-                "page": "MangaFire",
-                "title": "Yokohama Station SF",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/yokohama-eki-sf.npkw8/"
-            }
-        },
         "MangaSee": {
             "yokohama-station-sf": {
+                "id": 159671,
                 "identifier": "yokohama-station-sf",
                 "image": "https://temp.compsci88.com/cover/Yokohama-Station-SF.jpg",
                 "malId": 108693,
@@ -54,6 +34,7 @@
         },
         "MangaNato": {
             "manga-wm999495": {
+                "id": 176005,
                 "identifier": "manga-wm999495",
                 "image": "https://avt.mkklcdnv6temp.com/fld/32/y/16-1733315329-nw.webp",
                 "malId": 108693,
@@ -66,6 +47,7 @@
         },
         "MangaFox": {
             "yokohama_eki_sf": {
+                "id": 178553,
                 "identifier": "yokohama_eki_sf",
                 "image": "https://fmcdn.mfcdn.net/store/manga/39899/cover.jpg",
                 "malId": 108693,
@@ -78,6 +60,7 @@
         },
         "Weebcentral": {
             "01j76xyg79nrbw9w46a3xsysra": {
+                "id": 212069,
                 "identifier": "01j76xyg79nrbw9w46a3xsysra",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYG79NRBW9W46A3XSYSRA.jpg",
                 "malId": 108693,
@@ -86,6 +69,19 @@
                 "title": "Yokohama Station SF",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYG79NRBW9W46A3XSYSRA"
+            }
+        },
+        "MangaFire": {
+            "npkw8": {
+                "id": 235094,
+                "identifier": "npkw8",
+                "image": "https://static.mangafire.to/27a4/i/0/03/033b7a1227ad6010cf72d50b05dfe6a7.jpg",
+                "malId": 108693,
+                "aniId": 105957,
+                "page": "MangaFire",
+                "title": "Yokohama Station SF",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/yokohama-eki-sff.npkw8"
             }
         },
         "Comick": {
