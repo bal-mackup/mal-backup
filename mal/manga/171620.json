@@ -6,13 +6,26 @@
     "total": 25,
     "image": "https://cdn.myanimelist.net/images/manga/1/305333.jpg",
     "Sites": {
+        "Mangadex": {
+            "97223152-aefd-4f9b-91c9-39393d8494a0": {
+                "id": 104090,
+                "identifier": "97223152-aefd-4f9b-91c9-39393d8494a0",
+                "image": "https://uploads.mangadex.org/covers/97223152-aefd-4f9b-91c9-39393d8494a0/144190fc-fd58-442c-87b2-1e0de8133436.jpg",
+                "malId": 171620,
+                "aniId": 139948,
+                "page": "Mangadex",
+                "title": "BOX! Kira Ito Tanpenshuu",
+                "type": "manga",
+                "url": "https://mangadex.org/title/97223152-aefd-4f9b-91c9-39393d8494a0"
+            }
+        },
         "MangaNato": {
             "manga-av1003656": {
                 "id": 218508,
                 "identifier": "manga-av1003656",
                 "image": "https://avt.mkklcdnv6temp.com/fld/92/h/17-1733326745-nw.webp",
                 "malId": 171620,
-                "aniId": null,
+                "aniId": 139948,
                 "page": "MangaNato",
                 "title": "Box! Kira Ito Tanpenshuu",
                 "type": "manga",
@@ -26,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "BOX! Kira Ito Tanpenshuu",
-                "url": "https://comick.io/comic/box-kira-ito-tanpenshuu"
+                "url": "https://comick.io/comic/box-kira-ito-tanpenshuu",
+                "aniId": 139948
             }
         }
-    }
+    },
+    "aniId": 139948
 }

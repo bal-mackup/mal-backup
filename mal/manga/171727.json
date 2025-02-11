@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/305425.jpg",
     "Sites": {
+        "Mangadex": {
+            "71291e52-e7cd-4c99-b2cf-c733a33dce7c": {
+                "id": 128434,
+                "identifier": "71291e52-e7cd-4c99-b2cf-c733a33dce7c",
+                "image": "https://uploads.mangadex.org/covers/71291e52-e7cd-4c99-b2cf-c733a33dce7c/7de62144-5904-441e-8b89-6a1d3ac9420c.jpg",
+                "malId": 171727,
+                "aniId": 164603,
+                "page": "Mangadex",
+                "title": "I'm Sure It's My Baby",
+                "type": "manga",
+                "url": "https://mangadex.org/title/71291e52-e7cd-4c99-b2cf-c733a33dce7c"
+            }
+        },
         "Comick": {
             "zcpQh7gG": {
                 "identifier": "zcpQh7gG",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "I'm Sure It's My Baby",
-                "url": "https://comick.io/comic/01-the-child-s-father-is-clear"
+                "url": "https://comick.io/comic/01-the-child-s-father-is-clear",
+                "aniId": 164603
             }
         }
-    }
+    },
+    "aniId": 164603
 }

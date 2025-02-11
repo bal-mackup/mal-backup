@@ -5,6 +5,31 @@
     "url": "https://myanimelist.net/manga/117939/Houkago_Witches",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/215273.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "b6a60850-731e-4a5d-b613-737fcba70628": {
+                "id": 269175,
+                "identifier": "b6a60850-731e-4a5d-b613-737fcba70628",
+                "image": "https://uploads.mangadex.org/covers/b6a60850-731e-4a5d-b613-737fcba70628/b5afbcba-e706-4764-9070-9c06fef3473f.jpg",
+                "malId": 117939,
+                "aniId": 107828,
+                "page": "Mangadex",
+                "title": "Houkago Witches!",
+                "type": "manga",
+                "url": "https://mangadex.org/title/b6a60850-731e-4a5d-b613-737fcba70628"
+            }
+        },
+        "Comick": {
+            "xNFwaTRU": {
+                "identifier": "xNFwaTRU",
+                "malId": 117939,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Houkago Witches!",
+                "url": "https://comick.io/comic/houkago-witches",
+                "aniId": 107828
+            }
+        }
+    },
     "malId": 117939
 }

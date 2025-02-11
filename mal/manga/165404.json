@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/293763.jpg",
     "Sites": {
+        "Mangadex": {
+            "d61c81f7-3b07-4556-8f0f-a21c62c10397": {
+                "id": 106619,
+                "identifier": "d61c81f7-3b07-4556-8f0f-a21c62c10397",
+                "image": "https://uploads.mangadex.org/covers/d61c81f7-3b07-4556-8f0f-a21c62c10397/3b28def7-f6a4-4af6-b83b-f968c261ebde.jpg",
+                "malId": 165404,
+                "aniId": 140910,
+                "page": "Mangadex",
+                "title": "Login Survival",
+                "type": "manga",
+                "url": "https://mangadex.org/title/d61c81f7-3b07-4556-8f0f-a21c62c10397"
+            }
+        },
         "Comick": {
             "yyg3NqeK": {
                 "identifier": "yyg3NqeK",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Login Survival",
-                "url": "https://comick.io/comic/login-survival"
+                "url": "https://comick.io/comic/login-survival",
+                "aniId": 140910
             }
         }
-    }
+    },
+    "aniId": 140910
 }

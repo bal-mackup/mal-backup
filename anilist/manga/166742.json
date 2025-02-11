@@ -8,8 +8,9 @@
     "Sites": {
         "Mangadex": {
             "d2d0b8ea-4dfc-4d72-b584-5b26380f9bed": {
+                "id": 127614,
                 "identifier": "d2d0b8ea-4dfc-4d72-b584-5b26380f9bed",
-                "image": "https://uploads.mangadex.org/covers/d2d0b8ea-4dfc-4d72-b584-5b26380f9bed/0f58605d-c70e-4028-a7b4-83d0a9c644bf.jpg",
+                "image": "https://uploads.mangadex.org/covers/d2d0b8ea-4dfc-4d72-b584-5b26380f9bed/3ac79714-ef69-4274-a018-75a31c76fca8.png",
                 "malId": 160303,
                 "aniId": 166742,
                 "page": "Mangadex",
@@ -20,6 +21,7 @@
         },
         "MangaFire": {
             "yv841": {
+                "id": 237208,
                 "identifier": "yv841",
                 "image": "https://static.mangafire.to/0cee/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb.jpg",
                 "malId": 160303,
@@ -31,12 +33,21 @@
             }
         },
         "Comick": {
+            "Ncv12IdW": {
+                "identifier": "Ncv12IdW",
+                "malId": 160303,
+                "type": "manga",
+                "page": "Comick",
+                "title": "The Ramparts of Ice",
+                "url": "https://comick.io/comic/the-ramparts-of-ice",
+                "aniId": 166742
+            },
             "ZGPjYSCc": {
                 "identifier": "ZGPjYSCc",
                 "malId": 160303,
                 "type": "manga",
                 "page": "Comick",
-                "title": "The Ramparts of Ice",
+                "title": "The Ramparts of Ice (Book Version)",
                 "url": "https://comick.io/comic/koori-no-jouheki",
                 "aniId": 166742
             }

@@ -6,6 +6,19 @@
     "total": 33,
     "image": "https://cdn.myanimelist.net/images/manga/3/277800.jpg",
     "Sites": {
+        "Mangadex": {
+            "822a6951-e127-4e1e-bc67-9c86aa0d3772": {
+                "id": 113342,
+                "identifier": "822a6951-e127-4e1e-bc67-9c86aa0d3772",
+                "image": "https://uploads.mangadex.org/covers/822a6951-e127-4e1e-bc67-9c86aa0d3772/bac29d87-ae15-4b16-aa37-5e67d0801f5e.jpg",
+                "malId": 156479,
+                "aniId": 141194,
+                "page": "Mangadex",
+                "title": "Lolita Meshi",
+                "type": "manga",
+                "url": "https://mangadex.org/title/822a6951-e127-4e1e-bc67-9c86aa0d3772"
+            }
+        },
         "Comick": {
             "MsnzvqdO": {
                 "identifier": "MsnzvqdO",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Lolita Meshi",
-                "url": "https://comick.io/comic/lolita-meshi"
+                "url": "https://comick.io/comic/lolita-meshi",
+                "aniId": 141194
             }
         }
-    }
+    },
+    "aniId": 141194
 }

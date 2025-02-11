@@ -8,10 +8,11 @@
     "Sites": {
         "Mangadex": {
             "a43bfc8f-3daf-4aba-bb2e-284109cbc03b": {
+                "id": 105714,
                 "identifier": "a43bfc8f-3daf-4aba-bb2e-284109cbc03b",
-                "image": "https://uploads.mangadex.org/covers/a43bfc8f-3daf-4aba-bb2e-284109cbc03b/35f8754e-b6d1-48bb-8540-34bd3f8f8474.jpg",
+                "image": "https://uploads.mangadex.org/covers/a43bfc8f-3daf-4aba-bb2e-284109cbc03b/24d908af-6e3c-4c15-a959-6a1de3bb5bf5.jpg",
                 "malId": 147366,
-                "aniId": null,
+                "aniId": 165868,
                 "page": "Mangadex",
                 "title": "Kimi to Koete Koi ni Naru",
                 "type": "manga",
@@ -20,10 +21,11 @@
         },
         "MangaNato": {
             "manga-nc991011": {
+                "id": 106381,
                 "identifier": "manga-nc991011",
-                "image": "https://avt.mkklcdnv6temp.com/47/t/25-1654340651.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/10/e/13-1733292512-nw.webp",
                 "malId": 147366,
-                "aniId": null,
+                "aniId": 165868,
                 "page": "MangaNato",
                 "title": "Kimi To Koete Koi Ni Naru",
                 "type": "manga",
@@ -32,14 +34,28 @@
         },
         "MangaFire": {
             "w120o": {
+                "id": 265515,
                 "identifier": "w120o",
                 "image": "https://static.mangafire.to/985c/i/f/f3/f35a40c99a572ed7ffac455ec1e5135a.jpg",
                 "malId": 147366,
-                "aniId": null,
+                "aniId": 165868,
                 "page": "MangaFire",
                 "title": "Beyond Border, in Love We Are.",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/kimi-to-koete-koi-ni-naruu.w120o"
+            }
+        },
+        "Weebcentral": {
+            "01jjm0x9597vyxsyjnf1ndss01": {
+                "id": 268643,
+                "identifier": "01jjm0x9597vyxsyjnf1ndss01",
+                "image": "https://temp.compsci88.com/cover/fallback/01JJM0X9597VYXSYJNF1NDSS01.jpg",
+                "malId": 147366,
+                "aniId": 165868,
+                "page": "Weebcentral",
+                "title": "With You, Our Love Will Make It Through",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JJM0X9597VYXSYJNF1NDSS01"
             }
         },
         "Comick": {
@@ -49,8 +65,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Kimi to Koete Koi ni Naru",
-                "url": "https://comick.io/comic/kimi-to-koete-koi-ni-naru"
+                "url": "https://comick.io/comic/kimi-to-koete-koi-ni-naru",
+                "aniId": 165868
             }
         }
-    }
+    },
+    "aniId": 165868
 }
