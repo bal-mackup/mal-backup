@@ -6,13 +6,26 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/303542.jpg",
     "Sites": {
+        "Mangadex": {
+            "7754aecb-e155-490c-8bc0-7f3f3726d355": {
+                "id": 189480,
+                "identifier": "7754aecb-e155-490c-8bc0-7f3f3726d355",
+                "image": "https://uploads.mangadex.org/covers/7754aecb-e155-490c-8bc0-7f3f3726d355/26345dc8-d848-408b-ad80-d96b205f1050.jpg",
+                "malId": 170418,
+                "aniId": 184316,
+                "page": "Mangadex",
+                "title": "Lady Bluebird of the White Lion Family",
+                "type": "manga",
+                "url": "https://mangadex.org/title/7754aecb-e155-490c-8bc0-7f3f3726d355"
+            }
+        },
         "MangaNato": {
             "manga-ba1004809": {
                 "id": 198249,
                 "identifier": "manga-ba1004809",
                 "image": "https://avt.mkklcdnv6temp.com/fld/36/l/18-1733329408-nw.webp",
                 "malId": 170418,
-                "aniId": null,
+                "aniId": 184316,
                 "page": "MangaNato",
                 "title": "Bluebird Lady And The White Lion Family",
                 "type": "manga",
@@ -26,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Lady Bluebird of the White Lion Family",
-                "url": "https://comick.io/comic/bluebird-lady-and-the-white-lion-family"
+                "url": "https://comick.io/comic/bluebird-lady-and-the-white-lion-family",
+                "aniId": 184316
             }
         }
-    }
+    },
+    "aniId": 184316
 }

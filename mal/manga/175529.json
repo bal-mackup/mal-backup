@@ -12,7 +12,7 @@
                 "identifier": "99cb051f-667c-4750-b72f-6db45c968bc4",
                 "image": "https://uploads.mangadex.org/covers/99cb051f-667c-4750-b72f-6db45c968bc4/8369f19e-87d7-4982-b332-bbbfbfd401c4.jpg",
                 "malId": 175529,
-                "aniId": null,
+                "aniId": 184504,
                 "page": "Mangadex",
                 "title": "Dimension Wave",
                 "type": "manga",
@@ -25,11 +25,24 @@
                 "identifier": "2p1v0",
                 "image": "https://static.mangafire.to/c95c/i/5/55/c148f6918364f606ead6bc402274f3f3.jpg",
                 "malId": 175529,
-                "aniId": null,
+                "aniId": 184504,
                 "page": "MangaFire",
                 "title": "Dimension Wave",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/dimension-wave.2p1v0"
+            }
+        },
+        "MangaNato": {
+            "manga-dc1006711": {
+                "id": 269789,
+                "identifier": "manga-dc1006711",
+                "image": "https://avt.mkklcdnv6temp.com/fld/5/a/19-1736996724-nw.webp",
+                "malId": 175529,
+                "aniId": 184504,
+                "page": "MangaNato",
+                "title": "Dimension Wave",
+                "type": "manga",
+                "url": "https://manganato.com/manga-dc1006711"
             }
         },
         "Comick": {
@@ -39,8 +52,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Dimension Wave",
-                "url": "https://comick.io/comic/dimension-wave"
+                "url": "https://comick.io/comic/dimension-wave",
+                "aniId": 184504
             }
         }
-    }
+    },
+    "aniId": 184504
 }

@@ -5,6 +5,31 @@
     "url": "https://myanimelist.net/manga/131208/Warui_Koto_Zenbu",
     "total": 12,
     "image": "https://cdn.myanimelist.net/images/manga/1/237158.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "b94d25a2-b913-4215-a3a5-b0dff3a6e9f7": {
+                "id": 269769,
+                "identifier": "b94d25a2-b913-4215-a3a5-b0dff3a6e9f7",
+                "image": "https://uploads.mangadex.org/covers/b94d25a2-b913-4215-a3a5-b0dff3a6e9f7/814536bc-d75a-456a-aa36-4be5740fd23b.jpg",
+                "malId": 131208,
+                "aniId": 120484,
+                "page": "Mangadex",
+                "title": "Warui Koto, Zenbu.",
+                "type": "manga",
+                "url": "https://mangadex.org/title/b94d25a2-b913-4215-a3a5-b0dff3a6e9f7"
+            }
+        },
+        "Comick": {
+            "ho6QI0xV": {
+                "identifier": "ho6QI0xV",
+                "malId": 131208,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Warui Koto, Zenbu.",
+                "url": "https://comick.io/comic/warui-koto-zenbu",
+                "aniId": 120484
+            }
+        }
+    },
     "malId": 131208
 }

@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/295820.jpg",
     "Sites": {
+        "Mangadex": {
+            "fbafae4c-cee2-403b-8295-949bdced0098": {
+                "id": 221734,
+                "identifier": "fbafae4c-cee2-403b-8295-949bdced0098",
+                "image": "https://uploads.mangadex.org/covers/fbafae4c-cee2-403b-8295-949bdced0098/d8b3ecce-dcb7-4ec4-bf17-8a8ede147332.jpg",
+                "malId": 166517,
+                "aniId": 164592,
+                "page": "Mangadex",
+                "title": "The House of Diana's Choice",
+                "type": "manga",
+                "url": "https://mangadex.org/title/fbafae4c-cee2-403b-8295-949bdced0098"
+            }
+        },
         "Comick": {
             "t8JxKtcH": {
                 "identifier": "t8JxKtcH",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "The House of Diana's Choice",
-                "url": "https://comick.io/comic/the-house-of-diana-s-choice"
+                "url": "https://comick.io/comic/the-house-of-diana-s-choice",
+                "aniId": 164592
             }
         }
-    }
+    },
+    "aniId": 164592
 }

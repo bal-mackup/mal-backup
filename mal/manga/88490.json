@@ -5,6 +5,31 @@
     "url": "https://myanimelist.net/manga/88490/Manga_de_Tsuduru_Yuri_na_Hibi",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/154342.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "670dec0a-8ed3-4398-b806-3fa463345c03": {
+                "id": 269558,
+                "identifier": "670dec0a-8ed3-4398-b806-3fa463345c03",
+                "image": "https://uploads.mangadex.org/covers/670dec0a-8ed3-4398-b806-3fa463345c03/0f456765-48fe-4711-8882-a0bd746a8c82.jpg",
+                "malId": 88490,
+                "aniId": 94693,
+                "page": "Mangadex",
+                "title": "Manga de Tsudzuru Yuri na Hibi",
+                "type": "manga",
+                "url": "https://mangadex.org/title/670dec0a-8ed3-4398-b806-3fa463345c03"
+            }
+        },
+        "Comick": {
+            "edHNFIN8": {
+                "identifier": "edHNFIN8",
+                "malId": 88490,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Manga de Tsudzuru Yuri na Hibi",
+                "url": "https://comick.io/comic/manga-de-tsudzuru-yuri-na-hibi",
+                "aniId": 94693
+            }
+        }
+    },
     "aniId": 94693
 }

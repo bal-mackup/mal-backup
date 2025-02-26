@@ -6,13 +6,26 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/304035.jpg",
     "Sites": {
+        "Mangadex": {
+            "05a3f180-2330-45bc-bdac-a710e3600e5b": {
+                "id": 156846,
+                "identifier": "05a3f180-2330-45bc-bdac-a710e3600e5b",
+                "image": "https://uploads.mangadex.org/covers/05a3f180-2330-45bc-bdac-a710e3600e5b/891de535-5589-45f3-9afe-a3af974e5152.jpg",
+                "malId": 171093,
+                "aniId": 173296,
+                "page": "Mangadex",
+                "title": "Moto Konyakusha kara Nigeru Tame Kyuuketsu Hakushaku ni Koibito no Furi wo Onegai shitara, Naze ka Dekiai Mode ni narimashita",
+                "type": "manga",
+                "url": "https://mangadex.org/title/05a3f180-2330-45bc-bdac-a710e3600e5b"
+            }
+        },
         "MangaNato": {
             "manga-an1003696": {
                 "id": 196333,
                 "identifier": "manga-an1003696",
                 "image": "https://avt.mkklcdnv6temp.com/fld/93/v/17-1733326834-nw.webp",
                 "malId": 171093,
-                "aniId": null,
+                "aniId": 173296,
                 "page": "MangaNato",
                 "title": "Moto Konyakusha Kara Nigeru Tame Kyūketsu Hakushaku Ni Koibito No Furi Wo Onegai Shitara, Naze Ka Dekiai Mōdo Ni Narimashita",
                 "type": "manga",
@@ -26,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Moto Konyakusha kara Nigeru Tame Kyuuketsu Hakushaku ni Koibito no Furi wo Onegai shitara, Naze ka Dekiai Mode ni narimashita",
-                "url": "https://comick.io/comic/moto-konyakusha-kara-nigeru-tame-kyuuketsu-hakushaku-ni-koibito-no-furi-wo-onegai-shitara-naze-ka-dekiai-mode-ni-narimashita"
+                "url": "https://comick.io/comic/moto-konyakusha-kara-nigeru-tame-kyuuketsu-hakushaku-ni-koibito-no-furi-wo-onegai-shitara-naze-ka-dekiai-mode-ni-narimashita",
+                "aniId": 173296
             }
         }
-    }
+    },
+    "aniId": 173296
 }
