@@ -5,6 +5,31 @@
     "url": "https://myanimelist.net/manga/12700/Shinrei_Gakuen_Koihenge",
     "total": 7,
     "image": "https://cdn.myanimelist.net/images/manga/4/17642.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "c1901cef-47aa-416c-967b-1859d9c82e42": {
+                "id": 271860,
+                "identifier": "c1901cef-47aa-416c-967b-1859d9c82e42",
+                "image": "https://uploads.mangadex.org/covers/c1901cef-47aa-416c-967b-1859d9c82e42/8dd81ec1-2631-485a-bea6-7b4b35813c5e.jpg",
+                "malId": 12700,
+                "aniId": 42700,
+                "page": "Mangadex",
+                "title": "Shinrei Gakuen Koihenge",
+                "type": "manga",
+                "url": "https://mangadex.org/title/c1901cef-47aa-416c-967b-1859d9c82e42"
+            }
+        },
+        "Comick": {
+            "KFaxIOvo": {
+                "identifier": "KFaxIOvo",
+                "malId": 12700,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Shinrei Gakuen Koihenge",
+                "url": "https://comick.io/comic/shinrei-gakuen-koihenge",
+                "aniId": 42700
+            }
+        }
+    },
     "malId": 12700
 }

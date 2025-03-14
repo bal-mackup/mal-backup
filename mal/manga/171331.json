@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/312346.jpg",
     "Sites": {
+        "Mangadex": {
+            "d520eae9-c044-46e9-884a-5f6a88a80f14": {
+                "id": 271302,
+                "identifier": "d520eae9-c044-46e9-884a-5f6a88a80f14",
+                "image": "https://uploads.mangadex.org/covers/d520eae9-c044-46e9-884a-5f6a88a80f14/6749a678-62d1-4dd2-b99c-a871be9478e5.jpg",
+                "malId": 171331,
+                "aniId": 179284,
+                "page": "Mangadex",
+                "title": "Sultan's Suite",
+                "type": "manga",
+                "url": "https://mangadex.org/title/d520eae9-c044-46e9-884a-5f6a88a80f14"
+            }
+        },
         "Comick": {
             "F4PvFBdG": {
                 "identifier": "F4PvFBdG",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Sultan's Suite",
-                "url": "https://comick.io/comic/sultan-s-suite"
+                "url": "https://comick.io/comic/sultan-s-suite",
+                "aniId": 179284
             }
         }
-    }
+    },
+    "aniId": 179284
 }

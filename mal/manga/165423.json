@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/302623.jpg",
     "Sites": {
+        "Mangadex": {
+            "320ab4f0-3ec4-4086-9e24-f7d660fc4443": {
+                "id": 271530,
+                "identifier": "320ab4f0-3ec4-4086-9e24-f7d660fc4443",
+                "image": "https://uploads.mangadex.org/covers/320ab4f0-3ec4-4086-9e24-f7d660fc4443/5d06cff1-536f-430e-a3a3-cdfe461fd49a.jpg",
+                "malId": 165423,
+                "aniId": 175742,
+                "page": "Mangadex",
+                "title": "God-kun",
+                "type": "manga",
+                "url": "https://mangadex.org/title/320ab4f0-3ec4-4086-9e24-f7d660fc4443"
+            }
+        },
         "Comick": {
             "3Ws5bJjf": {
                 "identifier": "3Ws5bJjf",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "God-kun",
-                "url": "https://comick.io/comic/god-kun"
+                "url": "https://comick.io/comic/god-kun",
+                "aniId": 175742
             }
         }
-    }
+    },
+    "aniId": 175742
 }

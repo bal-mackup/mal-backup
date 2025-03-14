@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/310358.jpg",
     "Sites": {
+        "Mangadex": {
+            "fc69aefc-03ef-42c8-a4cd-a030c2a6d0bc": {
+                "id": 271246,
+                "identifier": "fc69aefc-03ef-42c8-a4cd-a030c2a6d0bc",
+                "image": "https://uploads.mangadex.org/covers/fc69aefc-03ef-42c8-a4cd-a030c2a6d0bc/9c675918-2906-42e6-9d32-9c1406bd21e7.jpg",
+                "malId": 170060,
+                "aniId": 181502,
+                "page": "Mangadex",
+                "title": "Bengoshi Yuragi no Shoudou",
+                "type": "manga",
+                "url": "https://mangadex.org/title/fc69aefc-03ef-42c8-a4cd-a030c2a6d0bc"
+            }
+        },
         "Comick": {
             "sfWODWKY": {
                 "identifier": "sfWODWKY",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Bengoshi Yuragi no Shoudou",
-                "url": "https://comick.io/comic/bengoshi-yuragi-no-shoudou"
+                "url": "https://comick.io/comic/bengoshi-yuragi-no-shoudou",
+                "aniId": 181502
             }
         }
-    }
+    },
+    "aniId": 181502
 }
