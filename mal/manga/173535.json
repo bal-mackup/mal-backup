@@ -3,7 +3,7 @@
     "type": "manga",
     "title": "The Password Is 002!",
     "url": "https://myanimelist.net/manga/173535/The_Password_Is_002",
-    "total": 63,
+    "total": 64,
     "image": "https://cdn.myanimelist.net/images/manga/2/310229.jpg",
     "Sites": {
         "Mangadex": {
@@ -12,7 +12,7 @@
                 "identifier": "388c0850-25fe-444c-adc7-77bb813ec7cf",
                 "image": "https://uploads.mangadex.org/covers/388c0850-25fe-444c-adc7-77bb813ec7cf/5cd391ac-121d-443f-8b1d-4afd3fd06727.jpg",
                 "malId": 173535,
-                "aniId": null,
+                "aniId": 181523,
                 "page": "Mangadex",
                 "title": "The Password Is 002!",
                 "type": "manga",
@@ -25,11 +25,24 @@
                 "identifier": "manga-xs1001201",
                 "image": "https://avt.mkklcdnv6temp.com/fld/98/j/16-1733320657-nw.webp",
                 "malId": 173535,
-                "aniId": null,
+                "aniId": 181523,
                 "page": "MangaNato",
                 "title": "The Password Is 002!",
                 "type": "manga",
                 "url": "https://chapmanganato.to/manga-xs1001201"
+            }
+        },
+        "Weebcentral": {
+            "01jpacre6rpzf5b31t3pst6kf9": {
+                "id": 272137,
+                "identifier": "01jpacre6rpzf5b31t3pst6kf9",
+                "image": "https://temp.compsci88.com/cover/fallback/01JPACRE6RPZF5B31T3PST6KF9.jpg",
+                "malId": 173535,
+                "aniId": 181523,
+                "page": "Weebcentral",
+                "title": "The Password Is 002!",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JPACRE6RPZF5B31T3PST6KF9"
             }
         },
         "Comick": {
@@ -39,8 +52,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "The Password Is 002!",
-                "url": "https://comick.io/comic/the-password-is-002"
+                "url": "https://comick.io/comic/the-password-is-002",
+                "aniId": 181523
             }
         }
-    }
+    },
+    "aniId": 181523
 }

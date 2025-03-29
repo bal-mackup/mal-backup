@@ -6,6 +6,32 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/319260.jpg",
     "Sites": {
+        "Mangadex": {
+            "ae7a1533-eba2-4b3a-ac7d-65b4317d449e": {
+                "id": 269566,
+                "identifier": "ae7a1533-eba2-4b3a-ac7d-65b4317d449e",
+                "image": "https://uploads.mangadex.org/covers/ae7a1533-eba2-4b3a-ac7d-65b4317d449e/8c756bd8-acf3-4fad-9355-e2012a46ee99.png",
+                "malId": 178535,
+                "aniId": 186636,
+                "page": "Mangadex",
+                "title": "Mamono no Kuni",
+                "type": "manga",
+                "url": "https://mangadex.org/title/ae7a1533-eba2-4b3a-ac7d-65b4317d449e"
+            }
+        },
+        "MangaFire": {
+            "6095p": {
+                "id": 270214,
+                "identifier": "6095p",
+                "image": "https://static.mangafire.to/41a0/i/f/0a/dd7b618cbb77136cc6a4926a10f1dc96.jpg",
+                "malId": 178535,
+                "aniId": 186636,
+                "page": "MangaFire",
+                "title": "Land of Monsters",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/land-of-monsters.6095p"
+            }
+        },
         "Comick": {
             "ybtdUSxO": {
                 "identifier": "ybtdUSxO",
@@ -13,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Mamono no Kuni",
-                "url": "https://comick.io/comic/mamono-no-kuni"
+                "url": "https://comick.io/comic/mamono-no-kuni",
+                "aniId": 186636
             }
         }
-    }
+    },
+    "aniId": 186636
 }

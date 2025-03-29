@@ -6,6 +6,19 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/2/317966.jpg",
     "Sites": {
+        "Mangadex": {
+            "4bfa6d2b-b02a-4631-aaa4-d99c0557f7b0": {
+                "id": 267957,
+                "identifier": "4bfa6d2b-b02a-4631-aaa4-d99c0557f7b0",
+                "image": "https://uploads.mangadex.org/covers/4bfa6d2b-b02a-4631-aaa4-d99c0557f7b0/c0703958-e4db-4703-ac17-de7eb47b428c.png",
+                "malId": 178014,
+                "aniId": 187043,
+                "page": "Mangadex",
+                "title": "Floating Mate",
+                "type": "manga",
+                "url": "https://mangadex.org/title/4bfa6d2b-b02a-4631-aaa4-d99c0557f7b0"
+            }
+        },
         "MangaFire": {
             "yj1kx": {
                 "id": 268089,
@@ -27,6 +40,18 @@
                 "page": "Comick",
                 "title": "Floating Mate",
                 "url": "https://comick.io/comic/floating-mate",
+                "aniId": 187043
+            }
+        },
+        "MangaPlus": {
+            "0": {
+                "title": "Floating Mate",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187043-CRdDNDCnK63M.png",
+                "identifier": 0,
+                "url": "https://mangaplus.shueisha.co.jp/titles/100421",
+                "type": "manga",
+                "page": "MangaPlus",
+                "external": true,
                 "aniId": 187043
             }
         }

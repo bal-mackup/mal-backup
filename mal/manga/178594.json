@@ -1,11 +1,37 @@
 {
     "id": 178594,
     "type": "manga",
-    "title": "Things I Learned After Death",
-    "url": "https://myanimelist.net/manga/178594/Things_I_Learned_After_Death",
+    "title": "What Death Taught Me",
+    "url": "https://myanimelist.net/manga/178594/What_Death_Taught_Me",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/318838.jpg",
     "Sites": {
+        "Mangadex": {
+            "60d743e7-563e-43e9-bae9-069fe8c7b79e": {
+                "id": 268055,
+                "identifier": "60d743e7-563e-43e9-bae9-069fe8c7b79e",
+                "image": "https://uploads.mangadex.org/covers/60d743e7-563e-43e9-bae9-069fe8c7b79e/cc347371-3219-435f-aaac-efd0de2e7be1.jpg",
+                "malId": 178594,
+                "aniId": 187988,
+                "page": "Mangadex",
+                "title": "Things I Learned After Death",
+                "type": "manga",
+                "url": "https://mangadex.org/title/60d743e7-563e-43e9-bae9-069fe8c7b79e"
+            }
+        },
+        "Weebcentral": {
+            "01jqbt0chbhpgcred9sqyfbp8v": {
+                "id": 273042,
+                "identifier": "01jqbt0chbhpgcred9sqyfbp8v",
+                "image": "https://temp.compsci88.com/cover/fallback/01JQBT0CHBHPGCRED9SQYFBP8V.jpg",
+                "malId": 178594,
+                "aniId": 187988,
+                "page": "Weebcentral",
+                "title": "What Death Taught Me",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JQBT0CHBHPGCRED9SQYFBP8V"
+            }
+        },
         "Comick": {
             "0ONv4e5x": {
                 "identifier": "0ONv4e5x",
@@ -13,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Things I Learned After Death",
-                "url": "https://comick.io/comic/things-i-learned-after-death"
+                "url": "https://comick.io/comic/things-i-learned-after-death",
+                "aniId": 187988
             }
         }
-    }
+    },
+    "aniId": 187988
 }

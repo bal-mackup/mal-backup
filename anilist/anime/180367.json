@@ -6,6 +6,43 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/anime/1988/148017.jpg",
     "anidbId": 18816,
-    "Sites": {},
+    "Sites": {
+        "Zoro": {
+            "19552": {
+                "id": 74592,
+                "identifier": "19552",
+                "image": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80082b698ed84bf8d784d299faf50124.jpg",
+                "malId": 59597,
+                "aniId": 180367,
+                "page": "Zoro",
+                "title": "Witch Watch",
+                "type": "anime",
+                "url": "https://hianime.to/witch-watch-19552"
+            }
+        },
+        "animepahe": {
+            "6084": {
+                "identifier": "6084",
+                "malId": 59597,
+                "type": "anime",
+                "page": "animepahe",
+                "title": "Witch Watch",
+                "url": "https://animepahe.ru/a/6084",
+                "aniId": 180367
+            }
+        },
+        "Netflix": {
+            "0": {
+                "title": "Witch Watch",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
+                "identifier": 0,
+                "url": "https://www.netflix.com/title/81991687",
+                "type": "anime",
+                "page": "Netflix",
+                "external": true,
+                "aniId": 180367
+            }
+        }
+    },
     "malId": 59597
 }

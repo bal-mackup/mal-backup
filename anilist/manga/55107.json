@@ -1,22 +1,22 @@
 {
     "id": 55107,
     "type": "manga",
-    "title": "Fist of Legend",
-    "url": "https://myanimelist.net/manga/94578/Fist_of_Legend",
-    "total": 40,
-    "image": "https://cdn.myanimelist.net/images/manga/1/200203.jpg",
+    "title": "Fist Of Legend",
+    "url": "https://myanimelist.net/manga/25107/Fist_Of_Legend",
+    "total": null,
+    "image": "https://cdn.myanimelist.net/images/manga/2/40474.jpg",
     "Sites": {
-        "MangaFox": {
-            "fist_of_legend": {
-                "id": 93637,
-                "identifier": "fist_of_legend",
-                "image": "https://fmcdn.mfcdn.net/store/manga/8947/cover.jpg",
-                "malId": 94578,
+        "Mangadex": {
+            "62fd5892-b6fc-480f-86e4-f7a5a9c66768": {
+                "id": 157,
+                "identifier": "62fd5892-b6fc-480f-86e4-f7a5a9c66768",
+                "image": "https://uploads.mangadex.org/covers/62fd5892-b6fc-480f-86e4-f7a5a9c66768/738cfb27-74f0-4b16-9f1e-f92acefd67ff.jpg",
+                "malId": 25107,
                 "aniId": 55107,
-                "page": "MangaFox",
+                "page": "Mangadex",
                 "title": "Fist of Legend",
                 "type": "manga",
-                "url": "https://fanfox.net/manga/fist_of_legend/"
+                "url": "https://mangadex.org/title/62fd5892-b6fc-480f-86e4-f7a5a9c66768"
             }
         },
         "MangaFire": {
@@ -24,14 +24,25 @@
                 "id": 250356,
                 "identifier": "o85",
                 "image": "https://static.mangafire.to/a3bd/i/c/c5/c5d1be89d655ccb456bcdc956bca15f1.jpg",
-                "malId": 94578,
+                "malId": 25107,
                 "aniId": 55107,
                 "page": "MangaFire",
                 "title": "Legendary Fist",
                 "type": "manga",
                 "url": "https://mangafire.to/manga/fist-of-legendd.o85"
             }
+        },
+        "Comick": {
+            "MnNLH1Wr": {
+                "identifier": "MnNLH1Wr",
+                "malId": 25107,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Fist of Legend",
+                "url": "https://comick.io/comic/00-fist-of-legend",
+                "aniId": 55107
+            }
         }
     },
-    "malId": 94578
+    "malId": 25107
 }
