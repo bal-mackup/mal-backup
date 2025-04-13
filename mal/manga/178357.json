@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/1/318614.jpg",
     "Sites": {
+        "Mangadex": {
+            "efe85086-e685-4e09-b37b-970ed9b88da7": {
+                "id": 268463,
+                "identifier": "efe85086-e685-4e09-b37b-970ed9b88da7",
+                "image": "https://uploads.mangadex.org/covers/efe85086-e685-4e09-b37b-970ed9b88da7/6521d8ec-dcfc-4ae2-9ff4-9d8c689d4edf.jpg",
+                "malId": 178357,
+                "aniId": 107116,
+                "page": "Mangadex",
+                "title": "Printernia Nippon",
+                "type": "manga",
+                "url": "https://mangadex.org/title/efe85086-e685-4e09-b37b-970ed9b88da7"
+            }
+        },
         "Comick": {
             "7GPY4ZB3": {
                 "identifier": "7GPY4ZB3",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Printernia Nippon",
-                "url": "https://comick.io/comic/printernia-nippon"
+                "url": "https://comick.io/comic/printernia-nippon",
+                "aniId": 107116
             }
         }
-    }
+    },
+    "aniId": 107116
 }

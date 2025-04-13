@@ -8,6 +8,7 @@
     "Sites": {
         "Mangadex": {
             "abad18cf-bf72-4bbc-97c8-b55dfa28f9b9": {
+                "id": 161069,
                 "identifier": "abad18cf-bf72-4bbc-97c8-b55dfa28f9b9",
                 "image": "https://uploads.mangadex.org/covers/abad18cf-bf72-4bbc-97c8-b55dfa28f9b9/88dae6c1-55f2-425a-b76d-7771c64c4652.jpg",
                 "malId": 157378,
@@ -18,6 +19,7 @@
                 "url": "https://mangadex.org/title/abad18cf-bf72-4bbc-97c8-b55dfa28f9b9"
             },
             "1d330951-583e-423e-9cd7-abcd6f761f53": {
+                "id": 180655,
                 "identifier": "1d330951-583e-423e-9cd7-abcd6f761f53",
                 "image": "https://uploads.mangadex.org/covers/1d330951-583e-423e-9cd7-abcd6f761f53/6ddb8605-3efe-407b-ba6d-ef16ac816c70.jpg",
                 "malId": 157378,
@@ -28,30 +30,9 @@
                 "url": "https://mangadex.org/title/1d330951-583e-423e-9cd7-abcd6f761f53"
             }
         },
-        "MangaFire": {
-            "the-cutest-girl-closest-to-me.591m9": {
-                "identifier": "the-cutest-girl-closest-to-me.591m9",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c3/c32c07061d18796368f80a73237cac67.jpg",
-                "malId": 157378,
-                "aniId": 174315,
-                "page": "MangaFire",
-                "title": "The Cutest Girl Closest to Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-cutest-girl-closest-to-me.591m9/"
-            },
-            "the-cutest-girl-closest-to-mee.591m9": {
-                "identifier": "the-cutest-girl-closest-to-mee.591m9",
-                "image": "https://static.mangafire.to/3b2d5/i/c/c3/c32c07061d18796368f80a73237cac67.jpg",
-                "malId": 157378,
-                "aniId": 174315,
-                "page": "MangaFire",
-                "title": "The Cutest Girl Closest to Me",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/the-cutest-girl-closest-to-mee.591m9/"
-            }
-        },
         "MangaNato": {
             "manga-te996839": {
+                "id": 161774,
                 "identifier": "manga-te996839",
                 "image": "https://avt.mkklcdnv6temp.com/fld/31/s/15-1733308506-nw.webp",
                 "malId": 157378,
@@ -62,30 +43,20 @@
                 "url": "https://manganato.com/manga-te996839"
             },
             "manga-xe1000813": {
+                "id": 181563,
                 "identifier": "manga-xe1000813",
-                "image": "https://avt.mkklcdnv6temp.com/42/d/33-1707884164.jpg",
+                "image": "https://avt.mkklcdnv6temp.com/fld/83/l/16-1733319374-nw.webp",
                 "malId": 157378,
                 "aniId": 174315,
                 "page": "MangaNato",
                 "title": "Ane No Tomodachi",
                 "type": "manga",
-                "url": "https://manganato.com/manga-xe1000813"
-            }
-        },
-        "MangaSee": {
-            "ane-no-tomodachi": {
-                "identifier": "ane-no-tomodachi",
-                "image": "https://temp.compsci88.com/cover/Ane-no-Tomodachi.jpg",
-                "malId": 157378,
-                "aniId": 174315,
-                "page": "MangaSee",
-                "title": "Ane no Tomodachi",
-                "type": "manga",
-                "url": "https://mangasee123.com/manga/Ane-no-Tomodachi"
+                "url": "https://chapmanganato.com/manga-xe1000813"
             }
         },
         "MangaFox": {
             "ane_no_tomodachi": {
+                "id": 194140,
                 "identifier": "ane_no_tomodachi",
                 "image": "https://fmcdn.mfcdn.net/store/manga/46335/cover.jpg",
                 "malId": 157378,
@@ -98,6 +69,7 @@
         },
         "Weebcentral": {
             "01j76xyhe4y1as2hj59ryyd1e9": {
+                "id": 213544,
                 "identifier": "01j76xyhe4y1as2hj59ryyd1e9",
                 "image": "https://temp.compsci88.com/cover/fallback/01J76XYHE4Y1AS2HJ59RYYD1E9.jpg",
                 "malId": 157378,
@@ -106,6 +78,30 @@
                 "title": "Ane no Tomodachi",
                 "type": "manga",
                 "url": "https://weebcentral.com/series/01J76XYHE4Y1AS2HJ59RYYD1E9"
+            }
+        },
+        "MangaFire": {
+            "591m9": {
+                "id": 228244,
+                "identifier": "591m9",
+                "image": "https://static.mangafire.to/78d8/i/c/c3/c32c07061d18796368f80a73237cac67.jpg",
+                "malId": 157378,
+                "aniId": 174315,
+                "page": "MangaFire",
+                "title": "The Cutest Girl Closest to Me",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/the-cutest-girl-closest-to-mee.591m9"
+            },
+            "mv0o7": {
+                "id": 267289,
+                "identifier": "mv0o7",
+                "image": "https://static.mangafire.to/c121/i/3/38/4b398dc29d2d34134c3027262a6c6f43.jpg",
+                "malId": 157378,
+                "aniId": 174315,
+                "page": "MangaFire",
+                "title": "Older Sister's Friend",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/ane-no-tomodachi.mv0o7"
             }
         },
         "Comick": {

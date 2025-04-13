@@ -8,67 +8,125 @@
     "Sites": {
         "Mangadex": {
             "eb57cab2-b5bf-4317-9928-7215921a74d2": {
+                "createdAt": "2020-10-12T16:06:02.000Z",
+                "updatedAt": "2025-03-21T01:04:22.000Z",
+                "checkedAt": "2025-03-21T01:04:22.000Z",
                 "id": 7605,
                 "identifier": "eb57cab2-b5bf-4317-9928-7215921a74d2",
-                "image": "https://uploads.mangadex.org/covers/eb57cab2-b5bf-4317-9928-7215921a74d2/884630ed-8ae9-4063-85d9-7ae3ed28e549.jpg",
-                "malId": 48397,
-                "aniId": 78397,
+                "type": "manga",
                 "page": "Mangadex",
                 "title": "No Game No Life",
-                "type": "manga",
-                "url": "https://mangadex.org/title/eb57cab2-b5bf-4317-9928-7215921a74d2"
+                "url": "https://mangadex.org/title/eb57cab2-b5bf-4317-9928-7215921a74d2",
+                "image": "https://uploads.mangadex.org/covers/eb57cab2-b5bf-4317-9928-7215921a74d2/884630ed-8ae9-4063-85d9-7ae3ed28e549.jpg",
+                "hentai": false,
+                "sticky": false,
+                "active": true,
+                "actorId": null,
+                "malId": 48397,
+                "aniId": 78397,
+                "deletedAt": null,
+                "authors": [
+                    "Kamiya Yuu",
+                    "Hiiragi Mashiro"
+                ]
             }
         },
         "MangaFox": {
             "no_game_no_life": {
+                "createdAt": "2020-10-28T14:36:40.000Z",
+                "updatedAt": "2025-03-27T01:00:09.000Z",
+                "checkedAt": "2025-03-27T01:00:09.000Z",
                 "id": 50903,
                 "identifier": "no_game_no_life",
-                "image": "https://fmcdn.mfcdn.net/store/manga/11975/cover.jpg",
-                "malId": 48397,
-                "aniId": 78397,
+                "type": "manga",
                 "page": "MangaFox",
                 "title": "No Game No Life",
-                "type": "manga",
-                "url": "https://fanfox.net/manga/no_game_no_life/"
+                "url": "https://fanfox.net/manga/no_game_no_life/",
+                "image": "https://fmcdn.mfcdn.net/store/manga/11975/cover.jpg",
+                "hentai": false,
+                "sticky": false,
+                "active": true,
+                "actorId": null,
+                "malId": 48397,
+                "aniId": 78397,
+                "deletedAt": null,
+                "authors": [
+                    "KAMIYA Yuu"
+                ]
             }
         },
         "MangaNato": {
             "manga-lf963314": {
+                "createdAt": "2021-05-31T13:30:07.000Z",
+                "updatedAt": "2025-02-26T01:00:10.000Z",
+                "checkedAt": "2025-02-26T01:00:10.000Z",
                 "id": 74944,
                 "identifier": "manga-lf963314",
-                "image": "https://avt.mgicdn.com/fld/95/o/4-1732765148-nw.webp",
-                "malId": 48397,
-                "aniId": 78397,
+                "type": "manga",
                 "page": "MangaNato",
                 "title": "No Game No Life",
-                "type": "manga",
-                "url": "https://manganato.com/manga-lf963314"
+                "url": "https://manganato.com/manga-lf963314",
+                "image": "https://avt.mgicdn.com/fld/95/o/4-1732765148-nw.webp",
+                "hentai": false,
+                "sticky": false,
+                "active": true,
+                "actorId": null,
+                "malId": 48397,
+                "aniId": 78397,
+                "deletedAt": null,
+                "authors": [
+                    "Kamiya Yuu"
+                ]
             }
         },
         "Weebcentral": {
             "01j76xy8yf0sq6yvaf9h0d2aw1": {
+                "createdAt": "2024-10-29T14:36:22.702Z",
+                "updatedAt": "2025-03-01T01:39:34.000Z",
+                "checkedAt": "2025-03-01T01:39:34.000Z",
                 "id": 210647,
                 "identifier": "01j76xy8yf0sq6yvaf9h0d2aw1",
-                "image": "https://temp.compsci88.com/cover/fallback/01J76XY8YF0SQ6YVAF9H0D2AW1.jpg",
-                "malId": 48397,
-                "aniId": 78397,
+                "type": "manga",
                 "page": "Weebcentral",
                 "title": "No Game, No Life",
-                "type": "manga",
-                "url": "https://weebcentral.com/series/01J76XY8YF0SQ6YVAF9H0D2AW1"
+                "url": "https://weebcentral.com/series/01J76XY8YF0SQ6YVAF9H0D2AW1",
+                "image": "https://temp.compsci88.com/cover/fallback/01J76XY8YF0SQ6YVAF9H0D2AW1.jpg",
+                "hentai": false,
+                "sticky": false,
+                "active": true,
+                "actorId": null,
+                "malId": 48397,
+                "aniId": 78397,
+                "deletedAt": null,
+                "authors": [
+                    "HIIRAGI Mashiro",
+                    "KAMIYA Yuu"
+                ]
             }
         },
         "MangaFire": {
             "vz8v": {
+                "createdAt": "2024-10-19T08:02:57.516Z",
+                "updatedAt": "2025-03-12T05:18:38.000Z",
+                "checkedAt": "2025-03-12T05:18:38.000Z",
                 "id": 226281,
                 "identifier": "vz8v",
-                "image": "https://static.mangafire.to/a202/i/c/c2/c26d5fb4c56ac224b74f287370eda410.jpg",
-                "malId": 48397,
-                "aniId": 78397,
+                "type": "manga",
                 "page": "MangaFire",
                 "title": "No Game, No Life",
-                "type": "manga",
-                "url": "https://mangafire.to/manga/no-game-no-lifee.vz8v"
+                "url": "https://mangafire.to/manga/no-game-no-lifee.vz8v",
+                "image": "https://static.mangafire.to/a202/i/c/c2/c26d5fb4c56ac224b74f287370eda410.jpg",
+                "hentai": false,
+                "sticky": false,
+                "active": true,
+                "actorId": null,
+                "malId": 48397,
+                "aniId": 78397,
+                "deletedAt": null,
+                "authors": [
+                    "Yuu Kamiya",
+                    "Mashiro Hiiragi"
+                ]
             }
         },
         "Comick": {

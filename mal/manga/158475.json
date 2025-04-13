@@ -6,6 +6,19 @@
     "total": 9,
     "image": "https://cdn.myanimelist.net/images/manga/1/288145.jpg",
     "Sites": {
+        "Mangadex": {
+            "8591d3c5-a2cb-4b05-9b56-a8d74a58583b": {
+                "id": 60976,
+                "identifier": "8591d3c5-a2cb-4b05-9b56-a8d74a58583b",
+                "image": "https://uploads.mangadex.org/covers/8591d3c5-a2cb-4b05-9b56-a8d74a58583b/32f8be22-9880-4034-8d14-c600837d2b4d.jpg",
+                "malId": 158475,
+                "aniId": 181852,
+                "page": "Mangadex",
+                "title": "Heart Mark Motto Oome.",
+                "type": "manga",
+                "url": "https://mangadex.org/title/8591d3c5-a2cb-4b05-9b56-a8d74a58583b"
+            }
+        },
         "Comick": {
             "irWS6YHP": {
                 "identifier": "irWS6YHP",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Heart Mark Motto Oome.",
-                "url": "https://comick.io/comic/heart-mark-oome"
+                "url": "https://comick.io/comic/heart-mark-oome",
+                "aniId": 181852
             }
         }
-    }
+    },
+    "aniId": 181852
 }

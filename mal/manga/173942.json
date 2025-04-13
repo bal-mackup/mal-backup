@@ -12,11 +12,24 @@
                 "identifier": "af96ad04-08d2-4aff-ba50-6794e06c8404",
                 "image": "https://uploads.mangadex.org/covers/af96ad04-08d2-4aff-ba50-6794e06c8404/0c5d56c9-9963-43c0-a192-feb0138ca92c.jpg",
                 "malId": 173942,
-                "aniId": null,
+                "aniId": 186506,
                 "page": "Mangadex",
                 "title": "Plaything",
                 "type": "manga",
                 "url": "https://mangadex.org/title/af96ad04-08d2-4aff-ba50-6794e06c8404"
+            }
+        },
+        "MangaFire": {
+            "42p5o": {
+                "id": 232267,
+                "identifier": "42p5o",
+                "image": "https://static.mangafire.to/6d30/i/e/e1/c5826902f2a4077cf2464700ad96f357.jpg",
+                "malId": 173942,
+                "aniId": 186506,
+                "page": "MangaFire",
+                "title": "A Sense of Amusement",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/a-sense-of-amusementt.42p5o"
             }
         },
         "Comick": {
@@ -26,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Plaything",
-                "url": "https://comick.io/comic/plaything"
+                "url": "https://comick.io/comic/plaything",
+                "aniId": 186506
             }
         }
-    }
+    },
+    "aniId": 186506
 }

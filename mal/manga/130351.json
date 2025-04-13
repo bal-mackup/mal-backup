@@ -5,6 +5,31 @@
     "url": "https://myanimelist.net/manga/130351/Osananajimi_to_Kamisama_to",
     "total": 17,
     "image": "https://cdn.myanimelist.net/images/manga/3/241663.jpg",
-    "Sites": {},
+    "Sites": {
+        "Mangadex": {
+            "ed027fa2-9ec7-4c99-b861-5cc3e72d7521": {
+                "id": 272969,
+                "identifier": "ed027fa2-9ec7-4c99-b861-5cc3e72d7521",
+                "image": "https://uploads.mangadex.org/covers/ed027fa2-9ec7-4c99-b861-5cc3e72d7521/d54c0b1e-09e4-4d26-94f0-1a12fcb0b829.jpg",
+                "malId": 130351,
+                "aniId": 105058,
+                "page": "Mangadex",
+                "title": "Osananajimi to Kamisama to",
+                "type": "manga",
+                "url": "https://mangadex.org/title/ed027fa2-9ec7-4c99-b861-5cc3e72d7521"
+            }
+        },
+        "Comick": {
+            "1pSosyHq": {
+                "identifier": "1pSosyHq",
+                "malId": 130351,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Osananajimi to Kamisama to",
+                "url": "https://comick.io/comic/osananajimi-to-kamisama-to",
+                "aniId": 105058
+            }
+        }
+    },
     "aniId": 105058
 }
