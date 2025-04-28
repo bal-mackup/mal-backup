@@ -12,11 +12,24 @@
                 "identifier": "06114b88-e224-4fc6-961e-604715103c74",
                 "image": "https://uploads.mangadex.org/covers/06114b88-e224-4fc6-961e-604715103c74/730a614e-8ba1-4064-ab69-78df0324eca2.jpg",
                 "malId": 163945,
-                "aniId": null,
+                "aniId": 175762,
                 "page": "Mangadex",
                 "title": "Iron Familia",
                 "type": "manga",
                 "url": "https://mangadex.org/title/06114b88-e224-4fc6-961e-604715103c74"
+            }
+        },
+        "MangaFire": {
+            "x1jy8": {
+                "id": 274091,
+                "identifier": "x1jy8",
+                "image": "https://static.mangafire.to/a525/i/5/22/f86b23ff67916fffcad7ef86145c33ee.jpg",
+                "malId": 163945,
+                "aniId": 175762,
+                "page": "MangaFire",
+                "title": "Iron Familia",
+                "type": "manga",
+                "url": "https://mangafire.to/manga/iron-familia.x1jy8"
             }
         },
         "Comick": {
@@ -26,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Iron Familia",
-                "url": "https://comick.io/comic/iron-familia"
+                "url": "https://comick.io/comic/iron-familia",
+                "aniId": 175762
             }
         }
-    }
+    },
+    "aniId": 175762
 }

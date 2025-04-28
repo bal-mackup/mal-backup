@@ -6,6 +6,19 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/2/203431.jpg",
     "Sites": {
+        "Mangadex": {
+            "0b68d183-ccd4-41fe-b629-f15eecf0167a": {
+                "id": 273737,
+                "identifier": "0b68d183-ccd4-41fe-b629-f15eecf0167a",
+                "image": "https://uploads.mangadex.org/covers/0b68d183-ccd4-41fe-b629-f15eecf0167a/2f6d39e0-016b-4dbc-85d2-1a72145f6381.png",
+                "malId": 109762,
+                "aniId": 176523,
+                "page": "Mangadex",
+                "title": "Fuck House",
+                "type": "manga",
+                "url": "https://mangadex.org/title/0b68d183-ccd4-41fe-b629-f15eecf0167a"
+            }
+        },
         "Comick": {
             "3NfofL0S": {
                 "identifier": "3NfofL0S",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Fuck House",
-                "url": "https://comick.io/comic/fuck-house"
+                "url": "https://comick.io/comic/fuck-house",
+                "aniId": 176523
             }
         }
-    }
+    },
+    "aniId": 176523
 }
