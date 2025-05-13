@@ -7,30 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
     "anidbId": 17870,
     "Sites": {
-        "Gogoanime": {
-            "kusuriya-no-hitorigoto": {
-                "id": 45607,
-                "identifier": "kusuriya-no-hitorigoto",
-                "image": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
-                "malId": 54492,
-                "aniId": 161645,
-                "page": "Gogoanime",
-                "title": "Kusuriya no Hitorigoto",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/kusuriya-no-hitorigoto"
-            },
-            "kusuriya-no-hitorigoto-dub": {
-                "id": 53666,
-                "identifier": "kusuriya-no-hitorigoto-dub",
-                "image": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-dub.png",
-                "malId": 54492,
-                "aniId": 161645,
-                "page": "Gogoanime",
-                "title": "Kusuriya no Hitorigoto (Dub)",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/kusuriya-no-hitorigoto-dub"
-            }
-        },
         "Zoro": {
             "18578": {
                 "id": 53112,
@@ -41,20 +17,20 @@
                 "page": "Zoro",
                 "title": "The Apothecary Diaries",
                 "type": "anime",
-                "url": "https://hianime.to/the-apothecary-diaries-18578"
+                "url": "https://hianimez.to/the-apothecary-diaries-18578"
             }
         },
         "KickAssAnime": {
             "the-apothecary-diaries-7593": {
                 "id": 73378,
                 "identifier": "the-apothecary-diaries-7593",
-                "image": "https://kaas.to/image/poster/the-apothecary-diaries-de03-hq.jpg",
+                "image": "https://kaa.mx/image/poster/the-apothecary-diaries-de03-hq.jpg",
                 "malId": 54492,
                 "aniId": 161645,
                 "page": "KickAssAnime",
                 "title": "The Apothecary Diaries",
                 "type": "anime",
-                "url": "https://kaas.to/the-apothecary-diaries-7593"
+                "url": "https://kaa.mx/the-apothecary-diaries-7593"
             }
         },
         "animepahe": {
@@ -71,7 +47,7 @@
         "Crunchyroll": {
             "0": {
                 "title": "Kusuriya no Hitorigoto",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg",
                 "identifier": 0,
                 "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries",
                 "type": "anime",
@@ -83,11 +59,23 @@
         "Netflix": {
             "1": {
                 "title": "Kusuriya no Hitorigoto",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg",
                 "identifier": 1,
                 "url": "https://www.netflix.com/title/81712068",
                 "type": "anime",
                 "page": "Netflix",
+                "external": true,
+                "aniId": 161645
+            }
+        },
+        "Hulu": {
+            "2": {
+                "title": "Kusuriya no Hitorigoto",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg",
+                "identifier": 2,
+                "url": "https://www.hulu.com/series/the-apothecary-diaries-d7b5390e-b8cb-4cc3-ba7c-7ed570355d7d",
+                "type": "anime",
+                "page": "Hulu",
                 "external": true,
                 "aniId": 161645
             }

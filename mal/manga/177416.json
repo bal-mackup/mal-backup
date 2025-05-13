@@ -6,6 +6,19 @@
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/317168.jpg",
     "Sites": {
+        "Mangadex": {
+            "e6bc43ba-b874-4352-b1c1-3aad5c151e8b": {
+                "id": 312504,
+                "identifier": "e6bc43ba-b874-4352-b1c1-3aad5c151e8b",
+                "image": "https://uploads.mangadex.org/covers/e6bc43ba-b874-4352-b1c1-3aad5c151e8b/1b95dc2b-cd48-4a49-920d-8755887f3e06.jpg",
+                "malId": 177416,
+                "aniId": 187577,
+                "page": "Mangadex",
+                "title": "Kurimiko Ayakashi Yobanashi - Otsukare-san desu, Gokurou-sama",
+                "type": "manga",
+                "url": "https://mangadex.org/title/e6bc43ba-b874-4352-b1c1-3aad5c151e8b"
+            }
+        },
         "Comick": {
             "kI1lXr3b": {
                 "identifier": "kI1lXr3b",
@@ -14,6 +27,15 @@
                 "page": "Comick",
                 "title": "Kurihime Ayakashi Yobanashi",
                 "url": "https://comick.io/comic/kurihime-ayakashi-yobanashi",
+                "aniId": 187577
+            },
+            "rwFtvZEB": {
+                "identifier": "rwFtvZEB",
+                "malId": 177416,
+                "type": "manga",
+                "page": "Comick",
+                "title": "Kurimiko Ayakashi Yobanashi - Otsukare-san desu, Gokurou-sama",
+                "url": "https://comick.io/comic/kurimiko-ayakashi-yobanashi-otsukare-san-desu-gokurou-sama",
                 "aniId": 187577
             }
         }

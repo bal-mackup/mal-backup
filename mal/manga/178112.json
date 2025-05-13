@@ -1,8 +1,8 @@
 {
     "id": 178112,
     "type": "manga",
-    "title": "Relationship Review",
-    "url": "https://myanimelist.net/manga/178112/Relationship_Review",
+    "title": "Ex-Love Review",
+    "url": "https://myanimelist.net/manga/178112/Ex-Love_Review",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/3/318288.jpg",
     "Sites": {
@@ -12,11 +12,24 @@
                 "identifier": "6cd0836b-760c-4888-b36f-9afe30d26dda",
                 "image": "https://uploads.mangadex.org/covers/6cd0836b-760c-4888-b36f-9afe30d26dda/c2b3aa15-bc03-468c-9611-4583f2ca4e89.jpg",
                 "malId": 178112,
-                "aniId": null,
+                "aniId": 189549,
                 "page": "Mangadex",
                 "title": "Love Review",
                 "type": "manga",
                 "url": "https://mangadex.org/title/6cd0836b-760c-4888-b36f-9afe30d26dda"
+            }
+        },
+        "Weebcentral": {
+            "01jtg6bmpkbhdvyx68t0f08kqh": {
+                "id": 275374,
+                "identifier": "01jtg6bmpkbhdvyx68t0f08kqh",
+                "image": "https://temp.compsci88.com/cover/fallback/01JTG6BMPKBHDVYX68T0F08KQH.jpg",
+                "malId": 178112,
+                "aniId": 189549,
+                "page": "Weebcentral",
+                "title": "Ex-Love Review",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JTG6BMPKBHDVYX68T0F08KQH"
             }
         },
         "Comick": {
@@ -26,8 +39,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Ex-Love Review",
-                "url": "https://comick.io/comic/love-review"
+                "url": "https://comick.io/comic/love-review",
+                "aniId": 189549
             }
         }
-    }
+    },
+    "aniId": 189549
 }

@@ -7,30 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1667/135587.jpg",
     "anidbId": 17294,
     "Sites": {
-        "Gogoanime": {
-            "masamune-kun-no-revenge-r": {
-                "id": 43986,
-                "identifier": "masamune-kun-no-revenge-r",
-                "image": "https://gogocdn.net/cover/masamune-kun-no-revenge-r-1688155880.png",
-                "malId": 51498,
-                "aniId": 146953,
-                "page": "Gogoanime",
-                "title": "Masamune-kun no Revenge R",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/masamune-kun-no-revenge-r"
-            },
-            "masamune-kun-no-revenge-r-dub": {
-                "id": 52443,
-                "identifier": "masamune-kun-no-revenge-r-dub",
-                "image": "https://gogocdn.net/cover/masamune-kun-no-revenge-r-dub.png",
-                "malId": 51498,
-                "aniId": 146953,
-                "page": "Gogoanime",
-                "title": "Masamune-kun no Revenge R (Dub)",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/masamune-kun-no-revenge-r-dub"
-            }
-        },
         "Zoro": {
             "18419": {
                 "id": 52343,
@@ -41,7 +17,20 @@
                 "page": "Zoro",
                 "title": "Masamune-kun's Revenge R",
                 "type": "anime",
-                "url": "https://hianime.to/masamunekuns-revenge-r-18419"
+                "url": "https://hianimez.to/masamunekuns-revenge-r-18419"
+            }
+        },
+        "KickAssAnime": {
+            "masamune-kuns-revenge-r-b150": {
+                "id": 75260,
+                "identifier": "masamune-kuns-revenge-r-b150",
+                "image": "https://kaa.mx/image/poster/masamune-kuns-revenge-r-1e48-hq.jpg",
+                "malId": 51498,
+                "aniId": 146953,
+                "page": "KickAssAnime",
+                "title": "Masamune-kun's Revenge R",
+                "type": "anime",
+                "url": "https://kaa.mx/masamune-kuns-revenge-r-b150"
             }
         },
         "animepahe": {
@@ -63,6 +52,18 @@
                 "url": "https://www.crunchyroll.com/series/GYX02P3MR/masamune-kuns-revenge",
                 "type": "anime",
                 "page": "Crunchyroll",
+                "external": true,
+                "aniId": 146953
+            }
+        },
+        "Netflix": {
+            "1": {
+                "title": "Masamune-kun no Revenge R",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146953-80YtZNkpbhIA.jpg",
+                "identifier": 1,
+                "url": "https://www.netflix.com/title/80165290",
+                "type": "anime",
+                "page": "Netflix",
                 "external": true,
                 "aniId": 146953
             }

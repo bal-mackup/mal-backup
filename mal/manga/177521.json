@@ -1,8 +1,8 @@
 {
     "id": 177521,
     "type": "manga",
-    "title": "The Genius Wants to Be Ordinary!",
-    "url": "https://myanimelist.net/manga/177521/The_Genius_Wants_to_Be_Ordinary",
+    "title": "The Genius Wants an Ordinary Life",
+    "url": "https://myanimelist.net/manga/177521/The_Genius_Wants_an_Ordinary_Life",
     "total": null,
     "image": "https://cdn.myanimelist.net/images/manga/2/317150.jpg",
     "Sites": {
@@ -12,7 +12,7 @@
                 "identifier": "b3e43453-5b24-4bb3-97f7-73060a8fd0e8",
                 "image": "https://uploads.mangadex.org/covers/b3e43453-5b24-4bb3-97f7-73060a8fd0e8/3ee1625d-00b0-4b22-84bc-0b59354b6c47.jpg",
                 "malId": 177521,
-                "aniId": null,
+                "aniId": 189679,
                 "page": "Mangadex",
                 "title": "The Genius Wants to be Ordinary!",
                 "type": "manga",
@@ -25,7 +25,7 @@
                 "identifier": "jpo0y",
                 "image": "https://static.mangafire.to/9864/i/5/67/16bb364d6f6e83e847c340fa6fc95034.jpg",
                 "malId": 177521,
-                "aniId": null,
+                "aniId": 189679,
                 "page": "MangaFire",
                 "title": "The Genius Wants to Be Ordinary!",
                 "type": "manga",
@@ -33,16 +33,29 @@
             }
         },
         "MangaNato": {
-            "manga-dr1006826": {
+            "the-genius-wants-to-be-ordinary": {
                 "id": 268205,
-                "identifier": "manga-dr1006826",
-                "image": "https://avt.mkklcdnv6temp.com/fld/9/o/19-1737470368.jpg",
+                "identifier": "the-genius-wants-to-be-ordinary",
+                "image": "https://img-r1.2xstorage.com/thumb/the-genius-wants-to-be-ordinary.webp",
                 "malId": 177521,
-                "aniId": null,
+                "aniId": 189679,
                 "page": "MangaNato",
-                "title": "The Genius Wants To Be Ordinary!",
+                "title": "The Genius Wants to be Ordinary!",
                 "type": "manga",
-                "url": "https://manganato.com/manga-dr1006826"
+                "url": "https://www.manganato.gg/manga/the-genius-wants-to-be-ordinary"
+            }
+        },
+        "Weebcentral": {
+            "01jtnf91wcs1pge47fa3vfq81z": {
+                "id": 276238,
+                "identifier": "01jtnf91wcs1pge47fa3vfq81z",
+                "image": "https://temp.compsci88.com/cover/fallback/01JTNF91WCS1PGE47FA3VFQ81Z.jpg",
+                "malId": 177521,
+                "aniId": 189679,
+                "page": "Weebcentral",
+                "title": "The Genius Wants an Ordinary Life",
+                "type": "manga",
+                "url": "https://weebcentral.com/series/01JTNF91WCS1PGE47FA3VFQ81Z"
             }
         },
         "Comick": {
@@ -51,9 +64,11 @@
                 "malId": 177521,
                 "type": "manga",
                 "page": "Comick",
-                "title": "The Genius Wants to be Ordinary!",
-                "url": "https://comick.io/comic/the-genius-wants-to-be-ordinary"
+                "title": "The Genius Wants an Ordinary Life",
+                "url": "https://comick.io/comic/the-genius-wants-to-be-ordinary",
+                "aniId": 189679
             }
         }
-    }
+    },
+    "aniId": 189679
 }

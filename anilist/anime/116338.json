@@ -7,30 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1527/113656.jpg",
     "anidbId": 15428,
     "Sites": {
-        "Gogoanime": {
-            "mairimashita-iruma-kun-2nd-season": {
-                "id": 36593,
-                "identifier": "mairimashita-iruma-kun-2nd-season",
-                "image": "https://gogocdn.net/cover/mairimashita-iruma-kun-2nd-season.png",
-                "malId": 41402,
-                "aniId": 116338,
-                "page": "Gogoanime",
-                "title": "Mairimashita! Iruma-kun 2nd Season",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/mairimashita-iruma-kun-2nd-season"
-            },
-            "mairimashita-iruma-kun-2nd-season-dub": {
-                "id": 37355,
-                "identifier": "mairimashita-iruma-kun-2nd-season-dub",
-                "image": "https://gogocdn.net/cover/mairimashita-iruma-kun-2nd-season-dub.png",
-                "malId": 41402,
-                "aniId": 116338,
-                "page": "Gogoanime",
-                "title": "Mairimashita! Iruma-kun 2nd Season (Dub)",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/mairimashita-iruma-kun-2nd-season-dub"
-            }
-        },
         "Zoro": {
             "15792": {
                 "id": 49679,
@@ -41,7 +17,20 @@
                 "page": "Zoro",
                 "title": "Welcome to Demon School! Iruma-kun 2nd Season",
                 "type": "anime",
-                "url": "https://hianime.to/welcome-to-demon-school-iruma-kun-2nd-season-15792"
+                "url": "https://hianimez.to/welcome-to-demon-school-iruma-kun-2nd-season-15792"
+            }
+        },
+        "KickAssAnime": {
+            "welcome-to-demon-school-iruma-kun-season-2-926c": {
+                "id": 75417,
+                "identifier": "welcome-to-demon-school-iruma-kun-season-2-926c",
+                "image": "https://kaa.mx/image/poster/welcome-to-demon-school-iruma-kun-season-2-5bea-hq.jpg",
+                "malId": 41402,
+                "aniId": 116338,
+                "page": "KickAssAnime",
+                "title": "Welcome to Demon School! Iruma-kun Season 2",
+                "type": "anime",
+                "url": "https://kaa.mx/welcome-to-demon-school-iruma-kun-season-2-926c"
             }
         },
         "animepahe": {
@@ -63,6 +52,18 @@
                 "url": "https://www.crunchyroll.com/welcome-to-demon-school-iruma-kun",
                 "type": "anime",
                 "page": "Crunchyroll",
+                "external": true,
+                "aniId": 116338
+            }
+        },
+        "Netflix": {
+            "1": {
+                "title": "Mairimashita! Iruma-kun 2",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116338-jbuJnLkPMcm7.jpg",
+                "identifier": 1,
+                "url": "https://www.netflix.com/title/81194192",
+                "type": "anime",
+                "page": "Netflix",
                 "external": true,
                 "aniId": 116338
             }

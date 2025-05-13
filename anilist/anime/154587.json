@@ -7,30 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
     "anidbId": 17617,
     "Sites": {
-        "Gogoanime": {
-            "sousou-no-frieren": {
-                "id": 45262,
-                "identifier": "sousou-no-frieren",
-                "image": "https://gogocdn.net/cover/sousou-no-frieren-1696000134.png",
-                "malId": 52991,
-                "aniId": 154587,
-                "page": "Gogoanime",
-                "title": "Sousou no Frieren",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/sousou-no-frieren"
-            },
-            "sousou-no-frieren-dub": {
-                "id": 53668,
-                "identifier": "sousou-no-frieren-dub",
-                "image": "https://gogocdn.net/cover/sousou-no-frieren-dub.png",
-                "malId": 52991,
-                "aniId": 154587,
-                "page": "Gogoanime",
-                "title": "Sousou no Frieren (Dub)",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/sousou-no-frieren-dub"
-            }
-        },
         "Zoro": {
             "18542": {
                 "id": 52821,
@@ -41,20 +17,20 @@
                 "page": "Zoro",
                 "title": "Frieren: Beyond Journey's End",
                 "type": "anime",
-                "url": "https://hianime.to/frieren-beyond-journeys-end-18542"
+                "url": "https://hianimez.to/frieren-beyond-journeys-end-18542"
             }
         },
         "KickAssAnime": {
             "sousou-no-frieren-2d15": {
                 "id": 73260,
                 "identifier": "sousou-no-frieren-2d15",
-                "image": "https://kaas.to/image/poster/sousou-no-frieren-f6d4-hq.jpg",
+                "image": "https://kaa.mx/image/poster/sousou-no-frieren-f6d4-hq.jpg",
                 "malId": 52991,
                 "aniId": 154587,
                 "page": "KickAssAnime",
                 "title": "Frieren: Beyond Journey's End",
                 "type": "anime",
-                "url": "https://kaas.to/sousou-no-frieren-2d15"
+                "url": "https://kaa.mx/sousou-no-frieren-2d15"
             }
         },
         "animepahe": {
@@ -71,7 +47,7 @@
         "Crunchyroll": {
             "0": {
                 "title": "Sousou no Frieren",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-gHSraOSa0nBG.jpg",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
                 "identifier": 0,
                 "url": "https://www.crunchyroll.com/series/GG5H5XQX4/frieren-beyond-journeys-end",
                 "type": "anime",
@@ -83,11 +59,23 @@
         "Netflix": {
             "1": {
                 "title": "Sousou no Frieren",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-gHSraOSa0nBG.jpg",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
                 "identifier": 1,
                 "url": "https://www.netflix.com/title/81726714",
                 "type": "anime",
                 "page": "Netflix",
+                "external": true,
+                "aniId": 154587
+            }
+        },
+        "Hulu": {
+            "2": {
+                "title": "Sousou no Frieren",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
+                "identifier": 2,
+                "url": "https://www.hulu.com/series/frieren-beyond-journeys-end-1d4725f8-06d1-43fb-a077-72143ac5502f",
+                "type": "anime",
+                "page": "Hulu",
                 "external": true,
                 "aniId": 154587
             }

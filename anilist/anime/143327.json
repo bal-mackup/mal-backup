@@ -7,30 +7,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1249/132348.jpg",
     "anidbId": 17094,
     "Sites": {
-        "Gogoanime": {
-            "mf-ghost": {
-                "id": 45009,
-                "identifier": "mf-ghost",
-                "image": "https://gogocdn.net/cover/mf-ghost-1696010758.png",
-                "malId": 50695,
-                "aniId": 143327,
-                "page": "Gogoanime",
-                "title": "MF Ghost",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/mf-ghost"
-            },
-            "mf-ghost-dub": {
-                "id": 53743,
-                "identifier": "mf-ghost-dub",
-                "image": "https://gogocdn.net/cover/mf-ghost-dub.png",
-                "malId": 50695,
-                "aniId": 143327,
-                "page": "Gogoanime",
-                "title": "MF Ghost (Dub)",
-                "type": "anime",
-                "url": "https://anitaku.bz/category/mf-ghost-dub"
-            }
-        },
         "Zoro": {
             "18596": {
                 "id": 53052,
@@ -41,7 +17,7 @@
                 "page": "Zoro",
                 "title": "MF Ghost",
                 "type": "anime",
-                "url": "https://hianime.to/mf-ghost-18596"
+                "url": "https://hianimez.to/mf-ghost-18596"
             }
         },
         "animepahe": {
@@ -63,6 +39,18 @@
                 "url": "https://www.crunchyroll.com/series/GEXH3W2W7/mf-ghost",
                 "type": "anime",
                 "page": "Crunchyroll",
+                "external": true,
+                "aniId": 143327
+            }
+        },
+        "Netflix": {
+            "1": {
+                "title": "MF Ghost",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143327-6gv1QzquNg2o.png",
+                "identifier": 1,
+                "url": "https://www.netflix.com/title/81715444",
+                "type": "anime",
+                "page": "Netflix",
                 "external": true,
                 "aniId": 143327
             }

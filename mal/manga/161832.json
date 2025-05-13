@@ -6,6 +6,19 @@
     "total": 1,
     "image": "https://cdn.myanimelist.net/images/manga/2/300138.jpg",
     "Sites": {
+        "Mangadex": {
+            "0d4981b4-f96a-414f-a6a8-693acf8434aa": {
+                "id": 168703,
+                "identifier": "0d4981b4-f96a-414f-a6a8-693acf8434aa",
+                "image": "https://uploads.mangadex.org/covers/0d4981b4-f96a-414f-a6a8-693acf8434aa/4de77e64-6f05-45aa-9d48-9c55811be7ff.jpg",
+                "malId": 161832,
+                "aniId": 144539,
+                "page": "Mangadex",
+                "title": "Honto no Watashi",
+                "type": "manga",
+                "url": "https://mangadex.org/title/0d4981b4-f96a-414f-a6a8-693acf8434aa"
+            }
+        },
         "Comick": {
             "I0XspG9_": {
                 "identifier": "I0XspG9_",
@@ -13,8 +26,10 @@
                 "type": "manga",
                 "page": "Comick",
                 "title": "Watashi wa Onnanoko?",
-                "url": "https://comick.io/comic/watashi-wa-onna-no-ko"
+                "url": "https://comick.io/comic/watashi-wa-onna-no-ko",
+                "aniId": 144539
             }
         }
-    }
+    },
+    "aniId": 144539
 }
